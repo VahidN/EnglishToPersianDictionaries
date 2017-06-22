@@ -1,0 +1,192 @@
+﻿{
+  "Group": "W",
+  "Entries": 25,
+  "Words": [
+    {
+      "EnglishWord": "watch expression",
+      "Meanings": [
+        "عبارت تعریف شده توسط کاربر رفتار متغیرهای عبارت را در برابر شما ملاحظه می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "wav",
+      "Meanings": [
+        "Wav e",
+        "صدا"
+      ]
+    },
+    {
+      "EnglishWord": "wct",
+      "Meanings": [
+        "WebClass HTML template"
+      ]
+    },
+    {
+      "EnglishWord": "webbrowser",
+      "Meanings": [
+        "کامپوننتی برای ایجاد یک Web Browser در فرم"
+      ]
+    },
+    {
+      "EnglishWord": "weekday",
+      "Meanings": [
+        "روز هفته",
+        "دستوری که شماره روز در هفته را نشان می‌دهد",
+        "Weekday date"
+      ]
+    },
+    {
+      "EnglishWord": "weekdayname",
+      "Meanings": [
+        "دستوری که روز هفته را مشخص می‌کند",
+        "WeekdayName weekday"
+      ]
+    },
+    {
+      "EnglishWord": "whatsthishelpid",
+      "Meanings": [
+        "یکی از متددهای اشیاء برای نمایش کرسر به صورت Help"
+      ]
+    },
+    {
+      "EnglishWord": "whatsthismode",
+      "Meanings": [
+        "متددی از فرم برای نمایش اشاره گر به صورت Help"
+      ]
+    },
+    {
+      "EnglishWord": "while...wend",
+      "Meanings": [
+        "یکی از ساختارهای تکراری VB که شبیه به Do While/Loop می‌باشد و اگر دستور با موافقت روبرو شد آن را دوباره اجرا می‌کند در غیر این صورت از اجرای آن صرفنظر می‌کند",
+        "While condition",
+        "Wend"
+      ]
+    },
+    {
+      "EnglishWord": "white",
+      "Meanings": [
+        "سفید",
+        "رنگ سفید",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "پهنا",
+        "عرض",
+        "خاصیتی که اندازه عرض شیء را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "willmove",
+      "Meanings": [
+        "رویدادی از ADO که هنگام انجام تغییرات بر روی آن کد را اجرا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "win32api",
+      "Meanings": [
+        "یک فایل txt که دستوراتی برای تعریف API‌ها دارد"
+      ]
+    },
+    {
+      "EnglishWord": "windowfrompoint",
+      "Meanings": [
+        "دستور API برای بدست آوردن پنجره‌های متعدد ویندوز",
+        "Private Declare Function WindowFromPoint Lib \"\"user32\"\" ByVal xPoint As Long"
+      ]
+    },
+    {
+      "EnglishWord": "windows",
+      "Meanings": [
+        "ویندوز",
+        "بهترین سیستم عامل برای کار با VB"
+      ]
+    },
+    {
+      "EnglishWord": "windows api",
+      "Meanings": [
+        "W indows A pplication P rogramming I nterface",
+        "رابط برنامه کاربردی",
+        "توابعی که به منظور استفاده از فایلهای Dll مانند gdi32. dll یا shell32. dll و… ویندوز در ویژوال بیسیک استفاده می‌شود",
+        "برای استفاده از آنها از منوی Add",
+        "Ins گزینه Add",
+        "Ins Manager را انتخاب کنید",
+        "سپس گزینه VB 6 API Viewer را از لیست انتخاب کنید و گزینه‌های Loaded/Unloaded و Load On Startup را تیک زده و OK را بزنید",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "windows clipboard",
+      "Meanings": [
+        "کلیپ برد",
+        "برنامه ای که هر گاه چیزی را کپی کنید ابتدا به درون آن می‌رود و در منوی استارت",
+        "در گزینه Accessories و System tools قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "windows9x",
+      "Meanings": [
+        "ویندوز"
+      ]
+    },
+    {
+      "EnglishWord": "windowstate",
+      "Meanings": [
+        "وضعیت پنجره",
+        "یکی از خصیصه‌های فرم که وضعیت پنجره را در هنگام شروع برنامه معین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "windowstyle",
+      "Meanings": [
+        "حالت پنجره",
+        "یکی از متغیرهای دستور Shell که با آن شکل برنامه را مشخص می‌کنیم یا مقدار آنها را می‌نویسیم",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "winmm",
+      "Meanings": [
+        "فایل dll برای اجرای صدا"
+      ]
+    },
+    {
+      "EnglishWord": "winsock",
+      "Meanings": [
+        "Win dows Sock et",
+        "فایل ocx برای برقراری ارتباط با اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "with",
+      "Meanings": [
+        "با",
+        "دستوری که صورت کلی آن عبارتست از",
+        "With object",
+        "End With",
+        "به جای Object نام شیء را می‌نویسیم",
+        "سپس در خط بعد ابتدا یک نقطه. را تایپ کرده و مشخصه مورد نظر را انتخاب می‌کنیم. مانند",
+        "With MyLabel",
+        "Height =",
+        "Width =",
+        "Caption = \"\"This is MyLabel"
+      ]
+    },
+    {
+      "EnglishWord": "writeprivateprofilestring",
+      "Meanings": [
+        "Private Declare Function WritePrivateProfileString Lib \"\"kernel32\"\" Alias",
+        "WritePrivateProfileStringA\"\" ByVal lpApplicationName As String"
+      ]
+    },
+    {
+      "EnglishWord": "writeproperty",
+      "Meanings": [
+        "یکی از متددهای شیء PropertyBag که اطلاعات را ذخیره می‌کند",
+        "object .WriteProperty DataName"
+      ]
+    }
+  ]
+}

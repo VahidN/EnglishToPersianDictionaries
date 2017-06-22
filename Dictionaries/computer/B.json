@@ -1,0 +1,1143 @@
+﻿{
+  "Group": "B",
+  "Entries": 177,
+  "Words": [
+    {
+      "EnglishWord": "b tree",
+      "Meanings": [
+        "فایلی که رکورد آن به صورت درخت واژگون است"
+      ]
+    },
+    {
+      "EnglishWord": "back end processor",
+      "Meanings": [
+        "پردازنده پشتیبانی"
+      ]
+    },
+    {
+      "EnglishWord": "back panel",
+      "Meanings": [
+        "سطح پشتی",
+        "صفحه پشتی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "backend",
+      "Meanings": [
+        "پشت خط"
+      ]
+    },
+    {
+      "EnglishWord": "background",
+      "Meanings": [
+        "پشت صحنه",
+        "عکس زمینه desk top"
+      ]
+    },
+    {
+      "EnglishWord": "background noise",
+      "Meanings": [
+        "اختلال پشت صحنه ای"
+      ]
+    },
+    {
+      "EnglishWord": "background processing",
+      "Meanings": [
+        "پردازش پس زمینه ای"
+      ]
+    },
+    {
+      "EnglishWord": "background program",
+      "Meanings": [
+        "برنامه پس زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "background study",
+      "Meanings": [
+        "تحلیل یک سیسنم موجود برای شروع تحلیل نیاز ها"
+      ]
+    },
+    {
+      "EnglishWord": "background task",
+      "Meanings": [
+        "کار پشت صحنه",
+        "کار پس زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "backing up",
+      "Meanings": [
+        "تهیه نسخه‌های پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "backspace",
+      "Meanings": [
+        "برگشت به عقب"
+      ]
+    },
+    {
+      "EnglishWord": "backup",
+      "Meanings": [
+        "پشتیبان",
+        "کپی پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "backup and restore",
+      "Meanings": [
+        "تهیه کپی پشتیبان و بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "backup copies",
+      "Meanings": [
+        "نسخه‌های ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "backup copy",
+      "Meanings": [
+        "کپی پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "backup file",
+      "Meanings": [
+        "فایل پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "backup programmer",
+      "Meanings": [
+        "برنامه نویس پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "backward pointer",
+      "Meanings": [
+        "اشاره گر پسرو"
+      ]
+    },
+    {
+      "EnglishWord": "backward stage",
+      "Meanings": [
+        "زمان پسرو"
+      ]
+    },
+    {
+      "EnglishWord": "bad sectore",
+      "Meanings": [
+        "قطاع خراب",
+        "سکتور خراب"
+      ]
+    },
+    {
+      "EnglishWord": "balanced line",
+      "Meanings": [
+        "خط متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "bandwith",
+      "Meanings": [
+        "پهنای باند"
+      ]
+    },
+    {
+      "EnglishWord": "bank switching",
+      "Meanings": [
+        "تکنیکی برای افزایش حافظه کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "نوار",
+        "میله"
+      ]
+    },
+    {
+      "EnglishWord": "bar chart",
+      "Meanings": [
+        "نمودار میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bar code",
+      "Meanings": [
+        "کد میله ای",
+        "بارکد",
+        "رمز میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "base address",
+      "Meanings": [
+        "آدرس مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base class",
+      "Meanings": [
+        "کلاس مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base constructor",
+      "Meanings": [
+        "سازنده کلاس مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base flag",
+      "Meanings": [
+        "پرچم اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "base memory",
+      "Meanings": [
+        "حافظه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "base table",
+      "Meanings": [
+        "جدول مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base type",
+      "Meanings": [
+        "نوع اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "basic",
+      "Meanings": [
+        "زبان برنامه نویسی بیسیک"
+      ]
+    },
+    {
+      "EnglishWord": "batch",
+      "Meanings": [
+        "دسته"
+      ]
+    },
+    {
+      "EnglishWord": "batch file",
+      "Meanings": [
+        "پرونده دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "batch file transmission",
+      "Meanings": [
+        "ارسال دسته ای فایل ها"
+      ]
+    },
+    {
+      "EnglishWord": "batch job",
+      "Meanings": [
+        "کار دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "batch program",
+      "Meanings": [
+        "برنامه دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "batch system",
+      "Meanings": [
+        "سیستم دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "batch total",
+      "Meanings": [
+        "جمع کل دسته"
+      ]
+    },
+    {
+      "EnglishWord": "batch user",
+      "Meanings": [
+        "کاربر با امکان سیستم یکجا",
+        "دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "baud",
+      "Meanings": [
+        "واحد انتقال اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "binary conversion",
+      "Meanings": [
+        "تبدیل دو دو یی"
+      ]
+    },
+    {
+      "EnglishWord": "binary device",
+      "Meanings": [
+        "ابزار دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary digit",
+      "Meanings": [
+        "رقم دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary format",
+      "Meanings": [
+        "قالب دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary member operator",
+      "Meanings": [
+        "اپراتور عضوی در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary model",
+      "Meanings": [
+        "مدل دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary notation",
+      "Meanings": [
+        "شیوه دودویی",
+        "روش دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary number",
+      "Meanings": [
+        "عدد دودویی",
+        "عدد در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary operator",
+      "Meanings": [
+        "عملگر در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary signal",
+      "Meanings": [
+        "سیگنال دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary tree",
+      "Meanings": [
+        "درخت دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary-coded decimal",
+      "Meanings": [
+        "دهدهی کد دهی شده در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "bind",
+      "Meanings": [
+        "وابسته",
+        "مقید ساختن به هم پیوستن",
+        "چسباندن"
+      ]
+    },
+    {
+      "EnglishWord": "bindery",
+      "Meanings": [
+        "پایگاه داده‌های اطلاعات شبکه نت ور"
+      ]
+    },
+    {
+      "EnglishWord": "binding",
+      "Meanings": [
+        "درجه انقیاد"
+      ]
+    },
+    {
+      "EnglishWord": "binding time",
+      "Meanings": [
+        "زمان مقید سازی"
+      ]
+    },
+    {
+      "EnglishWord": "biometric device",
+      "Meanings": [
+        "وسیله ای برای تعیین ویژگی‌های بیولوپی با روش ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "bios",
+      "Meanings": [
+        "واسط سخت افزار و نرم افزار",
+        "مقاله در رابطه با بایوس",
+        "همه چیز در باره بایوس کامپیوترتان",
+        "اغلب برای افراد مشکل است که تفاوت بین سخت افزار و نرم افزار را درک نمایند و این به این دلیل است که این دو موضوع در طراحی",
+        "ساخت وپیاده سازی سیستم‌ها بسیار به هم وابسته اند. برای درک بهتر تفاوت بین آنها لازم است که ابتدا مفهوم BOIS را درک کنید",
+        "BOISتنها کلمه ای است که می‌تواند تمام درایورهایی را که در یک سیستم به عنوان واسط سخت افزار سیستم و سیستم عامل کار می‌کنند",
+        "را شرح دهد. \u000bBOISدر حقیقت نرم افزار را به سخت افزار متصل می‌نماید. قسمتی از بایوس بر روی چیپ ROM مادربرد و قسمتی دیگر بر روی چیپ کارتهای وفق دهنده قرار دارد که FIRE WARE یعنی میانه افزار یا سفت افزار نامیده میشود",
+        "یک PC می‌تواند شامل لایه هایی بعضی نرم افزاری و بعضی سخت افزاری باشد که واسط بین یکدیگرند. \u000bدر اکثر اوقات شما می‌توانید یک کامپیوتر PC را به چهار لا یه تقسیم کنید که هر کدام از لایه‌ها به زیر مجموعه هایی کوچکتر تقسیم کنیم. در شکل",
+        "چهار لایه نمونه از یک PC را مشاهده می‌کنید. هدف از این نوع طراحی این است که سیستم عامل‌ها و نرم افزار‌های مختلف بر روی سخت افزار‌های مختلف اجرا شوند حالت مستقل از سخت افزار. شکل",
+        "نشان می‌دهد که چگونه دو ماشین متفاوت با سخت افزار‌های مختلف که از یک نسخه بایوس استفاده می‌کنند",
+        "می‌توانند انواع نرم افزارها و سیستم عامل‌های مختلف را اجرا کنند. بدین طریق دو ماشین با دو پردازنده مختلف",
+        "رسانه‌های ذخیره سازی متفاوت و دو نوع واحد گرافیکی و غیره…",
+        "یک نرم افزار را اجرا کنند",
+        "در معماری این لایه‌ها برنامه‌های کاربردی با سیستم عامل از طریق API Application Program Interface ارتباط برقرار می‌کنند. \u000bAPI بر اساس سیستم عاملی که مورد استفاده قرار می‌گیرد و مجموعه توابع و دستورالعملهایی که برای یک بسته نرم افزاری ارایه می‌دهد",
+        "متغیر می‌باشد. به طور مثال یک بسته نرم افزاری می‌تواند از سیستم عامل برای ذخیره و بازیابی اطلاعات استفاده کند و خود نرم افزار مجبور نیست که این کارها را انجام دهد. \u000bنرم افزارها طوری طراحی شده اند که ما می‌توانیم آنرا بر روی سیستمهای دیگر نصب و اجرا نماییم و این به دلیل مجزا شدن سخت افزار از نرم افزار است و نرم افزار از سیستم عامل برای دستیابی به سخت اقزار سیستم استفاده می‌کند. سپس سیستم عامل از طریق واسط‌ها به لایه‌های بایوس دستیابی پیدا می‌کند. بایوس شامل نرم افزارهای گرداننده ای است که بین سخت افزار و سیستم عامل ارتباط برقرار می‌کند. به خودی خود سیستم عامل هیچگاه نمی‌تواند مستقیما به سخت افزار دستیابی پیدا کند",
+        "در عوض مجبور است از طریق برنامه‌های گرداننده ای که به این کار تخصیص یافته اند عمل کند. \u000bیکی از وظایف تولید کنندگان قطعات سخت افزاری آن است که گرداننده ای برای قطعات تولیدی خود ارایه دهند",
+        "و چون گرداننده‌ها باید بین سخت افزار و نرم افزار عمل نمایند",
+        "باید گرداننده‌های هر سیستم عامل مجزا تولید شوند. بنابراین کارخانه سازنده قطعات باید گرداننده‌های مختلفی ارایه دهد تا قطعه مورد نظر بتواند بر روی سیستم عاملهای مزسوم کار کند",
+        "چون لایه‌های بایوس همانند یک سیستم عامل به نظر می‌رسند",
+        "مهم نیست که با چه سخت افزاری کار می‌کند",
+        "و ما می‌توانیم سیستم عاملها را بر روی هر کامپیوتری و با هر نوع مشخصات سخت افزاری نصب و استفاده نماییم. \u000bبرای مثال شما می‌توانید Windows 98 را بر روی دو سیستم متفاوت با پردازنده",
+        "هارد دیسک",
+        "و کارت گرافیکی و… که متفاوت از یکدیگرند نصب و اجرا کنید",
+        "اما بر روی هر دو سیستم همان کارایی خود را داراست",
+        "و زیرا که گرداننده‌ها همان عملکرد پایه را انجام می‌دهند و مهم نیست که بر روی چه سخت افزاری کار می‌کنند",
+        "منبع: تاپ سی دی"
+      ]
+    },
+    {
+      "EnglishWord": "bistable",
+      "Meanings": [
+        "دو وضعیتی",
+        "دو حالت"
+      ]
+    },
+    {
+      "EnglishWord": "bistable circuit",
+      "Meanings": [
+        "مدار دو وضعیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit",
+      "Meanings": [
+        "بیت"
+      ]
+    },
+    {
+      "EnglishWord": "bit block",
+      "Meanings": [
+        "بلوک بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit block transfer",
+      "Meanings": [
+        "انتقال بلوک بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit density",
+      "Meanings": [
+        "ترکم بیتی",
+        "چگالی بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit fields",
+      "Meanings": [
+        "فیلد‌های بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit flipping",
+      "Meanings": [
+        "معکوس کردن وضعیت بیت"
+      ]
+    },
+    {
+      "EnglishWord": "bit image",
+      "Meanings": [
+        "تصویر بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit manipulation",
+      "Meanings": [
+        "کار با بیتها",
+        "دستکاری بیتها"
+      ]
+    },
+    {
+      "EnglishWord": "bit map",
+      "Meanings": [
+        "تکنیک تقسیم صفحه نمایش به پیکسل‌ها",
+        "طرح بیتی",
+        "نقشه بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit mapped font",
+      "Meanings": [
+        "فونت بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit mapped graphics",
+      "Meanings": [
+        "گرافیک طرح بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit orient porotocol",
+      "Meanings": [
+        "پروتکل بیتی",
+        "قرارداد بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit parallel",
+      "Meanings": [
+        "ارسال بیتی‌ها بطور موازی"
+      ]
+    },
+    {
+      "EnglishWord": "bit pattern",
+      "Meanings": [
+        "الگوی بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit plane",
+      "Meanings": [
+        "سطح بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit rate",
+      "Meanings": [
+        "میزان ارسال بیتها"
+      ]
+    },
+    {
+      "EnglishWord": "bit serial",
+      "Meanings": [
+        "ارسال بیتها بطور متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "bit stream",
+      "Meanings": [
+        "جریان مسیر بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bit stuffing",
+      "Meanings": [
+        "جاسازی کردن بیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "bit transfer rate",
+      "Meanings": [
+        "میزان انتقال بیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "bitmap",
+      "Meanings": [
+        "نقشه بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bits per inch",
+      "Meanings": [
+        "بیت در اینچ"
+      ]
+    },
+    {
+      "EnglishWord": "bits per second",
+      "Meanings": [
+        "بیت در ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise",
+      "Meanings": [
+        "بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise and",
+      "Meanings": [
+        "عطف بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise and operator",
+      "Meanings": [
+        "عملگر عطف بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise assignment",
+      "Meanings": [
+        "جایگزینی بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise assignment operators",
+      "Meanings": [
+        "عملگر‌های جایگزینی بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise logical",
+      "Meanings": [
+        "منطق بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise operation",
+      "Meanings": [
+        "عملیات بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise operator",
+      "Meanings": [
+        "عملگر بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise or",
+      "Meanings": [
+        "یای بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise or operator",
+      "Meanings": [
+        "عملگر یای بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bitwise shift operations",
+      "Meanings": [
+        "عملیات نقل مکان بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "bleem",
+      "Meanings": [
+        "با استفاده از این برنامه می‌توانید سی دی‌های PLAYSTATION بر روی کامپیوتر راه اندازی کنید"
+      ]
+    },
+    {
+      "EnglishWord": "blind search",
+      "Meanings": [
+        "جستجوی کورکورانه"
+      ]
+    },
+    {
+      "EnglishWord": "blinking",
+      "Meanings": [
+        "چشمک زدن",
+        "چشمک زن"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "block diagram",
+      "Meanings": [
+        "نمودار بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block gap",
+      "Meanings": [
+        "فاصله بلوکی",
+        "شکاف بین بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block header",
+      "Meanings": [
+        "سرآیند بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "block lengh",
+      "Meanings": [
+        "طول بلوک",
+        "اندازه بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "block move",
+      "Meanings": [
+        "انقال بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "block selection",
+      "Meanings": [
+        "بلوک انتخابی"
+      ]
+    },
+    {
+      "EnglishWord": "block structure",
+      "Meanings": [
+        "ساختار بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block transfer",
+      "Meanings": [
+        "انتقال بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "board",
+      "Meanings": [
+        "برد",
+        "صفحه مدار"
+      ]
+    },
+    {
+      "EnglishWord": "boardband network",
+      "Meanings": [
+        "شبکه باند"
+      ]
+    },
+    {
+      "EnglishWord": "body",
+      "Meanings": [
+        "پیکر بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "body face",
+      "Meanings": [
+        "ظاهر متن",
+        "نوع حروف متن"
+      ]
+    },
+    {
+      "EnglishWord": "body of",
+      "Meanings": [
+        "بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "body of a function",
+      "Meanings": [
+        "بدنه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "bold",
+      "Meanings": [
+        "حروف سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "boolean",
+      "Meanings": [
+        "بولی",
+        "مربوط به مقادیر منطقی درست و نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "boolean algebra",
+      "Meanings": [
+        "عبارت بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean expression",
+      "Meanings": [
+        "عبارت بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean function",
+      "Meanings": [
+        "تابع منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean logic",
+      "Meanings": [
+        "منطق بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean negation",
+      "Meanings": [
+        "نقیض منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean operator",
+      "Meanings": [
+        "عملگر بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean search",
+      "Meanings": [
+        "جستجو بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boot",
+      "Meanings": [
+        "راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "boot disk",
+      "Meanings": [
+        "دیسک راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "boot partition",
+      "Meanings": [
+        "قسمتی از هارد که فایلهای راه انداز درون آن قرار می‌گیرند",
+        "بخش راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "boot sector",
+      "Meanings": [
+        "سکتوری در هارد که اطلاعات لازم برای راه اندازی درون آن قرار دارد",
+        "قطاع راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "bootstrap",
+      "Meanings": [
+        "خود رانی",
+        "خود راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "bootstrap loader",
+      "Meanings": [
+        "برنامه ای برای آماده کردن کامپیوتر پس از روشن شدن"
+      ]
+    },
+    {
+      "EnglishWord": "border",
+      "Meanings": [
+        "حاشیه",
+        "کناره",
+        "لبه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom up",
+      "Meanings": [
+        "پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bottom up desing",
+      "Meanings": [
+        "طراحی پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bottom up programming",
+      "Meanings": [
+        "برنامه نویسی پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bottommost elemet",
+      "Meanings": [
+        "پایین‌ترین عنصر"
+      ]
+    },
+    {
+      "EnglishWord": "bound",
+      "Meanings": [
+        "کرانه",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "box data model",
+      "Meanings": [
+        "مدل داده ای جعبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "انشعاب",
+        "شاخه"
+      ]
+    },
+    {
+      "EnglishWord": "branch instruction",
+      "Meanings": [
+        "دستور العمل انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "branch point",
+      "Meanings": [
+        "نقطه انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "branching",
+      "Meanings": [
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "breadth first search",
+      "Meanings": [
+        "جستجوی ردیفی"
+      ]
+    },
+    {
+      "EnglishWord": "breadth first spanning tree",
+      "Meanings": [
+        "درخت پوشای ردیفی"
+      ]
+    },
+    {
+      "EnglishWord": "break",
+      "Meanings": [
+        "قطع",
+        "صفحه یا ستون جدید"
+      ]
+    },
+    {
+      "EnglishWord": "break point",
+      "Meanings": [
+        "نقطه توقف برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "break statement",
+      "Meanings": [
+        "دستور انفصال"
+      ]
+    },
+    {
+      "EnglishWord": "brideware",
+      "Meanings": [
+        "نام کلی برای سخت افزار و نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "broadcast",
+      "Meanings": [
+        "پخش",
+        "انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "browsing",
+      "Meanings": [
+        "جستجو",
+        "از لیست",
+        "گشت و گذار"
+      ]
+    },
+    {
+      "EnglishWord": "brush",
+      "Meanings": [
+        "برس",
+        "قلمو"
+      ]
+    },
+    {
+      "EnglishWord": "bubble chart",
+      "Meanings": [
+        "نمودار حبابی"
+      ]
+    },
+    {
+      "EnglishWord": "bubble memory",
+      "Meanings": [
+        "حافظه حبابی"
+      ]
+    },
+    {
+      "EnglishWord": "bubble sort",
+      "Meanings": [
+        "مرتب سازی حبابی"
+      ]
+    },
+    {
+      "EnglishWord": "buffer",
+      "Meanings": [
+        "بافر حافظه میانجی",
+        "حافظه کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "buffer for data file",
+      "Meanings": [
+        "حافظه واسطه برای پرونده اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "buffer pool",
+      "Meanings": [
+        "مخزن میانگیر",
+        "مخزن بافر"
+      ]
+    },
+    {
+      "EnglishWord": "bug",
+      "Meanings": [
+        "اشکال",
+        "خطا",
+        "گیر"
+      ]
+    },
+    {
+      "EnglishWord": "built in data",
+      "Meanings": [
+        "داده‌های پیش ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "built in function",
+      "Meanings": [
+        "منابع سیستمی"
+      ]
+    },
+    {
+      "EnglishWord": "built in group",
+      "Meanings": [
+        "گروه‌های از پیش تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "bulk copy",
+      "Meanings": [
+        "کپی دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulk storage",
+      "Meanings": [
+        "منبع ذخیره پر گنجایش",
+        "ذخیره سازی توده ای"
+      ]
+    },
+    {
+      "EnglishWord": "bundled",
+      "Meanings": [
+        "نوع سیستم کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "burn",
+      "Meanings": [
+        "نوشتن داده‌ها به بطور الکترونیکی روی تراشه‌های فقط خواندنی"
+      ]
+    },
+    {
+      "EnglishWord": "burst mode",
+      "Meanings": [
+        "حالت پیاپی",
+        "حالت پشت سر هم"
+      ]
+    },
+    {
+      "EnglishWord": "burster",
+      "Meanings": [
+        "وسیله ای برای برش زدن کاغذ رولی گذرگاه",
+        "مسیر عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "bus",
+      "Meanings": [
+        "گذرگاه",
+        "مسیر عمومی",
+        "یک مسیر الکتریکی برای انتقال اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "bus extender",
+      "Meanings": [
+        "توسعه دهنده گذر گاه"
+      ]
+    },
+    {
+      "EnglishWord": "bus network",
+      "Meanings": [
+        "سیستمی که کامپیوترها از طریق یک کانال ارتباط برقرار می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "business information system",
+      "Meanings": [
+        "سیستم اطلاعات تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "business software",
+      "Meanings": [
+        "نرم افزار تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "business system analyst",
+      "Meanings": [
+        "تحلیل گر سیستم‌های اداری"
+      ]
+    },
+    {
+      "EnglishWord": "buzzwords",
+      "Meanings": [
+        "واژه ای مصطلح که توسط یک گروه به کار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "byte",
+      "Meanings": [
+        "بایت",
+        "کاراکتر",
+        "حرف",
+        "بیت"
+      ]
+    },
+    {
+      "EnglishWord": "byte oriented protocol",
+      "Meanings": [
+        "پرتکل بایتی",
+        "قرار داد بایتی"
+      ]
+    },
+    {
+      "EnglishWord": "byte per inch",
+      "Meanings": [
+        "بایت در اینچ"
+      ]
+    }
+  ]
+}

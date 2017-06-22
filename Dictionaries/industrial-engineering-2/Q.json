@@ -1,0 +1,128 @@
+﻿{
+  "Group": "Q",
+  "Entries": 16,
+  "Words": [
+    {
+      "EnglishWord": "quadratic",
+      "Meanings": [
+        "درجه دومی",
+        "نمایی",
+        "کوادراتیک"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic assignment problem  qap",
+      "Meanings": [
+        "مسیله تخصیص نمایی کوادراتیک"
+      ]
+    },
+    {
+      "EnglishWord": "quality",
+      "Meanings": [
+        "کیفیت",
+        "چگونگی",
+        "ترکیبی از تمام خصوصیات فروش",
+        "مهندسی",
+        "تولید و نگهداری محصول یا خدمت که از طریق آن خواسته‌های مشتری برآورده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "quality assurance  qa",
+      "Meanings": [
+        "تضمین کیفیت",
+        "انجام فرآیند بررسی",
+        "تصحیح و کنترل بطوریکه تولید کننده مطمین باشد که تمام مراحل فرآیند تولیدی به درستی انجام شده و خروجی‌ها همانگونه که انتظار داشته است می‌باشند"
+      ]
+    },
+    {
+      "EnglishWord": "quality control  qc",
+      "Meanings": [
+        "کنترل کیفیت",
+        "The process of monitoring specific project results to determine if they comply with relevant quality standards and identifying ways to eliminate causes of unsatisfactory performance",
+        "The organizational unit that is assigned responsibility for quality control"
+      ]
+    },
+    {
+      "EnglishWord": "quality control circles  qcc",
+      "Meanings": [
+        "حلقه‌های‌های کنترل کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality function deployment  qfd",
+      "Meanings": [
+        "گسترش کارکرد کیفیت",
+        "یک روال تصمیم گیری دیداری برای گروه‌های چند مهارته پروژه بطوریکه در مورد خواست خریدار",
+        "درک مشتری و در خصوص مشخصه‌های نهایی محصول از نظر مهندسی",
+        "توافق جمعی حاصل آید",
+        "چنانکه تعهد کل گروه را به دنبال داشته باشد. QFD چشم اندازهای اعضای گروه را که ناشی از رشته‌های تخصصی متفاوت آنهاست ادغام می‌کند و تضمین می‌کند که تلاشهای آنها در مقابل اهداف عملکردی قابل اندازه گیری محصول بطور دایم بر تصمیمات کلیدی حل مشکل متمرکز باشد و این تصمیمات را از طریق باز کردن لایه‌های پی در پی جزییات باز می‌نمایاند"
+      ]
+    },
+    {
+      "EnglishWord": "quality function development  qfd",
+      "Meanings": [
+        "توسعه کارکرد کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality improvement",
+      "Meanings": [
+        "بهبود کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality policy",
+      "Meanings": [
+        "خط مشی کیفیت",
+        "خط مشی کیفیت عبارتست ازمقاصد و جهت گیری کلی یک سازمان نسبت به کیفیت که رسما توسط مدیریت ارشد سازمان اعلام و ابلاغ می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "quartile",
+      "Meanings": [
+        "چهار یک",
+        "چهارک",
+        "چارک",
+        "یک چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-customized",
+      "Meanings": [
+        "شبه سفارشی",
+        "خصوصیات آن با کمی اختلاف نسبت به محصولات سفارشی ‏",
+        "تا حدی توسط مشتری تعیین می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-securities exchange systems",
+      "Meanings": [
+        "سیستم‌های مبادلاتی نسبتا امن"
+      ]
+    },
+    {
+      "EnglishWord": "questionnaire",
+      "Meanings": [
+        "پرسشنامه"
+      ]
+    },
+    {
+      "EnglishWord": "queue time",
+      "Meanings": [
+        "زمان صف",
+        "زمانی که محصول در صف انتظار می‌کشد تا نوبت گام بعدی طراحی",
+        "سفارشگیری یا ساخت فرا برسد",
+        "زمانی که مشتری در صف منتظر می‌ماند تا زمان ارایه خدمت به وی فرا برسد"
+      ]
+    },
+    {
+      "EnglishWord": "quotation",
+      "Meanings": [
+        "پیشنهاد تجاری",
+        "مظنه",
+        "پیشنهاد قیمت",
+        "قیمت پیشنهادی"
+      ]
+    }
+  ]
+}

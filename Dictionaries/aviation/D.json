@@ -1,0 +1,594 @@
+﻿{
+  "Group": "D",
+  "Entries": 91,
+  "Words": [
+    {
+      "EnglishWord": "d   d",
+      "Meanings": [
+        "Distress &amp; Diversion"
+      ]
+    },
+    {
+      "EnglishWord": "da",
+      "Meanings": [
+        "Danger Area"
+      ]
+    },
+    {
+      "EnglishWord": "daais",
+      "Meanings": [
+        "Danger Area Activity Information Service"
+      ]
+    },
+    {
+      "EnglishWord": "dacs",
+      "Meanings": [
+        "Danger Area Crossing Service"
+      ]
+    },
+    {
+      "EnglishWord": "dadc",
+      "Meanings": [
+        "Digital Air Data Computer DADS"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data convention",
+      "Meanings": [
+        "داده‌های قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "data processing",
+      "Meanings": [
+        "پردازش داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "dazzle",
+      "Meanings": [
+        "خیره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "db",
+      "Meanings": [
+        "decibel s"
+      ]
+    },
+    {
+      "EnglishWord": "dc",
+      "Meanings": [
+        "Direct Current"
+      ]
+    },
+    {
+      "EnglishWord": "dct",
+      "Meanings": [
+        "Direct"
+      ]
+    },
+    {
+      "EnglishWord": "debris",
+      "Meanings": [
+        "خرده",
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "deceleration",
+      "Meanings": [
+        "کاهش سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "decision speed",
+      "Meanings": [
+        "سرعت تصمیمی گیری برای پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "decoder",
+      "Meanings": [
+        "کشف کننده کد"
+      ]
+    },
+    {
+      "EnglishWord": "deduct",
+      "Meanings": [
+        "کم کردن",
+        "خارج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deec",
+      "Meanings": [
+        "Digital Electronic Engine Control"
+      ]
+    },
+    {
+      "EnglishWord": "deiresfa",
+      "Meanings": [
+        "شناساگر مرحله خطر"
+      ]
+    },
+    {
+      "EnglishWord": "delay message",
+      "Meanings": [
+        "پیام تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "delibrately",
+      "Meanings": [
+        "تعمدا",
+        "از روی سنجش و اندیشه"
+      ]
+    },
+    {
+      "EnglishWord": "delibration",
+      "Meanings": [
+        "مباحثات شفاهی",
+        "مذاکرات"
+      ]
+    },
+    {
+      "EnglishWord": "deliniation",
+      "Meanings": [
+        "طرح",
+        "تصویر",
+        "شرح"
+      ]
+    },
+    {
+      "EnglishWord": "density",
+      "Meanings": [
+        "چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "density altitude",
+      "Meanings": [
+        "ارتفاع چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "department",
+      "Meanings": [
+        "اداره",
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "departure",
+      "Meanings": [
+        "خروج"
+      ]
+    },
+    {
+      "EnglishWord": "departure message",
+      "Meanings": [
+        "پیام خروج"
+      ]
+    },
+    {
+      "EnglishWord": "depict",
+      "Meanings": [
+        "نمایان ساختن",
+        "شرح",
+        "مجسم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deposit",
+      "Meanings": [
+        "بجا مانده",
+        "ته نشین"
+      ]
+    },
+    {
+      "EnglishWord": "depression",
+      "Meanings": [
+        "تورفتگی",
+        "انحطاط"
+      ]
+    },
+    {
+      "EnglishWord": "derive",
+      "Meanings": [
+        "استنتاج",
+        "تنیجه گیری",
+        "مشتق شدن"
+      ]
+    },
+    {
+      "EnglishWord": "descend",
+      "Meanings": [
+        "کاهش ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "designator",
+      "Meanings": [
+        "شاخص",
+        "نماینده"
+      ]
+    },
+    {
+      "EnglishWord": "desirability",
+      "Meanings": [
+        "درجه تمایل"
+      ]
+    },
+    {
+      "EnglishWord": "desire",
+      "Meanings": [
+        "خواسته",
+        "تمایل"
+      ]
+    },
+    {
+      "EnglishWord": "destined to  #8230",
+      "Meanings": [
+        "بمقصد"
+      ]
+    },
+    {
+      "EnglishWord": "detect",
+      "Meanings": [
+        "تعیین",
+        "کشفت",
+        "نمایان ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "detection",
+      "Meanings": [
+        "کشف",
+        "یافتن",
+        "تعیین"
+      ]
+    },
+    {
+      "EnglishWord": "detresfa",
+      "Meanings": [
+        "Distress Phase Of Search"
+      ]
+    },
+    {
+      "EnglishWord": "df",
+      "Meanings": [
+        "Direction"
+      ]
+    },
+    {
+      "EnglishWord": "dfe",
+      "Meanings": [
+        "فشاری است که با بستن آ‹ روی فراز یاب در هنگام فرود",
+        "ارتفاع از سطح فرودگاه در اختیار هواپیما قرارداده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "dg",
+      "Meanings": [
+        "Directional Gyro"
+      ]
+    },
+    {
+      "EnglishWord": "dgac",
+      "Meanings": [
+        "Direction General a l'Aviation Civile"
+      ]
+    },
+    {
+      "EnglishWord": "dh",
+      "Meanings": [
+        "Decision Height"
+      ]
+    },
+    {
+      "EnglishWord": "dhfs",
+      "Meanings": [
+        "Defence Helicopter Flying School"
+      ]
+    },
+    {
+      "EnglishWord": "di",
+      "Meanings": [
+        "Direction Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "diameter",
+      "Meanings": [
+        "قطر دایره",
+        "ضخامت"
+      ]
+    },
+    {
+      "EnglishWord": "dielectric wana",
+      "Meanings": [
+        "پره عایق الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "differal of discution",
+      "Meanings": [
+        "تعویق مذاکرات بصورت نامحدود یا تا زمان معین"
+      ]
+    },
+    {
+      "EnglishWord": "differentials",
+      "Meanings": [
+        "اختلاف",
+        "تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "diffuse",
+      "Meanings": [
+        "پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "digital",
+      "Meanings": [
+        "رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "بعد"
+      ]
+    },
+    {
+      "EnglishWord": "din s",
+      "Meanings": [
+        "Digital Interial Navigation System"
+      ]
+    },
+    {
+      "EnglishWord": "dinghy",
+      "Meanings": [
+        "قایق"
+      ]
+    },
+    {
+      "EnglishWord": "dipole",
+      "Meanings": [
+        "دو قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "direct altitude identification readout",
+      "Meanings": [
+        "خوانش مستقیم شناساگر ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "direct speech circuits",
+      "Meanings": [
+        "خطوط مکالمه مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "disable",
+      "Meanings": [
+        "از کار افتاده",
+        "فاقد صلاحیت",
+        "ناتوان"
+      ]
+    },
+    {
+      "EnglishWord": "discretion",
+      "Meanings": [
+        "نظر",
+        "صلاحدید",
+        "رای"
+      ]
+    },
+    {
+      "EnglishWord": "displacement",
+      "Meanings": [
+        "جابجایی",
+        "تغییر مکان"
+      ]
+    },
+    {
+      "EnglishWord": "display",
+      "Meanings": [
+        "صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "disposition",
+      "Meanings": [
+        "آرایش",
+        "طرز قرار گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "disruption",
+      "Meanings": [
+        "قطع",
+        "درهم ریختگی"
+      ]
+    },
+    {
+      "EnglishWord": "dissimilar",
+      "Meanings": [
+        "متفاوت",
+        "غیر متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "distinction",
+      "Meanings": [
+        "تفاوت",
+        "تشخیص",
+        "طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "distort",
+      "Meanings": [
+        "کج کردن",
+        "از شکل طبیعی خارج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "distredd message",
+      "Meanings": [
+        "پیام خطر"
+      ]
+    },
+    {
+      "EnglishWord": "distress phase",
+      "Meanings": [
+        "مرحله خطر"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "disturbance",
+      "Meanings": [
+        "اغتشاش",
+        "آشوب"
+      ]
+    },
+    {
+      "EnglishWord": "ditch",
+      "Meanings": [
+        "گودال",
+        "نهر"
+      ]
+    },
+    {
+      "EnglishWord": "ditching",
+      "Meanings": [
+        "فرود اضطراری در آب"
+      ]
+    },
+    {
+      "EnglishWord": "division",
+      "Meanings": [
+        "دوری"
+      ]
+    },
+    {
+      "EnglishWord": "dme",
+      "Meanings": [
+        "Distance",
+        "Measuring Equipment"
+      ]
+    },
+    {
+      "EnglishWord": "docking",
+      "Meanings": [
+        "بار انداز"
+      ]
+    },
+    {
+      "EnglishWord": "document",
+      "Meanings": [
+        "برجسته",
+        "حکمفرما"
+      ]
+    },
+    {
+      "EnglishWord": "doppler",
+      "Meanings": [
+        "Doppler Effect Or Shift"
+      ]
+    },
+    {
+      "EnglishWord": "dot",
+      "Meanings": [
+        "Department of Transport"
+      ]
+    },
+    {
+      "EnglishWord": "double side band",
+      "Meanings": [
+        "نوعی باند ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "dp",
+      "Meanings": [
+        "Dew Point"
+      ]
+    },
+    {
+      "EnglishWord": "dr",
+      "Meanings": [
+        "Dead Deduced Reckoning"
+      ]
+    },
+    {
+      "EnglishWord": "drainage",
+      "Meanings": [
+        "زه کشی",
+        "خشکانیدن"
+      ]
+    },
+    {
+      "EnglishWord": "drift",
+      "Meanings": [
+        "توده شده",
+        "جمع شده",
+        "رانده شده"
+      ]
+    },
+    {
+      "EnglishWord": "driven",
+      "Meanings": [
+        "رانده شده"
+      ]
+    },
+    {
+      "EnglishWord": "drizzle",
+      "Meanings": [
+        "باران نم نم",
+        "باران ریز"
+      ]
+    },
+    {
+      "EnglishWord": "dry snow",
+      "Meanings": [
+        "برف خشک"
+      ]
+    },
+    {
+      "EnglishWord": "duct",
+      "Meanings": [
+        "کانال",
+        "هدایت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dust devil",
+      "Meanings": [
+        "گردباد"
+      ]
+    },
+    {
+      "EnglishWord": "dz",
+      "Meanings": [
+        "Dropping Zone"
+      ]
+    }
+  ]
+}

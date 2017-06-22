@@ -1,0 +1,390 @@
+﻿{
+  "Group": "I",
+  "Entries": 54,
+  "Words": [
+    {
+      "EnglishWord": "identification",
+      "Meanings": [
+        "شناسایی",
+        "تعریف",
+        "تعیین"
+      ]
+    },
+    {
+      "EnglishWord": "identity",
+      "Meanings": [
+        "هویت",
+        "شخصیت",
+        "یکه"
+      ]
+    },
+    {
+      "EnglishWord": "implication",
+      "Meanings": [
+        "استنباط",
+        "معنای ضمنی",
+        "ضمنا"
+      ]
+    },
+    {
+      "EnglishWord": "improvement",
+      "Meanings": [
+        "بهبود",
+        "رشد",
+        "پیشرفت"
+      ]
+    },
+    {
+      "EnglishWord": "in control",
+      "Meanings": [
+        "تحت کنترل",
+        "حالتی از فرآیند که در آن حالت فقط نوسانات عادی و تصادفی در مقابل نوسانات با دلیل در فرآیند مشاهده می‌شود. فرآیندی که تنها با نوسانات تصادفی کار می‌کند از نظر آماری یک فرآیند تحت کنترل است"
+      ]
+    },
+    {
+      "EnglishWord": "include",
+      "Meanings": [
+        "شامل شدن",
+        "در برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "income",
+      "Meanings": [
+        "درآمد",
+        "عایدی",
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "income statement",
+      "Meanings": [
+        "صورتحساب درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "incorporate image",
+      "Meanings": [
+        "وجهه اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "independent and identically distributed  iid",
+      "Meanings": [
+        "دارای توزیع مستقل و یکسان",
+        "گروهی همگن از داده‌ها که از یکدیگر مستقل و در یک توزیع مشترک بطور تصادفی توزیع شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "independent float",
+      "Meanings": [
+        "شناوری مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "industrial",
+      "Meanings": [
+        "صنایع",
+        "صنعتی",
+        "اهل صنعت"
+      ]
+    },
+    {
+      "EnglishWord": "industrial engineering  ie",
+      "Meanings": [
+        "مهندسی صنایع",
+        "شاخه ای از مهندسی که با طراحی",
+        "بهبود و بکارگیری سیستم‌های یکپارچه ای از انسان",
+        "مواد و تجهیزات سر و کار دارد و از علوم و مهارتهای ریاضی",
+        "فیزیک و علوم اجتماعی همراه با اصول طراحی و تجزیه و تحلیل مهندسی برای تعیین",
+        "پیش بینی و ارزیابی نتایج این سیستم‌ها استفاده می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "industrial engineering dictionary",
+      "Meanings": [
+        "فرهنگ لغات مهندسی صنایع",
+        "به دلیل احساس نیاز به وجود یک فرهنگ لغات خاص مرتبط با مهندسی صنایع و مباحث جدیدی که در این رشته مطرح شده اند و نیز عبارات و کلمات و اصطلاحاتی که با پیشرفت این رشته و سایر علوم وارد این رشته شده اند",
+        "برآن شدیم تا این فرهنگ لغات را با مجموعه ای از لغات",
+        "اصطلاحات و عبارات مهندسی صنایع ارایه نماییم. بی شک جمع آوری این تعداد لغت نمی‌تواند بدون عیب و ایراد باشد. لذا از تمامی دوستان عزیز خود خواهشمند است پیشنهادات",
+        "انتقادات",
+        "نظرات و لغات و اصطلاحات پیشنهادی خود را به آدرس زیر ارسال نمایند تا در ویرایش‌های بعدی این فرهنگ لغت مد نظر قرا گیرد. با تشکر",
+        "Sroozbehi@yahoo.com"
+      ]
+    },
+    {
+      "EnglishWord": "inference",
+      "Meanings": [
+        "استنتاج",
+        "استنباط"
+      ]
+    },
+    {
+      "EnglishWord": "inflation",
+      "Meanings": [
+        "تورم"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات",
+        "معنی و مفهوم داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "information and communication technology  ict",
+      "Meanings": [
+        "تکنولوژی ارتباطات و اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information flow diagram  ifd",
+      "Meanings": [
+        "نمودار جریان اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information system",
+      "Meanings": [
+        "سیستم اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information technology  it",
+      "Meanings": [
+        "فن آوری اطلاعات",
+        "فن آوری اطلاعات به خلق",
+        "جمع آوری",
+        "پردازش",
+        "ذخیره سازی و ارایه اطلاعات و نیز فرآیندهایی که اینگونه کارها را ممکن می‌سازند",
+        "اطلاق می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "initiation",
+      "Meanings": [
+        "شروع به کار",
+        "آغاز",
+        "در مدیریت پروژه مرحله تصویب پروژه و یا یک فاز از پروژه می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "innovation",
+      "Meanings": [
+        "نوآوری",
+        "بکارگیری افکار و اندیشه‌های نو حاصل از را نوآوری گویند"
+      ]
+    },
+    {
+      "EnglishWord": "insist",
+      "Meanings": [
+        "تکیه کردن",
+        "اصرار کردن",
+        "پافشاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "inspection",
+      "Meanings": [
+        "بازرسی",
+        "بازدید"
+      ]
+    },
+    {
+      "EnglishWord": "install",
+      "Meanings": [
+        "کار گذاشتن",
+        "نصب کردن",
+        "بر پا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "institute of electrical   electronic engineers  ieee",
+      "Meanings": [
+        "موسسه مهندسین الکتریسیته و الکترونیک"
+      ]
+    },
+    {
+      "EnglishWord": "integer programming",
+      "Meanings": [
+        "برنامه نویسی اعداد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integrated change control",
+      "Meanings": [
+        "کنترل یکپارچه تغییرات",
+        "هماهنگ سازی تغییرات در تمامی پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "interaction",
+      "Meanings": [
+        "تعامل",
+        "اثر متقابل",
+        "تاثیر ترکیبی و یا خروجی مهمی که از دو یا چند متغیر حاصل می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "interchange",
+      "Meanings": [
+        "تبادل کردن",
+        "معاوضه کردن",
+        "مبادله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "interdependencies",
+      "Meanings": [
+        "وابستگی‌های متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "interest",
+      "Meanings": [
+        "بهره",
+        "سود",
+        "منفعت\u000bعلاقه",
+        "میل",
+        "دلبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "interest rate",
+      "Meanings": [
+        "نرخ سود یا بهره i"
+      ]
+    },
+    {
+      "EnglishWord": "interface",
+      "Meanings": [
+        "واصل",
+        "واسطه",
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "interfering float",
+      "Meanings": [
+        "شناوری تداخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal rate of return  irr",
+      "Meanings": [
+        "نرخ بازگشت داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal-external matrix  ie matrix",
+      "Meanings": [
+        "ماتریس IE"
+      ]
+    },
+    {
+      "EnglishWord": "international organization for standardization  iso",
+      "Meanings": [
+        "سازمانی بین المللی که استانداردهای بین المللی برای تولید و کیفیت را توسعه می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "internet protocol  ip",
+      "Meanings": [
+        "استانداردی که ارتباطات کامپیوترها را در شبکه ای که تشکیل اینترنت را می‌دهند منظم می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "درون یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpretation",
+      "Meanings": [
+        "شرح",
+        "بیان",
+        "تفسیر"
+      ]
+    },
+    {
+      "EnglishWord": "inventory",
+      "Meanings": [
+        "موجودی",
+        "دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "inventory control",
+      "Meanings": [
+        "کنترل موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "inventory turnover",
+      "Meanings": [
+        "دوره گردش موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "invitation for bid  ifb",
+      "Meanings": [
+        "دعوت به مناقصه یا مزایده"
+      ]
+    },
+    {
+      "EnglishWord": "invitation to bid  itb",
+      "Meanings": [
+        "دعوت به مناقصه"
+      ]
+    },
+    {
+      "EnglishWord": "invoice",
+      "Meanings": [
+        "صورتحساب",
+        "صورت وضعیت",
+        "فاکتور"
+      ]
+    },
+    {
+      "EnglishWord": "involve",
+      "Meanings": [
+        "گرفتار شدن",
+        "درگیر شدن",
+        "سر و کار داشتن",
+        "سر گرم شدن"
+      ]
+    },
+    {
+      "EnglishWord": "inward",
+      "Meanings": [
+        "تمرکز بر داخل"
+      ]
+    },
+    {
+      "EnglishWord": "iran institute of industrial engineering  iiie",
+      "Meanings": [
+        "انجمن مهندسی صنایع ایران"
+      ]
+    },
+    {
+      "EnglishWord": "isoquant",
+      "Meanings": [
+        "بی تفاوتی"
+      ]
+    },
+    {
+      "EnglishWord": "itemize production plan  ipp",
+      "Meanings": [
+        "برنامه ریزی تولید میان مدت"
+      ]
+    },
+    {
+      "EnglishWord": "iteration",
+      "Meanings": [
+        "تکرار"
+      ]
+    }
+  ]
+}

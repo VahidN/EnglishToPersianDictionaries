@@ -1,0 +1,531 @@
+﻿{
+  "Group": "N",
+  "Entries": 83,
+  "Words": [
+    {
+      "EnglishWord": "nanocomposite",
+      "Meanings": [
+        "نانو کامپوزیت"
+      ]
+    },
+    {
+      "EnglishWord": "nanometer",
+      "Meanings": [
+        "نانومتر"
+      ]
+    },
+    {
+      "EnglishWord": "nanstochiometric",
+      "Meanings": [
+        "نانواستوکیومتری شدن",
+        "یک ترکیب استوکیومتری ترکیبی است که نسبت شمار اتمهای آن به یکدیگر",
+        "عددهای صحیح و کوچک باشد. در ترکیبهای نا استوکیومتری نقصهایی در شبکه بلور وجود دارد",
+        "یا بخشی از اتمهای یک عنصر جای خود را به اتمهای عنصر دیگری می‌دهند"
+      ]
+    },
+    {
+      "EnglishWord": "narrow",
+      "Meanings": [
+        "باریک"
+      ]
+    },
+    {
+      "EnglishWord": "narrow melting range",
+      "Meanings": [
+        "محدوده باریک ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "narrow molecular weight distribution",
+      "Meanings": [
+        "توزیع وزن مولکولی باریک"
+      ]
+    },
+    {
+      "EnglishWord": "nascent",
+      "Meanings": [
+        "نوزاد"
+      ]
+    },
+    {
+      "EnglishWord": "nascent polymer",
+      "Meanings": [
+        "پلیمر نوزاد"
+      ]
+    },
+    {
+      "EnglishWord": "natural biopolymer",
+      "Meanings": [
+        "زیست پلیمر طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural draw ratio",
+      "Meanings": [
+        "نسبت کشش طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural gas",
+      "Meanings": [
+        "گاز طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural rubber",
+      "Meanings": [
+        "لاستیک طبیعی کایوچو"
+      ]
+    },
+    {
+      "EnglishWord": "necking",
+      "Meanings": [
+        "نازک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "needle gripper",
+      "Meanings": [
+        "گیرنده سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "needle punched",
+      "Meanings": [
+        "سوراخ سوزنی",
+        "سوزن زنی"
+      ]
+    },
+    {
+      "EnglishWord": "negative bilinear",
+      "Meanings": [
+        "دوخطی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative forming",
+      "Meanings": [
+        "شکل گیری منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative working polymer",
+      "Meanings": [
+        "پلیمر منفی کار"
+      ]
+    },
+    {
+      "EnglishWord": "nematic liquid crystal",
+      "Meanings": [
+        "بلور مایع نخ مانند"
+      ]
+    },
+    {
+      "EnglishWord": "nematogenic",
+      "Meanings": [
+        "نخ مانندزا"
+      ]
+    },
+    {
+      "EnglishWord": "nervy character",
+      "Meanings": [
+        "خاصیت عصبی"
+      ]
+    },
+    {
+      "EnglishWord": "net like",
+      "Meanings": [
+        "شبه شبکه تور"
+      ]
+    },
+    {
+      "EnglishWord": "net present value",
+      "Meanings": [
+        "ارزش فعلی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "network polymer",
+      "Meanings": [
+        "پلیمر شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "neutron detection",
+      "Meanings": [
+        "آشکارسازی نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "nip gap",
+      "Meanings": [
+        "فاصله دو غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "nip roll",
+      "Meanings": [
+        "غلتک کشنده"
+      ]
+    },
+    {
+      "EnglishWord": "nip roller",
+      "Meanings": [
+        "غلتک گیرانداز در تولید فیلم دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "nipple",
+      "Meanings": [
+        "نوک"
+      ]
+    },
+    {
+      "EnglishWord": "nodal point",
+      "Meanings": [
+        "نقطه شبکه",
+        "نقطه گره ای"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "noise",
+      "Meanings": [
+        "نوفه اغتشاش"
+      ]
+    },
+    {
+      "EnglishWord": "noise factor",
+      "Meanings": [
+        "عامل نوفه",
+        "ضریب نوفه"
+      ]
+    },
+    {
+      "EnglishWord": "nomex",
+      "Meanings": [
+        "نومکس"
+      ]
+    },
+    {
+      "EnglishWord": "nominal stress",
+      "Meanings": [
+        "تنش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "non abrasive",
+      "Meanings": [
+        "ناساینده"
+      ]
+    },
+    {
+      "EnglishWord": "non air inhibited resin",
+      "Meanings": [
+        "رزین بازدارنده نشده در مقابل هوا",
+        "معمولا مشاهده می‌شود که سطح رزینها به جهت حضور هوا و بدون حضور مواد افزودنی خاصی در رزین خشک نمی‏شوند",
+        "معرفهای سطح به جهت حذف هوا از سطح رزین به آن افزوده می‌شوند تا سطح رزین از حالت چسبندگی خارج شود رزینهای بازدارنده نشده در مقابل هوا دارای سطحی چسبنده می‌باشند"
+      ]
+    },
+    {
+      "EnglishWord": "non aqueous dispersion",
+      "Meanings": [
+        "پراکنه غیرآبی",
+        "پراکنش غیرآبی"
+      ]
+    },
+    {
+      "EnglishWord": "non atomized gun",
+      "Meanings": [
+        "تفنگ غیر ذره ای کننده"
+      ]
+    },
+    {
+      "EnglishWord": "non benzenoid",
+      "Meanings": [
+        "نابنزن مانند"
+      ]
+    },
+    {
+      "EnglishWord": "non conjugated",
+      "Meanings": [
+        "غیر مزدوج",
+        "نامزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "non convertible coating material",
+      "Meanings": [
+        "مادة پوششی تبدیل ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non destructive method",
+      "Meanings": [
+        "روش غیر مخرب"
+      ]
+    },
+    {
+      "EnglishWord": "non intermesh",
+      "Meanings": [
+        "جدا ازهم مارپیچ جدا از هم"
+      ]
+    },
+    {
+      "EnglishWord": "non isothermal",
+      "Meanings": [
+        "ناهمدما",
+        "غیر همدما"
+      ]
+    },
+    {
+      "EnglishWord": "non linear regression",
+      "Meanings": [
+        "برگشت غیر خطی",
+        "پسروی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non methane voliatile organic compounds",
+      "Meanings": [
+        "ترکیبات آلی فرار عاری از متان را به اختصار NMVOC گویند"
+      ]
+    },
+    {
+      "EnglishWord": "non reactive",
+      "Meanings": [
+        "واکنش ناپذیر",
+        "غیر فعال"
+      ]
+    },
+    {
+      "EnglishWord": "non return valve",
+      "Meanings": [
+        "شیر یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "non solvent",
+      "Meanings": [
+        "غیر حلال",
+        "ضد حلال"
+      ]
+    },
+    {
+      "EnglishWord": "non stain",
+      "Meanings": [
+        "لک نازا"
+      ]
+    },
+    {
+      "EnglishWord": "non staining",
+      "Meanings": [
+        "لک نازایی"
+      ]
+    },
+    {
+      "EnglishWord": "non supported",
+      "Meanings": [
+        "بدون پایه",
+        "بدون نگهدارنده"
+      ]
+    },
+    {
+      "EnglishWord": "non toxic",
+      "Meanings": [
+        "غیر سمی"
+      ]
+    },
+    {
+      "EnglishWord": "non visible defect",
+      "Meanings": [
+        "نقص نامریی"
+      ]
+    },
+    {
+      "EnglishWord": "non volatile material",
+      "Meanings": [
+        "مواد غیر فرار",
+        "بخشی از مواد که بصورت جامد تحت شرایط کوتاه و معینی پس از تخریب بسپار باقی می‏ماند"
+      ]
+    },
+    {
+      "EnglishWord": "non wettability",
+      "Meanings": [
+        "ترناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "non woven",
+      "Meanings": [
+        "نبافته"
+      ]
+    },
+    {
+      "EnglishWord": "nondrying coating",
+      "Meanings": [
+        "پوشش خشک ناشونده"
+      ]
+    },
+    {
+      "EnglishWord": "nondrying oil",
+      "Meanings": [
+        "روغن خشک ناشونده"
+      ]
+    },
+    {
+      "EnglishWord": "nonstaining antioxidant",
+      "Meanings": [
+        "پاداکسنده غیرلکه‏زا",
+        "آنتی اکسیدانت غیر لکه‏زا"
+      ]
+    },
+    {
+      "EnglishWord": "nonstochiometric",
+      "Meanings": [
+        "نااستوکیومتری شدن",
+        "یک ترکیب استوکیومتری",
+        "ترکیبی است که نسبت شمار اتمهای آن به یکدیگر",
+        "عددهای صحیح و کوچک باشد. در ترکیبهای نااستوکیومتری",
+        "نقصهایی در شبکه بلور وجود دارد",
+        "یا بخشی از اتمهای یک عنصر جای خود را به اتمهای عنصر دیگری می‌دهند"
+      ]
+    },
+    {
+      "EnglishWord": "nonwoven fabric",
+      "Meanings": [
+        "پارچه بافته نشده",
+        "مواد متشکل از الیاف یا نخ بدون اینکه یکدیگر را قطع کنند"
+      ]
+    },
+    {
+      "EnglishWord": "normal stress",
+      "Meanings": [
+        "تنش عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "normalization",
+      "Meanings": [
+        "نرمال کردن",
+        "بهنجار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "nose cone",
+      "Meanings": [
+        "دماغه مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "notch",
+      "Meanings": [
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "notch sensitivity",
+      "Meanings": [
+        "حساسیت به شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "novalack",
+      "Meanings": [
+        "نووالاک",
+        "دسته ای از رزینهای فنولیک را گویند که به صورت پودر و همراه با عامل پخت و یا بدون آن مورد استفاده قرار می‌گیرند دسته دیگر از رزینهای فنولیک به شکل مایع وجود دارد که به رزول معروف است"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle",
+      "Meanings": [
+        "افشانک",
+        "سوزن تزریق",
+        "شیپوره"
+      ]
+    },
+    {
+      "EnglishWord": "npg",
+      "Meanings": [
+        "نیو پنتیل گلیکول"
+      ]
+    },
+    {
+      "EnglishWord": "nuclearity",
+      "Meanings": [
+        "هسته داری"
+      ]
+    },
+    {
+      "EnglishWord": "nucleating",
+      "Meanings": [
+        "هسته زا"
+      ]
+    },
+    {
+      "EnglishWord": "nucleating agent",
+      "Meanings": [
+        "عامل هسته زا"
+      ]
+    },
+    {
+      "EnglishWord": "nucleation",
+      "Meanings": [
+        "هسته زایی"
+      ]
+    },
+    {
+      "EnglishWord": "nucleic magnetic resonance",
+      "Meanings": [
+        "رزونانس مغناطیس هسته"
+      ]
+    },
+    {
+      "EnglishWord": "nucleophilicity",
+      "Meanings": [
+        "هسته دوستی"
+      ]
+    },
+    {
+      "EnglishWord": "number of transfer units",
+      "Meanings": [
+        "تعداد واحدهای انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "numerical analysis",
+      "Meanings": [
+        "تحلیل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical aperture",
+      "Meanings": [
+        "گشودگی عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical method",
+      "Meanings": [
+        "روش عددی"
+      ]
+    },
+    {
+      "EnglishWord": "nuteration activation analysis",
+      "Meanings": [
+        "تحلیل فعال سازی نوترونی"
+      ]
+    },
+    {
+      "EnglishWord": "nutrients",
+      "Meanings": [
+        "مواد مغذی"
+      ]
+    }
+  ]
+}

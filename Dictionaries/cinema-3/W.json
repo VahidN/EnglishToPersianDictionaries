@@ -1,0 +1,645 @@
+﻿{
+  "Group": "W",
+  "Entries": 100,
+  "Words": [
+    {
+      "EnglishWord": "waist shot",
+      "Meanings": [
+        "نمای از کمر به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "walk away",
+      "Meanings": [
+        "دور شدن به آرامی از صحنه و سوژه و محل مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "walk in",
+      "Meanings": [
+        "ورود به آرامی به صحنه و محل مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "walk through",
+      "Meanings": [
+        "اولین اجرا",
+        "تمرین نهایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "walkie talkie",
+      "Meanings": [
+        "بیسیم دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "walking shot",
+      "Meanings": [
+        "نمای قدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "walky looky",
+      "Meanings": [
+        "دوربین سیار بعضی از واحدهای پخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "wall bracket",
+      "Meanings": [
+        "گونیای دیواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "wall plate",
+      "Meanings": [
+        "لوح دیواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "wall screen",
+      "Meanings": [
+        "پرده دیواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "wardrobe",
+      "Meanings": [
+        "جامه دار / لباس خانه /"
+      ]
+    },
+    {
+      "EnglishWord": "wardrobe mistress",
+      "Meanings": [
+        "مسوول لباس‌"
+      ]
+    },
+    {
+      "EnglishWord": "watching eyepiece",
+      "Meanings": [
+        "چشمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "watershed",
+      "Meanings": [
+        "نقطه عطف‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave crest",
+      "Meanings": [
+        "نوک موج‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave effect",
+      "Meanings": [
+        "جلوه موج‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave front",
+      "Meanings": [
+        "پیشانی موج‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave length",
+      "Meanings": [
+        "طول موج‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave shape",
+      "Meanings": [
+        "شکل موج‌"
+      ]
+    },
+    {
+      "EnglishWord": "wave theory of light",
+      "Meanings": [
+        "نظریه موجی بودن نور"
+      ]
+    },
+    {
+      "EnglishWord": "wax pencil",
+      "Meanings": [
+        "مداد شمعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "waxing",
+      "Meanings": [
+        "موم زدن‌",
+        "موم مالی‌",
+        "موم مالی بر لبه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "weave",
+      "Meanings": [
+        "لرزش عرضی‌"
+      ]
+    },
+    {
+      "EnglishWord": "weaving",
+      "Meanings": [
+        "حرکت آرام نامنظم ونامطلوب فیلم به طرفین‌"
+      ]
+    },
+    {
+      "EnglishWord": "webo charger",
+      "Meanings": [
+        "کاست و بو"
+      ]
+    },
+    {
+      "EnglishWord": "wedge",
+      "Meanings": [
+        "گوه‌"
+      ]
+    },
+    {
+      "EnglishWord": "welded splice",
+      "Meanings": [
+        "پیوند حرارتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "well composed frame",
+      "Meanings": [
+        "قاب خوب ترکیب شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "western",
+      "Meanings": [
+        "فیلمهای امریکایی گاوچرانی و یا هفت تیرکشی همراه با اسب‌",
+        "وسترن‌"
+      ]
+    },
+    {
+      "EnglishWord": "western electric",
+      "Meanings": [
+        "وسترن الکتریک مربوط به صدابرداری فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "western film",
+      "Meanings": [
+        "فیلم وسترن‌"
+      ]
+    },
+    {
+      "EnglishWord": "western picture",
+      "Meanings": [
+        "فیلم وسترن‌"
+      ]
+    },
+    {
+      "EnglishWord": "weston",
+      "Meanings": [
+        "نورسنج وستون‌",
+        "واحد عمومی برای سنجش نور"
+      ]
+    },
+    {
+      "EnglishWord": "weston factor",
+      "Meanings": [
+        "عامل وستون‌"
+      ]
+    },
+    {
+      "EnglishWord": "weston speed",
+      "Meanings": [
+        "حساسیت وستون‌"
+      ]
+    },
+    {
+      "EnglishWord": "wet and dry bulb psychrometer",
+      "Meanings": [
+        "رطوبت سنج برای کنترل دما و رطوبت نسبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "wet gate",
+      "Meanings": [
+        "دریچه مرطوب کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "wet printing",
+      "Meanings": [
+        "چاپ مرطوب‌"
+      ]
+    },
+    {
+      "EnglishWord": "wheel stop",
+      "Meanings": [
+        "نورگیر چرخ ارابه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "whip pan",
+      "Meanings": [
+        "پن شلاقی‌",
+        "چرخش افقی شلاقی‌",
+        "چرخش سریع‌",
+        "چرخش سریع دوربین‌",
+        "چرخش شلاقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "white light",
+      "Meanings": [
+        "نور سفید",
+        "چراغ سفید"
+      ]
+    },
+    {
+      "EnglishWord": "white spacing",
+      "Meanings": [
+        "نوار شفاف‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle",
+      "Meanings": [
+        "زاویه باز",
+        "عدسی با زاویه باز",
+        "عدسی زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle attachment",
+      "Meanings": [
+        "الحاقی وایدانگل‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle converter lens",
+      "Meanings": [
+        "عدسی تبدیل کننده به زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle lens",
+      "Meanings": [
+        "عدسی با زاویه باز / عدسی با زاویة پذیرش باز",
+        "عدسی باز گوشه‌",
+        "عدسی زاویه باز",
+        "عدسی واید انگل‌",
+        "لنز با زاویه باز",
+        "لنز با زاویه دید باز",
+        "لنز زاویه باز",
+        "لنز واید انگل‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle long shot",
+      "Meanings": [
+        "نمای دور زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle shot",
+      "Meanings": [
+        "نمای زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide aperture lens",
+      "Meanings": [
+        "عدسی دهانه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide diaphragm",
+      "Meanings": [
+        "روزنه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide film",
+      "Meanings": [
+        "فیلم عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide lens",
+      "Meanings": [
+        "عدسی زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide scope",
+      "Meanings": [
+        "وایدسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen",
+      "Meanings": [
+        "واید اسکرین‌",
+        "پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen aspect ratio",
+      "Meanings": [
+        "نسبت ابعاد پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen cine",
+      "Meanings": [
+        "سینمای پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen cine system",
+      "Meanings": [
+        "سیستم پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen film",
+      "Meanings": [
+        "فیلم پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide screen print",
+      "Meanings": [
+        "نسخه پرده عریض‌"
+      ]
+    },
+    {
+      "EnglishWord": "wide shot",
+      "Meanings": [
+        "تصویر باز",
+        "نمای باز"
+      ]
+    },
+    {
+      "EnglishWord": "wide sound",
+      "Meanings": [
+        "صدای ناهمگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wider angle",
+      "Meanings": [
+        "زاویه بازتر"
+      ]
+    },
+    {
+      "EnglishWord": "width  tape",
+      "Meanings": [
+        "پهنا ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "wild motor",
+      "Meanings": [
+        "خودسر / دارای سرعت متغیر",
+        "موتور با سرعت متغیر",
+        "موتور ناهمگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wild recording",
+      "Meanings": [
+        "ضبط ناهمگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wild shooting",
+      "Meanings": [
+        "فیلمبرداری بدون صدابرداری توام‌",
+        "فیلمبرداری ناهمگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wild take",
+      "Meanings": [
+        "صدابرداری جداگانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wild track",
+      "Meanings": [
+        "صدای آزاد",
+        "نوار ناهمگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "wild wall",
+      "Meanings": [
+        "دیوار متحرک‌"
+      ]
+    },
+    {
+      "EnglishWord": "willing suspension of disbelief",
+      "Meanings": [
+        "تعلیق ارادی ناباوری در بیننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "wind  to",
+      "Meanings": [
+        "جلو راندن‌",
+        "پیچش فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "wind generator  fan",
+      "Meanings": [
+        "بادبزن‌"
+      ]
+    },
+    {
+      "EnglishWord": "wind machine",
+      "Meanings": [
+        "ماشین تولید باد"
+      ]
+    },
+    {
+      "EnglishWord": "wind shield",
+      "Meanings": [
+        "بادگیر"
+      ]
+    },
+    {
+      "EnglishWord": "wind up stand",
+      "Meanings": [
+        "پایه دسته دار"
+      ]
+    },
+    {
+      "EnglishWord": "windgag",
+      "Meanings": [
+        "باد گیر میکروفن‌"
+      ]
+    },
+    {
+      "EnglishWord": "winding",
+      "Meanings": [
+        "فیلم پیچی / نوار پیچی‌"
+      ]
+    },
+    {
+      "EnglishWord": "windolite",
+      "Meanings": [
+        "توری پنجره‌"
+      ]
+    },
+    {
+      "EnglishWord": "window light",
+      "Meanings": [
+        "توریه پنجره‌"
+      ]
+    },
+    {
+      "EnglishWord": "wipe",
+      "Meanings": [
+        "تغییر نماها با استفاده از روش درهم گذاری‌",
+        "دریچه‌",
+        "روبش‌",
+        "شیوه‌ای از تدوین تدریجی‌",
+        "پاک کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "wipe  to",
+      "Meanings": [
+        "محو کردن صحنه و وارد شدن به صحنه دیگر",
+        "پاک شدن و تبدیل تصویر",
+        "پاک کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "wipes",
+      "Meanings": [
+        "آثار بصری مخصوص‌",
+        "رد کننده‌ها",
+        "روبیدنها"
+      ]
+    },
+    {
+      "EnglishWord": "withdrawn consciousness",
+      "Meanings": [
+        "واپس کشیده شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "work light",
+      "Meanings": [
+        "نور کار"
+      ]
+    },
+    {
+      "EnglishWord": "work or cutting print",
+      "Meanings": [
+        "نسخه کار در مرحله تدوین‌"
+      ]
+    },
+    {
+      "EnglishWord": "work print",
+      "Meanings": [
+        "راش‌",
+        "کپی کار",
+        "نسخه کار",
+        "پیش نمونه‌"
+      ]
+    },
+    {
+      "EnglishWord": "working apeture",
+      "Meanings": [
+        "دهانه مفید",
+        "روزنه کار"
+      ]
+    },
+    {
+      "EnglishWord": "working blade",
+      "Meanings": [
+        "تیغه قطع کننده نور"
+      ]
+    },
+    {
+      "EnglishWord": "working distance",
+      "Meanings": [
+        "فاصله عمل‌"
+      ]
+    },
+    {
+      "EnglishWord": "working plan",
+      "Meanings": [
+        "پلان کار"
+      ]
+    },
+    {
+      "EnglishWord": "working title",
+      "Meanings": [
+        "عنوان موقت‌",
+        "عنوان موقت فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "world premiere",
+      "Meanings": [
+        "نخستین نمایش جهانی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "wow  noise",
+      "Meanings": [
+        "واو"
+      ]
+    },
+    {
+      "EnglishWord": "wow and flutter",
+      "Meanings": [
+        "وو و لرزش‌"
+      ]
+    },
+    {
+      "EnglishWord": "wrangler",
+      "Meanings": [
+        "مسوول اسب‌"
+      ]
+    },
+    {
+      "EnglishWord": "wratten",
+      "Meanings": [
+        "فیلترسازی رتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "wratten 85",
+      "Meanings": [
+        "راتن 85 فیلتر نارنجی‌"
+      ]
+    },
+    {
+      "EnglishWord": "wratten filter",
+      "Meanings": [
+        "صافی راتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "wrise strap fixing point",
+      "Meanings": [
+        "محل نصب تسمه مچی‌"
+      ]
+    },
+    {
+      "EnglishWord": "write-on slides",
+      "Meanings": [
+        "طلقهای راهنمای صحنه‌"
+      ]
+    }
+  ]
+}

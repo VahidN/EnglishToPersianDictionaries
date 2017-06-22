@@ -1,0 +1,2164 @@
+﻿{
+  "Group": "P",
+  "Entries": 356,
+  "Words": [
+    {
+      "EnglishWord": "paasche-laspeyres index numbers",
+      "Meanings": [
+        "اعداد شاخص پاشه",
+        "لاس‌پیرس"
+      ]
+    },
+    {
+      "EnglishWord": "packed adjacency matrix",
+      "Meanings": [
+        "ماتریس مجاورت آکنده"
+      ]
+    },
+    {
+      "EnglishWord": "pair",
+      "Meanings": [
+        "جفت"
+      ]
+    },
+    {
+      "EnglishWord": "paired availability design",
+      "Meanings": [
+        "طرح در دسترس‌بودگی جفت شده"
+      ]
+    },
+    {
+      "EnglishWord": "paired comparisons",
+      "Meanings": [
+        "مقایسه‌های جفت شده"
+      ]
+    },
+    {
+      "EnglishWord": "pairs matched  matched pairs",
+      "Meanings": [
+        "جفتهای جور"
+      ]
+    },
+    {
+      "EnglishWord": "pairwise disjoint",
+      "Meanings": [
+        "دوبه‌دو مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "pairwise independence",
+      "Meanings": [
+        "استقلال دوبه‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "pandiagonal square",
+      "Meanings": [
+        "مربع همه‌قطری"
+      ]
+    },
+    {
+      "EnglishWord": "panel data",
+      "Meanings": [
+        "داده‌های پانلی"
+      ]
+    },
+    {
+      "EnglishWord": "papadakis method",
+      "Meanings": [
+        "روش پاپاداکیس"
+      ]
+    },
+    {
+      "EnglishWord": "parallel",
+      "Meanings": [
+        "موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel-coordinate plots",
+      "Meanings": [
+        "نمودارهای موازی مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "parallelism test",
+      "Meanings": [
+        "آزمون توازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel-redundant system",
+      "Meanings": [
+        "دستگاه موازی",
+        "زیادی"
+      ]
+    },
+    {
+      "EnglishWord": "parameter space",
+      "Meanings": [
+        "فضای پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "parameter-free inference",
+      "Meanings": [
+        "استنباط آزادپارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "parametric equation",
+      "Meanings": [
+        "معادله پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "parametric representation",
+      "Meanings": [
+        "نمایش پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "pareto distribution",
+      "Meanings": [
+        "توزیع پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "pareto optimality",
+      "Meanings": [
+        "بهینگی پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "parsimony",
+      "Meanings": [
+        "امساک"
+      ]
+    },
+    {
+      "EnglishWord": "partial association",
+      "Meanings": [
+        "پیوند جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial autocorrelation",
+      "Meanings": [
+        "خودهمبستگی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial confounding",
+      "Meanings": [
+        "اختلاط جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial correlation",
+      "Meanings": [
+        "همبستگی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial exchangeability",
+      "Meanings": [
+        "تبادل‌پذیری جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial least squares",
+      "Meanings": [
+        "کمترین توانهای دوم جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial likelihood",
+      "Meanings": [
+        "درستنمایی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial moment",
+      "Meanings": [
+        "گشتاور جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial order scalogram analysis",
+      "Meanings": [
+        "تحلیل مقیاس‌نگاری ترتیب جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial ordering of distributions",
+      "Meanings": [
+        "مرتب کردن جزیی توزیعها"
+      ]
+    },
+    {
+      "EnglishWord": "partial regression",
+      "Meanings": [
+        "رگرسیون جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partially balanced",
+      "Meanings": [
+        "جزیا متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "partially balanced designs",
+      "Meanings": [
+        "طرحهای جزیا متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "partially balanced incomplete block design",
+      "Meanings": [
+        "طرح بلوکی ناقص جزیا متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "partially sufficient",
+      "Meanings": [
+        "جزیا بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "partially truncated distribution",
+      "Meanings": [
+        "توزیع جزیا بریده"
+      ]
+    },
+    {
+      "EnglishWord": "particle-size statistics",
+      "Meanings": [
+        "آمار ذره‌اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "partition",
+      "Meanings": [
+        "افراز"
+      ]
+    },
+    {
+      "EnglishWord": "partition of chi-square",
+      "Meanings": [
+        "افراز خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "pascal distribution",
+      "Meanings": [
+        "توزیع پاسکال"
+      ]
+    },
+    {
+      "EnglishWord": "pascal's triangle",
+      "Meanings": [
+        "مثلث پاسکال"
+      ]
+    },
+    {
+      "EnglishWord": "pascual's estimator",
+      "Meanings": [
+        "برآوردگر پاسکوآل"
+      ]
+    },
+    {
+      "EnglishWord": "passage times",
+      "Meanings": [
+        "زمانهای گذر"
+      ]
+    },
+    {
+      "EnglishWord": "path analysis",
+      "Meanings": [
+        "تحلیل مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "path diagram",
+      "Meanings": [
+        "نمودار مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "pattern recognition",
+      "Meanings": [
+        "تشخیص الگو"
+      ]
+    },
+    {
+      "EnglishWord": "patterned covariances",
+      "Meanings": [
+        "کوواریانس‌های الگودار"
+      ]
+    },
+    {
+      "EnglishWord": "patterned means",
+      "Meanings": [
+        "میانگینهای الگودار"
+      ]
+    },
+    {
+      "EnglishWord": "paulson approximation",
+      "Meanings": [
+        "تقریب پایولسون"
+      ]
+    },
+    {
+      "EnglishWord": "payoff table",
+      "Meanings": [
+        "جدول پرداختها"
+      ]
+    },
+    {
+      "EnglishWord": "peak of an umbrella  point of an umbrella",
+      "Meanings": [
+        "نوک چتر"
+      ]
+    },
+    {
+      "EnglishWord": "peak test",
+      "Meanings": [
+        "آزمون قله"
+      ]
+    },
+    {
+      "EnglishWord": "peakedness",
+      "Meanings": [
+        "قلگی"
+      ]
+    },
+    {
+      "EnglishWord": "pearl-reed curve",
+      "Meanings": [
+        "خم پرل",
+        "رید"
+      ]
+    },
+    {
+      "EnglishWord": "pearson system of distributions",
+      "Meanings": [
+        "منظومه توزیعهای پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "pearson's chi-square",
+      "Meanings": [
+        "خی‌دوی پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "pearson's coefficient of contingency",
+      "Meanings": [
+        "ضریب پیشایندی پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "pecking order",
+      "Meanings": [
+        "نظام نوک‌زنی"
+      ]
+    },
+    {
+      "EnglishWord": "pedigree",
+      "Meanings": [
+        "دودمان"
+      ]
+    },
+    {
+      "EnglishWord": "peeling data",
+      "Meanings": [
+        "پوست‌کنی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "peirce's criterion",
+      "Meanings": [
+        "ملاک پیرس"
+      ]
+    },
+    {
+      "EnglishWord": "penalized likelihood",
+      "Meanings": [
+        "درستنمایی تاوانیده"
+      ]
+    },
+    {
+      "EnglishWord": "penalized maximum likelihood estimation",
+      "Meanings": [
+        "برآورد ماکسیمم درستنمایی تاوانیده"
+      ]
+    },
+    {
+      "EnglishWord": "penalty",
+      "Meanings": [
+        "تاوان"
+      ]
+    },
+    {
+      "EnglishWord": "penetrance",
+      "Meanings": [
+        "درجه بروز"
+      ]
+    },
+    {
+      "EnglishWord": "pentagamma",
+      "Meanings": [
+        "پنج‌گامایی"
+      ]
+    },
+    {
+      "EnglishWord": "pentamean",
+      "Meanings": [
+        "میانگین‌پنجی"
+      ]
+    },
+    {
+      "EnglishWord": "percentile",
+      "Meanings": [
+        "صدک"
+      ]
+    },
+    {
+      "EnglishWord": "percentile points",
+      "Meanings": [
+        "نقاط صدکی"
+      ]
+    },
+    {
+      "EnglishWord": "percolation theory",
+      "Meanings": [
+        "نظریه پرکولاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "periodic variation",
+      "Meanings": [
+        "تغییرات دوره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "periodicity",
+      "Meanings": [
+        "دوره‌ای بودن"
+      ]
+    },
+    {
+      "EnglishWord": "periodogram analysis",
+      "Meanings": [
+        "تحلیل دوره‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "perks' distribution",
+      "Meanings": [
+        "توزیع پرکس"
+      ]
+    },
+    {
+      "EnglishWord": "permissible estimator",
+      "Meanings": [
+        "برآوردگر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "permissible value",
+      "Meanings": [
+        "مقدار مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "permutation",
+      "Meanings": [
+        "جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "permutation group  substitution group",
+      "Meanings": [
+        "گروه جایگشتها"
+      ]
+    },
+    {
+      "EnglishWord": "permutation matrix",
+      "Meanings": [
+        "ماتریس جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "permutation model",
+      "Meanings": [
+        "مدل جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "permutation test",
+      "Meanings": [
+        "آزمون جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "permutational central limit theorem",
+      "Meanings": [
+        "قضیه حدی مرکزی جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "personalist",
+      "Meanings": [
+        "شخصی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "persson-rootzen estimator",
+      "Meanings": [
+        "برآوردگر پرسون",
+        "روتزن"
+      ]
+    },
+    {
+      "EnglishWord": "perturbation",
+      "Meanings": [
+        "پرشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pesotchinsky design",
+      "Meanings": [
+        "طرح پسوچینسکی"
+      ]
+    },
+    {
+      "EnglishWord": "pharmaceutical",
+      "Meanings": [
+        "داروسازی"
+      ]
+    },
+    {
+      "EnglishWord": "phase",
+      "Meanings": [
+        "فاز"
+      ]
+    },
+    {
+      "EnglishWord": "phase frequency test",
+      "Meanings": [
+        "آزمون فازفراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "phase type distribution",
+      "Meanings": [
+        "توزیع فازنوع"
+      ]
+    },
+    {
+      "EnglishWord": "phi-coefficient",
+      "Meanings": [
+        "فی",
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "phi-deviation",
+      "Meanings": [
+        "فی",
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "phi-max coefficient",
+      "Meanings": [
+        "ضریب فی",
+        "ماکس"
+      ]
+    },
+    {
+      "EnglishWord": "phi-mean",
+      "Meanings": [
+        "فی",
+        "میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "phi-skewness",
+      "Meanings": [
+        "فی",
+        "چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "pictogram",
+      "Meanings": [
+        "تصویرنگار"
+      ]
+    },
+    {
+      "EnglishWord": "pie chart",
+      "Meanings": [
+        "نمودار دایره ای",
+        "نمودار کلوچه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "piecewise continuous function",
+      "Meanings": [
+        "تابع تکه‌ای‌پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "piecewise exponential survival analysis",
+      "Meanings": [
+        "تحلیل بقای تکه‌ای‌نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "pillai's trace",
+      "Meanings": [
+        "اثر پیلای"
+      ]
+    },
+    {
+      "EnglishWord": "pilot survey",
+      "Meanings": [
+        "بررسی مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "pitman closeness",
+      "Meanings": [
+        "نزدیک بودن پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "pitman efficiency",
+      "Meanings": [
+        "کارآیی پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "pitman estimator",
+      "Meanings": [
+        "برآوردگر پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "pitman test",
+      "Meanings": [
+        "آزمون پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "pitman-morgan test",
+      "Meanings": [
+        "آزمون پیتمن",
+        "مورگان"
+      ]
+    },
+    {
+      "EnglishWord": "pivotal",
+      "Meanings": [
+        "محوری"
+      ]
+    },
+    {
+      "EnglishWord": "pivotal inference",
+      "Meanings": [
+        "استنباط محوری"
+      ]
+    },
+    {
+      "EnglishWord": "pivotal quantity",
+      "Meanings": [
+        "کمیت محوری"
+      ]
+    },
+    {
+      "EnglishWord": "pivot-depth",
+      "Meanings": [
+        "محورژرفا"
+      ]
+    },
+    {
+      "EnglishWord": "pivoting",
+      "Meanings": [
+        "محورسازی"
+      ]
+    },
+    {
+      "EnglishWord": "pixel",
+      "Meanings": [
+        "عنصر تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "placement statistic",
+      "Meanings": [
+        "آماره جادهی"
+      ]
+    },
+    {
+      "EnglishWord": "plackett and burman design",
+      "Meanings": [
+        "طرح پلاکت و برمن"
+      ]
+    },
+    {
+      "EnglishWord": "plackett family of distributions",
+      "Meanings": [
+        "خانواده توزیعهای پلاکت"
+      ]
+    },
+    {
+      "EnglishWord": "plackett's identity",
+      "Meanings": [
+        "اتحاد پلاکت"
+      ]
+    },
+    {
+      "EnglishWord": "plaid",
+      "Meanings": [
+        "چهارخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "plaid and half-plaid squares",
+      "Meanings": [
+        "مربعهای چهارخانه‌ای و نیم‌چهارخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "planck distribution",
+      "Meanings": [
+        "توزیع پلانک"
+      ]
+    },
+    {
+      "EnglishWord": "platykurtic curve",
+      "Meanings": [
+        "خم پخ"
+      ]
+    },
+    {
+      "EnglishWord": "plausibility function",
+      "Meanings": [
+        "تابع موجه بودن"
+      ]
+    },
+    {
+      "EnglishWord": "play-the-loser sampling",
+      "Meanings": [
+        "نمونه گیری بازی بازنده‌به‌جا"
+      ]
+    },
+    {
+      "EnglishWord": "play-the-winner rule",
+      "Meanings": [
+        "قاعده بازی برنده‌به‌جا"
+      ]
+    },
+    {
+      "EnglishWord": "plot",
+      "Meanings": [
+        "کرت"
+      ]
+    },
+    {
+      "EnglishWord": "plotdiagram  graph",
+      "Meanings": [
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "plotting",
+      "Meanings": [
+        "رسم نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "plug-in rule",
+      "Meanings": [
+        "قاعده جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "pochhammer's symbol",
+      "Meanings": [
+        "نماد پوش‌هامر"
+      ]
+    },
+    {
+      "EnglishWord": "pocock and simon method",
+      "Meanings": [
+        "روش پوکاک و سایمون"
+      ]
+    },
+    {
+      "EnglishWord": "poincare recurrence theorem",
+      "Meanings": [
+        "قضیه بازگشتی پوانکاره"
+      ]
+    },
+    {
+      "EnglishWord": "point biserial correlation",
+      "Meanings": [
+        "همبستگی دورشته‌ای نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "point estimation",
+      "Meanings": [
+        "برآورد نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "point multiserial correlation",
+      "Meanings": [
+        "همبستگی چندرشته‌ای نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "point process",
+      "Meanings": [
+        "فرایند نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "point stochastic process",
+      "Meanings": [
+        "فرایند تصادفی نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "pointwise convergence",
+      "Meanings": [
+        "همگرایی نقطه‌به‌نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "poisson binomial distribution",
+      "Meanings": [
+        "توزیع پواسون دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "poisson clumping heuristic",
+      "Meanings": [
+        "رهگشایی مربوط به تجمع پواسونی"
+      ]
+    },
+    {
+      "EnglishWord": "poisson distribution",
+      "Meanings": [
+        "توزیع پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson index of dispersion",
+      "Meanings": [
+        "شاخص پواسون برای پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "poisson kernel",
+      "Meanings": [
+        "هسته پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson limit",
+      "Meanings": [
+        "حد پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson matrix",
+      "Meanings": [
+        "ماتریس پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson process",
+      "Meanings": [
+        "فرایند پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson regression",
+      "Meanings": [
+        "رگرسیون پواسونی"
+      ]
+    },
+    {
+      "EnglishWord": "poisson summation formula",
+      "Meanings": [
+        "فرمول مجموع‌یابی پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson transform",
+      "Meanings": [
+        "تبدیل پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson trend test",
+      "Meanings": [
+        "آزمون روند پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson variance test",
+      "Meanings": [
+        "آزمون واریانس پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson-beta distribution",
+      "Meanings": [
+        "توزیع پواسون",
+        "بتا"
+      ]
+    },
+    {
+      "EnglishWord": "poisson-inverse gaussian distribution",
+      "Meanings": [
+        "توزیع پواسون",
+        "گاوسی وارون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson-lognormal distribution",
+      "Meanings": [
+        "توزیع پواسون",
+        "لگ‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "poisson-markov process",
+      "Meanings": [
+        "فرایند پواسون",
+        "مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "poisson's law of large numbers",
+      "Meanings": [
+        "قانون اعداد بزرگ پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "polar",
+      "Meanings": [
+        "قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar chart",
+      "Meanings": [
+        "نمودار قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polarization test",
+      "Meanings": [
+        "آزمون قطبیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "policy space",
+      "Meanings": [
+        "فضای راهکارها"
+      ]
+    },
+    {
+      "EnglishWord": "policy space method",
+      "Meanings": [
+        "روش فضای راهکارها"
+      ]
+    },
+    {
+      "EnglishWord": "poll",
+      "Meanings": [
+        "نظرپرسی"
+      ]
+    },
+    {
+      "EnglishWord": "pollaczek-khinchin formula",
+      "Meanings": [
+        "فرمول پولاچک",
+        "خین‌چین"
+      ]
+    },
+    {
+      "EnglishWord": "polya type 2 frequency distributions",
+      "Meanings": [
+        "توزیعهای فراوانی نوع 2ی پولیا"
+      ]
+    },
+    {
+      "EnglishWord": "polya-aeppli distribution",
+      "Meanings": [
+        "توزیع پولیا",
+        "ایپلی"
+      ]
+    },
+    {
+      "EnglishWord": "polya-eggenberger distribution",
+      "Meanings": [
+        "توزیع پولیا",
+        "اگن‌برگر"
+      ]
+    },
+    {
+      "EnglishWord": "polya-lundberg process",
+      "Meanings": [
+        "فرایند پولیا",
+        "لوندبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "polya's theorem",
+      "Meanings": [
+        "قضیه پولیا"
+      ]
+    },
+    {
+      "EnglishWord": "polychoric",
+      "Meanings": [
+        "چندحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "polychoric correlation",
+      "Meanings": [
+        "همبستگی چندحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "polygamma function",
+      "Meanings": [
+        "تابع چندگاما"
+      ]
+    },
+    {
+      "EnglishWord": "polygon",
+      "Meanings": [
+        "چندبر"
+      ]
+    },
+    {
+      "EnglishWord": "polykays",
+      "Meanings": [
+        "چندکیی"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial distribution  multinomial distribution",
+      "Meanings": [
+        "توزیع چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial equation",
+      "Meanings": [
+        "معادله چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial function",
+      "Meanings": [
+        "تابع چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial model",
+      "Meanings": [
+        "مدل چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial regression",
+      "Meanings": [
+        "رگرسیون چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial splines",
+      "Meanings": [
+        "اسپلاین‌های چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomials of matrix arguments",
+      "Meanings": [
+        "چندجمله‌ایهای ماتریس‌شناسه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polysampling",
+      "Meanings": [
+        "چندنمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "polyserial correlation  multiserial correlation",
+      "Meanings": [
+        "همبستگی چندرشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "polytomous variable",
+      "Meanings": [
+        "متغیر چندحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "polytonicity",
+      "Meanings": [
+        "چندنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "pool",
+      "Meanings": [
+        "ادغام"
+      ]
+    },
+    {
+      "EnglishWord": "pool-adjacent-violators algorithm",
+      "Meanings": [
+        "الگوریتم ادغام مجاورهای متجاوز"
+      ]
+    },
+    {
+      "EnglishWord": "pooled sum of squares",
+      "Meanings": [
+        "مجموع توانهای دوم ادغام شده"
+      ]
+    },
+    {
+      "EnglishWord": "pooled variance",
+      "Meanings": [
+        "واریانس ادغام شده"
+      ]
+    },
+    {
+      "EnglishWord": "pooling data",
+      "Meanings": [
+        "ادغام داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "pooling of error",
+      "Meanings": [
+        "ادغام خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "population",
+      "Meanings": [
+        "جامعه",
+        "جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "population correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "population covariance",
+      "Meanings": [
+        "کوواریانس جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "population distribution",
+      "Meanings": [
+        "توزیع جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "population growth model",
+      "Meanings": [
+        "مدل رشد جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "population mean",
+      "Meanings": [
+        "میانگین جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "population or sample size estimation",
+      "Meanings": [
+        "برآورد اندازه جامعه یا نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "population projection",
+      "Meanings": [
+        "پیش‌بینی جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "population pyramid",
+      "Meanings": [
+        "هرم جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "population sampling",
+      "Meanings": [
+        "نمونه گیری از جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "population variance",
+      "Meanings": [
+        "واریانس جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "portability",
+      "Meanings": [
+        "انتقال‌پذیر",
+        "کاربری"
+      ]
+    },
+    {
+      "EnglishWord": "positive breakdown",
+      "Meanings": [
+        "فروریزش مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive definite matrix",
+      "Meanings": [
+        "ماتریس همیشه‌مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive part of a function",
+      "Meanings": [
+        "جزء مثبت تابع"
+      ]
+    },
+    {
+      "EnglishWord": "positive recurrent point",
+      "Meanings": [
+        "نقطه بازگشتی مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive semidefinite matrix",
+      "Meanings": [
+        "ماتریس نیمه‌مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive skewness",
+      "Meanings": [
+        "چولگی مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "possible event",
+      "Meanings": [
+        "پیشامد ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "posterior",
+      "Meanings": [
+        "پسین"
+      ]
+    },
+    {
+      "EnglishWord": "power curve of a test",
+      "Meanings": [
+        "خم توان آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "power function",
+      "Meanings": [
+        "تابع توان"
+      ]
+    },
+    {
+      "EnglishWord": "power function distribution",
+      "Meanings": [
+        "توزیع تابع توان"
+      ]
+    },
+    {
+      "EnglishWord": "power index of a game",
+      "Meanings": [
+        "شاخص توان بازی"
+      ]
+    },
+    {
+      "EnglishWord": "power of a test",
+      "Meanings": [
+        "توان آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "power product sum",
+      "Meanings": [
+        "مجموع حاصلضرب توانها"
+      ]
+    },
+    {
+      "EnglishWord": "power series distribution",
+      "Meanings": [
+        "توزیع سری توانی"
+      ]
+    },
+    {
+      "EnglishWord": "power transformation",
+      "Meanings": [
+        "تبدیل توانی"
+      ]
+    },
+    {
+      "EnglishWord": "powerful",
+      "Meanings": [
+        "توانا"
+      ]
+    },
+    {
+      "EnglishWord": "poweroids",
+      "Meanings": [
+        "توان‌وارها"
+      ]
+    },
+    {
+      "EnglishWord": "precedence life test",
+      "Meanings": [
+        "آزمون طول عمر تقدمی"
+      ]
+    },
+    {
+      "EnglishWord": "precision matrix",
+      "Meanings": [
+        "ماتریس دقت"
+      ]
+    },
+    {
+      "EnglishWord": "precision measure",
+      "Meanings": [
+        "معیار دقت"
+      ]
+    },
+    {
+      "EnglishWord": "predecessor-successor method",
+      "Meanings": [
+        "روش سلف",
+        "خلف"
+      ]
+    },
+    {
+      "EnglishWord": "predictand",
+      "Meanings": [
+        "مورد پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "prediction",
+      "Meanings": [
+        "پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "prediction specification",
+      "Meanings": [
+        "مشخص‌سازی پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "prediction theory",
+      "Meanings": [
+        "نظریه پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "predictive analysis",
+      "Meanings": [
+        "تحلیل پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictive distribution",
+      "Meanings": [
+        "توزیع پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictive likelihood",
+      "Meanings": [
+        "درستنمایی پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictive sample size",
+      "Meanings": [
+        "اندازه نمونه پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictive validity",
+      "Meanings": [
+        "اعتبار پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictor",
+      "Meanings": [
+        "پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predictor specification",
+      "Meanings": [
+        "مشخص‌سازی پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "predominant item",
+      "Meanings": [
+        "فقره غالب"
+      ]
+    },
+    {
+      "EnglishWord": "preemptive discipline",
+      "Meanings": [
+        "نظم با حق تقدم"
+      ]
+    },
+    {
+      "EnglishWord": "preference",
+      "Meanings": [
+        "برتری"
+      ]
+    },
+    {
+      "EnglishWord": "preference function",
+      "Meanings": [
+        "تابع برتری"
+      ]
+    },
+    {
+      "EnglishWord": "preference mapping",
+      "Meanings": [
+        "نگاشت برتری"
+      ]
+    },
+    {
+      "EnglishWord": "preimage",
+      "Meanings": [
+        "پیشنگاره"
+      ]
+    },
+    {
+      "EnglishWord": "prequential analysis",
+      "Meanings": [
+        "تحلیل پیشگوی دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "presupposition",
+      "Meanings": [
+        "پیش‌انگاره"
+      ]
+    },
+    {
+      "EnglishWord": "prevailing",
+      "Meanings": [
+        "شایع"
+      ]
+    },
+    {
+      "EnglishWord": "prevailing item",
+      "Meanings": [
+        "فقره شایع"
+      ]
+    },
+    {
+      "EnglishWord": "prevision",
+      "Meanings": [
+        "پیش‌اندیشی"
+      ]
+    },
+    {
+      "EnglishWord": "price index",
+      "Meanings": [
+        "شاخص بها"
+      ]
+    },
+    {
+      "EnglishWord": "priestley's test for harmonic components",
+      "Meanings": [
+        "آزمون پریستلی برای مولفه‌های همساز"
+      ]
+    },
+    {
+      "EnglishWord": "primary component",
+      "Meanings": [
+        "مولفه ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "primary sampling unit",
+      "Meanings": [
+        "واحد نمونه‌گیری اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primitive root",
+      "Meanings": [
+        "ریشه اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "principal component regression",
+      "Meanings": [
+        "رگرسیون مولفه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal components analysis",
+      "Meanings": [
+        "تحلیل مولفه‌های اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal components regression analysis",
+      "Meanings": [
+        "تحلیل رگرسیونی مولفه‌های اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal diagonal",
+      "Meanings": [
+        "قطر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal moment",
+      "Meanings": [
+        "گشتاور اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal points",
+      "Meanings": [
+        "نقاط اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principle",
+      "Meanings": [
+        "اصل"
+      ]
+    },
+    {
+      "EnglishWord": "principle of inclusion and exclusion",
+      "Meanings": [
+        "اصل شمول و عدم شمول"
+      ]
+    },
+    {
+      "EnglishWord": "principle of optimality",
+      "Meanings": [
+        "اصل بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "principle of parsimony",
+      "Meanings": [
+        "اصل امساک"
+      ]
+    },
+    {
+      "EnglishWord": "principle of precise measurement",
+      "Meanings": [
+        "اصل اندازه‌گیری دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "principle of strict coherence",
+      "Meanings": [
+        "اصل انسجام اکید"
+      ]
+    },
+    {
+      "EnglishWord": "principles of professional statistical practice",
+      "Meanings": [
+        "اصول کار حرفه‌ای آماری"
+      ]
+    },
+    {
+      "EnglishWord": "prior density",
+      "Meanings": [
+        "چگالی پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "priority queue",
+      "Meanings": [
+        "صف اولویت‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic expert system",
+      "Meanings": [
+        "سیستم خبره احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic grammar",
+      "Meanings": [
+        "دستور زبان احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic method",
+      "Meanings": [
+        "روش احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic modeling",
+      "Meanings": [
+        "مدل‌بندی احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic number theory",
+      "Meanings": [
+        "نظریه اعداد احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic reliability",
+      "Meanings": [
+        "قابلیت اعتماد احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic voting model",
+      "Meanings": [
+        "مدل رای‌دهی احتمالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "probability",
+      "Meanings": [
+        "احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability density",
+      "Meanings": [
+        "چگالی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability distribution",
+      "Meanings": [
+        "توزیع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability forecasting",
+      "Meanings": [
+        "پیش‌بینی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability frequency function",
+      "Meanings": [
+        "تابع فراوانی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability generating function",
+      "Meanings": [
+        "تابع مولد احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability integral transformation",
+      "Meanings": [
+        "تبدیل انتگرالی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability mass",
+      "Meanings": [
+        "جرم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability minimum replacement sampling design",
+      "Meanings": [
+        "طرح نمونه‌گیری با مینیمم احتمال جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "probability moment",
+      "Meanings": [
+        "گشتاور احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability of class membership",
+      "Meanings": [
+        "احتمال عضویت رده"
+      ]
+    },
+    {
+      "EnglishWord": "probability plotting",
+      "Meanings": [
+        "رسم نمودار احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability proportional to size sampling",
+      "Meanings": [
+        "نمونه گیری با احتمال متناسب با اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "probability ratio test",
+      "Meanings": [
+        "آزمون نسبت احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability sampling",
+      "Meanings": [
+        "نمونه گیری احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probability space",
+      "Meanings": [
+        "فضای احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability theory",
+      "Meanings": [
+        "نظریه احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability-weighted moment",
+      "Meanings": [
+        "گشتاور احتمال‌موزون"
+      ]
+    },
+    {
+      "EnglishWord": "probable error",
+      "Meanings": [
+        "خطای محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "probable item",
+      "Meanings": [
+        "فقره محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "probit",
+      "Meanings": [
+        "پروبیت"
+      ]
+    },
+    {
+      "EnglishWord": "problem of points",
+      "Meanings": [
+        "مسیله امتیازها"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "شیوه"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process capability index",
+      "Meanings": [
+        "شاخص قابلیت فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process level",
+      "Meanings": [
+        "سطح فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "procrustes transformation",
+      "Meanings": [
+        "تبدیل پروکراستیز"
+      ]
+    },
+    {
+      "EnglishWord": "producer price index",
+      "Meanings": [
+        "شاخص بهای تولیدکننده"
+      ]
+    },
+    {
+      "EnglishWord": "producer's risk",
+      "Meanings": [
+        "مخاطره تولیدکننده"
+      ]
+    },
+    {
+      "EnglishWord": "product moment",
+      "Meanings": [
+        "گشتاور حاصلضربی"
+      ]
+    },
+    {
+      "EnglishWord": "product ratio",
+      "Meanings": [
+        "نسبت حاصلضربی"
+      ]
+    },
+    {
+      "EnglishWord": "production scheduling",
+      "Meanings": [
+        "زمان بندی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "productivity measurement",
+      "Meanings": [
+        "اندازه‌گیری بهره‌وری"
+      ]
+    },
+    {
+      "EnglishWord": "product-limit estimator",
+      "Meanings": [
+        "برآوردگر حد حاصلضربی"
+      ]
+    },
+    {
+      "EnglishWord": "professional statistician",
+      "Meanings": [
+        "آمارشناس حرفه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "profile analysis",
+      "Meanings": [
+        "تحلیل نیمرخ"
+      ]
+    },
+    {
+      "EnglishWord": "profile likelihood",
+      "Meanings": [
+        "درستنمایی نیمرخی"
+      ]
+    },
+    {
+      "EnglishWord": "programming",
+      "Meanings": [
+        "برنامه‌ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "programming model",
+      "Meanings": [
+        "مدل برنامه‌ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "progression",
+      "Meanings": [
+        "تصاعد"
+      ]
+    },
+    {
+      "EnglishWord": "progressive",
+      "Meanings": [
+        "فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "progressive censoring schemes",
+      "Meanings": [
+        "طرحهای سانسور فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "projection plot",
+      "Meanings": [
+        "نمودار تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "projection pursuit",
+      "Meanings": [
+        "جستجوی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "proof",
+      "Meanings": [
+        "برهان"
+      ]
+    },
+    {
+      "EnglishWord": "proof theory",
+      "Meanings": [
+        "نظریه برهانها"
+      ]
+    },
+    {
+      "EnglishWord": "propagation of error",
+      "Meanings": [
+        "تسری خطا"
+      ]
+    },
+    {
+      "EnglishWord": "propensity score",
+      "Meanings": [
+        "نمره تمایل"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "خاصیت"
+      ]
+    },
+    {
+      "EnglishWord": "property  specificity",
+      "Meanings": [
+        "ویژگی"
+      ]
+    },
+    {
+      "EnglishWord": "proportion",
+      "Meanings": [
+        "نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "proportion estimation",
+      "Meanings": [
+        "برآورد نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "proportional allocation",
+      "Meanings": [
+        "تخصیص متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "proportional hazards model",
+      "Meanings": [
+        "مدل خطرهای متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "proportional part",
+      "Meanings": [
+        "جزء متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "proportional reduction in error",
+      "Meanings": [
+        "کاهش متناسب خطا"
+      ]
+    },
+    {
+      "EnglishWord": "proportional sampling",
+      "Meanings": [
+        "نمونه گیری متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "prospective study",
+      "Meanings": [
+        "مطالعه آینده‌نگر"
+      ]
+    },
+    {
+      "EnglishWord": "protfolio",
+      "Meanings": [
+        "داشتمان"
+      ]
+    },
+    {
+      "EnglishWord": "proximity data",
+      "Meanings": [
+        "داده‌‌های قرابت"
+      ]
+    },
+    {
+      "EnglishWord": "proximity graph",
+      "Meanings": [
+        "نمودار قرابت"
+      ]
+    },
+    {
+      "EnglishWord": "proxy variable",
+      "Meanings": [
+        "متغیر جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-bayesian",
+      "Meanings": [
+        "بیزی‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-bayesian inference",
+      "Meanings": [
+        "استنباط بیزی‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-likelihood",
+      "Meanings": [
+        "درستنمایی‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-median",
+      "Meanings": [
+        "میانه‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudorandom",
+      "Meanings": [
+        "تصادفی‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-random number generator",
+      "Meanings": [
+        "مولد عدد تصادفی‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-variance",
+      "Meanings": [
+        "واریانس‌نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-variate",
+      "Meanings": [
+        "متغیرنما"
+      ]
+    },
+    {
+      "EnglishWord": "psi-function",
+      "Meanings": [
+        "تابع پسی"
+      ]
+    },
+    {
+      "EnglishWord": "psychological decision making",
+      "Meanings": [
+        "تصمیم‌سازی روان‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "psychological scaling",
+      "Meanings": [
+        "مقیاس‌بندی روان‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "psychological testing theory",
+      "Meanings": [
+        "نظریه آزمون‌سازی روان‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "public opinion poll",
+      "Meanings": [
+        "نظرپرسی عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing power parity",
+      "Meanings": [
+        "برابری قدرت خرید"
+      ]
+    },
+    {
+      "EnglishWord": "pure and combined symmetry test",
+      "Meanings": [
+        "آزمون تقارن خالص و ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "pure birth process",
+      "Meanings": [
+        "فرایند زاد خالص"
+      ]
+    },
+    {
+      "EnglishWord": "pure death process",
+      "Meanings": [
+        "فرایند مرگ خالص"
+      ]
+    },
+    {
+      "EnglishWord": "purposive sampling",
+      "Meanings": [
+        "نمونه گیری قصدی"
+      ]
+    },
+    {
+      "EnglishWord": "purposive selection",
+      "Meanings": [
+        "گزینش قصدی"
+      ]
+    },
+    {
+      "EnglishWord": "pyramid scheme model",
+      "Meanings": [
+        "مدل طرح هرمی"
+      ]
+    }
+  ]
+}

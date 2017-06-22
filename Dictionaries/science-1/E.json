@@ -1,0 +1,2882 @@
+﻿{
+  "Group": "E",
+  "Entries": 411,
+  "Words": [
+    {
+      "EnglishWord": "e",
+      "Meanings": [
+        "عدد نپر",
+        "عدد اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "earth line",
+      "Meanings": [
+        "خط زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earthy body",
+      "Meanings": [
+        "شکل زمینی",
+        "شکل ارضی مکعب"
+      ]
+    },
+    {
+      "EnglishWord": "eberhardt statistic",
+      "Meanings": [
+        "آماره ابرهارت"
+      ]
+    },
+    {
+      "EnglishWord": "ecart",
+      "Meanings": [
+        "تابع شبه متریک توپولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "eccentric",
+      "Meanings": [
+        "خارج از مرکز",
+        "مختلف المرکز",
+        "برون مرکزی",
+        "خروج از مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "eccentric angle",
+      "Meanings": [
+        "زاویه خروج از مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "eccentricity",
+      "Meanings": [
+        "خروج از مرکز منحنی مخروطی",
+        "برون مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "echelon",
+      "Meanings": [
+        "پله مانند"
+      ]
+    },
+    {
+      "EnglishWord": "echelon form",
+      "Meanings": [
+        "صورت پلکانی",
+        "پلکانی شکل",
+        "شکل اشلی"
+      ]
+    },
+    {
+      "EnglishWord": "ecological statistics",
+      "Meanings": [
+        "آمار بوم‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "econometrics",
+      "Meanings": [
+        "اقتصاد سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "economic index number",
+      "Meanings": [
+        "عدد شاخص اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economics",
+      "Meanings": [
+        "علم اقتصاد"
+      ]
+    },
+    {
+      "EnglishWord": "edf statistics",
+      "Meanings": [
+        "آماره‌های EDF"
+      ]
+    },
+    {
+      "EnglishWord": "edge",
+      "Meanings": [
+        "یال",
+        "کنار",
+        "لبه",
+        "نبش"
+      ]
+    },
+    {
+      "EnglishWord": "edge angle",
+      "Meanings": [
+        "زاویه یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge bisector",
+      "Meanings": [
+        "نیمساز ضلع"
+      ]
+    },
+    {
+      "EnglishWord": "edge colouring",
+      "Meanings": [
+        "رنگ آمیزی یال لبه"
+      ]
+    },
+    {
+      "EnglishWord": "edge contraction",
+      "Meanings": [
+        "انقباض یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge covering",
+      "Meanings": [
+        "پوشش یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge cut",
+      "Meanings": [
+        "برش یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge of regression",
+      "Meanings": [
+        "یال بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "edgeworth expansion",
+      "Meanings": [
+        "بسط ادج‌ورث"
+      ]
+    },
+    {
+      "EnglishWord": "edgeworth-marshall-bowley index",
+      "Meanings": [
+        "شاخص ادج‌ورث",
+        "مارشال",
+        "باولی"
+      ]
+    },
+    {
+      "EnglishWord": "editing statistical data",
+      "Meanings": [
+        "ویراستن داده‌های آماری"
+      ]
+    },
+    {
+      "EnglishWord": "edmund gunter",
+      "Meanings": [
+        "ادموند گانتر",
+        "ریاضیدان انگلیسی",
+        ". اولین مقیاس مورد استفاده در لگاریتم را بنا گذاشت و زنجیر مساحی را مطرح کرد"
+      ]
+    },
+    {
+      "EnglishWord": "education",
+      "Meanings": [
+        "استنباط بی واسطه منطق"
+      ]
+    },
+    {
+      "EnglishWord": "educational statistics",
+      "Meanings": [
+        "آمار در علوم تربیتی"
+      ]
+    },
+    {
+      "EnglishWord": "educe",
+      "Meanings": [
+        "استنتاج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "edwards' test for seasonality",
+      "Meanings": [
+        "آزمون ادواردز برای فصلی‌بودن"
+      ]
+    },
+    {
+      "EnglishWord": "effect",
+      "Meanings": [
+        "اثر",
+        "اثر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "effect of coding",
+      "Meanings": [
+        "اثر به کد درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "effect variable",
+      "Meanings": [
+        "متغیر اثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective",
+      "Meanings": [
+        "موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective address",
+      "Meanings": [
+        "نشانی موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective degrees of freedom",
+      "Meanings": [
+        "درجه‌های آزادی موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective error",
+      "Meanings": [
+        "خطای موثر"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "کارایی",
+        "راندمان",
+        "بازده",
+        "رسایی",
+        "تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency of cluster sampling",
+      "Meanings": [
+        "کارایی نمونه گیری خوشه ای",
+        "سودبخشی نمونه گیری خوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency of ratio estimate",
+      "Meanings": [
+        "سودبخشی برآورد نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency of stratification",
+      "Meanings": [
+        "سودبخشی طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency of two stage sampling",
+      "Meanings": [
+        "سودبخشی نمونه گیری دو مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "efficient estimator",
+      "Meanings": [
+        "برآوردکننده کارا",
+        "برآوردگر کارا"
+      ]
+    },
+    {
+      "EnglishWord": "efficient score",
+      "Meanings": [
+        "نمره کارا"
+      ]
+    },
+    {
+      "EnglishWord": "effifent",
+      "Meanings": [
+        "کارا",
+        "کارآمد",
+        "موثر",
+        "رسا"
+      ]
+    },
+    {
+      "EnglishWord": "effifent estimate",
+      "Meanings": [
+        "برآورد سودبخش"
+      ]
+    },
+    {
+      "EnglishWord": "efron-morris estimator",
+      "Meanings": [
+        "برآوردگر افران",
+        "موریس"
+      ]
+    },
+    {
+      "EnglishWord": "eigen",
+      "Meanings": [
+        "خاص",
+        "مشخص",
+        "مشخصه",
+        "ویژه",
+        "نهان",
+        "راکد",
+        "آیگن"
+      ]
+    },
+    {
+      "EnglishWord": "eigen space",
+      "Meanings": [
+        "فضای ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigen value",
+      "Meanings": [
+        "مقدار ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigen vector",
+      "Meanings": [
+        "بردار ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigencolum",
+      "Meanings": [
+        "ستون آیگن"
+      ]
+    },
+    {
+      "EnglishWord": "eigenfrequency",
+      "Meanings": [
+        "بسامد ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigenfunction",
+      "Meanings": [
+        "تابع خاص",
+        "تابع ویژه",
+        "تابع مشخصه",
+        "تابع آیگن",
+        "ویژه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "eigenmatrix",
+      "Meanings": [
+        "ویژه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "eigenspace",
+      "Meanings": [
+        "فضای ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigenstate",
+      "Meanings": [
+        "حالت ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvalue",
+      "Meanings": [
+        "مقدار ویژه",
+        "مقدار خاص",
+        "مقدار مشخصه",
+        "ریشه راکد",
+        "مقدار راکد",
+        "مقدار آیگن",
+        "نهان ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvalue of a matrix",
+      "Meanings": [
+        "مقدار خاص ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvector",
+      "Meanings": [
+        "بردار خاص",
+        "بردار ویژه",
+        "بردار راکد",
+        "بردار آیگن"
+      ]
+    },
+    {
+      "EnglishWord": "eight leaved rose curve",
+      "Meanings": [
+        "خم گلبرگ هشت برگی"
+      ]
+    },
+    {
+      "EnglishWord": "eightieth",
+      "Meanings": [
+        "یک هشتادم",
+        "هشتادمین"
+      ]
+    },
+    {
+      "EnglishWord": "eisenstien",
+      "Meanings": [
+        "ایزنشتاین",
+        "تا 1852 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "eisenstien's critcrion",
+      "Meanings": [
+        "آزمون ایزنشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "elasticity",
+      "Meanings": [
+        "ویژگی ارتجاعی",
+        "قابلیت ارتجاع",
+        "کشسانی",
+        "جهمندی"
+      ]
+    },
+    {
+      "EnglishWord": "elasticity of total cost",
+      "Meanings": [
+        "انعطاف پذیری هزینه کل"
+      ]
+    },
+    {
+      "EnglishWord": "electronic computer",
+      "Meanings": [
+        "حسابگر الکترونیکی",
+        "رایانه الکترونیکی",
+        "آمارنده الکترونی"
+      ]
+    },
+    {
+      "EnglishWord": "element",
+      "Meanings": [
+        "عنصر",
+        "عضو مجموعه",
+        "دستگاه",
+        "جزء",
+        "المان",
+        "ضریب",
+        "مبنا",
+        "سازن",
+        "نخستینه",
+        "مولد در مخروط یا استوانه",
+        "اصل در حساب",
+        "هندسه و…"
+      ]
+    },
+    {
+      "EnglishWord": "element function",
+      "Meanings": [
+        "تابع عضو"
+      ]
+    },
+    {
+      "EnglishWord": "elemental",
+      "Meanings": [
+        "اصلی",
+        "بسیط"
+      ]
+    },
+    {
+      "EnglishWord": "elementary",
+      "Meanings": [
+        "مقدماتی",
+        "ابتدایی",
+        "عادی",
+        "بسیط",
+        "جزیی",
+        "سازنی",
+        "ساده"
+      ]
+    },
+    {
+      "EnglishWord": "elementary algebra",
+      "Meanings": [
+        "جبر مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary analysis",
+      "Meanings": [
+        "آنالیز مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary continuity principle",
+      "Meanings": [
+        "اصل پیوستگی مقدماتی",
+        "بنداشت پیوستگی مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary divisor",
+      "Meanings": [
+        "شمارنده مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary divisors",
+      "Meanings": [
+        "مقسوم علیه‌های مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary event",
+      "Meanings": [
+        "حادثه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "elementary functions",
+      "Meanings": [
+        "توابع مقدماتی",
+        "توابع ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary matrix",
+      "Meanings": [
+        "ماتریس مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary neighborhood",
+      "Meanings": [
+        "همسایگی مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary operation",
+      "Meanings": [
+        "عمل مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary row operations",
+      "Meanings": [
+        "عملیات سطری مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary set",
+      "Meanings": [
+        "مجموعه مقدماتی",
+        "مجموعه ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary symmetric function",
+      "Meanings": [
+        "تابع متقارن ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary transformation",
+      "Meanings": [
+        "تبدیل مقدماتی",
+        "ترادیسی مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elementary units",
+      "Meanings": [
+        "واحدهای مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "elements",
+      "Meanings": [
+        "اصول کتاب اقلیدس"
+      ]
+    },
+    {
+      "EnglishWord": "elements of a matrix",
+      "Meanings": [
+        "اجزای ماتریس",
+        "عناصر ماتریس",
+        "درایه‌های ماتریس",
+        "بنپاره‌های ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "elements of a set",
+      "Meanings": [
+        "عناصر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "elements of a triangle",
+      "Meanings": [
+        "اجزای اصلی مثلث",
+        "اجزای مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "elements of geometry",
+      "Meanings": [
+        "مبانی هندسه"
+      ]
+    },
+    {
+      "EnglishWord": "elevation",
+      "Meanings": [
+        "ارتفاع نجوم",
+        "فراز"
+      ]
+    },
+    {
+      "EnglishWord": "eliminant",
+      "Meanings": [
+        "برآیند"
+      ]
+    },
+    {
+      "EnglishWord": "eliminate",
+      "Meanings": [
+        "حذف کردن",
+        "رفع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "eliminate indeterminacy",
+      "Meanings": [
+        "رفع ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "elimination",
+      "Meanings": [
+        "حذف",
+        "رفع"
+      ]
+    },
+    {
+      "EnglishWord": "elimination method",
+      "Meanings": [
+        "روش حذف"
+      ]
+    },
+    {
+      "EnglishWord": "elimination process",
+      "Meanings": [
+        "فرایند حذف"
+      ]
+    },
+    {
+      "EnglishWord": "ellipse",
+      "Meanings": [
+        "بیضی",
+        "قطع ناقص",
+        "تخم مرغی شکل",
+        "هاگ",
+        "هاگی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipses of canonical form",
+      "Meanings": [
+        "بیضی‌های شکل قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipses of dispersion",
+      "Meanings": [
+        "بیضی‌های پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipses of equal densities",
+      "Meanings": [
+        "بیضی‌های چگالی یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "ellipses of equal probabilities",
+      "Meanings": [
+        "بیضی‌های احتمال‌های یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "ellipses of spread",
+      "Meanings": [
+        "بیضی‌های پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoid",
+      "Meanings": [
+        "بیضی وار",
+        "بیضی گون",
+        "بیضوی",
+        "بیضی دوران یافته",
+        "هاگی سان"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoid of concentration",
+      "Meanings": [
+        "بیضی وار تمرکز",
+        "الیپسویید تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoidal",
+      "Meanings": [
+        "شبه بیضی",
+        "بیضی واری"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoidal coordinates",
+      "Meanings": [
+        "مختصات بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic",
+      "Meanings": [
+        "بیضوی",
+        "بیضی گون",
+        "مربوط به بیضی",
+        "بیضی وار",
+        "بیضی شکل",
+        "مرغانه ای",
+        "تخم مرغی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic cone",
+      "Meanings": [
+        "مخروط بیضوی",
+        "مخروط بیضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic cylindrical coordinates",
+      "Meanings": [
+        "مختصات استوانه ای بیضی وار"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic cylindrical equation",
+      "Meanings": [
+        "معادله بیضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic function",
+      "Meanings": [
+        "تابع بیضوی",
+        "تابع بیضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic geometry",
+      "Meanings": [
+        "هندسه بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic integral",
+      "Meanings": [
+        "انتگرال بیضوی",
+        "انتگرال الیپتیک"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic paraboloid",
+      "Meanings": [
+        "سهمی وار بیضی گون",
+        "سهمی گون بیضوی",
+        "پارابولویید بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptical",
+      "Meanings": [
+        "مربوط به بیضی",
+        "بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptical cylinder",
+      "Meanings": [
+        "استوانه بیضوی",
+        "استوانه بیضی وار",
+        "استوانه بیضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "elliptical wedge",
+      "Meanings": [
+        "قاچ بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptically",
+      "Meanings": [
+        "به شکل بیضی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipticity",
+      "Meanings": [
+        "پختی"
+      ]
+    },
+    {
+      "EnglishWord": "elongation",
+      "Meanings": [
+        "ازدیاد طول",
+        "تطویل",
+        "کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "embed",
+      "Meanings": [
+        "جا دادن",
+        "جا سازی کردن",
+        "نشاندن",
+        "محاط کردن",
+        "خواباندن",
+        "فرو کردن",
+        "غوطه ور کردن"
+      ]
+    },
+    {
+      "EnglishWord": "embeddable",
+      "Meanings": [
+        "جاپذیر",
+        "قابل نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "embedded",
+      "Meanings": [
+        "محاط شده",
+        "نشانده",
+        "محاطی",
+        "فرو رفته",
+        "نشانیده"
+      ]
+    },
+    {
+      "EnglishWord": "embedding",
+      "Meanings": [
+        "جا دهی",
+        "نشاننده",
+        "نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "emphasize",
+      "Meanings": [
+        "تاکید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "empirical",
+      "Meanings": [
+        "تجربی",
+        "آزمایشی",
+        "آروینی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical curve",
+      "Meanings": [
+        "منحنی تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical formula",
+      "Meanings": [
+        "فرمول تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical probability",
+      "Meanings": [
+        "احتمال تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empty",
+      "Meanings": [
+        "تهی",
+        "خالی"
+      ]
+    },
+    {
+      "EnglishWord": "empty class",
+      "Meanings": [
+        "مجموعه خالی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "empty graph",
+      "Meanings": [
+        "گراف تهی"
+      ]
+    },
+    {
+      "EnglishWord": "empty product",
+      "Meanings": [
+        "حاصلضرب تهی"
+      ]
+    },
+    {
+      "EnglishWord": "empty relation",
+      "Meanings": [
+        "رابطه تهی"
+      ]
+    },
+    {
+      "EnglishWord": "empty set",
+      "Meanings": [
+        "مجموعه تهی",
+        "مجموعه خالی"
+      ]
+    },
+    {
+      "EnglishWord": "empty space",
+      "Meanings": [
+        "فضای تهی",
+        "فضای پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "empty subset",
+      "Meanings": [
+        "زیرمجموعه تهی"
+      ]
+    },
+    {
+      "EnglishWord": "empty word",
+      "Meanings": [
+        "واژه تهی",
+        "کلمه تهی",
+        "کلمه خالی"
+      ]
+    },
+    {
+      "EnglishWord": "encircle",
+      "Meanings": [
+        "احاطه کردن",
+        "دور گرفتن",
+        "دور زدن"
+      ]
+    },
+    {
+      "EnglishWord": "enclose",
+      "Meanings": [
+        "در جوف قرار گرفتن",
+        "داخل پرانتز گذاشتن",
+        "محصور کردن"
+      ]
+    },
+    {
+      "EnglishWord": "enclosed",
+      "Meanings": [
+        "محاط",
+        "محصور شده"
+      ]
+    },
+    {
+      "EnglishWord": "enclosing",
+      "Meanings": [
+        "محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "encoder",
+      "Meanings": [
+        "انکدر"
+      ]
+    },
+    {
+      "EnglishWord": "encompass",
+      "Meanings": [
+        "شامل بودن",
+        "احاطه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "encycloid",
+      "Meanings": [
+        "برون چرخزاد",
+        "بر چرخنما"
+      ]
+    },
+    {
+      "EnglishWord": "end",
+      "Meanings": [
+        "انتها",
+        "نقطه منتها",
+        "دوسر",
+        "پایان",
+        "فرجام",
+        "آخر"
+      ]
+    },
+    {
+      "EnglishWord": "ended",
+      "Meanings": [
+        "مختوم",
+        "پایان یافته"
+      ]
+    },
+    {
+      "EnglishWord": "ended line",
+      "Meanings": [
+        "خط مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "endless",
+      "Meanings": [
+        "بی پایان",
+        "بی انتها",
+        "بدون نهایت",
+        "لایتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "endlessness",
+      "Meanings": [
+        "بی نهایت",
+        "بی انتهایی",
+        "بی پایانی"
+      ]
+    },
+    {
+      "EnglishWord": "endlong",
+      "Meanings": [
+        "از طول",
+        "از درازا"
+      ]
+    },
+    {
+      "EnglishWord": "endomorphic",
+      "Meanings": [
+        "درون ریخت",
+        "درون شکل",
+        "درون دیسه"
+      ]
+    },
+    {
+      "EnglishWord": "endomorphism",
+      "Meanings": [
+        "درون ریختی",
+        "درونسانی",
+        "درون شکلی",
+        "درسانی",
+        "درون دیسگی"
+      ]
+    },
+    {
+      "EnglishWord": "endomorphism of fields",
+      "Meanings": [
+        "درونسانی هییت",
+        "آندومرفیسم هییت"
+      ]
+    },
+    {
+      "EnglishWord": "endomorphism of groups",
+      "Meanings": [
+        "درونسانی گروه",
+        "آندومرفسیم گروه"
+      ]
+    },
+    {
+      "EnglishWord": "endomorphism of rings",
+      "Meanings": [
+        "درونسانی حلقه",
+        "آندومرفیسم حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "endpoint",
+      "Meanings": [
+        "نقطه پایان",
+        "نقطه مرزی",
+        "سر پاره خط",
+        "نقطه انتهایی",
+        "انتها بازه",
+        "انتها",
+        "نقطه منتها",
+        "دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "engmmajidee",
+      "Meanings": [
+        "Engineer Mohammad Reza Majidee",
+        "http://engmmajidee.blogfa.com"
+      ]
+    },
+    {
+      "EnglishWord": "enlarge",
+      "Meanings": [
+        "بزرگ کردن",
+        "گسترش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "ennead",
+      "Meanings": [
+        "یک دسته نه تایی"
+      ]
+    },
+    {
+      "EnglishWord": "enpicycle",
+      "Meanings": [
+        "دایره ای که بر داخل یا خارج دایره دیگر حرکت می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "entire",
+      "Meanings": [
+        "تام",
+        "تمام",
+        "صحیح کثیرالجمله ها",
+        "توابع",
+        "کامل",
+        "یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "entire function",
+      "Meanings": [
+        "تابع صحیح",
+        "تابع کامل",
+        "تابع تمام",
+        "تابع تام"
+      ]
+    },
+    {
+      "EnglishWord": "entire ring",
+      "Meanings": [
+        "حلقه کامل"
+      ]
+    },
+    {
+      "EnglishWord": "entire series",
+      "Meanings": [
+        "سری تام",
+        "سری درست",
+        "سری کامل"
+      ]
+    },
+    {
+      "EnglishWord": "entity",
+      "Meanings": [
+        "نهاد",
+        "جوهر",
+        "ذات",
+        "بودمان",
+        "هستی",
+        "وجود",
+        "گوهر"
+      ]
+    },
+    {
+      "EnglishWord": "entourage",
+      "Meanings": [
+        "پیرامون"
+      ]
+    },
+    {
+      "EnglishWord": "entries of a matrix",
+      "Meanings": [
+        "جمله‌های یک ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "entropy",
+      "Meanings": [
+        "افت انتروپی",
+        "فیزیک واحد اندازه گیری ترمودینامیک",
+        "درگاشت\u000b معماری: کهولت\u000b شیمی: انتروپی\u000b روانشناسی: افت\u000b زیست شناسی: بی نظمی\u000b نجوم: کهولت\u000b علوم هوایی: انتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "entry",
+      "Meanings": [
+        "درایه",
+        "فقره",
+        "جزء",
+        "عنصر",
+        "شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "enumerable",
+      "Meanings": [
+        "شمارا",
+        "منتها شمارا",
+        "شمارش پذیر",
+        "شماره پذیر",
+        "قابل شمارش",
+        "شمردنی",
+        "شمار پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "enumerable sets",
+      "Meanings": [
+        "مجموعه‌های شمارش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "enumerably infinite",
+      "Meanings": [
+        "شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "enumerate",
+      "Meanings": [
+        "شمردن",
+        "یک یک نام بردن",
+        "شماره گذاری کردن",
+        "برشمردن"
+      ]
+    },
+    {
+      "EnglishWord": "enumeration",
+      "Meanings": [
+        "شماره گذاری",
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "enumerative",
+      "Meanings": [
+        "شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "envelope",
+      "Meanings": [
+        "پوشیدن",
+        "پیچیدن",
+        "لفاف",
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "enveloping",
+      "Meanings": [
+        "پوشاننده"
+      ]
+    },
+    {
+      "EnglishWord": "epimorphic",
+      "Meanings": [
+        "برو ریخت",
+        "بر دیسه"
+      ]
+    },
+    {
+      "EnglishWord": "epimorphic image",
+      "Meanings": [
+        "تصویر هم ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "epimorphism",
+      "Meanings": [
+        "برو ریختی",
+        "بر دیسگی"
+      ]
+    },
+    {
+      "EnglishWord": "epitrochoid",
+      "Meanings": [
+        "برون چرخه زاد",
+        "اپی ترو کویید"
+      ]
+    },
+    {
+      "EnglishWord": "epitrochoidal",
+      "Meanings": [
+        "برون چرخه زادی"
+      ]
+    },
+    {
+      "EnglishWord": "epitrochoidal curve",
+      "Meanings": [
+        "منحنی اپی ترو کوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "equal",
+      "Meanings": [
+        "برابر",
+        "مساوی",
+        "متساوی",
+        "معادل",
+        "هم ارز",
+        "مساوی بودن",
+        "همچند"
+      ]
+    },
+    {
+      "EnglishWord": "equal events",
+      "Meanings": [
+        "حوادث یکسان",
+        "حوادث همانند",
+        "حوادث مساوی",
+        "حوادث برابر"
+      ]
+    },
+    {
+      "EnglishWord": "equal matrices",
+      "Meanings": [
+        "ماتریس‌های مساوی",
+        "ماتریس‌های برابر"
+      ]
+    },
+    {
+      "EnglishWord": "equal probabilities",
+      "Meanings": [
+        "احتمال‌های مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "equal sets",
+      "Meanings": [
+        "مجموعه‌های برابر",
+        "مجموعه‌های مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "equal vectors",
+      "Meanings": [
+        "بردارهای مساوی",
+        "بردارهای همسنگ"
+      ]
+    },
+    {
+      "EnglishWord": "equality",
+      "Meanings": [
+        "تساوی",
+        "برابری"
+      ]
+    },
+    {
+      "EnglishWord": "equality of functions",
+      "Meanings": [
+        "تساوی توابع"
+      ]
+    },
+    {
+      "EnglishWord": "equality of ordered pairs",
+      "Meanings": [
+        "تساوی زوج‌های مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "equality of sets",
+      "Meanings": [
+        "تساوی مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "equality of triangles",
+      "Meanings": [
+        "تساوی مثلث ها"
+      ]
+    },
+    {
+      "EnglishWord": "equality of two mappings",
+      "Meanings": [
+        "تساوی دو مطابقه",
+        "تساوی دو نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "equality of two matrices",
+      "Meanings": [
+        "تساوی دو ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "equality of two numbers",
+      "Meanings": [
+        "تساوی دو عدد"
+      ]
+    },
+    {
+      "EnglishWord": "equality of two polynomials",
+      "Meanings": [
+        "تساوی دو چندجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "equality of two vectors",
+      "Meanings": [
+        "همسنگی بردارها"
+      ]
+    },
+    {
+      "EnglishWord": "equalization",
+      "Meanings": [
+        "برابر سازی",
+        "تسویه"
+      ]
+    },
+    {
+      "EnglishWord": "equalize",
+      "Meanings": [
+        "یکسان کردن",
+        "تساوی",
+        "مساوی شدن",
+        "مساوی کردن",
+        "برابر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "equalizer",
+      "Meanings": [
+        "برابر ساز"
+      ]
+    },
+    {
+      "EnglishWord": "equally likely",
+      "Meanings": [
+        "همشانس آمار",
+        "همسان",
+        "همتراز",
+        "احتمال یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "equally likely events",
+      "Meanings": [
+        "پیشامدهای دارای احتمال مساوی",
+        "پیشامدهای متساوی الاحتمال",
+        "پیشامدهای دارای احتمال همتراز"
+      ]
+    },
+    {
+      "EnglishWord": "equally power events",
+      "Meanings": [
+        "حوادث همتراز"
+      ]
+    },
+    {
+      "EnglishWord": "equally powered events",
+      "Meanings": [
+        "حوادث همتراز"
+      ]
+    },
+    {
+      "EnglishWord": "equally probable",
+      "Meanings": [
+        "همتراز"
+      ]
+    },
+    {
+      "EnglishWord": "equally probable events",
+      "Meanings": [
+        "حوادث هم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "equally probable outcomes",
+      "Meanings": [
+        "نتایج هم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "equate",
+      "Meanings": [
+        "مساوی فرض کردن",
+        "مساوی کردن",
+        "برابر کردن",
+        "معادل کردن",
+        "معادل قرار دادن",
+        "برابر گرفتن",
+        "مساوی قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "equation",
+      "Meanings": [
+        "معادله",
+        "رابطه",
+        "همسنگی",
+        "همچندی"
+      ]
+    },
+    {
+      "EnglishWord": "equation of a homomorphism",
+      "Meanings": [
+        "معادلات یک همسانی"
+      ]
+    },
+    {
+      "EnglishWord": "equation of a hyperplane",
+      "Meanings": [
+        "معادله یک فراصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "equation of a linear variety",
+      "Meanings": [
+        "معادلات یک واریته خطی"
+      ]
+    },
+    {
+      "EnglishWord": "equation of motion",
+      "Meanings": [
+        "معادله حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "equation of transformation",
+      "Meanings": [
+        "معادله‌های تبدیل",
+        "معادله‌های ترادیسی"
+      ]
+    },
+    {
+      "EnglishWord": "equational",
+      "Meanings": [
+        "معادله ای",
+        "تعدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "equator",
+      "Meanings": [
+        "خط استوا",
+        "دایره استوا",
+        "نیمان",
+        "استوا",
+        "دایره عظیمه در بیضوی دوار"
+      ]
+    },
+    {
+      "EnglishWord": "equator of movement",
+      "Meanings": [
+        "منطقه حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "equiangle",
+      "Meanings": [
+        "زاویه مساوی خم"
+      ]
+    },
+    {
+      "EnglishWord": "equiangle spiral",
+      "Meanings": [
+        "مارپیچ زاویه برابر خم"
+      ]
+    },
+    {
+      "EnglishWord": "equiangular",
+      "Meanings": [
+        "هم زاویه",
+        "متساوی الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "equiangular hyperbola",
+      "Meanings": [
+        "هذلولی متساوی الساقین"
+      ]
+    },
+    {
+      "EnglishWord": "equiangular polygon",
+      "Meanings": [
+        "چندضلعی متساوی الزوایا"
+      ]
+    },
+    {
+      "EnglishWord": "equiangular spiral",
+      "Meanings": [
+        "مارپیچ متساوی الزوایا",
+        "مارپیچ هم زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "equiangular triangle",
+      "Meanings": [
+        "مثلث متساوی الزوایا"
+      ]
+    },
+    {
+      "EnglishWord": "equiareal",
+      "Meanings": [
+        "هم مساحت نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "equicontinuity",
+      "Meanings": [
+        "هم پیوستگی",
+        "هم اتصالی"
+      ]
+    },
+    {
+      "EnglishWord": "equicontinuous",
+      "Meanings": [
+        "هم پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "equidistance",
+      "Meanings": [
+        "هم فاصله",
+        "متساوی الفاصله"
+      ]
+    },
+    {
+      "EnglishWord": "equidistant",
+      "Meanings": [
+        "متساوی‌البعد",
+        "هم‌فاصله",
+        "متساوی‌الفاصله"
+      ]
+    },
+    {
+      "EnglishWord": "equidistant curve",
+      "Meanings": [
+        "خم هم‌فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "equidistributed",
+      "Meanings": [
+        "هم توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral",
+      "Meanings": [
+        "متساوی الاضلاع"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral hyperbola",
+      "Meanings": [
+        "هذلولی متساوی الساقین",
+        "هذلولی دو پهلو برابر",
+        "هذلولی متساوی القطرین"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral polygon",
+      "Meanings": [
+        "چندضلعی متساوی الاضلاع"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral spherical polygon",
+      "Meanings": [
+        "چندضلعی منتظم کروی"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral triangle",
+      "Meanings": [
+        "مثلث متساوی الاضلاع",
+        "مثلث سه پهلو برابر",
+        "مثلث راست پهلو"
+      ]
+    },
+    {
+      "EnglishWord": "equilateral triangle group",
+      "Meanings": [
+        "گروه مثلث متساوی الاضلاع"
+      ]
+    },
+    {
+      "EnglishWord": "equilibrium",
+      "Meanings": [
+        "تعادل",
+        "موازنه",
+        "هم ترازی"
+      ]
+    },
+    {
+      "EnglishWord": "equimultiple",
+      "Meanings": [
+        "هم ضریب",
+        "هم مضرب"
+      ]
+    },
+    {
+      "EnglishWord": "equinumerable",
+      "Meanings": [
+        "هم شمار"
+      ]
+    },
+    {
+      "EnglishWord": "equinumerate",
+      "Meanings": [
+        "هم تعداد"
+      ]
+    },
+    {
+      "EnglishWord": "equinumerous",
+      "Meanings": [
+        "هم توان",
+        "هم عدد",
+        "هم قوه منطق"
+      ]
+    },
+    {
+      "EnglishWord": "equinumerous sets",
+      "Meanings": [
+        "مجموعه‌های هم توان",
+        "مجموعه‌های هم عدد"
+      ]
+    },
+    {
+      "EnglishWord": "equipollent",
+      "Meanings": [
+        "هم سنگ",
+        "متوافق منطق",
+        "هم قوه",
+        "هم نیرو",
+        "هم ارزش",
+        "هم معنی"
+      ]
+    },
+    {
+      "EnglishWord": "equipollent vectors",
+      "Meanings": [
+        "بردارهای همسنگ"
+      ]
+    },
+    {
+      "EnglishWord": "equipotence",
+      "Meanings": [
+        "همتوانی"
+      ]
+    },
+    {
+      "EnglishWord": "equipotency",
+      "Meanings": [
+        "همتوانی",
+        "همقوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "equipotent",
+      "Meanings": [
+        "همتوان",
+        "همقوه",
+        "همقوت",
+        "همتاش",
+        "هم پتانسیل",
+        "هم ظرف"
+      ]
+    },
+    {
+      "EnglishWord": "equipotent sets",
+      "Meanings": [
+        "مجموعه‌های همتوان"
+      ]
+    },
+    {
+      "EnglishWord": "equipotential",
+      "Meanings": [
+        "همتوان",
+        "همقوه",
+        "همقوت",
+        "همتاش",
+        "هم پتانسیل",
+        "هم ظرف"
+      ]
+    },
+    {
+      "EnglishWord": "equipotential lines",
+      "Meanings": [
+        "خطوط هم پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "equiprobable",
+      "Meanings": [
+        "هم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "equirepartition",
+      "Meanings": [
+        "هم بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence",
+      "Meanings": [
+        "هم ارزی",
+        "معادله نسبت",
+        "تعادل نسبت",
+        "منطق",
+        "همچندی",
+        "هم ارزشی",
+        "برابری"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence class",
+      "Meanings": [
+        "کلاس هم ارزی",
+        "رده هم ارزی",
+        "دسته هم ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence classes",
+      "Meanings": [
+        "دسته‌های معادل منطق"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence of two arrows",
+      "Meanings": [
+        "هم ارزی دو فلش"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence of two distance",
+      "Meanings": [
+        "هم ارزی دو دوری"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence relation",
+      "Meanings": [
+        "رابطه هم ارزی",
+        "نسبت هم ارزی",
+        "نسبت تعادل منطق",
+        "بستگی هم ارزی",
+        "رابطه تعادلی"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent",
+      "Meanings": [
+        "هم ارز",
+        "معادل",
+        "متعادل هندسه",
+        "متساوی",
+        "هم‌ارزش",
+        "برابر",
+        "هم‌ارج"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent assertions",
+      "Meanings": [
+        "حکم‌های هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent elements",
+      "Meanings": [
+        "عناصر هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent events",
+      "Meanings": [
+        "حوادث هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent matrices",
+      "Meanings": [
+        "ماتریس‌های هم ارز",
+        "ماتریس‌های معادل"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent sets",
+      "Meanings": [
+        "مجموعه‌های هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent solids",
+      "Meanings": [
+        "اجسام معادل",
+        "اجسام متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent vectors",
+      "Meanings": [
+        "بردارهای هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "eratosthenes",
+      "Meanings": [
+        "اراتستن اراتوستنس",
+        "اخترشناس یونانی سه قرن قبل از میلاد. او اندازه زمین را مشخص کرد و برای هر چهار سال تقویمی",
+        "یک روز اضافی را پیشنهاد کرد"
+      ]
+    },
+    {
+      "EnglishWord": "ergodic",
+      "Meanings": [
+        "همه سویی",
+        "ارگودیک"
+      ]
+    },
+    {
+      "EnglishWord": "erlanger programme",
+      "Meanings": [
+        "برنامه ارلانگر"
+      ]
+    },
+    {
+      "EnglishWord": "erratic",
+      "Meanings": [
+        "اشتباه آمیز",
+        "مغلوط",
+        "ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "erroneous",
+      "Meanings": [
+        "نادرست",
+        "غلط",
+        "نامعقول"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "خطا",
+        "اشتباه",
+        "غلط",
+        "بیراهی"
+      ]
+    },
+    {
+      "EnglishWord": "error due to bad frame",
+      "Meanings": [
+        "اشتباه چارچوبی"
+      ]
+    },
+    {
+      "EnglishWord": "error due to bad measurement",
+      "Meanings": [
+        "اشتباه اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "error due to bias",
+      "Meanings": [
+        "اشتباه اریبی"
+      ]
+    },
+    {
+      "EnglishWord": "error function",
+      "Meanings": [
+        "تابع خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error of estimate",
+      "Meanings": [
+        "خطای برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "error of the first kind",
+      "Meanings": [
+        "اشتباه نوع اول"
+      ]
+    },
+    {
+      "EnglishWord": "error of the second kind",
+      "Meanings": [
+        "اشتباه نوع دوم"
+      ]
+    },
+    {
+      "EnglishWord": "error probability",
+      "Meanings": [
+        "احتمال اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "error range",
+      "Meanings": [
+        "محدوده خطا",
+        "برد خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error sum of squares",
+      "Meanings": [
+        "مجموع توان دوم اشتباه ها"
+      ]
+    },
+    {
+      "EnglishWord": "error term",
+      "Meanings": [
+        "جمله خطا",
+        "جمله نماینده خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error theorem",
+      "Meanings": [
+        "قضیه خطا"
+      ]
+    },
+    {
+      "EnglishWord": "escribe",
+      "Meanings": [
+        "از خارج محاط کردن",
+        "محاط خارج کردن مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "escribed",
+      "Meanings": [
+        "محاطی خارج",
+        "محاطی خارجی",
+        "محاطی بیرونی"
+      ]
+    },
+    {
+      "EnglishWord": "escribed circle",
+      "Meanings": [
+        "دایره محاطی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "esfahani",
+      "Meanings": [
+        "ابوالفتح اصفهانی",
+        "که دوران شهرتش حدود370 هجری قمری بوده است ترجمه جدیدی از مخروطات آپولونیوس را فراهم کرد در پنج مقاله اول آن را شرح کرد وکتاب تلخیص المخروطات را که خلاصه هفت مقاله اول مخروطات آپولونیوس است",
+        "را نوشت"
+      ]
+    },
+    {
+      "EnglishWord": "essential",
+      "Meanings": [
+        "اساسی",
+        "ضروری",
+        "اصلی",
+        "گوهری"
+      ]
+    },
+    {
+      "EnglishWord": "essential discontinuity",
+      "Meanings": [
+        "ناپیوستگی واقعی",
+        "انفصال واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "essential isolated singularity",
+      "Meanings": [
+        "نقطه منفرد مجزای اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "essential singular point",
+      "Meanings": [
+        "نقطه استثنایی اصلی",
+        "نقطه استثنایی لازم",
+        "نقطه تکین اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "essential singularity",
+      "Meanings": [
+        "نقطه استثنایی لازم",
+        "انفراد اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "essentially indirect proof",
+      "Meanings": [
+        "استدلال ذاتا غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "establish",
+      "Meanings": [
+        "استوار کردن",
+        "برقرار کردن",
+        "ثابت کردن",
+        "استدلال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "estimate",
+      "Meanings": [
+        "برآورد کردن",
+        "تخمین زدن",
+        "ارزیابی کردن",
+        "سنجیدن",
+        "برآورد",
+        "تخمین",
+        "ارزیابی",
+        "سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "estimate and test about multiple correlation coefficient",
+      "Meanings": [
+        "برآورد و آزمون درباره ضریب همبستگی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "estimated regression line",
+      "Meanings": [
+        "خط رگرسیون تخمینی"
+      ]
+    },
+    {
+      "EnglishWord": "estimation",
+      "Meanings": [
+        "برآورد",
+        "تخمین",
+        "تقریب",
+        "ارزیابی",
+        "برآورش",
+        "برآوردگری"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of mean",
+      "Meanings": [
+        "برآورد میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "estimator",
+      "Meanings": [
+        "برآوردکننده",
+        "برآوردگر",
+        "برآورنده"
+      ]
+    },
+    {
+      "EnglishWord": "euclid",
+      "Meanings": [
+        "اقلیدس",
+        "ریاضیدان مشهور قرن چهارم 275 تا 365 قبل از میلاد. در اسکندریه زندگی می‌کرده است و احتمالا یونانی بوده است. وی بیش از همه با هندسه مبتنی بر اصل توازی معروف است. معروف‌ترین تالیفاتش به نام اصول elements باقی مانده است"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean",
+      "Meanings": [
+        "اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean algorithm",
+      "Meanings": [
+        "الگوریتم اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean algorithm ring",
+      "Meanings": [
+        "آلگوریتم اقلیدس",
+        "دستورالعمل اقلیدسی تقسیم نردبانی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean constraction",
+      "Meanings": [
+        "ترسیم اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean distance",
+      "Meanings": [
+        "فاصله اقلیدسی",
+        "دوری اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean division",
+      "Meanings": [
+        "تقسیم اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean geometry",
+      "Meanings": [
+        "هندسه اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean line",
+      "Meanings": [
+        "خط اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean metric",
+      "Meanings": [
+        "متریک اقلیدسی",
+        "متر اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean plane",
+      "Meanings": [
+        "صفحه اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean space",
+      "Meanings": [
+        "فضای اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean space of real numbers",
+      "Meanings": [
+        "فضای اقلیدسی اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean sphere",
+      "Meanings": [
+        "کره اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidian algorithm",
+      "Meanings": [
+        "الگوریتم اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclid's axioms",
+      "Meanings": [
+        "اصول اقلیدس"
+      ]
+    },
+    {
+      "EnglishWord": "euclid's elements",
+      "Meanings": [
+        "کتاب «اصول» اقلیدس"
+      ]
+    },
+    {
+      "EnglishWord": "euclid's lemma",
+      "Meanings": [
+        "لم اقلیدس"
+      ]
+    },
+    {
+      "EnglishWord": "euler",
+      "Meanings": [
+        "اویلر",
+        "تا 1787 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "euler angles",
+      "Meanings": [
+        "زاوایای اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler characteristic",
+      "Meanings": [
+        "مشخصه اویلر",
+        "مشخص اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler product",
+      "Meanings": [
+        "حاصلضرب اویالر"
+      ]
+    },
+    {
+      "EnglishWord": "euler summation formula",
+      "Meanings": [
+        "دستور جمع بندی اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler venn diagrams",
+      "Meanings": [
+        "نمودارهای اویلر و ون",
+        "دیاگرام‌های اویلر و ون"
+      ]
+    },
+    {
+      "EnglishWord": "eulerian",
+      "Meanings": [
+        "اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "eulerian graph",
+      "Meanings": [
+        "گراف اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "euler's constant",
+      "Meanings": [
+        "ثابت اویلر",
+        "مقدار ثابت اویلر",
+        "پایای اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's diagram",
+      "Meanings": [
+        "تصویر اویلر",
+        "نمودار اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's differntial equation",
+      "Meanings": [
+        "معادله دیفرانسیل اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's formula",
+      "Meanings": [
+        "فرمول اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's function",
+      "Meanings": [
+        "تابع اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's integral of the first kind",
+      "Meanings": [
+        "انتگرال نوع اول اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's theorem",
+      "Meanings": [
+        "قضیه اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "evaluate",
+      "Meanings": [
+        "تعیین کردن",
+        "ارزیابی کردن",
+        "محاسبه کردن",
+        "برآورد کردن",
+        "تعیین مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "evaluate a limit",
+      "Meanings": [
+        "رفع ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "evaluation",
+      "Meanings": [
+        "رفع ابهام",
+        "ارزیابی",
+        "ارزشیابی",
+        "برآورد",
+        "تعیین مقدار",
+        "محاسبه",
+        "مقدار یاب"
+      ]
+    },
+    {
+      "EnglishWord": "evariste galois",
+      "Meanings": [
+        "ریاضیدان نابغه فرانسوی",
+        ". از بنیانگذاران جبر نوین و پایه گذار نظریه گروهها ست. وی در عمر کوتاه خود 21سال توانست شرایط امکان حل معادلات بوسیله رادیکال‌ها را بررسی کند",
+        "گالوا در نزدیکی پاریس و از والدین تحصیل کرده متولد شد و پس از تحصیل نزد مادرش",
+        "در 12 سالگی وارد مدرسه شد. در کارهای جاری مدرسه میانه حال بود",
+        "هنگامی که به کتاب «Elements de Geometrie» اثر لژاندر دست یافت",
+        "تحت تاثیر آن قرار گرفت. می‌گویند که او این کتاب را مانند یک کتاب داستان خوانده است و با یک بار خواندن",
+        "بر آن احاطه یافته است",
+        "او سپس به کارهای لاگرانژ و آبل پرداخت و در سن 15 سالگی یک خواننده حرفه ای بود و خود شروع به کشفیات کرد. متاسفانه کارهایش منظم نبود و اکثر محاسبات را ذهنی انجام داده و فقط نتایج را یادداشت می‌کرد",
+        "او دو بار برای پذیرفته شدن در مدرسه پلی تکنیک تلاش کرد و به دلیل عدم آمادگی اساسی رد شد. این رد شدن‌ها خسران زیادی برای علم ریاضیات بود زیرا این مدرسه که ریاضیدانان بزرگی را تربیت کرده بود می‌توانست استعداد گالوا را کشف کند و محیط لازم را برای وی فراهم کند",
+        "با این حال گالوا به کشفیات اساسی در معادلات چندجمله ای ادامه داد و در سال 1829 بعضی از نتایجش را به آکادمی علوم تسلیم نمود. داور",
+        "کشی بود که توانایی درک آنها را داشت",
+        "ولی کشی دستنویس‌های گالوا را گم کرد و دیگر پیدا نشد! . گالوای شجاع کارهایش را در مسابقه سال 1830 جایزه بزرگ آکادمی در ریاضیات شرکت داد. مقاله وی باید این جایزه را می‌برد ولی «فوریه» که منشی آکادمی بود مقاله را باخود به خانه برد و به طور ناگهانی پیش از خواندن آن فوت کرد و دستنویس گالوا دوباره گم شد. پس از این ماجرا",
+        "گالوا نسخه دوم آن مقاله اش را به آکادمی فرستاد اما این بار «پواسون» آن را خواند و آن را ناقص اعلام کرد",
+        "به خاطر این وقایع یا به خاطر آنکه پدرش طرفدار جمهوری بود",
+        "گالوا به تنقید از رژیم بوربونها دست زد و به گارد ملی",
+        "یعنی سازمان جمهوریخواهان",
+        "پیوست. در این زمان فرانسه گرفتار آشوب‌های سیاسی بود و گالوا مرتب به زندان می‌افتاد. اما در سال 1832 آزاد شد. در همین زمان گرفتار عشق دختری شد. جزییات این امر روشن نیست",
+        "اما یک چیز واضح است که او درگیر یک دویل بر رسیدن به این دختر شد. گالوا تصمیم گرفت این دویل را انجام دهد. گالوا در شب قبل از مرگش در این دویل می‌نویسد: «من قربانی یک زن عشوه گر گمنام شده ام… این یک نزاع اسف بار است که جان مرا می‌ستاند. آه",
+        "چرا باید برای یک موضوع بی ارزش بمیرم…. » او همچنین نامه ای به دوستش نوشت و کشفیات خود را به طور خلاصه بیان کرد. این یک سند غم انگیز و دل خراش به جا مانده از گالوا است که در حاشیه اش نوشته: «من وقت ندارم». این سند که با خواهش از ژاکوبی یا گاوس برای اینکه نظرشان را «نه در مورد درستی بلکه در مورد اهمیت این قضایا» بیان کنند",
+        "پایان می‌یابد",
+        "صبح روز بعد این دویل انجام شد. دویل با طپانچه در 25 قدمی صورت گرفت. تیر به شکم گالوا خورد و به زمین افتاد تا آنکه دهقانی که از آنجا عبور می‌کرد",
+        "او را به بیمارستان رساند. گالوا روز بعد یعنی 31 ماه می‌سال1832 در سن 20 سالگی فوت کرد و در بخش عمومی قبرستان مونت پارناس Montparnasse به خاک سپرده شد",
+        "منبع: آشنایی با جبر مجرد: تالیف نیکلسون: ترجمه دکتر علی اکبر عالم زاده: چاپ اول: صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "even",
+      "Meanings": [
+        "زوج عدد",
+        "تابع",
+        "هموار",
+        "جفت"
+      ]
+    },
+    {
+      "EnglishWord": "even function",
+      "Meanings": [
+        "تابع زوج",
+        "تابع متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "even integer",
+      "Meanings": [
+        "عدد صحیح زوج"
+      ]
+    },
+    {
+      "EnglishWord": "even inversion",
+      "Meanings": [
+        "انعکاس زوج"
+      ]
+    },
+    {
+      "EnglishWord": "even number",
+      "Meanings": [
+        "عدد زوج",
+        "جفت احتمالات عدد جفت"
+      ]
+    },
+    {
+      "EnglishWord": "even permutation",
+      "Meanings": [
+        "جایگشت زوج",
+        "تبدیل زوج"
+      ]
+    },
+    {
+      "EnglishWord": "even polynomial",
+      "Meanings": [
+        "چندجمله ای زوج"
+      ]
+    },
+    {
+      "EnglishWord": "even spaced",
+      "Meanings": [
+        "فضای هموار نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "evenly even",
+      "Meanings": [
+        "زوج الزوج"
+      ]
+    },
+    {
+      "EnglishWord": "evenly even odd",
+      "Meanings": [
+        "زوج الزوج و الفرد"
+      ]
+    },
+    {
+      "EnglishWord": "evenness",
+      "Meanings": [
+        "خاصیت زوج یا فرد بودن تبدیل",
+        "زوجیت",
+        "خاصیت زوج بودن"
+      ]
+    },
+    {
+      "EnglishWord": "event",
+      "Meanings": [
+        "پیشامد",
+        "رویداد",
+        "واقعه",
+        "حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "event decomposable into particular events",
+      "Meanings": [
+        "حادثه قابل تجزیه به حوادث خاص"
+      ]
+    },
+    {
+      "EnglishWord": "eventual",
+      "Meanings": [
+        "احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "everywhere",
+      "Meanings": [
+        "همه جا"
+      ]
+    },
+    {
+      "EnglishWord": "everywhere dense",
+      "Meanings": [
+        "همه جا متراکم",
+        "همه جا سنگین",
+        "همه جا چگال",
+        "پخش شده در همه جا"
+      ]
+    },
+    {
+      "EnglishWord": "everywhere dense subset",
+      "Meanings": [
+        "زیرمجموعه همه جا چگال"
+      ]
+    },
+    {
+      "EnglishWord": "evidential equivalence",
+      "Meanings": [
+        "هم ارزی مقرون به دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "evidential interpretation",
+      "Meanings": [
+        "تفسیر مقرون به دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "evidential meaning",
+      "Meanings": [
+        "معنی مقرون به دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "evolent",
+      "Meanings": [
+        "گسترش دهنده",
+        "دولوپانت"
+      ]
+    },
+    {
+      "EnglishWord": "evolute",
+      "Meanings": [
+        "گسترده خم",
+        "دولوپه",
+        "گسترش",
+        "خم مرکزی",
+        "گسترنده"
+      ]
+    },
+    {
+      "EnglishWord": "evolution",
+      "Meanings": [
+        "ریشه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "exact",
+      "Meanings": [
+        "دقیق",
+        "صحیح",
+        "تحقیقی",
+        "راست",
+        "درست",
+        "کامل"
+      ]
+    },
+    {
+      "EnglishWord": "exact confidence interval",
+      "Meanings": [
+        "فاصله اعتماد دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "exact diiferential",
+      "Meanings": [
+        "دیفرانسیل کامل"
+      ]
+    },
+    {
+      "EnglishWord": "exact division",
+      "Meanings": [
+        "تقسیم کامل",
+        "تقسیم بدون باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "exact equation",
+      "Meanings": [
+        "معادله کامل"
+      ]
+    },
+    {
+      "EnglishWord": "exact form",
+      "Meanings": [
+        "شکل دقیق",
+        "دیس درستین"
+      ]
+    },
+    {
+      "EnglishWord": "exact functor",
+      "Meanings": [
+        "فونکتور درست"
+      ]
+    },
+    {
+      "EnglishWord": "exact limit",
+      "Meanings": [
+        "حد واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "exact number",
+      "Meanings": [
+        "عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "exact sequence",
+      "Meanings": [
+        "دنباله درست"
+      ]
+    },
+    {
+      "EnglishWord": "exact sequence of groups",
+      "Meanings": [
+        "دنباله درست از گروه ها"
+      ]
+    },
+    {
+      "EnglishWord": "exact total differential",
+      "Meanings": [
+        "فاضله جمع کامل",
+        "دیفرانسیل جمع کامل"
+      ]
+    },
+    {
+      "EnglishWord": "exact value",
+      "Meanings": [
+        "ارزش دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "example",
+      "Meanings": [
+        "مثال"
+      ]
+    },
+    {
+      "EnglishWord": "excenter",
+      "Meanings": [
+        "مرکز دایره محاطی خارجی",
+        "مرکز دایره محاطی خارجی مثلث",
+        "مرکز دایره محاطی بیرونی",
+        "مرکز دایره محیطی مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "exception",
+      "Meanings": [
+        "استثنا"
+      ]
+    },
+    {
+      "EnglishWord": "excess",
+      "Meanings": [
+        "فزونی"
+      ]
+    },
+    {
+      "EnglishWord": "excluded middle",
+      "Meanings": [
+        "طرد شق وسط"
+      ]
+    },
+    {
+      "EnglishWord": "exclusive disjunction",
+      "Meanings": [
+        "یای مانع جمع"
+      ]
+    },
+    {
+      "EnglishWord": "existential",
+      "Meanings": [
+        "وجودی"
+      ]
+    },
+    {
+      "EnglishWord": "existential qualifier",
+      "Meanings": [
+        "سور وجودی"
+      ]
+    },
+    {
+      "EnglishWord": "experiment",
+      "Meanings": [
+        "آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimental design",
+      "Meanings": [
+        "طرح آزمایش‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "exponent",
+      "Meanings": [
+        "نما"
+      ]
+    },
+    {
+      "EnglishWord": "exponential distribution",
+      "Meanings": [
+        "توزیع نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential function",
+      "Meanings": [
+        "تابع نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exportation law",
+      "Meanings": [
+        "قانون تفکیک دومقدم"
+      ]
+    },
+    {
+      "EnglishWord": "expression",
+      "Meanings": [
+        "عبارت"
+      ]
+    },
+    {
+      "EnglishWord": "expression radical",
+      "Meanings": [
+        "عبارت رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "extend",
+      "Meanings": [
+        "گسترش دادن",
+        "توسعه دادن",
+        "بسط دادن"
+      ]
+    },
+    {
+      "EnglishWord": "extension",
+      "Meanings": [
+        "توسیع",
+        "شاخه"
+      ]
+    },
+    {
+      "EnglishWord": "extension algebraic",
+      "Meanings": [
+        "توسیع جبری"
+      ]
+    },
+    {
+      "EnglishWord": "extension finitely generated",
+      "Meanings": [
+        "توسیع به‌طور متناهی تولید شده"
+      ]
+    },
+    {
+      "EnglishWord": "extension liouville",
+      "Meanings": [
+        "توسیع لیویل"
+      ]
+    },
+    {
+      "EnglishWord": "extension picard vessoit",
+      "Meanings": [
+        "توسیع پیکارد",
+        "ویسیوت"
+      ]
+    },
+    {
+      "EnglishWord": "extension radical",
+      "Meanings": [
+        "توسیع رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "extension separable",
+      "Meanings": [
+        "تفکیک‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "extension simple",
+      "Meanings": [
+        "توسیع ساده"
+      ]
+    },
+    {
+      "EnglishWord": "extension simple algebraic",
+      "Meanings": [
+        "توسیع جبری ساده"
+      ]
+    },
+    {
+      "EnglishWord": "extension theorem",
+      "Meanings": [
+        "قضیه توسیع"
+      ]
+    },
+    {
+      "EnglishWord": "extensively",
+      "Meanings": [
+        "به طور گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "exterior",
+      "Meanings": [
+        "بیرون"
+      ]
+    },
+    {
+      "EnglishWord": "exterior point",
+      "Meanings": [
+        "نقطه بیرونی"
+      ]
+    }
+  ]
+}

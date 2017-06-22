@@ -1,0 +1,151 @@
+﻿{
+  "Group": "G",
+  "Entries": 24,
+  "Words": [
+    {
+      "EnglishWord": "g",
+      "Meanings": [
+        "هفتمین حرف از الفبای انگلیسی",
+        "علامت اختصاری گیگا میلیون = 2 به توان"
+      ]
+    },
+    {
+      "EnglishWord": "game tree",
+      "Meanings": [
+        "درخت بازی"
+      ]
+    },
+    {
+      "EnglishWord": "gamma function",
+      "Meanings": [
+        "تابع گاما"
+      ]
+    },
+    {
+      "EnglishWord": "geometric optimization",
+      "Meanings": [
+        "بهینه سازی هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric optimization problem",
+      "Meanings": [
+        "مسیله بهینه سازی هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "global",
+      "Meanings": [
+        "سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "global optimum",
+      "Meanings": [
+        "بهینه سازی سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "grand children",
+      "Meanings": [
+        "نوه"
+      ]
+    },
+    {
+      "EnglishWord": "graph",
+      "Meanings": [
+        "گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph coloring",
+      "Meanings": [
+        "رنگ آمیزی گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph drawing",
+      "Meanings": [
+        "ترسیم گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph follower",
+      "Meanings": [
+        "دنبال گر گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph isomorphism",
+      "Meanings": [
+        "یک ریختی گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph partition",
+      "Meanings": [
+        "افراز گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph theory",
+      "Meanings": [
+        "تیوری گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graphic data structure",
+      "Meanings": [
+        "داده ساختار گرافیکی"
+      ]
+    },
+    {
+      "EnglishWord": "greatest common denominator",
+      "Meanings": [
+        "بزرگترین مخرج مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "greatest common divisor",
+      "Meanings": [
+        "بزرگترین مقسوم علیه مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "greedy",
+      "Meanings": [
+        "حریصانه"
+      ]
+    },
+    {
+      "EnglishWord": "greedy algorithm",
+      "Meanings": [
+        "الگوریتم حریصانه"
+      ]
+    },
+    {
+      "EnglishWord": "greedy heuristic",
+      "Meanings": [
+        "مکاشفه حریصانه"
+      ]
+    },
+    {
+      "EnglishWord": "grid",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "grid drawing",
+      "Meanings": [
+        "ترسیم شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "grover's algorithm",
+      "Meanings": [
+        "الگوریتم گراور"
+      ]
+    }
+  ]
+}

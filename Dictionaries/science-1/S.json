@@ -1,0 +1,7724 @@
+﻿{
+  "Group": "S",
+  "Entries": 1113,
+  "Words": [
+    {
+      "EnglishWord": "s perpendicular",
+      "Meanings": [
+        "قایم بر S"
+      ]
+    },
+    {
+      "EnglishWord": "saddle point",
+      "Meanings": [
+        "نقطه زینی",
+        "نقطه زین‌اسبی",
+        "نقطه زین‌مانند"
+      ]
+    },
+    {
+      "EnglishWord": "saddle points",
+      "Meanings": [
+        "نقاط زینی"
+      ]
+    },
+    {
+      "EnglishWord": "saddle shaped",
+      "Meanings": [
+        "زینی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "safety",
+      "Meanings": [
+        "ایمنی",
+        "اطمینان",
+        "رضایت بخش"
+      ]
+    },
+    {
+      "EnglishWord": "sagitta",
+      "Meanings": [
+        "سهم"
+      ]
+    },
+    {
+      "EnglishWord": "salient",
+      "Meanings": [
+        "برجسته",
+        "تیز",
+        "محدب زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "salient angle",
+      "Meanings": [
+        "زاویه محدب"
+      ]
+    },
+    {
+      "EnglishWord": "salient point",
+      "Meanings": [
+        "نقطه تیز",
+        "نقطه توقف"
+      ]
+    },
+    {
+      "EnglishWord": "saltus",
+      "Meanings": [
+        "جهش",
+        "قطع پیوستگی",
+        "نوسان",
+        "حذف مرحله لازم اثباتی در منطق"
+      ]
+    },
+    {
+      "EnglishWord": "same",
+      "Meanings": [
+        "همان",
+        "همانند",
+        "همسان",
+        "یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "same parity",
+      "Meanings": [
+        "هم افراز"
+      ]
+    },
+    {
+      "EnglishWord": "same sense inequalities",
+      "Meanings": [
+        "نامساوی متحدالجهت"
+      ]
+    },
+    {
+      "EnglishWord": "sample",
+      "Meanings": [
+        "نمونه",
+        "نمونه ای",
+        "نمونه گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "sample correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample design",
+      "Meanings": [
+        "طرح نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample distribution",
+      "Meanings": [
+        "توزیع نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample mean",
+      "Meanings": [
+        "میانگین نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample mean distribution",
+      "Meanings": [
+        "توزیع میانگین نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample mean vector",
+      "Meanings": [
+        "بردار میانگین نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample of size n",
+      "Meanings": [
+        "نمونه n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "sample point",
+      "Meanings": [
+        "نقطه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample size",
+      "Meanings": [
+        "حجم نمونه",
+        "اندازه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample space",
+      "Meanings": [
+        "فضای نمونه",
+        "فضای نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample values",
+      "Meanings": [
+        "مقادیر نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample variance",
+      "Meanings": [
+        "پراش نمونه",
+        "واریانس نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample variance covariance matirx",
+      "Meanings": [
+        "ماتریس واریانس کوواریانس نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample vector",
+      "Meanings": [
+        "بردار نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sampled",
+      "Meanings": [
+        "نمونه گیری شده"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "نمونه‌گیری",
+        "نمونه‌برداری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling design",
+      "Meanings": [
+        "طرح نمونه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling distribution",
+      "Meanings": [
+        "توزیع نمونه‌گیری",
+        "توزیع نمونه‌برداری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling error",
+      "Meanings": [
+        "اشتباه نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling fluctutation",
+      "Meanings": [
+        "تغییرات نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling fraction",
+      "Meanings": [
+        "کسر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling inspection",
+      "Meanings": [
+        "بررسی نمونه ای",
+        "بازرسی نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sampling on several occasions",
+      "Meanings": [
+        "نمونه گیری پی در پی"
+      ]
+    },
+    {
+      "EnglishWord": "sampling plan",
+      "Meanings": [
+        "طرح نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling ratio",
+      "Meanings": [
+        "نسبت نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling survey",
+      "Meanings": [
+        "آمارگیری نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sampling unit",
+      "Meanings": [
+        "واحد نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling with replacement",
+      "Meanings": [
+        "نمونه گیری با جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling with replacement scheme",
+      "Meanings": [
+        "شمای نمونه گیری بازگردان"
+      ]
+    },
+    {
+      "EnglishWord": "sampling without replacement",
+      "Meanings": [
+        "نمونه گیری بدون جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling without replacement scheme",
+      "Meanings": [
+        "شمای نمونه گیری بدون بازگردان"
+      ]
+    },
+    {
+      "EnglishWord": "sarrus's rule",
+      "Meanings": [
+        "قاعده ساروس"
+      ]
+    },
+    {
+      "EnglishWord": "satellite",
+      "Meanings": [
+        "ماهواره",
+        "ماه"
+      ]
+    },
+    {
+      "EnglishWord": "satisfy",
+      "Meanings": [
+        "صدق کردن",
+        "صدق کردن در…",
+        "برآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "saturated",
+      "Meanings": [
+        "اشباع شده",
+        "اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturation",
+      "Meanings": [
+        "سیری",
+        "اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "scalar",
+      "Meanings": [
+        "اسکالر",
+        "عددی",
+        "نرده‌ای",
+        "کمیت عددی"
+      ]
+    },
+    {
+      "EnglishWord": "scalar capacity",
+      "Meanings": [
+        "ظرفیت عددی",
+        "ظرفیت عددوار"
+      ]
+    },
+    {
+      "EnglishWord": "scalar density",
+      "Meanings": [
+        "جرم مخصوص عددوار",
+        "چگال عددوار"
+      ]
+    },
+    {
+      "EnglishWord": "scalar equation",
+      "Meanings": [
+        "معادله عددی",
+        "معادله اسکالر"
+      ]
+    },
+    {
+      "EnglishWord": "scalar field",
+      "Meanings": [
+        "میدان عددی"
+      ]
+    },
+    {
+      "EnglishWord": "scalar function",
+      "Meanings": [
+        "تابع عددی"
+      ]
+    },
+    {
+      "EnglishWord": "scalar multiple",
+      "Meanings": [
+        "مضرب عددی",
+        "مضرب اسکالر"
+      ]
+    },
+    {
+      "EnglishWord": "scalar multiplication",
+      "Meanings": [
+        "ضرب اسکالر",
+        "ضرب عددی",
+        "ضرب نرده ای"
+      ]
+    },
+    {
+      "EnglishWord": "scalar product",
+      "Meanings": [
+        "ضرب اسکالر",
+        "ضرب داخلی",
+        "ضری عددی",
+        "حاصلضرب عددی",
+        "حاصلضرب اسکالر",
+        "حاصلضرب نرده ای"
+      ]
+    },
+    {
+      "EnglishWord": "scalar product of two vectors",
+      "Meanings": [
+        "حاصلضرب اسکالر دو بردار",
+        "حاصلضرب داخلی دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "scalar triple product",
+      "Meanings": [
+        "حاصلضرب مختلط سه بردار",
+        "حاصلضرب سه گانه اسکالر",
+        "حاصلضرب آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "scale",
+      "Meanings": [
+        "مقیاس",
+        "مقیاس خطی",
+        "درجه",
+        "درجی بندی",
+        "سیستم",
+        "عدد نویسی",
+        "پایه اعداد",
+        "میزان",
+        "پایه"
+      ]
+    },
+    {
+      "EnglishWord": "scale change",
+      "Meanings": [
+        "تعویض سنجه",
+        "تعویض مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "scale down",
+      "Meanings": [
+        "کاهش تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "scale factor",
+      "Meanings": [
+        "ضریب مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "scale factor of conformal transformation",
+      "Meanings": [
+        "ضریب مقایسه تبدیل همدیس"
+      ]
+    },
+    {
+      "EnglishWord": "scale of measurement",
+      "Meanings": [
+        "مقیاس اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "scale value",
+      "Meanings": [
+        "اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "scalene",
+      "Meanings": [
+        "مختلف الاضلاع در مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "scalene numbers",
+      "Meanings": [
+        "عددهای لوحی"
+      ]
+    },
+    {
+      "EnglishWord": "scalene triangle",
+      "Meanings": [
+        "مثلث با اضلاع نامساوی",
+        "مثلث مختلف الاضلاع",
+        "مثلث غیر مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "scatter diagram",
+      "Meanings": [
+        "جدول پراکندگی",
+        "شکل نقطه ای",
+        "نمودار پراکنش",
+        "دیاگرام پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "scattered",
+      "Meanings": [
+        "پراکنده در توپولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "scattered diagram",
+      "Meanings": [
+        "دیاگرام پراکنش",
+        "دیاگرام نقاط پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "scattergram",
+      "Meanings": [
+        "پراکنش‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "scattering",
+      "Meanings": [
+        "پراکندگی در توپولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "schedule",
+      "Meanings": [
+        "برنامه زمانی",
+        "زمان بندی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "scheinproblem",
+      "Meanings": [
+        "مسایل مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "schema",
+      "Meanings": [
+        "شکل",
+        "نمودار",
+        "طرح"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "شکل",
+        "اشکیم"
+      ]
+    },
+    {
+      "EnglishWord": "schlicht",
+      "Meanings": [
+        "تک ارزشی تابع"
+      ]
+    },
+    {
+      "EnglishWord": "schlicht function",
+      "Meanings": [
+        "تابع ساده"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz christoffel transformation",
+      "Meanings": [
+        "تبدیل شوارتس کریستوفل"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz integral formula",
+      "Meanings": [
+        "فرمول انتگرال شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz integral transform",
+      "Meanings": [
+        "تبدیل انتگرال شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "schwarzian derivative",
+      "Meanings": [
+        "مشتق شوارتسی"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz's inequality",
+      "Meanings": [
+        "نامساوی شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "scientific notation",
+      "Meanings": [
+        "نماد علمی",
+        "نماد گذاری علمی"
+      ]
+    },
+    {
+      "EnglishWord": "scope",
+      "Meanings": [
+        "دامنه ادات و سورها",
+        "هدف",
+        "منظور",
+        "طرح نهایی",
+        "میدان",
+        "قلمرو"
+      ]
+    },
+    {
+      "EnglishWord": "score class",
+      "Meanings": [
+        "کلاس نمره",
+        "طبقه نمره"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal",
+      "Meanings": [
+        "فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal effect",
+      "Meanings": [
+        "اثر فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "sec",
+      "Meanings": [
+        "سکانت",
+        "علامت اختصار برای سکانت یا عکس کسینوس"
+      ]
+    },
+    {
+      "EnglishWord": "secant",
+      "Meanings": [
+        "سکانت",
+        "قاطع خط",
+        "قطر ظل",
+        "متقاطع",
+        "خط قاطع",
+        "خط متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "secant curve",
+      "Meanings": [
+        "منحنی سکانت"
+      ]
+    },
+    {
+      "EnglishWord": "secant firgure",
+      "Meanings": [
+        "شکل قطاع",
+        "قطاع"
+      ]
+    },
+    {
+      "EnglishWord": "secant line",
+      "Meanings": [
+        "خط متقاطع",
+        "قاطع",
+        "خط قاطع",
+        "خط برا"
+      ]
+    },
+    {
+      "EnglishWord": "sech",
+      "Meanings": [
+        "سکانت هیپربولیک",
+        "علامت اختصاری برای سکانت هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "second",
+      "Meanings": [
+        "ثانیه",
+        "دوم",
+        "ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "second axiom of countability",
+      "Meanings": [
+        "اصل دوم شمارایی"
+      ]
+    },
+    {
+      "EnglishWord": "second coordinate",
+      "Meanings": [
+        "مختص دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second curvature",
+      "Meanings": [
+        "انحنای کلی دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second degree",
+      "Meanings": [
+        "درجه دو"
+      ]
+    },
+    {
+      "EnglishWord": "second derivative",
+      "Meanings": [
+        "مشتق دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second derivative test",
+      "Meanings": [
+        "آزمون مشتق دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second diagonal",
+      "Meanings": [
+        "قطر فرعی دترمینان"
+      ]
+    },
+    {
+      "EnglishWord": "second dual",
+      "Meanings": [
+        "=bidual"
+      ]
+    },
+    {
+      "EnglishWord": "second kind",
+      "Meanings": [
+        "نوع دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second number class",
+      "Meanings": [
+        "طبقه دوم اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "second order",
+      "Meanings": [
+        "مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second order derivative",
+      "Meanings": [
+        "مشتق مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second order differential",
+      "Meanings": [
+        "دیفرانسیل مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second order differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second order fundamental magnitude",
+      "Meanings": [
+        "دومین شکل اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "second order interactions",
+      "Meanings": [
+        "اثرات متقابل مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second order of equality",
+      "Meanings": [
+        "طرف راست تساوی",
+        "طرف دوم معادله"
+      ]
+    },
+    {
+      "EnglishWord": "second order polynomial function",
+      "Meanings": [
+        "تابع چند جمله ای درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second permutation representation",
+      "Meanings": [
+        "نمایش دوم جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "second principle line",
+      "Meanings": [
+        "خط جبهی"
+      ]
+    },
+    {
+      "EnglishWord": "second projecting line",
+      "Meanings": [
+        "خط منتصب"
+      ]
+    },
+    {
+      "EnglishWord": "second projection",
+      "Meanings": [
+        "تصویر دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second sample",
+      "Meanings": [
+        "نمونه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second side",
+      "Meanings": [
+        "طرف دوم"
+      ]
+    },
+    {
+      "EnglishWord": "secondary",
+      "Meanings": [
+        "دومی",
+        "ثانوی",
+        "فرعی",
+        "کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary relations",
+      "Meanings": [
+        "روابط درجه دوم",
+        "روابط غیر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "section",
+      "Meanings": [
+        "بخش",
+        "قسمت",
+        "قطع",
+        "مقطع",
+        "تقاطع",
+        "برش",
+        "بند",
+        "ترسیم"
+      ]
+    },
+    {
+      "EnglishWord": "sectional",
+      "Meanings": [
+        "مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "sectionally",
+      "Meanings": [
+        "به طور مقطعی",
+        "قطعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sectionally continuous function",
+      "Meanings": [
+        "تابع قطعه ای پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "sectionally smooth",
+      "Meanings": [
+        "قطعه قطعه هموار"
+      ]
+    },
+    {
+      "EnglishWord": "sector",
+      "Meanings": [
+        "قطاع دایره",
+        "پاره دایره",
+        "قطاع",
+        "جزء",
+        "بخش",
+        "ناحیه",
+        "تقسیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sectoral",
+      "Meanings": [
+        "قطاعی"
+      ]
+    },
+    {
+      "EnglishWord": "secular",
+      "Meanings": [
+        "دیر پای روند"
+      ]
+    },
+    {
+      "EnglishWord": "segment",
+      "Meanings": [
+        "پاره",
+        "قطعه خط",
+        "پاره خط",
+        "نقاط فی مابین",
+        "فاصله باز",
+        "تکه"
+      ]
+    },
+    {
+      "EnglishWord": "segment of a circle",
+      "Meanings": [
+        "قطعه دایره"
+      ]
+    },
+    {
+      "EnglishWord": "segment of a shere",
+      "Meanings": [
+        "قطعه کره"
+      ]
+    },
+    {
+      "EnglishWord": "segmentation",
+      "Meanings": [
+        "عمل قطعه قطعه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "select",
+      "Meanings": [
+        "انتخاب کردن",
+        "گزیدن"
+      ]
+    },
+    {
+      "EnglishWord": "selection",
+      "Meanings": [
+        "گزینش",
+        "انتخابات"
+      ]
+    },
+    {
+      "EnglishWord": "selection theorem",
+      "Meanings": [
+        "قضیه گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selection with replacement",
+      "Meanings": [
+        "انتخاب با جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "selection without replacement",
+      "Meanings": [
+        "انتخاب بدون جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "selector",
+      "Meanings": [
+        "انتخاب‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "self adjoint",
+      "Meanings": [
+        "خود الحاقی",
+        "خود الحاق",
+        "خود همال",
+        "خود بروسته"
+      ]
+    },
+    {
+      "EnglishWord": "self conjugate",
+      "Meanings": [
+        "خود مزدوج",
+        "خود همیوغ"
+      ]
+    },
+    {
+      "EnglishWord": "self conjugate element",
+      "Meanings": [
+        "عنصر خود مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "self conjugate subgroup",
+      "Meanings": [
+        "زیرگروه خودمزدوج",
+        "زیرگروه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "self consistent",
+      "Meanings": [
+        "خودسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "self weighting",
+      "Meanings": [
+        "خود وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "semantic",
+      "Meanings": [
+        "سمانتیک منطق",
+        "لغوی"
+      ]
+    },
+    {
+      "EnglishWord": "semantic rules",
+      "Meanings": [
+        "قوانین لغوی"
+      ]
+    },
+    {
+      "EnglishWord": "semantical",
+      "Meanings": [
+        "لغوی",
+        "معنوی"
+      ]
+    },
+    {
+      "EnglishWord": "semi",
+      "Meanings": [
+        "پیشوندی به معنای نیم",
+        "نیم…",
+        "نیمه",
+        "نصف"
+      ]
+    },
+    {
+      "EnglishWord": "semi circle",
+      "Meanings": [
+        "نیمدایره"
+      ]
+    },
+    {
+      "EnglishWord": "semi circular",
+      "Meanings": [
+        "نیم دایره ای",
+        "نیمه مستدیر"
+      ]
+    },
+    {
+      "EnglishWord": "semi continuous",
+      "Meanings": [
+        "نیمه متصل",
+        "نیمه پیوسته",
+        "نیم پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "semi continuous function",
+      "Meanings": [
+        "تابع نیمه پیوسته",
+        "تابع نیمه متصل"
+      ]
+    },
+    {
+      "EnglishWord": "semi convergent",
+      "Meanings": [
+        "نیم همگرا",
+        "نیمه همگرا",
+        "نیمه متقارب"
+      ]
+    },
+    {
+      "EnglishWord": "semi convergent series",
+      "Meanings": [
+        "سری نیمه همگرا",
+        "سری نیم همگرا",
+        "سلسله نیمه متقارب"
+      ]
+    },
+    {
+      "EnglishWord": "semi cubical",
+      "Meanings": [
+        "نیمه مکعبی",
+        "نیم مکعبی"
+      ]
+    },
+    {
+      "EnglishWord": "semi cylinder",
+      "Meanings": [
+        "نیم استوانه"
+      ]
+    },
+    {
+      "EnglishWord": "semi definite",
+      "Meanings": [
+        "نیمه معین",
+        "نیم معین"
+      ]
+    },
+    {
+      "EnglishWord": "semi elliptic",
+      "Meanings": [
+        "نیم بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "semi empirical",
+      "Meanings": [
+        "نیمه تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "semi group",
+      "Meanings": [
+        "نیم گروه",
+        "شبه گروه"
+      ]
+    },
+    {
+      "EnglishWord": "semi infinite",
+      "Meanings": [
+        "نیمه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "semi infinite strip",
+      "Meanings": [
+        "نوار نیمه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "semi interquartile",
+      "Meanings": [
+        "نصف دامنه تغییر دو ربع",
+        "دامنه چارکی متوسط",
+        "چارک متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "semi interval",
+      "Meanings": [
+        "نیم فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "semi invariant",
+      "Meanings": [
+        "نیم استوار",
+        "نیم پایا",
+        "سمی اینواریانت"
+      ]
+    },
+    {
+      "EnglishWord": "semi parabola",
+      "Meanings": [
+        "سهمی نیم مکعبی",
+        "سهمی نیمه مکعبی خم"
+      ]
+    },
+    {
+      "EnglishWord": "semi perimeter",
+      "Meanings": [
+        "نیم محیط",
+        "نصف محیط"
+      ]
+    },
+    {
+      "EnglishWord": "semi polar",
+      "Meanings": [
+        "نیمه قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "semi positive definite matrix",
+      "Meanings": [
+        "ماتریس نیمه مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "semi positive form",
+      "Meanings": [
+        "فرم نیمه مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "semi segment",
+      "Meanings": [
+        "نیم قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "semi sphere",
+      "Meanings": [
+        "نیم کره"
+      ]
+    },
+    {
+      "EnglishWord": "semigroup",
+      "Meanings": [
+        "نیم گروه"
+      ]
+    },
+    {
+      "EnglishWord": "semimajor axis",
+      "Meanings": [
+        "نیم قطر مهین"
+      ]
+    },
+    {
+      "EnglishWord": "semimetric space",
+      "Meanings": [
+        "فضای نیمه متریک"
+      ]
+    },
+    {
+      "EnglishWord": "semiminor axis",
+      "Meanings": [
+        "نیم قطر کهین"
+      ]
+    },
+    {
+      "EnglishWord": "semiotic",
+      "Meanings": [
+        "ماورای منطق"
+      ]
+    },
+    {
+      "EnglishWord": "semisimple",
+      "Meanings": [
+        "شبه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "senary",
+      "Meanings": [
+        "شش",
+        "شش تایی"
+      ]
+    },
+    {
+      "EnglishWord": "sense",
+      "Meanings": [
+        "جهت",
+        "سو",
+        "مفهوم",
+        "معنی",
+        "مدلول"
+      ]
+    },
+    {
+      "EnglishWord": "sense of an angle",
+      "Meanings": [
+        "جهت زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "sense of inequality",
+      "Meanings": [
+        "جهت نامساوی"
+      ]
+    },
+    {
+      "EnglishWord": "sense of variation change of rate",
+      "Meanings": [
+        "جهت تغییرات تابع"
+      ]
+    },
+    {
+      "EnglishWord": "sensed",
+      "Meanings": [
+        "توجیه شده",
+        "هدایت شده",
+        "جهت دار",
+        "راستا دار"
+      ]
+    },
+    {
+      "EnglishWord": "sensible",
+      "Meanings": [
+        "محسوس"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity",
+      "Meanings": [
+        "حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity analysis",
+      "Meanings": [
+        "تحلیل حساسیت",
+        "بررسی حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sentence",
+      "Meanings": [
+        "جمله",
+        "گزاره",
+        "حکم"
+      ]
+    },
+    {
+      "EnglishWord": "sentential",
+      "Meanings": [
+        "جمله ای",
+        "گزاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "sentential calculus",
+      "Meanings": [
+        "حساب گزاره ها",
+        "حساب احکام",
+        "حساب گزاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "sentential connective",
+      "Meanings": [
+        "رابط گزاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "sentential letters",
+      "Meanings": [
+        "حروف جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "separable",
+      "Meanings": [
+        "تفکیک پذیر",
+        "جدایی پذیر",
+        "جدا شونده",
+        "جدا شدنی",
+        "تفکیک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "separable element",
+      "Meanings": [
+        "عنصر تفکیک‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "separable equation",
+      "Meanings": [
+        "معادله تفکیک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "separable space",
+      "Meanings": [
+        "فضای تفکیک پذیر",
+        "فضای مجزا",
+        "فضای جدایی پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "separate",
+      "Meanings": [
+        "مجزا کردن",
+        "جدا کردن",
+        "تفکیک کردن",
+        "مفروز کردن",
+        "مفروز شدن",
+        "جدا",
+        "منفک"
+      ]
+    },
+    {
+      "EnglishWord": "separate numbers",
+      "Meanings": [
+        "اعداد متباین"
+      ]
+    },
+    {
+      "EnglishWord": "separated",
+      "Meanings": [
+        "مجزا",
+        "جدا شده"
+      ]
+    },
+    {
+      "EnglishWord": "separated sets",
+      "Meanings": [
+        "مجموعه‌های مجزا",
+        "مجموعه‌های جدا از هم",
+        "مجموعه‌های جداشده"
+      ]
+    },
+    {
+      "EnglishWord": "separated variables",
+      "Meanings": [
+        "متغیرهای جدا",
+        "متغیرهای جدا شده"
+      ]
+    },
+    {
+      "EnglishWord": "separately continuous",
+      "Meanings": [
+        "جداگانه پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "separating",
+      "Meanings": [
+        "جدا",
+        "جداشونده"
+      ]
+    },
+    {
+      "EnglishWord": "separation",
+      "Meanings": [
+        "جداسازی",
+        "جدایش ف تجزیه",
+        "تفکیک",
+        "انفصال",
+        "عناد"
+      ]
+    },
+    {
+      "EnglishWord": "separation axiom",
+      "Meanings": [
+        "اصل موضوع جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "separation of ratio",
+      "Meanings": [
+        "تفصیا نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "separation of variables",
+      "Meanings": [
+        "تفکیک متغیرها",
+        "جداکردن متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "separatrix",
+      "Meanings": [
+        "جداساز"
+      ]
+    },
+    {
+      "EnglishWord": "seperable",
+      "Meanings": [
+        "جداپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "seperable extension",
+      "Meanings": [
+        "توسیع جداپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "seprable",
+      "Meanings": [
+        "تفکیک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "seprable algebraic extension",
+      "Meanings": [
+        "توسیع جبری تفکیک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "septenary",
+      "Meanings": [
+        "هفت تایی",
+        "مربوط به هفت"
+      ]
+    },
+    {
+      "EnglishWord": "septilateral",
+      "Meanings": [
+        "هفت ضلعی",
+        "هفت بر"
+      ]
+    },
+    {
+      "EnglishWord": "septillion",
+      "Meanings": [
+        "سپتیلیون",
+        "این عدد در آمریکا برابر با 10 به توان 24 و در انگستان برابر با 10 به توان 42 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "septimal",
+      "Meanings": [
+        "در مبنای هفت",
+        "هفت هفتی"
+      ]
+    },
+    {
+      "EnglishWord": "septinary",
+      "Meanings": [
+        "هفتگانی"
+      ]
+    },
+    {
+      "EnglishWord": "septuple",
+      "Meanings": [
+        "هفت تایی",
+        "هفت برابر"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "دنباله",
+        "رشته",
+        "مجموعه نتوالی",
+        "سلسله"
+      ]
+    },
+    {
+      "EnglishWord": "sequence of functions",
+      "Meanings": [
+        "دنباله توابع"
+      ]
+    },
+    {
+      "EnglishWord": "sequence of random variables",
+      "Meanings": [
+        "دنباله کمیت‌های تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential",
+      "Meanings": [
+        "دنباله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential analysis",
+      "Meanings": [
+        "تحلیل دنباله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential sampling",
+      "Meanings": [
+        "نمونه برداری تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential tests",
+      "Meanings": [
+        "آزمون‌های چندمرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "serial",
+      "Meanings": [
+        "پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "series",
+      "Meanings": [
+        "سری",
+        "رشته",
+        "سلسله",
+        "سری ها",
+        "رشته ها"
+      ]
+    },
+    {
+      "EnglishWord": "series of functions",
+      "Meanings": [
+        "سری توابع",
+        "رشته توابع",
+        "سلسله توابع"
+      ]
+    },
+    {
+      "EnglishWord": "series with positive terms",
+      "Meanings": [
+        "سری با جملات مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "serpentine",
+      "Meanings": [
+        "مارگونه منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "serrate",
+      "Meanings": [
+        "دندانه دار",
+        "اره ای"
+      ]
+    },
+    {
+      "EnglishWord": "server",
+      "Meanings": [
+        "سرویس دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "service",
+      "Meanings": [
+        "سرویس",
+        "خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "sesquilinear",
+      "Meanings": [
+        "دو خطی"
+      ]
+    },
+    {
+      "EnglishWord": "set",
+      "Meanings": [
+        "مجموعه",
+        "دسته",
+        "انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "set algebra",
+      "Meanings": [
+        "جبر مجموعه ها",
+        "جبر مجموعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "set bounded",
+      "Meanings": [
+        "مجموعه کران دار"
+      ]
+    },
+    {
+      "EnglishWord": "set builder",
+      "Meanings": [
+        "مجموعه ساز",
+        "سازنده مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "set builder notation",
+      "Meanings": [
+        "نماد مجموعه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "set convex",
+      "Meanings": [
+        "مجموعه محدب"
+      ]
+    },
+    {
+      "EnglishWord": "set function",
+      "Meanings": [
+        "تابع مجموعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "set inclusion",
+      "Meanings": [
+        "شمول مجموعه ای",
+        "شمول مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "set of all sets",
+      "Meanings": [
+        "مجموعه همه مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "set of all subsets",
+      "Meanings": [
+        "مجموعه تمام زیرمجموعه ها",
+        "مجموعه مجموعکان"
+      ]
+    },
+    {
+      "EnglishWord": "set of complex numbers",
+      "Meanings": [
+        "مجموعه اعداد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "set of conditions",
+      "Meanings": [
+        "مجموعه شروط",
+        "مجموعه شرایط"
+      ]
+    },
+    {
+      "EnglishWord": "set of definition",
+      "Meanings": [
+        "مجموعه تعریف"
+      ]
+    },
+    {
+      "EnglishWord": "set of elementry events",
+      "Meanings": [
+        "مجموعه حوادث ساده"
+      ]
+    },
+    {
+      "EnglishWord": "set of estimator",
+      "Meanings": [
+        "مجموعه برآورد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "set of generators of a group",
+      "Meanings": [
+        "مجموعه مولدهای یک گروه"
+      ]
+    },
+    {
+      "EnglishWord": "set of generators of a module",
+      "Meanings": [
+        "مجموعه مولدهای یک مدول"
+      ]
+    },
+    {
+      "EnglishWord": "set of integers",
+      "Meanings": [
+        "مجموعه اعداد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "set of mathematical functions",
+      "Meanings": [
+        "مجموعه توابع ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "set of measure zero",
+      "Meanings": [
+        "مجموعه با اندازه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "set of rational numbers",
+      "Meanings": [
+        "مجموعه اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "set of real numbers",
+      "Meanings": [
+        "مجموعه اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "set of sets",
+      "Meanings": [
+        "مجموعه مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "set of simple events",
+      "Meanings": [
+        "مجموعه حوادث ساده"
+      ]
+    },
+    {
+      "EnglishWord": "set of subsets",
+      "Meanings": [
+        "مجموعه زیر مجموعه ها",
+        "مجموعه بخش ها"
+      ]
+    },
+    {
+      "EnglishWord": "set of subsets of x",
+      "Meanings": [
+        "مجموعه بخش‌های x"
+      ]
+    },
+    {
+      "EnglishWord": "set of values",
+      "Meanings": [
+        "مجموعه مقادیر"
+      ]
+    },
+    {
+      "EnglishWord": "set operations",
+      "Meanings": [
+        "مجموعه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "set square",
+      "Meanings": [
+        "گونیا",
+        "گونیای قابل تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "set theoretic identity",
+      "Meanings": [
+        "اتحاد نظریه مجموعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "set theoretic notations",
+      "Meanings": [
+        "نمادهای نظریه مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "set theory",
+      "Meanings": [
+        "نظریه مجموعه ها",
+        "تیوری مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "set with n elements",
+      "Meanings": [
+        "مجموعه n عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "set with one element",
+      "Meanings": [
+        "مجموعه یک عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "seven",
+      "Meanings": [
+        "هفت"
+      ]
+    },
+    {
+      "EnglishWord": "severance",
+      "Meanings": [
+        "جداسازی",
+        "تفکیک",
+        "تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "sexadecimal",
+      "Meanings": [
+        "شانزده گانی"
+      ]
+    },
+    {
+      "EnglishWord": "sexagesimal",
+      "Meanings": [
+        "گانی",
+        "شصت شصتی",
+        "شصت تایی",
+        "شصتی"
+      ]
+    },
+    {
+      "EnglishWord": "sexagesimal division",
+      "Meanings": [
+        "تقسیمات شصت تایی درجه"
+      ]
+    },
+    {
+      "EnglishWord": "sexagesimal fraction",
+      "Meanings": [
+        "کسر شصتی",
+        "کسر شصتگانی"
+      ]
+    },
+    {
+      "EnglishWord": "sexagesimal system",
+      "Meanings": [
+        "دستگاه شصت تایی"
+      ]
+    },
+    {
+      "EnglishWord": "sexagesimal system of numeration",
+      "Meanings": [
+        "دستگاه شمار در مبنای شصت"
+      ]
+    },
+    {
+      "EnglishWord": "sextant",
+      "Meanings": [
+        "یک ششم دایره",
+        "سکستانت"
+      ]
+    },
+    {
+      "EnglishWord": "sextic",
+      "Meanings": [
+        "درجه ششم"
+      ]
+    },
+    {
+      "EnglishWord": "sextillion",
+      "Meanings": [
+        "سکستیلیون",
+        "این عدد در آمریکا برابر با 10 به توان 21 و در انگلستان برابر با 10 به توان 36 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "sextuple",
+      "Meanings": [
+        "شش تایی"
+      ]
+    },
+    {
+      "EnglishWord": "sextuplet",
+      "Meanings": [
+        "شش گان"
+      ]
+    },
+    {
+      "EnglishWord": "shade",
+      "Meanings": [
+        "سایه",
+        "آژ",
+        "سایه زدن"
+      ]
+    },
+    {
+      "EnglishWord": "shape",
+      "Meanings": [
+        "شکل",
+        "اندام",
+        "دیس",
+        "شکل دادن"
+      ]
+    },
+    {
+      "EnglishWord": "sharpness",
+      "Meanings": [
+        "تیزی"
+      ]
+    },
+    {
+      "EnglishWord": "sheaf",
+      "Meanings": [
+        "دسته",
+        "کلاف",
+        "بافه"
+      ]
+    },
+    {
+      "EnglishWord": "shear",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "sheet",
+      "Meanings": [
+        "برگه",
+        "صفحه",
+        "برگ",
+        "ورق",
+        "لایه",
+        "پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "sheldon m. ross",
+      "Meanings": [
+        "نویسنده کتاب آمار ریاضی",
+        "استاد دانشگاه برکلی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "shell",
+      "Meanings": [
+        "پوسته",
+        "لایه"
+      ]
+    },
+    {
+      "EnglishWord": "shell method",
+      "Meanings": [
+        "روش پوسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "sheppard's correction",
+      "Meanings": [
+        "تصحیح شپرد"
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "short",
+      "Meanings": [
+        "کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short exact sequence",
+      "Meanings": [
+        "دنباله دقیق کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "shorter",
+      "Meanings": [
+        "کوتاه تر",
+        "اقصر"
+      ]
+    },
+    {
+      "EnglishWord": "shorter of the short sides",
+      "Meanings": [
+        "کوتاه‌ترین هر دو فرد",
+        "اقصرالاقصرین"
+      ]
+    },
+    {
+      "EnglishWord": "shortest",
+      "Meanings": [
+        "کوتاه ترین"
+      ]
+    },
+    {
+      "EnglishWord": "shortest path problem",
+      "Meanings": [
+        "مسیله کوتاهترین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "show",
+      "Meanings": [
+        "نشان دادن",
+        "نمایش دادن",
+        "صریح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage",
+      "Meanings": [
+        "انقباض",
+        "کوچک سازی"
+      ]
+    },
+    {
+      "EnglishWord": "shrinking",
+      "Meanings": [
+        "انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "shuffle",
+      "Meanings": [
+        "بر زدن"
+      ]
+    },
+    {
+      "EnglishWord": "side",
+      "Meanings": [
+        "ضلع",
+        "طرف ادوات و…",
+        "بر",
+        "جنب",
+        "جانب",
+        "پهلو",
+        "سو",
+        "جهت"
+      ]
+    },
+    {
+      "EnglishWord": "side condition",
+      "Meanings": [
+        "شرط جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "side restriction",
+      "Meanings": [
+        "قید جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "side view",
+      "Meanings": [
+        "نیم رخ"
+      ]
+    },
+    {
+      "EnglishWord": "sieve of eratosthenes",
+      "Meanings": [
+        "غربال اراتستن"
+      ]
+    },
+    {
+      "EnglishWord": "sigma",
+      "Meanings": [
+        "سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "sigma field",
+      "Meanings": [
+        "سیگما هییت",
+        "سیگما جبر"
+      ]
+    },
+    {
+      "EnglishWord": "sigma ring",
+      "Meanings": [
+        "سیگما حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "sigma score",
+      "Meanings": [
+        "نمره سیگمایی"
+      ]
+    },
+    {
+      "EnglishWord": "sigma unit",
+      "Meanings": [
+        "واحد سیگمایی"
+      ]
+    },
+    {
+      "EnglishWord": "sign",
+      "Meanings": [
+        "علامت",
+        "نشانه",
+        "اثر",
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "sign of equality",
+      "Meanings": [
+        "علامت تساوی"
+      ]
+    },
+    {
+      "EnglishWord": "sign of membership",
+      "Meanings": [
+        "علامت تعلق"
+      ]
+    },
+    {
+      "EnglishWord": "sign preserving property",
+      "Meanings": [
+        "خاصیت محفوظ ماندن علامت"
+      ]
+    },
+    {
+      "EnglishWord": "sign test",
+      "Meanings": [
+        "آزمون علامت",
+        "آزمایش علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signal",
+      "Meanings": [
+        "نشان",
+        "راهنما",
+        "اخطار",
+        "علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signature",
+      "Meanings": [
+        "نشان",
+        "علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signature of a permutation",
+      "Meanings": [
+        "نشانه یک جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "signed",
+      "Meanings": [
+        "علامت دار",
+        "نشان دار"
+      ]
+    },
+    {
+      "EnglishWord": "signed measure",
+      "Meanings": [
+        "اندازه با علامت",
+        "اندازه علامت دار"
+      ]
+    },
+    {
+      "EnglishWord": "signed number",
+      "Meanings": [
+        "عدد علامت دار",
+        "عدد جبری"
+      ]
+    },
+    {
+      "EnglishWord": "signed rank",
+      "Meanings": [
+        "رتبه علامت دار"
+      ]
+    },
+    {
+      "EnglishWord": "signed rank statistics",
+      "Meanings": [
+        "آماره‌های رتبه علامت دار"
+      ]
+    },
+    {
+      "EnglishWord": "signed rank test",
+      "Meanings": [
+        "آزمون رتبه علامت‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "significance",
+      "Meanings": [
+        "با معنایی",
+        "معنی دار بودن",
+        "مفهوم",
+        "معنی",
+        "مدلول",
+        "اعتبار",
+        "اهمیت",
+        "قدر"
+      ]
+    },
+    {
+      "EnglishWord": "significance level",
+      "Meanings": [
+        "سطح معنی دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "significance probability",
+      "Meanings": [
+        "احتمال معنی دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "significance test",
+      "Meanings": [
+        "آزمون معنی دار بودن",
+        "آزمون معنی دار"
+      ]
+    },
+    {
+      "EnglishWord": "significant",
+      "Meanings": [
+        "معنی دار",
+        "بامعنی",
+        "معتبر",
+        "رهنمون"
+      ]
+    },
+    {
+      "EnglishWord": "significant digit",
+      "Meanings": [
+        "رقم بامعنی"
+      ]
+    },
+    {
+      "EnglishWord": "significant figure",
+      "Meanings": [
+        "شکل بامعنی",
+        "رقم بامعنی",
+        "رقم معنی دار"
+      ]
+    },
+    {
+      "EnglishWord": "signification",
+      "Meanings": [
+        "معنی",
+        "دلالت در آمار"
+      ]
+    },
+    {
+      "EnglishWord": "signum",
+      "Meanings": [
+        "علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signum function",
+      "Meanings": [
+        "تابع علامت",
+        "تابع نشانه"
+      ]
+    },
+    {
+      "EnglishWord": "similar",
+      "Meanings": [
+        "متشابه",
+        "متجانس",
+        "مشابه",
+        "همانند",
+        "شبیه"
+      ]
+    },
+    {
+      "EnglishWord": "similar arcs",
+      "Meanings": [
+        "قوس‌های متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similar figure",
+      "Meanings": [
+        "مجانس"
+      ]
+    },
+    {
+      "EnglishWord": "similar matrices",
+      "Meanings": [
+        "ماتریس‌های متشابه",
+        "ماتریس‌های همانند"
+      ]
+    },
+    {
+      "EnglishWord": "similar permutations",
+      "Meanings": [
+        "تبدیلات متشابه",
+        "تبدیلات مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "similar sets",
+      "Meanings": [
+        "مجموعه‌های همانند",
+        "مجموعه‌های متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similar terms",
+      "Meanings": [
+        "جملات متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similar triangles",
+      "Meanings": [
+        "مثلث‌های متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similarity",
+      "Meanings": [
+        "تشابه مجموعه‌ها",
+        "همسانی",
+        "همانندی",
+        "شباهت",
+        "مانندی",
+        "مانایی",
+        "ترکیبی از دوران و تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "similarity correspondence",
+      "Meanings": [
+        "تشابه نظیر به نظیر",
+        "تناظر تشابهی"
+      ]
+    },
+    {
+      "EnglishWord": "similarity mapping",
+      "Meanings": [
+        "تصویر همانند"
+      ]
+    },
+    {
+      "EnglishWord": "similarity relation",
+      "Meanings": [
+        "نسبت هم قوه بودن"
+      ]
+    },
+    {
+      "EnglishWord": "similarity transformation",
+      "Meanings": [
+        "تبدیل تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similary ordered",
+      "Meanings": [
+        "متشابه الترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "similitude",
+      "Meanings": [
+        "تشابه در هندسه",
+        "همسانی",
+        "همانندی",
+        "ترکیبی از دوران و تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "simple",
+      "Meanings": [
+        "ساده",
+        "مختصر",
+        "بسیط گزاره",
+        "ریشه معادله"
+      ]
+    },
+    {
+      "EnglishWord": "simple algebraic extension",
+      "Meanings": [
+        "توسیع ساده جبری"
+      ]
+    },
+    {
+      "EnglishWord": "simple arc",
+      "Meanings": [
+        "کمان جردن",
+        "کمان ساده",
+        "قوس ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple arrangement",
+      "Meanings": [
+        "ترتیب ساده در آنالیز"
+      ]
+    },
+    {
+      "EnglishWord": "simple closed contour",
+      "Meanings": [
+        "مرز ساده بسته"
+      ]
+    },
+    {
+      "EnglishWord": "simple closed curve",
+      "Meanings": [
+        "منحنی بسته ساده",
+        "خم جردن",
+        "خم بسته ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple combination",
+      "Meanings": [
+        "ترکیب ساده در آنالیز"
+      ]
+    },
+    {
+      "EnglishWord": "simple connectivity",
+      "Meanings": [
+        "همبندی ساده",
+        "پیوستگی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple constant",
+      "Meanings": [
+        "ثابت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple convergence topology",
+      "Meanings": [
+        "توپولوژی همگرایی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple converse",
+      "Meanings": [
+        "عکس ساده منطق"
+      ]
+    },
+    {
+      "EnglishWord": "simple discontinuity",
+      "Meanings": [
+        "ناپیوستگی ساده",
+        "انفصال ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple equations",
+      "Meanings": [
+        "معادلات ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple event",
+      "Meanings": [
+        "پیشامد ساده",
+        "حادثه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple events",
+      "Meanings": [
+        "حوادث ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple field",
+      "Meanings": [
+        "میدان ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple finite",
+      "Meanings": [
+        "متناهی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple flow",
+      "Meanings": [
+        "سیل ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple function",
+      "Meanings": [
+        "تابع ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple generate",
+      "Meanings": [
+        "تولید شده ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple graph",
+      "Meanings": [
+        "گراف ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple group",
+      "Meanings": [
+        "گروه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple harmonic motion",
+      "Meanings": [
+        "حرکت هماهنگ ساده",
+        "حرکت نوسانی ساده",
+        "حرکت توافقی ساده",
+        "حرکت پاندولی",
+        "حرکت سینوسی",
+        "حرکت جیبی"
+      ]
+    },
+    {
+      "EnglishWord": "simple hypothesis",
+      "Meanings": [
+        "فرض ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple k module",
+      "Meanings": [
+        "k",
+        "مدول ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple linear equations",
+      "Meanings": [
+        "معادلات خطی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple linear regression",
+      "Meanings": [
+        "رگرسیون خطی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple motion",
+      "Meanings": [
+        "حرکت پاندولی",
+        "حرکت سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "simple multivariate regression",
+      "Meanings": [
+        "رگرسیون چند متغیره ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple normal",
+      "Meanings": [
+        "نرمال ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple open arc",
+      "Meanings": [
+        "کمان ساده باز"
+      ]
+    },
+    {
+      "EnglishWord": "simple order",
+      "Meanings": [
+        "ترتیب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple order relation",
+      "Meanings": [
+        "نسبت ترتیبی ساده",
+        "رابطه ترتیبی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple pendulum",
+      "Meanings": [
+        "آونگ ساده",
+        "پاندول ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple pole",
+      "Meanings": [
+        "قطب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple posiotion",
+      "Meanings": [
+        "قاعده خطا و تصحیح ساده",
+        "قاعده امتحان و تصحیح ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple proposition",
+      "Meanings": [
+        "گزاره بسیط",
+        "گزاره ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple random sample",
+      "Meanings": [
+        "نمونه تصادفی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple random sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple random variable",
+      "Meanings": [
+        "متغیر تصادفی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple root",
+      "Meanings": [
+        "ریشه ساده",
+        "ریشه مرتبه یک"
+      ]
+    },
+    {
+      "EnglishWord": "simple sampling",
+      "Meanings": [
+        "نمونه برداری ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple sentece",
+      "Meanings": [
+        "گزاره بسیط",
+        "جمله ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple statement",
+      "Meanings": [
+        "گزاره بسیط"
+      ]
+    },
+    {
+      "EnglishWord": "simple transcedental extension",
+      "Meanings": [
+        "توسیع ساده متعالی"
+      ]
+    },
+    {
+      "EnglishWord": "simple transcendental",
+      "Meanings": [
+        "تعالی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple zero",
+      "Meanings": [
+        "صفر ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simplex",
+      "Meanings": [
+        "بسیط",
+        "سادک",
+        "سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "simplex set",
+      "Meanings": [
+        "مجموعه سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "simplicial",
+      "Meanings": [
+        "سادکی"
+      ]
+    },
+    {
+      "EnglishWord": "simplicial scheme",
+      "Meanings": [
+        "طرح بسیط گونه"
+      ]
+    },
+    {
+      "EnglishWord": "simplifiable element",
+      "Meanings": [
+        "عضو ساده شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "simplification",
+      "Meanings": [
+        "اختصار",
+        "ساده کردن",
+        "مختصر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simplification laws",
+      "Meanings": [
+        "قوانین اختصار"
+      ]
+    },
+    {
+      "EnglishWord": "simplified",
+      "Meanings": [
+        "ساده نشدنی",
+        "تحویل ناپذیر",
+        "ساده شده"
+      ]
+    },
+    {
+      "EnglishWord": "simplified fraction",
+      "Meanings": [
+        "کسر تحویل ناپذیر",
+        "کسر ساده شده"
+      ]
+    },
+    {
+      "EnglishWord": "simplified truth table",
+      "Meanings": [
+        "جدول ارزش اختصاری"
+      ]
+    },
+    {
+      "EnglishWord": "simplify",
+      "Meanings": [
+        "ساده کردن",
+        "مختصر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "simply",
+      "Meanings": [
+        "ساده",
+        "به طور ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply connected",
+      "Meanings": [
+        "همبند ساده",
+        "با همبندی ساده",
+        "یک پارچه",
+        "دارای ارتباط ساده",
+        "مرتبط ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply connected domain",
+      "Meanings": [
+        "حوزه همبند ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply connected region",
+      "Meanings": [
+        "ناحیه همبند ساده",
+        "ناحیه یک پارچه",
+        "حوزه با همبندی ساده",
+        "ناحیه مرتبط ساده",
+        "حوزه با همبستگی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply connected set",
+      "Meanings": [
+        "مجموعه مرتبط ساده",
+        "مجموعه همبند ساده",
+        "مجموعه هموسته ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply connectedness",
+      "Meanings": [
+        "همبندی ساده",
+        "ارتباط ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simply ordered set",
+      "Meanings": [
+        "مجموعهی مرتب به ترتیب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simpson distribution law",
+      "Meanings": [
+        "قانون بخش سیمپسون"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه‌سازی",
+        "تشبیه",
+        "وانمایی"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous",
+      "Meanings": [
+        "همزمان",
+        "با هم",
+        "مقارن",
+        "توام",
+        "همجنس"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل همگن"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous equations",
+      "Meanings": [
+        "دستگاه معادلات",
+        "معادلات توام"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous fiducial distribution",
+      "Meanings": [
+        "توزیع فیدوسیال مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous inequalities",
+      "Meanings": [
+        "دستگاه نامعادلات",
+        "دستگاه نامساوی ها",
+        "نامساوی‌های همزمان",
+        "نامعادلات توام"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous linear equations",
+      "Meanings": [
+        "دستگاه معادلات خطی",
+        "معادلات خطی همزمان",
+        "معادلات خطی توام"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneously",
+      "Meanings": [
+        "با هم",
+        "توام",
+        "مقارن",
+        "به طور همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "sine",
+      "Meanings": [
+        "سینوس",
+        "جیب"
+      ]
+    },
+    {
+      "EnglishWord": "sine function",
+      "Meanings": [
+        "تابع سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sine series",
+      "Meanings": [
+        "سری سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sine theorem",
+      "Meanings": [
+        "قضیه سینوس"
+      ]
+    },
+    {
+      "EnglishWord": "single",
+      "Meanings": [
+        "منحصر به فرد",
+        "یگانه",
+        "منفرد",
+        "تک",
+        "یک"
+      ]
+    },
+    {
+      "EnglishWord": "single element event",
+      "Meanings": [
+        "پیشامد تک عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "single factor",
+      "Meanings": [
+        "تک عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "single member event",
+      "Meanings": [
+        "پیشامد تک عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "single number",
+      "Meanings": [
+        "عد واحد"
+      ]
+    },
+    {
+      "EnglishWord": "single response",
+      "Meanings": [
+        "تک پاسخی"
+      ]
+    },
+    {
+      "EnglishWord": "single sampling plan",
+      "Meanings": [
+        "نقشه نمونه گیری یکباری"
+      ]
+    },
+    {
+      "EnglishWord": "single value",
+      "Meanings": [
+        "تک مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "single valued",
+      "Meanings": [
+        "تک مقدار",
+        "تک ارز",
+        "یک مقداری",
+        "یک ارزشی",
+        "تک مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "single valued function",
+      "Meanings": [
+        "تابع یک مقداری",
+        "تابع تک مقداری",
+        "تابع همانی"
+      ]
+    },
+    {
+      "EnglishWord": "singleton",
+      "Meanings": [
+        "مجموعه تک عضوی",
+        "منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "singleton set",
+      "Meanings": [
+        "مجموعه تک عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "singly asymptotic traingle",
+      "Meanings": [
+        "مثلث تک‌مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "singly asymptotic triangle",
+      "Meanings": [
+        "مثلث تک مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "singly periodic",
+      "Meanings": [
+        "متناوب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "singular",
+      "Meanings": [
+        "منفرد",
+        "ویژه",
+        "مخصوص",
+        "استثنایی",
+        "خصوصی",
+        "ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "singular integral",
+      "Meanings": [
+        "انتگرال ممتاز",
+        "جامعه ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "singular interval",
+      "Meanings": [
+        "فاصله ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "singular judgement",
+      "Meanings": [
+        "حکم شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "singular limits",
+      "Meanings": [
+        "حدود ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "singular matrix",
+      "Meanings": [
+        "ماتریس منفرد",
+        "ماتریس معکوس ناپذیر",
+        "ماتریس نامنظم",
+        "ماتریس ویژه",
+        "ماتریس استثنایی",
+        "ماتریس مفرد",
+        "ماتریس مخصوص",
+        "ماتریس تکا"
+      ]
+    },
+    {
+      "EnglishWord": "singular normal distribution",
+      "Meanings": [
+        "توزیع نرمال ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "singular point",
+      "Meanings": [
+        "نقطه منفرد",
+        "نقطه ویژه",
+        "نقطه مخصوص",
+        "نقطه تکین"
+      ]
+    },
+    {
+      "EnglishWord": "singular proposition",
+      "Meanings": [
+        "گزاره شخصی",
+        "قضیه شخصیه"
+      ]
+    },
+    {
+      "EnglishWord": "singular root",
+      "Meanings": [
+        "ریشه ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "singular sentence",
+      "Meanings": [
+        "گزاره شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "singular solution",
+      "Meanings": [
+        "جواب منفرد",
+        "جواب ممتاز",
+        "جواب تکین",
+        "جواب تکا"
+      ]
+    },
+    {
+      "EnglishWord": "singular statement",
+      "Meanings": [
+        "گزاره شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "singularity",
+      "Meanings": [
+        "خصوصیت",
+        "انفراد",
+        "نقطه منفرد",
+        "ویژگی",
+        "استثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "singularity connective",
+      "Meanings": [
+        "ادات یک طرفی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "sinh",
+      "Meanings": [
+        "سینوس هیپربولیک",
+        "سینوس هذلولوی",
+        "علامت اختصاری برای سینوس هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "sinistrose",
+      "Meanings": [
+        "چپگرد"
+      ]
+    },
+    {
+      "EnglishWord": "sink",
+      "Meanings": [
+        "چاه",
+        "چاهک",
+        "زیراب"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoid",
+      "Meanings": [
+        "سینوس وار",
+        "منحنی سینوسی",
+        "سینوسویید"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal",
+      "Meanings": [
+        "سینوس وار حرکت",
+        "مربوط به منحنی سینوسی",
+        "سینوس وار گون"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal oscillation",
+      "Meanings": [
+        "نوسان سینوس وار گون"
+      ]
+    },
+    {
+      "EnglishWord": "situate",
+      "Meanings": [
+        "تعیین محل کردن",
+        "معلوم کردن",
+        "جا دادن"
+      ]
+    },
+    {
+      "EnglishWord": "situation",
+      "Meanings": [
+        "وضع",
+        "موقعیت",
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "six angled",
+      "Meanings": [
+        "شش گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "six sides",
+      "Meanings": [
+        "شش جهت"
+      ]
+    },
+    {
+      "EnglishWord": "size",
+      "Meanings": [
+        "اندازه",
+        "بزرگی",
+        "حجم در نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "size of a test",
+      "Meanings": [
+        "اندازه یک آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "size of critical region",
+      "Meanings": [
+        "اندازه ناحیه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "size of experiment",
+      "Meanings": [
+        "حجم آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "size of sample",
+      "Meanings": [
+        "بزرگی نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "skeleton",
+      "Meanings": [
+        "اسکلت",
+        "استخوان بندی"
+      ]
+    },
+    {
+      "EnglishWord": "sketch",
+      "Meanings": [
+        "طرح",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "skew",
+      "Meanings": [
+        "اریب",
+        "کج",
+        "چاوله",
+        "بر هم افتاده",
+        "از هم گذشته",
+        "مورب",
+        "متنافر"
+      ]
+    },
+    {
+      "EnglishWord": "skew bridge",
+      "Meanings": [
+        "پل چاوله"
+      ]
+    },
+    {
+      "EnglishWord": "skew coefficient",
+      "Meanings": [
+        "ضریب چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "skew curve",
+      "Meanings": [
+        "منحنی فضایی",
+        "منحنی معوج"
+      ]
+    },
+    {
+      "EnglishWord": "skew distribution",
+      "Meanings": [
+        "نوزیع ناهنجار",
+        "توزیع چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skew field",
+      "Meanings": [
+        "میدان اریب",
+        "هییت کج",
+        "هییت معوج"
+      ]
+    },
+    {
+      "EnglishWord": "skew hermitian matrix",
+      "Meanings": [
+        "ماتریس هرمیتی اریب"
+      ]
+    },
+    {
+      "EnglishWord": "skew lines",
+      "Meanings": [
+        "خطوط متنافر",
+        "خطوط از هم گریز"
+      ]
+    },
+    {
+      "EnglishWord": "skew quadrilateral",
+      "Meanings": [
+        "چهارضلعی فضایی",
+        "چهارضلعی صلیبی",
+        "چهارضلعی خاجی",
+        "چهارضلعی معوج"
+      ]
+    },
+    {
+      "EnglishWord": "skew symmetric",
+      "Meanings": [
+        "متقارن کج",
+        "متقارن اریب",
+        "متقارن چپ",
+        "قرینه چپ",
+        "ضد متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "skew symmetric matrix",
+      "Meanings": [
+        "ماتریس متقارن چپ",
+        "ماتریس متقارن اریب",
+        "ماتریس متقارن چوله",
+        "ماتریس متقارن کج"
+      ]
+    },
+    {
+      "EnglishWord": "skew symmetry",
+      "Meanings": [
+        "شبه تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "skew to the right",
+      "Meanings": [
+        "چوله به راست"
+      ]
+    },
+    {
+      "EnglishWord": "skewed",
+      "Meanings": [
+        "اریب",
+        "کج",
+        "منحرف",
+        "چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skewness",
+      "Meanings": [
+        "تنافر",
+        "چولگی",
+        "کجی",
+        "چاولگی",
+        "کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "skewness of two lines",
+      "Meanings": [
+        "از هم گریزی دو خط",
+        "تنافر دو خط"
+      ]
+    },
+    {
+      "EnglishWord": "slack",
+      "Meanings": [
+        "کمکی",
+        "سست",
+        "ناپایا"
+      ]
+    },
+    {
+      "EnglishWord": "slack variable",
+      "Meanings": [
+        "متغیر کمکی",
+        "متغیر سست"
+      ]
+    },
+    {
+      "EnglishWord": "slant",
+      "Meanings": [
+        "شیب",
+        "اریب",
+        "مایل",
+        "کج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "slant asymptote",
+      "Meanings": [
+        "مجانب مایل",
+        "مجانب کج"
+      ]
+    },
+    {
+      "EnglishWord": "slant height",
+      "Meanings": [
+        "مولد مخروط سهم هرم",
+        "مولد مخروط دوار",
+        "سهم هرم منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "slant line",
+      "Meanings": [
+        "خط کسری",
+        "خط مورب"
+      ]
+    },
+    {
+      "EnglishWord": "slice",
+      "Meanings": [
+        "تراشه",
+        "قاچ"
+      ]
+    },
+    {
+      "EnglishWord": "slide",
+      "Meanings": [
+        "لغزش",
+        "لغزنده",
+        "لغزیدن",
+        "لغزاندن"
+      ]
+    },
+    {
+      "EnglishWord": "slide rule",
+      "Meanings": [
+        "خط کش محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "sliding",
+      "Meanings": [
+        "لغزش",
+        "لغزان",
+        "لغزنده"
+      ]
+    },
+    {
+      "EnglishWord": "sliding bar",
+      "Meanings": [
+        "میله ای افقی نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "sliding scale",
+      "Meanings": [
+        "جدول قابل تنظیم با درآمد افراد"
+      ]
+    },
+    {
+      "EnglishWord": "sliding vector",
+      "Meanings": [
+        "بردار لغزان",
+        "بردار لغزنده",
+        "بردار سران"
+      ]
+    },
+    {
+      "EnglishWord": "slit",
+      "Meanings": [
+        "چاک",
+        "رخنه",
+        "شکافتن",
+        "باریکه",
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "slobbovian integral",
+      "Meanings": [
+        "انتگرال اسلوبووی"
+      ]
+    },
+    {
+      "EnglishWord": "slope",
+      "Meanings": [
+        "شیب",
+        "ضریب زاویه",
+        "ضریب زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "slope angle",
+      "Meanings": [
+        "زاویه تمایل",
+        "زاویه انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "slope of a line",
+      "Meanings": [
+        "ضریب زاویه یک خط",
+        "شیب یک خط"
+      ]
+    },
+    {
+      "EnglishWord": "small category",
+      "Meanings": [
+        "رسته کوچک",
+        "کاتگوری کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "small circle",
+      "Meanings": [
+        "دایره صغیره"
+      ]
+    },
+    {
+      "EnglishWord": "small sample",
+      "Meanings": [
+        "نمونه کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "small sample test",
+      "Meanings": [
+        "آزمون کوچک نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "small span theorem",
+      "Meanings": [
+        "قضیه پیمای کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "smaller",
+      "Meanings": [
+        "کوچکتر",
+        "پایینی",
+        "زیرین",
+        "کمتر"
+      ]
+    },
+    {
+      "EnglishWord": "smaller area",
+      "Meanings": [
+        "سطح کوچکتر",
+        "قطعه کمتر از نیم در سطح زیر منحنی طبیعی و نظایر آن"
+      ]
+    },
+    {
+      "EnglishWord": "smallest element",
+      "Meanings": [
+        "کوچکترین عنصر",
+        "عضو کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "smallest member",
+      "Meanings": [
+        "کوچکترین عضو"
+      ]
+    },
+    {
+      "EnglishWord": "smooth",
+      "Meanings": [
+        "هموار",
+        "ملایم",
+        "صیقلی"
+      ]
+    },
+    {
+      "EnglishWord": "smooth arc",
+      "Meanings": [
+        "قوس هموار"
+      ]
+    },
+    {
+      "EnglishWord": "smooth surface",
+      "Meanings": [
+        "سطح هموار"
+      ]
+    },
+    {
+      "EnglishWord": "smoothing",
+      "Meanings": [
+        "هموار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "snark",
+      "Meanings": [
+        "اسنارک"
+      ]
+    },
+    {
+      "EnglishWord": "soccessor",
+      "Meanings": [
+        "تالی مجموعه مرتب",
+        "عدد",
+        "موخر",
+        "مابعد",
+        "پی آیند"
+      ]
+    },
+    {
+      "EnglishWord": "solenoidal",
+      "Meanings": [
+        "سولنوییدال",
+        "سولنوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "solenoidal field",
+      "Meanings": [
+        "میدان سولنوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "solid",
+      "Meanings": [
+        "جسم",
+        "جسم صلب",
+        "جامد",
+        "توپر",
+        "سه بعدی",
+        "یک پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "solid analytic gepmetry",
+      "Meanings": [
+        "هندسه تحلیلی فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "solid angle",
+      "Meanings": [
+        "زاویه جسم",
+        "زاویه مجسم",
+        "کنج",
+        "زاویه فضایی",
+        "زاویه جسمی",
+        "زاویه صلب"
+      ]
+    },
+    {
+      "EnglishWord": "solid body",
+      "Meanings": [
+        "جسم سخت"
+      ]
+    },
+    {
+      "EnglishWord": "solid geometry",
+      "Meanings": [
+        "هندسه فضایی",
+        "هندسه مجسمه"
+      ]
+    },
+    {
+      "EnglishWord": "solid numbers",
+      "Meanings": [
+        "اعداد مجسم"
+      ]
+    },
+    {
+      "EnglishWord": "solid of revolution",
+      "Meanings": [
+        "جسم دوار",
+        "جسم گردشی",
+        "جسم دوران یافته"
+      ]
+    },
+    {
+      "EnglishWord": "solid sphere",
+      "Meanings": [
+        "کره تو پر"
+      ]
+    },
+    {
+      "EnglishWord": "solidus",
+      "Meanings": [
+        "خط کسری"
+      ]
+    },
+    {
+      "EnglishWord": "soliton",
+      "Meanings": [
+        "سولیتون"
+      ]
+    },
+    {
+      "EnglishWord": "soluble",
+      "Meanings": [
+        "قابل حل",
+        "حل شدنی",
+        "حل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "soluble group",
+      "Meanings": [
+        "گروه حل‌پذیر",
+        "گروه قابل حل"
+      ]
+    },
+    {
+      "EnglishWord": "solution",
+      "Meanings": [
+        "حل",
+        "جواب",
+        "نتیجه",
+        "پاسخ",
+        "راه حل",
+        "گشایش"
+      ]
+    },
+    {
+      "EnglishWord": "solution by radical",
+      "Meanings": [
+        "حل به‌وسیله رادیکال‌"
+      ]
+    },
+    {
+      "EnglishWord": "solution by radicals",
+      "Meanings": [
+        "حل به وسیله رادیکال ها",
+        "حل به وسیله ریشه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "solution of a system of equations by addition and subtraction",
+      "Meanings": [
+        "حل یک دستگاه چند مجهولی از راه حذف تحویلی ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "solution of a system of equations by elimination",
+      "Meanings": [
+        "حل یک دستگاه چند مجهولی از طریق حذف تبدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "solution of a triangle",
+      "Meanings": [
+        "حل مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "solvability by radicals",
+      "Meanings": [
+        "حل پذیری توسط رادیکال ها"
+      ]
+    },
+    {
+      "EnglishWord": "solvable",
+      "Meanings": [
+        "قابل حل",
+        "حل پذیر",
+        "حل شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "solvable group",
+      "Meanings": [
+        "گروه قابل حل",
+        "گروه حل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "solve",
+      "Meanings": [
+        "حل کردن",
+        "گشودن"
+      ]
+    },
+    {
+      "EnglishWord": "solving",
+      "Meanings": [
+        "حل"
+      ]
+    },
+    {
+      "EnglishWord": "sondage",
+      "Meanings": [
+        "مراجعه به عده معدود"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "منبع",
+        "ماخذ"
+      ]
+    },
+    {
+      "EnglishWord": "source of a mapping",
+      "Meanings": [
+        "مبدا یک مطابقه"
+      ]
+    },
+    {
+      "EnglishWord": "source set",
+      "Meanings": [
+        "مجموعه عزیمت"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "فضا",
+        "مکان"
+      ]
+    },
+    {
+      "EnglishWord": "space curve",
+      "Meanings": [
+        "منحنی فضایی",
+        "خم فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "space filling",
+      "Meanings": [
+        "فضا پر کن"
+      ]
+    },
+    {
+      "EnglishWord": "space filling curve",
+      "Meanings": [
+        "منحنی فضا پر کن",
+        "خم فضا پر کن",
+        "منحنی فضا گیر"
+      ]
+    },
+    {
+      "EnglishWord": "space geometry",
+      "Meanings": [
+        "هندسه فضایی",
+        "هندسه مجسمه"
+      ]
+    },
+    {
+      "EnglishWord": "space of elementry events",
+      "Meanings": [
+        "فضای حوادث پیشامدهای ساده"
+      ]
+    },
+    {
+      "EnglishWord": "space of freedom",
+      "Meanings": [
+        "فضای آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "space of simple events",
+      "Meanings": [
+        "فضای حوادث پیشامدهای ساده"
+      ]
+    },
+    {
+      "EnglishWord": "space time",
+      "Meanings": [
+        "فضا",
+        "زمان"
+      ]
+    },
+    {
+      "EnglishWord": "spacial",
+      "Meanings": [
+        "فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spade",
+      "Meanings": [
+        "پیک",
+        "گلابی"
+      ]
+    },
+    {
+      "EnglishWord": "span",
+      "Meanings": [
+        "پدید آوردن",
+        "تولید کردن",
+        "گسترش دادن",
+        "ارشیدن",
+        "ارشه",
+        "پیما",
+        "غلاف"
+      ]
+    },
+    {
+      "EnglishWord": "spanned",
+      "Meanings": [
+        "پدید آمده",
+        "گسترش یافته",
+        "ارشیده",
+        "پیموده شده",
+        "تنیده"
+      ]
+    },
+    {
+      "EnglishWord": "spanning",
+      "Meanings": [
+        "پدید آورنده",
+        "گسترنده",
+        "مولد",
+        "ارشنده",
+        "فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "spanning set",
+      "Meanings": [
+        "مجموعه مولد",
+        "مجموعه گسترنده",
+        "مجموعه پدید آورنده"
+      ]
+    },
+    {
+      "EnglishWord": "spanning tree",
+      "Meanings": [
+        "درخت فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "sparse",
+      "Meanings": [
+        "تنک"
+      ]
+    },
+    {
+      "EnglishWord": "spatial",
+      "Meanings": [
+        "فضایی",
+        "مکانی",
+        "فاصله ای"
+      ]
+    },
+    {
+      "EnglishWord": "spatio temporal world",
+      "Meanings": [
+        "جهان فضا",
+        "زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "spearmen rank difference correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی تفاوت",
+        "رتبه ای اسپیرمن"
+      ]
+    },
+    {
+      "EnglishWord": "special case",
+      "Meanings": [
+        "حالت خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special theorem of repeated trials",
+      "Meanings": [
+        "قضیه خاص آزمایش‌های تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "specialization",
+      "Meanings": [
+        "تخصیص منطق",
+        "تخصص"
+      ]
+    },
+    {
+      "EnglishWord": "species",
+      "Meanings": [
+        "نوع",
+        "قسم",
+        "گونه",
+        "انواع"
+      ]
+    },
+    {
+      "EnglishWord": "specific curvature",
+      "Meanings": [
+        "انحنای کلی دوم"
+      ]
+    },
+    {
+      "EnglishWord": "specific hypothesis",
+      "Meanings": [
+        "فرض مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "specification",
+      "Meanings": [
+        "تشخیص",
+        "تصریح"
+      ]
+    },
+    {
+      "EnglishWord": "specification law",
+      "Meanings": [
+        "قانون تخصیص منطق"
+      ]
+    },
+    {
+      "EnglishWord": "specification of sets",
+      "Meanings": [
+        "تصریح مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "specifications",
+      "Meanings": [
+        "خصوصیات"
+      ]
+    },
+    {
+      "EnglishWord": "specificity",
+      "Meanings": [
+        "میزان عدم اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "specify",
+      "Meanings": [
+        "تصریح کردن",
+        "تخصیص کردن",
+        "تعیین کردن",
+        "مشخص کردن",
+        "آشکار کردن",
+        "تصریح",
+        "ایضاح"
+      ]
+    },
+    {
+      "EnglishWord": "specimen",
+      "Meanings": [
+        "نمونه",
+        "فرد",
+        "شخص"
+      ]
+    },
+    {
+      "EnglishWord": "spectral",
+      "Meanings": [
+        "طیفی",
+        "بینابی"
+      ]
+    },
+    {
+      "EnglishWord": "spectrum",
+      "Meanings": [
+        "طیف",
+        "بیناب"
+      ]
+    },
+    {
+      "EnglishWord": "speed",
+      "Meanings": [
+        "تندی",
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "sperial linear group",
+      "Meanings": [
+        "گروه خطی خاص"
+      ]
+    },
+    {
+      "EnglishWord": "sphere",
+      "Meanings": [
+        "کره",
+        "گوی"
+      ]
+    },
+    {
+      "EnglishWord": "sphere shaped",
+      "Meanings": [
+        "کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spheric",
+      "Meanings": [
+        "کروی شکل",
+        "کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical",
+      "Meanings": [
+        "کروی",
+        "کروی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "spherical angle",
+      "Meanings": [
+        "زاویه کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical astronomy",
+      "Meanings": [
+        "نجوم کروی",
+        "هییت کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical cap",
+      "Meanings": [
+        "عرقچین کروی",
+        "عرقچین کره ای"
+      ]
+    },
+    {
+      "EnglishWord": "spherical coordinates",
+      "Meanings": [
+        "مختصات کروی",
+        "مختصات قطبی",
+        "آراینده‌های کروی",
+        "هماراهای کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical curvature",
+      "Meanings": [
+        "انحنای کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical distance",
+      "Meanings": [
+        "فاصله کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical excess",
+      "Meanings": [
+        "فضل کروی",
+        "فزونی کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical harmonic",
+      "Meanings": [
+        "هارمونیک کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical helix",
+      "Meanings": [
+        "ماپیچ کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical indicatrix",
+      "Meanings": [
+        "منحنی مشخصه کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical sector",
+      "Meanings": [
+        "قطاع کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical segment",
+      "Meanings": [
+        "پاره خط کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical solid",
+      "Meanings": [
+        "کره جامد"
+      ]
+    },
+    {
+      "EnglishWord": "spherical trigonometry",
+      "Meanings": [
+        "مثلثات کروی",
+        "مثلثات کروی در نجوم در بخشها ی مختلف کاربرد وسیعی دارد از جمله از این کاربردها",
+        "مختصات نجومی سه دستگاه مختصات نجومی وجود دارد که با مثلثات کروی کار میکنند",
+        "اندازه گیری زوایای میل",
+        "سمت",
+        "عرض جغرافیایی",
+        "طول جغرافیایی و… در این دستگاهها با ابزار مثاثات کروی ممکن هست",
+        "انحراف محور خورشید دایرةالبروج خورشید را از روی مثلثات کروی میسنجند",
+        "در اندازه گیری فواصل نجومی و تنظیم اوقات شرعی",
+        "طلوع و غروب خورشید و رصدهای نجومی مثلثات کروی نقش بسزایی دارد",
+        "شکل کره زمین",
+        "در واقع نامنظم است و شبه کره geoid نامیده می‌شود. تحلیل مسیرهای ماهواره‌های زمینی مصنوعی نشان داده است که یک بیضی وار مناسب با سه محور بهترین شکل را برای شبه کره به دست می‌دهد. \u000bدر واقع تفاوت بین دو محور واقع در صفحه استوایی equatorial plane آنقدر کوچک است که تاکنون برای اندازه گیریهای زمینی مشخص نشده است. \u000bبنابراین در ژیودرزی عالی",
+        "کره زمین به صورت کره وار spheroid در نظر گرفته می‌شود",
+        "در 1924 بیضوار محاسبه شده توسط J. Hayford از لحاظ بین المللی شناخته شد",
+        "جدیدترین مقادیر توسط F. N. Krasovskil مشخص شده اند. این مقادیر برای کار در ژیودزی در روسیه به کار میروند"
+      ]
+    },
+    {
+      "EnglishWord": "spherical wedge",
+      "Meanings": [
+        "قاچ کروی"
+      ]
+    },
+    {
+      "EnglishWord": "sphericity",
+      "Meanings": [
+        "کرویت"
+      ]
+    },
+    {
+      "EnglishWord": "spherics",
+      "Meanings": [
+        "هندسه کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spheroid",
+      "Meanings": [
+        "کره وار",
+        "شبه کره"
+      ]
+    },
+    {
+      "EnglishWord": "spin",
+      "Meanings": [
+        "گردش",
+        "چرخش",
+        "چرخاندن",
+        "چرخیدن"
+      ]
+    },
+    {
+      "EnglishWord": "spin matrices",
+      "Meanings": [
+        "ماتریس‌های تنش"
+      ]
+    },
+    {
+      "EnglishWord": "spinode",
+      "Meanings": [
+        "نقطه بازگشت",
+        "نقطه برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "spinors",
+      "Meanings": [
+        "تننده ها"
+      ]
+    },
+    {
+      "EnglishWord": "spiral",
+      "Meanings": [
+        "مارپیچ",
+        "حلزونی",
+        "پیچ",
+        "پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "spiral curve",
+      "Meanings": [
+        "منحنی حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "spiral of archimedes",
+      "Meanings": [
+        "مارپیچ ارشمیدس"
+      ]
+    },
+    {
+      "EnglishWord": "spire",
+      "Meanings": [
+        "مارپیچ"
+      ]
+    },
+    {
+      "EnglishWord": "split",
+      "Meanings": [
+        "شکافتن",
+        "از هم جدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "split exact sequence",
+      "Meanings": [
+        "دنباله درست شکاف ها"
+      ]
+    },
+    {
+      "EnglishWord": "split extension",
+      "Meanings": [
+        "گسترش شکافنده",
+        "توسیع مقطع",
+        "توسعه شکاف ها"
+      ]
+    },
+    {
+      "EnglishWord": "split plot",
+      "Meanings": [
+        "کرت‌های شکافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "split plot design",
+      "Meanings": [
+        "طرح کرت‌های خرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "split split plot",
+      "Meanings": [
+        "کرت‌های دوبار شکافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "split split plot design",
+      "Meanings": [
+        "طرح کرت‌های دوبار خرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "split up into partial fractions",
+      "Meanings": [
+        "تجزیه کردن به مجموع کسرهای ساده"
+      ]
+    },
+    {
+      "EnglishWord": "splitting",
+      "Meanings": [
+        "تجزیه کننده",
+        "شکافنده"
+      ]
+    },
+    {
+      "EnglishWord": "splitting extension",
+      "Meanings": [
+        "توسیع تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "splitting field",
+      "Meanings": [
+        "هییت شکافنده",
+        "میدان شکافندگی",
+        "میدان شکافنده"
+      ]
+    },
+    {
+      "EnglishWord": "spoke",
+      "Meanings": [
+        "پره"
+      ]
+    },
+    {
+      "EnglishWord": "sppanning set",
+      "Meanings": [
+        "مجموعه فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "spread",
+      "Meanings": [
+        "گسترش یافتن",
+        "منتشر شدن",
+        "توسعه یافتن",
+        "گستردن",
+        "گسترش",
+        "گستردگی",
+        "گستره",
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "spur of a matrix",
+      "Meanings": [
+        "اثر ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "spurious coefficient of correlation",
+      "Meanings": [
+        "ضریب همبستگی ساختگی"
+      ]
+    },
+    {
+      "EnglishWord": "spurious correlation",
+      "Meanings": [
+        "همبستگی بدلی"
+      ]
+    },
+    {
+      "EnglishWord": "square",
+      "Meanings": [
+        "مربع",
+        "توان دوم مجذور",
+        "مربع شکل",
+        "چهار گوشه",
+        "مربعی",
+        "مجذور کردن",
+        "به توان 2 رساندن",
+        "مربع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "square bracket",
+      "Meanings": [
+        "کروشه"
+      ]
+    },
+    {
+      "EnglishWord": "square factor",
+      "Meanings": [
+        "سازنده مربع"
+      ]
+    },
+    {
+      "EnglishWord": "square group",
+      "Meanings": [
+        "گروه مربع"
+      ]
+    },
+    {
+      "EnglishWord": "square integrable function",
+      "Meanings": [
+        "تابعی که مربعش انتگرال پذیر باشد"
+      ]
+    },
+    {
+      "EnglishWord": "square matrix",
+      "Meanings": [
+        "ماتریس مربع",
+        "ماتریس مربعی",
+        "ماتریس مربع شکل"
+      ]
+    },
+    {
+      "EnglishWord": "square number",
+      "Meanings": [
+        "عدد مربعی",
+        "عدد مربع"
+      ]
+    },
+    {
+      "EnglishWord": "square numbers",
+      "Meanings": [
+        "اعداد مربع متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "square of a number",
+      "Meanings": [
+        "مجذور یک عدد",
+        "مربع یک عدد"
+      ]
+    },
+    {
+      "EnglishWord": "square of modes",
+      "Meanings": [
+        "مربع امتدادها"
+      ]
+    },
+    {
+      "EnglishWord": "square of opposition",
+      "Meanings": [
+        "مربع تباینات منطق"
+      ]
+    },
+    {
+      "EnglishWord": "square root",
+      "Meanings": [
+        "جذر",
+        "ریشه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "square root function",
+      "Meanings": [
+        "تابع ریشه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "square term",
+      "Meanings": [
+        "جمله مربع"
+      ]
+    },
+    {
+      "EnglishWord": "squared",
+      "Meanings": [
+        "به توان دو",
+        "به قوه دو"
+      ]
+    },
+    {
+      "EnglishWord": "squaring the circle",
+      "Meanings": [
+        "تربیع دایره"
+      ]
+    },
+    {
+      "EnglishWord": "squeezing principle",
+      "Meanings": [
+        "اصل فشار"
+      ]
+    },
+    {
+      "EnglishWord": "squring the circle",
+      "Meanings": [
+        "تربیع دایره"
+      ]
+    },
+    {
+      "EnglishWord": "sself evident",
+      "Meanings": [
+        "بدیهی",
+        "خود پیدا",
+        "خود پدید"
+      ]
+    },
+    {
+      "EnglishWord": "stability",
+      "Meanings": [
+        "پایداری",
+        "تعادل",
+        "پایایی",
+        "ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "stability of frequencies",
+      "Meanings": [
+        "ثبات فراوانی ها"
+      ]
+    },
+    {
+      "EnglishWord": "stabilizer",
+      "Meanings": [
+        "پایدار کننده",
+        "پایدار ساز",
+        "ثابت ساز"
+      ]
+    },
+    {
+      "EnglishWord": "stabilizer subgroup",
+      "Meanings": [
+        "زیر گروه پاینده"
+      ]
+    },
+    {
+      "EnglishWord": "stable",
+      "Meanings": [
+        "پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable class",
+      "Meanings": [
+        "کلاس پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable equilibrium",
+      "Meanings": [
+        "تعادل پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable subset",
+      "Meanings": [
+        "زیرمجموعه ماندگار",
+        "بخش پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stage",
+      "Meanings": [
+        "مرحله",
+        "گام"
+      ]
+    },
+    {
+      "EnglishWord": "stagnation",
+      "Meanings": [
+        "سکون",
+        "ایستایی",
+        "آرامش",
+        "توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stagnation point",
+      "Meanings": [
+        "نقطه توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stain",
+      "Meanings": [
+        "دگر وشی"
+      ]
+    },
+    {
+      "EnglishWord": "stalk",
+      "Meanings": [
+        "ساقه"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "متعارف",
+        "معمولی",
+        "استاندارد",
+        "استانده",
+        "نمونه",
+        "معیار",
+        "نمونه قانونی",
+        "انگاره",
+        "برسنج"
+      ]
+    },
+    {
+      "EnglishWord": "standard basis",
+      "Meanings": [
+        "پایه استاندارد",
+        "مبنای متعارف",
+        "پایه متعارف",
+        "پایه انگاره",
+        "پایه استانده"
+      ]
+    },
+    {
+      "EnglishWord": "standard deviation",
+      "Meanings": [
+        "انحراف معیار",
+        "انحراف استاندارد",
+        "انحراف انگاره",
+        "انحراف استانده"
+      ]
+    },
+    {
+      "EnglishWord": "standard equation",
+      "Meanings": [
+        "معادله استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard error",
+      "Meanings": [
+        "خطای معیار",
+        "اشتباه معیار",
+        "خطای برسنجیده"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of estimate",
+      "Meanings": [
+        "اشتباه استاندارد برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of the estimation",
+      "Meanings": [
+        "اشتباه معیار تخمین"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of the mean",
+      "Meanings": [
+        "خطای استاندارد میانگین",
+        "اشتباه معیار میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of the proportion",
+      "Meanings": [
+        "اشتباه معیار نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "standard form",
+      "Meanings": [
+        "شکل معیار",
+        "شکل متعارف",
+        "صورت استانده",
+        "شکل برسنجیده برای معادله"
+      ]
+    },
+    {
+      "EnglishWord": "standard gravitational acceleration",
+      "Meanings": [
+        "شتاب ثقل در استوا",
+        "شتاب ثقل نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "standard nomal distribution",
+      "Meanings": [
+        "توزیع نرمال استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard region",
+      "Meanings": [
+        "ناحیه استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard score",
+      "Meanings": [
+        "نمره معیار",
+        "نمره استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard simplex",
+      "Meanings": [
+        "سادک متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "standardization",
+      "Meanings": [
+        "استاندارد کردن",
+        "برسنجش"
+      ]
+    },
+    {
+      "EnglishWord": "standardize",
+      "Meanings": [
+        "استاندارد کردن",
+        "برسنجیدن",
+        "استانده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "standardized",
+      "Meanings": [
+        "استاندارد شده",
+        "برسنجیده",
+        "استانده شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized normal variate",
+      "Meanings": [
+        "متغیرهای نرمال استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized variable",
+      "Meanings": [
+        "متغیر استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standing",
+      "Meanings": [
+        "قایم"
+      ]
+    },
+    {
+      "EnglishWord": "star",
+      "Meanings": [
+        "ستاره"
+      ]
+    },
+    {
+      "EnglishWord": "star like",
+      "Meanings": [
+        "ستاره گون"
+      ]
+    },
+    {
+      "EnglishWord": "star shaped",
+      "Meanings": [
+        "ستاره گون"
+      ]
+    },
+    {
+      "EnglishWord": "starting",
+      "Meanings": [
+        "اولیه",
+        "آغازی",
+        "آغاز"
+      ]
+    },
+    {
+      "EnglishWord": "starting value",
+      "Meanings": [
+        "مقدار آغازی"
+      ]
+    },
+    {
+      "EnglishWord": "state",
+      "Meanings": [
+        "چگونگی",
+        "حالت",
+        "وضعیت",
+        "منزل"
+      ]
+    },
+    {
+      "EnglishWord": "state ideologies",
+      "Meanings": [
+        "انگارگان‌های دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "state of nature",
+      "Meanings": [
+        "حالت طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "state regularity",
+      "Meanings": [
+        "انتظام حالت"
+      ]
+    },
+    {
+      "EnglishWord": "state space",
+      "Meanings": [
+        "فضای حالت"
+      ]
+    },
+    {
+      "EnglishWord": "state variable",
+      "Meanings": [
+        "متغیر حالت"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "گزاره",
+        "بیان",
+        "حکم",
+        "عبارت",
+        "گفتار"
+      ]
+    },
+    {
+      "EnglishWord": "statement calculus",
+      "Meanings": [
+        "حساب گزاره ها"
+      ]
+    },
+    {
+      "EnglishWord": "statement form",
+      "Meanings": [
+        "قالب منطق"
+      ]
+    },
+    {
+      "EnglishWord": "statement variable",
+      "Meanings": [
+        "متغیر گزاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "static",
+      "Meanings": [
+        "استاتیک",
+        "ایستایی",
+        "سکونی",
+        "ساکن",
+        "ایست",
+        "ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "static system",
+      "Meanings": [
+        "دستگاه ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "station",
+      "Meanings": [
+        "منزل"
+      ]
+    },
+    {
+      "EnglishWord": "stationarity",
+      "Meanings": [
+        "ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "stationary",
+      "Meanings": [
+        "ایستا",
+        "ساکن",
+        "مانا",
+        "پا بر جا",
+        "ثابت",
+        "در محل مانده",
+        "ایستی",
+        "ماندار"
+      ]
+    },
+    {
+      "EnglishWord": "stationary distribution",
+      "Meanings": [
+        "بخش ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "stationary point",
+      "Meanings": [
+        "نقطه سکون",
+        "نقطه ساکن",
+        "نقطه متوقف",
+        "نقطه ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary sequence",
+      "Meanings": [
+        "دنباله ایستی",
+        "دنباله توقفی"
+      ]
+    },
+    {
+      "EnglishWord": "stationary values",
+      "Meanings": [
+        "مقادیر متوقف"
+      ]
+    },
+    {
+      "EnglishWord": "statistic",
+      "Meanings": [
+        "آماره",
+        "آمار",
+        "شاخص آماری",
+        "آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical",
+      "Meanings": [
+        "آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical decision function",
+      "Meanings": [
+        "تابع تصمیم آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical definition of probability",
+      "Meanings": [
+        "تعریف آماری احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "statistical equilibrium",
+      "Meanings": [
+        "تعادل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical estimation",
+      "Meanings": [
+        "برآورد آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical evidence",
+      "Meanings": [
+        "مدرک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical games",
+      "Meanings": [
+        "بازی‌های آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical hypothesis",
+      "Meanings": [
+        "فرضیه آماری",
+        "فرض آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical inference",
+      "Meanings": [
+        "استنباط آماری",
+        "قضاوت آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical machanics",
+      "Meanings": [
+        "مکانیک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical model",
+      "Meanings": [
+        "مدل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical population",
+      "Meanings": [
+        "احتمال آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical psychology",
+      "Meanings": [
+        "روانشناسی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical test",
+      "Meanings": [
+        "آزمون آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical theory",
+      "Meanings": [
+        "نظریه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistician",
+      "Meanings": [
+        "آمار شناس",
+        "آمارگر"
+      ]
+    },
+    {
+      "EnglishWord": "statistics",
+      "Meanings": [
+        "علم آمار",
+        "آمار",
+        "آمارشناسی",
+        "آمار: علم گردآوری",
+        "آنالیز",
+        "تفسیر و نمایش مجموعه هایی از داده‌های عددی"
+      ]
+    },
+    {
+      "EnglishWord": "statuary",
+      "Meanings": [
+        "نقش"
+      ]
+    },
+    {
+      "EnglishWord": "steady",
+      "Meanings": [
+        "ثابت",
+        "پایدار",
+        "یکنواخت",
+        "ساکن",
+        "مانا"
+      ]
+    },
+    {
+      "EnglishWord": "steady current",
+      "Meanings": [
+        "شدت جریان حالت پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "steady flow",
+      "Meanings": [
+        "جریان یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "steady state",
+      "Meanings": [
+        "یکنواخت",
+        "حالت پایدار",
+        "حالت یکنواخت",
+        "یکسان",
+        "حالت مانا",
+        "یک وضع"
+      ]
+    },
+    {
+      "EnglishWord": "steady value",
+      "Meanings": [
+        "مقدار وضع ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "steelyard",
+      "Meanings": [
+        "نسبت متکافی"
+      ]
+    },
+    {
+      "EnglishWord": "steepest ascent",
+      "Meanings": [
+        "بزرگترین شیب صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "steepest descent",
+      "Meanings": [
+        "نزول سریع",
+        "تندترین کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "steepness",
+      "Meanings": [
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "stellate polygon",
+      "Meanings": [
+        "کثیرالاضلاع کواکبی"
+      ]
+    },
+    {
+      "EnglishWord": "step",
+      "Meanings": [
+        "مرحله برهان و دلیل",
+        "گام",
+        "قدم",
+        "پله ای",
+        "پله"
+      ]
+    },
+    {
+      "EnglishWord": "step function",
+      "Meanings": [
+        "تابع پله ای",
+        "تابع پلکانی"
+      ]
+    },
+    {
+      "EnglishWord": "step region",
+      "Meanings": [
+        "ناحیه پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "stepwise",
+      "Meanings": [
+        "گام به گام",
+        "مرحله به مرحله",
+        "تدریجا",
+        "قدم به قدم"
+      ]
+    },
+    {
+      "EnglishWord": "stepwise continuation",
+      "Meanings": [
+        "تمدید تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "steradian",
+      "Meanings": [
+        "استرادیان",
+        "مقیاس اندازه گیری زاویه فضایی",
+        "رادیان فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "stereo",
+      "Meanings": [
+        "سه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "stereographic",
+      "Meanings": [
+        "گنج نگاری",
+        "گنج نگاشتی",
+        "رسم الجسمی"
+      ]
+    },
+    {
+      "EnglishWord": "stereographic image",
+      "Meanings": [
+        "تصویر استروگرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "stereographic projection",
+      "Meanings": [
+        "تصویر استروگرافیک",
+        "تصویر گنج‌نگاری",
+        "تصویر گنج‌نگاشتی",
+        "تسطیح"
+      ]
+    },
+    {
+      "EnglishWord": "stereography",
+      "Meanings": [
+        "گنج نگاری"
+      ]
+    },
+    {
+      "EnglishWord": "sticking together some mappings",
+      "Meanings": [
+        "چسباندن چند نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "stieltjes integral",
+      "Meanings": [
+        "انتگرال استیلتیس"
+      ]
+    },
+    {
+      "EnglishWord": "stieltjes sum",
+      "Meanings": [
+        "مجموع استیلتیس"
+      ]
+    },
+    {
+      "EnglishWord": "stiffness",
+      "Meanings": [
+        "استحکام"
+      ]
+    },
+    {
+      "EnglishWord": "stiffness factor",
+      "Meanings": [
+        "ضریب شقی"
+      ]
+    },
+    {
+      "EnglishWord": "stipple",
+      "Meanings": [
+        "نقطه چین خورده"
+      ]
+    },
+    {
+      "EnglishWord": "stirling formula",
+      "Meanings": [
+        "فرمول استرلینگ",
+        "دستور استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic",
+      "Meanings": [
+        "تصادفی",
+        "نامعین",
+        "احتمالی",
+        "بختی",
+        "استوکاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic convergence",
+      "Meanings": [
+        "همگرایی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic matrix",
+      "Meanings": [
+        "ماتریس نامعین",
+        "ماتریس تصادفی",
+        "ماتریس استوکاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic process",
+      "Meanings": [
+        "فرایند تصادفی",
+        "فرایند نامعین",
+        "رفتار احتمالی",
+        "فراروند تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastically",
+      "Meanings": [
+        "تصادفا",
+        "به طورتصادفی",
+        "بختانه"
+      ]
+    },
+    {
+      "EnglishWord": "stop point",
+      "Meanings": [
+        "نقطه توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping",
+      "Meanings": [
+        "توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping time",
+      "Meanings": [
+        "زمان توقف",
+        "زمان ایست"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "ذخیره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "straight",
+      "Meanings": [
+        "قایم",
+        "مستقیما",
+        "راست",
+        "مستقیم",
+        "مستقیم الاضلاع",
+        "نیم صفحه",
+        "نیم فضا مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "straight angle",
+      "Meanings": [
+        "زاویه نیم صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "straight line",
+      "Meanings": [
+        "خط راست",
+        "خط مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "straightness",
+      "Meanings": [
+        "استقامت"
+      ]
+    },
+    {
+      "EnglishWord": "strata",
+      "Meanings": [
+        "طبقه ها",
+        "لایه ها",
+        "طبقات"
+      ]
+    },
+    {
+      "EnglishWord": "strategy",
+      "Meanings": [
+        "استراتژی",
+        "روش",
+        "شیوه",
+        "راهبرد",
+        "راه کار"
+      ]
+    },
+    {
+      "EnglishWord": "stratification",
+      "Meanings": [
+        "طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "stratified",
+      "Meanings": [
+        "طبقه بندی شده",
+        "طبقه ای",
+        "مطبق"
+      ]
+    },
+    {
+      "EnglishWord": "stratified random sampling",
+      "Meanings": [
+        "نمونه گیری از راه طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "stratified sample",
+      "Meanings": [
+        "نمونه طبقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "stratified sampling",
+      "Meanings": [
+        "نمونه برداری طبقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "stratify",
+      "Meanings": [
+        "طبقه بندی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "stratum",
+      "Meanings": [
+        "طبقه"
+      ]
+    },
+    {
+      "EnglishWord": "stream",
+      "Meanings": [
+        "جریان",
+        "روان"
+      ]
+    },
+    {
+      "EnglishWord": "stream function",
+      "Meanings": [
+        "تابع جریان"
+      ]
+    },
+    {
+      "EnglishWord": "streamline",
+      "Meanings": [
+        "خط روان",
+        "خط سیلان",
+        "خط جریان"
+      ]
+    },
+    {
+      "EnglishWord": "strength",
+      "Meanings": [
+        "قدرت",
+        "نیرومندی",
+        "سنگ",
+        "قوت"
+      ]
+    },
+    {
+      "EnglishWord": "stress",
+      "Meanings": [
+        "فشار",
+        "تنش",
+        "تلاش"
+      ]
+    },
+    {
+      "EnglishWord": "stretch",
+      "Meanings": [
+        "امتداد دادن",
+        "کشیدن",
+        "یازیدن",
+        "یازه"
+      ]
+    },
+    {
+      "EnglishWord": "stretching",
+      "Meanings": [
+        "انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "strict",
+      "Meanings": [
+        "اکید",
+        "محض",
+        "دقیق",
+        "موکد",
+        "خاص",
+        "صرف"
+      ]
+    },
+    {
+      "EnglishWord": "strict functional calculus",
+      "Meanings": [
+        "حساب اکید تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "strict implication",
+      "Meanings": [
+        "استلزام اکید منطق"
+      ]
+    },
+    {
+      "EnglishWord": "strict inequality",
+      "Meanings": [
+        "نامساوی اکید",
+        "نابرابری اکید",
+        "نابرابری سره"
+      ]
+    },
+    {
+      "EnglishWord": "strict maximum",
+      "Meanings": [
+        "بیشینه سره",
+        "ماکزیمم سره",
+        "حداکثر سره"
+      ]
+    },
+    {
+      "EnglishWord": "strict monotony",
+      "Meanings": [
+        "یکنواختی اکید",
+        "یکنواختی محض"
+      ]
+    },
+    {
+      "EnglishWord": "strict order",
+      "Meanings": [
+        "ترتیب به معنای دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "strict relative extremum",
+      "Meanings": [
+        "فرینه نسبی سره",
+        "اکسترمم نسبی سره"
+      ]
+    },
+    {
+      "EnglishWord": "strict relative maximum",
+      "Meanings": [
+        "بیشینه نسبی سره",
+        "ماکزیمم نسبی سره",
+        "حداکثر نسبی سره"
+      ]
+    },
+    {
+      "EnglishWord": "strict relative minimum",
+      "Meanings": [
+        "کمینه نسبی سره",
+        "مینیمم نسبی سره",
+        "حداقل نسبی سره"
+      ]
+    },
+    {
+      "EnglishWord": "striction",
+      "Meanings": [
+        "تنجش"
+      ]
+    },
+    {
+      "EnglishWord": "strictly",
+      "Meanings": [
+        "اکیدا",
+        "به طور اکید",
+        "به طور کامل",
+        "کاملا"
+      ]
+    },
+    {
+      "EnglishWord": "strictly decreasing",
+      "Meanings": [
+        "اکیدا نزولی",
+        "نزولی اکید",
+        "کاملا کاهشی",
+        "کاهشی سره",
+        "دقیقا نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly decreasing function",
+      "Meanings": [
+        "تابع اکیدا نزولی",
+        "تابع نزولی اکید"
+      ]
+    },
+    {
+      "EnglishWord": "strictly decreasing sequence",
+      "Meanings": [
+        "دنباله اکیدا نزولی",
+        "دنباله کاهشی سره"
+      ]
+    },
+    {
+      "EnglishWord": "strictly greater than",
+      "Meanings": [
+        "به درستی بیشتر از"
+      ]
+    },
+    {
+      "EnglishWord": "strictly increasing",
+      "Meanings": [
+        "اکیدا صعودی",
+        "صعودی اکید",
+        "افزایشی",
+        "صعودی پایدار",
+        "کاملا صعودی",
+        "کاملا افزایشی",
+        "دقیقا صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly increasing function",
+      "Meanings": [
+        "تابع اکیدا صعودی",
+        "تابع صعودی اکید"
+      ]
+    },
+    {
+      "EnglishWord": "strictly increasing sequence",
+      "Meanings": [
+        "دنباله اکیدا صعودی",
+        "دنباله افزایشی سره"
+      ]
+    },
+    {
+      "EnglishWord": "strictly less  or greater  than",
+      "Meanings": [
+        "به درستی کمتر یا بیشتر از"
+      ]
+    },
+    {
+      "EnglishWord": "strictly less than",
+      "Meanings": [
+        "به درستی کمتر از"
+      ]
+    },
+    {
+      "EnglishWord": "strictly monotonic",
+      "Meanings": [
+        "اکیدا یکنواخت",
+        "یکنوای اکید",
+        "اکیدا یکنوا",
+        "کاملا یکنواخت",
+        "یکنوای سره"
+      ]
+    },
+    {
+      "EnglishWord": "strictly monotonic function",
+      "Meanings": [
+        "تابع یکنوای اکید",
+        "تابع اکیدا یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "strictly monotonic homomorphism",
+      "Meanings": [
+        "همومرفیسم یکنوای سره"
+      ]
+    },
+    {
+      "EnglishWord": "strictly negative real number",
+      "Meanings": [
+        "عدد حقیقی اکیدا منفی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly ordered mapping",
+      "Meanings": [
+        "نگاشت مرتب سره"
+      ]
+    },
+    {
+      "EnglishWord": "string",
+      "Meanings": [
+        "رشته",
+        "نوار",
+        "ریسمان"
+      ]
+    },
+    {
+      "EnglishWord": "strip",
+      "Meanings": [
+        "نوار"
+      ]
+    },
+    {
+      "EnglishWord": "strong",
+      "Meanings": [
+        "قوی",
+        "پر توان",
+        "نیرومند",
+        "شدید"
+      ]
+    },
+    {
+      "EnglishWord": "strong convergence",
+      "Meanings": [
+        "همگرایی قوی",
+        "همگرایی شدید"
+      ]
+    },
+    {
+      "EnglishWord": "strong induction",
+      "Meanings": [
+        "اسقرای قوی",
+        "استقرای پر توان"
+      ]
+    },
+    {
+      "EnglishWord": "strong law of large numbers",
+      "Meanings": [
+        "قانون قوی اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "strong markov property",
+      "Meanings": [
+        "خاصیت پرتوان مارکف"
+      ]
+    },
+    {
+      "EnglishWord": "strong ordering relation",
+      "Meanings": [
+        "نسبت ترتیبی قوی"
+      ]
+    },
+    {
+      "EnglishWord": "strong topology",
+      "Meanings": [
+        "توپولوژی پرتوان"
+      ]
+    },
+    {
+      "EnglishWord": "stronger",
+      "Meanings": [
+        "قوی تر"
+      ]
+    },
+    {
+      "EnglishWord": "strongle connected",
+      "Meanings": [
+        "به طور قوی همبند"
+      ]
+    },
+    {
+      "EnglishWord": "strongly order preserving",
+      "Meanings": [
+        "حافظ ترتیب قوی"
+      ]
+    },
+    {
+      "EnglishWord": "strongly ordered",
+      "Meanings": [
+        "به طور قوی مرتب",
+        "قویا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "strophoid",
+      "Meanings": [
+        "استروفویید خم",
+        "پیچکی"
+      ]
+    },
+    {
+      "EnglishWord": "structural",
+      "Meanings": [
+        "ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structure",
+      "Meanings": [
+        "ساختار",
+        "ساخت",
+        "ساختمان",
+        "سازمان‌بندی",
+        "سازه"
+      ]
+    },
+    {
+      "EnglishWord": "student distribution",
+      "Meanings": [
+        "توزیع استودنت"
+      ]
+    },
+    {
+      "EnglishWord": "student variable",
+      "Meanings": [
+        "متغیر استودنت"
+      ]
+    },
+    {
+      "EnglishWord": "studentization",
+      "Meanings": [
+        "استودنتی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "studentized",
+      "Meanings": [
+        "استیودنت شده"
+      ]
+    },
+    {
+      "EnglishWord": "studentized statistic",
+      "Meanings": [
+        "آمار استودنتی شده"
+      ]
+    },
+    {
+      "EnglishWord": "student's integral table",
+      "Meanings": [
+        "جدول انتگرال استودنت"
+      ]
+    },
+    {
+      "EnglishWord": "student's t",
+      "Meanings": [
+        "tی استودنت"
+      ]
+    },
+    {
+      "EnglishWord": "student's t distribution",
+      "Meanings": [
+        "توزیع t",
+        "توزیع tی استودنت"
+      ]
+    },
+    {
+      "EnglishWord": "suan pan",
+      "Meanings": [
+        "چرتکه چینی"
+      ]
+    },
+    {
+      "EnglishWord": "sub",
+      "Meanings": [
+        "چیشوندی به معنای زیر",
+        "زیر",
+        "تحت",
+        "فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subadditive",
+      "Meanings": [
+        "زیر جمعی",
+        "زیر جمع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "subadditive function",
+      "Meanings": [
+        "تابع زیرجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "subadditivity",
+      "Meanings": [
+        "ویژگی زیرجمعی",
+        "زیر جمع پذیری",
+        "زیرجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "subalgebra",
+      "Meanings": [
+        "زیرجبر",
+        "جبرک"
+      ]
+    },
+    {
+      "EnglishWord": "subaltern",
+      "Meanings": [
+        "متداخل منطق"
+      ]
+    },
+    {
+      "EnglishWord": "subannulus",
+      "Meanings": [
+        "زیر حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "subarc",
+      "Meanings": [
+        "زیرقوس"
+      ]
+    },
+    {
+      "EnglishWord": "subarea",
+      "Meanings": [
+        "زیرناحیه",
+        "زیرپهنه"
+      ]
+    },
+    {
+      "EnglishWord": "subbase",
+      "Meanings": [
+        "زیرپایه"
+      ]
+    },
+    {
+      "EnglishWord": "subcategory",
+      "Meanings": [
+        "زیرکاتگوری"
+      ]
+    },
+    {
+      "EnglishWord": "subclass",
+      "Meanings": [
+        "زیرکلاس",
+        "زیرمجموعه",
+        "زیر رده",
+        "جزء یک مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "subcollection",
+      "Meanings": [
+        "زیر مجموعه",
+        "زیر دسته",
+        "زیر کلکسیون"
+      ]
+    },
+    {
+      "EnglishWord": "subcontrary",
+      "Meanings": [
+        "داخل تحت تضاد منطق",
+        "داخل در تحت تضاد"
+      ]
+    },
+    {
+      "EnglishWord": "subcover",
+      "Meanings": [
+        "زیر پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "subdeterminant",
+      "Meanings": [
+        "مینور"
+      ]
+    },
+    {
+      "EnglishWord": "subdiagonal",
+      "Meanings": [
+        "زیرقطری ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "subdigraph",
+      "Meanings": [
+        "زیرگراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "subdivide",
+      "Meanings": [
+        "تقسیم به جزء کردن",
+        "به اجزاء تقسیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "subdivided column",
+      "Meanings": [
+        "ستون‌های تقسیم شده نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "subdivided surface",
+      "Meanings": [
+        "سطوح تقسیم شده نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "subdivision",
+      "Meanings": [
+        "زیرتقسیم",
+        "تقسیم جزیی",
+        "تقسیمات فرعی",
+        "تقسیم",
+        "بخش جزء",
+        "زیربخش"
+      ]
+    },
+    {
+      "EnglishWord": "subdomain",
+      "Meanings": [
+        "زیردامنه",
+        "زیرمیدان",
+        "زیر حوزه"
+      ]
+    },
+    {
+      "EnglishWord": "subevent",
+      "Meanings": [
+        "زیرپیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "subfactorial",
+      "Meanings": [
+        "تحت فاکتوریل",
+        "زیرفاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "subfamily",
+      "Meanings": [
+        "زیرخانواده"
+      ]
+    },
+    {
+      "EnglishWord": "subfield",
+      "Meanings": [
+        "زیرحوزه",
+        "زیرمیدان",
+        "حوزه فرعی",
+        "زیرهییت"
+      ]
+    },
+    {
+      "EnglishWord": "subgraph",
+      "Meanings": [
+        "زیرگراف"
+      ]
+    },
+    {
+      "EnglishWord": "subgroup",
+      "Meanings": [
+        "زیرگروه",
+        "گروه فرعی",
+        "گروهک"
+      ]
+    },
+    {
+      "EnglishWord": "subgroup of g generated by x",
+      "Meanings": [
+        "زیرگروه G که از x تولید شده"
+      ]
+    },
+    {
+      "EnglishWord": "subharmonic",
+      "Meanings": [
+        "زیرهمساز"
+      ]
+    },
+    {
+      "EnglishWord": "subinterval",
+      "Meanings": [
+        "زیربازه",
+        "زیرفاصله"
+      ]
+    },
+    {
+      "EnglishWord": "subject",
+      "Meanings": [
+        "موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "subject predicate sentence",
+      "Meanings": [
+        "گزاره حملی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "subjective",
+      "Meanings": [
+        "ذهنی",
+        "نهادی",
+        "ذاتی",
+        "سوبژکتیو",
+        "نهشتی"
+      ]
+    },
+    {
+      "EnglishWord": "subjective definition of probability",
+      "Meanings": [
+        "تعریف سوبژکتیو احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "subjective probability",
+      "Meanings": [
+        "احتمال سوبژکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "subjective probability theory",
+      "Meanings": [
+        "نظریه سوبژکتیو احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "submanifold",
+      "Meanings": [
+        "زیرچندگونا"
+      ]
+    },
+    {
+      "EnglishWord": "submatrix",
+      "Meanings": [
+        "زیرماتریس",
+        "تحت ماتریس",
+        "زیر آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "submodule",
+      "Meanings": [
+        "زیرمدول"
+      ]
+    },
+    {
+      "EnglishWord": "submultiple",
+      "Meanings": [
+        "مقسوم علیه",
+        "مقیاس مشترک دو پاره خط"
+      ]
+    },
+    {
+      "EnglishWord": "subnormal",
+      "Meanings": [
+        "تحت نرمال",
+        "تحت قایم",
+        "زیرهنجار",
+        "زیرقایم"
+      ]
+    },
+    {
+      "EnglishWord": "subordinate",
+      "Meanings": [
+        "مادون",
+        "فرعی",
+        "پیرو"
+      ]
+    },
+    {
+      "EnglishWord": "subpopulation",
+      "Meanings": [
+        "زیرجامعه"
+      ]
+    },
+    {
+      "EnglishWord": "subregion",
+      "Meanings": [
+        "زیرناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "subregular",
+      "Meanings": [
+        "زیرمنظم"
+      ]
+    },
+    {
+      "EnglishWord": "subring",
+      "Meanings": [
+        "زیرحلقه",
+        "حلقه جزء"
+      ]
+    },
+    {
+      "EnglishWord": "subroutine",
+      "Meanings": [
+        "زیربرنامه",
+        "برنامه فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsampling",
+      "Meanings": [
+        "زیرنمونه",
+        "نمونه گیری از ن مونه",
+        "زیرنمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "subscript",
+      "Meanings": [
+        "زیرنویس",
+        "شاخص زیر",
+        "اندیس",
+        "زیرنمایه",
+        "اندیس زیری",
+        "اندیس تحتانی"
+      ]
+    },
+    {
+      "EnglishWord": "subsection",
+      "Meanings": [
+        "زیربخش",
+        "زیربند"
+      ]
+    },
+    {
+      "EnglishWord": "subsequence",
+      "Meanings": [
+        "زیردنباله",
+        "دنباله جزیی",
+        "رشتک",
+        "دنباله استخراج شده"
+      ]
+    },
+    {
+      "EnglishWord": "subsequent",
+      "Meanings": [
+        "متعاقب",
+        "بعدی",
+        "پس آیند",
+        "لاحق"
+      ]
+    },
+    {
+      "EnglishWord": "subsequential limit",
+      "Meanings": [
+        "حد زیر دنباله ای"
+      ]
+    },
+    {
+      "EnglishWord": "subseries",
+      "Meanings": [
+        "زیر سری",
+        "زیر رشته"
+      ]
+    },
+    {
+      "EnglishWord": "subset",
+      "Meanings": [
+        "زیرمجموعه",
+        "جزء یک مجموعه",
+        "تحت مجموعه",
+        "مجموعه فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subset defined by",
+      "Meanings": [
+        "زیر مجموعه تعریف شده به وسیله ی"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary",
+      "Meanings": [
+        "معاون",
+        "کمکی",
+        "معین",
+        "متمم",
+        "فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsine",
+      "Meanings": [
+        "زیرسینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "subsisting",
+      "Meanings": [
+        "قایم",
+        "واقف",
+        "ایستاده",
+        "ایستادن"
+      ]
+    },
+    {
+      "EnglishWord": "subspace",
+      "Meanings": [
+        "زیرفضا"
+      ]
+    },
+    {
+      "EnglishWord": "substitute",
+      "Meanings": [
+        "جانشین کردن",
+        "تعویض کردن",
+        "عوض کردن",
+        "جاجا کردن",
+        "منظور نمودن",
+        "برقرار کردن",
+        "بدل",
+        "عوض",
+        "جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "substitute a for b",
+      "Meanings": [
+        "B را به جای A گذاشتن",
+        "B را در ازای A قراردادن"
+      ]
+    },
+    {
+      "EnglishWord": "substitution",
+      "Meanings": [
+        "جایگزینی",
+        "جانشانی",
+        "تعویض",
+        "جانشینی",
+        "جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "substitution method of solving equation",
+      "Meanings": [
+        "حل دستگاه معادلات از طریق حذف تبدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "substitution process",
+      "Meanings": [
+        "جانشین سازی"
+      ]
+    },
+    {
+      "EnglishWord": "substitution property",
+      "Meanings": [
+        "خاصیت جانشانی"
+      ]
+    },
+    {
+      "EnglishWord": "substrata",
+      "Meanings": [
+        "زیرطبقه",
+        "طبقات فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsystem",
+      "Meanings": [
+        "زیردستگاه",
+        "زیرمنظومه",
+        "دستگاه جزء"
+      ]
+    },
+    {
+      "EnglishWord": "subtangent",
+      "Meanings": [
+        "تحت مماس",
+        "تحت ظل",
+        "زیر مماس"
+      ]
+    },
+    {
+      "EnglishWord": "subtend",
+      "Meanings": [
+        "مقابل بودن",
+        "روبرو واقع شدن"
+      ]
+    },
+    {
+      "EnglishWord": "subtended angle",
+      "Meanings": [
+        "زاویه مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "subtract",
+      "Meanings": [
+        "تفریق کردن",
+        "کاستن",
+        "کم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "subtraction",
+      "Meanings": [
+        "تفریق",
+        "کاهش",
+        "منها",
+        "تفاضل",
+        "عمل تفریق"
+      ]
+    },
+    {
+      "EnglishWord": "subtraction of events",
+      "Meanings": [
+        "تفاضل بردارها"
+      ]
+    },
+    {
+      "EnglishWord": "subtraction sign",
+      "Meanings": [
+        "علامت منها",
+        "علامت تفریق"
+      ]
+    },
+    {
+      "EnglishWord": "subtractive",
+      "Meanings": [
+        "کاهشی",
+        "تفریقی",
+        "کاهنده",
+        "مفروق"
+      ]
+    },
+    {
+      "EnglishWord": "subtrahend",
+      "Meanings": [
+        "عدد منها شده",
+        "مفروق"
+      ]
+    },
+    {
+      "EnglishWord": "subunitary",
+      "Meanings": [
+        "زیر یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "succeed one another",
+      "Meanings": [
+        "به طور متوالی قرار گرفتن",
+        "به دنبال آمدن"
+      ]
+    },
+    {
+      "EnglishWord": "success",
+      "Meanings": [
+        "موفقیت",
+        "پیروزی",
+        "برد",
+        "کامیابی"
+      ]
+    },
+    {
+      "EnglishWord": "succession",
+      "Meanings": [
+        "توالی",
+        "تسلسل"
+      ]
+    },
+    {
+      "EnglishWord": "successive",
+      "Meanings": [
+        "متوالی",
+        "پیاپی",
+        "پی در پی"
+      ]
+    },
+    {
+      "EnglishWord": "successive approximation",
+      "Meanings": [
+        "تقریب پی در پی",
+        "تقریب پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "successive approximation method",
+      "Meanings": [
+        "روش تقریب‌های پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "successive approximations",
+      "Meanings": [
+        "تقریبات متوالیه"
+      ]
+    },
+    {
+      "EnglishWord": "successive derivatives",
+      "Meanings": [
+        "مشتق‌های متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "successive differentiation",
+      "Meanings": [
+        "مشتق گیری متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "successive transformations",
+      "Meanings": [
+        "تبدیلات متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "successively",
+      "Meanings": [
+        "متوالیا",
+        "پشت سر هم",
+        "پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "successor",
+      "Meanings": [
+        "تالی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficant condition",
+      "Meanings": [
+        "شرط لازم"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiency",
+      "Meanings": [
+        "کفایت",
+        "بسندگی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient",
+      "Meanings": [
+        "کافی",
+        "بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient condition",
+      "Meanings": [
+        "شرط کافی",
+        "شرط بسنده",
+        "شرط کافی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient condition of law of large numbers",
+      "Meanings": [
+        "شرط کافی قانون اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient estimate",
+      "Meanings": [
+        "برآورد کافی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient statistic",
+      "Meanings": [
+        "آمار کافی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiently",
+      "Meanings": [
+        "به طور کافی",
+        "به طور بسنده",
+        "به اندازه کافی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiently large",
+      "Meanings": [
+        "به قدر کافی بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "suffix",
+      "Meanings": [
+        "اندیس تحتانی",
+        "پسوند"
+      ]
+    },
+    {
+      "EnglishWord": "suit",
+      "Meanings": [
+        "ردیف اوراق گنجفه",
+        "مناسب",
+        "دنباله",
+        "مناسب بودن",
+        "شایان بودن"
+      ]
+    },
+    {
+      "EnglishWord": "suitable",
+      "Meanings": [
+        "مناسب",
+        "شایان",
+        "شایسته"
+      ]
+    },
+    {
+      "EnglishWord": "sum",
+      "Meanings": [
+        "حاصلجمع",
+        "جمع کل",
+        "مجموع",
+        "حاصل",
+        "روی هم",
+        "جمع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sum event",
+      "Meanings": [
+        "حادثه جمع"
+      ]
+    },
+    {
+      "EnglishWord": "sum function",
+      "Meanings": [
+        "تابع مجموع"
+      ]
+    },
+    {
+      "EnglishWord": "sum of cardinal numbers",
+      "Meanings": [
+        "مجموع اعداد اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "sum of functions",
+      "Meanings": [
+        "مجموع توابع"
+      ]
+    },
+    {
+      "EnglishWord": "sum of matrices",
+      "Meanings": [
+        "مجموع ماتریس ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of random variables",
+      "Meanings": [
+        "حاصلجمع کمیت‌های تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "sum of rational integers",
+      "Meanings": [
+        "مجموع اعداد صحیح گویا"
+      ]
+    },
+    {
+      "EnglishWord": "sum of squared deviations",
+      "Meanings": [
+        "مجموع مجذور انحراف ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of squares",
+      "Meanings": [
+        "مجموع مجذورها",
+        "مجموع توان دوم ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of squares within groups",
+      "Meanings": [
+        "مجموع مجذورات داخل گروه ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of submodules",
+      "Meanings": [
+        "مجموع زیرمدول ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of topologies",
+      "Meanings": [
+        "حاصلجمع توپولوژی ها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of two ideals",
+      "Meanings": [
+        "مجموع دو ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "sum of two squences",
+      "Meanings": [
+        "مجموع دو دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "sum or difference",
+      "Meanings": [
+        "جمع یا تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "sum square",
+      "Meanings": [
+        "مجموع مجذورات"
+      ]
+    },
+    {
+      "EnglishWord": "sum topology",
+      "Meanings": [
+        "توپولوژی حاصلجمع"
+      ]
+    },
+    {
+      "EnglishWord": "sum variance",
+      "Meanings": [
+        "واریانس حاصلجمع",
+        "پراکندگی حاصلجمع"
+      ]
+    },
+    {
+      "EnglishWord": "summability",
+      "Meanings": [
+        "مجموع پذیری",
+        "جمع پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "summable",
+      "Meanings": [
+        "مجموع پذیر",
+        "جمع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "summable function",
+      "Meanings": [
+        "تابع جمع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "summand",
+      "Meanings": [
+        "جمع وند",
+        "سازه جمعی",
+        "مجموعده",
+        "جمله دوم مجموع دو عدد"
+      ]
+    },
+    {
+      "EnglishWord": "summarize",
+      "Meanings": [
+        "خلاصه کردن",
+        "مختصر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "خلاصه",
+        "مختصر"
+      ]
+    },
+    {
+      "EnglishWord": "summation",
+      "Meanings": [
+        "مجموع یابی",
+        "جمع",
+        "محاسبه حاصل جمع",
+        "جمع زنی",
+        "جمع بندی",
+        "عمل جمع"
+      ]
+    },
+    {
+      "EnglishWord": "summation convention",
+      "Meanings": [
+        "قرارداد جمع بندی",
+        "قرارداد مجموع یابی"
+      ]
+    },
+    {
+      "EnglishWord": "summation notation",
+      "Meanings": [
+        "علامت جمع",
+        "نماد جمع بندی"
+      ]
+    },
+    {
+      "EnglishWord": "summation of part",
+      "Meanings": [
+        "مجموع جزء به جزء"
+      ]
+    },
+    {
+      "EnglishWord": "summation sign",
+      "Meanings": [
+        "علامت جمع زنی",
+        "علامت جمع بندی",
+        "علامت جمع"
+      ]
+    },
+    {
+      "EnglishWord": "summit",
+      "Meanings": [
+        "اوج",
+        "قله",
+        "تارک"
+      ]
+    },
+    {
+      "EnglishWord": "summit angles",
+      "Meanings": [
+        "زاویه‌های تارک"
+      ]
+    },
+    {
+      "EnglishWord": "super",
+      "Meanings": [
+        "زبر"
+      ]
+    },
+    {
+      "EnglishWord": "super additive",
+      "Meanings": [
+        "زبر جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "super parallel",
+      "Meanings": [
+        "ابر موازی"
+      ]
+    },
+    {
+      "EnglishWord": "super plane",
+      "Meanings": [
+        "سطح مافوق"
+      ]
+    },
+    {
+      "EnglishWord": "super population",
+      "Meanings": [
+        "زبر جامعه",
+        "ابر جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "super position",
+      "Meanings": [
+        "بر هم نهش"
+      ]
+    },
+    {
+      "EnglishWord": "super soluble",
+      "Meanings": [
+        "ابر حل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "superharmonic",
+      "Meanings": [
+        "زبر همساز"
+      ]
+    },
+    {
+      "EnglishWord": "superimpose",
+      "Meanings": [
+        "روی هم گذاشتن",
+        "بر هم منطبق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "superior",
+      "Meanings": [
+        "زبرین",
+        "بالایی",
+        "بزرگتر",
+        "بالاتر",
+        "خارجی",
+        "بیرونی",
+        "اعلی",
+        "عالی",
+        "فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "superior limit",
+      "Meanings": [
+        "حد اعلی",
+        "حد زبرین"
+      ]
+    },
+    {
+      "EnglishWord": "superior triangular matrix",
+      "Meanings": [
+        "ماتریس سه بری زبرین"
+      ]
+    },
+    {
+      "EnglishWord": "superosculating",
+      "Meanings": [
+        "زبر بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "superosculation",
+      "Meanings": [
+        "زبر بوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "superparallel",
+      "Meanings": [
+        "ابر موازی"
+      ]
+    },
+    {
+      "EnglishWord": "superposable",
+      "Meanings": [
+        "قابل انطباق"
+      ]
+    },
+    {
+      "EnglishWord": "superpose",
+      "Meanings": [
+        "روی هم گذاشتن",
+        "بر هم منطبق کردن",
+        "بر هم نهادن",
+        "منطبق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "superposition",
+      "Meanings": [
+        "استقرار",
+        "انطباق",
+        "روی هم جمعی",
+        "برهم نهش"
+      ]
+    },
+    {
+      "EnglishWord": "superposition principle",
+      "Meanings": [
+        "اصل برهم نهی"
+      ]
+    },
+    {
+      "EnglishWord": "superscript",
+      "Meanings": [
+        "شاخص بالا",
+        "بالا نویس",
+        "اندیس فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "superset",
+      "Meanings": [
+        "ابر مجموعه",
+        "فوق مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "supnorm",
+      "Meanings": [
+        "هنج سوپرمم"
+      ]
+    },
+    {
+      "EnglishWord": "supplement",
+      "Meanings": [
+        "مکمل",
+        "تکمیل کردن",
+        "تمام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "supplemental",
+      "Meanings": [
+        "مکمل",
+        "تکمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary",
+      "Meanings": [
+        "متمم",
+        "مکمل",
+        "افزون"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary angle",
+      "Meanings": [
+        "زاویه مکمل",
+        "زاویه مجانب"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary angles",
+      "Meanings": [
+        "زوایای مکمل",
+        "زاویه‌های مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary number",
+      "Meanings": [
+        "عدد متمم"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary trigonometric function",
+      "Meanings": [
+        "تابع مثلثاتی مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supply",
+      "Meanings": [
+        "عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "تکیه گاه",
+        "اتکا",
+        "محمل"
+      ]
+    },
+    {
+      "EnglishWord": "suppose",
+      "Meanings": [
+        "فرض کردن",
+        "گرفتن",
+        "پنداشتن",
+        "قبول کردن",
+        "انگاشتن",
+        "انگاشت",
+        "تصور کردن"
+      ]
+    },
+    {
+      "EnglishWord": "suppositio formalis",
+      "Meanings": [
+        "اطلاق وضعی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "suppositio materialis",
+      "Meanings": [
+        "اطلاق عینی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "supposition",
+      "Meanings": [
+        "فرض"
+      ]
+    },
+    {
+      "EnglishWord": "supreme",
+      "Meanings": [
+        "عالی"
+      ]
+    },
+    {
+      "EnglishWord": "supremum",
+      "Meanings": [
+        "سوپریمم",
+        "کوچکترین کران بالا",
+        "کناره بالا"
+      ]
+    },
+    {
+      "EnglishWord": "supremum norm",
+      "Meanings": [
+        "نرم کرانی",
+        "هنج کرانی"
+      ]
+    },
+    {
+      "EnglishWord": "surd",
+      "Meanings": [
+        "گنگ",
+        "اصم",
+        "عدد اصم"
+      ]
+    },
+    {
+      "EnglishWord": "surd number",
+      "Meanings": [
+        "عدد اصم"
+      ]
+    },
+    {
+      "EnglishWord": "surd plane",
+      "Meanings": [
+        "صفحه گنگ"
+      ]
+    },
+    {
+      "EnglishWord": "sure event",
+      "Meanings": [
+        "حادثه یقین"
+      ]
+    },
+    {
+      "EnglishWord": "surface",
+      "Meanings": [
+        "رویه",
+        "سطح",
+        "سطح فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "surface area",
+      "Meanings": [
+        "مساحت رویه",
+        "مساحت سطح"
+      ]
+    },
+    {
+      "EnglishWord": "surface harmonic",
+      "Meanings": [
+        "همساز سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface integral",
+      "Meanings": [
+        "انتگرال رویه ای",
+        "انتگرال سطحی",
+        "انتگرال در روی سطح",
+        "انتگرال روی رویه"
+      ]
+    },
+    {
+      "EnglishWord": "surface of revolution",
+      "Meanings": [
+        "سطح دوار",
+        "رویه دوار",
+        "رویه چرخی"
+      ]
+    },
+    {
+      "EnglishWord": "surface of zero",
+      "Meanings": [
+        "رویه هموار"
+      ]
+    },
+    {
+      "EnglishWord": "surjection",
+      "Meanings": [
+        "پوشا",
+        "تابع پوشا",
+        "نگاشت پوشا",
+        "برون گستری",
+        "برافکنی"
+      ]
+    },
+    {
+      "EnglishWord": "surjection map",
+      "Meanings": [
+        "نگاشت پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "surjective",
+      "Meanings": [
+        "پوششی",
+        "پوشا",
+        "بروی",
+        "پوشایی",
+        "گسترش پوششی",
+        "برون گستر"
+      ]
+    },
+    {
+      "EnglishWord": "surjetive mapping",
+      "Meanings": [
+        "نگاشت پوشا",
+        "گسترش برافکن",
+        "مطابقه سورژکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "surpass",
+      "Meanings": [
+        "تجاوز",
+        "بزرگتر بودن"
+      ]
+    },
+    {
+      "EnglishWord": "surround",
+      "Meanings": [
+        "در بر گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "survey",
+      "Meanings": [
+        "بررسی",
+        "آمارگیری",
+        "نظر اجمالی",
+        "مختصر",
+        "خلاصه"
+      ]
+    },
+    {
+      "EnglishWord": "survey planning",
+      "Meanings": [
+        "برنامه ریزی برای بررسی"
+      ]
+    },
+    {
+      "EnglishWord": "surveying by correspondence",
+      "Meanings": [
+        "آمارگیری به وسیله مکاتبه"
+      ]
+    },
+    {
+      "EnglishWord": "surveying by direct observation",
+      "Meanings": [
+        "آمارگیری به وسیله مشاهده مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "surveying by interviewing",
+      "Meanings": [
+        "آمارگیری به وسیله مصاحبه"
+      ]
+    },
+    {
+      "EnglishWord": "surveying by mail",
+      "Meanings": [
+        "آمارگیری به وسیله پست"
+      ]
+    },
+    {
+      "EnglishWord": "surveying by registration of current events",
+      "Meanings": [
+        "آمارگیری به وسیله ثبت وقایع جاری"
+      ]
+    },
+    {
+      "EnglishWord": "surveyor",
+      "Meanings": [
+        "آمارگیر",
+        "مساح",
+        "نقشه بردار"
+      ]
+    },
+    {
+      "EnglishWord": "swastica",
+      "Meanings": [
+        "صلیب شکسته منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "sweeping method",
+      "Meanings": [
+        "روش جارو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "syllogism",
+      "Meanings": [
+        "قیاس",
+        "قیاس منطقی",
+        "قیاس منتج"
+      ]
+    },
+    {
+      "EnglishWord": "syllogism by absurd",
+      "Meanings": [
+        "قیاس خلف"
+      ]
+    },
+    {
+      "EnglishWord": "syllogism of why",
+      "Meanings": [
+        "قیاس لمی"
+      ]
+    },
+    {
+      "EnglishWord": "sylow",
+      "Meanings": [
+        "سیلو",
+        "تا 1918 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "sylow group",
+      "Meanings": [
+        "گروه سیلو"
+      ]
+    },
+    {
+      "EnglishWord": "sylow p-subgroup",
+      "Meanings": [
+        "P",
+        "زیرگروه سیلو"
+      ]
+    },
+    {
+      "EnglishWord": "sylow's theorem",
+      "Meanings": [
+        "قضیه سیلو"
+      ]
+    },
+    {
+      "EnglishWord": "sylvester's theorem",
+      "Meanings": [
+        "قضیه سیلوستر"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نماد",
+        "علامت",
+        "رمز",
+        "سمبل",
+        "نشانه",
+        "نشان",
+        "مظهر"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic",
+      "Meanings": [
+        "نمادی",
+        "اختصاری",
+        "سمبلیک",
+        "رمزی"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic formula",
+      "Meanings": [
+        "رابطه اختصاری"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic logic",
+      "Meanings": [
+        "منطق علامتی",
+        "منطق صوری"
+      ]
+    },
+    {
+      "EnglishWord": "symbolicly",
+      "Meanings": [
+        "به طور سمبلیک"
+      ]
+    },
+    {
+      "EnglishWord": "symbolism",
+      "Meanings": [
+        "نمادگذاری",
+        "استعاری بودن",
+        "سمبولیسم"
+      ]
+    },
+    {
+      "EnglishWord": "symmerized",
+      "Meanings": [
+        "متقارن شده"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric",
+      "Meanings": [
+        "متقارن",
+        "قرینه",
+        "هم اندازه",
+        "تقارنی",
+        "همدوش"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric about the region",
+      "Meanings": [
+        "متقارن نسبت به مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric difference",
+      "Meanings": [
+        "تفاضل متقارن",
+        "اختلاف متقارن",
+        "اختلاف قرینه ای",
+        "فضل متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric differnce",
+      "Meanings": [
+        "تفاضل متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric distribution",
+      "Meanings": [
+        "توزیع متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric elements",
+      "Meanings": [
+        "اجزای متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric form",
+      "Meanings": [
+        "صورت متقارن",
+        "فرم متقارن",
+        "فرم تقارنی"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric function",
+      "Meanings": [
+        "تابع متقارن",
+        "تابع زوج"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric graph",
+      "Meanings": [
+        "نگار متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric group",
+      "Meanings": [
+        "گروه متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric group on n group",
+      "Meanings": [
+        "گروه متقارن با n متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric limit",
+      "Meanings": [
+        "حد متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric matrix",
+      "Meanings": [
+        "ماتریس متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric neiborhood",
+      "Meanings": [
+        "همسایگی متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric points",
+      "Meanings": [
+        "نقاط قرینه"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric polynomial",
+      "Meanings": [
+        "چندجمله ای متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric property of experiment",
+      "Meanings": [
+        "خاصیت قرینگی آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric relation",
+      "Meanings": [
+        "نسبت متقارن",
+        "رابطه قرینه",
+        "رابطه تقارن",
+        "رابطه متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric simple binary experiments",
+      "Meanings": [
+        "آزمایش‌های دوتایی ساده متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric square matrix",
+      "Meanings": [
+        "ماتریس مربع متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical",
+      "Meanings": [
+        "متقارن",
+        "قرینه",
+        "همال"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical matrix",
+      "Meanings": [
+        "ماتریس متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrically congruent",
+      "Meanings": [
+        "متساوی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrization",
+      "Meanings": [
+        "متقارن سازی",
+        "قرینه پذیر کردن",
+        "متقارن شدن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrization theorem",
+      "Meanings": [
+        "قضیه مقارنت"
+      ]
+    },
+    {
+      "EnglishWord": "symmetry",
+      "Meanings": [
+        "تقارن",
+        "قرینه",
+        "تقارنی",
+        "هم اندازگی",
+        "قرینه‌گی",
+        "همالی"
+      ]
+    },
+    {
+      "EnglishWord": "synchonize",
+      "Meanings": [
+        "هم‌زمان کردن",
+        "هم‌دوره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "synchronic",
+      "Meanings": [
+        "هم‌زمان",
+        "هم‌دوره"
+      ]
+    },
+    {
+      "EnglishWord": "syntactical",
+      "Meanings": [
+        "نحوی"
+      ]
+    },
+    {
+      "EnglishWord": "synthesis",
+      "Meanings": [
+        "ساخت",
+        "ترکیب",
+        "تلفیق",
+        "پیوند",
+        "با هم‌نهاد",
+        "ادغام",
+        "سنتر"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic",
+      "Meanings": [
+        "ساختنی",
+        "ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic elimination",
+      "Meanings": [
+        "حذف ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic geometry",
+      "Meanings": [
+        "هندسه ترکیبی",
+        "هندسه محض"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic judgement",
+      "Meanings": [
+        "حکم ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic method",
+      "Meanings": [
+        "روش ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic proof",
+      "Meanings": [
+        "اثبات ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "دستگاه",
+        "سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system of axiom of conditional probability",
+      "Meanings": [
+        "آکسیوم‌های احتمال شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "system of axioms",
+      "Meanings": [
+        "دستگاه اصول",
+        "دستگاه آکسیوم ها",
+        "دستگاه بنشت‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "system of circles",
+      "Meanings": [
+        "دستگاه دوایر",
+        "دسته دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "system of coordinates",
+      "Meanings": [
+        "دستگاه مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "system of equations",
+      "Meanings": [
+        "دستگاه معادلات"
+      ]
+    },
+    {
+      "EnglishWord": "system of generators of a module",
+      "Meanings": [
+        "دستگاه مولدهای یک مدول"
+      ]
+    },
+    {
+      "EnglishWord": "system of homogeneous linear equations",
+      "Meanings": [
+        "دستگاه معادلات خطی همگن"
+      ]
+    },
+    {
+      "EnglishWord": "system of inequalities",
+      "Meanings": [
+        "دستگاه نامعادلات",
+        "دستگاه نامساوی‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "system of notation",
+      "Meanings": [
+        "دستگاه نماد‌گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "system of random variables",
+      "Meanings": [
+        "دستگاه کمیت‌های تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "systematic",
+      "Meanings": [
+        "اصولی",
+        "باقاعده",
+        "منظم",
+        "سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systematic difference",
+      "Meanings": [
+        "تفاوت سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systematic error",
+      "Meanings": [
+        "خطای غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "systematic sampling",
+      "Meanings": [
+        "نمونه‌برداری منظم",
+        "نمونه‌گیری سیستماتیک"
+      ]
+    }
+  ]
+}

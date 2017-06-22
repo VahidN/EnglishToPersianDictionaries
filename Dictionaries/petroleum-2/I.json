@@ -1,0 +1,670 @@
+﻿{
+  "Group": "I",
+  "Entries": 96,
+  "Words": [
+    {
+      "EnglishWord": "i",
+      "Meanings": [
+        "One of Archie's classifications for different types of Carbonate rocks, blocky, hard, dense & compact rock with angular corners",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و در مورد سنگی بکار می‌رود که ظاهری سخت و یکپارچه دارد",
+        "ISOTRON, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "i/ii",
+      "Meanings": [
+        "One of Archie's classifications for different types of Carbonate rocks, a dense & hard rock with earthy looking, which does not absorb water easily",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و در مورد سنگی بکار می‌رود که ظاهری سخت و کمی گچی و نرم دارد"
+      ]
+    },
+    {
+      "EnglishWord": "i/ii a/b",
+      "Meanings": [
+        "An compact Mudstone, a little chalky with some porosity visible by handy magnifier"
+      ]
+    },
+    {
+      "EnglishWord": "i/ii- a/b",
+      "Meanings": [
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و نیز تخلخل ظاهری آنها و در مورد سنگی بکار می‌رود که ظاهری سخت و کمی گچی و نرم داشته و کمی تخلخل قابل رویت تحت بزرگنمایی 10 دارد"
+      ]
+    },
+    {
+      "EnglishWord": "i/iii",
+      "Meanings": [
+        "One of Archie's classifications for different types of Carbonate rocks, a granular & sugary rock which a little is cemented",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و در مورد سنگی بکار می‌رود که ظاهری سخت و کمی متبلور شدهداشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "i/iii-c",
+      "Meanings": [
+        "A sugary Dolomite which sometimes has anhydritic cement with porosity visible with eye",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و نیز تخلخل ظاهری آنها و در مورد سنگی بکار می‌رود که ظاهری سخت و کمی متبلور شده داشته و تخلخلی با اندازه 2 میلیمتر تا 50 میکرون داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "i-a",
+      "Meanings": [
+        "An oolitic Grainstone with good cement and without visible porosity",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و نیز تخلخل ظاهری آنها و در مورد سنگی بکار می‌رود که ظاهری سخت داشته و فاقد تخلخل قابل رویت تحت بزرگنمایی 10 باشد"
+      ]
+    },
+    {
+      "EnglishWord": "iadc",
+      "Meanings": [
+        "International Association of Drilling Contractors"
+      ]
+    },
+    {
+      "EnglishWord": "icofc",
+      "Meanings": [
+        "Iranian Central Oil Fields Company",
+        "شرکت نفت مناطق مرکزی ایران یکی از بخش‌های شرکت ملی نفت ایران است که در زمینە اکتشاف نفت و گاز فعالیت دارد",
+        "شرکت نفت مناطق مرکزی ایران"
+      ]
+    },
+    {
+      "EnglishWord": "id",
+      "Meanings": [
+        "Inside Diameter",
+        "قطر داخلی لوله‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "ies",
+      "Meanings": [
+        "INDUCTION/INDUCTION ELECTRIC/INDUCTION ELECTRO, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ig",
+      "Meanings": [
+        "آذرین",
+        "igneous"
+      ]
+    },
+    {
+      "EnglishWord": "i-gd",
+      "Meanings": [
+        "DEEP INDUCTION SHORT GUARD, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "igneous",
+      "Meanings": [
+        "آذرین",
+        "ig"
+      ]
+    },
+    {
+      "EnglishWord": "ii",
+      "Meanings": [
+        "One of Archie's classifications for different types of Carbonate rocks, chalky, earthy & generally soft rock",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و در مورد سنگی بکار می‌رود که ظاهری نرم و گچی داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "iii",
+      "Meanings": [
+        "One of Archie's classifications for different types of Carbonate rocks, Crystalline & hard rock with sugary grains",
+        "تقسیم بندی آرچی راجع به ظاهر سنگهای کربناته و در مورد سنگی بکار می‌رود که دوباره متبلور شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "iil",
+      "Meanings": [
+        "DUAL INDUCTION",
+        "ELECTRIC, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "il",
+      "Meanings": [
+        "Induction Log",
+        "لاگ القایی",
+        "INDUCTION, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ilas",
+      "Meanings": [
+        "ARRAY INDUCTION SHALLOW FOCUS, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ild",
+      "Meanings": [
+        "INDUCTION",
+        "DUAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ildf",
+      "Meanings": [
+        "INDUCTION",
+        "DUAL",
+        "FOCUSED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ildg",
+      "Meanings": [
+        "INDUCTION",
+        "DUAL",
+        "GUARD LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ildl",
+      "Meanings": [
+        "INDUCTION",
+        "DUAL",
+        "LATERAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ill",
+      "Meanings": [
+        "INDUCTION LATERAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ilsf",
+      "Meanings": [
+        "INDUCTION",
+        "SPHERICALLY FOCUSED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "imp",
+      "Meanings": [
+        "impervious, unpermeable",
+        "بدون تراوایی",
+        "غیر قابل نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "impermeable",
+      "Meanings": [
+        "Preventing the passage of fluid. A Formation may be porous yet impermeable if there is an absence of connecting passages between the voids within it. See also : Permeability"
+      ]
+    },
+    {
+      "EnglishWord": "impervious",
+      "Meanings": [
+        "imp, unpermeable",
+        "بدون تراوایی",
+        "غیر قابل نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "impression",
+      "Meanings": [
+        "imprsn"
+      ]
+    },
+    {
+      "EnglishWord": "impression block",
+      "Meanings": [
+        "A block with lead or another relatively soft material on its bottom. It is made up of Drill Pipe or Tubing at the surface, run into a Well, and set down on the object that has been lost in the Well. The block is retrieved and the impression is examined. The impression is a mirror image of the top of the Fish and indicates the Fish's position in the Hole, i.e., whether it is centered or off to one side. From this information, the correct Fishing Tool can be selected"
+      ]
+    },
+    {
+      "EnglishWord": "impression tool",
+      "Meanings": [
+        "A lead",
+        "filled cylindrical device used to ascertain the shape of a Fish"
+      ]
+    },
+    {
+      "EnglishWord": "imprint",
+      "Meanings": [
+        "impt"
+      ]
+    },
+    {
+      "EnglishWord": "imprsn",
+      "Meanings": [
+        "impression"
+      ]
+    },
+    {
+      "EnglishWord": "impt",
+      "Meanings": [
+        "imprint"
+      ]
+    },
+    {
+      "EnglishWord": "in situ combustion",
+      "Meanings": [
+        "The setting afire of some portion of the reservoir in order that the gases produced by combustion will drive Oil ahead of it to the producing Wells"
+      ]
+    },
+    {
+      "EnglishWord": "incl",
+      "Meanings": [
+        "INCLINATION, Log Curve name",
+        "including",
+        "شامل شدن",
+        "در بر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "inclu",
+      "Meanings": [
+        "inclusion",
+        "حفراتی در سنگ که با ماده ای پر شده باشند"
+      ]
+    },
+    {
+      "EnglishWord": "including",
+      "Meanings": [
+        "incl",
+        "شامل شدن",
+        "در بر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion",
+      "Meanings": [
+        "inclu",
+        "حفراتی در سنگ که با ماده ای پر شده باشند"
+      ]
+    },
+    {
+      "EnglishWord": "incr",
+      "Meanings": [
+        "increase",
+        "افزایش یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "increase",
+      "Meanings": [
+        "incr",
+        "افزایش یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "increasingly",
+      "Meanings": [
+        "incrly",
+        "فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "incrly",
+      "Meanings": [
+        "increasingly",
+        "فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "indexing valve",
+      "Meanings": [
+        "Operates on the same principle as an annular valve, except it requires pipe rotation for opening and closing operations"
+      ]
+    },
+    {
+      "EnglishWord": "indicator",
+      "Meanings": [
+        "a dial gauge used on the rig to measure the hookload",
+        ". Substances in acid",
+        "base that, in solution, change color or become colorless as the hydrogen ion concentration reaches a definite value, these values varying with the indicator. In other titrations, such as chloride, hardness, and other determinations, these substances change color at the end of the reaction. Common indicators are Phenolphthalein, and Potassium Chromate"
+      ]
+    },
+    {
+      "EnglishWord": "indistinct",
+      "Meanings": [
+        "indst",
+        "غیر واضح",
+        "نامشخص"
+      ]
+    },
+    {
+      "EnglishWord": "indst",
+      "Meanings": [
+        "indistinct",
+        "غیر واضح",
+        "نامشخص"
+      ]
+    },
+    {
+      "EnglishWord": "induction",
+      "Meanings": [
+        "IL, Induction Log",
+        "القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction log",
+      "Meanings": [
+        "IL, Induction Log",
+        "لاگ القایی"
+      ]
+    },
+    {
+      "EnglishWord": "indur",
+      "Meanings": [
+        "indurated"
+      ]
+    },
+    {
+      "EnglishWord": "indurated",
+      "Meanings": [
+        "indur"
+      ]
+    },
+    {
+      "EnglishWord": "inflatable packer",
+      "Meanings": [
+        "A type of Packer used for Open",
+        "Hole work, with inflatable packing elements"
+      ]
+    },
+    {
+      "EnglishWord": "inflow",
+      "Meanings": [
+        "See : Feed in"
+      ]
+    },
+    {
+      "EnglishWord": "influx",
+      "Meanings": [
+        "An intrusion of Formation fluids into the Borehole, i.e., a Kick"
+      ]
+    },
+    {
+      "EnglishWord": "infqt",
+      "Meanings": [
+        "infrequent"
+      ]
+    },
+    {
+      "EnglishWord": "infrequent",
+      "Meanings": [
+        "infqt"
+      ]
+    },
+    {
+      "EnglishWord": "inhibitor",
+      "Meanings": [
+        "An additive used to retard undesirable chemical action in a product. It is added in small quantities to gasolines to prevent oxidation and gum formation, to lubricating Oils to stop color change, and to corrosive environments to decrease corrosive action"
+      ]
+    },
+    {
+      "EnglishWord": "initial circulating pressure",
+      "Meanings": [
+        "ICP, The pressure at which a Well that has been closed in on a Kick is circulated when Well",
+        "killing procedures are begun"
+      ]
+    },
+    {
+      "EnglishWord": "initial production",
+      "Meanings": [
+        "تولید اولیه",
+        "IP"
+      ]
+    },
+    {
+      "EnglishWord": "injection gas",
+      "Meanings": [
+        "A high",
+        "pressure Gas injected into a Formation to maintain or restore reservoir pressure",
+        ". Gas injected in Gas Lift operations"
+      ]
+    },
+    {
+      "EnglishWord": "injection valve",
+      "Meanings": [
+        "A poppet spring",
+        "loaded subsurface valve run in on wireline, landed in a profile, to shut the well if injection ceases"
+      ]
+    },
+    {
+      "EnglishWord": "injection well",
+      "Meanings": [
+        "A Well through which fluids are injected into an underground stratum to increase reservoir pressure and to displace oil"
+      ]
+    },
+    {
+      "EnglishWord": "input well",
+      "Meanings": [
+        "An injection Well used for injecting fluids into an underground stratum to increase reservoir pressure"
+      ]
+    },
+    {
+      "EnglishWord": "inside blowout preventer",
+      "Meanings": [
+        "Any valve installed in the Drill Stem to prevent a Blow",
+        "Out through the Stem. Mud can be pumped in but flow back up the Stem is prevented. Also called : an Internal Blow",
+        "Out Preventer"
+      ]
+    },
+    {
+      "EnglishWord": "inside diameter",
+      "Meanings": [
+        "ID",
+        "قطر داخلی لوله‌ها یا کیسینگ‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "instrument hanger",
+      "Meanings": [
+        "A Hanger used to lock instruments into Seating Nipple pressure/temperature bombs, etc"
+      ]
+    },
+    {
+      "EnglishWord": "insulated flange",
+      "Meanings": [
+        "A Flange which incorporates plastic pieces to separate the metal parts"
+      ]
+    },
+    {
+      "EnglishWord": "int",
+      "Meanings": [
+        "inter"
+      ]
+    },
+    {
+      "EnglishWord": "intbd",
+      "Meanings": [
+        "interbedded",
+        "میان لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intensifier",
+      "Meanings": [
+        "A pressure",
+        "multiplier",
+        "type well servicing mobile pump"
+      ]
+    },
+    {
+      "EnglishWord": "inter",
+      "Meanings": [
+        "int"
+      ]
+    },
+    {
+      "EnglishWord": "interbedded",
+      "Meanings": [
+        "intbd",
+        "بین لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intercrystalline",
+      "Meanings": [
+        "intxl",
+        "مابین بلوری"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate casing string",
+      "Meanings": [
+        "The String of Casing set in a Well after the surface Casing, but before production Casing is set. Keeps Hole from caving and seals off troublesome Formations. Also called : Protection Casing"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent",
+      "Meanings": [
+        "متناوب",
+        "intmt"
+      ]
+    },
+    {
+      "EnglishWord": "interst",
+      "Meanings": [
+        "دارای نوار",
+        "مخطط",
+        "interstitial"
+      ]
+    },
+    {
+      "EnglishWord": "interstitial",
+      "Meanings": [
+        "intstl, streaked with bands",
+        "دارای نوار",
+        "مخطط"
+      ]
+    },
+    {
+      "EnglishWord": "interval",
+      "Meanings": [
+        "intv, also rarely write as : intrvl",
+        "فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "intfm",
+      "Meanings": [
+        "intraformational",
+        "بین سازندی"
+      ]
+    },
+    {
+      "EnglishWord": "intmt",
+      "Meanings": [
+        "intermittent, not continuous, occurring at irregular intervals, not continuous or steady",
+        "متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "intraformational",
+      "Meanings": [
+        "intfm",
+        "بین سازندی"
+      ]
+    },
+    {
+      "EnglishWord": "intrvl",
+      "Meanings": [
+        "interval, also mostly write as : intv",
+        "فواصل"
+      ]
+    },
+    {
+      "EnglishWord": "intstl",
+      "Meanings": [
+        "interstitial, streaked with bands",
+        "مخطط"
+      ]
+    },
+    {
+      "EnglishWord": "intv",
+      "Meanings": [
+        "interval",
+        "فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "intxl",
+      "Meanings": [
+        "intercrystalline",
+        "بین کریستالی",
+        "بین بلوری"
+      ]
+    },
+    {
+      "EnglishWord": "ip",
+      "Meanings": [
+        "Initial Production"
+      ]
+    },
+    {
+      "EnglishWord": "ipaa",
+      "Meanings": [
+        "Independent Petroleum American Asociation",
+        "انجمن مستقل نفت آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "iran oil",
+      "Meanings": [
+        "Iran's light oil is between",
+        "API & heavy oil of Iran's API is between",
+        "& highly heavy oil's API in Iran is between",
+        "نفت ایران",
+        "نفت سبک ایران ای پی آی برابر 32 تا 34 و نفت سنگین آن ای پی آی برابر 30 تا 32 و نفت فوق سنگین ای پی آیی برابر 25 تا 27 را دارا می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "iranrazi",
+      "Meanings": [
+        "یکی از شرکتهای نفتی خصوصی است که در صنایع نفت و گاز فعالیت می‌کند. این شرکت در کل کارهای نفتی را بصورت تفننی انجام داده و کار اصلی آن ساختمان سازی می‌باشد! ولی در هر صورت چند ماهی یکی دو پروژه کوچک را انجام داده اند. اما در حال حاضر پروژه ای برای انجام به آنها واگذار نشده است",
+        "البته بخاطر عملکرد غلط در این زمینه بوده است",
+        "Iranrazi Oil Company is one of Companies in Oil & Gas Industry. Director Manager is Mr. N. Razi, because of high wages toke several geologists but after a while all projects were taken from this Company. Because this Company mainly do Building making jobs !!"
+      ]
+    },
+    {
+      "EnglishWord": "iranrazi oil",
+      "Meanings": [
+        "یکی از شرکتهای نفتی خصوصی است که در صنایع نفت و گاز فعالیت می‌کند. این شرکت در کل کارهای نفتی را بصورت تفننی انجام داده و کار اصلی آن ساختمان سازی می‌باشد! ولی در هر صورت چند ماهی یکی دو پروژه کوچک را انجام داده اند. اما در حال حاضر پروژه ای برای انجام به آنها واگذار نشده است",
+        "البته بخاطر عملکرد غلط در این زمینه بوده است"
+      ]
+    },
+    {
+      "EnglishWord": "iron",
+      "Meanings": [
+        "Fe",
+        "آهن"
+      ]
+    },
+    {
+      "EnglishWord": "ironstone",
+      "Meanings": [
+        "Fest"
+      ]
+    },
+    {
+      "EnglishWord": "irreg",
+      "Meanings": [
+        "irregular",
+        "نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "irregular",
+      "Meanings": [
+        "irreg",
+        "نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "isf",
+      "Meanings": [
+        "INDUCTION",
+        "SPHERICALLY FOCUSED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "isol",
+      "Meanings": [
+        "ISOTRON, Log Curve name"
+      ]
+    }
+  ]
+}

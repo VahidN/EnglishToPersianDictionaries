@@ -1,0 +1,1987 @@
+﻿{
+  "Group": "G",
+  "Entries": 302,
+  "Words": [
+    {
+      "EnglishWord": "g",
+      "Meanings": [
+        "هفتمین حرف لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "gabardin",
+      "Meanings": [
+        "گاباردین",
+        "نوعی پارچه با طرح جناغی و تراکم بسیار زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "gabardine",
+      "Meanings": [
+        "بافت گاباردین",
+        "پارچه گاباردین"
+      ]
+    },
+    {
+      "EnglishWord": "gaberdine",
+      "Meanings": [
+        "بافت گاباردین",
+        "سرژه پشمی که معمولا طرحش در هر یازده تار تکرار می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "gabler type shuttleless loom",
+      "Meanings": [
+        "ماشین بافندگی بدون ماکوی نوع گابلر"
+      ]
+    },
+    {
+      "EnglishWord": "gain mechanism",
+      "Meanings": [
+        "دستگاه پس یا پیش پیچ نخ"
+      ]
+    },
+    {
+      "EnglishWord": "gaipure",
+      "Meanings": [
+        "گیپور",
+        "پارچه توری گلدار"
+      ]
+    },
+    {
+      "EnglishWord": "gait",
+      "Meanings": [
+        "آماده به کار کردن",
+        "آماده به کار کردن ماشین میول و رینگ",
+        "چله بندی",
+        "چله گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "gaitan",
+      "Meanings": [
+        "قیطان",
+        "نوار نازک",
+        "نخی که در رنگهای مختلف ریسیده و یا بافته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "gaiter",
+      "Meanings": [
+        "چله بند",
+        "چله گذار"
+      ]
+    },
+    {
+      "EnglishWord": "gaiting",
+      "Meanings": [
+        "آماده کار کردن",
+        "راه انداختن ماشین میول یا رینگ و غیره پس از آماده کردن مجدد آن",
+        "چله بندی",
+        "چله گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "gala twill",
+      "Meanings": [
+        "سرژه 4 در 4 راست",
+        "سرژه راست چهار در چهار"
+      ]
+    },
+    {
+      "EnglishWord": "galashiels count",
+      "Meanings": [
+        "تعداد کلافهای 300 یاردی نخ در 1/5 پوند"
+      ]
+    },
+    {
+      "EnglishWord": "galim",
+      "Meanings": [
+        "گلیم",
+        "فرش کرمانشاه با گره خراسانی"
+      ]
+    },
+    {
+      "EnglishWord": "galvo rotary screen",
+      "Meanings": [
+        "شابلون روتاری گالوو"
+      ]
+    },
+    {
+      "EnglishWord": "gambier",
+      "Meanings": [
+        "رنگ زردی حاوی مقدار زیادی ماده مازوجی که در رنگرزی و دباغی بکار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "فضای باز",
+        "فاصله دهانه شیطانک رینگ",
+        "دهانه"
+      ]
+    },
+    {
+      "EnglishWord": "garacine",
+      "Meanings": [
+        "گاراسین",
+        "رنگ قرمزی که از عمل کردن ریشه رناس در اسید سولفوریک بدست می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "garb",
+      "Meanings": [
+        "لباس",
+        "جامه ظاهر",
+        "روش"
+      ]
+    },
+    {
+      "EnglishWord": "garment",
+      "Meanings": [
+        "لباس",
+        "جامه",
+        "پوشاک"
+      ]
+    },
+    {
+      "EnglishWord": "garment dyeing",
+      "Meanings": [
+        "رنگرزی جامه",
+        "رنگرزی لباس",
+        "رنگرزی پارچه تریکو"
+      ]
+    },
+    {
+      "EnglishWord": "garment dyeing machine",
+      "Meanings": [
+        "ماشین رنگرزی لباس"
+      ]
+    },
+    {
+      "EnglishWord": "garnet",
+      "Meanings": [
+        "لعل فام",
+        "لعل",
+        "قرمز لعل گون",
+        "نوار",
+        "خاردار متالیک اره ای"
+      ]
+    },
+    {
+      "EnglishWord": "garnet wire",
+      "Meanings": [
+        "غلتک خاردار ماشین حلاجی نخ یا پارچه مستعمل با خارهای اره ای",
+        "نوار خاردار متالیک"
+      ]
+    },
+    {
+      "EnglishWord": "garnet wire lag",
+      "Meanings": [
+        "غلتک خاردار ماشین حلاجی نخ یا پارچه مستعمل با خارهای اره ای",
+        "نوار خاردار متالیک"
+      ]
+    },
+    {
+      "EnglishWord": "garneting machine",
+      "Meanings": [
+        "ماشین بازیابی نخ و پارچه پشمی"
+      ]
+    },
+    {
+      "EnglishWord": "garnetted waste",
+      "Meanings": [
+        "ضایعات پشمی"
+      ]
+    },
+    {
+      "EnglishWord": "garnetting",
+      "Meanings": [
+        "بازیابی الیاف از منسوجات جهت مصرف مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "garnetting machine",
+      "Meanings": [
+        "ماشین حلاجی نخ و پارچه مستعمل"
+      ]
+    },
+    {
+      "EnglishWord": "garter",
+      "Meanings": [
+        "کش جوراب",
+        "کشباف پشت و رو یکی",
+        "نوار جا دکمه",
+        "نوار دکمه"
+      ]
+    },
+    {
+      "EnglishWord": "garter stitch",
+      "Meanings": [
+        "تکرار یک در میان یک حلقه عمودی و یک حلقه افقی در کشباف پودی پشت و رو یکی"
+      ]
+    },
+    {
+      "EnglishWord": "gas chromatography",
+      "Meanings": [
+        "کروماتوگرافی گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas fading",
+      "Meanings": [
+        "رنگبری با گاز",
+        "رنگ زدایی با گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas fume fading",
+      "Meanings": [
+        "ماده ضد رنگ پریدگی",
+        "ماده افزاینده ثبات رنگ در برابر رنگ پریدگی ناشی از تماس منسوج رنگ شده با هوای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "gas liquid chromatography",
+      "Meanings": [
+        "کروماتوگرافی گاز مایع"
+      ]
+    },
+    {
+      "EnglishWord": "gas singeing",
+      "Meanings": [
+        "ماشین پرزگیری پارچه بوسیله گاز",
+        "ماشین گاز دادن پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "gas singeing machine",
+      "Meanings": [
+        "ماشین پرز سوزی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "gassine",
+      "Meanings": [
+        "پرز سوزی"
+      ]
+    },
+    {
+      "EnglishWord": "gassing",
+      "Meanings": [
+        "پرزگیری از سطح پارچه پنبه ای با کمک شعله",
+        "پرزسوزی",
+        "گاز دادن",
+        "کز دادن"
+      ]
+    },
+    {
+      "EnglishWord": "gassingeing machine",
+      "Meanings": [
+        "ماشین گاز دادن",
+        "ماشین پرز سوزی پارچه با گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gate feeler",
+      "Meanings": [
+        "شبکه تماس نخ"
+      ]
+    },
+    {
+      "EnglishWord": "gatting",
+      "Meanings": [
+        "گیتینگ",
+        "ترتیب قرار گیری سوزن‌های صفحه و سیلندر نسبت به هم در ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "گیج",
+        "گیج ماشین",
+        "ظرفیت ماشین",
+        "تعداد سوزن‌های در واحد طول ماشین بافندگی حلقوی",
+        "فاصله بین دوکها در ماشین رینگ یا دولا تاب",
+        "ساختمان پارچه",
+        "قدرت نخ",
+        "ظرافت پارچه",
+        "نمره سوزن کشبافی",
+        "فیلر"
+      ]
+    },
+    {
+      "EnglishWord": "gauze",
+      "Meanings": [
+        "نوعی بافت بسیار باز",
+        "بافتی توری",
+        "پارچه تور",
+        "گاز",
+        "پارچه تور مشبک و شل و سبک یا ابریشمی"
+      ]
+    },
+    {
+      "EnglishWord": "gauze weave",
+      "Meanings": [
+        "بافت تور"
+      ]
+    },
+    {
+      "EnglishWord": "gear",
+      "Meanings": [
+        "ورد طراحی شده",
+        "دنده",
+        "چرخ دنده",
+        "دندانه دار کردن",
+        "دایر کردن",
+        "آماده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "gear box",
+      "Meanings": [
+        "جعبه دنده"
+      ]
+    },
+    {
+      "EnglishWord": "gear crimp",
+      "Meanings": [
+        "روش چرخ دنده",
+        "روشی در تکسچره کردن نخ"
+      ]
+    },
+    {
+      "EnglishWord": "gear dobby",
+      "Meanings": [
+        "دابی چرخ دنده ای"
+      ]
+    },
+    {
+      "EnglishWord": "gear pump",
+      "Meanings": [
+        "پمپ چرخ دنده ای"
+      ]
+    },
+    {
+      "EnglishWord": "gear wheel",
+      "Meanings": [
+        "چرخ دنده"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "ژل",
+        "محلول ژلاتینی"
+      ]
+    },
+    {
+      "EnglishWord": "gel spinning",
+      "Meanings": [
+        "ریسندگی ژل",
+        "ژل ریسی"
+      ]
+    },
+    {
+      "EnglishWord": "gelatin",
+      "Meanings": [
+        "ژلاتین",
+        "دلمه",
+        "ژله"
+      ]
+    },
+    {
+      "EnglishWord": "gelatinous",
+      "Meanings": [
+        "ژلاتینی"
+      ]
+    },
+    {
+      "EnglishWord": "gelation",
+      "Meanings": [
+        "ژل شدن",
+        "ژلاتین"
+      ]
+    },
+    {
+      "EnglishWord": "gelatose",
+      "Meanings": [
+        "ژلاتاز",
+        "آنزیم تجزیه کننده ژلاتین"
+      ]
+    },
+    {
+      "EnglishWord": "gelling agent",
+      "Meanings": [
+        "ماده ژل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "gem head motion",
+      "Meanings": [
+        "نوعی دستگاه فوقانی تشکیل دهانه تار با 12 تا 32 ورد بطور مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "general",
+      "Meanings": [
+        "همگانی",
+        "عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general knowledge",
+      "Meanings": [
+        "اطلاعات عمومی",
+        "معلومات عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general manager",
+      "Meanings": [
+        "مدیر کل"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose plastic",
+      "Meanings": [
+        "پلاستیک با مصارف عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose polymer",
+      "Meanings": [
+        "پلیمر با مصارف عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose thermoplastic",
+      "Meanings": [
+        "ترموپلاستیک با مصارف عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "generate",
+      "Meanings": [
+        "تولید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "ژنراتور",
+        "مولد"
+      ]
+    },
+    {
+      "EnglishWord": "genova twill",
+      "Meanings": [
+        "سرژه سه تاری راست"
+      ]
+    },
+    {
+      "EnglishWord": "genuine",
+      "Meanings": [
+        "خالص",
+        "ناب"
+      ]
+    },
+    {
+      "EnglishWord": "genuine silk",
+      "Meanings": [
+        "نخ ابریشم خام"
+      ]
+    },
+    {
+      "EnglishWord": "geometical grey scale",
+      "Meanings": [
+        "نمونه ای که جهت ارزیابی ثبات رنگ در برابر عوامل مختلف بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "geometric design",
+      "Meanings": [
+        "طرح هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric shape",
+      "Meanings": [
+        "ساختمان فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "geometrical isomerism",
+      "Meanings": [
+        "ایزومر هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "georgett crepe",
+      "Meanings": [
+        "کرپ ژرژت",
+        "پارچه کرپ ابریشمی"
+      ]
+    },
+    {
+      "EnglishWord": "georgette",
+      "Meanings": [
+        "پارچه ژرژت",
+        "پارچه جرجت"
+      ]
+    },
+    {
+      "EnglishWord": "geotextile",
+      "Meanings": [
+        "منسوجی که در عمران کاربرد دارد",
+        "منسوج مصرفی در فیلتر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "german tie up",
+      "Meanings": [
+        "ریسمان کشی آلمانی"
+      ]
+    },
+    {
+      "EnglishWord": "germicidal agent",
+      "Meanings": [
+        "ماده ضد عفونی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "germicide",
+      "Meanings": [
+        "میکروب کش",
+        "باکتری کش",
+        "ضد میکروب و باکتری"
+      ]
+    },
+    {
+      "EnglishWord": "ghiodes rug",
+      "Meanings": [
+        "قالیچه ای از ایران و ترکیه و قفقاز با گره ترکی"
+      ]
+    },
+    {
+      "EnglishWord": "ghiordes knot",
+      "Meanings": [
+        "گره ترکی",
+        "گره تبریزی در قالی"
+      ]
+    },
+    {
+      "EnglishWord": "ghycinamind",
+      "Meanings": [
+        "گلایسین آمید"
+      ]
+    },
+    {
+      "EnglishWord": "gig",
+      "Meanings": [
+        "ماشین خارزنی"
+      ]
+    },
+    {
+      "EnglishWord": "gigging",
+      "Meanings": [
+        "خارزدن",
+        "پرزدار کردن پارچه با عبور آن از غلتکهای خاردار"
+      ]
+    },
+    {
+      "EnglishWord": "gilet",
+      "Meanings": [
+        "ژیلت"
+      ]
+    },
+    {
+      "EnglishWord": "gill",
+      "Meanings": [
+        "شانه درریسندگی پشم"
+      ]
+    },
+    {
+      "EnglishWord": "gill box",
+      "Meanings": [
+        "گیل باکس",
+        "ماشین فتیله پشم"
+      ]
+    },
+    {
+      "EnglishWord": "gillan",
+      "Meanings": [
+        "گیلان"
+      ]
+    },
+    {
+      "EnglishWord": "gilling",
+      "Meanings": [
+        "چندلا کردن و کش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "gimp",
+      "Meanings": [
+        "قیطان",
+        "نوار",
+        "حاشیه پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "gimp yarn",
+      "Meanings": [
+        "نخ فانتزی مارپیچ ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "gin",
+      "Meanings": [
+        "پنبه پاک کن",
+        "ماشین پنبه پاک کنی",
+        "ماشین جین"
+      ]
+    },
+    {
+      "EnglishWord": "gingham",
+      "Meanings": [
+        "پارچه چهارخانه",
+        "پارچه پنبه ای ساده باف با نقش چهارخانه رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "gining machine",
+      "Meanings": [
+        "ماشین پنبه پاک کنی"
+      ]
+    },
+    {
+      "EnglishWord": "ginned cotton",
+      "Meanings": [
+        "پنبه خام",
+        "پنبه محصول ماشین جین"
+      ]
+    },
+    {
+      "EnglishWord": "ginnery",
+      "Meanings": [
+        "کارخانه پنبه پاک کنی"
+      ]
+    },
+    {
+      "EnglishWord": "ginning",
+      "Meanings": [
+        "فرآیند جین",
+        "عملیات پنبه پاک کنی",
+        "فرآیند عمل آوری پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "ginning machine",
+      "Meanings": [
+        "ماشین جین جدا کننده پنبه از دانه"
+      ]
+    },
+    {
+      "EnglishWord": "given draft",
+      "Meanings": [
+        "کشش معلوم"
+      ]
+    },
+    {
+      "EnglishWord": "giver",
+      "Meanings": [
+        "سرماکویی دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "gizolan",
+      "Meanings": [
+        "لیف مصنوعی گیزولان سلولزیک"
+      ]
+    },
+    {
+      "EnglishWord": "glace",
+      "Meanings": [
+        "تکمیل شفاف و روشن روی پارچه",
+        "نوعی پارچه انگلیسی که دارای تار پنبه و پود پشم از جنس مو می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "glace kid",
+      "Meanings": [
+        "چرم شورو"
+      ]
+    },
+    {
+      "EnglishWord": "glace thread",
+      "Meanings": [
+        "نخ فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "glace yarn",
+      "Meanings": [
+        "ریسمان موم خورده"
+      ]
+    },
+    {
+      "EnglishWord": "glanz stoff co",
+      "Meanings": [
+        "کمپانی گلانزاستوف آلمان غربی"
+      ]
+    },
+    {
+      "EnglishWord": "glanz stoff perlon",
+      "Meanings": [
+        "لیف مصنوعی گلانزاشتوف پرلون نایلون 6 پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "glanzstiff",
+      "Meanings": [
+        "لیف مصنوعی گلانزاشتوف ویسکوز سخت برای لاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "glass",
+      "Meanings": [
+        "شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glass cloth",
+      "Meanings": [
+        "پارچه تنظیف شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glass cut",
+      "Meanings": [
+        "تعداد کلافهای 100 یاردی در یک پوند"
+      ]
+    },
+    {
+      "EnglishWord": "glass effect",
+      "Meanings": [
+        "اثر شیشه ای شدن الیاف مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "glass electrod",
+      "Meanings": [
+        "الکترود شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass fiber",
+      "Meanings": [
+        "لیف شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass fibre",
+      "Meanings": [
+        "لیف شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass fibre fabric",
+      "Meanings": [
+        "منسوج پشم شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass importing agent",
+      "Meanings": [
+        "ماده تکمیلی افزاینده جلا و شفافیت پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "glass mail",
+      "Meanings": [
+        "میل میلک ژاکارد"
+      ]
+    },
+    {
+      "EnglishWord": "glass reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده با الیاف شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass silk",
+      "Meanings": [
+        "پارچه شیشه ای",
+        "ابریشم براق"
+      ]
+    },
+    {
+      "EnglishWord": "glass spinning",
+      "Meanings": [
+        "ریسیدن نخ شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass transition",
+      "Meanings": [
+        "دمای تبدیل شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass transition temperature",
+      "Meanings": [
+        "دمای تبدیل شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass wool",
+      "Meanings": [
+        "پشم شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glassy state",
+      "Meanings": [
+        "حالت شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glaswole",
+      "Meanings": [
+        "لیف مصنوعی گلاس وول شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glaubers salt",
+      "Meanings": [
+        "سولفات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "glaze",
+      "Meanings": [
+        "جلا"
+      ]
+    },
+    {
+      "EnglishWord": "glazed board",
+      "Meanings": [
+        "صفحات مقوایی سخت دراطو زنی پارچه پشمی"
+      ]
+    },
+    {
+      "EnglishWord": "glazed finish",
+      "Meanings": [
+        "تکمیل سخت و براق"
+      ]
+    },
+    {
+      "EnglishWord": "glazing",
+      "Meanings": [
+        "جلا دادن"
+      ]
+    },
+    {
+      "EnglishWord": "glazing machine",
+      "Meanings": [
+        "ماشین پرداخت الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "glazing wheel",
+      "Meanings": [
+        "دیسک جلا دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "glen check",
+      "Meanings": [
+        "نوعی نقشه چهارخانه پارچه کت و شلواری که از ترکیب بافت و رنگ بوجود می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "gliadin",
+      "Meanings": [
+        "چسب نشاسته",
+        "قسمت لزج و چسبناک گلوتن"
+      ]
+    },
+    {
+      "EnglishWord": "glitter",
+      "Meanings": [
+        "برق زدن"
+      ]
+    },
+    {
+      "EnglishWord": "globular micelle",
+      "Meanings": [
+        "میسل کروی",
+        "میسل خوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "globular protein",
+      "Meanings": [
+        "پروتیین کروی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "glospan",
+      "Meanings": [
+        "لیف مصنوعی گلوسپان پلی اورتان قابل ارتجاع"
+      ]
+    },
+    {
+      "EnglishWord": "gloss",
+      "Meanings": [
+        "جلا"
+      ]
+    },
+    {
+      "EnglishWord": "glossing",
+      "Meanings": [
+        "اطوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "glossy",
+      "Meanings": [
+        "جلا دار",
+        "براق",
+        "درخشان"
+      ]
+    },
+    {
+      "EnglishWord": "glossy finish",
+      "Meanings": [
+        "تکمیل جلا دهی"
+      ]
+    },
+    {
+      "EnglishWord": "gloud point",
+      "Meanings": [
+        "نقطه تاری",
+        "نقطه ای که در آن اولین ذرات ماده پاک کننده در آب نا محلول شده و آب را کدر می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "glove",
+      "Meanings": [
+        "خارزنی پارچه",
+        "دستکش"
+      ]
+    },
+    {
+      "EnglishWord": "glove fabric",
+      "Meanings": [
+        "پارچه دستکش"
+      ]
+    },
+    {
+      "EnglishWord": "glove net",
+      "Meanings": [
+        "دستکش توری"
+      ]
+    },
+    {
+      "EnglishWord": "glucose",
+      "Meanings": [
+        "گلوکز"
+      ]
+    },
+    {
+      "EnglishWord": "glue",
+      "Meanings": [
+        "چسب",
+        "چسباندن",
+        "سریشم"
+      ]
+    },
+    {
+      "EnglishWord": "gluten gum",
+      "Meanings": [
+        "صمغ گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "gly ptal resin",
+      "Meanings": [
+        "رزین الکیدی"
+      ]
+    },
+    {
+      "EnglishWord": "glycerin soap",
+      "Meanings": [
+        "صابون گلیسیرین"
+      ]
+    },
+    {
+      "EnglishWord": "glycerol",
+      "Meanings": [
+        "گلیسرول",
+        "گلیسیرین"
+      ]
+    },
+    {
+      "EnglishWord": "glycol benzouates",
+      "Meanings": [
+        "گلیکول بنزوات از نرم کننده ها"
+      ]
+    },
+    {
+      "EnglishWord": "goats hair",
+      "Meanings": [
+        "پشم و موی بز"
+      ]
+    },
+    {
+      "EnglishWord": "gobaur's kier",
+      "Meanings": [
+        "دستگاه شستشوی کی یر تحت فشار دو جداره"
+      ]
+    },
+    {
+      "EnglishWord": "goblin",
+      "Meanings": [
+        "پارچه گوبلین",
+        "پارچه دستبافی که روی آن دست دوزی شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "godet",
+      "Meanings": [
+        "مجموعه متشکل از چند سیلندر",
+        "غلتک گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "going part",
+      "Meanings": [
+        "دفتین"
+      ]
+    },
+    {
+      "EnglishWord": "golbute",
+      "Meanings": [
+        "گل بته",
+        "پارچه پاکستانی رنگی و یا چاپ شده"
+      ]
+    },
+    {
+      "EnglishWord": "golden print",
+      "Meanings": [
+        "چاپ طلایی"
+      ]
+    },
+    {
+      "EnglishWord": "golgas",
+      "Meanings": [
+        "گلگاس نوعی فلانل چاپ شده دو رو"
+      ]
+    },
+    {
+      "EnglishWord": "good side",
+      "Meanings": [
+        "روی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "good solvent",
+      "Meanings": [
+        "حلال خوب",
+        "حلال مناسب"
+      ]
+    },
+    {
+      "EnglishWord": "good wear resistance",
+      "Meanings": [
+        "مقاومت خوب سایشی"
+      ]
+    },
+    {
+      "EnglishWord": "goods",
+      "Meanings": [
+        "کالا",
+        "کالای نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "goolabatoon",
+      "Meanings": [
+        "گلابتون",
+        "قیطان",
+        "نخ رنگ شده"
+      ]
+    },
+    {
+      "EnglishWord": "goolbuti",
+      "Meanings": [
+        "گل بته",
+        "پارچه‌های چاپ شده نمدی"
+      ]
+    },
+    {
+      "EnglishWord": "gorevan rug",
+      "Meanings": [
+        "قالی تبریزی با تار پنبه ای",
+        "اندازه متوسط",
+        "گره ترکی با طرح ترنج در وسط و گل و بوته اطراف آن"
+      ]
+    },
+    {
+      "EnglishWord": "gossamer",
+      "Meanings": [
+        "لیف مصنوعی گوزامر پلی استر نخ دوزندگی"
+      ]
+    },
+    {
+      "EnglishWord": "gossypium",
+      "Meanings": [
+        "گیاهی از خانواده پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "goton",
+      "Meanings": [
+        "قطن",
+        "اسم عربی پنبه",
+        "منشاء اصلی کلمه لاتین پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "gout",
+      "Meanings": [
+        "اسلاب",
+        "شبه گره"
+      ]
+    },
+    {
+      "EnglishWord": "gpp",
+      "Meanings": [
+        "پلاستیک با مصارف عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "درجه مرغوبیت پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "grader",
+      "Meanings": [
+        "یکنواخت کننده",
+        "یکنواخت ساز"
+      ]
+    },
+    {
+      "EnglishWord": "grading",
+      "Meanings": [
+        "نمره بندی",
+        "کلاسه بندی",
+        "درجه بندی",
+        "تعیین نوع",
+        "دسته بندی",
+        "طبقه بندی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "gradual draft",
+      "Meanings": [
+        "کشش تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "graduated cylinder",
+      "Meanings": [
+        "استوانه مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "graduated temperature",
+      "Meanings": [
+        "تغییر تدریجی دمای حمام"
+      ]
+    },
+    {
+      "EnglishWord": "graduation",
+      "Meanings": [
+        "درجه بندی",
+        "مدرج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grafil",
+      "Meanings": [
+        "لیف گرافیل از الیاف کربن"
+      ]
+    },
+    {
+      "EnglishWord": "graft",
+      "Meanings": [
+        "پیوند زدن",
+        "بهم پیوستن",
+        "روش گرافت جهت افزودن آنتی استاتیک به پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "graft copolymer",
+      "Meanings": [
+        "کوپلیمر شاخه ای",
+        "کوپلیمر پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "graft copolymerization",
+      "Meanings": [
+        "کوپلیمریزاسیون پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "grafted",
+      "Meanings": [
+        "پیوند خورده",
+        "پیوند داده"
+      ]
+    },
+    {
+      "EnglishWord": "grafting method",
+      "Meanings": [
+        "روش پیوند زدن"
+      ]
+    },
+    {
+      "EnglishWord": "grain",
+      "Meanings": [
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "graininess",
+      "Meanings": [
+        "دانه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "grams per denier",
+      "Meanings": [
+        "گرم بر دنیر",
+        "مقدار قدرت کششی که یک نخ و یا لیف فیلامنت از خود نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "grand teint",
+      "Meanings": [
+        "رنگرزی با رنگهای خیلی با ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "grandrelle yarn",
+      "Meanings": [
+        "نخ فانتزی چند رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "granite weave",
+      "Meanings": [
+        "بافت گرانیت"
+      ]
+    },
+    {
+      "EnglishWord": "granulate",
+      "Meanings": [
+        "دانه بندی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "granulated",
+      "Meanings": [
+        "دانه بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "granulation",
+      "Meanings": [
+        "گرانوله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "granule",
+      "Meanings": [
+        "گرانول"
+      ]
+    },
+    {
+      "EnglishWord": "graphic formula",
+      "Meanings": [
+        "فرمول گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "graphite cloth",
+      "Meanings": [
+        "پارچه گرافیتی"
+      ]
+    },
+    {
+      "EnglishWord": "graphite felt",
+      "Meanings": [
+        "نمد گرافیتی"
+      ]
+    },
+    {
+      "EnglishWord": "graphite fibre",
+      "Meanings": [
+        "لیف گرافیت"
+      ]
+    },
+    {
+      "EnglishWord": "graphite foil",
+      "Meanings": [
+        "لایه گرافیتی"
+      ]
+    },
+    {
+      "EnglishWord": "graphite membrane",
+      "Meanings": [
+        "غشاء گرافیتی"
+      ]
+    },
+    {
+      "EnglishWord": "grass bleaching",
+      "Meanings": [
+        "سفیدگری چمن"
+      ]
+    },
+    {
+      "EnglishWord": "grass green",
+      "Meanings": [
+        "رنگ سبز چمنی"
+      ]
+    },
+    {
+      "EnglishWord": "grass rug",
+      "Meanings": [
+        "حصیر"
+      ]
+    },
+    {
+      "EnglishWord": "grate",
+      "Meanings": [
+        "دروازه چنگال",
+        "صفحه زیر قلابهای ژاکارد"
+      ]
+    },
+    {
+      "EnglishWord": "grating",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "gravity",
+      "Meanings": [
+        "نیروی ثقل",
+        "نیروی جاذبه"
+      ]
+    },
+    {
+      "EnglishWord": "gravity feed method",
+      "Meanings": [
+        "روش تغذیه روغن بوسیله چکاندن"
+      ]
+    },
+    {
+      "EnglishWord": "gravure",
+      "Meanings": [
+        "چاپ گراور",
+        "چاپ گود"
+      ]
+    },
+    {
+      "EnglishWord": "gravure printing",
+      "Meanings": [
+        "چاپ گراور"
+      ]
+    },
+    {
+      "EnglishWord": "gray",
+      "Meanings": [
+        "خاکستری",
+        "کالای نساجی خام و با رنگ طبیعی",
+        "طوسی",
+        "تیره",
+        "سفید",
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "gray goods",
+      "Meanings": [
+        "پارچه خام",
+        "متقال",
+        "پارچه بافته شده از نخ‌های رنگ نشده"
+      ]
+    },
+    {
+      "EnglishWord": "gray jean",
+      "Meanings": [
+        "پارچه جین خام پنبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "gray scale",
+      "Meanings": [
+        "معیار خاکستری",
+        "مقیاس خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "gray yarn",
+      "Meanings": [
+        "نخ خام"
+      ]
+    },
+    {
+      "EnglishWord": "grease",
+      "Meanings": [
+        "چربی",
+        "گریس"
+      ]
+    },
+    {
+      "EnglishWord": "grease dyeing",
+      "Meanings": [
+        "رنگرزی پشم قبل از شستشوی آن"
+      ]
+    },
+    {
+      "EnglishWord": "grease fulling",
+      "Meanings": [
+        "والک پارچه پشمی چرب"
+      ]
+    },
+    {
+      "EnglishWord": "grease milling",
+      "Meanings": [
+        "روش والک قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "grease wool",
+      "Meanings": [
+        "پشم خام"
+      ]
+    },
+    {
+      "EnglishWord": "greasy count of warp",
+      "Meanings": [
+        "نمره نخ تار خام"
+      ]
+    },
+    {
+      "EnglishWord": "greasy piece",
+      "Meanings": [
+        "پارچه خام"
+      ]
+    },
+    {
+      "EnglishWord": "greasy wool",
+      "Meanings": [
+        "پشم چرب"
+      ]
+    },
+    {
+      "EnglishWord": "great coat",
+      "Meanings": [
+        "پالتو"
+      ]
+    },
+    {
+      "EnglishWord": "great wheel",
+      "Meanings": [
+        "چرخ نخ ریسی دستی قدیمی معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "great wheel welt",
+      "Meanings": [
+        "پارچه پیکه"
+      ]
+    },
+    {
+      "EnglishWord": "green",
+      "Meanings": [
+        "سبز"
+      ]
+    },
+    {
+      "EnglishWord": "green ritriol",
+      "Meanings": [
+        "زاج سبز"
+      ]
+    },
+    {
+      "EnglishWord": "greenish",
+      "Meanings": [
+        "رنگ مایل به سبز"
+      ]
+    },
+    {
+      "EnglishWord": "greenish yellow",
+      "Meanings": [
+        "زرد مایل به سبز",
+        "زرد سبز"
+      ]
+    },
+    {
+      "EnglishWord": "grege",
+      "Meanings": [
+        "نخ ابریشم خام"
+      ]
+    },
+    {
+      "EnglishWord": "greige",
+      "Meanings": [
+        "خام",
+        "خاکستری رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "greige cloth",
+      "Meanings": [
+        "پارچه خام"
+      ]
+    },
+    {
+      "EnglishWord": "greslan",
+      "Meanings": [
+        "لیف مصنوعی کرسلان از الیاف آکریلونیتریل"
+      ]
+    },
+    {
+      "EnglishWord": "grex",
+      "Meanings": [
+        "گرکس واحد ظرافت الیاف برابر وزن 10000 متر آن بر حسب گرم"
+      ]
+    },
+    {
+      "EnglishWord": "grey",
+      "Meanings": [
+        "خام",
+        "خاکستری",
+        "طوسی"
+      ]
+    },
+    {
+      "EnglishWord": "grey cloth",
+      "Meanings": [
+        "پارچه خاکستری",
+        "متقال",
+        "پارچه خام"
+      ]
+    },
+    {
+      "EnglishWord": "grey cotton",
+      "Meanings": [
+        "پنبه خام",
+        "پنبه نارس"
+      ]
+    },
+    {
+      "EnglishWord": "grey cotton cloth",
+      "Meanings": [
+        "پارچه پنبه ای خام"
+      ]
+    },
+    {
+      "EnglishWord": "grey good",
+      "Meanings": [
+        "پارچه خام"
+      ]
+    },
+    {
+      "EnglishWord": "grey scale",
+      "Meanings": [
+        "دستگاه نعیین ثبات شستشویی"
+      ]
+    },
+    {
+      "EnglishWord": "grey scouring",
+      "Meanings": [
+        "آهار زدایی با اسید"
+      ]
+    },
+    {
+      "EnglishWord": "greyish",
+      "Meanings": [
+        "رنگ مایل به خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "grf",
+      "Meanings": [
+        "پلاستیک تقویت شده با الیاف شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "grid",
+      "Meanings": [
+        "شبکه",
+        "مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "grid bar",
+      "Meanings": [
+        "میله اجاقی در ماشین زننده"
+      ]
+    },
+    {
+      "EnglishWord": "griff",
+      "Meanings": [
+        "تیغه"
+      ]
+    },
+    {
+      "EnglishWord": "grilene",
+      "Meanings": [
+        "لیف گریلن از الیاف پلی استر اتر"
+      ]
+    },
+    {
+      "EnglishWord": "grinding",
+      "Meanings": [
+        "آرد نمودن",
+        "سنگ زدن",
+        "تیز کردن سوزن نوارهای خاردار کارد",
+        "آب بندی"
+      ]
+    },
+    {
+      "EnglishWord": "grinding machine",
+      "Meanings": [
+        "ماشین تیز کننده"
+      ]
+    },
+    {
+      "EnglishWord": "grinovyl",
+      "Meanings": [
+        "لیف مصنوعی گرینوویل از الیاف پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "gripper",
+      "Meanings": [
+        "شبه ماکو",
+        "پودگیر سرماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "gripper opener blade",
+      "Meanings": [
+        "تیغه پود آزادکن"
+      ]
+    },
+    {
+      "EnglishWord": "gripper shuttle",
+      "Meanings": [
+        "فشنگی پرتاب پود"
+      ]
+    },
+    {
+      "EnglishWord": "gritty wool",
+      "Meanings": [
+        "پشم ناخالص",
+        "پشمی که دارای مواد خارجی مثل شن و خاشاک است"
+      ]
+    },
+    {
+      "EnglishWord": "grizzle",
+      "Meanings": [
+        "خاکستری رنگ",
+        "تیره"
+      ]
+    },
+    {
+      "EnglishWord": "grocian weave",
+      "Meanings": [
+        "بافت یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "grommet",
+      "Meanings": [
+        "لایی",
+        "الیاف کنفی مخلوط با اکسید سرخ رنگ سرب مصرفی در آب بندی اتصالات لوله"
+      ]
+    },
+    {
+      "EnglishWord": "grooved drum",
+      "Meanings": [
+        "غلتک شیاردار"
+      ]
+    },
+    {
+      "EnglishWord": "ground",
+      "Meanings": [
+        "زمینه",
+        "زمین",
+        "اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "ground dyeing",
+      "Meanings": [
+        "رنگرزی زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "ground nut",
+      "Meanings": [
+        "بادام زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground state",
+      "Meanings": [
+        "حالت اصلی",
+        "حالت پایه",
+        "حالت عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ground warp",
+      "Meanings": [
+        "تار زمینه پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "grounding",
+      "Meanings": [
+        "نفتله کردن کالا"
+      ]
+    },
+    {
+      "EnglishWord": "grounding component",
+      "Meanings": [
+        "جزء زمینه",
+        "کوپله"
+      ]
+    },
+    {
+      "EnglishWord": "group float",
+      "Meanings": [
+        "قفسه"
+      ]
+    },
+    {
+      "EnglishWord": "grouped draw",
+      "Meanings": [
+        "نخ کشی بریده یا گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "grouped drawing in",
+      "Meanings": [
+        "نخ کشی بریده یا گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "grouping",
+      "Meanings": [
+        "متراکم کردن نخ‌های تار در شانه در قسمتهایی از پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "grummet",
+      "Meanings": [
+        "کنف",
+        "الیاف کنف مصرفی در لوله کشی"
+      ]
+    },
+    {
+      "EnglishWord": "guar",
+      "Meanings": [
+        "صمغ گوار"
+      ]
+    },
+    {
+      "EnglishWord": "guar gum",
+      "Meanings": [
+        "صمغ گوار"
+      ]
+    },
+    {
+      "EnglishWord": "guaranello",
+      "Meanings": [
+        "اصطلاحی ایتالیایی برای فاستونی فاستونی پنبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "guide bar",
+      "Meanings": [
+        "میله راهنما",
+        "شانه",
+        "جمع کردن میله‌های راهنما طوری که سوراخهای راهنما‌ها در یک راستا قرار گیرد",
+        "میله راهنمای چله"
+      ]
+    },
+    {
+      "EnglishWord": "guide reed",
+      "Meanings": [
+        "راهنمای ریسمان",
+        "شانه انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "guide rod",
+      "Meanings": [
+        "میله راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guide roller",
+      "Meanings": [
+        "غلتک راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guide screw",
+      "Meanings": [
+        "میله پیچی راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "gulbadan",
+      "Meanings": [
+        "گل بدن",
+        "پارچه ابریشمی دستباف پنجابی"
+      ]
+    },
+    {
+      "EnglishWord": "gulistan",
+      "Meanings": [
+        "گلستان",
+        "قالیچه پشمی بافت ترکیه"
+      ]
+    },
+    {
+      "EnglishWord": "gum",
+      "Meanings": [
+        "صمغ",
+        "چسب"
+      ]
+    },
+    {
+      "EnglishWord": "gum acacia",
+      "Meanings": [
+        "صمغ اقاقیا",
+        "صمغ عربی"
+      ]
+    },
+    {
+      "EnglishWord": "gum arabic",
+      "Meanings": [
+        "صمغ عربی"
+      ]
+    },
+    {
+      "EnglishWord": "gum silk",
+      "Meanings": [
+        "صمغ ابریشم"
+      ]
+    },
+    {
+      "EnglishWord": "gum tragacanth",
+      "Meanings": [
+        "غلظت دهنده کتیرا",
+        "صمغ کتیرا"
+      ]
+    },
+    {
+      "EnglishWord": "gum tragant",
+      "Meanings": [
+        "کتیرا"
+      ]
+    },
+    {
+      "EnglishWord": "gumghath",
+      "Meanings": [
+        "صمغ هندی"
+      ]
+    },
+    {
+      "EnglishWord": "gumminess",
+      "Meanings": [
+        "چسبندگی",
+        "لزجت"
+      ]
+    },
+    {
+      "EnglishWord": "gumming",
+      "Meanings": [
+        "چسباندن پارچه به میز چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "gummosity",
+      "Meanings": [
+        "چسبندگی",
+        "لزجت"
+      ]
+    },
+    {
+      "EnglishWord": "gummy",
+      "Meanings": [
+        "چسبناک"
+      ]
+    },
+    {
+      "EnglishWord": "gun cotton",
+      "Meanings": [
+        "پنبه باروتی",
+        "پنبه منفجره"
+      ]
+    },
+    {
+      "EnglishWord": "gunny",
+      "Meanings": [
+        "گونی",
+        "پارچه گونی باف"
+      ]
+    },
+    {
+      "EnglishWord": "gunny bag",
+      "Meanings": [
+        "کیسه گونی"
+      ]
+    },
+    {
+      "EnglishWord": "gusel ichico",
+      "Meanings": [
+        "لیف مصنوعی گوسل ایچیکو پلی وینیل الکل"
+      ]
+    },
+    {
+      "EnglishWord": "guy",
+      "Meanings": [
+        "طناب",
+        "ریسمان"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum",
+      "Meanings": [
+        "گچ مانند"
+      ]
+    },
+    {
+      "EnglishWord": "gypsy cloth",
+      "Meanings": [
+        "نوعی پارچه پنبه ای با کیفیت خوب و ساده باف با سطح پرزدار معمولا کرمی رنگ برای قایق رانی و تنیس و عموما ورزشی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+﻿{
+  "Group": "W",
+  "Entries": 80,
+  "Words": [
+    {
+      "EnglishWord": "w surface",
+      "Meanings": [
+        "سطح w"
+      ]
+    },
+    {
+      "EnglishWord": "waiting",
+      "Meanings": [
+        "انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting time",
+      "Meanings": [
+        "زمان انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "walk",
+      "Meanings": [
+        "گشت",
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "wallis' formula",
+      "Meanings": [
+        "فرمول والیس",
+        "دستور والیس"
+      ]
+    },
+    {
+      "EnglishWord": "washer method",
+      "Meanings": [
+        "روش واشری در محاسبه حجم جسم دوار"
+      ]
+    },
+    {
+      "EnglishWord": "watery body",
+      "Meanings": [
+        "شکل آبی ] بیست وجهی منتظم ["
+      ]
+    },
+    {
+      "EnglishWord": "wave",
+      "Meanings": [
+        "موج"
+      ]
+    },
+    {
+      "EnglishWord": "wave motion",
+      "Meanings": [
+        "حرکت موجی"
+      ]
+    },
+    {
+      "EnglishWord": "wave number",
+      "Meanings": [
+        "تعداد موج",
+        "عکس طول موج",
+        "تعداد موج در واحد طول",
+        "عدد موج"
+      ]
+    },
+    {
+      "EnglishWord": "weak",
+      "Meanings": [
+        "خفیف",
+        "ضعیف",
+        "کم‌توان"
+      ]
+    },
+    {
+      "EnglishWord": "weak convergence",
+      "Meanings": [
+        "همگرایی ضعیف",
+        "همگرایی خفیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak duality",
+      "Meanings": [
+        "دوگان ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak induction",
+      "Meanings": [
+        "استقرای ضعیف",
+        "استقرای کم‌توان"
+      ]
+    },
+    {
+      "EnglishWord": "weak law of large numbers",
+      "Meanings": [
+        "قانون ضعیف خفیف اعداد بزرگ",
+        "قانون کم‌توان عددهای بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "weak order",
+      "Meanings": [
+        "ترتیب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak order relation",
+      "Meanings": [
+        "نسبت رابطه ترتیبی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak ordering relation",
+      "Meanings": [
+        "نسبت رابطه ترتیبی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak relation",
+      "Meanings": [
+        "نسبت ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak theorem of complementary slackness",
+      "Meanings": [
+        "قضیه مکمل زاید ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak topology",
+      "Meanings": [
+        "توپولوژی ضعیف",
+        "توپولوژی کم‌توان"
+      ]
+    },
+    {
+      "EnglishWord": "weaken",
+      "Meanings": [
+        "سبک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "weakened mood",
+      "Meanings": [
+        "ضرب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weakly connected",
+      "Meanings": [
+        "ضعیفا هم‌بند"
+      ]
+    },
+    {
+      "EnglishWord": "weakly order preserving",
+      "Meanings": [
+        "حافظ ترتیب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weakly ordered",
+      "Meanings": [
+        "به طور ضعیف مرتب‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "weber transform",
+      "Meanings": [
+        "تبدیل وبر"
+      ]
+    },
+    {
+      "EnglishWord": "wedge",
+      "Meanings": [
+        "گو ه",
+        "قاچ در کره"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass m-test",
+      "Meanings": [
+        "آزمون M وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weight",
+      "Meanings": [
+        "وزن",
+        "سنگینی",
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "weight function",
+      "Meanings": [
+        "تابع وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weighted",
+      "Meanings": [
+        "سنگین",
+        "دارای وزن",
+        "وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "weighted arithmetic mean",
+      "Meanings": [
+        "میانگین حسابی",
+        "وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "weighted average",
+      "Meanings": [
+        "میانگین تعدیل‌شده",
+        "واسطه وزن‌دار",
+        "میانگین موزون",
+        "متوسط وزین"
+      ]
+    },
+    {
+      "EnglishWord": "weighted graph",
+      "Meanings": [
+        "گراف ارزش‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted mean",
+      "Meanings": [
+        "میانگین وزن‌دار",
+        "واسطه وزن‌دار",
+        "متوسط وزن‌دار",
+        "میانگین تعدیل‌شده",
+        "میانگین موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted mean value theorem",
+      "Meanings": [
+        "قضیه مقدار میانگین وزن‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighting function",
+      "Meanings": [
+        "تابع چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "well behaved",
+      "Meanings": [
+        "خوش‌رفتار"
+      ]
+    },
+    {
+      "EnglishWord": "well defined",
+      "Meanings": [
+        "خوش‌تعریف",
+        "خوب تعریف‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "well formed formula",
+      "Meanings": [
+        "فرمول منطق",
+        "دستور خوب‌ساخته",
+        "دستور به‌ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering",
+      "Meanings": [
+        "خوش‌ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering principle",
+      "Meanings": [
+        "اصل خوش‌ترتیبی",
+        "تعریف اصل خوش‌ترتیبی: مجموعه مرتب &gt; , A را خوش‌ترتیب گوییم در صورتی که هر زیر مجموعه ناتهی آن عضو ابتدا داشته باشد",
+        "مجموعه اعداد حقیقی R",
+        "خوش‌ترتیب نیست",
+        "مجموعه‌های متناهی خوش‌ترتیب هستند",
+        "مجموعه تهی",
+        "خوش‌ترتیب است زیرا زیرمجموعه ناتهی ندارد",
+        "اصل خوش‌ترتیبی در اعداد طبیعی: مجموعه اعداد طبیعی خوش‌ترتیب است بنابراین هر زیرمجموعه ناتهی از اعدادطبیعی خوش ترتیب است"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering relation",
+      "Meanings": [
+        "نسبت ترتیبی نیکو"
+      ]
+    },
+    {
+      "EnglishWord": "well set",
+      "Meanings": [
+        "مجموعه خوش‌ترتیب",
+        "مجموعه کاملا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "well-ordered set",
+      "Meanings": [
+        "مجموعه خوش‌ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "whatever",
+      "Meanings": [
+        "هرچه باشد",
+        "به ازای تمام مقادیر",
+        "معمولا بعد از این کلمه یک متغیر می‌آید",
+        "مثال: whatever x یعنی به ازای تمام مقادیر x",
+        "هرچه باشد x"
+      ]
+    },
+    {
+      "EnglishWord": "wheel",
+      "Meanings": [
+        "چرخ"
+      ]
+    },
+    {
+      "EnglishWord": "where the stone falls",
+      "Meanings": [
+        "مسقط حجر ]پای ارتفاع مثلث["
+      ]
+    },
+    {
+      "EnglishWord": "white noise",
+      "Meanings": [
+        "اغتشاش خالص"
+      ]
+    },
+    {
+      "EnglishWord": "whole",
+      "Meanings": [
+        "کامل",
+        "درست",
+        "صحیح",
+        "تمام",
+        "همه",
+        "سراسر"
+      ]
+    },
+    {
+      "EnglishWord": "whole number",
+      "Meanings": [
+        "عدد صحیح",
+        "عدد تام",
+        "عدد درست",
+        "عدد تمام"
+      ]
+    },
+    {
+      "EnglishWord": "wide",
+      "Meanings": [
+        "پهن",
+        "گشاد",
+        "وسیع"
+      ]
+    },
+    {
+      "EnglishWord": "wide range",
+      "Meanings": [
+        "دامنه وسیع"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "عرض",
+        "پهنا"
+      ]
+    },
+    {
+      "EnglishWord": "wild function",
+      "Meanings": [
+        "تابع وحشی"
+      ]
+    },
+    {
+      "EnglishWord": "winding",
+      "Meanings": [
+        "پیچش",
+        "گشت",
+        "چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "winding number",
+      "Meanings": [
+        "عدد گردشی",
+        "عدد پیچش"
+      ]
+    },
+    {
+      "EnglishWord": "winsorized",
+      "Meanings": [
+        "وینسوریزه"
+      ]
+    },
+    {
+      "EnglishWord": "wishart distribution",
+      "Meanings": [
+        "توزیع ویشارت"
+      ]
+    },
+    {
+      "EnglishWord": "witch of agnesi",
+      "Meanings": [
+        "خم اگنزی",
+        "منحنی آنیزی",
+        "منحنی افسون‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "with different signs",
+      "Meanings": [
+        "مختلف‌العلامة",
+        "با علامت‌های مختلف",
+        "نا هم‌علامت"
+      ]
+    },
+    {
+      "EnglishWord": "with respect to",
+      "Meanings": [
+        "نسبت به",
+        "برحسب"
+      ]
+    },
+    {
+      "EnglishWord": "with the same sign",
+      "Meanings": [
+        "هم‌علامت"
+      ]
+    },
+    {
+      "EnglishWord": "within and on",
+      "Meanings": [
+        "در و بر"
+      ]
+    },
+    {
+      "EnglishWord": "within or on",
+      "Meanings": [
+        "در یا بر"
+      ]
+    },
+    {
+      "EnglishWord": "without loss of generality",
+      "Meanings": [
+        "بدون از دست‌دادن عمومیت",
+        "بدون اینکه خللی به کلیت موضوع وارد شود"
+      ]
+    },
+    {
+      "EnglishWord": "without loss of replacement",
+      "Meanings": [
+        "بدون جای‌گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "without loss of restriction",
+      "Meanings": [
+        "بدون محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "word",
+      "Meanings": [
+        "واژه",
+        "کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "word problem",
+      "Meanings": [
+        "مسیله کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "word processing",
+      "Meanings": [
+        "پردازش کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "working basis",
+      "Meanings": [
+        "پایه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "working probits",
+      "Meanings": [
+        "پروبیت‌های عملی"
+      ]
+    },
+    {
+      "EnglishWord": "world series",
+      "Meanings": [
+        "سری‌های جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "worst case complexity",
+      "Meanings": [
+        "پیچیدگی بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "wrench",
+      "Meanings": [
+        "چرخش",
+        "پیچش"
+      ]
+    },
+    {
+      "EnglishWord": "wrinkled",
+      "Meanings": [
+        "چین‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "wrong",
+      "Meanings": [
+        "غلط",
+        "نادرست",
+        "نتیجه مبتنی بر اشتباه و خطا"
+      ]
+    },
+    {
+      "EnglishWord": "wronskian",
+      "Meanings": [
+        "تابع ورونسکی",
+        "رانسکین",
+        "رونسکییی"
+      ]
+    }
+  ]
+}

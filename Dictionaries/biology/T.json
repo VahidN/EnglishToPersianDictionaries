@@ -1,0 +1,2470 @@
+﻿{
+  "Group": "T",
+  "Entries": 378,
+  "Words": [
+    {
+      "EnglishWord": "t",
+      "Meanings": [
+        "نگاه کنید به thymine"
+      ]
+    },
+    {
+      "EnglishWord": "t cell receptor alpha",
+      "Meanings": [
+        "گیرنده سلول T آلفا"
+      ]
+    },
+    {
+      "EnglishWord": "t lymphocytes",
+      "Meanings": [
+        "لنفوسیت‌های T",
+        "لنف یاخته‌های T"
+      ]
+    },
+    {
+      "EnglishWord": "t4 dna ligase",
+      "Meanings": [
+        "لیگاز DNA T"
+      ]
+    },
+    {
+      "EnglishWord": "t4 dna polymerase",
+      "Meanings": [
+        "پلیمراز DNA T"
+      ]
+    },
+    {
+      "EnglishWord": "t4 rna ligase",
+      "Meanings": [
+        "لیگاز RNA T"
+      ]
+    },
+    {
+      "EnglishWord": "tab",
+      "Meanings": [
+        "نگاه کنید به tris",
+        "acetate buffer"
+      ]
+    },
+    {
+      "EnglishWord": "tabun",
+      "Meanings": [
+        "تابون",
+        "عامل GA"
+      ]
+    },
+    {
+      "EnglishWord": "tacf",
+      "Meanings": [
+        "نگاه کنید به telomer",
+        "associated chromosome fracionation"
+      ]
+    },
+    {
+      "EnglishWord": "tachykinin",
+      "Meanings": [
+        "تاکی کینین"
+      ]
+    },
+    {
+      "EnglishWord": "tachypnea",
+      "Meanings": [
+        "نفس تندی",
+        "تند نفس ی",
+        "تنفس سریع"
+      ]
+    },
+    {
+      "EnglishWord": "tag",
+      "Meanings": [
+        "نشانه گذاری",
+        "وابستگی",
+        "اتیکت",
+        "برچسب زدن"
+      ]
+    },
+    {
+      "EnglishWord": "tag polymerase",
+      "Meanings": [
+        "پلیمراز برچسبی"
+      ]
+    },
+    {
+      "EnglishWord": "tagging",
+      "Meanings": [
+        "برچسب زدن"
+      ]
+    },
+    {
+      "EnglishWord": "tailing",
+      "Meanings": [
+        "دنبال کردن/رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "tandem affinity purification tagging",
+      "Meanings": [
+        "برچسب زدن پاکسازی کشش متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "tandem repeats",
+      "Meanings": [
+        "تکرار توام/متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "tannin",
+      "Meanings": [
+        "تانن",
+        "جوهر دباغی",
+        "جوهر مازو",
+        "مازو"
+      ]
+    },
+    {
+      "EnglishWord": "tap",
+      "Meanings": [
+        "نگاه کنید به transporter associated with antigen presentation"
+      ]
+    },
+    {
+      "EnglishWord": "tap tagging",
+      "Meanings": [
+        "نگاه کنید به tandem affinity purification tagging"
+      ]
+    },
+    {
+      "EnglishWord": "tapvr",
+      "Meanings": [
+        "نگاه کنید به total anomalous pulmonary venous return"
+      ]
+    },
+    {
+      "EnglishWord": "taq polymerase",
+      "Meanings": [
+        "نگاه کنید به Thermus Aquaticus Polymerase"
+      ]
+    },
+    {
+      "EnglishWord": "target",
+      "Meanings": [
+        "نشانگاه",
+        "نشانه",
+        "هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target dna",
+      "Meanings": [
+        "DNA هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target gene",
+      "Meanings": [
+        "ژن هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target organism",
+      "Meanings": [
+        "ارگانیزم هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target site",
+      "Meanings": [
+        "نگاه کنید به recognition site"
+      ]
+    },
+    {
+      "EnglishWord": "target site",
+      "Meanings": [
+        "جایگاه هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target validation",
+      "Meanings": [
+        "تایید هدف"
+      ]
+    },
+    {
+      "EnglishWord": "targeting sequence",
+      "Meanings": [
+        "توالی هدفگیر"
+      ]
+    },
+    {
+      "EnglishWord": "target-ligand interaction screening",
+      "Meanings": [
+        "غربال برهم کنش هدف",
+        "لیگاند"
+      ]
+    },
+    {
+      "EnglishWord": "tata box",
+      "Meanings": [
+        "نگاه کنید به Cis",
+        "acting sequence in RNA polymerase II promoters"
+      ]
+    },
+    {
+      "EnglishWord": "tata homology",
+      "Meanings": [
+        "همسانی TATA"
+      ]
+    },
+    {
+      "EnglishWord": "tata-binding protein",
+      "Meanings": [
+        "پروتیین اتصال TATA"
+      ]
+    },
+    {
+      "EnglishWord": "taurine",
+      "Meanings": [
+        "تورین"
+      ]
+    },
+    {
+      "EnglishWord": "taurocholate",
+      "Meanings": [
+        "توروکولات"
+      ]
+    },
+    {
+      "EnglishWord": "taxol",
+      "Meanings": [
+        "تاکسول"
+      ]
+    },
+    {
+      "EnglishWord": "taxon",
+      "Meanings": [
+        "واحد سیستماتیک",
+        "تاکسون",
+        "آرایه",
+        "واحد آرایه شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "taxonomy",
+      "Meanings": [
+        "رده بندی شناسی",
+        "طبقه بندی",
+        "علم رده بندی",
+        "آرایه شناسی",
+        "تاکسونومی"
+      ]
+    },
+    {
+      "EnglishWord": "tay-sachs",
+      "Meanings": [
+        "تای",
+        "ساکز"
+      ]
+    },
+    {
+      "EnglishWord": "tay-sachs disease",
+      "Meanings": [
+        "بیماری تای",
+        "ساکز"
+      ]
+    },
+    {
+      "EnglishWord": "tbg",
+      "Meanings": [
+        "نگاه کنید به thyroxine",
+        "bindingglobuline"
+      ]
+    },
+    {
+      "EnglishWord": "tbp",
+      "Meanings": [
+        "نگاه کنید به TATA",
+        "binding protein"
+      ]
+    },
+    {
+      "EnglishWord": "tca",
+      "Meanings": [
+        "نگاه کنید به tri",
+        "carboxyllic acid cycle"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell",
+      "Meanings": [
+        "سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell dependent mechanism",
+      "Meanings": [
+        "سازوکار وابسته سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell growth factor",
+      "Meanings": [
+        "عامل رشد سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell independent mechanism",
+      "Meanings": [
+        "سازوکار مستقل سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell modulating peptide",
+      "Meanings": [
+        "پپتید تعدیل کننده سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "t-cell receptor",
+      "Meanings": [
+        "گیرنده سلول T"
+      ]
+    },
+    {
+      "EnglishWord": "tcr",
+      "Meanings": [
+        "نگاه کنید به T",
+        "cell receptor"
+      ]
+    },
+    {
+      "EnglishWord": "tcra",
+      "Meanings": [
+        "نگاه کنید به T",
+        "cell receptor"
+      ]
+    },
+    {
+      "EnglishWord": "tda",
+      "Meanings": [
+        "نگاه کنید به thymus",
+        "dependent area"
+      ]
+    },
+    {
+      "EnglishWord": "tdf",
+      "Meanings": [
+        "نگاه کنید به testis determining factor"
+      ]
+    },
+    {
+      "EnglishWord": "tds",
+      "Meanings": [
+        "نگاه کنید به total dissolved solids"
+      ]
+    },
+    {
+      "EnglishWord": "te buffer",
+      "Meanings": [
+        "بافر/میانگیر TE"
+      ]
+    },
+    {
+      "EnglishWord": "technical testing",
+      "Meanings": [
+        "آزمایش فنی"
+      ]
+    },
+    {
+      "EnglishWord": "technology",
+      "Meanings": [
+        "افزار سازی",
+        "تکنولوژی",
+        "دانش فنی",
+        "روش فنی",
+        "علم صنعت",
+        "فن",
+        "فناوری",
+        "فن شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "technology protection system",
+      "Meanings": [
+        "نظام حمایت تکنولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "tektin",
+      "Meanings": [
+        "تتکین"
+      ]
+    },
+    {
+      "EnglishWord": "teliospore",
+      "Meanings": [
+        "تلیواسپور"
+      ]
+    },
+    {
+      "EnglishWord": "telocentric",
+      "Meanings": [
+        "تلوسنتریک"
+      ]
+    },
+    {
+      "EnglishWord": "telomerase",
+      "Meanings": [
+        "تلومراز"
+      ]
+    },
+    {
+      "EnglishWord": "telomere",
+      "Meanings": [
+        "اولیگومر",
+        "پایانه پار",
+        "تلومر چند پار"
+      ]
+    },
+    {
+      "EnglishWord": "telomere repeat factor",
+      "Meanings": [
+        "عامل تکرار تلومر"
+      ]
+    },
+    {
+      "EnglishWord": "telomere-associated chromosome fractionation",
+      "Meanings": [
+        "خردشدگی/انکسار کروموزومی وابسته به تلومر"
+      ]
+    },
+    {
+      "EnglishWord": "telomeric dna",
+      "Meanings": [
+        "DNA تلومریک"
+      ]
+    },
+    {
+      "EnglishWord": "telophase",
+      "Meanings": [
+        "پایانه چهر",
+        "تلوفاز"
+      ]
+    },
+    {
+      "EnglishWord": "temperate phage",
+      "Meanings": [
+        "باکتری خوار/فاژ ملایم"
+      ]
+    },
+    {
+      "EnglishWord": "temperature",
+      "Meanings": [
+        "حرارت بدن",
+        "دما",
+        "تب",
+        "درجه حرارت/گرما"
+      ]
+    },
+    {
+      "EnglishWord": "temperature-sensitive",
+      "Meanings": [
+        "حساس به دما"
+      ]
+    },
+    {
+      "EnglishWord": "temperature-sensitive mutation",
+      "Meanings": [
+        "جهش حساس به دما"
+      ]
+    },
+    {
+      "EnglishWord": "template",
+      "Meanings": [
+        "کالبد",
+        "مدل",
+        "الگو",
+        "شابلون",
+        "قالب",
+        "قواره"
+      ]
+    },
+    {
+      "EnglishWord": "template strand",
+      "Meanings": [
+        "رشته الگو"
+      ]
+    },
+    {
+      "EnglishWord": "teosinte",
+      "Meanings": [
+        "تیوزینت"
+      ]
+    },
+    {
+      "EnglishWord": "teratogen",
+      "Meanings": [
+        "تراتوژن"
+      ]
+    },
+    {
+      "EnglishWord": "teratogenesis",
+      "Meanings": [
+        "ناهنجار سازی",
+        "تراتوژنز",
+        "ناقص الخلقه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "teratogenic compound",
+      "Meanings": [
+        "ترکیب هیولا سازی",
+        "ترکیب ناهنجاری زایی"
+      ]
+    },
+    {
+      "EnglishWord": "teratology",
+      "Meanings": [
+        "تراتولوژی",
+        "ناهنجار شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "teratoma",
+      "Meanings": [
+        "تراتوما"
+      ]
+    },
+    {
+      "EnglishWord": "terminal repeat",
+      "Meanings": [
+        "تکرار پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "terminal transferase",
+      "Meanings": [
+        "ترانسفراز پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "terminalization",
+      "Meanings": [
+        "پایانه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "termination codon",
+      "Meanings": [
+        "رمز اختتام",
+        "رمز انقطاع",
+        "کدون پایانی"
+      ]
+    },
+    {
+      "EnglishWord": "terminator",
+      "Meanings": [
+        "پایان دهنده",
+        "ختم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "terminator cassette",
+      "Meanings": [
+        "کاست پایان دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "terminator region",
+      "Meanings": [
+        "منطقه پایان دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "terminator sequence",
+      "Meanings": [
+        "توالی پایان دهنده",
+        "رمز اختتام"
+      ]
+    },
+    {
+      "EnglishWord": "terpene",
+      "Meanings": [
+        "ترپن"
+      ]
+    },
+    {
+      "EnglishWord": "terpenoid",
+      "Meanings": [
+        "ترپن نما",
+        "شبه ترپن"
+      ]
+    },
+    {
+      "EnglishWord": "terramycin",
+      "Meanings": [
+        "ترامایسین"
+      ]
+    },
+    {
+      "EnglishWord": "tertiary base pair",
+      "Meanings": [
+        "جفت باز ترشیاری/سه گانه"
+      ]
+    },
+    {
+      "EnglishWord": "tertiary period",
+      "Meanings": [
+        "دوره سوم/سه گانه"
+      ]
+    },
+    {
+      "EnglishWord": "tertiary structure",
+      "Meanings": [
+        "ساختار/ساختمان سومین"
+      ]
+    },
+    {
+      "EnglishWord": "tertiary structure of protein",
+      "Meanings": [
+        "ساختار سومین پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "test cross",
+      "Meanings": [
+        "تقاطع آزمونی"
+      ]
+    },
+    {
+      "EnglishWord": "testicular feminization syndrome",
+      "Meanings": [
+        "سندروم فمینیزه شدن بیضه ای"
+      ]
+    },
+    {
+      "EnglishWord": "testis determining factor",
+      "Meanings": [
+        "عامل تعیین بیضه"
+      ]
+    },
+    {
+      "EnglishWord": "testosterone",
+      "Meanings": [
+        "تستوسترون"
+      ]
+    },
+    {
+      "EnglishWord": "test-range",
+      "Meanings": [
+        "دامنه آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "tetanus toxin",
+      "Meanings": [
+        "سم کزاز"
+      ]
+    },
+    {
+      "EnglishWord": "tetanus toxoid",
+      "Meanings": [
+        "توکسویید کزاز"
+      ]
+    },
+    {
+      "EnglishWord": "tetracycline",
+      "Meanings": [
+        "تتراسایکلین"
+      ]
+    },
+    {
+      "EnglishWord": "tetrad",
+      "Meanings": [
+        "تتراد"
+      ]
+    },
+    {
+      "EnglishWord": "tetrahydrofolic acid",
+      "Meanings": [
+        "تترا هیدروفولیک اسید"
+      ]
+    },
+    {
+      "EnglishWord": "tetralogy of fallot",
+      "Meanings": [
+        "تترالوژی فالوت"
+      ]
+    },
+    {
+      "EnglishWord": "tetraploid",
+      "Meanings": [
+        "تتراپلویید",
+        "چارلا",
+        "چهار لا"
+      ]
+    },
+    {
+      "EnglishWord": "tetrasome",
+      "Meanings": [
+        "تترازوم"
+      ]
+    },
+    {
+      "EnglishWord": "tetrasomic",
+      "Meanings": [
+        "تترازومی"
+      ]
+    },
+    {
+      "EnglishWord": "tetro-hydro-folate",
+      "Meanings": [
+        "تترو",
+        "هیدرو",
+        "فولات"
+      ]
+    },
+    {
+      "EnglishWord": "tf",
+      "Meanings": [
+        "نگاه کنید به transcription factor"
+      ]
+    },
+    {
+      "EnglishWord": "tf ii",
+      "Meanings": [
+        "نگاه کنید به transcription factor for control of RNA polymerase II"
+      ]
+    },
+    {
+      "EnglishWord": "tfn",
+      "Meanings": [
+        "نگاه کنید به transferrin"
+      ]
+    },
+    {
+      "EnglishWord": "tgf-β",
+      "Meanings": [
+        "نگاه کنید به transforming growth factor",
+        "beta"
+      ]
+    },
+    {
+      "EnglishWord": "thalamus",
+      "Meanings": [
+        "نهنج"
+      ]
+    },
+    {
+      "EnglishWord": "thalassemia",
+      "Meanings": [
+        "تالاسمی"
+      ]
+    },
+    {
+      "EnglishWord": "thale cress",
+      "Meanings": [
+        "تیل کرس"
+      ]
+    },
+    {
+      "EnglishWord": "theoretical plate",
+      "Meanings": [
+        "سطح فرضیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "theory of local existence",
+      "Meanings": [
+        "نظریه وجود محلی"
+      ]
+    },
+    {
+      "EnglishWord": "therapy of antisense mrna",
+      "Meanings": [
+        "درمان mRNA بی معنی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal",
+      "Meanings": [
+        "حرارتی",
+        "گرم",
+        "گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal denaturation",
+      "Meanings": [
+        "تغییر ماهیت حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal hysteresis protein",
+      "Meanings": [
+        "پروتیین هیسترزیس ترمال",
+        "پروتیین پسماند حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "thermoduric",
+      "Meanings": [
+        "مقاوم به گرما"
+      ]
+    },
+    {
+      "EnglishWord": "thermoinducible lysogen",
+      "Meanings": [
+        "لیزوژن القا شونده با حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "thermophile",
+      "Meanings": [
+        "گرما دوست/خواه"
+      ]
+    },
+    {
+      "EnglishWord": "thermophilic bacteria",
+      "Meanings": [
+        "باکتری گرما دوست"
+      ]
+    },
+    {
+      "EnglishWord": "thermus aquaticus",
+      "Meanings": [
+        "ترموس آکواتیکوس"
+      ]
+    },
+    {
+      "EnglishWord": "thermus aquaticus polymerase",
+      "Meanings": [
+        "پلیمراز ترموس آکواتیکوس"
+      ]
+    },
+    {
+      "EnglishWord": "theta replication",
+      "Meanings": [
+        "همانند سازی تتا"
+      ]
+    },
+    {
+      "EnglishWord": "thf",
+      "Meanings": [
+        "نگاه کنید به tetro",
+        "hydro",
+        "folate"
+      ]
+    },
+    {
+      "EnglishWord": "thiamine",
+      "Meanings": [
+        "تیامین"
+      ]
+    },
+    {
+      "EnglishWord": "thiamine pyrophosphate",
+      "Meanings": [
+        "پیروفسفات تیامین"
+      ]
+    },
+    {
+      "EnglishWord": "thioesterase",
+      "Meanings": [
+        "تیواستراز"
+      ]
+    },
+    {
+      "EnglishWord": "thiol group",
+      "Meanings": [
+        "گروه تیول"
+      ]
+    },
+    {
+      "EnglishWord": "thioredoxin",
+      "Meanings": [
+        "تیوردوکسین"
+      ]
+    },
+    {
+      "EnglishWord": "thr",
+      "Meanings": [
+        "نگاه کنید به threonine"
+      ]
+    },
+    {
+      "EnglishWord": "threatened species",
+      "Meanings": [
+        "گونه تهدیدشده"
+      ]
+    },
+    {
+      "EnglishWord": "threonine",
+      "Meanings": [
+        "تریونین"
+      ]
+    },
+    {
+      "EnglishWord": "threshold concentration",
+      "Meanings": [
+        "تراکم آستانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "thrombin",
+      "Meanings": [
+        "ترومبین"
+      ]
+    },
+    {
+      "EnglishWord": "thrombolytic agent",
+      "Meanings": [
+        "عامل حل کننده/ترومبولیتیک لخته خون"
+      ]
+    },
+    {
+      "EnglishWord": "thrombomodulin",
+      "Meanings": [
+        "ترومبومودولین"
+      ]
+    },
+    {
+      "EnglishWord": "thrombosis",
+      "Meanings": [
+        "ترومبوز",
+        "تشکیل لخته"
+      ]
+    },
+    {
+      "EnglishWord": "thrombus",
+      "Meanings": [
+        "ترومبوز",
+        "لخته"
+      ]
+    },
+    {
+      "EnglishWord": "thyamine pyrophosphate",
+      "Meanings": [
+        "پیروفسفات تیامین"
+      ]
+    },
+    {
+      "EnglishWord": "thylakoid",
+      "Meanings": [
+        "تیلاکویید"
+      ]
+    },
+    {
+      "EnglishWord": "thymidine kinase",
+      "Meanings": [
+        "تیمیدین کیناز"
+      ]
+    },
+    {
+      "EnglishWord": "thymidine phosphorylase",
+      "Meanings": [
+        "فسفوریلاز تیمیدین"
+      ]
+    },
+    {
+      "EnglishWord": "thymidylate synthase",
+      "Meanings": [
+        "تیمیدیلات سینتاز"
+      ]
+    },
+    {
+      "EnglishWord": "thymine",
+      "Meanings": [
+        "تیمین"
+      ]
+    },
+    {
+      "EnglishWord": "thymine-thymine dimer",
+      "Meanings": [
+        "دیمر تیمین",
+        "تیمین"
+      ]
+    },
+    {
+      "EnglishWord": "thymoleptics",
+      "Meanings": [
+        "تیمولپتیک"
+      ]
+    },
+    {
+      "EnglishWord": "thymus-dependent area",
+      "Meanings": [
+        "منطقه متکی به تیموس"
+      ]
+    },
+    {
+      "EnglishWord": "thyroid releasing factor",
+      "Meanings": [
+        "عامل رها سازی تیرویید"
+      ]
+    },
+    {
+      "EnglishWord": "thyroid stimulating hormone",
+      "Meanings": [
+        "هورمون محرک تیرویید"
+      ]
+    },
+    {
+      "EnglishWord": "thyroxine-binding-globuline",
+      "Meanings": [
+        "گلوبولین اتصال دهنده تیروکسین"
+      ]
+    },
+    {
+      "EnglishWord": "ti plasmid",
+      "Meanings": [
+        "پلاسمید Ti"
+      ]
+    },
+    {
+      "EnglishWord": "til",
+      "Meanings": [
+        "نگاه کنید به tumor",
+        "infiltrating lymphocyte"
+      ]
+    },
+    {
+      "EnglishWord": "tissue",
+      "Meanings": [
+        "بافت"
+      ]
+    },
+    {
+      "EnglishWord": "tissue array",
+      "Meanings": [
+        "آرایه بافت"
+      ]
+    },
+    {
+      "EnglishWord": "tissue culture",
+      "Meanings": [
+        "کشت بافت"
+      ]
+    },
+    {
+      "EnglishWord": "tissue engineering",
+      "Meanings": [
+        "طراحی بافت"
+      ]
+    },
+    {
+      "EnglishWord": "tissue plasminogen activator",
+      "Meanings": [
+        "فعال کننده پلاسمینوژن بافتی"
+      ]
+    },
+    {
+      "EnglishWord": "tissue-necrosis",
+      "Meanings": [
+        "مرگ نسجی",
+        "نکروز بافتی"
+      ]
+    },
+    {
+      "EnglishWord": "tissue-type plasminogen activator",
+      "Meanings": [
+        "فعال کننده بافت مانند پلاسمینوژن"
+      ]
+    },
+    {
+      "EnglishWord": "titer",
+      "Meanings": [
+        "تیتر",
+        "عیار"
+      ]
+    },
+    {
+      "EnglishWord": "tk",
+      "Meanings": [
+        "نگاه کنید به thymidine kinase"
+      ]
+    },
+    {
+      "EnglishWord": "t-lymphocytes",
+      "Meanings": [
+        "لنفوسیت‌های t"
+      ]
+    },
+    {
+      "EnglishWord": "tm",
+      "Meanings": [
+        "نگاه کنید به melting temperature"
+      ]
+    },
+    {
+      "EnglishWord": "tmrna",
+      "Meanings": [
+        "نگاه کنید به transfer",
+        "messenger RNA"
+      ]
+    },
+    {
+      "EnglishWord": "tmv",
+      "Meanings": [
+        "نگاه کنید به tobacco mosaic virus"
+      ]
+    },
+    {
+      "EnglishWord": "tnf",
+      "Meanings": [
+        "نگاه کنید به tumor necrosis factor"
+      ]
+    },
+    {
+      "EnglishWord": "tobacco mosaic virus",
+      "Meanings": [
+        "ویروس موزاییک توتون"
+      ]
+    },
+    {
+      "EnglishWord": "tocopherols",
+      "Meanings": [
+        "توکوفرول"
+      ]
+    },
+    {
+      "EnglishWord": "tocotrienols",
+      "Meanings": [
+        "توکوترینول ها"
+      ]
+    },
+    {
+      "EnglishWord": "tof",
+      "Meanings": [
+        "نگاه کنید به tetralogy of Fallot"
+      ]
+    },
+    {
+      "EnglishWord": "togaviridae",
+      "Meanings": [
+        "توگاویروس ها"
+      ]
+    },
+    {
+      "EnglishWord": "togavirus",
+      "Meanings": [
+        "توگاویروس"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance",
+      "Meanings": [
+        "خطای مجاز",
+        "طاقت",
+        "مقاومت به دارو",
+        "رواداری",
+        "روایی",
+        "بردباری",
+        "تحمل",
+        "تولرانس"
+      ]
+    },
+    {
+      "EnglishWord": "toll-like receptor",
+      "Meanings": [
+        "گیرنده‌های شبه باج گیر"
+      ]
+    },
+    {
+      "EnglishWord": "topas aerosol",
+      "Meanings": [
+        "افشانه TOPAS"
+      ]
+    },
+    {
+      "EnglishWord": "topoisomerase",
+      "Meanings": [
+        "توپوایزومراز"
+      ]
+    },
+    {
+      "EnglishWord": "topotaxis",
+      "Meanings": [
+        "جای آرایی"
+      ]
+    },
+    {
+      "EnglishWord": "total anomalous pulmonary venous return",
+      "Meanings": [
+        "برگشت کاملا غیر عادی سیاهرگی ریوی",
+        "برگشت کامل وریدی ریوی غیر عادی"
+      ]
+    },
+    {
+      "EnglishWord": "total cell dna",
+      "Meanings": [
+        "DNA تمام سلولی",
+        "تمام DNA سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "total dissolved solids",
+      "Meanings": [
+        "کل مواد جامد محلول"
+      ]
+    },
+    {
+      "EnglishWord": "total economic value",
+      "Meanings": [
+        "ارزش کامل اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "total environmental value",
+      "Meanings": [
+        "ارزش کامل زیست محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "total internal reflection fluorescence",
+      "Meanings": [
+        "بازتابش شب نمایی درونی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "total solids",
+      "Meanings": [
+        "کل مواد جامد"
+      ]
+    },
+    {
+      "EnglishWord": "totipotency",
+      "Meanings": [
+        "بس توانی",
+        "پر توانی توانمندی"
+      ]
+    },
+    {
+      "EnglishWord": "totipotent stem cell",
+      "Meanings": [
+        "سلول پایه پر توان",
+        "یاخته دودمانی پر توان"
+      ]
+    },
+    {
+      "EnglishWord": "toxemia",
+      "Meanings": [
+        "توکسمی",
+        "مسمومیت خونی"
+      ]
+    },
+    {
+      "EnglishWord": "toxic molecule",
+      "Meanings": [
+        "ملکول سمی"
+      ]
+    },
+    {
+      "EnglishWord": "toxicity",
+      "Meanings": [
+        "زهر آگینی",
+        "سمیت",
+        "مسموم کنندگی"
+      ]
+    },
+    {
+      "EnglishWord": "toxicity characteristic leaching procedure",
+      "Meanings": [
+        "ویژگی سمیت فرآیند آبشویی"
+      ]
+    },
+    {
+      "EnglishWord": "toxicogenomics",
+      "Meanings": [
+        "ژن سم شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "toxin",
+      "Meanings": [
+        "داروی سمی",
+        "زهر",
+        "زهرابه",
+        "سم",
+        "ترکیب زهردار",
+        "توکسین"
+      ]
+    },
+    {
+      "EnglishWord": "toxin agent",
+      "Meanings": [
+        "عامل توکسین/زهرابه"
+      ]
+    },
+    {
+      "EnglishWord": "toxin weapon",
+      "Meanings": [
+        "سلاح توکسینی/زهرابه ای"
+      ]
+    },
+    {
+      "EnglishWord": "toxoid",
+      "Meanings": [
+        "سم گونه",
+        "شبه سم",
+        "زهر مانند",
+        "سم غیرفعال"
+      ]
+    },
+    {
+      "EnglishWord": "toxoplasma",
+      "Meanings": [
+        "توگزوپلاسما"
+      ]
+    },
+    {
+      "EnglishWord": "tp",
+      "Meanings": [
+        "نگاه کنید به thymidine phosphorylase"
+      ]
+    },
+    {
+      "EnglishWord": "tpa",
+      "Meanings": [
+        "نگاه کنید به tissue plasminogen activator"
+      ]
+    },
+    {
+      "EnglishWord": "tpa",
+      "Meanings": [
+        "نگاه کنید به tissue",
+        "type plasminogen activator"
+      ]
+    },
+    {
+      "EnglishWord": "tpp",
+      "Meanings": [
+        "نگاه کنید به thiamine pyrophosphate"
+      ]
+    },
+    {
+      "EnglishWord": "tr",
+      "Meanings": [
+        "نگاه کنید به terminal repeat"
+      ]
+    },
+    {
+      "EnglishWord": "tra",
+      "Meanings": [
+        "نگاه کنید به T cell receptor alpha"
+      ]
+    },
+    {
+      "EnglishWord": "tra gene",
+      "Meanings": [
+        "ژن tra"
+      ]
+    },
+    {
+      "EnglishWord": "tracer",
+      "Meanings": [
+        "پی یاب",
+        "ردگیر",
+        "ردیاب",
+        "نشانه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "traditional breeding method",
+      "Meanings": [
+        "روش اصلاح نژاد سنتی"
+      ]
+    },
+    {
+      "EnglishWord": "traditional breeding technique",
+      "Meanings": [
+        "فن اصلاح نژاد سنتی"
+      ]
+    },
+    {
+      "EnglishWord": "trailer segment",
+      "Meanings": [
+        "جزء دنباله رو"
+      ]
+    },
+    {
+      "EnglishWord": "trailer sequence",
+      "Meanings": [
+        "توالی دنباله رو"
+      ]
+    },
+    {
+      "EnglishWord": "trait",
+      "Meanings": [
+        "نشان ویژه",
+        "ویژگی",
+        "خصلت",
+        "خصوصیت",
+        "صفت"
+      ]
+    },
+    {
+      "EnglishWord": "trans fatty acid",
+      "Meanings": [
+        "اسید چرب تبدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "trans-acting protein",
+      "Meanings": [
+        "پروتیین ترانس اکتینگ"
+      ]
+    },
+    {
+      "EnglishWord": "transactivating protein",
+      "Meanings": [
+        "پروتیین فعال ساز ترانس"
+      ]
+    },
+    {
+      "EnglishWord": "transactivation",
+      "Meanings": [
+        "فعال سازی ترانس"
+      ]
+    },
+    {
+      "EnglishWord": "transaldolase",
+      "Meanings": [
+        "ترانس آلدولاز"
+      ]
+    },
+    {
+      "EnglishWord": "transaminase",
+      "Meanings": [
+        "ترانس آمیناز"
+      ]
+    },
+    {
+      "EnglishWord": "transamination",
+      "Meanings": [
+        "انتقال آمین",
+        "انتقال بنیان آمین",
+        "انتقال گروه آمین",
+        "تبدیل آمین"
+      ]
+    },
+    {
+      "EnglishWord": "transboundary harm",
+      "Meanings": [
+        "آسیب فرا مرزی/سرحدی"
+      ]
+    },
+    {
+      "EnglishWord": "transboundary movement",
+      "Meanings": [
+        "جابجایی فرا مرزی/سرحدی"
+      ]
+    },
+    {
+      "EnglishWord": "transboundary release",
+      "Meanings": [
+        "انتشار/رهایی فرا مرزی/سرحدی"
+      ]
+    },
+    {
+      "EnglishWord": "transboundary transfer",
+      "Meanings": [
+        "انتقال فرا مرزی/سرحدی"
+      ]
+    },
+    {
+      "EnglishWord": "transcapsidation",
+      "Meanings": [
+        "ترانس کپسیداسیون"
+      ]
+    },
+    {
+      "EnglishWord": "transcript",
+      "Meanings": [
+        "رونوشت",
+        "نسخه"
+      ]
+    },
+    {
+      "EnglishWord": "transcript analysis",
+      "Meanings": [
+        "تحلیل نسخه"
+      ]
+    },
+    {
+      "EnglishWord": "transcriptase",
+      "Meanings": [
+        "ترانسکریپتاز"
+      ]
+    },
+    {
+      "EnglishWord": "transcription",
+      "Meanings": [
+        "نسخه برداری",
+        "الگو برداری",
+        "رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcription activator",
+      "Meanings": [
+        "فعال کننده نسخه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "transcription factor",
+      "Meanings": [
+        "عامل رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcription factor binding site",
+      "Meanings": [
+        "جایگاه پیوند عامل رونویسی",
+        "محل اتصال عامل رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcription factor for control of rna polymerase ii",
+      "Meanings": [
+        "عامل نسخه برداری برای مهار پلیمراز 2 RNA"
+      ]
+    },
+    {
+      "EnglishWord": "transcription unit",
+      "Meanings": [
+        "واحد نسخه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "transcriptional activator",
+      "Meanings": [
+        "فعال کننده رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcriptional profiling",
+      "Meanings": [
+        "نمای رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcriptional repressor",
+      "Meanings": [
+        "بازدارنده رونویسی"
+      ]
+    },
+    {
+      "EnglishWord": "transcriptome",
+      "Meanings": [
+        "ترانسکریپتوم"
+      ]
+    },
+    {
+      "EnglishWord": "transcutaneous",
+      "Meanings": [
+        "ترانسکوتانوس"
+      ]
+    },
+    {
+      "EnglishWord": "transdermal",
+      "Meanings": [
+        "تراپوستی"
+      ]
+    },
+    {
+      "EnglishWord": "transducing phage",
+      "Meanings": [
+        "باکتری خوار ترارسان",
+        "فاژ ترانسدیوسر",
+        "باکتری خوار تبدیل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "transduction mapping",
+      "Meanings": [
+        "بازنمایی ترا رسانی"
+      ]
+    },
+    {
+      "EnglishWord": "transfection",
+      "Meanings": [
+        "ترا آلودگی"
+      ]
+    },
+    {
+      "EnglishWord": "transfer",
+      "Meanings": [
+        "ناقل",
+        "نقل",
+        "انتقال",
+        "ترافرست",
+        "حامل"
+      ]
+    },
+    {
+      "EnglishWord": "transfer dna",
+      "Meanings": [
+        "DNA حامل"
+      ]
+    },
+    {
+      "EnglishWord": "transfer factor",
+      "Meanings": [
+        "عامل انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transfer rna",
+      "Meanings": [
+        "اسید ریبونوکلییک ناقل",
+        "RNA انتقالی/حامل"
+      ]
+    },
+    {
+      "EnglishWord": "transferase",
+      "Meanings": [
+        "ترانسفراز"
+      ]
+    },
+    {
+      "EnglishWord": "transferin",
+      "Meanings": [
+        "ترانسفرین"
+      ]
+    },
+    {
+      "EnglishWord": "transfer-messenger rna",
+      "Meanings": [
+        "RNA پیامبر انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "transferred dna",
+      "Meanings": [
+        "DNA حمل شده"
+      ]
+    },
+    {
+      "EnglishWord": "transferrin",
+      "Meanings": [
+        "ترانسفرین"
+      ]
+    },
+    {
+      "EnglishWord": "transferrin receptor",
+      "Meanings": [
+        "گیرنده ترانسفرین"
+      ]
+    },
+    {
+      "EnglishWord": "transformant",
+      "Meanings": [
+        "تبدیل کننده",
+        "تغییر شکل دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "transformation",
+      "Meanings": [
+        "تبدیل ترا ریختی",
+        "تراریخت سازی",
+        "تغییر شکل",
+        "دگرسازی",
+        "دگرگونی"
+      ]
+    },
+    {
+      "EnglishWord": "transformation efficiency",
+      "Meanings": [
+        "قابلیت تبدیل/تغییر شکل"
+      ]
+    },
+    {
+      "EnglishWord": "transformation frequency",
+      "Meanings": [
+        "بسامد تغییرشکل"
+      ]
+    },
+    {
+      "EnglishWord": "transforming growth factor-beta",
+      "Meanings": [
+        "عامل تغییر رشد بتا"
+      ]
+    },
+    {
+      "EnglishWord": "transforming oncogene",
+      "Meanings": [
+        "ژن توموری تغییر یابنده"
+      ]
+    },
+    {
+      "EnglishWord": "transgalacto-oligosaccharides",
+      "Meanings": [
+        "ترانس گالاکتو",
+        "اولیگوساکارید"
+      ]
+    },
+    {
+      "EnglishWord": "transgene",
+      "Meanings": [
+        "تراژن",
+        "ترانس ژن"
+      ]
+    },
+    {
+      "EnglishWord": "transgenesis",
+      "Meanings": [
+        "ترانس ژنز"
+      ]
+    },
+    {
+      "EnglishWord": "transgenic",
+      "Meanings": [
+        "واریخته",
+        "دارای ژنهای پیوندی",
+        "تراژنی"
+      ]
+    },
+    {
+      "EnglishWord": "transgenic animal",
+      "Meanings": [
+        "جانور تراژنی/واریخته"
+      ]
+    },
+    {
+      "EnglishWord": "transgenic plant",
+      "Meanings": [
+        "گیاه واریخته/تراژنی"
+      ]
+    },
+    {
+      "EnglishWord": "transgenosis",
+      "Meanings": [
+        "ترانسژنوز"
+      ]
+    },
+    {
+      "EnglishWord": "transgressive segregation",
+      "Meanings": [
+        "جداسازی ترانسگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "transgressive variation",
+      "Meanings": [
+        "سویه ترانسگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "transit peptide",
+      "Meanings": [
+        "پپتید انتقالی/گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transition",
+      "Meanings": [
+        "انتقال",
+        "گذار",
+        "تحول"
+      ]
+    },
+    {
+      "EnglishWord": "transition state",
+      "Meanings": [
+        "حالت انتقال/گذار/عبور/واسطه/میانی"
+      ]
+    },
+    {
+      "EnglishWord": "transition-state intermediate",
+      "Meanings": [
+        "واسطه وضعیت انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transketolase",
+      "Meanings": [
+        "ترانس کتولاز"
+      ]
+    },
+    {
+      "EnglishWord": "translation",
+      "Meanings": [
+        "برگردان",
+        "ترجمه"
+      ]
+    },
+    {
+      "EnglishWord": "translocation",
+      "Meanings": [
+        "انتقال",
+        "تراجایی",
+        "جابه جایی"
+      ]
+    },
+    {
+      "EnglishWord": "transmembrane protein",
+      "Meanings": [
+        "پروتیین تراشامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "transmembrane regulator protein",
+      "Meanings": [
+        "پروتیین تنظیم کننده تراشامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "transmissibility",
+      "Meanings": [
+        "قابلیت انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transmission",
+      "Meanings": [
+        "تراگسیل",
+        "سرایت",
+        "مخابره",
+        "انتشار",
+        "انتقال",
+        "پخش"
+      ]
+    },
+    {
+      "EnglishWord": "transmission of infection",
+      "Meanings": [
+        "انتشار عفونت",
+        "تراگسیل آلودگی"
+      ]
+    },
+    {
+      "EnglishWord": "transplantation",
+      "Meanings": [
+        "قلمه زنی",
+        "نشاکاری",
+        "پیوند",
+        "پیوند عضو",
+        "تراکاشت"
+      ]
+    },
+    {
+      "EnglishWord": "transport mechanism",
+      "Meanings": [
+        "مکانیسم نقل و انتقال",
+        "ترانسپورت مکانیسم"
+      ]
+    },
+    {
+      "EnglishWord": "transport proteins",
+      "Meanings": [
+        "پروتیین‌های انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "transporter associated with antigen presentation",
+      "Meanings": [
+        "ناقل وابسته به تظاهر آنتی ژن"
+      ]
+    },
+    {
+      "EnglishWord": "transposable element",
+      "Meanings": [
+        "عنصر جا به جا شدنی/ترانهادی"
+      ]
+    },
+    {
+      "EnglishWord": "transposable genetic element",
+      "Meanings": [
+        "عنصر ژنتیکی جا به جا شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "transposase",
+      "Meanings": [
+        "ترانسپوزاز"
+      ]
+    },
+    {
+      "EnglishWord": "transposition",
+      "Meanings": [
+        "تبدیل شدن",
+        "ترانهش",
+        "ترجمه شدن",
+        "جا به جا شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "transposon",
+      "Meanings": [
+        "ترانسپوزون",
+        "عنصر جا به جا شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "transversion",
+      "Meanings": [
+        "جایگزینی ناهمجنس",
+        "برگشتگی",
+        "تراگشت"
+      ]
+    },
+    {
+      "EnglishWord": "treatment investigational new drug",
+      "Meanings": [
+        "داروی جدید درمان تحقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "treatment system",
+      "Meanings": [
+        "سیستم درمان"
+      ]
+    },
+    {
+      "EnglishWord": "trehalase",
+      "Meanings": [
+        "تر هالاز",
+        "ترهالوز"
+      ]
+    },
+    {
+      "EnglishWord": "tremorgenic indole alkaloid",
+      "Meanings": [
+        "آلکالویید ترمورژنیک ایندولی"
+      ]
+    },
+    {
+      "EnglishWord": "trf",
+      "Meanings": [
+        "نگاه کنید به telomere repeat factor"
+      ]
+    },
+    {
+      "EnglishWord": "trf",
+      "Meanings": [
+        "نگاه کنید به thyroid releasing factor"
+      ]
+    },
+    {
+      "EnglishWord": "triacyglycerides",
+      "Meanings": [
+        "تریاسیل گلیسرید ها"
+      ]
+    },
+    {
+      "EnglishWord": "triacylglycerol",
+      "Meanings": [
+        "تری اسیل گلیسرول"
+      ]
+    },
+    {
+      "EnglishWord": "tricarboxylic acid cycle",
+      "Meanings": [
+        "چرخه اسید‌تری کاربوکسیل"
+      ]
+    },
+    {
+      "EnglishWord": "tri-carboxyllic acid cycle",
+      "Meanings": [
+        "چرخه اسید تری",
+        "کربوکسیلیک"
+      ]
+    },
+    {
+      "EnglishWord": "trichoderma harzianum",
+      "Meanings": [
+        "تریکو درما هارزیانوم"
+      ]
+    },
+    {
+      "EnglishWord": "tricho-rhino-phalangeal",
+      "Meanings": [
+        "تریکو",
+        "رینو",
+        "فالانژیال"
+      ]
+    },
+    {
+      "EnglishWord": "trichosanthin",
+      "Meanings": [
+        "تریکو سانتین"
+      ]
+    },
+    {
+      "EnglishWord": "trichothecene",
+      "Meanings": [
+        "تریکوتسن"
+      ]
+    },
+    {
+      "EnglishWord": "trichothecene mycotoxin",
+      "Meanings": [
+        "تریکوتسن مایکوتوکسین"
+      ]
+    },
+    {
+      "EnglishWord": "trichothene mycotoxin",
+      "Meanings": [
+        "تریکوتن مایکوتوکسین"
+      ]
+    },
+    {
+      "EnglishWord": "trickle filter",
+      "Meanings": [
+        "صافی/فیلتر چکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "tricothene mycotoxin",
+      "Meanings": [
+        "تریکوتن مایکوتوکسین"
+      ]
+    },
+    {
+      "EnglishWord": "triglyceride",
+      "Meanings": [
+        "تری گلیسرید"
+      ]
+    },
+    {
+      "EnglishWord": "trihybrid",
+      "Meanings": [
+        "تری هایبرید"
+      ]
+    },
+    {
+      "EnglishWord": "trinucleotide repeats",
+      "Meanings": [
+        "تکرار‌تری نوکلیوتیدی"
+      ]
+    },
+    {
+      "EnglishWord": "triplet",
+      "Meanings": [
+        "سه تایی",
+        "سه حرفی",
+        "سه قلو",
+        "رمز سه حرفی"
+      ]
+    },
+    {
+      "EnglishWord": "triploid",
+      "Meanings": [
+        "تریپلویید",
+        "سه بخشی",
+        "سه جزیی",
+        "سه قسمتی",
+        "سه گان",
+        "سه گانه",
+        "سه لاد"
+      ]
+    },
+    {
+      "EnglishWord": "tripple cropping",
+      "Meanings": [
+        "کشت سه گانه"
+      ]
+    },
+    {
+      "EnglishWord": "tris-acetate buffer",
+      "Meanings": [
+        "میانگیر تریس",
+        "استات"
+      ]
+    },
+    {
+      "EnglishWord": "trisomy",
+      "Meanings": [
+        "تریزومی"
+      ]
+    },
+    {
+      "EnglishWord": "trisomy-18 syndrome",
+      "Meanings": [
+        "سندروم تریزومی"
+      ]
+    },
+    {
+      "EnglishWord": "trisomy-18 syndrome",
+      "Meanings": [
+        "نگاه کنید به Edward syndrome"
+      ]
+    },
+    {
+      "EnglishWord": "triticale",
+      "Meanings": [
+        "چاودم"
+      ]
+    },
+    {
+      "EnglishWord": "trna",
+      "Meanings": [
+        "نگاه کنید به transfer RNA"
+      ]
+    },
+    {
+      "EnglishWord": "trna deacylase",
+      "Meanings": [
+        "دآسیلاز tRNA"
+      ]
+    },
+    {
+      "EnglishWord": "trombose",
+      "Meanings": [
+        "ترومبوز"
+      ]
+    },
+    {
+      "EnglishWord": "trophic",
+      "Meanings": [
+        "غذایی",
+        "پروره ای",
+        "تغذیه ای",
+        "خوراکی"
+      ]
+    },
+    {
+      "EnglishWord": "trophic level",
+      "Meanings": [
+        "تراز پروره ای",
+        "سطح غذایی"
+      ]
+    },
+    {
+      "EnglishWord": "tropism",
+      "Meanings": [
+        "تروپیسم",
+        "کشش",
+        "گرایش"
+      ]
+    },
+    {
+      "EnglishWord": "tropomyosin",
+      "Meanings": [
+        "تروپومیوزین"
+      ]
+    },
+    {
+      "EnglishWord": "troponin",
+      "Meanings": [
+        "تروپونین"
+      ]
+    },
+    {
+      "EnglishWord": "trp",
+      "Meanings": [
+        "نگاه کنید به tricho",
+        "rhino",
+        "phalangeal"
+      ]
+    },
+    {
+      "EnglishWord": "trp",
+      "Meanings": [
+        "نگاه کنید به tryptophan"
+      ]
+    },
+    {
+      "EnglishWord": "trucho-thio-dystrophy",
+      "Meanings": [
+        "دیستروفی تروکو",
+        "تیو"
+      ]
+    },
+    {
+      "EnglishWord": "truck",
+      "Meanings": [
+        "حمل کردن",
+        "کامیون",
+        "واگن باری"
+      ]
+    },
+    {
+      "EnglishWord": "true hermaphrodism",
+      "Meanings": [
+        "هرمافرودیسم واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "trypsin",
+      "Meanings": [
+        "تریپسین"
+      ]
+    },
+    {
+      "EnglishWord": "trypsin inhibitor",
+      "Meanings": [
+        "بازدارنده تریپسین"
+      ]
+    },
+    {
+      "EnglishWord": "trypsinogen",
+      "Meanings": [
+        "ترپسینوژن"
+      ]
+    },
+    {
+      "EnglishWord": "tryptophan",
+      "Meanings": [
+        "تریپتوفان"
+      ]
+    },
+    {
+      "EnglishWord": "ts",
+      "Meanings": [
+        "نگاه کنید به thymidylate synthase"
+      ]
+    },
+    {
+      "EnglishWord": "ts",
+      "Meanings": [
+        "نگاه کنید به total solids"
+      ]
+    },
+    {
+      "EnglishWord": "ts",
+      "Meanings": [
+        "نگاه کنید به temperature",
+        "sensitive"
+      ]
+    },
+    {
+      "EnglishWord": "tsd",
+      "Meanings": [
+        "نگاه کنید به Tay",
+        "Sachs disease"
+      ]
+    },
+    {
+      "EnglishWord": "tsh",
+      "Meanings": [
+        "نگاه کنید به thyroid stimulating hormone"
+      ]
+    },
+    {
+      "EnglishWord": "t-shell",
+      "Meanings": [
+        "پوسته T"
+      ]
+    },
+    {
+      "EnglishWord": "tt",
+      "Meanings": [
+        "نگاه کنید به tetanus toxoid"
+      ]
+    },
+    {
+      "EnglishWord": "t-t",
+      "Meanings": [
+        "نگاه کنید به thymine",
+        "thymine dimer"
+      ]
+    },
+    {
+      "EnglishWord": "ttd",
+      "Meanings": [
+        "نگاه کنید به trucho",
+        "thiodystrophy"
+      ]
+    },
+    {
+      "EnglishWord": "tuberculin",
+      "Meanings": [
+        "توبرکولین"
+      ]
+    },
+    {
+      "EnglishWord": "tuberculosis",
+      "Meanings": [
+        "باسیل مرض سل",
+        "بیماری سل",
+        "تب لازم",
+        "سل"
+      ]
+    },
+    {
+      "EnglishWord": "tubulin",
+      "Meanings": [
+        "توبولین"
+      ]
+    },
+    {
+      "EnglishWord": "tularemia",
+      "Meanings": [
+        "تولارمی"
+      ]
+    },
+    {
+      "EnglishWord": "tumor",
+      "Meanings": [
+        "تومور",
+        "دشپل",
+        "غده",
+        "آماس",
+        "برآمدگی",
+        "تورم"
+      ]
+    },
+    {
+      "EnglishWord": "tumor dna",
+      "Meanings": [
+        "DNA توموری"
+      ]
+    },
+    {
+      "EnglishWord": "tumor marker",
+      "Meanings": [
+        "نشانگر تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor necrosis factor",
+      "Meanings": [
+        "عامل نکروز دهنده تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor virus",
+      "Meanings": [
+        "ویروس تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor-associated antigen",
+      "Meanings": [
+        "پادگن مربوط به تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor-inducing plasmid",
+      "Meanings": [
+        "پلاسمید مسبب تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor-infiltrating lymphocyte",
+      "Meanings": [
+        "لنفوسیت نفوذ گر در تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor-suppressor gene",
+      "Meanings": [
+        "ژن سرکوبگر تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tumor-suppressor protein",
+      "Meanings": [
+        "پروتیین سرکوبگر تومور"
+      ]
+    },
+    {
+      "EnglishWord": "turbidimetry",
+      "Meanings": [
+        "تربیدیمتری",
+        "تیرگی سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "turbidity",
+      "Meanings": [
+        "تاری",
+        "تیرگی",
+        "کدری",
+        "درجه کدر بودن",
+        "کدورت",
+        "گل آلودگی",
+        "مه آلودگی"
+      ]
+    },
+    {
+      "EnglishWord": "turgor pressure",
+      "Meanings": [
+        "فشار ترگور"
+      ]
+    },
+    {
+      "EnglishWord": "turner syndrome",
+      "Meanings": [
+        "سندروم ترنر"
+      ]
+    },
+    {
+      "EnglishWord": "turnover number",
+      "Meanings": [
+        "عدد بازیابی/تبدیل/روگشت/نو سازی"
+      ]
+    },
+    {
+      "EnglishWord": "twins",
+      "Meanings": [
+        "دوقلو"
+      ]
+    },
+    {
+      "EnglishWord": "two-dimensional",
+      "Meanings": [
+        "دوبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "two-hybrid system",
+      "Meanings": [
+        "سیستم دورگه"
+      ]
+    },
+    {
+      "EnglishWord": "tyndallization",
+      "Meanings": [
+        "تیندالیزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "type specimen",
+      "Meanings": [
+        "درست مونه",
+        "نمونه استاندارد/شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "typhimurium",
+      "Meanings": [
+        "نگاه کنید به salmonella tymphiumurium"
+      ]
+    },
+    {
+      "EnglishWord": "typhimurium",
+      "Meanings": [
+        "تیمفیموریوم"
+      ]
+    },
+    {
+      "EnglishWord": "typhoidal tularemia",
+      "Meanings": [
+        "تولارمی شبه تیفویید"
+      ]
+    },
+    {
+      "EnglishWord": "tyr",
+      "Meanings": [
+        "نگاه کنید به tyrosine"
+      ]
+    },
+    {
+      "EnglishWord": "tyrosine",
+      "Meanings": [
+        "تیروزین",
+        "پاراهیدروکسی فنیل آلانین"
+      ]
+    },
+    {
+      "EnglishWord": "tyrosine kinase inhibitor",
+      "Meanings": [
+        "بازدارنده تیروزین کیناز"
+      ]
+    }
+  ]
+}

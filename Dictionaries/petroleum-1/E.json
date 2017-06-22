@@ -1,0 +1,720 @@
+﻿{
+  "Group": "E",
+  "Entries": 119,
+  "Words": [
+    {
+      "EnglishWord": "ear bit",
+      "Meanings": [
+        "مته گوشی"
+      ]
+    },
+    {
+      "EnglishWord": "earth auger  earth borer  sounding borer",
+      "Meanings": [
+        "مته چال کنی"
+      ]
+    },
+    {
+      "EnglishWord": "earth boring bit  ground auger",
+      "Meanings": [
+        "سرمته چال کنی"
+      ]
+    },
+    {
+      "EnglishWord": "earth boring machine",
+      "Meanings": [
+        "ماشین چال کنی"
+      ]
+    },
+    {
+      "EnglishWord": "earth creep  earth flow  rock slide  soil creep  earth slide  landfall  landslide  landslip",
+      "Meanings": [
+        "زمین خرش"
+      ]
+    },
+    {
+      "EnglishWord": "earth movements  earth movings",
+      "Meanings": [
+        "حرکات زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth pressure",
+      "Meanings": [
+        "فشار خاک"
+      ]
+    },
+    {
+      "EnglishWord": "earth trap",
+      "Meanings": [
+        "تله زمین شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "earthen reservoir",
+      "Meanings": [
+        "مخزن خاکی"
+      ]
+    },
+    {
+      "EnglishWord": "eccentric bit  offset bit",
+      "Meanings": [
+        "مته لنگ"
+      ]
+    },
+    {
+      "EnglishWord": "echosounder",
+      "Meanings": [
+        "عمق یاب صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water",
+      "Meanings": [
+        "آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water drive",
+      "Meanings": [
+        "استخراج با فشار آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water drive reservoir",
+      "Meanings": [
+        "مخزن تحت فشار آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water encroachment  encroachment of edge water",
+      "Meanings": [
+        "رخنه تدریجی آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water flooding",
+      "Meanings": [
+        "تزریق آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water limit  edge water line",
+      "Meanings": [
+        "مرز آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge water pressure",
+      "Meanings": [
+        "فشار آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "edge well",
+      "Meanings": [
+        "چاه حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "effective permeability",
+      "Meanings": [
+        "تراوایی موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective pore volume",
+      "Meanings": [
+        "حجم موثر منافذ"
+      ]
+    },
+    {
+      "EnglishWord": "effective porosity  percentage of interconnected pore spaces  percentage of intercommunicating pore spaces  active porosity  actual porosity",
+      "Meanings": [
+        "تخلخل موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective thickness of a producing layer",
+      "Meanings": [
+        "ضخامت موثر لایه تولید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "effusive rock",
+      "Meanings": [
+        "سنگ برون ریزشی"
+      ]
+    },
+    {
+      "EnglishWord": "elastic flow",
+      "Meanings": [
+        "برگشت کشسانی"
+      ]
+    },
+    {
+      "EnglishWord": "elastic- viscous flow",
+      "Meanings": [
+        "برگشت کشسانی"
+      ]
+    },
+    {
+      "EnglishWord": "electric hoisting",
+      "Meanings": [
+        "بالابری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric lateral curve logging",
+      "Meanings": [
+        "نمودار گیری الکتریکی با منحنی جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "electric log  electric well log",
+      "Meanings": [
+        "نمودار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric power station",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "electric resistance log",
+      "Meanings": [
+        "نمودار مقاومت الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric swivel  power swivel",
+      "Meanings": [
+        "مفصل گردان الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical analizer",
+      "Meanings": [
+        "تحلیل گر الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical bottom hole drilling  electrical drilling  electrodrilling",
+      "Meanings": [
+        "حفاری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical conductivity  electrical conductibility",
+      "Meanings": [
+        "رسانایی ویژه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical coring",
+      "Meanings": [
+        "مغزه گیری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical level indincator",
+      "Meanings": [
+        "ترازنمای"
+      ]
+    },
+    {
+      "EnglishWord": "electrical logging",
+      "Meanings": [
+        "نمودار گیری"
+      ]
+    },
+    {
+      "EnglishWord": "electrical logging sonde",
+      "Meanings": [
+        "گمانه نمودارگیری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical monoelectrode logging",
+      "Meanings": [
+        "نمودار گیری الکتریکی تک الکترودی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical susceptibility  polarizability",
+      "Meanings": [
+        "پذیرفتاری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrochemical corrosion",
+      "Meanings": [
+        "خوردگی الکتروشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "electrochemical potential",
+      "Meanings": [
+        "پتانسیل الکترو شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "electrodrill",
+      "Meanings": [
+        "مته حفاری برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electrodrill without drill pipe",
+      "Meanings": [
+        "مته حفاری برقی بدون لوله"
+      ]
+    },
+    {
+      "EnglishWord": "electrokinetic potential",
+      "Meanings": [
+        "پتانسیل روان برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electrolytic corrosion",
+      "Meanings": [
+        "خوردگی الکترولیتی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnatic induction method",
+      "Meanings": [
+        "روش القایی الکترومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetic conductivity",
+      "Meanings": [
+        "رسانایی ویژه الکترومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetic fishing tool  fishing electromagnet",
+      "Meanings": [
+        "مانده یاب الکترو مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetic inclinometer",
+      "Meanings": [
+        "شیب سنج الکترومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetic logging",
+      "Meanings": [
+        "نمودارگیری الکترومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "electronic conductivity",
+      "Meanings": [
+        "رسانایی ویژه الکترنیکی"
+      ]
+    },
+    {
+      "EnglishWord": "electroosmotic flow  electroosmotic motion",
+      "Meanings": [
+        "جریان الکترواسموزی"
+      ]
+    },
+    {
+      "EnglishWord": "elevation of the well",
+      "Meanings": [
+        "ارتفاع چاه"
+      ]
+    },
+    {
+      "EnglishWord": "elevation of the well head",
+      "Meanings": [
+        "ارتفاع دهنه چاه از سطح دریا"
+      ]
+    },
+    {
+      "EnglishWord": "elevation plant",
+      "Meanings": [
+        "واحد بالابری"
+      ]
+    },
+    {
+      "EnglishWord": "elevator",
+      "Meanings": [
+        "بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "elevator link",
+      "Meanings": [
+        "حلقه لوله بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "embedded",
+      "Meanings": [
+        "نشسته"
+      ]
+    },
+    {
+      "EnglishWord": "emergency blowout preventer valve  emergency bop valve",
+      "Meanings": [
+        "شیرفوران گیر اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "emergency flare",
+      "Meanings": [
+        "مشعل اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "emulsification",
+      "Meanings": [
+        "امولسیون سازی"
+      ]
+    },
+    {
+      "EnglishWord": "emulsification test",
+      "Meanings": [
+        "آزمایش امولسیون سازی"
+      ]
+    },
+    {
+      "EnglishWord": "emulsifier  emulsifying agent",
+      "Meanings": [
+        "امولسیون ساز"
+      ]
+    },
+    {
+      "EnglishWord": "emulsify",
+      "Meanings": [
+        "امولسیونه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "emulsion mud",
+      "Meanings": [
+        "گل امولسیونه"
+      ]
+    },
+    {
+      "EnglishWord": "encroachment",
+      "Meanings": [
+        "رخنه تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "encroachment area",
+      "Meanings": [
+        "ناحیه رخنه تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "encroachment area of the edge water",
+      "Meanings": [
+        "ناحیه رخنه آب حاشیه یی"
+      ]
+    },
+    {
+      "EnglishWord": "end drill",
+      "Meanings": [
+        "مته آخر"
+      ]
+    },
+    {
+      "EnglishWord": "end flange",
+      "Meanings": [
+        "فلنج نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "enlarging bit  reamer  reaming bit  pilot reamer bit",
+      "Meanings": [
+        "برقو"
+      ]
+    },
+    {
+      "EnglishWord": "enriched gas drive",
+      "Meanings": [
+        "استخراج با فشار گاز غنی شده"
+      ]
+    },
+    {
+      "EnglishWord": "enthaply  heat content",
+      "Meanings": [
+        "محتوای حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "entrapment",
+      "Meanings": [
+        "حبس شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "entrapped gas  occluded gas",
+      "Meanings": [
+        "گاز محبوس"
+      ]
+    },
+    {
+      "EnglishWord": "eocene",
+      "Meanings": [
+        "ایوسن"
+      ]
+    },
+    {
+      "EnglishWord": "epicontinental sea",
+      "Meanings": [
+        "دریای روی فلات قاره"
+      ]
+    },
+    {
+      "EnglishWord": "epoxy type coating",
+      "Meanings": [
+        "پوشش نوع اپوکسی"
+      ]
+    },
+    {
+      "EnglishWord": "equipotential surface",
+      "Meanings": [
+        "سطح هم پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "equity crude",
+      "Meanings": [
+        "نفت حق الامتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "erect anticline",
+      "Meanings": [
+        "تاقدیس قایم"
+      ]
+    },
+    {
+      "EnglishWord": "escape",
+      "Meanings": [
+        "آزاد شدن"
+      ]
+    },
+    {
+      "EnglishWord": "escape of volatile compounds",
+      "Meanings": [
+        "فرار ترکیبات فرار"
+      ]
+    },
+    {
+      "EnglishWord": "estimating of gas reserves  estimation of gas reserves",
+      "Meanings": [
+        "برآورد ذخایر گاز"
+      ]
+    },
+    {
+      "EnglishWord": "estimating of oil reserves  estimation of oil reserves",
+      "Meanings": [
+        "برآورد ذخایر نفت"
+      ]
+    },
+    {
+      "EnglishWord": "estimating of reserves  estimation of reserves",
+      "Meanings": [
+        "برآورد ذخایر"
+      ]
+    },
+    {
+      "EnglishWord": "eudiometer",
+      "Meanings": [
+        "گنج سنج"
+      ]
+    },
+    {
+      "EnglishWord": "evening shift  evening tour",
+      "Meanings": [
+        "عصر کاری"
+      ]
+    },
+    {
+      "EnglishWord": "excelsior tank  filter tank  hay tank",
+      "Meanings": [
+        "مخزن صافی"
+      ]
+    },
+    {
+      "EnglishWord": "excessive heat",
+      "Meanings": [
+        "حرارت زاید"
+      ]
+    },
+    {
+      "EnglishWord": "excessive pressure",
+      "Meanings": [
+        "فشار زاید"
+      ]
+    },
+    {
+      "EnglishWord": "exhaust fan",
+      "Meanings": [
+        "هواکش تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "exhaust manifold",
+      "Meanings": [
+        "چند راهه جمع آوری"
+      ]
+    },
+    {
+      "EnglishWord": "exhaust pipe",
+      "Meanings": [
+        "لوله خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "expanding anchor",
+      "Meanings": [
+        "لنگر بازشو"
+      ]
+    },
+    {
+      "EnglishWord": "expansion bit",
+      "Meanings": [
+        "مته قابل تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "expansion capacity",
+      "Meanings": [
+        "ظرفیت توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "expansion joint",
+      "Meanings": [
+        "مفصل انبساطی"
+      ]
+    },
+    {
+      "EnglishWord": "expansion of gas gas evolution  gas expansion",
+      "Meanings": [
+        "انبساط گاز"
+      ]
+    },
+    {
+      "EnglishWord": "expansion ring",
+      "Meanings": [
+        "حلقه انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "expansion tank",
+      "Meanings": [
+        "مخزن انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "exploitable reserves  recoverable reserves",
+      "Meanings": [
+        "ذخایر قابل استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "exploration boring  exploration drilling  wildcat drilling  exploratory drilling",
+      "Meanings": [
+        "حفاری اکتشافی"
+      ]
+    },
+    {
+      "EnglishWord": "exploration well  prospect hole  prospect well  prospecting well  prospecting hole  wildcat  wildcat well",
+      "Meanings": [
+        "چاه اکتشافی"
+      ]
+    },
+    {
+      "EnglishWord": "explosion proof equipment",
+      "Meanings": [
+        "دستگاه ضد انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "explosion seam",
+      "Meanings": [
+        "درز ضد انفجار در مخزن نفت"
+      ]
+    },
+    {
+      "EnglishWord": "external pipe cutter",
+      "Meanings": [
+        "لوله برخارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external upset",
+      "Meanings": [
+        "تقویت خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external -upset drill pipe",
+      "Meanings": [
+        "لوله حفاری با تقویت خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "extract  produce",
+      "Meanings": [
+        "استخراج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "extraction of oil  oil extraction  oil recovery  recovery of oil",
+      "Meanings": [
+        "استخراج نفت"
+      ]
+    },
+    {
+      "EnglishWord": "extraction process  recovery process",
+      "Meanings": [
+        "فرایند استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "extraneous gas",
+      "Meanings": [
+        "گاز بیگانه"
+      ]
+    },
+    {
+      "EnglishWord": "extraneous water",
+      "Meanings": [
+        "آب بیگانه"
+      ]
+    },
+    {
+      "EnglishWord": "extreme pressure additive  e.p.additive",
+      "Meanings": [
+        "افزایش فشار بسیار بالا"
+      ]
+    },
+    {
+      "EnglishWord": "extreme pressure lubricant  e.p. lubricant",
+      "Meanings": [
+        "روان کننده فشار بسیار بالا"
+      ]
+    },
+    {
+      "EnglishWord": "extrusive rock",
+      "Meanings": [
+        "سنگ آذرین خروجی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1746 @@
+﻿{
+  "Group": "L",
+  "Entries": 281,
+  "Words": [
+    {
+      "EnglishWord": "l",
+      "Meanings": [
+        "دوازدهمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "l 1 estimation",
+      "Meanings": [
+        "برآورد با نرم L‌_"
+      ]
+    },
+    {
+      "EnglishWord": "l 2 designs",
+      "Meanings": [
+        "طرحهای L‌_"
+      ]
+    },
+    {
+      "EnglishWord": "l class laws",
+      "Meanings": [
+        "قانونهای رده L"
+      ]
+    },
+    {
+      "EnglishWord": "l' hopital rule",
+      "Meanings": [
+        "قاعده هوپیتال"
+      ]
+    },
+    {
+      "EnglishWord": "label",
+      "Meanings": [
+        "برچسب"
+      ]
+    },
+    {
+      "EnglishWord": "labor statistics",
+      "Meanings": [
+        "آمار نیروی کار"
+      ]
+    },
+    {
+      "EnglishWord": "labouchere system",
+      "Meanings": [
+        "دستگاه لابوشر"
+      ]
+    },
+    {
+      "EnglishWord": "lachenbruch's holdout procedure",
+      "Meanings": [
+        "شیوه لاکنبروک برای جدا نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "lack of fit",
+      "Meanings": [
+        "نقص برازش"
+      ]
+    },
+    {
+      "EnglishWord": "lack of fit component",
+      "Meanings": [
+        "مولفه عدم برازش"
+      ]
+    },
+    {
+      "EnglishWord": "lack of randomness",
+      "Meanings": [
+        "عدم تصادفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "ladder index",
+      "Meanings": [
+        "شاخص نردبانی"
+      ]
+    },
+    {
+      "EnglishWord": "ladder method",
+      "Meanings": [
+        "روش نردبانی"
+      ]
+    },
+    {
+      "EnglishWord": "lag model",
+      "Meanings": [
+        "مدل تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "lagged dependent variables",
+      "Meanings": [
+        "متغیرهای وابسته با تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "lagging indicator",
+      "Meanings": [
+        "نشانگر تاخیری"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange",
+      "Meanings": [
+        "ژوزف لویی لاگرانژ در 25 ژانویه سال 1736 در تورینو ایتالیا متولد شد او که از بزرگترین ریاضی دانان تمام ادوار تاریخ می‌باشد هنگام تولد بیش از حد ضعیف و ناتوان بود و از 11 فرزند خانواده فقط او زنده مانده بود. زندگی لاگرانژ را می‌توان به سه دوره تقسیم کرد: نخستین دوره شامل سالهایی می‌شود که در موطنش تورینو سپری شد",
+        "دوره دوم دوره ای بود که وی بین سالهای 1766 و 1787 در فرهنگستان برلین کار می‌کرد دوره سوم از 1787 تا 1813 که عمر وی به پایان رسید در پاریس گذشت. دوره اول و دوم از نظر فعالیتهای علمی پر ثمرترین دوره‌ها بودند که با کشف حساب تغییرات در 1754 آغاز گردید و با کاربرد آن در مکانیک در 1756 ادامه یافت در این نخستین دوره وی در باره مکانیک آسمانی نیز کار کرد دوره اقامت در برلین هم از نظر مکانیک و هم از لحاظ حساب دیفرانسیل وانتگرال سازنده بود با این حال در آن دوره لاگرانژ در درجه اول در زمینه حل عددی و جبری معادلات و حتی فراتر از آن در نظریه اعداد",
+        "چهره ای برجسته و ممتاز شده بود. سالهای اقامتش در پاریس را صرف نوشته‌های آموزشی و تهیه رساله‌های بزرگی نمود که استنباطهای ریاضی وی را خلاصه می‌کردند این رساله هادر هنگامی که عصر ریاضیات قرن 18 در شرف پایان بود مقدمات عصر ریاضیات قرن 19 را فراهم کردند و از برخی جهات آن دوره را گشودند. پدر لاگرانژ وی را نامزد آموختن حقوق نمود اما لاگرانژ به محض آنکه تحصیل فیزیک را زیر نظر بکاریا و تحصیل هندسه را زیر نظر فیلیپو آنتونیو رولی آغاز کرد به سرعت متوجه تواناییهای خود شد و بنابراین خویشتن را وقف علوم دقیق‌تر کرد",
+        "در 1757 چند دانشمند جوان تورینویی که لاگرانژ وکنت سالوتسو و جووانی چنییای فیزیکدان در میان آنها بودند انجمنی علمی بنیاد نهادند که منشاء فرهنگستان سلطنتی علوم تورینو گردید یکی از اهداف اصلی آن انجمن انتشار جنگ بود به زبان فرانسوی و لاتینی به نام جنگ تورینو که لاگرانژ خدمتی بنیادی به آن کرد سه جلد اول آن تقریبا حاوی تمامی آثاری بود که وی هنگام اقامت در تورینو به چاپ رسانده بود. فعالیت لاگرانژ در مکانیک آسمانی غالبا بر محور مسابقه هایی دور می‌زند که از طرف انجمنهای مختلف علمی پیشنهاد شده بودند اما به این گونه مسابقه‌ها منحصر نبود. در تورینو غالبا‌کارش جهت گیری مستقل داشت و در 1782 به دالامبر و لاپلاس نوشت که در باره تغییرات قرنی نقطه‌های نهایی اوج و خروج از مرکز تمام سیارات کار می‌کند. این پژوهش لاگرانژ به اتنشار کتاب انجامید با عنوان نظریه تغییرات قرنی عناصر سیارات و مقاله ای با عنوان در باره تغییرات قرنی حرکات متوسط سیارات که در سال 1785 منتشر شد. لاگرانژ در برلین و در سال 1768 مقاله حل مسیله ای از حساب را برای جنگ تورینو فرستاد تا در جلد چهارم درج شود در آن نوشته لاگرانژ به نوشته قبلی خود اشاره داشت و از طریق کاربرد ظریف و استادانه الگوریتم کسرهای پیوسته ثابت کرد که معادله فرما ریاضی دان معروف را در صورتی می‌توان در تمام حالات حل کرد که اعداد درست مثبت باشند",
+        "این است نخستین راه حل شناخته شده این مسیله مشهور. آخرین بخش این نوشته در مقاله ای با عنوان روش جدید برای حل مسایل نامحدود دراعداد درست بسط یافت که در نشریه یاداشتهای برلین برای سال 1768 عرضه شد ولی تا فوریه آن سال کامل نگردید و در سال 1770 منتشر شد",
+        "از بزرگترین شاهکارههای علمی لاگرانژ رساله مکانیک تحلیلی را می‌توان نام برد که در سال 1788 انتشار یافت او در آن اثر پیشنهاد کرد که بهتر است نظریه مکانیک و فنون حل کردن مسایل آن رشته به فرمولهایی کلی تحویل شوند",
+        "فرمولهایی که هر گاه پیدا شوند همه معادله‌های لازم برای حل هر مسیله را بوجود خواهند آورد. باری",
+        "لاگرانژ تصمیم گرفت که چاپ دومی از آن اثر منتشر کند که حاوی برخی پیشرفتها باشد او قبلا در یادداشتهای انستیتو چند مقاله منتشر کرده بود که آخرین و درخشانترین خدمت وی را در راه پیشبرد مکانیک آسمانی نشان می‌دادند او قسمتی از آن نظریه را در جلد اول رساله تجدید نظر شده گنجانید. لاگرانژ مردی محجوب ومتواضع بود او بسیار ساده و راحت هنگامی که از یک مطلب علمی اطلاع نداشت می‌گفت نمی‌دانم",
+        "لاگرانژ در سال 1813 در پاریس درگذشت او در زمان مرگش 77 سال داشت"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange expansion",
+      "Meanings": [
+        "بسط لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange interpolation",
+      "Meanings": [
+        "درون‌یابی لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange multiplier test",
+      "Meanings": [
+        "آزمون ضریب لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange probability distribution",
+      "Meanings": [
+        "توزیع احتمال لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "lagrange's interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "lagrangian type distribution",
+      "Meanings": [
+        "توزیع نوع لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "laguerre series",
+      "Meanings": [
+        "سری لاگر"
+      ]
+    },
+    {
+      "EnglishWord": "lahiri's method of selection of sample units",
+      "Meanings": [
+        "روش لاهیری برای گزینش واحدهای نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "landmark data",
+      "Meanings": [
+        "داده‌های راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "langevin distribution",
+      "Meanings": [
+        "توزیع لانژون"
+      ]
+    },
+    {
+      "EnglishWord": "langevin equation",
+      "Meanings": [
+        "معادله لانژون"
+      ]
+    },
+    {
+      "EnglishWord": "laplace distribution",
+      "Meanings": [
+        "توزیع لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace transform",
+      "Meanings": [
+        "تبدیل لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace-gauss distribution",
+      "Meanings": [
+        "توزیع لاپلاس",
+        "گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace's first law",
+      "Meanings": [
+        "قانون اول لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace's law of succession",
+      "Meanings": [
+        "قانون توالی لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace's method",
+      "Meanings": [
+        "روش لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace's second law",
+      "Meanings": [
+        "قانون دوم لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplace's succession rule",
+      "Meanings": [
+        "قاعده توالی لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "laplas",
+      "Meanings": [
+        "پیتر سیمون لاپلاس در 23 مارس 1749 در حوالی پون لوک فرانسه متولد شد پدرش دهقان فقیری بود و از کودکی خودش اطلاعی در دست نیست لاپلاس از جمله موثرترین دانشوران در طول تاریخ می‌باشد او به محض اینکه ریاضیدان مشهوری شد و افتخاراتی کسب نمود اصل و نسب خود را مخفی نگاه می‌داشت",
+        "مشهور است که لاپلاس برای ملاقات دالامبر ریاضیدان با ارزش در یکی از روزهای سال 1770 به خانه او می‌رود و با وجود توصیه هایی که ارایه می‌دهد کمک قابل توجهی از طرف زیاضی دان بزرگ نسبت به او نمی‌شود لاپلاس مایوس نمی‌شود و نامه ای برای دالامبر می‌فرستد و در آن افکار خویش را درباره اصل مکانیک شرح می‌دهد دالامبر به محض خواندن نامه نویسنده را احضار می‌کند و به او می‌گوید چنانچه ملاحظه میکنید من به توصیه و سفارش ترتیب اثر نمی‌دهم ولی شما برای شناساندن خود وسیله خوبی بدست آوردید دالامبر فورا‌لاپلاس را به سمت استاد مدرسه نظامی پاریس انتخاب می‌کند",
+        "در مرحله اول لاپلاس نوشته هایی در باره مسایل حساب انتگرال",
+        "اختر شناسی",
+        "ریاضی کیهان شناسی نظریه بازیهای بخت آزمایی و علیت تالیف کرد در این دوره سازنده وی سبک و شهرت و موضع فلسفی و برخی شیوه‌های ریاضی خود را ساخته و پرداخته کرد و برنامه ای برای پژوهش در دو زمینه",
+        "احتمالات و مکانیک آسمانی",
+        "تنظیم نمود که بقیه عمر را به کار ریاضی در باره آنها پرداخت در مرحله دوم در هر دو زمینه به بسیاری از نتایج عمده ای رسید که به سبب آنها مشهور است و بعدها آنها را در رساله‌های بزرگ خو«مکانیک سماوی",
+        "و نظریه تحلیلی 1812 گنجانید اطلاع از بخش اعظم این مسایل به وسیله شیوه‌های ریاضی صورت گرفت که او در آن زمان یا قبل از آن",
+        "به وجود آورد ابداع کرده بود مهمترین آنها عبارتند از توابع مولد",
+        "که از آن پس به نام وی خوانده شدند. بسط",
+        "که آن نیز در نظریه دترمینانها به نام وی گردید",
+        "تغییر مقادیر ثابت به منظور رسیدن به راه حلهای تقریبی در انتگرال گیری عبارتهای اختر شناسی و ابع گرانشی تعمیم یافته که بعدها با دخالت پواسون به صورت تابع پتانسیل برق و مغناطیس قرن 19 در آمد همچنین در طی همین دوره بود که لاپلاس به سومین حوزه علایقش",
+        "یعنی فیزیک که با همکاری لاوازیه در زمینه نظریه گرما بود",
+        "وارد گردید و تا حدودی در نتیجه آن همکاری بود که وی تبدیل به یکی از اعضای موثر حلقه درونی مجمع ملی شد",
+        "اولین مسیله مورد توجه لاپلاس دنبال نمودن کار اسحاق نیوتن بود زیرا اسحاق نیوتن قانون اصلی مکانیک آسمانی را یافته بود و لاپلاس می‌خواست این قانون را در مورد تمام اجسام منظومه شمسی به کار برد لاپلاس شروع به تعیین قوانین مکانیک سیارات کرد تا نشان دهد که این اجسام مانند سایر اجسام تابع قوانین فیزیکی هستند اولین موضوعی که لاپلاس نزد خود مطرح می‌کند موضوع ثبات دستگاه شمسی است که آیا به وضعی که داراست می‌ماند یا بالاخره ماه روی زمین سقوط می‌کند و سیارات بر جرم خورشید پرتاب شده و معدوم می‌گردند اسحاق نیوتن هم این سوال را مطرح کرده بود و به این نتیجه رسیده بود که باید گاهگاهی دست خداوند در کار بیاید و حرکات آنها را به جریان عادی برگرداند ولی لاپلاس گفت اگر چه وضع سیارات نسبت به خورشید تغییر می‌کند ولی این تغییرات تناوبی است لاپلاس تمام این اکتشافات را تحت عنوان مکانیک آسمانی منتشر ساخت ولی چون فهم مطالبش برای همه کس مقدور نبود لذا تصمیم گرفت کتابی دیگر بنویسد که مردم عادی هم از آن بهره مند گردند این کتاب تحت عنوان شرح دستگاههای جهانی منتشر شد",
+        "لاپلاس علاوه بر نجوم و ریاضیات استادی عالیقدر در علم فیزیک بود و در باره لوله‌های مویین و انتشار امواج صوتی مطالعات فراوانی داشت از مهمترین آثار لاپلاس تیوری تحلیلی احتمالات را که در سال 1812 نوشته است می‌توان نام برد لاپلاس را که دانشمندی بی همتا می‌توان گفت متاسفانه نسبت به تمام حکومتهایی که پی در پی عوض می‌شدند تملق می‌گفت و از آنها استفاده می‌کرد در مقابل ناپلیون تا زانو تعظیم می‌کرد و به همین علتها بود که از طرف امپراطور به مقامهای کنت",
+        "سناتور",
+        "ریاست مجلس سنا انتخاب شد با وجود اینها وقتی ناپلیون اسیر شد به او پشت کرد و به عزلش رای داد و خود را در دامان لویی هجدهم انداخت و از طرف او به سمت رییس کمیته تجدید تشکیلات مدرسه پلی تکنیک و عضو مجلس عیان انتخاب شد. لاپلاس با تمام این اوصاف جوانان را تشویق و کمک می‌کرد به طوری که روزی یکی از اکتشافات جوان ناشناسی بنام بیو از طرف آکادمی مورد تمجید قرار گرفت او را نزد خود خواند و معلوم گردید لاپلاس قبلا این اکتشاف را مورد مطالعه قرار داده سات",
+        "لاپلاس اواخر عمر را در آرکوری نزدیک پاریس در عمارت ییلاقی خود که نزدیک دوستش برتوله بود گذارنید او روز 5 مارس 1812 در 78 سالگی در گذشت در"
+      ]
+    },
+    {
+      "EnglishWord": "large deviations",
+      "Meanings": [
+        "انحرافهای بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "large numbers",
+      "Meanings": [
+        "اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "large sample",
+      "Meanings": [
+        "نمونه بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "large sample inference",
+      "Meanings": [
+        "استنباط بزرگ نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "large sample theory",
+      "Meanings": [
+        "نظریه بزرگ‌نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "latent",
+      "Meanings": [
+        "پنهان 2. راکد"
+      ]
+    },
+    {
+      "EnglishWord": "latent root distribution",
+      "Meanings": [
+        "توزیع ریشه راکد"
+      ]
+    },
+    {
+      "EnglishWord": "latent root regression",
+      "Meanings": [
+        "رگرسیون ریشه راکد"
+      ]
+    },
+    {
+      "EnglishWord": "latent structure analysis",
+      "Meanings": [
+        "تحلیل ساختار پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "latent-variable modeling",
+      "Meanings": [
+        "مدل‌بندی کردن متغیر پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "lateral area",
+      "Meanings": [
+        "مساحت جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "latin cube",
+      "Meanings": [
+        "مکعب لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "latin square design",
+      "Meanings": [
+        "طرح مربع لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "latin squares",
+      "Meanings": [
+        "مربعهای لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "lattice",
+      "Meanings": [
+        "مشبکه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "lattice design",
+      "Meanings": [
+        "طرح مشبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "lattice distribution",
+      "Meanings": [
+        "توزیع مشبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "lattice system",
+      "Meanings": [
+        "دستگاه مشبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "lattice test",
+      "Meanings": [
+        "آزمون مشبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "laurent expansion",
+      "Meanings": [
+        "بسط لوران"
+      ]
+    },
+    {
+      "EnglishWord": "laurent series",
+      "Meanings": [
+        "سری لوران"
+      ]
+    },
+    {
+      "EnglishWord": "law",
+      "Meanings": [
+        "قانون",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "law of diminishing marginal utility",
+      "Meanings": [
+        "قانون مطلوبیت نهایی کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "law of sines",
+      "Meanings": [
+        "قانون سینوسها"
+      ]
+    },
+    {
+      "EnglishWord": "law of small numbers",
+      "Meanings": [
+        "قانون اعداد کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "law of the iterated logarithm",
+      "Meanings": [
+        "قانون لگارتیم مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "law of the mean",
+      "Meanings": [
+        "قضیه مقدار میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "lawley-hotelling test",
+      "Meanings": [
+        "آزمون لالی",
+        "هتلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "lawlike relationships",
+      "Meanings": [
+        "رابطه‌های قانون‌مانند"
+      ]
+    },
+    {
+      "EnglishWord": "laws of error",
+      "Meanings": [
+        "قانونهای خطا"
+      ]
+    },
+    {
+      "EnglishWord": "laws of large numbers",
+      "Meanings": [
+        "قانونهای اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "laws of mortality",
+      "Meanings": [
+        "قانونهای مرگ و میر"
+      ]
+    },
+    {
+      "EnglishWord": "layard's test",
+      "Meanings": [
+        "آزمون لایارد"
+      ]
+    },
+    {
+      "EnglishWord": "l-divergence",
+      "Meanings": [
+        "ال l",
+        "واگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "le cam lemma",
+      "Meanings": [
+        "لم لوکام"
+      ]
+    },
+    {
+      "EnglishWord": "leading coefficient",
+      "Meanings": [
+        "ضریب مقدم"
+      ]
+    },
+    {
+      "EnglishWord": "leading indicator",
+      "Meanings": [
+        "نشانگر مقدم"
+      ]
+    },
+    {
+      "EnglishWord": "leading zeros",
+      "Meanings": [
+        "صفرهای مقدم"
+      ]
+    },
+    {
+      "EnglishWord": "learning set",
+      "Meanings": [
+        "مجموعه یادگیری"
+      ]
+    },
+    {
+      "EnglishWord": "learn-merge invariance",
+      "Meanings": [
+        "ناوردایی یادگیری",
+        "تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "least absolute values",
+      "Meanings": [
+        "کمترین قدرمطلقها"
+      ]
+    },
+    {
+      "EnglishWord": "least favorable configuration",
+      "Meanings": [
+        "نامساعدترین پیکربندی"
+      ]
+    },
+    {
+      "EnglishWord": "least favorable distributions",
+      "Meanings": [
+        "نامساعدترین توزیعها"
+      ]
+    },
+    {
+      "EnglishWord": "least median of squares",
+      "Meanings": [
+        "کمترین میانه توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least powers",
+      "Meanings": [
+        "کمترین توانها"
+      ]
+    },
+    {
+      "EnglishWord": "least significant difference",
+      "Meanings": [
+        "کمترین تفاوت معنی داری"
+      ]
+    },
+    {
+      "EnglishWord": "least significant difference  lsd",
+      "Meanings": [
+        "کمترین تفاوت معنی‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "least significant range",
+      "Meanings": [
+        "کوچکترین دامنه تغییرات معنی‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "least significant studentized range",
+      "Meanings": [
+        "کوچکترین دامنه تغییرات استیودنت شده, کوچکترین دامنه تغییرات استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "least squares",
+      "Meanings": [
+        "کوچکترین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least squares approximation",
+      "Meanings": [
+        "تقریب کمترین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least squares estimates",
+      "Meanings": [
+        "برآوردهای کوچکترین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least squares estimator",
+      "Meanings": [
+        "برآوردگر کمترین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least squares method",
+      "Meanings": [
+        "روش کمترین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "least trimmed squares",
+      "Meanings": [
+        "کمترین توانهای دوم پیراسته"
+      ]
+    },
+    {
+      "EnglishWord": "least upper bound",
+      "Meanings": [
+        "کوچکترین کران بالا"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue decomposition theorem",
+      "Meanings": [
+        "قضیه تجزیه لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue integral",
+      "Meanings": [
+        "انتگرال لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue measurable function",
+      "Meanings": [
+        "تابع اندازه‌پذیر لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue measure",
+      "Meanings": [
+        "اندازه لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue monotone convergence theorem",
+      "Meanings": [
+        "قضیه همگرایی یکنوای لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue number",
+      "Meanings": [
+        "عدد لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue-radon integral",
+      "Meanings": [
+        "انتگرال لبگ",
+        "رادون"
+      ]
+    },
+    {
+      "EnglishWord": "lebesgue-stieltjes integral",
+      "Meanings": [
+        "انتگرال لبگ",
+        "استیلت‌یس"
+      ]
+    },
+    {
+      "EnglishWord": "left censored",
+      "Meanings": [
+        "چپ‌سانسوریده"
+      ]
+    },
+    {
+      "EnglishWord": "left censoring",
+      "Meanings": [
+        "سانسور از چپ"
+      ]
+    },
+    {
+      "EnglishWord": "left haar measure",
+      "Meanings": [
+        "اندازه هار چپ"
+      ]
+    },
+    {
+      "EnglishWord": "legendre symbol",
+      "Meanings": [
+        "نماد لژاندر"
+      ]
+    },
+    {
+      "EnglishWord": "lehmann alternative",
+      "Meanings": [
+        "فرض مقابل لی‌من"
+      ]
+    },
+    {
+      "EnglishWord": "lehmann contrast estimator",
+      "Meanings": [
+        "برآوردگر مقایسه‌ای لی‌من"
+      ]
+    },
+    {
+      "EnglishWord": "lehmann tests",
+      "Meanings": [
+        "آزمونهای لی‌من"
+      ]
+    },
+    {
+      "EnglishWord": "lehmann-scheffe theorem",
+      "Meanings": [
+        "قضیه لی‌من",
+        "شفه"
+      ]
+    },
+    {
+      "EnglishWord": "leibniz formula",
+      "Meanings": [
+        "فرمول لایپنیتس"
+      ]
+    },
+    {
+      "EnglishWord": "leibniz test",
+      "Meanings": [
+        "آزمون لایپنیتس"
+      ]
+    },
+    {
+      "EnglishWord": "leipnik distribution",
+      "Meanings": [
+        "توزیع لایپ‌نیک"
+      ]
+    },
+    {
+      "EnglishWord": "lemma",
+      "Meanings": [
+        "لم",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "length-biased sampling",
+      "Meanings": [
+        "نمونه‌گیری طول‌اریب"
+      ]
+    },
+    {
+      "EnglishWord": "leptokurtic",
+      "Meanings": [
+        "کشیده"
+      ]
+    },
+    {
+      "EnglishWord": "leptokurtic curve",
+      "Meanings": [
+        "خم کشیده"
+      ]
+    },
+    {
+      "EnglishWord": "lethal dose",
+      "Meanings": [
+        "دز کشنده"
+      ]
+    },
+    {
+      "EnglishWord": "lethal dose fifty",
+      "Meanings": [
+        "دز کشنده پنجاه"
+      ]
+    },
+    {
+      "EnglishWord": "level",
+      "Meanings": [
+        "سطح",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "level of a test",
+      "Meanings": [
+        "سطح آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "level of significance",
+      "Meanings": [
+        "سطح معنی‌دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "levene's robust test of homogeneity of variances",
+      "Meanings": [
+        "آزمون استوار همگنی واریانس‌های له‌وین"
+      ]
+    },
+    {
+      "EnglishWord": "leverage",
+      "Meanings": [
+        "داده‌های نافذ 2. اهرمی"
+      ]
+    },
+    {
+      "EnglishWord": "leverage diagnostics",
+      "Meanings": [
+        "مباحث تشخیصی داده‌های نافذ"
+      ]
+    },
+    {
+      "EnglishWord": "levin's summation algorithm",
+      "Meanings": [
+        "الگوریتم مجموع‌یابی له‌وین"
+      ]
+    },
+    {
+      "EnglishWord": "levy concentration function",
+      "Meanings": [
+        "تابع تمرکز له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy continuity theorem",
+      "Meanings": [
+        "قضیه پیوستگی له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy distance",
+      "Meanings": [
+        "فاصله له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy distance  metric",
+      "Meanings": [
+        "فاصله متریک له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy process",
+      "Meanings": [
+        "فرایند له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy spectral measure",
+      "Meanings": [
+        "اندازه طیفی له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "levy-khinchine formula",
+      "Meanings": [
+        "فرمول له‌وی",
+        "خین‌چین"
+      ]
+    },
+    {
+      "EnglishWord": "levy's inequality",
+      "Meanings": [
+        "نابرابری له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "lexian distribution",
+      "Meanings": [
+        "توزیع لکزیسی"
+      ]
+    },
+    {
+      "EnglishWord": "lexicostatistics",
+      "Meanings": [
+        "زبان‌آمار"
+      ]
+    },
+    {
+      "EnglishWord": "lexis quotient",
+      "Meanings": [
+        "خارج‌قسمت لکزیس"
+      ]
+    },
+    {
+      "EnglishWord": "lexis ratio",
+      "Meanings": [
+        "نسبت لکزیس"
+      ]
+    },
+    {
+      "EnglishWord": "l'hopital rule",
+      "Meanings": [
+        "قاعده هوپیتال"
+      ]
+    },
+    {
+      "EnglishWord": "l'hospital rule",
+      "Meanings": [
+        "قاعده هوپیتال"
+      ]
+    },
+    {
+      "EnglishWord": "liapunov's inequality",
+      "Meanings": [
+        "نابرابری لیاپونوف"
+      ]
+    },
+    {
+      "EnglishWord": "liapunov's theorem",
+      "Meanings": [
+        "قضیه لیاپونوف"
+      ]
+    },
+    {
+      "EnglishWord": "lieberman-ross procedure",
+      "Meanings": [
+        "شیوه لیبرمن",
+        "راس"
+      ]
+    },
+    {
+      "EnglishWord": "life insurance",
+      "Meanings": [
+        "بیمه عمر"
+      ]
+    },
+    {
+      "EnglishWord": "life table",
+      "Meanings": [
+        "جدول عمر"
+      ]
+    },
+    {
+      "EnglishWord": "life testing",
+      "Meanings": [
+        "آزمون طول عمر"
+      ]
+    },
+    {
+      "EnglishWord": "life time",
+      "Meanings": [
+        "طول عمر"
+      ]
+    },
+    {
+      "EnglishWord": "lifetime distribution",
+      "Meanings": [
+        "توزیع طول عمر"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood",
+      "Meanings": [
+        "درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood displacement",
+      "Meanings": [
+        "تغییریافتگی درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood function",
+      "Meanings": [
+        "تابع درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood map",
+      "Meanings": [
+        "نقشه درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood principle",
+      "Meanings": [
+        "اصل درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood ratio",
+      "Meanings": [
+        "نسبت درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood ratio test",
+      "Meanings": [
+        "آزمون نسبت درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "lilliefors test",
+      "Meanings": [
+        "آزمون لی‌لی‌فورس"
+      ]
+    },
+    {
+      "EnglishWord": "limit",
+      "Meanings": [
+        "حد"
+      ]
+    },
+    {
+      "EnglishWord": "limit inferior",
+      "Meanings": [
+        "حد زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "limit of a function",
+      "Meanings": [
+        "حد تابع"
+      ]
+    },
+    {
+      "EnglishWord": "limit of a sequence",
+      "Meanings": [
+        "حد دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "limit theorems",
+      "Meanings": [
+        "قضیه‌های حدی"
+      ]
+    },
+    {
+      "EnglishWord": "limited dependent variables model",
+      "Meanings": [
+        "مدل متغیرهای وابسته محدود"
+      ]
+    },
+    {
+      "EnglishWord": "lindeberg condition",
+      "Meanings": [
+        "شرط لیندبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "lindeberg-feller theorem",
+      "Meanings": [
+        "قضیه لیندبرگ",
+        "فلر"
+      ]
+    },
+    {
+      "EnglishWord": "lindeberg-levy theorem",
+      "Meanings": [
+        "قضیه لیندبرگ",
+        "له‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "lindley's equation",
+      "Meanings": [
+        "معادله لیندلی"
+      ]
+    },
+    {
+      "EnglishWord": "lindstrom-madden method",
+      "Meanings": [
+        "روش لیندستروم",
+        "مادن"
+      ]
+    },
+    {
+      "EnglishWord": "line diagram",
+      "Meanings": [
+        "نمودار خطی"
+      ]
+    },
+    {
+      "EnglishWord": "line intercept sampling",
+      "Meanings": [
+        "نمونه‌گیری خط مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "line intersect sampling",
+      "Meanings": [
+        "نمونه‌گیری درون‌برشی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "line of best fit",
+      "Meanings": [
+        "خط بهترین برازش"
+      ]
+    },
+    {
+      "EnglishWord": "line transect sampling",
+      "Meanings": [
+        "نمونه‌گیری ترابرشی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear",
+      "Meanings": [
+        "خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear algebra",
+      "Meanings": [
+        "جبر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear combination",
+      "Meanings": [
+        "ترکیب خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear contaminated independence",
+      "Meanings": [
+        "استقلال خطی آلوده"
+      ]
+    },
+    {
+      "EnglishWord": "linear dependence",
+      "Meanings": [
+        "وابستگی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear estimator",
+      "Meanings": [
+        "برآوردگر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear exponential family",
+      "Meanings": [
+        "خانواده نمایی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear filtering",
+      "Meanings": [
+        "پالایش خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear hazard rate distribution",
+      "Meanings": [
+        "توزیع نرخ خطر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear independence",
+      "Meanings": [
+        "استقلال خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear least squares",
+      "Meanings": [
+        "کمترین توانهای دوم خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear model",
+      "Meanings": [
+        "مدل خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear model selection",
+      "Meanings": [
+        "گزینش مدل خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear models",
+      "Meanings": [
+        "مدلهای خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear models with crossed-error structure",
+      "Meanings": [
+        "مدلهای خطی با ساختار خطای متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "linear models with nested-error structure",
+      "Meanings": [
+        "مدلهای خطی با ساختار خطای آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "linear plateau model",
+      "Meanings": [
+        "مدل فلاتی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear prediction",
+      "Meanings": [
+        "پیشگویی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear prediction and filtering",
+      "Meanings": [
+        "پیشگویی و پالایش خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear programming",
+      "Meanings": [
+        "برنامه‌ریزی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear regression",
+      "Meanings": [
+        "رگرسیون خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear structural relationship",
+      "Meanings": [
+        "رابطه خطی ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "linear sufficiency",
+      "Meanings": [
+        "بسندگی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear systems",
+      "Meanings": [
+        "دستگاههای خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear-circular",
+      "Meanings": [
+        "خطی",
+        "دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "linear-circular correlation",
+      "Meanings": [
+        "همبستگی خطی",
+        "دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "linearization",
+      "Meanings": [
+        "خطی‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "linearly estimable parameter",
+      "Meanings": [
+        "پارامتر خطی‌برآوردپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "lineo-normal distribution",
+      "Meanings": [
+        "توزیع خطی‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "link index",
+      "Meanings": [
+        "شاخص ربط"
+      ]
+    },
+    {
+      "EnglishWord": "link relatives",
+      "Meanings": [
+        "وابستگان با ربط"
+      ]
+    },
+    {
+      "EnglishWord": "link test",
+      "Meanings": [
+        "آزمون ربط"
+      ]
+    },
+    {
+      "EnglishWord": "linkage",
+      "Meanings": [
+        "اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "linkage clustering",
+      "Meanings": [
+        "خوشه‌بندی اتصالی"
+      ]
+    },
+    {
+      "EnglishWord": "linked block design",
+      "Meanings": [
+        "طرح بلوکهای متصل"
+      ]
+    },
+    {
+      "EnglishWord": "linking coefficient",
+      "Meanings": [
+        "ضریب ربط"
+      ]
+    },
+    {
+      "EnglishWord": "linnik distribution",
+      "Meanings": [
+        "توزیع لینیک"
+      ]
+    },
+    {
+      "EnglishWord": "liouville-dirichlet distribution",
+      "Meanings": [
+        "توزیع لویی‌ویل",
+        "دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "literature",
+      "Meanings": [
+        "نوشتگان"
+      ]
+    },
+    {
+      "EnglishWord": "lloyd dam",
+      "Meanings": [
+        "سد لوید"
+      ]
+    },
+    {
+      "EnglishWord": "l-moments",
+      "Meanings": [
+        "ال l",
+        "گشتاورها"
+      ]
+    },
+    {
+      "EnglishWord": "load-sharing",
+      "Meanings": [
+        "تسهیم بار"
+      ]
+    },
+    {
+      "EnglishWord": "load-sharing system",
+      "Meanings": [
+        "سامانه تسهیم بار"
+      ]
+    },
+    {
+      "EnglishWord": "lobachevsky distribution",
+      "Meanings": [
+        "توزیع لوباچه‌وسکی لوباچفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "lobatschewski  lobachevsky  distribution",
+      "Meanings": [
+        "توزیع لوباچه‌وسکی لوباچفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "lobatschewski distribution",
+      "Meanings": [
+        "توزیع لوباچه‌وسکی لوباچفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "local",
+      "Meanings": [
+        "موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local influence",
+      "Meanings": [
+        "تاثیر موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local limit theorem",
+      "Meanings": [
+        "قضیه حدی موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local polynomial",
+      "Meanings": [
+        "چندجمله‌ای موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "locally most powerful rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای موضعا تواناترین"
+      ]
+    },
+    {
+      "EnglishWord": "locally optimal statistical test",
+      "Meanings": [
+        "آزمون آماری موضعا بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "location parameter",
+      "Meanings": [
+        "پارامتر مکان"
+      ]
+    },
+    {
+      "EnglishWord": "location test",
+      "Meanings": [
+        "آزمون مکان"
+      ]
+    },
+    {
+      "EnglishWord": "location-scale",
+      "Meanings": [
+        "مکان",
+        "مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "location-scale family",
+      "Meanings": [
+        "خانواده مکانی",
+        "مقیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "location-scale parameter",
+      "Meanings": [
+        "پارامتر مکان",
+        "مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "locus",
+      "Meanings": [
+        "مکان هندسی 2. ژن‌جا"
+      ]
+    },
+    {
+      "EnglishWord": "lod score",
+      "Meanings": [
+        "امتیاز لگ بختها"
+      ]
+    },
+    {
+      "EnglishWord": "logarithm",
+      "Meanings": [
+        "لگاریتم"
+      ]
+    },
+    {
+      "EnglishWord": "logarithmic normal distribution",
+      "Meanings": [
+        "توزیع نرمال لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "logarithmic series distribution",
+      "Meanings": [
+        "توزیع سری لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "logarithmic spiral",
+      "Meanings": [
+        "مارپیچ برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "logarithmic transformation",
+      "Meanings": [
+        "تبدیل لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "log-change",
+      "Meanings": [
+        "تغییر لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "log-change index numbers",
+      "Meanings": [
+        "اعداد شاخص با تغییر لگارتیمی"
+      ]
+    },
+    {
+      "EnglishWord": "log-concave and log-convex distributions",
+      "Meanings": [
+        "توزیعهای لگ‌کوژ و لگ‌کاو"
+      ]
+    },
+    {
+      "EnglishWord": "log-gamma",
+      "Meanings": [
+        "لگ‌گاما"
+      ]
+    },
+    {
+      "EnglishWord": "log-gamma distribution",
+      "Meanings": [
+        "توزیع لگ‌گاما"
+      ]
+    },
+    {
+      "EnglishWord": "logic of statistical reasoning",
+      "Meanings": [
+        "منطق استدلال آماری"
+      ]
+    },
+    {
+      "EnglishWord": "logical inference",
+      "Meanings": [
+        "استنتاج منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical test",
+      "Meanings": [
+        "آزمون منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logistic",
+      "Meanings": [
+        "لوژستیک"
+      ]
+    },
+    {
+      "EnglishWord": "logistic curve",
+      "Meanings": [
+        "منحنی لوژستیک"
+      ]
+    },
+    {
+      "EnglishWord": "logistic distribution",
+      "Meanings": [
+        "توزیع لوژستیک"
+      ]
+    },
+    {
+      "EnglishWord": "logistic process",
+      "Meanings": [
+        "فرایند لوژستیک"
+      ]
+    },
+    {
+      "EnglishWord": "logistic regression",
+      "Meanings": [
+        "رگرسیون لوژستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "logistic-normal distribution",
+      "Meanings": [
+        "توزیع لوژستیک",
+        "نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "logit",
+      "Meanings": [
+        "لوجیت"
+      ]
+    },
+    {
+      "EnglishWord": "log-laplace distribution",
+      "Meanings": [
+        "توزیع لگ‌لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "loglinear model",
+      "Meanings": [
+        "مدل لگ‌خطی"
+      ]
+    },
+    {
+      "EnglishWord": "lognormal",
+      "Meanings": [
+        "لگ‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "log-rank scores",
+      "Meanings": [
+        "نمره‌های لگ‌رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "lomax distribution",
+      "Meanings": [
+        "توزیع لوماکس"
+      ]
+    },
+    {
+      "EnglishWord": "longitudinal data",
+      "Meanings": [
+        "داده‌های طولی"
+      ]
+    },
+    {
+      "EnglishWord": "long-range",
+      "Meanings": [
+        "دوربرد"
+      ]
+    },
+    {
+      "EnglishWord": "long-range dependence",
+      "Meanings": [
+        "وابستگی دوربرد"
+      ]
+    },
+    {
+      "EnglishWord": "lord's test statistic",
+      "Meanings": [
+        "آماره آزمون لرد"
+      ]
+    },
+    {
+      "EnglishWord": "lorenz curve",
+      "Meanings": [
+        "منحنی لورنتس"
+      ]
+    },
+    {
+      "EnglishWord": "loss function",
+      "Meanings": [
+        "تابع زیان"
+      ]
+    },
+    {
+      "EnglishWord": "loss of information",
+      "Meanings": [
+        "افت اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "loss problem",
+      "Meanings": [
+        "مسیله زیان"
+      ]
+    },
+    {
+      "EnglishWord": "lot tolerance percent defectives",
+      "Meanings": [
+        "درصد تحمل معیوبهای محموله"
+      ]
+    },
+    {
+      "EnglishWord": "lower central series",
+      "Meanings": [
+        "دنباله پایین‌مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "lower control limit",
+      "Meanings": [
+        "حد پایینی کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "lower integral",
+      "Meanings": [
+        "انتگرال پایینی"
+      ]
+    },
+    {
+      "EnglishWord": "lower limit of an integral",
+      "Meanings": [
+        "حد پایین انتگرال"
+      ]
+    },
+    {
+      "EnglishWord": "lower probability",
+      "Meanings": [
+        "احتمال پایینی"
+      ]
+    },
+    {
+      "EnglishWord": "lower semilattice",
+      "Meanings": [
+        "نیم‌مشبکه پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lower triangular matrix",
+      "Meanings": [
+        "ماتریس پایین‌مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "lowspread",
+      "Meanings": [
+        "پایین‌پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "lsd",
+      "Meanings": [
+        "کمترین تفاوت معنی‌دار",
+        "least significant difference"
+      ]
+    },
+    {
+      "EnglishWord": "l-space",
+      "Meanings": [
+        "ال L",
+        "فضا"
+      ]
+    },
+    {
+      "EnglishWord": "l-statistics",
+      "Meanings": [
+        "ال l",
+        "آماره‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "lubbock's formula",
+      "Meanings": [
+        "فرمول لابوک"
+      ]
+    },
+    {
+      "EnglishWord": "luce's choice axiom and generalization",
+      "Meanings": [
+        "اصل موضوع انتخاب لوس و تعمیم آن"
+      ]
+    },
+    {
+      "EnglishWord": "lurking variable",
+      "Meanings": [
+        "متغیر پنهانی"
+      ]
+    },
+    {
+      "EnglishWord": "lynden-bell estimator",
+      "Meanings": [
+        "برآوردگر لیندن",
+        "بل"
+      ]
+    }
+  ]
+}

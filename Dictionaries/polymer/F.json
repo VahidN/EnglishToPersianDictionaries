@@ -1,0 +1,1461 @@
+﻿{
+  "Group": "F",
+  "Entries": 223,
+  "Words": [
+    {
+      "EnglishWord": "fabric",
+      "Meanings": [
+        "منسوج",
+        "پارچه",
+        "تافته"
+      ]
+    },
+    {
+      "EnglishWord": "fabric plies",
+      "Meanings": [
+        "لایه‌های منسوج"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication",
+      "Meanings": [
+        "ساخت",
+        "فرآیند ساخت قطعه یا قالب چندسازه کامپوزیت"
+      ]
+    },
+    {
+      "EnglishWord": "face centered cubic",
+      "Meanings": [
+        "مکعب مرکز وجوه پر"
+      ]
+    },
+    {
+      "EnglishWord": "face veneer",
+      "Meanings": [
+        "روکش"
+      ]
+    },
+    {
+      "EnglishWord": "facing",
+      "Meanings": [
+        "رویه",
+        "نما",
+        "وجه"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "عامل",
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "factorial design",
+      "Meanings": [
+        "طرح عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial effect",
+      "Meanings": [
+        "اثر عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "fading",
+      "Meanings": [
+        "رنگ پریدگی",
+        "محو شدگی",
+        "رنگ رفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "وادادگی",
+        "شکست",
+        "واماندگی",
+        "نقص",
+        "خرابی"
+      ]
+    },
+    {
+      "EnglishWord": "falling weight test",
+      "Meanings": [
+        "آزمون سقوط وزنه"
+      ]
+    },
+    {
+      "EnglishWord": "fast burning",
+      "Meanings": [
+        "تندسوزی"
+      ]
+    },
+    {
+      "EnglishWord": "fast setting adhesive",
+      "Meanings": [
+        "چسب زودگیر"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue",
+      "Meanings": [
+        "خستگی",
+        "افت خواص مکانیکی مواد به جهت تکرار تنش در طول زمان"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue life",
+      "Meanings": [
+        "عمر خستگی",
+        "طول عمر خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue limit",
+      "Meanings": [
+        "حد خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue resistance",
+      "Meanings": [
+        "مقاومت خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue strength",
+      "Meanings": [
+        "استحکام خستگی",
+        "حداکثر سیکلهای تنش که قبل از خرابی مواد از طرف قطعه تحمل می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "fatty acid",
+      "Meanings": [
+        "اسید چرب"
+      ]
+    },
+    {
+      "EnglishWord": "fatty alchohol",
+      "Meanings": [
+        "الکل چرب"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "مطالعه توجیهی",
+        "مطالعه امکان سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "feed forward",
+      "Meanings": [
+        "پیش خور"
+      ]
+    },
+    {
+      "EnglishWord": "feed stock",
+      "Meanings": [
+        "مواد تغذیه شونده"
+      ]
+    },
+    {
+      "EnglishWord": "feed zone",
+      "Meanings": [
+        "منطقه تغذیه خوراک"
+      ]
+    },
+    {
+      "EnglishWord": "felt",
+      "Meanings": [
+        "کرک",
+        "مواد الیافی هستند که از درگیر کردن الیاف بوسیله عملیات مکانیکی یا شیمیایی و یا فشار و حرارت ساخته می‌شود این مواد از کتان یا دیگر الیاف ساخته می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "felting down",
+      "Meanings": [
+        "نمدسابی"
+      ]
+    },
+    {
+      "EnglishWord": "female mold",
+      "Meanings": [
+        "قالب ماده در ریخته گری"
+      ]
+    },
+    {
+      "EnglishWord": "fermenation",
+      "Meanings": [
+        "تخمیر"
+      ]
+    },
+    {
+      "EnglishWord": "fermi level",
+      "Meanings": [
+        "ترازفرمی"
+      ]
+    },
+    {
+      "EnglishWord": "fiber",
+      "Meanings": [
+        "لیف",
+        "تار"
+      ]
+    },
+    {
+      "EnglishWord": "fiber composite",
+      "Meanings": [
+        "کامپوزیت لیفی"
+      ]
+    },
+    {
+      "EnglishWord": "fiber content",
+      "Meanings": [
+        "جزء الیاف",
+        "میزان الیاف در کامپوزیت که به نسبت محمل بیان می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "fiber drawing",
+      "Meanings": [
+        "کشش لیف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber forminig",
+      "Meanings": [
+        "تشکیل لیف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber glass",
+      "Meanings": [
+        "الیاف شیشه",
+        "الیاف شبیه به الیاف کتان یا پشم می‌باشد با این تفاوت که از شیشه می‌باشد",
+        "فرمهای مختلف الیاف شیشه شامل: پارچه",
+        "نخ",
+        "الیاف ریز",
+        "دسته رشته بریده شده",
+        "نیم تاب",
+        "نیم تاب بافته شده می‏باشد"
+      ]
+    },
+    {
+      "EnglishWord": "fiber orientation",
+      "Meanings": [
+        "جهت الیاف",
+        "جهت صف بندی الیاف در چند لایی نمدی یا بافته نشده به منظور افزایش خواص مکانیکی در یک جهت"
+      ]
+    },
+    {
+      "EnglishWord": "fiber reinforced ceramic",
+      "Meanings": [
+        "سرامیک تقویت شده با الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber reinforced composite",
+      "Meanings": [
+        "کامپوزیت تقویت شده با الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber reinforced metal",
+      "Meanings": [
+        "فلز تقویت شده با الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده با الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber spinning",
+      "Meanings": [
+        "نخ ریسی"
+      ]
+    },
+    {
+      "EnglishWord": "fiber spool",
+      "Meanings": [
+        "قرقره الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiber volume fraction",
+      "Meanings": [
+        "کسر حجمی الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fiberlike",
+      "Meanings": [
+        "لیف گون"
+      ]
+    },
+    {
+      "EnglishWord": "fibril",
+      "Meanings": [
+        "لیفچه"
+      ]
+    },
+    {
+      "EnglishWord": "fibrillated powder",
+      "Meanings": [
+        "پودر ریشک دار"
+      ]
+    },
+    {
+      "EnglishWord": "fibrillation",
+      "Meanings": [
+        "لیفچه ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fibrous",
+      "Meanings": [
+        "لیفی"
+      ]
+    },
+    {
+      "EnglishWord": "field lens",
+      "Meanings": [
+        "عدسی میدان",
+        "عدسی شییی"
+      ]
+    },
+    {
+      "EnglishWord": "field sampling",
+      "Meanings": [
+        "نمونه برداری میدانی"
+      ]
+    },
+    {
+      "EnglishWord": "filament",
+      "Meanings": [
+        "رشته",
+        "تار",
+        "لیف یکسره"
+      ]
+    },
+    {
+      "EnglishWord": "filament guidance",
+      "Meanings": [
+        "راهنمای تار"
+      ]
+    },
+    {
+      "EnglishWord": "filament pyrolyzer",
+      "Meanings": [
+        "پیرولیزگر رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "filament winding",
+      "Meanings": [
+        "رشته پیچی",
+        "پیچش تار یکسره"
+      ]
+    },
+    {
+      "EnglishWord": "filament yarn",
+      "Meanings": [
+        "نخ با الیاف یکسره"
+      ]
+    },
+    {
+      "EnglishWord": "filler",
+      "Meanings": [
+        "پرکننده"
+      ]
+    },
+    {
+      "EnglishWord": "fillers",
+      "Meanings": [
+        "پرکننده",
+        "مواد نسبتا خنثی آلی یا معدنی که به رزینها و پوششهای ژلی برای گرفتن مشخصه‌های سیالی خاص و افزایش حجم یا کاهش قیمت محصولات اضافه می‏شوند"
+      ]
+    },
+    {
+      "EnglishWord": "film",
+      "Meanings": [
+        "فیلم",
+        "لایه"
+      ]
+    },
+    {
+      "EnglishWord": "film blowing",
+      "Meanings": [
+        "تولید دمشی فیلم",
+        "دمش فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "film casting",
+      "Meanings": [
+        "ریخته گری فیلمی",
+        "ریخته گری لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "film diffusion",
+      "Meanings": [
+        "نفوذ فیلمی",
+        "نفوذ لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "film master",
+      "Meanings": [
+        "فیلم اصلی",
+        "لایه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "صافی"
+      ]
+    },
+    {
+      "EnglishWord": "filteration",
+      "Meanings": [
+        "صاف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "fine grain",
+      "Meanings": [
+        "ریزدانه"
+      ]
+    },
+    {
+      "EnglishWord": "finely divided state",
+      "Meanings": [
+        "حالت پودری نرم"
+      ]
+    },
+    {
+      "EnglishWord": "finger joint",
+      "Meanings": [
+        "مفصل انگشت"
+      ]
+    },
+    {
+      "EnglishWord": "finger joint adhesive",
+      "Meanings": [
+        "چسب اتصال انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "finish",
+      "Meanings": [
+        "پوشش رویه‏ی نهایی‏",
+        "رویه کاری",
+        "واکنشگر سطحی است که به الیاف یا رشته‌ها بعد از اینکه بصورت دسته رشته",
+        "نخ",
+        "یا پارچه بافته تولید شدند زده می‏شود تا رزین براحتی ‏بدور آنها جریان پیدا کند و چسبندگی آنها به یکدیگر را تسهیل نماید"
+      ]
+    },
+    {
+      "EnglishWord": "finished polyester",
+      "Meanings": [
+        "پلی استر تکمیل شده در نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "finisher",
+      "Meanings": [
+        "دستگاه پرداخت",
+        "پرداخت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "finishing",
+      "Meanings": [
+        "پرداخت",
+        "تکمیل در نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "finishing agent",
+      "Meanings": [
+        "عامل تکمیل در نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "finite difference",
+      "Meanings": [
+        "اختلاف محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite volume element method",
+      "Meanings": [
+        "روش اجزای حجمی محدود"
+      ]
+    },
+    {
+      "EnglishWord": "fire retardant",
+      "Meanings": [
+        "بازدارنده اشتعال",
+        "تاخیر انداز اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "fire retarder",
+      "Meanings": [
+        "کند کننده آتش شعله"
+      ]
+    },
+    {
+      "EnglishWord": "fish eye",
+      "Meanings": [
+        "چشم ماهی",
+        "حفره دایره ای شکل که در پوشش‌های ژلی دیده می‌شود و معمولا به علت آلودگی هایی از قبیل سیلیکون",
+        "روغن",
+        "گردوغبار و آب می‏باشد"
+      ]
+    },
+    {
+      "EnglishWord": "fit",
+      "Meanings": [
+        "جفت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "fit method",
+      "Meanings": [
+        "روش برازش"
+      ]
+    },
+    {
+      "EnglishWord": "fitting",
+      "Meanings": [
+        "برازش",
+        "رابط",
+        "زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "fixer drug",
+      "Meanings": [
+        "داروی ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "flake",
+      "Meanings": [
+        "پرک",
+        "پولک",
+        "تکه تکه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "flake pigment",
+      "Meanings": [
+        "رنگدان? پرکی"
+      ]
+    },
+    {
+      "EnglishWord": "flame",
+      "Meanings": [
+        "شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame leaching",
+      "Meanings": [
+        "شعله شویی"
+      ]
+    },
+    {
+      "EnglishWord": "flame retardant",
+      "Meanings": [
+        "افزودنی‌های بازدارنده شعله",
+        "تاخیرانداز شعله",
+        "ماده ضد شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame retardants",
+      "Meanings": [
+        "بازدارنده اشتعال",
+        "بازدارنده شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame spraying",
+      "Meanings": [
+        "شعله افشانی"
+      ]
+    },
+    {
+      "EnglishWord": "flame test",
+      "Meanings": [
+        "آزمون شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flammability",
+      "Meanings": [
+        "آتشگیری",
+        "اشتعال پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "flap",
+      "Meanings": [
+        "بالچه"
+      ]
+    },
+    {
+      "EnglishWord": "flash",
+      "Meanings": [
+        "تبخیر ناگهانی",
+        "تبخیر سریع"
+      ]
+    },
+    {
+      "EnglishWord": "flash point",
+      "Meanings": [
+        "نقطه اشتعال",
+        "پایین‌ترین دمایی که میزان بخارات متصاعد شده از سطح مایع برای شعله‏ور شدن‏ کافی می‏باشد"
+      ]
+    },
+    {
+      "EnglishWord": "flash vaporization",
+      "Meanings": [
+        "تبخیر ناگهانی یا آنی"
+      ]
+    },
+    {
+      "EnglishWord": "flask",
+      "Meanings": [
+        "بالن"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "مسطح",
+        "تخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat die",
+      "Meanings": [
+        "دای تخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat enamel",
+      "Meanings": [
+        "لعاب مات"
+      ]
+    },
+    {
+      "EnglishWord": "flat lacquer",
+      "Meanings": [
+        "لاک مات"
+      ]
+    },
+    {
+      "EnglishWord": "flat varnish",
+      "Meanings": [
+        "ورنی مات",
+        "لعاب مات",
+        "جلای مات"
+      ]
+    },
+    {
+      "EnglishWord": "flatplate camera",
+      "Meanings": [
+        "دوربین صفحه مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flattening",
+      "Meanings": [
+        "تخت شدن",
+        "خوابش"
+      ]
+    },
+    {
+      "EnglishWord": "flatting agent",
+      "Meanings": [
+        "مات کننده"
+      ]
+    },
+    {
+      "EnglishWord": "flatting down",
+      "Meanings": [
+        "سابیدن"
+      ]
+    },
+    {
+      "EnglishWord": "flatting oil",
+      "Meanings": [
+        "روغن مات کننده"
+      ]
+    },
+    {
+      "EnglishWord": "flatting varnish",
+      "Meanings": [
+        "ورنی ساب خور",
+        "لعاب ساب خور"
+      ]
+    },
+    {
+      "EnglishWord": "flexibility",
+      "Meanings": [
+        "انعطاف پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "flexibilizer",
+      "Meanings": [
+        "منعطف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "flexible",
+      "Meanings": [
+        "انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexography printing method",
+      "Meanings": [
+        "روش چاپ با غلتک انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flextural modulus",
+      "Meanings": [
+        "مدول خمشی",
+        "مدول خمشی یک ماده میزان مقاومت ماده در مقابل تغییر شکل در حالت خمش را نشان می‏دهد"
+      ]
+    },
+    {
+      "EnglishWord": "flextural strength",
+      "Meanings": [
+        "استحکام خمشی",
+        "مقدار نیروی مورد نیاز که سبب شکستن به علت خم شدن قطعه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "flexural",
+      "Meanings": [
+        "انعطافی"
+      ]
+    },
+    {
+      "EnglishWord": "flexural cracking",
+      "Meanings": [
+        "ترک انعطافی",
+        "شکست خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "flexural rigidity",
+      "Meanings": [
+        "سختی خمشی",
+        "صلابت خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "flexural strength",
+      "Meanings": [
+        "استحکام خمشی",
+        "مقاومت در برابر خمش"
+      ]
+    },
+    {
+      "EnglishWord": "flexural temperature",
+      "Meanings": [
+        "دمای خمش",
+        "دمای انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flight",
+      "Meanings": [
+        "پلکارن اکسترودر"
+      ]
+    },
+    {
+      "EnglishWord": "floating",
+      "Meanings": [
+        "شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "floc",
+      "Meanings": [
+        "توده لخته"
+      ]
+    },
+    {
+      "EnglishWord": "flocculation",
+      "Meanings": [
+        "درشت شدن ذرات در مایع"
+      ]
+    },
+    {
+      "EnglishWord": "flock spraying",
+      "Meanings": [
+        "تارک افشانی"
+      ]
+    },
+    {
+      "EnglishWord": "floculate",
+      "Meanings": [
+        "لخته شدن"
+      ]
+    },
+    {
+      "EnglishWord": "flooding",
+      "Meanings": [
+        "غرقاب شدن",
+        "طغیان",
+        "پاشش سیل آسا"
+      ]
+    },
+    {
+      "EnglishWord": "flooring panel",
+      "Meanings": [
+        "صفحه کفی",
+        "کف کاذب"
+      ]
+    },
+    {
+      "EnglishWord": "flourinated elastomer",
+      "Meanings": [
+        "لاستیک فلویوردار"
+      ]
+    },
+    {
+      "EnglishWord": "flow antisotropy",
+      "Meanings": [
+        "ناهمسانگردی جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow chart",
+      "Meanings": [
+        "نگاره جریان",
+        "نمودار جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow curve",
+      "Meanings": [
+        "منحنی جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow length",
+      "Meanings": [
+        "طول برد جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow meter",
+      "Meanings": [
+        "جریان سنج",
+        "دستگاهی است که اندازه جریان سیال را می‏سنجد معمولا با دستگاه تزریق فعال کننده استفاده می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "flow path",
+      "Meanings": [
+        "مسیر جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate",
+      "Meanings": [
+        "سرعت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow ratio",
+      "Meanings": [
+        "نسبت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow temperature",
+      "Meanings": [
+        "دمای جریان"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuating load",
+      "Meanings": [
+        "بار نوبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuation",
+      "Meanings": [
+        "افت و خیز",
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuator",
+      "Meanings": [
+        "افت و خیزگر",
+        "نوسانگر"
+      ]
+    },
+    {
+      "EnglishWord": "fluence",
+      "Meanings": [
+        "شاریدگی",
+        "روانی"
+      ]
+    },
+    {
+      "EnglishWord": "fluidity",
+      "Meanings": [
+        "بستر سیال"
+      ]
+    },
+    {
+      "EnglishWord": "fluidized bed",
+      "Meanings": [
+        "بستر سیال",
+        "بستر سیال شده ساکن",
+        "بستری از پودر را گویند که در پوشش دهی از طریق بستر سیال مورد استفاده قرار می‌گیرد در این روش قطعه داغ با بار الکترو استاتیکی در بستری از پودر غوطه‏ور می‏شود و در نتیجه پوشش حاصل به فلز می‌چسبد و یا تحت کاتالیزور پخت می‏گردد‏"
+      ]
+    },
+    {
+      "EnglishWord": "fluidized bed coating",
+      "Meanings": [
+        "پوشش دهی به روش بستر سیال"
+      ]
+    },
+    {
+      "EnglishWord": "fluoresence",
+      "Meanings": [
+        "فلویورسان"
+      ]
+    },
+    {
+      "EnglishWord": "fluorophore",
+      "Meanings": [
+        "فلویورسان ساز"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "شار",
+        "جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flux staining",
+      "Meanings": [
+        "لکه‌های فلاکس"
+      ]
+    },
+    {
+      "EnglishWord": "fluxing",
+      "Meanings": [
+        "روانسازی"
+      ]
+    },
+    {
+      "EnglishWord": "fly ash",
+      "Meanings": [
+        "خاکستر سبک"
+      ]
+    },
+    {
+      "EnglishWord": "foam",
+      "Meanings": [
+        "اسفنج",
+        "ابر",
+        "کف"
+      ]
+    },
+    {
+      "EnglishWord": "foamable",
+      "Meanings": [
+        "اسفنج شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "foaming agent",
+      "Meanings": [
+        "عامل پف زا",
+        "عامل کف زا"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "کانون",
+        "متمرکز شدن",
+        "تمرکز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "focusing system",
+      "Meanings": [
+        "سیستم کانونی کننده",
+        "سیستم متمرکز کننده"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "تا",
+        "لا",
+        "محور در بلور"
+      ]
+    },
+    {
+      "EnglishWord": "folded chain",
+      "Meanings": [
+        "زنجیر تاشده",
+        "زنجیر تاخورده"
+      ]
+    },
+    {
+      "EnglishWord": "folding endurance",
+      "Meanings": [
+        "دوام تاشوندگی"
+      ]
+    },
+    {
+      "EnglishWord": "follow up pressure",
+      "Meanings": [
+        "فشار اعمالی به مذاب بعد از پر شدن قالب"
+      ]
+    },
+    {
+      "EnglishWord": "force",
+      "Meanings": [
+        "نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "force drying",
+      "Meanings": [
+        "وادارخشکش",
+        "خشک شدن تحمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "forced air",
+      "Meanings": [
+        "هوای متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "آرایش‌",
+        "شکل‌",
+        "ساختمان‌",
+        "صورت بندی",
+        "شکل گیری"
+      ]
+    },
+    {
+      "EnglishWord": "formulation",
+      "Meanings": [
+        "فرمولبندی"
+      ]
+    },
+    {
+      "EnglishWord": "forward fuselage",
+      "Meanings": [
+        "دماغه جلویی"
+      ]
+    },
+    {
+      "EnglishWord": "four point probe",
+      "Meanings": [
+        "کاونده چهارمکانی"
+      ]
+    },
+    {
+      "EnglishWord": "fourier permeability",
+      "Meanings": [
+        "تراوایی فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fourier transform",
+      "Meanings": [
+        "تبدیل فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fraction",
+      "Meanings": [
+        "جزء",
+        "کسر",
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "fractional",
+      "Meanings": [
+        "جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "fractional change",
+      "Meanings": [
+        "تغییر کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional conversion",
+      "Meanings": [
+        "تبدیل جزء به جزء"
+      ]
+    },
+    {
+      "EnglishWord": "fractional recovery",
+      "Meanings": [
+        "بازیابی جزء به جزء"
+      ]
+    },
+    {
+      "EnglishWord": "fractional yield",
+      "Meanings": [
+        "بهره جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "fractionation of polymer",
+      "Meanings": [
+        "جزء به جزء کردن پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "شکست",
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "fracture elongation",
+      "Meanings": [
+        "ازدیاد طول تا شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fracture energy",
+      "Meanings": [
+        "انرژی شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fragment",
+      "Meanings": [
+        "پاره",
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "قطعه قطعه شدن",
+        "تکه تکه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب",
+        "کلاف",
+        "چهارچوب"
+      ]
+    },
+    {
+      "EnglishWord": "free chloridine",
+      "Meanings": [
+        "کلر آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free flowing",
+      "Meanings": [
+        "جریان آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free radical",
+      "Meanings": [
+        "رادیکال آزاد",
+        "به یک اتم یا گروهی از اتم‌ها گفته می‌شود که دارای حداقل یک الکترون جفت نشده است. بسیاری از رادیکالهای آزاد",
+        "مواد واسطه با واکنش پذیری و انرژی زیاد و طول عمر کوتاه بوده و جداسازی آنها مشکل است. این مواد در بسیاری از فرآیندهای پلیمر شدن نقش اساسی دارند"
+      ]
+    },
+    {
+      "EnglishWord": "freedom",
+      "Meanings": [
+        "آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "freeze",
+      "Meanings": [
+        "انجماد",
+        "منجمد شدن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "freeze drying",
+      "Meanings": [
+        "خشک کردن انجمادی"
+      ]
+    },
+    {
+      "EnglishWord": "freeze line height",
+      "Meanings": [
+        "ارتفاع خط انجماد در تولید فیلم دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "freeze temperature",
+      "Meanings": [
+        "دمای انجماد"
+      ]
+    },
+    {
+      "EnglishWord": "freeze thaw",
+      "Meanings": [
+        "یخ زدن",
+        "یخ گشایی"
+      ]
+    },
+    {
+      "EnglishWord": "freezing",
+      "Meanings": [
+        "انجماد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "بسامد",
+        "فرکانس",
+        "تواتر"
+      ]
+    },
+    {
+      "EnglishWord": "frequency domain",
+      "Meanings": [
+        "قلمرو فرکانس",
+        "حوزه فرکانس"
+      ]
+    },
+    {
+      "EnglishWord": "friction",
+      "Meanings": [
+        "اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "friction coefficient",
+      "Meanings": [
+        "ضریب اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "friction factor",
+      "Meanings": [
+        "ضریب اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "frictional properties",
+      "Meanings": [
+        "خواص اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "fringe",
+      "Meanings": [
+        "لبه",
+        "کناره",
+        "حاشیه"
+      ]
+    },
+    {
+      "EnglishWord": "fringed micelle",
+      "Meanings": [
+        "ماهیچه کلافی"
+      ]
+    },
+    {
+      "EnglishWord": "front wheel drive",
+      "Meanings": [
+        "خودرو دیفرانسیل جلو"
+      ]
+    },
+    {
+      "EnglishWord": "frost line",
+      "Meanings": [
+        "خط انجماد"
+      ]
+    },
+    {
+      "EnglishWord": "frozen in stress",
+      "Meanings": [
+        "تنش منجمد",
+        "تنش محبوس"
+      ]
+    },
+    {
+      "EnglishWord": "fuel cell",
+      "Meanings": [
+        "پیل سوختی"
+      ]
+    },
+    {
+      "EnglishWord": "full factorial design",
+      "Meanings": [
+        "طرح عاملی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full gloss",
+      "Meanings": [
+        "تمام براق"
+      ]
+    },
+    {
+      "EnglishWord": "full scale",
+      "Meanings": [
+        "مقیاس حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "fumed silica",
+      "Meanings": [
+        "گرته سیلیکا",
+        "غلظت دهنده بسیار کم وزنی است که در افزایش کیفیت روان نیرویی پلی استرها استفاده می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "عامل",
+        "به گروه و پیوندهای شیمیایی موجود در یک ترکیب خاص گفته می‌شود که وظیفه مشخصی به عهده دارند و در واکنشهای خاص شرکت می‌کنند مثلا عامل ایزوسیانات NCO در پلی یورتان ها"
+      ]
+    },
+    {
+      "EnglishWord": "functional group",
+      "Meanings": [
+        "گروه عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "functional polymer",
+      "Meanings": [
+        "پلیمر عامل دار"
+      ]
+    },
+    {
+      "EnglishWord": "functional unit",
+      "Meanings": [
+        "واحد عاملی",
+        "واحد کارکردی"
+      ]
+    },
+    {
+      "EnglishWord": "functionality",
+      "Meanings": [
+        "عاملیت"
+      ]
+    },
+    {
+      "EnglishWord": "functionalizable polymer",
+      "Meanings": [
+        "پلیمر عامل دار شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "functionalization",
+      "Meanings": [
+        "عامل دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "funed silica",
+      "Meanings": [
+        "سیلیکای تف دیده"
+      ]
+    },
+    {
+      "EnglishWord": "fungicidal paint",
+      "Meanings": [
+        "پوشرنگ قارچ کش",
+        "رنگ ضد قارچ"
+      ]
+    },
+    {
+      "EnglishWord": "fungicide",
+      "Meanings": [
+        "قارچ کش"
+      ]
+    },
+    {
+      "EnglishWord": "further crystallization",
+      "Meanings": [
+        "تبلور مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "fuselage",
+      "Meanings": [
+        "بدنه هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "fusion",
+      "Meanings": [
+        "ذوب",
+        "گداز",
+        "گداز آمیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "fusion joint",
+      "Meanings": [
+        "اتصال جوش"
+      ]
+    },
+    {
+      "EnglishWord": "fusion point",
+      "Meanings": [
+        "دمای گداز"
+      ]
+    },
+    {
+      "EnglishWord": "fuzz",
+      "Meanings": [
+        "پرز",
+        "کرک"
+      ]
+    }
+  ]
+}

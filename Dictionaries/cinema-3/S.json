@@ -1,0 +1,5086 @@
+﻿{
+  "Group": "S",
+  "Entries": 775,
+  "Words": [
+    {
+      "EnglishWord": "s.pan",
+      "Meanings": [
+        "علامت سوییچ پ پان‌"
+      ]
+    },
+    {
+      "EnglishWord": "safe area",
+      "Meanings": [
+        "پهنه مفید"
+      ]
+    },
+    {
+      "EnglishWord": "safe title area",
+      "Meanings": [
+        "پهنه مفید عنوان بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "safety area",
+      "Meanings": [
+        "پهنه ایمن‌"
+      ]
+    },
+    {
+      "EnglishWord": "safety base",
+      "Meanings": [
+        "حامل نسوز",
+        "پایه بی‌خطر"
+      ]
+    },
+    {
+      "EnglishWord": "safety film",
+      "Meanings": [
+        "فیلم اطمینان‌",
+        "فیلم بی‌خطر",
+        "فیلم نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "safford electrical in struments",
+      "Meanings": [
+        "فتومتر"
+      ]
+    },
+    {
+      "EnglishWord": "sagittal focus lines",
+      "Meanings": [
+        "خطوط کانونی سهمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "samcine",
+      "Meanings": [
+        "نمایاب ورزشی یک چشمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "samcine obie",
+      "Meanings": [
+        "چراغ سام سینه",
+        "آبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "samcine-moy",
+      "Meanings": [
+        "کلگیهای سام سینه",
+        "موی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sample print",
+      "Meanings": [
+        "نسخه نمونه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sand animation",
+      "Meanings": [
+        "متحرک سازی با ماسه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sat-up shot",
+      "Meanings": [
+        "ست آپ شات پلان بی تفاوت",
+        "پلان خنثی‌"
+      ]
+    },
+    {
+      "EnglishWord": "saturation",
+      "Meanings": [
+        "اشباع رنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sawn-off-tripod",
+      "Meanings": [
+        "سه پایه نیمه بلند"
+      ]
+    },
+    {
+      "EnglishWord": "scaffold",
+      "Meanings": [
+        "داربست‌"
+      ]
+    },
+    {
+      "EnglishWord": "scale",
+      "Meanings": [
+        "اندازه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scale model",
+      "Meanings": [
+        "ماکت‌"
+      ]
+    },
+    {
+      "EnglishWord": "scan",
+      "Meanings": [
+        "جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "scan lines",
+      "Meanings": [
+        "خطوط جارویی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scaned print",
+      "Meanings": [
+        "نسخه جارو شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "scanning",
+      "Meanings": [
+        "جارو کردن‌",
+        "جاروزنی‌",
+        "رج زدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "scanning line",
+      "Meanings": [
+        "شکاف نوری‌"
+      ]
+    },
+    {
+      "EnglishWord": "scanning printer",
+      "Meanings": [
+        "دستگاه چاپ جاروزن‌"
+      ]
+    },
+    {
+      "EnglishWord": "scanoscope",
+      "Meanings": [
+        "اسکانوسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenario",
+      "Meanings": [
+        "سناریو",
+        "فیلمنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenario editor",
+      "Meanings": [
+        "ویراستار"
+      ]
+    },
+    {
+      "EnglishWord": "scenarist",
+      "Meanings": [
+        "سناریست‌",
+        "سناریست فیلمنامه نویس‌"
+      ]
+    },
+    {
+      "EnglishWord": "scene",
+      "Meanings": [
+        "سن‌",
+        "صحنه‌",
+        "صحنه از لحاظ تلقی کلاسیک‌",
+        "صحنه با تلقی کلاسیک‌",
+        "مجموعه چند نما",
+        "واحد بزرگتر از نما",
+        "واحد بزرگتر از پلان‌"
+      ]
+    },
+    {
+      "EnglishWord": "scene designer",
+      "Meanings": [
+        "طراح صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scene sync",
+      "Meanings": [
+        "سین سینک / همگاهی صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenery",
+      "Meanings": [
+        "آرایه‌",
+        "دکور",
+        "صحنه‌",
+        "صحنه پردازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenery setting",
+      "Meanings": [
+        "صحنه‌پردازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenes",
+      "Meanings": [
+        "صحنه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "scenic and place music",
+      "Meanings": [
+        "موسیقی صحنه‌ای و مکانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenic artist",
+      "Meanings": [
+        "طراح صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scenic elements",
+      "Meanings": [
+        "عوامل صحنه‌ای‌",
+        "عوامل نمایش صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "scheiner factor",
+      "Meanings": [
+        "عامل شاینر"
+      ]
+    },
+    {
+      "EnglishWord": "scheiner system",
+      "Meanings": [
+        "نظام شاینر"
+      ]
+    },
+    {
+      "EnglishWord": "schematisation",
+      "Meanings": [
+        "شماسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "schematization",
+      "Meanings": [
+        "طرح ریزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "schufftan process",
+      "Meanings": [
+        "فرآیند شافتن‌",
+        "فرآیند شوفتان‌"
+      ]
+    },
+    {
+      "EnglishWord": "scoope",
+      "Meanings": [
+        "چراغ کاسه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "scope",
+      "Meanings": [
+        "اسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "scope print",
+      "Meanings": [
+        "نسخه اسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "score",
+      "Meanings": [
+        "آهنگ موسیقی فیلم‌",
+        "موسیقی فیلم‌",
+        "موسیقی متن‌"
+      ]
+    },
+    {
+      "EnglishWord": "scoring",
+      "Meanings": [
+        "آهنگسازی‌",
+        "ضبط صدا روی قسمت صامت فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "scotch lite",
+      "Meanings": [
+        "اسکاچ لایت‌"
+      ]
+    },
+    {
+      "EnglishWord": "scotch tape",
+      "Meanings": [
+        "نوار چسب اسکاچ شفاف‌"
+      ]
+    },
+    {
+      "EnglishWord": "scout",
+      "Meanings": [
+        "فیلمنامه خوان‌"
+      ]
+    },
+    {
+      "EnglishWord": "scratch",
+      "Meanings": [
+        "خراش / خش‌"
+      ]
+    },
+    {
+      "EnglishWord": "scratch and doodle film making",
+      "Meanings": [
+        "فیلمسازی خط و خراش‌"
+      ]
+    },
+    {
+      "EnglishWord": "scratch off  to",
+      "Meanings": [
+        "فیلمبرداری به طریقه حذفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scratch print",
+      "Meanings": [
+        "نسخه خش دار",
+        "نسخه کار صداگذاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "scratch track",
+      "Meanings": [
+        "نوار خش دار"
+      ]
+    },
+    {
+      "EnglishWord": "screen",
+      "Meanings": [
+        "اکران / صافی / فیلتر / نمایش فیلم‌",
+        "صفحه‌",
+        "پرده‌",
+        "پرده سینما",
+        "پرده نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen acting",
+      "Meanings": [
+        "بازی سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen art",
+      "Meanings": [
+        "هنر پرده‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen brightness",
+      "Meanings": [
+        "روشنی پرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen credit",
+      "Meanings": [
+        "عناوین‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen credits",
+      "Meanings": [
+        "تیتراژ / عنوان بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen direction",
+      "Meanings": [
+        "تداوم جهتی‌",
+        "جهت حرکت بر پرده‌",
+        "جهت حرکت در روی پرده سینما",
+        "جهت حرکت در کادر",
+        "جهت حرکت موضوع روی پرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen foot",
+      "Meanings": [
+        "فوت سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen hit",
+      "Meanings": [
+        "پرفروش‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen luminance",
+      "Meanings": [
+        "روشنایی پرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen mime",
+      "Meanings": [
+        "پانتومیم سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen motion picture",
+      "Meanings": [
+        "پرده سینما"
+      ]
+    },
+    {
+      "EnglishWord": "screen persona",
+      "Meanings": [
+        "شخصیت سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen play",
+      "Meanings": [
+        "سناریو",
+        "فیلمنامه‌",
+        "کل فیلمنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen play writer",
+      "Meanings": [
+        "سناریست‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen ratio",
+      "Meanings": [
+        "نسبت ابعاد پرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen television",
+      "Meanings": [
+        "صفحه تلویزیون‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen test",
+      "Meanings": [
+        "آزمون بازیگری سینما"
+      ]
+    },
+    {
+      "EnglishWord": "screen time",
+      "Meanings": [
+        "زمان نمایش‌/ مدت نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen time shooting",
+      "Meanings": [
+        "فیلمبرداری به مقدار مدت نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "screen writer",
+      "Meanings": [
+        "فیلمنامه نویس‌",
+        "نویسنده فیلمنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "screening",
+      "Meanings": [
+        "نمایش فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "screwball comedy",
+      "Meanings": [
+        "کمدی خل بازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "scribe",
+      "Meanings": [
+        "قلم خراش‌"
+      ]
+    },
+    {
+      "EnglishWord": "script",
+      "Meanings": [
+        "تصویرنامه‌",
+        "سناریو",
+        "سناریوی کار",
+        "فیلمنامه‌",
+        "فیلمنامه فنی‌",
+        "نقشنامه‌",
+        "نمایشنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "script breakdown",
+      "Meanings": [
+        "صحنه بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "script clerk",
+      "Meanings": [
+        "منشی سناریو",
+        "منشی صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "script display",
+      "Meanings": [
+        "وسایل نمایش متن‌"
+      ]
+    },
+    {
+      "EnglishWord": "script girl",
+      "Meanings": [
+        "منشی صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "script writer",
+      "Meanings": [
+        "فیلمنامه نویس‌",
+        "نویسنده سناریو"
+      ]
+    },
+    {
+      "EnglishWord": "scripts and sources",
+      "Meanings": [
+        "فیلمنامه و منابع‌"
+      ]
+    },
+    {
+      "EnglishWord": "sealed beam",
+      "Meanings": [
+        "پرتو",
+        "بسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "seat filler",
+      "Meanings": [
+        "پرفروش‌"
+      ]
+    },
+    {
+      "EnglishWord": "seating",
+      "Meanings": [
+        "ترتیب صندلیها در تالار نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "second assistant cameraman",
+      "Meanings": [
+        "کمک فیلمبردار دوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "second cameraman",
+      "Meanings": [
+        "فیلمبردار",
+        "فیلمبردار دوم‌",
+        "معاون فیلمبردار"
+      ]
+    },
+    {
+      "EnglishWord": "second cameraman assistant",
+      "Meanings": [
+        "معاون فیلمبردار دوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "second fixing bath",
+      "Meanings": [
+        "دومین داروی ثبوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "second picture per",
+      "Meanings": [
+        "تصور در ثانیه / قاب در ثانیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "second unit",
+      "Meanings": [
+        "واحد دوم فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "second unit director",
+      "Meanings": [
+        "کارگردان واحد دوم‌",
+        "کارگردان گروه دوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "second unit photography",
+      "Meanings": [
+        "عکاس صحنه‌",
+        "فیلمبرداری واحد دوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "secondary character",
+      "Meanings": [
+        "اشخاص بازی درجه دو"
+      ]
+    },
+    {
+      "EnglishWord": "secondary color",
+      "Meanings": [
+        "رنگ ثانویه‌"
+      ]
+    },
+    {
+      "EnglishWord": "selector",
+      "Meanings": [
+        "گزیننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "self matteing process",
+      "Meanings": [
+        "روش نقاب سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "self oscillation",
+      "Meanings": [
+        "خودنوسانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "self-blimped camera",
+      "Meanings": [
+        "دوربین پوشش دار"
+      ]
+    },
+    {
+      "EnglishWord": "self-creation",
+      "Meanings": [
+        "خود",
+        "آفرینش‌"
+      ]
+    },
+    {
+      "EnglishWord": "self-expression",
+      "Meanings": [
+        "خودبیانگری‌"
+      ]
+    },
+    {
+      "EnglishWord": "self-revelation",
+      "Meanings": [
+        "کشف نفس‌"
+      ]
+    },
+    {
+      "EnglishWord": "selsyn motor",
+      "Meanings": [
+        "موتور خود همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "semi reflecting",
+      "Meanings": [
+        "تقسیم انعکاس نور"
+      ]
+    },
+    {
+      "EnglishWord": "semi reflex viewing",
+      "Meanings": [
+        "ویزور نیمه انعکاسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "semi transparent mirror",
+      "Meanings": [
+        "آینه نیم شفاف‌"
+      ]
+    },
+    {
+      "EnglishWord": "senario",
+      "Meanings": [
+        "خط داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "senior",
+      "Meanings": [
+        "نورافکن‌",
+        "چراغ‌",
+        "چراغ 5 کیلووات‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitive layer",
+      "Meanings": [
+        "لایه حساس‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity",
+      "Meanings": [
+        "حساسیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitization",
+      "Meanings": [
+        "حساس کردن به نور"
+      ]
+    },
+    {
+      "EnglishWord": "sensitometer",
+      "Meanings": [
+        "حساسیت سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitometric strip",
+      "Meanings": [
+        "نوار حساسیت سنجی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitometric strips",
+      "Meanings": [
+        "قطعات نوار سنسیتومتریک‌"
+      ]
+    },
+    {
+      "EnglishWord": "sensitometry",
+      "Meanings": [
+        "حساسیت سنجی‌",
+        "زبان اندازه‌ها / علم مقیاسها"
+      ]
+    },
+    {
+      "EnglishWord": "separate gate",
+      "Meanings": [
+        "دریچه جداگانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "separate magnetic",
+      "Meanings": [
+        "نوار مغناطیسی جداگانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "separated sound track",
+      "Meanings": [
+        "نوار مغناطیسی جدا"
+      ]
+    },
+    {
+      "EnglishWord": "separation",
+      "Meanings": [
+        "تفکیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "separation master",
+      "Meanings": [
+        "نسخه اصلی تفکیکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "separation negative",
+      "Meanings": [
+        "نسخه منفی تفکیکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "separation of pair",
+      "Meanings": [
+        "تفارق احباب‌"
+      ]
+    },
+    {
+      "EnglishWord": "separation positive",
+      "Meanings": [
+        "نسخه مثبت تفکیکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "separator",
+      "Meanings": [
+        "جداساز"
+      ]
+    },
+    {
+      "EnglishWord": "sepia",
+      "Meanings": [
+        "زرد مایل به قهوه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "بخشی از فیلم‌",
+        "بزرگترین واحد تشکیل دهنده ساختمان یک فیلم‌",
+        "سکانس‌",
+        "فصل‌",
+        "مجلس‌",
+        "مجموعه چندین صحنه با یک صحنه کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "sequence length shot",
+      "Meanings": [
+        "پلان",
+        "سکانس / نما",
+        "فصل‌"
+      ]
+    },
+    {
+      "EnglishWord": "sequencing",
+      "Meanings": [
+        "فصل بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "serial",
+      "Meanings": [
+        "سریال‌"
+      ]
+    },
+    {
+      "EnglishWord": "serial film",
+      "Meanings": [
+        "فیلم پی در پی‌"
+      ]
+    },
+    {
+      "EnglishWord": "series producer",
+      "Meanings": [
+        "تهیه کننده مجموعه‌"
+      ]
+    },
+    {
+      "EnglishWord": "servo controls",
+      "Meanings": [
+        "دستگاه کنترل اتوماتیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "servo focus",
+      "Meanings": [
+        "خودمیزانساز"
+      ]
+    },
+    {
+      "EnglishWord": "servo motor",
+      "Meanings": [
+        "سروو",
+        "موتور / موتور خودفرمان‌",
+        "موتور خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "set",
+      "Meanings": [
+        "آرایش صحنه‌",
+        "دکور",
+        "دکور صحنه‌",
+        "ست / مجموعه دستگاه / نصب دکور",
+        "صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set  to",
+      "Meanings": [
+        "صحنه آرایی‌",
+        "صحنه پرداخته‌",
+        "کاشتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "set acoustics",
+      "Meanings": [
+        "اکوستیک صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set decorator",
+      "Meanings": [
+        "دکوراتور صحنه‌",
+        "طراح صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set design",
+      "Meanings": [
+        "طراحی صحنه‌",
+        "طراح صحنه یا دکور"
+      ]
+    },
+    {
+      "EnglishWord": "set designer",
+      "Meanings": [
+        "صحنه آرا",
+        "طراح دکور",
+        "طراح صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set designing",
+      "Meanings": [
+        "صحنه آرایی طراحی صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set dressing",
+      "Meanings": [
+        "آرایش صحنه / صحنه آرایی‌",
+        "پوشش صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set dressor",
+      "Meanings": [
+        "مامور آراستن و مرتب ساختن و تکمیل صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set estimator",
+      "Meanings": [
+        "ارزیاب مخارج دکور"
+      ]
+    },
+    {
+      "EnglishWord": "set light",
+      "Meanings": [
+        "لامپ صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set lighting",
+      "Meanings": [
+        "نورپردازی دکور"
+      ]
+    },
+    {
+      "EnglishWord": "set noise",
+      "Meanings": [
+        "صدای ذاتی فیلم‌",
+        "نوفه صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "set up  to",
+      "Meanings": [
+        "آرایش / تنظیم‌",
+        "آغاز",
+        "جای دوربین / نصب کردن‌",
+        "طرز کاشتن دوربین‌",
+        "کادراژ",
+        "کاشتن‌",
+        "کاشتن دوربین‌",
+        "محل دوربین‌",
+        "محل کاشتن دوربین‌",
+        "وضعیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "sets execution",
+      "Meanings": [
+        "اجرای صحنه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "setting",
+      "Meanings": [
+        "تنظیم‌",
+        "دکور",
+        "زمینه صحنه‌",
+        "صحنه آرایی‌",
+        "صحنه پردازی‌",
+        "میزانسن‌"
+      ]
+    },
+    {
+      "EnglishWord": "setting ring",
+      "Meanings": [
+        "حلقه تنظیم دیافراگم‌"
+      ]
+    },
+    {
+      "EnglishWord": "setting up",
+      "Meanings": [
+        "تنظیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "shader",
+      "Meanings": [
+        "سایه افکن / نورگیر",
+        "سایه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "shading",
+      "Meanings": [
+        "عمل تنظیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "shadow",
+      "Meanings": [
+        "سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shadow bar",
+      "Meanings": [
+        "خط سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shadow crushing",
+      "Meanings": [
+        "فشرده شدن سایه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "shadow effect",
+      "Meanings": [
+        "جلوه سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shallow focus",
+      "Meanings": [
+        "حالت کانونی سطحی‌",
+        "وضوح پگ پگ در لهجه‌های مردم جنوب باختری در برابر واژه ژرف یا عمیق به کار می‌رود",
+        "م‌"
+      ]
+    },
+    {
+      "EnglishWord": "shap",
+      "Meanings": [
+        "صورت‌"
+      ]
+    },
+    {
+      "EnglishWord": "shaping filter",
+      "Meanings": [
+        "صافی شکل دهنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "sharp focus",
+      "Meanings": [
+        "فوکوس تند و شدید",
+        "وضوح کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "sharp picture",
+      "Meanings": [
+        "تصویر واضح‌"
+      ]
+    },
+    {
+      "EnglishWord": "sharpness",
+      "Meanings": [
+        "شفافیت‌",
+        "کیفیت تصویری‌",
+        "وضوح‌",
+        "وضوح تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "sharpness limit",
+      "Meanings": [
+        "حد وضوح‌"
+      ]
+    },
+    {
+      "EnglishWord": "shaving",
+      "Meanings": [
+        "پاک کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "shock",
+      "Meanings": [
+        "تاثیر یک ضربه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shock absorber",
+      "Meanings": [
+        "ضربه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "shock attraction",
+      "Meanings": [
+        "نظریه جاذبه تکان‌"
+      ]
+    },
+    {
+      "EnglishWord": "shocks",
+      "Meanings": [
+        "انگیزه‌ها",
+        "ضربه ها"
+      ]
+    },
+    {
+      "EnglishWord": "shoe",
+      "Meanings": [
+        "کفشک‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting",
+      "Meanings": [
+        "فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting angle",
+      "Meanings": [
+        "زاویه برداشت‌",
+        "زاویه فیلمبرداری‌",
+        "زاویه فیلمبرداری یا تصویربرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting camera",
+      "Meanings": [
+        "دوربین فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting field",
+      "Meanings": [
+        "میدان فیلمبرداری یا تصویربرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting pattern",
+      "Meanings": [
+        "الگوی فیلمبرداری یا تصویربرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting porthole",
+      "Meanings": [
+        "دریچه فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting range",
+      "Meanings": [
+        "میدان دید"
+      ]
+    },
+    {
+      "EnglishWord": "shooting schedule",
+      "Meanings": [
+        "برنامه فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting script",
+      "Meanings": [
+        "دکوپاژ",
+        "سناریوی فیلمبرداری‌",
+        "سناریوی مخصوص فیلمبرداری‌",
+        "فیلمنامه‌",
+        "فیلمنامه آماده برای فیلمبرداری‌",
+        "فیلمنامه برای فیلمبرداری‌",
+        "فیلمنامه تصویری‌",
+        "فیلمنامه تقطیع یا دکوپاژ شده‌",
+        "فیلمنامه مخصوص فیلمبرداری‌",
+        "فیلمنامه نهایی‌",
+        "فیلمنامه نهایی تقطیع شده‌",
+        "نقشنامه فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting script writer",
+      "Meanings": [
+        "فیلمنامه نویس‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting sequence",
+      "Meanings": [
+        "ترتیب فیلمبرداری صحنه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "shooting sheet",
+      "Meanings": [
+        "جدول فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting tricks",
+      "Meanings": [
+        "حقه‌های فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting two",
+      "Meanings": [
+        "شیوه دوکادری‌"
+      ]
+    },
+    {
+      "EnglishWord": "shooting-on-twos",
+      "Meanings": [
+        "شیوه دوکادری‌"
+      ]
+    },
+    {
+      "EnglishWord": "short",
+      "Meanings": [
+        "فیلم کوتاه‌",
+        "فیلم کوتاه 5 تا 20 دقیقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short  film",
+      "Meanings": [
+        "فیلم کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short film",
+      "Meanings": [
+        "فیلم کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short focus lens",
+      "Meanings": [
+        "عدسی کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short pitch",
+      "Meanings": [
+        "گام کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short pitch perforation",
+      "Meanings": [
+        "سوراخهای گام کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short tripod",
+      "Meanings": [
+        "سه پایه کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short x-rays",
+      "Meanings": [
+        "پرتوهای ایکس کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "short zoom",
+      "Meanings": [
+        "زوم کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot",
+      "Meanings": [
+        "برداشت‌",
+        "تصویر",
+        "تصویری از یک دوربین‌",
+        "تصویری مداوم به وسیله یک دوربین‌",
+        "شات‌",
+        "صحنه‌",
+        "کوچکترین واحد یک فیلم‌",
+        "مجموعه چند تا چندین هزار کادر",
+        "نما",
+        "واحد بزرگتر از فریم‌",
+        "پلان‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot break down",
+      "Meanings": [
+        "تنظیم فیلمنامه‌",
+        "دکوپاژ",
+        "صحنه بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot by shot script",
+      "Meanings": [
+        "فیلمنامه نما به نما"
+      ]
+    },
+    {
+      "EnglishWord": "shot gun microphone",
+      "Meanings": [
+        "میکروفن تفنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot gun mike",
+      "Meanings": [
+        "میکروفن تفنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot list",
+      "Meanings": [
+        "فهرست نماها",
+        "فهرست نماهای فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot listing",
+      "Meanings": [
+        "فهرست برداری نماها"
+      ]
+    },
+    {
+      "EnglishWord": "shot noise",
+      "Meanings": [
+        "نوفه ضربه‌ای یا اتفاقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot number",
+      "Meanings": [
+        "شماره نما"
+      ]
+    },
+    {
+      "EnglishWord": "shot transition",
+      "Meanings": [
+        "تغییر یا انتقال نما"
+      ]
+    },
+    {
+      "EnglishWord": "shot wide",
+      "Meanings": [
+        "تصویر بازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shots",
+      "Meanings": [
+        "تصویرهای سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shot-scene",
+      "Meanings": [
+        "نما",
+        "صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "shoulder pad",
+      "Meanings": [
+        "شانه نشین‌"
+      ]
+    },
+    {
+      "EnglishWord": "show copy",
+      "Meanings": [
+        "نسخه نمایش اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "show print",
+      "Meanings": [
+        "نسخه نمایش‌",
+        "نسخه پخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "showcase movie theatre",
+      "Meanings": [
+        "سینمای شهر فرنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shredded wheat",
+      "Meanings": [
+        "فیلم فشرده درون دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage",
+      "Meanings": [
+        "آبرفتگی‌",
+        "چروکیدگی‌",
+        "چروک خوردگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter",
+      "Meanings": [
+        "بندان‌",
+        "دریچه دوربین‌",
+        "دریچه نور",
+        "دستگاه باز و بسته کردن عدسی‌",
+        "شاتر",
+        "عدسی‌",
+        "مسدودکننده‌",
+        "پروانه‌",
+        "پلک‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter aperture",
+      "Meanings": [
+        "روزنه مسدودکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter axis",
+      "Meanings": [
+        "محور مسدودکننده دوار"
+      ]
+    },
+    {
+      "EnglishWord": "shutter cut off frequency",
+      "Meanings": [
+        "تواتر مسدودکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter efficiency",
+      "Meanings": [
+        "کارآیی مسدودکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter opening",
+      "Meanings": [
+        "زاویه شاتر",
+        "قسمت باز مسدودکننده‌",
+        "گشایش بندان‌",
+        "گشودگی شاتر"
+      ]
+    },
+    {
+      "EnglishWord": "shutter pin",
+      "Meanings": [
+        "خار پایین آورنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter release",
+      "Meanings": [
+        "دکمه چکاننده‌",
+        "کلید دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "shutter time",
+      "Meanings": [
+        "زمان نوردهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "shuttle",
+      "Meanings": [
+        "ماکو",
+        "چنگک‌"
+      ]
+    },
+    {
+      "EnglishWord": "shuttle search",
+      "Meanings": [
+        "جستجوی رفت و برگشتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "side light",
+      "Meanings": [
+        "نورجانبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "side lighting",
+      "Meanings": [
+        "نورپردازی از پهلو"
+      ]
+    },
+    {
+      "EnglishWord": "side projector",
+      "Meanings": [
+        "دستگاه نمایش اسلاید"
+      ]
+    },
+    {
+      "EnglishWord": "side show",
+      "Meanings": [
+        "برنامه فرعی‌",
+        "نمایش جنبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "side view finder",
+      "Meanings": [
+        "نمایاب جانبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sign",
+      "Meanings": [
+        "نشانه‌",
+        "نمون‌"
+      ]
+    },
+    {
+      "EnglishWord": "signal",
+      "Meanings": [
+        "علامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "signal generator socket",
+      "Meanings": [
+        "محل نصب دستگاه تولیدکننده علایم همزمانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "signal to noise ratio",
+      "Meanings": [
+        "نسبت علامت به نوفه‌"
+      ]
+    },
+    {
+      "EnglishWord": "signal to weighted noise ratio",
+      "Meanings": [
+        "نسبت علامت به نوفه قیاسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "signification",
+      "Meanings": [
+        "رسانایی‌",
+        "مفهوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "signification via",
+      "Meanings": [
+        "بیان از طریق‌"
+      ]
+    },
+    {
+      "EnglishWord": "signified",
+      "Meanings": [
+        "مدلول‌"
+      ]
+    },
+    {
+      "EnglishWord": "signifier",
+      "Meanings": [
+        "دال‌"
+      ]
+    },
+    {
+      "EnglishWord": "silencer",
+      "Meanings": [
+        "پوشش صداگیر"
+      ]
+    },
+    {
+      "EnglishWord": "silencing",
+      "Meanings": [
+        "صداگیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent",
+      "Meanings": [
+        "بی صدا / صامت‌",
+        "فیلم صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent aperture",
+      "Meanings": [
+        "دهانه فیلم صامت / دهانه کامل‌",
+        "دهانه صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent cinema",
+      "Meanings": [
+        "سینمای صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent film",
+      "Meanings": [
+        "فیلم صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent film or movie",
+      "Meanings": [
+        "فیلم صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent frame",
+      "Meanings": [
+        "قاب صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent movies",
+      "Meanings": [
+        "سینمای صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent photography",
+      "Meanings": [
+        "فیلمبرداری صامت یا بدون صدا"
+      ]
+    },
+    {
+      "EnglishWord": "silent speed",
+      "Meanings": [
+        "سرعت فیلم صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent track",
+      "Meanings": [
+        "لبه سکوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silent turn over",
+      "Meanings": [
+        "واگشت صامت‌"
+      ]
+    },
+    {
+      "EnglishWord": "silhouette",
+      "Meanings": [
+        "تصویر سیاه‌",
+        "ضد نور",
+        "ضد نور سیلویت‌",
+        "نیمرخ‌"
+      ]
+    },
+    {
+      "EnglishWord": "silhouette animation",
+      "Meanings": [
+        "متحرک سازی سایه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "silicagel",
+      "Meanings": [
+        "ماده شیمیایی خشک کننده‌",
+        "ژل سیلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "silver halide",
+      "Meanings": [
+        "هالوژنهای نقره‌",
+        "هالوژن نقره‌"
+      ]
+    },
+    {
+      "EnglishWord": "simple lens",
+      "Meanings": [
+        "عدسی ساده‌"
+      ]
+    },
+    {
+      "EnglishWord": "simple sequence",
+      "Meanings": [
+        "سکانس ساده‌"
+      ]
+    },
+    {
+      "EnglishWord": "simulate  to",
+      "Meanings": [
+        "شبیه سازی کردن / نظیره ساختن‌"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه سازی‌",
+        "نظیره سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous contrast",
+      "Meanings": [
+        "کنتراست همزمان یاتضاد همزمان‌",
+        "کنتراست همسان و یکسان‌"
+      ]
+    },
+    {
+      "EnglishWord": "sine wave",
+      "Meanings": [
+        "موج سینوسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sine wave response",
+      "Meanings": [
+        "واکنش موج سینوسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sinema color",
+      "Meanings": [
+        "طریقه رنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "singing voice",
+      "Meanings": [
+        "صدای خواننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "single blade shutter",
+      "Meanings": [
+        "مسدودکننده یک تیغه‌"
+      ]
+    },
+    {
+      "EnglishWord": "single chamber magazine",
+      "Meanings": [
+        "فیلمدان تک محفظه‌"
+      ]
+    },
+    {
+      "EnglishWord": "single eight cine film",
+      "Meanings": [
+        "فیلم 8 م م یک پهلو"
+      ]
+    },
+    {
+      "EnglishWord": "single ended lamp",
+      "Meanings": [
+        "لامپ نامتقارن‌"
+      ]
+    },
+    {
+      "EnglishWord": "single film system",
+      "Meanings": [
+        "دستگاه نمایشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "single frame",
+      "Meanings": [
+        "تک تصویر",
+        "تک زن‌",
+        "تک عکس‌",
+        "تک قاب‌",
+        "تک کادر",
+        "فیلم استریپ یک قابی یا یک فریمی‌",
+        "کادرواحد",
+        "یک قابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "single frame counter",
+      "Meanings": [
+        "قاب شمار"
+      ]
+    },
+    {
+      "EnglishWord": "single frame exposure",
+      "Meanings": [
+        "نوردهی قاب به قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "single frame shooting",
+      "Meanings": [
+        "فیلمبرداری قاب به قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "single layer emulsion",
+      "Meanings": [
+        "امولسیون تک لایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "single perforated",
+      "Meanings": [
+        "فیلم 16 میلیمتری یک سوراخه‌"
+      ]
+    },
+    {
+      "EnglishWord": "single perforation",
+      "Meanings": [
+        "یک طرف",
+        "سوراخ‌"
+      ]
+    },
+    {
+      "EnglishWord": "single picture movement",
+      "Meanings": [
+        "حرکت تک عکسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "single reflex lens camera",
+      "Meanings": [
+        "دوربین تک عدسی بازتابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "single shot",
+      "Meanings": [
+        "تک عکس‌",
+        "تک نما"
+      ]
+    },
+    {
+      "EnglishWord": "single shot camera",
+      "Meanings": [
+        "دوربین تک نما"
+      ]
+    },
+    {
+      "EnglishWord": "single system",
+      "Meanings": [
+        "روش تک باند برای ضبط همزمان صدا",
+        "فیلم صدادار تک باندی‌",
+        "نظام تک نواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "single system recording",
+      "Meanings": [
+        "صدابرداری تک نظام‌"
+      ]
+    },
+    {
+      "EnglishWord": "single system sound camera",
+      "Meanings": [
+        "دوربین با صدای تک سیستمی‌",
+        "دوربین ناطق تک نواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "single system sound recording",
+      "Meanings": [
+        "صدابرداری تک نواری‌",
+        "صدابرداری روی فیلم‌",
+        "صدابرداری روی نوار فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "single system sound shooting",
+      "Meanings": [
+        "فیلمبرداری با صدابرداری تک نواری‌"
+      ]
+    },
+    {
+      "EnglishWord": "single system stripe",
+      "Meanings": [
+        "حاشیه مغناطیسی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "sintered plate",
+      "Meanings": [
+        "ورقه رسوبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal wave",
+      "Meanings": [
+        "موج سینوسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "site preparation",
+      "Meanings": [
+        "آماده سازی محل فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "six track printing master",
+      "Meanings": [
+        "فیلم مغناطیسی شش لبه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sixteen - mm film",
+      "Meanings": [
+        "فیلم شانزده میلیمتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "sixty eight mm film",
+      "Meanings": [
+        "فیلم 68 م م‌"
+      ]
+    },
+    {
+      "EnglishWord": "sixty five mm film",
+      "Meanings": [
+        "فیلم 65 م م‌"
+      ]
+    },
+    {
+      "EnglishWord": "sixty mm film",
+      "Meanings": [
+        "فیلم 60 م م‌"
+      ]
+    },
+    {
+      "EnglishWord": "size of image",
+      "Meanings": [
+        "اندازه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "size of object",
+      "Meanings": [
+        "اندازه شی‌ء"
+      ]
+    },
+    {
+      "EnglishWord": "sketch",
+      "Meanings": [
+        "طرح‌"
+      ]
+    },
+    {
+      "EnglishWord": "skid",
+      "Meanings": [
+        "مثلث چرخدار"
+      ]
+    },
+    {
+      "EnglishWord": "skip framing",
+      "Meanings": [
+        "حذف قابها"
+      ]
+    },
+    {
+      "EnglishWord": "skipping",
+      "Meanings": [
+        "پرشهای آزاردهنده‌",
+        "پرش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "sky backing",
+      "Meanings": [
+        "پشت آبی‌",
+        "پشت آسمانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sky drop",
+      "Meanings": [
+        "پرده تصویر کننده آسمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "sky filter",
+      "Meanings": [
+        "صافی آسمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "sky flood",
+      "Meanings": [
+        "منبع نور روشن کننده آسمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "sky light",
+      "Meanings": [
+        "فیلتر مخصوص فیلم رنگی‌",
+        "نورافکن قوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sky light filter",
+      "Meanings": [
+        "فیلتر اسکای لایت Al",
+        "B",
+        "SR"
+      ]
+    },
+    {
+      "EnglishWord": "sky-pan",
+      "Meanings": [
+        "آسمان",
+        "تابه‌",
+        "تابه نورافکن بزرگ با نور پراکنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "slam",
+      "Meanings": [
+        "پیروزی کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "slap stick",
+      "Meanings": [
+        "سبک اسلپ استیک‌",
+        "کمدی بزن و بکوب‌",
+        "کمدی متکی برحوادث و تصادمهای فیزیکی عجیب و غریب‌",
+        "کمدی مسخره بازی‌",
+        "کمدی پرحرکت و جنجال و زد و خورد"
+      ]
+    },
+    {
+      "EnglishWord": "slash dupe",
+      "Meanings": [
+        "نسخه منفی کار"
+      ]
+    },
+    {
+      "EnglishWord": "slash print",
+      "Meanings": [
+        "نسخه کار صداگذاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "slate",
+      "Meanings": [
+        "تخته تقه / کلاکت‌",
+        "لوح دوربین کلاکت‌"
+      ]
+    },
+    {
+      "EnglishWord": "slate board",
+      "Meanings": [
+        "تخته تقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "slate electronic",
+      "Meanings": [
+        "تقه الکترونیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "slate number",
+      "Meanings": [
+        "شماره نما"
+      ]
+    },
+    {
+      "EnglishWord": "slating",
+      "Meanings": [
+        "تقه زنی‌",
+        "کلاکت زدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "slide",
+      "Meanings": [
+        "اسلاید"
+      ]
+    },
+    {
+      "EnglishWord": "slip focus",
+      "Meanings": [
+        "لغزش کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "slipping plate clutch",
+      "Meanings": [
+        "کلاچ صفحه لغزان‌"
+      ]
+    },
+    {
+      "EnglishWord": "slit loss",
+      "Meanings": [
+        "افت دامنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "slitting burr",
+      "Meanings": [
+        "دندانه ناشی از برش ناقص حلقه فیلم یا نوار مغناطیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "slot loading",
+      "Meanings": [
+        "فیلم گذاری شیاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "slotted shutter",
+      "Meanings": [
+        "مسدودکننده شیاردار"
+      ]
+    },
+    {
+      "EnglishWord": "slow color",
+      "Meanings": [
+        "فیلم کم رنگ‌"
+      ]
+    },
+    {
+      "EnglishWord": "slow cutting",
+      "Meanings": [
+        "تدوین کند",
+        "تدوین کندشونده یا آرام‌"
+      ]
+    },
+    {
+      "EnglishWord": "slow film",
+      "Meanings": [
+        "فیلم آهسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "slow motion",
+      "Meanings": [
+        "آهسته شدن حرکت هنرپیشه‌",
+        "آهسته و کند",
+        "حرکت آرام‌",
+        "حرکت آهسته‌",
+        "حرکت کند",
+        "حرکت کند یا آهسته‌",
+        "حرکت کند در فیلم‌",
+        "حرکت کند فیلم‌",
+        "حرکت کندشده‌",
+        "سرعت آهسته‌",
+        "کند نشان دادن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "slow motion effect",
+      "Meanings": [
+        "حرکت کند"
+      ]
+    },
+    {
+      "EnglishWord": "slow motion shooting",
+      "Meanings": [
+        "فیلمبرداری برای نمایش حرکت کند"
+      ]
+    },
+    {
+      "EnglishWord": "slow rhythm",
+      "Meanings": [
+        "ریتم کند شونده‌"
+      ]
+    },
+    {
+      "EnglishWord": "slow speed",
+      "Meanings": [
+        "سرعت کم‌"
+      ]
+    },
+    {
+      "EnglishWord": "slow speed film",
+      "Meanings": [
+        "فیلم کند"
+      ]
+    },
+    {
+      "EnglishWord": "slug",
+      "Meanings": [
+        "نوار راهنما / لیدر"
+      ]
+    },
+    {
+      "EnglishWord": "slug  to",
+      "Meanings": [
+        "مرمت‌"
+      ]
+    },
+    {
+      "EnglishWord": "slug microphone",
+      "Meanings": [
+        "میکروفن آویخته‌"
+      ]
+    },
+    {
+      "EnglishWord": "slugging",
+      "Meanings": [
+        "تدوین‌"
+      ]
+    },
+    {
+      "EnglishWord": "small film",
+      "Meanings": [
+        "فیلم باریک‌"
+      ]
+    },
+    {
+      "EnglishWord": "small format",
+      "Meanings": [
+        "قطع کوچک‌"
+      ]
+    },
+    {
+      "EnglishWord": "small gobos",
+      "Meanings": [
+        "پرده‌های کوچک جلوگیر صدا یا نور"
+      ]
+    },
+    {
+      "EnglishWord": "small nagra",
+      "Meanings": [
+        "ناگرای کوچک‌"
+      ]
+    },
+    {
+      "EnglishWord": "smoke effect",
+      "Meanings": [
+        "جلوه درد"
+      ]
+    },
+    {
+      "EnglishWord": "smoke kettle",
+      "Meanings": [
+        "دستگاه دودزا"
+      ]
+    },
+    {
+      "EnglishWord": "smoke pot",
+      "Meanings": [
+        "دستگاه دودزا"
+      ]
+    },
+    {
+      "EnglishWord": "smooth cut",
+      "Meanings": [
+        "برش هموار"
+      ]
+    },
+    {
+      "EnglishWord": "smoothness",
+      "Meanings": [
+        "همواری در تدوین‌"
+      ]
+    },
+    {
+      "EnglishWord": "smt acutance",
+      "Meanings": [
+        "تیزی SMT"
+      ]
+    },
+    {
+      "EnglishWord": "snake arm",
+      "Meanings": [
+        "بازوی مارگونه‌"
+      ]
+    },
+    {
+      "EnglishWord": "snoot",
+      "Meanings": [
+        "قیف‌",
+        "مخروط‌"
+      ]
+    },
+    {
+      "EnglishWord": "snow effect",
+      "Meanings": [
+        "جلوه برف‌"
+      ]
+    },
+    {
+      "EnglishWord": "snubber roller",
+      "Meanings": [
+        "قرقره تنظیم کشش فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "soap opera",
+      "Meanings": [
+        "اپرای صابونی / درام احساساتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "social drama",
+      "Meanings": [
+        "نمایشنامه‌های اجتماعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "social expose",
+      "Meanings": [
+        "بر ملاکننده اجتماعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sodium lamp process",
+      "Meanings": [
+        "فرآیند چراغ سدیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft edge",
+      "Meanings": [
+        "لبه محو پهنه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "soft focus",
+      "Meanings": [
+        "تصویر کمی محو",
+        "حالت کانونی محو",
+        "حالت کانونی ملایم‌",
+        "نمای محو شده‌",
+        "وضوح ملایم‌",
+        "وضوح ناقص‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft key lighting",
+      "Meanings": [
+        "نورملایم‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft light",
+      "Meanings": [
+        "چراغ نرم / نور نرم‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft lighting",
+      "Meanings": [
+        "نورپردازی ملایم‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft pedal",
+      "Meanings": [
+        "پدال نرم کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "soft picture",
+      "Meanings": [
+        "فیلم رنگ رفته / فیلم محو / فیلم ملایم‌"
+      ]
+    },
+    {
+      "EnglishWord": "solarzation",
+      "Meanings": [
+        "نوردادن بیش از حد به فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "solenoid",
+      "Meanings": [
+        "سلنوید"
+      ]
+    },
+    {
+      "EnglishWord": "solist",
+      "Meanings": [
+        "تکنواز"
+      ]
+    },
+    {
+      "EnglishWord": "song composer",
+      "Meanings": [
+        "ترانه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "song title",
+      "Meanings": [
+        "نام ترانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound boom",
+      "Meanings": [
+        "بوم صدابرداری‌",
+        "پایه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound camera",
+      "Meanings": [
+        "دوربین صدا بردار"
+      ]
+    },
+    {
+      "EnglishWord": "sound console",
+      "Meanings": [
+        "میز فرمان صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound control",
+      "Meanings": [
+        "کنترل صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound crew",
+      "Meanings": [
+        "گروه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound cutter",
+      "Meanings": [
+        "متصدی برش صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound displacement",
+      "Meanings": [
+        "جابجایی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound drum",
+      "Meanings": [
+        "جعبه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound drum lock screw",
+      "Meanings": [
+        "قفل جعبه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound editing",
+      "Meanings": [
+        "تدوین صدا",
+        "تدوین کننده صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound editor",
+      "Meanings": [
+        "تدوینگر صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound efect",
+      "Meanings": [
+        "اثر صوتی‌",
+        "اثرات صوتی‌",
+        "تاثیرات صوتی‌",
+        "سر و صداهای متن فیلم‌",
+        "صداهای سینمایی‌",
+        "صدای اضافی‌",
+        "صدای زمینه‌",
+        "صداپردازی‌",
+        "نیرنگ صوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound efect editing",
+      "Meanings": [
+        "تدوین اثرات صوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound efects",
+      "Meanings": [
+        "آثار صوتی‌",
+        "اثرات صوتی‌",
+        "افکت سر و صدای محیط‌",
+        "افه‌های صوتی‌",
+        "جلوه‌های صوتی‌",
+        "سر و صداهای متفرقه‌",
+        "صداسازی‌",
+        "ضبط صداهای متفرقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound efects supervisor",
+      "Meanings": [
+        "سرپرست آثار صوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound engineer",
+      "Meanings": [
+        "صدابردار",
+        "ضبط کننده‌",
+        "مهندس صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound film",
+      "Meanings": [
+        "فیلم صدادار",
+        "فیلم ناطق‌",
+        "فیلم گویا"
+      ]
+    },
+    {
+      "EnglishWord": "sound film lamp",
+      "Meanings": [
+        "لامپ صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound floor assistant",
+      "Meanings": [
+        "دستیار صدا در صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound gate",
+      "Meanings": [
+        "روزنه صدا",
+        "شکاف صداخون‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound head",
+      "Meanings": [
+        "کله صدا",
+        "هد صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound illustrator",
+      "Meanings": [
+        "سرپرست آثار صوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound image",
+      "Meanings": [
+        "صدای اپتیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound looping",
+      "Meanings": [
+        "صداگذاری بعدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound master positive",
+      "Meanings": [
+        "نسخه مثبت اصلی ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound mixer",
+      "Meanings": [
+        "دستگاه ترکیب کننده صداها",
+        "صدا ترکیب کن‌",
+        "مخلوط کن صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound mixing",
+      "Meanings": [
+        "در همسازی صدا / مخلوط کردن چند صدابا هم در سطوح متفاوت‌",
+        "مخلوط کن صداها"
+      ]
+    },
+    {
+      "EnglishWord": "sound modulation",
+      "Meanings": [
+        "نوار فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound motion picture",
+      "Meanings": [
+        "فیلم سینمایی ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound of music",
+      "Meanings": [
+        "نوای موسیقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound on film",
+      "Meanings": [
+        "صدا روی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound on sound",
+      "Meanings": [
+        "صدا روی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound perspective",
+      "Meanings": [
+        "پرسپکتیو صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound poem",
+      "Meanings": [
+        "شعر ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound print",
+      "Meanings": [
+        "نسخه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound projection",
+      "Meanings": [
+        "پروژکتور صدادار"
+      ]
+    },
+    {
+      "EnglishWord": "sound proof booth",
+      "Meanings": [
+        "اتاقک عایق صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound proofed booth",
+      "Meanings": [
+        "روکش حفظ دوربین از صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound proofed cabin",
+      "Meanings": [
+        "اتاق ضد صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound recorder",
+      "Meanings": [
+        "ضبط صوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound recording",
+      "Meanings": [
+        "صدابرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound recording equipment",
+      "Meanings": [
+        "دستگاه ضبط صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound recordist",
+      "Meanings": [
+        "صدابردار / متصدی ضبط صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound release negative",
+      "Meanings": [
+        "نسخه منفی صدای پخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound report",
+      "Meanings": [
+        "گزارش صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound rushes",
+      "Meanings": [
+        "روزانه ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound shadow",
+      "Meanings": [
+        "سایه صوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound speed",
+      "Meanings": [
+        "سرعت فیلم ناطق‌",
+        "سرعت ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound stripe",
+      "Meanings": [
+        "صدای خطی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound studio",
+      "Meanings": [
+        "استودیوی ضبط صدا",
+        "استودیوی مجهز صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound supervisor",
+      "Meanings": [
+        "سرپرست صدابرداری‌",
+        "مسوول صدا / ناظر یا مهندس صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound take",
+      "Meanings": [
+        "فیلمبرداری ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "sound track",
+      "Meanings": [
+        "باند صدا",
+        "حاشیه صدا",
+        "حاشیه صوتی‌",
+        "حاشیه لبه صدا",
+        "لبه صدا",
+        "نوار صدا",
+        "نوار صوتی‌",
+        "نوار یا حاشیه صوتی‌",
+        "واحد متحرک ضبط صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound unit",
+      "Meanings": [
+        "گروه صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound work print",
+      "Meanings": [
+        "نسخه کار ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "source of archival copy",
+      "Meanings": [
+        "منابع به دست آوردن نسخه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "sous titre",
+      "Meanings": [
+        "زیرنویس واژه فرانسوی‌",
+        "میان نویس واژه فرانسوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sovcolor",
+      "Meanings": [
+        "سووکالر"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "محدوده‌"
+      ]
+    },
+    {
+      "EnglishWord": "spacer",
+      "Meanings": [
+        "حایل‌"
+      ]
+    },
+    {
+      "EnglishWord": "spacing",
+      "Meanings": [
+        "لیدر گذاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "spacing guid",
+      "Meanings": [
+        "نمودار فواصل‌"
+      ]
+    },
+    {
+      "EnglishWord": "spaghetti",
+      "Meanings": [
+        "فیلم فشرده درون دوربین واژه ایتالیایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sparks",
+      "Meanings": [
+        "برقکار"
+      ]
+    },
+    {
+      "EnglishWord": "spatial depth",
+      "Meanings": [
+        "عمق فضایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spatial frequency",
+      "Meanings": [
+        "فرکانس فاصله‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "spatial frequency filteing",
+      "Meanings": [
+        "تصفیه فرکانس فاصله‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "speaker cord or cable",
+      "Meanings": [
+        "سیم بلندگو"
+      ]
+    },
+    {
+      "EnglishWord": "special ability",
+      "Meanings": [
+        "قابلیت ویژه‌"
+      ]
+    },
+    {
+      "EnglishWord": "special color filter",
+      "Meanings": [
+        "فیلتر رنگین مخصوص‌"
+      ]
+    },
+    {
+      "EnglishWord": "special effect",
+      "Meanings": [
+        "اثرات ویژه‌",
+        "جلوه‌های خاص‌",
+        "نیرنگ تصویری در صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "special effect man",
+      "Meanings": [
+        "متخصص جلوه‌های خاص / متصدی تهیه افه‌های مخصوص‌"
+      ]
+    },
+    {
+      "EnglishWord": "special effect star filter",
+      "Meanings": [
+        "فیلتر مخصوص ستاره ساز"
+      ]
+    },
+    {
+      "EnglishWord": "special effects",
+      "Meanings": [
+        "اثرات مخصوص‌",
+        "افکتهای مخصوص‌",
+        "افه‌های خاص‌",
+        "افه‌های مخصوص‌",
+        "تاثیرات ویژه‌",
+        "تروکاژ",
+        "تمهیدات مخصوص‌",
+        "جلوه‌های مخصوص‌",
+        "جلوه‌های ویژه‌",
+        "حقه‌های سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "special gravity",
+      "Meanings": [
+        "جاذبه ویژه‌"
+      ]
+    },
+    {
+      "EnglishWord": "special montion",
+      "Meanings": [
+        "مانسیون مخصوص‌"
+      ]
+    },
+    {
+      "EnglishWord": "specification",
+      "Meanings": [
+        "تعیین مشخصات‌"
+      ]
+    },
+    {
+      "EnglishWord": "spectator",
+      "Meanings": [
+        "بیننده / تماشاگر"
+      ]
+    },
+    {
+      "EnglishWord": "spectra",
+      "Meanings": [
+        "نورسنج مخصوص خواندن نور مستقیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "spectrum",
+      "Meanings": [
+        "طیف‌"
+      ]
+    },
+    {
+      "EnglishWord": "spectrum visible",
+      "Meanings": [
+        "طیف هریی‌"
+      ]
+    },
+    {
+      "EnglishWord": "speech track",
+      "Meanings": [
+        "لبه گفتار"
+      ]
+    },
+    {
+      "EnglishWord": "speed",
+      "Meanings": [
+        "حساسیت عبور نور عدسی / ظرفیت عبور نورعدسی‌",
+        "سرعت / حساسیت‌",
+        "سرعت در سینما"
+      ]
+    },
+    {
+      "EnglishWord": "speed / grain ratio",
+      "Meanings": [
+        "نسبت حساسیت",
+        "دانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed control switch",
+      "Meanings": [
+        "کلید تند و کند دستگاه‌",
+        "کلید حرکت تند و کند دستگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed controller",
+      "Meanings": [
+        "تنظیم کننده سرعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed governor",
+      "Meanings": [
+        "دستگاه سرعت خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "speed indicator",
+      "Meanings": [
+        "شاخص سرعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed locking knob",
+      "Meanings": [
+        "دکمه قفل کننده سرعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed meter",
+      "Meanings": [
+        "سرعت سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed of lens",
+      "Meanings": [
+        "سرعت عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed regulator",
+      "Meanings": [
+        "تنظیم کننده سرعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "speed switch",
+      "Meanings": [
+        "کلید سرعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "spherical aberration",
+      "Meanings": [
+        "خطای کرویت‌"
+      ]
+    },
+    {
+      "EnglishWord": "spherical lens",
+      "Meanings": [
+        "عدسی کروی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spider",
+      "Meanings": [
+        "جعبه تقسیم سیمهای برق در استودیوی فیلمبرداری‌",
+        "عنکبوتی‌",
+        "مثلث عنکبوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spilt reel",
+      "Meanings": [
+        "حلقه دو نیمه‌"
+      ]
+    },
+    {
+      "EnglishWord": "spilt screen",
+      "Meanings": [
+        "تقسیم بندی پرده‌",
+        "تقسیم کادر به صحنه‌های مختلف‌",
+        "نمای دو نیمه‌",
+        "پرده تصویر قسمت شده‌",
+        "پرده تقسیم شده‌",
+        "پرده دو نیمه‌",
+        "پرده چند قسمتی مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "spilt screen device",
+      "Meanings": [
+        "تکنیک صحنه تقسیم شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "spilt screen montage",
+      "Meanings": [
+        "مونتاژ پرده دو نیمه‌"
+      ]
+    },
+    {
+      "EnglishWord": "spilt screen shot",
+      "Meanings": [
+        "شات مشترک‌",
+        "نمای دو نیمه‌"
+      ]
+    },
+    {
+      "EnglishWord": "spilt sound",
+      "Meanings": [
+        "صدابرداری جدا"
+      ]
+    },
+    {
+      "EnglishWord": "spindles",
+      "Meanings": [
+        "دوچرخ کوچک گردنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "spiral wipe",
+      "Meanings": [
+        "روبش مارپیچی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spirital level",
+      "Meanings": [
+        "تراز الکلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "splice",
+      "Meanings": [
+        "پیوند",
+        "چسبکاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "splice  to",
+      "Meanings": [
+        "پیوند کردن‌",
+        "چسباندن‌"
+      ]
+    },
+    {
+      "EnglishWord": "splicer",
+      "Meanings": [
+        "دستگاه فیلم چسبان‌",
+        "دستگاه فیلم چسبان دستی‌",
+        "دستگاه متصل ساختن قطعات فیلم به یکدیگر",
+        "دستگاه متصل کننده‌",
+        "دستگاه وصل نوار فیلم‌",
+        "دستگاه پیوند دهنده قطعات فیلم‌",
+        "دستگاه چسباندن فیلم‌",
+        "فیلم چسبان‌",
+        "قیچی مخصوص مونتاژ",
+        "پیوند افزار",
+        "چسباننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "splicing",
+      "Meanings": [
+        "به هم چسباندن قطعات مختلف فیلم چاپ شده‌",
+        "چسباندن فیلم‌",
+        "چسبکاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "splicing cement",
+      "Meanings": [
+        "چسب فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "splicing girl",
+      "Meanings": [
+        "برش گر"
+      ]
+    },
+    {
+      "EnglishWord": "splicing tape",
+      "Meanings": [
+        "نوار چسب / ویرایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "splicing unit",
+      "Meanings": [
+        "دستگاه فیلم چسبان‌"
+      ]
+    },
+    {
+      "EnglishWord": "splilt diopter",
+      "Meanings": [
+        "نیمه دیوپتر"
+      ]
+    },
+    {
+      "EnglishWord": "splilt field diopter lens",
+      "Meanings": [
+        "عدسی دیوپتری نیم میدان‌"
+      ]
+    },
+    {
+      "EnglishWord": "splilt field lens",
+      "Meanings": [
+        "عدسی دارای میدان دید تقسیم شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "splilt frame",
+      "Meanings": [
+        "قاب دو نیمه / نیمه قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "splilt image",
+      "Meanings": [
+        "تصویر منشعب‌",
+        "تصویری از جزء"
+      ]
+    },
+    {
+      "EnglishWord": "splilt image range finder",
+      "Meanings": [
+        "حوزه یاب دو تصویره‌",
+        "منظره یاب دو تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "splitting focus",
+      "Meanings": [
+        "وضوح منشعب‌"
+      ]
+    },
+    {
+      "EnglishWord": "sponsored film",
+      "Meanings": [
+        "فیلم سفارشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sponsorship",
+      "Meanings": [
+        "حمایت مالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneity",
+      "Meanings": [
+        "خلاقیت سازنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneous",
+      "Meanings": [
+        "خودانگیخته‌"
+      ]
+    },
+    {
+      "EnglishWord": "spontanous cinema",
+      "Meanings": [
+        "سینمای خودانگیخته‌"
+      ]
+    },
+    {
+      "EnglishWord": "spool",
+      "Meanings": [
+        "قرقره‌"
+      ]
+    },
+    {
+      "EnglishWord": "spool arms",
+      "Meanings": [
+        "بازوهای نگهدارنده قرقره‌های فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "spool wound film",
+      "Meanings": [
+        "فیلم قرقره پیچ‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot",
+      "Meanings": [
+        "محل‌",
+        "پروژکتور"
+      ]
+    },
+    {
+      "EnglishWord": "spot effect",
+      "Meanings": [
+        "افکت موضعی و زودگذر"
+      ]
+    },
+    {
+      "EnglishWord": "spot effects",
+      "Meanings": [
+        "افکت‌های موضعی‌",
+        "صداهای موضعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot lamp",
+      "Meanings": [
+        "چراغ نقطه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot light",
+      "Meanings": [
+        "نور شدید نقطه‌ای‌",
+        "نور لکه‌ای‌",
+        "پروژکتور نقطه‌ای‌",
+        "چراغ اسپات / نور لکه‌ای‌",
+        "چراغ لکه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot lighting",
+      "Meanings": [
+        "نور نقطه‌ای‌",
+        "نورپردازی موضعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot lights",
+      "Meanings": [
+        "منابع نورافکنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot meter",
+      "Meanings": [
+        "نقطه سنج / نورسنج نقطه‌ای‌",
+        "نورسنج اسپات‌"
+      ]
+    },
+    {
+      "EnglishWord": "spot metering",
+      "Meanings": [
+        "سنجش اکسپوز نقطه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "spotting",
+      "Meanings": [
+        "نور نقطه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "spotting list",
+      "Meanings": [
+        "فهرست زیرنویسها"
+      ]
+    },
+    {
+      "EnglishWord": "spracket",
+      "Meanings": [
+        "چرخ دندانه‌دار میز"
+      ]
+    },
+    {
+      "EnglishWord": "spray gun",
+      "Meanings": [
+        "رنگ پاش‌"
+      ]
+    },
+    {
+      "EnglishWord": "spread function",
+      "Meanings": [
+        "تابع انتشار",
+        "تابع تفکیک یا گسترش‌"
+      ]
+    },
+    {
+      "EnglishWord": "spreader lens",
+      "Meanings": [
+        "عدسی نورپراکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "spring driven",
+      "Meanings": [
+        "دوربینهای فنری‌"
+      ]
+    },
+    {
+      "EnglishWord": "spring wound camera",
+      "Meanings": [
+        "دوربین کوکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sprocket",
+      "Meanings": [
+        "استوانه یا طبلک دندانه‌دار",
+        "دندانه‌",
+        "چرخ دندانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sprocket drive",
+      "Meanings": [
+        "دستگاه موتوری چرخ دنده‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "sprocket holes",
+      "Meanings": [
+        "سوراخهایی در دو طرف فیلم استریپ‌",
+        "سوراخهای حاشیه‌",
+        "سوراخهای حاشیه فیلم یا نوار"
+      ]
+    },
+    {
+      "EnglishWord": "sprocket wheel",
+      "Meanings": [
+        "چرخهای دندانه‌ای‌",
+        "چرخ دنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "sprocketless drive",
+      "Meanings": [
+        "رانش بی‌دندانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sprockets and rollers",
+      "Meanings": [
+        "قرقره‌های دندانه‌دار و قرقره‌های بدون دندانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "spun glass",
+      "Meanings": [
+        "پشم شیشه‌"
+      ]
+    },
+    {
+      "EnglishWord": "spyder",
+      "Meanings": [
+        "اسپایدر / گردونه عنکبوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "spyder dolly",
+      "Meanings": [
+        "گردونه عنکبوتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "square wave",
+      "Meanings": [
+        "موج چهار گوش‌"
+      ]
+    },
+    {
+      "EnglishWord": "squash",
+      "Meanings": [
+        "فشار"
+      ]
+    },
+    {
+      "EnglishWord": "squeegee",
+      "Meanings": [
+        "دستگاه آب خشک کن‌"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze",
+      "Meanings": [
+        "عدسیهای فشرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze lens",
+      "Meanings": [
+        "عدسی فشارنده‌",
+        "عدسی فشرده ساز"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze ratio",
+      "Meanings": [
+        "نسبت فشردگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "squeezed picture",
+      "Meanings": [
+        "تصویر فشرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "srl camera",
+      "Meanings": [
+        "دوربین تک عدسی بازتابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stabilization",
+      "Meanings": [
+        "پایدارسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stabilizer",
+      "Meanings": [
+        "پایدارساز"
+      ]
+    },
+    {
+      "EnglishWord": "staccato",
+      "Meanings": [
+        "منقطع واژه فرانسوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stacker",
+      "Meanings": [
+        "دوربین بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "stage",
+      "Meanings": [
+        "صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage acting",
+      "Meanings": [
+        "بازی تیاتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage adaptation",
+      "Meanings": [
+        "اقتباس تیاتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage coordinator",
+      "Meanings": [
+        "مدیر صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage hand",
+      "Meanings": [
+        "کارگر صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage manager",
+      "Meanings": [
+        "مدیر صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stage weight",
+      "Meanings": [
+        "وزنه تعادل دکور"
+      ]
+    },
+    {
+      "EnglishWord": "stand",
+      "Meanings": [
+        "میزکار با تمام وسایل روی آن از جمله دوربین‌",
+        "پایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stand and hand held microphone",
+      "Meanings": [
+        "میکروفن ایستاده و دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stand film",
+      "Meanings": [
+        "فیلم استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "stand in",
+      "Meanings": [
+        "بازیگر بدل‌",
+        "بدل‌"
+      ]
+    },
+    {
+      "EnglishWord": "standard 8 mm film",
+      "Meanings": [
+        "فیلم 8 م م استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard film",
+      "Meanings": [
+        "فیلم استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard format",
+      "Meanings": [
+        "قطع استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard mount",
+      "Meanings": [
+        "پایه استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard size",
+      "Meanings": [
+        "قطع استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "star",
+      "Meanings": [
+        "بازیگر اصلی‌",
+        "ستاره‌",
+        "ستاره فیلم‌",
+        "هنرپیشه اول فیلم‌: زن یا مرد"
+      ]
+    },
+    {
+      "EnglishWord": "star filter",
+      "Meanings": [
+        "صافی ستاره ساز",
+        "فیلتر ستاره ساز"
+      ]
+    },
+    {
+      "EnglishWord": "star system",
+      "Meanings": [
+        "آیین بازیگر پرستی‌",
+        "سیستم ستاره سازی‌",
+        "نظام ستاره سازی‌",
+        "نظام ستاره پروری‌"
+      ]
+    },
+    {
+      "EnglishWord": "staring button",
+      "Meanings": [
+        "دکمه شروع فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "starlet",
+      "Meanings": [
+        "نوستاره‌"
+      ]
+    },
+    {
+      "EnglishWord": "start leader",
+      "Meanings": [
+        "راهنمای سر فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "start mark",
+      "Meanings": [
+        "نشانه شروع‌"
+      ]
+    },
+    {
+      "EnglishWord": "stasis",
+      "Meanings": [
+        "سکون‌"
+      ]
+    },
+    {
+      "EnglishWord": "static",
+      "Meanings": [
+        "ایستا",
+        "ثابت‌",
+        "ساکن‌",
+        "هنرهای ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "static conflict",
+      "Meanings": [
+        "کشمکش راکد"
+      ]
+    },
+    {
+      "EnglishWord": "static marks",
+      "Meanings": [
+        "علایم الکتریسیته ساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "static shot",
+      "Meanings": [
+        "دوربین ساکن / نمای بیحرکت و ثابت‌"
+      ]
+    },
+    {
+      "EnglishWord": "stationary shot",
+      "Meanings": [
+        "نمای ساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "stationary wave",
+      "Meanings": [
+        "موج ساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "steadiness",
+      "Meanings": [
+        "پیوستگی / یکنواختی‌"
+      ]
+    },
+    {
+      "EnglishWord": "steen back",
+      "Meanings": [
+        "میز مونتاژ استین بک‌"
+      ]
+    },
+    {
+      "EnglishWord": "stellavox",
+      "Meanings": [
+        "نام دستگاه ضبط صدا"
+      ]
+    },
+    {
+      "EnglishWord": "stencil methods",
+      "Meanings": [
+        "روشهای استنسیل‌"
+      ]
+    },
+    {
+      "EnglishWord": "step by step contact printer",
+      "Meanings": [
+        "دستگاه چاپ مجاورتی تناوبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "step by step optical printer",
+      "Meanings": [
+        "دستگاه چاپ نوری تناوبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "step printer",
+      "Meanings": [
+        "دستگاه چاپ متناوب‌",
+        "دستگاه چاپ گام به گام‌",
+        "چاپ متناوب / چاپ مرحله‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "step printing",
+      "Meanings": [
+        "چاپ گام به گام‌"
+      ]
+    },
+    {
+      "EnglishWord": "step up transformer",
+      "Meanings": [
+        "ترانسفورماتور افزاینده‌"
+      ]
+    },
+    {
+      "EnglishWord": "stereo film",
+      "Meanings": [
+        "فیلم استریو"
+      ]
+    },
+    {
+      "EnglishWord": "stereo type",
+      "Meanings": [
+        "شخصیت‌پردازی کلیشه‌ای‌",
+        "قراردادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stereophonic sound",
+      "Meanings": [
+        "صدای استریوفونیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "stereoscopic film",
+      "Meanings": [
+        "فیلم برجسته / فیلم سه بعدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stereoscopic pair",
+      "Meanings": [
+        "جفت تصویر برجست نما"
+      ]
+    },
+    {
+      "EnglishWord": "stereoscopic photography",
+      "Meanings": [
+        "فیلمبرداری سه بعدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "still",
+      "Meanings": [
+        "عکس‌"
+      ]
+    },
+    {
+      "EnglishWord": "still camera",
+      "Meanings": [
+        "دوربین عکاسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "still cameraman",
+      "Meanings": [
+        "عکاس صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "still frame",
+      "Meanings": [
+        "قاب ایستا / قاب ایستایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "still picture",
+      "Meanings": [
+        "عکس ساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "still projection lever",
+      "Meanings": [
+        "کلید جهت ثابت نگهداشتن فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "stills man",
+      "Meanings": [
+        "عکاس صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stills photographer",
+      "Meanings": [
+        "عکاس صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stock",
+      "Meanings": [
+        "فیلم خام‌"
+      ]
+    },
+    {
+      "EnglishWord": "stock footage",
+      "Meanings": [
+        "فیلم بایگانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stock library shot",
+      "Meanings": [
+        "نمای بایگانی شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "stock shot",
+      "Meanings": [
+        "تصویر پیش آماده‌",
+        "فیلم یا نمای بایگانی شده‌",
+        "نماهایی بدون هویت خاص‌",
+        "نمای آرشیوی‌",
+        "نمای بایگانی‌",
+        "نمای بایگانی شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop",
+      "Meanings": [
+        "دیافراگم‌",
+        "شاسی توقف‌",
+        "هر درجه بسته شدن دیافراگم‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop bath",
+      "Meanings": [
+        "محلول متوقف کننده‌",
+        "مرحله حمام توقف‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop frame",
+      "Meanings": [
+        "قاب ایستا / قاب ایستایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop leader",
+      "Meanings": [
+        "نوار راهنمای پایان"
+      ]
+    },
+    {
+      "EnglishWord": "stop motion",
+      "Meanings": [
+        "تصویر ایستا",
+        "تک عکس گیری‌",
+        "قاب به قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop motion camera",
+      "Meanings": [
+        "دوربین قاب به قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop motion photography",
+      "Meanings": [
+        "فیلمبرداری با وقفه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop motion projector",
+      "Meanings": [
+        "دستگاه نمایش تک قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop motion shooting",
+      "Meanings": [
+        "فیلمبرداری قاب به قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "stop scale",
+      "Meanings": [
+        "مقیاس دیافراگم‌"
+      ]
+    },
+    {
+      "EnglishWord": "stopped motion",
+      "Meanings": [
+        "حرکت متوقف شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "stopping down",
+      "Meanings": [
+        "باریک کردن‌",
+        "درجه عدسی را بستن‌",
+        "کاهش دادن اندازه روزنه عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "storage temperature",
+      "Meanings": [
+        "دمای انبار فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "story board",
+      "Meanings": [
+        "تصاویر راهنما",
+        "جدول نمایشی‌",
+        "سناریو",
+        "سناریوی مصور شده‌",
+        "شرح صحنه‌های داستان‌",
+        "طرحنامه‌",
+        "فیلمنامه مصور"
+      ]
+    },
+    {
+      "EnglishWord": "story board artist",
+      "Meanings": [
+        "داستان نماپرداز"
+      ]
+    },
+    {
+      "EnglishWord": "story boarding",
+      "Meanings": [
+        "داستان نمایی‌",
+        "طراح داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "story continuity",
+      "Meanings": [
+        "تداوم داستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "story film",
+      "Meanings": [
+        "فیلم داستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "story outline",
+      "Meanings": [
+        "طرح داستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "story picture",
+      "Meanings": [
+        "فیلم داستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "story telling",
+      "Meanings": [
+        "روایت گویی‌"
+      ]
+    },
+    {
+      "EnglishWord": "story treatment",
+      "Meanings": [
+        "خلاصه داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "straight cut",
+      "Meanings": [
+        "قطع مستقیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "straight part",
+      "Meanings": [
+        "نقش عادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "street film",
+      "Meanings": [
+        "فیلم خیابانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stress markings",
+      "Meanings": [
+        "خراش‌"
+      ]
+    },
+    {
+      "EnglishWord": "stretch",
+      "Meanings": [
+        "کشش‌"
+      ]
+    },
+    {
+      "EnglishWord": "stretching",
+      "Meanings": [
+        "کش آوردن / کش دادن‌"
+      ]
+    },
+    {
+      "EnglishWord": "strike  to",
+      "Meanings": [
+        "برچیدن دکور",
+        "پیاده کرده دکور",
+        "پیاده و خارج کردن دکورها و وسایل صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "strip cartoon",
+      "Meanings": [
+        "داستان مصور"
+      ]
+    },
+    {
+      "EnglishWord": "stripe",
+      "Meanings": [
+        "حاشیه‌",
+        "نوار"
+      ]
+    },
+    {
+      "EnglishWord": "striped film",
+      "Meanings": [
+        "فیلم حاشیه دار"
+      ]
+    },
+    {
+      "EnglishWord": "striping",
+      "Meanings": [
+        "حاشیه کشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "strobe",
+      "Meanings": [
+        "لرزش چشمک تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "strobe light",
+      "Meanings": [
+        "لامپ چشمکزن‌"
+      ]
+    },
+    {
+      "EnglishWord": "strobe lighting",
+      "Meanings": [
+        "نورپردازی با چراغهای چشمکزن‌"
+      ]
+    },
+    {
+      "EnglishWord": "strobing",
+      "Meanings": [
+        "جلوه استروبوسکوپی‌",
+        "چشمک تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "strobing light",
+      "Meanings": [
+        "نور چشمکزن‌"
+      ]
+    },
+    {
+      "EnglishWord": "stroboscope",
+      "Meanings": [
+        "چرخشنما"
+      ]
+    },
+    {
+      "EnglishWord": "stroboscopic",
+      "Meanings": [
+        "ترکیب سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stroboscopic effect",
+      "Meanings": [
+        "جلوه استروبوسکوپی‌"
+      ]
+    },
+    {
+      "EnglishWord": "structuralism",
+      "Meanings": [
+        "ساختارنگری‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio",
+      "Meanings": [
+        "استودیو واژه ایتالیایی‌",
+        "کارگاه واژه ایتالیایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio camera",
+      "Meanings": [
+        "دوربین استودیو واژه ایتالیایی‌",
+        "دوربین استودیویی / دوربین کارگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio complex",
+      "Meanings": [
+        "مجتمع کارگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio decoration",
+      "Meanings": [
+        "دکور"
+      ]
+    },
+    {
+      "EnglishWord": "studio editing",
+      "Meanings": [
+        "تدوین استودیویی‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio executive",
+      "Meanings": [
+        "مسوولین اجرایی استودیو"
+      ]
+    },
+    {
+      "EnglishWord": "studio floor manager",
+      "Meanings": [
+        "مدیر صحنه استودیو"
+      ]
+    },
+    {
+      "EnglishWord": "studio light",
+      "Meanings": [
+        "لامپ صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio shooting",
+      "Meanings": [
+        "فیلمبرداری کارگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "studio shot",
+      "Meanings": [
+        "نمای کارگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stunt arranger",
+      "Meanings": [
+        "تنظیم کننده حرکات بدلها"
+      ]
+    },
+    {
+      "EnglishWord": "stunt man",
+      "Meanings": [
+        "بدل برای صحنه‌های خطرناک‌",
+        "هنرپیشه بدل‌"
+      ]
+    },
+    {
+      "EnglishWord": "style",
+      "Meanings": [
+        "سبک‌",
+        "سبک فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "stylisation",
+      "Meanings": [
+        "سبکی کردن‌",
+        "پیروی از سبک‌"
+      ]
+    },
+    {
+      "EnglishWord": "stylistic motif",
+      "Meanings": [
+        "مایه سبک شناختی‌"
+      ]
+    },
+    {
+      "EnglishWord": "stylization",
+      "Meanings": [
+        "اسلوب کاری‌",
+        "اسلوب گرایی‌",
+        "سبک پردازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sub genre",
+      "Meanings": [
+        "نوع فرعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sub plot",
+      "Meanings": [
+        "شاخه فرعی داستان‌",
+        "طرحهای فرعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sub section title",
+      "Meanings": [
+        "عنوان قسمت‌"
+      ]
+    },
+    {
+      "EnglishWord": "sub standard film",
+      "Meanings": [
+        "فیلم باریک‌",
+        "فیلم زیر استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "sub standard size",
+      "Meanings": [
+        "قطع زیر استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "sub title",
+      "Meanings": [
+        "زیرنویس‌"
+      ]
+    },
+    {
+      "EnglishWord": "sub titling",
+      "Meanings": [
+        "زیرنویسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "subject",
+      "Meanings": [
+        "سوژه‌",
+        "موضوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "subject description",
+      "Meanings": [
+        "توصیف موضع‌"
+      ]
+    },
+    {
+      "EnglishWord": "subject luminance ratio",
+      "Meanings": [
+        "نسبت درخشندگی موضوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "subject movement",
+      "Meanings": [
+        "حرکات سوژه‌",
+        "حرکت موضوع‌",
+        "حرکت موضوع در کادر"
+      ]
+    },
+    {
+      "EnglishWord": "subject reversing",
+      "Meanings": [
+        "تغییر جهت موضوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "subjective",
+      "Meanings": [
+        "ذهنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "subjective camera",
+      "Meanings": [
+        "دوربین ذهنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "subjective shot",
+      "Meanings": [
+        "نمای ذهنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "substantive process",
+      "Meanings": [
+        "فرایند چاپ خودکفا"
+      ]
+    },
+    {
+      "EnglishWord": "substratum",
+      "Meanings": [
+        "زیر لایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "subtitle cue sheet",
+      "Meanings": [
+        "فهرست زیرنویسها"
+      ]
+    },
+    {
+      "EnglishWord": "subtitle release print",
+      "Meanings": [
+        "نسخه پخش زیرنویس دار"
+      ]
+    },
+    {
+      "EnglishWord": "subtractive",
+      "Meanings": [
+        "ترکیب رنگها به طریق تفریقی‌",
+        "رنگهای تفریقی زرد",
+        "ارغوانی‌",
+        "زنگاری‌",
+        "رنگهای تقریقی‌",
+        "رنگهای زرد",
+        "سیستم تفریقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "subtractive primary",
+      "Meanings": [
+        "رنگ اولیه تفریقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "subtractor",
+      "Meanings": [
+        "تفریق کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "successive frame process",
+      "Meanings": [
+        "فیلمبرداری تک قاب با سه صافی رنگی جداگانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "suction cup",
+      "Meanings": [
+        "پایه بادکشی‌",
+        "پایه مکنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "suitability",
+      "Meanings": [
+        "مناسب بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "sulphid track",
+      "Meanings": [
+        "لبه سولفیدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sum fo the conjugate distances",
+      "Meanings": [
+        "مجموع فواصل به هم پیوسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "summary plot",
+      "Meanings": [
+        "خلاصه طرح‌"
+      ]
+    },
+    {
+      "EnglishWord": "sun arc",
+      "Meanings": [
+        "ارک خورشیدی برای تولید مصنوعی نور خورشید"
+      ]
+    },
+    {
+      "EnglishWord": "sun arc light",
+      "Meanings": [
+        "نور لامپ قوسی 225 انگسترم‌"
+      ]
+    },
+    {
+      "EnglishWord": "sunk mount",
+      "Meanings": [
+        "پایه فرورفته‌"
+      ]
+    },
+    {
+      "EnglishWord": "sunshade",
+      "Meanings": [
+        "آفتابگیر",
+        "سایبان عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "super",
+      "Meanings": [
+        "برهم نمایی‌",
+        "رویهم قرار گرفتن دو تصویر یا بیشتر روی یک فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "super - impose",
+      "Meanings": [
+        "ادغام / انطباق‌",
+        "برهم نمایی‌",
+        "ترکیب دو تصویر روی هم‌",
+        "روی هم نمایی‌",
+        "منطبق‌",
+        "چاپ دو تصویر",
+        "چاپ مضاعف‌"
+      ]
+    },
+    {
+      "EnglishWord": "super - impose  to",
+      "Meanings": [
+        "تصویر مضاعف‌",
+        "جفت هم کردن / روی هم جفت کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "super - imposing",
+      "Meanings": [
+        "قرار دادن دو یا چند تصویر رویهم‌"
+      ]
+    },
+    {
+      "EnglishWord": "super - imposition",
+      "Meanings": [
+        "انطباق دو تصویر",
+        "بر هم نماشده‌",
+        "برهم نمایی‌",
+        "تداخل تصویری‌",
+        "تصاویر مضاعف‌",
+        "تصویر جفتی‌",
+        "تصویر مضاعف‌",
+        "تصویر چندگانه‌",
+        "دوبلان / دو تصویر روی هم‌",
+        "روی هم افتادن چند تصویر",
+        "فیلمبرداری مضاعف‌",
+        "نماهای برهم‌",
+        "چاپ دو تصویر روی هم‌",
+        "چاپ دو گانه‌",
+        "چاپ مضاعف‌"
+      ]
+    },
+    {
+      "EnglishWord": "super 8",
+      "Meanings": [
+        "سوپر هشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "super 8 mm film",
+      "Meanings": [
+        "فیلم سوپر 8 م م‌"
+      ]
+    },
+    {
+      "EnglishWord": "super 8 sound",
+      "Meanings": [
+        "ضبط صوت سوپرایت ساند"
+      ]
+    },
+    {
+      "EnglishWord": "super directional microphone",
+      "Meanings": [
+        "میکروفن کاملا تک راستا"
+      ]
+    },
+    {
+      "EnglishWord": "super eight",
+      "Meanings": [
+        "سوپر هشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "super eight mm. camera",
+      "Meanings": [
+        "دوربین سوپر هشت میلیمتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "super imposure",
+      "Meanings": [
+        "برهم نمایی‌",
+        "چاپ مضاعف‌"
+      ]
+    },
+    {
+      "EnglishWord": "super panavision",
+      "Meanings": [
+        "سوپر پاناویژن‌"
+      ]
+    },
+    {
+      "EnglishWord": "super scope",
+      "Meanings": [
+        "سوپرسکوپ‌",
+        "سوپرسکوپ [پرده عریض با نسخه منفی 35 م م معمولی و چاپ با عدسی آنامورفیک"
+      ]
+    },
+    {
+      "EnglishWord": "super speed",
+      "Meanings": [
+        "سرعت خیلی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "super technirama 70",
+      "Meanings": [
+        "سوپرتکنی راما"
+      ]
+    },
+    {
+      "EnglishWord": "superadditivity",
+      "Meanings": [
+        "افزایش خواص‌"
+      ]
+    },
+    {
+      "EnglishWord": "supervising animator",
+      "Meanings": [
+        "ناظر متحرک سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "supervising editor",
+      "Meanings": [
+        "ناظر تدوین‌"
+      ]
+    },
+    {
+      "EnglishWord": "supervisor",
+      "Meanings": [
+        "ناظر تولید"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary lens",
+      "Meanings": [
+        "عدسی اضافی‌",
+        "عدسی مکمل‌"
+      ]
+    },
+    {
+      "EnglishWord": "supply cable",
+      "Meanings": [
+        "کابل تغذیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "حامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "support bracket",
+      "Meanings": [
+        "پایه گونیایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "supporting cast",
+      "Meanings": [
+        "بازیگران نقشهای فرعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "supporting part",
+      "Meanings": [
+        "نقش تقویت کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "supporting player",
+      "Meanings": [
+        "بازیگر پشتیبانی کننده‌",
+        "هنرپیشه کمکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "supporting programme",
+      "Meanings": [
+        "برنامه جنبی / نمایش جنبی‌",
+        "برنامه فرعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "surge cruuent",
+      "Meanings": [
+        "جریان آغازین‌"
+      ]
+    },
+    {
+      "EnglishWord": "surrealisme",
+      "Meanings": [
+        "فراواقع گرایی واژه فرانسوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "suspense",
+      "Meanings": [
+        "اضطراب‌",
+        "تعلیق‌",
+        "دلهره‌",
+        "دلهره داشتن‌",
+        "دلهره‌آمیز",
+        "نفس گیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "suspenseful composition",
+      "Meanings": [
+        "ترکیب بندی تعلیقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sustain pedal",
+      "Meanings": [
+        "پدال نگهدارنده صدا"
+      ]
+    },
+    {
+      "EnglishWord": "swinging crane",
+      "Meanings": [
+        "جرثقیل قابل چرخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "swish pan",
+      "Meanings": [
+        "حرکت خیلی سریع پن‌",
+        "حرکت چرخشی سریع دوربین در مسیر افقی‌",
+        "کادرگیری سریع از سرتاسر یک صحنه ساکن و ثابت‌",
+        "پن جهشی‌",
+        "پن سریع‌",
+        "چرخش سریع‌",
+        "چرخش سریع دوربین‌",
+        "چرخش شلاقی‌",
+        "چرخش ضربتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "switch",
+      "Meanings": [
+        "سوییچ / کلید"
+      ]
+    },
+    {
+      "EnglishWord": "switch back  to",
+      "Meanings": [
+        "بازگشت به عقب / برش متناوب حادثه موازی یا پیشین‌",
+        "برگشت به گذشته‌",
+        "تدوین متناوب‌",
+        "رجعت به گذشته‌"
+      ]
+    },
+    {
+      "EnglishWord": "switch back suspense",
+      "Meanings": [
+        "تدوین متناوب تعلیق دار"
+      ]
+    },
+    {
+      "EnglishWord": "switching",
+      "Meanings": [
+        "کلیدزنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "switching panel",
+      "Meanings": [
+        "صفحه تعویض تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical lens",
+      "Meanings": [
+        "عدسی متقارن‌"
+      ]
+    },
+    {
+      "EnglishWord": "symphonic documentary",
+      "Meanings": [
+        "فیلم مستند موزون‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync",
+      "Meanings": [
+        "بطور همزمان‌",
+        "تطبیق صدا و تصویر",
+        "دستگاه هم زمان کننده‌",
+        "ضبط صوت همزمان‌",
+        "همزمان‌",
+        "همگاه‌",
+        "همگاه در مورد صدا و تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "sync  hronous",
+      "Meanings": [
+        "همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync beep",
+      "Meanings": [
+        "سوت همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync cable",
+      "Meanings": [
+        "کابل همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync editing",
+      "Meanings": [
+        "تدوین همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync gen",
+      "Meanings": [
+        "مولد علامت همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync generator",
+      "Meanings": [
+        "مولد علامت همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync in",
+      "Meanings": [
+        "همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync leader",
+      "Meanings": [
+        "راهنما? همگاه? نوار"
+      ]
+    },
+    {
+      "EnglishWord": "sync mark",
+      "Meanings": [
+        "علامت سینک‌",
+        "نشانه شروع‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync pip",
+      "Meanings": [
+        "سوت همگاهی‌",
+        "صدای بیب‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync pop",
+      "Meanings": [
+        "علامت همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync pulse",
+      "Meanings": [
+        "تپش همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync signal",
+      "Meanings": [
+        "علامت سینک‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync sound",
+      "Meanings": [
+        "صدای همزمان‌",
+        "صدای همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync tone oscillator",
+      "Meanings": [
+        "نوسان سنج نوای همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "sync-bench",
+      "Meanings": [
+        "میز سینک‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchrone",
+      "Meanings": [
+        "همزمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronex sound system",
+      "Meanings": [
+        "صدابرداری سر صحنه / صدابرداری همزمان‌",
+        "صدابرداری همزمان سرصحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronisation",
+      "Meanings": [
+        "همزمانی صوت و تصویر",
+        "همگاه سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronisation of the senses",
+      "Meanings": [
+        "همزمانی حسها"
+      ]
+    },
+    {
+      "EnglishWord": "synchronised",
+      "Meanings": [
+        "منطبق‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronising",
+      "Meanings": [
+        "همگاه کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronism",
+      "Meanings": [
+        "انطباق‌",
+        "همزمانی‌",
+        "همگاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronism film",
+      "Meanings": [
+        "همزمانی تصویر و صدا"
+      ]
+    },
+    {
+      "EnglishWord": "synchronization",
+      "Meanings": [
+        "برابرسازی‌",
+        "سینکرون کردن‌",
+        "علامت همزمانی‌",
+        "همزمانی‌",
+        "همزمان بودن صدا و تصویر",
+        "همزمان سازی‌",
+        "همزمان گرداندن‌",
+        "همگاهی‌",
+        "همگاه سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronization of rushes",
+      "Meanings": [
+        "همگاه‌سازی فیلمهای روزانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronize",
+      "Meanings": [
+        "بطور همزمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronized dialogue",
+      "Meanings": [
+        "صحنه‌های گفتگودار"
+      ]
+    },
+    {
+      "EnglishWord": "synchronized recording",
+      "Meanings": [
+        "صدابرداری همزمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronized sound",
+      "Meanings": [
+        "صدای اصلی صحنه بطور همزمان‌",
+        "صدای همزمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronizer",
+      "Meanings": [
+        "دستگاه همزمان کننده‌",
+        "همزمان ساز",
+        "همگاه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "synchronizing",
+      "Meanings": [
+        "همگاه صدا و تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous",
+      "Meanings": [
+        "صدابرداری مستقیم‌",
+        "همزمان‌",
+        "همگاه‌",
+        "همگاه در مورد صدا و تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous drive",
+      "Meanings": [
+        "رانش همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous motor",
+      "Meanings": [
+        "موتور سینک‌",
+        "موتور همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous speed",
+      "Meanings": [
+        "سرعت همزمان و منطبق‌",
+        "سرعت همگاه‌",
+        "صدای همگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "synchrony distance",
+      "Meanings": [
+        "فاصله همزمانی صدا و تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "synchrostart",
+      "Meanings": [
+        "سینکروستارت‌"
+      ]
+    },
+    {
+      "EnglishWord": "syncope",
+      "Meanings": [
+        "شیوه ضدضرب‌",
+        "ضدضرب / سکته‌"
+      ]
+    },
+    {
+      "EnglishWord": "synesthesia",
+      "Meanings": [
+        "ترکیب حسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "synopsis",
+      "Meanings": [
+        "خلاصه داستان‌",
+        "خلاصه سناریو",
+        "خلاصه فیلمنامه‌",
+        "خلاصه مطلب‌",
+        "خلاصه نوشته شده‌ای از بازیهای اصلی و فصول‌",
+        "خلاصه‌ای جامع از داستان فیلمنامه‌",
+        "داستان‌",
+        "عصاره نویسی‌",
+        "چکیده فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "synopsis of plot",
+      "Meanings": [
+        "خلاصه داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "synthesis",
+      "Meanings": [
+        "ترکیب‌"
+      ]
+    },
+    {
+      "EnglishWord": "synthesizer",
+      "Meanings": [
+        "ترکیب کننده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic",
+      "Meanings": [
+        "ناطق و صدای موزیک‌",
+        "هم نهاده‌"
+      ]
+    },
+    {
+      "EnglishWord": "syrvet oab",
+      "Meanings": [
+        "پن کنکاشی / پن ممیزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "system shot",
+      "Meanings": [
+        "شات کلی‌"
+      ]
+    }
+  ]
+}

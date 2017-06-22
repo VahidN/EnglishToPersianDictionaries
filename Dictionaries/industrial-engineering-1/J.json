@@ -1,0 +1,539 @@
+﻿{
+  "Group": "J",
+  "Entries": 73,
+  "Words": [
+    {
+      "EnglishWord": "jackson networks",
+      "Meanings": [
+        "شبکه‌های جکسون"
+      ]
+    },
+    {
+      "EnglishWord": "jam",
+      "Meanings": [
+        "فشرده شدن",
+        "گیرکردن",
+        "تراکم",
+        "مسدودکردن"
+      ]
+    },
+    {
+      "EnglishWord": "jamming",
+      "Meanings": [
+        "انسداد",
+        "مسدودکردن"
+      ]
+    },
+    {
+      "EnglishWord": "jaw",
+      "Meanings": [
+        "فک گیره",
+        "فک",
+        "گیره جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "jaw chuck",
+      "Meanings": [
+        "سه نظام فکی"
+      ]
+    },
+    {
+      "EnglishWord": "jerk",
+      "Meanings": [
+        "تکان تکان",
+        "برخورد",
+        "ضربه",
+        "کشش"
+      ]
+    },
+    {
+      "EnglishWord": "jet",
+      "Meanings": [
+        "جت",
+        "فواره",
+        "سوخت پاش",
+        "افشانه",
+        "جریان",
+        "جهش",
+        "دهانه",
+        "شیر"
+      ]
+    },
+    {
+      "EnglishWord": "jet molding",
+      "Meanings": [
+        "قالب گیری تزریقی",
+        "قالب گیری بافشار",
+        "قالب گیری فواره ای"
+      ]
+    },
+    {
+      "EnglishWord": "jet smelting process",
+      "Meanings": [
+        "طریقه ذوب جتی",
+        "فرآیند ذوب جتی"
+      ]
+    },
+    {
+      "EnglishWord": "jib crane",
+      "Meanings": [
+        "جرثقیل بازودار"
+      ]
+    },
+    {
+      "EnglishWord": "jig",
+      "Meanings": [
+        "جیگ",
+        "الگوی کار",
+        "الگو",
+        "قید",
+        "راهنمای کار",
+        "راهنما",
+        "گیره",
+        "وسیله هدایت کننده ابزار",
+        "سه نظام"
+      ]
+    },
+    {
+      "EnglishWord": "jig and fixture",
+      "Meanings": [
+        "قیدوبند"
+      ]
+    },
+    {
+      "EnglishWord": "jig bore",
+      "Meanings": [
+        "ماشین دهانه تراش دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "jig borer",
+      "Meanings": [
+        "دستگاه مته دقیق",
+        "ماشین الگوتراش",
+        "ماشین سوراخ تراش راهنما سازی"
+      ]
+    },
+    {
+      "EnglishWord": "jig boring",
+      "Meanings": [
+        "سوراخکاری دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "job",
+      "Meanings": [
+        "کار",
+        "شغل",
+        "وظیفه",
+        "پست"
+      ]
+    },
+    {
+      "EnglishWord": "job analysis",
+      "Meanings": [
+        "کارشکافی",
+        "تجزیه وتحلیل شغل",
+        "تحلیل وبررسی حرفه"
+      ]
+    },
+    {
+      "EnglishWord": "job classification",
+      "Meanings": [
+        "طبقه بندی مشاغل",
+        "طبقه بندی شغل"
+      ]
+    },
+    {
+      "EnglishWord": "job enlargement",
+      "Meanings": [
+        "گسترش عناصرتشکیل دهنده شغل",
+        "گسترش محدوده مشاغل",
+        "توسعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "job evaluation",
+      "Meanings": [
+        "ارزیابی شغل",
+        "ارزشیابی شغل"
+      ]
+    },
+    {
+      "EnglishWord": "job group",
+      "Meanings": [
+        "گروه شغلی",
+        "رسته شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job hazards",
+      "Meanings": [
+        "خطرات شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job hierarchy",
+      "Meanings": [
+        "سلسله مراتب شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job knowledge",
+      "Meanings": [
+        "کاردانی",
+        "معلومات شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job order",
+      "Meanings": [
+        "سفارش کار"
+      ]
+    },
+    {
+      "EnglishWord": "job order costing",
+      "Meanings": [
+        "هزینه یابی سفارش کار"
+      ]
+    },
+    {
+      "EnglishWord": "job planning",
+      "Meanings": [
+        "برنامه ریزی شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job production",
+      "Meanings": [
+        "تولیدتکی",
+        "تکسازی"
+      ]
+    },
+    {
+      "EnglishWord": "job rating",
+      "Meanings": [
+        "ارزیابی شغل",
+        "تقویم شغل",
+        "نرخ گذاری کار"
+      ]
+    },
+    {
+      "EnglishWord": "job satisfaction",
+      "Meanings": [
+        "رضایت شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "job sequence",
+      "Meanings": [
+        "توالی کارها"
+      ]
+    },
+    {
+      "EnglishWord": "job standard",
+      "Meanings": [
+        "معیارکار"
+      ]
+    },
+    {
+      "EnglishWord": "job surrounding",
+      "Meanings": [
+        "شرایط کار",
+        "محیط کار"
+      ]
+    },
+    {
+      "EnglishWord": "job training",
+      "Meanings": [
+        "آموزش حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "job-centered",
+      "Meanings": [
+        "متمرکزروی کار",
+        "کارمدار"
+      ]
+    },
+    {
+      "EnglishWord": "job-shop scheduling",
+      "Meanings": [
+        "زمانبندی کاردرکارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "job-shop work",
+      "Meanings": [
+        "کارگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "job-task pyramid",
+      "Meanings": [
+        "نمودارسازمان رسمی",
+        "هرم وظایف کار",
+        "سلسله مراتب رسمی شغل"
+      ]
+    },
+    {
+      "EnglishWord": "join",
+      "Meanings": [
+        "متصل کردن",
+        "اتصال",
+        "الحاق",
+        "الحاق کردن",
+        "متصل نمودن",
+        "پیوستن",
+        "جفت شدن"
+      ]
+    },
+    {
+      "EnglishWord": "joining rate",
+      "Meanings": [
+        "نرخ اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "joint",
+      "Meanings": [
+        "اتصال",
+        "مفصل",
+        "توام",
+        "مشاع",
+        "مشترک",
+        "بند",
+        "درز",
+        "زانویی",
+        "متصل",
+        "چفت",
+        "لولا",
+        "اتصالی",
+        "جوش",
+        "شکاف",
+        "کاسه نمد",
+        "متحد"
+      ]
+    },
+    {
+      "EnglishWord": "joint  distribution",
+      "Meanings": [
+        "توزیع توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  distribution function",
+      "Meanings": [
+        "تابع توزیع توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  frequency function",
+      "Meanings": [
+        "تابع چگالی توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  gap",
+      "Meanings": [
+        "درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "joint  marginal distribution",
+      "Meanings": [
+        "توزیع حاشیه ای توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  penetration",
+      "Meanings": [
+        "عمق نفوذاتصال"
+      ]
+    },
+    {
+      "EnglishWord": "joint  probability distribution",
+      "Meanings": [
+        "توزیع احتمال توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  probability function",
+      "Meanings": [
+        "تابع احتمال توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  probability table",
+      "Meanings": [
+        "جدول احتمال توام",
+        "جدول احتمال مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint  products",
+      "Meanings": [
+        "محصولات پیوسته",
+        "محصولات توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint  restraint",
+      "Meanings": [
+        "مهاراضافی اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "joint  stock company",
+      "Meanings": [
+        "شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "joint  venture",
+      "Meanings": [
+        "سرمایه گذاری شراکتی",
+        "سرمایه گذاری کلی",
+        "مشارکت خاص"
+      ]
+    },
+    {
+      "EnglishWord": "joint cost function",
+      "Meanings": [
+        "تابع هزینه مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint density",
+      "Meanings": [
+        "چگالی توام"
+      ]
+    },
+    {
+      "EnglishWord": "joint design",
+      "Meanings": [
+        "طرح اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "jointly continuous",
+      "Meanings": [
+        "پیوسته توام"
+      ]
+    },
+    {
+      "EnglishWord": "jolting",
+      "Meanings": [
+        "بالابردن ورهاکردن"
+      ]
+    },
+    {
+      "EnglishWord": "jolt-type machine",
+      "Meanings": [
+        "ماشین رهاکن"
+      ]
+    },
+    {
+      "EnglishWord": "journal",
+      "Meanings": [
+        "دفترروزانه",
+        "ژورنال",
+        "سرمحور",
+        "محوریاتاقان گرد",
+        "یاتاقان گرد",
+        "تکیه گاه اصلی",
+        "حمال",
+        "دفترروزنامه",
+        "محوریاتاقان",
+        "یاتاقان گردمحور"
+      ]
+    },
+    {
+      "EnglishWord": "journal book",
+      "Meanings": [
+        "دفترروزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "journal voucher",
+      "Meanings": [
+        "سندروزنامه",
+        "برگه روزنامه",
+        "سندحسابداری",
+        "مدرک روزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "journalize",
+      "Meanings": [
+        "دردفترروزنامه ثبت کردن",
+        "دردفترروزنامه واردکردن"
+      ]
+    },
+    {
+      "EnglishWord": "joystick",
+      "Meanings": [
+        "دسته فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "judgement",
+      "Meanings": [
+        "قضاوت",
+        "داوری"
+      ]
+    },
+    {
+      "EnglishWord": "judgement methods",
+      "Meanings": [
+        "روشهای نظری"
+      ]
+    },
+    {
+      "EnglishWord": "judgement sampling",
+      "Meanings": [
+        "نمونه برداری منطبق برقضاوت"
+      ]
+    },
+    {
+      "EnglishWord": "jump",
+      "Meanings": [
+        "جهش",
+        "پرش"
+      ]
+    },
+    {
+      "EnglishWord": "jump-cut broach",
+      "Meanings": [
+        "خانکش بادندانه جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "junction",
+      "Meanings": [
+        "نقطه اتصال",
+        "محل ربط",
+        "مفصل",
+        "اتصال",
+        "ارتباط",
+        "انشعاب",
+        "پیوند",
+        "پیوندگاه",
+        "تقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "junior grade employee",
+      "Meanings": [
+        "کارمند دون پایه"
+      ]
+    },
+    {
+      "EnglishWord": "justifiable excuse",
+      "Meanings": [
+        "عذرموجه"
+      ]
+    }
+  ]
+}

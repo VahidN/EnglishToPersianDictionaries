@@ -1,0 +1,2456 @@
+﻿{
+  "Group": "D",
+  "Entries": 407,
+  "Words": [
+    {
+      "EnglishWord": "d  darcy",
+      "Meanings": [
+        "ف دارسی واحد تراوایی"
+      ]
+    },
+    {
+      "EnglishWord": "d and a   dry and abandoned",
+      "Meanings": [
+        "ف خشک و متروک"
+      ]
+    },
+    {
+      "EnglishWord": "daily output",
+      "Meanings": [
+        "ف تولید روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "danian",
+      "Meanings": [
+        "دانمارکی"
+      ]
+    },
+    {
+      "EnglishWord": "datum",
+      "Meanings": [
+        "نقطه مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "datum horizon",
+      "Meanings": [
+        "ف افق مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "datum line",
+      "Meanings": [
+        "ف خط مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "datum plane",
+      "Meanings": [
+        "ف سطح مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "datum point",
+      "Meanings": [
+        "ف روزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "dead",
+      "Meanings": [
+        "ف خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "dead area",
+      "Meanings": [
+        "ف ناحیه مرده"
+      ]
+    },
+    {
+      "EnglishWord": "dead end",
+      "Meanings": [
+        "ف کابل ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "dead end pore",
+      "Meanings": [
+        "ف روزنه یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "dead fault",
+      "Meanings": [
+        "ف گسل مرده"
+      ]
+    },
+    {
+      "EnglishWord": "dead line anchor",
+      "Meanings": [
+        "ف مهار کابل ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "dead load safety value",
+      "Meanings": [
+        "ف شیر ایمنی بار ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "dead well",
+      "Meanings": [
+        "ف چاه مرده"
+      ]
+    },
+    {
+      "EnglishWord": "deadman",
+      "Meanings": [
+        "ف مهار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "deadweight",
+      "Meanings": [
+        "ف ظرفیت بار"
+      ]
+    },
+    {
+      "EnglishWord": "de-aeration",
+      "Meanings": [
+        "هواگیری"
+      ]
+    },
+    {
+      "EnglishWord": "de-aerator",
+      "Meanings": [
+        "هواگیر"
+      ]
+    },
+    {
+      "EnglishWord": "de-aerator column",
+      "Meanings": [
+        "لوله هواگیری"
+      ]
+    },
+    {
+      "EnglishWord": "deballasting",
+      "Meanings": [
+        "پارسنگ برداری"
+      ]
+    },
+    {
+      "EnglishWord": "decanter",
+      "Meanings": [
+        "مخزن رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "deck",
+      "Meanings": [
+        "عرشه"
+      ]
+    },
+    {
+      "EnglishWord": "deck crane",
+      "Meanings": [
+        "جرثقیل روی عرشه"
+      ]
+    },
+    {
+      "EnglishWord": "deck module  on a platform",
+      "Meanings": [
+        "مدل روی عرشه"
+      ]
+    },
+    {
+      "EnglishWord": "declination angle",
+      "Meanings": [
+        "زاویه میل"
+      ]
+    },
+    {
+      "EnglishWord": "decline in pressure",
+      "Meanings": [
+        "کاهش فشار"
+      ]
+    },
+    {
+      "EnglishWord": "decompression chamber",
+      "Meanings": [
+        "اتاقک تقلیل فشار"
+      ]
+    },
+    {
+      "EnglishWord": "decompression value",
+      "Meanings": [
+        "شیر تقلیل فشار"
+      ]
+    },
+    {
+      "EnglishWord": "deep boring",
+      "Meanings": [
+        "حفاری عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep hole",
+      "Meanings": [
+        "چاه عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep sea",
+      "Meanings": [
+        "دریای عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep sea deposits",
+      "Meanings": [
+        "نهشت‌های دریای عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep sea drilling",
+      "Meanings": [
+        "حفاری دریایی عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep test well",
+      "Meanings": [
+        "چاه پیگردی عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep water site",
+      "Meanings": [
+        "محل حفاری در آب عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep water sub-sea well head",
+      "Meanings": [
+        "تاج سرچاه در آب عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep well elevator",
+      "Meanings": [
+        "بالا بر چاه عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deep well pumping",
+      "Meanings": [
+        "تلمبه زنی چاه عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deepe hole test well",
+      "Meanings": [
+        "چاه اکتشاف لایه‌های عمیق تر"
+      ]
+    },
+    {
+      "EnglishWord": "deep-seated rocks",
+      "Meanings": [
+        "سنگ‌های عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "deferment factor",
+      "Meanings": [
+        "ضریب تفریق"
+      ]
+    },
+    {
+      "EnglishWord": "deflect v a well",
+      "Meanings": [
+        "منحرف کردن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "deflected well",
+      "Meanings": [
+        "چاه انحرافی"
+      ]
+    },
+    {
+      "EnglishWord": "deflecting cone",
+      "Meanings": [
+        "قیف انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "deflecting magnet",
+      "Meanings": [
+        "آهن ربای منحرف کننده",
+        "آهن باری منحرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "deflecting tools",
+      "Meanings": [
+        "ابزارهای منحرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "deflectiong",
+      "Meanings": [
+        "ف انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "defrosting",
+      "Meanings": [
+        "یخ زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degas v",
+      "Meanings": [
+        "گاززدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degassed oil",
+      "Meanings": [
+        "نفت خام بی گاز"
+      ]
+    },
+    {
+      "EnglishWord": "degasser",
+      "Meanings": [
+        "دستگاه گاززدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degassing",
+      "Meanings": [
+        "گاززدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of saturation",
+      "Meanings": [
+        "درجه اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "degree of viscosity",
+      "Meanings": [
+        "درجه گران روی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of wear",
+      "Meanings": [
+        "درجه ساییدگی"
+      ]
+    },
+    {
+      "EnglishWord": "dehydrate v",
+      "Meanings": [
+        "آب زدایی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dehydration",
+      "Meanings": [
+        "آب زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "dehydration plant",
+      "Meanings": [
+        "واحد آب زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "dehydrator",
+      "Meanings": [
+        "دستگاه آب زدا"
+      ]
+    },
+    {
+      "EnglishWord": "delineation of a horizon",
+      "Meanings": [
+        "تحدید افق"
+      ]
+    },
+    {
+      "EnglishWord": "delineation well",
+      "Meanings": [
+        "چاه ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "deliver v",
+      "Meanings": [
+        "تزریق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "delivery",
+      "Meanings": [
+        "تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "delivery pipe",
+      "Meanings": [
+        "لوله باردهی"
+      ]
+    },
+    {
+      "EnglishWord": "delivery pressure",
+      "Meanings": [
+        "فشار باردهی"
+      ]
+    },
+    {
+      "EnglishWord": "delivery pump",
+      "Meanings": [
+        "تلمبه باردهی"
+      ]
+    },
+    {
+      "EnglishWord": "delivery valve",
+      "Meanings": [
+        "شیرباردهی"
+      ]
+    },
+    {
+      "EnglishWord": "demulsibility",
+      "Meanings": [
+        "قابلیت امولسیون شکنی"
+      ]
+    },
+    {
+      "EnglishWord": "demulsification",
+      "Meanings": [
+        "امولسیون شکنی"
+      ]
+    },
+    {
+      "EnglishWord": "demulsifier",
+      "Meanings": [
+        "امولسیون شکن"
+      ]
+    },
+    {
+      "EnglishWord": "demulsify v",
+      "Meanings": [
+        "امولسیون شکستن"
+      ]
+    },
+    {
+      "EnglishWord": "densimeter",
+      "Meanings": [
+        "چگالی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "density logging",
+      "Meanings": [
+        "نمودارگیری از چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "density of a fluid",
+      "Meanings": [
+        "چگالی سیال"
+      ]
+    },
+    {
+      "EnglishWord": "density of a gas",
+      "Meanings": [
+        "چگالی گاز"
+      ]
+    },
+    {
+      "EnglishWord": "departure curve",
+      "Meanings": [
+        "منحنی انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "depeleted sand",
+      "Meanings": [
+        "ماسه تهی شده"
+      ]
+    },
+    {
+      "EnglishWord": "depession",
+      "Meanings": [
+        "فرورفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "deplete v",
+      "Meanings": [
+        "تخلیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "depleted area",
+      "Meanings": [
+        "ناحیه تهی شده"
+      ]
+    },
+    {
+      "EnglishWord": "depleted field",
+      "Meanings": [
+        "میدان تهی شده"
+      ]
+    },
+    {
+      "EnglishWord": "depletion",
+      "Meanings": [
+        "تخلیه کامل"
+      ]
+    },
+    {
+      "EnglishWord": "depletion of gas",
+      "Meanings": [
+        "تهی شدن گاز"
+      ]
+    },
+    {
+      "EnglishWord": "depletion rate",
+      "Meanings": [
+        "آهنگ تهی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "deposit",
+      "Meanings": [
+        "نهشت"
+      ]
+    },
+    {
+      "EnglishWord": "deposit of petroleum",
+      "Meanings": [
+        "ذخیره نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "depth",
+      "Meanings": [
+        "عمق"
+      ]
+    },
+    {
+      "EnglishWord": "depth gage",
+      "Meanings": [
+        "سنجه فشار در عمق"
+      ]
+    },
+    {
+      "EnglishWord": "depth measuring panel",
+      "Meanings": [
+        "تابلوی عمق سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "depth of penetration",
+      "Meanings": [
+        "عمق نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "depth of the hole",
+      "Meanings": [
+        "عمق چاه"
+      ]
+    },
+    {
+      "EnglishWord": "depth range",
+      "Meanings": [
+        "حدود عمق"
+      ]
+    },
+    {
+      "EnglishWord": "depth survey",
+      "Meanings": [
+        "عمق پیمایی"
+      ]
+    },
+    {
+      "EnglishWord": "depthfinder",
+      "Meanings": [
+        "عمق سنج"
+      ]
+    },
+    {
+      "EnglishWord": "depth-time curve",
+      "Meanings": [
+        "منحنی ژرفا",
+        "زمان"
+      ]
+    },
+    {
+      "EnglishWord": "derrick cellar",
+      "Meanings": [
+        "چال دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick cornica",
+      "Meanings": [
+        "تاج دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick crane",
+      "Meanings": [
+        "جرثقیل دکلی"
+      ]
+    },
+    {
+      "EnglishWord": "derrick deck",
+      "Meanings": [
+        "عرشه دکل",
+        "عرشه دکلی"
+      ]
+    },
+    {
+      "EnglishWord": "derrick dismantling",
+      "Meanings": [
+        "اوراق کردن دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick floor",
+      "Meanings": [
+        "کف دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick foundations",
+      "Meanings": [
+        "ف پی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick girth",
+      "Meanings": [
+        "شاه تیر دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick grillage",
+      "Meanings": [
+        "تور حفاظ دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick guy",
+      "Meanings": [
+        "کابل مهار دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick hook load",
+      "Meanings": [
+        "بار قلاب دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick leg",
+      "Meanings": [
+        "پایه دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick man",
+      "Meanings": [
+        "دکل بان"
+      ]
+    },
+    {
+      "EnglishWord": "derrick platform",
+      "Meanings": [
+        "سقف دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick roof",
+      "Meanings": [
+        "سقف دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick safety cage",
+      "Meanings": [
+        "قفس ایمنی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick safety gase",
+      "Meanings": [
+        "قفس ایمنی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick sill",
+      "Meanings": [
+        "کف سکوی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick skidding rail",
+      "Meanings": [
+        "ریل لغزان دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick substructure",
+      "Meanings": [
+        "زیرسازه دکل"
+      ]
+    },
+    {
+      "EnglishWord": "derrick window   v-door   window opening",
+      "Meanings": [
+        "دریچه هشتی"
+      ]
+    },
+    {
+      "EnglishWord": "desalination   desalting   desilting   desalinization",
+      "Meanings": [
+        "نمک زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "desander   desanding device",
+      "Meanings": [
+        "ماسه زدا"
+      ]
+    },
+    {
+      "EnglishWord": "desiccation",
+      "Meanings": [
+        "خشکاندن"
+      ]
+    },
+    {
+      "EnglishWord": "desiccator",
+      "Meanings": [
+        "خشک کن"
+      ]
+    },
+    {
+      "EnglishWord": "desilter",
+      "Meanings": [
+        "ماسه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "detection of gas on cores",
+      "Meanings": [
+        "گازیابی در مغزه ها"
+      ]
+    },
+    {
+      "EnglishWord": "detergent",
+      "Meanings": [
+        "پاک کننده گل افزایه"
+      ]
+    },
+    {
+      "EnglishWord": "detrital deposit",
+      "Meanings": [
+        "نهشت آواری"
+      ]
+    },
+    {
+      "EnglishWord": "detrital sediment",
+      "Meanings": [
+        "رسوب آواری"
+      ]
+    },
+    {
+      "EnglishWord": "development drilling",
+      "Meanings": [
+        "حفاری گسترشی"
+      ]
+    },
+    {
+      "EnglishWord": "development well",
+      "Meanings": [
+        "چاه گسترشی"
+      ]
+    },
+    {
+      "EnglishWord": "development zone",
+      "Meanings": [
+        "منطقه گسترشی"
+      ]
+    },
+    {
+      "EnglishWord": "deviation from the vertical   drift",
+      "Meanings": [
+        "انحراف از قایم"
+      ]
+    },
+    {
+      "EnglishWord": "deviation log   inclinometer log",
+      "Meanings": [
+        "نمودار سنجش انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "deviation of the hole   deviation of the will   hole deviation   well deviation   well dip",
+      "Meanings": [
+        "انحراف چاه"
+      ]
+    },
+    {
+      "EnglishWord": "devonian",
+      "Meanings": [
+        "دونین"
+      ]
+    },
+    {
+      "EnglishWord": "dew point   saturation point",
+      "Meanings": [
+        "نقطه شبنم"
+      ]
+    },
+    {
+      "EnglishWord": "diaclase",
+      "Meanings": [
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "diamond bit   diamond drilling bit   diamond boring bit",
+      "Meanings": [
+        "مته الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond core barrel",
+      "Meanings": [
+        "استوانه مغزه گیر الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond core bit",
+      "Meanings": [
+        "مته مغزه گیر الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond core drilling   diamond coring",
+      "Meanings": [
+        "مغزه گیری با مته الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond core head   diamond crown   diamond dead   diamond-type cutter head",
+      "Meanings": [
+        "سر مته مغزه بر الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond crown drill bit",
+      "Meanings": [
+        "مته حفاری با نوک الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond drill",
+      "Meanings": [
+        "ماشین حفاری الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond drilling",
+      "Meanings": [
+        "حفاری با مته الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diamond point bit   diamond pointed bit",
+      "Meanings": [
+        "مته نوک الماسی"
+      ]
+    },
+    {
+      "EnglishWord": "diaphragm pressure gage",
+      "Meanings": [
+        "فشار سنج غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "diaphragm pump",
+      "Meanings": [
+        "تلمبه غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "diaphragm valve",
+      "Meanings": [
+        "شیر غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "diatomaceous earth  dmi a",
+      "Meanings": [
+        "خاک دیاتومه یی گل افزایه"
+      ]
+    },
+    {
+      "EnglishWord": "die collar",
+      "Meanings": [
+        "طوقه حدیده یی"
+      ]
+    },
+    {
+      "EnglishWord": "die coupling",
+      "Meanings": [
+        "بوشن حدیده یی"
+      ]
+    },
+    {
+      "EnglishWord": "die nipple",
+      "Meanings": [
+        "پستانک قلاویزی"
+      ]
+    },
+    {
+      "EnglishWord": "dielectric logging",
+      "Meanings": [
+        "نمودار گیری دی الکتریک"
+      ]
+    },
+    {
+      "EnglishWord": "diethanolamine   dea",
+      "Meanings": [
+        "دی اتانول آمین"
+      ]
+    },
+    {
+      "EnglishWord": "differential liberation",
+      "Meanings": [
+        "آزادی تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential pressure",
+      "Meanings": [
+        "فشار تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential pressure gage",
+      "Meanings": [
+        "فشار سنج تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential wall sticking",
+      "Meanings": [
+        "همچسبی تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "dike   dyke",
+      "Meanings": [
+        "رگه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "dike rock   dyke rock   hypabyssal rock",
+      "Meanings": [
+        "دیواره سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "dilatability   expansibility",
+      "Meanings": [
+        "انبساط پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "dilatation   expansion",
+      "Meanings": [
+        "انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "dilute v   thin v",
+      "Meanings": [
+        "رقیق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dip   slope   rake   inclination   fall   drop   incline",
+      "Meanings": [
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "dip fault   transverse fault",
+      "Meanings": [
+        "گسل شیبی"
+      ]
+    },
+    {
+      "EnglishWord": "dip fold   dipping fold   pitching fold   plunging fold",
+      "Meanings": [
+        "چین مایل"
+      ]
+    },
+    {
+      "EnglishWord": "dip logging",
+      "Meanings": [
+        "نمودار گیری از شیب لایه"
+      ]
+    },
+    {
+      "EnglishWord": "dip of the fault   fault dip   inclination of the fault",
+      "Meanings": [
+        "شیب گسل"
+      ]
+    },
+    {
+      "EnglishWord": "dipmeter   stratameter",
+      "Meanings": [
+        "شیب سنج"
+      ]
+    },
+    {
+      "EnglishWord": "dipmeter-inclinometer",
+      "Meanings": [
+        "انحراف سنج"
+      ]
+    },
+    {
+      "EnglishWord": "dipping fault   inclined fault",
+      "Meanings": [
+        "گسل مایل"
+      ]
+    },
+    {
+      "EnglishWord": "direct circulation   direct flushing   straight circulation",
+      "Meanings": [
+        "گردش مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct indicating viscometer   direct indicating viscosimeter",
+      "Meanings": [
+        "گران روی سنج مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct injection",
+      "Meanings": [
+        "تزریق مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direction of deviation",
+      "Meanings": [
+        "جهت انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "direction of migration",
+      "Meanings": [
+        "جهت مهاجرت"
+      ]
+    },
+    {
+      "EnglishWord": "direction of penetration",
+      "Meanings": [
+        "جهت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "directional deviation logging",
+      "Meanings": [
+        "نمودار گیری از انحراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directional hole   directional well   directionally drilled well",
+      "Meanings": [
+        "چاه جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "dirt gas   raw gas   rough gas",
+      "Meanings": [
+        "گاز خام"
+      ]
+    },
+    {
+      "EnglishWord": "disc bit   rotary disc bit",
+      "Meanings": [
+        "مته بشقابی"
+      ]
+    },
+    {
+      "EnglishWord": "disc valve   flap valve",
+      "Meanings": [
+        "شیر صفحه یی"
+      ]
+    },
+    {
+      "EnglishWord": "discharge   unloading",
+      "Meanings": [
+        "تخلیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "discharge curve",
+      "Meanings": [
+        "منحنی تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "discharge head",
+      "Meanings": [
+        "ارتفاع تخلیه",
+        "منحنی تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "discharge pipe",
+      "Meanings": [
+        "لوله تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "discharge stroke",
+      "Meanings": [
+        "ضربه تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous interstice",
+      "Meanings": [
+        "روزن بار ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discordant fold   disharmonic fold",
+      "Meanings": [
+        "چین ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "discordant folding   disharmonic folding",
+      "Meanings": [
+        "چنین خوردگی ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "discovery well",
+      "Meanings": [
+        "چاه اکتشافی"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive rocks",
+      "Meanings": [
+        "سنگ‌های منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "dislocated deposit",
+      "Meanings": [
+        "نهشت جا به جا شده"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion   scattering",
+      "Meanings": [
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement   drive",
+      "Meanings": [
+        "driving"
+      ]
+    },
+    {
+      "EnglishWord": "displacement factor",
+      "Meanings": [
+        "ضریب جا به جایی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement front",
+      "Meanings": [
+        "جبهه جا به جایی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement pressure",
+      "Meanings": [
+        "فشار جا به جایی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement pump   gas bailer   mammoth pump",
+      "Meanings": [
+        "تلمبه ماموت"
+      ]
+    },
+    {
+      "EnglishWord": "displacement rate",
+      "Meanings": [
+        "سرعت جا به جایی"
+      ]
+    },
+    {
+      "EnglishWord": "disposal well   re-injection well",
+      "Meanings": [
+        "چاه دفعی"
+      ]
+    },
+    {
+      "EnglishWord": "dissolved gas   gas in solution   solution gas",
+      "Meanings": [
+        "گاز محلول"
+      ]
+    },
+    {
+      "EnglishWord": "dissolved gas drive   solution gas drive   depletion drive",
+      "Meanings": [
+        "نیروی رانش گاز محلول"
+      ]
+    },
+    {
+      "EnglishWord": "dissolved gas drive reservoir   solution gas drive reservoir   solution gas drive field   solution gas field",
+      "Meanings": [
+        "مخزن دارای رانش گاز محلول"
+      ]
+    },
+    {
+      "EnglishWord": "distinct cleavage   easy cleavage",
+      "Meanings": [
+        "رخ مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "distribution valve",
+      "Meanings": [
+        "شیر توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "disturbance in th pressure field   perturbution in the pressure field",
+      "Meanings": [
+        "اختلال در میدان فشار"
+      ]
+    },
+    {
+      "EnglishWord": "ditcher   ditch excavator",
+      "Meanings": [
+        "خندق کن"
+      ]
+    },
+    {
+      "EnglishWord": "diving barge",
+      "Meanings": [
+        "دو به غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving bell",
+      "Meanings": [
+        "زنگ غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving boat",
+      "Meanings": [
+        "بلم غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving depth",
+      "Meanings": [
+        "عمق غوص"
+      ]
+    },
+    {
+      "EnglishWord": "diving equipment",
+      "Meanings": [
+        "وسایل غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving operations",
+      "Meanings": [
+        "عملیات غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving stage",
+      "Meanings": [
+        "سکوی غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving suit",
+      "Meanings": [
+        "لباس غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving superintendent",
+      "Meanings": [
+        "مسیول غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving supervisor",
+      "Meanings": [
+        "سرپرست غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "diving team",
+      "Meanings": [
+        "گروه غواصی"
+      ]
+    },
+    {
+      "EnglishWord": "dog house",
+      "Meanings": [
+        "اتاقک حفار"
+      ]
+    },
+    {
+      "EnglishWord": "dogleg",
+      "Meanings": [
+        "سگ پا"
+      ]
+    },
+    {
+      "EnglishWord": "dolphin",
+      "Meanings": [
+        "ستون مهار بند"
+      ]
+    },
+    {
+      "EnglishWord": "domal flank",
+      "Meanings": [
+        "یال گنبد"
+      ]
+    },
+    {
+      "EnglishWord": "domal structure",
+      "Meanings": [
+        "ساختار گنبدی"
+      ]
+    },
+    {
+      "EnglishWord": "dome   periclinal structure",
+      "Meanings": [
+        "گنبد"
+      ]
+    },
+    {
+      "EnglishWord": "dome gas",
+      "Meanings": [
+        "گاز گنبد"
+      ]
+    },
+    {
+      "EnglishWord": "dominant fault   main fault",
+      "Meanings": [
+        "گسل اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "doming",
+      "Meanings": [
+        "گنبدی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "dope well",
+      "Meanings": [
+        "چاه تحریک شده"
+      ]
+    },
+    {
+      "EnglishWord": "double",
+      "Meanings": [
+        "شاخه دو بند"
+      ]
+    },
+    {
+      "EnglishWord": "double board   double platform",
+      "Meanings": [
+        "سکوی دو پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "double bottom",
+      "Meanings": [
+        "کف مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "double core barrel   double tube core barrel",
+      "Meanings": [
+        "مغزه گیر دو استوانه یی"
+      ]
+    },
+    {
+      "EnglishWord": "double directional drilling   double inclined drilling",
+      "Meanings": [
+        "حفاری دو جهته"
+      ]
+    },
+    {
+      "EnglishWord": "double pipe",
+      "Meanings": [
+        "لوله دو تایی"
+      ]
+    },
+    {
+      "EnglishWord": "double seated valve   double seat valve",
+      "Meanings": [
+        "سوپاپ دونشیمنه"
+      ]
+    },
+    {
+      "EnglishWord": "double spacing gamma-gamma logging",
+      "Meanings": [
+        "نمودارگیری دو فاصله یی گاما",
+        "گاما"
+      ]
+    },
+    {
+      "EnglishWord": "double twisted auger",
+      "Meanings": [
+        "مته دو مارپیچ"
+      ]
+    },
+    {
+      "EnglishWord": "double-acting pump",
+      "Meanings": [
+        "تلمبه دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "dovetail joint",
+      "Meanings": [
+        "اتصال دم چلچله"
+      ]
+    },
+    {
+      "EnglishWord": "down dip",
+      "Meanings": [
+        "فروشیب"
+      ]
+    },
+    {
+      "EnglishWord": "down hole",
+      "Meanings": [
+        "درون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "down hole apparatus",
+      "Meanings": [
+        "دستگاه درون چاهی"
+      ]
+    },
+    {
+      "EnglishWord": "down hole camera",
+      "Meanings": [
+        "دوربین درون چاهی"
+      ]
+    },
+    {
+      "EnglishWord": "down side   foot wall   underside",
+      "Meanings": [
+        "کمر پایین"
+      ]
+    },
+    {
+      "EnglishWord": "down time",
+      "Meanings": [
+        "مدت تعمیرات"
+      ]
+    },
+    {
+      "EnglishWord": "down warping   trough",
+      "Meanings": [
+        "فرورفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "downstroke   downward stroke",
+      "Meanings": [
+        "ضربه تحتانی پیستون"
+      ]
+    },
+    {
+      "EnglishWord": "down-structure",
+      "Meanings": [
+        "فروساختار"
+      ]
+    },
+    {
+      "EnglishWord": "downthrow",
+      "Meanings": [
+        "نشست"
+      ]
+    },
+    {
+      "EnglishWord": "downward creep",
+      "Meanings": [
+        "فروخزش"
+      ]
+    },
+    {
+      "EnglishWord": "drag fold",
+      "Meanings": [
+        "چینک"
+      ]
+    },
+    {
+      "EnglishWord": "drag shoe",
+      "Meanings": [
+        "مته ساچمه یی"
+      ]
+    },
+    {
+      "EnglishWord": "drain cock   drain tap",
+      "Meanings": [
+        "شیر تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drain v off",
+      "Meanings": [
+        "تخلیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "drain valve",
+      "Meanings": [
+        "سوپاپ تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainable oil   exploitable oil   recoverable oil",
+      "Meanings": [
+        "نفت قابل استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "drainage",
+      "Meanings": [
+        "زهکشی"
+      ]
+    },
+    {
+      "EnglishWord": "drainage area   drainage zone",
+      "Meanings": [
+        "ناحیه ریزش"
+      ]
+    },
+    {
+      "EnglishWord": "drainage cone",
+      "Meanings": [
+        "مخروط تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainage pump",
+      "Meanings": [
+        "تلمبه تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainage radius   radius of oil drainage",
+      "Meanings": [
+        "شعاع تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainage ratio",
+      "Meanings": [
+        "ضریب تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainage surface",
+      "Meanings": [
+        "سطح تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "drainer",
+      "Meanings": [
+        "دستگاه تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "draining dish",
+      "Meanings": [
+        "ظرف تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "draw v off the mud   purge v",
+      "Meanings": [
+        "بیرون کشیدن گل"
+      ]
+    },
+    {
+      "EnglishWord": "drawworks",
+      "Meanings": [
+        "منجنیق حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drawworks drum   hoisting drum of the drawworks",
+      "Meanings": [
+        "استوانه منجنیق حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "dressing",
+      "Meanings": [
+        "تیز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "drift",
+      "Meanings": [
+        "شابلون گردن سنج",
+        "رانه"
+      ]
+    },
+    {
+      "EnglishWord": "drift boulder   erratic block   stray block   erratic boulder",
+      "Meanings": [
+        "سنگ سرگردان"
+      ]
+    },
+    {
+      "EnglishWord": "drift breccia",
+      "Meanings": [
+        "برش یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "drift deposit   glacial deposit",
+      "Meanings": [
+        "نهشت یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "drift indicator",
+      "Meanings": [
+        "انحراف نما"
+      ]
+    },
+    {
+      "EnglishWord": "drill barge   drilling barge   db",
+      "Meanings": [
+        "دکل شناور حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill carriage",
+      "Meanings": [
+        "ارابه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill collar   drilling collar   collar   sinker",
+      "Meanings": [
+        "طوق مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill collar clamp",
+      "Meanings": [
+        "بست طوق مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill collar stabilizer",
+      "Meanings": [
+        "تثبیت کننده طوق مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill crew   drilling crew   drilling gang",
+      "Meanings": [
+        "گروه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill hole location   drilling site   location of the well   site of the well   well location drill site",
+      "Meanings": [
+        "محل چاه"
+      ]
+    },
+    {
+      "EnglishWord": "drill log   profile of a bore hole   well log",
+      "Meanings": [
+        "نمودار حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill mill",
+      "Meanings": [
+        "آسیاب مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe connection   making up of drill pipes   making up a joint",
+      "Meanings": [
+        "متصل کردن لوله‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe coupling",
+      "Meanings": [
+        "تبدیل لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe elevator",
+      "Meanings": [
+        "بالا بر لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe float valve",
+      "Meanings": [
+        "شیر شناور لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe joint",
+      "Meanings": [
+        "اتصال لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe protector",
+      "Meanings": [
+        "حفاظ لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe slips",
+      "Meanings": [
+        "لوله گیر حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe stand   stand of drill pipe",
+      "Meanings": [
+        "شاخه لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe tongs",
+      "Meanings": [
+        "آچار لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe winding up",
+      "Meanings": [
+        "پیچیدن بیش از حد لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe withdrawal   coming out of the drill pipe",
+      "Meanings": [
+        "بالا کشیدن لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill pipe wobbling",
+      "Meanings": [
+        "لرزش لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill rod bushing",
+      "Meanings": [
+        "بوشن لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill sharpener",
+      "Meanings": [
+        "ماشین مته تیزکنی"
+      ]
+    },
+    {
+      "EnglishWord": "drill sharpening",
+      "Meanings": [
+        "مته تیزکنی"
+      ]
+    },
+    {
+      "EnglishWord": "drill steel",
+      "Meanings": [
+        "فولاد مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill stem test   d.s.t",
+      "Meanings": [
+        "لایه آزمایی با ساق مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill time recorder",
+      "Meanings": [
+        "زمان نگار حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill tube   well boring tube",
+      "Meanings": [
+        "لوله گمانه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "drill v bilind",
+      "Meanings": [
+        "حفاری کور"
+      ]
+    },
+    {
+      "EnglishWord": "drill v by",
+      "Meanings": [
+        "حفر کردن از کنار"
+      ]
+    },
+    {
+      "EnglishWord": "drill v dry",
+      "Meanings": [
+        "حفاری کردن خشک"
+      ]
+    },
+    {
+      "EnglishWord": "drill v in   drill v into",
+      "Meanings": [
+        "strike v"
+      ]
+    },
+    {
+      "EnglishWord": "drill v in   drill v into   strike v",
+      "Meanings": [
+        "نفوذ کردن در مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "drill v out",
+      "Meanings": [
+        "دوباره حفر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "drill v out the cement",
+      "Meanings": [
+        "دوباره حفر کردن با سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "drill v through   penetrate v",
+      "Meanings": [
+        "حفاری کردن از میان"
+      ]
+    },
+    {
+      "EnglishWord": "drill water tank",
+      "Meanings": [
+        "مخزن آب حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drillability",
+      "Meanings": [
+        "مته خوری"
+      ]
+    },
+    {
+      "EnglishWord": "drillable",
+      "Meanings": [
+        "مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drillable casing",
+      "Meanings": [
+        "جداره مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drillable liner",
+      "Meanings": [
+        "آستری مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drillable material",
+      "Meanings": [
+        "ماده مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drillable packer",
+      "Meanings": [
+        "توپک مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drillable plug",
+      "Meanings": [
+        "مجرابند مته خور"
+      ]
+    },
+    {
+      "EnglishWord": "drilled",
+      "Meanings": [
+        "حفاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "drilled depth   drilling depth",
+      "Meanings": [
+        "عمیق حفر شده"
+      ]
+    },
+    {
+      "EnglishWord": "drilling activities   drilling operations   drilling work   operations of drilling",
+      "Meanings": [
+        "عملیات حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling ahead",
+      "Meanings": [
+        "حفاری مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "drilling base",
+      "Meanings": [
+        "قاعده حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling beam   walking beam   working beam   pumping beam",
+      "Meanings": [
+        "شاهین حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling break   brilling time break",
+      "Meanings": [
+        "ازدیاد ناگهانی سرعت حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling capacity",
+      "Meanings": [
+        "قدرت حفر"
+      ]
+    },
+    {
+      "EnglishWord": "drilling clay",
+      "Meanings": [
+        "رس حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling contor   feed control",
+      "Meanings": [
+        "تنظیم سرعت نفوذ مته"
+      ]
+    },
+    {
+      "EnglishWord": "drilling draft",
+      "Meanings": [
+        "آبخور حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling engine   drilling motor",
+      "Meanings": [
+        "موتور حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling engineer",
+      "Meanings": [
+        "مهندس حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling engineering",
+      "Meanings": [
+        "مهندسی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling equipment   drilling outfit",
+      "Meanings": [
+        "اسباب حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling fluid additives   drilling mud additives",
+      "Meanings": [
+        "مواد افزودنی به سیال حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling fluid engineer   mud engineer   mud smeller   mud boy",
+      "Meanings": [
+        "مهندس گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling fluid invasion   invasion of mud   invasion of drilling fluid",
+      "Meanings": [
+        "رسوخ گل"
+      ]
+    },
+    {
+      "EnglishWord": "drilling hole depth",
+      "Meanings": [
+        "عمق چاه"
+      ]
+    },
+    {
+      "EnglishWord": "drilling hole direction",
+      "Meanings": [
+        "راستای چاه"
+      ]
+    },
+    {
+      "EnglishWord": "drilling hook",
+      "Meanings": [
+        "قلاب حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling hose",
+      "Meanings": [
+        "شیلنگ حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling in   drilling into",
+      "Meanings": [
+        "نفوذ در سنگ پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "drilling indicator   drillometer   load indicator   weight indicator   bit weight indicator",
+      "Meanings": [
+        "وزن نما"
+      ]
+    },
+    {
+      "EnglishWord": "drilling island   drilling platform",
+      "Meanings": [
+        "سکوی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling jar   jar",
+      "Meanings": [
+        "کوبه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling machine pillar   drilling machine standard",
+      "Meanings": [
+        "اسکلت بندی دستگاه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling method   drilling practice   drilling system   method of boring   method of drilling   system of drilling",
+      "Meanings": [
+        "روش حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling mud hose",
+      "Meanings": [
+        "شیلنگ گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling out of the cement   drilling out of the cement plug",
+      "Meanings": [
+        "حفاری سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "drilling parameters",
+      "Meanings": [
+        "پارامترهای حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling program",
+      "Meanings": [
+        "برنامه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling rate recorder",
+      "Meanings": [
+        "ثبات سرعت حفر"
+      ]
+    },
+    {
+      "EnglishWord": "drilling research vessel",
+      "Meanings": [
+        "کشتی حفاری پژوهشی"
+      ]
+    },
+    {
+      "EnglishWord": "drilling section",
+      "Meanings": [
+        "قسمت حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling ship   drill ship   drilling vessel   ds",
+      "Meanings": [
+        "کشتی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling slot",
+      "Meanings": [
+        "موعد حفاری",
+        "فضای آزاد زیر دکل"
+      ]
+    },
+    {
+      "EnglishWord": "drilling spool",
+      "Meanings": [
+        "تبدیل سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "drilling stabilizer",
+      "Meanings": [
+        "طوق تعادل مته"
+      ]
+    },
+    {
+      "EnglishWord": "drilling stem   drilling string   drill pipe string   drill string",
+      "Meanings": [
+        "رشته لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling superintendent",
+      "Meanings": [
+        "رییس اداره حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling supervisor",
+      "Meanings": [
+        "مهندس ناظر حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling support unit",
+      "Meanings": [
+        "واحد پشتیبانی عملیات حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling tender",
+      "Meanings": [
+        "کشتی تدارکاتی"
+      ]
+    },
+    {
+      "EnglishWord": "drilling turbine",
+      "Meanings": [
+        "توربین حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling variables",
+      "Meanings": [
+        "متغیرهای حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling water   drill water",
+      "Meanings": [
+        "آب حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling with explosives",
+      "Meanings": [
+        "حفاری انفجاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling with localized mud circulation",
+      "Meanings": [
+        "حفاری با گردش موضعی گل"
+      ]
+    },
+    {
+      "EnglishWord": "drilling without drill pipe",
+      "Meanings": [
+        "حفاری بدون لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill-string joint",
+      "Meanings": [
+        "اتصال رشته لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "drip pipe",
+      "Meanings": [
+        "لوله اتقال تقطیر",
+        "لوله انتقال تقطیر"
+      ]
+    },
+    {
+      "EnglishWord": "dripping",
+      "Meanings": [
+        "چکیدن"
+      ]
+    },
+    {
+      "EnglishWord": "dripping pan",
+      "Meanings": [
+        "ظرف تقطیر"
+      ]
+    },
+    {
+      "EnglishWord": "drive bushing",
+      "Meanings": [
+        "بوشن میله چهار پر"
+      ]
+    },
+    {
+      "EnglishWord": "drive clamp",
+      "Meanings": [
+        "بست جداره"
+      ]
+    },
+    {
+      "EnglishWord": "drive head",
+      "Meanings": [
+        "سر محافظ جداره"
+      ]
+    },
+    {
+      "EnglishWord": "drive of a field",
+      "Meanings": [
+        "نیروی تولید میدان"
+      ]
+    },
+    {
+      "EnglishWord": "drive pipe",
+      "Meanings": [
+        "جداره هادی"
+      ]
+    },
+    {
+      "EnglishWord": "drive shoe",
+      "Meanings": [
+        "کفشک جداره هادی"
+      ]
+    },
+    {
+      "EnglishWord": "drive valve",
+      "Meanings": [
+        "شیر فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "driven well",
+      "Meanings": [
+        "چاه تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "driving cap",
+      "Meanings": [
+        "کلاهک محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "drogue",
+      "Meanings": [
+        "لنگر شناور"
+      ]
+    },
+    {
+      "EnglishWord": "dropped side of a fault",
+      "Meanings": [
+        "سمت افت گسل"
+      ]
+    },
+    {
+      "EnglishWord": "dropper",
+      "Meanings": [
+        "رگه دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "drowned well",
+      "Meanings": [
+        "چاه غرقابی"
+      ]
+    },
+    {
+      "EnglishWord": "drum",
+      "Meanings": [
+        "طبلک"
+      ]
+    },
+    {
+      "EnglishWord": "drum shaft",
+      "Meanings": [
+        "محور طبلک"
+      ]
+    },
+    {
+      "EnglishWord": "dry boring   dry drilling",
+      "Meanings": [
+        "حفاری خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dry gas",
+      "Meanings": [
+        "گاز خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dry hole   dry well   duster   unproductive well   dud   non-producing well   non-productive well   barren well",
+      "Meanings": [
+        "چاه خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dry mud",
+      "Meanings": [
+        "گل خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dry suit",
+      "Meanings": [
+        "لباس غواصی گرم"
+      ]
+    },
+    {
+      "EnglishWord": "dual completion well",
+      "Meanings": [
+        "چاه دو تکمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "dual producer   dual zone well",
+      "Meanings": [
+        "چاه تولیدی دو افقه"
+      ]
+    },
+    {
+      "EnglishWord": "dull bit   dulled bit   worn bit",
+      "Meanings": [
+        "مته کند"
+      ]
+    },
+    {
+      "EnglishWord": "dull indicator of the bit",
+      "Meanings": [
+        "کندی نمای مته"
+      ]
+    },
+    {
+      "EnglishWord": "dye penetrant testing",
+      "Meanings": [
+        "آزمایش نفوذ رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "dynagraph",
+      "Meanings": [
+        "نیرونگار"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic anchoring system",
+      "Meanings": [
+        "سیستم لنگراندازی دینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic cooling",
+      "Meanings": [
+        "خنک کردن پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic level of the fluid",
+      "Meanings": [
+        "سطح دینامیکی سیال"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic positioning   dynamic station keeping   dynamic stationing   dp",
+      "Meanings": [
+        "استقرار دینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic positioning drilling ship",
+      "Meanings": [
+        "کشتی حفاری با استقرار پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic viscosity",
+      "Meanings": [
+        "گران روی پویشی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamometer",
+      "Meanings": [
+        "دینامومتر"
+      ]
+    }
+  ]
+}

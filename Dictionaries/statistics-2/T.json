@@ -1,0 +1,1371 @@
+﻿{
+  "Group": "T",
+  "Entries": 226,
+  "Words": [
+    {
+      "EnglishWord": "t 1-class of distributions",
+      "Meanings": [
+        "رده توزیعهای T_"
+      ]
+    },
+    {
+      "EnglishWord": "t designs",
+      "Meanings": [
+        "طرحهای t"
+      ]
+    },
+    {
+      "EnglishWord": "t distribution",
+      "Meanings": [
+        "توزیع t"
+      ]
+    },
+    {
+      "EnglishWord": "table",
+      "Meanings": [
+        "جدول"
+      ]
+    },
+    {
+      "EnglishWord": "tabular interpolation",
+      "Meanings": [
+        "درون‌یابی جدولی"
+      ]
+    },
+    {
+      "EnglishWord": "tabular representation",
+      "Meanings": [
+        "نمایش جدولی"
+      ]
+    },
+    {
+      "EnglishWord": "tabulation",
+      "Meanings": [
+        "جدول‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "tagging",
+      "Meanings": [
+        "برچسب‌زنی"
+      ]
+    },
+    {
+      "EnglishWord": "taguchi method for off-line quality control",
+      "Meanings": [
+        "روش تاگوچی برای کنترل کیفیت خارج از خط تولید"
+      ]
+    },
+    {
+      "EnglishWord": "taha test",
+      "Meanings": [
+        "آزمون طاها"
+      ]
+    },
+    {
+      "EnglishWord": "tail",
+      "Meanings": [
+        "دم"
+      ]
+    },
+    {
+      "EnglishWord": "tail of stochastic process",
+      "Meanings": [
+        "دم فرایند تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "tail ordering",
+      "Meanings": [
+        "مرتب کردن دم‌وار"
+      ]
+    },
+    {
+      "EnglishWord": "tail probability",
+      "Meanings": [
+        "احتمال دمی"
+      ]
+    },
+    {
+      "EnglishWord": "takacs process",
+      "Meanings": [
+        "فرایند تاکاش"
+      ]
+    },
+    {
+      "EnglishWord": "talwar-gentle scale test",
+      "Meanings": [
+        "آزمون مقیاس تالوار",
+        "جنتل"
+      ]
+    },
+    {
+      "EnglishWord": "tango index",
+      "Meanings": [
+        "شاخص تانگو"
+      ]
+    },
+    {
+      "EnglishWord": "tanh  hyperbolic tangent",
+      "Meanings": [
+        "تانژانت هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "taper",
+      "Meanings": [
+        "باریک‌ساز"
+      ]
+    },
+    {
+      "EnglishWord": "target",
+      "Meanings": [
+        "هدف"
+      ]
+    },
+    {
+      "EnglishWord": "target coverage",
+      "Meanings": [
+        "هدف‌پوشانی"
+      ]
+    },
+    {
+      "EnglishWord": "target population",
+      "Meanings": [
+        "جامعه هدف"
+      ]
+    },
+    {
+      "EnglishWord": "tauberian theorem",
+      "Meanings": [
+        "قضیه تاوبری"
+      ]
+    },
+    {
+      "EnglishWord": "tauswerthe method",
+      "Meanings": [
+        "روش تاوس‌ورث"
+      ]
+    },
+    {
+      "EnglishWord": "taxi problem",
+      "Meanings": [
+        "مسیله تاکسی"
+      ]
+    },
+    {
+      "EnglishWord": "taylor expansion",
+      "Meanings": [
+        "بسط تیلور"
+      ]
+    },
+    {
+      "EnglishWord": "taylor formula",
+      "Meanings": [
+        "فرمول تیلور"
+      ]
+    },
+    {
+      "EnglishWord": "taylor series",
+      "Meanings": [
+        "سری تیلور"
+      ]
+    },
+    {
+      "EnglishWord": "taylor theorem",
+      "Meanings": [
+        "قضیه تیلور"
+      ]
+    },
+    {
+      "EnglishWord": "technique",
+      "Meanings": [
+        "فن"
+      ]
+    },
+    {
+      "EnglishWord": "technology",
+      "Meanings": [
+        "فناوری"
+      ]
+    },
+    {
+      "EnglishWord": "telephone survey",
+      "Meanings": [
+        "آمارگیری تلفنی"
+      ]
+    },
+    {
+      "EnglishWord": "telescoping",
+      "Meanings": [
+        "دورنزدآوری"
+      ]
+    },
+    {
+      "EnglishWord": "tempered distribution",
+      "Meanings": [
+        "توزیع ملایم شده"
+      ]
+    },
+    {
+      "EnglishWord": "tensor",
+      "Meanings": [
+        "تانسور"
+      ]
+    },
+    {
+      "EnglishWord": "terasvirta-mellin model selection test",
+      "Meanings": [
+        "آزمون مدل‌گزینی تراس‌ویرتا",
+        "ملین"
+      ]
+    },
+    {
+      "EnglishWord": "terminal decision",
+      "Meanings": [
+        "تصمیم پایانی"
+      ]
+    },
+    {
+      "EnglishWord": "terms of trade",
+      "Meanings": [
+        "شرایط داد و ستد"
+      ]
+    },
+    {
+      "EnglishWord": "terry-hoeffding test",
+      "Meanings": [
+        "آزمون تری",
+        "هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "tessellation",
+      "Meanings": [
+        "سنگفرش"
+      ]
+    },
+    {
+      "EnglishWord": "test",
+      "Meanings": [
+        "آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "test approach",
+      "Meanings": [
+        "روش آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "test based on empirical probability measures",
+      "Meanings": [
+        "آزمون مبتنی بر اندازه‌های احتمال تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "test factor stratification",
+      "Meanings": [
+        "طبقه‌بندی عاملهای آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "test for censoring",
+      "Meanings": [
+        "آزمون برای سانسور کردن"
+      ]
+    },
+    {
+      "EnglishWord": "test for departures from normality",
+      "Meanings": [
+        "آزمون برای دوریها از نرمال بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test for misspecification",
+      "Meanings": [
+        "آزمون برای بدمشخص‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "test for ordered alternative",
+      "Meanings": [
+        "آزمون برای فرض مقابل مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "test for parallelism",
+      "Meanings": [
+        "آزمون برای توازی"
+      ]
+    },
+    {
+      "EnglishWord": "test for shift",
+      "Meanings": [
+        "آزمون برای انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "test for trend in count data",
+      "Meanings": [
+        "آزمون برای روند در داده‌های شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "test for trend in proportions",
+      "Meanings": [
+        "آزمون برای روند در نسبتها"
+      ]
+    },
+    {
+      "EnglishWord": "test for trimmed and winsorized means",
+      "Meanings": [
+        "آزمون برای میانگینهای پیراسته و وینزوریده"
+      ]
+    },
+    {
+      "EnglishWord": "test of hypothesis  hypothesis testing",
+      "Meanings": [
+        "آزمون فرض"
+      ]
+    },
+    {
+      "EnglishWord": "test of normality",
+      "Meanings": [
+        "آزمون نرمال بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test of randomness",
+      "Meanings": [
+        "آزمون تصادفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test of run lengths",
+      "Meanings": [
+        "آزمون طول گردش"
+      ]
+    },
+    {
+      "EnglishWord": "test of significance  significance test",
+      "Meanings": [
+        "آزمون معنی‌دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test of sphericity",
+      "Meanings": [
+        "آزمون کروی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test of unidimensionality",
+      "Meanings": [
+        "آزمون تک‌بعدی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "test of uniformity",
+      "Meanings": [
+        "آزمون یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "test statistic",
+      "Meanings": [
+        "آماره آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "test with neyman structure",
+      "Meanings": [
+        "آزمون با ساختار نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "testimand",
+      "Meanings": [
+        "مورد آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "testimator",
+      "Meanings": [
+        "آزماورد"
+      ]
+    },
+    {
+      "EnglishWord": "testing",
+      "Meanings": [
+        "آزمون‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "testing for symmetry",
+      "Meanings": [
+        "آزمون برای تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "testing procedures",
+      "Meanings": [
+        "شیوه‌های آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "testing theory",
+      "Meanings": [
+        "نظریه آزمون‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "tetrachoric correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی چهارخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "tetranomial distribution  quadrinomial distribution",
+      "Meanings": [
+        "توزیع چهارجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "theil estimator of slope",
+      "Meanings": [
+        "برآوردگر شیب تیل"
+      ]
+    },
+    {
+      "EnglishWord": "theil test of slope",
+      "Meanings": [
+        "آزمون شیب تیل"
+      ]
+    },
+    {
+      "EnglishWord": "theorem",
+      "Meanings": [
+        "قضیه"
+      ]
+    },
+    {
+      "EnglishWord": "theoretical frequency",
+      "Meanings": [
+        "فراوانی نظری"
+      ]
+    },
+    {
+      "EnglishWord": "theory",
+      "Meanings": [
+        "نظریه"
+      ]
+    },
+    {
+      "EnglishWord": "theory of errors",
+      "Meanings": [
+        "نظریه خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "theory of estimating equations",
+      "Meanings": [
+        "نظریه معادله‌های برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "thiele's interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی تیل"
+      ]
+    },
+    {
+      "EnglishWord": "thoman-bain test",
+      "Meanings": [
+        "آزمون تومان",
+        "بین"
+      ]
+    },
+    {
+      "EnglishWord": "thomas distribution",
+      "Meanings": [
+        "توزیع توماس"
+      ]
+    },
+    {
+      "EnglishWord": "thomas-fiering model",
+      "Meanings": [
+        "مدل توماس",
+        "فایرینگ"
+      ]
+    },
+    {
+      "EnglishWord": "thompson's criterion",
+      "Meanings": [
+        "ملاک تامپسون"
+      ]
+    },
+    {
+      "EnglishWord": "three r",
+      "Meanings": [
+        "سه R"
+      ]
+    },
+    {
+      "EnglishWord": "three-eighths rule",
+      "Meanings": [
+        "قاعده سه‌هشتم"
+      ]
+    },
+    {
+      "EnglishWord": "three-mode analysis",
+      "Meanings": [
+        "تحلیل سه‌مدی"
+      ]
+    },
+    {
+      "EnglishWord": "three-series theorem",
+      "Meanings": [
+        "قضیه سه‌سری"
+      ]
+    },
+    {
+      "EnglishWord": "three-sigma limits",
+      "Meanings": [
+        "حدهای سه‌سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "three-sigma rule",
+      "Meanings": [
+        "قاعده سه‌سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "threshold model",
+      "Meanings": [
+        "مدل آستانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "throwback",
+      "Meanings": [
+        "پس‌برد"
+      ]
+    },
+    {
+      "EnglishWord": "thurstone's theory of comparative judgment",
+      "Meanings": [
+        "نظریه داوری مقایسه‌ای ترستون"
+      ]
+    },
+    {
+      "EnglishWord": "tied observations",
+      "Meanings": [
+        "مشاهدات هم‌رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "tied-down brownian motion",
+      "Meanings": [
+        "حرکت براونی پابند"
+      ]
+    },
+    {
+      "EnglishWord": "ties",
+      "Meanings": [
+        "هم‌رتبه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "tilt",
+      "Meanings": [
+        "یکسویگی"
+      ]
+    },
+    {
+      "EnglishWord": "time-reversal test",
+      "Meanings": [
+        "آزمون زمان‌برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "time-sequential inference",
+      "Meanings": [
+        "استنباط زمان‌دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "time-series",
+      "Meanings": [
+        "سری زمانی",
+        "سریهای زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "time-series analysis",
+      "Meanings": [
+        "تحلیل سریهای زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "tin's ratio estimator",
+      "Meanings": [
+        "برآوردگر نسبتی تین"
+      ]
+    },
+    {
+      "EnglishWord": "tippett's and wilkinson's combination of tests",
+      "Meanings": [
+        "ترکیب آزمونهای تیپت و ویلکینسون"
+      ]
+    },
+    {
+      "EnglishWord": "toeplitz lemma",
+      "Meanings": [
+        "لم تاپلیتس"
+      ]
+    },
+    {
+      "EnglishWord": "toeplitz matrix",
+      "Meanings": [
+        "ماتریس تاپلیتس"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance distribution",
+      "Meanings": [
+        "توزیع تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance interval",
+      "Meanings": [
+        "بازه تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance limits",
+      "Meanings": [
+        "حدهای تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "tong estimator",
+      "Meanings": [
+        "برآوردگر تانگ"
+      ]
+    },
+    {
+      "EnglishWord": "tornquist index",
+      "Meanings": [
+        "شاخص تورن‌کوییست"
+      ]
+    },
+    {
+      "EnglishWord": "tornquist-theil approximation",
+      "Meanings": [
+        "تقریب تورن‌کوییست",
+        "تیل"
+      ]
+    },
+    {
+      "EnglishWord": "total balance",
+      "Meanings": [
+        "تعادل کل"
+      ]
+    },
+    {
+      "EnglishWord": "total least squares",
+      "Meanings": [
+        "کمترین توانهای دوم کل"
+      ]
+    },
+    {
+      "EnglishWord": "total positivity",
+      "Meanings": [
+        "مثبت بودن تام"
+      ]
+    },
+    {
+      "EnglishWord": "total probability theorem",
+      "Meanings": [
+        "قضیه احتمال کل"
+      ]
+    },
+    {
+      "EnglishWord": "total quality management",
+      "Meanings": [
+        "مدیریت کیفیت کل"
+      ]
+    },
+    {
+      "EnglishWord": "total time on test plot",
+      "Meanings": [
+        "نمودار زمان کل آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "total time on test transform",
+      "Meanings": [
+        "تبدیل زمان کل آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "totally diagonal latin squares",
+      "Meanings": [
+        "مربعهای لاتین کلا قطری"
+      ]
+    },
+    {
+      "EnglishWord": "tournament",
+      "Meanings": [
+        "دوره‌بازی"
+      ]
+    },
+    {
+      "EnglishWord": "trace  effect",
+      "Meanings": [
+        "اثر"
+      ]
+    },
+    {
+      "EnglishWord": "trace correlation",
+      "Meanings": [
+        "همبستگی اثری"
+      ]
+    },
+    {
+      "EnglishWord": "traceability",
+      "Meanings": [
+        "قابلیت ردیابی"
+      ]
+    },
+    {
+      "EnglishWord": "tracking",
+      "Meanings": [
+        "ردیابی"
+      ]
+    },
+    {
+      "EnglishWord": "traffic flow problem",
+      "Meanings": [
+        "مسیله جریان ترافیک"
+      ]
+    },
+    {
+      "EnglishWord": "traffic intensity",
+      "Meanings": [
+        "شدت ترافیک"
+      ]
+    },
+    {
+      "EnglishWord": "training set",
+      "Meanings": [
+        "مجموعه آموزشی"
+      ]
+    },
+    {
+      "EnglishWord": "transcendental logarithmic function",
+      "Meanings": [
+        "تابع لگاریتمی متعالی"
+      ]
+    },
+    {
+      "EnglishWord": "transect method",
+      "Meanings": [
+        "روش برشی"
+      ]
+    },
+    {
+      "EnglishWord": "transfer function model",
+      "Meanings": [
+        "مدل تابع انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transferable",
+      "Meanings": [
+        "قابل انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transform  transformation",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "transformation group  group of transformations",
+      "Meanings": [
+        "گروه تبدیلها"
+      ]
+    },
+    {
+      "EnglishWord": "transformation variable",
+      "Meanings": [
+        "متغیر تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "transient process",
+      "Meanings": [
+        "فرایند گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient state",
+      "Meanings": [
+        "وضعیت گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transition function",
+      "Meanings": [
+        "تابع تغییر وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "transition matrix",
+      "Meanings": [
+        "ماتریس تغییر وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "transition probability",
+      "Meanings": [
+        "احتمال تغییر وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "transitive group",
+      "Meanings": [
+        "گروه ترایا"
+      ]
+    },
+    {
+      "EnglishWord": "transitive permutation group",
+      "Meanings": [
+        "گروه جایگشتی ترایا"
+      ]
+    },
+    {
+      "EnglishWord": "transitive relation",
+      "Meanings": [
+        "رابطه ترایا"
+      ]
+    },
+    {
+      "EnglishWord": "transitivity",
+      "Meanings": [
+        "ترایایی"
+      ]
+    },
+    {
+      "EnglishWord": "translation",
+      "Meanings": [
+        "انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transpose of a matrix",
+      "Meanings": [
+        "ترانهاده ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "transposed matrix",
+      "Meanings": [
+        "ماتریس ترانهاده"
+      ]
+    },
+    {
+      "EnglishWord": "trapezoidal",
+      "Meanings": [
+        "ذوزنقه"
+      ]
+    },
+    {
+      "EnglishWord": "trapezoidal distribution",
+      "Meanings": [
+        "توزیع ذوزنقه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "trapezoidal rule",
+      "Meanings": [
+        "قاعده ذوزنقه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "traveling salesman problem",
+      "Meanings": [
+        "مسیله فروشنده دوره‌گرد"
+      ]
+    },
+    {
+      "EnglishWord": "treatment",
+      "Meanings": [
+        "تیمار"
+      ]
+    },
+    {
+      "EnglishWord": "tree experiment",
+      "Meanings": [
+        "آزمایش درختی"
+      ]
+    },
+    {
+      "EnglishWord": "treed regression",
+      "Meanings": [
+        "رگرسیون درختی شده"
+      ]
+    },
+    {
+      "EnglishWord": "trench matrix",
+      "Meanings": [
+        "ماتریس ترنچ"
+      ]
+    },
+    {
+      "EnglishWord": "trend",
+      "Meanings": [
+        "روند"
+      ]
+    },
+    {
+      "EnglishWord": "trend test",
+      "Meanings": [
+        "آزمون روند"
+      ]
+    },
+    {
+      "EnglishWord": "trend-free block design",
+      "Meanings": [
+        "طرح بلوکی آزادروند"
+      ]
+    },
+    {
+      "EnglishWord": "trial",
+      "Meanings": [
+        "آزمایه"
+      ]
+    },
+    {
+      "EnglishWord": "trial and error  try and error",
+      "Meanings": [
+        "آزمون و خطا"
+      ]
+    },
+    {
+      "EnglishWord": "triangle",
+      "Meanings": [
+        "مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "triangle test",
+      "Meanings": [
+        "آزمون مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "triangular contingency table",
+      "Meanings": [
+        "جدول پیشایندی مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangular coordinates",
+      "Meanings": [
+        "مختصات مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangular distribution",
+      "Meanings": [
+        "توزیع مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangular inequality",
+      "Meanings": [
+        "نابرابری مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangular plot",
+      "Meanings": [
+        "نمودار مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangulation",
+      "Meanings": [
+        "مثلث‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "tridiagonal matrix",
+      "Meanings": [
+        "ماتریس سه‌قطری"
+      ]
+    },
+    {
+      "EnglishWord": "triefficiency",
+      "Meanings": [
+        "سه‌کارآیی"
+      ]
+    },
+    {
+      "EnglishWord": "trigamma function",
+      "Meanings": [
+        "تابع سه‌گاما"
+      ]
+    },
+    {
+      "EnglishWord": "trigonometric",
+      "Meanings": [
+        "مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "trigonometric moments",
+      "Meanings": [
+        "گشتاورهای مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "trim array",
+      "Meanings": [
+        "آرایه پیراسته"
+      ]
+    },
+    {
+      "EnglishWord": "trimean",
+      "Meanings": [
+        "سه‌میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "trim-loss problem",
+      "Meanings": [
+        "مسیله پیراسته‌زیان"
+      ]
+    },
+    {
+      "EnglishWord": "trimmed",
+      "Meanings": [
+        "پیراسته"
+      ]
+    },
+    {
+      "EnglishWord": "trimming and winsorization",
+      "Meanings": [
+        "پیرایش و وینزوریدن"
+      ]
+    },
+    {
+      "EnglishWord": "trine",
+      "Meanings": [
+        "سه‌یک"
+      ]
+    },
+    {
+      "EnglishWord": "trinomial distribution",
+      "Meanings": [
+        "توزیع سه‌جمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "triple integral",
+      "Meanings": [
+        "انتگرال سه‌گانه"
+      ]
+    },
+    {
+      "EnglishWord": "triple scatter plot",
+      "Meanings": [
+        "نمودار پراکنش سه‌گانه"
+      ]
+    },
+    {
+      "EnglishWord": "tripotent matrix",
+      "Meanings": [
+        "ماتریس سه‌توان"
+      ]
+    },
+    {
+      "EnglishWord": "trojan square",
+      "Meanings": [
+        "مربع همه‌کاره"
+      ]
+    },
+    {
+      "EnglishWord": "true prior",
+      "Meanings": [
+        "پیشین واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "true value of the parameter",
+      "Meanings": [
+        "مقدار واقعی پارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "truncated data",
+      "Meanings": [
+        "داده‌های بریده"
+      ]
+    },
+    {
+      "EnglishWord": "truncated distribution",
+      "Meanings": [
+        "توزیع بریده"
+      ]
+    },
+    {
+      "EnglishWord": "truncated sampling",
+      "Meanings": [
+        "نمونه گیری بریده"
+      ]
+    },
+    {
+      "EnglishWord": "truncation",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "truncation method",
+      "Meanings": [
+        "روش برشی"
+      ]
+    },
+    {
+      "EnglishWord": "truth",
+      "Meanings": [
+        "راستی"
+      ]
+    },
+    {
+      "EnglishWord": "tschuprow's coefficient t",
+      "Meanings": [
+        "ضریب Tی چوپروف"
+      ]
+    },
+    {
+      "EnglishWord": "t-square sampling",
+      "Meanings": [
+        "نمونه گیری T دو"
+      ]
+    },
+    {
+      "EnglishWord": "t-statistic",
+      "Meanings": [
+        "تی t",
+        "آماره"
+      ]
+    },
+    {
+      "EnglishWord": "ttt-plot",
+      "Meanings": [
+        "نمودارTTT"
+      ]
+    },
+    {
+      "EnglishWord": "ttt-transform",
+      "Meanings": [
+        "تبدیل TTT"
+      ]
+    },
+    {
+      "EnglishWord": "tukey-kramer interval",
+      "Meanings": [
+        "بازه توکی",
+        "کرامر"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's confidence interval for location",
+      "Meanings": [
+        "بازه اطمینان توکی برای مکان"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's g- and h-distributions",
+      "Meanings": [
+        "توزیعهای g و h توکی"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's hanging rootogram",
+      "Meanings": [
+        "ریشه‌نگار آویزان توکی"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's inequality for optimal weights",
+      "Meanings": [
+        "نابرابری توکی برای وزنهای بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's line",
+      "Meanings": [
+        "خط توکی"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's quick test",
+      "Meanings": [
+        "آزمون فوری توکی"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's simultaneous comparison procedure",
+      "Meanings": [
+        "شیوه مقایسه همزمان توکی"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's test for nonadditivity",
+      "Meanings": [
+        "آزمون توکی برای ناجمعی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "tukey's test for ordered alternatives",
+      "Meanings": [
+        "آزمون توکی برای فرضهای مقابل مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "tversky's model of choice",
+      "Meanings": [
+        "مدل انتخاب چه‌ورسکی"
+      ]
+    },
+    {
+      "EnglishWord": "twicing",
+      "Meanings": [
+        "دوباریدن"
+      ]
+    },
+    {
+      "EnglishWord": "two-armed bandit problem",
+      "Meanings": [
+        "مسیله ماشین قمار دوبازو"
+      ]
+    },
+    {
+      "EnglishWord": "two-by-two  2 2  table",
+      "Meanings": [
+        "جدول دو در دو 2*"
+      ]
+    },
+    {
+      "EnglishWord": "twoing index",
+      "Meanings": [
+        "شاخص دوپاره‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "two-sample problem",
+      "Meanings": [
+        "مسیله دونمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "two-series theorem",
+      "Meanings": [
+        "قضیه دوسری‌یی"
+      ]
+    },
+    {
+      "EnglishWord": "two-sex problem",
+      "Meanings": [
+        "مسیله دوجنسی"
+      ]
+    },
+    {
+      "EnglishWord": "two-sided test",
+      "Meanings": [
+        "آزمون دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "two-stage design",
+      "Meanings": [
+        "طرح دومرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "two-stage least squares",
+      "Meanings": [
+        "کمترین توانهای دوم دومرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "two-way classification",
+      "Meanings": [
+        "رده‌بندی دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "type 2 frequency distribution",
+      "Meanings": [
+        "توزیع فراوانی نوع"
+      ]
+    },
+    {
+      "EnglishWord": "type bias",
+      "Meanings": [
+        "اریبی نوع"
+      ]
+    },
+    {
+      "EnglishWord": "type i and type ii variables",
+      "Meanings": [
+        "متغیرهای نوع اول و نوع دوم"
+      ]
+    },
+    {
+      "EnglishWord": "type i error  error of the first kind  error of type i",
+      "Meanings": [
+        "خطای نوع اول"
+      ]
+    },
+    {
+      "EnglishWord": "type ii error  error of the second kind  error of type ii",
+      "Meanings": [
+        "خطای نوع دوم"
+      ]
+    },
+    {
+      "EnglishWord": "type iii and type iv errors",
+      "Meanings": [
+        "خطاهای نوع سوم و نوع چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "types of regression models",
+      "Meanings": [
+        "انواع مدلهای رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "typical value",
+      "Meanings": [
+        "مقدار نوعی"
+      ]
+    },
+    {
+      "EnglishWord": "typology",
+      "Meanings": [
+        "گونه‌شناسی"
+      ]
+    }
+  ]
+}

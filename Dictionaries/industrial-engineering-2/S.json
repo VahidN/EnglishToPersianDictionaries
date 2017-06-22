@@ -1,0 +1,989 @@
+﻿{
+  "Group": "S",
+  "Entries": 133,
+  "Words": [
+    {
+      "EnglishWord": "safety",
+      "Meanings": [
+        "ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "safety stock",
+      "Meanings": [
+        "ذخیره احتیاطی",
+        "ذخیره ایمنی",
+        "موجودی تضمینی"
+      ]
+    },
+    {
+      "EnglishWord": "salary",
+      "Meanings": [
+        "حقوق",
+        "دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "salvage",
+      "Meanings": [
+        "تفکیک سالم از معیوب",
+        "مصرف مجدد ضایعات",
+        "بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "salvage value",
+      "Meanings": [
+        "ارزش بازیافتی",
+        "ارزش اسقاطی"
+      ]
+    },
+    {
+      "EnglishWord": "salvageable",
+      "Meanings": [
+        "قابل بازیافت",
+        "قابل نجات"
+      ]
+    },
+    {
+      "EnglishWord": "sample",
+      "Meanings": [
+        "نمونه",
+        "نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "نمونه گیری",
+        "نمونه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "sansei",
+      "Meanings": [
+        "یک معلم خصوصی که بر و اصول حاکم بر آن تسلط دارد"
+      ]
+    },
+    {
+      "EnglishWord": "scatter diagram",
+      "Meanings": [
+        "نمودار پراکندگی",
+        "پراکنش نگار",
+        "نمودار X",
+        "Y از داده‌ها برای ارزیابی رابطه بین دو متغیر. Scatter Plot یا Scattergram با استفاده از این نمودار می‌توان به شکل و میزان پراکندگی تولیدات در محدوده تلرانسی نقشه و یا خواست مشتری پی برد"
+      ]
+    },
+    {
+      "EnglishWord": "scatter plot",
+      "Meanings": [
+        "نمودار پراکندگی",
+        "پراکنش نگار",
+        "نمودار X",
+        "Y از داده‌ها برای ارزیابی رابطه بین دو متغیر. Scatter Plot یا Scattergram با استفاده از این نمودار می‌توان به شکل و میزان پراکندگی تولیدات در محدوده تلرانسی نقشه و یا خواست مشتری پی برد"
+      ]
+    },
+    {
+      "EnglishWord": "scattergram",
+      "Meanings": [
+        "پراکنش نگار",
+        "نمودار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "schedule",
+      "Meanings": [
+        "زمانبندی",
+        "برنامه زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "schedule performance index  spi",
+      "Meanings": [
+        "شاخصی برای نشان دادن نسبت کار انجام شده به کار برنامه ریزی شده تا یک تاریخ معین که برای تخمین زمان پایان پروژه به کار می‌رود",
+        "SPI=BCWP/BCWS"
+      ]
+    },
+    {
+      "EnglishWord": "scheduling",
+      "Meanings": [
+        "زمانبندی"
+      ]
+    },
+    {
+      "EnglishWord": "scrap",
+      "Meanings": [
+        "ضایعات",
+        "قراضه"
+      ]
+    },
+    {
+      "EnglishWord": "seal",
+      "Meanings": [
+        "صحه گذاشتن",
+        "تضمین کردن",
+        "مهر و موم کردن",
+        "عایق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "seam welding",
+      "Meanings": [
+        "جوشکاری پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "second normal form  2nf",
+      "Meanings": [
+        "شکل دوم نرمال",
+        "در آن سعی می‌شود که از تکرار داده‌ها خودداری گردد"
+      ]
+    },
+    {
+      "EnglishWord": "seiketsu",
+      "Meanings": [
+        "اکیزگی‌",
+        "نظافت شخصی",
+        "مرحله چهارم از فرآیند 5S است",
+        "نظم و پاکیزگی بایستی به یک عادت تبدیل شود و این کار را هر کسی باید از خود آغاز کند"
+      ]
+    },
+    {
+      "EnglishWord": "seiri",
+      "Meanings": [
+        "سازماندهی",
+        "بر پا نمودن",
+        "اولین مرحله از مراحل 5S که خود دارای پنج مرحله است",
+        "کار در فرآیند",
+        "ابزار غیر ضروری",
+        "ماشین آلات بلا استفاده",
+        "محصولات معیوب",
+        "کاغذها و مدارک\u000bباید اشیاء ضروری را از اشیاء غیر ضروری جدا نمود و آنچه ضروری نیست را دور انداخت"
+      ]
+    },
+    {
+      "EnglishWord": "seiso",
+      "Meanings": [
+        "تمیزی",
+        "مرحله سوم از 5S است",
+        "پیشگیری از کثیفی و پاکیزه نگاه داشتن محیط",
+        "اموال و افراد و حذف یا کنترل آلاینده ها"
+      ]
+    },
+    {
+      "EnglishWord": "seiton",
+      "Meanings": [
+        "منظم نمودن وسایل",
+        "مرحله دوم از فرآیند 5S است",
+        "اشیاء باید بطور منظم جمع آوری شوند تا در صورت نیاز برای استفاده آماده باشند"
+      ]
+    },
+    {
+      "EnglishWord": "seizure",
+      "Meanings": [
+        "گیرپاژ"
+      ]
+    },
+    {
+      "EnglishWord": "self management",
+      "Meanings": [
+        "مدیریت شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "sensor",
+      "Meanings": [
+        "حس گر",
+        "حس کننده",
+        "سنسور"
+      ]
+    },
+    {
+      "EnglishWord": "service failure mode and effect analysis  sfmea",
+      "Meanings": [
+        "آنالیز حالات بالقوه خرابی و آثار آن در ارایه خدمات",
+        "روشی تحلیلی و نظام یافته به منظور شناسایی حالات خرابی بالقوه",
+        "اولویت بندی آنها و تعیین اقدامات پیشگیرانه برای حذف آنها قبل از ارایه اولین خدمات به مشتریان"
+      ]
+    },
+    {
+      "EnglishWord": "serviceability",
+      "Meanings": [
+        "قابلیت تعمیر پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "servo",
+      "Meanings": [
+        "خود تنظیم",
+        "سرو"
+      ]
+    },
+    {
+      "EnglishWord": "servo motor",
+      "Meanings": [
+        "موتورهای سرو",
+        "موتور خود تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "setup",
+      "Meanings": [
+        "آماده سازی",
+        "نصب",
+        "راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "severity",
+      "Meanings": [
+        "شدت"
+      ]
+    },
+    {
+      "EnglishWord": "shadow price",
+      "Meanings": [
+        "قیمت سایه",
+        "قیمت جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "shareholder",
+      "Meanings": [
+        "سهامدار"
+      ]
+    },
+    {
+      "EnglishWord": "shelving",
+      "Meanings": [
+        "قفسه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "shipment",
+      "Meanings": [
+        "حمل",
+        "محموله"
+      ]
+    },
+    {
+      "EnglishWord": "shitsuke",
+      "Meanings": [
+        "انضباط",
+        "نظم",
+        "مرحله پنجم از فرآیند 5S است",
+        "روی از دستور العمل‌ها در محیط کار الزامی است"
+      ]
+    },
+    {
+      "EnglishWord": "shop floor",
+      "Meanings": [
+        "کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "shortest processing time  spt",
+      "Meanings": [
+        "کوتاه‌ترین زمان فرآیند",
+        "روشی برای تعیین توالی فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "shusa",
+      "Meanings": [
+        "شوسا",
+        "کارفرما",
+        "شوسارهبرگروهی‌است‌که‌وظیفه‌اش‌طراحی‌ومهندسی‌محصول جدیدوآماده‌کردن‌برای‌تولیداست. دربهترین‌شرکتهامقام‌شوسادارای قدرت‌بسیاری‌است‌وچه‌بسااین‌مقام‌بیشترین‌انگیزه‌راایجادمی‌کند وکارمندان‌درپی‌موقعیتی‌هستندکه‌آنهارابه‌این‌مقام‌نزدیک‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "significance level",
+      "Meanings": [
+        "سطح اهمیت",
+        "حدود اهمیت",
+        "یک سطح اهمیت که برای آزمایش احتمال خروجی‌های تصادفی انتخاب می‌شود",
+        "همچنین با ریسک که به عنوان خطای بیان می‌شود مرتبط است",
+        "که نشان دهنده احتمال خطای تصمیم است"
+      ]
+    },
+    {
+      "EnglishWord": "significant",
+      "Meanings": [
+        "مهم",
+        "با اهمیت",
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "significant level",
+      "Meanings": [
+        "سطح اطمینان",
+        "سطح اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "significante level",
+      "Meanings": [
+        "سطح اهمیت",
+        "حدود اهمیت",
+        "یک سطح اهمیت که برای آزمایش احتمال خروجی‌های تصادفی انتخاب می‌شود",
+        "همچنین با ریسک که به عنوان خطای بیان می‌شود مرتبط است",
+        "که نشان دهنده احتمال خطای تصمیم است"
+      ]
+    },
+    {
+      "EnglishWord": "simplex",
+      "Meanings": [
+        "ساده",
+        "بی آرایش",
+        "سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "simulated annealing  sa",
+      "Meanings": [
+        "شبیه سازی تبرید"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous",
+      "Meanings": [
+        "همزمان",
+        "با هم اتفاق افتادن"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous engineering",
+      "Meanings": [
+        "مهندسی همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous motion",
+      "Meanings": [
+        "حرکت همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "single minute exchange of dies  smed",
+      "Meanings": [
+        "تعویض قالب در زمان تک رقمی از نوع دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "single piece flow",
+      "Meanings": [
+        "حرکت تک واحدی",
+        "موقعیتی که در آن محصولات بصورت یک محصول کامل در یک نوبت پیش می‌روند به این ترتیب که هر محصول عملیات مختلف طراحی",
+        "سفارشگیری و تولید را بدون وقفه",
+        "پسروری یا ضایع سازی طی می‌کند. در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "sinking",
+      "Meanings": [
+        "نزول کردن",
+        "مستهلک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund  sf",
+      "Meanings": [
+        "وجوه استهلاکی"
+      ]
+    },
+    {
+      "EnglishWord": "siopc  suppliersinputsprocessoutputscustomers",
+      "Meanings": [
+        "زنجیره ای شامل تامین کننده",
+        "ورودی ها",
+        "فرآیند",
+        "خروجی‌ها و در نهایت مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "six sigma",
+      "Meanings": [
+        "یک متدولولوژی که با ارایه ابزارهایی",
+        "شرکتها را قادر می‌سازد تا فرآیند‌های خود تواناتر بسازند. این کار باعث بهبود و کاهش نوسانات فرآیند شده و باعث می‌شود تا در نهایت تعداد معیوبی‌های فرآیند به تعداد 2. 4 در میلیون برسد"
+      ]
+    },
+    {
+      "EnglishWord": "skd",
+      "Meanings": [
+        "بسته هایی با روش SKD با روشی همانند CKD طراحی و ساخته می‌شود با این تفاوت که در این روش درجات بالاتری از مونتاژ در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "skewness",
+      "Meanings": [
+        "چولگی",
+        "عدم تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "slack",
+      "Meanings": [
+        "کمکی",
+        "آرام",
+        "شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "slack variable",
+      "Meanings": [
+        "متغیر کمبود",
+        "متغیر لنگی"
+      ]
+    },
+    {
+      "EnglishWord": "slackness",
+      "Meanings": [
+        "زاید"
+      ]
+    },
+    {
+      "EnglishWord": "slip sensor",
+      "Meanings": [
+        "سنسور لغزشی"
+      ]
+    },
+    {
+      "EnglishWord": "slot",
+      "Meanings": [
+        "مقطع زمانی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "smart",
+      "Meanings": [
+        "زیرک",
+        "هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "smart  specific measurable achievable realistic time scheduled",
+      "Meanings": [
+        "مشخص",
+        "قابل اندازه گیری",
+        "قابل دستیابی",
+        "واقع گرا",
+        "زمانبندی شده",
+        "مشخصات یک برنامه زیرکانه و خوب را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "smart card",
+      "Meanings": [
+        "کارت هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "smoothing",
+      "Meanings": [
+        "هموار سازی",
+        "صاف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "society of american value engineerings  save",
+      "Meanings": [
+        "انجمن مهندسین ارزش آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "society of quality assurance  sqa",
+      "Meanings": [
+        "انجمن تضمین کیفیت WWW. SQA. ORG"
+      ]
+    },
+    {
+      "EnglishWord": "spacefilling curve  sfc",
+      "Meanings": [
+        "منحنی‌های فضا پر کن"
+      ]
+    },
+    {
+      "EnglishWord": "spaghetti chart",
+      "Meanings": [
+        "نمودار اسپاگتی",
+        "نقشه مسیرهایی که یک محصول معین در یک سازمان تولید انبوه",
+        "در حین رفتن به پایین جریان ارزش طی می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "spare part",
+      "Meanings": [
+        "قطعه یدکی"
+      ]
+    },
+    {
+      "EnglishWord": "special tools",
+      "Meanings": [
+        "ابزار مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "specimen",
+      "Meanings": [
+        "نمونه‏",
+        "قطعه ای که به عنوان نمونه به منظور تست انتخاب می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "sponser",
+      "Meanings": [
+        "پشتیبان",
+        "ضامن"
+      ]
+    },
+    {
+      "EnglishWord": "sponsor",
+      "Meanings": [
+        "پشتیبان",
+        "ضامن",
+        "حامی",
+        "سرمایه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "spot",
+      "Meanings": [
+        "نقطه",
+        "نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "spot welding",
+      "Meanings": [
+        "جوشکاری نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "spread",
+      "Meanings": [
+        "پراکندگی",
+        "گسترش",
+        "وسعت",
+        "گستردن",
+        "پراکنده ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "stability",
+      "Meanings": [
+        "ثبات",
+        "عبارتست از میزان نوسانات بوجود آمده در سیستم اندازه گیری در اندازه گیری‌های یک مشخصه از یک قطعه و یا قطعه مرجع در طول یک بازه زمانی. به عبارت دیگر",
+        "ثبات عبارتست از تغییرات تمایل در طول زمان"
+      ]
+    },
+    {
+      "EnglishWord": "staff and line",
+      "Meanings": [
+        "صف و ستاد",
+        "صف به افرادی گفته می‌شود که مستقیما فعالیت‌های عملیاتی و اجرایی سازمان را انجام می‌دهند",
+        "ستاد افرادی هستند که زمینه و بسترها را برای پرسنل صفی فراهم می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "stakeholder",
+      "Meanings": [
+        "سهامدار",
+        "ذی نفع",
+        "هر گروهی بیرون یا درون یک سازمان که سهمی در عملکرد سازمان دارد. تامین کنندگان اعتبار",
+        "فروشندگان",
+        "کارکنان و مالکین جمتعلق به این مقوله هستند"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "استاندارد",
+        "معیار",
+        "یک استاندارد چیزی است که به عنوان پایه و اساس مقایسات",
+        "مورد توافق عموم قرار گرفته است",
+        "یک نمونه یا مدل پذیرفته شده"
+      ]
+    },
+    {
+      "EnglishWord": "standard costing",
+      "Meanings": [
+        "هزینه یابی استاندارد",
+        "یک سیستم حسابداری مدیریتی که بر اساس تعداد ساعاتی که ماشین آلات و نیروی کار در یک دوره زمانی معین در اختیار بخش تولید بوده است",
+        "هزینه‌ها را بین محصولات سرشکن می‌کند. در برابر"
+      ]
+    },
+    {
+      "EnglishWord": "standard deviation",
+      "Meanings": [
+        "انحراف معیار",
+        "انحراف استاندارد",
+        "معیاری برای اندازه گیری گسترش جامعه با واحدی برابر واحد اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "standard operating procedures  sop",
+      "Meanings": [
+        "رویه‌های عملی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard reference materials  srm",
+      "Meanings": [
+        "مواد استاندارد مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "standard work",
+      "Meanings": [
+        "توصیف دقیق هر فعالیت کاری که",
+        "توالی کاری وظایف معین و حداقل موجودی لازم را برای انجام آن فعالیت مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "start no earlier than  snet",
+      "Meanings": [
+        "زودتر از تاریخ مشخصی شروع نشود"
+      ]
+    },
+    {
+      "EnglishWord": "start no laterthan  snlt",
+      "Meanings": [
+        "دیرتر از تاریخ مشخصی به اتمام نرسد"
+      ]
+    },
+    {
+      "EnglishWord": "start of production  sop",
+      "Meanings": [
+        "آغاز تولید"
+      ]
+    },
+    {
+      "EnglishWord": "start to finish  sf",
+      "Meanings": [
+        "رابطه آغاز به پایان فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "state of the art",
+      "Meanings": [
+        "به روز",
+        "مدرن",
+        "پیشرفته",
+        "آخرین وضعیت",
+        "شامل آخرین پیشرفت ها"
+      ]
+    },
+    {
+      "EnglishWord": "statement of work  sow",
+      "Meanings": [
+        "دستور کار",
+        "مدیریت پروژه: توصیف تشریحی محصولات یا خدمات مورد تهیه طبق پیمان یا قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "statistic",
+      "Meanings": [
+        "آماری",
+        "آماره"
+      ]
+    },
+    {
+      "EnglishWord": "statistical",
+      "Meanings": [
+        "آماری",
+        "وابسته به آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistical process control  spc",
+      "Meanings": [
+        "کنترل فرایند آماری",
+        "مجموعه ای توانا از هفت ابزار قوی کیفیت که باعث ثبات در فرآیند گشته و توانایی آن را در جهت تولید محصول با کیفیت",
+        "بالا می‌برد"
+      ]
+    },
+    {
+      "EnglishWord": "statistical process improvement  spi",
+      "Meanings": [
+        "بهبود آماری فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "statistical quality control  sqc",
+      "Meanings": [
+        "کنترل کیفیت آماری",
+        "سنجش میزان عدم انطباقات مواد اولیه",
+        "فرآیند و یا محصولات برای براورده کردن نیازهای محصول و کمک به بهبود کیفیت با تولید در شرایط بهینه",
+        "بدون تحمیل کردن هزینه‌های اضافی بر سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "status",
+      "Meanings": [
+        "وضعیت",
+        "حالت"
+      ]
+    },
+    {
+      "EnglishWord": "status curve",
+      "Meanings": [
+        "منحنی وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "steepest descent pairwise interchange  sdpi",
+      "Meanings": [
+        "تعویض دو تایی دپارتمان‌ها با بیشترین کاهش هزینه بیشترین شیب"
+      ]
+    },
+    {
+      "EnglishWord": "stem   leaf plot",
+      "Meanings": [
+        "نمودار شاخه و برگ"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic",
+      "Meanings": [
+        "اتفاقی",
+        "احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "stock",
+      "Meanings": [
+        "ذخیره",
+        "موجودی",
+        "محموله",
+        "بار"
+      ]
+    },
+    {
+      "EnglishWord": "stock material",
+      "Meanings": [
+        "مواد اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "stock out",
+      "Meanings": [
+        "کمبود در موجودی",
+        "ناموجود"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "ذخیره سازی",
+        "انبار کردن",
+        "انبارش"
+      ]
+    },
+    {
+      "EnglishWord": "straight",
+      "Meanings": [
+        "راست",
+        "مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "strange attractors",
+      "Meanings": [
+        "جاذبه‌های غریب",
+        "یعنی الگوهای منظمی هستند که از بی نظمی بدست می‌آیند"
+      ]
+    },
+    {
+      "EnglishWord": "strategic",
+      "Meanings": [
+        "راهبردی",
+        "استراتژیک"
+      ]
+    },
+    {
+      "EnglishWord": "strategic planning",
+      "Meanings": [
+        "برنامه ریزی استراتژیک",
+        "برنامه ریزی جامع",
+        "مشخص کردن اهداف طولانی مدت برای‌های یک سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "stratified sampling",
+      "Meanings": [
+        "نمونه گیری طبقه ای",
+        "نمونه گیری لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "strength",
+      "Meanings": [
+        "نقطه قوت",
+        "قوت",
+        "در مقابل نقطه ضعف Wheakness"
+      ]
+    },
+    {
+      "EnglishWord": "strengths weaknesses opportunities and threats  swot",
+      "Meanings": [
+        "آنالیز SWOT برای تجزیه و تحلیل فرصتها و تهدیدهای محیط اطراف",
+        "تجزیه و تحلیل سازمانی که به سازمانها کمک می‌کند تا بتوانند منابع داخلی خود را در دوره‌های قدرت و ضعف تجزیه و تحلیل کرده و آنها را در برابر محیط خارجی در دوره‌های فرصت‌ها و تهدید‌ها با هم هماهنگ کنند"
+      ]
+    },
+    {
+      "EnglishWord": "structure",
+      "Meanings": [
+        "ساختار",
+        "ساخت",
+        "بنا",
+        "تشکیلات",
+        "اسکلت",
+        "استراکچر"
+      ]
+    },
+    {
+      "EnglishWord": "structured query language  sql",
+      "Meanings": [
+        "زبان پرس و جوی ساخت یافته"
+      ]
+    },
+    {
+      "EnglishWord": "successor",
+      "Meanings": [
+        "ما بعد",
+        "پی آمد",
+        "پس نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "sum of squares  ss",
+      "Meanings": [
+        "مجموع مربعات. عبارتست از مجموع مجذورات اختلاف متغیرها از میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "خلاصه",
+        "مجمل"
+      ]
+    },
+    {
+      "EnglishWord": "summery",
+      "Meanings": [
+        "خلاصه",
+        "مجمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary",
+      "Meanings": [
+        "تکمیلی",
+        "اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "supplier",
+      "Meanings": [
+        "تامین کننده",
+        "تولید کننده",
+        "پیمانکار"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain",
+      "Meanings": [
+        "زنجیره تامین",
+        "مجموعه بهم پیوسته منابع و فرایندها که با تعیین منبع مواد خام آغاز شده و به تحویل اقلام نهایی به مشتری ختم می‌شود. این مجموعه شامل فروشندگان",
+        "امکانات تولیدی",
+        "فراهم کنندگان تدارکات",
+        "مراکز توزیع داخلی",
+        "توزیع کنندگان",
+        "فروشندگان عمده و سایر موجودیت هایی که منجر به پذیرش مشتری نهایی می‌شوند می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain management  scm",
+      "Meanings": [
+        "مدیریت زنجیره تامین کالا"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain operation reference  scor",
+      "Meanings": [
+        "مرجع عملکردی زنجیره تامین",
+        "هدف این مدل",
+        "حمایت مدیران در فرآیند یکپارچه سازی زنجیره تامین است"
+      ]
+    },
+    {
+      "EnglishWord": "surface",
+      "Meanings": [
+        "رویه",
+        "سطح",
+        "ظاهر"
+      ]
+    },
+    {
+      "EnglishWord": "swipe",
+      "Meanings": [
+        "یک مدل خطا برای اشاره به شش عنصر اساسی سیستم اندازه گیری تعمیم یافته",
+        "برای اطمینان از نیل به اهداف مورد نیاز",
+        "بکار می‌رود که نشانگر کلمات زیر است",
+        "استاندارد",
+        "قطعه کار WorkPiece",
+        "ابزار آلات Instrument",
+        "اشخاص و رویه‌ها Person/Procedure",
+        "محیط Environment"
+      ]
+    },
+    {
+      "EnglishWord": "synthesis",
+      "Meanings": [
+        "ترکیب",
+        "ترکیب کردن",
+        "ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "سیستم",
+        "دستگاه",
+        "منظومه",
+        "سامانه",
+        "مجموعه منظمی از عناصر به هم وابسته که برای رسیدن به اهداف مشترکی با هم در تعامل هستند"
+      ]
+    },
+    {
+      "EnglishWord": "system analysis",
+      "Meanings": [
+        "تحلیل سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system approach",
+      "Meanings": [
+        "نگرش سیستمی",
+        "رویکرد سیستمی",
+        "در این رویکرد به سیستم به عنوان یک «کل» نگریسته می‌شود و به اجزای آن با توجه به نقشی که در کل دارند نگاه می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "system failure mode and effect analysis  sfmea",
+      "Meanings": [
+        "تجزیه و تحلیل حالات بالقوه خرابی در سیستم",
+        "روشی سیستماتیک به منظور تحلیل و بررسی یک سیستم و زیر سیستم‌های آن در ابتدایی‌ترین مراحل طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "systematic error",
+      "Meanings": [
+        "خطای سیستماتیک",
+        "خطای غیر تصادفی",
+        "خطای با دلیل"
+      ]
+    }
+  ]
+}

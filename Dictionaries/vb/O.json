@@ -1,0 +1,181 @@
+﻿{
+  "Group": "O",
+  "Entries": 23,
+  "Words": [
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شیء",
+        "نوعی از متغیرها که مقدار آن برابر چهار بایت است و شامل تمام شیءهای VB می‌شود",
+        "اشیاء ویژوال بیسیک مانند دکمه و"
+      ]
+    },
+    {
+      "EnglishWord": "object browser",
+      "Meanings": [
+        "جستجوگر اشیاء",
+        "پنجره ای که در آن لیستی از تمام اشیاء VB و پروژه با قابلیت جستجو قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "object linking and embedding",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "oca",
+      "Meanings": [
+        "Control TypeLib cache file"
+      ]
+    },
+    {
+      "EnglishWord": "oct",
+      "Meanings": [
+        "Oct al",
+        "بر مبنای هشت",
+        "دستوری برای تبدیل به مبنای هشت",
+        "Oct Number"
+      ]
+    },
+    {
+      "EnglishWord": "octal",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "ocx",
+      "Meanings": [
+        "O LE Custom C ontrol E x tension",
+        "ActiveX control",
+        "فایلهای کامپوننت"
+      ]
+    },
+    {
+      "EnglishWord": "odbc",
+      "Meanings": [
+        "O pen D ata b ase C onnectivity"
+      ]
+    },
+    {
+      "EnglishWord": "ok",
+      "Meanings": [
+        "قبول"
+      ]
+    },
+    {
+      "EnglishWord": "ole",
+      "Meanings": [
+        "O bject L inking and E mbedding",
+        "پیوند و جاسازی اشیاء",
+        "یکی از اشیاء VB برای وارد کردن فایلهای برنامه‌های دیگر مانند Excel به برنامه خود"
+      ]
+    },
+    {
+      "EnglishWord": "on error",
+      "Meanings": [
+        "دستوری که هنگام رخ دادن اشتباه رخ می‌دهد",
+        "On Error GoTo line",
+        "دستوری که هنگام رخ دادن اشتباه به کد Line رجوع می‌کند",
+        "On Error Resume Next",
+        "دستوری که هنگام رخ دادن اشتباه از اشتباه صرف نظر کرده و به برنامه ادامه می‌دهد",
+        "On Error GoTo",
+        "دستوری که هنگام رخ دادن اشتباه از اشتباه صرف نظر می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "on...gosub",
+      "Meanings": [
+        "دستوری برای مراجعه به دستوری دیگر",
+        "On expression GoSub destinationlist"
+      ]
+    },
+    {
+      "EnglishWord": "on...goto",
+      "Meanings": [
+        "دستوری برای مراجعه یک کد به دستوری دیگر",
+        "On expression GoTo destinationlist"
+      ]
+    },
+    {
+      "EnglishWord": "oop",
+      "Meanings": [
+        "O bject O riented P rogramming",
+        "برنامه نویسی شیء گرا"
+      ]
+    },
+    {
+      "EnglishWord": "open",
+      "Meanings": [
+        "باز کردن",
+        "یکی از متددهای Animation Control برای باز کردن یک فیلم",
+        "دستوری برای باز کردن فایلها به صورت تصادفی",
+        "Open pathname As filenumber Len = reclength"
+      ]
+    },
+    {
+      "EnglishWord": "open database connectivity",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "open project",
+      "Meanings": [
+        "باز کزدن پروژه",
+        "این پنجره که در منوی File قرار دارد و با Ctrl+O اجرا می‌شود برای باز کردن یک پروژه استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "opt",
+      "Meanings": [
+        "Opt ion",
+        "این لغت برای نامگذاری OptionBox استفاده می‌شود به صورت optName"
+      ]
+    },
+    {
+      "EnglishWord": "option explicit",
+      "Meanings": [
+        "دستوری برای تعریف کردن صریح تمام متغیرها",
+        "برای اجرای اتوماتیک دستور در تمام برنامه گزینه Requre Variable Declaration را از Tools/Options فعال کنید"
+      ]
+    },
+    {
+      "EnglishWord": "optional",
+      "Meanings": [
+        "اختیاری",
+        "یکی از کلمه‌های تعریف متغیر که معمولا در دستورات Sub و Function درون پرانتز استفاده می‌شود و متغیر را طوری تعریف می‌کند که اگر به آن مقداری بدهیم یا ندهیم فرقی ندارد",
+        "Optional VarName As VarType"
+      ]
+    },
+    {
+      "EnglishWord": "optionbutton",
+      "Meanings": [
+        "گزینه انتخابی",
+        "یکی از شیء‌های VB که شکل یک گزینه انتخابی همراه با یک متن در کنار آن را بر روی فرم ایجاد می‌کند یعنی اگر چند عدد از آن را بسازید فقط یکی از آنها قابل انتخاب است و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "عنوان آن خصیصه Caption",
+        "رنگ آن خصیصه BackColor",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "options",
+      "Meanings": [
+        "گزینه‌ها",
+        "گزینه ای در منوی Tools که برای تنظیمات برنامه استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "orange",
+      "Meanings": [
+        "نارنجی",
+        "رنگ نارنجی",
+        "RGB"
+      ]
+    }
+  ]
+}

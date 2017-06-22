@@ -1,0 +1,876 @@
+﻿{
+  "Group": "N",
+  "Entries": 145,
+  "Words": [
+    {
+      "EnglishWord": "nafta  north american free trade agreement",
+      "Meanings": [
+        "موافقتنامه تجارت آزاد آمریکای شمالی"
+      ]
+    },
+    {
+      "EnglishWord": "naive investors",
+      "Meanings": [
+        "سرمایه گذاران مبتدی سرمایه گذاران کم اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "naked debenture",
+      "Meanings": [
+        "اوراق قرضه بدون تضمین/ بدون وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "name of security",
+      "Meanings": [
+        "نام ورقه بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "names of stockholders",
+      "Meanings": [
+        "اسامی سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "narrative",
+      "Meanings": [
+        "کتبی شرح نوشته"
+      ]
+    },
+    {
+      "EnglishWord": "national accounting",
+      "Meanings": [
+        "حسابداری ملی"
+      ]
+    },
+    {
+      "EnglishWord": "national association of accountants  naa",
+      "Meanings": [
+        "انجمن ملی حسابداران"
+      ]
+    },
+    {
+      "EnglishWord": "national association of securities dealers  nasd",
+      "Meanings": [
+        "انجمن ملی معامله گران اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "national association of securities dealers automated quotations  nasdap",
+      "Meanings": [
+        "انجمن ملی سیستم قیمت گذاری خودکار معامله گران اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "national auditing practices",
+      "Meanings": [
+        "قواعد/ رویه‌های حسابرسی ملی"
+      ]
+    },
+    {
+      "EnglishWord": "national auditing standards",
+      "Meanings": [
+        "استانداردهای ملی حسابرسی استانداردهای حسابرس ملی"
+      ]
+    },
+    {
+      "EnglishWord": "national income",
+      "Meanings": [
+        "درآمد ملی"
+      ]
+    },
+    {
+      "EnglishWord": "national market system nasdaq  nms",
+      "Meanings": [
+        "سیستم بازار ملی"
+      ]
+    },
+    {
+      "EnglishWord": "natural expense classification",
+      "Meanings": [
+        "طبقه بندی طبیعی هزینه ها"
+      ]
+    },
+    {
+      "EnglishWord": "natural resources wasting assets",
+      "Meanings": [
+        "منابع طبیعی دارایی‌های اتلاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "natural sciences",
+      "Meanings": [
+        "علوم طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "negative assurance",
+      "Meanings": [
+        "اطمینان سلبی"
+      ]
+    },
+    {
+      "EnglishWord": "negative confirmation",
+      "Meanings": [
+        "تاییدیه منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative goodwill",
+      "Meanings": [
+        "سرقفلی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative social value",
+      "Meanings": [
+        "ارزش اجتماعی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "neglected firm effect",
+      "Meanings": [
+        "اثر شرکت لحاظ نشده/ اغماض شده"
+      ]
+    },
+    {
+      "EnglishWord": "negligence",
+      "Meanings": [
+        "سهل انگاری"
+      ]
+    },
+    {
+      "EnglishWord": "negotiated static budget",
+      "Meanings": [
+        "بودجه ثابت مذاکره ای"
+      ]
+    },
+    {
+      "EnglishWord": "negotiated transfer price",
+      "Meanings": [
+        "قیمت انتقالی مذاکره ای"
+      ]
+    },
+    {
+      "EnglishWord": "neither gain nor loss",
+      "Meanings": [
+        "نه سود و نه زیان"
+      ]
+    },
+    {
+      "EnglishWord": "net asset value",
+      "Meanings": [
+        "ارزش دارایی خالص ارزش خالص دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "net assets",
+      "Meanings": [
+        "خالص داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "net identifiable assets",
+      "Meanings": [
+        "خالص داراییهای قابل شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "net income",
+      "Meanings": [
+        "سود خالص سود ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net income available to common stockholders",
+      "Meanings": [
+        "سود خالص قابل توزیع به صاحبان سهام عادی سود خالص متعلق به سهامداران عادی"
+      ]
+    },
+    {
+      "EnglishWord": "net income or loss",
+      "Meanings": [
+        "سود یا زیان خالص/ ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net income to residual holders",
+      "Meanings": [
+        "سود خالص متعلق به دارندگان حقوق باقیمانده/ نهایی/ مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "net loss",
+      "Meanings": [
+        "زیان خالص/ ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net markdowns",
+      "Meanings": [
+        "خالص کاهش قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "net markups",
+      "Meanings": [
+        "خالص افزایش قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "net method",
+      "Meanings": [
+        "روش خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net of income taxes",
+      "Meanings": [
+        "خالص از مالیات بر درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "net of tax display",
+      "Meanings": [
+        "نمایش انعکاس خالص پس از کسر مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "net operating loss",
+      "Meanings": [
+        "خالص زیان عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "net pay",
+      "Meanings": [
+        "دریافتی/ پرداختی خالص حقوق پس از کسر کسورات"
+      ]
+    },
+    {
+      "EnglishWord": "net present value  npv",
+      "Meanings": [
+        "ارزش فعلی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net proceeds",
+      "Meanings": [
+        "عایدات خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net profit",
+      "Meanings": [
+        "سود خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net purchases",
+      "Meanings": [
+        "خریدهای خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net realizable value  nrv",
+      "Meanings": [
+        "ارزش خالص بازیافتنی ارزش خالص قابل تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "net realizable value less normal profit margin",
+      "Meanings": [
+        "ارزش خالص بازیافتنی منهای سود ناخالص متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "net realizable value method",
+      "Meanings": [
+        "روش ارزش خالص بازیافتنی/ قابل تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "net relevant cost",
+      "Meanings": [
+        "خالص هزینه مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "net sales",
+      "Meanings": [
+        "فروش‌های خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net working capital",
+      "Meanings": [
+        "خالص سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "neutrality",
+      "Meanings": [
+        "بیطرفی عاری از تمابلات جانبدارانه"
+      ]
+    },
+    {
+      "EnglishWord": "new product development time",
+      "Meanings": [
+        "زمان ایجاد محصول جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new york stock exchange  nyse  index",
+      "Meanings": [
+        "شاخص بورس سهام نیویورک"
+      ]
+    },
+    {
+      "EnglishWord": "news releases",
+      "Meanings": [
+        "نشریات خبری"
+      ]
+    },
+    {
+      "EnglishWord": "next audit notes",
+      "Meanings": [
+        "کاربرگ نکات حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "next year",
+      "Meanings": [
+        "سال آینده"
+      ]
+    },
+    {
+      "EnglishWord": "no effect",
+      "Meanings": [
+        "بدون تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "no growth model",
+      "Meanings": [
+        "مدل بدون رشد"
+      ]
+    },
+    {
+      "EnglishWord": "no limit order",
+      "Meanings": [
+        "سفارش نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "no par shares",
+      "Meanings": [
+        "سهام فاقد ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal dollar accounting",
+      "Meanings": [
+        "حسابداری براساس دلار اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal dollar concept of capital maintenance",
+      "Meanings": [
+        "حفظ سرمایه براساس مفهوم دلار اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal influence",
+      "Meanings": [
+        "نفوذ اسمی/ غیر موثر"
+      ]
+    },
+    {
+      "EnglishWord": "nominal return",
+      "Meanings": [
+        "بازده اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal scale",
+      "Meanings": [
+        "مقیاس اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "non audit services",
+      "Meanings": [
+        "خدمات غیر حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "non controllable costs",
+      "Meanings": [
+        "هزینه‌های غیر قابل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "non convertible preferred stock",
+      "Meanings": [
+        "سهام ممتاز غیر قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "non cumulative preferred stock",
+      "Meanings": [
+        "سهام ممتاز بدون سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "non expendable trust fund",
+      "Meanings": [
+        "حساب مستقل وجوه امانی غیر قابل مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "non interest bearing note",
+      "Meanings": [
+        "سند بدون بهر"
+      ]
+    },
+    {
+      "EnglishWord": "non interest bearing notes",
+      "Meanings": [
+        "اسناد بدون بهره"
+      ]
+    },
+    {
+      "EnglishWord": "non market risk",
+      "Meanings": [
+        "ریسک غیر سیستماتیک ریسک قابل حذف"
+      ]
+    },
+    {
+      "EnglishWord": "non operating income",
+      "Meanings": [
+        "سود/ درآمد غیرعملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "non pecuniary benefits",
+      "Meanings": [
+        "مزایای غیر مالی"
+      ]
+    },
+    {
+      "EnglishWord": "non recurring items",
+      "Meanings": [
+        "اقلام غیرتکراری"
+      ]
+    },
+    {
+      "EnglishWord": "non refundable",
+      "Meanings": [
+        "غیر قابل استرداد"
+      ]
+    },
+    {
+      "EnglishWord": "non sampling risk",
+      "Meanings": [
+        "ریسک غیر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "non statistical sampling",
+      "Meanings": [
+        "نمونه گیری غیرآماری"
+      ]
+    },
+    {
+      "EnglishWord": "non value added activities",
+      "Meanings": [
+        "فعالیتهای فاقد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "non value added cost",
+      "Meanings": [
+        "مخارج فاقد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "non value added operations",
+      "Meanings": [
+        "عملیات فاقد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "non volume related drivers",
+      "Meanings": [
+        "محرکهای غیر مرتبط با حجم"
+      ]
+    },
+    {
+      "EnglishWord": "noncancelable lease agreement",
+      "Meanings": [
+        "قرارداد اجاره غیرقابل فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "noncash compensation",
+      "Meanings": [
+        "حقوق و مزایای غیرنقدی"
+      ]
+    },
+    {
+      "EnglishWord": "noncash expenses",
+      "Meanings": [
+        "هزینه‌های غیرنقدی"
+      ]
+    },
+    {
+      "EnglishWord": "noncash transactions",
+      "Meanings": [
+        "مبادلات غیرنقدی"
+      ]
+    },
+    {
+      "EnglishWord": "noncompensatory plan",
+      "Meanings": [
+        "طرح غیر جبرانی"
+      ]
+    },
+    {
+      "EnglishWord": "noncompliance",
+      "Meanings": [
+        "عدم رعایت عدم انطباق"
+      ]
+    },
+    {
+      "EnglishWord": "noncontrollable variance",
+      "Meanings": [
+        "انحراف غیرقابل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "nonconvertible preferred stock",
+      "Meanings": [
+        "سهام ممتاز غیر قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "noncost methods",
+      "Meanings": [
+        "روشهای غیر بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "noncounterbalancing errors",
+      "Meanings": [
+        "اشتباهات غیر متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "noncurrent liability account",
+      "Meanings": [
+        "حساب بدهی غیرجاری"
+      ]
+    },
+    {
+      "EnglishWord": "nondiscounting model",
+      "Meanings": [
+        "مدل غیرتنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "noninventoriable period costs",
+      "Meanings": [
+        "مخارج غیرقابل منتسب به موجودی کالا مخارج دوره"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear cost functions",
+      "Meanings": [
+        "توابع غیرخطی هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "nonmonetary exchange",
+      "Meanings": [
+        "معاوضه غیرپولی"
+      ]
+    },
+    {
+      "EnglishWord": "nonmonetary items",
+      "Meanings": [
+        "بدهی غیرپولی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegligent performance",
+      "Meanings": [
+        "عملکرد/ اجرای غیر سهل انگارانه"
+      ]
+    },
+    {
+      "EnglishWord": "nonproduction costs",
+      "Meanings": [
+        "مخارج غیرمرتبط با تولید"
+      ]
+    },
+    {
+      "EnglishWord": "nonprofit or not for profit entities",
+      "Meanings": [
+        "واحدهای غیرانتفاعی"
+      ]
+    },
+    {
+      "EnglishWord": "nonpublic companies",
+      "Meanings": [
+        "شرکتهای غیرسهامی عام"
+      ]
+    },
+    {
+      "EnglishWord": "nonreciprocal transfer",
+      "Meanings": [
+        "انتقال غیرمتقابل"
+      ]
+    },
+    {
+      "EnglishWord": "nonroutine decisions",
+      "Meanings": [
+        "تصمیمات غیر روزمره"
+      ]
+    },
+    {
+      "EnglishWord": "nonsampling errors",
+      "Meanings": [
+        "اشتباهات غیر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonsampling risk",
+      "Meanings": [
+        "ریسک غیر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonsatiation",
+      "Meanings": [
+        "اشباع ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonstatistical sampling",
+      "Meanings": [
+        "نمونه گیری غیرآماری"
+      ]
+    },
+    {
+      "EnglishWord": "nonsufficient fund  nsf  check",
+      "Meanings": [
+        "چک بلامحل"
+      ]
+    },
+    {
+      "EnglishWord": "nonunit based activity cost drivers",
+      "Meanings": [
+        "محرکهای هزینه فعالیت مبتی بر غیر واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "nonvalue added activities",
+      "Meanings": [
+        "فعالیتهای فاقد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "nonvalue added costs",
+      "Meanings": [
+        "مخارج فاقد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "nonvoting",
+      "Meanings": [
+        "فاقد حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "nonvoting shares",
+      "Meanings": [
+        "سهام فاقد حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "nopar value stock",
+      "Meanings": [
+        "سهام بدون ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "normal activity level",
+      "Meanings": [
+        "سطح فعالیت عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal balance of account",
+      "Meanings": [
+        "مانده عادی حساب"
+      ]
+    },
+    {
+      "EnglishWord": "normal costing",
+      "Meanings": [
+        "هزینه یابی عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal costing system",
+      "Meanings": [
+        "سیستم خهزینه یابی عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution",
+      "Meanings": [
+        "توزیع عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal operating cycle",
+      "Meanings": [
+        "چرخه عادی عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "normal operating range",
+      "Meanings": [
+        "دامنه عادی عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "normal profit margin",
+      "Meanings": [
+        "سود ناخالص عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal rate of return",
+      "Meanings": [
+        "نرخ بازده عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal utilization",
+      "Meanings": [
+        "بهره برداری عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normative theories",
+      "Meanings": [
+        "تیوریهای هنجاری دستوری"
+      ]
+    },
+    {
+      "EnglishWord": "not applicable  na",
+      "Meanings": [
+        "مورد ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "not for profit organizations",
+      "Meanings": [
+        "سازمانهای غیرانتفاعی"
+      ]
+    },
+    {
+      "EnglishWord": "not sufficient funds  nsf",
+      "Meanings": [
+        "چکهای بالامحل چکهای لاوصول"
+      ]
+    },
+    {
+      "EnglishWord": "note",
+      "Meanings": [
+        "یادداشت سند"
+      ]
+    },
+    {
+      "EnglishWord": "note payable",
+      "Meanings": [
+        "سند پرداختی"
+      ]
+    },
+    {
+      "EnglishWord": "note receivable",
+      "Meanings": [
+        "سند دریافتی"
+      ]
+    },
+    {
+      "EnglishWord": "notes of meetings",
+      "Meanings": [
+        "صورتجلسات"
+      ]
+    },
+    {
+      "EnglishWord": "notes receivable",
+      "Meanings": [
+        "اسناد دریافتی"
+      ]
+    },
+    {
+      "EnglishWord": "notes receivable discounted",
+      "Meanings": [
+        "اسناد دریافتنی تنزیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "notes to the financial statements",
+      "Meanings": [
+        "یادداشتهای پیوست صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "notional profit",
+      "Meanings": [
+        "سود ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "null hypothesis",
+      "Meanings": [
+        "فرضیه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "number of authorized shares",
+      "Meanings": [
+        "تعداد سهام مجاز برای انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "number of listed companies in",
+      "Meanings": [
+        "تعداد شرکتهای پذیرفته شده عضو در"
+      ]
+    },
+    {
+      "EnglishWord": "number of strata",
+      "Meanings": [
+        "تعداد طبقه بندیها"
+      ]
+    },
+    {
+      "EnglishWord": "numerator",
+      "Meanings": [
+        "صورت کسر"
+      ]
+    }
+  ]
+}

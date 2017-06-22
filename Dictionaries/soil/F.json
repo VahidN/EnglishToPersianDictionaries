@@ -1,0 +1,882 @@
+﻿{
+  "Group": "F",
+  "Entries": 145,
+  "Words": [
+    {
+      "EnglishWord": "f",
+      "Meanings": [
+        "حرف اف"
+      ]
+    },
+    {
+      "EnglishWord": "f layer",
+      "Meanings": [
+        "لایه اف"
+      ]
+    },
+    {
+      "EnglishWord": "fabric",
+      "Meanings": [
+        "فابریک"
+      ]
+    },
+    {
+      "EnglishWord": "facies",
+      "Meanings": [
+        "شناخت نما"
+      ]
+    },
+    {
+      "EnglishWord": "facultative anaerobe",
+      "Meanings": [
+        "بی‌هوازی اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "facultative organism",
+      "Meanings": [
+        "جاندار اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "faecal pellets",
+      "Meanings": [
+        "مدفوع جانداران"
+      ]
+    },
+    {
+      "EnglishWord": "fairfield-hardy digester",
+      "Meanings": [
+        "هضم کننده فیرفیلد",
+        "هاردی"
+      ]
+    },
+    {
+      "EnglishWord": "fall cone",
+      "Meanings": [
+        "مخروط ضربه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fallout",
+      "Meanings": [
+        "فرو ریخته"
+      ]
+    },
+    {
+      "EnglishWord": "fallow",
+      "Meanings": [
+        "آیش"
+      ]
+    },
+    {
+      "EnglishWord": "fallow land",
+      "Meanings": [
+        "زمین آیش"
+      ]
+    },
+    {
+      "EnglishWord": "family soil",
+      "Meanings": [
+        "فامیل خاک"
+      ]
+    },
+    {
+      "EnglishWord": "fan alluvial",
+      "Meanings": [
+        "مخروط افکنه آبرفتی"
+      ]
+    },
+    {
+      "EnglishWord": "fanglomerate",
+      "Meanings": [
+        "فنگلومرا"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "گسل"
+      ]
+    },
+    {
+      "EnglishWord": "fauna",
+      "Meanings": [
+        "زیاگان"
+      ]
+    },
+    {
+      "EnglishWord": "fecal pellets",
+      "Meanings": [
+        "مدفوع جانداران"
+      ]
+    },
+    {
+      "EnglishWord": "fen",
+      "Meanings": [
+        "پوداب"
+      ]
+    },
+    {
+      "EnglishWord": "fermentation",
+      "Meanings": [
+        "تخمیر"
+      ]
+    },
+    {
+      "EnglishWord": "ferran",
+      "Meanings": [
+        "فران"
+      ]
+    },
+    {
+      "EnglishWord": "ferri-argillan",
+      "Meanings": [
+        "فری",
+        "آرجیلان"
+      ]
+    },
+    {
+      "EnglishWord": "ferrihydrite",
+      "Meanings": [
+        "فری هیدرات"
+      ]
+    },
+    {
+      "EnglishWord": "ferrods",
+      "Meanings": [
+        "فرادها"
+      ]
+    },
+    {
+      "EnglishWord": "ferrolysis",
+      "Meanings": [
+        "فرولیز"
+      ]
+    },
+    {
+      "EnglishWord": "fertigation",
+      "Meanings": [
+        "کود آبیاری"
+      ]
+    },
+    {
+      "EnglishWord": "fertility",
+      "Meanings": [
+        "حاصلخیزی"
+      ]
+    },
+    {
+      "EnglishWord": "fertility soil",
+      "Meanings": [
+        "حاضلخیزی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "fertilization foliar",
+      "Meanings": [
+        "کودپاشی برگی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilization trial",
+      "Meanings": [
+        "آزمایش کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer",
+      "Meanings": [
+        "کود"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer  injected",
+      "Meanings": [
+        "کودتزریقی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer acid-forming",
+      "Meanings": [
+        "کوداسیدزا"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer analysis",
+      "Meanings": [
+        "ترکیب کود"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer blended",
+      "Meanings": [
+        "کودمختلط"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer bulk-blended",
+      "Meanings": [
+        "کوداختلاطی توده‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer complete",
+      "Meanings": [
+        "کودکامل"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer compound",
+      "Meanings": [
+        "کودمرکب"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer controlled-release",
+      "Meanings": [
+        "کودکندرها"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer delayed-release",
+      "Meanings": [
+        "کودکندرها"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer fixation",
+      "Meanings": [
+        "تثبیت کود"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer fluid",
+      "Meanings": [
+        "کودسیال"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer grade",
+      "Meanings": [
+        "درجه کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer granular",
+      "Meanings": [
+        "کوددانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer inorganic",
+      "Meanings": [
+        "کودمعدنی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer pop-up",
+      "Meanings": [
+        "کودتماسی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer ratio",
+      "Meanings": [
+        "نسبت کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer recommendation",
+      "Meanings": [
+        "توصیه کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer requirement",
+      "Meanings": [
+        "نیازکودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer salt index",
+      "Meanings": [
+        "نمایه شوری کود"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer sidedressed",
+      "Meanings": [
+        "کود کناری"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer slow-release",
+      "Meanings": [
+        "کودکندرها"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer source",
+      "Meanings": [
+        "منبع کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer starter",
+      "Meanings": [
+        "کودآغازگر"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer suspension",
+      "Meanings": [
+        "کودشناور"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer top-dressed",
+      "Meanings": [
+        "کودسرک"
+      ]
+    },
+    {
+      "EnglishWord": "fertilizer unit",
+      "Meanings": [
+        "واحد کودی"
+      ]
+    },
+    {
+      "EnglishWord": "fibers",
+      "Meanings": [
+        "الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "fibric material",
+      "Meanings": [
+        "ماده الیافی"
+      ]
+    },
+    {
+      "EnglishWord": "fibrists",
+      "Meanings": [
+        "فیبریستها"
+      ]
+    },
+    {
+      "EnglishWord": "field capacity",
+      "Meanings": [
+        "ظرفیت مزرعه"
+      ]
+    },
+    {
+      "EnglishWord": "field sheet",
+      "Meanings": [
+        "برگه صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field strip cropping",
+      "Meanings": [
+        "کشت نواری صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field test",
+      "Meanings": [
+        "آزمون صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field trial",
+      "Meanings": [
+        "آزمایش صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field water capacity",
+      "Meanings": [
+        "ظرفیت مزرعه"
+      ]
+    },
+    {
+      "EnglishWord": "fifteen-atmosphere percentage",
+      "Meanings": [
+        "درصد رطوبت 15 اتمسفر"
+      ]
+    },
+    {
+      "EnglishWord": "fifteen-bar percentage",
+      "Meanings": [
+        "درصد رطوبت 15 بار"
+      ]
+    },
+    {
+      "EnglishWord": "fill",
+      "Meanings": [
+        "پرکننده"
+      ]
+    },
+    {
+      "EnglishWord": "film water",
+      "Meanings": [
+        "آب پوسته‌ای",
+        "لایه آب"
+      ]
+    },
+    {
+      "EnglishWord": "fine",
+      "Meanings": [
+        "ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine earth",
+      "Meanings": [
+        "خاک نرم"
+      ]
+    },
+    {
+      "EnglishWord": "fine gravelly",
+      "Meanings": [
+        "ریگی ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine sand",
+      "Meanings": [
+        "شن ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine sandy loam",
+      "Meanings": [
+        "لوم شنی ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine texture",
+      "Meanings": [
+        "بافت ریز"
+      ]
+    },
+    {
+      "EnglishWord": "finger",
+      "Meanings": [
+        "ناودانک"
+      ]
+    },
+    {
+      "EnglishWord": "finger flow",
+      "Meanings": [
+        "جریان انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "fire ground",
+      "Meanings": [
+        "زمین سوزی"
+      ]
+    },
+    {
+      "EnglishWord": "fireclay",
+      "Meanings": [
+        "رس نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "سفت"
+      ]
+    },
+    {
+      "EnglishWord": "first bottom",
+      "Meanings": [
+        "پایین‌ترین بستر"
+      ]
+    },
+    {
+      "EnglishWord": "fissures",
+      "Meanings": [
+        "درزها"
+      ]
+    },
+    {
+      "EnglishWord": "fixation",
+      "Meanings": [
+        "تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed ammonium",
+      "Meanings": [
+        "آمونیوم تثبیت شده"
+      ]
+    },
+    {
+      "EnglishWord": "fixed phosphorus",
+      "Meanings": [
+        "فسفرتثبیت شده"
+      ]
+    },
+    {
+      "EnglishWord": "flaggy",
+      "Meanings": [
+        "فلگی",
+        "پرچمی"
+      ]
+    },
+    {
+      "EnglishWord": "flagstone",
+      "Meanings": [
+        "سنگ متورق"
+      ]
+    },
+    {
+      "EnglishWord": "flagstones",
+      "Meanings": [
+        "فلاگ استونز"
+      ]
+    },
+    {
+      "EnglishWord": "flat planting",
+      "Meanings": [
+        "کشت کرتی"
+      ]
+    },
+    {
+      "EnglishWord": "flecked orientation",
+      "Meanings": [
+        "همسویی خط دار"
+      ]
+    },
+    {
+      "EnglishWord": "flocculate",
+      "Meanings": [
+        "هماور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "flocculation",
+      "Meanings": [
+        "هماوری"
+      ]
+    },
+    {
+      "EnglishWord": "flood",
+      "Meanings": [
+        "سیل"
+      ]
+    },
+    {
+      "EnglishWord": "flood control",
+      "Meanings": [
+        "مهار سیل"
+      ]
+    },
+    {
+      "EnglishWord": "flood plain",
+      "Meanings": [
+        "دشت سیلابی"
+      ]
+    },
+    {
+      "EnglishWord": "flooding",
+      "Meanings": [
+        "سیلابی"
+      ]
+    },
+    {
+      "EnglishWord": "flora",
+      "Meanings": [
+        "گیاهان"
+      ]
+    },
+    {
+      "EnglishWord": "florescent antibody",
+      "Meanings": [
+        "پادتن فلورسنتی"
+      ]
+    },
+    {
+      "EnglishWord": "flow velocity of water in soil",
+      "Meanings": [
+        "سرعت جریان آب در خاک"
+      ]
+    },
+    {
+      "EnglishWord": "flowtill",
+      "Meanings": [
+        "جریان یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "fluvents",
+      "Meanings": [
+        "فلونتها"
+      ]
+    },
+    {
+      "EnglishWord": "fluvial",
+      "Meanings": [
+        "رودخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fluvial deposits",
+      "Meanings": [
+        "نهشته‌های سیلابی"
+      ]
+    },
+    {
+      "EnglishWord": "fluvioglacial",
+      "Meanings": [
+        "آبرفت یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flux density",
+      "Meanings": [
+        "شدت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "fly ash",
+      "Meanings": [
+        "خاکسترشناور"
+      ]
+    },
+    {
+      "EnglishWord": "f-matrix",
+      "Meanings": [
+        "ماتریس",
+        "اف"
+      ]
+    },
+    {
+      "EnglishWord": "f-member",
+      "Meanings": [
+        "عضو ساختمانی اف"
+      ]
+    },
+    {
+      "EnglishWord": "foc",
+      "Meanings": [
+        "اف",
+        "او سی"
+      ]
+    },
+    {
+      "EnglishWord": "foliar diagnosis",
+      "Meanings": [
+        "تشخیص برگی"
+      ]
+    },
+    {
+      "EnglishWord": "folists",
+      "Meanings": [
+        "فولیستها"
+      ]
+    },
+    {
+      "EnglishWord": "food cycle",
+      "Meanings": [
+        "چرخه غذا"
+      ]
+    },
+    {
+      "EnglishWord": "footslope",
+      "Meanings": [
+        "شیب دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "forest floor",
+      "Meanings": [
+        "بسترجنگل"
+      ]
+    },
+    {
+      "EnglishWord": "forest productivity",
+      "Meanings": [
+        "باروری جنگل"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "سازند"
+      ]
+    },
+    {
+      "EnglishWord": "fossil fuel",
+      "Meanings": [
+        "سوخت فسیلی"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fragile land",
+      "Meanings": [
+        "زمین آسیب پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "fragipan",
+      "Meanings": [
+        "فراجی پن"
+      ]
+    },
+    {
+      "EnglishWord": "fragmic fabric",
+      "Meanings": [
+        "فابریک فراگمیک"
+      ]
+    },
+    {
+      "EnglishWord": "free acidity",
+      "Meanings": [
+        "اسیدیته آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free iron oxides",
+      "Meanings": [
+        "اکسیدهای آهن آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free oxides",
+      "Meanings": [
+        "اکسیدهای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free packing fabric",
+      "Meanings": [
+        "فابریک با فشردگی کم"
+      ]
+    },
+    {
+      "EnglishWord": "fresh plant remais",
+      "Meanings": [
+        "پس‌مانده‌های تازه گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "friable",
+      "Meanings": [
+        "ترد"
+      ]
+    },
+    {
+      "EnglishWord": "friction",
+      "Meanings": [
+        "اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "friction cone penetrometer",
+      "Meanings": [
+        "نفوذسنج مخروطی اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "frigid",
+      "Meanings": [
+        "فریجید"
+      ]
+    },
+    {
+      "EnglishWord": "fringe water",
+      "Meanings": [
+        "آب حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fritted trace elements",
+      "Meanings": [
+        "عناصر کمیاب فرار"
+      ]
+    },
+    {
+      "EnglishWord": "frost concrete",
+      "Meanings": [
+        "سخت یخ"
+      ]
+    },
+    {
+      "EnglishWord": "frost heaving",
+      "Meanings": [
+        "یخزدگی"
+      ]
+    },
+    {
+      "EnglishWord": "fulvic acid",
+      "Meanings": [
+        "فولویک اسید"
+      ]
+    },
+    {
+      "EnglishWord": "fulvic acid fraction",
+      "Meanings": [
+        "بخش فولویک اسید"
+      ]
+    },
+    {
+      "EnglishWord": "functional nutrient",
+      "Meanings": [
+        "ماده غذایی عامل"
+      ]
+    },
+    {
+      "EnglishWord": "fungi",
+      "Meanings": [
+        "قارچها"
+      ]
+    },
+    {
+      "EnglishWord": "fungistat",
+      "Meanings": [
+        "ضد قارچ"
+      ]
+    },
+    {
+      "EnglishWord": "furrow",
+      "Meanings": [
+        "جوی وپشته"
+      ]
+    },
+    {
+      "EnglishWord": "furrow erosion",
+      "Meanings": [
+        "فرسایش جویباری"
+      ]
+    },
+    {
+      "EnglishWord": "furrow irrigation",
+      "Meanings": [
+        "آبیاری جوی وپشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "furrow mulching",
+      "Meanings": [
+        "پوشش جوی وپشته ای"
+      ]
+    }
+  ]
+}

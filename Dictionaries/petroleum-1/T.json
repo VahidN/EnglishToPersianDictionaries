@@ -1,0 +1,980 @@
+﻿{
+  "Group": "T",
+  "Entries": 162,
+  "Words": [
+    {
+      "EnglishWord": "table clamping",
+      "Meanings": [
+        "بست گذاری سکوی دوار"
+      ]
+    },
+    {
+      "EnglishWord": "table thrust bearing",
+      "Meanings": [
+        "یاتاقان کف گرد میز دوار"
+      ]
+    },
+    {
+      "EnglishWord": "tabular deposit",
+      "Meanings": [
+        "نهشت تخت"
+      ]
+    },
+    {
+      "EnglishWord": "tabular structure",
+      "Meanings": [
+        "ساختار تخت"
+      ]
+    },
+    {
+      "EnglishWord": "tail pipe",
+      "Meanings": [
+        "لوله دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "tank battery",
+      "Meanings": [
+        "گروه مخازن"
+      ]
+    },
+    {
+      "EnglishWord": "tank bottomes",
+      "Meanings": [
+        "مواد ته مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tank breather tube",
+      "Meanings": [
+        "لوله هواکش مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tank farm",
+      "Meanings": [
+        "پارک مخازن"
+      ]
+    },
+    {
+      "EnglishWord": "tank inspection hole",
+      "Meanings": [
+        "سوراخ بازبینی مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tank island",
+      "Meanings": [
+        "سکوی مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tank outage",
+      "Meanings": [
+        "اتلاف مایع در مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tanker",
+      "Meanings": [
+        "کشتی تانکر"
+      ]
+    },
+    {
+      "EnglishWord": "tanker loading platform",
+      "Meanings": [
+        "سکوی بار گیری نفت کش"
+      ]
+    },
+    {
+      "EnglishWord": "taper mill",
+      "Meanings": [
+        "آس تیغه مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "taper pipe",
+      "Meanings": [
+        "تبدیل مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "tapered spiral auger",
+      "Meanings": [
+        "مته مارپیچی مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "tapered string of drill pipe",
+      "Meanings": [
+        "رشته لوله حفاری مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "tar",
+      "Meanings": [
+        "قطران"
+      ]
+    },
+    {
+      "EnglishWord": "tar sand",
+      "Meanings": [
+        "ماسه قیر دار"
+      ]
+    },
+    {
+      "EnglishWord": "target depth",
+      "Meanings": [
+        "عمق نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "tectonic contact",
+      "Meanings": [
+        "سطح تماس تکنونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "telecontrolled valve",
+      "Meanings": [
+        "شیر قابل فرمان از دور"
+      ]
+    },
+    {
+      "EnglishWord": "telescope boom",
+      "Meanings": [
+        "بازوی کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "telescope derick",
+      "Meanings": [
+        "دکل کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "telescopic joint",
+      "Meanings": [
+        "مفصل کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "telescopic leg",
+      "Meanings": [
+        "پایه کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "telescopic pole",
+      "Meanings": [
+        "دکل اهرمی کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "telltale",
+      "Meanings": [
+        "سوراخ دیدزنی"
+      ]
+    },
+    {
+      "EnglishWord": "telltale screen",
+      "Meanings": [
+        "صافی تنظیم سطح آستره شنی"
+      ]
+    },
+    {
+      "EnglishWord": "telluric method",
+      "Meanings": [
+        "روش اندازه گیری جریان زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "temper screw",
+      "Meanings": [
+        "پیچ تنظیم ساق"
+      ]
+    },
+    {
+      "EnglishWord": "temperature gradient",
+      "Meanings": [
+        "گرادیان دما"
+      ]
+    },
+    {
+      "EnglishWord": "temperature logging",
+      "Meanings": [
+        "نمودار گیری دمای چاه"
+      ]
+    },
+    {
+      "EnglishWord": "temperature sensor",
+      "Meanings": [
+        "حسگر دما"
+      ]
+    },
+    {
+      "EnglishWord": "temporarily shut - in well",
+      "Meanings": [
+        "چاه موقتا بسته"
+      ]
+    },
+    {
+      "EnglishWord": "tension failure",
+      "Meanings": [
+        "شکست کششی"
+      ]
+    },
+    {
+      "EnglishWord": "tension fault",
+      "Meanings": [
+        "گسل کششی"
+      ]
+    },
+    {
+      "EnglishWord": "tension leg platform",
+      "Meanings": [
+        "سکو با مهارهای کششی"
+      ]
+    },
+    {
+      "EnglishWord": "terminal",
+      "Meanings": [
+        "پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "terporarily abandoned well",
+      "Meanings": [
+        "چاه موقتا تعطیل"
+      ]
+    },
+    {
+      "EnglishWord": "test flange",
+      "Meanings": [
+        "فلنج آزمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "testing valve",
+      "Meanings": [
+        "شیر آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "tethered production platform",
+      "Meanings": [
+        "سکوی تولید با مهار‌های کششی"
+      ]
+    },
+    {
+      "EnglishWord": "theodolite",
+      "Meanings": [
+        "تیودولیت"
+      ]
+    },
+    {
+      "EnglishWord": "thermal conductibility factor",
+      "Meanings": [
+        "ضریب رسانایی گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal well",
+      "Meanings": [
+        "چاه حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "thermic neutron - neutron logging",
+      "Meanings": [
+        "نمودار گیری نوترون",
+        "نوترون گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermophone",
+      "Meanings": [
+        "گرماوا"
+      ]
+    },
+    {
+      "EnglishWord": "thickenning agent",
+      "Meanings": [
+        "ماده غلظت بخش"
+      ]
+    },
+    {
+      "EnglishWord": "thief",
+      "Meanings": [
+        "لوله نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "thief rod",
+      "Meanings": [
+        "پیپت نمونه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "thief sand",
+      "Meanings": [
+        "ماسه نفت دزد"
+      ]
+    },
+    {
+      "EnglishWord": "thief v a tank",
+      "Meanings": [
+        "نمونه برداشتن از مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "thiefing",
+      "Meanings": [
+        "نمونه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "thin wall pipe",
+      "Meanings": [
+        "لوله نازک جدار"
+      ]
+    },
+    {
+      "EnglishWord": "thixotropy",
+      "Meanings": [
+        "ژله گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "thread profile",
+      "Meanings": [
+        "نیمرخ رزوه"
+      ]
+    },
+    {
+      "EnglishWord": "thread protector",
+      "Meanings": [
+        "حفاظ روزه"
+      ]
+    },
+    {
+      "EnglishWord": "threaded casing",
+      "Meanings": [
+        "جداره رزوه دار"
+      ]
+    },
+    {
+      "EnglishWord": "threaded sleeve",
+      "Meanings": [
+        "بوشن رزو ه یی"
+      ]
+    },
+    {
+      "EnglishWord": "three - cone bit",
+      "Meanings": [
+        "مته غلتکی سه مخروطه"
+      ]
+    },
+    {
+      "EnglishWord": "three - way cock",
+      "Meanings": [
+        "شیر سه راهه"
+      ]
+    },
+    {
+      "EnglishWord": "three - way valve",
+      "Meanings": [
+        "دریچه سه راهه"
+      ]
+    },
+    {
+      "EnglishWord": "three- electrode laterolog sonde",
+      "Meanings": [
+        "گمانه جانبی سه الکتروده"
+      ]
+    },
+    {
+      "EnglishWord": "thribble",
+      "Meanings": [
+        "شاخه سه بند"
+      ]
+    },
+    {
+      "EnglishWord": "throttle valve",
+      "Meanings": [
+        "شیر تنظیم جریان"
+      ]
+    },
+    {
+      "EnglishWord": "tight hole",
+      "Meanings": [
+        "چاه تنگ"
+      ]
+    },
+    {
+      "EnglishWord": "tightness test",
+      "Meanings": [
+        "آزمایش فشردگی"
+      ]
+    },
+    {
+      "EnglishWord": "time of running in",
+      "Meanings": [
+        "زمان پایین دادن"
+      ]
+    },
+    {
+      "EnglishWord": "time on bottom",
+      "Meanings": [
+        "زمان کارکرد مته"
+      ]
+    },
+    {
+      "EnglishWord": "tong die",
+      "Meanings": [
+        "دندانه آچار لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tong rope",
+      "Meanings": [
+        "کابل اچار لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tong torque gage",
+      "Meanings": [
+        "درجه گشتاور آچار لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tongs",
+      "Meanings": [
+        "آچار لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tool body",
+      "Meanings": [
+        "تنه مته"
+      ]
+    },
+    {
+      "EnglishWord": "tool joint",
+      "Meanings": [
+        "ساقه وصل کن"
+      ]
+    },
+    {
+      "EnglishWord": "toolpusher",
+      "Meanings": [
+        "سر حفار"
+      ]
+    },
+    {
+      "EnglishWord": "toothed bit",
+      "Meanings": [
+        "تاج مته دندانه یی"
+      ]
+    },
+    {
+      "EnglishWord": "toothed wheel bit",
+      "Meanings": [
+        "مته چرخ دندانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "top",
+      "Meanings": [
+        "سرستون لوله"
+      ]
+    },
+    {
+      "EnglishWord": "top cementing plug",
+      "Meanings": [
+        "مجرابند سیمان کاری فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "top flange",
+      "Meanings": [
+        "فلنج فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "top of a bed",
+      "Meanings": [
+        "رویه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "top packer",
+      "Meanings": [
+        "توپک فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "top water",
+      "Meanings": [
+        "آب فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "topographic correction",
+      "Meanings": [
+        "تصحیح خطاهای عوارض سطحی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "torque indicator",
+      "Meanings": [
+        "گشتاور سنج"
+      ]
+    },
+    {
+      "EnglishWord": "torque wrench",
+      "Meanings": [
+        "آچار جغجغه"
+      ]
+    },
+    {
+      "EnglishWord": "total feed",
+      "Meanings": [
+        "پیشروی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "total prodaction",
+      "Meanings": [
+        "تولید کامل"
+      ]
+    },
+    {
+      "EnglishWord": "total recovery",
+      "Meanings": [
+        "برداشت کل"
+      ]
+    },
+    {
+      "EnglishWord": "total reservoir volume",
+      "Meanings": [
+        "حجم کل مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "tracers",
+      "Meanings": [
+        "ردیاب ها"
+      ]
+    },
+    {
+      "EnglishWord": "tract",
+      "Meanings": [
+        "منطقه بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "trailer rig",
+      "Meanings": [
+        "دکل روی یدک کش"
+      ]
+    },
+    {
+      "EnglishWord": "transfer elevator",
+      "Meanings": [
+        "بالابر کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "transient flow",
+      "Meanings": [
+        "جریان گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transition rocks",
+      "Meanings": [
+        "سنگ‌های حد واسط"
+      ]
+    },
+    {
+      "EnglishWord": "transition zone",
+      "Meanings": [
+        "منطقه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "transport line",
+      "Meanings": [
+        "خط انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transverse folding",
+      "Meanings": [
+        "چین خوردگی متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "trap",
+      "Meanings": [
+        "تله"
+      ]
+    },
+    {
+      "EnglishWord": "traveling barrel",
+      "Meanings": [
+        "استوانه متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "traveling block bumper",
+      "Meanings": [
+        "ضربه گیر جعبه قرقره متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "traveling valve",
+      "Meanings": [
+        "دریچه استوانه متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "triassic",
+      "Meanings": [
+        "تریاس سه گانی"
+      ]
+    },
+    {
+      "EnglishWord": "tricone jet rock bit",
+      "Meanings": [
+        "مته غلتکی جتی سه مخروطه"
+      ]
+    },
+    {
+      "EnglishWord": "trip gas",
+      "Meanings": [
+        "گاز پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "trip time",
+      "Meanings": [
+        "زمان پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "trough - line minimum",
+      "Meanings": [
+        "خط القعر گودال"
+      ]
+    },
+    {
+      "EnglishWord": "trough line",
+      "Meanings": [
+        "خط القعر در ناودیس"
+      ]
+    },
+    {
+      "EnglishWord": "true gas saturation",
+      "Meanings": [
+        "اشباع حقیقی از گاز"
+      ]
+    },
+    {
+      "EnglishWord": "true resistivity of the bed",
+      "Meanings": [
+        "مقاومت ویژه حقیقی لایه"
+      ]
+    },
+    {
+      "EnglishWord": "tube bundle",
+      "Meanings": [
+        "دسته لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tube expander",
+      "Meanings": [
+        "لوله گشاد کن"
+      ]
+    },
+    {
+      "EnglishWord": "tube extractor",
+      "Meanings": [
+        "لوله بیرون کش"
+      ]
+    },
+    {
+      "EnglishWord": "tube support",
+      "Meanings": [
+        "آویز لوله"
+      ]
+    },
+    {
+      "EnglishWord": "tubing",
+      "Meanings": [
+        "لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing anchor",
+      "Meanings": [
+        "مهار لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing bleeder",
+      "Meanings": [
+        "شیر تخلیه لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing block",
+      "Meanings": [
+        "جعبه قرقره لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing board",
+      "Meanings": [
+        "سکوی لوله‌های استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing catcher",
+      "Meanings": [
+        "مغزه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "tubing centralizer",
+      "Meanings": [
+        "میان دار مغزی"
+      ]
+    },
+    {
+      "EnglishWord": "tubing coupling tongs",
+      "Meanings": [
+        "آچار جفت کن لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing cutter",
+      "Meanings": [
+        "لوله بر"
+      ]
+    },
+    {
+      "EnglishWord": "tubing drill",
+      "Meanings": [
+        "مته قاشقی"
+      ]
+    },
+    {
+      "EnglishWord": "tubing elevator",
+      "Meanings": [
+        "بالاکش لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing gas",
+      "Meanings": [
+        "گاز لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing guide shoe",
+      "Meanings": [
+        "پاشنه راهنمای لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing hanger",
+      "Meanings": [
+        "نگه دار لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing head",
+      "Meanings": [
+        "شیر آلات لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing head pressure",
+      "Meanings": [
+        "فشار سازند در مسیر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "tubing head sampler",
+      "Meanings": [
+        "نمونه گیر سر لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing head spool",
+      "Meanings": [
+        "مهره و ماسوره سر لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing hook",
+      "Meanings": [
+        "قلاب لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing job",
+      "Meanings": [
+        "تعمیر کاری لوله ها"
+      ]
+    },
+    {
+      "EnglishWord": "tubing packer",
+      "Meanings": [
+        "توپک لوله استخراج",
+        "فشار لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing stop",
+      "Meanings": [
+        "بندآور لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing string",
+      "Meanings": [
+        "رشته لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing string onnection",
+      "Meanings": [
+        "اتصال رشته لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubing tonge",
+      "Meanings": [
+        "آچار لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubingless completion",
+      "Meanings": [
+        "تکمیل بدون لوله استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "tubular goods",
+      "Meanings": [
+        "لوله آلات"
+      ]
+    },
+    {
+      "EnglishWord": "tubular guy of the mast",
+      "Meanings": [
+        "مهار لوله یی دکل اهرمی"
+      ]
+    },
+    {
+      "EnglishWord": "turbine - driven pump",
+      "Meanings": [
+        "تلمبه توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbine flowmeter",
+      "Meanings": [
+        "جریان سنج توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbining",
+      "Meanings": [
+        "تمیز کاری با لوله پاک کن دوار"
+      ]
+    },
+    {
+      "EnglishWord": "turbobit",
+      "Meanings": [
+        "مته توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbocoring",
+      "Meanings": [
+        "مغزه بری توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbodrilling",
+      "Meanings": [
+        "حفاری توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbodrilling system",
+      "Meanings": [
+        "رو ش حفاری توربینی"
+      ]
+    },
+    {
+      "EnglishWord": "turbulent flow",
+      "Meanings": [
+        "جریان متلاطم"
+      ]
+    },
+    {
+      "EnglishWord": "tuular drill",
+      "Meanings": [
+        "مته لوله یی"
+      ]
+    },
+    {
+      "EnglishWord": "twin - hull semi - submersible srilling rig",
+      "Meanings": [
+        "دکل حفاری دو بدنه نیمه غوطه ور"
+      ]
+    },
+    {
+      "EnglishWord": "twin hole",
+      "Meanings": [
+        "چاه دو قلو"
+      ]
+    },
+    {
+      "EnglishWord": "two - stage cementing",
+      "Meanings": [
+        "سیمان کاری دو مرحله یی"
+      ]
+    },
+    {
+      "EnglishWord": "two - string well",
+      "Meanings": [
+        "چاه دو لوله یی"
+      ]
+    },
+    {
+      "EnglishWord": "two - way cock",
+      "Meanings": [
+        "شیر دو راهه"
+      ]
+    },
+    {
+      "EnglishWord": "two channel photographic recorder",
+      "Meanings": [
+        "ضبط تصویر دوکاناله"
+      ]
+    },
+    {
+      "EnglishWord": "two layer",
+      "Meanings": [
+        "دولایه"
+      ]
+    }
+  ]
+}

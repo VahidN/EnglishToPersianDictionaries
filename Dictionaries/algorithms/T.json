@@ -1,0 +1,355 @@
+﻿{
+  "Group": "T",
+  "Entries": 57,
+  "Words": [
+    {
+      "EnglishWord": "t",
+      "Meanings": [
+        "بیستمین حرف از الفبای انگلیسی",
+        "علامت اختصاری ترا تریلیون = 2 به توان"
+      ]
+    },
+    {
+      "EnglishWord": "tail",
+      "Meanings": [
+        "دم"
+      ]
+    },
+    {
+      "EnglishWord": "tail recursion",
+      "Meanings": [
+        "آخرین بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "task",
+      "Meanings": [
+        "وظیفه",
+        "کار"
+      ]
+    },
+    {
+      "EnglishWord": "temporal logic",
+      "Meanings": [
+        "منطق زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "terminal",
+      "Meanings": [
+        "پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "text",
+      "Meanings": [
+        "متن"
+      ]
+    },
+    {
+      "EnglishWord": "theoretical",
+      "Meanings": [
+        "تجربی",
+        "نظری"
+      ]
+    },
+    {
+      "EnglishWord": "theta",
+      "Meanings": [
+        "تتا",
+        "تابع رشد"
+      ]
+    },
+    {
+      "EnglishWord": "thread",
+      "Meanings": [
+        "نخ",
+        "ریسمان"
+      ]
+    },
+    {
+      "EnglishWord": "threaded binary tree",
+      "Meanings": [
+        "درحت دودویی نخ کشی شده"
+      ]
+    },
+    {
+      "EnglishWord": "three dimensional",
+      "Meanings": [
+        "سه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "three-way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی سه راهی"
+      ]
+    },
+    {
+      "EnglishWord": "time complexity",
+      "Meanings": [
+        "پیچیدگی زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "time efficiency",
+      "Meanings": [
+        "کارایی زمان"
+      ]
+    },
+    {
+      "EnglishWord": "time/space complexity",
+      "Meanings": [
+        "پیچیدگی زمان/حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "token",
+      "Meanings": [
+        "نشانه",
+        "نماد",
+        "بسته"
+      ]
+    },
+    {
+      "EnglishWord": "top sort",
+      "Meanings": [
+        "مرتب ساز توپولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "top-down radix sort",
+      "Meanings": [
+        "مرتب ساز مبنایی بالا به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "top-down tree automaton",
+      "Meanings": [
+        "اتوماتون درختی بالا به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "topmost node",
+      "Meanings": [
+        "بالاترین گره"
+      ]
+    },
+    {
+      "EnglishWord": "topological order",
+      "Meanings": [
+        "ترتیب توپولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "topological sort",
+      "Meanings": [
+        "مرتب ساز توپولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "total",
+      "Meanings": [
+        "کامل"
+      ]
+    },
+    {
+      "EnglishWord": "total function",
+      "Meanings": [
+        "تابع کامل"
+      ]
+    },
+    {
+      "EnglishWord": "total order",
+      "Meanings": [
+        "ترتیب کامل"
+      ]
+    },
+    {
+      "EnglishWord": "totally decidable problem",
+      "Meanings": [
+        "مسیله کاملا تصمیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "totally undecidable problem",
+      "Meanings": [
+        "مسیله کاملا تصمیم ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "tour",
+      "Meanings": [
+        "تور"
+      ]
+    },
+    {
+      "EnglishWord": "tractable",
+      "Meanings": [
+        "مهار شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "transducer",
+      "Meanings": [
+        "مبدل"
+      ]
+    },
+    {
+      "EnglishWord": "transition",
+      "Meanings": [
+        "گذر"
+      ]
+    },
+    {
+      "EnglishWord": "transition function",
+      "Meanings": [
+        "تابع گذر"
+      ]
+    },
+    {
+      "EnglishWord": "transitive",
+      "Meanings": [
+        "تریا"
+      ]
+    },
+    {
+      "EnglishWord": "transitive closure",
+      "Meanings": [
+        "بستار متعددی"
+      ]
+    },
+    {
+      "EnglishWord": "transitive reduction",
+      "Meanings": [
+        "ساده سازی تریا"
+      ]
+    },
+    {
+      "EnglishWord": "transpose",
+      "Meanings": [
+        "ترانهاده"
+      ]
+    },
+    {
+      "EnglishWord": "traveling salesman",
+      "Meanings": [
+        "فروشنده دوره گرد"
+      ]
+    },
+    {
+      "EnglishWord": "traveling salesman problem",
+      "Meanings": [
+        "مسیله فروشنده دوره گرد"
+      ]
+    },
+    {
+      "EnglishWord": "travelling salesman",
+      "Meanings": [
+        "فروشنده دوره گرد"
+      ]
+    },
+    {
+      "EnglishWord": "tree",
+      "Meanings": [
+        "درخت"
+      ]
+    },
+    {
+      "EnglishWord": "tree automaton",
+      "Meanings": [
+        "اتوماتون درختی"
+      ]
+    },
+    {
+      "EnglishWord": "tree edge",
+      "Meanings": [
+        "یال درختی"
+      ]
+    },
+    {
+      "EnglishWord": "tree network",
+      "Meanings": [
+        "شبکه درختی"
+      ]
+    },
+    {
+      "EnglishWord": "tree sort",
+      "Meanings": [
+        "مرتب ساز درختی"
+      ]
+    },
+    {
+      "EnglishWord": "triangle inequality",
+      "Meanings": [
+        "نا مساوی مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triconnected graph",
+      "Meanings": [
+        "گراف سه همبند"
+      ]
+    },
+    {
+      "EnglishWord": "trie",
+      "Meanings": [
+        "ترای"
+      ]
+    },
+    {
+      "EnglishWord": "trinary function",
+      "Meanings": [
+        "تابع سه تایی"
+      ]
+    },
+    {
+      "EnglishWord": "trivial cycle",
+      "Meanings": [
+        "دور بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "turing machine",
+      "Meanings": [
+        "ماشین تورینگ"
+      ]
+    },
+    {
+      "EnglishWord": "turing reduction",
+      "Meanings": [
+        "کاهش تورینگ"
+      ]
+    },
+    {
+      "EnglishWord": "turing transducer",
+      "Meanings": [
+        "مبدل تورینگ"
+      ]
+    },
+    {
+      "EnglishWord": "two dimensional",
+      "Meanings": [
+        "دو بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "two way linked list",
+      "Meanings": [
+        "لیست پیوندی دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "two way list",
+      "Meanings": [
+        "لیست دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "two way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی دو راهه"
+      ]
+    }
+  ]
+}

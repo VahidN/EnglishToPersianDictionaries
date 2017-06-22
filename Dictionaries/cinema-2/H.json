@@ -1,0 +1,976 @@
+﻿{
+  "Group": "H",
+  "Entries": 150,
+  "Words": [
+    {
+      "EnglishWord": "h",
+      "Meanings": [
+        "علامت اختصاری ساعت و ارتفاع",
+        "حرف هشتم الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "h and d factor",
+      "Meanings": [
+        "عامل H و D"
+      ]
+    },
+    {
+      "EnglishWord": "h test",
+      "Meanings": [
+        "آزمایش H",
+        "H",
+        "آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard inequality",
+      "Meanings": [
+        "نابرابری آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard multiplication theorem",
+      "Meanings": [
+        "قضیه ضرب آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "halation",
+      "Meanings": [
+        "هاله‌"
+      ]
+    },
+    {
+      "EnglishWord": "half and half diffusion screen",
+      "Meanings": [
+        "صافی پخش کننده دو نیمه‌"
+      ]
+    },
+    {
+      "EnglishWord": "half and half fog effect filter",
+      "Meanings": [
+        "صافی مه ساز دو نیمه‌"
+      ]
+    },
+    {
+      "EnglishWord": "half back lighting.",
+      "Meanings": [
+        "نورپردازی قسمتی از زمینه فیلم از یک یا دو طرف صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "half scrim",
+      "Meanings": [
+        "نیم توری‌"
+      ]
+    },
+    {
+      "EnglishWord": "half stripe",
+      "Meanings": [
+        "دو نیم حاشیه همجوار"
+      ]
+    },
+    {
+      "EnglishWord": "half track",
+      "Meanings": [
+        "نیم رویه‌"
+      ]
+    },
+    {
+      "EnglishWord": "halftone",
+      "Meanings": [
+        "هاف تون‌"
+      ]
+    },
+    {
+      "EnglishWord": "halide",
+      "Meanings": [
+        "هالوژنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "halo",
+      "Meanings": [
+        "هاله‌"
+      ]
+    },
+    {
+      "EnglishWord": "halo effect",
+      "Meanings": [
+        "جلوه هاله‌"
+      ]
+    },
+    {
+      "EnglishWord": "hamilton canonical equation",
+      "Meanings": [
+        "معادله‌های متعارف همیلتونی"
+      ]
+    },
+    {
+      "EnglishWord": "hamiltonian mechanics",
+      "Meanings": [
+        "مکانیک همیلتنی"
+      ]
+    },
+    {
+      "EnglishWord": "hand camera",
+      "Meanings": [
+        "دوربین دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand drawn film",
+      "Meanings": [
+        "نقاشی روی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand held camera",
+      "Meanings": [
+        "دوربین روی دست‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand held shot",
+      "Meanings": [
+        "نمای روی دست‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand prop",
+      "Meanings": [
+        "به کار بردن هر شی‌ء یا چیز هنرپیشگان در صحنه / لوازم صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand puppet film",
+      "Meanings": [
+        "فیلم عروسکی دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand splicer",
+      "Meanings": [
+        "دستگاه پیوند دهنده قطعات فیلم / دستگاه فیلم چسبان‌",
+        "دستگاه فیلم چسبان دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hand turn mechanism",
+      "Meanings": [
+        "مکانیسم کوکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "handgrip with built in battery",
+      "Meanings": [
+        "قبضه دوربین و محل نصب باطری‌"
+      ]
+    },
+    {
+      "EnglishWord": "handle",
+      "Meanings": [
+        "سیستم هندل‌"
+      ]
+    },
+    {
+      "EnglishWord": "hanger",
+      "Meanings": [
+        "آویز"
+      ]
+    },
+    {
+      "EnglishWord": "hanging miniature",
+      "Meanings": [
+        "ماکت معلق‌"
+      ]
+    },
+    {
+      "EnglishWord": "hanswurst",
+      "Meanings": [
+        "پرسناژ مضحک و کمیک در نمایشهای فارس آلمانی واژه آلمانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hard",
+      "Meanings": [
+        "تضادمند"
+      ]
+    },
+    {
+      "EnglishWord": "hard front camera",
+      "Meanings": [
+        "دوربین دارای جلوبندی محکم‌"
+      ]
+    },
+    {
+      "EnglishWord": "hard key lighting",
+      "Meanings": [
+        "نور شدید"
+      ]
+    },
+    {
+      "EnglishWord": "hardener",
+      "Meanings": [
+        "شفت کننده‌",
+        "ماده سخت کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "hardy space",
+      "Meanings": [
+        "فضای هاردی"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic",
+      "Meanings": [
+        "همنوایی‌",
+        "همسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "harmony",
+      "Meanings": [
+        "ایجاد هماهنگی‌",
+        "هارمونی‌",
+        "هماهنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hat",
+      "Meanings": [
+        "سه پایه دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff maximal principle",
+      "Meanings": [
+        "اصل ماکسیمال هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "haze",
+      "Meanings": [
+        "فیلتر مه رقیق‌",
+        "مه رقیق / هوای تیره و تار",
+        "مه عکاسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "haze and ultra violet filter",
+      "Meanings": [
+        "فیلتر مه و رنگ مافوق بنفش‌"
+      ]
+    },
+    {
+      "EnglishWord": "haze filter",
+      "Meanings": [
+        "صافی غبار",
+        "فیلتر ایجادکننده گرد و غبار"
+      ]
+    },
+    {
+      "EnglishWord": "hb  b",
+      "Meanings": [
+        "مدادهای مربوط به کار انیمیشن‌"
+      ]
+    },
+    {
+      "EnglishWord": "head",
+      "Meanings": [
+        "راس ضبط کننده‌",
+        "کلگی‌",
+        "کلگی هد",
+        "کله یک سه پایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "head amplifier",
+      "Meanings": [
+        "سرتقویت کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "head and shoulder close up",
+      "Meanings": [
+        "کلوز آپ سر و شانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "head animator",
+      "Meanings": [
+        "سرپرست متحرک سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "head bowl",
+      "Meanings": [
+        "کاسه کلگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "head camera",
+      "Meanings": [
+        "کلگی دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "head camera man",
+      "Meanings": [
+        "مدیر فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "head filter",
+      "Meanings": [
+        "صافی گرماگیر"
+      ]
+    },
+    {
+      "EnglishWord": "head fone",
+      "Meanings": [
+        "گوشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "head gaffer",
+      "Meanings": [
+        "سر برقکار",
+        "نورپرداز"
+      ]
+    },
+    {
+      "EnglishWord": "head grip",
+      "Meanings": [
+        "سرکارگر صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "head leader",
+      "Meanings": [
+        "نوار راهنمای سر فیلم‌",
+        "سر فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "head lighting man's as sistant",
+      "Meanings": [
+        "دستیار اول متصدی برق‌"
+      ]
+    },
+    {
+      "EnglishWord": "head on",
+      "Meanings": [
+        "نزدیک شونده‌"
+      ]
+    },
+    {
+      "EnglishWord": "head on shot",
+      "Meanings": [
+        "نمای رو به رو"
+      ]
+    },
+    {
+      "EnglishWord": "head on tail away",
+      "Meanings": [
+        "نمای رو به رو و نمای پشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "head out",
+      "Meanings": [
+        "سربالا"
+      ]
+    },
+    {
+      "EnglishWord": "head phone",
+      "Meanings": [
+        "گوشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "head rigger",
+      "Meanings": [
+        "سر کارگر فنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "head room",
+      "Meanings": [
+        "جای سر",
+        "فضای بالای سر",
+        "فضای فوقانی موضوع تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "head room and foot room",
+      "Meanings": [
+        "جای سر و جای پا"
+      ]
+    },
+    {
+      "EnglishWord": "head set",
+      "Meanings": [
+        "گوشی میکروفن دار"
+      ]
+    },
+    {
+      "EnglishWord": "head shot",
+      "Meanings": [
+        "از سطح بالای موی سر تا سطح شانه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "head up",
+      "Meanings": [
+        "سر بالا"
+      ]
+    },
+    {
+      "EnglishWord": "head wheel",
+      "Meanings": [
+        "صفحه حامل هد"
+      ]
+    },
+    {
+      "EnglishWord": "heavy",
+      "Meanings": [
+        "شخصیت منف فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "hein borel theorem",
+      "Meanings": [
+        "قضیه هاینه",
+        "بورل"
+      ]
+    },
+    {
+      "EnglishWord": "helical scan",
+      "Meanings": [
+        "رج زنی مارپیچی‌"
+      ]
+    },
+    {
+      "EnglishWord": "helicopter mount",
+      "Meanings": [
+        "ایرو",
+        "ویژن‌",
+        "پایه هلیکوپتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "helicopter shot",
+      "Meanings": [
+        "پایین شات / هلیکوپتر شات‌"
+      ]
+    },
+    {
+      "EnglishWord": "heliography",
+      "Meanings": [
+        "نقاشی با خورشید / هلیکوگرافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "helli shot",
+      "Meanings": [
+        "هلیکوپتر شات‌"
+      ]
+    },
+    {
+      "EnglishWord": "helmet camera",
+      "Meanings": [
+        "دوربین کلاه خودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "helmholtz resonator",
+      "Meanings": [
+        "تشدید کننده هلم هولتز"
+      ]
+    },
+    {
+      "EnglishWord": "hemisphere",
+      "Meanings": [
+        "نیمکره‌"
+      ]
+    },
+    {
+      "EnglishWord": "heterochrom",
+      "Meanings": [
+        "نور مرکب‌"
+      ]
+    },
+    {
+      "EnglishWord": "hidden carmera",
+      "Meanings": [
+        "دوربین پنهانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hidden chalk board",
+      "Meanings": [
+        "روش پنهان کردن مطلب‌"
+      ]
+    },
+    {
+      "EnglishWord": "hidden microphone",
+      "Meanings": [
+        "میکروفن مخفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hi-fi amplifier",
+      "Meanings": [
+        "تقویت کننده با کیفیت بازدهی بالا"
+      ]
+    },
+    {
+      "EnglishWord": "hi-focus",
+      "Meanings": [
+        "وسیله میزانسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "high camera",
+      "Meanings": [
+        "دوربین در حالت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high contrast",
+      "Meanings": [
+        "پر تضاد / تضاد شدید"
+      ]
+    },
+    {
+      "EnglishWord": "high definition",
+      "Meanings": [
+        "وضوح عالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "high definition picture",
+      "Meanings": [
+        "تصویر واضح‌"
+      ]
+    },
+    {
+      "EnglishWord": "high fidelity",
+      "Meanings": [
+        "وضوح عالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "high hat",
+      "Meanings": [
+        "پایه کوتاه‌",
+        "سه پایه رومیزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "high intensity",
+      "Meanings": [
+        "شدت زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high key",
+      "Meanings": [
+        "برتری نور بر سایه‌",
+        "در اصطلاح نورپردازی حالت کنتراست کم‌",
+        "غلبه بر تاریکی زیاد بودن نور در صحنه‌",
+        "فرم کاملا منور",
+        "مایه",
+        "روشن‌",
+        "مایه روشن‌: نور زیاد در صحنه‌",
+        "نماهای خیلی روشن‌",
+        "نور اصلی قوی‌",
+        "نورپردازی مایه روشن‌",
+        "نور داغ برای ایجاد اتمسفر شاد صحنه‌های کمدی‌",
+        "نور روشن‌",
+        "نور مایه روشن‌",
+        "نورپردازی اصلی شدید"
+      ]
+    },
+    {
+      "EnglishWord": "high key lighting",
+      "Meanings": [
+        "پرداخت منور",
+        "کنتراست کم‌",
+        "نور بیشتر از معمول‌",
+        "نورپردازی برای ایجاد حالت روشنی در تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "high light",
+      "Meanings": [
+        "پرنور / روشنایی شدید / نور شدید",
+        "روشنایی تند",
+        "شدت نوری‌",
+        "شفاف‌ترین لحظه‌",
+        "لکه خیلی روشن‌",
+        "نور اصلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "high light density",
+      "Meanings": [
+        "چگالی روشنایی تند",
+        "نور داغ‌"
+      ]
+    },
+    {
+      "EnglishWord": "high pass",
+      "Meanings": [
+        "بالا گذر"
+      ]
+    },
+    {
+      "EnglishWord": "high pass filter",
+      "Meanings": [
+        "صافی بالا گذر"
+      ]
+    },
+    {
+      "EnglishWord": "high shot",
+      "Meanings": [
+        "تصویر زاویه بالا",
+        "نما از بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high speed",
+      "Meanings": [
+        "سرعت زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high speed action",
+      "Meanings": [
+        "نمایش سریع رویداد"
+      ]
+    },
+    {
+      "EnglishWord": "high speed camera",
+      "Meanings": [
+        "دوربین خیلی سریع‌"
+      ]
+    },
+    {
+      "EnglishWord": "high speed cinematography",
+      "Meanings": [
+        "فیلمبرداری با سرعت زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high speed feed",
+      "Meanings": [
+        "تغذیه فیلم با سرعت زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high speed film",
+      "Meanings": [
+        "فیلم بسیار حساس‌"
+      ]
+    },
+    {
+      "EnglishWord": "high spot",
+      "Meanings": [
+        "نقطه برجسته یا داغ‌"
+      ]
+    },
+    {
+      "EnglishWord": "hight angle",
+      "Meanings": [
+        "از زاویه بالا و اریبی‌",
+        "پس کشیدن به بالا",
+        "زاویه از بالا به پایین / زاویه هوایی‌",
+        "زاویه بالا",
+        "زاویه رو به پایین‌",
+        "زاویه سرازیر",
+        "زاویه سربالا",
+        "زاویه سر پایین‌",
+        "ضمن عقب رفتن به بالا رفتن دوربین‌",
+        "فیلمبرداری از بالا به پایین‌"
+      ]
+    },
+    {
+      "EnglishWord": "hight angle shot",
+      "Meanings": [
+        "زاویه سرازیر",
+        "نمای زاویه بالا",
+        "نمای سرازیر"
+      ]
+    },
+    {
+      "EnglishWord": "hi-hat",
+      "Meanings": [
+        "پایه کوتاه‌",
+        "پایه کوتاه برای دوربین فیلمبرداری‌",
+        "پایه کوتاه دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "hilbert cube",
+      "Meanings": [
+        "مکعب هیلبرت"
+      ]
+    },
+    {
+      "EnglishWord": "hilbert modular form",
+      "Meanings": [
+        "صورت مدولی هیلبرت"
+      ]
+    },
+    {
+      "EnglishWord": "hit the lights",
+      "Meanings": [
+        "چراغها روشن‌!"
+      ]
+    },
+    {
+      "EnglishWord": "hoc",
+      "Meanings": [
+        "خصوصی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hold",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "hold back  to",
+      "Meanings": [
+        "وقفه انداختن‌"
+      ]
+    },
+    {
+      "EnglishWord": "hold back sprocket",
+      "Meanings": [
+        "چرخ دنده مانع‌",
+        "چرخ دنده محافظ‌"
+      ]
+    },
+    {
+      "EnglishWord": "hold frame",
+      "Meanings": [
+        "ادامه نمایش یک کادر فیلم برای مدت معین‌",
+        "قاب ایستا / قاب ایستایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "holder inequality",
+      "Meanings": [
+        "نابرابری هلدر"
+      ]
+    },
+    {
+      "EnglishWord": "holography",
+      "Meanings": [
+        "ایجاد تصاویر سه بعدی نوری از راه‌",
+        "عکاسی سه بعدی با اشعه لیزر",
+        "هالوگرافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "holywood shot",
+      "Meanings": [
+        "شات هالیوودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "home cinema",
+      "Meanings": [
+        "دستگاه تصویر افکن خانگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "home lot",
+      "Meanings": [
+        "استودیوی سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hood",
+      "Meanings": [
+        "آفتابگیر / کلاهک‌",
+        "لبه‌"
+      ]
+    },
+    {
+      "EnglishWord": "hook",
+      "Meanings": [
+        "چنگک‌"
+      ]
+    },
+    {
+      "EnglishWord": "hook up",
+      "Meanings": [
+        "زمینه دنباله دار"
+      ]
+    },
+    {
+      "EnglishWord": "horizon cloth",
+      "Meanings": [
+        "پرده محاط‌"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal compression squeeze",
+      "Meanings": [
+        "فشردگی افقی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal pan",
+      "Meanings": [
+        "حرکت دوربین بصورت افقی بر روی محورثابت‌"
+      ]
+    },
+    {
+      "EnglishWord": "horro film",
+      "Meanings": [
+        "فیلم ترسناک‌"
+      ]
+    },
+    {
+      "EnglishWord": "horse",
+      "Meanings": [
+        "خرک‌",
+        "دسته متحرکی که روی میزی بر پایه‌ای سوار شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "horse opera",
+      "Meanings": [
+        "اپرای اسبی‌",
+        "فیلم وسترن‌"
+      ]
+    },
+    {
+      "EnglishWord": "hose clip",
+      "Meanings": [
+        "گیره خرطومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hot effect of light",
+      "Meanings": [
+        "لکه پرنور"
+      ]
+    },
+    {
+      "EnglishWord": "hot light",
+      "Meanings": [
+        "پرنورترین لامپهای استودیوی فیلمبرداری‌",
+        "پرنورترین نورافکن‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "hot splice",
+      "Meanings": [
+        "پیوند حرارتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hot spot",
+      "Meanings": [
+        "لکه پرنور",
+        "لکه نورانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "howl round",
+      "Meanings": [
+        "سوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "hue",
+      "Meanings": [
+        "ته رنگ‌",
+        "والور رنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "humbar",
+      "Meanings": [
+        "خط سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "humidistate",
+      "Meanings": [
+        "دستگاه کنترل رطوبت‌",
+        "طنز"
+      ]
+    },
+    {
+      "EnglishWord": "humor",
+      "Meanings": [
+        "منحنی D و H"
+      ]
+    },
+    {
+      "EnglishWord": "hurter and driffield",
+      "Meanings": [
+        "سه پایه هیدرولیکی هایدروفلویید جونیور"
+      ]
+    },
+    {
+      "EnglishWord": "hurwitz",
+      "Meanings": [
+        "هرویتس"
+      ]
+    },
+    {
+      "EnglishWord": "hurwitz ring",
+      "Meanings": [
+        "حلقه هرویتس"
+      ]
+    },
+    {
+      "EnglishWord": "hydrofluid jr.",
+      "Meanings": [
+        "سه پایه هیدروفلوید"
+      ]
+    },
+    {
+      "EnglishWord": "hydrofluid tripod",
+      "Meanings": [
+        "رطوبت سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "hydrometer",
+      "Meanings": [
+        "رطوبت گیر"
+      ]
+    },
+    {
+      "EnglishWord": "hygroscopic",
+      "Meanings": [
+        "فاصله فوق کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hyperfocal distance",
+      "Meanings": [
+        "فاصله هیپرفوکال‌",
+        "مسافت فراکانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "hypergonal lens",
+      "Meanings": [
+        "لنز اسکوپ‌"
+      ]
+    }
+  ]
+}

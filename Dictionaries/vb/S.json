@@ -1,0 +1,658 @@
+﻿{
+  "Group": "S",
+  "Entries": 89,
+  "Words": [
+    {
+      "EnglishWord": "save",
+      "Meanings": [
+        "ذخیره",
+        "برای ذخیره کردن یک فایل ابتدا فایل مورد نظر را از پنجره Project Explorer انتخاب کنید سپس گزینه Save را از منوی File انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "save project",
+      "Meanings": [
+        "ذخیره پروژه",
+        "این پنجره که در منوی File قرار دارد برای ذخیره یک پروژه استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "save project as",
+      "Meanings": [
+        "ذخیره پروژه در",
+        "این پنجره که در منوی File قرار دارد برای ذخیره یک پروژه در یک مکان معین استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "savefile",
+      "Meanings": [
+        "ذخیره فایل",
+        "یکی از متددهای Rich TextBox جهت ذخیره متن درون آن در یک مسیر",
+        "rtf.SaveFile FileName"
+      ]
+    },
+    {
+      "EnglishWord": "savepicture",
+      "Meanings": [
+        "ذخیره عکس",
+        "دستوری که عکسی را در مسیری ذخیره می‌کند",
+        "SavePicture Path"
+      ]
+    },
+    {
+      "EnglishWord": "savesetting",
+      "Meanings": [
+        "دستوری برای ذخیره تنظیمات در Registry",
+        "SaveSetting appname"
+      ]
+    },
+    {
+      "EnglishWord": "scale",
+      "Meanings": [
+        "مقیاس",
+        "متددی که سیستم مختصات کاربر را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "scaleheight",
+      "Meanings": [
+        "یکی از متددهای فرم که میزان تغییر اندازه طول فرم را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "scalemode",
+      "Meanings": [
+        "حالت مقیاس",
+        "خصیصه و متددی از اشیایی مانند فرم و پرینتر و… که مقیاس تصاویر را معین می‌کنند. پیکسل یا نقطه یا اینچ و…"
+      ]
+    },
+    {
+      "EnglishWord": "scalewidth",
+      "Meanings": [
+        "یکی از متددهای فرم که میزان تغییر اندازه عرض فرم را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "screen",
+      "Meanings": [
+        "صفحه",
+        "شیءیی که تنظیمات مربوط به صفحه فرم در آن می‌باشد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "scroll",
+      "Meanings": [
+        "رویدادی که هنگام لغزیدن Scroll Bar اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "sdi",
+      "Meanings": [
+        "s ingle",
+        "d ocument i nterface",
+        "برنامه که فقط شامل یک فرم است. بر عکس"
+      ]
+    },
+    {
+      "EnglishWord": "sec",
+      "Meanings": [
+        "Sec ant",
+        "سکانت",
+        "برای بدست آوردن سکانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Sec X = 1 / Cos X"
+      ]
+    },
+    {
+      "EnglishWord": "secant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "second",
+      "Meanings": [
+        "ثانیه",
+        "دستوری که شماره ثانیه در هر دقیقه را بر می‌گرداند عددی بین 0 تا",
+        "Second time"
+      ]
+    },
+    {
+      "EnglishWord": "sel",
+      "Meanings": [
+        "Sel ect",
+        "انتخاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "select",
+      "Meanings": [
+        "انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "select case",
+      "Meanings": [
+        "دستوری مانند If\\Else که دستوری شرطی می‌باشد و به صورت زیر می‌باشد",
+        "Select Case Property",
+        "Case Option",
+        "Code",
+        "Case Option n",
+        "code n",
+        "Case Else",
+        "CodeElse",
+        "End Select",
+        "در Property یک مشخصه مانند Lbl. Caption می‌نویسیم. در Option انواع آن مشخصه مثلا «File» یا «Help» و… و در آخر Case Else باید کدی را نوشت که در صورت اجرا نشدن بقیه کدها اجرا شود",
+        "البته نوشتن Case Else اختیاری است"
+      ]
+    },
+    {
+      "EnglishWord": "selfontname",
+      "Meanings": [
+        "یکی از متددهای RichTextBox که فونت عبارت انتخاب شده را تغییر می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "sellength",
+      "Meanings": [
+        "Sel ect Length",
+        "انتخاب طول",
+        "یکی از خاصیتهای TextBox که بوسیله یک عدد نشان داده می‌شود و به اندازه آن عدد حروف متن را انتخاب می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "selstart",
+      "Meanings": [
+        "Sel ect Start",
+        "شروع انتخاب",
+        "یکی از خاصیتهای TextBox که بوسیله یک عدد نشان داده می‌شود و مکا نمای تایپ را به آن حرف باز می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "seltext",
+      "Meanings": [
+        "Sel ected Text",
+        "متن انتخاب شده",
+        "یکی از متددهای TextBox که متن انتخاب شده آن را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "sendkeys",
+      "Meanings": [
+        "دستوری که خود کلیدی را فشار می‌دهد",
+        "SendKeys string ["
+      ]
+    },
+    {
+      "EnglishWord": "sendmessage",
+      "Meanings": [
+        "دستور API برای پیدا کردن طول یک متن",
+        "Private Declare Function SendMessage Lib \"\"user32\"\" Alias \"\"SendMessageA\"\" ByVal",
+        "hwnd As Long"
+      ]
+    },
+    {
+      "EnglishWord": "sequential",
+      "Meanings": [
+        "ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "setdata",
+      "Meanings": [
+        "قرار دادن داده",
+        "یکی از متددهای Clipboard که یک داده را درون کلیپ برد قرار می‌دهد",
+        "Clipboard.SetData Picture"
+      ]
+    },
+    {
+      "EnglishWord": "settext",
+      "Meanings": [
+        "قرار دادن متن",
+        "یکی از متددهای Clipboard که یک متن را درون کلیپ برد قرار می‌دهد",
+        "Clipboard.SetText String"
+      ]
+    },
+    {
+      "EnglishWord": "setting up visual basic",
+      "Meanings": [
+        "برای نصب VB ابتدا دیسک آن را درون درایو قرار دهید سپس صبر کنید تا برنامه به طور خودکار اجرا شود. از Autorun گزینه Install Visual Basic 6. 0 را انتخاب کنید و آن را نصب کنید",
+        "برای اطلاعات بیشتر به Readme مراجعه کنید"
+      ]
+    },
+    {
+      "EnglishWord": "settings",
+      "Meanings": [
+        "تنظیمات",
+        "یکی از متددهای Communications Control که تاریخ و مقدار داده در ثانیه و… را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "setwindowrgn",
+      "Meanings": [
+        "Private Declare Function SetWindowRgn Lib \"\"user32\"\" ByVal hWnd As Long"
+      ]
+    },
+    {
+      "EnglishWord": "sgn",
+      "Meanings": [
+        "S i gn um",
+        "علامت",
+        "خروجی این تابع عددی از نوع صحیح است که نشان دهنده علامت عدد ورودی است",
+        "Sgn number"
+      ]
+    },
+    {
+      "EnglishWord": "shape",
+      "Meanings": [
+        "شکل",
+        "ساخت یک مستطیل",
+        "مربع",
+        "دایره",
+        "بیضی بر روی فرم"
+      ]
+    },
+    {
+      "EnglishWord": "shell",
+      "Meanings": [
+        "دستوری که فایلهای exe را اجرا می‌کند",
+        "Shell pathname ["
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "جابجا",
+        "کلید مبدل",
+        "متغیری که در رویداد فشردن کلید کیبورد یا ماوس وضعیت کلیدهای Shift"
+      ]
+    },
+    {
+      "EnglishWord": "shortcut",
+      "Meanings": [
+        "میانبر"
+      ]
+    },
+    {
+      "EnglishWord": "show",
+      "Meanings": [
+        "نشان دادن",
+        "متددی که شیء را نشان می‌دهد",
+        "یکی از متددهای Microsoft Agent برای نشان دادن کاراکتر",
+        "Agent.Show"
+      ]
+    },
+    {
+      "EnglishWord": "showcolor",
+      "Meanings": [
+        "جعبه Fonts",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه رنگها را به منظور انتخاب یک رنگ نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "showfont",
+      "Meanings": [
+        "جعبه Fonts",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه Fonts را به منظور انتخاب یک فونت نشان می‌دهد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "showhelp",
+      "Meanings": [
+        "متددی از شیء dlg برای نشان دادن فایلهای کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "showopen",
+      "Meanings": [
+        "جعبه Open",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه Open را به منظور انتخاب یک فایل نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "showsave",
+      "Meanings": [
+        "جعبه Save",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه Save را به منظور ذخیره یک فایل نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "shutdown",
+      "Meanings": [
+        "خاموش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "signum",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "simple combo",
+      "Meanings": [
+        "لیست نمونه",
+        "یکی از گزینه‌های خصیصه Style جعبه کومبو که شکل کومبو را به صورت یک جعبه متن مشخص می‌کند که با فشردن کلید‌های Arrow آیتمهای بعدی و قبلی قابل مشاهده می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "sin",
+      "Meanings": [
+        "Sin us",
+        "سینوس",
+        "خروجی این تابع عددی از نوع double است که برابر سینوس زاویه ورودی است",
+        "Sin number"
+      ]
+    },
+    {
+      "EnglishWord": "sine",
+      "Meanings": [
+        "سینوس",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "single",
+      "Meanings": [
+        "تک",
+        "نوعی از متغیرها که مقدار آن برابر چهار بایت است و اگر منفی باشد مقدار آن برابر است با 3. 402823E",
+        "تا 1. 401298E",
+        "و اگر مثبت باشد مقدار آن برابر است با 1. 401298E",
+        "تا 3. 402823E",
+        "این متغیر بیشتر برای تعیین مختصات استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "single-document interface",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "sinus",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "slider",
+      "Meanings": [
+        "لغزنده"
+      ]
+    },
+    {
+      "EnglishWord": "snd",
+      "Meanings": [
+        "S ou nd",
+        "صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sndplaysound",
+      "Meanings": [
+        "یکی از API‌های ویندوز که برای اجرای فایلهای صوتی اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "sng",
+      "Meanings": [
+        "S i ng le"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "منبع",
+        "یکی از متددهای شیء Err که نام شیء موجب خطا را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "source code",
+      "Meanings": [
+        "کد منبع",
+        "کدهای یک برنامه",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "فاصله",
+        "دستوری برای تبدیل یک کاراکتر به فاصله",
+        "Space number"
+      ]
+    },
+    {
+      "EnglishWord": "speak",
+      "Meanings": [
+        "صحبت کردن",
+        "یکی از متددهای Microsoft Agent برای صحبت کردن کاراکتر",
+        "Agent.Speak Text",
+        "برای این کار نیاز به <a href=\"\"http: //www. download. com/pc/result/titledetail/"
+      ]
+    },
+    {
+      "EnglishWord": "split",
+      "Meanings": [
+        "Split expression["
+      ]
+    },
+    {
+      "EnglishWord": "sql",
+      "Meanings": [
+        "S tructured Q uery L anguage",
+        "زبان پرس و جوی ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "sqr",
+      "Meanings": [
+        "sq ua r e",
+        "جذر \u000bخروجی این تابع عددی از نوع double است که برابر ریشه دوم یا جذر عدد ورودی است. \u000b Sqr number"
+      ]
+    },
+    {
+      "EnglishWord": "square",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "square root",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "sta",
+      "Meanings": [
+        "Sta tus",
+        "نامی برای نامگذاری StatusBar به صورت staName"
+      ]
+    },
+    {
+      "EnglishWord": "standard controls",
+      "Meanings": [
+        "کنترلهای استاندارد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "standard exe",
+      "Meanings": [
+        "گزینه ای که در File\\New Project قرار دارد و برای ایجاد یک پروژه جدید با پسوند exe استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "starting the visual basic",
+      "Meanings": [
+        "برای اجرای برنامه Visual Basic کارهای زیر را دنبال کنید",
+        "منوی Start در نوار Taskbar را باز کنید",
+        "گیزنه Programs را انتخاب کنید",
+        "گزینه Visual Studio را انتخاب کنید",
+        "Microsoft Visual Basic 6. 0 را اجرا کنید تا وارد برنامه شوید"
+      ]
+    },
+    {
+      "EnglishWord": "startup form",
+      "Meanings": [
+        "فرم شروع شونده",
+        "برای تعیین فرم شروع شونده از منوی Project گزینه Project Properties را برگزینید و سپس در صفحه General و در قسمت Startup Object فرم مورد نظر را انتخاب کردن و OK را بزنید"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "static",
+      "Meanings": [
+        "ثابت",
+        "کلمه ای در VB که اغلب به جای Dim به کار می‌رود. هنگام استفاده از Dim متغیر مورد نظر در هنگام رسیدن به End Sub به مقدار اولیه بازمی گردد در حالی که با Static متغیر به مقدار فعلی بر می‌گردد",
+        "Static VarName As VarType"
+      ]
+    },
+    {
+      "EnglishWord": "statusbar",
+      "Meanings": [
+        "نوار وضعیت",
+        "کامپوننی برای ساخت یک نوار وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "stop",
+      "Meanings": [
+        "ایست",
+        "یکی از متددهای Animation Control برای ایستانیدن فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "str",
+      "Meanings": [
+        "Str ing"
+      ]
+    },
+    {
+      "EnglishWord": "strcomp",
+      "Meanings": [
+        "StrComp string"
+      ]
+    },
+    {
+      "EnglishWord": "strconv",
+      "Meanings": [
+        "StrConv string"
+      ]
+    },
+    {
+      "EnglishWord": "stretch",
+      "Meanings": [
+        "کشش",
+        "خصیصه از شیء Image که عکس را دقیقا اندازه کادر می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "string",
+      "Meanings": [
+        "رشته",
+        "نوعی از متغیرها که مقدار آن برابر ده بایت است و شامل یک متن یک حرفی تا 2 میلیارد کاراکتری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "string expression",
+      "Meanings": [
+        "هر عبارتی که یک رشته متن را در برگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "string length",
+      "Meanings": [
+        "طول رشته"
+      ]
+    },
+    {
+      "EnglishWord": "strreverse",
+      "Meanings": [
+        "این تابع رشته وارد شده را عکس می‌کند",
+        "StrReverse expression",
+        "مانند",
+        "StrReverse \"\"abcd\"\" = \"\"dcba"
+      ]
+    },
+    {
+      "EnglishWord": "structured query language",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "sub",
+      "Meanings": [
+        "زیر",
+        "ساب",
+        "دستوری برای اعلان یک کد",
+        "Sub name",
+        "End Sub"
+      ]
+    },
+    {
+      "EnglishWord": "submenu",
+      "Meanings": [
+        "منوی فرعی",
+        "منوهایی که زیر مجموعه منوهای دیگری هستند",
+        "برای ساخت منوی فرعی در پنجره Menu Editor از دکمه",
+        "&gt; استفاده کنید"
+      ]
+    },
+    {
+      "EnglishWord": "subroutine",
+      "Meanings": [
+        "زیرروال"
+      ]
+    },
+    {
+      "EnglishWord": "subtraction operator  -",
+      "Meanings": [
+        "عمل تفریق",
+        "برای انجام یک تفریق از علامت",
+        "استفاده می‌کنیم. مانند",
+        "result = number",
+        "number"
+      ]
+    },
+    {
+      "EnglishWord": "switch",
+      "Meanings": [
+        "انتخاب کردن",
+        "ساختاری که از بین چند متغیر نوشته شده یکی را انتخاب می‌کند",
+        "Switch expr"
+      ]
+    },
+    {
+      "EnglishWord": "syntax",
+      "Meanings": [
+        "دستورالعمل"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "سیستم",
+        "یکی از خصیصه‌های FileListBox که فایلهای System را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "system requirements",
+      "Meanings": [
+        "برای اجرای VB در کامپیوتر به موارد زیر نیاز دارید",
+        "Pentium® 90MHz or higher microprocessor",
+        "VGA 640x480 or higher",
+        "resolution screen supported by Microsoft Windows",
+        "Microsoft Windows NT 4.0 or later"
+      ]
+    }
+  ]
+}

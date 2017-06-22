@@ -1,0 +1,134 @@
+﻿{
+  "Group": "B",
+  "Entries": 18,
+  "Words": [
+    {
+      "EnglishWord": "bas",
+      "Meanings": [
+        "فایلهای Basic module"
+      ]
+    },
+    {
+      "EnglishWord": "basic",
+      "Meanings": [
+        "B eginner's A ll Purpose S ymbolic I nstruction C ode",
+        "بیسیک",
+        "زبان همه منظوره با کد دستورالعمل علامت دار برای شروع کنندگان"
+      ]
+    },
+    {
+      "EnglishWord": "beep",
+      "Meanings": [
+        "بوق",
+        "بیب",
+        "صدا",
+        "دستوری که صدای بیب را به صدا در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "beginnig of file",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "binary",
+      "Meanings": [
+        "باینری دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "black",
+      "Meanings": [
+        "سیاه",
+        "رنگ مشکی",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "blue",
+      "Meanings": [
+        "آبی",
+        "رنگ آبی",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "bof",
+      "Meanings": [
+        "B eginning O f F ile",
+        "شروع یک داده",
+        "یکی از گزینه‌های متدد Recordset از شیء Data که اولین رکورد پایگاه داده‌ها را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "bool",
+      "Meanings": [
+        "Bool ean"
+      ]
+    },
+    {
+      "EnglishWord": "boolean",
+      "Meanings": [
+        "بولی",
+        "نوعی از متغیرها که برابر دو بایت است و جواب آن یا True صحیح است یا False غلط"
+      ]
+    },
+    {
+      "EnglishWord": "borderstyle",
+      "Meanings": [
+        "شکل کادر",
+        "خصیصه BackStyle در برچسبها زمانی استفاده می‌شود که بخواهیم پس زمینه برچسب رنگی نداشته باشد و رنگ شیء عقبی آن معلوم باشد",
+        "خصیصه BorderStyle در فرمها شکل پنجره مورد نظر را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "branching",
+      "Meanings": [
+        "دستورات شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "buf",
+      "Meanings": [
+        "Buf fer",
+        "حافظه کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "buffer",
+      "Meanings": [
+        "حافظه کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "button",
+      "Meanings": [
+        "دکمه",
+        "متغیری که دکمه ماوس را مشخص می‌کند",
+        "اگر صفر باشد دکمه سمت چپ و اگر یک باشد دکمه سمت راست و اگر دو باشد دکمه وسط فشرده شده است"
+      ]
+    },
+    {
+      "EnglishWord": "buttonclick",
+      "Meanings": [
+        "کلیک بر روی دکمه",
+        "رویدادی در جعبه ابزارها که هنگام کلیک بر روی هر دکمه آن اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "byte",
+      "Meanings": [
+        "بایت",
+        "نوعی از متغیرها که برابر یک بایت است و عددی بین 0 تا 255 می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "byval",
+      "Meanings": [
+        "یکی از کلمه‌های تعریف متغیر که معمولا در دستورات Sub و Function درون پرانتز استفاده می‌شود و متغیر را طوری تعریف می‌کند که هنگام رجوع به آن باید در درون پرانتز قرار گیرد",
+        "ByVal VarName As VarType"
+      ]
+    }
+  ]
+}

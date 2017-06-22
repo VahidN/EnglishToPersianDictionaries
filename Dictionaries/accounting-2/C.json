@@ -1,0 +1,4447 @@
+﻿{
+  "Group": "C",
+  "Entries": 740,
+  "Words": [
+    {
+      "EnglishWord": "c.r  credit",
+      "Meanings": [
+        "بستانکار بس"
+      ]
+    },
+    {
+      "EnglishWord": "calculation",
+      "Meanings": [
+        "محاسبه حساب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "calculator",
+      "Meanings": [
+        "ماشین حساب"
+      ]
+    },
+    {
+      "EnglishWord": "call features",
+      "Meanings": [
+        "ویژگی‌های بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "call for tenders",
+      "Meanings": [
+        "دعوت به مناقصه دعوت به همکاری"
+      ]
+    },
+    {
+      "EnglishWord": "call option",
+      "Meanings": [
+        "اختیار خرید و یاعدم خرید اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "call premium",
+      "Meanings": [
+        "صرف بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "call price",
+      "Meanings": [
+        "قیمت بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "call privilege",
+      "Meanings": [
+        "امتیاز بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "call provision",
+      "Meanings": [
+        "شرط بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "callability risk",
+      "Meanings": [
+        "ریسک قابلیت بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "callable",
+      "Meanings": [
+        "قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "callable at the option of the corporation",
+      "Meanings": [
+        "قابل بازخرید به انتخاب / اختیار شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "callable bonds",
+      "Meanings": [
+        "اوراق قرضه قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "callable preferred stock",
+      "Meanings": [
+        "سهام ممتاز قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "cancelability",
+      "Meanings": [
+        "قابل فسخ بودن"
+      ]
+    },
+    {
+      "EnglishWord": "canceled checks",
+      "Meanings": [
+        "چکهای باطل شده"
+      ]
+    },
+    {
+      "EnglishWord": "cancellation",
+      "Meanings": [
+        "فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "capacity",
+      "Meanings": [
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "capacity costs",
+      "Meanings": [
+        "هزینه‌های مربوط به ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "capital acquisition repayment cycle",
+      "Meanings": [
+        "چرخه تحصیل سرمایه و بازپرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "capital asset",
+      "Meanings": [
+        "دارایی سرمایه ای دارایی ثابت دارایی بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "capital asset pricing model  capm",
+      "Meanings": [
+        "مدل قیمت گذاری دارایی سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital budgeting",
+      "Meanings": [
+        "بودجه بندی سرمایه ای بودجه بندی پروژه‌های بلند مدت سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "capital charge",
+      "Meanings": [
+        "مخارج سرمایه هزینه سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital commitments",
+      "Meanings": [
+        "تعهدات سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital expenditures",
+      "Meanings": [
+        "مخارج سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital expenditures budget",
+      "Meanings": [
+        "بودجه مخارج سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital formation",
+      "Meanings": [
+        "تشکیل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital formation gain or loss",
+      "Meanings": [
+        "سود یا زیان تشکیل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital investment decisions",
+      "Meanings": [
+        "تصمیمات سرمایه گذاریهای بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "capital lease",
+      "Meanings": [
+        "اجاره سرمایه ای اجاره بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "capital maintenance",
+      "Meanings": [
+        "حفظ نگهداشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital maintenance approach",
+      "Meanings": [
+        "روش حفظ نگهداشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital maintenance measure",
+      "Meanings": [
+        "معیار حفظ سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital market disorders",
+      "Meanings": [
+        "اختلالات بی نظمی‌های بازار سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital market line  cml",
+      "Meanings": [
+        "خط بازار سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital markets",
+      "Meanings": [
+        "بازارهای سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital projects fund",
+      "Meanings": [
+        "حساب مستقل پروژه‌های عمرانی حساب مستقل پروژه‌های سرمایه گذاری بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "capital rationing",
+      "Meanings": [
+        "جیره بندی سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital stock certificate book",
+      "Meanings": [
+        "دفتر ثبت مالکیت سهام سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital structure theory",
+      "Meanings": [
+        "تیوری نظریه ساختار سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital uses",
+      "Meanings": [
+        "مصارف سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization criteria",
+      "Meanings": [
+        "معیارهای سرمایه ای کردن"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization guidelines for expenditures",
+      "Meanings": [
+        "رهنمودهای سرمایه ای کردن به حساب دارایی منظور کردن مخارج"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization of income method of valuation",
+      "Meanings": [
+        "ارزشگذاری بر مبنای روش سرمایه ای کردن سود"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization rate",
+      "Meanings": [
+        "ضریب سرمایه ای تلقی نمودن تنزیل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization under uncertainty",
+      "Meanings": [
+        "سرمایه ای کردن در شرایط عدم اطمینان / ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization weighted market index",
+      "Meanings": [
+        "شاخص مبتنی بر میانگین موزون ارزش بازار سهام"
+      ]
+    },
+    {
+      "EnglishWord": "capitalize",
+      "Meanings": [
+        "به حساب دارایی بردن سرمایه ای کردن"
+      ]
+    },
+    {
+      "EnglishWord": "capitalize a cost",
+      "Meanings": [
+        "سرمایه ای تلقی کردن مخارج به حساب دارایی بردن مخارج"
+      ]
+    },
+    {
+      "EnglishWord": "capitalized costs",
+      "Meanings": [
+        "هزینه‌های مخارج سرمایه ای تلقی شده"
+      ]
+    },
+    {
+      "EnglishWord": "capitalized lease",
+      "Meanings": [
+        "اجاره سرمایه ای شده اجاره سرمایه ای بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "caption",
+      "Meanings": [
+        "عنوان سرفصل"
+      ]
+    },
+    {
+      "EnglishWord": "career opportunity",
+      "Meanings": [
+        "فرصت شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "carriage and insurance paid to  cip",
+      "Meanings": [
+        "پرداخت کرایه حمل و بیمه کالا تا مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "carriage paid to  cpt",
+      "Meanings": [
+        "پرداخت کرایه حمل کالا تا مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "carry forward working paper",
+      "Meanings": [
+        "کاربرگ انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "carrying costs",
+      "Meanings": [
+        "هزینه‌های نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "carrying value",
+      "Meanings": [
+        "ارزش دفتری ارزش انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "carrying value book value",
+      "Meanings": [
+        "ارزش دفتری ارزش انتقالی به دوره بعد"
+      ]
+    },
+    {
+      "EnglishWord": "carrying value of bond",
+      "Meanings": [
+        "ارزش دفتری اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "cash",
+      "Meanings": [
+        "وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash account",
+      "Meanings": [
+        "حساب وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash acquisition",
+      "Meanings": [
+        "تحصیل نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash audit",
+      "Meanings": [
+        "حسابرسی وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash basis",
+      "Meanings": [
+        "مبنای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash basis accounting",
+      "Meanings": [
+        "حسابداری نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash budget",
+      "Meanings": [
+        "بودجه وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash count",
+      "Meanings": [
+        "شمارش وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash cycle",
+      "Meanings": [
+        "چرخه وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash disbursements journal",
+      "Meanings": [
+        "دفتر روزنامه پرداختهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash discount period",
+      "Meanings": [
+        "دوره استفاده از تخفیف نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash discounts",
+      "Meanings": [
+        "تخفیفات نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash distribution plan",
+      "Meanings": [
+        "طرح توزیع وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash distribution schedule",
+      "Meanings": [
+        "جدول توزیع وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash dividends payable",
+      "Meanings": [
+        "بود سهام نقدی پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "cash effect of transaction",
+      "Meanings": [
+        "نقدی معامله / مبادله"
+      ]
+    },
+    {
+      "EnglishWord": "cash equivalents",
+      "Meanings": [
+        "مبادلهای وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash flow",
+      "Meanings": [
+        "جریان نقدی جریان وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash flows",
+      "Meanings": [
+        "جریان‌های نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash flows from financing activities",
+      "Meanings": [
+        "جریانهای نقدی حاصل از فعالیتهای تامین مالی"
+      ]
+    },
+    {
+      "EnglishWord": "cash in flows",
+      "Meanings": [
+        "جریانهای ورودی وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash on hand",
+      "Meanings": [
+        "وجودی وجه نقد صندوق"
+      ]
+    },
+    {
+      "EnglishWord": "cash out flows",
+      "Meanings": [
+        "جریانهای خروجی وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash overdraft",
+      "Meanings": [
+        "برداشت نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash position",
+      "Meanings": [
+        "وضعیت نقدینگی"
+      ]
+    },
+    {
+      "EnglishWord": "cash receipts journal",
+      "Meanings": [
+        "دفتر روزنامه دریافتهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash remitted to home office",
+      "Meanings": [
+        "وجه نقد حواله / ارسال شده به اداره مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "cash short and over",
+      "Meanings": [
+        "کسری و اضافه موجودی صندوق وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "cash squeeze",
+      "Meanings": [
+        "مشکل نقدینگی"
+      ]
+    },
+    {
+      "EnglishWord": "cash surrender value",
+      "Meanings": [
+        "ارزش نقدی قابل بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "cash up approach",
+      "Meanings": [
+        "روش غیر مستقیم روش مغایرت گیری"
+      ]
+    },
+    {
+      "EnglishWord": "cashier",
+      "Meanings": [
+        "صندوقدار صندوق"
+      ]
+    },
+    {
+      "EnglishWord": "casts to account for",
+      "Meanings": [
+        "هزینه‌های قابل تخصیص"
+      ]
+    },
+    {
+      "EnglishWord": "catch basis accounting",
+      "Meanings": [
+        "حسابداری نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "category",
+      "Meanings": [
+        "گروه طبقه"
+      ]
+    },
+    {
+      "EnglishWord": "causal factors",
+      "Meanings": [
+        "عوامل علی عوامل علت و معلولی"
+      ]
+    },
+    {
+      "EnglishWord": "causality",
+      "Meanings": [
+        "رابطه علیت"
+      ]
+    },
+    {
+      "EnglishWord": "cause and effect diagram",
+      "Meanings": [
+        "نمودار علت و معلول"
+      ]
+    },
+    {
+      "EnglishWord": "cause and effect relationship",
+      "Meanings": [
+        "رابطه علت و معلولی"
+      ]
+    },
+    {
+      "EnglishWord": "ceiling price",
+      "Meanings": [
+        "قیمت سقف قیمت حد بالا نام دیگر ارزش خالص بازیافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "center for research in security prices  crsp",
+      "Meanings": [
+        "مرکز مطالعات قیمت اوراق بهادار واقع در دانشگاه شیکاگو آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "centralization",
+      "Meanings": [
+        "تمرکز گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "centralized decision making",
+      "Meanings": [
+        "تصمیم گیری متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "certainty equivalent wealth",
+      "Meanings": [
+        "میزان ثروت در شرایط بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "certainty of information",
+      "Meanings": [
+        "قطعیت / اطمینان پذیری اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of deposit",
+      "Meanings": [
+        "گواهی سپرده گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of incorporation",
+      "Meanings": [
+        "گواهی ثبت شرکت گواهی تاسیس"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of indebtedness",
+      "Meanings": [
+        "گواهی دین سند وام"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of merit",
+      "Meanings": [
+        "لوح تقدیر تقدیر نامه"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of practical completion",
+      "Meanings": [
+        "گواهی پایان تکمیل کار"
+      ]
+    },
+    {
+      "EnglishWord": "certified accountant",
+      "Meanings": [
+        "حسابدار مستقل حسابدار رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "certified checks",
+      "Meanings": [
+        "چکهای تایید شده / تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "certified information systems auditor  cisa",
+      "Meanings": [
+        "حسابرسی رسمی سیستمهای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "certified internal auditor  cia",
+      "Meanings": [
+        "حسابرسی رسمی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "certified management accountant  cma",
+      "Meanings": [
+        "حسابدار رسمی مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "certified public accountant  cpa",
+      "Meanings": [
+        "حسابدار رسمی حسابرسی مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "cessation of learning",
+      "Meanings": [
+        "توقف یادگیری"
+      ]
+    },
+    {
+      "EnglishWord": "chain store",
+      "Meanings": [
+        "فروشگاه زنجیره ای"
+      ]
+    },
+    {
+      "EnglishWord": "chairperson of the board",
+      "Meanings": [
+        "رییس هیات مدیره"
+      ]
+    },
+    {
+      "EnglishWord": "challenge exercise",
+      "Meanings": [
+        "تمرین چالشی"
+      ]
+    },
+    {
+      "EnglishWord": "change in accounting estimate",
+      "Meanings": [
+        "تغییر در برآوردهای حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "change in accounting principle",
+      "Meanings": [
+        "تغییر در اصل اصول حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "change in equity",
+      "Meanings": [
+        "تغییر در حقوق مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "change in reporting entity",
+      "Meanings": [
+        "تغییر در شخصیت گزارشگری واحد اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "chaos theory",
+      "Meanings": [
+        "نظریه تیوری آشوب"
+      ]
+    },
+    {
+      "EnglishWord": "chapter summary",
+      "Meanings": [
+        "خلاصه فصل"
+      ]
+    },
+    {
+      "EnglishWord": "character",
+      "Meanings": [
+        "خصوصیات اخلاقی شخصیت"
+      ]
+    },
+    {
+      "EnglishWord": "character classification",
+      "Meanings": [
+        "طبقه بندی بر مبنای خصوصیات اخلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic line",
+      "Meanings": [
+        "خط مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "charge off",
+      "Meanings": [
+        "به حساب هزینه منظور کردن حذف دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "charitable contributions",
+      "Meanings": [
+        "کمکهای خیریه مشارکتهای نیکوکارانه"
+      ]
+    },
+    {
+      "EnglishWord": "chart of accounts",
+      "Meanings": [
+        "فهرست نمودار حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "charter",
+      "Meanings": [
+        "منشور اساسنامه آیین نامه"
+      ]
+    },
+    {
+      "EnglishWord": "chartered accountant",
+      "Meanings": [
+        "حسابدار رسمی انگلستان"
+      ]
+    },
+    {
+      "EnglishWord": "chartered association of certified accountants  caca",
+      "Meanings": [
+        "انجمن حسابداران خبره انگلستان"
+      ]
+    },
+    {
+      "EnglishWord": "chartist",
+      "Meanings": [
+        "متخصص رسم نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "chattel mortgage",
+      "Meanings": [
+        "رهن اموال منقول"
+      ]
+    },
+    {
+      "EnglishWord": "check  cheque",
+      "Meanings": [
+        "چک"
+      ]
+    },
+    {
+      "EnglishWord": "checking account",
+      "Meanings": [
+        "حساب جاری"
+      ]
+    },
+    {
+      "EnglishWord": "chi square test",
+      "Meanings": [
+        "آزمون کای به توان دو"
+      ]
+    },
+    {
+      "EnglishWord": "chief accountant",
+      "Meanings": [
+        "حسابدار ارشد حسابدار کل"
+      ]
+    },
+    {
+      "EnglishWord": "chief executive officer  ceo",
+      "Meanings": [
+        "مدیر عامل"
+      ]
+    },
+    {
+      "EnglishWord": "chief financial officer  cfo",
+      "Meanings": [
+        "مدیر ارشد مالی معاونت مالی"
+      ]
+    },
+    {
+      "EnglishWord": "chief operating officer",
+      "Meanings": [
+        "مدیر ارشد عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "choice criterion",
+      "Meanings": [
+        "معیار انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "choice theory",
+      "Meanings": [
+        "تیوری نظریه انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "chronological records",
+      "Meanings": [
+        "اسناد و مدارک زمانی تهیه شده برحسب زمان"
+      ]
+    },
+    {
+      "EnglishWord": "cia  certified internal auditor",
+      "Meanings": [
+        "حسابرسی داخلی خبره حسابرس رسمی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "cia adapted",
+      "Meanings": [
+        "اقتباس شده از آزمون حسابرسان رسمی داخلی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "cima  certificate in management accounting",
+      "Meanings": [
+        "گواهینامه رسمی حسابداری مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "cincinnati stock exchange  cse",
+      "Meanings": [
+        "بورس سهام سین سیناتی"
+      ]
+    },
+    {
+      "EnglishWord": "circulating capital",
+      "Meanings": [
+        "سرمایه در گردش سرمایه جاری"
+      ]
+    },
+    {
+      "EnglishWord": "cisa  certified information system auditor",
+      "Meanings": [
+        "حسابرس رسمی سیستمهای رایانه ای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "claim on assets",
+      "Meanings": [
+        "ادعا بر داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "claim on income",
+      "Meanings": [
+        "ادعا بر سود"
+      ]
+    },
+    {
+      "EnglishWord": "claimant",
+      "Meanings": [
+        "مدعی شاکی"
+      ]
+    },
+    {
+      "EnglishWord": "claims",
+      "Meanings": [
+        "ادعاها"
+      ]
+    },
+    {
+      "EnglishWord": "clarity",
+      "Meanings": [
+        "شفافیت"
+      ]
+    },
+    {
+      "EnglishWord": "classes of inventories",
+      "Meanings": [
+        "انواع مختلف موجودی کالا طبقات مختلف موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "classes of transactions in the sales and collection cycle",
+      "Meanings": [
+        "گروه معاملات چرخه فروش و وصول مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "classical variables sampling",
+      "Meanings": [
+        "نمونه گیری سنتی بر اساس متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "classification error",
+      "Meanings": [
+        "اشتباه ناشی از طبقه بندی اقلام"
+      ]
+    },
+    {
+      "EnglishWord": "classified balance sheet",
+      "Meanings": [
+        "ترازنامه طبقه بندی شاه"
+      ]
+    },
+    {
+      "EnglishWord": "clean draft",
+      "Meanings": [
+        "برات بدون قید و شرط"
+      ]
+    },
+    {
+      "EnglishWord": "clean report",
+      "Meanings": [
+        "گزارش مقبول حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "clean surplus theory",
+      "Meanings": [
+        "تیوری مازاد خالص"
+      ]
+    },
+    {
+      "EnglishWord": "cleaning of the site",
+      "Meanings": [
+        "برچیدن کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "clearance certificate",
+      "Meanings": [
+        "برگ تصفیه حساب گواهی ترخیص"
+      ]
+    },
+    {
+      "EnglishWord": "clearinghouse",
+      "Meanings": [
+        "اتاق پایاپای"
+      ]
+    },
+    {
+      "EnglishWord": "clerical accuracy",
+      "Meanings": [
+        "صحت محاسباتی"
+      ]
+    },
+    {
+      "EnglishWord": "client",
+      "Meanings": [
+        "مشتری صاحبکار"
+      ]
+    },
+    {
+      "EnglishWord": "client business risk",
+      "Meanings": [
+        "ریسک تجاری صاحبکار"
+      ]
+    },
+    {
+      "EnglishWord": "closed end fund",
+      "Meanings": [
+        "صدوق مشترک سرمایه گذاری با سرمایه محدود ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "closed end investment company",
+      "Meanings": [
+        "شرکت سرمایه گذاری با سرمایه محدود ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "closely held corporation",
+      "Meanings": [
+        "شرکت سهامی خاص"
+      ]
+    },
+    {
+      "EnglishWord": "closing balance",
+      "Meanings": [
+        "مانده آخر دوره"
+      ]
+    },
+    {
+      "EnglishWord": "closing day",
+      "Meanings": [
+        "روز بستن حسابها آخرین روز دوره حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "closing entries",
+      "Meanings": [
+        "ثبتهای بستن حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "closing the accounts",
+      "Meanings": [
+        "بستن حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "closing the books process",
+      "Meanings": [
+        "فرآیند بستن حسابها و دفاتر"
+      ]
+    },
+    {
+      "EnglishWord": "cma  certified management accountant",
+      "Meanings": [
+        "حسابدار رسمی مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "cma adapted",
+      "Meanings": [
+        "اقتباس شده از آزمون حسابداران رسمی مدیزیت امریکا"
+      ]
+    },
+    {
+      "EnglishWord": "co ownership",
+      "Meanings": [
+        "مالکیت مشاع / مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "code of conduct",
+      "Meanings": [
+        "آیین رفتار و کردار حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "code of ethics",
+      "Meanings": [
+        "آیین رفتار حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "code of professional conduct",
+      "Meanings": [
+        "آیین رفتار حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "codependency",
+      "Meanings": [
+        "وابستگی متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "codification approach",
+      "Meanings": [
+        "رویکرد / دیدگاه قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "coding the books",
+      "Meanings": [
+        "کدبندی کردن دفاتر"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of correlation",
+      "Meanings": [
+        "ضریب همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of determination",
+      "Meanings": [
+        "ضریب تعیین تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of nondetermination",
+      "Meanings": [
+        "ضریب عدم تعیین تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of variation  cv",
+      "Meanings": [
+        "ضریب تغییر ات"
+      ]
+    },
+    {
+      "EnglishWord": "coincident indicators",
+      "Meanings": [
+        "شاخص‌های همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "collateral trust bonds",
+      "Meanings": [
+        "اوراق قرضه امانی رهنی"
+      ]
+    },
+    {
+      "EnglishWord": "collectability",
+      "Meanings": [
+        "قابلیت وصول"
+      ]
+    },
+    {
+      "EnglishWord": "collection from customers",
+      "Meanings": [
+        "وصولی از مشتریان"
+      ]
+    },
+    {
+      "EnglishWord": "collection method",
+      "Meanings": [
+        "روش وصول"
+      ]
+    },
+    {
+      "EnglishWord": "collection policy",
+      "Meanings": [
+        "سیاست وصول مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "collusion",
+      "Meanings": [
+        "همدستی تبانی"
+      ]
+    },
+    {
+      "EnglishWord": "collusive pricing",
+      "Meanings": [
+        "قیمت گذاری تبانی شده"
+      ]
+    },
+    {
+      "EnglishWord": "columnar journal",
+      "Meanings": [
+        "دفتر روزنامه چندستونی"
+      ]
+    },
+    {
+      "EnglishWord": "combined financial statements",
+      "Meanings": [
+        "صورتهای مالی ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "combined leverage",
+      "Meanings": [
+        "اهرم مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "combining contracts",
+      "Meanings": [
+        "ادغام کردن قراردادها"
+      ]
+    },
+    {
+      "EnglishWord": "comfort letter",
+      "Meanings": [
+        "تاییدیه حسابرس مستقل نامه اطمینان دهی"
+      ]
+    },
+    {
+      "EnglishWord": "commander theory",
+      "Meanings": [
+        "تیوری مدیریت نظریه سلسله مراتب"
+      ]
+    },
+    {
+      "EnglishWord": "commercial credit",
+      "Meanings": [
+        "اعتبار تجاری بازرگانی"
+      ]
+    },
+    {
+      "EnglishWord": "commercial paper",
+      "Meanings": [
+        "سند تجاری سند بازرگانی"
+      ]
+    },
+    {
+      "EnglishWord": "commission",
+      "Meanings": [
+        "حق الزحمه کارمزد کمیسیون"
+      ]
+    },
+    {
+      "EnglishWord": "commission rate",
+      "Meanings": [
+        "درصد کمیسیون درصد حق الزحمه"
+      ]
+    },
+    {
+      "EnglishWord": "commitment",
+      "Meanings": [
+        "تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "commitment fee",
+      "Meanings": [
+        "هزینه بهره مانده اعتباراستفاده نشده"
+      ]
+    },
+    {
+      "EnglishWord": "commitments",
+      "Meanings": [
+        "تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "committed cost",
+      "Meanings": [
+        "هزینه / مخارج تعهد شده"
+      ]
+    },
+    {
+      "EnglishWord": "committed fixed expenses",
+      "Meanings": [
+        "هزینه‌های ثابت تعهد شده"
+      ]
+    },
+    {
+      "EnglishWord": "committee on accounting procedures  cap",
+      "Meanings": [
+        "کمیته تدوین روشهای حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "commodity bond note",
+      "Meanings": [
+        "اراق قرضه / اسناد منتشره به پشتوانه موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "common body of knowledge  cbk",
+      "Meanings": [
+        "مجموعه ای از دانش متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "common cost",
+      "Meanings": [
+        "هزینه‌های عمومی هزینه مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "common factor",
+      "Meanings": [
+        "عامل مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "common fixed expenses",
+      "Meanings": [
+        "هزینه‌های ثابت عمومی هزینه‌های ثابت مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "common law",
+      "Meanings": [
+        "عرف حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "common sense",
+      "Meanings": [
+        "عقل سلیم درک عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "common size balance sheet",
+      "Meanings": [
+        "ترازنامه همگن شده ترازنامه هم مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "common size statements",
+      "Meanings": [
+        "صورتهای مالی هم مقیاس همگن شده"
+      ]
+    },
+    {
+      "EnglishWord": "common stock",
+      "Meanings": [
+        "سهم عادی"
+      ]
+    },
+    {
+      "EnglishWord": "common stock equivalents  cses",
+      "Meanings": [
+        "معادلهای سهام عادی"
+      ]
+    },
+    {
+      "EnglishWord": "common stock valuation",
+      "Meanings": [
+        "تعیین ارزش سهام عادی"
+      ]
+    },
+    {
+      "EnglishWord": "commonly controlled companies",
+      "Meanings": [
+        "شرکتهای تحت کنترل مدیریت واحد"
+      ]
+    },
+    {
+      "EnglishWord": "communicating the results",
+      "Meanings": [
+        "گزارشگری نتایج انتقال نتایج"
+      ]
+    },
+    {
+      "EnglishWord": "communication skills",
+      "Meanings": [
+        "مهارتهای ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "companies under common management",
+      "Meanings": [
+        "شرکتهای تحت مدیریت مشترک / واحد شرکتهای زیر نظر مدیریت واحد"
+      ]
+    },
+    {
+      "EnglishWord": "company",
+      "Meanings": [
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "company accounts",
+      "Meanings": [
+        "صورتهای مالی شرکت اصطلاح انگلیسی حسابهای شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "company promoter",
+      "Meanings": [
+        "موسس شرکت بنیانگذار شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "company's acts",
+      "Meanings": [
+        "قانون شرکتها"
+      ]
+    },
+    {
+      "EnglishWord": "comparability",
+      "Meanings": [
+        "قابلیت مقایسه مقایسه پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "comparable",
+      "Meanings": [
+        "قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparative analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مقایسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "comparative balance sheet",
+      "Meanings": [
+        "ترازنامه مقایسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "comparative financial statements",
+      "Meanings": [
+        "صورتهای مالی مقایسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "comparative negligence",
+      "Meanings": [
+        "سهل انگاری دو طرفه قصور متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "compare",
+      "Meanings": [
+        "مقایسه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "comparison schedule",
+      "Meanings": [
+        "کاربرگ مقایسه ای جدول مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "compatible accounting information systems",
+      "Meanings": [
+        "سیستمهای اطلاعاتی حسابداری سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "compensated absences",
+      "Meanings": [
+        "ذخیره بازخرید مرخصی کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "compensating balance",
+      "Meanings": [
+        "مانده جبرانی"
+      ]
+    },
+    {
+      "EnglishWord": "compensation",
+      "Meanings": [
+        "حقوق ومزایا جبران خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "compensation expense",
+      "Meanings": [
+        "هزینه تخفیف تشویقی هزینه حقوق و مزایا"
+      ]
+    },
+    {
+      "EnglishWord": "compensation strategy",
+      "Meanings": [
+        "استراتژی حقوق و مزایا استراتژی جبران خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "compensatory controls",
+      "Meanings": [
+        "کنترلهای جبرانی"
+      ]
+    },
+    {
+      "EnglishWord": "compensatory evidential matter",
+      "Meanings": [
+        "شواهد جبرانی / جبران کننده"
+      ]
+    },
+    {
+      "EnglishWord": "compensatory plan",
+      "Meanings": [
+        "طرح جبران خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "competence of evidence",
+      "Meanings": [
+        "قابل قبول بودن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "competent evidential matter",
+      "Meanings": [
+        "شواهد قابل قبول قابل اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "competing hypotheses",
+      "Meanings": [
+        "فرضیه‌های رقیب"
+      ]
+    },
+    {
+      "EnglishWord": "competing theories",
+      "Meanings": [
+        "تیوری‌های رقیب"
+      ]
+    },
+    {
+      "EnglishWord": "competitive bidding",
+      "Meanings": [
+        "مناقصه رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive tendering from an open list",
+      "Meanings": [
+        "مناقصه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive tendering from selected list",
+      "Meanings": [
+        "مناقصه محدود"
+      ]
+    },
+    {
+      "EnglishWord": "compilation of financial statements",
+      "Meanings": [
+        "تهیه و تنظیم صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "compilation services",
+      "Meanings": [
+        "خدمات تهیه و تنظیم صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "complementary services",
+      "Meanings": [
+        "خدمات مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complete audit",
+      "Meanings": [
+        "حسابرسی جامع کامل رسیدگی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete market",
+      "Meanings": [
+        "بازار کامل / کارآ"
+      ]
+    },
+    {
+      "EnglishWord": "completed contract method",
+      "Meanings": [
+        "روش تکمیل قرارداد روش کار تکمیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "completed performance method",
+      "Meanings": [
+        "روش تکمیل عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "completeness",
+      "Meanings": [
+        "کامل بودن تمامیت"
+      ]
+    },
+    {
+      "EnglishWord": "completing the engagement checklist",
+      "Meanings": [
+        "تکمیل کردن چک لیست کنترلهای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "completion of the work",
+      "Meanings": [
+        "تکمیل کار"
+      ]
+    },
+    {
+      "EnglishWord": "complex capital structure",
+      "Meanings": [
+        "ساختار پیچیده سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "compliance audit",
+      "Meanings": [
+        "حسابرسی رعایت"
+      ]
+    },
+    {
+      "EnglishWord": "compliance error",
+      "Meanings": [
+        "اشتباه رعایت"
+      ]
+    },
+    {
+      "EnglishWord": "compliance test",
+      "Meanings": [
+        "آزمون رعایت"
+      ]
+    },
+    {
+      "EnglishWord": "compliance testing",
+      "Meanings": [
+        "آزمون رعایت نام دیگر آزمون کنترلها"
+      ]
+    },
+    {
+      "EnglishWord": "compliance with",
+      "Meanings": [
+        "رعایت… انطباق با"
+      ]
+    },
+    {
+      "EnglishWord": "component of business",
+      "Meanings": [
+        "بخشی از واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "component percentage",
+      "Meanings": [
+        "درصد حزء به کل"
+      ]
+    },
+    {
+      "EnglishWord": "composite contribution margin",
+      "Meanings": [
+        "حاشیه فروش مرکب / کل"
+      ]
+    },
+    {
+      "EnglishWord": "composite depreciation",
+      "Meanings": [
+        "استهلاک گروهی دارایی‌های غیر مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "compound amount",
+      "Meanings": [
+        "مجموع اصل و فرع وام مبلغ انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "compound financial instrument",
+      "Meanings": [
+        "اوراق بهادار مالی دوگانه / مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound interest",
+      "Meanings": [
+        "بهره مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound interest method",
+      "Meanings": [
+        "روش بهره مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compounding",
+      "Meanings": [
+        "انباشتن فرایند محاسبه بهره مرکب فرایند انباشته بهره وری بهره"
+      ]
+    },
+    {
+      "EnglishWord": "compounding of interest",
+      "Meanings": [
+        "دفعات محاسبه بهره در سال انباشته بهره"
+      ]
+    },
+    {
+      "EnglishWord": "compounding period",
+      "Meanings": [
+        "دوره انباشتن بهره روی بهره دوره محاسبه بهره مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive accounting dictionary",
+      "Meanings": [
+        "فرهنگ جامع حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive audit",
+      "Meanings": [
+        "حسابرسی جامع"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive basis of accounting",
+      "Meanings": [
+        "مبنای جامع حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive income",
+      "Meanings": [
+        "سود جامع"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive income statement",
+      "Meanings": [
+        "صورت سود و زیان جامع"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive management dictionary",
+      "Meanings": [
+        "فرهنگ جامع مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive recognition",
+      "Meanings": [
+        "شناسایی جام"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive reconciliation",
+      "Meanings": [
+        "مغایرت گیری جامع"
+      ]
+    },
+    {
+      "EnglishWord": "compustat",
+      "Meanings": [
+        "بانک اطلاغاتی رایانه ای اوراق بهادار و صورتهای مالی شرکتهای سهامی عام در آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "computation",
+      "Meanings": [
+        "محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "computed upper exception rate  cuer",
+      "Meanings": [
+        "حد بالای ضریب انحراف محاسبه شده بالاترین حد محاسبه شده ضریب انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided design  cad",
+      "Meanings": [
+        "طراحی به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided manufacturing  cam",
+      "Meanings": [
+        "تولید به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted audit",
+      "Meanings": [
+        "حسابرسی به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted audit techniques  caat",
+      "Meanings": [
+        "فنون حسابرسی به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted trading system  cats",
+      "Meanings": [
+        "سیستم خرید و فروش به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer audit",
+      "Meanings": [
+        "حسابرسی رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer audit programme",
+      "Meanings": [
+        "برنامه حسابرسی رایانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "computer centre audit",
+      "Meanings": [
+        "حسابرسی مرکز رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer fraud",
+      "Meanings": [
+        "قلب رایانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated manufacturing  cim  system",
+      "Meanings": [
+        "سیستم تولید هماهنگ با کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated manufacturing  clm",
+      "Meanings": [
+        "تولید کنترل شده از طریق رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer software costs",
+      "Meanings": [
+        "هزینه‌های نرم افزارهای رایانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "computerized accounting system",
+      "Meanings": [
+        "سیستم حسابداری رایانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "concentration banking",
+      "Meanings": [
+        "نظام بانکداری متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "conceptual framework",
+      "Meanings": [
+        "چارچوب نظری ساختار مفهومی"
+      ]
+    },
+    {
+      "EnglishWord": "conceptual framework project",
+      "Meanings": [
+        "پروژه چارچوب نظری"
+      ]
+    },
+    {
+      "EnglishWord": "concern",
+      "Meanings": [
+        "دغدغه واحد اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "concluding remarks",
+      "Meanings": [
+        "نتیجه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent engineering",
+      "Meanings": [
+        "مهندسی همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "condensed balance sheet",
+      "Meanings": [
+        "ترازنامه فشرده خلاصه شده"
+      ]
+    },
+    {
+      "EnglishWord": "conditional receivable payable",
+      "Meanings": [
+        "مطابات / پرداختنی‌های مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "conference method",
+      "Meanings": [
+        "روش برگزاری همایش"
+      ]
+    },
+    {
+      "EnglishWord": "confidence index",
+      "Meanings": [
+        "شاخص اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence interval",
+      "Meanings": [
+        "فاصله اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence level",
+      "Meanings": [
+        "سطح اطمینان ضریب اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidential",
+      "Meanings": [
+        "محرمانه"
+      ]
+    },
+    {
+      "EnglishWord": "confidential information",
+      "Meanings": [
+        "اطلاعات محرمانه"
+      ]
+    },
+    {
+      "EnglishWord": "confidentiality",
+      "Meanings": [
+        "رازداری محرمانه بودن"
+      ]
+    },
+    {
+      "EnglishWord": "confidentiality principle",
+      "Meanings": [
+        "اصل رازداری / محرمانه بودن اطلاعات صاحبکار"
+      ]
+    },
+    {
+      "EnglishWord": "confirm",
+      "Meanings": [
+        "تایید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "confirmation",
+      "Meanings": [
+        "تاییدیه"
+      ]
+    },
+    {
+      "EnglishWord": "confirmation request",
+      "Meanings": [
+        "درخواست تاییدیه"
+      ]
+    },
+    {
+      "EnglishWord": "conflict of interest",
+      "Meanings": [
+        "تضاد منافع"
+      ]
+    },
+    {
+      "EnglishWord": "conflicting objectives",
+      "Meanings": [
+        "اهداف متناقض متضاد"
+      ]
+    },
+    {
+      "EnglishWord": "confrontation strategy",
+      "Meanings": [
+        "استراتژی مواجهه"
+      ]
+    },
+    {
+      "EnglishWord": "congeneric merger",
+      "Meanings": [
+        "ادغام واحدهای اقتصادی فعال در زمینه‌های مختلف تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "conglomeration",
+      "Meanings": [
+        "ادغام نامتجانس ناهمگن مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "connecting affiliated relationship",
+      "Meanings": [
+        "رابط واحدهای فرعی وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "consequences",
+      "Meanings": [
+        "پیامدهای اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "conservatism",
+      "Meanings": [
+        "محافظ کاری احتیاط"
+      ]
+    },
+    {
+      "EnglishWord": "conservative current asset strategy",
+      "Meanings": [
+        "راهبرد/ استراتژی محافظه کارانه در مورد داراییهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "conservative current liability strategy",
+      "Meanings": [
+        "راهبرد/ استراتژی محافظه کارانه در مورد بدهیهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "conservative estimation",
+      "Meanings": [
+        "برآورد محافظه کارانه تخمین محتاطانه"
+      ]
+    },
+    {
+      "EnglishWord": "conservative growth",
+      "Meanings": [
+        "رشد محافظه کارانه"
+      ]
+    },
+    {
+      "EnglishWord": "conservative strategy",
+      "Meanings": [
+        "استراتژی محافظه کارانه"
+      ]
+    },
+    {
+      "EnglishWord": "conservative valuation",
+      "Meanings": [
+        "ارزشگذاری محافظه کارانه"
+      ]
+    },
+    {
+      "EnglishWord": "conservative view",
+      "Meanings": [
+        "دیدگاه/ نگرش محافظه کارانه"
+      ]
+    },
+    {
+      "EnglishWord": "conservative working capital strategy",
+      "Meanings": [
+        "راهبرد/ استراتژی محافظه کارانه در مورد سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "consideration paid",
+      "Meanings": [
+        "مابه ازاء پرداختی"
+      ]
+    },
+    {
+      "EnglishWord": "consignee",
+      "Meanings": [
+        "حق العمل کار"
+      ]
+    },
+    {
+      "EnglishWord": "consignment",
+      "Meanings": [
+        "حق العمل کاری فروش کالای امانی"
+      ]
+    },
+    {
+      "EnglishWord": "consignor",
+      "Meanings": [
+        "آمر"
+      ]
+    },
+    {
+      "EnglishWord": "consistency",
+      "Meanings": [
+        "ثبات رویه یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "consistency principle",
+      "Meanings": [
+        "اصل ثبات رویه"
+      ]
+    },
+    {
+      "EnglishWord": "console",
+      "Meanings": [
+        "اوراق قرضه مادام العمر"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated accounts",
+      "Meanings": [
+        "صورتهالی مالی تلفیقی اصطلاح انگلیسی ها"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated balance sheets after acquisition",
+      "Meanings": [
+        "ترازنامه تلفیقی پس از تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated entities",
+      "Meanings": [
+        "واحدهای تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated financial statements",
+      "Meanings": [
+        "صورتهای مالی تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated income statement",
+      "Meanings": [
+        "صورت سود و زیان تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated net assets",
+      "Meanings": [
+        "خالص دارایی‌های تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated net income",
+      "Meanings": [
+        "سود خالص تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated quotations system",
+      "Meanings": [
+        "سیستم یکپارچه تعیین قیمت خرید و فروش اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated statement of cash flows",
+      "Meanings": [
+        "صورت جریانهای نقدی تلفیقی صورت تلفیقی جریانهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated statements",
+      "Meanings": [
+        "صورتهای مالی تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated tax return",
+      "Meanings": [
+        "اظهارنامه مالیاتی تلفیقی"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation",
+      "Meanings": [
+        "تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation at acquisition",
+      "Meanings": [
+        "تلفیق در مقطع تاریخ تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation policy",
+      "Meanings": [
+        "سیاست خط مشی تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation procedures",
+      "Meanings": [
+        "رویه‌های روشهای تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation techniques",
+      "Meanings": [
+        "تکنیک‌های تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation theories",
+      "Meanings": [
+        "تیوریهای نظریه‌های تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "کامل ثابت پارامتر متغیر ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant dollar accounting",
+      "Meanings": [
+        "حسابداری بر مبنای دلار ریال ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant gross margin percentage  nrv  method",
+      "Meanings": [
+        "روش ارزش خالص بازیافتنی مبنتنی بر درصد ثابت سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "constant gross margin percentage method",
+      "Meanings": [
+        "روش درصد ثابت سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "constant growth",
+      "Meanings": [
+        "رشد ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant growth model",
+      "Meanings": [
+        "مدل مبتنی بر رشد ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant marginal utility",
+      "Meanings": [
+        "مطلوبیت نهایی ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant purchasing power",
+      "Meanings": [
+        "قدرت خرید ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant term",
+      "Meanings": [
+        "متغیر / عامل ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constraining principles",
+      "Meanings": [
+        "اصول محدود کننده"
+      ]
+    },
+    {
+      "EnglishWord": "constraint",
+      "Meanings": [
+        "محدودیت عامل محدود کننده"
+      ]
+    },
+    {
+      "EnglishWord": "constraint set",
+      "Meanings": [
+        "مجموعه محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "construct validity",
+      "Meanings": [
+        "اعتبار ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "construction contracts",
+      "Meanings": [
+        "قراردادهای پیمانکاری"
+      ]
+    },
+    {
+      "EnglishWord": "construction defects",
+      "Meanings": [
+        "نقایص پیمان نقایص ساختمانی"
+      ]
+    },
+    {
+      "EnglishWord": "construction in process",
+      "Meanings": [
+        "پیمان ساختمان در جریان تکمیل ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "construction in progress  cip",
+      "Meanings": [
+        "پیمان در جریان ساخت ساختمان در جریان تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "construction management",
+      "Meanings": [
+        "مدیریت پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "constructive approach",
+      "Meanings": [
+        "رویکرد سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "constructive fraud",
+      "Meanings": [
+        "معادله تقلب تقلب ساختگی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive gains and losses",
+      "Meanings": [
+        "سود و زیانهای غیر عملیاتی ساختگی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive retirement of bonds",
+      "Meanings": [
+        "بازخرید / ابطال تصنعی اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "constructive retirement of preferred stock",
+      "Meanings": [
+        "بازخرید/ ابطال تصنعی سهام ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "consumable life",
+      "Meanings": [
+        "عمر مفید عمر قابل بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "consumer price index  cpi",
+      "Meanings": [
+        "شاخص قیمت مصرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "consumption ratio",
+      "Meanings": [
+        "نسبت مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "contemplated total volume",
+      "Meanings": [
+        "حجم کل تولید مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "contemporary cost accounting system",
+      "Meanings": [
+        "سیستم حسابداری بهای تمام شده / صنعتی معاصر"
+      ]
+    },
+    {
+      "EnglishWord": "contemporary responsibility accounting",
+      "Meanings": [
+        "حسابداری سنجش مسیولیت معاصر"
+      ]
+    },
+    {
+      "EnglishWord": "contemporary theory",
+      "Meanings": [
+        "تیوری معاصر نوین"
+      ]
+    },
+    {
+      "EnglishWord": "content validity",
+      "Meanings": [
+        "اعتبار محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "contents in brief",
+      "Meanings": [
+        "چکیده فهرست مندرجات خلاصه فهرست مطالب"
+      ]
+    },
+    {
+      "EnglishWord": "contingencies",
+      "Meanings": [
+        "رویدادهای احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "contingency",
+      "Meanings": [
+        "احتمالی اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent fees",
+      "Meanings": [
+        "حق الزحمه مشروط حق الزحمه احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent immunization",
+      "Meanings": [
+        "مصون سازی احتمالی / مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "contingent liability",
+      "Meanings": [
+        "بدهی احتمالی بدهی مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "contingent loss",
+      "Meanings": [
+        "زیان احتمالی ز یان مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "contingent pay",
+      "Meanings": [
+        "پرداخت احتمالی حق الزحمه مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "contingently issuable common shares",
+      "Meanings": [
+        "سهام عادی قابل انتشار مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "contingently issuable shares",
+      "Meanings": [
+        "سهام قابل انتشار مشروط احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "continued loss",
+      "Meanings": [
+        "زیان مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuing auditor",
+      "Meanings": [
+        "حسابرسی دایم"
+      ]
+    },
+    {
+      "EnglishWord": "continuing franchise fee",
+      "Meanings": [
+        "حق الزحمه دایم حق الامتیاز فروش"
+      ]
+    },
+    {
+      "EnglishWord": "continuing investment",
+      "Meanings": [
+        "سرمایه گذاری مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuing operations",
+      "Meanings": [
+        "عملیات مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuity assumption",
+      "Meanings": [
+        "فرض تداوم فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "continuous audit",
+      "Meanings": [
+        "حسابرسی مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous budgeting",
+      "Meanings": [
+        "بودجه بندی مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous improvement",
+      "Meanings": [
+        "بهبود مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous improvement standard cost",
+      "Meanings": [
+        "هزینه استاندارد بهبود مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous life",
+      "Meanings": [
+        "عمر دایم عمر نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "continuous market",
+      "Meanings": [
+        "بازار مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous pricing function",
+      "Meanings": [
+        "کارکرد قیمت گذاری مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous replenishment",
+      "Meanings": [
+        "تجدید مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "contra account",
+      "Meanings": [
+        "حساب متقابل حساب کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "contra asset",
+      "Meanings": [
+        "حساب کاهنده دارایی حساب متقابل دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "contra claim",
+      "Meanings": [
+        "ادعای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "contra equity approach",
+      "Meanings": [
+        "روش کاهنده حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "contra memorandum accounts",
+      "Meanings": [
+        "طرف حسابهای انتظامی"
+      ]
+    },
+    {
+      "EnglishWord": "contract documents",
+      "Meanings": [
+        "مستندات / اسناد و مدارک قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract interest rate",
+      "Meanings": [
+        "نرخ بهره قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract manufacturer",
+      "Meanings": [
+        "تولید کنده قرارداد مجری پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "contract on a cost plus fee basis",
+      "Meanings": [
+        "قرارداد مبتنی بر بهای تمام شده باضافه درصدی حق الزحمه"
+      ]
+    },
+    {
+      "EnglishWord": "contract period",
+      "Meanings": [
+        "دوره / طول مدت قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract sum",
+      "Meanings": [
+        "کل/ مجموع قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract terms",
+      "Meanings": [
+        "شرایط قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract vendor",
+      "Meanings": [
+        "فروشنده قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract works",
+      "Meanings": [
+        "کارهای پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "contracting costs",
+      "Meanings": [
+        "هزینه‌های تنظیم یا عقد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contractor",
+      "Meanings": [
+        "پیمانکار"
+      ]
+    },
+    {
+      "EnglishWord": "contractual agreement",
+      "Meanings": [
+        "توافق قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "contractual obligations",
+      "Meanings": [
+        "تعهدات قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "contractual restrictions",
+      "Meanings": [
+        "محدودیت‌های قراردادی محدودیت‌های مبتنی بر شرایط / مفاد قراردادها"
+      ]
+    },
+    {
+      "EnglishWord": "contractual rights",
+      "Meanings": [
+        "حقوق مالکانه قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "contributed capital",
+      "Meanings": [
+        "سرمایه پرداخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "contributed capital in excess of par",
+      "Meanings": [
+        "سرمایه پرداخت شده مازاد بر ارزش اسمی صرف سهام"
+      ]
+    },
+    {
+      "EnglishWord": "contribution in kind",
+      "Meanings": [
+        "آورده غیر نقدی سرمایه گذاری غیر نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "contribution income statement",
+      "Meanings": [
+        "صورت سود و زیان تهیه شده بر اساس روش حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin",
+      "Meanings": [
+        "حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin income statement",
+      "Meanings": [
+        "صورت سود و زیان تهیه شده بر اساس روش حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin per unit",
+      "Meanings": [
+        "حاشیه فروش هر واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin percentage",
+      "Meanings": [
+        "درصد حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin ratio  cmr",
+      "Meanings": [
+        "نسبت حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution margin variance",
+      "Meanings": [
+        "انحراف مغایرت حاشیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "contribution per unit",
+      "Meanings": [
+        "حاشیه فروش هر واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "contributions",
+      "Meanings": [
+        "آورده‌ها سرمایه پرداخت شده مشارکتها"
+      ]
+    },
+    {
+      "EnglishWord": "contributory negligence",
+      "Meanings": [
+        "سهل انگاری متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control account",
+      "Meanings": [
+        "حساب کنترل کنترلی"
+      ]
+    },
+    {
+      "EnglishWord": "control activities",
+      "Meanings": [
+        "فعالیتهای کنترلی"
+      ]
+    },
+    {
+      "EnglishWord": "control chart",
+      "Meanings": [
+        "نمودار کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control costs",
+      "Meanings": [
+        "هزینه‌های کنترل کنترل هزینه ها"
+      ]
+    },
+    {
+      "EnglishWord": "control environment",
+      "Meanings": [
+        "محیط کنترلی / کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control factor unit",
+      "Meanings": [
+        "واحد عامل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control limits",
+      "Meanings": [
+        "محدودیتها کنترلی محدود کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control objectives",
+      "Meanings": [
+        "اهداف کنترلی / کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control risk  cr",
+      "Meanings": [
+        "ریسک کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control risk matrix",
+      "Meanings": [
+        "ماتریس ریسک کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control total",
+      "Meanings": [
+        "جمع کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controllability",
+      "Meanings": [
+        "قابلیت کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controllable costs",
+      "Meanings": [
+        "هزینه‌های قابل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controllable variance",
+      "Meanings": [
+        "انحراف قابل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controller",
+      "Meanings": [
+        "مدیر امور مالی کنترولر"
+      ]
+    },
+    {
+      "EnglishWord": "controlling",
+      "Meanings": [
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controlling interest",
+      "Meanings": [
+        "حق کنترل سهامداران حاکم"
+      ]
+    },
+    {
+      "EnglishWord": "controversial issues",
+      "Meanings": [
+        "موضوعات جنجالی مباحث بحث برانگیز"
+      ]
+    },
+    {
+      "EnglishWord": "conventional approach",
+      "Meanings": [
+        "رویکرد مرسوم روش سنتی متداول"
+      ]
+    },
+    {
+      "EnglishWord": "conventional retail",
+      "Meanings": [
+        "خرده فروشی مرسوم / سنتی"
+      ]
+    },
+    {
+      "EnglishWord": "conventional retail inventory method",
+      "Meanings": [
+        "روش سنتی خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "conversion",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion cost",
+      "Meanings": [
+        "بهای هزینه تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion costs",
+      "Meanings": [
+        "هزینه‌های تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion of debt to equity",
+      "Meanings": [
+        "به سرمایه مثلا اوراق قرضه یا مشارکت به سهام"
+      ]
+    },
+    {
+      "EnglishWord": "conversion of foreign currencies",
+      "Meanings": [
+        "تبدیل ارزها / اقلام ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "conversion premium",
+      "Meanings": [
+        "صرف تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion privilege",
+      "Meanings": [
+        "امتیاز تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion to equity method",
+      "Meanings": [
+        "روش تبدیل به سهام / ارزش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "convertibility risk",
+      "Meanings": [
+        "ریسک قابلیت تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convertible",
+      "Meanings": [
+        "قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convertible bonds",
+      "Meanings": [
+        "اوراق قرضه قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convertible debt",
+      "Meanings": [
+        "بدهی قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convertible into common stock",
+      "Meanings": [
+        "قابل تبدیل به سهام عادی"
+      ]
+    },
+    {
+      "EnglishWord": "convertible preferred stock",
+      "Meanings": [
+        "سهام ممتاز قابل تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convexity",
+      "Meanings": [
+        "تحدب"
+      ]
+    },
+    {
+      "EnglishWord": "cooking the books",
+      "Meanings": [
+        "حساب سازی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative",
+      "Meanings": [
+        "تعاونی"
+      ]
+    },
+    {
+      "EnglishWord": "copyright",
+      "Meanings": [
+        "حق نشر حق تالیف"
+      ]
+    },
+    {
+      "EnglishWord": "core competencies",
+      "Meanings": [
+        "نقاط قوت کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "core objective",
+      "Meanings": [
+        "هدف اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "corner portfolio",
+      "Meanings": [
+        "بهترین سرمایه گذاری مجموه پرتفوی بهینه پرتفوی گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "corporate bonds",
+      "Meanings": [
+        "اوراق قرضه شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate charter",
+      "Meanings": [
+        "اساسنامه شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate debt securities",
+      "Meanings": [
+        "اوراق بهادار بدهی شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate dividend policy",
+      "Meanings": [
+        "سیاست تقسیم شود شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate finance",
+      "Meanings": [
+        "مدیریت مالی شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate financial structure",
+      "Meanings": [
+        "ساختار مالی شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate governance",
+      "Meanings": [
+        "مدیریت",
+        "کنتر و نظارت بر امور شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate income tax",
+      "Meanings": [
+        "مالیت بر درآمد شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate insiders",
+      "Meanings": [
+        "افراد داخل شرکت / افرادی که به اطلاعات داخلی شرکت دسترسی دارند"
+      ]
+    },
+    {
+      "EnglishWord": "corporate joint venture",
+      "Meanings": [
+        "مشارکت خاص سهامی سرمایه گذاری مخاطره آمیز در قالب یک شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate loans",
+      "Meanings": [
+        "وامهای شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate minutes",
+      "Meanings": [
+        "صورتحساب شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate secretary",
+      "Meanings": [
+        "دبیر / منشی شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate social accounting",
+      "Meanings": [
+        "حسابداری سنجش مسیولیت اجتماعی شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corporation",
+      "Meanings": [
+        "شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "corrected cash balance",
+      "Meanings": [
+        "مانده اصلاح شده وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "correcting entries",
+      "Meanings": [
+        "ثبتهای اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "corrective actions",
+      "Meanings": [
+        "اقدامات اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "corrective controls",
+      "Meanings": [
+        "کنترلهای اصلاح کننده"
+      ]
+    },
+    {
+      "EnglishWord": "correlation",
+      "Meanings": [
+        "همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation analysis",
+      "Meanings": [
+        "تجزیه و تحلیل همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "corresponding documents",
+      "Meanings": [
+        "مستندات مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "corresponding figures",
+      "Meanings": [
+        "ارقام مشابه / متناظر"
+      ]
+    },
+    {
+      "EnglishWord": "corridor approach",
+      "Meanings": [
+        "روش یا رویکرد دهلیز رویکرد باریکراه"
+      ]
+    },
+    {
+      "EnglishWord": "corroborating evidence",
+      "Meanings": [
+        "شواهد مکمل شواهد تایید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "corroborating evidential matter",
+      "Meanings": [
+        "شواهد تایید کننده شواهد مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "corruption",
+      "Meanings": [
+        "ارتشاء"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "بهای تمام شده هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "insurance and freight cif"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting",
+      "Meanings": [
+        "حسابداری بهای تمام شده حسابداری صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting controls",
+      "Meanings": [
+        "کنترلهای حسابداری بهای تمام شده صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting information",
+      "Meanings": [
+        "اطلاعات حسابداری بهای تمام شده صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting records",
+      "Meanings": [
+        "اسناد و مدارک حسابداری بهای تمام شده صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting standards board  casb",
+      "Meanings": [
+        "هیات تدوین استانداردهای حسابداری بهای تمام شده صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accounting system",
+      "Meanings": [
+        "سیستم حسابداری بهای تمام شده سیستم حسابداری صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "cost accumulation",
+      "Meanings": [
+        "گردآوری انباشت هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost accuracy",
+      "Meanings": [
+        "صحبت بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost advantage",
+      "Meanings": [
+        "مزیت بهای تمام شده مزیت هزینه ای"
+      ]
+    },
+    {
+      "EnglishWord": "cost allocation",
+      "Meanings": [
+        "تخصیص هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost allocation base",
+      "Meanings": [
+        "مبنای تخصیص هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost and freight  c f",
+      "Meanings": [
+        "بهای تمام شده و هزینه کرایه حمل"
+      ]
+    },
+    {
+      "EnglishWord": "cost assignment",
+      "Meanings": [
+        "تسهیم هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost avoidance",
+      "Meanings": [
+        "اجتناب از هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost based prices",
+      "Meanings": [
+        "قیمتهای مبتنی بر بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost behavior",
+      "Meanings": [
+        "رفتار هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost behavior pattern",
+      "Meanings": [
+        "الگوی رفتار هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost benefit analysis",
+      "Meanings": [
+        "تجزیه و تحلیل هزینه منفعت"
+      ]
+    },
+    {
+      "EnglishWord": "cost benefit approach",
+      "Meanings": [
+        "روش تجزیه و تحلیل هزینه منفعت"
+      ]
+    },
+    {
+      "EnglishWord": "cost center",
+      "Meanings": [
+        "مرکز هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost consciousness",
+      "Meanings": [
+        "آگاهی از هزینه هشیاری از هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost control system",
+      "Meanings": [
+        "سیستم کنترل هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost driver",
+      "Meanings": [
+        "محرک هزینه عامل ایجاد وقوع هزینه موجد هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost driver analysis",
+      "Meanings": [
+        "تجزیه و تحلیل محرک‌های هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost effective",
+      "Meanings": [
+        "مقرون به صرفه اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "cost elements",
+      "Meanings": [
+        "عناصر بهای تمام شده هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost estimation",
+      "Meanings": [
+        "برآورد تخمین هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost flow",
+      "Meanings": [
+        "جریان گردش بهای تمام شده / هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost flow assumptions",
+      "Meanings": [
+        "مفروضات جریان گردش هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost formula",
+      "Meanings": [
+        "فرمول هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost hierarchy",
+      "Meanings": [
+        "سلسله مراتب هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost incidence",
+      "Meanings": [
+        "انجام تحمل هزینه رخداد وقوع هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost incurred",
+      "Meanings": [
+        "هزینه متحمله هزینه انجام شده بهای تمام شده متحمله"
+      ]
+    },
+    {
+      "EnglishWord": "cost indifference point",
+      "Meanings": [
+        "نقطه بی تفاوتی بهای تمام شده هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost leadership",
+      "Meanings": [
+        "رهبری هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost management",
+      "Meanings": [
+        "مدیریت هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost management information system",
+      "Meanings": [
+        "سیستم اطلاعاتی مدیریت هزینه / بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost management system  cms",
+      "Meanings": [
+        "سیستم مدیریت هزینه / بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost measurement",
+      "Meanings": [
+        "اندازه گیری هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost method",
+      "Meanings": [
+        "روش بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost minimization",
+      "Meanings": [
+        "حداقل کردن هزینه بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost object",
+      "Meanings": [
+        "موضوع هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost of acquisition",
+      "Meanings": [
+        "بهای تمام شده تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "cost of bank loans",
+      "Meanings": [
+        "هزینه وامهای بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "cost of borrowing",
+      "Meanings": [
+        "هزینه استقراض"
+      ]
+    },
+    {
+      "EnglishWord": "cost of capital",
+      "Meanings": [
+        "هزینه بهای تمام شده سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "cost of goods available for sale",
+      "Meanings": [
+        "بهای تمام شده کالای آماده برای فروش"
+      ]
+    },
+    {
+      "EnglishWord": "cost of goods sold",
+      "Meanings": [
+        "بهای تمام شده کالای فروش رفته"
+      ]
+    },
+    {
+      "EnglishWord": "cost of living index",
+      "Meanings": [
+        "شاخص هزینه زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "cost of long term debt",
+      "Meanings": [
+        "هزینه بدهی بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "cost of production report",
+      "Meanings": [
+        "گزارش هزینه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "cost of quality",
+      "Meanings": [
+        "هزینه کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "cost of resource usage",
+      "Meanings": [
+        "هزینه مصرف منابع"
+      ]
+    },
+    {
+      "EnglishWord": "cost of unused activity",
+      "Meanings": [
+        "هزینه فعالیت مصرف نشده"
+      ]
+    },
+    {
+      "EnglishWord": "cost of work certified",
+      "Meanings": [
+        "بهای تمام شده هزینه کار تایید شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost per purchase order",
+      "Meanings": [
+        "هزینه بهای تمام شده هر بار سفارش خرید"
+      ]
+    },
+    {
+      "EnglishWord": "cost per unit",
+      "Meanings": [
+        "بهای تمام شده هر واحد محصول هزینه هر واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus contract",
+      "Meanings": [
+        "قرارداد امانی قرارداد مبتنی بر بهای تمام شده باضافه درصدی سود"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus fixed fee contract",
+      "Meanings": [
+        "قراراداد مبتنی بر بهای تمام شده باضافه حق الزحمه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus method",
+      "Meanings": [
+        "روش بهای تمام شده باضافه درصد معینی سود"
+      ]
+    },
+    {
+      "EnglishWord": "cost pool",
+      "Meanings": [
+        "مرکز هزینه مخزن هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost prediction",
+      "Meanings": [
+        "پیش بینی بهای تمام شده / هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost predictions",
+      "Meanings": [
+        "پیش بینی اقلام بهای تمام شده پیش بینی هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost presentation",
+      "Meanings": [
+        "نحوه ارایه / انعکاس هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost reconciliation",
+      "Meanings": [
+        "مغایرت گیری هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost recovery method",
+      "Meanings": [
+        "روش بازیافت بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost reduction",
+      "Meanings": [
+        "تقلیل هزینه کاهش بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost saving",
+      "Meanings": [
+        "صرفه جویی در بهای تمام شده هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost structure",
+      "Meanings": [
+        "ساختار هزینه ساختار بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost system",
+      "Meanings": [
+        "سیستم هزینه یابی سیستم بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost tables",
+      "Meanings": [
+        "جداول هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost to be capitalized",
+      "Meanings": [
+        "مخارجی که باید سرمایه ای شود یعنی به حساب دارایی منظور شود"
+      ]
+    },
+    {
+      "EnglishWord": "cost to cost method",
+      "Meanings": [
+        "روش هزینه به هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost tracing",
+      "Meanings": [
+        "ردیابی هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost volume profit  cvp",
+      "Meanings": [
+        "هزینه حجم سود"
+      ]
+    },
+    {
+      "EnglishWord": "cost volume profit  cvp  analysis",
+      "Meanings": [
+        "تجزیه و تحلیل رابط بین هزینه حجم سود"
+      ]
+    },
+    {
+      "EnglishWord": "cost volume profit graph",
+      "Meanings": [
+        "نمودار رابطه هزینه حجم سود"
+      ]
+    },
+    {
+      "EnglishWord": "cost without fee contract",
+      "Meanings": [
+        "قرارداد مبتنی بر بهای تمام شده بدون حق الزحمه"
+      ]
+    },
+    {
+      "EnglishWord": "costing system refinement",
+      "Meanings": [
+        "اصلاح سیستم هزینه یابی"
+      ]
+    },
+    {
+      "EnglishWord": "costs advertisement",
+      "Meanings": [
+        "هزینه‌های تبلیغات"
+      ]
+    },
+    {
+      "EnglishWord": "costs annual bonus",
+      "Meanings": [
+        "هزینه‌های پاداش سالانه"
+      ]
+    },
+    {
+      "EnglishWord": "costs bank commission",
+      "Meanings": [
+        "هزینه‌های کارمزد بانک"
+      ]
+    },
+    {
+      "EnglishWord": "costs child allowance",
+      "Meanings": [
+        "هزینه‌های حق اولاد"
+      ]
+    },
+    {
+      "EnglishWord": "costs cleaning",
+      "Meanings": [
+        "هزینه‌های نظافت"
+      ]
+    },
+    {
+      "EnglishWord": "costs domestic traveling",
+      "Meanings": [
+        "هزینه‌های مسافرات داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "costs electricity",
+      "Meanings": [
+        "هزینه‌های برق"
+      ]
+    },
+    {
+      "EnglishWord": "costs entertainment",
+      "Meanings": [
+        "هزینه‌های پذیرایی"
+      ]
+    },
+    {
+      "EnglishWord": "costs launch   canteen",
+      "Meanings": [
+        "هزینه ناهار و رستوارن / آبدارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "costs of quality",
+      "Meanings": [
+        "هزینه‌های کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "costs printed matters",
+      "Meanings": [
+        "هزینه‌های تکثیر و صحافی جزوه"
+      ]
+    },
+    {
+      "EnglishWord": "costs subsequent to acquisition",
+      "Meanings": [
+        "مخارج بعد از تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "costs to date",
+      "Meanings": [
+        "هزینه‌های مخارج انجام شده تا به این تاریخ"
+      ]
+    },
+    {
+      "EnglishWord": "costs traveling to abroad",
+      "Meanings": [
+        "هزینه‌های مسافرت خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "counter claim",
+      "Meanings": [
+        "ادعای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "counterbalancing errors",
+      "Meanings": [
+        "اشتباهاتی که یکدیگر را خنثی می‌کنند اشتباهات موازنه ای"
+      ]
+    },
+    {
+      "EnglishWord": "counterparty risk",
+      "Meanings": [
+        "ریسک طرف مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "coupon payment",
+      "Meanings": [
+        "پرداخت بهره"
+      ]
+    },
+    {
+      "EnglishWord": "coupon rate",
+      "Meanings": [
+        "نرخ بهره"
+      ]
+    },
+    {
+      "EnglishWord": "covariance",
+      "Meanings": [
+        "کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "cpa  certified public accountant",
+      "Meanings": [
+        "حسابدار رسمی حسابرس مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "cpa adapted",
+      "Meanings": [
+        "اقتباس شده از آزمون حسابداران رسمی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "cpa uniform examinations",
+      "Meanings": [
+        "آزمونهای سراسری حسابداران رسمی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "cpa vision process",
+      "Meanings": [
+        "فرایند تجسم نقش حسابرسان مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "cpa web trust services",
+      "Meanings": [
+        "خدمات اطمینان دهی حسابرسان مستقل / حسابداران رسمی در اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "credit",
+      "Meanings": [
+        "بستانکار نسیه اعتباری"
+      ]
+    },
+    {
+      "EnglishWord": "credit balance",
+      "Meanings": [
+        "مانده بستانکار مانده اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "credit card sales",
+      "Meanings": [
+        "فروش از طریق کارت اعتباری"
+      ]
+    },
+    {
+      "EnglishWord": "credit department",
+      "Meanings": [
+        "دایره واحد اعتبارات"
+      ]
+    },
+    {
+      "EnglishWord": "credit management",
+      "Meanings": [
+        "مدیریت اعتبارات"
+      ]
+    },
+    {
+      "EnglishWord": "credit manager",
+      "Meanings": [
+        "مدیر اعتبارات"
+      ]
+    },
+    {
+      "EnglishWord": "credit memo",
+      "Meanings": [
+        "اعلامیه بستانکار"
+      ]
+    },
+    {
+      "EnglishWord": "credit memorandum or credit memo",
+      "Meanings": [
+        "اعلامیه بستانکار"
+      ]
+    },
+    {
+      "EnglishWord": "credit policy",
+      "Meanings": [
+        "سیاست اعتباری"
+      ]
+    },
+    {
+      "EnglishWord": "credit standing",
+      "Meanings": [
+        "وضعیت اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "credit terms",
+      "Meanings": [
+        "شرایط اعتبار دهی"
+      ]
+    },
+    {
+      "EnglishWord": "creditor",
+      "Meanings": [
+        "اعتبار دهنده بستانکار"
+      ]
+    },
+    {
+      "EnglishWord": "creditors",
+      "Meanings": [
+        "بستانکاران اعتبار دهندگان"
+      ]
+    },
+    {
+      "EnglishWord": "creditors' subsidiary ledger",
+      "Meanings": [
+        "دفتر معین بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "creditors sundry",
+      "Meanings": [
+        "بستانکاران متفرقه"
+      ]
+    },
+    {
+      "EnglishWord": "criminal liability for accountants",
+      "Meanings": [
+        "مسیولیت کیفری / جزایی / مدنی حسابداران حسابرسان"
+      ]
+    },
+    {
+      "EnglishWord": "critical event",
+      "Meanings": [
+        "رویداد اصلی حیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "critical event theory of revenue recognition",
+      "Meanings": [
+        "تیوری رویداد اساسی شناسایی درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "critical path",
+      "Meanings": [
+        "مسیر بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical perspective research",
+      "Meanings": [
+        "تحقیقات انتقادی"
+      ]
+    },
+    {
+      "EnglishWord": "critical success factors",
+      "Meanings": [
+        "عوامل اصلی حیاتی موفقیت"
+      ]
+    },
+    {
+      "EnglishWord": "cross check",
+      "Meanings": [
+        "آزمون محاسبات کنترل متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "cross foot",
+      "Meanings": [
+        "جمع افقی"
+      ]
+    },
+    {
+      "EnglishWord": "cross of market",
+      "Meanings": [
+        "پهنه بازار گستردگی بازار"
+      ]
+    },
+    {
+      "EnglishWord": "cross reference",
+      "Meanings": [
+        "عطف متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "cross sectional analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "crosscheck",
+      "Meanings": [
+        "کنترل متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative",
+      "Meanings": [
+        "انباشته جمع شونده"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative abnormal return  car",
+      "Meanings": [
+        "بازده انباشته غیر عادی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative average time",
+      "Meanings": [
+        "میانگین زمان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative average time learning model",
+      "Meanings": [
+        "مدل یادگیری مبتنی بر میانگین زمان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative dividends",
+      "Meanings": [
+        "سود سهام جمع شونده انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative effect",
+      "Meanings": [
+        "اثر انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative effect of accounting changes",
+      "Meanings": [
+        "اثر انباشته تغییرات حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative effect of change in accounting principles",
+      "Meanings": [
+        "اثر انباشته تغییر در اصول حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative effect type accounting change",
+      "Meanings": [
+        "تغییر حسابداری دارای / از نوع اثر انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative preferred stock",
+      "Meanings": [
+        "سهام ممتاز با سود جمع شونده"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative time",
+      "Meanings": [
+        "زمان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative voting system",
+      "Meanings": [
+        "سیستم رای گیری تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "currency appreciation",
+      "Meanings": [
+        "افزایش قدرت خرید واحد پولی افزایش نرخ ارز"
+      ]
+    },
+    {
+      "EnglishWord": "currency depreciation",
+      "Meanings": [
+        "کاهش نرخ ارز کاهش قدرت خرید واحد پولی"
+      ]
+    },
+    {
+      "EnglishWord": "currency risk",
+      "Meanings": [
+        "ریسک ارز ریسک ناشی از کاهش قدرت خرید واحد پولی"
+      ]
+    },
+    {
+      "EnglishWord": "currency risk management",
+      "Meanings": [
+        "مدیریت ریسک ارز"
+      ]
+    },
+    {
+      "EnglishWord": "current accruals",
+      "Meanings": [
+        "بدهیهای جاری ناشی از هزینه‌های تحقق یافته ولی پرداخت نشده"
+      ]
+    },
+    {
+      "EnglishWord": "current asset",
+      "Meanings": [
+        "دارایی جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current catch up approach",
+      "Meanings": [
+        "روش جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current cost",
+      "Meanings": [
+        "هزینه جاری ارزش جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current cost financial statements",
+      "Meanings": [
+        "صورتهای مالی مبتنی بر بهای / ارزشهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current cost system of accounting",
+      "Meanings": [
+        "سیستم حسابداری مبتنی بر بهای / ارزشهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current exit value",
+      "Meanings": [
+        "ارزش جاری خروجی فروش"
+      ]
+    },
+    {
+      "EnglishWord": "current file",
+      "Meanings": [
+        "پرونده جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current fund",
+      "Meanings": [
+        "حساب مستقل وجوه اعتبارات جاری وجوه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "current input prices",
+      "Meanings": [
+        "ارزشهای ورودی جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current issues in accounting",
+      "Meanings": [
+        "مباحث جاری در حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "current issues in auditing",
+      "Meanings": [
+        "مباحث جاری در حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "current liability",
+      "Meanings": [
+        "بدهی جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current market price",
+      "Meanings": [
+        "قیمت جاری بازار"
+      ]
+    },
+    {
+      "EnglishWord": "current market value exit value",
+      "Meanings": [
+        "ارزش جاری بازار ارزش خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "current maturing portion of long term debt",
+      "Meanings": [
+        "حصه جاری بدهی بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "current notes payable",
+      "Meanings": [
+        "اسناد پرداختنی جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current operating concept",
+      "Meanings": [
+        "مفهوم عملیات جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current operating performance",
+      "Meanings": [
+        "نتایج عملکرد عملیاتی جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current operating performance approach",
+      "Meanings": [
+        "روش / رویکرد نتایج عملیات جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current period approach",
+      "Meanings": [
+        "روش دوره جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current portion",
+      "Meanings": [
+        "حصه سهم جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current portion of long term debt",
+      "Meanings": [
+        "حصه سهام جاری بدهی بلندمدت"
+      ]
+    },
+    {
+      "EnglishWord": "current practices",
+      "Meanings": [
+        "رویه‌های جاری شیوه‌های کنونی"
+      ]
+    },
+    {
+      "EnglishWord": "current rate",
+      "Meanings": [
+        "نرخ جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current rate method",
+      "Meanings": [
+        "روش نرخ جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current ratio",
+      "Meanings": [
+        "نسبت جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current replacement cost",
+      "Meanings": [
+        "ارزش جاری جایگزینی بهای جاری جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "current reproduction cost",
+      "Meanings": [
+        "بهای جاری تولید مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "current resources",
+      "Meanings": [
+        "منابع جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current unrestricted fund",
+      "Meanings": [
+        "حساب مستقل جاری نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "current value accounting",
+      "Meanings": [
+        "حسابداری مبتنی بر ارزشهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current yield",
+      "Meanings": [
+        "بازده جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current yield coupon yield",
+      "Meanings": [
+        "بازده جاری بهره"
+      ]
+    },
+    {
+      "EnglishWord": "current-concurrent method",
+      "Meanings": [
+        "روش جاری غیر جاری"
+      ]
+    },
+    {
+      "EnglishWord": "currently attainable standards",
+      "Meanings": [
+        "استانداردهای درحال حاضر قابل دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "currently reported net income",
+      "Meanings": [
+        "سود گزارش شده کنونی / جاری گزارش جاری سودخالص"
+      ]
+    },
+    {
+      "EnglishWord": "custodian",
+      "Meanings": [
+        "امین سرپرست نماینده مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "custom duties",
+      "Meanings": [
+        "عوارض گمرکی تعرفه‌های گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "custom made",
+      "Meanings": [
+        "سفارشی"
+      ]
+    },
+    {
+      "EnglishWord": "customer advances",
+      "Meanings": [
+        "پیش دریافت از مشتریان"
+      ]
+    },
+    {
+      "EnglishWord": "customer costing system",
+      "Meanings": [
+        "سیستم هزینه یابی مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer life cycle costs",
+      "Meanings": [
+        "هزینه‌های چرخه عمر مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer response time",
+      "Meanings": [
+        "زمان واکنش پاسخ مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer service",
+      "Meanings": [
+        "خدمات پس از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "customer support costs",
+      "Meanings": [
+        "هزینه‌های ارایه خدمات پس از فروش به مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer value",
+      "Meanings": [
+        "ارزش برای مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer's agreement",
+      "Meanings": [
+        "موافقت مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "cut off",
+      "Meanings": [
+        "مقطع گیری زمانی انقطاع زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cut off bank statement",
+      "Meanings": [
+        "صورتحساب مقطعی بانک"
+      ]
+    },
+    {
+      "EnglishWord": "cut off date",
+      "Meanings": [
+        "تاریخ انقطاع مقطع گیری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cut off error",
+      "Meanings": [
+        "اشتباه مقطع گیری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cut off statement",
+      "Meanings": [
+        "صورتحساب مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "cut off test",
+      "Meanings": [
+        "ازمون انقطاع زمانی/ مقطع گیری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cut off verification",
+      "Meanings": [
+        "رسیدگی مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "cutoff misstatements",
+      "Meanings": [
+        "تحریفات مقطع گیری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cutoff tests",
+      "Meanings": [
+        "آزمونهای مقطع گیری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cycle approach",
+      "Meanings": [
+        "روش چرخه معاملات"
+      ]
+    },
+    {
+      "EnglishWord": "cycle time",
+      "Meanings": [
+        "زمان چرخه"
+      ]
+    }
+  ]
+}

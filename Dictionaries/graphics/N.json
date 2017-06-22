@@ -1,0 +1,80 @@
+﻿{
+  "Group": "N",
+  "Entries": 11,
+  "Words": [
+    {
+      "EnglishWord": "nan",
+      "Meanings": [
+        "Programming: به معنی نبودن یک عدد. معمولا به نتیجه ناموفق از یک عملگر ممیز شناور floating point گفته می‌شود. یک NaN ابتدا هنگامی روی داد که یک عملگر ممیز شناور نمی‌توانست در انجمن مهندسی برق و الکترونیک نمایش داده شود. اگر مقدار یک ممیز شناور یک عدد باشد از تابع _isnan استفاده می‌شود. NaN همچنین نام یک موتور دو بعدی بازی می‌باشد که توسط Andrei Bazhgin ساخته شده است و آدرس تارنمای آن www. nan. sourceforge. net می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "nda",
+      "Meanings": [
+        "Business: NDA که مخفف non",
+        "disclosure agreement می‌باشد یک قرارداد حقوقی مابین دو طرف برای محرمانه نگه داشتن اطلاعات اجناس طرفین که می‌خواهند با همدیگر برای یک هدف خاص به اشتراک بگذارند می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "niche market",
+      "Meanings": [
+        "Business: یک حرف نا مفهوم و برای تعیین اهداف نزدیک تجاری به کار می‌رود به طور معمول به برخی از مشتریانی نسبت داده می‌شوند که از اهداف مسیر اصلی محصول نیستند"
+      ]
+    },
+    {
+      "EnglishWord": "nis",
+      "Meanings": [
+        "Design: مخفف Non",
+        "interactive sequence می‌باشد. و هم معنی فیلم‌های cut",
+        "to می‌باشد. یک صحنه non",
+        "interactive و قسمتی از بازی در هنگامی که کاربر رویدادها را می‌بیند و نمایش فیلم در مابین مراحل"
+      ]
+    },
+    {
+      "EnglishWord": "nlp",
+      "Meanings": [
+        "Programming: به معنی پردازش زبان‌های طبیعی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "non disclosure agreement",
+      "Meanings": [
+        "Business: یک قرارداد حقوقی مابین دو طرف برای محرمانه نگه داشتن اطلاعات اجناس طرفین که می‌خواهند با همدیگر برای یک هدف خاص به اشتراک بگذارند می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "Graphics: یک بردار و نقاطی که از وجه شی به سمت زاویه 90 درجه و راست می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "normal mapping",
+      "Meanings": [
+        "Graphics: تکنیک Normal Mapping یک تکنیک نورپردازی می‌باشد که برای نور مدل‌های low poly و high poly کاربرد دارد"
+      ]
+    },
+    {
+      "EnglishWord": "npc",
+      "Meanings": [
+        "Design: مخفف Non",
+        "Player Character می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "nurbs",
+      "Meanings": [
+        "Graphics: مخفف Non",
+        "Uniform Rational B",
+        "Splines و یک تکنیک مدلسازی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "nurnies",
+      "Meanings": [
+        "Graphics: الکترونهای کوچک",
+        "یا در گرافیک اشیایی با دید مکانیکی که وظایفی را به فضای بافت می‌افزایند"
+      ]
+    }
+  ]
+}

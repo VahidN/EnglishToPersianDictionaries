@@ -1,0 +1,914 @@
+﻿{
+  "Group": "I",
+  "Entries": 147,
+  "Words": [
+    {
+      "EnglishWord": "i/o adderss",
+      "Meanings": [
+        "آدرس ورودی و خروجی",
+        "نشانی I/O"
+      ]
+    },
+    {
+      "EnglishWord": "i/o port",
+      "Meanings": [
+        "پورت ورودی و خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "ibg inter block gap",
+      "Meanings": [
+        "فاصله خالی بین رکوردهای وسایل ذخیره سازی مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "icon",
+      "Meanings": [
+        "تصویر روی صفحه نمایش که نمایانگر یک شی است",
+        "نشانه",
+        "شمایل",
+        "آیکون این واژنامه تصویر گل سینه طلایی مربوط به 2400سال پیش است"
+      ]
+    },
+    {
+      "EnglishWord": "icq",
+      "Meanings": [
+        "نرم افزار گفتگو مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "identification method",
+      "Meanings": [
+        "روش شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "identifier",
+      "Meanings": [
+        "شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "identifier variable",
+      "Meanings": [
+        "متغیر شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "image scanner",
+      "Meanings": [
+        "اسکنر تصویر",
+        "وسیله ای برای تبدیل عکس و تصویر به دیجیتال"
+      ]
+    },
+    {
+      "EnglishWord": "immediate",
+      "Meanings": [
+        "سریع فوری"
+      ]
+    },
+    {
+      "EnglishWord": "immediate addressing",
+      "Meanings": [
+        "آدرس دهی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "immediate predecessor",
+      "Meanings": [
+        "راس تقدمی بلافصل"
+      ]
+    },
+    {
+      "EnglishWord": "immediate successor",
+      "Meanings": [
+        "راس تاخری بلافصل"
+      ]
+    },
+    {
+      "EnglishWord": "impact",
+      "Meanings": [
+        "ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impact printer",
+      "Meanings": [
+        "چاپگر ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "implementation",
+      "Meanings": [
+        "پیاده سازی",
+        "اجرا",
+        "انجام"
+      ]
+    },
+    {
+      "EnglishWord": "implication",
+      "Meanings": [
+        "ایجاب"
+      ]
+    },
+    {
+      "EnglishWord": "implicit",
+      "Meanings": [
+        "ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "implicit loop",
+      "Meanings": [
+        "حلقه ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "implicit stack",
+      "Meanings": [
+        "پشته ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "import",
+      "Meanings": [
+        "وارد کردن",
+        "استفاده از منابع خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "in core i/o",
+      "Meanings": [
+        "عملیات ورود و خروجی هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "in degree",
+      "Meanings": [
+        "درجه وارده"
+      ]
+    },
+    {
+      "EnglishWord": "inactive",
+      "Meanings": [
+        "غیر فعال"
+      ]
+    },
+    {
+      "EnglishWord": "inactive window",
+      "Meanings": [
+        "پنچره غیر فعال"
+      ]
+    },
+    {
+      "EnglishWord": "inbreeding",
+      "Meanings": [
+        "زادولد",
+        "ازدیاد"
+      ]
+    },
+    {
+      "EnglishWord": "incident edge",
+      "Meanings": [
+        "لبه متلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "include file",
+      "Meanings": [
+        "فایل شمولی"
+      ]
+    },
+    {
+      "EnglishWord": "inconsistency",
+      "Meanings": [
+        "ناسازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "increasing",
+      "Meanings": [
+        "صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "increment operator",
+      "Meanings": [
+        "عملگر افزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "indent",
+      "Meanings": [
+        "تو رفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "index",
+      "Meanings": [
+        "شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "index file",
+      "Meanings": [
+        "فایل شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "index sequential",
+      "Meanings": [
+        "ترتیبی شاخص دار"
+      ]
+    },
+    {
+      "EnglishWord": "indexed sequential access method",
+      "Meanings": [
+        "روش دستیابی ترتیبی شاخص دار"
+      ]
+    },
+    {
+      "EnglishWord": "indexing",
+      "Meanings": [
+        "شاخص گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "indicator",
+      "Meanings": [
+        "علامت دهنده",
+        "نشان دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "indicator variable",
+      "Meanings": [
+        "متغیر‌های نشانه گر"
+      ]
+    },
+    {
+      "EnglishWord": "indirection operator",
+      "Meanings": [
+        "عملگر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "industrial programmers",
+      "Meanings": [
+        "برنامه نویس‌های صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial work",
+      "Meanings": [
+        "کار صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite",
+      "Meanings": [
+        "نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "infinite loop",
+      "Meanings": [
+        "حلقه نامحدود",
+        "حلقه نامتناهی",
+        "حلقه بی انتها"
+      ]
+    },
+    {
+      "EnglishWord": "infix",
+      "Meanings": [
+        "عملگر میانوندی"
+      ]
+    },
+    {
+      "EnglishWord": "infological model",
+      "Meanings": [
+        "مدل منطقی اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information bank",
+      "Meanings": [
+        "بانک اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information base",
+      "Meanings": [
+        "پایگاه اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information explosion",
+      "Meanings": [
+        "گسترش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information flow",
+      "Meanings": [
+        "جریان اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information hiding",
+      "Meanings": [
+        "پنهان کاری اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information processing",
+      "Meanings": [
+        "پردازش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information revolution",
+      "Meanings": [
+        "انقلاب اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information society",
+      "Meanings": [
+        "جامعه اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information space",
+      "Meanings": [
+        "فضای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information structure",
+      "Meanings": [
+        "ساختار اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information system",
+      "Meanings": [
+        "سیستم اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information technology",
+      "Meanings": [
+        "تکنولوژی اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information theory",
+      "Meanings": [
+        "تیوری اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information work",
+      "Meanings": [
+        "کار اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "inheritance",
+      "Meanings": [
+        "وراثت"
+      ]
+    },
+    {
+      "EnglishWord": "inherited rights mask",
+      "Meanings": [
+        "پوشش حقوقی مورثی"
+      ]
+    },
+    {
+      "EnglishWord": "inherited type",
+      "Meanings": [
+        "نوع به ارث برده شده"
+      ]
+    },
+    {
+      "EnglishWord": "initail value",
+      "Meanings": [
+        "مقادیر اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initialization",
+      "Meanings": [
+        "مقدار دهی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initialization function",
+      "Meanings": [
+        "تابع مقدار دهی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initialization of",
+      "Meanings": [
+        "مقدار اولیه دادن به"
+      ]
+    },
+    {
+      "EnglishWord": "inkject printer",
+      "Meanings": [
+        "چاپگر جوهر افشان"
+      ]
+    },
+    {
+      "EnglishWord": "inline function",
+      "Meanings": [
+        "زبان اسمبلی",
+        "تابع inline"
+      ]
+    },
+    {
+      "EnglishWord": "inner",
+      "Meanings": [
+        "درونی ترین"
+      ]
+    },
+    {
+      "EnglishWord": "inner join",
+      "Meanings": [
+        "پیوند درونی تر"
+      ]
+    },
+    {
+      "EnglishWord": "inner query",
+      "Meanings": [
+        "درونی‌ترین پرس و جو"
+      ]
+    },
+    {
+      "EnglishWord": "input",
+      "Meanings": [
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input data",
+      "Meanings": [
+        "داده‌ها اطلاعات ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input data items",
+      "Meanings": [
+        "اقلام اطلاعاتی ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "insert",
+      "Meanings": [
+        "درج"
+      ]
+    },
+    {
+      "EnglishWord": "insert column",
+      "Meanings": [
+        "درج ستون"
+      ]
+    },
+    {
+      "EnglishWord": "insert object",
+      "Meanings": [
+        "درج عنصر"
+      ]
+    },
+    {
+      "EnglishWord": "insert paste",
+      "Meanings": [
+        "درج فراخوانی از حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "insert row",
+      "Meanings": [
+        "درج ردیف"
+      ]
+    },
+    {
+      "EnglishWord": "inserter",
+      "Meanings": [
+        "وارد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "insertion point",
+      "Meanings": [
+        "نقطه درج"
+      ]
+    },
+    {
+      "EnglishWord": "installation program",
+      "Meanings": [
+        "برنامه نصب"
+      ]
+    },
+    {
+      "EnglishWord": "instantiate",
+      "Meanings": [
+        "نمونه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "instantiating the class",
+      "Meanings": [
+        "نمونه سازی یک کلاس",
+        "راه اندازی یک کلاس"
+      ]
+    },
+    {
+      "EnglishWord": "instruction",
+      "Meanings": [
+        "دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "instruction counter",
+      "Meanings": [
+        "ثبات نگهدارنده آدرس دستور العمل اجرایی"
+      ]
+    },
+    {
+      "EnglishWord": "instruction pointer",
+      "Meanings": [
+        "نشانگر دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "instruction register",
+      "Meanings": [
+        "ثبات دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "instruction set",
+      "Meanings": [
+        "مجموعه دستور العملها"
+      ]
+    },
+    {
+      "EnglishWord": "instruction word",
+      "Meanings": [
+        "کلمه دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "integer constant",
+      "Meanings": [
+        "ثابتهای صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer division",
+      "Meanings": [
+        "تقسیم عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer edit box",
+      "Meanings": [
+        "کادر ویرایش عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer quantities",
+      "Meanings": [
+        "کمیتهای صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integerated",
+      "Meanings": [
+        "مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "integerated application software",
+      "Meanings": [
+        "نرم افزار کاربردی مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "integerated circuit",
+      "Meanings": [
+        "مدار مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "integerated link software",
+      "Meanings": [
+        "نرم افزار ارتباط دهنده کامپیوتر شخصی و مین فریم"
+      ]
+    },
+    {
+      "EnglishWord": "integerated software",
+      "Meanings": [
+        "نرم افزار مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "integeration",
+      "Meanings": [
+        "مجتمع سازی"
+      ]
+    },
+    {
+      "EnglishWord": "integrity",
+      "Meanings": [
+        "جامعیت"
+      ]
+    },
+    {
+      "EnglishWord": "integrity rules",
+      "Meanings": [
+        "قواعد جامعیت"
+      ]
+    },
+    {
+      "EnglishWord": "intension",
+      "Meanings": [
+        "جوهر",
+        "ذات"
+      ]
+    },
+    {
+      "EnglishWord": "inter relational constraint",
+      "Meanings": [
+        "محدودیت بین روابط"
+      ]
+    },
+    {
+      "EnglishWord": "interactive",
+      "Meanings": [
+        "پرسش و پاسخی",
+        "تعاملی",
+        "محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interactive computing",
+      "Meanings": [
+        "محاسبه واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "interactive procedure",
+      "Meanings": [
+        "رویه واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "interactive programming",
+      "Meanings": [
+        "برنامه نویسی واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "interactive prototyping",
+      "Meanings": [
+        "نمونه ساز محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interactive statement",
+      "Meanings": [
+        "دستور تکرار کننده"
+      ]
+    },
+    {
+      "EnglishWord": "intercept",
+      "Meanings": [
+        "بینابین"
+      ]
+    },
+    {
+      "EnglishWord": "interchange",
+      "Meanings": [
+        "تعویض",
+        "مبادله ای"
+      ]
+    },
+    {
+      "EnglishWord": "interface builder",
+      "Meanings": [
+        "رابط ساز"
+      ]
+    },
+    {
+      "EnglishWord": "interface engine",
+      "Meanings": [
+        "موتور استباط"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate vertex",
+      "Meanings": [
+        "راس میانی"
+      ]
+    },
+    {
+      "EnglishWord": "internal function",
+      "Meanings": [
+        "تابع داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal memory",
+      "Meanings": [
+        "حافظه داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal schema",
+      "Meanings": [
+        "شمای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal view",
+      "Meanings": [
+        "دید داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "international constraint",
+      "Meanings": [
+        "محدودیت درون رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "international standards organization",
+      "Meanings": [
+        "محدودیت درون رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "internet explorer",
+      "Meanings": [
+        "کاوشگر اینترنت",
+        "مطلب مرتبط",
+        "جهت اتصال به اینترنت شما بایست حتما «از یک شرکتی Account داشته و با وارد نمودن نام کاربر",
+        "رمز ورود یا شناسایی و شماره تلفن شرکت مربوطه از طریق dial up networking که در Start&gt; Programs&gt; Accessories&gt; Communications&gt; Dial up Networking قرار دارد ابتدا به شبکه وصل شوید و بعد از اتصال به شبکه میتوانید با کلیک روی Internet explorer سراغ صفحات اینترنت بروید ولی اگر در شرکت",
+        "سازمان و موسسه ای میباشید که درون شبکه قرار دارد و شبکه به اینترنت وصل است شما کافی است مستقیما» روی Icon اینترنت کلیک کرده و به اینترنت وصل شوید"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "درون یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpretation",
+      "Meanings": [
+        "تفسیر",
+        "تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "interpreter",
+      "Meanings": [
+        "مفسر"
+      ]
+    },
+    {
+      "EnglishWord": "interrupt",
+      "Meanings": [
+        "وقفه",
+        "گسیختگی در اجرای برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "interrupt function",
+      "Meanings": [
+        "تابع گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "interrupt routine",
+      "Meanings": [
+        "برنامه مستقل مختص شرایط گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "interrupt vector",
+      "Meanings": [
+        "بردار گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "intersection",
+      "Meanings": [
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic",
+      "Meanings": [
+        "ذاتی در مورد نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic type",
+      "Meanings": [
+        "نوع ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "introduction",
+      "Meanings": [
+        "مقدمه"
+      ]
+    },
+    {
+      "EnglishWord": "introduction to",
+      "Meanings": [
+        "مقدمه برای"
+      ]
+    },
+    {
+      "EnglishWord": "introduction to computers",
+      "Meanings": [
+        "مقدمه ای برای کامپیوتر ها"
+      ]
+    },
+    {
+      "EnglishWord": "intuitive",
+      "Meanings": [
+        "شناخت شمی",
+        "شناخت حضوری"
+      ]
+    },
+    {
+      "EnglishWord": "invalid",
+      "Meanings": [
+        "نامعتبر"
+      ]
+    },
+    {
+      "EnglishWord": "inverse",
+      "Meanings": [
+        "معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse adjacency list",
+      "Meanings": [
+        "لیست مجاورتی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverted lists data model",
+      "Meanings": [
+        "مدل داده ای لیست‌های وارون"
+      ]
+    },
+    {
+      "EnglishWord": "ipx internetwork block gap",
+      "Meanings": [
+        "قرار داد سطح شبکه برای منتقل ساختن اطلاعات بین کامپیوترها"
+      ]
+    },
+    {
+      "EnglishWord": "irq interrupt request line",
+      "Meanings": [
+        "خط تقاضای وقفه"
+      ]
+    },
+    {
+      "EnglishWord": "irreflexive",
+      "Meanings": [
+        "غیر انعکاسی"
+      ]
+    },
+    {
+      "EnglishWord": "italic",
+      "Meanings": [
+        "مایل"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "فقره",
+        "قلم"
+      ]
+    }
+  ]
+}

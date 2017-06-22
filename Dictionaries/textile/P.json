@@ -1,0 +1,6111 @@
+﻿{
+  "Group": "P",
+  "Entries": 912,
+  "Words": [
+    {
+      "EnglishWord": "p",
+      "Meanings": [
+        "شانزدهمین حرف لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "p wind",
+      "Meanings": [
+        "پیچش P"
+      ]
+    },
+    {
+      "EnglishWord": "p.a.cotton",
+      "Meanings": [
+        "پنبه ای که قسمتی از آن استیله شده است"
+      ]
+    },
+    {
+      "EnglishWord": "p.c",
+      "Meanings": [
+        "لیف مصنوعی PC پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "p.c.u",
+      "Meanings": [
+        "لیف مصنوعی PCU پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "p.i.v box",
+      "Meanings": [
+        "جعبه PVI",
+        "جعبه ای که سبب تغییر دایمی مثبت صورت می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "p.p.g",
+      "Meanings": [
+        "نام تجاری الیاف و نخ‌های شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "p.p.i",
+      "Meanings": [
+        "پود در اینچ پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "p.p.m",
+      "Meanings": [
+        "ضربه در دقیقه",
+        "پود گذاری در دقیقه",
+        "پود در دقیقه",
+        "یک بر یک میلیون"
+      ]
+    },
+    {
+      "EnglishWord": "p.p.p",
+      "Meanings": [
+        "پارا فنیل فنل ماده تعاونی کریر جهت رنگرزی پلی استر در جوش"
+      ]
+    },
+    {
+      "EnglishWord": "p.s.i",
+      "Meanings": [
+        "پوند بر اینچ مربع"
+      ]
+    },
+    {
+      "EnglishWord": "pa",
+      "Meanings": [
+        "پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "paceboard",
+      "Meanings": [
+        "میز ماکو",
+        "ماکو رو"
+      ]
+    },
+    {
+      "EnglishWord": "pack",
+      "Meanings": [
+        "بسته",
+        "دسته",
+        "بقچه نخ",
+        "بسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "pack dyeing machine",
+      "Meanings": [
+        "ماشین رنگرزی الیاف باز و فتیله پک"
+      ]
+    },
+    {
+      "EnglishWord": "package",
+      "Meanings": [
+        "بسته بندی",
+        "بسته الیاف یا کالای نساجی",
+        "عدل کالای نساجی",
+        "بسته نخ",
+        "بوبین نخ",
+        "بسته",
+        "عدل"
+      ]
+    },
+    {
+      "EnglishWord": "package density",
+      "Meanings": [
+        "وزن مخصوص بوبین نخ",
+        "وزن مخصوص بسته نخ",
+        "تراکم نخ روی بوبین"
+      ]
+    },
+    {
+      "EnglishWord": "package doffer",
+      "Meanings": [
+        "تعویض کننده اتوماتیک بوبین"
+      ]
+    },
+    {
+      "EnglishWord": "package dyeing",
+      "Meanings": [
+        "رنگرزی بسته ای",
+        "رنگرزی بسته نخ",
+        "بوبین رنگ کنی",
+        "نوعی روش رنگرزی که کالا ثابت و محلول رنگ در حال حرکت است"
+      ]
+    },
+    {
+      "EnglishWord": "package dyeing machine",
+      "Meanings": [
+        "ماشین بوبین رنگ کنی"
+      ]
+    },
+    {
+      "EnglishWord": "packaging bag",
+      "Meanings": [
+        "کیف بسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "packing",
+      "Meanings": [
+        "بسته بندی",
+        "طاقه پیچی",
+        "عدل بندی"
+      ]
+    },
+    {
+      "EnglishWord": "packthread",
+      "Meanings": [
+        "نخ بسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "pad",
+      "Meanings": [
+        "فولارد کردن",
+        "فشردن منسوج جهت گرفتن مقدار اضافی محلول یا آب برداشتی",
+        "دستگاه پد سیستم متشکل از حداقل دو غلتک در یک حمام",
+        "مخده",
+        "تشک",
+        "لایه",
+        "لایی لباس",
+        "پشتی",
+        "بتونه",
+        "چکمه",
+        "بالشتک ضخم بندی"
+      ]
+    },
+    {
+      "EnglishWord": "pad bake",
+      "Meanings": [
+        "عملیات بار دادن پارچه با محلول رنگ یا مواد تکمیلی و خشک کردن و عمل کردن آن در حرارت بالای 100 درجه"
+      ]
+    },
+    {
+      "EnglishWord": "pad batch",
+      "Meanings": [
+        "سیستم پدبچ"
+      ]
+    },
+    {
+      "EnglishWord": "pad develop",
+      "Meanings": [
+        "عملیات توام پد و ظاهر کردن رنگینه خمی روی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "pad dry",
+      "Meanings": [
+        "پد خشک",
+        "فولارد کردن",
+        "خشکانیدن",
+        "گرفتن محلول موجود در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pad dry process",
+      "Meanings": [
+        "فرآیند پد خشک"
+      ]
+    },
+    {
+      "EnglishWord": "pad dyeing",
+      "Meanings": [
+        "رنگرزی به روش پد"
+      ]
+    },
+    {
+      "EnglishWord": "pad mangle",
+      "Meanings": [
+        "دستگاه پد",
+        "ماشین اتوکشی"
+      ]
+    },
+    {
+      "EnglishWord": "pad roll",
+      "Meanings": [
+        "سیستم پد رول"
+      ]
+    },
+    {
+      "EnglishWord": "pad roll thermo batch dyeing method",
+      "Meanings": [
+        "روش رنگرزی پد رول گرم پد رول"
+      ]
+    },
+    {
+      "EnglishWord": "pad steam",
+      "Meanings": [
+        "سیستم پد بخار",
+        "پد استیم"
+      ]
+    },
+    {
+      "EnglishWord": "pad steam method",
+      "Meanings": [
+        "روش پد استیم",
+        "روش آغشته کردن و بخار دادن پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pad steam process",
+      "Meanings": [
+        "روش پد استیم پد بخار"
+      ]
+    },
+    {
+      "EnglishWord": "pad steam with intermediate drying dyeing method",
+      "Meanings": [
+        "رنگرزی به روش پد استیم با خشک کن میانی"
+      ]
+    },
+    {
+      "EnglishWord": "padded satin stitch",
+      "Meanings": [
+        "ابریشم دوزی برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "padder",
+      "Meanings": [
+        "فولارد",
+        "دستگاه پد کننده",
+        "دستگاه گرفتن مایعات اضافی از کالای نساجی",
+        "نوعی ماشین رنگرزی پارچه به صورت مداوم در محلول رنگ به کمک غلتکهای فشاردهنده لاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "padder board",
+      "Meanings": [
+        "حصیر افقی زیر جعبه توزین الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "padding",
+      "Meanings": [
+        "پد کردن",
+        "فولارد کردن",
+        "آغشته نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "padding box",
+      "Meanings": [
+        "محفظه حمام پد شاسی"
+      ]
+    },
+    {
+      "EnglishWord": "padding liquor",
+      "Meanings": [
+        "محلول حمام پد",
+        "محتویات شاسی پد"
+      ]
+    },
+    {
+      "EnglishWord": "padding machine",
+      "Meanings": [
+        "ماشین پد سیستم متشکل از حداقل دو غلتک و یک حمام"
+      ]
+    },
+    {
+      "EnglishWord": "padding mangle",
+      "Meanings": [
+        "ماشین رنگرزی مداوم پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "paddle",
+      "Meanings": [
+        "ماشین پدل",
+        "راهنمای فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "paddle dyeing machine",
+      "Meanings": [
+        "ماشین رنگرزی پادل ماشین رنگرزی پارچه‌های تریکو"
+      ]
+    },
+    {
+      "EnglishWord": "paint",
+      "Meanings": [
+        "رنگ",
+        "محلول رنگ",
+        "لکه رنگ نقاشی"
+      ]
+    },
+    {
+      "EnglishWord": "paint remover",
+      "Meanings": [
+        "ماده رنگبر",
+        "ماده رنگزا"
+      ]
+    },
+    {
+      "EnglishWord": "paint stripper",
+      "Meanings": [
+        "رنگزدا",
+        "رنگبر"
+      ]
+    },
+    {
+      "EnglishWord": "painter",
+      "Meanings": [
+        "نقاش",
+        "رنگزن"
+      ]
+    },
+    {
+      "EnglishWord": "paisley",
+      "Meanings": [
+        "منسوج تهیه شده از پشم نرم",
+        "کشمیر"
+      ]
+    },
+    {
+      "EnglishWord": "pajama",
+      "Meanings": [
+        "پیژامه",
+        "لباس خواب"
+      ]
+    },
+    {
+      "EnglishWord": "pajamas",
+      "Meanings": [
+        "لباس خواب"
+      ]
+    },
+    {
+      "EnglishWord": "pale",
+      "Meanings": [
+        "کمرنگ",
+        "رنگ پریده",
+        "رنگ روشن",
+        "لحیم کردن",
+        "راه راه عمودی",
+        "زردی",
+        "کمرنگی",
+        "رنگ پریدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pale blue",
+      "Meanings": [
+        "رنگ آبی کمرنگ"
+      ]
+    },
+    {
+      "EnglishWord": "pale cream",
+      "Meanings": [
+        "رنگ کرم روشن"
+      ]
+    },
+    {
+      "EnglishWord": "pale crepe",
+      "Meanings": [
+        "لاستیک طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "pale shade",
+      "Meanings": [
+        "فام کم رنگ",
+        "شید کم رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "pale yellow",
+      "Meanings": [
+        "زرد روشن",
+        "زرد کمرنگ"
+      ]
+    },
+    {
+      "EnglishWord": "pall",
+      "Meanings": [
+        "پارچه پرده ای",
+        "پارچه ضخیم روی تابوت یا قبر"
+      ]
+    },
+    {
+      "EnglishWord": "pallid",
+      "Meanings": [
+        "رنگ پریده",
+        "رنگ رفته",
+        "کم رنگ",
+        "محو"
+      ]
+    },
+    {
+      "EnglishWord": "pallor",
+      "Meanings": [
+        "کم رنگی",
+        "زرد رنگی",
+        "رنگ پریدگی"
+      ]
+    },
+    {
+      "EnglishWord": "palm fibre",
+      "Meanings": [
+        "لیف پوست درخت خرما یا نارگیل"
+      ]
+    },
+    {
+      "EnglishWord": "palm oil",
+      "Meanings": [
+        "روغن نخل"
+      ]
+    },
+    {
+      "EnglishWord": "palmitic acid",
+      "Meanings": [
+        "اسید پالمیتیک"
+      ]
+    },
+    {
+      "EnglishWord": "pan",
+      "Meanings": [
+        "لیف مصنوعی پان اکرولونیتریل رشته ای اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "panakryl",
+      "Meanings": [
+        "لیف مصنوعی پان اکریل پلی اکریلو نیتریل"
+      ]
+    },
+    {
+      "EnglishWord": "panama weave",
+      "Meanings": [
+        "بافت پاناما"
+      ]
+    },
+    {
+      "EnglishWord": "panchromatic",
+      "Meanings": [
+        "همه رنگ",
+        "فیلم خام عکاسی که به همه رنگها حساس می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "panchromic",
+      "Meanings": [
+        "تمام رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "pancreative amylase",
+      "Meanings": [
+        "آمیلاز پانکراس"
+      ]
+    },
+    {
+      "EnglishWord": "pannel door",
+      "Meanings": [
+        "درب جعبه آشغال زیر سیلندر کاردینگ"
+      ]
+    },
+    {
+      "EnglishWord": "pansy",
+      "Meanings": [
+        "بنفش",
+        "قرمز مایل به آبی"
+      ]
+    },
+    {
+      "EnglishWord": "pantaloons",
+      "Meanings": [
+        "شلوار"
+      ]
+    },
+    {
+      "EnglishWord": "pants",
+      "Meanings": [
+        "شلوار"
+      ]
+    },
+    {
+      "EnglishWord": "paper board",
+      "Meanings": [
+        "مقوا",
+        "کاغذ مقوایی"
+      ]
+    },
+    {
+      "EnglishWord": "paper chromatography",
+      "Meanings": [
+        "کروماتوگرافی کاغذی"
+      ]
+    },
+    {
+      "EnglishWord": "paper cloth",
+      "Meanings": [
+        "پارچه نخ کاغذی"
+      ]
+    },
+    {
+      "EnglishWord": "paper for transfer printing",
+      "Meanings": [
+        "چاپ کاغذ ترانسفر",
+        "کاغذ چاپ انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "paper hangings",
+      "Meanings": [
+        "کاغذ دیواری"
+      ]
+    },
+    {
+      "EnglishWord": "paper mache",
+      "Meanings": [
+        "خمیر کاغذ"
+      ]
+    },
+    {
+      "EnglishWord": "paper pulp",
+      "Meanings": [
+        "خمیر کاغذ"
+      ]
+    },
+    {
+      "EnglishWord": "paper stock",
+      "Meanings": [
+        "خمیر کاغذ"
+      ]
+    },
+    {
+      "EnglishWord": "paquet reed",
+      "Meanings": [
+        "شانه بادبزنی"
+      ]
+    },
+    {
+      "EnglishWord": "para cortex",
+      "Meanings": [
+        "پاراکورتکس",
+        "قسمتی در داخل لیف پشم که آبرفتگی کمی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "parachute",
+      "Meanings": [
+        "چتر نجات"
+      ]
+    },
+    {
+      "EnglishWord": "paraffinic",
+      "Meanings": [
+        "خاصیت پارافینی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel package",
+      "Meanings": [
+        "بسته یا بوبین استوانه ای نخ"
+      ]
+    },
+    {
+      "EnglishWord": "parallel pick",
+      "Meanings": [
+        "پودگذاری تحتانی کفشکی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel wind",
+      "Meanings": [
+        "پیچش موازی نخ روی بوبین"
+      ]
+    },
+    {
+      "EnglishWord": "parallel wound package",
+      "Meanings": [
+        "بسته نخ با پیچش موازی"
+      ]
+    },
+    {
+      "EnglishWord": "paramafil",
+      "Meanings": [
+        "لیف مصنوعی پارامافیل ویسکوز پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "paramount",
+      "Meanings": [
+        "لیف مصنوعی پارامونت ویسکوز شفاف"
+      ]
+    },
+    {
+      "EnglishWord": "parchment paper",
+      "Meanings": [
+        "کاغذ پارشمنت",
+        "کاغذی که با اسید سولفوریک سرد عمل شده است"
+      ]
+    },
+    {
+      "EnglishWord": "parchmentisation",
+      "Meanings": [
+        "اثر دادن اسید سولفوریک غلیظ بر سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "parent name",
+      "Meanings": [
+        "نام اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "part",
+      "Meanings": [
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "part set threading",
+      "Meanings": [
+        "نخ کشی بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "partial hydrolysis",
+      "Meanings": [
+        "هیدرولیز ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "partial miscibility",
+      "Meanings": [
+        "انحلال نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "partial pick",
+      "Meanings": [
+        "پود شکسته در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "partial pressure",
+      "Meanings": [
+        "فشار جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial shipment",
+      "Meanings": [
+        "حمل چند مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "partially oriented yarn",
+      "Meanings": [
+        "نخ فیلامنتی کاملا کشیده نشده"
+      ]
+    },
+    {
+      "EnglishWord": "partical size",
+      "Meanings": [
+        "اندازه ذرات"
+      ]
+    },
+    {
+      "EnglishWord": "particle",
+      "Meanings": [
+        "ذره"
+      ]
+    },
+    {
+      "EnglishWord": "particular",
+      "Meanings": [
+        "ویژه",
+        "مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "particulate reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده با ذرات"
+      ]
+    },
+    {
+      "EnglishWord": "partition",
+      "Meanings": [
+        "جداسازی",
+        "تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "partition chromatography",
+      "Meanings": [
+        "کروماتوگرافی جدایشی",
+        "کروماتوگرافی تقسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "passing through",
+      "Meanings": [
+        "صافی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "passive",
+      "Meanings": [
+        "نا معلوم",
+        "مجهول"
+      ]
+    },
+    {
+      "EnglishWord": "paste",
+      "Meanings": [
+        "خمیر",
+        "چسب",
+        "سریش",
+        "خمیری شکل",
+        "چسباندن"
+      ]
+    },
+    {
+      "EnglishWord": "paste print",
+      "Meanings": [
+        "چاپ خمیری برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "paste to",
+      "Meanings": [
+        "چسباندن"
+      ]
+    },
+    {
+      "EnglishWord": "pasteboard",
+      "Meanings": [
+        "مقوا"
+      ]
+    },
+    {
+      "EnglishWord": "pastel",
+      "Meanings": [
+        "وسمه",
+        "نیل گیاهی",
+        "خمیر چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "pastell",
+      "Meanings": [
+        "رنگ پاستل در تابلو سازی مصرف می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "pasteurs salt",
+      "Meanings": [
+        "نمک پاستور"
+      ]
+    },
+    {
+      "EnglishWord": "pasting up",
+      "Meanings": [
+        "خمیر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pasty",
+      "Meanings": [
+        "خمیری",
+        "خمیر مانند",
+        "چسبانک"
+      ]
+    },
+    {
+      "EnglishWord": "patchy",
+      "Meanings": [
+        "نایکنواختی لایه تار عنکبوتی محصول کارد پشمی",
+        "نازک و ضخیم شدن تار عنکبوتی کارد پشم"
+      ]
+    },
+    {
+      "EnglishWord": "patent",
+      "Meanings": [
+        "امتیاز",
+        "ثبت اختراع",
+        "اخبار ثبت شده",
+        "حق امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "path",
+      "Meanings": [
+        "لبه تحتانی داخل فلانژ عینکی"
+      ]
+    },
+    {
+      "EnglishWord": "patint",
+      "Meanings": [
+        "رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "patrolling",
+      "Meanings": [
+        "گشت زدن بافنده",
+        "حرکت بافنده بین ماشین‌های تحت کنترلش"
+      ]
+    },
+    {
+      "EnglishWord": "pattern",
+      "Meanings": [
+        "طرح",
+        "نقشه",
+        "نمونه",
+        "نقشه رنگبندی تاری و پودی پارچه",
+        "نقشه بافت",
+        "الگوی لباس روی کاغذ"
+      ]
+    },
+    {
+      "EnglishWord": "pattern beam",
+      "Meanings": [
+        "چله طرح"
+      ]
+    },
+    {
+      "EnglishWord": "pattern blanket",
+      "Meanings": [
+        "پتو با طرح بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "pattern card",
+      "Meanings": [
+        "کارت نمونه",
+        "کارت رنگ بندی",
+        "نمونه رنگی",
+        "کاغذ نقشه رنگ بندی پودی"
+      ]
+    },
+    {
+      "EnglishWord": "pattern chain",
+      "Meanings": [
+        "زنجیر بافت دابی",
+        "مقواهای نقشه ژاکارد"
+      ]
+    },
+    {
+      "EnglishWord": "pattern filling",
+      "Meanings": [
+        "پود نقش"
+      ]
+    },
+    {
+      "EnglishWord": "pattern motion",
+      "Meanings": [
+        "دستگاه انتخاب پود"
+      ]
+    },
+    {
+      "EnglishWord": "pattern preparation",
+      "Meanings": [
+        "تهیه طرح"
+      ]
+    },
+    {
+      "EnglishWord": "pattern warp",
+      "Meanings": [
+        "چله رنگی",
+        "چله رنگارنگ",
+        "چله بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "pattern warping",
+      "Meanings": [
+        "چله پیچی بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "pattern weaver",
+      "Meanings": [
+        "بافنده انواع نمونه پتو با ماشین دستی"
+      ]
+    },
+    {
+      "EnglishWord": "pattern wind",
+      "Meanings": [
+        "پیچش نقش ساختی",
+        "پیچشی که ایجاد طرح می‌نماید"
+      ]
+    },
+    {
+      "EnglishWord": "pattern winding",
+      "Meanings": [
+        "پیچیدن نواری"
+      ]
+    },
+    {
+      "EnglishWord": "pattern zones",
+      "Meanings": [
+        "مناطق نقش ساخته",
+        "نواحی طرح دار"
+      ]
+    },
+    {
+      "EnglishWord": "patterned fabric",
+      "Meanings": [
+        "پارچه طرح دار"
+      ]
+    },
+    {
+      "EnglishWord": "patterned shuttle weaving",
+      "Meanings": [
+        "بافندگی ماکویی پارچه نقش دار"
+      ]
+    },
+    {
+      "EnglishWord": "patterning bar",
+      "Meanings": [
+        "شانه طرح"
+      ]
+    },
+    {
+      "EnglishWord": "patterning device",
+      "Meanings": [
+        "وسیله طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "patterning mechanism",
+      "Meanings": [
+        "مکانیزم طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "patterns",
+      "Meanings": [
+        "بوبین طرح دار",
+        "بوبین نقش ساخته",
+        "الگوی کاغذی لباس"
+      ]
+    },
+    {
+      "EnglishWord": "patting",
+      "Meanings": [
+        "صاف و جلادار کردن سطح پارچه‌های پشمی سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "pauly silk",
+      "Meanings": [
+        "لیف مصنوعی پایولی سیلک ابریشم مصنوعی حاصل از کوپرآمونیوم"
+      ]
+    },
+    {
+      "EnglishWord": "pave",
+      "Meanings": [
+        "فرش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pavek system",
+      "Meanings": [
+        "روش پاوک در ریسندگی اپن اند"
+      ]
+    },
+    {
+      "EnglishWord": "pavement",
+      "Meanings": [
+        "فرش",
+        "کفپوش"
+      ]
+    },
+    {
+      "EnglishWord": "pea green",
+      "Meanings": [
+        "زرد مایل به سبز",
+        "سبز نخودی"
+      ]
+    },
+    {
+      "EnglishWord": "pea jacket",
+      "Meanings": [
+        "ژاکت ضخیم ملوانان",
+        "نوعی ژاکت ضخیم"
+      ]
+    },
+    {
+      "EnglishWord": "peak",
+      "Meanings": [
+        "پیک",
+        "نقطه پیک",
+        "نوک",
+        "حداکثر مقدار",
+        "اوج مقدار مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "peaked crimp effect",
+      "Meanings": [
+        "تجعد یا فر زیگزاگی"
+      ]
+    },
+    {
+      "EnglishWord": "peanut",
+      "Meanings": [
+        "کتانی رنگ",
+        "کنف رنگ",
+        "بادام زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "peanut fiber",
+      "Meanings": [
+        "لیف بادام زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "pearl polymerisation",
+      "Meanings": [
+        "پلیمریزاسیون تعلیقی"
+      ]
+    },
+    {
+      "EnglishWord": "peaumur",
+      "Meanings": [
+        "درجه رومر که در آن بین دو نقطه انجماد و جوش آب را به 80 قسمت مساوی تقسیم نموده اند"
+      ]
+    },
+    {
+      "EnglishWord": "pebble",
+      "Meanings": [
+        "زیردست خشن پارچه",
+        "زیردست زبر پارچه اثر سطحی نامنظم و خشن در پارچه مثل سطح پارچه کرپ"
+      ]
+    },
+    {
+      "EnglishWord": "pebble weave",
+      "Meanings": [
+        "بافت زبر",
+        "بافت خشن"
+      ]
+    },
+    {
+      "EnglishWord": "pectin",
+      "Meanings": [
+        "پکتین ناخالصی همراه پنبه که در پخت زدوده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "pedal and roller system",
+      "Meanings": [
+        "سیستم پدال و غلتک",
+        "سیستم پیانویی حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "pedal lever",
+      "Meanings": [
+        "پدال",
+        "اهرم پیانویی حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "pedal regulator",
+      "Meanings": [
+        "رگولاتور پدالی"
+      ]
+    },
+    {
+      "EnglishWord": "peg",
+      "Meanings": [
+        "سنجاق",
+        "میخ چوبی",
+        "توپی",
+        "خار",
+        "میخ زدن"
+      ]
+    },
+    {
+      "EnglishWord": "pegg",
+      "Meanings": [
+        "دستگاه رنگرزی وینچ حرارت بالا",
+        "وینچ تحت فشار",
+        "وینچ سر بسته"
+      ]
+    },
+    {
+      "EnglishWord": "pegg loose stock machine",
+      "Meanings": [
+        "ماشین رنگرزی الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "pegging plan",
+      "Meanings": [
+        "نقشه ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "peirce formula",
+      "Meanings": [
+        "فرمول پیرس"
+      ]
+    },
+    {
+      "EnglishWord": "pelargon",
+      "Meanings": [
+        "لیف مصنوعی پلارگون نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "pelisse",
+      "Meanings": [
+        "روپوش زنانه",
+        "بالاپوش"
+      ]
+    },
+    {
+      "EnglishWord": "pelt wool",
+      "Meanings": [
+        "پشم پوست گوسفند"
+      ]
+    },
+    {
+      "EnglishWord": "pencil stripes",
+      "Meanings": [
+        "پارچه دیپلمات"
+      ]
+    },
+    {
+      "EnglishWord": "pendulum arm",
+      "Meanings": [
+        "اهرم غلتکهای فوقانی کشش"
+      ]
+    },
+    {
+      "EnglishWord": "pendulum tester",
+      "Meanings": [
+        "دستگاه پاندولی آزمایش استحکام الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "penetrant",
+      "Meanings": [
+        "ماده نفوذ دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "penetrating agent",
+      "Meanings": [
+        "ماده نفوذ دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "penetration",
+      "Meanings": [
+        "نفوذ",
+        "فرو رفتگی",
+        "نفوذ پذیری",
+        "رسوخ"
+      ]
+    },
+    {
+      "EnglishWord": "penetration agent",
+      "Meanings": [
+        "ماده نفوذ دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "penetration factor",
+      "Meanings": [
+        "ضریب نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "penetration power",
+      "Meanings": [
+        "قدرت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "penetration promoter",
+      "Meanings": [
+        "افزایش دهنده قدرت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "penetration worked",
+      "Meanings": [
+        "قابلیت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "penetrometer",
+      "Meanings": [
+        "نفوذ سنج"
+      ]
+    },
+    {
+      "EnglishWord": "pentavalent nitrogen compound",
+      "Meanings": [
+        "ترکیب نیتروژن پنج ارزشی",
+        "ترکیب ازت پنج ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "pepper and salt",
+      "Meanings": [
+        "پارچه فلفل نمکی"
+      ]
+    },
+    {
+      "EnglishWord": "peptid shift",
+      "Meanings": [
+        "انتقال پپتیدی"
+      ]
+    },
+    {
+      "EnglishWord": "peptide link",
+      "Meanings": [
+        "اتصال پپتیدی",
+        "پیوند پپتیدی"
+      ]
+    },
+    {
+      "EnglishWord": "peptide linkage",
+      "Meanings": [
+        "اتصال پپتیدی",
+        "پیوند پپتیدی"
+      ]
+    },
+    {
+      "EnglishWord": "percalation",
+      "Meanings": [
+        "تراوایی",
+        "نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "percaline",
+      "Meanings": [
+        "دبیت نخی",
+        "آستری"
+      ]
+    },
+    {
+      "EnglishWord": "percent",
+      "Meanings": [
+        "درصد"
+      ]
+    },
+    {
+      "EnglishWord": "percentage",
+      "Meanings": [
+        "درصد",
+        "پورسانتاژ",
+        "بر حسب درصد",
+        "درصدی"
+      ]
+    },
+    {
+      "EnglishWord": "percentage retraction",
+      "Meanings": [
+        "درصد جمع شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "percentage yarn shrinkage",
+      "Meanings": [
+        "درصد جمع شدگی نخ",
+        "درصد کاهش طول نخ"
+      ]
+    },
+    {
+      "EnglishWord": "perching",
+      "Meanings": [
+        "کنترل کیفی کالا",
+        "بازرسی پارچه",
+        "خارزنی"
+      ]
+    },
+    {
+      "EnglishWord": "perchlorate",
+      "Meanings": [
+        "پرکلرات"
+      ]
+    },
+    {
+      "EnglishWord": "percision",
+      "Meanings": [
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "percolation",
+      "Meanings": [
+        "تراوش",
+        "نشت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "percopine",
+      "Meanings": [
+        "زننده خار پشتی الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "percoupine beater",
+      "Meanings": [
+        "زننده خار پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "perfect",
+      "Meanings": [
+        "تمام",
+        "درست",
+        "کامل"
+      ]
+    },
+    {
+      "EnglishWord": "perfect check",
+      "Meanings": [
+        "پیچازی کامل",
+        "چهارخانه طرح بافت"
+      ]
+    },
+    {
+      "EnglishWord": "perfect drafting",
+      "Meanings": [
+        "مناسبتریت کشش"
+      ]
+    },
+    {
+      "EnglishWord": "perfil",
+      "Meanings": [
+        "لیف مصنوعی پروفیل پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "perfilon",
+      "Meanings": [
+        "لیف مصنوعی پروفیلون نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "perforated",
+      "Meanings": [
+        "منفذ دار",
+        "سوراخدار",
+        "مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "perform",
+      "Meanings": [
+        "انجام دادن"
+      ]
+    },
+    {
+      "EnglishWord": "performance",
+      "Meanings": [
+        "اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "perfume and dye",
+      "Meanings": [
+        "ماده رنگزا و معطر"
+      ]
+    },
+    {
+      "EnglishWord": "period",
+      "Meanings": [
+        "دوره",
+        "تناوب"
+      ]
+    },
+    {
+      "EnglishWord": "periodic irregularity",
+      "Meanings": [
+        "نایکنواختی متناوب در فتیله که به دلیل عیب مکانیکی ماشین ایجاد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "periodic table",
+      "Meanings": [
+        "جدول تناوبی عناصر"
+      ]
+    },
+    {
+      "EnglishWord": "periodic variation",
+      "Meanings": [
+        "نایکنواختی متناوب در فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "periodica",
+      "Meanings": [
+        "تناوبی",
+        "متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "peripheral speed",
+      "Meanings": [
+        "سرعت محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "peripheral velocity",
+      "Meanings": [
+        "سرعت محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "perkins",
+      "Meanings": [
+        "دستگاه پرکینز"
+      ]
+    },
+    {
+      "EnglishWord": "perlenka",
+      "Meanings": [
+        "لیف مصنوعی پرلنکا نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "perlglo",
+      "Meanings": [
+        "لیف مصنوعی پرلگلو ویسکوز رشته ای نیمه کدر"
+      ]
+    },
+    {
+      "EnglishWord": "perlofil",
+      "Meanings": [
+        "لیف مصنوعی پرلوفیل پلی کاپرولاکتام"
+      ]
+    },
+    {
+      "EnglishWord": "perlon",
+      "Meanings": [
+        "لیف مصنوعی پرلون پلی کاپرولاکتام رشته ای و پولکی",
+        "لیف مصنوعی پرلون 6 نام دیگر پرلون"
+      ]
+    },
+    {
+      "EnglishWord": "perlon hoechst",
+      "Meanings": [
+        "لیف مصنوعی پرلون هوخست نایلون 6 رشته ای و پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "perlon t",
+      "Meanings": [
+        "لیف مصنوعی پرلون T نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "perlon u",
+      "Meanings": [
+        "لیف مصنوعی پرلون U پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "permalon",
+      "Meanings": [
+        "لیف مصنوعی پرمالون پلی وینیلیدن کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "permalose",
+      "Meanings": [
+        "پرمالوس",
+        "لعاب ضد الکتریسیته ساکن کننده پلی استر که کوپلیمر استر اتر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "permanent",
+      "Meanings": [
+        "دایمی",
+        "همیشگی",
+        "با ثبات",
+        "پیوسته",
+        "با دوام",
+        "ماندگار",
+        "پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "permanent contraction",
+      "Meanings": [
+        "انقباض دایم"
+      ]
+    },
+    {
+      "EnglishWord": "permanent crease",
+      "Meanings": [
+        "چین دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent finish",
+      "Meanings": [
+        "تکمیل دایمی کالای نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent hardness of water",
+      "Meanings": [
+        "سختی دایم آب"
+      ]
+    },
+    {
+      "EnglishWord": "permanent press",
+      "Meanings": [
+        "اتوی دایمی پارچه",
+        "اتوی ثابت پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "permanent retarder",
+      "Meanings": [
+        "ریتاردر دایم",
+        "ریتاردر پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "permanent set",
+      "Meanings": [
+        "تثبیت دایم",
+        "ثبات دایمی",
+        "تغییر بعد ثابت",
+        "تغییر ابعادی ثابت",
+        "میزان ازدیاد طول الیاف پس از کشش تا حد پارگی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent setting",
+      "Meanings": [
+        "تثبیت دایمی",
+        "ثبات دایم"
+      ]
+    },
+    {
+      "EnglishWord": "permanent sizing",
+      "Meanings": [
+        "آهار ثابت",
+        "آهار همیشگی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent weaving",
+      "Meanings": [
+        "ایجاد فر و موج و جعد ثابت در الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "permanganate value",
+      "Meanings": [
+        "ارزش پرمنگنات که بیانگر مقدار اکسیژن آزاد در پساب است"
+      ]
+    },
+    {
+      "EnglishWord": "permangenate",
+      "Meanings": [
+        "پرمنگنات"
+      ]
+    },
+    {
+      "EnglishWord": "permation",
+      "Meanings": [
+        "نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "permation finish",
+      "Meanings": [
+        "تکمیل دایم"
+      ]
+    },
+    {
+      "EnglishWord": "permeability",
+      "Meanings": [
+        "نفوذ پذیری",
+        "قابلیت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "permeable",
+      "Meanings": [
+        "نفوذ پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "permeameter",
+      "Meanings": [
+        "وسیله اندازه گیری ضریب نفوذ پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "permeant white",
+      "Meanings": [
+        "رنگدانه سفید سولفات باریم"
+      ]
+    },
+    {
+      "EnglishWord": "permissible load",
+      "Meanings": [
+        "بار مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "permutation",
+      "Meanings": [
+        "روش تبادل یونی جهت سختی گیری آب"
+      ]
+    },
+    {
+      "EnglishWord": "pero",
+      "Meanings": [
+        "لیف مصنوعی پرو مخلوطی از یک قسمت ویسکوز پولکی و دو قسمت پنبه پروپان"
+      ]
+    },
+    {
+      "EnglishWord": "peroxide",
+      "Meanings": [
+        "پراکسید"
+      ]
+    },
+    {
+      "EnglishWord": "perpendicular",
+      "Meanings": [
+        "عمومی",
+        "خط عمود",
+        "قایم"
+      ]
+    },
+    {
+      "EnglishWord": "perry",
+      "Meanings": [
+        "فاصله بین غلتک چله و لبه پارچه",
+        "طول چله بین غلتک چله تا لبه پارچه روی ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "persistence of colour match",
+      "Meanings": [
+        "پایداری رنگ همانندی"
+      ]
+    },
+    {
+      "EnglishWord": "perspiration",
+      "Meanings": [
+        "عرق کردن",
+        "تعرق"
+      ]
+    },
+    {
+      "EnglishWord": "pervasiveness",
+      "Meanings": [
+        "درجه انتشار",
+        "درجه نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "pervious",
+      "Meanings": [
+        "نفوذ پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "pervious layer",
+      "Meanings": [
+        "لایه نفوذ پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "pest",
+      "Meanings": [
+        "آفت"
+      ]
+    },
+    {
+      "EnglishWord": "petrochemistry",
+      "Meanings": [
+        "پتروشیمی"
+      ]
+    },
+    {
+      "EnglishWord": "petrolatum",
+      "Meanings": [
+        "وازلین"
+      ]
+    },
+    {
+      "EnglishWord": "petroleum",
+      "Meanings": [
+        "نفت خام",
+        "ماده نفتی",
+        "مشتقات نفتی",
+        "نفت",
+        "بنزین"
+      ]
+    },
+    {
+      "EnglishWord": "petroleum cracking",
+      "Meanings": [
+        "کراکینگ نفت خام",
+        "شکستن مولکولهای نفت خام"
+      ]
+    },
+    {
+      "EnglishWord": "petroleum hydrocarbon",
+      "Meanings": [
+        "هیدروکربن نفتی از نرم کننده ها"
+      ]
+    },
+    {
+      "EnglishWord": "petroleum spirit",
+      "Meanings": [
+        "حلال نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "petroleumgelly",
+      "Meanings": [
+        "ژله نفتی روغنی جهت ریسندگی الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "petticoat",
+      "Meanings": [
+        "نوعی پیراهن زنانه",
+        "کت کوتاه مردانه"
+      ]
+    },
+    {
+      "EnglishWord": "ph",
+      "Meanings": [
+        "پی. اچ",
+        "غلظت یون هیدروژن"
+      ]
+    },
+    {
+      "EnglishWord": "ph stability",
+      "Meanings": [
+        "پایداری",
+        "پایداری PH"
+      ]
+    },
+    {
+      "EnglishWord": "phase",
+      "Meanings": [
+        "شکل",
+        "حالت",
+        "مرحله",
+        "دوره",
+        "بخش",
+        "قسمت",
+        "فاز",
+        "جزیی از یک ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "phellem",
+      "Meanings": [
+        "چوب پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "phenol resin",
+      "Meanings": [
+        "رزین فنلی"
+      ]
+    },
+    {
+      "EnglishWord": "phenolic resin",
+      "Meanings": [
+        "رزین فنلی"
+      ]
+    },
+    {
+      "EnglishWord": "phenomen",
+      "Meanings": [
+        "پدیده",
+        "رویداد",
+        "رخداد"
+      ]
+    },
+    {
+      "EnglishWord": "phenoplast",
+      "Meanings": [
+        "فنوپلاست رزین فنلی"
+      ]
+    },
+    {
+      "EnglishWord": "phosphorescence",
+      "Meanings": [
+        "فسفرسانس خاصیت جذب نور و آزاد سازی تدریجی آن"
+      ]
+    },
+    {
+      "EnglishWord": "phosphoric acid ester",
+      "Meanings": [
+        "استر اسید فسفریک"
+      ]
+    },
+    {
+      "EnglishWord": "photo active",
+      "Meanings": [
+        "حساس به نور"
+      ]
+    },
+    {
+      "EnglishWord": "photochemical",
+      "Meanings": [
+        "فتو شیمیایی",
+        "نور شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "photochemical initiation",
+      "Meanings": [
+        "فعال کننده فتوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "photochemical stability",
+      "Meanings": [
+        "پایداری فتوشیمیایی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "photochromism",
+      "Meanings": [
+        "فتوکرمی تغییر رنگ در اثر تابش شدید نور"
+      ]
+    },
+    {
+      "EnglishWord": "photodecomposition",
+      "Meanings": [
+        "تجزیه نوری"
+      ]
+    },
+    {
+      "EnglishWord": "photodegradation",
+      "Meanings": [
+        "اثر نور بر سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "photosensitive",
+      "Meanings": [
+        "حساس به نور"
+      ]
+    },
+    {
+      "EnglishWord": "phototropism",
+      "Meanings": [
+        "فتوتروپی تغییر رنگ بر اثر تابش نور"
+      ]
+    },
+    {
+      "EnglishWord": "phototropy",
+      "Meanings": [
+        "فتوتروپی ایجاد عمدی مانع تجانس با حذف رزونانس که تولید ماده بیرنگی می‌کند مثل ترکیبات رنگ مونوآزو"
+      ]
+    },
+    {
+      "EnglishWord": "phrilan",
+      "Meanings": [
+        "لیف مصنوعی فریلان ویسکوز با الیاف نامرتب"
+      ]
+    },
+    {
+      "EnglishWord": "phrilon",
+      "Meanings": [
+        "لیف مصنوعی فریلون پلیکاپرولاکتام"
+      ]
+    },
+    {
+      "EnglishWord": "phrix",
+      "Meanings": [
+        "لیف مصنوعی فریکس نایلون 6 پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "phrix jt",
+      "Meanings": [
+        "لیف مصنوعی فریکس JT ویسکوز پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "phrix rayon",
+      "Meanings": [
+        "لیف مصنوعی فریکس ریون ویسکوز"
+      ]
+    },
+    {
+      "EnglishWord": "phrix stw",
+      "Meanings": [
+        "لیف مصنوعی فریکس STW ویسکوز پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "phthalate ester",
+      "Meanings": [
+        "استرفتالات",
+        "استر اسید فتالیک"
+      ]
+    },
+    {
+      "EnglishWord": "phthalate resin",
+      "Meanings": [
+        "رزین فتالات"
+      ]
+    },
+    {
+      "EnglishWord": "phthalic resin",
+      "Meanings": [
+        "رزین فتالیک"
+      ]
+    },
+    {
+      "EnglishWord": "phthalocyanine",
+      "Meanings": [
+        "فتالوسیانین"
+      ]
+    },
+    {
+      "EnglishWord": "phthalocyanine dye",
+      "Meanings": [
+        "رنگینه فتالوسیانین"
+      ]
+    },
+    {
+      "EnglishWord": "physical variation",
+      "Meanings": [
+        "تغییر فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physically modified starch",
+      "Meanings": [
+        "نشاسته اصلاح شده به روش فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "phytotoxic",
+      "Meanings": [
+        "مواد سمی و مضر برای گیاهان"
+      ]
+    },
+    {
+      "EnglishWord": "piano feed regulating",
+      "Meanings": [
+        "دستگاه پیانویی تنظیم خوراک ماشین بالش"
+      ]
+    },
+    {
+      "EnglishWord": "pick",
+      "Meanings": [
+        "نخ پود",
+        "پود",
+        "پودگذاری",
+        "طول بوبین",
+        "کلنگ",
+        "هر وسیله نوک تیز",
+        "چیدن",
+        "ضربت"
+      ]
+    },
+    {
+      "EnglishWord": "pick and pick",
+      "Meanings": [
+        "پودگذاری تک نخهای الوان در پارچه",
+        "یک پود در میان"
+      ]
+    },
+    {
+      "EnglishWord": "pick and pick combination",
+      "Meanings": [
+        "ترکیب یک پود در میان"
+      ]
+    },
+    {
+      "EnglishWord": "pick cam",
+      "Meanings": [
+        "بادامک پودگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "pick count construction",
+      "Meanings": [
+        "ساختمان پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pick counte",
+      "Meanings": [
+        "ذره بین پود شماری",
+        "پود شمار"
+      ]
+    },
+    {
+      "EnglishWord": "pick counter",
+      "Meanings": [
+        "پود شمار"
+      ]
+    },
+    {
+      "EnglishWord": "pick cramming device",
+      "Meanings": [
+        "دستگاه تامین تراکم پود در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pick finding",
+      "Meanings": [
+        "پودیابی",
+        "واچیدن پود"
+      ]
+    },
+    {
+      "EnglishWord": "pick finding device",
+      "Meanings": [
+        "وسیله پودیابی",
+        "وسیله پود واچیدن"
+      ]
+    },
+    {
+      "EnglishWord": "pick gear",
+      "Meanings": [
+        "دنده پود",
+        "دنده شیطانک"
+      ]
+    },
+    {
+      "EnglishWord": "pick glass",
+      "Meanings": [
+        "ذره بین پود شماری"
+      ]
+    },
+    {
+      "EnglishWord": "pick out mark",
+      "Meanings": [
+        "اثر یا جای فضولات پاک شده در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pick pawl",
+      "Meanings": [
+        "جغجغه پود"
+      ]
+    },
+    {
+      "EnglishWord": "pick spacing",
+      "Meanings": [
+        "تراکم پودی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pick up",
+      "Meanings": [
+        "برداشت محلول یا مایع توسط کالای نساجی",
+        "قدرت منسوج جهت برداشت مایع",
+        "جذب کردن",
+        "برداشتن",
+        "انتخاب",
+        "کندن",
+        "برچیدن"
+      ]
+    },
+    {
+      "EnglishWord": "picker",
+      "Meanings": [
+        "ماشین بالش",
+        "مضراب شتاب دهنده با ماکو",
+        "ماشین حلاجی",
+        "ماشین حلاجی بالش",
+        "ماشین حلاجی پشم"
+      ]
+    },
+    {
+      "EnglishWord": "picker arm hook",
+      "Meanings": [
+        "قلاب پشت دوک انتخاب پود"
+      ]
+    },
+    {
+      "EnglishWord": "picker hook",
+      "Meanings": [
+        "قلاب هم تراز کننده پود سر پایین"
+      ]
+    },
+    {
+      "EnglishWord": "picker lap",
+      "Meanings": [
+        "بالش حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "picker pattern",
+      "Meanings": [
+        "نقش تکرار نایکنواختی بالش حلاجی در فتیله کاردینگ"
+      ]
+    },
+    {
+      "EnglishWord": "picker recess",
+      "Meanings": [
+        "سوراخ برخورد مضراب با ماکو"
+      ]
+    },
+    {
+      "EnglishWord": "picker rest",
+      "Meanings": [
+        "قلاب هم تراز کننده پود سربالا"
+      ]
+    },
+    {
+      "EnglishWord": "picker rod",
+      "Meanings": [
+        "میله دوک ران انتخاب پود"
+      ]
+    },
+    {
+      "EnglishWord": "picker stick",
+      "Meanings": [
+        "چوب ضربه",
+        "چوب مضراب"
+      ]
+    },
+    {
+      "EnglishWord": "picking",
+      "Meanings": [
+        "پود گذاری",
+        "چیدن غوزه پنبه از گیاه",
+        "حلاجی کردن",
+        "زدودن مواد گیاهی از پارچه پشمی و فاستونی"
+      ]
+    },
+    {
+      "EnglishWord": "picking bowl",
+      "Meanings": [
+        "بادامک پودگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "picking cam",
+      "Meanings": [
+        "بادامک پودگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "picking mechanism",
+      "Meanings": [
+        "سیستم پودگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "picking motion",
+      "Meanings": [
+        "سیستم دفتین زنی",
+        "سیستم پودگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "picking out",
+      "Meanings": [
+        "واچین پود"
+      ]
+    },
+    {
+      "EnglishWord": "picking shaft",
+      "Meanings": [
+        "شافت یا محور انتقال حرکت از مخروطی تماس با بادامک پودگذاری و رکابی چوب ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "picking stick",
+      "Meanings": [
+        "مضراب در ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "picking stick cover",
+      "Meanings": [
+        "روکش مضراب در محل برخورد با ضربه گیر جلو"
+      ]
+    },
+    {
+      "EnglishWord": "pickling",
+      "Meanings": [
+        "رنگ زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "picks of weft",
+      "Meanings": [
+        "نخ‌های پودی"
+      ]
+    },
+    {
+      "EnglishWord": "picks per minute",
+      "Meanings": [
+        "ضربه در دقیقه",
+        "پود در دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "piece",
+      "Meanings": [
+        "قطعه",
+        "توپ پارچه",
+        "تکه",
+        "طاق پارچه",
+        "قطعه پارچه",
+        "عدد",
+        "مقدار",
+        "بخش",
+        "قسمت",
+        "وصله کردن",
+        "سر هم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piece carbonizing",
+      "Meanings": [
+        "کربونیزه کردن پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "piece doffing",
+      "Meanings": [
+        "جدا کردن غلتک حاوی پارچه از ماشین بافندگی",
+        "برداشت توپ پارچه از ماشین طاق پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "piece dye to",
+      "Meanings": [
+        "رنگرزی طاقه",
+        "طاقه رنگ کنی",
+        "طاقه رنگ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piece dyed cloth",
+      "Meanings": [
+        "طاقه پارچه رنگرزی شده",
+        "توپ پارچه رنگرزی شده"
+      ]
+    },
+    {
+      "EnglishWord": "piece dyeing",
+      "Meanings": [
+        "رنگرزی پارچه",
+        "رنگرزی توپ پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "piece goods",
+      "Meanings": [
+        "توپ پارچه",
+        "طاقه پارچه",
+        "قواره پارچه",
+        "پارچه",
+        "قماش"
+      ]
+    },
+    {
+      "EnglishWord": "piece no.",
+      "Meanings": [
+        "شماره قطعه",
+        "شماره طاقه"
+      ]
+    },
+    {
+      "EnglishWord": "piece scouring",
+      "Meanings": [
+        "شستشوی پارچه جهت گرفتن چرک و چربی آن",
+        "چربی گیری پارچه توسط شستن"
+      ]
+    },
+    {
+      "EnglishWord": "piece up to",
+      "Meanings": [
+        "پیوند زدن",
+        "یکسره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piecening",
+      "Meanings": [
+        "پیوند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piecening up",
+      "Meanings": [
+        "پیوند زدن نخ پاره شده در حین تولید"
+      ]
+    },
+    {
+      "EnglishWord": "piecer",
+      "Meanings": [
+        "گره زدن نخ در ریسندگی",
+        "کارگر ذخیره در ریسندگی رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "piecing",
+      "Meanings": [
+        "پیوند کردن",
+        "گره زدن",
+        "پیوند نادرست نخ"
+      ]
+    },
+    {
+      "EnglishWord": "piecing up",
+      "Meanings": [
+        "پیوند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piecing yarn",
+      "Meanings": [
+        "نخ پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "pierce to",
+      "Meanings": [
+        "نفوذ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pigment",
+      "Meanings": [
+        "رنگیزه",
+        "رنگدانه",
+        "پیگمنت"
+      ]
+    },
+    {
+      "EnglishWord": "pigment pad jig dyeing method",
+      "Meanings": [
+        "رنگرزی به روش پیگمنت پد در ژیگر"
+      ]
+    },
+    {
+      "EnglishWord": "pigment padding",
+      "Meanings": [
+        "آغشتن پارچه به رنگدانه"
+      ]
+    },
+    {
+      "EnglishWord": "pigment printing",
+      "Meanings": [
+        "چاپ پیگمنتی"
+      ]
+    },
+    {
+      "EnglishWord": "pigment temperature step dyeing method",
+      "Meanings": [
+        "رنگرزی به روش پیگمنت و حرارت پله ای نیمه پیگمنتی"
+      ]
+    },
+    {
+      "EnglishWord": "pigment theory",
+      "Meanings": [
+        "تیوری رنگدانه",
+        "تیوری پیگمنت"
+      ]
+    },
+    {
+      "EnglishWord": "pigmentation",
+      "Meanings": [
+        "پیگمنت",
+        "رنگدانه",
+        "رنگیزه",
+        "رنگرزی با رنگدانه",
+        "رنگرزی پیگمنتی"
+      ]
+    },
+    {
+      "EnglishWord": "pigmented yarn",
+      "Meanings": [
+        "نخ رنگرزی شده با پیگمنت",
+        "نخی که پلیمر آن با پیگمنت رنگ شده"
+      ]
+    },
+    {
+      "EnglishWord": "pigtail",
+      "Meanings": [
+        "سر نقابی"
+      ]
+    },
+    {
+      "EnglishWord": "pile",
+      "Meanings": [
+        "پیل",
+        "پرز",
+        "خار",
+        "کرک",
+        "حلقه کردن",
+        "روی هم انباشتن",
+        "توده کردن",
+        "کندن پشم پوست دباغی"
+      ]
+    },
+    {
+      "EnglishWord": "pile fabric",
+      "Meanings": [
+        "پارچه پرزدار",
+        "پارچه خاب دار",
+        "منسوجات خاب دار نظیر مخمل و پتو"
+      ]
+    },
+    {
+      "EnglishWord": "pile fabric weaving",
+      "Meanings": [
+        "مخمل بافی دوبل"
+      ]
+    },
+    {
+      "EnglishWord": "pile fabrics loom",
+      "Meanings": [
+        "ماشین بافندگی پارچه خاب دار"
+      ]
+    },
+    {
+      "EnglishWord": "pile finishing",
+      "Meanings": [
+        "تکمیل مخملی",
+        "تکمیل خاب دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pile height",
+      "Meanings": [
+        "ارتفاع خاب"
+      ]
+    },
+    {
+      "EnglishWord": "pile loop",
+      "Meanings": [
+        "حلقه خاب"
+      ]
+    },
+    {
+      "EnglishWord": "pile warp",
+      "Meanings": [
+        "چله کرکی",
+        "چله خاب دار"
+      ]
+    },
+    {
+      "EnglishWord": "pile weave",
+      "Meanings": [
+        "بافت مخمل",
+        "بافت خاب دار"
+      ]
+    },
+    {
+      "EnglishWord": "pile yarn",
+      "Meanings": [
+        "نخ خاب"
+      ]
+    },
+    {
+      "EnglishWord": "pill",
+      "Meanings": [
+        "پرزدار کردن سطح پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pillar stitch",
+      "Meanings": [
+        "بافت زنجیری",
+        "بافت فاستونی"
+      ]
+    },
+    {
+      "EnglishWord": "pilletting",
+      "Meanings": [
+        "پود",
+        "نخ پود",
+        "پرکردن"
+      ]
+    },
+    {
+      "EnglishWord": "pilling",
+      "Meanings": [
+        "کرکی شدن",
+        "انقطاع",
+        "پرزدهی تشکیل گلوله‌های الیاف در سطح پارچه بر اثر مالش",
+        "پرز شده سطح پارچه",
+        "گلوله شدن الیاف روی سطح پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pilling resistance",
+      "Meanings": [
+        "مقاومت در برابر پرزدار شدن سطح پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pillow",
+      "Meanings": [
+        "بالش",
+        "متکا",
+        "پشتی",
+        "مخده",
+        "لایه گذاردن"
+      ]
+    },
+    {
+      "EnglishWord": "pillow case",
+      "Meanings": [
+        "روبالش",
+        "رومتکا"
+      ]
+    },
+    {
+      "EnglishWord": "pilot plant",
+      "Meanings": [
+        "واحد روشنگر"
+      ]
+    },
+    {
+      "EnglishWord": "pima",
+      "Meanings": [
+        "پنبه نوع بلند"
+      ]
+    },
+    {
+      "EnglishWord": "pima s-",
+      "Meanings": [
+        "نوعی پنبه درجه"
+      ]
+    },
+    {
+      "EnglishWord": "pin",
+      "Meanings": [
+        "سوزن",
+        "خار",
+        "انگشتی",
+        "سنجاق",
+        "میخ چوبی",
+        "لامل",
+        "پین",
+        "گیره",
+        "محور کوچک",
+        "لوله اتصال",
+        "برآمدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pin cop",
+      "Meanings": [
+        "نخ پود پنبه ای به صورت کاپ"
+      ]
+    },
+    {
+      "EnglishWord": "pin creel",
+      "Meanings": [
+        "قفسه سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "pin drafter",
+      "Meanings": [
+        "ماشین فتیله سوزنی پشم"
+      ]
+    },
+    {
+      "EnglishWord": "pin drafting",
+      "Meanings": [
+        "کشش سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "pin dropper",
+      "Meanings": [
+        "لامل بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "pin mark",
+      "Meanings": [
+        "جای سوزن در کناره پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pin spindle",
+      "Meanings": [
+        "دوک سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "pin stenter",
+      "Meanings": [
+        "استنتر سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "pin stripe shirting",
+      "Meanings": [
+        "پارچه پیراهنی با راه راه باریک"
+      ]
+    },
+    {
+      "EnglishWord": "pina",
+      "Meanings": [
+        "لیف مصنوعی پینا از الیاف برگی"
+      ]
+    },
+    {
+      "EnglishWord": "pine oil",
+      "Meanings": [
+        "روغن کاج",
+        "روغن صنوبر"
+      ]
+    },
+    {
+      "EnglishWord": "pine pattern",
+      "Meanings": [
+        "طرح بته جغه ای",
+        "طرح کاج یا برگ",
+        "طرح سرو خمیده"
+      ]
+    },
+    {
+      "EnglishWord": "pineapple fiber",
+      "Meanings": [
+        "لیف پینیپل الیاف آناناس"
+      ]
+    },
+    {
+      "EnglishWord": "pink",
+      "Meanings": [
+        "صورتی رنگ",
+        "میخکی رنگ",
+        "کنگره دار کردن لبه پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pinking of cloth",
+      "Meanings": [
+        "برش کنگره ای لبه پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "pinning",
+      "Meanings": [
+        "متصل کردن پارچه با سوزن",
+        "لامل ریزی",
+        "لامل چینی"
+      ]
+    },
+    {
+      "EnglishWord": "pinning density",
+      "Meanings": [
+        "تراکم خارهای نوار خاردار"
+      ]
+    },
+    {
+      "EnglishWord": "pinning frame",
+      "Meanings": [
+        "دستگاه تیغه مجازی لامل چینی"
+      ]
+    },
+    {
+      "EnglishWord": "piollet plant",
+      "Meanings": [
+        "واحد روشنگر"
+      ]
+    },
+    {
+      "EnglishWord": "pipe",
+      "Meanings": [
+        "لوله"
+      ]
+    },
+    {
+      "EnglishWord": "pipe in pipe system",
+      "Meanings": [
+        "سیستم لوله در لوله"
+      ]
+    },
+    {
+      "EnglishWord": "pipette",
+      "Meanings": [
+        "پیپت",
+        "لوله شیشه ای جهت برداشتن مایعات در آزمایشگاه"
+      ]
+    },
+    {
+      "EnglishWord": "pique",
+      "Meanings": [
+        "پارچه پیکه",
+        "بافت پیکه",
+        "نوعی بافت تافته راه راه"
+      ]
+    },
+    {
+      "EnglishWord": "pique dimity",
+      "Meanings": [
+        "پارچه وال پیکه"
+      ]
+    },
+    {
+      "EnglishWord": "pirn",
+      "Meanings": [
+        "ماسوره پود",
+        "ماسوره بافندگی",
+        "قرقره",
+        "بوبین",
+        "ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "pirn changing motion",
+      "Meanings": [
+        "عمل تعویض ماسوره پود",
+        "دستگاه تعویض ماسوره پود"
+      ]
+    },
+    {
+      "EnglishWord": "pirn stripper",
+      "Meanings": [
+        "تمیز کننده ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "pirn winder",
+      "Meanings": [
+        "ماسوره پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "pirn's sleave",
+      "Meanings": [
+        "مهره ماسوره پود"
+      ]
+    },
+    {
+      "EnglishWord": "piston",
+      "Meanings": [
+        "پیستون در بانکه فتیله",
+        "پیستون جعبه فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "pitch",
+      "Meanings": [
+        "تراکم",
+        "گام",
+        "قیر اندود کردن",
+        "زفت",
+        "تنظیم تن صورت",
+        "تعداد نخ خاب در یک اینچ فرش"
+      ]
+    },
+    {
+      "EnglishWord": "pitch tips",
+      "Meanings": [
+        "مواد زاید همراه پشم"
+      ]
+    },
+    {
+      "EnglishWord": "pitching",
+      "Meanings": [
+        "نوسان سر ماکو هنگام حرکت روی دفتین",
+        "بالا یا پایین رفتن سر ماکو در حرکت روی دفتین"
+      ]
+    },
+    {
+      "EnglishWord": "placid yarn",
+      "Meanings": [
+        "نخ با تاب تثبیت شده",
+        "نخ فیکس شده",
+        "نخ تاب کشته"
+      ]
+    },
+    {
+      "EnglishWord": "plaid",
+      "Meanings": [
+        "پارچه چهارخانه رنگی",
+        "پارچه شطرنجی",
+        "طرح چهاخانه رنگی",
+        "طرح شطرنجی"
+      ]
+    },
+    {
+      "EnglishWord": "plain",
+      "Meanings": [
+        "بافت تافته یا ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain edge",
+      "Meanings": [
+        "لبه ساده پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "plain flocking",
+      "Meanings": [
+        "چاپ فلاک ساده پوشش کامل سطح پارچه با الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "plain knit fabric",
+      "Meanings": [
+        "پارچه کشباف ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain knitting",
+      "Meanings": [
+        "حلقه ساده در کشباف ساده پودی دستی یا ماشینی"
+      ]
+    },
+    {
+      "EnglishWord": "plain loom",
+      "Meanings": [
+        "ماشین بافندگی بادامکی"
+      ]
+    },
+    {
+      "EnglishWord": "plain material",
+      "Meanings": [
+        "پارچه رنگی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain pincking",
+      "Meanings": [
+        "پودگذاری یک ماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "plain set",
+      "Meanings": [
+        "تثبیت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain stitch",
+      "Meanings": [
+        "ساده‌ترین نوع حلقه کشبافی"
+      ]
+    },
+    {
+      "EnglishWord": "plain water",
+      "Meanings": [
+        "آب معمولی",
+        "آب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain weave",
+      "Meanings": [
+        "پارچه تافته",
+        "بافت تافته",
+        "بافت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain wool",
+      "Meanings": [
+        "پشم صاف و بدون فر و موج"
+      ]
+    },
+    {
+      "EnglishWord": "plait",
+      "Meanings": [
+        "تا",
+        "چین",
+        "تازدن",
+        "چین دار کردن",
+        "نمدمالی"
+      ]
+    },
+    {
+      "EnglishWord": "plaited fabric",
+      "Meanings": [
+        "پارچه توری تک نخی"
+      ]
+    },
+    {
+      "EnglishWord": "plaiting",
+      "Meanings": [
+        "بافتن",
+        "پلیسه کردن پارچه",
+        "تا زدن پارچه",
+        "نمدمالی کلاه"
+      ]
+    },
+    {
+      "EnglishWord": "plaiting down",
+      "Meanings": [
+        "قرار دادن پارچه به صورت لایه لایه روی یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "plan",
+      "Meanings": [
+        "نقشه",
+        "طرح",
+        "روش",
+        "طرح کردن",
+        "طرح ریزی",
+        "پلان"
+      ]
+    },
+    {
+      "EnglishWord": "plane",
+      "Meanings": [
+        "صفحه",
+        "سطح",
+        "سطح مستوی",
+        "رنده نجاری",
+        "رنده کردن",
+        "صاف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "planetary coiler",
+      "Meanings": [
+        "کویلر سیاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "planking",
+      "Meanings": [
+        "الوار چوب",
+        "والک مختصر",
+        "نمدی مختصر"
+      ]
+    },
+    {
+      "EnglishWord": "planks equation",
+      "Meanings": [
+        "معادله پلانک"
+      ]
+    },
+    {
+      "EnglishWord": "planographic printing",
+      "Meanings": [
+        "چاپ صاف مثل چاپ زینک"
+      ]
+    },
+    {
+      "EnglishWord": "plant design",
+      "Meanings": [
+        "طرح کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plant location",
+      "Meanings": [
+        "محل کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plant manager",
+      "Meanings": [
+        "مدیر کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plasmolysis protein",
+      "Meanings": [
+        "پروتیین حاصل از متلاشی کردن کورتکس پشم"
+      ]
+    },
+    {
+      "EnglishWord": "plastic",
+      "Meanings": [
+        "پلاستیک ماده پلیمری ترموپلاست"
+      ]
+    },
+    {
+      "EnglishWord": "plasticity",
+      "Meanings": [
+        "پلاستیسیته",
+        "الاستیسیته تاخیری",
+        "قابلیت انعطاف",
+        "شکل پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "plasticizer",
+      "Meanings": [
+        "ماده نرم کن",
+        "ماده روان کننده",
+        "خمیر چاپ جهت افزایش قدرت جذب و انعطاف رزین"
+      ]
+    },
+    {
+      "EnglishWord": "plasticizing",
+      "Meanings": [
+        "نرم کردن از طریق جذب رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "plasticizing agent",
+      "Meanings": [
+        "ماده نرم کننده",
+        "ماده پلاستیکی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "plastifier",
+      "Meanings": [
+        "ماده نرم کن",
+        "ماده نرم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "plastomere",
+      "Meanings": [
+        "پلاستومر ترموپلاست"
+      ]
+    },
+    {
+      "EnglishWord": "plate feed roll",
+      "Meanings": [
+        "غلتک تغذیه در شوت فید"
+      ]
+    },
+    {
+      "EnglishWord": "plated fabric",
+      "Meanings": [
+        "کشباف دولای دو رو",
+        "پارچه دو رو"
+      ]
+    },
+    {
+      "EnglishWord": "plated traveller",
+      "Meanings": [
+        "شیطانک آب فلز داده شده"
+      ]
+    },
+    {
+      "EnglishWord": "plated yarn",
+      "Meanings": [
+        "نخ فانتزی دو لای دو کیفیتی",
+        "نخ آهار دار"
+      ]
+    },
+    {
+      "EnglishWord": "platilon",
+      "Meanings": [
+        "لیف مصنوعی پلاتیلون پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "plating effect",
+      "Meanings": [
+        "اثر دو رو",
+        "طرح دو رو"
+      ]
+    },
+    {
+      "EnglishWord": "platt",
+      "Meanings": [
+        "سیستم حلاجی شوت فید پلات"
+      ]
+    },
+    {
+      "EnglishWord": "platt draw frame autoleveller",
+      "Meanings": [
+        "ماشین اتوماتیک یکنواخت کننده فتیله پلات",
+        "سیستم ترمیم نایکنواختی فتیله پلات"
+      ]
+    },
+    {
+      "EnglishWord": "platt pressure bar",
+      "Meanings": [
+        "سیستم میله فشاری پلات",
+        "سیستم جدید کشش در ماشین فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "plaugh knive",
+      "Meanings": [
+        "تیغه تمیز کننده"
+      ]
+    },
+    {
+      "EnglishWord": "play suits",
+      "Meanings": [
+        "لباس ورزش"
+      ]
+    },
+    {
+      "EnglishWord": "pleasant smell",
+      "Meanings": [
+        "خوشبو"
+      ]
+    },
+    {
+      "EnglishWord": "pleat",
+      "Meanings": [
+        "پلیسه سازی",
+        "تا",
+        "چین پلیسه",
+        "پیل"
+      ]
+    },
+    {
+      "EnglishWord": "pleating",
+      "Meanings": [
+        "پلیسه کاری",
+        "پلیسه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pleating machine",
+      "Meanings": [
+        "ماشین پلیسه"
+      ]
+    },
+    {
+      "EnglishWord": "pleochroism",
+      "Meanings": [
+        "چند رنگی",
+        "رنگارنگی",
+        "بستگی داشتن مقدار جذب نور مونوکروماتیک به جهت تابش"
+      ]
+    },
+    {
+      "EnglishWord": "plexiglass",
+      "Meanings": [
+        "لیف مصنوعی پلکسی گلاس پلیمر متیل آکریلات"
+      ]
+    },
+    {
+      "EnglishWord": "plexon",
+      "Meanings": [
+        "لیف مصنوعی پلکسون رشته‌های اندود شده پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "pliability",
+      "Meanings": [
+        "قابلیت انحناء",
+        "نرمی",
+        "خمیری"
+      ]
+    },
+    {
+      "EnglishWord": "pliable",
+      "Meanings": [
+        "قابل انحناء",
+        "خم شو",
+        "نرم خمیری"
+      ]
+    },
+    {
+      "EnglishWord": "plian",
+      "Meanings": [
+        "حلقه رو یا ساده در کشباف"
+      ]
+    },
+    {
+      "EnglishWord": "plied yarn",
+      "Meanings": [
+        "نخ چندلای بدون تاب"
+      ]
+    },
+    {
+      "EnglishWord": "plisse",
+      "Meanings": [
+        "ایجاد اثر کرپ در پارچه پنبه ای با چاپ سود و خشک کردن آزاد آن که محل چاپ شده جمع شدگی پیدا می‌کند و چروک می‌خورد"
+      ]
+    },
+    {
+      "EnglishWord": "plow grinding",
+      "Meanings": [
+        "سمباده زدن کنار خارها"
+      ]
+    },
+    {
+      "EnglishWord": "plucked",
+      "Meanings": [
+        "نایکنواختی در فتیله و تاپس و روینگ یا نخ غالبا به علت کشش زیاد یا سرعت زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "plucked wool",
+      "Meanings": [
+        "پشم گوسفند مرده"
+      ]
+    },
+    {
+      "EnglishWord": "plucker",
+      "Meanings": [
+        "نوعی ماشین عدل شکن پشم",
+        "ماشین باز کننده الیاف پشم"
+      ]
+    },
+    {
+      "EnglishWord": "plugged eye",
+      "Meanings": [
+        "گرفتگی چشم ماکو"
+      ]
+    },
+    {
+      "EnglishWord": "plush",
+      "Meanings": [
+        "پرز",
+        "پلاش",
+        "خاب پارچه",
+        "مخملی با پرزهای تقریبا بلند و براق",
+        "مجلل",
+        "پلوش",
+        "مخمل"
+      ]
+    },
+    {
+      "EnglishWord": "plush brake",
+      "Meanings": [
+        "وسیله کشیدگی کرک دار در ماکو"
+      ]
+    },
+    {
+      "EnglishWord": "plush fabric",
+      "Meanings": [
+        "پارچه پرزدار",
+        "پارچه پلاش",
+        "پارچه خاب دار"
+      ]
+    },
+    {
+      "EnglishWord": "plush point",
+      "Meanings": [
+        "باریکه پرز",
+        "میله پرز",
+        "میله نازک پرز"
+      ]
+    },
+    {
+      "EnglishWord": "plush weaving",
+      "Meanings": [
+        "بافت خابدار",
+        "مخمل بافی"
+      ]
+    },
+    {
+      "EnglishWord": "pluton",
+      "Meanings": [
+        "لیف مصنوعی پلوتون الیاف آلی عایق گرما"
+      ]
+    },
+    {
+      "EnglishWord": "ply",
+      "Meanings": [
+        "لایه رشته‌های موجود در یک نخ چندلا",
+        "قشر",
+        "چندلا تابیدن",
+        "چندلاکردن",
+        "تا کردن",
+        "دولا کردن",
+        "خمیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "ply strands yarn counts",
+      "Meanings": [
+        "نمره نخ چندلا"
+      ]
+    },
+    {
+      "EnglishWord": "ply to",
+      "Meanings": [
+        "چندلا تابیدن"
+      ]
+    },
+    {
+      "EnglishWord": "ply weave",
+      "Meanings": [
+        "بافت چندلا",
+        "پارچه چندلا"
+      ]
+    },
+    {
+      "EnglishWord": "ply yarn",
+      "Meanings": [
+        "نخ دو یا چندلا"
+      ]
+    },
+    {
+      "EnglishWord": "ply yarn count",
+      "Meanings": [
+        "نمره نخ چندلا"
+      ]
+    },
+    {
+      "EnglishWord": "plywood",
+      "Meanings": [
+        "تخته سه لا"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic",
+      "Meanings": [
+        "هوایی",
+        "بادی",
+        "پرباد",
+        "فشارهموا"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic equipment",
+      "Meanings": [
+        "تجهیزات بادی",
+        "وسایل پنوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "pocker bar",
+      "Meanings": [
+        "میله پوکر در ریسندگی"
+      ]
+    },
+    {
+      "EnglishWord": "pocketing twill",
+      "Meanings": [
+        "سرژه یک دوم یا یک سوم"
+      ]
+    },
+    {
+      "EnglishWord": "pod",
+      "Meanings": [
+        "پیله کرم ابریشم",
+        "قوزه پنبه",
+        "پوسته محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "point",
+      "Meanings": [
+        "سوزن",
+        "خار",
+        "نوک",
+        "سر",
+        "نقطه",
+        "ممیز",
+        "نکته",
+        "موضوع",
+        "محل",
+        "مرکز",
+        "جهت",
+        "مرحله",
+        "اثر",
+        "علامت",
+        "راس",
+        "شاخک",
+        "دماغه بلند"
+      ]
+    },
+    {
+      "EnglishWord": "point against back",
+      "Meanings": [
+        "فرم نوک به پشت خارها در دو سیلندر خاردار مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "point against point",
+      "Meanings": [
+        "فرم نوک به نوک خارها در دو سیلندر خاردار مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "point bar",
+      "Meanings": [
+        "باریکه پرز",
+        "میله پرز",
+        "قطعات کوچک میله ای شکل پرز"
+      ]
+    },
+    {
+      "EnglishWord": "point paper",
+      "Meanings": [
+        "کاغذ طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "point paper design",
+      "Meanings": [
+        "واحد تکرار بافت",
+        "کاغذ راپورت طرح"
+      ]
+    },
+    {
+      "EnglishWord": "point to back",
+      "Meanings": [
+        "فرم نوک به پشت در مورد خارها"
+      ]
+    },
+    {
+      "EnglishWord": "point to point",
+      "Meanings": [
+        "فرم نوک به نوک در مورد خارها"
+      ]
+    },
+    {
+      "EnglishWord": "point to point action",
+      "Meanings": [
+        "عمل خارهای نوک به نوک"
+      ]
+    },
+    {
+      "EnglishWord": "pointed draw",
+      "Meanings": [
+        "نخ کشی برگشته"
+      ]
+    },
+    {
+      "EnglishWord": "pointed tie",
+      "Meanings": [
+        "زه کشی جناغی"
+      ]
+    },
+    {
+      "EnglishWord": "pointed twill",
+      "Meanings": [
+        "بافت جناغی"
+      ]
+    },
+    {
+      "EnglishWord": "poise",
+      "Meanings": [
+        "ثبات",
+        "توازن",
+        "وضع",
+        "نگهداری",
+        "آونگ"
+      ]
+    },
+    {
+      "EnglishWord": "polan",
+      "Meanings": [
+        "لیف مصنوعی پولان پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "polar adsorption",
+      "Meanings": [
+        "جذب سطحی قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar bond",
+      "Meanings": [
+        "پیوند قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar colour",
+      "Meanings": [
+        "رنگهای قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar compound",
+      "Meanings": [
+        "ترکیب قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar dye",
+      "Meanings": [
+        "رنگینه قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar group",
+      "Meanings": [
+        "گروه قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar side group",
+      "Meanings": [
+        "گروه جانبی قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polar system",
+      "Meanings": [
+        "سیستم قطبی",
+        "سیستمی که در کشش ماشین فتیله که غلتکها حول یک مرکز یا قطب می‌چرخند"
+      ]
+    },
+    {
+      "EnglishWord": "polarity",
+      "Meanings": [
+        "پلاریته",
+        "قطبیت",
+        "قطبی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "polarized",
+      "Meanings": [
+        "قطبی شده"
+      ]
+    },
+    {
+      "EnglishWord": "polarized light",
+      "Meanings": [
+        "نورپلاریزه"
+      ]
+    },
+    {
+      "EnglishWord": "policart",
+      "Meanings": [
+        "کاغذ نقشه",
+        "کاغذی با جذب رطوبت پایین"
+      ]
+    },
+    {
+      "EnglishWord": "policart m",
+      "Meanings": [
+        "کاغذ نقشه",
+        "کاغذی با یک طرف روکش پلی استر شده"
+      ]
+    },
+    {
+      "EnglishWord": "polifilm",
+      "Meanings": [
+        "ورق پلی استر"
+      ]
+    },
+    {
+      "EnglishWord": "polimetal",
+      "Meanings": [
+        "فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "polish",
+      "Meanings": [
+        "جلا",
+        "پرداخت نمودن",
+        "پولیش",
+        "براق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "polished",
+      "Meanings": [
+        "براق",
+        "جلادار",
+        "درخشان",
+        "صیقلی"
+      ]
+    },
+    {
+      "EnglishWord": "polished thread",
+      "Meanings": [
+        "ریسمان براق و جلادار شده",
+        "ریسمان موم خورده"
+      ]
+    },
+    {
+      "EnglishWord": "polishing",
+      "Meanings": [
+        "براق نمودن",
+        "جلا دادن",
+        "درخشان کردن",
+        "صیقل دادن"
+      ]
+    },
+    {
+      "EnglishWord": "polishing machine",
+      "Meanings": [
+        "ماشین جلا دهنده پولیش"
+      ]
+    },
+    {
+      "EnglishWord": "politrix",
+      "Meanings": [
+        "کاغذ نقشه",
+        "کاغذی دوطرف روکش پلی استر شده"
+      ]
+    },
+    {
+      "EnglishWord": "polo cloth",
+      "Meanings": [
+        "نوعی پارچه دو روی نرم و شل بافت خاب دار مخصوص کت"
+      ]
+    },
+    {
+      "EnglishWord": "poly azo",
+      "Meanings": [
+        "رنگینه پلی آزو"
+      ]
+    },
+    {
+      "EnglishWord": "poly formaldehyde",
+      "Meanings": [
+        "پلی فرمالدیید"
+      ]
+    },
+    {
+      "EnglishWord": "poly glycine",
+      "Meanings": [
+        "پلی گلایسین"
+      ]
+    },
+    {
+      "EnglishWord": "poly gol",
+      "Meanings": [
+        "لیف مصنوعی پلی گل پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "poly vinyl acetate",
+      "Meanings": [
+        "پلی وینیل استات"
+      ]
+    },
+    {
+      "EnglishWord": "poly vinyl alcohol",
+      "Meanings": [
+        "پلی وینیل الکل",
+        "PVA"
+      ]
+    },
+    {
+      "EnglishWord": "poly vinyl chloride",
+      "Meanings": [
+        "پلی وینیل کلراید",
+        "PVC"
+      ]
+    },
+    {
+      "EnglishWord": "poly vinyl fluoride",
+      "Meanings": [
+        "پلی وینیل فلوراید"
+      ]
+    },
+    {
+      "EnglishWord": "poly vinylidene chloride",
+      "Meanings": [
+        "پلی وینیلیدن کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "polyacrylonitrile",
+      "Meanings": [
+        "پلی آکریلونیتریل"
+      ]
+    },
+    {
+      "EnglishWord": "polyaddition",
+      "Meanings": [
+        "پلیمر افزایشی",
+        "پلیمریزاسیون افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "polyallomer",
+      "Meanings": [
+        "پلی آلومر"
+      ]
+    },
+    {
+      "EnglishWord": "polyamide",
+      "Meanings": [
+        "پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "polyamino triazolest",
+      "Meanings": [
+        "لیف مصنوعی پلی آمینو‌تری آزولست سباسیک دی هیدراید"
+      ]
+    },
+    {
+      "EnglishWord": "polyblend",
+      "Meanings": [
+        "مخلوط پلیمرها"
+      ]
+    },
+    {
+      "EnglishWord": "polychial",
+      "Meanings": [
+        "لیف مصنوعی پلی چیال امولسیون پلی وینیل کلراید و پلی وینیل الکل"
+      ]
+    },
+    {
+      "EnglishWord": "polychromatic",
+      "Meanings": [
+        "چند رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "polycondensation",
+      "Meanings": [
+        "پلی کندانسیون",
+        "پلیمریزاسیون مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polycondensation dye",
+      "Meanings": [
+        "رنگینه پلی کندانسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "polycrest",
+      "Meanings": [
+        "لیف مصنوعی پلی کرست پلی پروپیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polycromatic dyeing",
+      "Meanings": [
+        "رنگرزی چند رنگی",
+        "رنگرزی الوان"
+      ]
+    },
+    {
+      "EnglishWord": "polycron",
+      "Meanings": [
+        "پلی کرون دسته ای از رنگهای ویژه پلی استر",
+        "لیف مصنوعی پلی کرون پلی استر"
+      ]
+    },
+    {
+      "EnglishWord": "polydiserse",
+      "Meanings": [
+        "تعلیق با اندازه ذرات نایکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "polyester fibre",
+      "Meanings": [
+        "لیف مصنوعی پلی استر پلی اتیلن ترفتالات"
+      ]
+    },
+    {
+      "EnglishWord": "polyester plasticizer",
+      "Meanings": [
+        "نرم کننده پلی استری"
+      ]
+    },
+    {
+      "EnglishWord": "polyester resin",
+      "Meanings": [
+        "رزین پلی استری"
+      ]
+    },
+    {
+      "EnglishWord": "polyesterether",
+      "Meanings": [
+        "پلی استر اتر"
+      ]
+    },
+    {
+      "EnglishWord": "polyesters intermediate",
+      "Meanings": [
+        "ماده واسطه تولید پلی استر"
+      ]
+    },
+    {
+      "EnglishWord": "polyethylene",
+      "Meanings": [
+        "پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polyfen",
+      "Meanings": [
+        "لیف مصنوعی پلیفن فلویوروکربن"
+      ]
+    },
+    {
+      "EnglishWord": "polyfunctional",
+      "Meanings": [
+        "چند عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "polyhydrazide",
+      "Meanings": [
+        "پلی هیدرازید"
+      ]
+    },
+    {
+      "EnglishWord": "polymer",
+      "Meanings": [
+        "پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "polymer chain stiffening",
+      "Meanings": [
+        "سخت سازی زنجیر پلیمر",
+        "سخت کننده زنجیر پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "polymer degradation",
+      "Meanings": [
+        "دی پلیمریزاسیون شکست ماکرومولکول"
+      ]
+    },
+    {
+      "EnglishWord": "polymer homologue",
+      "Meanings": [
+        "پلیمر همولوگ پلیمر دارای یک واحد تکرار شونده"
+      ]
+    },
+    {
+      "EnglishWord": "polymer lining",
+      "Meanings": [
+        "پوشش پلیمری"
+      ]
+    },
+    {
+      "EnglishWord": "polymer modifier",
+      "Meanings": [
+        "کنترل کننده درجه پلیمریزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "polymer plasticizer",
+      "Meanings": [
+        "نرم کننده پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "polymer r",
+      "Meanings": [
+        "لیف مصنوعی پلیمر R نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "polymer supported material",
+      "Meanings": [
+        "ماده پایه پلیمری"
+      ]
+    },
+    {
+      "EnglishWord": "polymerisation",
+      "Meanings": [
+        "پلیمریزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "polymerising machine",
+      "Meanings": [
+        "راکتور دستگاهی که پلیمر درآن تهیه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "polymerized plasticizer",
+      "Meanings": [
+        "نرم کننده پلیمریزه شده"
+      ]
+    },
+    {
+      "EnglishWord": "polymethine dye",
+      "Meanings": [
+        "رنگینه پلی متین"
+      ]
+    },
+    {
+      "EnglishWord": "polymorphism",
+      "Meanings": [
+        "حالات مختلف یک ماده"
+      ]
+    },
+    {
+      "EnglishWord": "polynak",
+      "Meanings": [
+        "لیف مصنوعی پلی ناک اکریلیک"
+      ]
+    },
+    {
+      "EnglishWord": "polynose",
+      "Meanings": [
+        "پلی نوز"
+      ]
+    },
+    {
+      "EnglishWord": "polynosic fiber",
+      "Meanings": [
+        "لیف مصنوعی پلی نوزیک"
+      ]
+    },
+    {
+      "EnglishWord": "polynosic fibre",
+      "Meanings": [
+        "لیف مصنوعی پلی نوزیک"
+      ]
+    },
+    {
+      "EnglishWord": "polyol",
+      "Meanings": [
+        "پلی ال ترکیبات با چند گروه هیدروکسیل"
+      ]
+    },
+    {
+      "EnglishWord": "polyolefin",
+      "Meanings": [
+        "پلی الفین پلی اتیلن و پلی پروپیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polyorethane",
+      "Meanings": [
+        "پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "polypeptide",
+      "Meanings": [
+        "پلی پپتاید",
+        "اتصالات پلی آمیدی موجود در پشم"
+      ]
+    },
+    {
+      "EnglishWord": "polypropylene",
+      "Meanings": [
+        "پلی پروپیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polysplit",
+      "Meanings": [
+        "لیف مصنوعی پلی اسپلیت پلی پروپیلن",
+        "یکی از روشهای تولید پلی اتیلن در سوید"
+      ]
+    },
+    {
+      "EnglishWord": "polystyrene",
+      "Meanings": [
+        "پلی استایرن"
+      ]
+    },
+    {
+      "EnglishWord": "polyten omni",
+      "Meanings": [
+        "لیف مصنوعی پلیتن اومنی پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polytetarfluoroethylene",
+      "Meanings": [
+        "پلی تترا فلویوراتیلن تفلون"
+      ]
+    },
+    {
+      "EnglishWord": "polythene",
+      "Meanings": [
+        "لیف مصنوعی پلی تین پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "polyurethan resin",
+      "Meanings": [
+        "رزین پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "polyurethane",
+      "Meanings": [
+        "پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "polyurethane elastomer",
+      "Meanings": [
+        "الاستومر پلی اورتان",
+        "لیف کشسان پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "polyurethane foam",
+      "Meanings": [
+        "اسفنج پلی اورتان"
+      ]
+    },
+    {
+      "EnglishWord": "ponceau",
+      "Meanings": [
+        "رنگ قرمز آتشی",
+        "رنگ قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "ponit to back action",
+      "Meanings": [
+        "عمل خارهای نوک به پشت"
+      ]
+    },
+    {
+      "EnglishWord": "ponte roma",
+      "Meanings": [
+        "پارچه دو روی سیلندر با بافت اینترلاک"
+      ]
+    },
+    {
+      "EnglishWord": "pontova",
+      "Meanings": [
+        "لیف مصنوعی پونتووا نخ‌های ویسکوز"
+      ]
+    },
+    {
+      "EnglishWord": "poor",
+      "Meanings": [
+        "سست",
+        "ضعیف",
+        "فقیر"
+      ]
+    },
+    {
+      "EnglishWord": "poor carding",
+      "Meanings": [
+        "کاردینگ ضعیف",
+        "بازشدن غیر کامل الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "poor goods",
+      "Meanings": [
+        "پارچه نامرغوب"
+      ]
+    },
+    {
+      "EnglishWord": "poor sizing",
+      "Meanings": [
+        "کم آهار"
+      ]
+    },
+    {
+      "EnglishWord": "poor solvent",
+      "Meanings": [
+        "حلال ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "poor weaver",
+      "Meanings": [
+        "بافنده ضعیف یا ناشی"
+      ]
+    },
+    {
+      "EnglishWord": "poplin",
+      "Meanings": [
+        "پوپلین",
+        "پارچه پشمی زنانه",
+        "کنتواری",
+        "پارچه پشمی یا پنبه ای پیراهنی مردانه"
+      ]
+    },
+    {
+      "EnglishWord": "popline",
+      "Meanings": [
+        "پوپلین پارچه پر تراکم با بافت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "poppet",
+      "Meanings": [
+        "ماکوچه"
+      ]
+    },
+    {
+      "EnglishWord": "poppet rack",
+      "Meanings": [
+        "دنده شانه ای محرک ماکوچه"
+      ]
+    },
+    {
+      "EnglishWord": "poppet shuttle",
+      "Meanings": [
+        "ماکوچه"
+      ]
+    },
+    {
+      "EnglishWord": "porcupine",
+      "Meanings": [
+        "زننده غلتکی خاردار حلاجی",
+        "سیلندر خاردار شانه فرانسوی"
+      ]
+    },
+    {
+      "EnglishWord": "porcupine beater",
+      "Meanings": [
+        "زننده غلتکی خاردار حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "porcupine polymer",
+      "Meanings": [
+        "پلیمر خار پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "pore",
+      "Meanings": [
+        "سوراخ ریز",
+        "منفذ",
+        "روزنه",
+        "خلل و فرج"
+      ]
+    },
+    {
+      "EnglishWord": "pore percentage",
+      "Meanings": [
+        "درصد منافذ بین الیاف پارچه",
+        "درصد هوای محبوس در منسوجات"
+      ]
+    },
+    {
+      "EnglishWord": "poromeric material",
+      "Meanings": [
+        "پارچه با منافذ بسیار ریز"
+      ]
+    },
+    {
+      "EnglishWord": "porose",
+      "Meanings": [
+        "خلل و فرج دار",
+        "متخلخل",
+        "سوراخدار",
+        "جاذب رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "porosity",
+      "Meanings": [
+        "تخلخل",
+        "پوکی",
+        "مقدار هوای محبوس",
+        "در صد منافذ درصد هوای محبوس نسبت به حجم کل"
+      ]
+    },
+    {
+      "EnglishWord": "porous",
+      "Meanings": [
+        "متخلخل",
+        "پوک",
+        "اسفنجی",
+        "پفکی"
+      ]
+    },
+    {
+      "EnglishWord": "porous material",
+      "Meanings": [
+        "پارچه باز بافت"
+      ]
+    },
+    {
+      "EnglishWord": "porous plate",
+      "Meanings": [
+        "صفحه متخلخل"
+      ]
+    },
+    {
+      "EnglishWord": "porousness",
+      "Meanings": [
+        "تخلخل",
+        "پوکی"
+      ]
+    },
+    {
+      "EnglishWord": "position classification",
+      "Meanings": [
+        "طبقه بندی مشاغل"
+      ]
+    },
+    {
+      "EnglishWord": "positive dobby",
+      "Meanings": [
+        "دابی مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive let off",
+      "Meanings": [
+        "تغذیه مثبت نخ تار"
+      ]
+    },
+    {
+      "EnglishWord": "positorque principle",
+      "Meanings": [
+        "اصل پوزیترک"
+      ]
+    },
+    {
+      "EnglishWord": "post cure",
+      "Meanings": [
+        "پس پخت",
+        "پخت تکمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "post curing",
+      "Meanings": [
+        "پس پخت",
+        "پخت تکمیلی",
+        "پروردن نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "post hardening",
+      "Meanings": [
+        "پس پخت",
+        "پخت بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "post lacquering system",
+      "Meanings": [
+        "انتقال طرح به شابلون به روش پس لاک"
+      ]
+    },
+    {
+      "EnglishWord": "posterior",
+      "Meanings": [
+        "بعداز",
+        "پس از",
+        "بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "postulate",
+      "Meanings": [
+        "اصل موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "pot eye",
+      "Meanings": [
+        "راهنمای چینی"
+      ]
+    },
+    {
+      "EnglishWord": "pot life",
+      "Meanings": [
+        "مدت سخت شدن"
+      ]
+    },
+    {
+      "EnglishWord": "potable",
+      "Meanings": [
+        "آشامیدنی",
+        "نوشیدنی"
+      ]
+    },
+    {
+      "EnglishWord": "potash alum",
+      "Meanings": [
+        "زاخ سفید",
+        "زاج معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "potassium bichromate",
+      "Meanings": [
+        "بیکرومات پتاسیم"
+      ]
+    },
+    {
+      "EnglishWord": "potassium titanate",
+      "Meanings": [
+        "لیف مصنوعی پتاسیم تانیت الیاف نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "potato starch",
+      "Meanings": [
+        "نشاسته سیب زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "potential",
+      "Meanings": [
+        "پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential difference",
+      "Meanings": [
+        "اختلاف پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential production",
+      "Meanings": [
+        "پتانسیل تولید",
+        "تولید بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potting",
+      "Meanings": [
+        "نوعی تکمیل براق کردن سطح پارچه با پیچیدن پارچه روی غلتک و قرار دادن در تانک محتوی آب کمی اسیدی بمدت حدود 10ساعت در80درجه سانتیگراد"
+      ]
+    },
+    {
+      "EnglishWord": "pour point",
+      "Meanings": [
+        "لحاف",
+        "لحاف دوختن",
+        "لباس لایی دار یا پنبه دار"
+      ]
+    },
+    {
+      "EnglishWord": "poviacid",
+      "Meanings": [
+        "لیف مصنوعی پیویاسید پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "powder",
+      "Meanings": [
+        "گرد",
+        "پودر"
+      ]
+    },
+    {
+      "EnglishWord": "powdering",
+      "Meanings": [
+        "پودر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "power",
+      "Meanings": [
+        "نیرو",
+        "قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "power loom",
+      "Meanings": [
+        "ماشین بافندگی برقی"
+      ]
+    },
+    {
+      "EnglishWord": "power of hydrogen",
+      "Meanings": [
+        "غلظت یون هیدروژن",
+        "PH"
+      ]
+    },
+    {
+      "EnglishWord": "power of incandesence",
+      "Meanings": [
+        "قدرت درخشش"
+      ]
+    },
+    {
+      "EnglishWord": "power supply",
+      "Meanings": [
+        "دستگاه تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "powlon",
+      "Meanings": [
+        "لیف مصنوعی پولون آکریلیک"
+      ]
+    },
+    {
+      "EnglishWord": "poy",
+      "Meanings": [
+        "نخ فیلامنتی کاملا کشیده نشده"
+      ]
+    },
+    {
+      "EnglishWord": "pp",
+      "Meanings": [
+        "پلی پروپیلن"
+      ]
+    },
+    {
+      "EnglishWord": "ppm",
+      "Meanings": [
+        "درجه سختی آب"
+      ]
+    },
+    {
+      "EnglishWord": "practical",
+      "Meanings": [
+        "عملی"
+      ]
+    },
+    {
+      "EnglishWord": "practical unit",
+      "Meanings": [
+        "واحد عملی"
+      ]
+    },
+    {
+      "EnglishWord": "praffin oil",
+      "Meanings": [
+        "روغن پارافین"
+      ]
+    },
+    {
+      "EnglishWord": "praffin wax remover",
+      "Meanings": [
+        "ماده پارافین زا"
+      ]
+    },
+    {
+      "EnglishWord": "prayer rug",
+      "Meanings": [
+        "فرش نماز",
+        "فرش سجاده"
+      ]
+    },
+    {
+      "EnglishWord": "pre ageing time",
+      "Meanings": [
+        "مدت رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pre bleaching",
+      "Meanings": [
+        "سفید گری مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "pre boarding opening",
+      "Meanings": [
+        "ماشین تثبیت جورابهای نایلونی قبل از رنگرزی"
+      ]
+    },
+    {
+      "EnglishWord": "pre carding opening",
+      "Meanings": [
+        "حلاجی قبل از کارد"
+      ]
+    },
+    {
+      "EnglishWord": "pre drawing zone",
+      "Meanings": [
+        "منطقه پیش کشش"
+      ]
+    },
+    {
+      "EnglishWord": "pre lacquering system",
+      "Meanings": [
+        "انتقال طرح به شابلون به روش پیش لاک"
+      ]
+    },
+    {
+      "EnglishWord": "pre pigment process",
+      "Meanings": [
+        "فرایند پیش پیگمنت",
+        "فرایند احیاء رنگینه روی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "pre pigmentation dyeing method",
+      "Meanings": [
+        "روش رنگرزی پیش پیگمنتی"
+      ]
+    },
+    {
+      "EnglishWord": "pre print resist",
+      "Meanings": [
+        "چاپ پیش مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "pre shrinking",
+      "Meanings": [
+        "جمع شدگی بعدی",
+        "درصد جمع شدگی بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "pre wash",
+      "Meanings": [
+        "شستشوی مقدماتی",
+        "شستشوی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "precious",
+      "Meanings": [
+        "پرارزش",
+        "گرانبها"
+      ]
+    },
+    {
+      "EnglishWord": "precipitaing",
+      "Meanings": [
+        "رسوب کردن",
+        "ته نشین شدن"
+      ]
+    },
+    {
+      "EnglishWord": "precipitate",
+      "Meanings": [
+        "رسوب شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "precipitating agent",
+      "Meanings": [
+        "رسوب دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "precipitation",
+      "Meanings": [
+        "رسوب دادن",
+        "ته نشین شدن",
+        "رسوب",
+        "ته نشینی"
+      ]
+    },
+    {
+      "EnglishWord": "precipitation inhibitor",
+      "Meanings": [
+        "باز دارنده تشکیل رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "precipitation polymerisation",
+      "Meanings": [
+        "پلیمریزاسیون رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "precipite",
+      "Meanings": [
+        "ته نشین کردن",
+        "ایجاد رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "precision balance",
+      "Meanings": [
+        "ترازوی حساس"
+      ]
+    },
+    {
+      "EnglishWord": "precision determination",
+      "Meanings": [
+        "اندازه گیری دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "precision winder",
+      "Meanings": [
+        "کلاف پیچ",
+        "بوبین پیچی دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "precision winding",
+      "Meanings": [
+        "بوبین پیچی دقیق",
+        "قرقره پیچی دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "precleansing",
+      "Meanings": [
+        "شستشوی قبل از رنگرزی"
+      ]
+    },
+    {
+      "EnglishWord": "precondensate",
+      "Meanings": [
+        "قابل واکنش",
+        "قابل فعل و انفعال"
+      ]
+    },
+    {
+      "EnglishWord": "precondensation",
+      "Meanings": [
+        "قابل واکنش",
+        "قابل فعل و انفعال"
+      ]
+    },
+    {
+      "EnglishWord": "precuring",
+      "Meanings": [
+        "پیش پخت پخت رزین قبل از برش و دوخت"
+      ]
+    },
+    {
+      "EnglishWord": "precursor",
+      "Meanings": [
+        "پیش ماده"
+      ]
+    },
+    {
+      "EnglishWord": "preface",
+      "Meanings": [
+        "پیش گفتار"
+      ]
+    },
+    {
+      "EnglishWord": "prelana",
+      "Meanings": [
+        "لیف مصنوعی پریلانا اکریلیک اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary",
+      "Meanings": [
+        "مقدماتی",
+        "ابتدایی",
+        "اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary cleaning",
+      "Meanings": [
+        "شستشوی اولیه",
+        "پیش شستشو",
+        "شستشویی که قبل شستشوی اصلی انجام شود"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary drawing",
+      "Meanings": [
+        "کشش اولیه فتیله",
+        "پیش کشش فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary remarks",
+      "Meanings": [
+        "ملاحظات اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary setting",
+      "Meanings": [
+        "تثبیت اولیه",
+        "رسوب دادن"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary substitution",
+      "Meanings": [
+        "استخلاف اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "premetallized",
+      "Meanings": [
+        "کمپلکس فلزی",
+        "قبلا فلزی شده",
+        "دسته ای از رنگهای اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "premetallized dye",
+      "Meanings": [
+        "رنگینه پری متالایز",
+        "رنگینه کمپلکس فلزی گروهی از رنگینه‌های اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "premier",
+      "Meanings": [
+        "لیف مصنوعی پری مییر ویسکوز"
+      ]
+    },
+    {
+      "EnglishWord": "premium quality",
+      "Meanings": [
+        "کیفیت عالی"
+      ]
+    },
+    {
+      "EnglishWord": "premixing",
+      "Meanings": [
+        "مخلوط کردن پشم حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "preparation",
+      "Meanings": [
+        "ساخت",
+        "تولید",
+        "مقدمات",
+        "تهیه کردن",
+        "آماده سازی",
+        "مقدمات بافندگی",
+        "طرز تهیه",
+        "آماده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "preparation of emulsion",
+      "Meanings": [
+        "آماده کردن امولسیون"
+      ]
+    },
+    {
+      "EnglishWord": "preparatory machinery",
+      "Meanings": [
+        "ماشین‌های مقدمات"
+      ]
+    },
+    {
+      "EnglishWord": "prepare",
+      "Meanings": [
+        "آماده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "preparing",
+      "Meanings": [
+        "چرب کردن الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "prepolymer",
+      "Meanings": [
+        "پیش پلیمر مراحل افزایش درجه پلیمریزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "preposition",
+      "Meanings": [
+        "وضعیت قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "preservation",
+      "Meanings": [
+        "محافظت"
+      ]
+    },
+    {
+      "EnglishWord": "preservative",
+      "Meanings": [
+        "ماده نگهدارنده از فساد",
+        "ماده ضد عفونی کننده",
+        "محافظت کننده",
+        "محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "preserve",
+      "Meanings": [
+        "محافظت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "president",
+      "Meanings": [
+        "مدیر کل"
+      ]
+    },
+    {
+      "EnglishWord": "press",
+      "Meanings": [
+        "اتو کردن",
+        "خط اتو",
+        "فشردن",
+        "آبگیری",
+        "فشار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "press cloth",
+      "Meanings": [
+        "پارچه اتو"
+      ]
+    },
+    {
+      "EnglishWord": "pressed felt",
+      "Meanings": [
+        "نمد فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "presser",
+      "Meanings": [
+        "پرس کننده",
+        "فشار دهنده",
+        "انگشتی مرکبی در ماشین نیمتاب"
+      ]
+    },
+    {
+      "EnglishWord": "presser finger",
+      "Meanings": [
+        "انگشتی مرکبی فلایر"
+      ]
+    },
+    {
+      "EnglishWord": "pressing",
+      "Meanings": [
+        "فشار",
+        "پرس",
+        "فشردن",
+        "پرس کردن",
+        "اتوزنی",
+        "جلا دادن سطح پارچه با اتو کردن آن توسط گذارندن پارچه از روی سیلندر‌های داغ"
+      ]
+    },
+    {
+      "EnglishWord": "pressing machine",
+      "Meanings": [
+        "ماشین اتو زنی"
+      ]
+    },
+    {
+      "EnglishWord": "pressley fiber sterngth tester",
+      "Meanings": [
+        "دستگاه اندازه گیری قدرت الیاف با صفحه شیب دار متغیر پریسلی"
+      ]
+    },
+    {
+      "EnglishWord": "pressley index",
+      "Meanings": [
+        "قدرت پریسلی الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "pressure",
+      "Meanings": [
+        "سیلندر اصلی ماشین چاپ غلتکی",
+        "سیلندر",
+        "فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure blowing",
+      "Meanings": [
+        "تکمیل دکو تایزینگ نموذن به کمک بخار تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure dyeing",
+      "Meanings": [
+        "رنگرزی تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure head roller",
+      "Meanings": [
+        "غلطک کالندر حلاجی",
+        "غلطک فشاری جلو حلاجی"
+      ]
+    },
+    {
+      "EnglishWord": "pressure loss",
+      "Meanings": [
+        "افت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure mark",
+      "Meanings": [
+        "اثر فشار وارده به پارچه که سبب کم و زیاد شدن تراکم پارچه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "pressure sensor",
+      "Meanings": [
+        "حس گر فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "pressure steam",
+      "Meanings": [
+        "بخار تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure suit",
+      "Meanings": [
+        "لباس مخصوص پرواز در ارتفاعات زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "pressurised beam dyeing machine",
+      "Meanings": [
+        "ماشین رنگرزی بیم تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressurised winch",
+      "Meanings": [
+        "وینچ تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pretreatment",
+      "Meanings": [
+        "عملیات مقدماتی",
+        "پیش عملیات",
+        "آماده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "preventive agent",
+      "Meanings": [
+        "ماده باز دارنده"
+      ]
+    },
+    {
+      "EnglishWord": "preventive agent against running crease",
+      "Meanings": [
+        "ماده باز دارنده چروکهای پی در پی"
+      ]
+    },
+    {
+      "EnglishWord": "previously",
+      "Meanings": [
+        "قبلا"
+      ]
+    },
+    {
+      "EnglishWord": "preylon",
+      "Meanings": [
+        "لیف مصنوعی پری لون پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "price",
+      "Meanings": [
+        "بها",
+        "قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "prill to",
+      "Meanings": [
+        "سیل",
+        "جاری ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "primary",
+      "Meanings": [
+        "ساده",
+        "ابتدایی",
+        "اولیه",
+        "ماده اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary color",
+      "Meanings": [
+        "رنگ اولیه",
+        "رنگ ساده",
+        "رنگ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "primary colours",
+      "Meanings": [
+        "رنگهای اولیه افزایشی سه نوررنگی اولیه قرمز و آبی و سبز که تلفیق آنها نور سفید را می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "primary commodity",
+      "Meanings": [
+        "ماده خام"
+      ]
+    },
+    {
+      "EnglishWord": "primary creep",
+      "Meanings": [
+        "خزش اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary heater",
+      "Meanings": [
+        "منطقه حرارتی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary motion",
+      "Meanings": [
+        "عمل اولیه",
+        "عمل اصلی ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "primary scouring",
+      "Meanings": [
+        "شستشوی مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "primary spinning",
+      "Meanings": [
+        "ریسندگی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary structure",
+      "Meanings": [
+        "ساختار اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary wall",
+      "Meanings": [
+        "دیواره اولیه در لیف پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "primel",
+      "Meanings": [
+        "لیف مصنوعی پریمل پلی استر"
+      ]
+    },
+    {
+      "EnglishWord": "primer",
+      "Meanings": [
+        "آستر"
+      ]
+    },
+    {
+      "EnglishWord": "primitive cell wall",
+      "Meanings": [
+        "دیواره سلولی ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "prin changing",
+      "Meanings": [
+        "تعویض ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "principal",
+      "Meanings": [
+        "اصلی",
+        "ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "principle",
+      "Meanings": [
+        "اصل"
+      ]
+    },
+    {
+      "EnglishWord": "prine colour",
+      "Meanings": [
+        "رنگ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "print",
+      "Meanings": [
+        "چاپ",
+        "مواد چاپی",
+        "قلم کار",
+        "پارچه قلم کار"
+      ]
+    },
+    {
+      "EnglishWord": "print cloth",
+      "Meanings": [
+        "پارچه چاپ شده",
+        "چیت"
+      ]
+    },
+    {
+      "EnglishWord": "print to",
+      "Meanings": [
+        "چاپ کردن",
+        "قلم کار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "print works",
+      "Meanings": [
+        "کارخانه چیت بافی"
+      ]
+    },
+    {
+      "EnglishWord": "printable",
+      "Meanings": [
+        "قابل چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printed calico",
+      "Meanings": [
+        "پارچه پنبه ای چاپ شده",
+        "پارچه چیت"
+      ]
+    },
+    {
+      "EnglishWord": "printed yarn",
+      "Meanings": [
+        "نخ چاپ شده"
+      ]
+    },
+    {
+      "EnglishWord": "printer",
+      "Meanings": [
+        "چاپ گر",
+        "ماشین چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing",
+      "Meanings": [
+        "چاپ",
+        "عمل چاپ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "printing blanket",
+      "Meanings": [
+        "بلانکت چاپ",
+        "نوار روکش لاستیکی چاپ غلطکی"
+      ]
+    },
+    {
+      "EnglishWord": "printing house",
+      "Meanings": [
+        "کارخانه چاپ",
+        "چاپخانه"
+      ]
+    },
+    {
+      "EnglishWord": "printing ink",
+      "Meanings": [
+        "مرکب چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing machine",
+      "Meanings": [
+        "ماشین چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing oil",
+      "Meanings": [
+        "روغن چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing operation",
+      "Meanings": [
+        "عملیات چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing paste",
+      "Meanings": [
+        "خمیر چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing press",
+      "Meanings": [
+        "غلتک ماشین چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing roller",
+      "Meanings": [
+        "غلتک ماشین چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "printing width",
+      "Meanings": [
+        "عرض چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "priority",
+      "Meanings": [
+        "اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "prism",
+      "Meanings": [
+        "منشور"
+      ]
+    },
+    {
+      "EnglishWord": "probable",
+      "Meanings": [
+        "شدنی",
+        "امکان پذیر",
+        "ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "روش کار",
+        "طرز عمل",
+        "روش",
+        "شیوه"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "فرایند",
+        "روش",
+        "مرحله",
+        "نسخه",
+        "طریقه",
+        "طی مراحل تکامل",
+        "عمل",
+        "طرز عمل",
+        "جریان ساخت",
+        "سلسله",
+        "فعل و انفعالات",
+        "تغییر و تحول",
+        "مرور",
+        "مخلوط"
+      ]
+    },
+    {
+      "EnglishWord": "process control",
+      "Meanings": [
+        "کنترل فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "processing variable",
+      "Meanings": [
+        "متغییر فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "procion",
+      "Meanings": [
+        "پروسیون از رنگهای راکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "procion dye",
+      "Meanings": [
+        "رنگ پروسیون",
+        "رنگینه پروسیون"
+      ]
+    },
+    {
+      "EnglishWord": "procupine",
+      "Meanings": [
+        "زننده افقی خاردار یا خار پشتی حلاجی",
+        "سیلندر سوزن دار ماشین شانه فرانسوی"
+      ]
+    },
+    {
+      "EnglishWord": "procupine roller",
+      "Meanings": [
+        "غلطک سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "produce",
+      "Meanings": [
+        "تواید کردن",
+        "فراهم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "producer",
+      "Meanings": [
+        "تولید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "producers industries",
+      "Meanings": [
+        "صنایع تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "product",
+      "Meanings": [
+        "محصول",
+        "فرآورده",
+        "مصنوع",
+        "حاصلضرب"
+      ]
+    },
+    {
+      "EnglishWord": "product development",
+      "Meanings": [
+        "توسعه محصول"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "تولید",
+        "محصول",
+        "بهره برداری",
+        "مصنوعات"
+      ]
+    },
+    {
+      "EnglishWord": "production constant",
+      "Meanings": [
+        "ثابت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production engineer",
+      "Meanings": [
+        "مهندس تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production plant",
+      "Meanings": [
+        "کارخانه تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "production shop",
+      "Meanings": [
+        "کارگاه تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "productivity",
+      "Meanings": [
+        "کارایی",
+        "بهره وری",
+        "قابلیت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "profild filament",
+      "Meanings": [
+        "فیلامنت پروفیلی فیلامنت با سطح قاعده غیر دایروی"
+      ]
+    },
+    {
+      "EnglishWord": "profile and hollow fibre",
+      "Meanings": [
+        "لیف میان تهی پروفیلی"
+      ]
+    },
+    {
+      "EnglishWord": "profile extruded filament",
+      "Meanings": [
+        "فیلامنت پروفیلی ریسیده شده"
+      ]
+    },
+    {
+      "EnglishWord": "profile fibre",
+      "Meanings": [
+        "لیف پروفیلی",
+        "لیف با سطح مقطع غیر دایروی"
+      ]
+    },
+    {
+      "EnglishWord": "profoma",
+      "Meanings": [
+        "مقدماتی",
+        "فاکتور مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "programming",
+      "Meanings": [
+        "برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "programming system",
+      "Meanings": [
+        "سیستم برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "project",
+      "Meanings": [
+        "طرح",
+        "پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "projectile",
+      "Meanings": [
+        "پروژکتایل",
+        "پرتابی",
+        "پرتاب شونده"
+      ]
+    },
+    {
+      "EnglishWord": "projectile loom",
+      "Meanings": [
+        "ماشین بافندگی پروژکتایل پرتابی"
+      ]
+    },
+    {
+      "EnglishWord": "prolene",
+      "Meanings": [
+        "لیف مصنوعی پرولین پلی پروپیلن رشته ای و پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "prolon",
+      "Meanings": [
+        "لیف مصنوعی پرولون پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "promilan",
+      "Meanings": [
+        "لیف مصنوعی پرومیلان پلی آمید"
+      ]
+    },
+    {
+      "EnglishWord": "promoter",
+      "Meanings": [
+        "افزایش دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "promotor",
+      "Meanings": [
+        "شروع کننده",
+        "آغازگر"
+      ]
+    },
+    {
+      "EnglishWord": "prong",
+      "Meanings": [
+        "سیم چنگال کنترل پود"
+      ]
+    },
+    {
+      "EnglishWord": "proof",
+      "Meanings": [
+        "نمونه گیری در چاپ",
+        "غیر قابل نفوذ",
+        "دلیل",
+        "نشانه",
+        "آزمایش",
+        "درجه",
+        "مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "propagation",
+      "Meanings": [
+        "انتشار",
+        "پخش شدن",
+        "گسترش"
+      ]
+    },
+    {
+      "EnglishWord": "propagation phase",
+      "Meanings": [
+        "فاز انتشار",
+        "مرحله انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "propagation step",
+      "Meanings": [
+        "مرحله انتقالی پلیمریزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "propeltion of faller",
+      "Meanings": [
+        "به جلو رفتن شانه"
+      ]
+    },
+    {
+      "EnglishWord": "proper",
+      "Meanings": [
+        "مناسب",
+        "کامل",
+        "مطبوع"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "خاصیت",
+        "کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "proportion",
+      "Meanings": [
+        "تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "proportional",
+      "Meanings": [
+        "متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "pross head",
+      "Meanings": [
+        "تاج سیمی سر دوک رینگ پشم"
+      ]
+    },
+    {
+      "EnglishWord": "protease",
+      "Meanings": [
+        "پروتاز آنزیم تجزیه کننده پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "protecting agent",
+      "Meanings": [
+        "ماده و عامل محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "protection",
+      "Meanings": [
+        "بی خطری",
+        "ایمنی",
+        "حفاظت"
+      ]
+    },
+    {
+      "EnglishWord": "protective colloide",
+      "Meanings": [
+        "محافظ کلویید",
+        "نگهدارنده حالت کلوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "protective gloves",
+      "Meanings": [
+        "دستکش‌های محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "protector feeler",
+      "Meanings": [
+        "محافظ تعویض کننده ماسوره پود"
+      ]
+    },
+    {
+      "EnglishWord": "protector rod",
+      "Meanings": [
+        "زبانه تعویض ماسوره",
+        "قطعه فاق دار تعویض ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "protein",
+      "Meanings": [
+        "پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "protein fiber",
+      "Meanings": [
+        "لیف پروتیینی"
+      ]
+    },
+    {
+      "EnglishWord": "protein purification",
+      "Meanings": [
+        "خالص سازی پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "proteinase",
+      "Meanings": [
+        "پروتییناز آنزیم تجزیه کننده پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "proteolytic",
+      "Meanings": [
+        "پروتیینی"
+      ]
+    },
+    {
+      "EnglishWord": "protex",
+      "Meanings": [
+        "لیف مصنوعی پروتکس پروتیین"
+      ]
+    },
+    {
+      "EnglishWord": "protofibril",
+      "Meanings": [
+        "پروتوفیبریل رشته هایی درون میکروفیبریل‌ها که هر یک شامل 3 عدد زنجیر پلیمری به هم پیچ خورده پشم هستند"
+      ]
+    },
+    {
+      "EnglishWord": "proxide compound",
+      "Meanings": [
+        "ترکیب پراکسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "prunelle twill",
+      "Meanings": [
+        "سرژه سه تاری",
+        "سرژه دو یکم"
+      ]
+    },
+    {
+      "EnglishWord": "prussian blue",
+      "Meanings": [
+        "رنگ آبی پروس"
+      ]
+    },
+    {
+      "EnglishWord": "prychrometer",
+      "Meanings": [
+        "رطوبت سنج",
+        "نم سنج"
+      ]
+    },
+    {
+      "EnglishWord": "prychrometry",
+      "Meanings": [
+        "رطوبت سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo crystalline",
+      "Meanings": [
+        "شبه کریستالی",
+        "کریستال مانند"
+      ]
+    },
+    {
+      "EnglishWord": "pseudoplastic",
+      "Meanings": [
+        "شبه پلاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "psychrometer",
+      "Meanings": [
+        "رطوبت سنج",
+        "نم سنج"
+      ]
+    },
+    {
+      "EnglishWord": "ptfe",
+      "Meanings": [
+        "پلی تترا فلورواتیلن تفلون"
+      ]
+    },
+    {
+      "EnglishWord": "ptosis",
+      "Meanings": [
+        "ریخت",
+        "افتادن",
+        "افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "publicity material",
+      "Meanings": [
+        "کلیه مواد چاپی"
+      ]
+    },
+    {
+      "EnglishWord": "puce",
+      "Meanings": [
+        "آلبالویی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "pucker",
+      "Meanings": [
+        "چروک",
+        "چین",
+        "جمع شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pucker to",
+      "Meanings": [
+        "چروک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "puff",
+      "Meanings": [
+        "بخار"
+      ]
+    },
+    {
+      "EnglishWord": "pug",
+      "Meanings": [
+        "فرش",
+        "گلیم",
+        "زیلو"
+      ]
+    },
+    {
+      "EnglishWord": "puke",
+      "Meanings": [
+        "لاجوردی",
+        "سرمه ای",
+        "آبی تیره",
+        "آبی سیر"
+      ]
+    },
+    {
+      "EnglishWord": "pull",
+      "Meanings": [
+        "کشش",
+        "نمونه گیری در چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "pull to",
+      "Meanings": [
+        "کشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "pulled wool",
+      "Meanings": [
+        "پشم دباغی",
+        "پشمی که از پوست جدا شده گوسفند به دست می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "pulley",
+      "Meanings": [
+        "پولی",
+        "فلکه",
+        "قرقره"
+      ]
+    },
+    {
+      "EnglishWord": "pulling",
+      "Meanings": [
+        "از ریشه درآوردن گیاه کتان از زمین",
+        "فشار تنگی لباس",
+        "کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pulp",
+      "Meanings": [
+        "خمیر سلولز جهت تهیه ویسکوز ریون و کاغذ",
+        "خمیر کاغد",
+        "خمیر"
+      ]
+    },
+    {
+      "EnglishWord": "pulping",
+      "Meanings": [
+        "خمیر سازی جهت استخراج سولز",
+        "تحصیل سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "pulver",
+      "Meanings": [
+        "درصد یک ماده رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "pulverize",
+      "Meanings": [
+        "ساییدن",
+        "پودر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pump",
+      "Meanings": [
+        "تلمبه",
+        "پمپ"
+      ]
+    },
+    {
+      "EnglishWord": "pumpkin",
+      "Meanings": [
+        "نارنجی",
+        "رنگ زرد مایل به سرخ",
+        "زرد کدویی"
+      ]
+    },
+    {
+      "EnglishWord": "punch",
+      "Meanings": [
+        "سوراخ کردن",
+        "پانچ"
+      ]
+    },
+    {
+      "EnglishWord": "punching pattern",
+      "Meanings": [
+        "طرح پانچ شده",
+        "نقشه ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "punctate",
+      "Meanings": [
+        "نقطه نقطه",
+        "خال خال"
+      ]
+    },
+    {
+      "EnglishWord": "punto di roma",
+      "Meanings": [
+        "پارچه غیر ژاکاردی دو رو سیلندر با بافت اینترلاک"
+      ]
+    },
+    {
+      "EnglishWord": "pural",
+      "Meanings": [
+        "بافت ریپس افقی در کشباف",
+        "کشباف پودی غیر مدور",
+        "پارچه کشباف زیرپوشی ساده با بافت غیر مدور"
+      ]
+    },
+    {
+      "EnglishWord": "pural knit",
+      "Meanings": [
+        "کشباف با راههای افقی برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "pural side",
+      "Meanings": [
+        "پشت پارچه کشباف پودی"
+      ]
+    },
+    {
+      "EnglishWord": "pural stitch",
+      "Meanings": [
+        "حلقه پیوستگی راه‌های افقی پشت پارچه کشباف پودی"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing power",
+      "Meanings": [
+        "قدرت خرید"
+      ]
+    },
+    {
+      "EnglishWord": "pure",
+      "Meanings": [
+        "خالص",
+        "ناب",
+        "بدون ناخالصی"
+      ]
+    },
+    {
+      "EnglishWord": "pure chemistry",
+      "Meanings": [
+        "شیمی محض"
+      ]
+    },
+    {
+      "EnglishWord": "pure dyed silk",
+      "Meanings": [
+        "پارچه ابریشمی رنگ شده و باردار کمتر از 10%"
+      ]
+    },
+    {
+      "EnglishWord": "pure finish",
+      "Meanings": [
+        "پارچه تکمیل شده بدون آهار"
+      ]
+    },
+    {
+      "EnglishWord": "pure grey",
+      "Meanings": [
+        "خاکستری خالص"
+      ]
+    },
+    {
+      "EnglishWord": "pure pulp",
+      "Meanings": [
+        "سلولز خالص"
+      ]
+    },
+    {
+      "EnglishWord": "pure water",
+      "Meanings": [
+        "آب خالص"
+      ]
+    },
+    {
+      "EnglishWord": "purification",
+      "Meanings": [
+        "پالایش",
+        "تصفیه",
+        "خالص کردن",
+        "خالص سازی"
+      ]
+    },
+    {
+      "EnglishWord": "purified",
+      "Meanings": [
+        "خالص شده",
+        "تصفیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "purified cotton",
+      "Meanings": [
+        "پنبه هیدروفیل"
+      ]
+    },
+    {
+      "EnglishWord": "purified water",
+      "Meanings": [
+        "آب تصفیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "purify",
+      "Meanings": [
+        "تصفیه کردن",
+        "خالص سازی"
+      ]
+    },
+    {
+      "EnglishWord": "purity",
+      "Meanings": [
+        "خلوص",
+        "خلوص نور",
+        "نور خالص",
+        "خالصی",
+        "صافی"
+      ]
+    },
+    {
+      "EnglishWord": "purl edge",
+      "Meanings": [
+        "لبه برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "purple",
+      "Meanings": [
+        "ارغوانی رنگ",
+        "زرشکی",
+        "لاکی",
+        "لباس ارغوانی"
+      ]
+    },
+    {
+      "EnglishWord": "purple red",
+      "Meanings": [
+        "سرخ ارغوانی"
+      ]
+    },
+    {
+      "EnglishWord": "purple snail",
+      "Meanings": [
+        "رنگ ارغوانی"
+      ]
+    },
+    {
+      "EnglishWord": "purplish",
+      "Meanings": [
+        "رنگ مایل به ارغوانی"
+      ]
+    },
+    {
+      "EnglishWord": "purpose",
+      "Meanings": [
+        "معنی",
+        "هدف",
+        "مقصود",
+        "منظور"
+      ]
+    },
+    {
+      "EnglishWord": "purulent",
+      "Meanings": [
+        "کثیف",
+        "چرکی"
+      ]
+    },
+    {
+      "EnglishWord": "pus",
+      "Meanings": [
+        "چرک"
+      ]
+    },
+    {
+      "EnglishWord": "pusan",
+      "Meanings": [
+        "لیف مصنوعی پوسان پلی استر"
+      ]
+    },
+    {
+      "EnglishWord": "pushed together collections",
+      "Meanings": [
+        "مهره شدن الیاف روی نخ"
+      ]
+    },
+    {
+      "EnglishWord": "pva",
+      "Meanings": [
+        "پلی وینیل الکل"
+      ]
+    },
+    {
+      "EnglishWord": "pvc",
+      "Meanings": [
+        "پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "pyjama",
+      "Meanings": [
+        "پیژامه",
+        "لباس خواب مردانه"
+      ]
+    },
+    {
+      "EnglishWord": "pylen",
+      "Meanings": [
+        "لیف مصنوعی پایلن پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "pyrazolone dye",
+      "Meanings": [
+        "رنگینه پیرازولون"
+      ]
+    },
+    {
+      "EnglishWord": "pyrolysis",
+      "Meanings": [
+        "تجزیه حرارتی",
+        "پیرولیز شکستن مولکول‌های بزرگ توسط گرما"
+      ]
+    }
+  ]
+}

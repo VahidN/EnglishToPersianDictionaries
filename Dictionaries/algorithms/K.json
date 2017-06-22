@@ -1,0 +1,115 @@
+﻿{
+  "Group": "K",
+  "Entries": 18,
+  "Words": [
+    {
+      "EnglishWord": "k",
+      "Meanings": [
+        "یازدهمین حرف از الفبای انگلیسی",
+        "علامت اختصاری کیلو = 2 به توان"
+      ]
+    },
+    {
+      "EnglishWord": "karnaugh map",
+      "Meanings": [
+        "نقشه کارنو"
+      ]
+    },
+    {
+      "EnglishWord": "karp reduction",
+      "Meanings": [
+        "کاهش کارپ"
+      ]
+    },
+    {
+      "EnglishWord": "k-coloring",
+      "Meanings": [
+        "k رنگ آمیزی"
+      ]
+    },
+    {
+      "EnglishWord": "k-dimensional",
+      "Meanings": [
+        "k بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "key",
+      "Meanings": [
+        "کلید"
+      ]
+    },
+    {
+      "EnglishWord": "koenigsberg bridges",
+      "Meanings": [
+        "پلهای کونیگسبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "koenigsberg bridges problem",
+      "Meanings": [
+        "مسیله پلهای کونیگسبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov complexity",
+      "Meanings": [
+        "پیچیدگی کاموگروف"
+      ]
+    },
+    {
+      "EnglishWord": "kraft's inequality",
+      "Meanings": [
+        "نامساوی کرافت"
+      ]
+    },
+    {
+      "EnglishWord": "kripke structure",
+      "Meanings": [
+        "ساختار کریپک"
+      ]
+    },
+    {
+      "EnglishWord": "kruskal",
+      "Meanings": [
+        "کروسکال"
+      ]
+    },
+    {
+      "EnglishWord": "kruskal's algorithm",
+      "Meanings": [
+        "الگوریتم کروسکال"
+      ]
+    },
+    {
+      "EnglishWord": "kth order fibonacci numbers",
+      "Meanings": [
+        "اعداد فیبوناچی مرتبه K ام"
+      ]
+    },
+    {
+      "EnglishWord": "kth shortest path",
+      "Meanings": [
+        "k امین کوتاهترین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "kv diagram",
+      "Meanings": [
+        "نمودار KV"
+      ]
+    },
+    {
+      "EnglishWord": "k-way merge",
+      "Meanings": [
+        "ادغام k راهی"
+      ]
+    },
+    {
+      "EnglishWord": "k-way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی k راهی"
+      ]
+    }
+  ]
+}

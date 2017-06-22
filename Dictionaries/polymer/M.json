@@ -1,0 +1,1483 @@
+﻿{
+  "Group": "M",
+  "Entries": 232,
+  "Words": [
+    {
+      "EnglishWord": "macro composite",
+      "Meanings": [
+        "درشت چند سازه",
+        "چند سازه درشت"
+      ]
+    },
+    {
+      "EnglishWord": "macroconformation",
+      "Meanings": [
+        "پیکربندی درشت",
+        "درشت پیکر بندی"
+      ]
+    },
+    {
+      "EnglishWord": "macrocycle",
+      "Meanings": [
+        "درشت حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "macroemulsion",
+      "Meanings": [
+        "درشت امولسیون"
+      ]
+    },
+    {
+      "EnglishWord": "macromolecule",
+      "Meanings": [
+        "درشت مولکول"
+      ]
+    },
+    {
+      "EnglishWord": "macrostructure",
+      "Meanings": [
+        "درشت ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic anisotropy",
+      "Meanings": [
+        "ناهمسانگردی مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic dipoles",
+      "Meanings": [
+        "دوقطبیهای مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic domains",
+      "Meanings": [
+        "نواحی مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic field strength",
+      "Meanings": [
+        "شدت میدان مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic flux density",
+      "Meanings": [
+        "چگالی شار مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic induction",
+      "Meanings": [
+        "القای مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic recording",
+      "Meanings": [
+        "ثبت کردن مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic susceptibility",
+      "Meanings": [
+        "مغناطیس پذیری",
+        "اثر پذیری مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetization",
+      "Meanings": [
+        "مغناطیس شدن"
+      ]
+    },
+    {
+      "EnglishWord": "magnetocrystalline anisotropy",
+      "Meanings": [
+        "ناهمسانگردی بلوری مغناطیس"
+      ]
+    },
+    {
+      "EnglishWord": "magnification",
+      "Meanings": [
+        "بزرگنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "main chain",
+      "Meanings": [
+        "زنجیر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main effect",
+      "Meanings": [
+        "اثر عمده"
+      ]
+    },
+    {
+      "EnglishWord": "main spar",
+      "Meanings": [
+        "تیر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "major poission's ratio",
+      "Meanings": [
+        "نسبت پواسون اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "malformation",
+      "Meanings": [
+        "بدشکلی",
+        "بد ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "malleable",
+      "Meanings": [
+        "چکش خوار"
+      ]
+    },
+    {
+      "EnglishWord": "man made",
+      "Meanings": [
+        "ساخت بشر",
+        "بشر ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "mandrel",
+      "Meanings": [
+        "مرغک",
+        "ماهیچه",
+        "مندرل",
+        "مغزی"
+      ]
+    },
+    {
+      "EnglishWord": "manifold",
+      "Meanings": [
+        "چند برابر"
+      ]
+    },
+    {
+      "EnglishWord": "manifold pipe",
+      "Meanings": [
+        "لوله چند راهگاه",
+        "لوله چند راهه"
+      ]
+    },
+    {
+      "EnglishWord": "manipulation",
+      "Meanings": [
+        "دست کاری"
+      ]
+    },
+    {
+      "EnglishWord": "manual",
+      "Meanings": [
+        "دستی"
+      ]
+    },
+    {
+      "EnglishWord": "manual processing method",
+      "Meanings": [
+        "روش فراورش دستی"
+      ]
+    },
+    {
+      "EnglishWord": "manually trimmed",
+      "Meanings": [
+        "گیتهای اصلاحی دستی"
+      ]
+    },
+    {
+      "EnglishWord": "manufacturing method",
+      "Meanings": [
+        "روش ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "mar resistance",
+      "Meanings": [
+        "مقاومت در برابر خدشه",
+        "مقاومت مار"
+      ]
+    },
+    {
+      "EnglishWord": "marble",
+      "Meanings": [
+        "سنگ مرمر"
+      ]
+    },
+    {
+      "EnglishWord": "mask odor",
+      "Meanings": [
+        "بوی پوشاننده"
+      ]
+    },
+    {
+      "EnglishWord": "masked",
+      "Meanings": [
+        "محافظت شده"
+      ]
+    },
+    {
+      "EnglishWord": "mass",
+      "Meanings": [
+        "جرم"
+      ]
+    },
+    {
+      "EnglishWord": "mass colouring techniques",
+      "Meanings": [
+        "رنگ بخشی توده‏ای",
+        "رنگش توده‏ای",
+        "رنگ کردن توده‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "mass detector",
+      "Meanings": [
+        "آشکارساز جرمی"
+      ]
+    },
+    {
+      "EnglishWord": "mass production",
+      "Meanings": [
+        "تولید انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "master",
+      "Meanings": [
+        "مدل اصلی",
+        "قالب دایمی که برای ساختن قالبهای دیگر در ساخت قطعات چندلایی استفاده می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "master batch",
+      "Meanings": [
+        "پیمانه اصلی",
+        "بچ اصلی حجم یا وزن مشخصی از آمیزه اصلی",
+        "مستربچ"
+      ]
+    },
+    {
+      "EnglishWord": "master curve",
+      "Meanings": [
+        "منحنی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "master film",
+      "Meanings": [
+        "لایه اصلی",
+        "فیلم اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "masticating agent",
+      "Meanings": [
+        "عامل عقیم ساز زنجیر شکسته",
+        "عامل ورزش"
+      ]
+    },
+    {
+      "EnglishWord": "mastication",
+      "Meanings": [
+        "خرد کردن",
+        "نرمش",
+        "برش",
+        "شکست مکانیکی زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "mat",
+      "Meanings": [
+        "نمد"
+      ]
+    },
+    {
+      "EnglishWord": "matched metal die",
+      "Meanings": [
+        "حدیده فلزی جور"
+      ]
+    },
+    {
+      "EnglishWord": "matched metal molding",
+      "Meanings": [
+        "قالبگیری فلزی جفتی",
+        "روش قالبگیری پلاستیکهای تقویت شده که بین دو قالب فلزی بسته جفت شونده روی پرس هیدرولیک نصب شده اند عموما اقتصادی‌ترین روشی است که در تولید انبوه قطعات در حجم بالا استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical model",
+      "Meanings": [
+        "مدل ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix",
+      "Meanings": [
+        "ماتریس فاز پیوسته رزینی در کامپوزیت",
+        "به جزیی از یک آمیزه پلیمری گفته می‌شود که از لحاظ ترکیب درصد معمولا بالاترین مقدار را دارد و بطور کلی پلیمر پایه یا ترکیبی از چند پلیمر را شامل می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "matrix toughness",
+      "Meanings": [
+        "چقرمگی ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "matte",
+      "Meanings": [
+        "مات"
+      ]
+    },
+    {
+      "EnglishWord": "maturing time",
+      "Meanings": [
+        "زمان بلوغ",
+        "زمانی که قطعه چندلایی به حداکثر ذرجه پخت خود در دمای محیط رسیده و به تبع آن دارای حداکثر مقاومت مکانیکی/حرارتی/شیمیایی قابل استحصال در دمای محیط گردیده است"
+      ]
+    },
+    {
+      "EnglishWord": "maturity",
+      "Meanings": [
+        "بلوغ"
+      ]
+    },
+    {
+      "EnglishWord": "maximum",
+      "Meanings": [
+        "بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximum energy product",
+      "Meanings": [
+        "تولید انرژی بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximum stress criterion",
+      "Meanings": [
+        "معیار تنش بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "mean effective pressure",
+      "Meanings": [
+        "فشار متوسط موثر"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical bonding",
+      "Meanings": [
+        "پیوند مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical displacement flow",
+      "Meanings": [
+        "جریان جابجایی مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical failure",
+      "Meanings": [
+        "شکست مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical pulp",
+      "Meanings": [
+        "خمیر مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical shear degradation",
+      "Meanings": [
+        "تخریب برشی مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical strength",
+      "Meanings": [
+        "استحکام مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "mechanism",
+      "Meanings": [
+        "مکانیسم",
+        "چگونگی",
+        "سازوکار",
+        "اسلوب"
+      ]
+    },
+    {
+      "EnglishWord": "media",
+      "Meanings": [
+        "محیط"
+      ]
+    },
+    {
+      "EnglishWord": "median",
+      "Meanings": [
+        "میانه"
+      ]
+    },
+    {
+      "EnglishWord": "medium",
+      "Meanings": [
+        "میانی",
+        "رسانه",
+        "محیط",
+        "متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "medium conversion region",
+      "Meanings": [
+        "ناحیه تبدیل متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "medium density polyethylene",
+      "Meanings": [
+        "پلی اتیلن میان چگال"
+      ]
+    },
+    {
+      "EnglishWord": "medium impact polystyrene",
+      "Meanings": [
+        "پلی استایرن میان ضربه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "medium oil",
+      "Meanings": [
+        "میان روغن"
+      ]
+    },
+    {
+      "EnglishWord": "mek peroxide",
+      "Meanings": [
+        "متیل اتیل کتون پراکساید",
+        "عامل اکسید کننده قوی منبع رادیکال آزاد",
+        "که عموما به عنوان فعال کننده برای پلی استرها در صنعت FRP استفاده می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "mek solvent",
+      "Meanings": [
+        "حلال ام ای کی",
+        "متیل اتیل کتون",
+        "مایع آتشگیر که عموما در شستشو بخصوص شستشوی تفنگ دستگاه پاشش استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "melt",
+      "Meanings": [
+        "گداز",
+        "اب شدن‌",
+        "گداختن‌",
+        "مخلوط کردن",
+        "ذوب کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "melt coating",
+      "Meanings": [
+        "پوشش دهی با مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt elasticity",
+      "Meanings": [
+        "کشسانی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt flow",
+      "Meanings": [
+        "جریان مذاب",
+        "سیلان مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt flow index",
+      "Meanings": [
+        "شاخص جریان مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt flow ratio",
+      "Meanings": [
+        "نسبت جریان مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt fracture",
+      "Meanings": [
+        "شکست مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt index",
+      "Meanings": [
+        "شاخص مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt intercalation",
+      "Meanings": [
+        "نفوذ بین لایه ای مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt mixing",
+      "Meanings": [
+        "اختلاط مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt pressure",
+      "Meanings": [
+        "فشار پشت دای"
+      ]
+    },
+    {
+      "EnglishWord": "melt spinning",
+      "Meanings": [
+        "مذاب ریسی",
+        "ریسندگی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt spun",
+      "Meanings": [
+        "ریسندگی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt stable",
+      "Meanings": [
+        "مذاب پایدار",
+        "پایداری مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melt viscosity",
+      "Meanings": [
+        "گرانروی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "melting zone",
+      "Meanings": [
+        "ناحیه مذاب",
+        "ناحیه ذوب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "membrane",
+      "Meanings": [
+        "غشا"
+      ]
+    },
+    {
+      "EnglishWord": "membrane electrode",
+      "Meanings": [
+        "الکترود غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "memory",
+      "Meanings": [
+        "حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "memory effects",
+      "Meanings": [
+        "آثار حافظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "mercerized cotton",
+      "Meanings": [
+        "پنبه مرسریزه شده"
+      ]
+    },
+    {
+      "EnglishWord": "mercury diffusion pump",
+      "Meanings": [
+        "پمپ نفوذ جیوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "mesh",
+      "Meanings": [
+        "مش",
+        "دانه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "mesogenic",
+      "Meanings": [
+        "مزوژنتیک"
+      ]
+    },
+    {
+      "EnglishWord": "mesogenic group",
+      "Meanings": [
+        "گرانروی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "mesomorph",
+      "Meanings": [
+        "شکل میانی",
+        "میاندیس"
+      ]
+    },
+    {
+      "EnglishWord": "mesophase",
+      "Meanings": [
+        "فاز میانی"
+      ]
+    },
+    {
+      "EnglishWord": "meta stable",
+      "Meanings": [
+        "نیمه پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "metabolic",
+      "Meanings": [
+        "متابولیک"
+      ]
+    },
+    {
+      "EnglishWord": "metabolism",
+      "Meanings": [
+        "سوخت و ساز"
+      ]
+    },
+    {
+      "EnglishWord": "metal composits",
+      "Meanings": [
+        "کامپوزیت فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "metal flake",
+      "Meanings": [
+        "پرک‌های فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "metal matrix composite",
+      "Meanings": [
+        "کامپوزیت با ماتریس فلزی",
+        "کامپوزیتهای بستر فلز"
+      ]
+    },
+    {
+      "EnglishWord": "metallate",
+      "Meanings": [
+        "محصول فلزدار"
+      ]
+    },
+    {
+      "EnglishWord": "metallation",
+      "Meanings": [
+        "فلزدار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "metallic soap",
+      "Meanings": [
+        "صابون فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "metallization",
+      "Meanings": [
+        "فلزی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "metallocarbene",
+      "Meanings": [
+        "کاربن فلزدار"
+      ]
+    },
+    {
+      "EnglishWord": "metallocycle compound",
+      "Meanings": [
+        "ترکیب حلقه ای فلزدار"
+      ]
+    },
+    {
+      "EnglishWord": "metamerism",
+      "Meanings": [
+        "متامریسم",
+        "تغییر در رنگ اشیاء که در یک نور داده شده یک رنگ دارند و در نور دیگر دارای رنگ متفاوت دیگری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "metastable",
+      "Meanings": [
+        "شبه پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "metathesis reaction",
+      "Meanings": [
+        "واکنش جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "metering",
+      "Meanings": [
+        "ناحیه سنجش در اکسترودر"
+      ]
+    },
+    {
+      "EnglishWord": "metering region",
+      "Meanings": [
+        "ناحیه تنظیم",
+        "ناحیه سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "metering system",
+      "Meanings": [
+        "سیستم سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "metering zone",
+      "Meanings": [
+        "ناحیه اندازه گیری",
+        "ناحیه سنجش",
+        "ناحیه پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "micelle",
+      "Meanings": [
+        "مایسل",
+        "تجمعات مولکولی کروی و یا میله ای شکل مواد فعال سطحی متشکل از 50 تا 100 مولکول هستند که دم آبگریز آنها به سوی داخل و سر آبدوست آنها به طرف بیرون جهت گیری کرده اند"
+      ]
+    },
+    {
+      "EnglishWord": "micelles",
+      "Meanings": [
+        "مایسلها",
+        "ذرات کلوییدی باردار آلی"
+      ]
+    },
+    {
+      "EnglishWord": "micro crack",
+      "Meanings": [
+        "ریز ترک"
+      ]
+    },
+    {
+      "EnglishWord": "micro scale",
+      "Meanings": [
+        "ریز مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "microanalysis",
+      "Meanings": [
+        "ریز تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "microemulsion",
+      "Meanings": [
+        "ریز امولسیون"
+      ]
+    },
+    {
+      "EnglishWord": "microfibril",
+      "Meanings": [
+        "ریز لیف",
+        "تار بسیار نازک"
+      ]
+    },
+    {
+      "EnglishWord": "microgel",
+      "Meanings": [
+        "ریز ژل"
+      ]
+    },
+    {
+      "EnglishWord": "micrograph",
+      "Meanings": [
+        "ریزنگار",
+        "ریزنگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "microinclusion",
+      "Meanings": [
+        "ناخالصی ریز"
+      ]
+    },
+    {
+      "EnglishWord": "micronized",
+      "Meanings": [
+        "بسیار ریز",
+        "میکرونیزه"
+      ]
+    },
+    {
+      "EnglishWord": "microphase separation",
+      "Meanings": [
+        "جدایی ریز فازی"
+      ]
+    },
+    {
+      "EnglishWord": "microphotograph",
+      "Meanings": [
+        "ریز عکس",
+        "عکس میکروسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "microprocessor",
+      "Meanings": [
+        "ریز پردازنده"
+      ]
+    },
+    {
+      "EnglishWord": "microsample",
+      "Meanings": [
+        "ریزنمونه"
+      ]
+    },
+    {
+      "EnglishWord": "microscopic",
+      "Meanings": [
+        "ریزبینی"
+      ]
+    },
+    {
+      "EnglishWord": "microsensor",
+      "Meanings": [
+        "ریز حسگر"
+      ]
+    },
+    {
+      "EnglishWord": "microsphere",
+      "Meanings": [
+        "ریزگوی",
+        "کره ریز",
+        "ریزکره"
+      ]
+    },
+    {
+      "EnglishWord": "microstructure",
+      "Meanings": [
+        "ریز ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "microtome",
+      "Meanings": [
+        "وسیله تهیه مقاطع بسیار نازک",
+        "نازک بر"
+      ]
+    },
+    {
+      "EnglishWord": "microvoid",
+      "Meanings": [
+        "ریز حفره"
+      ]
+    },
+    {
+      "EnglishWord": "middle infrared",
+      "Meanings": [
+        "ریز قرمز متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "mil",
+      "Meanings": [
+        "میل",
+        "واحد اندازه گیری ضخامت فیلم و قطر رشته‌های الیاف شیشه و غیره",
+        "یک هزارم اینچ",
+        "میکرون"
+      ]
+    },
+    {
+      "EnglishWord": "mild steel",
+      "Meanings": [
+        "فولاد معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "mill",
+      "Meanings": [
+        "آسیا"
+      ]
+    },
+    {
+      "EnglishWord": "millable",
+      "Meanings": [
+        "آسیاشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "milled fiber",
+      "Meanings": [
+        "الیاف آسیاب شده",
+        "الیافی که معمولا برای ساختن بتونه با الیاف شیشه استفاده می‌شود گویند"
+      ]
+    },
+    {
+      "EnglishWord": "milled fibers",
+      "Meanings": [
+        "الیاف آسیا شده"
+      ]
+    },
+    {
+      "EnglishWord": "milling",
+      "Meanings": [
+        "آسیابی"
+      ]
+    },
+    {
+      "EnglishWord": "mineral",
+      "Meanings": [
+        "کانی"
+      ]
+    },
+    {
+      "EnglishWord": "mineral fillers",
+      "Meanings": [
+        "پرکننده‌های معدنی"
+      ]
+    },
+    {
+      "EnglishWord": "mini scale",
+      "Meanings": [
+        "مقیاس کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "minimum",
+      "Meanings": [
+        "کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum required strength",
+      "Meanings": [
+        "حداقل استحکام مورد نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "minor poisson's ratio",
+      "Meanings": [
+        "نسبت پواسون فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "mirror plane",
+      "Meanings": [
+        "سطح تقارن آینه ای",
+        "صفحه آینه ای"
+      ]
+    },
+    {
+      "EnglishWord": "miscella",
+      "Meanings": [
+        "مایسل"
+      ]
+    },
+    {
+      "EnglishWord": "miscibility",
+      "Meanings": [
+        "امتزاج پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "miscible",
+      "Meanings": [
+        "امتزاج پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "mist coat",
+      "Meanings": [
+        "سایه پوشه",
+        "پوشش سایه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "mixer",
+      "Meanings": [
+        "مخلوط کن"
+      ]
+    },
+    {
+      "EnglishWord": "mixing",
+      "Meanings": [
+        "اختلاط"
+      ]
+    },
+    {
+      "EnglishWord": "mixing head",
+      "Meanings": [
+        "کلگی اختلاط"
+      ]
+    },
+    {
+      "EnglishWord": "mixing zone",
+      "Meanings": [
+        "ناحیه اختلاط"
+      ]
+    },
+    {
+      "EnglishWord": "mixture",
+      "Meanings": [
+        "مخلوط"
+      ]
+    },
+    {
+      "EnglishWord": "mock leno",
+      "Meanings": [
+        "تور تقلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "model network",
+      "Meanings": [
+        "شبکه مدل"
+      ]
+    },
+    {
+      "EnglishWord": "modeling",
+      "Meanings": [
+        "مدلسازی"
+      ]
+    },
+    {
+      "EnglishWord": "modified polymer",
+      "Meanings": [
+        "پلیمر اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "modifier",
+      "Meanings": [
+        "اصلاح کننده"
+      ]
+    },
+    {
+      "EnglishWord": "modulation",
+      "Meanings": [
+        "مدوله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "module",
+      "Meanings": [
+        "مدول"
+      ]
+    },
+    {
+      "EnglishWord": "moduli",
+      "Meanings": [
+        "مدول"
+      ]
+    },
+    {
+      "EnglishWord": "modulus of elasticity",
+      "Meanings": [
+        "مدول کشسانی",
+        "مدول الاستیک",
+        "به نسبت تنش ظاهری به کرنش معادل آن در محدوده رفتار الاستیک ماده می‌گویند که بر حسب نیرو بر واحد سطح بیان می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "modulus of rupture",
+      "Meanings": [
+        "ضریب گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "moiety",
+      "Meanings": [
+        "بخش یا قسمتی از مولکول"
+      ]
+    },
+    {
+      "EnglishWord": "moisture",
+      "Meanings": [
+        "رطوبت",
+        "نم"
+      ]
+    },
+    {
+      "EnglishWord": "moisture absorbtion",
+      "Meanings": [
+        "جذب رطوبت",
+        "گرفتن بخار آب از هوا بوسیله مواد"
+      ]
+    },
+    {
+      "EnglishWord": "moisture absorption",
+      "Meanings": [
+        "جذب رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "moisture content",
+      "Meanings": [
+        "مقدار رطوبت",
+        "مقدار نم",
+        "محتوای رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "moisture cure coating",
+      "Meanings": [
+        "نم پختنی",
+        "پوشش نم پخت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "moisture curing",
+      "Meanings": [
+        "پخت مرطوب",
+        "نم پختی",
+        "رطوبت‏پزی"
+      ]
+    },
+    {
+      "EnglishWord": "moisture regain",
+      "Meanings": [
+        "باز جذب رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "molar ratio",
+      "Meanings": [
+        "نسبت مولی"
+      ]
+    },
+    {
+      "EnglishWord": "mold",
+      "Meanings": [
+        "قالب"
+      ]
+    },
+    {
+      "EnglishWord": "mold coat",
+      "Meanings": [
+        "پوشش قالب",
+        "پوششی از رزین که بر روی قالب تنها زده می‌شود. قالب را عایق بندی کرده و سطحی صاف بر روی قالب ایجاد می‌کند این لایه مانند پوشش ژلی ضروری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "mold costruction",
+      "Meanings": [
+        "جنس و ساختمان قالب"
+      ]
+    },
+    {
+      "EnglishWord": "mold release",
+      "Meanings": [
+        "جدا کننده قالب",
+        "موادی که به عنوان پوششی بر روی قالب به منظور جلوگیری از چسبندگی قطعه به قالب و جدا شدن آن از قالب زده می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "mold release agent",
+      "Meanings": [
+        "عامل رهاسازی محصول از قالب",
+        "عامل نچسبیدن پلیمر به قالب"
+      ]
+    },
+    {
+      "EnglishWord": "molding",
+      "Meanings": [
+        "قالبگیری",
+        "قالبریزی"
+      ]
+    },
+    {
+      "EnglishWord": "molding powder",
+      "Meanings": [
+        "پودر قالبگیری"
+      ]
+    },
+    {
+      "EnglishWord": "mole fraction",
+      "Meanings": [
+        "کسر مولی"
+      ]
+    },
+    {
+      "EnglishWord": "molecular entanglement",
+      "Meanings": [
+        "درهم گیری مولکولی"
+      ]
+    },
+    {
+      "EnglishWord": "molecular mobility",
+      "Meanings": [
+        "تحرک مولکولی"
+      ]
+    },
+    {
+      "EnglishWord": "molecular sieve",
+      "Meanings": [
+        "الک مولکولی",
+        "غربال مولکولی"
+      ]
+    },
+    {
+      "EnglishWord": "molecular vibration",
+      "Meanings": [
+        "ارتعاش مولکولی"
+      ]
+    },
+    {
+      "EnglishWord": "moment of inertia",
+      "Meanings": [
+        "گشتاور ماند"
+      ]
+    },
+    {
+      "EnglishWord": "momentary creep",
+      "Meanings": [
+        "خزش آنی"
+      ]
+    },
+    {
+      "EnglishWord": "momentum",
+      "Meanings": [
+        "اندازه حرکت",
+        "تکانه"
+      ]
+    },
+    {
+      "EnglishWord": "monitor",
+      "Meanings": [
+        "صفحه نمایشگر"
+      ]
+    },
+    {
+      "EnglishWord": "mono filament",
+      "Meanings": [
+        "تک رشته",
+        "یک رشته با طول نامعین که معمولا این رشته‌ها با اکستروژن تولید می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "monochromatic",
+      "Meanings": [
+        "تکفام"
+      ]
+    },
+    {
+      "EnglishWord": "monochromator",
+      "Meanings": [
+        "تکفامساز"
+      ]
+    },
+    {
+      "EnglishWord": "monodisperse",
+      "Meanings": [
+        "تک پاشیدگی پراکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "monodispersity",
+      "Meanings": [
+        "تک توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "monofilament",
+      "Meanings": [
+        "تک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "monograph",
+      "Meanings": [
+        "تک نگار",
+        "تک نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "monomer",
+      "Meanings": [
+        "مونومر",
+        "تکپار"
+      ]
+    },
+    {
+      "EnglishWord": "monomer insertion",
+      "Meanings": [
+        "جایگیری مونومر"
+      ]
+    },
+    {
+      "EnglishWord": "monometalic",
+      "Meanings": [
+        "تک فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "mooney viscosity",
+      "Meanings": [
+        "گرانروی مونی"
+      ]
+    },
+    {
+      "EnglishWord": "morph",
+      "Meanings": [
+        "شکل"
+      ]
+    },
+    {
+      "EnglishWord": "morphology",
+      "Meanings": [
+        "شکل شناسی",
+        "ریخت شناسی",
+        "علم شناخت شکل و ساختار دقیق مواد بی جان و جاندار اعم از گیاهان",
+        "حیوانات و هر شکل دیگری از حیات"
+      ]
+    },
+    {
+      "EnglishWord": "motion",
+      "Meanings": [
+        "حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "motionless mixer",
+      "Meanings": [
+        "همزن ساکن",
+        "مخلوط کن ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "mould clamping force",
+      "Meanings": [
+        "نیروی جفت کردن قالب"
+      ]
+    },
+    {
+      "EnglishWord": "moulded in stress",
+      "Meanings": [
+        "تنش محبوس در قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "moulding",
+      "Meanings": [
+        "قالبگیری"
+      ]
+    },
+    {
+      "EnglishWord": "mulch",
+      "Meanings": [
+        "فیلم خاک پوش"
+      ]
+    },
+    {
+      "EnglishWord": "mulching",
+      "Meanings": [
+        "پوشاننده گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "multi cavity",
+      "Meanings": [
+        "چند حفره ای"
+      ]
+    },
+    {
+      "EnglishWord": "multi daylight mould",
+      "Meanings": [
+        "قالب چند تکه"
+      ]
+    },
+    {
+      "EnglishWord": "multi dimensional flow",
+      "Meanings": [
+        "جریان چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multi layer moulding",
+      "Meanings": [
+        "قالبگیری چند لایه"
+      ]
+    },
+    {
+      "EnglishWord": "multi mode",
+      "Meanings": [
+        "چند شیوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "multi sited",
+      "Meanings": [
+        "چند وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "multiaxial",
+      "Meanings": [
+        "چند محوره"
+      ]
+    },
+    {
+      "EnglishWord": "multiaxial stress",
+      "Meanings": [
+        "تنش چند محوری"
+      ]
+    },
+    {
+      "EnglishWord": "multicolour paint",
+      "Meanings": [
+        "پوشرنگ چندرنگ"
+      ]
+    },
+    {
+      "EnglishWord": "multifilament",
+      "Meanings": [
+        "چند رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "multipurpose",
+      "Meanings": [
+        "چند منظوره"
+      ]
+    }
+  ]
+}

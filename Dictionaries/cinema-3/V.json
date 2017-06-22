@@ -1,0 +1,728 @@
+﻿{
+  "Group": "V",
+  "Entries": 112,
+  "Words": [
+    {
+      "EnglishWord": "vacumate",
+      "Meanings": [
+        "روشی برای تمیز کردن فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "vacume cup",
+      "Meanings": [
+        "پایه بادکشی / مکنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "valley fogging",
+      "Meanings": [
+        "مه آلودگی جانبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "ارزش رنگی‌",
+        "سوپاپ / شیر",
+        "نسبتی به درجات مختلف اخلاط رنگ‌"
+      ]
+    },
+    {
+      "EnglishWord": "varamorph",
+      "Meanings": [
+        "وارامورف [از نظامهای عدسی دستگاه نمایش در مورد فیلمهای سینم"
+      ]
+    },
+    {
+      "EnglishWord": "variable angle",
+      "Meanings": [
+        "زاویه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable aperture shutter",
+      "Meanings": [
+        "بندان دهانه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable area",
+      "Meanings": [
+        "سطح متغیر",
+        "پهنه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable area recording",
+      "Meanings": [
+        "ضبط صدای اپتیک با پهنه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable area sound track",
+      "Meanings": [
+        "لبه صوتی با پهنه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable area track",
+      "Meanings": [
+        "نوار صدا با حاشیه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable density recording",
+      "Meanings": [
+        "ضبط صدای اپتیک با چگالی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable density sound track",
+      "Meanings": [
+        "لبه صوتی با چگالی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable density track",
+      "Meanings": [
+        "نوار صدای با چگالی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable focus",
+      "Meanings": [
+        "فاصله کانونی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable focus lens",
+      "Meanings": [
+        "عدسی با فاصله کانونی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable lenses",
+      "Meanings": [
+        "نام دیگری برای عدسیهای زوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "variable magnification",
+      "Meanings": [
+        "بزرگنمایی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable resistance",
+      "Meanings": [
+        "مقاومت متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable screen",
+      "Meanings": [
+        "پرده متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable shutter",
+      "Meanings": [
+        "بندان متغیر",
+        "سیستم شاتر متغیر",
+        "شاتر قابل تنظیم‌",
+        "مسدودکننده با زاویه باز متغیر",
+        "مسدودکننده متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable speed motor",
+      "Meanings": [
+        "موتور الکتریکی با سرعت متغیر",
+        "موتور با سرعت متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "vectograph",
+      "Meanings": [
+        "وکتوگراف‌"
+      ]
+    },
+    {
+      "EnglishWord": "velocilator",
+      "Meanings": [
+        "جرثقیل کوچک‌",
+        "وسیله دوربین بر"
+      ]
+    },
+    {
+      "EnglishWord": "vent",
+      "Meanings": [
+        "هواکش‌"
+      ]
+    },
+    {
+      "EnglishWord": "verbalisme",
+      "Meanings": [
+        "قایل شدن اهمیت بیشتر به کلمات تا افکار"
+      ]
+    },
+    {
+      "EnglishWord": "verisimilitude",
+      "Meanings": [
+        "عین نمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "vernon",
+      "Meanings": [
+        "دستگاه ورنون‌"
+      ]
+    },
+    {
+      "EnglishWord": "version",
+      "Meanings": [
+        "نسخه‌"
+      ]
+    },
+    {
+      "EnglishWord": "vert. horiz. shift",
+      "Meanings": [
+        "حرکت افقی و عمودی رج زن‌"
+      ]
+    },
+    {
+      "EnglishWord": "vertical montage",
+      "Meanings": [
+        "مونتاژ عمودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "very fast speed film",
+      "Meanings": [
+        "فیلم خیلی سریع‌"
+      ]
+    },
+    {
+      "EnglishWord": "very or extreme long shot",
+      "Meanings": [
+        "نمای خیلی دور"
+      ]
+    },
+    {
+      "EnglishWord": "vibration",
+      "Meanings": [
+        "ارتعاش‌"
+      ]
+    },
+    {
+      "EnglishWord": "video",
+      "Meanings": [
+        "تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "video cassette",
+      "Meanings": [
+        "کاست تلویزیونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "video cassette player",
+      "Meanings": [
+        "دستگاه پخش کاست تلویزیونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "video cassette recorder",
+      "Meanings": [
+        "دستگاه ضبط کاست تلویزیونی‌",
+        "ضبط کاست ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "video disk",
+      "Meanings": [
+        "صفحه تصویر",
+        "صفحه تلویزیونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "video documentary",
+      "Meanings": [
+        "مستند ویدیویی‌"
+      ]
+    },
+    {
+      "EnglishWord": "video engineer",
+      "Meanings": [
+        "متصدی تنظیم تصویر",
+        "واحد کنترل‌"
+      ]
+    },
+    {
+      "EnglishWord": "video maker",
+      "Meanings": [
+        "ویدیوگر"
+      ]
+    },
+    {
+      "EnglishWord": "video synthesis",
+      "Meanings": [
+        "ترکیب تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "video tape",
+      "Meanings": [
+        "نوار تصویر و صدا",
+        "نوار تلویزیونی‌",
+        "نوار مخصوص‌",
+        "نوار ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "video tape recorder",
+      "Meanings": [
+        "دستگاه ضبط تلویزیونی‌",
+        "ضبط مغناطیسی‌",
+        "ضبط نوار ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "video tape recording",
+      "Meanings": [
+        "ضبط نوار ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "vidtronics",
+      "Meanings": [
+        "وید",
+        "ترونیکز"
+      ]
+    },
+    {
+      "EnglishWord": "viewer",
+      "Meanings": [
+        "بیننده تلویزیون‌",
+        "تصویر نما",
+        "صفحه نمایش فیلم‌",
+        "فیلم بین‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewfinder",
+      "Meanings": [
+        "دید یاب دوربین‌",
+        "زاویه یاب‌",
+        "صحنه یاب‌",
+        "عدسی چشمی‌",
+        "کادر یاب‌",
+        "محلی در دوربین برای نگاه کردن به صحنه‌",
+        "منظره یاب‌",
+        "نمایاب‌",
+        "ویزور"
+      ]
+    },
+    {
+      "EnglishWord": "viewfinder extension",
+      "Meanings": [
+        "استوانه الحاقی نمایاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing and focusing system",
+      "Meanings": [
+        "سیستم مشاهده و میزان سازی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "viewing distance",
+      "Meanings": [
+        "فاصله نظاره‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing filter",
+      "Meanings": [
+        "صافی سنجش‌",
+        "صافی سنجش کنتراست‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing glass",
+      "Meanings": [
+        "شیشه تماشا"
+      ]
+    },
+    {
+      "EnglishWord": "viewing laser",
+      "Meanings": [
+        "لیزر بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing lens",
+      "Meanings": [
+        "نمایاب / ویزور"
+      ]
+    },
+    {
+      "EnglishWord": "viewing machine",
+      "Meanings": [
+        "دستگاه فیلم بینی بازبینی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing screen",
+      "Meanings": [
+        "صفحه نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "viewing theatre",
+      "Meanings": [
+        "تالار نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "vignette",
+      "Meanings": [
+        "پیرایه / زینت‌"
+      ]
+    },
+    {
+      "EnglishWord": "vignetting",
+      "Meanings": [
+        "تیرگی گوشه‌های تصویر",
+        "حاشیه دار کردن‌",
+        "هاله حاشیه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "virgin loop",
+      "Meanings": [
+        "لوپ بکر"
+      ]
+    },
+    {
+      "EnglishWord": "virtual focus",
+      "Meanings": [
+        "کانون مجازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "virtual image",
+      "Meanings": [
+        "تصویر مجازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "viscous damped compound",
+      "Meanings": [
+        "رویه متحرک روغنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "viseur",
+      "Meanings": [
+        "دریچه دید ویزور"
+      ]
+    },
+    {
+      "EnglishWord": "visible",
+      "Meanings": [
+        "امواج دیدنی‌",
+        "مریی‌"
+      ]
+    },
+    {
+      "EnglishWord": "vision",
+      "Meanings": [
+        "تصور"
+      ]
+    },
+    {
+      "EnglishWord": "vision control operator",
+      "Meanings": [
+        "متصدی تنظیم تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "vision mixer",
+      "Meanings": [
+        "متصدی ترکیب تصویر",
+        "مخلوط کن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "vision of permanency",
+      "Meanings": [
+        "پایداری دید / دوام دید"
+      ]
+    },
+    {
+      "EnglishWord": "vision of persistence",
+      "Meanings": [
+        "تداوم بصری‌",
+        "ثبات بصری‌",
+        "ثبات تاثرات نوری‌",
+        "دوام بینایی‌",
+        "دوام دید"
+      ]
+    },
+    {
+      "EnglishWord": "vision reference",
+      "Meanings": [
+        "مرجع تصویری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visor",
+      "Meanings": [
+        "منظره یاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "vista shot",
+      "Meanings": [
+        "نمای عمومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "vista vision",
+      "Meanings": [
+        "ویستاویژن‌"
+      ]
+    },
+    {
+      "EnglishWord": "vistascope",
+      "Meanings": [
+        "ویستاسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual",
+      "Meanings": [
+        "بصری‌",
+        "تصویری‌",
+        "تفکرات و ارتباطات غیرلغوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual beat",
+      "Meanings": [
+        "ضربان بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual continuity",
+      "Meanings": [
+        "تداوم بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual effects",
+      "Meanings": [
+        "جلوه‌های بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual element",
+      "Meanings": [
+        "عامل دیداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual sharpness and edge gradient",
+      "Meanings": [
+        "وضوح بصری و شیب کناره‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual short hand",
+      "Meanings": [
+        "شیوه بیان موجز تصویری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual squeeze",
+      "Meanings": [
+        "فشردن اطلاعات تصویری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual stutter",
+      "Meanings": [
+        "وقفه بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual style",
+      "Meanings": [
+        "سبک بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual test film",
+      "Meanings": [
+        "فیلم آزمون دستگاه نمایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual thinking",
+      "Meanings": [
+        "تفکر مصور"
+      ]
+    },
+    {
+      "EnglishWord": "visual threshold",
+      "Meanings": [
+        "نمودار قدرت بینایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual transition",
+      "Meanings": [
+        "انتقال بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visual unit",
+      "Meanings": [
+        "واحد سمعی و بصری‌"
+      ]
+    },
+    {
+      "EnglishWord": "visuals",
+      "Meanings": [
+        "تصاویر",
+        "تصویرها / عوامل تصویری‌"
+      ]
+    },
+    {
+      "EnglishWord": "vitarama",
+      "Meanings": [
+        "ویتاراما"
+      ]
+    },
+    {
+      "EnglishWord": "vitascope",
+      "Meanings": [
+        "ویتاسکوپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "voice",
+      "Meanings": [
+        "کلام‌",
+        "گفتار پس از تدوین بر فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "voice in",
+      "Meanings": [
+        "صدای داخل صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "voice off",
+      "Meanings": [
+        "صدا بیرون از کادر"
+      ]
+    },
+    {
+      "EnglishWord": "voice over",
+      "Meanings": [
+        "صدای بدون تصویر",
+        "صدای خارج از تصویر",
+        "صدای گوینده‌",
+        "گفتار"
+      ]
+    },
+    {
+      "EnglishWord": "voice over narration",
+      "Meanings": [
+        "روایت بیرون صحنه‌",
+        "گفتار خارج از قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "voice print",
+      "Meanings": [
+        "صدا نگاشته‌"
+      ]
+    },
+    {
+      "EnglishWord": "voice test",
+      "Meanings": [
+        "آزمایش صدا"
+      ]
+    },
+    {
+      "EnglishWord": "voice track",
+      "Meanings": [
+        "لبه گفتار یا گفتگو"
+      ]
+    },
+    {
+      "EnglishWord": "voicer",
+      "Meanings": [
+        "صداساز"
+      ]
+    },
+    {
+      "EnglishWord": "volet",
+      "Meanings": [
+        "وله‌"
+      ]
+    },
+    {
+      "EnglishWord": "volt meter",
+      "Meanings": [
+        "ولت سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "حجم‌",
+        "حجم صدا"
+      ]
+    },
+    {
+      "EnglishWord": "volume control",
+      "Meanings": [
+        "کلید شدت صدا",
+        "کنترل حجم صدا"
+      ]
+    },
+    {
+      "EnglishWord": "volume or level  of sound",
+      "Meanings": [
+        "میزان صدا"
+      ]
+    },
+    {
+      "EnglishWord": "volume unit",
+      "Meanings": [
+        "واحد حجم‌"
+      ]
+    },
+    {
+      "EnglishWord": "volume unit meter",
+      "Meanings": [
+        "اندازه‌گیر واحد حجم‌",
+        "دستگاه سنجش حجم صدا",
+        "واحد حجم سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "vydax",
+      "Meanings": [
+        "نرم کن فیلم / ویداکس‌"
+      ]
+    }
+  ]
+}

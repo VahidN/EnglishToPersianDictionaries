@@ -1,0 +1,761 @@
+﻿{
+  "Group": "L",
+  "Entries": 123,
+  "Words": [
+    {
+      "EnglishWord": "label",
+      "Meanings": [
+        "برچسب"
+      ]
+    },
+    {
+      "EnglishWord": "lan local area network",
+      "Meanings": [
+        "شبکه محلی",
+        "کانال ارتباط دهنده کامپیوتر و وسایل جانبی یک محیط کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "landscape",
+      "Meanings": [
+        "افقی"
+      ]
+    },
+    {
+      "EnglishWord": "landscape mode",
+      "Meanings": [
+        "نمای افقی"
+      ]
+    },
+    {
+      "EnglishWord": "landscape monitor",
+      "Meanings": [
+        "مونیتور افقی"
+      ]
+    },
+    {
+      "EnglishWord": "language-based formal specification",
+      "Meanings": [
+        "بیان مبتنی بر یک زبان"
+      ]
+    },
+    {
+      "EnglishWord": "laptop computer",
+      "Meanings": [
+        "کامپیوتر قابل حمل"
+      ]
+    },
+    {
+      "EnglishWord": "largest of",
+      "Meanings": [
+        "بزرگترین"
+      ]
+    },
+    {
+      "EnglishWord": "largest of three integer quantites",
+      "Meanings": [
+        "بزرگترین مقدار بین سه کمیت صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "laser disk",
+      "Meanings": [
+        "دیسک لیزری"
+      ]
+    },
+    {
+      "EnglishWord": "laser printer",
+      "Meanings": [
+        "چاپگر لیزری"
+      ]
+    },
+    {
+      "EnglishWord": "last record",
+      "Meanings": [
+        "آخرین رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "last-in first out  lifo",
+      "Meanings": [
+        "آخرین ورودی",
+        "اولین خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "late binding",
+      "Meanings": [
+        "قید گذاری دیر هنگام"
+      ]
+    },
+    {
+      "EnglishWord": "layout",
+      "Meanings": [
+        "ترکیب",
+        "طرح کلی"
+      ]
+    },
+    {
+      "EnglishWord": "lcd liquid crystal diode",
+      "Meanings": [
+        "صفحه نمایشی که برای نمایش تصاویر سطح آنها باردار می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "leaf",
+      "Meanings": [
+        "برگ"
+      ]
+    },
+    {
+      "EnglishWord": "least significant bit",
+      "Meanings": [
+        "بیت با کمترین ارزش",
+        "کم ارزش‌ترین بیت"
+      ]
+    },
+    {
+      "EnglishWord": "least significant digit",
+      "Meanings": [
+        "رقم با کمترین ارزش",
+        "کم ارزش‌ترین رقم"
+      ]
+    },
+    {
+      "EnglishWord": "led light-emitting diode",
+      "Meanings": [
+        "نوعی دیود",
+        "وسیله ای نیمه هادی برای صفحه نمایش ساعت و ماشین حساب"
+      ]
+    },
+    {
+      "EnglishWord": "left associated",
+      "Meanings": [
+        "خاصیت شرکت پذیری از سمت چپ"
+      ]
+    },
+    {
+      "EnglishWord": "left outer theta join",
+      "Meanings": [
+        "پیوند بیرونی‌تر چپ"
+      ]
+    },
+    {
+      "EnglishWord": "left shift operator",
+      "Meanings": [
+        "اپراتور جابجایی به سمت چپ"
+      ]
+    },
+    {
+      "EnglishWord": "left subtree",
+      "Meanings": [
+        "زیر درخت چپ"
+      ]
+    },
+    {
+      "EnglishWord": "leftmost child",
+      "Meanings": [
+        "سمت چپ‌ترین فرزند"
+      ]
+    },
+    {
+      "EnglishWord": "legacy application",
+      "Meanings": [
+        "برنامه کاربردی موروثی"
+      ]
+    },
+    {
+      "EnglishWord": "lengend",
+      "Meanings": [
+        "راهنمای علایم"
+      ]
+    },
+    {
+      "EnglishWord": "length of path",
+      "Meanings": [
+        "طول مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "letter-quality printer",
+      "Meanings": [
+        "چاپگری که با استفاده از ضربه ریبون به کاغذ چاپ می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "level",
+      "Meanings": [
+        "سطح"
+      ]
+    },
+    {
+      "EnglishWord": "library",
+      "Meanings": [
+        "کتابخانه"
+      ]
+    },
+    {
+      "EnglishWord": "library file",
+      "Meanings": [
+        "فایلهای کتابخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "library functions",
+      "Meanings": [
+        "توابع کتابخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "library subroutines",
+      "Meanings": [
+        "روالهای کتابخانه"
+      ]
+    },
+    {
+      "EnglishWord": "life-cycle approach",
+      "Meanings": [
+        "روند آبشاری طراحی نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "light pen",
+      "Meanings": [
+        "قلم نوری"
+      ]
+    },
+    {
+      "EnglishWord": "line break",
+      "Meanings": [
+        "سطر جدید"
+      ]
+    },
+    {
+      "EnglishWord": "line chart",
+      "Meanings": [
+        "نمودار خطی"
+      ]
+    },
+    {
+      "EnglishWord": "line file plot",
+      "Meanings": [
+        "نمودار بهترین خط"
+      ]
+    },
+    {
+      "EnglishWord": "line oriented text editor",
+      "Meanings": [
+        "متن پردازی سطری"
+      ]
+    },
+    {
+      "EnglishWord": "line spaceing",
+      "Meanings": [
+        "فاصله سطرها"
+      ]
+    },
+    {
+      "EnglishWord": "linear",
+      "Meanings": [
+        "خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear density",
+      "Meanings": [
+        "چگالی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear linked lists",
+      "Meanings": [
+        "لیست پیوندی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear lists",
+      "Meanings": [
+        "لیست خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear search",
+      "Meanings": [
+        "جستجوی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "lines of text",
+      "Meanings": [
+        "سطر‌های متن"
+      ]
+    },
+    {
+      "EnglishWord": "lines per minute",
+      "Meanings": [
+        "تعداد خط در دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "lines-of-code  loc",
+      "Meanings": [
+        "خطهای برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "link",
+      "Meanings": [
+        "اتصال",
+        "پیوند",
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "link time",
+      "Meanings": [
+        "مدت زمان پیوند دهی"
+      ]
+    },
+    {
+      "EnglishWord": "linked data structures",
+      "Meanings": [
+        "ساختارهای اطلاعاتی پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked drive and directory list box",
+      "Meanings": [
+        "کادر فهرست مرتبط درایو و کشو"
+      ]
+    },
+    {
+      "EnglishWord": "linked file list box",
+      "Meanings": [
+        "کادر فهرست مرتبط پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "linked list",
+      "Meanings": [
+        "لیست زنجیره ای",
+        "لیست پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked list box",
+      "Meanings": [
+        "کادر فهرست مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "linked object",
+      "Meanings": [
+        "عنصر پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked queue",
+      "Meanings": [
+        "صف پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked stack",
+      "Meanings": [
+        "پشته پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linker",
+      "Meanings": [
+        "برنامه زنجیره ساز"
+      ]
+    },
+    {
+      "EnglishWord": "linking documents",
+      "Meanings": [
+        "مرتبط کردن پرونده ها"
+      ]
+    },
+    {
+      "EnglishWord": "lisp list processor",
+      "Meanings": [
+        "نام زبان برنامه سازی برای برنامه سازی هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "list box",
+      "Meanings": [
+        "کادر فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "list of numbers",
+      "Meanings": [
+        "لیست اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "list of strings",
+      "Meanings": [
+        "لیست رشته ها"
+      ]
+    },
+    {
+      "EnglishWord": "listing",
+      "Meanings": [
+        "سیاهه"
+      ]
+    },
+    {
+      "EnglishWord": "load map",
+      "Meanings": [
+        "نقشه فراخوانی در حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "loader",
+      "Meanings": [
+        "برنامه ای که برنامه‌های دیگر را جهت اجرا به حافظه می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "local",
+      "Meanings": [
+        "موضعی در مقابل Global"
+      ]
+    },
+    {
+      "EnglishWord": "local  pointer variable",
+      "Meanings": [
+        "متغیر اشاره گر موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local drive",
+      "Meanings": [
+        "گرداننده محلی"
+      ]
+    },
+    {
+      "EnglishWord": "local object",
+      "Meanings": [
+        "شی موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local operator",
+      "Meanings": [
+        "عملگر موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local printer",
+      "Meanings": [
+        "چاپگر محلی"
+      ]
+    },
+    {
+      "EnglishWord": "local variable",
+      "Meanings": [
+        "متغیر موضعی",
+        "متغیر محلی"
+      ]
+    },
+    {
+      "EnglishWord": "locating",
+      "Meanings": [
+        "مکان یابی"
+      ]
+    },
+    {
+      "EnglishWord": "locating customer records",
+      "Meanings": [
+        "مکان یابی رکورد‌های مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "locked file",
+      "Meanings": [
+        "فایل قفل شده"
+      ]
+    },
+    {
+      "EnglishWord": "locking document",
+      "Meanings": [
+        "قفل کردن پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "log",
+      "Meanings": [
+        "ثبت وقایع"
+      ]
+    },
+    {
+      "EnglishWord": "log in",
+      "Meanings": [
+        "برقراری ارتباط",
+        "ورود"
+      ]
+    },
+    {
+      "EnglishWord": "log management",
+      "Meanings": [
+        "مدریت ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "log out",
+      "Meanings": [
+        "قطع ارتباط",
+        "خروج"
+      ]
+    },
+    {
+      "EnglishWord": "logical",
+      "Meanings": [
+        "منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical address",
+      "Meanings": [
+        "آدرس منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical and",
+      "Meanings": [
+        "عطف منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical and operations",
+      "Meanings": [
+        "عملیات عطف منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical and operator",
+      "Meanings": [
+        "عملگر عطف منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical bitwise",
+      "Meanings": [
+        "بیت منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical bitwise operators",
+      "Meanings": [
+        "عملگر‌های منطقی بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "logical connective",
+      "Meanings": [
+        "ارتباط منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical data independence",
+      "Meanings": [
+        "استقلال داده ای منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical database",
+      "Meanings": [
+        "پایگاه اطلاعاتی منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical decision",
+      "Meanings": [
+        "تصمیم گیری منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical errors",
+      "Meanings": [
+        "خطاهای منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical expressions",
+      "Meanings": [
+        "عبارات منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical negation operator",
+      "Meanings": [
+        "عملگر نفی منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical not",
+      "Meanings": [
+        "نقیض منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical not operator",
+      "Meanings": [
+        "عملگر نقیض منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical operator",
+      "Meanings": [
+        "عملگر منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical or",
+      "Meanings": [
+        "یای منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical or operations",
+      "Meanings": [
+        "عملیات یای منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical record",
+      "Meanings": [
+        "رکورد منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "login script",
+      "Meanings": [
+        "دستور العمل برقراری ارتباط",
+        "دستور العمل ورود"
+      ]
+    },
+    {
+      "EnglishWord": "long",
+      "Meanings": [
+        "بلند",
+        "دراز"
+      ]
+    },
+    {
+      "EnglishWord": "long double",
+      "Meanings": [
+        "عدد حقیق طویل"
+      ]
+    },
+    {
+      "EnglishWord": "long integer constants",
+      "Meanings": [
+        "ثایتهای صحیح بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "long jump",
+      "Meanings": [
+        "پرش طویل"
+      ]
+    },
+    {
+      "EnglishWord": "lookup table",
+      "Meanings": [
+        "لیست انتخابی",
+        "جدول"
+      ]
+    },
+    {
+      "EnglishWord": "loop",
+      "Meanings": [
+        "حلقه",
+        "الگوریتم و فلوچارت",
+        "گاهی اوقات برای حل مساله باید یک یا چند مرحله را تکرار کرد به مراحلی از الگوریتم که اجرای آنها چندین بار تکرار می‌شود حلقه یا حلقه تکرار می‌گویند"
+      ]
+    },
+    {
+      "EnglishWord": "loop integer constants",
+      "Meanings": [
+        "ثابتهای صحیح بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "loop source code",
+      "Meanings": [
+        "کد منبع حلقه تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "looping",
+      "Meanings": [
+        "ایجاد حلقه تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "loosely coupled",
+      "Meanings": [
+        "پیوند ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "loss decomposition",
+      "Meanings": [
+        "تجزیه با گمشدگی"
+      ]
+    },
+    {
+      "EnglishWord": "lower memory",
+      "Meanings": [
+        "حافظه پایینی"
+      ]
+    },
+    {
+      "EnglishWord": "lowercase latters",
+      "Meanings": [
+        "حروف کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "lowercase to uppercase",
+      "Meanings": [
+        "حرف کوچک به حرف بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "low-level data files",
+      "Meanings": [
+        "پرونده‌های اطلاعاتی سطح پایین"
+      ]
+    },
+    {
+      "EnglishWord": "low-level language",
+      "Meanings": [
+        "زبان سطح پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lsi large-scale integration",
+      "Meanings": [
+        "مدارات مجتمع شامل هزاران ترانزیستور"
+      ]
+    },
+    {
+      "EnglishWord": "lum",
+      "Meanings": [
+        "روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "luminosity",
+      "Meanings": [
+        "روشنی"
+      ]
+    }
+  ]
+}

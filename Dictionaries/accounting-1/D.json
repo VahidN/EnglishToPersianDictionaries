@@ -1,0 +1,3832 @@
+﻿{
+  "Group": "D",
+  "Entries": 617,
+  "Words": [
+    {
+      "EnglishWord": "d.a.f \" delivered at frontier",
+      "Meanings": [
+        "تحویل کالا در مرز ورودی کشور مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "d.c.p \"freight or carriage paid to",
+      "Meanings": [
+        "کرایه حمل تا مقصد پرداخت شده و مسیولیت فروشنده پس از تحویل کالا به اولین حمل کننده پایان می‌یابد"
+      ]
+    },
+    {
+      "EnglishWord": "d.d.p \" delivered duty paid",
+      "Meanings": [
+        "تحویل کالا پس از پرداخت عوارض گمرکی در مقصد",
+        "تحویل کالا به انبار خریدار"
+      ]
+    },
+    {
+      "EnglishWord": "d.i.n \" deutsche institute for normung",
+      "Meanings": [
+        "انستیتوی استاندارد آلمانی"
+      ]
+    },
+    {
+      "EnglishWord": "d.w. \" dead weight",
+      "Meanings": [
+        "ظرفیت بارگیری کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "daily posting",
+      "Meanings": [
+        "نقل روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "damage",
+      "Meanings": [
+        "عیب لطمه آسیب صدمه",
+        "خسارت",
+        "خراب"
+      ]
+    },
+    {
+      "EnglishWord": "damaged goods",
+      "Meanings": [
+        "کالای آسیب دیده کالا‌های صدمه دیده",
+        "کالای خسارت دیده"
+      ]
+    },
+    {
+      "EnglishWord": "damaged merchandise",
+      "Meanings": [
+        "کالای صدمه دیده کالای معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده‌های خام پردازش نشده اطلاعات",
+        "اطلاعات",
+        "اطلاعات کمی",
+        "داده"
+      ]
+    },
+    {
+      "EnglishWord": "data base",
+      "Meanings": [
+        "مبنای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "data communication",
+      "Meanings": [
+        "ارتباط داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data definition language",
+      "Meanings": [
+        "زبان تعریف داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data dictionary",
+      "Meanings": [
+        "لغت نامه اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data draft",
+      "Meanings": [
+        "برات مدت دار"
+      ]
+    },
+    {
+      "EnglishWord": "data envelopment analysis  dea",
+      "Meanings": [
+        "تحلیل پوششی اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data filter",
+      "Meanings": [
+        "فیلتر داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data flow diagram  dfd",
+      "Meanings": [
+        "نمودار جریان / گردش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data hank",
+      "Meanings": [
+        "بانک اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "data isolation",
+      "Meanings": [
+        "ایزوله شدن اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data literate",
+      "Meanings": [
+        "متخصص اطلاعات داده پردازی"
+      ]
+    },
+    {
+      "EnglishWord": "data manipulating- language",
+      "Meanings": [
+        "زبان عملیات ورزی داده"
+      ]
+    },
+    {
+      "EnglishWord": "data mining",
+      "Meanings": [
+        "داده کاوی"
+      ]
+    },
+    {
+      "EnglishWord": "data processing",
+      "Meanings": [
+        "پردازش اطلاعات",
+        "فرآوردن اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data processing review task force",
+      "Meanings": [
+        "گروه بررسی خدمات کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "data redundancy",
+      "Meanings": [
+        "تکرار داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data set",
+      "Meanings": [
+        "بانک اطلاعاتی مجموعه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data transfer controls",
+      "Meanings": [
+        "کنترلهای انتقال اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data warehouse",
+      "Meanings": [
+        "انبار داده"
+      ]
+    },
+    {
+      "EnglishWord": "database",
+      "Meanings": [
+        "بانک اطلاعاتی",
+        "پایگاه اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "database management system",
+      "Meanings": [
+        "سیستم مدیریت پایگاه داده"
+      ]
+    },
+    {
+      "EnglishWord": "database management systems",
+      "Meanings": [
+        "سیستم‌های مدیریت بانک اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "database tier",
+      "Meanings": [
+        "لایه پایگاه داده"
+      ]
+    },
+    {
+      "EnglishWord": "date",
+      "Meanings": [
+        "تاریخ",
+        "مورخه"
+      ]
+    },
+    {
+      "EnglishWord": "date of declaration",
+      "Meanings": [
+        "تاریخ اعلام سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "date of maturity",
+      "Meanings": [
+        "موعد",
+        "سررسید"
+      ]
+    },
+    {
+      "EnglishWord": "date of order",
+      "Meanings": [
+        "تاریخ سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "date of payment",
+      "Meanings": [
+        "تاریخ پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "date of practical completion",
+      "Meanings": [
+        "تاریخ پایان کار"
+      ]
+    },
+    {
+      "EnglishWord": "date of record",
+      "Meanings": [
+        "تاریخ تعیین / شناسایی سهامداران مشمول سود",
+        "تاریخ شناسایی سهامداران مشمول سود"
+      ]
+    },
+    {
+      "EnglishWord": "dating and reissuance",
+      "Meanings": [
+        "تاریخ گذاری و صدور / انتشار مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "day of the week effect",
+      "Meanings": [
+        "اثر روز خاص هفته"
+      ]
+    },
+    {
+      "EnglishWord": "day order",
+      "Meanings": [
+        "سفارش روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "day to day",
+      "Meanings": [
+        "هر روزه",
+        "روزمره"
+      ]
+    },
+    {
+      "EnglishWord": "day to day expenditures",
+      "Meanings": [
+        "مخارج روزمره روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "day to day operations",
+      "Meanings": [
+        "عملیات روزمره"
+      ]
+    },
+    {
+      "EnglishWord": "day's sales in receivables",
+      "Meanings": [
+        "متوسط فروش نسیه روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "day-to-day expenditure",
+      "Meanings": [
+        "مخارج روزمره"
+      ]
+    },
+    {
+      "EnglishWord": "dead heading pay",
+      "Meanings": [
+        "هزینه ایاب و ذهاب"
+      ]
+    },
+    {
+      "EnglishWord": "dead line",
+      "Meanings": [
+        "ضرب الاجل"
+      ]
+    },
+    {
+      "EnglishWord": "dead weight",
+      "Meanings": [
+        "وزن خالص"
+      ]
+    },
+    {
+      "EnglishWord": "dead weight dw dead weightdw",
+      "Meanings": [
+        "ظرفیت بارگیری کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "deal",
+      "Meanings": [
+        "معامله"
+      ]
+    },
+    {
+      "EnglishWord": "dealer",
+      "Meanings": [
+        "معامله گر",
+        "واسطه"
+      ]
+    },
+    {
+      "EnglishWord": "dealers' spread",
+      "Meanings": [
+        "بازده معامله گران"
+      ]
+    },
+    {
+      "EnglishWord": "dealing",
+      "Meanings": [
+        "معامله",
+        "خرید و فروش"
+      ]
+    },
+    {
+      "EnglishWord": "death benefit",
+      "Meanings": [
+        "مستمری پس از فوت",
+        "مستمری وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "death of a partner",
+      "Meanings": [
+        "فوت شریک"
+      ]
+    },
+    {
+      "EnglishWord": "debenture",
+      "Meanings": [
+        "اوراق قرضه تضمین نشده"
+      ]
+    },
+    {
+      "EnglishWord": "debenture bonds",
+      "Meanings": [
+        "اوراق قرضه تضمین نشده",
+        "اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "debit",
+      "Meanings": [
+        "بدهکار",
+        "بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debit balance",
+      "Meanings": [
+        "مانده بدهکار",
+        "مانده بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debit entry",
+      "Meanings": [
+        "ثبت بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit memo",
+      "Meanings": [
+        "اعلامیه بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit memorandum",
+      "Meanings": [
+        "اعلامیه بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit memorandum or debit or debit memo",
+      "Meanings": [
+        "اعلامیه بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit note",
+      "Meanings": [
+        "اعلامیه بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debt",
+      "Meanings": [
+        "وام بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt capital",
+      "Meanings": [
+        "بدهیهای بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "debt equity ratio",
+      "Meanings": [
+        "نسبت بدهی به حقوق صاحبان سهام",
+        "نسبت وام به سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "debt extinguishment",
+      "Meanings": [
+        "بازخرید / تصفیه بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt financing",
+      "Meanings": [
+        "تامین مالی از محل استقرارض تامین مالی از طریق انتشار اوراق بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt holders",
+      "Meanings": [
+        "اعتبار دهندگان بستانکاران دارندگان اوراق بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt instruments",
+      "Meanings": [
+        "اوراق بهادار بدهی ابزارهای بدهی اسناد بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt ratio",
+      "Meanings": [
+        "نسبت بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt refunding",
+      "Meanings": [
+        "جایگزینی اوراق بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt restructure",
+      "Meanings": [
+        "تجدید ساختار بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt securities",
+      "Meanings": [
+        "اوراق بهادار بدهی",
+        "اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "debt service fund",
+      "Meanings": [
+        "حساب مستقل تامین مالی و بازپرداخت دیوان بلندمدت"
+      ]
+    },
+    {
+      "EnglishWord": "debt versus equity",
+      "Meanings": [
+        "بدهی در مقابل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "debtor",
+      "Meanings": [
+        "بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debtors",
+      "Meanings": [
+        "بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "debtors control account",
+      "Meanings": [
+        "حساب کنترل بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "debtors ledger",
+      "Meanings": [
+        "دفتر معین بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "debtors' subsidiary",
+      "Meanings": [
+        "دفتر معین بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "debtors subsidiary ledger",
+      "Meanings": [
+        "دفتر معین بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "decentralization",
+      "Meanings": [
+        "تمرکز زدایی عدم تمرکز",
+        "عدم تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decentralized decision making",
+      "Meanings": [
+        "تصمیم گیری غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decentralized organizations",
+      "Meanings": [
+        "سازمانهای غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decimal point indicator",
+      "Meanings": [
+        "ممیز نما"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "تصمیم",
+        "سیستم پشتیبانی تصمیمات"
+      ]
+    },
+    {
+      "EnglishWord": "decision criterion",
+      "Meanings": [
+        "معیار تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision facilitating",
+      "Meanings": [
+        "تسهیل تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision guidelines",
+      "Meanings": [
+        "رهنمودهای تصمیم گیری دستورالعمل‌های تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision influencing",
+      "Meanings": [
+        "اثر بر تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision interval",
+      "Meanings": [
+        "فاصله تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision makers",
+      "Meanings": [
+        "تصمیم گیرندگان"
+      ]
+    },
+    {
+      "EnglishWord": "decision making",
+      "Meanings": [
+        "تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision making process",
+      "Meanings": [
+        "فرآیند تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision model",
+      "Meanings": [
+        "مدل تصمیم گیری",
+        "مدل تصمیصم"
+      ]
+    },
+    {
+      "EnglishWord": "decision model approach",
+      "Meanings": [
+        "رویکرد / مدل تصمیم گیری",
+        "رویکرد مدل تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision models",
+      "Meanings": [
+        "مدلهای تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision objective",
+      "Meanings": [
+        "هدف تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision relevance of information",
+      "Meanings": [
+        "مربوط بودن اطلاعات در تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision rule",
+      "Meanings": [
+        "قاعده تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision structure",
+      "Meanings": [
+        "ساختار تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision support systems  doss",
+      "Meanings": [
+        "سیستم‌های تسهیل کننده فرایند تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision symbol",
+      "Meanings": [
+        "نشانه تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision theory",
+      "Meanings": [
+        "تیوری تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree",
+      "Meanings": [
+        "درخت تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree analysis",
+      "Meanings": [
+        "تجزیه وتحلیل درخت تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision usefullness approach",
+      "Meanings": [
+        "سودمندی در تصمیم گیریها"
+      ]
+    },
+    {
+      "EnglishWord": "decision usefulness",
+      "Meanings": [
+        "مفید بودن تصمیم گیری سودمندی در تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision usefulness approach",
+      "Meanings": [
+        "رویکرد/ دیدگاه سودمندی برای تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision variable",
+      "Meanings": [
+        "متغیر تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "deck cargo",
+      "Meanings": [
+        "کالای روی عرشه"
+      ]
+    },
+    {
+      "EnglishWord": "declaration",
+      "Meanings": [
+        "اظهار نامه"
+      ]
+    },
+    {
+      "EnglishWord": "declaration date",
+      "Meanings": [
+        "تاریخ اعلام / تصویب",
+        "تاریخ اعلام سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "declaration policy",
+      "Meanings": [
+        "بیمه نامه عمومی یا اظهار نامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "declare",
+      "Meanings": [
+        "اعلام کردن",
+        "اظهار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decline stage",
+      "Meanings": [
+        "مرحله تنزل قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "declining balance method",
+      "Meanings": [
+        "روش مانده نزولی",
+        "روش مانده نزولی _ روش نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "decrease in stock",
+      "Meanings": [
+        "کاهش در موجودیها"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing rate",
+      "Meanings": [
+        "نسبت نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing trend",
+      "Meanings": [
+        "روند نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "deduct",
+      "Meanings": [
+        "کسر می‌شود",
+        "کسر کردن",
+        "کاستن"
+      ]
+    },
+    {
+      "EnglishWord": "deduction",
+      "Meanings": [
+        "قیاس"
+      ]
+    },
+    {
+      "EnglishWord": "deductions",
+      "Meanings": [
+        "کسور"
+      ]
+    },
+    {
+      "EnglishWord": "deductive approach",
+      "Meanings": [
+        "رویکرد / روش قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "deductive reasoning",
+      "Meanings": [
+        "استدلال قیاسی",
+        "استدلالات قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "deep discount or zero coupon bonds notes",
+      "Meanings": [
+        "اوراق قرضه / اسناد بدون بهره یا با تخفیف هنگفت"
+      ]
+    },
+    {
+      "EnglishWord": "default",
+      "Meanings": [
+        "عدم پرداخت",
+        "پیش فرض"
+      ]
+    },
+    {
+      "EnglishWord": "default free bonds",
+      "Meanings": [
+        "اوراق قرضه بدون ریسک نکول ناتوانی در پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "default premium",
+      "Meanings": [
+        "صرف عدم پرداخت بدهی صرف نکول ناتوانی در پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "default risk",
+      "Meanings": [
+        "ریسک نکول ریسک ناتوانی در پرداخت ریسک عدم پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "defaulted notes",
+      "Meanings": [
+        "اسناد نکول شده اسناد سوخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "defeasance provision",
+      "Meanings": [
+        "شرط ابطال شرط فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "defect",
+      "Meanings": [
+        "عیب",
+        "نقص",
+        "صدمه"
+      ]
+    },
+    {
+      "EnglishWord": "defective",
+      "Meanings": [
+        "معیوب",
+        "ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "defective product",
+      "Meanings": [
+        "محصول کالای معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "defective units",
+      "Meanings": [
+        "واحدهای معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "defensive stocks",
+      "Meanings": [
+        "سهام تدافعی سهام مقاوم سهامی که تغییرات قیمت آنها از تغییرات متوسط بازار کمتر است"
+      ]
+    },
+    {
+      "EnglishWord": "deferral method",
+      "Meanings": [
+        "روش انتقال به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferral of tax expense",
+      "Meanings": [
+        "انتقال هزینه مالیات به دوره‌های بعد"
+      ]
+    },
+    {
+      "EnglishWord": "deferrals",
+      "Meanings": [
+        "انتقال بخشی از دریافتها یا پرداختهای نقدی گذشته به دوره جاری یا آتی انتقالی به دوره‌های آتی",
+        "انتقال بخشی از دریافتها یا پرداختهای نقدی گذشته به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred annuity",
+      "Meanings": [
+        "اقساط مساوی معوق اقساط انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred charges",
+      "Meanings": [
+        "مخارج انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred compensation",
+      "Meanings": [
+        "حقوق و مزایای انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred credits",
+      "Meanings": [
+        "درآمدهای انتقالی به دوره‌های آتی",
+        "بدهیهای انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred credits or revenue",
+      "Meanings": [
+        "درآمدهای انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred debt issue costs",
+      "Meanings": [
+        "هزینه‌های انتقالی به دوره‌های آتی انتشار اوراق بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred gain",
+      "Meanings": [
+        "سود غیر عملیاتی انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred gross profit",
+      "Meanings": [
+        "سود ناویژه ناخالص انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred income",
+      "Meanings": [
+        "درآمدانتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred income tax",
+      "Meanings": [
+        "مالیات انتقالی به دوره‌های آتی _ بدهی مالیاتی انتقالی به دوره‌های مالی آتی",
+        "مالیات پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred method",
+      "Meanings": [
+        "روش انتقال به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred payment credit",
+      "Meanings": [
+        "اعتبار با پرداخت معوق"
+      ]
+    },
+    {
+      "EnglishWord": "deferred repairs",
+      "Meanings": [
+        "ذخیره تعمیرات"
+      ]
+    },
+    {
+      "EnglishWord": "deferred revenue",
+      "Meanings": [
+        "درآمد انتقالی به دوره‌های آتی",
+        "درآمدهای انتقالی به دوره‌های آتی _ پیش دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "deferred tax",
+      "Meanings": [
+        "مالیات انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred tax account",
+      "Meanings": [
+        "مالیات انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred tax liability",
+      "Meanings": [
+        "بدهی مالیاتی انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred taxes",
+      "Meanings": [
+        "مالیاتهای انتقالی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "deffered income",
+      "Meanings": [
+        "مدلهای سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "deficit",
+      "Meanings": [
+        "زیان انباشته مازاد هزینه‌ها بر درآمدها کسری",
+        "زیان انباشته",
+        "کسر",
+        "نقصان",
+        "کسر بودجه",
+        "عدم موازنه"
+      ]
+    },
+    {
+      "EnglishWord": "define",
+      "Meanings": [
+        "تعریف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "defined benefit",
+      "Meanings": [
+        "مزایای تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "defined benefit plan",
+      "Meanings": [
+        "طرح بازنشستگی با مزایای معین"
+      ]
+    },
+    {
+      "EnglishWord": "defined contribution plan",
+      "Meanings": [
+        "طرح بازنشستگی با سهم مشارکت معین"
+      ]
+    },
+    {
+      "EnglishWord": "defined contributions",
+      "Meanings": [
+        "کسور بازنشستگی تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "definitely determinable liabilities",
+      "Meanings": [
+        "بدهیهای قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "definitely determinable liability",
+      "Meanings": [
+        "بدهی قطعی بدهی معلوم و مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "definition",
+      "Meanings": [
+        "شناخت",
+        "تعریف"
+      ]
+    },
+    {
+      "EnglishWord": "definition of terms",
+      "Meanings": [
+        "تعریف اصطلاحات"
+      ]
+    },
+    {
+      "EnglishWord": "definitions",
+      "Meanings": [
+        "تعاریف"
+      ]
+    },
+    {
+      "EnglishWord": "deflation",
+      "Meanings": [
+        "تورم زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of combined leverage  dcl dcl",
+      "Meanings": [
+        "درجه اهرم ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of completion",
+      "Meanings": [
+        "درجه تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "degree of correspondence",
+      "Meanings": [
+        "درجه میزان انطباق"
+      ]
+    },
+    {
+      "EnglishWord": "degree of financial leverage  dfl",
+      "Meanings": [
+        "درجه اهرم مالی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of financial leverage  dfl dfl",
+      "Meanings": [
+        "درجه اهرم مالی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of focus",
+      "Meanings": [
+        "درجه تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "degree of operating leverage  dol",
+      "Meanings": [
+        "درجه اهرم عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of operating leverage  dol dol",
+      "Meanings": [
+        "درجه اهرم عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of risk",
+      "Meanings": [
+        "میزان خطر احتمال خطر"
+      ]
+    },
+    {
+      "EnglishWord": "degree of total leverage",
+      "Meanings": [
+        "درجه اهرم کل"
+      ]
+    },
+    {
+      "EnglishWord": "degrees of freedom",
+      "Meanings": [
+        "درجات آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "delay",
+      "Meanings": [
+        "تاخیر",
+        "تعویق"
+      ]
+    },
+    {
+      "EnglishWord": "delay in payment",
+      "Meanings": [
+        "تاخیر در پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "delayed costing",
+      "Meanings": [
+        "هزینه یابی با تاخیر نام دیگر هزینه یابی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "delayed recognition",
+      "Meanings": [
+        "شناسایی با تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "delegation of responsibility",
+      "Meanings": [
+        "تفویض مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "delete",
+      "Meanings": [
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "delinguency  delinquent  tax",
+      "Meanings": [
+        "مالیات دیرکرد یا خسارت دیر کرد"
+      ]
+    },
+    {
+      "EnglishWord": "delinquent taxes",
+      "Meanings": [
+        "مالیاتهای معوق"
+      ]
+    },
+    {
+      "EnglishWord": "delist",
+      "Meanings": [
+        "حذف عضویت در بورس از فهرست خارج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deliver",
+      "Meanings": [
+        "تحویل دادن"
+      ]
+    },
+    {
+      "EnglishWord": "delivered at frontier  daf",
+      "Meanings": [
+        "تحویل کالا در مرز"
+      ]
+    },
+    {
+      "EnglishWord": "delivered at frontier daf delivered at frontierdaf",
+      "Meanings": [
+        "تحویل کالا در مرز ورودی کشور مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "delivered duty paid  ddp",
+      "Meanings": [
+        "تحویل کالا در محل مقرر در مقصد با ترخیص و باپرداخت حقوق و عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "delivered duty paid ddp delivered duty paidddp",
+      "Meanings": [
+        "تحویل کالا پس از پرداخت عوارض گمرکی در مقصد",
+        "تحویل کالا به انبار خریدار"
+      ]
+    },
+    {
+      "EnglishWord": "delivered duty unpaid  ddu",
+      "Meanings": [
+        "تحویل کالا در محل مقرر در مقصد بدون ترخیص و بدون پرداخت حقوق و عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "delivered ex quay  deq",
+      "Meanings": [
+        "تحویل کالا روی اسلکه در بندر مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "delivered ex ship  des",
+      "Meanings": [
+        "تحویل کالا روی عرشه کشتی در بندر مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "delivery",
+      "Meanings": [
+        "تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery allowance",
+      "Meanings": [
+        "حد مجاز کسری یا اضافه تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "delivery date",
+      "Meanings": [
+        "تاریخ تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery method",
+      "Meanings": [
+        "روش تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery note",
+      "Meanings": [
+        "برگه تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery order",
+      "Meanings": [
+        "برگ ترخیصیه",
+        "دستور تحویل کالا"
+      ]
+    },
+    {
+      "EnglishWord": "delivery time",
+      "Meanings": [
+        "زمان تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delta",
+      "Meanings": [
+        "دلتا"
+      ]
+    },
+    {
+      "EnglishWord": "demand",
+      "Meanings": [
+        "تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "demand deposit",
+      "Meanings": [
+        "سپرده دیداری سپرده کوتاه مدت سپرده عندالمطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "demand forecasts",
+      "Meanings": [
+        "پیش بینی‌های تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "demand pull inflation",
+      "Meanings": [
+        "تورم ناشی از افزایش تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "demand pull inventory system",
+      "Meanings": [
+        "سیستم موجودی کالای مبتنی بر کشش تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "demise charter",
+      "Meanings": [
+        "اجاره کشتی به صورت لخت و دربست"
+      ]
+    },
+    {
+      "EnglishWord": "demographical information database",
+      "Meanings": [
+        "پایگاه داده اطلاعات جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "demurge",
+      "Meanings": [
+        "هزینه معطلی"
+      ]
+    },
+    {
+      "EnglishWord": "demurrage",
+      "Meanings": [
+        "خسارت تاخیر در تخلیه کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "denomination report",
+      "Meanings": [
+        "گزارش طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "denominator",
+      "Meanings": [
+        "مخرج کسر"
+      ]
+    },
+    {
+      "EnglishWord": "denominator level",
+      "Meanings": [
+        "سطح مبنا سطح فعالیت عادی مخرج کسر"
+      ]
+    },
+    {
+      "EnglishWord": "department",
+      "Meanings": [
+        "دایره",
+        "بخش",
+        "اداره"
+      ]
+    },
+    {
+      "EnglishWord": "department store",
+      "Meanings": [
+        "فروشگاه بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "departmental budget",
+      "Meanings": [
+        "بودجه دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "departmental cost of production report",
+      "Meanings": [
+        "گزارش هزینه تولید دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "departmental costing",
+      "Meanings": [
+        "هزینه یابی عملیات یا دوایر و کارگاهها"
+      ]
+    },
+    {
+      "EnglishWord": "departmental expense analysis sheet",
+      "Meanings": [
+        "کارت کاربرگ تجزیه و تحلیل هزینه‌های دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "departmental factory overhead",
+      "Meanings": [
+        "سربار کارخانه دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "departmental fixed costs",
+      "Meanings": [
+        "هزینه‌های ثابت دایره"
+      ]
+    },
+    {
+      "EnglishWord": "departmental rate of return",
+      "Meanings": [
+        "نرخ بازده بر حسب قسمتها"
+      ]
+    },
+    {
+      "EnglishWord": "departmentalization",
+      "Meanings": [
+        "تخصیص برحسب دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "departure",
+      "Meanings": [
+        "انحراف",
+        "عدول",
+        "مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "departure from ... ... ...",
+      "Meanings": [
+        "عدول از… تخطی از… عدم رعایت…"
+      ]
+    },
+    {
+      "EnglishWord": "departure from historical cost",
+      "Meanings": [
+        "نحراف از بهای تمام شده تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "dependent demand",
+      "Meanings": [
+        "تقاضا‌های وابسته مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "dependent variable",
+      "Meanings": [
+        "متغیر وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent variable costs",
+      "Meanings": [
+        "هزینه‌های متغیر وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "depletable assets",
+      "Meanings": [
+        "داراییهای نقصان پذیر تهی شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "depletion",
+      "Meanings": [
+        "کاهش استهلاک منابع طبیعی هزینه تهی شدن منابع طبیعی",
+        "استهلاک منابع طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "depletion base",
+      "Meanings": [
+        "مبنای استهلاک منابع طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "depletion expense",
+      "Meanings": [
+        "هزینه استهلاک داراییهای نامشهود"
+      ]
+    },
+    {
+      "EnglishWord": "depletion per unit",
+      "Meanings": [
+        "نرخ استهلاک واحد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "depletion rate",
+      "Meanings": [
+        "نرخ استهلاک منابع طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "deposit",
+      "Meanings": [
+        "سپرده وجوه",
+        "واریز کردن وجه",
+        "سپرده",
+        "پس انداز"
+      ]
+    },
+    {
+      "EnglishWord": "deposit in transit",
+      "Meanings": [
+        "سپرده بین راهی وجوه در راه"
+      ]
+    },
+    {
+      "EnglishWord": "depositor",
+      "Meanings": [
+        "دارنده حساب"
+      ]
+    },
+    {
+      "EnglishWord": "deposits",
+      "Meanings": [
+        "سپرده‌ها ودایع",
+        "سپرده ها"
+      ]
+    },
+    {
+      "EnglishWord": "deposits in transit",
+      "Meanings": [
+        "وجوه در راه"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable",
+      "Meanings": [
+        "استهلاک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable amount",
+      "Meanings": [
+        "مبلغ قابل استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable asset",
+      "Meanings": [
+        "دارایی قابل استهلاک استهلاک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable assets",
+      "Meanings": [
+        "داراییهای استهلاک پذیر",
+        "دارایی استهلاک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable cost",
+      "Meanings": [
+        "بهای تمام شده مشمول استهلاک بهای تمام شده استهلاک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation",
+      "Meanings": [
+        "استهلاک دارایی‌های ثاب و بلند مدت مشهود",
+        "استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation accounting",
+      "Meanings": [
+        "حسابداری استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation base",
+      "Meanings": [
+        "مبنای استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation expense",
+      "Meanings": [
+        "هزینه استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation method",
+      "Meanings": [
+        "روش استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation reserve",
+      "Meanings": [
+        "ذخیره استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation unit",
+      "Meanings": [
+        "واحد استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depression",
+      "Meanings": [
+        "رکود اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "depriciable assets",
+      "Meanings": [
+        "داراییهای استهلاک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "deprival value",
+      "Meanings": [
+        "ارزش فقدان ارزش جبرانی",
+        "ارزش فقدان"
+      ]
+    },
+    {
+      "EnglishWord": "depth of market",
+      "Meanings": [
+        "عمق بازار"
+      ]
+    },
+    {
+      "EnglishWord": "derivative financial instruments",
+      "Meanings": [
+        "اوراق بهادار مالی مشتقه"
+      ]
+    },
+    {
+      "EnglishWord": "derivative instruments and hedging activities",
+      "Meanings": [
+        "اوراق بهادار مشتقه و فعالیتهای مقابله با ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "derivative securities",
+      "Meanings": [
+        "اوراق بهادار مشتقه"
+      ]
+    },
+    {
+      "EnglishWord": "derivatives",
+      "Meanings": [
+        "اوراق بهادار مشتقه"
+      ]
+    },
+    {
+      "EnglishWord": "descretionery private information",
+      "Meanings": [
+        "اطلاعات خصوصی مصلحتی"
+      ]
+    },
+    {
+      "EnglishWord": "description",
+      "Meanings": [
+        "شرح",
+        "مشخصات",
+        "شرح مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive",
+      "Meanings": [
+        "توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive approach",
+      "Meanings": [
+        "روش رویکرد توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "design",
+      "Meanings": [
+        "طراحی طرح",
+        "طرح",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "design of products services or processes",
+      "Meanings": [
+        "طراحی محصولات خدمات یا فرایندها"
+      ]
+    },
+    {
+      "EnglishWord": "designed in costs",
+      "Meanings": [
+        "هزینه‌های طراحی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "desirability",
+      "Meanings": [
+        "مطلوبیت"
+      ]
+    },
+    {
+      "EnglishWord": "desktop tier",
+      "Meanings": [
+        "لایه نمایش"
+      ]
+    },
+    {
+      "EnglishWord": "despatch money",
+      "Meanings": [
+        "پاداش تخلیه یا بارگیری قبل از موعد"
+      ]
+    },
+    {
+      "EnglishWord": "destination",
+      "Meanings": [
+        "مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "detailed audit",
+      "Meanings": [
+        "حسابرسی تفصیلی جامع"
+      ]
+    },
+    {
+      "EnglishWord": "detailed drawings",
+      "Meanings": [
+        "نقشه‌های تفصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "detailed income statement",
+      "Meanings": [
+        "صورت سود و زیان تفصیلی",
+        "صورتحساب سود و زیان تفصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "detailed presentation",
+      "Meanings": [
+        "ارایه جزییات"
+      ]
+    },
+    {
+      "EnglishWord": "detailed project",
+      "Meanings": [
+        "طرح تفصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "detailed subsidiary records",
+      "Meanings": [
+        "مدارک تفضیلی کمکی و معین"
+      ]
+    },
+    {
+      "EnglishWord": "details",
+      "Meanings": [
+        "جزییات"
+      ]
+    },
+    {
+      "EnglishWord": "detection control",
+      "Meanings": [
+        "کنترلهای کشف"
+      ]
+    },
+    {
+      "EnglishWord": "detection risk",
+      "Meanings": [
+        "ریسک عدم کشف تحریفات",
+        "احتمال خطر عدم کشف"
+      ]
+    },
+    {
+      "EnglishWord": "detective controls",
+      "Meanings": [
+        "کنترلهای کشف کننده کنترلهای تشخیص دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "deterioration",
+      "Meanings": [
+        "وخیم‌تر شدن وخامت سیر نزولی طی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "determinable current liabilities",
+      "Meanings": [
+        "بدهیهای جاری قابل تعیین"
+      ]
+    },
+    {
+      "EnglishWord": "determinable liabilities",
+      "Meanings": [
+        "بدهیهای قابل تعیین"
+      ]
+    },
+    {
+      "EnglishWord": "detrimental",
+      "Meanings": [
+        "زیان آور",
+        "مضر"
+      ]
+    },
+    {
+      "EnglishWord": "deutsche institute for normung din deutsche institute for normungdin",
+      "Meanings": [
+        "انستیتوی استاندارد آلمانی"
+      ]
+    },
+    {
+      "EnglishWord": "devaluation",
+      "Meanings": [
+        "کاهش ارزش پول"
+      ]
+    },
+    {
+      "EnglishWord": "develop",
+      "Meanings": [
+        "توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "development",
+      "Meanings": [
+        "توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "development stage enterprise",
+      "Meanings": [
+        "واحد تجاری در مرحله قبل از بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "development-stage enterprises",
+      "Meanings": [
+        "واحدهای تجاری در مرحله قبل از بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "deviation",
+      "Meanings": [
+        "انحراف مغایرت"
+      ]
+    },
+    {
+      "EnglishWord": "deviation rate",
+      "Meanings": [
+        "ضریب انحراف ضریب مغایرت"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal matrix",
+      "Meanings": [
+        "ماتریس قطری / مورب"
+      ]
+    },
+    {
+      "EnglishWord": "diagram",
+      "Meanings": [
+        "دیاگرام",
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "dialogue",
+      "Meanings": [
+        "گفتگو"
+      ]
+    },
+    {
+      "EnglishWord": "differenatial cost",
+      "Meanings": [
+        "بهای تمام شده تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differenatial cost analysis",
+      "Meanings": [
+        "تجزیه و تحلیل بهای تمام شده تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference",
+      "Meanings": [
+        "تفاوت",
+        "اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "difference estimation",
+      "Meanings": [
+        "برآورد تفاضلی",
+        "برآورد تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "different fiscal periods",
+      "Meanings": [
+        "دوره‌های مالی متفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "different levels of production",
+      "Meanings": [
+        "سطوح مختلف تولید"
+      ]
+    },
+    {
+      "EnglishWord": "differential cost",
+      "Meanings": [
+        "هزینه بهای تمام شده تفاضلی",
+        "هزینه تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation",
+      "Meanings": [
+        "تمایز ایجاد تماز مشتق گیری"
+      ]
+    },
+    {
+      "EnglishWord": "digital work",
+      "Meanings": [
+        "کسب کار به حالت مدرن و دیجیتالی",
+        "عملیات دیجیتالی"
+      ]
+    },
+    {
+      "EnglishWord": "dilemma",
+      "Meanings": [
+        "معضل بلاتکلیفی برسر دوراهی ماندن"
+      ]
+    },
+    {
+      "EnglishWord": "diluted earnings per share  deps",
+      "Meanings": [
+        "سود تقلیل یافته هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "dilution",
+      "Meanings": [
+        "تقلیل کاهش",
+        "تقلیل ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "dilution effects of conversion",
+      "Meanings": [
+        "آثار تقلیل دهندگی تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "dilution of ownership",
+      "Meanings": [
+        "کاهش تقلیل سطح مالیکت"
+      ]
+    },
+    {
+      "EnglishWord": "dilutive securities",
+      "Meanings": [
+        "اوراق بهادار تقلیل دهنده سود هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "ابعاد"
+      ]
+    },
+    {
+      "EnglishWord": "diminishing marginal utility",
+      "Meanings": [
+        "مطلوبیت نهایی نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "direct access",
+      "Meanings": [
+        "دسترسی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct allocation method",
+      "Meanings": [
+        "روش تخصیص مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct approach",
+      "Meanings": [
+        "روش رویکرد مستیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct cost",
+      "Meanings": [
+        "هزینه مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct cost of a cost object",
+      "Meanings": [
+        "هزینه مستقیم موضوع هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "direct costing",
+      "Meanings": [
+        "هزینه یابی مستقیم نام دیگر هزینه یابی متغیر",
+        "هزینه یابی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct costing approach",
+      "Meanings": [
+        "روش رویکرد هزینه یابی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct costs",
+      "Meanings": [
+        "هزینه‌های مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct costs of acquisition",
+      "Meanings": [
+        "مخارج / هزینه‌های مستقیم تحصیل",
+        "مخارج مستقیم تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "direct departmental charges",
+      "Meanings": [
+        "هزینه‌های مستقیم دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "direct effect illegal acts",
+      "Meanings": [
+        "اعمال غیر قانونی دارای اثر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct entry method",
+      "Meanings": [
+        "روش ثبت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct estimation",
+      "Meanings": [
+        "برآورد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct evidence",
+      "Meanings": [
+        "شواهد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct expenses",
+      "Meanings": [
+        "هزینه‌های مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct factory overhead",
+      "Meanings": [
+        "سربار مستقیم کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "direct financial interests",
+      "Meanings": [
+        "منافع مالی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct financing lease",
+      "Meanings": [
+        "اجاره از نوع تامین مالی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct fixed expenses",
+      "Meanings": [
+        "هزینه‌های ثابت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct holdings",
+      "Meanings": [
+        "سرمایه گذاریهای مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct inventory deduction method",
+      "Meanings": [
+        "روش کاهش مستقیم ارزش موجودیها"
+      ]
+    },
+    {
+      "EnglishWord": "direct inventory reduction method",
+      "Meanings": [
+        "روش کاهش مستقیم ارزش موجودی کالا",
+        "روش کاهس مستقیم ارزش موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor",
+      "Meanings": [
+        "دستمزد مستقیم نیروی کار مستقیم",
+        "کار مستقیم",
+        "دستمزد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor budget",
+      "Meanings": [
+        "بودجه دستمزد مستقیم بودجه نیروی کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor cost",
+      "Meanings": [
+        "هزینه دستمزد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor costs",
+      "Meanings": [
+        "هزینه‌های کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor hours",
+      "Meanings": [
+        "ساعات کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor hours  dlh",
+      "Meanings": [
+        "ساعات کار متسقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labour efficiency variance",
+      "Meanings": [
+        "انحراف کارآیی کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labour idle time variance",
+      "Meanings": [
+        "انحراف اوقات بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "direct manufacturing costs",
+      "Meanings": [
+        "هزینه‌های مستقیم ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "direct manufacturing labor costs",
+      "Meanings": [
+        "هزینه‌های دستمزد مستقیم تولید"
+      ]
+    },
+    {
+      "EnglishWord": "direct matching",
+      "Meanings": [
+        "تطابق مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct material",
+      "Meanings": [
+        "مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct material usage budget",
+      "Meanings": [
+        "بودجه مصرف مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials",
+      "Meanings": [
+        "مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials budget",
+      "Meanings": [
+        "بودجه مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials cost variance",
+      "Meanings": [
+        "انحراف خالص مواد خام"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials costs",
+      "Meanings": [
+        "هزینه‌های مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials inventory",
+      "Meanings": [
+        "موجودی مواد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct materials price variance",
+      "Meanings": [
+        "انحراف قیمت مواد خام"
+      ]
+    },
+    {
+      "EnglishWord": "direct measurement",
+      "Meanings": [
+        "اندازه گیری مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct method",
+      "Meanings": [
+        "روش مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct payment",
+      "Meanings": [
+        "پرداخت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct posting",
+      "Meanings": [
+        "نقل مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct projection  estimate  of misstatement",
+      "Meanings": [
+        "برآورد مستقیم تحریف"
+      ]
+    },
+    {
+      "EnglishWord": "direct substantive tests",
+      "Meanings": [
+        "آزمونهای محتوا"
+      ]
+    },
+    {
+      "EnglishWord": "direct taxation act",
+      "Meanings": [
+        "قانون مالیاتهای مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct test of account balances",
+      "Meanings": [
+        "آزمون مستقیم مانده حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "direct test of final balances",
+      "Meanings": [
+        "آزمون مستقیم مانده حسابهای نهایی مانده‌های نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "direct tracing",
+      "Meanings": [
+        "ردیابی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct valuation",
+      "Meanings": [
+        "ارزشیابی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct variable",
+      "Meanings": [
+        "متغیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct variable cost",
+      "Meanings": [
+        "هزینه متغیر مستقیم",
+        "اقلام متغییر بهای تمام شده مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct wages rate variance",
+      "Meanings": [
+        "انحراف نرخ دستمزد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct wages variance",
+      "Meanings": [
+        "انحراف دستمزد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct write down method",
+      "Meanings": [
+        "روش تقلیل مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct write off",
+      "Meanings": [
+        "حذف مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct write off method",
+      "Meanings": [
+        "روش حذف مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct write-off method",
+      "Meanings": [
+        "روش حذف مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "directed sample selection",
+      "Meanings": [
+        "انتخاب جهت دار هدفمند نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "direction of flow symbol",
+      "Meanings": [
+        "نشانه جهت جریان",
+        "نشانه جهت حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "direction of testing",
+      "Meanings": [
+        "سمت آزمونها"
+      ]
+    },
+    {
+      "EnglishWord": "disadvantages",
+      "Meanings": [
+        "معایب ایرادات",
+        "معایب"
+      ]
+    },
+    {
+      "EnglishWord": "disaggregation of financial data",
+      "Meanings": [
+        "جداسازی اطلاعات مالی"
+      ]
+    },
+    {
+      "EnglishWord": "disaggregation of income tax expense",
+      "Meanings": [
+        "تفکیک هزینه مالیات بردرآمد"
+      ]
+    },
+    {
+      "EnglishWord": "disagreements",
+      "Meanings": [
+        "موارد عدم توافق"
+      ]
+    },
+    {
+      "EnglishWord": "disbursement",
+      "Meanings": [
+        "پرداخت نقدی",
+        "پرداخت",
+        "خرج"
+      ]
+    },
+    {
+      "EnglishWord": "disbursement voucher",
+      "Meanings": [
+        "سند پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "disbursements",
+      "Meanings": [
+        "پرداختهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "disbursments",
+      "Meanings": [
+        "مخارج"
+      ]
+    },
+    {
+      "EnglishWord": "disc",
+      "Meanings": [
+        "دیسک",
+        "صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "discharging port",
+      "Meanings": [
+        "بندر حمل تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "disclaimer of opinion",
+      "Meanings": [
+        "عدم اظهار نظر",
+        "عدم اظهارنظر حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure",
+      "Meanings": [
+        "افشاء"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure checklist",
+      "Meanings": [
+        "فهرست کنترل موارد افشاء",
+        "چک لیست افشاء"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure in financial reporting",
+      "Meanings": [
+        "افشاء در گزارشگری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure index",
+      "Meanings": [
+        "فهرست موارد افشاء"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure of replacement cost information",
+      "Meanings": [
+        "افشای اطلاعات بهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure of segments of an enterprise",
+      "Meanings": [
+        "افشای اطلاعات در مورد قسمتهای مختلف ی واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure principle",
+      "Meanings": [
+        "اصل افشاء"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure regirements",
+      "Meanings": [
+        "ضرورتهای افشاء"
+      ]
+    },
+    {
+      "EnglishWord": "disclosure requirements",
+      "Meanings": [
+        "الزامات افشاءگری"
+      ]
+    },
+    {
+      "EnglishWord": "discontinued operations",
+      "Meanings": [
+        "عملیات متوقف شده"
+      ]
+    },
+    {
+      "EnglishWord": "discount",
+      "Meanings": [
+        "تخفیف کسر تنزیل",
+        "تخفیف"
+      ]
+    },
+    {
+      "EnglishWord": "discount accumulating",
+      "Meanings": [
+        "انباشت کسر"
+      ]
+    },
+    {
+      "EnglishWord": "discount amortization on bonds payable",
+      "Meanings": [
+        "استهلاک کسر اوراق قرضه پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "discount and premium amortization of bonds",
+      "Meanings": [
+        "استهلاک تخصیص کسر و صرف اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "discount factor",
+      "Meanings": [
+        "عامل تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discount on a bond",
+      "Meanings": [
+        "کسر تخفیف اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "discount on bonds payable",
+      "Meanings": [
+        "کسر تخفیف اوراق قرضه پرداختنی",
+        "کسر اوراق پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "discount on stock",
+      "Meanings": [
+        "کسر تخفیف سهام"
+      ]
+    },
+    {
+      "EnglishWord": "discount period",
+      "Meanings": [
+        "دوره تخفیف"
+      ]
+    },
+    {
+      "EnglishWord": "discount rate",
+      "Meanings": [
+        "نرخ تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discount value of a bond",
+      "Meanings": [
+        "ارزش اوراق قرضه با کسر"
+      ]
+    },
+    {
+      "EnglishWord": "discounted",
+      "Meanings": [
+        "تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discounted cash flow",
+      "Meanings": [
+        "روش وجوه نقد تنزیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "discounted cash flow methods",
+      "Meanings": [
+        "روشهای تنزیل وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "discounted cash flows  dcf",
+      "Meanings": [
+        "جریانهای نقدی تنزیل شده تنزیل جریانهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "discounted future earnings",
+      "Meanings": [
+        "تنزیل سودهای آتی"
+      ]
+    },
+    {
+      "EnglishWord": "discounting",
+      "Meanings": [
+        "تنزیل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "discounting a note payable",
+      "Meanings": [
+        "تنزیل کردن سند پرداختی"
+      ]
+    },
+    {
+      "EnglishWord": "discounting a note receivable",
+      "Meanings": [
+        "تنزیل کردن سند دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "discounting model",
+      "Meanings": [
+        "مدل تنزیل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "discounting notes receivable",
+      "Meanings": [
+        "تنزیل کردن اسناد دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "discountinued operations",
+      "Meanings": [
+        "عملیات متوقف شده"
+      ]
+    },
+    {
+      "EnglishWord": "discounts lost",
+      "Meanings": [
+        "تخفیفات سوخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "discover",
+      "Meanings": [
+        "کشف",
+        "درک"
+      ]
+    },
+    {
+      "EnglishWord": "discovery sampling",
+      "Meanings": [
+        "نمونه گیری اکتشافی"
+      ]
+    },
+    {
+      "EnglishWord": "discovery value accounting",
+      "Meanings": [
+        "حسابداری ارزش اکتشاف"
+      ]
+    },
+    {
+      "EnglishWord": "discrepancy",
+      "Meanings": [
+        "اختلاف مغایرت",
+        "مغایرت"
+      ]
+    },
+    {
+      "EnglishWord": "discrete",
+      "Meanings": [
+        "گسسته",
+        "تولید گسسته",
+        "ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete loss",
+      "Meanings": [
+        "زیان غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "discrete manufacturing",
+      "Meanings": [
+        "تولید ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete probability distribution",
+      "Meanings": [
+        "توزیع احتمال گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete view approach",
+      "Meanings": [
+        "دیدگاه نگرش یا رویکرد مجزا مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "discretionary cost",
+      "Meanings": [
+        "هزینه تحت کنترل هزینه اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "discretionary fixed cost",
+      "Meanings": [
+        "اقلام ثابت بهای تمام شده اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "discretionary fixed expenses",
+      "Meanings": [
+        "هزینه‌های ثابت تحت کنترل هزینه‌های ثابت اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "discretionary order",
+      "Meanings": [
+        "سفارش تحت کنترل سفارش اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "discriminant analysis",
+      "Meanings": [
+        "تجزیه و تحلیل تمایز دهنده",
+        "تحلیل متمایز"
+      ]
+    },
+    {
+      "EnglishWord": "discussion memorandum",
+      "Meanings": [
+        "گزارش تبدیل نظر"
+      ]
+    },
+    {
+      "EnglishWord": "discussion paper",
+      "Meanings": [
+        "مقاله ای برای بحث"
+      ]
+    },
+    {
+      "EnglishWord": "dishonor of a note",
+      "Meanings": [
+        "نکول سند واخواست کردن سند"
+      ]
+    },
+    {
+      "EnglishWord": "dishonored notes receivable",
+      "Meanings": [
+        "اسناد دریافتنی نکول واخواست شده"
+      ]
+    },
+    {
+      "EnglishWord": "disintermediation",
+      "Meanings": [
+        "واسطه زدایی حذف واسطه گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "disk",
+      "Meanings": [
+        "دیسک",
+        "صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "diskette",
+      "Meanings": [
+        "دیسکت در کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "dismissal",
+      "Meanings": [
+        "اخراج"
+      ]
+    },
+    {
+      "EnglishWord": "dispatch",
+      "Meanings": [
+        "ارسال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dispersed ownership",
+      "Meanings": [
+        "مالکیت پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion",
+      "Meanings": [
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "display decision",
+      "Meanings": [
+        "تصمیم گیری درخصوص محل انعکاس / نمایش تصمیم گیری درباره محل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "display symbol",
+      "Meanings": [
+        "نشانه صفحه تلویزیونی یا تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "disposal",
+      "Meanings": [
+        "واگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "disposal date",
+      "Meanings": [
+        "تاریخ واگذاری تاریخ فروش"
+      ]
+    },
+    {
+      "EnglishWord": "disposal of a segment of an enterprise",
+      "Meanings": [
+        "واگذاری قسمتی از یک واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "disposal value",
+      "Meanings": [
+        "ارزش واگذاری اسقاط"
+      ]
+    },
+    {
+      "EnglishWord": "disposing of variances",
+      "Meanings": [
+        "بستن حسابهای انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "disposition",
+      "Meanings": [
+        "واگذاری داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "disposition of variances",
+      "Meanings": [
+        "بستن انحرافات"
+      ]
+    },
+    {
+      "EnglishWord": "disputes",
+      "Meanings": [
+        "مناظرات مذاکرات",
+        "اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "dissertation",
+      "Meanings": [
+        "رساله پایان نامه تز"
+      ]
+    },
+    {
+      "EnglishWord": "dissimilar assets",
+      "Meanings": [
+        "دارایی‌های غیر مشابه",
+        "داراییهای غیر مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "dissolution",
+      "Meanings": [
+        "فرآیند تصفیه انحلال شرکت",
+        "انحلال"
+      ]
+    },
+    {
+      "EnglishWord": "distance",
+      "Meanings": [
+        "فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "distortion",
+      "Meanings": [
+        "تحریف"
+      ]
+    },
+    {
+      "EnglishWord": "distressed goods",
+      "Meanings": [
+        "کالای توقیفی"
+      ]
+    },
+    {
+      "EnglishWord": "distributable income",
+      "Meanings": [
+        "سود قابل توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distributed data processing",
+      "Meanings": [
+        "پردازش اطلاعات پراکنده / پردازش اطلاعات توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution considerations",
+      "Meanings": [
+        "ملاحظات توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution cost",
+      "Meanings": [
+        "هزینه توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution costs",
+      "Meanings": [
+        "هزینه‌های توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution measures",
+      "Meanings": [
+        "معیارهای توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of dividend",
+      "Meanings": [
+        "توزیع سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "distribution overhead",
+      "Meanings": [
+        "سربار مخارج توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution requirements planning",
+      "Meanings": [
+        "برنامه‌ریزی توزیع محصول"
+      ]
+    },
+    {
+      "EnglishWord": "distribution to owners",
+      "Meanings": [
+        "پرداختی به مالکان توزیع بین مالکان",
+        "توزیع منابع بین صاحبان سهام سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "distributional effects",
+      "Meanings": [
+        "آثار توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "distributor",
+      "Meanings": [
+        "توزیع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "disturbance term",
+      "Meanings": [
+        "عامل مزاحم عامل خطا"
+      ]
+    },
+    {
+      "EnglishWord": "diversification",
+      "Meanings": [
+        "تنوع بخشیدن متنوع سازی ایجاد تنوع",
+        "تنوع بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "diversification across industry",
+      "Meanings": [
+        "تنوع بخشی در حوزه صنعت"
+      ]
+    },
+    {
+      "EnglishWord": "diversified company",
+      "Meanings": [
+        "شرکت با فعالیتهای نامتجانس"
+      ]
+    },
+    {
+      "EnglishWord": "diversified portfolio",
+      "Meanings": [
+        "پرتفوی متنوع مجموعه سرمایه گذاری متنوع"
+      ]
+    },
+    {
+      "EnglishWord": "diversified portfolios",
+      "Meanings": [
+        "پرتفوی‌های متنوع مجموعه سرمایه گذاریهای متنوع",
+        "مجموعه متنوع اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "divest",
+      "Meanings": [
+        "سرمایه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "divestiture",
+      "Meanings": [
+        "تبدیل سرمایه گذاریها به وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "dividend",
+      "Meanings": [
+        "سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend decision",
+      "Meanings": [
+        "تصمیمات مربوط به تقسیم سود"
+      ]
+    },
+    {
+      "EnglishWord": "dividend declared",
+      "Meanings": [
+        "سود سهام اعلام شده"
+      ]
+    },
+    {
+      "EnglishWord": "dividend discount model",
+      "Meanings": [
+        "مدل تنزیل گردن سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend distribution",
+      "Meanings": [
+        "توزیع سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend growth method",
+      "Meanings": [
+        "مدل مبتنی بر رشد سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend in arrears",
+      "Meanings": [
+        "سود عقب افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "dividend income",
+      "Meanings": [
+        "درآمد سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend irrelevance theory",
+      "Meanings": [
+        "تیوری نظریه نامربوط بودن سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend payout",
+      "Meanings": [
+        "پرداخت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend payout ratio",
+      "Meanings": [
+        "نسبت سود تقسیمی نسبت پرداخت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend per share payout ratio",
+      "Meanings": [
+        "نسبت پرداخت سود نقدی هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "dividend preferences",
+      "Meanings": [
+        "اولویت‌های سود سهام",
+        "اولویتهای سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend price ratio",
+      "Meanings": [
+        "نسبت سود نقدی هر سهم به قیمت بازار هر سهم نسبت بازده نقدی سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend puzzle",
+      "Meanings": [
+        "معمای سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend rate",
+      "Meanings": [
+        "نرخ سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend record book",
+      "Meanings": [
+        "راهنمای سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend stability",
+      "Meanings": [
+        "ثبات سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend yield",
+      "Meanings": [
+        "بازده نقدی سود سهام",
+        "بازده سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividends",
+      "Meanings": [
+        "سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividends declared",
+      "Meanings": [
+        "سود سهام اعلام شده"
+      ]
+    },
+    {
+      "EnglishWord": "dividends in arrears",
+      "Meanings": [
+        "سود سهام معوق سود سهام اعلام نشده پرداخت نشده",
+        "سود پرداخت نشده سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividends in kind",
+      "Meanings": [
+        "سود غیر نقدی سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividends payable in stock",
+      "Meanings": [
+        "سود سهمی پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "dividends per share  dps",
+      "Meanings": [
+        "سود تقسیمی هر سهم سود نقدی یا پرداخت شده هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "divisible l/c",
+      "Meanings": [
+        "اعتبار اسنادی قابل تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "division",
+      "Meanings": [
+        "تقسیم",
+        "بخش",
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "division of cpa firms",
+      "Meanings": [
+        "بخش موسسات حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "do or die approach",
+      "Meanings": [
+        "روش انجام بده والا بمیر"
+      ]
+    },
+    {
+      "EnglishWord": "dobtful accounts",
+      "Meanings": [
+        "مطالبات مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "doctrines",
+      "Meanings": [
+        "عقاید نظریات",
+        "عقاید"
+      ]
+    },
+    {
+      "EnglishWord": "document",
+      "Meanings": [
+        "سند مدرک",
+        "سند",
+        "مدرک"
+      ]
+    },
+    {
+      "EnglishWord": "document imaging system",
+      "Meanings": [
+        "سیستم‌های تصویر سازی اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "document of title",
+      "Meanings": [
+        "سند مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "documentary evidence",
+      "Meanings": [
+        "شواهد مستند"
+      ]
+    },
+    {
+      "EnglishWord": "documentation",
+      "Meanings": [
+        "مستند سازی"
+      ]
+    },
+    {
+      "EnglishWord": "dole",
+      "Meanings": [
+        "حقوق ایام بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "dollar unit sampling  dus",
+      "Meanings": [
+        "نمونه گیری بر اساس واحد پولی"
+      ]
+    },
+    {
+      "EnglishWord": "dollar unit sampling  dus dus",
+      "Meanings": [
+        "نمونه گیری با ضریب احتمال متناسب با مبالغ ثبت شده"
+      ]
+    },
+    {
+      "EnglishWord": "dollar value retail lifo",
+      "Meanings": [
+        "روش خرده فروشی اولین صادره از آخرین وارده ریالی / دلاری"
+      ]
+    },
+    {
+      "EnglishWord": "dollar value retail lifo method",
+      "Meanings": [
+        "روش خرده فروشی اولین صادره از اولین وارده ریالی /دلاری"
+      ]
+    },
+    {
+      "EnglishWord": "dollar weighted return",
+      "Meanings": [
+        "بازده ریالی / دلاری"
+      ]
+    },
+    {
+      "EnglishWord": "domestic sales",
+      "Meanings": [
+        "فروش داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "dominat shareholder class",
+      "Meanings": [
+        "طبقه سهامداران مسلط"
+      ]
+    },
+    {
+      "EnglishWord": "donated asset",
+      "Meanings": [
+        "دارایی اهدا شده اهدایی"
+      ]
+    },
+    {
+      "EnglishWord": "donated assets",
+      "Meanings": [
+        "داراییهای اهدا شده",
+        "دااییهای اهدایی"
+      ]
+    },
+    {
+      "EnglishWord": "donated capital",
+      "Meanings": [
+        "سرمایه اهدا شده",
+        "سرمایه اعطایی"
+      ]
+    },
+    {
+      "EnglishWord": "donated stock",
+      "Meanings": [
+        "سهام اهداء شده"
+      ]
+    },
+    {
+      "EnglishWord": "donated stocks",
+      "Meanings": [
+        "سهام اهدا شده سهام اهدایی"
+      ]
+    },
+    {
+      "EnglishWord": "donated treasury stock",
+      "Meanings": [
+        "سهام خزانه اهدا شده",
+        "سهام خزانه اهداء شده"
+      ]
+    },
+    {
+      "EnglishWord": "donor",
+      "Meanings": [
+        "اهداء کننده"
+      ]
+    },
+    {
+      "EnglishWord": "donor imposed conditions",
+      "Meanings": [
+        "شرایط تحمیلی توسط اهداء کننده"
+      ]
+    },
+    {
+      "EnglishWord": "dormant member of director",
+      "Meanings": [
+        "عضو غیر موظف هیات مدیره"
+      ]
+    },
+    {
+      "EnglishWord": "double auction",
+      "Meanings": [
+        "حراج"
+      ]
+    },
+    {
+      "EnglishWord": "double counting",
+      "Meanings": [
+        "احتساب شمارش مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double declining balance  ddb  depreciation",
+      "Meanings": [
+        "استهلاک مانده نزولی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double declining balance  ddb  depreciation method",
+      "Meanings": [
+        "روش استهلاک مانده نزولی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double declining balance method",
+      "Meanings": [
+        "روش مانده نزولی مضاعف",
+        "روش مانده نزولی با نرخ مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double entry accounting system",
+      "Meanings": [
+        "سیستم حسابداری ثبت دو طرفه",
+        "سیستم حسابداری دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "double entry bookkeeping",
+      "Meanings": [
+        "دفترداری دوبل یا دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "double taxation",
+      "Meanings": [
+        "مالیات مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double–entry accounting",
+      "Meanings": [
+        "حسابداری ثبت دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "double-entry system of accounting",
+      "Meanings": [
+        "سیستم حسابداری دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "doubtful accounts",
+      "Meanings": [
+        "مطالبات مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "dow jones industrial average  djia  index",
+      "Meanings": [
+        "شاخص متوسط میانگین صنعتی داوجونز"
+      ]
+    },
+    {
+      "EnglishWord": "dow theory",
+      "Meanings": [
+        "تیوری نظریه داو"
+      ]
+    },
+    {
+      "EnglishWord": "down payment",
+      "Meanings": [
+        "پیش قسط پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "down planning",
+      "Meanings": [
+        "برنامه‌ریزی از بالا به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "down shift",
+      "Meanings": [
+        "شیفت صبح",
+        "صیح کاری"
+      ]
+    },
+    {
+      "EnglishWord": "down sizing",
+      "Meanings": [
+        "فرآیند کوچک نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "down trend",
+      "Meanings": [
+        "روند نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "downside risk",
+      "Meanings": [
+        "ریسک کاهش قیمت ریسک تنزل"
+      ]
+    },
+    {
+      "EnglishWord": "downstream costs",
+      "Meanings": [
+        "هزینه‌های مرتبط با فروش دارای توسط شرکت اصلی به واحدهای فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "dr. debit",
+      "Meanings": [
+        "بدهکار بد"
+      ]
+    },
+    {
+      "EnglishWord": "draft",
+      "Meanings": [
+        "برات",
+        "حواله",
+        "پیش نویس"
+      ]
+    },
+    {
+      "EnglishWord": "draft at sight",
+      "Meanings": [
+        "برات عندالمطالبه برات دیداری"
+      ]
+    },
+    {
+      "EnglishWord": "drafts",
+      "Meanings": [
+        "حواله‌های ارزی",
+        "بروات"
+      ]
+    },
+    {
+      "EnglishWord": "draw up a contract",
+      "Meanings": [
+        "تنظیم قرار داد"
+      ]
+    },
+    {
+      "EnglishWord": "drawee",
+      "Meanings": [
+        "گیرنده برات",
+        "براتگیر"
+      ]
+    },
+    {
+      "EnglishWord": "drawer",
+      "Meanings": [
+        "صادر کننده برات امضاء کننده برات",
+        "براتکش"
+      ]
+    },
+    {
+      "EnglishWord": "drawings",
+      "Meanings": [
+        "برداشتها"
+      ]
+    },
+    {
+      "EnglishWord": "driver analysis",
+      "Meanings": [
+        "تجزیه و تحلیل عوامل ایجاد محرکهای هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "driver tracing",
+      "Meanings": [
+        "ردیابی محرکهای هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "drivers",
+      "Meanings": [
+        "محرکها"
+      ]
+    },
+    {
+      "EnglishWord": "du pont chart",
+      "Meanings": [
+        "نمودار دو پان"
+      ]
+    },
+    {
+      "EnglishWord": "du pont model",
+      "Meanings": [
+        "مدل دو پانت"
+      ]
+    },
+    {
+      "EnglishWord": "du pont ratio system",
+      "Meanings": [
+        "روش نسبت یابی دوپان"
+      ]
+    },
+    {
+      "EnglishWord": "du pont system",
+      "Meanings": [
+        "سیستم دو پونت"
+      ]
+    },
+    {
+      "EnglishWord": "dual aspect",
+      "Meanings": [
+        "ثبت دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "dual aspect concept",
+      "Meanings": [
+        "مفهوم دوطرفه بودن حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "dual dated audit report",
+      "Meanings": [
+        "گزارش حسابرسی با تاریخ گذاری دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual dating",
+      "Meanings": [
+        "تاریخ گذاری دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual pricing",
+      "Meanings": [
+        "قیمت گذاری دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual pricing arrangement",
+      "Meanings": [
+        "توافق برنامه قیمت گذاری دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual pricing solution",
+      "Meanings": [
+        "راه حل قیمت گذاری دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual programming",
+      "Meanings": [
+        "برنامه ریزی مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "dual purpose sampling",
+      "Meanings": [
+        "نمونه گیری دو منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "dual purpose test",
+      "Meanings": [
+        "آزمون دو منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "dual purpose tests",
+      "Meanings": [
+        "آزمونهای مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "dual rate method",
+      "Meanings": [
+        "روش دو نرخی"
+      ]
+    },
+    {
+      "EnglishWord": "dual transfer pricing",
+      "Meanings": [
+        "قیمت گذاری دوگانه انتقالات داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "due date",
+      "Meanings": [
+        "سر رسید"
+      ]
+    },
+    {
+      "EnglishWord": "due diligence",
+      "Meanings": [
+        "دقت عمل سخت کوشی جدیت",
+        "ارزیابی / رسیدگی ویزه"
+      ]
+    },
+    {
+      "EnglishWord": "due from other funds",
+      "Meanings": [
+        "بدهی سایر حسابهای مستقل طلب از سایر حسابهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "due process",
+      "Meanings": [
+        "فرآیند دموکراتیک استانداردگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "due process procedure",
+      "Meanings": [
+        "فرآیند چند گانه تدوین استانداردهای حسابداری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "due professional care",
+      "Meanings": [
+        "دقت و مراقبت حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "due to other funds",
+      "Meanings": [
+        "بدهی به سایر حسابهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "due to other governmental units",
+      "Meanings": [
+        "بدهی به سایر سازمانهای دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy variables",
+      "Meanings": [
+        "متغیرهای مجازی مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "dumping",
+      "Meanings": [
+        "عرضه بیش از حد محصول به بازار به منظور پایین آوردن قیمت",
+        "دامپینگ",
+        "فروش کالا در بازار خارجی با قیمتی کمتر"
+      ]
+    },
+    {
+      "EnglishWord": "duplicate disclosure",
+      "Meanings": [
+        "افشای مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "durability",
+      "Meanings": [
+        "دوام ماندگاری"
+      ]
+    },
+    {
+      "EnglishWord": "durable goods",
+      "Meanings": [
+        "کالاهای با دوام",
+        "کالای بادوام"
+      ]
+    },
+    {
+      "EnglishWord": "duration",
+      "Meanings": [
+        "مدت / دوره انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "duration of shipment",
+      "Meanings": [
+        "دوره حمل"
+      ]
+    },
+    {
+      "EnglishWord": "duration of the work",
+      "Meanings": [
+        "مدت زمان انجام کار",
+        "مدت اتمام کار"
+      ]
+    },
+    {
+      "EnglishWord": "during construction",
+      "Meanings": [
+        "در خلال ساخت شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "during production",
+      "Meanings": [
+        "در خلال تولید شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "duty",
+      "Meanings": [
+        "حقوق و عوارض"
+      ]
+    },
+    {
+      "EnglishWord": "duty free",
+      "Meanings": [
+        "معاف از حقوق گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "برنامه ریزی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dysfunctional behavior",
+      "Meanings": [
+        "رفتار غیر حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dysfunctional decision making",
+      "Meanings": [
+        "تصمیم گیری غیر حرفه ای"
+      ]
+    }
+  ]
+}

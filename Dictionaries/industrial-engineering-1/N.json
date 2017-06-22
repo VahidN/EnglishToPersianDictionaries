@@ -1,0 +1,806 @@
+﻿{
+  "Group": "N",
+  "Entries": 111,
+  "Words": [
+    {
+      "EnglishWord": "nail bit",
+      "Meanings": [
+        "مته سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "national income",
+      "Meanings": [
+        "درآمد ملی"
+      ]
+    },
+    {
+      "EnglishWord": "natural",
+      "Meanings": [
+        "طبیعی",
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "natural frequency",
+      "Meanings": [
+        "فرکانس طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural process",
+      "Meanings": [
+        "فرآیند عادی",
+        "پویش طبیعی",
+        "فرآیند طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural rubber",
+      "Meanings": [
+        "کایوچو",
+        "لاستیک طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural weighting",
+      "Meanings": [
+        "وزن دادن طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "nature",
+      "Meanings": [
+        "طبیعت",
+        "سرشت"
+      ]
+    },
+    {
+      "EnglishWord": "necessity",
+      "Meanings": [
+        "لزوم",
+        "ضرورت"
+      ]
+    },
+    {
+      "EnglishWord": "neck",
+      "Meanings": [
+        "گلویی",
+        "گردن",
+        "گردنه",
+        "گلوگاه"
+      ]
+    },
+    {
+      "EnglishWord": "necking",
+      "Meanings": [
+        "بغلتراشی",
+        "باریکسازی",
+        "گلو دادن",
+        "ایجاد گردنه"
+      ]
+    },
+    {
+      "EnglishWord": "needle",
+      "Meanings": [
+        "سوزن",
+        "عقربه",
+        "سوزنی",
+        "خار",
+        "شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "negation",
+      "Meanings": [
+        "تناقض",
+        "خنثی سازی",
+        "نفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative binomial",
+      "Meanings": [
+        "بینم منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative binomial distribution",
+      "Meanings": [
+        "توزیع دوجمله ای",
+        "توزیع بینم منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative definite matrix",
+      "Meanings": [
+        "ماتریس معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative feedback",
+      "Meanings": [
+        "پس خور منفی",
+        "فیدبک منفی",
+        "واخوراند منفی",
+        "ضد واکنش",
+        "عکس العمل معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "negative semidefinite",
+      "Meanings": [
+        "نیمه معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative semidefinite matrix",
+      "Meanings": [
+        "ماتریس نیمه معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative skewness",
+      "Meanings": [
+        "کجی منفی",
+        "اریب منفی",
+        "چوله منفی",
+        "کشیدگی منفی",
+        "ناهنجاری منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negotiable bonds",
+      "Meanings": [
+        "اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "nested",
+      "Meanings": [
+        "تودرتو"
+      ]
+    },
+    {
+      "EnglishWord": "net",
+      "Meanings": [
+        "خالص",
+        "بدون ظرف",
+        "ویژه",
+        "دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "net asset",
+      "Meanings": [
+        "دارایی خالص",
+        "دارایی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net benefit",
+      "Meanings": [
+        "سود خالص",
+        "فایده خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net cash flow",
+      "Meanings": [
+        "جریان نقدی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net income",
+      "Meanings": [
+        "درآمد خالص",
+        "درآمد ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net inventory value",
+      "Meanings": [
+        "مقدار موجودی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net operating income",
+      "Meanings": [
+        "روش درآمد عملیاتی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net present value",
+      "Meanings": [
+        "ارزش فعلی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net present worth",
+      "Meanings": [
+        "ارزش ویژه کنونی",
+        "ارزش کنونی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net profit",
+      "Meanings": [
+        "سود خالص",
+        "سود ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net return",
+      "Meanings": [
+        "بازده خالص",
+        "برگشتی ناب"
+      ]
+    },
+    {
+      "EnglishWord": "net worth",
+      "Meanings": [
+        "بازده خالص",
+        "برگشتی ناب"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه",
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "network analysis",
+      "Meanings": [
+        "تحلیل شبکه",
+        "تحلیل شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "network capital",
+      "Meanings": [
+        "سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "network logic",
+      "Meanings": [
+        "منطق شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network planning",
+      "Meanings": [
+        "برنامه ریزی شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "networking convention",
+      "Meanings": [
+        "قاعده شبکه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "networks of queue",
+      "Meanings": [
+        "شبکه‌های صف"
+      ]
+    },
+    {
+      "EnglishWord": "neutral flame",
+      "Meanings": [
+        "شعله خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "next-in first-out",
+      "Meanings": [
+        "روش اولین صادره از وارده آتی"
+      ]
+    },
+    {
+      "EnglishWord": "nickel-silver",
+      "Meanings": [
+        "ورشو"
+      ]
+    },
+    {
+      "EnglishWord": "nipple",
+      "Meanings": [
+        "گریسخور",
+        "روغنخور",
+        "پستانک",
+        "مغزی",
+        "افشانک",
+        "شیار گریسکاری"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره",
+        "ایستگاه",
+        "دایره",
+        "محل نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "node network",
+      "Meanings": [
+        "شبکه گرهی"
+      ]
+    },
+    {
+      "EnglishWord": "noise",
+      "Meanings": [
+        "غوغا",
+        "سروصدا"
+      ]
+    },
+    {
+      "EnglishWord": "nominal dimension",
+      "Meanings": [
+        "اندازه اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal price",
+      "Meanings": [
+        "قیمت اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal value",
+      "Meanings": [
+        "مبلغ اسمی",
+        "ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic variable",
+      "Meanings": [
+        "متغیر غیر پایه ای",
+        "متغیر غیر اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "nondefective unit",
+      "Meanings": [
+        "واحد غیر معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "nondegeneracy",
+      "Meanings": [
+        "ناتباهی",
+        "ناتباهیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "non-destructive test",
+      "Meanings": [
+        "آزمایش غیر مخرب",
+        "آزمایش غیر تخریبی"
+      ]
+    },
+    {
+      "EnglishWord": "non-deterministic",
+      "Meanings": [
+        "نامتقن",
+        "غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "non-existent demand",
+      "Meanings": [
+        "تقاضای ناموجود"
+      ]
+    },
+    {
+      "EnglishWord": "non-heat treatable",
+      "Meanings": [
+        "عملیات حرارتی ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non-homogeneous",
+      "Meanings": [
+        "ناهمگن",
+        "غیر همگون"
+      ]
+    },
+    {
+      "EnglishWord": "noninvertible matrix",
+      "Meanings": [
+        "ماتریس وارون ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear correlation",
+      "Meanings": [
+        "همبستگی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear programming",
+      "Meanings": [
+        "برنامه ریزی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegativity constraint",
+      "Meanings": [
+        "محدودیت غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric",
+      "Meanings": [
+        "غیر پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonpermanent die",
+      "Meanings": [
+        "قالب غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "nonproductive labor",
+      "Meanings": [
+        "کار غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "non-reversing",
+      "Meanings": [
+        "معکوس نشو",
+        "یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular",
+      "Meanings": [
+        "غیر منفرد",
+        "ناتکین"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular matrix",
+      "Meanings": [
+        "ماتریس غیر منفرد",
+        "ماتریس عادی",
+        "ماتریس غیر تکی"
+      ]
+    },
+    {
+      "EnglishWord": "nonstrictly-determined matrix",
+      "Meanings": [
+        "ماتریس کاملا غیر معین"
+      ]
+    },
+    {
+      "EnglishWord": "non-zero-sum game",
+      "Meanings": [
+        "بازی مجموع غیر صفر"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "هنجار",
+        "نرم",
+        "استاندارد",
+        "پذیرفته شده",
+        "ملاک",
+        "استاندارد پذیرفته شده",
+        "روش",
+        "معیار",
+        "اصل",
+        "اصول ثابت",
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "نرمال",
+        "عادی",
+        "معمولی",
+        "طبیعی",
+        "قایم",
+        "بهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal allowance",
+      "Meanings": [
+        "زمان بیکاری مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution",
+      "Meanings": [
+        "توزیع نرمال",
+        "پخش عادی",
+        "پخش نرمال",
+        "پخش بهنجار",
+        "پخش هنجاری"
+      ]
+    },
+    {
+      "EnglishWord": "normal probability density function",
+      "Meanings": [
+        "تابع چگالی احتمال نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal random variable",
+      "Meanings": [
+        "کمیت تصادفی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal stock",
+      "Meanings": [
+        "موجودی طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "normal stress",
+      "Meanings": [
+        "بار عمودی",
+        "تنش عمودی",
+        "تنش محوری"
+      ]
+    },
+    {
+      "EnglishWord": "normal time",
+      "Meanings": [
+        "زمان عادی",
+        "زمان معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "normal vector",
+      "Meanings": [
+        "بردار عمودی",
+        "بردار قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normalized",
+      "Meanings": [
+        "نرمال شده",
+        "هنجار یافته"
+      ]
+    },
+    {
+      "EnglishWord": "normalizing",
+      "Meanings": [
+        "نرماله کردن",
+        "طبیعی کردن",
+        "نرمالیزه کردن",
+        "عادی سازی",
+        "عادی کردن",
+        "نرم کردن",
+        "نرمالسازی",
+        "بهنجار کردن",
+        "یکنواخت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "normalizing furnace",
+      "Meanings": [
+        "کوره نرمالیزه کننده",
+        "کوره نرمال کننده",
+        "کوره یکنواخت سازی"
+      ]
+    },
+    {
+      "EnglishWord": "normative supply function",
+      "Meanings": [
+        "تابع ارزشی عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "northwest corner method",
+      "Meanings": [
+        "روش گوشه چپ بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "northwest corner rule",
+      "Meanings": [
+        "قاعده گوشه شمال غربی",
+        "قانون گوشه شمال غربی"
+      ]
+    },
+    {
+      "EnglishWord": "notation",
+      "Meanings": [
+        "نماد",
+        "نشانه گذاری",
+        "علامتگذاری",
+        "نشانگذاری",
+        "نشانه رده بندی",
+        "نشانه طبقه بندی",
+        "نماد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "notch",
+      "Meanings": [
+        "شکاف",
+        "شکاف دادن",
+        "گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "notching",
+      "Meanings": [
+        "گوشه زنی",
+        "گوشه بری",
+        "بریدن لبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "note receivable",
+      "Meanings": [
+        "سفته دریافتنی",
+        "سفته وصولی",
+        "سند دریافتنی",
+        "سند وصولی"
+      ]
+    },
+    {
+      "EnglishWord": "notes payable",
+      "Meanings": [
+        "سفته‌های پرداختنی",
+        "اسناد پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "notes receivable",
+      "Meanings": [
+        "حساب اسناد دریافتنی",
+        "اسناد دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "not-go gage",
+      "Meanings": [
+        "شابلون نرو",
+        "سنجه نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle",
+      "Meanings": [
+        "افشانک",
+        "شیپوره",
+        "نازل",
+        "قسمت خروج",
+        "مجرای خروج",
+        "پستانک",
+        "ژیگلور",
+        "سوختپاش",
+        "ماسه پاش",
+        "سوزن سوختپاش",
+        "پخش کن",
+        "فواره",
+        "مغزی"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle tip",
+      "Meanings": [
+        "نوک تزریق کننده"
+      ]
+    },
+    {
+      "EnglishWord": "np chart",
+      "Meanings": [
+        "نمودار تعداد ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "nugget",
+      "Meanings": [
+        "دانه فلز",
+        "منطقه اختلاط",
+        "دگمه جش"
+      ]
+    },
+    {
+      "EnglishWord": "null",
+      "Meanings": [
+        "صفر",
+        "خنثی",
+        "منفی"
+      ]
+    },
+    {
+      "EnglishWord": "null event",
+      "Meanings": [
+        "حادثه خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "null hypothesis",
+      "Meanings": [
+        "فرض صفر",
+        "فرضیه خنثی",
+        "فرضیه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null matrix",
+      "Meanings": [
+        "ماتریس صفر",
+        "ماتریس تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null-recurrent",
+      "Meanings": [
+        "برگشت پذیر تهی",
+        "بازگشتی",
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "number of renewals",
+      "Meanings": [
+        "تعداد تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "number of teeth",
+      "Meanings": [
+        "تعداد دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "numerical approach",
+      "Meanings": [
+        "روش عددی",
+        "نگرش عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical arrangement",
+      "Meanings": [
+        "ترتیب شماره ای"
+      ]
+    },
+    {
+      "EnglishWord": "numerical control",
+      "Meanings": [
+        "کنترل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical solution",
+      "Meanings": [
+        "جواب عددی",
+        "حل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "nut",
+      "Meanings": [
+        "مهره",
+        "مهره شاتون",
+        "مهره ضامن"
+      ]
+    },
+    {
+      "EnglishWord": "nut and screw running head",
+      "Meanings": [
+        "کله گی پیچ و مهره ده"
+      ]
+    }
+  ]
+}

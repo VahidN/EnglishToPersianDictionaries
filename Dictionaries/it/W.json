@@ -1,0 +1,720 @@
+﻿{
+  "Group": "W",
+  "Entries": 113,
+  "Words": [
+    {
+      "EnglishWord": "w3c",
+      "Meanings": [
+        "World Wide Web Consortium"
+      ]
+    },
+    {
+      "EnglishWord": "wad",
+      "Meanings": [
+        "فایلهای بازی Doom"
+      ]
+    },
+    {
+      "EnglishWord": "wafer",
+      "Meanings": [
+        "ویفر"
+      ]
+    },
+    {
+      "EnglishWord": "wal",
+      "Meanings": [
+        "فایلهای Skin برنامه Winamp"
+      ]
+    },
+    {
+      "EnglishWord": "wallpaper",
+      "Meanings": [
+        "عکسی که پشت میزکار قرار داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "walt disney",
+      "Meanings": [
+        "والت دیسنی"
+      ]
+    },
+    {
+      "EnglishWord": "wand",
+      "Meanings": [
+        "قلم نوری"
+      ]
+    },
+    {
+      "EnglishWord": "wang laboratories",
+      "Meanings": [
+        "آزمایشگاههای ونگ"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse",
+      "Meanings": [
+        "انبار",
+        "مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "warehousing",
+      "Meanings": [
+        "انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "warning",
+      "Meanings": [
+        "خطر"
+      ]
+    },
+    {
+      "EnglishWord": "warning beep",
+      "Meanings": [
+        "بوق اخطار"
+      ]
+    },
+    {
+      "EnglishWord": "watch",
+      "Meanings": [
+        "ساعت مچی"
+      ]
+    },
+    {
+      "EnglishWord": "watt",
+      "Meanings": [
+        "وات"
+      ]
+    },
+    {
+      "EnglishWord": "wav maker",
+      "Meanings": [
+        "نرم افزاری برای ساخت و ضبظ و ویرایش فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "wave",
+      "Meanings": [
+        "فرمت صوتی",
+        "این فرمت معروف‌ترین و پر استفاده‌ترین فرمت صوتی در کامپیوتر هاست. Wav فرمت استاندارد ویندوز محسوب می‌شود. به همین دلیل",
+        "اکثر صدا‌های موجود در ویندوز با فرمت Wav مشاهده می‌شوند و کلا این فرمت کاربرد بیشتری دارد. فرمت Wav برخلاف اکثر فرمت‌های دیگر",
+        "خود انواع مختلفی دارد. یعنی می‌توان یک فایل Wav را به حالت‌های مختلفی ذخیره کرد. فرمت Wav در همه برنامه‌های مرتبط با صدا شناخته شده و پخش می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "waveform",
+      "Meanings": [
+        "موجی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "wdl",
+      "Meanings": [
+        "فایلهای بازیهای سه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "weather",
+      "Meanings": [
+        "آب و هوا"
+      ]
+    },
+    {
+      "EnglishWord": "web",
+      "Meanings": [
+        "وب"
+      ]
+    },
+    {
+      "EnglishWord": "web cam",
+      "Meanings": [
+        "دوربین مخصوص وب"
+      ]
+    },
+    {
+      "EnglishWord": "web cracker",
+      "Meanings": [
+        "نوعی برنامه کرکر"
+      ]
+    },
+    {
+      "EnglishWord": "web downloader",
+      "Meanings": [
+        "نرم افزاری برای دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "web jevel fx",
+      "Meanings": [
+        "برنامه ای برای ساخت انیمیشن"
+      ]
+    },
+    {
+      "EnglishWord": "web optimizer",
+      "Meanings": [
+        "نرم افزاری برای افزایش سرعت دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "web page",
+      "Meanings": [
+        "صفحات وب"
+      ]
+    },
+    {
+      "EnglishWord": "web page unavailable offline",
+      "Meanings": [
+        "صفحه وب مورد نظر در حالت Offline قابل نمایش نیست"
+      ]
+    },
+    {
+      "EnglishWord": "web talk pro",
+      "Meanings": [
+        "برنامه ای برای چت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "web translator",
+      "Meanings": [
+        "نرم افزار جالبی برای ترجمه مطالب اینترنت به زبانهای دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "web zip",
+      "Meanings": [
+        "نرم افزاری برای دانلود سایت"
+      ]
+    },
+    {
+      "EnglishWord": "webcopier",
+      "Meanings": [
+        "نرم افزاری برای دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "webdav",
+      "Meanings": [
+        "Web Distributed Authoring and Versioning"
+      ]
+    },
+    {
+      "EnglishWord": "weblog",
+      "Meanings": [
+        "وب لاگ‌ها یادداشت‌های روزانه ای هستند که صاحب وب لاگ در هر موردی که بخواهد در آن می‌نویسد"
+      ]
+    },
+    {
+      "EnglishWord": "webmaster",
+      "Meanings": [
+        "سازنده سایتهای اینترنتی"
+      ]
+    },
+    {
+      "EnglishWord": "webpcitures downloader",
+      "Meanings": [
+        "نرم افزاری برای دانلود عکس"
+      ]
+    },
+    {
+      "EnglishWord": "webshots",
+      "Meanings": [
+        "سایتی که دارای عکسهای بسیار می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "website",
+      "Meanings": [
+        "سایتهای اینترنتی"
+      ]
+    },
+    {
+      "EnglishWord": "webster dictionary",
+      "Meanings": [
+        "دیکشنری با قابلیت ترجمه کلمات انگلیسی به فازسی و بر عکس"
+      ]
+    },
+    {
+      "EnglishWord": "whatis",
+      "Meanings": [
+        "فرهنگ لغات اینترنتی"
+      ]
+    },
+    {
+      "EnglishWord": "wheather",
+      "Meanings": [
+        "آب و هوا"
+      ]
+    },
+    {
+      "EnglishWord": "while loop",
+      "Meanings": [
+        "یکی از حلقه‌های برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "white",
+      "Meanings": [
+        "سفید"
+      ]
+    },
+    {
+      "EnglishWord": "white space",
+      "Meanings": [
+        "فاصله سفید",
+        "فضای خالی"
+      ]
+    },
+    {
+      "EnglishWord": "whiteboard",
+      "Meanings": [
+        "تخته سفید"
+      ]
+    },
+    {
+      "EnglishWord": "wide area network  wan",
+      "Meanings": [
+        "شبکه گسترده جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "عرض"
+      ]
+    },
+    {
+      "EnglishWord": "wikipedia",
+      "Meanings": [
+        "یکی از دایره المعارفهای معروف"
+      ]
+    },
+    {
+      "EnglishWord": "wimp",
+      "Meanings": [
+        "مخفف Windows"
+      ]
+    },
+    {
+      "EnglishWord": "win",
+      "Meanings": [
+        "پیروز"
+      ]
+    },
+    {
+      "EnglishWord": "win on cd",
+      "Meanings": [
+        "یکی از قویترین برنامه‌ها برای کپی CD و یا تصویربرداری از آن"
+      ]
+    },
+    {
+      "EnglishWord": "win zip internet browser support",
+      "Meanings": [
+        "نرم افزاری برای دانلود یک سایت یا چند فایل"
+      ]
+    },
+    {
+      "EnglishWord": "winace",
+      "Meanings": [
+        "نرم افزاری برای فشرده کردن فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "winamp",
+      "Meanings": [
+        "یکی از قویترین نرم افزارها برای پخش فایلهای صوتی که در نسخه 3 آن می‌توان فایلهای تصویری هم اجرا کرد"
+      ]
+    },
+    {
+      "EnglishWord": "windac",
+      "Meanings": [
+        "نرم افزاری که آهنگهای درون یک دیسک صوتی را به فایلهای MP3 و Wav می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "window",
+      "Meanings": [
+        "پنجره"
+      ]
+    },
+    {
+      "EnglishWord": "window washer",
+      "Meanings": [
+        "برنامه ای برای پاک کردن History"
+      ]
+    },
+    {
+      "EnglishWord": "windowing",
+      "Meanings": [
+        "ایجاد پنجره"
+      ]
+    },
+    {
+      "EnglishWord": "windowing environment",
+      "Meanings": [
+        "محیط پنجره ای"
+      ]
+    },
+    {
+      "EnglishWord": "windows",
+      "Meanings": [
+        "پوشه ای که در آن برنامه‌های ویندوز قرار دارد و معمولا درون درایوی که ویندوز قرار دارد مانند C: می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "windows explorer",
+      "Meanings": [
+        "نمایش فایلها و پوشه که در Start menu&gt; Programs&gt; Accessories یا Start&gt; Programs قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "windows media player",
+      "Meanings": [
+        "یکی از قویترین برنامه‌های پخش فیلم و موزیک"
+      ]
+    },
+    {
+      "EnglishWord": "windows movie maker",
+      "Meanings": [
+        "برنامه ای برای ساخت و ویرایش فیلم با فرمت Wmv",
+        "برای فعال کردن برنامه بر روی کلید Start کلیک کرده و گزینه All Programs را انتخاب نمایید. از زیر منوی ظاهر شده به ترتیب گزینه‌های Accessories و Windows movie Maker را برای فعال شدن برنامه انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "windows task manager",
+      "Meanings": [
+        "برنامه ای که به شما نشان می‌دهد چه برنامه هایی در حال اجرا هستند و شما این توانایی را دارید که آنها را ببندید. از این قسمت زمانی استفاده کنید که برنامه ای قفل شده باشد",
+        "برای اجرای این قسمت کلیدهای Alt+Del+Ctrl را با هم فشار دهید"
+      ]
+    },
+    {
+      "EnglishWord": "windows unattended installation",
+      "Meanings": [
+        "برنامه ای که ویندوز را به طور اتوماتیک نصب می‌کند بدون اینکه از شما سیوالی بپرسد",
+        "برای استفاده از آن مراحل زیر را طی کنید",
+        "در سی دی ویندوز xp به مسیر زیر مراجعه نمایید",
+        "Support\\tools\\",
+        "فایل deploy. cab را بر روی یکی از درایوهای هارد کپی نمایید. سپس آنرا باز کرده از طریق برنامه zip magic یا winzip یا در خود ویندوز xp اگر بر روی فایل کلیک کنید باز میشود و فایل setupmgr. exe را از درون این فایل cab کپی کرده و درون یک درایو از هارد کپی کنید.",
+        "بر روی setupmgr. exe کلیک کنید. پنجره ای باز میشود. آنرا next کنید. سپس گزینه زیر را انتخاب کرده و next کنید",
+        "Create a new answer file",
+        "مطمین شوید که گزینه windows unattended installation علامت زده شده باشد سپس next کنید.",
+        "در این صفحه نوع ویندوز خود را انتخاب نمایید در اینجا ویندوز xp پروفشیونال را انتخاب میکنیم. سپس next میکنیم.",
+        "گزینه Fully automated را علامت بزنید و next کنید.",
+        "در اینجا صفحه Distribution Folder نمایش داده میشود. در این صفحه به شما اجازه داده میشود که تعیین نمایید که آیا ویزارد یک پوشه توزیعی را بر روی کامپیوترتان بسازد یا پوشه توزیعی را بر روی درایو شبکه ای که شامل سورس فایلهای ویندوز میباشد ایجاد نماید",
+        "گزینه زیر را انتخاب کرده سپس next میکنیم",
+        "No"
+      ]
+    },
+    {
+      "EnglishWord": "windows was not properly shut down",
+      "Meanings": [
+        "هنگامی که کامپیوتر خود را بدون خروج صحیح از ویندوز خاموش می‌کنید",
+        "ویندوز این پیام را نمایش می‌دهد. به یاد داشته باشید که دفعه بعد",
+        "با کلیک کردن دکمه شروع",
+        "انتخاب Shut Down و سپس هنگامی که جعبه محاوره‌ای Shut Down Windows ظاهر شد",
+        "با انتخاب ؟Shut downthe computer",
+        "از ویندوز به شکل صحیح خارج گردید"
+      ]
+    },
+    {
+      "EnglishWord": "wingame",
+      "Meanings": [
+        "مجموعه ای از بازیهای فکری"
+      ]
+    },
+    {
+      "EnglishWord": "winkey",
+      "Meanings": [
+        "کلیدی که بر روی آن شکل منوی استارت قرار دارد و منوی استارت را باز می‌کند و فشار دادن آن با بقیه کلیدها کارهای دیگری انجام می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "winrar",
+      "Meanings": [
+        "نرم افزاری برای فشرده کردن فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "wins",
+      "Meanings": [
+        "Windows Internet Name Service",
+        "قسمتی از ویندوز که سرویسهای اینترنتی را کنترل می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "winsock",
+      "Meanings": [
+        "برنامه رابط برنامه‌های مختلف با اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "winspy",
+      "Meanings": [
+        "برنامه ای که به وسیله آن می‌توانید بفهمید چه فعالیتهایی بر روی کامپیوترتان انجام شده است"
+      ]
+    },
+    {
+      "EnglishWord": "winzip",
+      "Meanings": [
+        "نرم افزاری برای فشرده کردن فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "winzip self extractor",
+      "Meanings": [
+        "نرم افزاری برای فشرده کردن فایلها به صورت Exe"
+      ]
+    },
+    {
+      "EnglishWord": "wireframe",
+      "Meanings": [
+        "قاب سیمی"
+      ]
+    },
+    {
+      "EnglishWord": "wireless",
+      "Meanings": [
+        "بی سیم"
+      ]
+    },
+    {
+      "EnglishWord": "wise install master",
+      "Meanings": [
+        "برنامه ای برای ساخت Setup"
+      ]
+    },
+    {
+      "EnglishWord": "wisecroft ripper",
+      "Meanings": [
+        "نرم افزاری برای تبدیل فایلهایی که با Real player پخش می‌شوند به فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "with",
+      "Meanings": [
+        "با"
+      ]
+    },
+    {
+      "EnglishWord": "wizard",
+      "Meanings": [
+        "ساحر",
+        "تعدادی پرسش که از کاربران می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "wkq",
+      "Meanings": [
+        "فایلهای برنامهQuattro"
+      ]
+    },
+    {
+      "EnglishWord": "wll",
+      "Meanings": [
+        "فایلهای بازی سیمز"
+      ]
+    },
+    {
+      "EnglishWord": "wma",
+      "Meanings": [
+        "Windows Media audio File",
+        "فایلهای صوتی فشرده شده اجرا شونده با برنامه Windows Media Player",
+        "فرمت Wma یا Windows media audio یکی از جدی‌ترین رقیبان mp3 محسوب می‌شود. این فرمت حتی از بعضی جهات بر mp3 برتری دارد و با توجه به این که محصول کمپانی مایکروسافت است",
+        "آینده روشنی برای آن پیش بینی می‌شود. فایل‌های Wma حجم بسیار کمی دارند و کیفیت آنها نیز کاملا قابل قبول است. در عرصه اینترنت نیز که حجم فایل‌ها اهمیت زیادی دارد",
+        "این فرمت با فرمت mp3 رقابت تنگاتنگی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "wma encoder decoder",
+      "Meanings": [
+        "برنامه ای برای تبدیل فایلهای تصویری به Wmv"
+      ]
+    },
+    {
+      "EnglishWord": "wmf",
+      "Meanings": [
+        "windows meta file",
+        "فایلهای تصویری فشرده شده"
+      ]
+    },
+    {
+      "EnglishWord": "wohka",
+      "Meanings": [
+        "کمپانی سازنده مودم"
+      ]
+    },
+    {
+      "EnglishWord": "wolfenstein",
+      "Meanings": [
+        "یکی از بازیهای معروف"
+      ]
+    },
+    {
+      "EnglishWord": "word processing",
+      "Meanings": [
+        "پردازش لغت"
+      ]
+    },
+    {
+      "EnglishWord": "wordperfect",
+      "Meanings": [
+        "واژه پرداز با سرعت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "wordstar",
+      "Meanings": [
+        "نام یک بسته نرم افزاری واژه پرداز"
+      ]
+    },
+    {
+      "EnglishWord": "work",
+      "Meanings": [
+        "کار"
+      ]
+    },
+    {
+      "EnglishWord": "work instructions",
+      "Meanings": [
+        "دستورالعمل کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work offline",
+      "Meanings": [
+        "کار کردن با کامپیوتر بدون اینکه به شبکه متصل باشیم"
+      ]
+    },
+    {
+      "EnglishWord": "workbench",
+      "Meanings": [
+        "محیط کار"
+      ]
+    },
+    {
+      "EnglishWord": "workbook",
+      "Meanings": [
+        "کتاب دستور کار"
+      ]
+    },
+    {
+      "EnglishWord": "workflow",
+      "Meanings": [
+        "گردش کار",
+        "دنباله کار"
+      ]
+    },
+    {
+      "EnglishWord": "workgroup",
+      "Meanings": [
+        "گروه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "workgroup system",
+      "Meanings": [
+        "سیستم گروههای کاری"
+      ]
+    },
+    {
+      "EnglishWord": "workload",
+      "Meanings": [
+        "حجم کار"
+      ]
+    },
+    {
+      "EnglishWord": "workplace",
+      "Meanings": [
+        "محل کار"
+      ]
+    },
+    {
+      "EnglishWord": "worksheet",
+      "Meanings": [
+        "کاربرگ",
+        "برگ کاری"
+      ]
+    },
+    {
+      "EnglishWord": "workshop",
+      "Meanings": [
+        "نرم افزاری برای نقاشی کردن و"
+      ]
+    },
+    {
+      "EnglishWord": "workspace",
+      "Meanings": [
+        "فضای کار"
+      ]
+    },
+    {
+      "EnglishWord": "workstation",
+      "Meanings": [
+        "ایستگاه کار"
+      ]
+    },
+    {
+      "EnglishWord": "worm",
+      "Meanings": [
+        "حلزون شکل",
+        "ویروس"
+      ]
+    },
+    {
+      "EnglishWord": "wosa",
+      "Meanings": [
+        "Windows Open Services Architecture"
+      ]
+    },
+    {
+      "EnglishWord": "wpm",
+      "Meanings": [
+        "Words Per Minute",
+        "لغت در دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "write",
+      "Meanings": [
+        "نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "write enable",
+      "Meanings": [
+        "توانایی نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "writer",
+      "Meanings": [
+        "نویسنده",
+        "دستگاهی که بر روس دیسک اطلاعات را می‌ریزد"
+      ]
+    },
+    {
+      "EnglishWord": "ws-ftp",
+      "Meanings": [
+        "برنامه ای برای تبادل فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "wsh",
+      "Meanings": [
+        "Windows Script Host"
+      ]
+    },
+    {
+      "EnglishWord": "www",
+      "Meanings": [
+        "World Wide Web"
+      ]
+    },
+    {
+      "EnglishWord": "wysiwyg",
+      "Meanings": [
+        "نمایش اطلاعات در حالت چاپ شدنی"
+      ]
+    }
+  ]
+}

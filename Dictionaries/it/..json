@@ -1,0 +1,48 @@
+﻿{
+  "Group": ".",
+  "Entries": 7,
+  "Words": [
+    {
+      "EnglishWord": ".asf",
+      "Meanings": [
+        "Windows Media File"
+      ]
+    },
+    {
+      "EnglishWord": ".cda",
+      "Meanings": [
+        "CD Audio Track"
+      ]
+    },
+    {
+      "EnglishWord": ".exe",
+      "Meanings": [
+        "فایلهای اجرایی که بسیار مهم می‌باشند"
+      ]
+    },
+    {
+      "EnglishWord": ".ocx",
+      "Meanings": [
+        "فایلهای ActiveX"
+      ]
+    },
+    {
+      "EnglishWord": ".pdf",
+      "Meanings": [
+        "فایلهای Adobe acrobat reader"
+      ]
+    },
+    {
+      "EnglishWord": ".wax",
+      "Meanings": [
+        "Windows Media audio File"
+      ]
+    },
+    {
+      "EnglishWord": ".wmv/.wmp/.wmx",
+      "Meanings": [
+        "Windows Media audio/video File"
+      ]
+    }
+  ]
+}

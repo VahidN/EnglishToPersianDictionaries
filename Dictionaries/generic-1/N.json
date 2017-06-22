@@ -1,0 +1,6615 @@
+﻿{
+  "Group": "N",
+  "Entries": 856,
+  "Words": [
+    {
+      "EnglishWord": "n",
+      "Meanings": [
+        "چهاردهمین حرف الفبای انگلیسی‌",
+        "چهاردهم‌"
+      ]
+    },
+    {
+      "EnglishWord": "n address instruction",
+      "Meanings": [
+        "دستور العمل باN نشانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n adic",
+      "Meanings": [
+        "N تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n adic operation",
+      "Meanings": [
+        "عمل‌N تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n ary",
+      "Meanings": [
+        "N تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n ary operation",
+      "Meanings": [
+        "عمل‌N تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n ary operator",
+      "Meanings": [
+        "عملگرN تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n cube",
+      "Meanings": [
+        "مکعب‌N بعدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n level logic",
+      "Meanings": [
+        "منطق‌N سطحی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n tuple",
+      "Meanings": [
+        "N جایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "n type material",
+      "Meanings": [
+        "ماده نوع 'ان‌"
+      ]
+    },
+    {
+      "EnglishWord": "n type semiconductor",
+      "Meanings": [
+        "نیمه هادی نوع‌N"
+      ]
+    },
+    {
+      "EnglishWord": "n way switch",
+      "Meanings": [
+        "گزینه‌N راهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nab",
+      "Meanings": [
+        "قاپیدن‌",
+        "دستگیر کردن‌",
+        "توقیف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nabber",
+      "Meanings": [
+        "توقیف کننده‌",
+        "قاپنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nabid",
+      "Meanings": [
+        "nabidae = ج‌. ش‌. خانواده کک و ساس و حشرات‌",
+        "خون‌اشام‌"
+      ]
+    },
+    {
+      "EnglishWord": "nabidae",
+      "Meanings": [
+        "nabid = ج‌. ش‌. خانواده کک و ساس و حشرات‌",
+        "خون اشا"
+      ]
+    },
+    {
+      "EnglishWord": "nabob",
+      "Meanings": [
+        "نواب‌",
+        "نایب السلطنه‌",
+        "پولدار"
+      ]
+    },
+    {
+      "EnglishWord": "naboom",
+      "Meanings": [
+        "گ‌. ش‌. نوعی درخت فرفیون‌"
+      ]
+    },
+    {
+      "EnglishWord": "nacre",
+      "Meanings": [
+        "ج‌. ش‌. صدف مروارید",
+        "مروارید"
+      ]
+    },
+    {
+      "EnglishWord": "nadir",
+      "Meanings": [
+        "نظیرالسمت‌",
+        "حضیض‌",
+        "ذلت‌",
+        "سمت القدم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nadiral",
+      "Meanings": [
+        "حضیضی‌"
+      ]
+    },
+    {
+      "EnglishWord": "naevus",
+      "Meanings": [
+        "nevus = طب خال مادر زادی‌",
+        "خال گوشتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nag",
+      "Meanings": [
+        "اسب کوچک سواری‌",
+        "اسب پیر و وامانده‌",
+        "یابو",
+        "فاحشه‌",
+        "عیبجویی کردن‌",
+        "نق زدن‌",
+        "ازار دادن‌",
+        "مرتبا گوشزد کردن‌",
+        "عیبجو",
+        "نق نقو"
+      ]
+    },
+    {
+      "EnglishWord": "nagger",
+      "Meanings": [
+        "شخص نق زن‌"
+      ]
+    },
+    {
+      "EnglishWord": "naggin",
+      "Meanings": [
+        "noggin= سطل چوبی‌",
+        "لیوان چوبی‌",
+        "سر",
+        "سرانسان‌"
+      ]
+    },
+    {
+      "EnglishWord": "naiad",
+      "Meanings": [
+        "افسانه یونان حوری موجد دریاچه رودخانه‌",
+        "گ‌. ش‌. نیلوفرابی‌",
+        "مهروی شناگر"
+      ]
+    },
+    {
+      "EnglishWord": "naif",
+      "Meanings": [
+        "naive ساده و بی تکلف‌",
+        "بی‌ریا",
+        "ساده‌",
+        "بی تجربه‌",
+        "خا"
+      ]
+    },
+    {
+      "EnglishWord": "nail",
+      "Meanings": [
+        "ناخن‌",
+        "سم‌",
+        "چنگال‌",
+        "چنگ‌",
+        "میخ‌",
+        "میخ سرپهن‌",
+        "گل میخ‌",
+        "بامیخ کوبیدن‌",
+        "با میخ الصاق کردن‌",
+        "بدام انداختن‌",
+        "قاپیدن‌",
+        "زدن‌",
+        "کوبیدن‌",
+        "گرفتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nainsook",
+      "Meanings": [
+        "پارچه نخی و سبک وزن ساده لباسی و پرده‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "naive",
+      "Meanings": [
+        "naif ساده و بی تکلف‌",
+        "بی‌ریا",
+        "ساده‌",
+        "بی تجربه‌",
+        "خام‌"
+      ]
+    },
+    {
+      "EnglishWord": "naivete",
+      "Meanings": [
+        "naivety سادگی‌",
+        "بی ریایی‌",
+        "خام دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "naivety",
+      "Meanings": [
+        "naivete سادگی‌",
+        "بی ریایی‌",
+        "خام دستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "naked",
+      "Meanings": [
+        "برهنه‌",
+        "عریان‌",
+        "عادی‌",
+        "لخت‌"
+      ]
+    },
+    {
+      "EnglishWord": "namby",
+      "Meanings": [
+        "pamby = بی مزه‌",
+        "بی روح‌",
+        "ساختگی و بی مغز"
+      ]
+    },
+    {
+      "EnglishWord": "name",
+      "Meanings": [
+        "نام‌",
+        "اسم‌",
+        "نام و شهرت‌",
+        "ابرو",
+        "علامت‌",
+        "نامیدن‌",
+        "بنام‌صداکردن‌",
+        "نام دادن‌",
+        "مشهور",
+        "نامدار"
+      ]
+    },
+    {
+      "EnglishWord": "nameable",
+      "Meanings": [
+        "شایسته نام بردن‌",
+        "نامبردنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nameless",
+      "Meanings": [
+        "بی نام‌"
+      ]
+    },
+    {
+      "EnglishWord": "namely",
+      "Meanings": [
+        "یعنی‌",
+        "بنام‌",
+        "با ذکر نام‌",
+        "برای مثال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nameplate",
+      "Meanings": [
+        "پلاک اسم‌"
+      ]
+    },
+    {
+      "EnglishWord": "namesake",
+      "Meanings": [
+        "همنام‌",
+        "هم اسم‌",
+        "کسی که بنام دیگری نام گذاری شود"
+      ]
+    },
+    {
+      "EnglishWord": "nand",
+      "Meanings": [
+        "نقیض و"
+      ]
+    },
+    {
+      "EnglishWord": "nand element",
+      "Meanings": [
+        "عنصر نقیض و"
+      ]
+    },
+    {
+      "EnglishWord": "nand gate",
+      "Meanings": [
+        "دریچه نقیض و"
+      ]
+    },
+    {
+      "EnglishWord": "nand operation",
+      "Meanings": [
+        "عمل نقیض و"
+      ]
+    },
+    {
+      "EnglishWord": "nand operator",
+      "Meanings": [
+        "عملگر نقیض و"
+      ]
+    },
+    {
+      "EnglishWord": "nanny",
+      "Meanings": [
+        "پرستار بچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nanny goat",
+      "Meanings": [
+        "بز ماده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nanoseconde",
+      "Meanings": [
+        "میلیاردیم ثانیه‌",
+        "نانوثانیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "naos",
+      "Meanings": [
+        "cella = ضریع یا محل استقراربت در معابد یونان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nap",
+      "Meanings": [
+        "چرت‌",
+        "خواب نیمروز",
+        "چرت زدن‌",
+        "درپارچه و فرش خواب‌",
+        "پرز"
+      ]
+    },
+    {
+      "EnglishWord": "napalm",
+      "Meanings": [
+        "ماده مخصوص تغلیظ بنزین وتهیه بمب اتش زا و پرتاب‌شعله‌",
+        "بمب اتشزا"
+      ]
+    },
+    {
+      "EnglishWord": "nape",
+      "Meanings": [
+        "پشت گردن‌",
+        "پس گردن‌",
+        "قفا",
+        "هیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "naperian logarithm",
+      "Meanings": [
+        "لگاریتم نپری‌"
+      ]
+    },
+    {
+      "EnglishWord": "napery",
+      "Meanings": [
+        "سفره و ملافه‌های خانه‌",
+        "دستمال سفره و سفره و غیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "naphtha",
+      "Meanings": [
+        "نفتا",
+        "بنزین سنگین‌"
+      ]
+    },
+    {
+      "EnglishWord": "naphthalene",
+      "Meanings": [
+        "ش‌. هیدروکربن بفرمول‌C10 H",
+        "نفتالین‌"
+      ]
+    },
+    {
+      "EnglishWord": "naphthol",
+      "Meanings": [
+        "ش‌. نفتل‌",
+        "یکی از مشتقات نفتالین‌"
+      ]
+    },
+    {
+      "EnglishWord": "napiform",
+      "Meanings": [
+        "شلغمی شکل‌",
+        "شلجمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "napkin",
+      "Meanings": [
+        "دستمال سفره‌",
+        "دستمال‌",
+        "سینه بند",
+        "پیش انداز"
+      ]
+    },
+    {
+      "EnglishWord": "napoleon",
+      "Meanings": [
+        "ناپلیون‌",
+        "چکمه پاشنه بلند",
+        "ناپلیونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "napper",
+      "Meanings": [
+        "چرت زننده‌",
+        "چرت زن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nappy",
+      "Meanings": [
+        "درفرش کلفت و پرزدار",
+        "خواب دار",
+        "قدری مست‌",
+        "لول‌",
+        "چموش‌",
+        "ابجوی قوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "narcissism",
+      "Meanings": [
+        "عشق بخود",
+        "خود پرستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "narcissist",
+      "Meanings": [
+        "عاشق خود"
+      ]
+    },
+    {
+      "EnglishWord": "narcissus",
+      "Meanings": [
+        "گ‌. ش نرگس‌",
+        "افسانه یونان جوان رعنایی که‌عاشق‌تصویرخودشد"
+      ]
+    },
+    {
+      "EnglishWord": "narcolepsy",
+      "Meanings": [
+        "طب حالت خواب الودگی و میل شدیدبه خواب‌",
+        "حمله خواب‌"
+      ]
+    },
+    {
+      "EnglishWord": "narcosis",
+      "Meanings": [
+        "حالت بی حسی وخواب الودگی‌",
+        "بی‌حالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "narcotic",
+      "Meanings": [
+        "مخدر",
+        "مسکن‌",
+        "مربوط به‌مواد مخدره‌"
+      ]
+    },
+    {
+      "EnglishWord": "narcotize",
+      "Meanings": [
+        "داروی مسکن دادن‌",
+        "تخدیر کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "naris",
+      "Meanings": [
+        "منخرین‌",
+        "سوراخ بینی‌مهره‌داران‌"
+      ]
+    },
+    {
+      "EnglishWord": "nark",
+      "Meanings": [
+        "انگلیس مامور خفیه پلیس‌",
+        "جاسوسی کردن‌",
+        "ازردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "narrate",
+      "Meanings": [
+        "داستانی را تعریف کردن‌",
+        "داستان سرایی کردن‌",
+        "نقالی‌کردن‌",
+        "شرح دادن‌"
+      ]
+    },
+    {
+      "EnglishWord": "narration",
+      "Meanings": [
+        "گویندگی‌",
+        "داستان‌",
+        "داستانسرایی‌",
+        "توصیف‌"
+      ]
+    },
+    {
+      "EnglishWord": "narrative",
+      "Meanings": [
+        "قصه‌",
+        "شرح‌",
+        "داستان‌",
+        "داستانسرایی‌",
+        "حکایت‌",
+        "روایت‌"
+      ]
+    },
+    {
+      "EnglishWord": "narrator",
+      "Meanings": [
+        "گوینده‌",
+        "راوی‌",
+        "گوینده داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "narrow",
+      "Meanings": [
+        "تنگ‌",
+        "کم پهنا",
+        "باریک‌",
+        "دراز و باریک‌",
+        "محدود",
+        "باریک کردن‌",
+        "محدود کردن‌",
+        "کوته فکر"
+      ]
+    },
+    {
+      "EnglishWord": "narrow minded",
+      "Meanings": [
+        "کوتاه نظر",
+        "کوته فکر",
+        "بدون سعه نظر",
+        "دهاتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "narthex",
+      "Meanings": [
+        "ایوان غربی کلیسا",
+        "هشتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "narwal",
+      "Meanings": [
+        "narwhale",
+        "narwhal = ج‌. ش‌. نهنگ دریایی قطب شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "narwhal",
+      "Meanings": [
+        "narwhale",
+        "narwal = ج‌. ش‌. نهنگ دریایی قطب شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "narwhale",
+      "Meanings": [
+        "narwhal",
+        "narwal = ج‌. ش‌. نهنگ دریایی قطب شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nasal",
+      "Meanings": [
+        "وابسته به‌بینی‌",
+        "وابسته به منخرین‌",
+        "خیشومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nasality",
+      "Meanings": [
+        "وابستگی به بینی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nasalization",
+      "Meanings": [
+        "تودماغی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nascence",
+      "Meanings": [
+        "nascency= تازه پیدا شدگی‌",
+        "نوظهوری و اغازی‌",
+        "تولد"
+      ]
+    },
+    {
+      "EnglishWord": "nascency",
+      "Meanings": [
+        "nascence= تازه پیدا شدگی‌",
+        "نوظهوری و اغازی‌",
+        "تولد"
+      ]
+    },
+    {
+      "EnglishWord": "nascent",
+      "Meanings": [
+        "پیدایش یافته‌",
+        "درحال تولد"
+      ]
+    },
+    {
+      "EnglishWord": "nasturtium",
+      "Meanings": [
+        "گ‌. ش‌. گل لادن Tropaeolum majus"
+      ]
+    },
+    {
+      "EnglishWord": "nasty",
+      "Meanings": [
+        "کثیف‌",
+        "نامطبوع‌",
+        "زننده‌",
+        "تند و زننده‌",
+        "کریه‌"
+      ]
+    },
+    {
+      "EnglishWord": "natal",
+      "Meanings": [
+        "زایشی‌",
+        "مولودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natality",
+      "Meanings": [
+        "میزان زاد و ولد",
+        "تعداد زایش وموالید جدید"
+      ]
+    },
+    {
+      "EnglishWord": "natant",
+      "Meanings": [
+        "در مورد جانوران شناور یا متحرک دراب‌"
+      ]
+    },
+    {
+      "EnglishWord": "natarize",
+      "Meanings": [
+        "دفتر اسناد رسمی را اداره کردن‌",
+        "محضر داری کردن‌",
+        "گواهی رسمی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "natation",
+      "Meanings": [
+        "فن‌شنا",
+        "شناوری‌",
+        "شناگری‌"
+      ]
+    },
+    {
+      "EnglishWord": "natatorial",
+      "Meanings": [
+        "natatory = وابسته به شنا"
+      ]
+    },
+    {
+      "EnglishWord": "natatorium",
+      "Meanings": [
+        "استخر شنا",
+        "شناگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "natatory",
+      "Meanings": [
+        "natatorial = وابسته به شنا"
+      ]
+    },
+    {
+      "EnglishWord": "nates",
+      "Meanings": [
+        "کپل ها",
+        "کفل ها",
+        "هرچیزی شبیه کفل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nation",
+      "Meanings": [
+        "ملت‌",
+        "قوم‌",
+        "امت‌",
+        "خانواده‌",
+        "طایفه‌",
+        "کشور"
+      ]
+    },
+    {
+      "EnglishWord": "nation state",
+      "Meanings": [
+        "حکومت متشکل از یک‌قوم یا یک ملت‌"
+      ]
+    },
+    {
+      "EnglishWord": "national",
+      "Meanings": [
+        "ملی‌",
+        "قومی‌",
+        "وابسته به قوم یاملتی‌",
+        "تبعه‌",
+        "شهروند"
+      ]
+    },
+    {
+      "EnglishWord": "national guard",
+      "Meanings": [
+        "گارد ملی‌"
+      ]
+    },
+    {
+      "EnglishWord": "national income",
+      "Meanings": [
+        "درامد ملی‌"
+      ]
+    },
+    {
+      "EnglishWord": "national park",
+      "Meanings": [
+        "باغ ملی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationalism",
+      "Meanings": [
+        "ملت پرستی‌",
+        "ملت گرایی‌",
+        "ملیت‌",
+        "ناسیونالیزم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationalist",
+      "Meanings": [
+        "ملت گرای‌",
+        "ملت دوست‌",
+        "طرفدار ملت‌",
+        "ناسیونالیست‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationality",
+      "Meanings": [
+        "ملیت‌",
+        "تابعیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationalization",
+      "Meanings": [
+        "ملی سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationalize",
+      "Meanings": [
+        "ملی کردن‌",
+        "ملی شدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nationwide",
+      "Meanings": [
+        "در سرتاسر کشور"
+      ]
+    },
+    {
+      "EnglishWord": "native",
+      "Meanings": [
+        "بومی‌",
+        "اهلی‌",
+        "محلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "native language",
+      "Meanings": [
+        "زبان بومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nativism",
+      "Meanings": [
+        "مساعدت با بومیان‌",
+        "بومی پرستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nativity",
+      "Meanings": [
+        "باthe تولد عیسی‌",
+        "پیدایش‌",
+        "ولادت‌"
+      ]
+    },
+    {
+      "EnglishWord": "natty",
+      "Meanings": [
+        "اراسته‌",
+        "قشنگتر",
+        "پاکیزه‌",
+        "ماهر",
+        "چالاک‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural",
+      "Meanings": [
+        "طبیعی‌",
+        "سرشتی‌",
+        "نهادی‌",
+        "ذاتی‌",
+        "فطری‌",
+        "جبلی‌",
+        "بدیهی‌",
+        "مسلم‌",
+        "استعداد ذاتی‌",
+        "احمق‌",
+        "دیوانه‌",
+        "عادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural history",
+      "Meanings": [
+        "تاریخ طبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural language",
+      "Meanings": [
+        "زبان طبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural logarithm",
+      "Meanings": [
+        "لگاریتم طبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural number",
+      "Meanings": [
+        "عددطبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural resources",
+      "Meanings": [
+        "منابع طبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "natural selection",
+      "Meanings": [
+        "فلسفه انتخاب اصلح در طبیعت‌"
+      ]
+    },
+    {
+      "EnglishWord": "naturalism",
+      "Meanings": [
+        "طبیعت گرایی‌",
+        "فلسفه طبیعی‌",
+        "مذهب طبیعی‌",
+        "سبک‌ناتورالیسم‌"
+      ]
+    },
+    {
+      "EnglishWord": "naturalist",
+      "Meanings": [
+        "معتقد به فلسفه طبیعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "naturalization",
+      "Meanings": [
+        "قبول تابعیت‌",
+        "خوگیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "naturalize",
+      "Meanings": [
+        "بتابعیت کشوری در امدن‌",
+        "پذیرفته شدن درکشور",
+        "جزوزبانی وارد شدن کلمات",
+        "بومی شدن گیاه و جانور",
+        "طبیعی شدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nature",
+      "Meanings": [
+        "طبیعت‌",
+        "ذات‌",
+        "گوهر",
+        "ماهیت‌",
+        "خوی‌",
+        "افرینش‌",
+        "گونه‌",
+        "نوع‌",
+        "خاصیت‌",
+        "سرشت‌",
+        "خمیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "naught",
+      "Meanings": [
+        "nought= هیچ‌",
+        "عدم‌",
+        "نیستی‌",
+        "صفر",
+        "نابودی‌",
+        "بی ارزش‌"
+      ]
+    },
+    {
+      "EnglishWord": "naughty",
+      "Meanings": [
+        "شیطان‌",
+        "بدذات‌",
+        "شریر",
+        "نا فرمان‌",
+        "سرکش‌"
+      ]
+    },
+    {
+      "EnglishWord": "nausea",
+      "Meanings": [
+        "دل‌اشوب‌",
+        "حالت تهوع‌",
+        "حالت استفراغ‌",
+        "انزجار"
+      ]
+    },
+    {
+      "EnglishWord": "nauseate",
+      "Meanings": [
+        "بالااوردن‌",
+        "حالت تهوع دست دادن‌",
+        "متنفر ساختن‌",
+        "ازرغبت انداختن‌",
+        "منزجرکردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nauseating",
+      "Meanings": [
+        "تهوع اور"
+      ]
+    },
+    {
+      "EnglishWord": "nauseous",
+      "Meanings": [
+        "تهوع اور"
+      ]
+    },
+    {
+      "EnglishWord": "nautical",
+      "Meanings": [
+        "دریایی‌",
+        "مربوط به دریانوردی‌",
+        "ملوانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nautical mile",
+      "Meanings": [
+        "میل دریایی انگلیس معادل €ˆ€† فوت‌",
+        "میل دریایی‌امریکامعادل‌€‚/€ˆ€† فوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nautilus",
+      "Meanings": [
+        "ج‌. ش‌. حلزونهای گرمسیری مارپیچی جنوب اقیانوس ساکن‌و اقیانوس هند"
+      ]
+    },
+    {
+      "EnglishWord": "naval",
+      "Meanings": [
+        "وابسته‌به کشتی‌",
+        "وابسته به نیروی دریایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nave",
+      "Meanings": [
+        "سالن کلیسا یا سایر سالنهای بزرگ‌"
+      ]
+    },
+    {
+      "EnglishWord": "navel",
+      "Meanings": [
+        "تش‌. ناف‌",
+        "سره مج. میان‌",
+        "وسط"
+      ]
+    },
+    {
+      "EnglishWord": "navicular",
+      "Meanings": [
+        "زورقی شکل‌",
+        "زورقی‌",
+        "استخوان ناوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "navigability",
+      "Meanings": [
+        "قابلیت کشتیرانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "navigable",
+      "Meanings": [
+        "قابل کشتیرانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "navigate",
+      "Meanings": [
+        "کشتیرانی کردن‌",
+        "هدایت کردن هواپیماو غیره",
+        "طبیعت‌",
+        "ذات‌",
+        "گوهر",
+        "ماهیت‌",
+        "خوی‌",
+        "افرینش‌",
+        "گونه‌",
+        "نوع‌",
+        "خاصیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "navigator",
+      "Meanings": [
+        "کشتیران‌",
+        "دریانورد",
+        "هدایت گر"
+      ]
+    },
+    {
+      "EnglishWord": "navvy",
+      "Meanings": [
+        "کارگر غیر ماهر",
+        "کارگرحفار",
+        "ماشین حفاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "navy",
+      "Meanings": [
+        "نیروی دریایی‌",
+        "بحریه‌",
+        "ناوگان‌",
+        "کشتی جنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "navy bean",
+      "Meanings": [
+        "گ‌. ش‌. لوبیای چشم بلبلی سفید"
+      ]
+    },
+    {
+      "EnglishWord": "navy yard",
+      "Meanings": [
+        "محوطه مخصوص لنگر اندازی ناوگان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nay",
+      "Meanings": [
+        "نه‌",
+        "خیر",
+        "رای منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nazarene",
+      "Meanings": [
+        "اهل ناصره جلیل در یهودیه نصرانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nazi",
+      "Meanings": [
+        "عضو حزب نازی المان هیتلری‌"
+      ]
+    },
+    {
+      "EnglishWord": "naziism",
+      "Meanings": [
+        "nazism اصول نازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nazism",
+      "Meanings": [
+        "naziism اصول نازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "ne plus ultra",
+      "Meanings": [
+        "حداعلای ترقی‌",
+        "بالاترین درجه‌",
+        "ذروه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neanderthal",
+      "Meanings": [
+        "وابسته به انسان غارنشین‌",
+        "وابسته به انسان وحشی واولیه‌",
+        "خیلی کهنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neap",
+      "Meanings": [
+        "خفیف‌ترین جزر و مد",
+        "کهکشند"
+      ]
+    },
+    {
+      "EnglishWord": "neapolitan",
+      "Meanings": [
+        "وابسته به شهر ناپل‌"
+      ]
+    },
+    {
+      "EnglishWord": "near",
+      "Meanings": [
+        "نزدیک‌",
+        "تقریبا",
+        "قریب‌",
+        "صمیمی‌",
+        "نزدیک شدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "near random",
+      "Meanings": [
+        "دستیابی تقریباتصادفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nearly",
+      "Meanings": [
+        "تقریبا",
+        "فریبا"
+      ]
+    },
+    {
+      "EnglishWord": "nearsighted",
+      "Meanings": [
+        "نزدیک بین‌"
+      ]
+    },
+    {
+      "EnglishWord": "neat",
+      "Meanings": [
+        "پاکیزه‌",
+        "تمیز",
+        "شسته و رفته‌",
+        "مرتب‌",
+        "گاو"
+      ]
+    },
+    {
+      "EnglishWord": "neatherd",
+      "Meanings": [
+        "گله بان‌",
+        "چوپان‌",
+        "گاو دار"
+      ]
+    },
+    {
+      "EnglishWord": "neb",
+      "Meanings": [
+        "نوک مخصوصا نوک لاک پشت و پرنده",
+        "منقار",
+        "بینی‌",
+        "پوزه‌",
+        "دهان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nebula",
+      "Meanings": [
+        "نج. سحاب‌",
+        "توده‌های عظیم گازو گرد مابین فواصل‌ستارگان جاده شیری‌",
+        "لکه‌",
+        "میغ‌",
+        "ابر"
+      ]
+    },
+    {
+      "EnglishWord": "nebular",
+      "Meanings": [
+        "سحابی‌",
+        "میغی‌",
+        "مبهم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nebulosity",
+      "Meanings": [
+        "حالت گازی‌",
+        "حالت ابری‌",
+        "حالت غباری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nebulous",
+      "Meanings": [
+        "تار",
+        "محو",
+        "شبیه سحاب‌",
+        "بشکل ابر",
+        "تیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "necessarily",
+      "Meanings": [
+        "لزوما"
+      ]
+    },
+    {
+      "EnglishWord": "necessary",
+      "Meanings": [
+        "لازم‌",
+        "واجب‌",
+        "ضروری‌",
+        "بایسته‌",
+        "بایا"
+      ]
+    },
+    {
+      "EnglishWord": "necessitate",
+      "Meanings": [
+        "ناگزیر ساختن‌",
+        "بایسته‌کردن‌",
+        "بایستن‌",
+        "واجب کردن‌",
+        "مجبورکردن‌",
+        "ایجاب کردن‌",
+        "مستلزم بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "necessitous",
+      "Meanings": [
+        "بایسته‌",
+        "لازم‌",
+        "واجب‌"
+      ]
+    },
+    {
+      "EnglishWord": "necessity",
+      "Meanings": [
+        "بایستگی‌",
+        "ضرورت‌",
+        "نیاز",
+        "نیازمندی‌",
+        "لزوم‌",
+        "احتیاج‌"
+      ]
+    },
+    {
+      "EnglishWord": "neck",
+      "Meanings": [
+        "گردن‌",
+        "گردنه‌",
+        "تنگه‌",
+        "ماچ و نوازش کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "neckerchief",
+      "Meanings": [
+        "دستمال گردن‌",
+        "کاشکل‌"
+      ]
+    },
+    {
+      "EnglishWord": "necklace",
+      "Meanings": [
+        "گردن بند"
+      ]
+    },
+    {
+      "EnglishWord": "necktie",
+      "Meanings": [
+        "کراوات‌"
+      ]
+    },
+    {
+      "EnglishWord": "necrology",
+      "Meanings": [
+        "امار متوفیات‌",
+        "ثبت اموات‌",
+        "اگهی فوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "necromancer",
+      "Meanings": [
+        "غیبگو",
+        "ساحر"
+      ]
+    },
+    {
+      "EnglishWord": "necromancy",
+      "Meanings": [
+        "غیبگویی از طریق ایجاد رابطه با مردگان‌"
+      ]
+    },
+    {
+      "EnglishWord": "necrophagia",
+      "Meanings": [
+        "مردار خواری‌",
+        "علاقه به اجساد"
+      ]
+    },
+    {
+      "EnglishWord": "necropolis",
+      "Meanings": [
+        "گورستان‌",
+        "شهر اموات‌"
+      ]
+    },
+    {
+      "EnglishWord": "necrosis",
+      "Meanings": [
+        "مردن نسوج زنده‌",
+        "فساد",
+        "بافت مردگی‌",
+        "مردگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nectar",
+      "Meanings": [
+        "شراب لذیذ خدایان یونان‌",
+        "شهد",
+        "شربت‌",
+        "نوش‌"
+      ]
+    },
+    {
+      "EnglishWord": "nectarine",
+      "Meanings": [
+        "گ‌. ش‌. هلوی شیرین و ابدار",
+        "شلیل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nee",
+      "Meanings": [
+        "تولد یافته‌",
+        "زاده‌",
+        "موسوم به‌",
+        "نامیده شده‌",
+        "یعنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "need",
+      "Meanings": [
+        "نیاز",
+        "لزوم‌",
+        "احتیاج‌",
+        "نیازمندی‌",
+        "در احتیاج داشتن‌",
+        "نیازمند بودن‌",
+        "نیازداشتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "needful",
+      "Meanings": [
+        "لازم‌",
+        "ضروری‌",
+        "نیازمند",
+        "ناگزیر",
+        "مایحتاج‌"
+      ]
+    },
+    {
+      "EnglishWord": "needle",
+      "Meanings": [
+        "سوزن‌",
+        "سوزن سرنگ و گرامافون و غیره‌",
+        "سوزن دوزی کردن‌",
+        "با سوزن تزریق کردن‌",
+        "طعنه زدن‌",
+        "اذیت کردن‌",
+        "عقربه‌"
+      ]
+    },
+    {
+      "EnglishWord": "needless",
+      "Meanings": [
+        "بی نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "needlework",
+      "Meanings": [
+        "کار سوزن دوزی‌",
+        "گلدوزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "needn't",
+      "Meanings": [
+        "need not= لازم نیست‌"
+      ]
+    },
+    {
+      "EnglishWord": "needs",
+      "Meanings": [
+        "لزوما",
+        "بر حسب لزوم‌",
+        "ناگزیر",
+        "نیازها"
+      ]
+    },
+    {
+      "EnglishWord": "needy",
+      "Meanings": [
+        "نیازمند"
+      ]
+    },
+    {
+      "EnglishWord": "neer",
+      "Meanings": [
+        "never = هرگز"
+      ]
+    },
+    {
+      "EnglishWord": "ne'er do well",
+      "Meanings": [
+        "ادم بیکاره‌",
+        "ادمی که امید بهبودی برایش نیست‌"
+      ]
+    },
+    {
+      "EnglishWord": "nefarious",
+      "Meanings": [
+        "شریر",
+        "زشت‌",
+        "نابکار",
+        "بدکار",
+        "شنیع‌",
+        "ناهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "negate",
+      "Meanings": [
+        "منفی کردن‌",
+        "خنثی کردن‌",
+        "بلا اثر کردن‌",
+        "نفی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "negation",
+      "Meanings": [
+        "نفی‌",
+        "خنثی سازی‌",
+        "negative= منفی‌",
+        "خنثی کردن‌",
+        "منفی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "negative",
+      "Meanings": [
+        "negation= منفی‌",
+        "خنثی کردن‌",
+        "منفی کردن‌",
+        "منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negative feedback",
+      "Meanings": [
+        "بازخوردمنفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negative film",
+      "Meanings": [
+        "فیلم منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negative logic",
+      "Meanings": [
+        "منطق منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negativism",
+      "Meanings": [
+        "منفی گرایی‌",
+        "منفی بافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negativity",
+      "Meanings": [
+        "حالت منفی بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "negator",
+      "Meanings": [
+        "نافی‌",
+        "خنثی کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "neglect",
+      "Meanings": [
+        "فروگذاری‌",
+        "فروگذار کردن‌",
+        "غفلت‌",
+        "اهمال‌",
+        "مسامحه‌",
+        "غفلت‌کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "neglectful",
+      "Meanings": [
+        "سر بهوا",
+        "مسامحه کار"
+      ]
+    },
+    {
+      "EnglishWord": "neglige",
+      "Meanings": [
+        "negligee= لباس توی خانه بانوان‌"
+      ]
+    },
+    {
+      "EnglishWord": "negligee",
+      "Meanings": [
+        "neglige= لباس توی خانه بانوان‌"
+      ]
+    },
+    {
+      "EnglishWord": "negligence",
+      "Meanings": [
+        "قصور",
+        "اهمال‌",
+        "فراموشکاری‌",
+        "غفلت‌",
+        "فرو گذاشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "negligent",
+      "Meanings": [
+        "مسامحه کار",
+        "بی دقت‌",
+        "فرو گذار",
+        "برناس‌"
+      ]
+    },
+    {
+      "EnglishWord": "negligibility",
+      "Meanings": [
+        "ناچیزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negligible",
+      "Meanings": [
+        "ناچیز",
+        "جزیی‌",
+        "بی اهمیت‌",
+        "قابل فراموشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "negotiable",
+      "Meanings": [
+        "قابل مذاکره‌",
+        "قابل تبدیل به پول نقد"
+      ]
+    },
+    {
+      "EnglishWord": "negotiant",
+      "Meanings": [
+        "negotiator مذاکره کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "negotiate",
+      "Meanings": [
+        "گفتگو کردن‌",
+        "مذاکره کردن‌",
+        "به پول نقد تبدیل کردن چک و برات",
+        "طی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "negotiation",
+      "Meanings": [
+        "مذاکره‌"
+      ]
+    },
+    {
+      "EnglishWord": "negotiator",
+      "Meanings": [
+        "negotiant مذاکره کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "negress",
+      "Meanings": [
+        "زن سیاه پوست‌"
+      ]
+    },
+    {
+      "EnglishWord": "negro",
+      "Meanings": [
+        "زنگی‌",
+        "سیاه‌",
+        "کاکا",
+        "سیاه پوست‌"
+      ]
+    },
+    {
+      "EnglishWord": "negrophile",
+      "Meanings": [
+        "طرفدار سیاه پوست‌"
+      ]
+    },
+    {
+      "EnglishWord": "negrophobe",
+      "Meanings": [
+        "بیمناک از نژاد سیاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neigh",
+      "Meanings": [
+        "شیهه کشیدن مثل اسب",
+        "شیهه اسب‌"
+      ]
+    },
+    {
+      "EnglishWord": "neighbor",
+      "Meanings": [
+        "neighbour همسایه‌",
+        "نزدیک‌",
+        "مجاور",
+        "همسایه شدن با"
+      ]
+    },
+    {
+      "EnglishWord": "neighborhood",
+      "Meanings": [
+        "neighbourhood همسایگی‌",
+        "مجاورت‌",
+        "اهل محل‌"
+      ]
+    },
+    {
+      "EnglishWord": "neighbour",
+      "Meanings": [
+        "neighbor همسایه‌",
+        "نزدیک‌",
+        "مجاور",
+        "همسایه شدن با"
+      ]
+    },
+    {
+      "EnglishWord": "neighbourhood",
+      "Meanings": [
+        "neighborhood همسایگی‌",
+        "مجاورت‌",
+        "اهل محل‌"
+      ]
+    },
+    {
+      "EnglishWord": "neither",
+      "Meanings": [
+        "نه این و نه ان‌",
+        "هیچیک‌",
+        "هیچیک از این دو"
+      ]
+    },
+    {
+      "EnglishWord": "nematology",
+      "Meanings": [
+        "ج‌. ش‌. کرم شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nemesis",
+      "Meanings": [
+        "الهه انتقام‌",
+        "کینه جویی‌",
+        "انتقام‌",
+        "قصاص‌"
+      ]
+    },
+    {
+      "EnglishWord": "neo",
+      "Meanings": [
+        "پیشوند بمعنی جدید"
+      ]
+    },
+    {
+      "EnglishWord": "neoanthropic",
+      "Meanings": [
+        "نو انسانی‌",
+        "وابسته به انسان جدید",
+        "شبیه انسان جدید"
+      ]
+    },
+    {
+      "EnglishWord": "neocene",
+      "Meanings": [
+        "ز. ش‌. قسمت اخیر عهد سوم زمین شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neoclassic",
+      "Meanings": [
+        "سبک نیوکلاسیک‌",
+        "احیا کننده سبک‌های قدیمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neogenesis",
+      "Meanings": [
+        "تولید جدید",
+        "تجدید",
+        "نوزایش‌"
+      ]
+    },
+    {
+      "EnglishWord": "neolith",
+      "Meanings": [
+        "الت سنگی مربوط به عصر حجر جدید",
+        "نو سنگ‌"
+      ]
+    },
+    {
+      "EnglishWord": "neolithic",
+      "Meanings": [
+        "وابسته به عصر حجر جدید",
+        "نوسنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neologism",
+      "Meanings": [
+        "واژه جدید",
+        "لغت اختراعی‌",
+        "نوواژه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neology",
+      "Meanings": [
+        "نوپردازی‌",
+        "استعمال واژه یا اصطلاح جدید"
+      ]
+    },
+    {
+      "EnglishWord": "neon",
+      "Meanings": [
+        "گاز نیون‌",
+        "چراغ نیون‌",
+        "شبیه روشنایی نیون‌"
+      ]
+    },
+    {
+      "EnglishWord": "neon lamp",
+      "Meanings": [
+        "لامپ نیون‌"
+      ]
+    },
+    {
+      "EnglishWord": "neophyte",
+      "Meanings": [
+        "جدید الایمان‌",
+        "کاراموز",
+        "مبتدی‌",
+        "نوچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neoplatonic",
+      "Meanings": [
+        "وابسته به فلسفه افلاطونی جدید"
+      ]
+    },
+    {
+      "EnglishWord": "neoplatonism",
+      "Meanings": [
+        "مکتب افلاطونیون جدید"
+      ]
+    },
+    {
+      "EnglishWord": "neoscholasticism",
+      "Meanings": [
+        "نهضت ادبی ادبای کاتولیک قرن نوزدهم‌"
+      ]
+    },
+    {
+      "EnglishWord": "neoteric",
+      "Meanings": [
+        "نوزاده‌",
+        "تازه بدنیا امده‌",
+        "جدید",
+        "تازه‌",
+        "نویسنده تازه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neozoic",
+      "Meanings": [
+        "ز. ش‌. وابسته بعهد زمین شناسی که از پایان دوره‌مسوزوییک تا امروزه است‌"
+      ]
+    },
+    {
+      "EnglishWord": "nepali",
+      "Meanings": [
+        "نپالی‌",
+        "اهل نپال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nepenthe",
+      "Meanings": [
+        "داروی غمزدا",
+        "چیزی که غم و غصه را بزداید"
+      ]
+    },
+    {
+      "EnglishWord": "nephelometer",
+      "Meanings": [
+        "ابرسنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "nephew",
+      "Meanings": [
+        "پسر برادر",
+        "پسر خواهر",
+        "پسر برادر زن و خواهر شوهر وغیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "nephoscope",
+      "Meanings": [
+        "ابربین‌",
+        "ابر سنج‌"
+      ]
+    },
+    {
+      "EnglishWord": "nephrogenic",
+      "Meanings": [
+        "کلیوی‌",
+        "ایجادشده در کلیه‌",
+        "منشعب از کلیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nephrosis",
+      "Meanings": [
+        "طب بیماری کلیه که بیشتر لوله‌های کلیوی را مبتلامیکند"
+      ]
+    },
+    {
+      "EnglishWord": "nepotism",
+      "Meanings": [
+        "خویش و قوم پرستی‌",
+        "انتصاب برادر زاده یا خواهر زاده‌و اقوام نزدیک به مشاغل مهم‌اداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "neptune",
+      "Meanings": [
+        "الهه اقیانوس‌",
+        "نپتون‌",
+        "نج. ستاره نپتون‌"
+      ]
+    },
+    {
+      "EnglishWord": "nereid",
+      "Meanings": [
+        "افسانه یونان هریک از پنجاه حوری دریایی که‌دختران نروس بوده‌اند"
+      ]
+    },
+    {
+      "EnglishWord": "neritic",
+      "Meanings": [
+        "وابسته به منطقه یا کمربند ساحلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nerts",
+      "Meanings": [
+        "ز. ع‌. مزخرف‌",
+        "مهمل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nervation",
+      "Meanings": [
+        "رگبرگ اذین‌",
+        "رگ و پی‌",
+        "اعصاب‌",
+        "ساختمان عصبی‌",
+        "شبکه‌عصبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nerve",
+      "Meanings": [
+        "عصب‌",
+        "پی‌",
+        "رشته عصبی‌",
+        "وتر",
+        "طاقت‌",
+        "قدرت‌",
+        "قوت قلب دادن‌",
+        "نیرو بخشیدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nerve center",
+      "Meanings": [
+        "مرکز عصبی‌",
+        "مج. مرکز فرماندهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nerve racking",
+      "Meanings": [
+        "nerve wrack = خسته کننده اعصاب‌",
+        "دشوار"
+      ]
+    },
+    {
+      "EnglishWord": "nerve wrack",
+      "Meanings": [
+        "nerve racking = خسته کننده اعصاب‌",
+        "دشوار"
+      ]
+    },
+    {
+      "EnglishWord": "nerveless",
+      "Meanings": [
+        "بی عصب‌",
+        "بی غیرت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nervous",
+      "Meanings": [
+        "عصبی مربوط به اعصاب‌",
+        "عصبانی‌",
+        "متشنج‌",
+        "دستپاچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nervous nellie",
+      "Meanings": [
+        "ادم ترسو و بی اثر",
+        "ادم محافظه کار و بی خاصیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nervous system",
+      "Meanings": [
+        "تش‌. سلسله عصب‌",
+        "دستگاه پی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nervure",
+      "Meanings": [
+        "رگبرگ‌",
+        "رگ‌بال‌",
+        "رگه اصلی‌",
+        "شاهرگ‌",
+        "رگه بندی جانور"
+      ]
+    },
+    {
+      "EnglishWord": "nervy",
+      "Meanings": [
+        "پر عصب‌",
+        "پر رگ و پی‌",
+        "نیرومند",
+        "عصبانی‌",
+        "پر رو"
+      ]
+    },
+    {
+      "EnglishWord": "nescience",
+      "Meanings": [
+        "نادانی‌",
+        "اعتقاد باینکه حقایق غایی را نمیتوان‌بوسیله قیاس عقلانی فکر درک نمود"
+      ]
+    },
+    {
+      "EnglishWord": "ness",
+      "Meanings": [
+        "دماغه‌",
+        "برجستگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nest",
+      "Meanings": [
+        "اشیانه‌",
+        "لانه‌",
+        "اسایشگاه‌",
+        "پاتوق‌",
+        "لانه ساختن‌",
+        "اشیان‌کردن‌",
+        "اشیان گرفتن‌",
+        "درمحل محفوظی جای گرفتن‌",
+        "پیچیدن‌",
+        "اشیانه‌ای کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nest egg",
+      "Meanings": [
+        "تخمی که درلانه مرغ میگذارند تا مرغ تخم کند",
+        "مایه‌",
+        "اندوخته‌"
+      ]
+    },
+    {
+      "EnglishWord": "nested",
+      "Meanings": [
+        "تودرتو",
+        "اشیانه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "nesting",
+      "Meanings": [
+        "تودرتویی‌",
+        "اشیانه‌ای‌بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nesting storage",
+      "Meanings": [
+        "انباره‌تودرتو",
+        "انباره‌پشته‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "nestle",
+      "Meanings": [
+        "اشیان گرفتن‌",
+        "لانه کردن‌",
+        "اسودن‌",
+        "در اغوش کسی خوابیدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nestling",
+      "Meanings": [
+        "جوجه اشیانه‌",
+        "بچه پرندگان‌",
+        "اشیان گیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nestor",
+      "Meanings": [
+        "افسانه یونان پیر مرد مشاور و عاقل جنگ تروا",
+        "پیردانا و مشاور",
+        "پیرمرد"
+      ]
+    },
+    {
+      "EnglishWord": "nestorian",
+      "Meanings": [
+        "کلیسای نسطوری قدیم ایران‌"
+      ]
+    },
+    {
+      "EnglishWord": "net",
+      "Meanings": [
+        "تور",
+        "توری‌",
+        "دام‌",
+        "شبکه‌",
+        "تارعنکبوت‌",
+        "تور ماهی گیری وامثال ان‌",
+        "خالص‌",
+        "ویژه‌",
+        "خرج دررفته‌",
+        "اساسی‌",
+        "اصلی‌",
+        "بدام افکندن‌",
+        "با تورگرفتن‌",
+        "شبکه دارکردن‌",
+        "بتورانداختن‌"
+      ]
+    },
+    {
+      "EnglishWord": "net winged",
+      "Meanings": [
+        "دارای بال مشبک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nether",
+      "Meanings": [
+        "واقع در پایین‌",
+        "در زیر",
+        "زیر",
+        "پایین‌",
+        "واقع در زیر"
+      ]
+    },
+    {
+      "EnglishWord": "netherlands",
+      "Meanings": [
+        "هلند"
+      ]
+    },
+    {
+      "EnglishWord": "nethermost",
+      "Meanings": [
+        "پست ترین‌",
+        "اسفل‌",
+        "پایین ترین‌",
+        "زیر ترین‌"
+      ]
+    },
+    {
+      "EnglishWord": "netherworld",
+      "Meanings": [
+        "عالم اموات‌",
+        "عالم اسفل‌"
+      ]
+    },
+    {
+      "EnglishWord": "netting",
+      "Meanings": [
+        "شبکه بندی‌",
+        "شبکه‌",
+        "توری دوزی‌",
+        "تور سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nettle",
+      "Meanings": [
+        "گ‌. ش‌. گزنه‌",
+        "انواع گزنه تیغی گزنده‌",
+        "بوسیله گزنه‌گزیده شدن‌",
+        "مج. ایجاد بی صبری و عصبانیت کردن‌",
+        "برانگیختن‌",
+        "رنجه داشتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nettlesome",
+      "Meanings": [
+        "irritating= ازاردهنده‌",
+        "رنج اور"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه‌",
+        "شبکه توری‌",
+        "شبکه ارتباطی‌",
+        "وابسته به شبکه‌"
+      ]
+    },
+    {
+      "EnglishWord": "network analyser",
+      "Meanings": [
+        "شبکه‌کاو",
+        "تحلیل کننده‌شبکه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neural",
+      "Meanings": [
+        "عصبی‌",
+        "وابسته بعصب‌",
+        "وابسته به سلسله اعصاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuralgia",
+      "Meanings": [
+        "طب درد اعصاب‌",
+        "درد عصبی‌",
+        "مرض عصبی‌",
+        "پی درد"
+      ]
+    },
+    {
+      "EnglishWord": "neurasthenia",
+      "Meanings": [
+        "طب سر درد و حساسیت بی مورد",
+        "ضعف اعصاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuritis",
+      "Meanings": [
+        "پی اماس‌",
+        "التهاب یا اماس و زخم عصبی که دردناک است‌و سبب ناراحتی عصبی و گاهی‌فلج میگردد"
+      ]
+    },
+    {
+      "EnglishWord": "neurogenic",
+      "Meanings": [
+        "پی زاد",
+        "ایجاد کننده بافت عصبی‌",
+        "دارای ریشه عصبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neurologic",
+      "Meanings": [
+        "وابسته به‌عصب شناسی یا پی شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neurologist",
+      "Meanings": [
+        "ویژه گر اعصاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "neurology",
+      "Meanings": [
+        "عصب شناسی‌",
+        "بحث علمی عصب شناسی‌",
+        "پی شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuromuscular",
+      "Meanings": [
+        "وابسته باعصاب و عضلات‌",
+        "عصبی و عضلانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuron",
+      "Meanings": [
+        "رشته مغزی و ستون فقراتی‌",
+        "یاخته عصبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuropath",
+      "Meanings": [
+        "دچار اختلالات عصبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neurosis",
+      "Meanings": [
+        "طب اختلال اعصاب‌",
+        "اختلال روانی‌",
+        "نژندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neurotic",
+      "Meanings": [
+        "ادم عصبانی‌",
+        "دچار اختلال عصبی‌",
+        "عصبی‌",
+        "نژند"
+      ]
+    },
+    {
+      "EnglishWord": "neurotoxic",
+      "Meanings": [
+        "مخدر اعصاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "neuter",
+      "Meanings": [
+        "خنثی کردن‌",
+        "اخته کردن‌",
+        "وابسته به جنس خنثی‌",
+        "خنثی‌",
+        "بی طرف‌",
+        "بی غرض‌",
+        "اسم یا صفتی که نه مذکر و نه مونث‌است‌",
+        "خواجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutral",
+      "Meanings": [
+        "بی طرف‌",
+        "بدون جانبداری‌",
+        "خنثی‌",
+        "بیرنگ‌",
+        "نادر گیر"
+      ]
+    },
+    {
+      "EnglishWord": "neutral spirits",
+      "Meanings": [
+        "الکل سفید"
+      ]
+    },
+    {
+      "EnglishWord": "neutral transmission",
+      "Meanings": [
+        "مخابره خنثی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutral zone",
+      "Meanings": [
+        "منطقه‌خنثی‌",
+        "منطقه بی طرف‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutralism",
+      "Meanings": [
+        "سیاست بی طرفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutrality",
+      "Meanings": [
+        "بیطرفی‌",
+        "نادرگیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutralization",
+      "Meanings": [
+        "خنثی سازی‌",
+        "بیطرف کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutralize",
+      "Meanings": [
+        "خنثی کردن‌",
+        "بطور شیمیایی خنثی کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "neutron",
+      "Meanings": [
+        "نیوترون‌",
+        "ذره بدون بارالکتریکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "never",
+      "Meanings": [
+        "هرگز",
+        "هیچگاه‌",
+        "هیچ وقت‌",
+        "هیچ‌",
+        "ابدا",
+        "حاشا"
+      ]
+    },
+    {
+      "EnglishWord": "never  eless",
+      "Meanings": [
+        "با اینحال‌",
+        "با این وجود",
+        "علیرغم‌",
+        "هنوز",
+        "باز"
+      ]
+    },
+    {
+      "EnglishWord": "nevermore",
+      "Meanings": [
+        "هرگز دیگر",
+        "دیگر ابدا"
+      ]
+    },
+    {
+      "EnglishWord": "nevus",
+      "Meanings": [
+        "naevus = طب خال مادر زادی‌",
+        "خال گوشتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "new",
+      "Meanings": [
+        "تازه‌",
+        "جدید",
+        "نو",
+        "اخیرا",
+        "نوین‌",
+        "جدیدا"
+      ]
+    },
+    {
+      "EnglishWord": "new line character",
+      "Meanings": [
+        "دخشه تعویض سطر"
+      ]
+    },
+    {
+      "EnglishWord": "new testament",
+      "Meanings": [
+        "کتب عهد جدید مسیحیان‌"
+      ]
+    },
+    {
+      "EnglishWord": "new world",
+      "Meanings": [
+        "نیمکره غربی یا دنیای جدید",
+        "امریکا"
+      ]
+    },
+    {
+      "EnglishWord": "new year",
+      "Meanings": [
+        "سال نو",
+        "سال جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new year's day",
+      "Meanings": [
+        "روز اول ژانویه که اغاز سال نو مسیحیان است‌"
+      ]
+    },
+    {
+      "EnglishWord": "newborn",
+      "Meanings": [
+        "نوزاد",
+        "تازه زاییده شده‌",
+        "تازه تولد شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "newcomer",
+      "Meanings": [
+        "تازه وارد",
+        "نوایند"
+      ]
+    },
+    {
+      "EnglishWord": "newel",
+      "Meanings": [
+        "تیرمیان پلکان مارپیچ‌",
+        "پایه نرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "newfangled",
+      "Meanings": [
+        "نوظهور",
+        "من در اوردی‌",
+        "متجدد",
+        "مد تازه‌"
+      ]
+    },
+    {
+      "EnglishWord": "newfashioned",
+      "Meanings": [
+        "امروزی‌",
+        "مطابق مد روز",
+        "تازه‌"
+      ]
+    },
+    {
+      "EnglishWord": "newfound",
+      "Meanings": [
+        "جدید الاکتشاف‌",
+        "جدید الاختراع‌",
+        "تازه پیداشده‌",
+        "نوظهور",
+        "بدیع‌"
+      ]
+    },
+    {
+      "EnglishWord": "newfoundland",
+      "Meanings": [
+        "جغ. جزیره نیوفاوندلند"
+      ]
+    },
+    {
+      "EnglishWord": "newly",
+      "Meanings": [
+        "بتازگی‌",
+        "اخیرا"
+      ]
+    },
+    {
+      "EnglishWord": "newlywed",
+      "Meanings": [
+        "تازه ازدواج کرده‌",
+        "تازه داماد",
+        "تازه عروس‌"
+      ]
+    },
+    {
+      "EnglishWord": "newmoon",
+      "Meanings": [
+        "هلال ماه نو",
+        "اول ماه‌"
+      ]
+    },
+    {
+      "EnglishWord": "news",
+      "Meanings": [
+        "خبر",
+        "اخبار",
+        "اوازه‌"
+      ]
+    },
+    {
+      "EnglishWord": "news conference",
+      "Meanings": [
+        "مصاحبه و کنفرانس مطبوعاتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "news vendor",
+      "Meanings": [
+        "روزنامه فروش‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsboy",
+      "Meanings": [
+        "پسر روزنامه فروش‌"
+      ]
+    },
+    {
+      "EnglishWord": "newscast",
+      "Meanings": [
+        "اخباررادیویی یا تلویزیونی‌",
+        "خبر پراکندن‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsletter",
+      "Meanings": [
+        "خبرنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsman",
+      "Meanings": [
+        "روزنامه فروش‌",
+        "خبرنگار",
+        "گوینده‌اخبار"
+      ]
+    },
+    {
+      "EnglishWord": "newsmonger",
+      "Meanings": [
+        "gossipy= خبرکش‌",
+        "خبرچین‌"
+      ]
+    },
+    {
+      "EnglishWord": "newspaper",
+      "Meanings": [
+        "روزنامه‌",
+        "روزنامه نگاری کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "newspaperman",
+      "Meanings": [
+        "روزنامه نگار",
+        "صاحب و گرداننده روزنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsprint",
+      "Meanings": [
+        "ماشین چاپ روزنامه‌",
+        "طبع روزنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsreel",
+      "Meanings": [
+        "فیلم اخبار جاری روز"
+      ]
+    },
+    {
+      "EnglishWord": "newsstand",
+      "Meanings": [
+        "روزنامه فروشی‌",
+        "دکه روزنامه فروشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsworthy",
+      "Meanings": [
+        "قابل توجه عامه برای درج در روزنامه‌",
+        "قابل انتشار",
+        "جالب و بموقع‌"
+      ]
+    },
+    {
+      "EnglishWord": "newsy",
+      "Meanings": [
+        "پرخبر",
+        "دارای اخبار زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "newt",
+      "Meanings": [
+        "ج‌. ش‌. سوسمار ابی‌",
+        "سمندر ابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "newton",
+      "Meanings": [
+        "نیوتن‌",
+        "واحد نیرو در دستگاه‌. S. K. M"
+      ]
+    },
+    {
+      "EnglishWord": "newtonian",
+      "Meanings": [
+        "وابسته به سر اسحق نیوتن و کشفیات او"
+      ]
+    },
+    {
+      "EnglishWord": "next",
+      "Meanings": [
+        "بعد",
+        "دیگر",
+        "اینده‌",
+        "پهلویی‌",
+        "جنبی‌",
+        "مجاور",
+        "نزدیک ترین‌",
+        "پس ازان‌",
+        "سپس‌",
+        "جنب‌",
+        "کنار"
+      ]
+    },
+    {
+      "EnglishWord": "next of kin",
+      "Meanings": [
+        "نزدیک‌ترین خویشاوندان‌",
+        "منسوب بلافصل‌",
+        "وارث بلافصل‌"
+      ]
+    },
+    {
+      "EnglishWord": "next state function",
+      "Meanings": [
+        "تابع حالت بعدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nexus",
+      "Meanings": [
+        "سلسله‌",
+        "پیوند",
+        "اتصال‌",
+        "رابطه‌",
+        "رابطه داخلی‌",
+        "گروه متحد"
+      ]
+    },
+    {
+      "EnglishWord": "niacin",
+      "Meanings": [
+        "ش‌. نیاسین‌",
+        "اسید نیکوتینیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "niagara",
+      "Meanings": [
+        "رودخانه و ابشار نیاگارا"
+      ]
+    },
+    {
+      "EnglishWord": "nib",
+      "Meanings": [
+        "نوک قلم‌",
+        "نوک‌",
+        "دسته‌",
+        "قلم تراشیدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nibble",
+      "Meanings": [
+        "لقمه یا تکه کوچک‌",
+        "گاز زدن‌",
+        "اندک اندک خوردن‌",
+        "مثل‌بز جویدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nice",
+      "Meanings": [
+        "نازنین‌",
+        "دلپسند",
+        "خوب‌",
+        "دلپذیر",
+        "مطلوب‌",
+        "مودب‌",
+        "نجیب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicene",
+      "Meanings": [
+        "وابسته باعتقاد نامه نیسن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicene creed",
+      "Meanings": [
+        "اعتقاد نامه نیسن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicety",
+      "Meanings": [
+        "ظرافت‌",
+        "خوبی‌",
+        "دلپذیری‌",
+        "مطلوبی‌",
+        "احتیاط",
+        "دقت‌"
+      ]
+    },
+    {
+      "EnglishWord": "niche",
+      "Meanings": [
+        "تو رفتگی در دیوار",
+        "طاقچه‌",
+        "توی دیوار گذاشتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nick",
+      "Meanings": [
+        "شکستگی‌",
+        "شکاف‌",
+        "دندانه‌",
+        "موقع بحرانی‌",
+        "سربزنگاه‌",
+        "دندانه دندانه کردن‌",
+        "شکستن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nickel",
+      "Meanings": [
+        "نیکل‌",
+        "ورشو",
+        "سکه‌پنج سنتی‌",
+        "اب نیکل دادن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nickel celay line",
+      "Meanings": [
+        "خط تاخیری نیکلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nickel silver",
+      "Meanings": [
+        "الیاژی مرکب از مس و روی و نیکل‌",
+        "ورشو"
+      ]
+    },
+    {
+      "EnglishWord": "nicker",
+      "Meanings": [
+        "شیهه‌",
+        "شیهه کشیدن‌",
+        "خنده کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicknack",
+      "Meanings": [
+        "nickname",
+        "knickknack = کنیه‌",
+        "نام خودمانی‌",
+        "کنیه‌دادن‌",
+        "ملقب کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nickname",
+      "Meanings": [
+        "nicknack",
+        "knickknack = کنیه‌",
+        "نام خودمانی‌",
+        "کنیه‌دادن‌",
+        "ملقب کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicotiana",
+      "Meanings": [
+        "گ‌. ش‌. توتون‌",
+        "گیاه توتون‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicotine",
+      "Meanings": [
+        "ش‌. نیکوتین‌"
+      ]
+    },
+    {
+      "EnglishWord": "nicotinic",
+      "Meanings": [
+        "وابسته به نیکوتین‌"
+      ]
+    },
+    {
+      "EnglishWord": "nictitate",
+      "Meanings": [
+        "چشمک زدن‌",
+        "برهم زدن پلک چشم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nidget",
+      "Meanings": [
+        "احمق‌",
+        "گیج‌",
+        "کودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nidicolous",
+      "Meanings": [
+        "در اشیانه قرار گرفته‌",
+        "هم اشیانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nidification",
+      "Meanings": [
+        "اشیانه سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "niece",
+      "Meanings": [
+        "خویش و قوم مونث‌",
+        "دختر برادر یا خواهر و غیره‌"
+      ]
+    },
+    {
+      "EnglishWord": "niello",
+      "Meanings": [
+        "سیاه قلم‌",
+        "مینای سیاه‌",
+        "سیاه قلم زدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nifty",
+      "Meanings": [
+        "خیلی خوب‌",
+        "جذاب‌",
+        "زیرک‌",
+        "چالاک‌",
+        "نکته دان‌"
+      ]
+    },
+    {
+      "EnglishWord": "niggard",
+      "Meanings": [
+        "ادم خسیس‌",
+        "ادم تنگ چشم‌",
+        "لییم‌"
+      ]
+    },
+    {
+      "EnglishWord": "niggardly",
+      "Meanings": [
+        "خسیس‌",
+        "چشم تنگ‌",
+        "خسیسانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nigger",
+      "Meanings": [
+        "کاکاسیاه بتحقیر",
+        "سیاه پوست‌"
+      ]
+    },
+    {
+      "EnglishWord": "niggle",
+      "Meanings": [
+        "ور رفتن‌",
+        "وقت گذراندن‌",
+        "خرده گرفتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "niggling",
+      "Meanings": [
+        "اندک‌",
+        "ایراد گیر"
+      ]
+    },
+    {
+      "EnglishWord": "nigh",
+      "Meanings": [
+        "نزدیک‌",
+        "قریب‌",
+        "مجاور",
+        "تقریبا",
+        "نزدیک شدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "night",
+      "Meanings": [
+        "شب‌",
+        "غروب‌",
+        "شب هنگام‌",
+        "برنامه شبانه‌",
+        "تاریکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "night blind",
+      "Meanings": [
+        "شبکور"
+      ]
+    },
+    {
+      "EnglishWord": "night owl",
+      "Meanings": [
+        "ادم شب زنده دار"
+      ]
+    },
+    {
+      "EnglishWord": "night raven",
+      "Meanings": [
+        "ج‌. ش‌. مرغ حق‌",
+        "مرغ شب خوان‌"
+      ]
+    },
+    {
+      "EnglishWord": "night robe",
+      "Meanings": [
+        "nightgown لباس خواب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightcap",
+      "Meanings": [
+        "شب کلاه‌",
+        "مشروب قبل از خواب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightclothes",
+      "Meanings": [
+        "nightdress لباس خواب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightclub",
+      "Meanings": [
+        "کاباره‌",
+        "کاباره رفتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightdress",
+      "Meanings": [
+        "nightclothes= لباس خواب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightfall",
+      "Meanings": [
+        "شب هنگام‌",
+        "شبانگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightgown",
+      "Meanings": [
+        "لباس شب‌",
+        "پیژامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightingale",
+      "Meanings": [
+        "ج‌. ش‌. هزاردستان‌",
+        "بلبل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightjar",
+      "Meanings": [
+        "ج‌. ش‌. بوف اروپایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightlong",
+      "Meanings": [
+        "تمامی شب‌",
+        "در سرتاسرشب‌",
+        "از سرشب تا بامداد"
+      ]
+    },
+    {
+      "EnglishWord": "nightly",
+      "Meanings": [
+        "شبانه‌",
+        "هر شب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightmare",
+      "Meanings": [
+        "خفتک‌",
+        "کابوس‌",
+        "بختک‌",
+        "خواب ناراحت کننده و غم افزا"
+      ]
+    },
+    {
+      "EnglishWord": "nightmarish",
+      "Meanings": [
+        "کابوس مانند",
+        "ترسناک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightstick",
+      "Meanings": [
+        "چوب قانون‌",
+        "باتوم پاسبان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nighttide",
+      "Meanings": [
+        "شب هنگام‌",
+        "جزر و مد شبانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nighttime",
+      "Meanings": [
+        "شب‌",
+        "شبانگاه یعنی ازمغرب تاسپیده‌دم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nightwalker",
+      "Meanings": [
+        "کسیکه شب در خواب راه میرود",
+        "فاحشه‌",
+        "جانور شب پر"
+      ]
+    },
+    {
+      "EnglishWord": "nigrescence",
+      "Meanings": [
+        "سیاهی‌",
+        "سیاه شدگی‌",
+        "تیرگی‌",
+        "سیاه چردگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nigrescent",
+      "Meanings": [
+        "سیاهپوست‌",
+        "سیاه شونده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nigritude",
+      "Meanings": [
+        "سیاهی‌",
+        "تاریکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nihilism",
+      "Meanings": [
+        "پوچ گرایی‌",
+        "اعتقاد به تباهی و فساد دستگاههای اداری‌و لزوم از بین رفتن انها",
+        "انکار همه چیز",
+        "عقایدنهیلیستی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nihilist",
+      "Meanings": [
+        "منکر همه چیز",
+        "پوچ گرا"
+      ]
+    },
+    {
+      "EnglishWord": "nihility",
+      "Meanings": [
+        "پوچی‌",
+        "هیچی‌",
+        "عدم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nike",
+      "Meanings": [
+        "افسانه یونان الهه پیروزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nil",
+      "Meanings": [
+        "صفر",
+        "هیچ‌",
+        "معدوم‌",
+        "پوچ‌"
+      ]
+    },
+    {
+      "EnglishWord": "nile",
+      "Meanings": [
+        "رود نیل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nill",
+      "Meanings": [
+        "بی میل بودن‌",
+        "نخواستن‌",
+        "انکار کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nilotic",
+      "Meanings": [
+        "وابسته به رود نیل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nim",
+      "Meanings": [
+        "دزدیدن‌",
+        "کش رفتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nimble",
+      "Meanings": [
+        "چست‌",
+        "جلد",
+        "فرز",
+        "چابک‌",
+        "چالاک‌",
+        "زرنگ‌",
+        "تردست‌"
+      ]
+    },
+    {
+      "EnglishWord": "nimbus",
+      "Meanings": [
+        "هاله‌",
+        "اوهام‌",
+        "ابر بارانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nimiety",
+      "Meanings": [
+        "زیادی‌",
+        "حشو و زواید",
+        "بی‌اعتدالی‌",
+        "اطناب‌"
+      ]
+    },
+    {
+      "EnglishWord": "niminy piminy",
+      "Meanings": [
+        "نازک نارنجی و ژستی‌",
+        "فاقد نیرو",
+        "کم اثر",
+        "بی روح‌"
+      ]
+    },
+    {
+      "EnglishWord": "nimrod",
+      "Meanings": [
+        "نمرود",
+        "ستمگر"
+      ]
+    },
+    {
+      "EnglishWord": "nincompoop",
+      "Meanings": [
+        "ساده لوح‌",
+        "احمق‌"
+      ]
+    },
+    {
+      "EnglishWord": "nine",
+      "Meanings": [
+        "عدد نه‌",
+        "نه عدد",
+        "نه تا",
+        "نه نفر",
+        "نه چیز",
+        "نه‌تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninefold",
+      "Meanings": [
+        "نه برابر",
+        "نه بخشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninepin",
+      "Meanings": [
+        "بازی بولینگ با ‰ میله چوبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nines complement",
+      "Meanings": [
+        "متمم نسبت به ‰"
+      ]
+    },
+    {
+      "EnglishWord": "nineteen",
+      "Meanings": [
+        "عدد نوزده‌",
+        "نوزدهمین مرتبه‌",
+        "نوزده تایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nineteenth",
+      "Meanings": [
+        "نوزدهمین‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninetieth",
+      "Meanings": [
+        "نودمین‌",
+        "نودمین درجه یا مرتبه‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninety",
+      "Meanings": [
+        "نود",
+        "عدد نود",
+        "نود نفر",
+        "نودچیز"
+      ]
+    },
+    {
+      "EnglishWord": "ninny",
+      "Meanings": [
+        "احمق‌",
+        "کودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninon",
+      "Meanings": [
+        "پارچه نرم و مواج ابریشمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "ninth",
+      "Meanings": [
+        "نهمین‌",
+        "نهمین مرتبه‌",
+        "یک نهم‌",
+        "درنهمین درجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nip",
+      "Meanings": [
+        "ن‌",
+        "گازگرفتن‌",
+        "کش رفتن‌",
+        "جوانه‌زدن‌",
+        "شکفتن‌",
+        "مانع‌رشدونموشدن‌",
+        "ببادانتقادگرفتن‌",
+        "دراثرسرما بیحس شدن‌",
+        "صدمه‌زدن‌",
+        "دردناک بودن‌",
+        "جفت جفت زدن‌",
+        "پریدن‌",
+        "جیم‌شدن‌",
+        "چیز",
+        "چیزی‌",
+        "جزیی‌",
+        "نیش‌",
+        "زخم‌زبان‌",
+        "سرمازدگی گیاه‌وجوانه‌ها",
+        "طعم‌تندوتیز مثل‌فلفل",
+        "سوزش‌",
+        "دزدی‌",
+        "منگنه‌",
+        "گیره‌",
+        "ذره‌",
+        "خرده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nip and tuck",
+      "Meanings": [
+        "پهلو به پهلو",
+        "تقریبا برابر"
+      ]
+    },
+    {
+      "EnglishWord": "nipper",
+      "Meanings": [
+        "منگنه‌",
+        "فندق شکن‌",
+        "قند شکن گاز انبری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nipping",
+      "Meanings": [
+        "سرد",
+        "گزنده‌",
+        "تند"
+      ]
+    },
+    {
+      "EnglishWord": "nipple",
+      "Meanings": [
+        "نوک پستان‌",
+        "نوک غده‌",
+        "پستانک مخصوص شیربچه‌",
+        "ازنوک‌پستان خوردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nipponese",
+      "Meanings": [
+        "ژاپنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nippy",
+      "Meanings": [
+        "زننده‌",
+        "طعنه امیز",
+        "سوزش دار",
+        "تند و تیز",
+        "چالاک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nisus",
+      "Meanings": [
+        "تقلا",
+        "اراده‌",
+        "تمایل‌",
+        "میل‌"
+      ]
+    },
+    {
+      "EnglishWord": "niter",
+      "Meanings": [
+        "nitre ش‌. natron",
+        "شوره اشنان‌",
+        "نیترات سدیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitid",
+      "Meanings": [
+        "روشن‌",
+        "براق‌",
+        "شفاف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitrate",
+      "Meanings": [
+        "ش‌. نیترات‌",
+        "نمک معدنی یا نمک الی جوهر شوره‌",
+        "نیترات سدیم یا پتاسیم‌",
+        "شوره‌",
+        "به نیترات تبدیل کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitre",
+      "Meanings": [
+        "niter ش‌. natron",
+        "شوره اشنان‌",
+        "نیترات سدیم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitric",
+      "Meanings": [
+        "دارای نیتروژن با ظرفیت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "nitrogen",
+      "Meanings": [
+        "ازت‌",
+        "نیتروژن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitrogenize",
+      "Meanings": [
+        "با نیتروژن ترکیب کردن‌",
+        "تبدیل به ازت کردن‌",
+        "دارای‌نیتروژن کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nitroglycerin",
+      "Meanings": [
+        "ش‌. ترکیب‌روغنی سنگین بفرمول‌3 O NO2 C3 H"
+      ]
+    },
+    {
+      "EnglishWord": "nitrous",
+      "Meanings": [
+        "دارای شوره‌",
+        "شوره دار",
+        "دارای نیتروژن با طرفیت پایی"
+      ]
+    },
+    {
+      "EnglishWord": "nitwit",
+      "Meanings": [
+        "ادم پریشان حواس‌",
+        "ادم کله خشک و احمق‌"
+      ]
+    },
+    {
+      "EnglishWord": "nix",
+      "Meanings": [
+        "حوری دریایی‌",
+        "هیچ‌",
+        "هیچکس‌",
+        "رای مخالف دادن‌",
+        "وتو کردن‌",
+        "منع کردن‌",
+        "اصلا",
+        "بهیچ وجه‌",
+        "نه خیر"
+      ]
+    },
+    {
+      "EnglishWord": "no",
+      "Meanings": [
+        "n: . No number =",
+        "adj &. adv: پاسخ نه‌",
+        "منفی‌",
+        "مخالف‌",
+        "خیر",
+        "ابدا"
+      ]
+    },
+    {
+      "EnglishWord": "no man's land",
+      "Meanings": [
+        "زمین بلاصاحب و غیر مسکون‌",
+        "باریکه زمین حد فاصل‌بین‌نیروی متخاصم و نیروی خودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "no one",
+      "Meanings": [
+        "nobody هیچکس‌"
+      ]
+    },
+    {
+      "EnglishWord": "no op instruction",
+      "Meanings": [
+        "دستورالعمل بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "no par",
+      "Meanings": [
+        "no par value بدون ارزش واقعی‌",
+        "بی ارزش‌"
+      ]
+    },
+    {
+      "EnglishWord": "no par value",
+      "Meanings": [
+        "no par بدون ارزش واقعی‌",
+        "بی ارزش‌"
+      ]
+    },
+    {
+      "EnglishWord": "no show",
+      "Meanings": [
+        "مسافری که جا برای خود محفوظ کرده ولی برای سفرحاضر نمیشود"
+      ]
+    },
+    {
+      "EnglishWord": "noah",
+      "Meanings": [
+        "نوح پیغمبر"
+      ]
+    },
+    {
+      "EnglishWord": "nob",
+      "Meanings": [
+        "دستیگره‌",
+        "قلنبه‌",
+        "سر",
+        "ضربت بر سر",
+        "کسیکه از طبقات‌بالاباشد"
+      ]
+    },
+    {
+      "EnglishWord": "nobble",
+      "Meanings": [
+        "بطرف خود اوردن‌",
+        "طرفدار خود کردن‌",
+        "سرقت کردن‌",
+        "سواستفاده‌کردن‌",
+        "جرزدن‌",
+        "تقلب کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nobby",
+      "Meanings": [
+        "قلنبه‌",
+        "درجه یک‌",
+        "اعلی‌",
+        "ظریف‌",
+        "خیلی شیک‌",
+        "عالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nobel prize",
+      "Meanings": [
+        "جایزه نوبل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nobility",
+      "Meanings": [
+        "نجابت‌",
+        "اصالت خانوادگی‌",
+        "طبقه نجبا"
+      ]
+    },
+    {
+      "EnglishWord": "noble",
+      "Meanings": [
+        "ازاده‌",
+        "اصیل‌",
+        "شریف‌",
+        "نجیب‌",
+        "باشکوه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nobleman",
+      "Meanings": [
+        "نجیب زاده‌"
+      ]
+    },
+    {
+      "EnglishWord": "noblesse",
+      "Meanings": [
+        "نجبا",
+        "اشراف‌",
+        "اشرافیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "noblesse oblige",
+      "Meanings": [
+        "بزرگواری و سخاوتمندی‌",
+        "نشانه‌نجیب زادگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nobody",
+      "Meanings": [
+        "هیچ کس‌",
+        "هیچ فرد",
+        "ادم بی‌اهمیت‌",
+        "ادم‌گمنام‌"
+      ]
+    },
+    {
+      "EnglishWord": "nocent",
+      "Meanings": [
+        "زیان‌رسان‌",
+        "مضر",
+        "مقصر"
+      ]
+    },
+    {
+      "EnglishWord": "nock",
+      "Meanings": [
+        "سوفار",
+        "جای زه‌کمان‌",
+        "شکاف میان کفل ها",
+        "پیکان‌برزه‌گذاشتن‌",
+        "زه کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "noctambulation",
+      "Meanings": [
+        "noctambulism راه رفتن‌در خواب‌",
+        "خواب مخصوصا خواب‌هیپنویتزم",
+        "شبگردی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noctambulism",
+      "Meanings": [
+        "noctambulation راه رفتن‌در خواب‌",
+        "خواب مخصوصاخواب هیپنویتزم",
+        "شبگردی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noctiluca",
+      "Meanings": [
+        "فسفر",
+        "شب تاب‌",
+        "تاژکداران شب تاب دریایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nocturn",
+      "Meanings": [
+        "عبادت نیمه شب‌",
+        "سحر خوانی‌",
+        "شبانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nocturnal",
+      "Meanings": [
+        "شبانه‌",
+        "عشایی‌",
+        "واقع شونده در شب‌",
+        "نمایش شبانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nocturne",
+      "Meanings": [
+        "مو. قطعه موسیقی دل انگیز و رویایی‌",
+        "نقاشی ازمنظره شب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nocuous",
+      "Meanings": [
+        "زیان اور",
+        "مضر"
+      ]
+    },
+    {
+      "EnglishWord": "nod",
+      "Meanings": [
+        "تکاندادن سر بعلامت توافق‌",
+        "سرتکان دادن‌",
+        "باسراشاره‌کردن‌",
+        "تکان سر"
+      ]
+    },
+    {
+      "EnglishWord": "nodal",
+      "Meanings": [
+        "گرهی‌",
+        "واقع درنزدیک گره‌",
+        "عقده‌ای‌",
+        "گره‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodality",
+      "Meanings": [
+        "وابستگی به گره‌",
+        "نزدیکی به گره‌"
+      ]
+    },
+    {
+      "EnglishWord": "noddle",
+      "Meanings": [
+        "پشت سر",
+        "پشت گردن‌",
+        "سر",
+        "کله‌"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره‌",
+        "اشکال‌",
+        "دشواری‌",
+        "برامدگی‌",
+        "ورم‌",
+        "غده‌",
+        "منحنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodose",
+      "Meanings": [
+        "nodous دارای برامدگی‌های مشخص‌",
+        "گره‌دار",
+        "قنبلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodous",
+      "Meanings": [
+        "nodose دارای برامدگی‌های مشخص‌",
+        "گره‌دار",
+        "قنبلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodular",
+      "Meanings": [
+        "گره دار",
+        "ورم کرده‌",
+        "قلنبه شده‌",
+        "گره گره‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodule",
+      "Meanings": [
+        "قلنبه کوچک‌",
+        "کلوخه‌",
+        "برامدگی‌",
+        "عقده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nodulose",
+      "Meanings": [
+        "nodulous قلنبه دار",
+        "دارای برامدگی‌های ریز"
+      ]
+    },
+    {
+      "EnglishWord": "nodulous",
+      "Meanings": [
+        "nodulose قلنبه دار",
+        "دارای برامدگی‌های ریز"
+      ]
+    },
+    {
+      "EnglishWord": "nodus",
+      "Meanings": [
+        "گره‌",
+        "اشکال‌",
+        "گرفتاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "noel",
+      "Meanings": [
+        "عید نویل‌",
+        "سرود میلاد مسیح‌",
+        "جشن میلاد مسیح‌"
+      ]
+    },
+    {
+      "EnglishWord": "noetic",
+      "Meanings": [
+        "شخص دانا و فکور",
+        "ادراکی‌",
+        "معرفتی‌",
+        "هوشی‌",
+        "ذهنی‌",
+        "قیاس‌منطقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nog",
+      "Meanings": [
+        "nogg میخ بزرگ چوبی‌",
+        "زرده تخم مرغ که‌بامشروب‌مخلوط شده باشد eggnog"
+      ]
+    },
+    {
+      "EnglishWord": "nogg",
+      "Meanings": [
+        "nog میخ بزرگ چوبی‌",
+        "زرده تخم مرغ که‌بامشروب مخلوطشده باشد eggnog"
+      ]
+    },
+    {
+      "EnglishWord": "noggin",
+      "Meanings": [
+        "naggin= سطل چوبی‌",
+        "لیوان چوبی‌",
+        "سر",
+        "سرانسان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nohow",
+      "Meanings": [
+        "بهیچوجه‌",
+        "ابدا",
+        "بهر حال‌",
+        "ناجور"
+      ]
+    },
+    {
+      "EnglishWord": "noise",
+      "Meanings": [
+        "صدا",
+        "شلوغ‌",
+        "سر وصدا",
+        "قیل و قال‌",
+        "طنین‌",
+        "صدا راه‌انداختن‌",
+        "پا رازیت‌",
+        "شایعه و تهمت‌",
+        "خش‌",
+        "اختلال‌"
+      ]
+    },
+    {
+      "EnglishWord": "noise generator",
+      "Meanings": [
+        "خش زا"
+      ]
+    },
+    {
+      "EnglishWord": "noise level",
+      "Meanings": [
+        "میزان خش‌"
+      ]
+    },
+    {
+      "EnglishWord": "noise margin",
+      "Meanings": [
+        "تفاوت خش‌"
+      ]
+    },
+    {
+      "EnglishWord": "noiseless",
+      "Meanings": [
+        "بی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "noisome",
+      "Meanings": [
+        "مضر",
+        "زیان‌بخش‌",
+        "بدبو",
+        "کریه‌",
+        "نامطلوب‌"
+      ]
+    },
+    {
+      "EnglishWord": "noisy",
+      "Meanings": [
+        "پر سر وصدا",
+        "پرخش‌",
+        "شلوغ‌"
+      ]
+    },
+    {
+      "EnglishWord": "noisy mode",
+      "Meanings": [
+        "باب پرخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "nom de plume",
+      "Meanings": [
+        "اسم مستعار نویسندگان‌",
+        "کنیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomad",
+      "Meanings": [
+        "کوچ گر",
+        "بدوی‌",
+        "چادر نشین‌",
+        "ایلیاتی‌",
+        "خانه بدوش‌",
+        "صحرانشین‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomadic",
+      "Meanings": [
+        "چادر نشین‌",
+        "وابسته به کوچ گری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomadism",
+      "Meanings": [
+        "صحرانشینی‌",
+        "کوچ گری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomen",
+      "Meanings": [
+        "اسم‌",
+        "نام‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomenclator",
+      "Meanings": [
+        "فهرست لغات و اسامی‌",
+        "کنیه دهنده‌",
+        "لقب دهنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomenclature",
+      "Meanings": [
+        "فهرست واژه‌ها و اصطلاحات یک علم یا یک فن‌",
+        "مجموعه‌لغات‌",
+        "نام‌",
+        "فهرست علایم و اختصارات‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomenclauture",
+      "Meanings": [
+        "نام گذاری‌",
+        "فهرست اصطلاحات‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominal",
+      "Meanings": [
+        "اسمی‌",
+        "صوری‌",
+        "جزیی‌",
+        "کم قیمت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominal bandwidth",
+      "Meanings": [
+        "پهنای بانداسمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominal value",
+      "Meanings": [
+        "قیمت اسمی‌",
+        "سهمی‌",
+        "قیمت واقعی سهم که روی ان نوشته‌شده‌",
+        "ارزش اسمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominalism",
+      "Meanings": [
+        "فلسفه صوری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominate",
+      "Meanings": [
+        "کاندید کردن‌",
+        "نامیدن‌",
+        "معرفی کردن‌",
+        "نامزد کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomination",
+      "Meanings": [
+        "نام گذاری‌",
+        "کاندید",
+        "تعیین‌",
+        "نامزدی در انتخابات‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominative",
+      "Meanings": [
+        "حالت کنایی‌",
+        "حالت فاعلی‌",
+        "فاعلی‌",
+        "کاندید شده‌",
+        "تعیین شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nominee",
+      "Meanings": [
+        "نامزد",
+        "کاندید شده‌",
+        "منصوب‌",
+        "تعیین شده‌",
+        "ذینفع‌"
+      ]
+    },
+    {
+      "EnglishWord": "nomological",
+      "Meanings": [
+        "وابسته به قانون‌",
+        "شبیه قانون‌",
+        "منطبق با قانون‌"
+      ]
+    },
+    {
+      "EnglishWord": "non",
+      "Meanings": [
+        "پیشوندی است بمعنی یا و غیر"
+      ]
+    },
+    {
+      "EnglishWord": "non ambiguous",
+      "Meanings": [
+        "نامبهم‌",
+        "غیرمبهم‌"
+      ]
+    },
+    {
+      "EnglishWord": "non compos mentis",
+      "Meanings": [
+        "دارای فکر معلول‌",
+        "فاقدقوه تعقل و ادراک‌"
+      ]
+    },
+    {
+      "EnglishWord": "non contiguous",
+      "Meanings": [
+        "ناهمجوار",
+        "غیرهمجوار"
+      ]
+    },
+    {
+      "EnglishWord": "non deterministic",
+      "Meanings": [
+        "غیرقطعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "non existent code",
+      "Meanings": [
+        "رمزناموجود"
+      ]
+    },
+    {
+      "EnglishWord": "non numeric",
+      "Meanings": [
+        "غیرعددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "non placet",
+      "Meanings": [
+        "رای منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "non return to zero",
+      "Meanings": [
+        "بدون بازگشت به صفر"
+      ]
+    },
+    {
+      "EnglishWord": "non scheduled",
+      "Meanings": [
+        "زمان بندی نشده‌"
+      ]
+    },
+    {
+      "EnglishWord": "non uniform",
+      "Meanings": [
+        "غیریکسان‌",
+        "غیریکنواخت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonage",
+      "Meanings": [
+        "فاقد اهلیت قانونی‌",
+        "صغیر",
+        "خردی‌",
+        "عدم بلوغ‌",
+        "عدم رشد"
+      ]
+    },
+    {
+      "EnglishWord": "nonagenarian",
+      "Meanings": [
+        "ادم نود ساله یاکمتر از صد سال",
+        "نود ساله‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonagon",
+      "Meanings": [
+        "‰ ضلعی‌",
+        "‰ گوشه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonaligned",
+      "Meanings": [
+        "غیر متعهد",
+        "ناهم پیمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonalignment",
+      "Meanings": [
+        "نا هم پیمانی‌",
+        "عدم تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "nonce",
+      "Meanings": [
+        "فعلا",
+        "مقصود فعلی‌",
+        "عجالتا"
+      ]
+    },
+    {
+      "EnglishWord": "nonchalance",
+      "Meanings": [
+        "سهل انگاری‌",
+        "لاقیدی‌",
+        "پشت گوش فراخی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonchalant",
+      "Meanings": [
+        "سهل انگار",
+        "اهمال کار",
+        "مسامحه کار",
+        "بی علاقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "noncombatant",
+      "Meanings": [
+        "غیر مبارز",
+        "افراد غیر نظامی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noncommissioned  officer",
+      "Meanings": [
+        "افسر دون رتبه‌",
+        "درجه دار",
+        "افسر وظیفه‌"
+      ]
+    },
+    {
+      "EnglishWord": "noncommittal",
+      "Meanings": [
+        "رد کننده‌",
+        "غیر صریح‌",
+        "غیر مشخص‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonconductor",
+      "Meanings": [
+        "جسم غیر هادی‌",
+        "نارسانا"
+      ]
+    },
+    {
+      "EnglishWord": "nonconformist",
+      "Meanings": [
+        "ناپیرو",
+        "نامقلد",
+        "معاند",
+        "ناموافق‌",
+        "مخالف کلیسای رسمی‌",
+        "خود رای‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonconformity",
+      "Meanings": [
+        "ناپیروی‌",
+        "عدم رعایت‌",
+        "عدم تشابه‌",
+        "عدم‌موافقت‌",
+        "معاندت‌",
+        "ناهمنوایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noncontagious",
+      "Meanings": [
+        "غیر مسری‌"
+      ]
+    },
+    {
+      "EnglishWord": "noncooperation",
+      "Meanings": [
+        "عدم همکاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nondescript",
+      "Meanings": [
+        "غیرقابل طبقه بندی‌",
+        "وصف ناپذیر",
+        "نامعین‌"
+      ]
+    },
+    {
+      "EnglishWord": "nondestructive",
+      "Meanings": [
+        "غیرمخرب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nondestructive read",
+      "Meanings": [
+        "خواندن غیرمخرب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nondisjunction",
+      "Meanings": [
+        "نافصل‌"
+      ]
+    },
+    {
+      "EnglishWord": "none",
+      "Meanings": [
+        "هیچ‌",
+        "هیچیک‌",
+        "هیچکدام‌",
+        "بهیچوجه‌",
+        "نه‌",
+        "ابدا",
+        "اصلا"
+      ]
+    },
+    {
+      "EnglishWord": "nonentity",
+      "Meanings": [
+        "چیز غیر موجود",
+        "جیز وهمی و خیالی‌",
+        "عدم‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonequality gate",
+      "Meanings": [
+        "دریچه نابرابری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonerasable storage",
+      "Meanings": [
+        "انباره پاک نشدنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonesuch",
+      "Meanings": [
+        "چیز بی نظیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonetheless",
+      "Meanings": [
+        "بااین وجود",
+        "با اینحال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonexecutable",
+      "Meanings": [
+        "اجراناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonexecutable statement",
+      "Meanings": [
+        "دستورالعمل اجراناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonfeasance",
+      "Meanings": [
+        "قصور در انجام امری‌",
+        "اهمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonferrous",
+      "Meanings": [
+        "بدون مواد اهنی‌",
+        "غیراهنی‌",
+        "فلزات غیر اهنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonidentity operation",
+      "Meanings": [
+        "عمل ناهمانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonillion",
+      "Meanings": [
+        "عدد یک با „… صفر"
+      ]
+    },
+    {
+      "EnglishWord": "noninductive",
+      "Meanings": [
+        "غیر هادی‌",
+        "غیر قابل القا مغناطیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonintervention",
+      "Meanings": [
+        "سیاست عدم مداخله‌",
+        "سیاست کناره گیری‌",
+        "عدم مداخله‌"
+      ]
+    },
+    {
+      "EnglishWord": "noninverting input",
+      "Meanings": [
+        "ورودی غیروارونگر"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear",
+      "Meanings": [
+        "غیرخطی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear optimization",
+      "Meanings": [
+        "بهینه سازی‌",
+        "غیر خطی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear programming",
+      "Meanings": [
+        "برنامه ریزی غیر خطی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonlocking",
+      "Meanings": [
+        "قفل ناشدنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonmetal",
+      "Meanings": [
+        "غیر فلز"
+      ]
+    },
+    {
+      "EnglishWord": "nonmetallic",
+      "Meanings": [
+        "غیر فلزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative",
+      "Meanings": [
+        "نامنفی‌",
+        "غیر منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative number",
+      "Meanings": [
+        "عدد نامنفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonohmic device",
+      "Meanings": [
+        "دستگاه غیر اهمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonpareil",
+      "Meanings": [
+        "غیر مساوی‌",
+        "بی همتا",
+        "بی نظیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonpartisan",
+      "Meanings": [
+        "بیطرف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonplus",
+      "Meanings": [
+        "پریشانی‌",
+        "اشفتگی‌",
+        "بی تصمیمی‌",
+        "بی تصمیم‌",
+        "بی تصمیم‌بودن‌",
+        "پریشان کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonposetive",
+      "Meanings": [
+        "نامثبت‌",
+        "غیر مثبت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonproductive",
+      "Meanings": [
+        "نافر اور",
+        "غیر مولد",
+        "غیر تولیدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonprogrammed halt",
+      "Meanings": [
+        "توقف برنامه ریزی نشده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonrelocatable",
+      "Meanings": [
+        "جابجاناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonrepresentational",
+      "Meanings": [
+        "غیر طبیعی‌",
+        "مصنوعی‌",
+        "غیرحاکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonresidence",
+      "Meanings": [
+        "nonresidency عدم اقامت‌",
+        "غیر مقیم بودن",
+        "غیرساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonresidency",
+      "Meanings": [
+        "nonresidence عدم اقامت‌",
+        "غیر مقیم بودن",
+        "غیرساکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonresistance",
+      "Meanings": [
+        "عدم مقاومت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonrestrictive",
+      "Meanings": [
+        "غیرحصری‌",
+        "عام‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsense",
+      "Meanings": [
+        "یاوه‌",
+        "مهمل‌",
+        "مزخرف‌",
+        "حرف پوچ‌",
+        "بیمعنی‌",
+        "خارج از منطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsensical",
+      "Meanings": [
+        "مزخرف‌",
+        "چرند"
+      ]
+    },
+    {
+      "EnglishWord": "nonsensicalness",
+      "Meanings": [
+        "یاوگی‌",
+        "چرندی‌",
+        "مهملی‌",
+        "بیمعنی گری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsequitur",
+      "Meanings": [
+        "نامربوط",
+        "عدم تعقیب‌",
+        "عدم استنباط قضایا",
+        "غیر منطقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsignificant",
+      "Meanings": [
+        "غیر مشخص‌",
+        "غیر معین‌",
+        "نامعلوم‌",
+        "کم اهمیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonstop",
+      "Meanings": [
+        "بدون توقف‌",
+        "یکسره‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsuit",
+      "Meanings": [
+        "حق. عدم تعقیب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsupport",
+      "Meanings": [
+        "عدم پشتیبانی‌",
+        "عدم پرداخت خرجی یا نفقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonsyllabic",
+      "Meanings": [
+        "بدون هجایی‌",
+        "غیر هجایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonterminal",
+      "Meanings": [
+        "غیر پایانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonterminal symbol",
+      "Meanings": [
+        "نماد غیر پایانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonunion",
+      "Meanings": [
+        "کسیکه عضو اتحادیه کارگری نیست‌",
+        "غیر وابسته‌بسندیکای کارگری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonuse",
+      "Meanings": [
+        "عدم استفاده‌",
+        "بیمصرفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonverbal",
+      "Meanings": [
+        "غیر شفاهی‌",
+        "غیرزبانی‌",
+        "بدون احتیاج باستفاده از زبان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonviable",
+      "Meanings": [
+        "غیر قابل رشد سریع‌",
+        "کند و بد رشد کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nonvolatile",
+      "Meanings": [
+        "درمورد مایعات و غیره غیرفرار"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero",
+      "Meanings": [
+        "غیر صفر"
+      ]
+    },
+    {
+      "EnglishWord": "noodle",
+      "Meanings": [
+        "رشته فرنگی‌",
+        "ماکارونی‌",
+        "احمق‌",
+        "ابداع کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nook",
+      "Meanings": [
+        "گوشه‌",
+        "قطعه زمین پیش امده‌",
+        "برامدگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noon",
+      "Meanings": [
+        "نیمروز",
+        "ظهر",
+        "وسط روز"
+      ]
+    },
+    {
+      "EnglishWord": "noonday",
+      "Meanings": [
+        "ظهر",
+        "وسط روز",
+        "نیم روز"
+      ]
+    },
+    {
+      "EnglishWord": "nooning",
+      "Meanings": [
+        "استراحت نیمروز",
+        "هنگام ظهر",
+        "ناهار"
+      ]
+    },
+    {
+      "EnglishWord": "noontide",
+      "Meanings": [
+        "نیمروز",
+        "ظهر",
+        "اوج‌",
+        "بالاترین نقطه‌"
+      ]
+    },
+    {
+      "EnglishWord": "noontime",
+      "Meanings": [
+        "موقع ظهر",
+        "نیمروز"
+      ]
+    },
+    {
+      "EnglishWord": "noose",
+      "Meanings": [
+        "کمند",
+        "خفت‌",
+        "دام‌",
+        "بند",
+        "تله‌",
+        "در کمند انداختن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nopal",
+      "Meanings": [
+        "گ‌. ش‌. انحیر هندی از جنس‌nopalea"
+      ]
+    },
+    {
+      "EnglishWord": "nope",
+      "Meanings": [
+        "نفی‌",
+        "جواب منفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nor",
+      "Meanings": [
+        "نه این و نه ان‌",
+        "هیچ یک باneither وnot بکارمیرود",
+        "نقیض یا"
+      ]
+    },
+    {
+      "EnglishWord": "nor gate",
+      "Meanings": [
+        "دریچه نقیض یا"
+      ]
+    },
+    {
+      "EnglishWord": "nordic",
+      "Meanings": [
+        "وابسته‌به‌شمال‌اروپا",
+        "شمالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "هنجار",
+        "اصل قانونی‌",
+        "قاعده‌",
+        "ماخذ قانونی‌",
+        "مقیاس یامعیار",
+        "حد وسط",
+        "معدل‌"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "عادی‌",
+        "معمول‌",
+        "طبیعی‌",
+        "میانه‌",
+        "متوسط",
+        "به هنجار",
+        "معمولی‌",
+        "هنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal exit",
+      "Meanings": [
+        "درروی عادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "normal form",
+      "Meanings": [
+        "صورت عادی‌",
+        "صورت هنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal range",
+      "Meanings": [
+        "محدوده عادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "normal school",
+      "Meanings": [
+        "دانش سرا",
+        "دارالمعلمین‌"
+      ]
+    },
+    {
+      "EnglishWord": "normal termination",
+      "Meanings": [
+        "پایان عادی‌"
+      ]
+    },
+    {
+      "EnglishWord": "normality",
+      "Meanings": [
+        "حالت عادی‌",
+        "به هنجاری‌",
+        "عادی بودن‌",
+        "هنجاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "normalization",
+      "Meanings": [
+        "عادی شدن‌",
+        "هنجارسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "normalize",
+      "Meanings": [
+        "بصورت عادی و معمولی در اوردن‌",
+        "طبیعی کردن‌",
+        "تحت‌قانون و قاعده در اوردن‌",
+        "هنجار کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "normalized",
+      "Meanings": [
+        "هنجار",
+        "هنجار شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "normalized form",
+      "Meanings": [
+        "صورت هنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normally closed contact",
+      "Meanings": [
+        "اتصال معمولا بسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "normally open contact",
+      "Meanings": [
+        "اتصال معمولا باز"
+      ]
+    },
+    {
+      "EnglishWord": "norman",
+      "Meanings": [
+        "اهل نرماندی‌",
+        "از نژاد نرمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "normative",
+      "Meanings": [
+        "هنجاری‌",
+        "قاعده‌ای‌",
+        "اصولی‌",
+        "معیاری‌",
+        "قانونی‌",
+        "اصلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "norse",
+      "Meanings": [
+        "اهل اسکاندیناوی‌",
+        "مربوط به اسکاندیناوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "norseman",
+      "Meanings": [
+        "northman اسکاندیناوی باستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "north",
+      "Meanings": [
+        "شمال‌",
+        "شمالی‌",
+        "باد شمال‌",
+        "رو به‌شمال‌",
+        "در شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "north pole",
+      "Meanings": [
+        "قطب شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "north star",
+      "Meanings": [
+        "نج. ستاره‌قطبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northbound",
+      "Meanings": [
+        "عازم شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "northeast",
+      "Meanings": [
+        "شمال خاوری‌",
+        "شمال شرقی‌",
+        "شمال شرق‌"
+      ]
+    },
+    {
+      "EnglishWord": "northeaster",
+      "Meanings": [
+        "باد شمال خاوری‌",
+        "نسیم شمال شرقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northeastern",
+      "Meanings": [
+        "شمال شرقی‌",
+        "مربوط به شمال شرقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northeastward",
+      "Meanings": [
+        "بطرف شمال شرقی‌",
+        "شمال شرقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "norther",
+      "Meanings": [
+        "بیشتر بطرف شمال‌",
+        "شمالی‌",
+        "باد سرد شمالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northerly",
+      "Meanings": [
+        "شمالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northern",
+      "Meanings": [
+        "شمالی‌",
+        "ساکن شمال‌",
+        "باد شمالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northern lights",
+      "Meanings": [
+        "شفق شمالی‌",
+        "نور فجر شمالی قطب‌"
+      ]
+    },
+    {
+      "EnglishWord": "northerner",
+      "Meanings": [
+        "اهل شمال‌"
+      ]
+    },
+    {
+      "EnglishWord": "northman",
+      "Meanings": [
+        "norseman اسکاندیناوی باستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northward",
+      "Meanings": [
+        "northwards بسوی شمال‌",
+        "شمالا",
+        "رو بشمال‌",
+        "قسمت شمال"
+      ]
+    },
+    {
+      "EnglishWord": "northwards",
+      "Meanings": [
+        "northward بسوی شمال‌",
+        "شمالا",
+        "رو بشمال‌",
+        "قسمت شمالی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northwest",
+      "Meanings": [
+        "شمال باختری‌",
+        "شمال غرب‌",
+        "شمال غربی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northwester",
+      "Meanings": [
+        "باد شمال غربی‌",
+        "طوفان شمال غربی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northwestern",
+      "Meanings": [
+        "شمال غربی‌"
+      ]
+    },
+    {
+      "EnglishWord": "northwestwards",
+      "Meanings": [
+        "بطرف شمال غربی‌",
+        "روبشمال غربی‌"
+      ]
+    },
+    {
+      "EnglishWord": "norway",
+      "Meanings": [
+        "نروژ"
+      ]
+    },
+    {
+      "EnglishWord": "norwegian",
+      "Meanings": [
+        "نروژی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nose",
+      "Meanings": [
+        "بینی‌",
+        "عضو بویایی‌",
+        "نوک بر امده هر چیزی‌",
+        "دماغه‌",
+        "بوکشیدن‌",
+        "بینی مالیدن به‌",
+        "مواجه شدن با"
+      ]
+    },
+    {
+      "EnglishWord": "nose cone",
+      "Meanings": [
+        "دماغه مخروطی شکل نوک موشک و راکت‌",
+        "مخروط دماغه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nose dive",
+      "Meanings": [
+        "شیرجه ناگهانی در هواپیما",
+        "تنزل ناگهانی قیمت‌",
+        "ناگهان شیرجه رفتن یا تنزل کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "noseband",
+      "Meanings": [
+        "رودماغی‌",
+        "پوز بند اسب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nosebleed",
+      "Meanings": [
+        "رعاف‌",
+        "خون دماغ‌"
+      ]
+    },
+    {
+      "EnglishWord": "nosegay",
+      "Meanings": [
+        "دسته گل‌",
+        "گلدسته‌",
+        "دسته گل یا یک دسته علف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nosepiece",
+      "Meanings": [
+        "رو دماغی‌",
+        "پوزه بند",
+        "پل عینک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nosey",
+      "Meanings": [
+        "nosy دارای شامه تیز",
+        "فضول‌"
+      ]
+    },
+    {
+      "EnglishWord": "nosology",
+      "Meanings": [
+        "مبحث شناسایی و تقسیم بندی امراض‌"
+      ]
+    },
+    {
+      "EnglishWord": "nostalgia",
+      "Meanings": [
+        "دلتنگی برای میهن‌",
+        "احساس غربت‌"
+      ]
+    },
+    {
+      "EnglishWord": "nostalgic",
+      "Meanings": [
+        "دلتنگ‌",
+        "غریب‌"
+      ]
+    },
+    {
+      "EnglishWord": "nostril",
+      "Meanings": [
+        "سوراخ بینی‌",
+        "منخر"
+      ]
+    },
+    {
+      "EnglishWord": "nostrum",
+      "Meanings": [
+        "دارویی که‌علاج هر درد باشد",
+        "علاج هر چیز"
+      ]
+    },
+    {
+      "EnglishWord": "nosy",
+      "Meanings": [
+        "nosey دارای شامه تیز",
+        "فضول‌"
+      ]
+    },
+    {
+      "EnglishWord": "not",
+      "Meanings": [
+        "نه خیر",
+        "حرف منفی‌",
+        "نقیض‌",
+        "نقض‌",
+        "نفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "not circuit",
+      "Meanings": [
+        "مدار نقض‌",
+        "مدار نفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "not operation",
+      "Meanings": [
+        "عمل نقض‌",
+        "عمل نفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nota bene",
+      "Meanings": [
+        "قابل توجه‌",
+        "توجه شود"
+      ]
+    },
+    {
+      "EnglishWord": "notability",
+      "Meanings": [
+        "برجستگی‌",
+        "اهمیت‌",
+        "شهرت‌"
+      ]
+    },
+    {
+      "EnglishWord": "notable",
+      "Meanings": [
+        "شخص بر جسته‌",
+        "چیز برجسته‌",
+        "جالب توجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "notarial",
+      "Meanings": [
+        "وابسته به دفتر اسناد رسمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "notarization",
+      "Meanings": [
+        "گواهی محضری و رسمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "notary public",
+      "Meanings": [
+        "دفتر اسناد رسمی‌",
+        "صاحب محضر"
+      ]
+    },
+    {
+      "EnglishWord": "notate",
+      "Meanings": [
+        "نماد کردن‌",
+        "یادداشت برداشتن‌",
+        "یاد داشت کردن‌",
+        "یادداشتی‌"
+      ]
+    },
+    {
+      "EnglishWord": "notation",
+      "Meanings": [
+        "نماد سازی‌",
+        "یاد داشت‌",
+        "ثبت‌",
+        "توجه‌",
+        "بخاطر سپاری‌",
+        "حاشیه‌نویسی‌",
+        "نشان گذاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "notch",
+      "Meanings": [
+        "شکاف‌",
+        "بریدگی‌",
+        "شکاف چوبخط",
+        "سوراخ کردن‌",
+        "شکاف ایجادکردن‌",
+        "چوبخط زدن‌",
+        "فرورفتگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "note",
+      "Meanings": [
+        "مو. کلید پیانو",
+        "اهنگ صدا",
+        "نوت موسیقی‌",
+        "خاطرات‌",
+        "یادداشت‌‌ها درجمع",
+        "تذکاریه‌یادداشت کردن‌",
+        "ثبت کردن‌",
+        "بخاطر سپردن‌",
+        "ملاحظه کردن‌",
+        "نوت موسیقی نوشتن‌",
+        "یاداشت‌",
+        "تبصره‌",
+        "توجه کردن‌",
+        "ذکر کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "notebook",
+      "Meanings": [
+        "کتابچه یادداشت‌",
+        "دفتر یادداشت‌",
+        "دفتر تکالیف درسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "noted",
+      "Meanings": [
+        "برجسته‌",
+        "مورد ملاحظه‌"
+      ]
+    },
+    {
+      "EnglishWord": "noteworthy",
+      "Meanings": [
+        "قابل توجه‌",
+        "قابل دقت‌",
+        "مورد توجه‌",
+        "باارزش‌"
+      ]
+    },
+    {
+      "EnglishWord": "nothing",
+      "Meanings": [
+        "هیچ‌",
+        "نیستی‌",
+        "صفر",
+        "بی ارزش‌",
+        "ابدا"
+      ]
+    },
+    {
+      "EnglishWord": "notice",
+      "Meanings": [
+        "اگهی‌",
+        "خبر",
+        "اعلان‌",
+        "توجه‌",
+        "اطلاع‌",
+        "اخطار",
+        "ملتفت شدن‌",
+        "دیدن‌",
+        "شناختن‌",
+        "ملاحضه کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "noticeable",
+      "Meanings": [
+        "قابل توجه‌",
+        "قابل ملاحضه‌",
+        "برجسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "notification",
+      "Meanings": [
+        "اطلاع‌",
+        "اخطار",
+        "تذکر",
+        "اگاه‌سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "notify",
+      "Meanings": [
+        "اگاهی دادن‌",
+        "اعلام کردن‌",
+        "اخطار کردن‌",
+        "اگاه‌ساختن‌"
+      ]
+    },
+    {
+      "EnglishWord": "notion",
+      "Meanings": [
+        "notional تصور",
+        "اندیشه‌",
+        "فکر",
+        "نظریه‌",
+        "خیال‌",
+        "ادراک‌",
+        "فکری‌",
+        "تصور",
+        "مفهوم‌"
+      ]
+    },
+    {
+      "EnglishWord": "notional",
+      "Meanings": [
+        "notion تصور",
+        "اندیشه‌",
+        "فکر",
+        "نظریه‌",
+        "خیال‌",
+        "ادراک‌",
+        "فکری‌"
+      ]
+    },
+    {
+      "EnglishWord": "notoriety",
+      "Meanings": [
+        "انگشت نمایی‌",
+        "رسوایی‌",
+        "بدنامی‌"
+      ]
+    },
+    {
+      "EnglishWord": "notorious",
+      "Meanings": [
+        "بدنام رسوا"
+      ]
+    },
+    {
+      "EnglishWord": "notwithstanding",
+      "Meanings": [
+        "باوجود اینکه‌",
+        "علی رغم‌",
+        "باوجود",
+        "بدون توجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nougat",
+      "Meanings": [
+        "شیرینی بادام دار",
+        "نان بادامی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nought",
+      "Meanings": [
+        "naught= عدم‌",
+        "هیچ‌"
+      ]
+    },
+    {
+      "EnglishWord": "noumenal",
+      "Meanings": [
+        "وابسته به معنویات و خدایان‌"
+      ]
+    },
+    {
+      "EnglishWord": "noumenon",
+      "Meanings": [
+        "فلسفه کانت مجرد",
+        "وجود مجرد",
+        "معقولات‌",
+        "معنویات‌"
+      ]
+    },
+    {
+      "EnglishWord": "noun",
+      "Meanings": [
+        "اسم‌",
+        "نام‌",
+        "موصوف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nourish",
+      "Meanings": [
+        "قوت دادن‌",
+        "غذا دادن‌",
+        "خوراک دادن‌",
+        "تغذیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nourishing",
+      "Meanings": [
+        "مغذی‌",
+        "مقوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nourishment",
+      "Meanings": [
+        "غذا",
+        "قوت‌",
+        "خوراک‌",
+        "تغذیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nous",
+      "Meanings": [
+        "عقل‌",
+        "خرد",
+        "قوه ادراک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nouveau riche",
+      "Meanings": [
+        "فرانسه تازه بدوران رسیده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nova",
+      "Meanings": [
+        "نج. ستاره‌ای که نور ان چند روزی زیاد شده ودوباره کم شود",
+        "فانی ستاره‌",
+        "نو اختر"
+      ]
+    },
+    {
+      "EnglishWord": "novaculite",
+      "Meanings": [
+        "ساوسنگ‌"
+      ]
+    },
+    {
+      "EnglishWord": "novation",
+      "Meanings": [
+        "ابتکار",
+        "ابداع‌",
+        "نوسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "novel",
+      "Meanings": [
+        "نو",
+        "جدید",
+        "بدیع‌",
+        "رمان‌",
+        "کتاب داستان‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelet",
+      "Meanings": [
+        "novelette داستان کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelette",
+      "Meanings": [
+        "novelet داستان کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelist",
+      "Meanings": [
+        "رمان نویس‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelistic",
+      "Meanings": [
+        "وابسته به داستان و رمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelize",
+      "Meanings": [
+        "بشکل داستان در اوردن‌",
+        "بدعت گذاردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "novella",
+      "Meanings": [
+        "داستان‌",
+        "حکایت‌",
+        "رمان کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "novelty",
+      "Meanings": [
+        "تازگی‌",
+        "نوظهوری‌",
+        "چیز تازه‌",
+        "چیز نو"
+      ]
+    },
+    {
+      "EnglishWord": "november",
+      "Meanings": [
+        "نوامبر",
+        "نام ماه یازدهم‌سال فرنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "novemdecillion",
+      "Meanings": [
+        "عدد یک با شصت صفر"
+      ]
+    },
+    {
+      "EnglishWord": "novice",
+      "Meanings": [
+        "تازه کار",
+        "نو اموز",
+        "مبتدی‌",
+        "جدیدالایمان‌",
+        "ادم ناشی‌",
+        "نوچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "noviciate",
+      "Meanings": [
+        "novitiate مرحله تازه کاری‌",
+        "کار اموزی‌",
+        "تازه کار"
+      ]
+    },
+    {
+      "EnglishWord": "novitiate",
+      "Meanings": [
+        "noviciate مرحله تازه کاری‌",
+        "کار اموزی‌",
+        "تازه کار"
+      ]
+    },
+    {
+      "EnglishWord": "novocain",
+      "Meanings": [
+        "ماده‌بی حس کننده موضعی پروکایین‌",
+        "نوکایین‌"
+      ]
+    },
+    {
+      "EnglishWord": "now",
+      "Meanings": [
+        "حالا",
+        "اکنون‌",
+        "فعلا",
+        "در این لحظه‌",
+        "هان‌",
+        "اینک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nowadays",
+      "Meanings": [
+        "امروزه‌",
+        "این روزها"
+      ]
+    },
+    {
+      "EnglishWord": "noway",
+      "Meanings": [
+        "به‌هیچ طریق‌",
+        "بهیچوجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nowhere",
+      "Meanings": [
+        "nowheres هیچ جا",
+        "هیچ کجا",
+        "در هیچ مکان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nowhere near",
+      "Meanings": [
+        "نسبتا دور",
+        "دور",
+        "ابدا"
+      ]
+    },
+    {
+      "EnglishWord": "nowheres",
+      "Meanings": [
+        "nowhere هیچ جا",
+        "هیچ کجا",
+        "در هیچ مکان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nowhither",
+      "Meanings": [
+        "هیچ جا",
+        "هیچ کجا"
+      ]
+    },
+    {
+      "EnglishWord": "nowise",
+      "Meanings": [
+        "ابدا",
+        "هیچ‌",
+        "بهیچوجه‌",
+        "به هیچ عنوان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nox",
+      "Meanings": [
+        "الهه شب‌",
+        "شب‌"
+      ]
+    },
+    {
+      "EnglishWord": "noxious",
+      "Meanings": [
+        "مضر",
+        "مهلک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle",
+      "Meanings": [
+        "سر لوله اب‌",
+        "بینی‌",
+        "پوزه‌",
+        "دهانک‌"
+      ]
+    },
+    {
+      "EnglishWord": "npn transistor",
+      "Meanings": [
+        "ترانزیستور ان پی ان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nth",
+      "Meanings": [
+        "در مرحله چند",
+        "در مرتبه بیشمار"
+      ]
+    },
+    {
+      "EnglishWord": "nu",
+      "Meanings": [
+        "سیزدهمین حرف الفبای یونانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuance",
+      "Meanings": [
+        "فرق جزیی‌",
+        "اختلاف مختصر",
+        "نکات دقیق وظریف‌"
+      ]
+    },
+    {
+      "EnglishWord": "nub",
+      "Meanings": [
+        "برامدگی‌",
+        "قلنبه‌",
+        "تکه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nubbin",
+      "Meanings": [
+        "میوه ناقص‌",
+        "میوه نارس‌"
+      ]
+    },
+    {
+      "EnglishWord": "nubble",
+      "Meanings": [
+        "برامدگی یاگره کوچک‌",
+        "قنبلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nubian",
+      "Meanings": [
+        "اهل کشور نوبی یا حبشه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nubile",
+      "Meanings": [
+        "قابل ازدواج و همسری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nubility",
+      "Meanings": [
+        "بلوغ‌",
+        "تنه شوهر بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuchal",
+      "Meanings": [
+        "قفایی‌",
+        "وابسته به‌پشت گردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear",
+      "Meanings": [
+        "هسته‌ای‌",
+        "مغزی‌",
+        "اتمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nucleate",
+      "Meanings": [
+        "بشکل هسته شدن‌",
+        "تشکیل هسته دادن‌",
+        "جمع شدن‌",
+        "هسته دار",
+        "دارای هسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "nucleolus",
+      "Meanings": [
+        "هستک گرد میان هسته سلول‌"
+      ]
+    },
+    {
+      "EnglishWord": "nucleon",
+      "Meanings": [
+        "ش‌. پروتون یا نوترون موجود درهسته اتمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nucleonics",
+      "Meanings": [
+        "فیزیک هسته شناسی‌",
+        "بحث هسته اتمی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nucleus",
+      "Meanings": [
+        "هسته‌",
+        "مغز",
+        "اساس‌",
+        "لب‌",
+        "هسته مرکزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuclide",
+      "Meanings": [
+        "انواع اتم‌هایی که حاوی پروتون و نوترون و مقداری‌نیرو میباشند"
+      ]
+    },
+    {
+      "EnglishWord": "nude",
+      "Meanings": [
+        "لخت‌",
+        "برهنه‌",
+        "پوچ‌",
+        "عریان‌",
+        "بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "nudge",
+      "Meanings": [
+        "باارنج زدن‌",
+        "سقلمه‌",
+        "اشاره کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nudism",
+      "Meanings": [
+        "عریان گری‌",
+        "پیروی از عقاید جماعت برهنگان‌",
+        "برهنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nudist",
+      "Meanings": [
+        "برهنگی گرای‌",
+        "طرفدار برهنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nudity",
+      "Meanings": [
+        "برهنگی‌",
+        "عریان بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nugatory",
+      "Meanings": [
+        "پوچ‌",
+        "بی اثر",
+        "ناچیز"
+      ]
+    },
+    {
+      "EnglishWord": "nugget",
+      "Meanings": [
+        "قطعه‌",
+        "تکه فلز"
+      ]
+    },
+    {
+      "EnglishWord": "nuisance",
+      "Meanings": [
+        "ازار",
+        "مایه تصدیع خاطر",
+        "مایه رنجش‌",
+        "اذیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "null",
+      "Meanings": [
+        "ملغی‌",
+        "باطل‌",
+        "بلااثر",
+        "صفر",
+        "پوچ‌",
+        "تهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "null and void",
+      "Meanings": [
+        "حق. بی اثر",
+        "باطل و بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "null character",
+      "Meanings": [
+        "nul دخشه پوچ‌"
+      ]
+    },
+    {
+      "EnglishWord": "null instruction",
+      "Meanings": [
+        "دستورالعمل پوچ‌"
+      ]
+    },
+    {
+      "EnglishWord": "null set",
+      "Meanings": [
+        "مجموعه پوچ‌",
+        "مجموعه تهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "null string",
+      "Meanings": [
+        "رشته پوچ‌",
+        "رشته تهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nullification",
+      "Meanings": [
+        "ابطال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nullifier",
+      "Meanings": [
+        "باطل کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "nullify",
+      "Meanings": [
+        "بی اثر کردن‌",
+        "لغو کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nullity",
+      "Meanings": [
+        "بطلان‌",
+        "بی اعتباری‌",
+        "نیستی‌",
+        "عدم‌",
+        "پوچی‌",
+        "صفر"
+      ]
+    },
+    {
+      "EnglishWord": "numb",
+      "Meanings": [
+        "کرخ‌",
+        "بیحس‌",
+        "کرخت‌",
+        "بیحس یا کرخت کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "عدد",
+        "رقم‌",
+        "شماره‌",
+        "نمره‌",
+        "شمردن‌",
+        "نمره دادن به‌",
+        "بالغ‌شدن بر"
+      ]
+    },
+    {
+      "EnglishWord": "number generator",
+      "Meanings": [
+        "شماره‌زا"
+      ]
+    },
+    {
+      "EnglishWord": "number range",
+      "Meanings": [
+        "محدوده اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number system",
+      "Meanings": [
+        "سیستم عدد نویسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numbing",
+      "Meanings": [
+        "کرخ‌",
+        "بیحس کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "numbskull",
+      "Meanings": [
+        "numskull = بیشعور"
+      ]
+    },
+    {
+      "EnglishWord": "numen",
+      "Meanings": [
+        "الوهیت‌",
+        "خدایی‌",
+        "وجود الهی‌",
+        "خدا",
+        "روح‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerable",
+      "Meanings": [
+        "قابل شمارش‌",
+        "معدود"
+      ]
+    },
+    {
+      "EnglishWord": "numeral",
+      "Meanings": [
+        "شماره‌ای‌",
+        "عددی‌",
+        "هندسی‌",
+        "رقومی‌",
+        "شماره‌",
+        "رقم‌",
+        "نمره‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerate",
+      "Meanings": [
+        "قادر شمردن‌",
+        "خواندن یا شمردن‌",
+        "حساب کردن‌",
+        "بشماراوردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeration",
+      "Meanings": [
+        "شمارش‌",
+        "احتساب‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeration system",
+      "Meanings": [
+        "سیستم شمارشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerator",
+      "Meanings": [
+        "برخه شمار",
+        "شمارنده‌",
+        "شمارشگر",
+        "صورت کسر"
+      ]
+    },
+    {
+      "EnglishWord": "numeric",
+      "Meanings": [
+        "عددی‌",
+        "نمره‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric alphabetic",
+      "Meanings": [
+        "عددی و الفبایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric character",
+      "Meanings": [
+        "دخشه عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric character set",
+      "Meanings": [
+        "دخشگان عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric code",
+      "Meanings": [
+        "رمز عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric data",
+      "Meanings": [
+        "داده عددی‌",
+        "داده‌های عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric keyboard",
+      "Meanings": [
+        "صفحه کلید عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric punch",
+      "Meanings": [
+        "منگنه عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric representation",
+      "Meanings": [
+        "نمایش عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric subset",
+      "Meanings": [
+        "زیرمجموعه عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numeric word",
+      "Meanings": [
+        "کلمه عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerical",
+      "Meanings": [
+        "عددی‌",
+        "شماره‌ای‌",
+        "شمارشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerical analysis",
+      "Meanings": [
+        "انالیز عددی‌",
+        "عددکاو"
+      ]
+    },
+    {
+      "EnglishWord": "numerical control",
+      "Meanings": [
+        "کنترل عددی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numerics",
+      "Meanings": [
+        "ارقام‌",
+        "اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numerology",
+      "Meanings": [
+        "مبحث معانی رمزی اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numerous",
+      "Meanings": [
+        "بیشمار",
+        "بسیار",
+        "زیاد",
+        "بزرگ‌",
+        "پرجمعیت‌",
+        "کثیر"
+      ]
+    },
+    {
+      "EnglishWord": "numinous",
+      "Meanings": [
+        "ماوراء‌الطبیعه‌",
+        "اسرارامیز",
+        "روحی‌",
+        "مقدس‌"
+      ]
+    },
+    {
+      "EnglishWord": "numismatic",
+      "Meanings": [
+        "مسکوک شناسی‌",
+        "وابسته به‌سکه شناسی‌",
+        "مدال شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "numskull",
+      "Meanings": [
+        "numbskull = بیشعور",
+        "کله خشک‌",
+        "بی مخ‌",
+        "بیشعور"
+      ]
+    },
+    {
+      "EnglishWord": "nun",
+      "Meanings": [
+        "راهبه‌",
+        "زن تارک دنیا"
+      ]
+    },
+    {
+      "EnglishWord": "nunciature",
+      "Meanings": [
+        "سفارت پاپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuncio",
+      "Meanings": [
+        "سفیر پاپ‌",
+        "ایلچی پاپ‌",
+        "پیک‌",
+        "رسول‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuncupative",
+      "Meanings": [
+        "زبانی‌",
+        "شفاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nunnery",
+      "Meanings": [
+        "صومعه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuptial",
+      "Meanings": [
+        "وابلسته بعروسی‌",
+        "نکاحی‌",
+        "عروسی‌",
+        "زفافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nurse",
+      "Meanings": [
+        "پرستار",
+        "دایه‌",
+        "مهد",
+        "پرورشگاه‌",
+        "پروراندن‌",
+        "پرستاری‌کردن‌",
+        "شیر خوردن‌",
+        "باصرفه جویی یا دقت بکار بردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursemaid",
+      "Meanings": [
+        "دایه‌",
+        "دختر پرستار"
+      ]
+    },
+    {
+      "EnglishWord": "nursery",
+      "Meanings": [
+        "محل نگاهداری اطفال شیر خوار",
+        "پرورشگاه‌",
+        "شیرخوارگاه‌",
+        "قلمستان‌",
+        "گلخانه‌",
+        "نوزادگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursery rhyme",
+      "Meanings": [
+        "اشعار مخصوص کودکان‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursery school",
+      "Meanings": [
+        "کودکستان‌",
+        "مدرسه بچه‌های کمتر از پنج سال‌"
+      ]
+    },
+    {
+      "EnglishWord": "nurseryman",
+      "Meanings": [
+        "باغبان‌",
+        "پرورنده گیاهان‌",
+        "زارع‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursing bottle",
+      "Meanings": [
+        "شیشه شیر بچه‌",
+        "بطری شیر بچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursing home",
+      "Meanings": [
+        "اسایشگاه پیران‌"
+      ]
+    },
+    {
+      "EnglishWord": "nursling",
+      "Meanings": [
+        "بچه‌شیر خوار",
+        "بچه‌ای که مورد مواظبت قرار میگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "nurture",
+      "Meanings": [
+        "پرورش‌",
+        "تربیت‌",
+        "تغذیه‌",
+        "غذا",
+        "بزرگ کردن کودک",
+        "باراوردن بچه‌",
+        "پروردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nut",
+      "Meanings": [
+        "جوز",
+        "چرخ دنده ساعت‌",
+        "اجیل‌",
+        "مهره‌",
+        "اجیل گرد اوردن‌",
+        "دیوانه‌",
+        "خل‌"
+      ]
+    },
+    {
+      "EnglishWord": "nut brown",
+      "Meanings": [
+        "رنگ قهوه‌ای فندقی‌",
+        "رنگ شاه‌بلوطی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutant",
+      "Meanings": [
+        "پایین افتاده‌",
+        "سرازیر اویخته‌",
+        "زیور اویخته‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutation",
+      "Meanings": [
+        "اشاره با سر",
+        "سر فرود اوردن‌",
+        "خمیدگی‌",
+        "رقص محوری‌",
+        "گردش‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutcracker",
+      "Meanings": [
+        "فندق شکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutlet",
+      "Meanings": [
+        "فندق کوچک‌",
+        "هسته کوچک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutmeg",
+      "Meanings": [
+        "درخت جوز"
+      ]
+    },
+    {
+      "EnglishWord": "nutrient",
+      "Meanings": [
+        "مغذی‌",
+        "ماده مغذی‌",
+        "ماده مقوی از لحاظ غذایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutriment",
+      "Meanings": [
+        "تغذیه‌",
+        "کسب نیرو بوسیله غذا",
+        "بقوت‌",
+        "غذا",
+        "خوراک‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutrition",
+      "Meanings": [
+        "تغذیه‌",
+        "تقویت‌",
+        "قوت گیری‌",
+        "قوت‌",
+        "خوراک‌",
+        "غذا"
+      ]
+    },
+    {
+      "EnglishWord": "nutritionist",
+      "Meanings": [
+        "ویژه‌گر تغذیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutritious",
+      "Meanings": [
+        "nutritive مغذی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutritive",
+      "Meanings": [
+        "nutritious مغذی‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuts",
+      "Meanings": [
+        "اجیل‌",
+        "دیوانه‌",
+        "مفتون‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutshell",
+      "Meanings": [
+        "پوست فندق و بادام و غیره‌",
+        "مختصرا",
+        "ملخص کلام‌"
+      ]
+    },
+    {
+      "EnglishWord": "nutty",
+      "Meanings": [
+        "پر گردو",
+        "پرفندق‌",
+        "معطر",
+        "دیوانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "nuzzle",
+      "Meanings": [
+        "با پوزه کاویدن یا بو کردن‌",
+        "پوزه بخاک مالیدن‌",
+        "غنودن‌",
+        "عزیز داشتن‌"
+      ]
+    },
+    {
+      "EnglishWord": "nyctalopia",
+      "Meanings": [
+        "مرض شبکوری‌"
+      ]
+    },
+    {
+      "EnglishWord": "nyctalopic",
+      "Meanings": [
+        "شبکور"
+      ]
+    },
+    {
+      "EnglishWord": "nylon",
+      "Meanings": [
+        "نایلون‌"
+      ]
+    },
+    {
+      "EnglishWord": "nymph",
+      "Meanings": [
+        "حوری‌",
+        "زن بسیار زیبا"
+      ]
+    },
+    {
+      "EnglishWord": "nymphet",
+      "Meanings": [
+        "حوریچه‌",
+        "دختر کوچک و زیبا"
+      ]
+    },
+    {
+      "EnglishWord": "nympholepsy",
+      "Meanings": [
+        "جنون و علاقه شدید برای دسترسی به چیزهای غیر قابل‌حصول‌"
+      ]
+    },
+    {
+      "EnglishWord": "nymphomania",
+      "Meanings": [
+        "میل شدید زن بجماع‌",
+        "حشری بودن زن‌"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,866 @@
+﻿{
+  "Group": "N",
+  "Entries": 141,
+  "Words": [
+    {
+      "EnglishWord": "naive estimator",
+      "Meanings": [
+        "برآوردگر ناپخته"
+      ]
+    },
+    {
+      "EnglishWord": "narrowband process",
+      "Meanings": [
+        "فرایند باریک‌نوار"
+      ]
+    },
+    {
+      "EnglishWord": "nash axioms",
+      "Meanings": [
+        "اصول موضوع ناش"
+      ]
+    },
+    {
+      "EnglishWord": "nash equilibrium",
+      "Meanings": [
+        "تعادل ناش"
+      ]
+    },
+    {
+      "EnglishWord": "natural conjugate prior",
+      "Meanings": [
+        "پیشین مزدوج طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural exponential family",
+      "Meanings": [
+        "خانواده نمایی طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "naturalistic sampling",
+      "Meanings": [
+        "نمونه گیری طبیعت‌نگرانه"
+      ]
+    },
+    {
+      "EnglishWord": "nearest point sampling",
+      "Meanings": [
+        "نمونه گیری نزدیکترین نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "nearest-neighbor density estimation",
+      "Meanings": [
+        "برآورد کردن چگالی به روش نزدیکترین همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "nearest-neighbor method",
+      "Meanings": [
+        "روش نزدیکترین همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "nearest-neighbor sampling",
+      "Meanings": [
+        "نمونه گیری نزدیکترین همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "nearly balanced design",
+      "Meanings": [
+        "طرح تقریبا متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "nearly balanced incomplete block design",
+      "Meanings": [
+        "طرح بلوکی ناقص تقریبا متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "near-neighbor estimation",
+      "Meanings": [
+        "برآورد بر اساس همسایه نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "negative binomial distribution",
+      "Meanings": [
+        "توزیع دوجمله‌ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative exponential distribution",
+      "Meanings": [
+        "توزیع نمایی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق‌هندسی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative moments",
+      "Meanings": [
+        "گشتاورهای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative multinomial distribution",
+      "Meanings": [
+        "توزیع چندجمله‌ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative skewness",
+      "Meanings": [
+        "چولگی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "neighbor designs",
+      "Meanings": [
+        "طرحهای همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "nei's diversity",
+      "Meanings": [
+        "چندگونگی نای"
+      ]
+    },
+    {
+      "EnglishWord": "nei's diversity measure",
+      "Meanings": [
+        "اندازه چندگونگی نای"
+      ]
+    },
+    {
+      "EnglishWord": "nelder-mead simplex method",
+      "Meanings": [
+        "روش سادکی نلدر",
+        "مید"
+      ]
+    },
+    {
+      "EnglishWord": "nelson-aalen estimator",
+      "Meanings": [
+        "برآوردگر نلسون",
+        "آلن"
+      ]
+    },
+    {
+      "EnglishWord": "nested error",
+      "Meanings": [
+        "خطای آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "nested intervals",
+      "Meanings": [
+        "بازه‌های آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "nested row-column designs",
+      "Meanings": [
+        "طرحهای سطری",
+        "ستونی آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "nested sets",
+      "Meanings": [
+        "مجموعه‌های آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "nesting in design",
+      "Meanings": [
+        "آشیانی در طرح"
+      ]
+    },
+    {
+      "EnglishWord": "network analysis",
+      "Meanings": [
+        "تحلیل شبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "network theory",
+      "Meanings": [
+        "نظریه شبکه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "networks of queues",
+      "Meanings": [
+        "شبکه صفها"
+      ]
+    },
+    {
+      "EnglishWord": "neural networks",
+      "Meanings": [
+        "شبکه‌های عصبی"
+      ]
+    },
+    {
+      "EnglishWord": "newman-keuls procedure",
+      "Meanings": [
+        "شیوه نیومن",
+        "کولز"
+      ]
+    },
+    {
+      "EnglishWord": "newton iteration extensions",
+      "Meanings": [
+        "توسیعهای تکرار نیوتون"
+      ]
+    },
+    {
+      "EnglishWord": "newton-kantorovich theorem",
+      "Meanings": [
+        "قضیه نیوتون",
+        "کانتوروویچ"
+      ]
+    },
+    {
+      "EnglishWord": "newton-raphson method",
+      "Meanings": [
+        "روش نیوتون",
+        "رافسون"
+      ]
+    },
+    {
+      "EnglishWord": "newton's interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی نیوتون"
+      ]
+    },
+    {
+      "EnglishWord": "newton-spurrell method",
+      "Meanings": [
+        "روش نیوتون",
+        "اسپورل"
+      ]
+    },
+    {
+      "EnglishWord": "neyman accuracy",
+      "Meanings": [
+        "درستی نیمنی"
+      ]
+    },
+    {
+      "EnglishWord": "neyman allocation",
+      "Meanings": [
+        "تخصیص نیمنی"
+      ]
+    },
+    {
+      "EnglishWord": "neyman smooth test of fit",
+      "Meanings": [
+        "آزمون برازش هموار نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "neyman structure",
+      "Meanings": [
+        "ساختار نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "neyman-pearson lemma",
+      "Meanings": [
+        "لم نیمن",
+        "پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "neyman-pearson theory",
+      "Meanings": [
+        "نظریه نیمن",
+        "پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "neyman-pearson-wald approach",
+      "Meanings": [
+        "رهیافت نیمن",
+        "پی‌یرسون",
+        "والد"
+      ]
+    },
+    {
+      "EnglishWord": "neyman's test",
+      "Meanings": [
+        "آزمون نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "neyman's test for uniformity",
+      "Meanings": [
+        "آزمون نیمن برای یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "neyman-wald assessment",
+      "Meanings": [
+        "ارزیابی نیمن",
+        "والد"
+      ]
+    },
+    {
+      "EnglishWord": "nikodym derivative",
+      "Meanings": [
+        "مشتق نیکودیم"
+      ]
+    },
+    {
+      "EnglishWord": "noether condition",
+      "Meanings": [
+        "شرایط نویه‌تر"
+      ]
+    },
+    {
+      "EnglishWord": "noise",
+      "Meanings": [
+        "نوفه"
+      ]
+    },
+    {
+      "EnglishWord": "nominal data",
+      "Meanings": [
+        "داده‌‌های اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal scale agreement",
+      "Meanings": [
+        "توافق مقیاس اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nomination sampling",
+      "Meanings": [
+        "نمونه گیری نامزدانه"
+      ]
+    },
+    {
+      "EnglishWord": "nomogram",
+      "Meanings": [
+        "دستورنگار"
+      ]
+    },
+    {
+      "EnglishWord": "nomographer",
+      "Meanings": [
+        "دستورنگارنده"
+      ]
+    },
+    {
+      "EnglishWord": "nonadditive probability",
+      "Meanings": [
+        "احتمال ناجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "nonadditivity",
+      "Meanings": [
+        "ناجمعی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral beta distribution",
+      "Meanings": [
+        "توزیع بتای نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral chi-square distribution",
+      "Meanings": [
+        "توزیع خی‌دوی نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral f-distribution",
+      "Meanings": [
+        "توزیع F نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral matrix f-distribution",
+      "Meanings": [
+        "توزیع F ماتریسی نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral t-distribution",
+      "Meanings": [
+        "توزیع tی نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral wishart distribution",
+      "Meanings": [
+        "توزیع ویشارت نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "nonconformity",
+      "Meanings": [
+        "ناهمگونی"
+      ]
+    },
+    {
+      "EnglishWord": "non-dissipative",
+      "Meanings": [
+        "نااتلافی"
+      ]
+    },
+    {
+      "EnglishWord": "non-dissipative markov chains",
+      "Meanings": [
+        "زنجیرهای مارکوف نااتلافی"
+      ]
+    },
+    {
+      "EnglishWord": "nonexperimental inference",
+      "Meanings": [
+        "استنباط ناآزمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "nonformation",
+      "Meanings": [
+        "بی‌اطلاعی"
+      ]
+    },
+    {
+      "EnglishWord": "non-gaussian",
+      "Meanings": [
+        "ناگاوسی"
+      ]
+    },
+    {
+      "EnglishWord": "nonhierarchical clustering",
+      "Meanings": [
+        "خوشه‌بندی ناسلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear equation",
+      "Meanings": [
+        "معادله ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear models",
+      "Meanings": [
+        "مدلهای ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear programming",
+      "Meanings": [
+        "برنامه‌ریزی ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear regression",
+      "Meanings": [
+        "رگرسیون ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear renewal theory",
+      "Meanings": [
+        "نظریه تجدید ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear time series",
+      "Meanings": [
+        "سریهای زمانی ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonmetric data analysis",
+      "Meanings": [
+        "تحلیل داده‌های نامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative semidefinite matrix",
+      "Meanings": [
+        "ماتریس نیمه‌نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonobservable errors",
+      "Meanings": [
+        "خطاهای مشاهده نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "nonoverlapping intervals",
+      "Meanings": [
+        "بازه‌های نامتداخل"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric clustering techniques",
+      "Meanings": [
+        "فنهای خوشه‌بندی ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric confidence intervals",
+      "Meanings": [
+        "بازه‌های اطمینان ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric discrimination",
+      "Meanings": [
+        "تشخیص ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric estimation",
+      "Meanings": [
+        "برآورد ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric estimation under truncation",
+      "Meanings": [
+        "برآورد ناپارامتری تحت برش"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric methods",
+      "Meanings": [
+        "روشهای ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric regression",
+      "Meanings": [
+        "رگرسیون ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric statistics",
+      "Meanings": [
+        "آمار ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric test",
+      "Meanings": [
+        "آزمون ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric tolerance limits",
+      "Meanings": [
+        "حدهای تحمل ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonrandomized decision function",
+      "Meanings": [
+        "تابع تصمیم ناتصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "nonrecurrent markov chain",
+      "Meanings": [
+        "زنجیر مارکوف نابازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "nonresponse",
+      "Meanings": [
+        "بی‌پاسخی"
+      ]
+    },
+    {
+      "EnglishWord": "nonsampling error",
+      "Meanings": [
+        "خطای غیرنمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonsense correlation",
+      "Meanings": [
+        "همبستگی بی‌معنی"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular linear transformation",
+      "Meanings": [
+        "تبدیل خطی ناتکین"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular matrix",
+      "Meanings": [
+        "ماتریس ناتکین"
+      ]
+    },
+    {
+      "EnglishWord": "nonstandard multivariate test",
+      "Meanings": [
+        "آزمون چندمتغیره نااستاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "nonstationary time series",
+      "Meanings": [
+        "سریهای زمانی نامانا"
+      ]
+    },
+    {
+      "EnglishWord": "nonsymmetric relation",
+      "Meanings": [
+        "رابطه نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "nonuniqueness",
+      "Meanings": [
+        "نایکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "نرم"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal approximation",
+      "Meanings": [
+        "تقریب نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal chain",
+      "Meanings": [
+        "زنجیر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal coordinates",
+      "Meanings": [
+        "مختصات نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution",
+      "Meanings": [
+        "توزیع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal equations",
+      "Meanings": [
+        "معادله‌های نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal equivalent deviate",
+      "Meanings": [
+        "متغیر معادل با نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal family",
+      "Meanings": [
+        "خانواده نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal matrix",
+      "Meanings": [
+        "ماتریس نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal operator",
+      "Meanings": [
+        "عملگر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal probability curve",
+      "Meanings": [
+        "خم احتمال نرمال",
+        "منحنی احتمال نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal random variable",
+      "Meanings": [
+        "متغیر تصادفی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal scores test",
+      "Meanings": [
+        "آزمون نمره‌های نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal space",
+      "Meanings": [
+        "فضای نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal subgroup",
+      "Meanings": [
+        "زیرگروه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal transformation",
+      "Meanings": [
+        "تبدیل نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal variable",
+      "Meanings": [
+        "متغیر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal-gamma density",
+      "Meanings": [
+        "چگالی نرمال",
+        "گاما"
+      ]
+    },
+    {
+      "EnglishWord": "normalizing transformation",
+      "Meanings": [
+        "تبدیل نرمال‌ساز"
+      ]
+    },
+    {
+      "EnglishWord": "normative",
+      "Meanings": [
+        "هنجارین"
+      ]
+    },
+    {
+      "EnglishWord": "notation  symbol",
+      "Meanings": [
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "novile",
+      "Meanings": [
+        "نهک"
+      ]
+    },
+    {
+      "EnglishWord": "nucleolus of game",
+      "Meanings": [
+        "هسته بازی"
+      ]
+    },
+    {
+      "EnglishWord": "null hypothesis",
+      "Meanings": [
+        "فرض صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null matrix  zero matrix",
+      "Meanings": [
+        "ماتریس صفر"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "عدد"
+      ]
+    },
+    {
+      "EnglishWord": "number of runs test",
+      "Meanings": [
+        "آزمون تعداد گردشها"
+      ]
+    },
+    {
+      "EnglishWord": "number theory",
+      "Meanings": [
+        "نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number-theoretic method",
+      "Meanings": [
+        "روش نظریه اعدادی"
+      ]
+    },
+    {
+      "EnglishWord": "numeracy",
+      "Meanings": [
+        "شمارفهمی"
+      ]
+    },
+    {
+      "EnglishWord": "numeration",
+      "Meanings": [
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "numerical analysis",
+      "Meanings": [
+        "آنالیز عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical integration",
+      "Meanings": [
+        "انتگرال‌گیری عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical methods",
+      "Meanings": [
+        "روشهای عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical solution",
+      "Meanings": [
+        "حل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "nyquist frequency",
+      "Meanings": [
+        "فراوانی نای‌کوییست"
+      ]
+    }
+  ]
+}

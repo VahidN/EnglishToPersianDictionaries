@@ -1,0 +1,279 @@
+﻿{
+  "Group": "O",
+  "Entries": 45,
+  "Words": [
+    {
+      "EnglishWord": "o",
+      "Meanings": [
+        "پانزدهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "o notation",
+      "Meanings": [
+        "نماد O بزرگ",
+        "تابع رشد برای کران بالا"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "off-line algorithm",
+      "Meanings": [
+        "الگوریتم برون خط"
+      ]
+    },
+    {
+      "EnglishWord": "omega",
+      "Meanings": [
+        "امگا",
+        "تابع رشد برای کران پایین"
+      ]
+    },
+    {
+      "EnglishWord": "omicron",
+      "Meanings": [
+        "امیکرون"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional",
+      "Meanings": [
+        "یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "online algorithm",
+      "Meanings": [
+        "الگوریتم بر خط"
+      ]
+    },
+    {
+      "EnglishWord": "on-line algorithm",
+      "Meanings": [
+        "الگوریتم بر خط"
+      ]
+    },
+    {
+      "EnglishWord": "optimal",
+      "Meanings": [
+        "بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal cost",
+      "Meanings": [
+        "هزینه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal merge",
+      "Meanings": [
+        "ادغام بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal polygon triangulation",
+      "Meanings": [
+        "مثلث بندی بهینه چند ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "optimal polygon triangulation problem",
+      "Meanings": [
+        "مسیله مثلث بندی بهینه چند ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "optimal polyphase merge",
+      "Meanings": [
+        "ادغام چند مرحله ای بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal polyphase merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی چند مرحله ای بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal solution",
+      "Meanings": [
+        "جواب بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal tree",
+      "Meanings": [
+        "درخت بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal triangulation",
+      "Meanings": [
+        "مثلث بندی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal triangulation problem",
+      "Meanings": [
+        "مسیله مثلث بندی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal value",
+      "Meanings": [
+        "مقدار بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimization problem",
+      "Meanings": [
+        "مسیله بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "or",
+      "Meanings": [
+        "یا"
+      ]
+    },
+    {
+      "EnglishWord": "oracle",
+      "Meanings": [
+        "پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "oracle set",
+      "Meanings": [
+        "مجموعه پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "oracle tape",
+      "Meanings": [
+        "نوار پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "oracle turing machine",
+      "Meanings": [
+        "ماشین تورینگ پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered binary decision diagram",
+      "Meanings": [
+        "نمودار تصمیم دودویی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered linked list",
+      "Meanings": [
+        "لیست پیوندی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered list",
+      "Meanings": [
+        "لیست مرتب شده"
+      ]
+    },
+    {
+      "EnglishWord": "oriented acyclic graph",
+      "Meanings": [
+        "گراف بی دور جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented graph",
+      "Meanings": [
+        "گراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal",
+      "Meanings": [
+        "متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal drawing",
+      "Meanings": [
+        "ترسیم متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal list",
+      "Meanings": [
+        "لیست متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal list representation",
+      "Meanings": [
+        "نمایش لیست متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonally convex rectilinear polygon",
+      "Meanings": [
+        "جند ضلعی افقی",
+        "عمودی متعامدا محدب"
+      ]
+    },
+    {
+      "EnglishWord": "oscillating merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "out branching",
+      "Meanings": [
+        "انشعاب خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "out degree",
+      "Meanings": [
+        "درجه خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "overflow",
+      "Meanings": [
+        "سرریز"
+      ]
+    },
+    {
+      "EnglishWord": "overflow node",
+      "Meanings": [
+        "گره سرریز"
+      ]
+    },
+    {
+      "EnglishWord": "overflow page",
+      "Meanings": [
+        "صفحه سرریز"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "سربار"
+      ]
+    }
+  ]
+}

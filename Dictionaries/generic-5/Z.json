@@ -1,0 +1,897 @@
+﻿{
+  "Group": "Z",
+  "Entries": 118,
+  "Words": [
+    {
+      "EnglishWord": "z",
+      "Meanings": [
+        "بیست وششمین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "zamia",
+      "Meanings": [
+        "زامیه گ. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zany",
+      "Meanings": [
+        "لوده",
+        "میمون صفت",
+        "مسخره",
+        "مقلد",
+        "ادم انگل",
+        "ادم ابله"
+      ]
+    },
+    {
+      "EnglishWord": "zeal",
+      "Meanings": [
+        "متعصب",
+        "ذوق",
+        "تعصب",
+        "حمیت",
+        "جانفشانی",
+        "خیرخواهی",
+        "حرارت",
+        "گرمی",
+        "شوق",
+        "غیور",
+        "غیرت"
+      ]
+    },
+    {
+      "EnglishWord": "zealot",
+      "Meanings": [
+        "مجاهد",
+        "ادم متعصب یاهواخواه",
+        "جانفشان",
+        "غیور"
+      ]
+    },
+    {
+      "EnglishWord": "zealotry",
+      "Meanings": [
+        "هواخواهی",
+        "تعصب",
+        "شوق واشتیاق",
+        "غیرت"
+      ]
+    },
+    {
+      "EnglishWord": "zealous",
+      "Meanings": [
+        "هواخواه",
+        "مجاهد",
+        "باغیرت",
+        "غیور",
+        "فداءی"
+      ]
+    },
+    {
+      "EnglishWord": "zebra",
+      "Meanings": [
+        "گوراسب",
+        "گورخر ج. ش",
+        "مخططیاراه راه"
+      ]
+    },
+    {
+      "EnglishWord": "zebu",
+      "Meanings": [
+        "گاوکوهان دار ج. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zechariah",
+      "Meanings": [
+        "یهوددرقرن 6قبل ازمیلادمسیح",
+        "زکریا zachariah"
+      ]
+    },
+    {
+      "EnglishWord": "zed",
+      "Meanings": [
+        "تلفظانگلیسی حرفZ"
+      ]
+    },
+    {
+      "EnglishWord": "zee",
+      "Meanings": [
+        "تلفظامریکاءی حرفZ",
+        "حرفZ"
+      ]
+    },
+    {
+      "EnglishWord": "zeitgeist",
+      "Meanings": [
+        "روال",
+        "رزحیه یاطرزفکریک عصریادوره",
+        "زمان"
+      ]
+    },
+    {
+      "EnglishWord": "zemindar",
+      "Meanings": [
+        "مالکین زمین فارسی رایخ درهند",
+        "زمین دار"
+      ]
+    },
+    {
+      "EnglishWord": "zenbuddhism",
+      "Meanings": [
+        "فلسفه یامذهب ذن بوداءیسم"
+      ]
+    },
+    {
+      "EnglishWord": "zenith",
+      "Meanings": [
+        "اوج",
+        "بالاترین نقطه اسمان",
+        "سمت الراس هن",
+        "قله"
+      ]
+    },
+    {
+      "EnglishWord": "zeolite",
+      "Meanings": [
+        "هرنوع سیلیکات ابدار",
+        "زءولیت مع"
+      ]
+    },
+    {
+      "EnglishWord": "zephyr",
+      "Meanings": [
+        "نسیم بادمغرب",
+        "بادمغرب",
+        "باخترباد",
+        "بادصبا"
+      ]
+    },
+    {
+      "EnglishWord": "zephyrus",
+      "Meanings": [
+        "بادصبا",
+        "دارگونه بادصبا"
+      ]
+    },
+    {
+      "EnglishWord": "zeppelin",
+      "Meanings": [
+        "بالون",
+        "زپلین",
+        "کشتی هواءی المانی"
+      ]
+    },
+    {
+      "EnglishWord": "zero",
+      "Meanings": [
+        "مبداء",
+        "هیچ",
+        "محل شروع",
+        "نقطه گذاری کردن",
+        "پاءین‌ترین نقطه",
+        "روی صفرمیزان کردن",
+        "صفر"
+      ]
+    },
+    {
+      "EnglishWord": "zeroaddress",
+      "Meanings": [
+        "بدون نشانه"
+      ]
+    },
+    {
+      "EnglishWord": "zerofill",
+      "Meanings": [
+        "پرکردن باصفر zerofill"
+      ]
+    },
+    {
+      "EnglishWord": "zerohour",
+      "Meanings": [
+        "هنگام حمله یاحرکت تعیین شده قبلی",
+        "لحظه بحرانی",
+        "لحظه شروع ازمایشات سخت مج"
+      ]
+    },
+    {
+      "EnglishWord": "zeroleveladdress",
+      "Meanings": [
+        "نشانی بلافصل"
+      ]
+    },
+    {
+      "EnglishWord": "zerostate",
+      "Meanings": [
+        "حالت صفر"
+      ]
+    },
+    {
+      "EnglishWord": "zerosuppression",
+      "Meanings": [
+        "موقوف کردن صفرها"
+      ]
+    },
+    {
+      "EnglishWord": "zest",
+      "Meanings": [
+        "میل",
+        "مزه",
+        "خوشمزه کردن",
+        "رغبت"
+      ]
+    },
+    {
+      "EnglishWord": "zestful ty",
+      "Meanings": [
+        "بامزه",
+        "بارغبت",
+        "خوشمزه zesty"
+      ]
+    },
+    {
+      "EnglishWord": "zeus",
+      "Meanings": [
+        "زاوش رءیس خدایان یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "zibelline",
+      "Meanings": [
+        "مربوطبه سمور",
+        "خز",
+        "خزسیاه",
+        "سمور ج. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zig",
+      "Meanings": [
+        "یکی ازدوخطکج"
+      ]
+    },
+    {
+      "EnglishWord": "ziggurat",
+      "Meanings": [
+        "برج بلندوطبقه ء هرمی شکل پلکان دار",
+        "زیگورات"
+      ]
+    },
+    {
+      "EnglishWord": "zigzag",
+      "Meanings": [
+        "منشاری",
+        "منکسرکردن",
+        "جناغی",
+        "دارای پیچ وخم کردن",
+        "شکسته",
+        "کج ومعوج"
+      ]
+    },
+    {
+      "EnglishWord": "zillion",
+      "Meanings": [
+        "عددبی انتهاومعتنی به"
+      ]
+    },
+    {
+      "EnglishWord": "zinc",
+      "Meanings": [
+        "روح",
+        "روی",
+        "قطب پیل ولتا",
+        "فلزروی"
+      ]
+    },
+    {
+      "EnglishWord": "zincky",
+      "Meanings": [
+        "بشکل روی",
+        "دارای ظاهری شبیه فلزروی"
+      ]
+    },
+    {
+      "EnglishWord": "zincography",
+      "Meanings": [
+        "گراورسازی روی فلزروی",
+        "قلمزنی روی"
+      ]
+    },
+    {
+      "EnglishWord": "zincoid",
+      "Meanings": [
+        "روءی",
+        "روءین",
+        "شبیه فلزروی",
+        "قطب مثبت مج"
+      ]
+    },
+    {
+      "EnglishWord": "zincoxid",
+      "Meanings": [
+        "اکسیددوزنگ",
+        "اکسیدروی بفرمولOnZ"
+      ]
+    },
+    {
+      "EnglishWord": "zing",
+      "Meanings": [
+        "انرژی",
+        "جیغ شدیدوتند",
+        "جیغ کشیدن",
+        "روح",
+        "گرمی",
+        "زور",
+        "صداءی شبیه جیغ",
+        "قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "zinnia",
+      "Meanings": [
+        "خانواده گل اهاری گ. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zion",
+      "Meanings": [
+        "بهشت",
+        "صهیون",
+        "کوه مقدس اورشلیم",
+        "قوم اسراءیل"
+      ]
+    },
+    {
+      "EnglishWord": "zionism",
+      "Meanings": [
+        "نهضت تمرکزبنی اسراءیل درفلسطین",
+        "نهضت صهیونیسم",
+        "صهیون گراءی"
+      ]
+    },
+    {
+      "EnglishWord": "zionist",
+      "Meanings": [
+        "صهیون گرا",
+        "صهیونیست",
+        "طرفدارنهضت تمرکزیهوددرفلسطین"
+      ]
+    },
+    {
+      "EnglishWord": "zip",
+      "Meanings": [
+        "نیرو",
+        "انرژی",
+        "باسرعت وانرژی حرکت کردن",
+        "زور",
+        "زیپ",
+        "زیپ لباس راکشیدن",
+        "زیپ دارکردن",
+        "فشار"
+      ]
+    },
+    {
+      "EnglishWord": "zipcode",
+      "Meanings": [
+        "رمزمنطقه پستی"
+      ]
+    },
+    {
+      "EnglishWord": "zipgun",
+      "Meanings": [
+        "طپانچه دست ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "zipper",
+      "Meanings": [
+        "زیب لباس که بجای دکمه بکارمیرود",
+        "زیب دار"
+      ]
+    },
+    {
+      "EnglishWord": "zippy",
+      "Meanings": [
+        "پرنیرو",
+        "پرازوزوز",
+        "طرسروصدا"
+      ]
+    },
+    {
+      "EnglishWord": "zither",
+      "Meanings": [
+        "نوعی سنتوریاقانون مو"
+      ]
+    },
+    {
+      "EnglishWord": "zodiac",
+      "Meanings": [
+        "منطقه البروج",
+        "دایره البروج",
+        "زودیاک نج"
+      ]
+    },
+    {
+      "EnglishWord": "zodiacal",
+      "Meanings": [
+        "منطقه البروج",
+        "دایره البروج",
+        "زودیاک نج"
+      ]
+    },
+    {
+      "EnglishWord": "zodiacallight",
+      "Meanings": [
+        "حمره مغربیه",
+        "روشناءی صبح کاذب",
+        "شفق بین الطلوعین"
+      ]
+    },
+    {
+      "EnglishWord": "zoisite",
+      "Meanings": [
+        "سنگ معدن"
+      ]
+    },
+    {
+      "EnglishWord": "zombi ie",
+      "Meanings": [
+        "مارخدا zombie",
+        "انسان زنده شد",
+        "ادم احمق",
+        "خداءی بشکل مار درمیان سرخ پوستان"
+      ]
+    },
+    {
+      "EnglishWord": "zombiism",
+      "Meanings": [
+        "مارخداگراءی"
+      ]
+    },
+    {
+      "EnglishWord": "zonal ary",
+      "Meanings": [
+        "منطقه ای zonary",
+        "ناحیه ای",
+        "مداری",
+        "جداری",
+        "غشاءی"
+      ]
+    },
+    {
+      "EnglishWord": "zonate",
+      "Meanings": [
+        "لایه دار",
+        "دارای مدار",
+        "غشادار"
+      ]
+    },
+    {
+      "EnglishWord": "zonation",
+      "Meanings": [
+        "ساختمان غشاءی"
+      ]
+    },
+    {
+      "EnglishWord": "zone",
+      "Meanings": [
+        "منطقه",
+        "ناحیه",
+        "ناحیه ای شدن",
+        "ناحیه دسته بندی",
+        "محات کردن",
+        "مدار",
+        "مدارات درجمع",
+        "بخش",
+        "حوزه",
+        "جزوحوزه ای به حساب اوردن",
+        "کمربند",
+        "قلمرو"
+      ]
+    },
+    {
+      "EnglishWord": "zonebit",
+      "Meanings": [
+        "ذره دسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "zonepunch",
+      "Meanings": [
+        "سوراخ دسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "zonular",
+      "Meanings": [
+        "منطقه ای",
+        "ناحیه ای",
+        "وابسته به حلقه یاکمربندکوچک"
+      ]
+    },
+    {
+      "EnglishWord": "zonule",
+      "Meanings": [
+        "منطقه یاناحیه کوچک",
+        "پیوند",
+        "حلقه یاکمربندکوچک"
+      ]
+    },
+    {
+      "EnglishWord": "zoo",
+      "Meanings": [
+        "باغ وحش. n",
+        "پیشوندبمعنی حیوان",
+        "جانورومتحرک"
+      ]
+    },
+    {
+      "EnglishWord": "zooecology",
+      "Meanings": [
+        "بوم شناسی حیوانی"
+      ]
+    },
+    {
+      "EnglishWord": "zooflagellate",
+      "Meanings": [
+        "اغازیان شبه گیاه فاقدخاصیت جذب نور"
+      ]
+    },
+    {
+      "EnglishWord": "zoogamete",
+      "Meanings": [
+        "جنس متحرک مخصوصادرموردجلبکها",
+        "سلول زیست شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "zoogenic nous",
+      "Meanings": [
+        "بچه گذار",
+        "بچه زا zoogenous ج. ش",
+        "زاینده",
+        "زایا"
+      ]
+    },
+    {
+      "EnglishWord": "zoogeographer",
+      "Meanings": [
+        "کارشناس جغرافیای حیوانی"
+      ]
+    },
+    {
+      "EnglishWord": "zoogeographic cal",
+      "Meanings": [
+        "وابسته به جغرافیای حیوانی"
+      ]
+    },
+    {
+      "EnglishWord": "zoogeography",
+      "Meanings": [
+        "جغرافیای حیوانی"
+      ]
+    },
+    {
+      "EnglishWord": "zoography",
+      "Meanings": [
+        "جانورشناسی تطبیقی",
+        "علم توصیف جانوران وخوی انان"
+      ]
+    },
+    {
+      "EnglishWord": "zooid",
+      "Meanings": [
+        "جانورسان زیست شناسی",
+        "شبه جانور",
+        "شبه حیوان",
+        "شبیه جانوران",
+        "زیوه"
+      ]
+    },
+    {
+      "EnglishWord": "zooks",
+      "Meanings": [
+        "زکیسه",
+        "علامت تعجب",
+        "عجبا"
+      ]
+    },
+    {
+      "EnglishWord": "zoolatry",
+      "Meanings": [
+        "حیوان پرستی",
+        "پرستش حیوانات"
+      ]
+    },
+    {
+      "EnglishWord": "zoological",
+      "Meanings": [
+        "وابسته به جانورشناسی",
+        "حیوان به شوخی"
+      ]
+    },
+    {
+      "EnglishWord": "zoologicalgarden",
+      "Meanings": [
+        "باغ وحش"
+      ]
+    },
+    {
+      "EnglishWord": "zoologist",
+      "Meanings": [
+        "ویژه گرجانورشناسی",
+        "جانورشناس"
+      ]
+    },
+    {
+      "EnglishWord": "zoology",
+      "Meanings": [
+        "جانورشناسی",
+        "حیوان شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "zoom",
+      "Meanings": [
+        "وزوز",
+        "باصدای وزوزحرکت کردن",
+        "بسرعت ترقی کردن یابالارفتن",
+        "زوم",
+        "فاصله عدسی راکم وزیادکردن"
+      ]
+    },
+    {
+      "EnglishWord": "zoometry",
+      "Meanings": [
+        "اندازه گیری اندامهای جانوران"
+      ]
+    },
+    {
+      "EnglishWord": "zoomlens",
+      "Meanings": [
+        "عدسی دوربین عکاسی دارای کانون متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "zoomorphic",
+      "Meanings": [
+        "جانورسان",
+        "دارای خدایان مجسم بشکل جانور",
+        "شبیه جانور"
+      ]
+    },
+    {
+      "EnglishWord": "zoomorphism",
+      "Meanings": [
+        "تجسم خدایاخدایان بشکل حیوانات پست"
+      ]
+    },
+    {
+      "EnglishWord": "zoon",
+      "Meanings": [
+        "تنهامحصول یک نطفه واحد ج. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zooparasite",
+      "Meanings": [
+        "انگل حیوانی",
+        "حیوان انگل"
+      ]
+    },
+    {
+      "EnglishWord": "zoophagous",
+      "Meanings": [
+        "گوشتخوار",
+        "جانورخوار"
+      ]
+    },
+    {
+      "EnglishWord": "zoophilous lious",
+      "Meanings": [
+        "حیوان دوست",
+        "علاقمندبه جانور zoophilic"
+      ]
+    },
+    {
+      "EnglishWord": "zoophyte",
+      "Meanings": [
+        "جانورگیاه سان"
+      ]
+    },
+    {
+      "EnglishWord": "zooplankton",
+      "Meanings": [
+        "جانورریزشناوربرسطح دریا ج. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zoospore",
+      "Meanings": [
+        "هاگ تاژکدارغیرجنسی جلبک گ. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zootechnical",
+      "Meanings": [
+        "وابسته به فن تربیت حیوانات"
+      ]
+    },
+    {
+      "EnglishWord": "zootechnician",
+      "Meanings": [
+        "ویژه گراهلی کردن جانوران",
+        "کارشناس تربیت حیوانات"
+      ]
+    },
+    {
+      "EnglishWord": "zootechny nics",
+      "Meanings": [
+        "روش تربیت ورام کردن جانوران",
+        "فن اهلی کردن جانوران وحیوانات وحشی"
+      ]
+    },
+    {
+      "EnglishWord": "zootomy",
+      "Meanings": [
+        "تشریح حیوانات",
+        "جانورشکافی"
+      ]
+    },
+    {
+      "EnglishWord": "zoroaster",
+      "Meanings": [
+        "زرتشت",
+        "زردشت"
+      ]
+    },
+    {
+      "EnglishWord": "zoroastrian",
+      "Meanings": [
+        "پیروزردشت",
+        "زرتشتی",
+        "زردشتی"
+      ]
+    },
+    {
+      "EnglishWord": "zounds",
+      "Meanings": [
+        "مخفف swounds'Godفحش ملایمی است",
+        "عجبا"
+      ]
+    },
+    {
+      "EnglishWord": "zoysia",
+      "Meanings": [
+        "چمن خزنده پایای نواحی گرمسیر گ. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zucchini",
+      "Meanings": [
+        "کدوی تابستانی گ. ش",
+        "کدوسبز"
+      ]
+    },
+    {
+      "EnglishWord": "zulu",
+      "Meanings": [
+        "ناتالی Natal",
+        "اهل ناتال درجنوب افریقا"
+      ]
+    },
+    {
+      "EnglishWord": "zwieback",
+      "Meanings": [
+        "نان سوخاری نان خشک تخم مرغ دار"
+      ]
+    },
+    {
+      "EnglishWord": "zygoma atic",
+      "Meanings": [
+        "استخوان گونه",
+        "استخوان قوس وجنه ج. ش"
+      ]
+    },
+    {
+      "EnglishWord": "zygomorphic",
+      "Meanings": [
+        "متقارن الطرفین درمورداعضای بدن",
+        "دارای تقارن تش"
+      ]
+    },
+    {
+      "EnglishWord": "zygose",
+      "Meanings": [
+        "وابسته به لقاح",
+        "وابسته به گشنیدگی",
+        "امیخته"
+      ]
+    },
+    {
+      "EnglishWord": "zygosis",
+      "Meanings": [
+        "لقاح",
+        "امیختگی جنسی",
+        "ترکیب",
+        "پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "zygosity",
+      "Meanings": [
+        "پیوندجنسی",
+        "گشنیدن",
+        "کیفیت تخم لقاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "zygote tic",
+      "Meanings": [
+        "تخم",
+        "تخم بارور",
+        "تخم گشنیده شده zygotic ج. ش",
+        "سلول گشنیده شده یالقاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "zymogenic",
+      "Meanings": [
+        "مخمر",
+        "تخمیرکننده"
+      ]
+    },
+    {
+      "EnglishWord": "zymology",
+      "Meanings": [
+        "مبحث تخمیروشناساءی مخمرها",
+        "مخمرشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "zymoplastic",
+      "Meanings": [
+        "مولددیاستاز",
+        "انزیم ساز",
+        "انزیم سازی"
+      ]
+    },
+    {
+      "EnglishWord": "zymoscope",
+      "Meanings": [
+        "تخمیرسنج",
+        "دستگاه اندازه گیری قدرت تخمیر"
+      ]
+    },
+    {
+      "EnglishWord": "zymosis",
+      "Meanings": [
+        "تخمیر"
+      ]
+    },
+    {
+      "EnglishWord": "zymosthenic",
+      "Meanings": [
+        "تقویت کننده قدرت انزیم یادیاستاز"
+      ]
+    },
+    {
+      "EnglishWord": "zymotic",
+      "Meanings": [
+        "واگیردار",
+        "مسری",
+        "تخمیری",
+        "عفونی"
+      ]
+    },
+    {
+      "EnglishWord": "zymurgy",
+      "Meanings": [
+        "مبحث عمل تخمیردرشیمی علمی",
+        "تخمیرشناسی"
+      ]
+    }
+  ]
+}

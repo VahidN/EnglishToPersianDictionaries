@@ -1,0 +1,2127 @@
+﻿{
+  "Group": "B",
+  "Entries": 268,
+  "Words": [
+    {
+      "EnglishWord": "back pressure",
+      "Meanings": [
+        "پس فشار",
+        "فشار تخلیه",
+        "فشار انعکاسی",
+        "فشار برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "back up",
+      "Meanings": [
+        "پشت بند",
+        "پشتیبان",
+        "حمایت",
+        "زاپاس",
+        "اضافی",
+        "پشتیبانی کردن",
+        "یدکی"
+      ]
+    },
+    {
+      "EnglishWord": "background",
+      "Meanings": [
+        "زمینه",
+        "سابقه",
+        "زمینه تجربی",
+        "پس زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "backing bars",
+      "Meanings": [
+        "شمشهای پشت بند",
+        "میله‌های پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "backing lining",
+      "Meanings": [
+        "آستری پوشش نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "backing oven",
+      "Meanings": [
+        "کوره پخت"
+      ]
+    },
+    {
+      "EnglishWord": "backing ring",
+      "Meanings": [
+        "حلقه پشت بندی"
+      ]
+    },
+    {
+      "EnglishWord": "backing strap",
+      "Meanings": [
+        "تسمه پشت بندی"
+      ]
+    },
+    {
+      "EnglishWord": "backing strip",
+      "Meanings": [
+        "پشت بندی تسمه ای",
+        "تسمه پشت بندی",
+        "تسمه پشت بند"
+      ]
+    },
+    {
+      "EnglishWord": "backing weld",
+      "Meanings": [
+        "جوش حمایت کننده",
+        "جوش مستحکم کننده",
+        "جوش پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "backlash",
+      "Meanings": [
+        "لقی",
+        "جای بازی",
+        "گشادی",
+        "لقی چرخ دنده"
+      ]
+    },
+    {
+      "EnglishWord": "back-log",
+      "Meanings": [
+        "تراکم",
+        "سفارشات انجام نشده",
+        "عقب افتادگی",
+        "عقب افتاده",
+        "معوق"
+      ]
+    },
+    {
+      "EnglishWord": "back-off angle",
+      "Meanings": [
+        "زاویه آزاد پشت دندانه",
+        "زاویه آزاد پشت",
+        "زاویه پشت"
+      ]
+    },
+    {
+      "EnglishWord": "backward computations",
+      "Meanings": [
+        "محاسبات پسرو",
+        "محاسبات معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "backward equation",
+      "Meanings": [
+        "معادله پسرو"
+      ]
+    },
+    {
+      "EnglishWord": "backward induction method",
+      "Meanings": [
+        "ارتباط پسین"
+      ]
+    },
+    {
+      "EnglishWord": "backward linkage",
+      "Meanings": [
+        "ارتباط پسین"
+      ]
+    },
+    {
+      "EnglishWord": "backward pass",
+      "Meanings": [
+        "حرکت برگشت",
+        "مرور به پس",
+        "کورس برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "backward planning",
+      "Meanings": [
+        "برنامه ریزی رو به عقل",
+        "طرح ریزی از جلو به عقب",
+        "طرح ریزی پسرو",
+        "طرح ریزی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "baffle",
+      "Meanings": [
+        "موجگیر",
+        "سپر"
+      ]
+    },
+    {
+      "EnglishWord": "bainite",
+      "Meanings": [
+        "بینیت",
+        "باینایت"
+      ]
+    },
+    {
+      "EnglishWord": "bainitic ductile iron",
+      "Meanings": [
+        "چدن نشکن بینیتی"
+      ]
+    },
+    {
+      "EnglishWord": "balance",
+      "Meanings": [
+        "مانده",
+        "تراز",
+        "توازن",
+        "تعادل",
+        "بالانس",
+        "ترازو",
+        "مانده حساب",
+        "نالنگی",
+        "تتمه",
+        "قپان"
+      ]
+    },
+    {
+      "EnglishWord": "balance carried forward",
+      "Meanings": [
+        "مانده منقول",
+        "مانده منقول به صفحه بعد"
+      ]
+    },
+    {
+      "EnglishWord": "balance delay curve",
+      "Meanings": [
+        "منحنی تاخیر تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balance sheet",
+      "Meanings": [
+        "ترازنامه",
+        "بیلان"
+      ]
+    },
+    {
+      "EnglishWord": "balance sheet equation",
+      "Meanings": [
+        "معادله ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "balanced runner",
+      "Meanings": [
+        "راهگاه متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balancing transportation model",
+      "Meanings": [
+        "مدل ترابری متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balking",
+      "Meanings": [
+        "امتناع"
+      ]
+    },
+    {
+      "EnglishWord": "ball",
+      "Meanings": [
+        "ساچمه",
+        "توپ",
+        "توپک",
+        "توپی",
+        "تیله",
+        "دکمه",
+        "گوی",
+        "مهره"
+      ]
+    },
+    {
+      "EnglishWord": "ball valve",
+      "Meanings": [
+        "سوپاپ ساچمه ای",
+        "شیر ضربه ای",
+        "شیر کروی"
+      ]
+    },
+    {
+      "EnglishWord": "band gap",
+      "Meanings": [
+        "ظرفیت باند"
+      ]
+    },
+    {
+      "EnglishWord": "band machine",
+      "Meanings": [
+        "ماشین اره نواری"
+      ]
+    },
+    {
+      "EnglishWord": "band saw",
+      "Meanings": [
+        "اره تسمه ای",
+        "اره نواری",
+        "ماشین اره نواری گردان",
+        "ماشین اره نواری"
+      ]
+    },
+    {
+      "EnglishWord": "band shear",
+      "Meanings": [
+        "قطع کن تیغ اره",
+        "قیچی"
+      ]
+    },
+    {
+      "EnglishWord": "bank credit",
+      "Meanings": [
+        "اعتبار بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "bank interest",
+      "Meanings": [
+        "بهره بانکی",
+        "ربح بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "bank rate",
+      "Meanings": [
+        "نرخ بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "bank rate of discount",
+      "Meanings": [
+        "نرم تنزیل بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "banks",
+      "Meanings": [
+        "موجودی نزد بانکها"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "میله",
+        "شمش",
+        "مفتول",
+        "مدرج",
+        "اهرم",
+        "بند",
+        "پایه",
+        "حایل",
+        "خرپا",
+        "ریل",
+        "میل",
+        "میلگرد"
+      ]
+    },
+    {
+      "EnglishWord": "bar chart",
+      "Meanings": [
+        "نمودار ستونی",
+        "نمودار میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bar code",
+      "Meanings": [
+        "رمز نواری",
+        "رمز میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bar code reader",
+      "Meanings": [
+        "خواننده رمز نواری"
+      ]
+    },
+    {
+      "EnglishWord": "bar diagram",
+      "Meanings": [
+        "دیاگرام نواری",
+        "شکل ستونی",
+        "نمودار میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bar printer",
+      "Meanings": [
+        "چاپگر میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bare electrode",
+      "Meanings": [
+        "الکترود لخت",
+        "الکترود بدون روکش",
+        "سیم جوش",
+        "الکترود برهنه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel",
+      "Meanings": [
+        "بشکه",
+        "لوله",
+        "بشکه ای",
+        "بوش ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "barrel burnishing",
+      "Meanings": [
+        "صیقلکاری در بشکه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel finishing",
+      "Meanings": [
+        "پرداختکاری در بشکه",
+        "پرداخت در استوانه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel printer",
+      "Meanings": [
+        "چاپگر بشکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "barrel tumble",
+      "Meanings": [
+        "گرداندن بشکه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel tumbling",
+      "Meanings": [
+        "گرداندن بشکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "barrier",
+      "Meanings": [
+        "مانع",
+        "تکه جدار",
+        "تور سیمی",
+        "حصار",
+        "سد"
+      ]
+    },
+    {
+      "EnglishWord": "base",
+      "Meanings": [
+        "پایه",
+        "اساس",
+        "پایگاه",
+        "رنگدانه",
+        "رنگیزه",
+        "سکو",
+        "کفی",
+        "شالوده",
+        "مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base circle",
+      "Meanings": [
+        "دایره مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base level of consumption",
+      "Meanings": [
+        "سطح پایه مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "base line",
+      "Meanings": [
+        "خط مبنا",
+        "خط اصلی",
+        "خط تراز",
+        "خط صفر",
+        "خط کور"
+      ]
+    },
+    {
+      "EnglishWord": "base price",
+      "Meanings": [
+        "قیمت مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base-stock method",
+      "Meanings": [
+        "روش موجودی ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "basic",
+      "Meanings": [
+        "پایه ای",
+        "اساسی",
+        "پایه",
+        "مبنایی",
+        "مقدماتی",
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "basic control",
+      "Meanings": [
+        "کنترل اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic feasible solution",
+      "Meanings": [
+        "جواب اساسی موجه",
+        "جواب اساسی قابل قبول",
+        "جواب شدنی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "basic policy",
+      "Meanings": [
+        "سیاست اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic solution",
+      "Meanings": [
+        "جواب پایه ای",
+        "حل اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic standard",
+      "Meanings": [
+        "استاندارد اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic time",
+      "Meanings": [
+        "زمان پایه"
+      ]
+    },
+    {
+      "EnglishWord": "basic variable",
+      "Meanings": [
+        "متغیر اساسی",
+        "متغیر پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "basic vector",
+      "Meanings": [
+        "بردار پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "basis",
+      "Meanings": [
+        "پایه",
+        "اساس",
+        "مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "bastard file",
+      "Meanings": [
+        "سوهان دو رگه",
+        "سوهان متوسط",
+        "سوهان نیمه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "batch",
+      "Meanings": [
+        "دسته",
+        "انباشته",
+        "گروه",
+        "قسمت",
+        "قسمتی",
+        "مقدار",
+        "یک دست",
+        "یک سری",
+        "یک سفارش",
+        "یک محموله"
+      ]
+    },
+    {
+      "EnglishWord": "batch control sheet",
+      "Meanings": [
+        "برگ کنترل دسته"
+      ]
+    },
+    {
+      "EnglishWord": "batch picking unit",
+      "Meanings": [
+        "واحد اسید شویی"
+      ]
+    },
+    {
+      "EnglishWord": "batch processing",
+      "Meanings": [
+        "پردازش دسته ای",
+        "تعمیر یا دستکاری دسته دسته"
+      ]
+    },
+    {
+      "EnglishWord": "batch production",
+      "Meanings": [
+        "تولید دسته ای",
+        "تولید انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "batch-type furnace",
+      "Meanings": [
+        "کوره غیر مداوم",
+        "کوره پخت به پخت"
+      ]
+    },
+    {
+      "EnglishWord": "bath",
+      "Meanings": [
+        "حمام",
+        "حوضچه",
+        "الکترولیت",
+        "وان آبکاری",
+        "خزینه"
+      ]
+    },
+    {
+      "EnglishWord": "bayes action",
+      "Meanings": [
+        "عمل بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes criterion",
+      "Meanings": [
+        "محک بیس",
+        "ملاک بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes loss",
+      "Meanings": [
+        "زیان بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes procedure",
+      "Meanings": [
+        "شیوه بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes risk",
+      "Meanings": [
+        "مخاطره بیس",
+        "مخاطره بیز",
+        "مخاطره بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes rule",
+      "Meanings": [
+        "قانون بیس"
+      ]
+    },
+    {
+      "EnglishWord": "bayes theorem",
+      "Meanings": [
+        "قضیه بیز",
+        "قضیه بیس"
+      ]
+    },
+    {
+      "EnglishWord": "bead",
+      "Meanings": [
+        "لایه",
+        "گرده جوش",
+        "برجستگی",
+        "خط جوش",
+        "درز جوشکاری شده",
+        "زبانه",
+        "زنجیره",
+        "مهره"
+      ]
+    },
+    {
+      "EnglishWord": "bead weld",
+      "Meanings": [
+        "جوش پله ای",
+        "خط جوش",
+        "جوش تسبیحی",
+        "جوش زنجیره ای"
+      ]
+    },
+    {
+      "EnglishWord": "bearing",
+      "Meanings": [
+        "یاطاقان",
+        "تکیه گاه",
+        "بالشتک",
+        "سمت و جهت",
+        "محور",
+        "وضعیت نقطه ای نسبت به مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "bed",
+      "Meanings": [
+        "بستر",
+        "کف",
+        "لایه",
+        "کفی",
+        "بستر گداز",
+        "ته",
+        "پشته",
+        "طبقه",
+        "لایه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "bed-type milling machine",
+      "Meanings": [
+        "ماشین فرز بستر دار"
+      ]
+    },
+    {
+      "EnglishWord": "behavior",
+      "Meanings": [
+        "رفتار",
+        "طرز عمل و عکس العمل"
+      ]
+    },
+    {
+      "EnglishWord": "bell curve",
+      "Meanings": [
+        "منحنی زنگ",
+        "منحنی زنگی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "bell furnace",
+      "Meanings": [
+        "کوره مسدود",
+        "کوره زنگی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "bell-shaped",
+      "Meanings": [
+        "زنگوله ای شکل",
+        "زنگی شکل",
+        "زنگوله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bell-shaped curve",
+      "Meanings": [
+        "منحنی نرمال",
+        "منحنی زنگوله ای"
+      ]
+    },
+    {
+      "EnglishWord": "belt",
+      "Meanings": [
+        "تسمه",
+        "دوال",
+        "نوار",
+        "بند",
+        "تسمه پروانه",
+        "زبانه قفل",
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "belt conveyor",
+      "Meanings": [
+        "نقاله تسمه ای",
+        "نقاله نواری",
+        "تسمه نقاله"
+      ]
+    },
+    {
+      "EnglishWord": "belt elevator",
+      "Meanings": [
+        "بالابر تسمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bench",
+      "Meanings": [
+        "میزکار",
+        "میز دستگاه",
+        "میز",
+        "سکو",
+        "کارگاه",
+        "میز قالبگیری"
+      ]
+    },
+    {
+      "EnglishWord": "bench inspector",
+      "Meanings": [
+        "بازرس پای میز کار"
+      ]
+    },
+    {
+      "EnglishWord": "bench vise",
+      "Meanings": [
+        "گیره میزی",
+        "گیره",
+        "گیره نجاری"
+      ]
+    },
+    {
+      "EnglishWord": "benchmark",
+      "Meanings": [
+        "محک",
+        "نشان",
+        "مارک دستگاه",
+        "معیار",
+        "نشانه",
+        "نشانه مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "bend",
+      "Meanings": [
+        "خمش",
+        "خمکاری",
+        "خم",
+        "خم کردن",
+        "زانویی",
+        "خمیدگی",
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "bend discharge machine",
+      "Meanings": [
+        "ماشین فولاد ریزی مداوم خمشی",
+        "ماشین تخلیه خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending",
+      "Meanings": [
+        "خمکاری",
+        "خمش",
+        "خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending die",
+      "Meanings": [
+        "قالب خمکاری"
+      ]
+    },
+    {
+      "EnglishWord": "benefit",
+      "Meanings": [
+        "استفاده",
+        "مستمری",
+        "نفع",
+        "سود"
+      ]
+    },
+    {
+      "EnglishWord": "benefit-cost analysis",
+      "Meanings": [
+        "تحلیل هزینه",
+        "فایده"
+      ]
+    },
+    {
+      "EnglishWord": "benefit-cost ratio",
+      "Meanings": [
+        "نسبت هزینه",
+        "فایده"
+      ]
+    },
+    {
+      "EnglishWord": "bent",
+      "Meanings": [
+        "پایه",
+        "خرک",
+        "خم",
+        "خمش",
+        "قاب",
+        "مقدار خمش"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli distribution",
+      "Meanings": [
+        "توزیع برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli model",
+      "Meanings": [
+        "مدل برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli process",
+      "Meanings": [
+        "فرایند برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli trial",
+      "Meanings": [
+        "امتحان برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "beta distribution",
+      "Meanings": [
+        "توزیع بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta martensite",
+      "Meanings": [
+        "مارتنزیت بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta probability distribution",
+      "Meanings": [
+        "توزیع احتمالات بتا"
+      ]
+    },
+    {
+      "EnglishWord": "bevel",
+      "Meanings": [
+        "پخ",
+        "اریب",
+        "پخ کردن",
+        "پخ زدن",
+        "کونیک کردن",
+        "شیبدار",
+        "گونیا",
+        "مورب",
+        "نبشی"
+      ]
+    },
+    {
+      "EnglishWord": "bevel gear",
+      "Meanings": [
+        "دنده مخروطی",
+        "چرخ دنده مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "bevel protractor",
+      "Meanings": [
+        "نقاله مورب",
+        "نقاله نجاری"
+      ]
+    },
+    {
+      "EnglishWord": "bias",
+      "Meanings": [
+        "اریب",
+        "تورش",
+        "اریبی",
+        "تورشی",
+        "پیش طوری",
+        "تمایل یکطرفه",
+        "مایل",
+        "مورب",
+        "بایاس",
+        "پیشقدر",
+        "متمایل"
+      ]
+    },
+    {
+      "EnglishWord": "biased",
+      "Meanings": [
+        "اریب",
+        "بایاس شده",
+        "پیشقدر دار"
+      ]
+    },
+    {
+      "EnglishWord": "biased sampling",
+      "Meanings": [
+        "نمونه گیری اریب",
+        "نمونه گیری جهت دار",
+        "نمونه برداری با پیشداوری",
+        "نمونه برداری غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "bill",
+      "Meanings": [
+        "سیاهه کالا",
+        "پیشنهاد",
+        "برات",
+        "سیاهه",
+        "صورتحساب",
+        "طرح قانونی",
+        "قبض",
+        "فاکتور"
+      ]
+    },
+    {
+      "EnglishWord": "bill of loading",
+      "Meanings": [
+        "بارنامه حمل کالا",
+        "بارنامه کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "bill of material",
+      "Meanings": [
+        "لیست مواد",
+        "صورت ریز مواد"
+      ]
+    },
+    {
+      "EnglishWord": "bill payable",
+      "Meanings": [
+        "اسناد پرداختنی",
+        "برات پرداختنی",
+        "سفته‌های پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "billet",
+      "Meanings": [
+        "قلمه",
+        "شمش",
+        "شمشال",
+        "تکه بزرگ فلز",
+        "شمش چهار گوش",
+        "شمش سبک"
+      ]
+    },
+    {
+      "EnglishWord": "billet mill",
+      "Meanings": [
+        "دستگاه نورد قلمه",
+        "نورد شمش سبک",
+        "دستگاه نورد شمشال"
+      ]
+    },
+    {
+      "EnglishWord": "billing",
+      "Meanings": [
+        "صدور صورتحساب",
+        "نوشتن صورتحساب",
+        "ارسال صورتحساب",
+        "صورتحساب نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "bimetallic strip",
+      "Meanings": [
+        "تسمه بی متال",
+        "تسمه دو جنسه",
+        "زوج فلز تسمه ای",
+        "نوار دو فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "bimodal",
+      "Meanings": [
+        "دونمایی"
+      ]
+    },
+    {
+      "EnglishWord": "bimodal distribution",
+      "Meanings": [
+        "توزیع دو کوهانی"
+      ]
+    },
+    {
+      "EnglishWord": "binary",
+      "Meanings": [
+        "دودویی",
+        "باینری",
+        "دوتای",
+        "دوگانه",
+        "مضاعف",
+        "در مبنای دو",
+        "دو وضعیتی",
+        "مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "binomial",
+      "Meanings": [
+        "دو جمله ای",
+        "بینم"
+      ]
+    },
+    {
+      "EnglishWord": "binomial coefficient",
+      "Meanings": [
+        "ضریب دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial distribution",
+      "Meanings": [
+        "توزیع دو جمله ای",
+        "توزیع بینم",
+        "پخش دو جمله ای",
+        "توزیع بینومی",
+        "توزیع بینومیال"
+      ]
+    },
+    {
+      "EnglishWord": "binomial expansion",
+      "Meanings": [
+        "بسط دو جمله ای",
+        "بسط بینومیال"
+      ]
+    },
+    {
+      "EnglishWord": "binomial probability distribution",
+      "Meanings": [
+        "توزیع احتمال دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "birth and death",
+      "Meanings": [
+        "تولد و مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "bit",
+      "Meanings": [
+        "بیت",
+        "تیغچه",
+        "تیغه",
+        "سرمته",
+        "نوکی",
+        "نیش"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate distribution",
+      "Meanings": [
+        "توزیع دو متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "blade",
+      "Meanings": [
+        "تیغه",
+        "پره",
+        "تیغ اره",
+        "پروانه",
+        "تیغ",
+        "چاقو",
+        "صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "bladed ejector",
+      "Meanings": [
+        "پران تیغه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bladed wheel",
+      "Meanings": [
+        "چرخ پره دار",
+        "چرخ پره"
+      ]
+    },
+    {
+      "EnglishWord": "blank",
+      "Meanings": [
+        "بلانک",
+        "ستون خالی",
+        "جای خالی",
+        "قطعه کار نشده",
+        "خالی",
+        "فضای خالی",
+        "خام",
+        "صفحه فرم"
+      ]
+    },
+    {
+      "EnglishWord": "blanket insurance",
+      "Meanings": [
+        "بیمه جامع",
+        "بیمه تکمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "blanking",
+      "Meanings": [
+        "بلانک کاری",
+        "سوراخ زنی",
+        "سوراخ کاری",
+        "تهیه قطعات کار نشده",
+        "بریدن با قالب نر و ماده",
+        "پولک زنی",
+        "بریدن ورقهای فلزی به اشکال مختلف",
+        "دوره زنی",
+        "گرده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "blanking die",
+      "Meanings": [
+        "قالب بلانک زنی"
+      ]
+    },
+    {
+      "EnglishWord": "blanking punch",
+      "Meanings": [
+        "سنبه بلانک در آر",
+        "سنبه دوره زنی"
+      ]
+    },
+    {
+      "EnglishWord": "blasting",
+      "Meanings": [
+        "شن زنی",
+        "دمش",
+        "ساچمه زنی",
+        "ماسه زنی",
+        "ضربه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "blind hole",
+      "Meanings": [
+        "سوراخ ته بسته",
+        "سوراخ کور"
+      ]
+    },
+    {
+      "EnglishWord": "blind riser",
+      "Meanings": [
+        "لوله تغذیه کور",
+        "تغذیه کور",
+        "تغذیه کننده کور"
+      ]
+    },
+    {
+      "EnglishWord": "blister steel",
+      "Meanings": [
+        "فولاد جوشدار",
+        "فولاد تاولدار",
+        "فولاد آبله گون"
+      ]
+    },
+    {
+      "EnglishWord": "blistering",
+      "Meanings": [
+        "طلبه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "بلوک",
+        "قطعه",
+        "بستن",
+        "بلوکه",
+        "سد شدن",
+        "تکه",
+        "دسته",
+        "لایی",
+        "توده",
+        "سد کردن",
+        "مانع"
+      ]
+    },
+    {
+      "EnglishWord": "block diagram",
+      "Meanings": [
+        "نمودار بلوکی",
+        "نمودار قطعی",
+        "نمودار خانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "block effects",
+      "Meanings": [
+        "اثرهای بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block scanning",
+      "Meanings": [
+        "قطعه خوانی"
+      ]
+    },
+    {
+      "EnglishWord": "blocking",
+      "Meanings": [
+        "قالبزنی",
+        "قطعه بندی",
+        "قالب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bloom",
+      "Meanings": [
+        "شمشه",
+        "انگشتانه",
+        "جلا",
+        "درخشش",
+        "شمش سنگین",
+        "قطعه بزرگ فلزات",
+        "لاشه",
+        "لخته"
+      ]
+    },
+    {
+      "EnglishWord": "bloom mill",
+      "Meanings": [
+        "دستگاه نورد شمشه",
+        "قطار نورد ستبراشکن",
+        "ماشین نورد"
+      ]
+    },
+    {
+      "EnglishWord": "blow hole",
+      "Meanings": [
+        "مک",
+        "حفره",
+        "مک هوا"
+      ]
+    },
+    {
+      "EnglishWord": "blow mold",
+      "Meanings": [
+        "قالب بادی",
+        "قالب دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "blow molding",
+      "Meanings": [
+        "قالبگیری دمشی",
+        "قالبگیری دمیدنی"
+      ]
+    },
+    {
+      "EnglishWord": "blower",
+      "Meanings": [
+        "دم",
+        "دمنده",
+        "دمنده هوا",
+        "هواکش",
+        "بادزن کوره",
+        "دستگاه دمنده",
+        "هوا دمنده"
+      ]
+    },
+    {
+      "EnglishWord": "blue print",
+      "Meanings": [
+        "نقشه آبی",
+        "نقشه اوزاللید",
+        "نقشه محصول",
+        "چاپ اوزالید",
+        "طرح",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "body  drill",
+      "Meanings": [
+        "بدنه مته"
+      ]
+    },
+    {
+      "EnglishWord": "bogie",
+      "Meanings": [
+        "واگن بی لبه",
+        "واگن تخت",
+        "چرخ جفتی"
+      ]
+    },
+    {
+      "EnglishWord": "boil",
+      "Meanings": [
+        "جوشش",
+        "جوشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "bolster plate",
+      "Meanings": [
+        "صفحه بالشتک"
+      ]
+    },
+    {
+      "EnglishWord": "bolt",
+      "Meanings": [
+        "زبانه قفل",
+        "پیچ",
+        "میله رزوه دار",
+        "میل پیچ",
+        "پیچ مهره دار",
+        "استارت",
+        "بولت",
+        "پیچ سرتاسری",
+        "پیچ شاتون",
+        "پیچ نر",
+        "مهره پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "bond",
+      "Meanings": [
+        "اوراق قرضه",
+        "قرضه",
+        "تعهد قانونی",
+        "سند قرضه",
+        "ورق قرضه",
+        "اتصال",
+        "بست",
+        "ضمانتنامه",
+        "قید"
+      ]
+    },
+    {
+      "EnglishWord": "bond discount",
+      "Meanings": [
+        "تنزیل اوراق قرضه",
+        "تنزیل اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "bonds payable",
+      "Meanings": [
+        "اوراق قرضه پرداختنی",
+        "اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "bonus",
+      "Meanings": [
+        "انعام",
+        "جایزه",
+        "پاداش",
+        "اضافه پرداخت",
+        "فوق العاده"
+      ]
+    },
+    {
+      "EnglishWord": "book of original entry",
+      "Meanings": [
+        "دفتر روزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "book value",
+      "Meanings": [
+        "ارزش دفتری"
+      ]
+    },
+    {
+      "EnglishWord": "bookkeeping",
+      "Meanings": [
+        "دفتر داری",
+        "ساماندهی"
+      ]
+    },
+    {
+      "EnglishWord": "bookkeeping system",
+      "Meanings": [
+        "سیستم دفتر داری"
+      ]
+    },
+    {
+      "EnglishWord": "booster",
+      "Meanings": [
+        "بالا برنده",
+        "بوستر",
+        "توان افزایی",
+        "فشار افزای",
+        "توان افزا"
+      ]
+    },
+    {
+      "EnglishWord": "bootstrap",
+      "Meanings": [
+        "خود راه انداز",
+        "خود راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "bootstrap loader",
+      "Meanings": [
+        "بار کننده خود راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "border",
+      "Meanings": [
+        "مرز",
+        "کناره",
+        "دوره",
+        "کران",
+        "کنار",
+        "لبه"
+      ]
+    },
+    {
+      "EnglishWord": "border price",
+      "Meanings": [
+        "قیمت مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "bordered hessian determinant",
+      "Meanings": [
+        "دترمینان مرزی هشین"
+      ]
+    },
+    {
+      "EnglishWord": "bore",
+      "Meanings": [
+        "سوراخ",
+        "دهانه",
+        "سوراخ کردن",
+        "گرد کردن",
+        "قطر داخلی",
+        "مته کاری چال",
+        "حفره",
+        "روزنه",
+        "قطر داخلی لوله",
+        "کانال"
+      ]
+    },
+    {
+      "EnglishWord": "boring",
+      "Meanings": [
+        "دهانه تراشی",
+        "سوراخ تراشی",
+        "بورینگ",
+        "گرد کاری",
+        "برقو زدن",
+        "حفر کردن",
+        "سوراخ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "boring bar",
+      "Meanings": [
+        "میله سوراخ تراشی",
+        "قلم تو تراشی",
+        "قلم دهانه تراشی",
+        "قلم گرد تراشی"
+      ]
+    },
+    {
+      "EnglishWord": "boring mill",
+      "Meanings": [
+        "میله داخل تراشی",
+        "فرز داخل تراشی"
+      ]
+    },
+    {
+      "EnglishWord": "boss-centered leadership",
+      "Meanings": [
+        "رهبری با تمرکز روی مدیر"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck",
+      "Meanings": [
+        "گلوگاه",
+        "تنگنا",
+        "دهانه بطری",
+        "گلوگاه تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "bottoming tap",
+      "Meanings": [
+        "قلاویز انتها رزوه کن",
+        "قلاویز پسرو",
+        "قلاویز نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary",
+      "Meanings": [
+        "مرز",
+        "حد",
+        "کرانه",
+        "کرانی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary conditions",
+      "Meanings": [
+        "شرایط مرزی",
+        "شرایط کرانی",
+        "شرایط حدی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary equation",
+      "Meanings": [
+        "معادله حدی",
+        "معادله مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "bounded",
+      "Meanings": [
+        "کراندار",
+        "پایاندار",
+        "محدود"
+      ]
+    },
+    {
+      "EnglishWord": "bounded variables",
+      "Meanings": [
+        "متغیرهای کراندار",
+        "متغیرهای محدود",
+        "متغیرهای حددار",
+        "متغیرهای با پایان"
+      ]
+    },
+    {
+      "EnglishWord": "bowl",
+      "Meanings": [
+        "کاسه",
+        "جام",
+        "پیاله",
+        "کاسه راهنما",
+        "نورد یاتاقان"
+      ]
+    },
+    {
+      "EnglishWord": "box design",
+      "Meanings": [
+        "طرح جعبه ای",
+        "طرح مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "box jig",
+      "Meanings": [
+        "جیگ جعبعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "شاخه",
+        "شعبه",
+        "انشعاب",
+        "بخش",
+        "رسته"
+      ]
+    },
+    {
+      "EnglishWord": "branched chain",
+      "Meanings": [
+        "زنجیره شاخه دار"
+      ]
+    },
+    {
+      "EnglishWord": "branching process",
+      "Meanings": [
+        "فرایند انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "brass welding",
+      "Meanings": [
+        "جوش برنج"
+      ]
+    },
+    {
+      "EnglishWord": "braze welding",
+      "Meanings": [
+        "جوش برنج",
+        "زردجوش",
+        "لحیم جوش"
+      ]
+    },
+    {
+      "EnglishWord": "brazing",
+      "Meanings": [
+        "جوش برنج",
+        "لحیمکاری سخت",
+        "برنجکاری",
+        "لحیمکاری",
+        "برنج لحیمکاری",
+        "زرد جوش"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown",
+      "Meanings": [
+        "از کار افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaker plate",
+      "Meanings": [
+        "صفحه صافی اکستروژن"
+      ]
+    },
+    {
+      "EnglishWord": "break-even",
+      "Meanings": [
+        "سر به سر",
+        "بی سود و زیان",
+        "سر به سر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "break-even analysis",
+      "Meanings": [
+        "تحلیل نقطه سربه سری",
+        "تجزیه و تحلیل نقطه سر به سر",
+        "تجزیه و تحلیل سر به سری"
+      ]
+    },
+    {
+      "EnglishWord": "break-even point",
+      "Meanings": [
+        "نقطه سر به سر",
+        "سر به سری"
+      ]
+    },
+    {
+      "EnglishWord": "bridge crane",
+      "Meanings": [
+        "جرثقیل پلی"
+      ]
+    },
+    {
+      "EnglishWord": "bridge welding",
+      "Meanings": [
+        "جوش پل واره"
+      ]
+    },
+    {
+      "EnglishWord": "bright annealing",
+      "Meanings": [
+        "تابکاری براق",
+        "آنیل براقی",
+        "باز پخت روشن",
+        "تاب کاری سفید"
+      ]
+    },
+    {
+      "EnglishWord": "british association thread",
+      "Meanings": [
+        "پیچ اتحادیه مهندسین انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "brittle fracture",
+      "Meanings": [
+        "شکست ترد",
+        "ترک شکننده"
+      ]
+    },
+    {
+      "EnglishWord": "brittleness",
+      "Meanings": [
+        "شکنندگی",
+        "تردی"
+      ]
+    },
+    {
+      "EnglishWord": "broach inserts",
+      "Meanings": [
+        "تیغهای پیش ساخته خانکشی",
+        "تیغچه‌های سوزن خانکشی"
+      ]
+    },
+    {
+      "EnglishWord": "broaching",
+      "Meanings": [
+        "خانکشی",
+        "خانزنی",
+        "دندانه زنی",
+        "مته کاری",
+        "خانکوبی",
+        "سوزن خانکشی",
+        "سوراخ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "broaching die",
+      "Meanings": [
+        "قالب خانزنی",
+        "قالب دندانه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "broad-nose finishing tool",
+      "Meanings": [
+        "ابزار پرداختکاری لبه پهن"
+      ]
+    },
+    {
+      "EnglishWord": "brush",
+      "Meanings": [
+        "برس",
+        "فرچه",
+        "برس زنی",
+        "قلم مو",
+        "ماهوت پاک کن"
+      ]
+    },
+    {
+      "EnglishWord": "bucket",
+      "Meanings": [
+        "سطل",
+        "دولچه",
+        "سبد",
+        "ملاغه",
+        "جام بیل مکانیکی",
+        "لودر"
+      ]
+    },
+    {
+      "EnglishWord": "bucket conveyor",
+      "Meanings": [
+        "نقاله سطلی"
+      ]
+    },
+    {
+      "EnglishWord": "bucket elevator",
+      "Meanings": [
+        "بالا بر سطلی زنجیره ای"
+      ]
+    },
+    {
+      "EnglishWord": "buckle",
+      "Meanings": [
+        "سگک",
+        "قلاب",
+        "کمانه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "budget",
+      "Meanings": [
+        "بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "budget allotment",
+      "Meanings": [
+        "تخصیص بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "budgetary accounting",
+      "Meanings": [
+        "تخصیص بودجه ای",
+        "حسابداری بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "budgetary control",
+      "Meanings": [
+        "کنترل بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "budgeting",
+      "Meanings": [
+        "بودجه بندی",
+        "تنظیم بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "buffer",
+      "Meanings": [
+        "میانگیر",
+        "چرخ سنباده",
+        "سپر",
+        "واسطه",
+        "ذخیره کننده موقت",
+        "گردآورنده",
+        "ضربخور",
+        "تامپون",
+        "حافظه واسطه ای کامپیوتر",
+        "ضربهگیر",
+        "کوبه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "buffer stock",
+      "Meanings": [
+        "موجودی واسطه",
+        "موجودی ذخیره",
+        "موجودی محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "buffing",
+      "Meanings": [
+        "پرداخت با چرخ سنباده",
+        "پرداخت بوسیله قطعات چرمی",
+        "صیقل دادن",
+        "صیقلکاری",
+        "پرداختکاری",
+        "جلا کاری"
+      ]
+    },
+    {
+      "EnglishWord": "bug",
+      "Meanings": [
+        "خطا",
+        "اشکال"
+      ]
+    },
+    {
+      "EnglishWord": "built-up",
+      "Meanings": [
+        "روکش کردن",
+        "انباشت",
+        "انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "built-up broach",
+      "Meanings": [
+        "خانکش سر هم کردنی"
+      ]
+    },
+    {
+      "EnglishWord": "bulb",
+      "Meanings": [
+        "لامپ",
+        "توپی",
+        "کپسول",
+        "تابانه",
+        "حباب"
+      ]
+    },
+    {
+      "EnglishWord": "bulging",
+      "Meanings": [
+        "باد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bulging die",
+      "Meanings": [
+        "قالب گشاد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "bulk",
+      "Meanings": [
+        "دسته جمعی",
+        "توده",
+        "حجیم",
+        "انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "bulk arrival",
+      "Meanings": [
+        "ورود گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "bulk sampling",
+      "Meanings": [
+        "نمونه گیری دسته ای",
+        "نمونه گیری فله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulk service",
+      "Meanings": [
+        "خدمت گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "bullion",
+      "Meanings": [
+        "شمش",
+        "شمش غیر آهنی"
+      ]
+    },
+    {
+      "EnglishWord": "bunker",
+      "Meanings": [
+        "انبار",
+        "سیلو",
+        "مخزن",
+        "بونکر"
+      ]
+    },
+    {
+      "EnglishWord": "bureau",
+      "Meanings": [
+        "دفتر",
+        "اداره کل"
+      ]
+    },
+    {
+      "EnglishWord": "burner",
+      "Meanings": [
+        "سوختپاش",
+        "مشعل"
+      ]
+    },
+    {
+      "EnglishWord": "burnishing",
+      "Meanings": [
+        "جلا دادن",
+        "جلا کاری",
+        "پرداختکاری",
+        "صیقلزنی",
+        "پرداختکاری دقیق",
+        "جلا کاری دقیق",
+        "تمیز کردن",
+        "صیقل دادن",
+        "تمیز کاری"
+      ]
+    },
+    {
+      "EnglishWord": "burst event",
+      "Meanings": [
+        "واقعه جوششی"
+      ]
+    },
+    {
+      "EnglishWord": "bush",
+      "Meanings": [
+        "بوش",
+        "بوش انداختن",
+        "بوش زدن"
+      ]
+    },
+    {
+      "EnglishWord": "business",
+      "Meanings": [
+        "بنگاه بازرگانی",
+        "موسسه بازرگانی",
+        "تجارت",
+        "دادوستد"
+      ]
+    },
+    {
+      "EnglishWord": "business system",
+      "Meanings": [
+        "نظام بازرگانی",
+        "نظام کاری"
+      ]
+    },
+    {
+      "EnglishWord": "busy",
+      "Meanings": [
+        "اشغال",
+        "مشغول"
+      ]
+    },
+    {
+      "EnglishWord": "busy cycle",
+      "Meanings": [
+        "چرخه اشغال سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "busy period",
+      "Meanings": [
+        "دوره اشغال سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "butt",
+      "Meanings": [
+        "لب به لب",
+        "لب به لب کردن",
+        "سر به سر"
+      ]
+    },
+    {
+      "EnglishWord": "butt weld",
+      "Meanings": [
+        "جوش لب به لب",
+        "جوش شکافی",
+        "جوشکاری کند",
+        "درز اتصال",
+        "درز لب به لب"
+      ]
+    },
+    {
+      "EnglishWord": "butt welder",
+      "Meanings": [
+        "دستگاه جوش لب به لب"
+      ]
+    },
+    {
+      "EnglishWord": "butt welding",
+      "Meanings": [
+        "جوش لب به لب"
+      ]
+    },
+    {
+      "EnglishWord": "button clamp",
+      "Meanings": [
+        "گیره صفحه ای"
+      ]
+    },
+    {
+      "EnglishWord": "button welding",
+      "Meanings": [
+        "جوش دکمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "buttress tooth",
+      "Meanings": [
+        "دندانه اره ای"
+      ]
+    },
+    {
+      "EnglishWord": "buttress-type saw-tooth",
+      "Meanings": [
+        "تیغ اره نوع حایلدار"
+      ]
+    },
+    {
+      "EnglishWord": "buzz group",
+      "Meanings": [
+        "گروه غیر رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "by-product",
+      "Meanings": [
+        "محصول فرعی",
+        "فراورده فرعی",
+        "محصول حنبی"
+      ]
+    }
+  ]
+}

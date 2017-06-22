@@ -1,0 +1,1859 @@
+﻿{
+  "Group": "I",
+  "Entries": 252,
+  "Words": [
+    {
+      "EnglishWord": "iconic model",
+      "Meanings": [
+        "مدل شمایل"
+      ]
+    },
+    {
+      "EnglishWord": "idea",
+      "Meanings": [
+        "مفهوم",
+        "انگاره فکر",
+        "انگار",
+        "ایده",
+        "اندیشه"
+      ]
+    },
+    {
+      "EnglishWord": "ideal",
+      "Meanings": [
+        "ایده آل",
+        "آرمان",
+        "آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal size",
+      "Meanings": [
+        "اندازه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "identically distributed",
+      "Meanings": [
+        "توزیع یکسان",
+        "توزیع یکنواخت",
+        "هم توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "identification",
+      "Meanings": [
+        "تعیین هویت",
+        "شناسایی",
+        "تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "identifier",
+      "Meanings": [
+        "تشخیص دهنده",
+        "شاخص",
+        "شناساگر",
+        "شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "identity matrix",
+      "Meanings": [
+        "مارتیس یکه",
+        "ماتریس واحد",
+        "ماتریس همانی"
+      ]
+    },
+    {
+      "EnglishWord": "idle",
+      "Meanings": [
+        "بلااستفاده",
+        "مرده",
+        "هرز",
+        "هرز گشتن پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "idle capacity",
+      "Meanings": [
+        "ظرفیت بلا استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "idle period",
+      "Meanings": [
+        "پریود بیکاری",
+        "دوره بیکاری",
+        "دوره وقفه"
+      ]
+    },
+    {
+      "EnglishWord": "idler wheel",
+      "Meanings": [
+        "چرخ هرز گرد",
+        "چرخ دنده هرز گرد",
+        "هرز گرد",
+        "چرخ میانی",
+        "چرخ دلاله",
+        "چرخ دنده میانی"
+      ]
+    },
+    {
+      "EnglishWord": "illustrated brochure",
+      "Meanings": [
+        "بروشور مصور"
+      ]
+    },
+    {
+      "EnglishWord": "image",
+      "Meanings": [
+        "تصویر",
+        "تصور کردن",
+        "منعکس کردن",
+        "نگاره",
+        "تجمسی کردن",
+        "تندیس",
+        "نقش"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary",
+      "Meanings": [
+        "تخیلی",
+        "موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imbeded markov chain",
+      "Meanings": [
+        "زنجیره محاطی مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "immediate",
+      "Meanings": [
+        "سرپرستی مستقیم",
+        "نظارت مستقیم",
+        "حافظه با دسترسی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "immediate predecessor",
+      "Meanings": [
+        "فعالیت یک مرحله قبل"
+      ]
+    },
+    {
+      "EnglishWord": "immerse welding",
+      "Meanings": [
+        "جوش پودری",
+        "جوش زیر پودری",
+        "جوش مستغرق"
+      ]
+    },
+    {
+      "EnglishWord": "impact",
+      "Meanings": [
+        "ضربه",
+        "تاثیر",
+        "اثر",
+        "تصادف",
+        "تصادم"
+      ]
+    },
+    {
+      "EnglishWord": "impact extrusion",
+      "Meanings": [
+        "اکسترود ضربه ای",
+        "حدیده کاری",
+        "ضربه ای",
+        "حدیده کاری کوبشی",
+        "رزنرانی ضربه ای",
+        "اکستروژن ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impact strength",
+      "Meanings": [
+        "ایستادگی در مقابل ضربه",
+        "تحمل ضربه",
+        "مقاوم به ضربه",
+        "استحکام به ضربه",
+        "ضربه خوری"
+      ]
+    },
+    {
+      "EnglishWord": "implementation",
+      "Meanings": [
+        "پیاده سازی",
+        "اجرا",
+        "انجام"
+      ]
+    },
+    {
+      "EnglishWord": "import",
+      "Meanings": [
+        "واردات"
+      ]
+    },
+    {
+      "EnglishWord": "import credit",
+      "Meanings": [
+        "اعتبار وارداتی"
+      ]
+    },
+    {
+      "EnglishWord": "importation",
+      "Meanings": [
+        "وارد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "imprest cash",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "imprest fund",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "improvement",
+      "Meanings": [
+        "اصلاح",
+        "بهبود"
+      ]
+    },
+    {
+      "EnglishWord": "imputed price",
+      "Meanings": [
+        "ارزش تخمینی"
+      ]
+    },
+    {
+      "EnglishWord": "in cash",
+      "Meanings": [
+        "نقدی",
+        "باپول",
+        "به صورت پولی",
+        "به صورت نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "in control",
+      "Meanings": [
+        "تحت کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "in debt",
+      "Meanings": [
+        "بدهکار, درقرض, زیرقرض, مقروض"
+      ]
+    },
+    {
+      "EnglishWord": "in kind",
+      "Meanings": [
+        "جنسی, کالایی, غیرنقدی, کمک هزینه جنسی"
+      ]
+    },
+    {
+      "EnglishWord": "inactive",
+      "Meanings": [
+        "غیر فعال",
+        "بیکار",
+        "منتظر خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "in-bowl tooling",
+      "Meanings": [
+        "ابزار بندی درون کاسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "incentive",
+      "Meanings": [
+        "پاداش",
+        "انگیزه",
+        "سایق",
+        "مشوق"
+      ]
+    },
+    {
+      "EnglishWord": "incentive payment",
+      "Meanings": [
+        "پرداخت مزد براساس زمان انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "incentive system",
+      "Meanings": [
+        "سیستم تشویقی"
+      ]
+    },
+    {
+      "EnglishWord": "incidence",
+      "Meanings": [
+        "برخورد"
+      ]
+    },
+    {
+      "EnglishWord": "incidental defect",
+      "Meanings": [
+        "نقص جزیی",
+        "نمونه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "incidental sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "inclination angle",
+      "Meanings": [
+        "زاویه تمایل"
+      ]
+    },
+    {
+      "EnglishWord": "inclined",
+      "Meanings": [
+        "مایل",
+        "شیبدار",
+        "مورب",
+        "کجکی",
+        "کج"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion",
+      "Meanings": [
+        "آخال",
+        "فلز جوش",
+        "مواد خارجی در آلیاژ",
+        "جرم ذرات محبوس شده"
+      ]
+    },
+    {
+      "EnglishWord": "income",
+      "Meanings": [
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "income elasticity",
+      "Meanings": [
+        "کشش درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "income statement",
+      "Meanings": [
+        "صورتحساب سودوزیان"
+      ]
+    },
+    {
+      "EnglishWord": "income tax",
+      "Meanings": [
+        "مالیات بردرآمد",
+        "مالیات درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "incoming cash flow",
+      "Meanings": [
+        "جریان نقدی درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "incoming inspection",
+      "Meanings": [
+        "بازرسی ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "incompatible",
+      "Meanings": [
+        "ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "inconsistency",
+      "Meanings": [
+        "ناسازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "inconsistent",
+      "Meanings": [
+        "ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "increase",
+      "Meanings": [
+        "افزودن",
+        "افزایش",
+        "ازدیاد",
+        "اضافی",
+        "افزایش دادن",
+        "افزایش یافتن",
+        "صعودکردن"
+      ]
+    },
+    {
+      "EnglishWord": "increasing",
+      "Meanings": [
+        "فزاینده",
+        "افزایشی",
+        "صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "increasing failure rate",
+      "Meanings": [
+        "میزان شکست فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "incremental",
+      "Meanings": [
+        "افزایشی",
+        "تدریجی",
+        "نموی",
+        "اضافی",
+        "نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "incremental cash flow",
+      "Meanings": [
+        "جریان نقدی اضافی",
+        "جریان نقدی تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "incremental cost of capital",
+      "Meanings": [
+        "هزینه سرمایه اضافی",
+        "هزینه سرمایه تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "incumbent",
+      "Meanings": [
+        "شاغل",
+        "متصدی"
+      ]
+    },
+    {
+      "EnglishWord": "independence",
+      "Meanings": [
+        "استقلال",
+        "غیروابستگی",
+        "ناوابستگی",
+        "جداسری"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "مستقل",
+        "نابسته",
+        "جداسر"
+      ]
+    },
+    {
+      "EnglishWord": "independent events",
+      "Meanings": [
+        "پیشامدهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent float",
+      "Meanings": [
+        "شناوری مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent random variable",
+      "Meanings": [
+        "متغیر تصادفی مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent variable",
+      "Meanings": [
+        "متغیر مستقل",
+        "متغیرغیروابسته"
+      ]
+    },
+    {
+      "EnglishWord": "index",
+      "Meanings": [
+        "شاخص",
+        "اندیس",
+        "نمایه",
+        "ضریب",
+        "تقسیم",
+        "نشانه",
+        "بخش کردن",
+        "تقسیم کردن",
+        "فهرست",
+        "نامساوی",
+        "فهرست الفبایی",
+        "فهرست راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "index center",
+      "Meanings": [
+        "شاخص مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "index plate",
+      "Meanings": [
+        "صفحه تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "indexing machine",
+      "Meanings": [
+        "دستگاه تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "indexing rotating disk feeder",
+      "Meanings": [
+        "تغذیه کننده دیسکی دوارتقسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "indexing slot",
+      "Meanings": [
+        "شکاف تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "indexing table",
+      "Meanings": [
+        "صفحه تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "indicating variable",
+      "Meanings": [
+        "متغیرمشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "indicator",
+      "Meanings": [
+        "شاخص",
+        "عقربه",
+        "معرف",
+        "نشانگر",
+        "نماینده",
+        "شناساگر",
+        "اندیکاتور",
+        "تابلو",
+        "درجه",
+        "مقیاس",
+        "نمایانگر",
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "indicator variable",
+      "Meanings": [
+        "متغیرشاخص"
+      ]
+    },
+    {
+      "EnglishWord": "indifference curve",
+      "Meanings": [
+        "منحنی بی تفاوتی"
+      ]
+    },
+    {
+      "EnglishWord": "indifference point analysis",
+      "Meanings": [
+        "تحلیل نقطه بی تفاوتی"
+      ]
+    },
+    {
+      "EnglishWord": "indifferent quality level",
+      "Meanings": [
+        "سطح کیفیت بی تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "indirect arc furnace",
+      "Meanings": [
+        "کوره قوس الکتریکی غیرمستقیم",
+        "کوره برقی بازتابی"
+      ]
+    },
+    {
+      "EnglishWord": "indirect extrusion",
+      "Meanings": [
+        "روزنرانی غیرمستقیم",
+        "حدیده کاری غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect labor",
+      "Meanings": [
+        "کارغیرمستقیم",
+        "دستمزدغیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect material",
+      "Meanings": [
+        "موادغیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect pressure extrusion",
+      "Meanings": [
+        "اکستروژن فشارغیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect tax",
+      "Meanings": [
+        "مالیات غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect time",
+      "Meanings": [
+        "زمان غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "individual",
+      "Meanings": [
+        "اختصاصی",
+        "انفرادی",
+        "تک",
+        "خاص",
+        "منحصربفرد",
+        "فرد",
+        "فردی"
+      ]
+    },
+    {
+      "EnglishWord": "induction brazing",
+      "Meanings": [
+        "برنجکاری غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "induction furnace",
+      "Meanings": [
+        "کوره القایی",
+        "کوره الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "induction hardening",
+      "Meanings": [
+        "سخت گردانی القایی",
+        "آب دادن القایی",
+        "سخت کردن القایی",
+        "استحکام القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction soldering",
+      "Meanings": [
+        "لحیم کاری القایی",
+        "لحیم کاری نرم باامواج صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "induction welding",
+      "Meanings": [
+        "جوشکاری القایی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial economics",
+      "Meanings": [
+        "اقتصادصنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial engineer",
+      "Meanings": [
+        "مهندس صنایع",
+        "مهندس صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial hygiene",
+      "Meanings": [
+        "بهداشت صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial management",
+      "Meanings": [
+        "مدیریت صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial psychology",
+      "Meanings": [
+        "روان شناسی صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial revolution",
+      "Meanings": [
+        "انقلاب صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial safety",
+      "Meanings": [
+        "ایمنی صنعتی",
+        "حفاظت صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial union",
+      "Meanings": [
+        "اتحادیه صنعتی",
+        "سازمان صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industrialization",
+      "Meanings": [
+        "صنعتی شدن",
+        "صنعتی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "industry",
+      "Meanings": [
+        "صنعت",
+        "سازه"
+      ]
+    },
+    {
+      "EnglishWord": "inefficiency",
+      "Meanings": [
+        "عدم کارآیی",
+        "ناکارآیی"
+      ]
+    },
+    {
+      "EnglishWord": "inert gas-tungsten arc welding",
+      "Meanings": [
+        "جوشکاری قوس تانگستنی گازخنثی",
+        "جوش میگ"
+      ]
+    },
+    {
+      "EnglishWord": "infeasible solution",
+      "Meanings": [
+        "جواب غیرموجه",
+        "جواب نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "infeed",
+      "Meanings": [
+        "تغذیه به داخل",
+        "باربه تو",
+        "باربه داخل"
+      ]
+    },
+    {
+      "EnglishWord": "inference",
+      "Meanings": [
+        "استنباط"
+      ]
+    },
+    {
+      "EnglishWord": "inferential statistics",
+      "Meanings": [
+        "آماراستنباطی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite population",
+      "Meanings": [
+        "جامعه نامحدود",
+        "جامعه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite queue",
+      "Meanings": [
+        "صف نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite sample space",
+      "Meanings": [
+        "فضای نمونه نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "inflation",
+      "Meanings": [
+        "تورم"
+      ]
+    },
+    {
+      "EnglishWord": "inflection point",
+      "Meanings": [
+        "نقطه عطف"
+      ]
+    },
+    {
+      "EnglishWord": "inflow",
+      "Meanings": [
+        "جریانهای ورودی",
+        "دریچه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "influence",
+      "Meanings": [
+        "نفوذ",
+        "تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "informal group",
+      "Meanings": [
+        "گروه غیررسمی",
+        "ترکیب غیررسمی سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "informal organization",
+      "Meanings": [
+        "سازمان غیررسمی"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات",
+        "آگاهی",
+        "خبر"
+      ]
+    },
+    {
+      "EnglishWord": "information media",
+      "Meanings": [
+        "ابزاراطلاعاتی",
+        "واسطه اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information processing",
+      "Meanings": [
+        "پردازش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information system",
+      "Meanings": [
+        "سیستم اطلاعات",
+        "سیستم اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information theory",
+      "Meanings": [
+        "نظریه اطلاعات",
+        "فرضیه اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "infra-red brazing",
+      "Meanings": [
+        "برنجکاری بااشعه مادون قرمز",
+        "برنجکاری فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "infra-red detector",
+      "Meanings": [
+        "آشکارسازمادون قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "ingot",
+      "Meanings": [
+        "شمش",
+        "شمش مربع القاعده"
+      ]
+    },
+    {
+      "EnglishWord": "ingredients",
+      "Meanings": [
+        "اجزاء متشکله",
+        "مواد متشکله",
+        "جزء"
+      ]
+    },
+    {
+      "EnglishWord": "inherent maintainability",
+      "Meanings": [
+        "قابلیت نگهداری ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "initial overhead",
+      "Meanings": [
+        "هزینه بالاسری"
+      ]
+    },
+    {
+      "EnglishWord": "initial point",
+      "Meanings": [
+        "نقطه آغازی"
+      ]
+    },
+    {
+      "EnglishWord": "initiation",
+      "Meanings": [
+        "آماده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "injection blow mold",
+      "Meanings": [
+        "قالب بادی تزریقی"
+      ]
+    },
+    {
+      "EnglishWord": "injection molding",
+      "Meanings": [
+        "قالبگیری تزریقی",
+        "ریخته گری تزریقی",
+        "قالبگیری بافشار"
+      ]
+    },
+    {
+      "EnglishWord": "inlet",
+      "Meanings": [
+        "ورودی",
+        "دهانه",
+        "مدخل"
+      ]
+    },
+    {
+      "EnglishWord": "in-line free-transfer machine",
+      "Meanings": [
+        "ماشین انتقال درخط"
+      ]
+    },
+    {
+      "EnglishWord": "in-line processing",
+      "Meanings": [
+        "پردازش درخط",
+        "پرورش پیوسته",
+        "پردازش فوری"
+      ]
+    },
+    {
+      "EnglishWord": "inoculating agents",
+      "Meanings": [
+        "مواد تزریقی"
+      ]
+    },
+    {
+      "EnglishWord": "inorganic coating",
+      "Meanings": [
+        "روکشکاری غیر آلی"
+      ]
+    },
+    {
+      "EnglishWord": "in-plant training",
+      "Meanings": [
+        "کارآموزی ضمن کار درکارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "in-process inspection",
+      "Meanings": [
+        "بازرسی در فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "in-process measurement",
+      "Meanings": [
+        "اندازه گیری درون فرایند",
+        "اندازه گیری درحین کار"
+      ]
+    },
+    {
+      "EnglishWord": "input",
+      "Meanings": [
+        "ورودی",
+        "داده",
+        "درون داد",
+        "درداده",
+        "درون نهاده",
+        "مصروفه",
+        "منابع مصروفه",
+        "درون داده",
+        "نهاده",
+        "ورودی اولی",
+        "عوامل تولید",
+        "منابع تولید",
+        "منابع مصرف شده",
+        "واردات",
+        "وارده"
+      ]
+    },
+    {
+      "EnglishWord": "input-output",
+      "Meanings": [
+        "داده",
+        "بازه",
+        "ورودی وخروجی",
+        "ستاده"
+      ]
+    },
+    {
+      "EnglishWord": "insert",
+      "Meanings": [
+        "مغزی",
+        "قراردادن",
+        "گذاشتن",
+        "جای دادن",
+        "جاگذاری",
+        "فروکردن",
+        "لاگذاری",
+        "درج کردن",
+        "حلقه سوپاپ نشین",
+        "بوش",
+        "تیغچه",
+        "جا انداختن",
+        "جا دادن",
+        "حلقه نشیمن سوپاپ",
+        "قطعه اضافی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inserted teeth saw blade",
+      "Meanings": [
+        "تیغ اره بادندانه چسبانی"
+      ]
+    },
+    {
+      "EnglishWord": "in-service training",
+      "Meanings": [
+        "آموزش ضمن خدمت",
+        "کارآموزی ضمن خدمت",
+        "کارآموزی عملی"
+      ]
+    },
+    {
+      "EnglishWord": "inside caliper",
+      "Meanings": [
+        "قطرسنج داخلی",
+        "پرگارداخلی",
+        "پرگارداخل",
+        "پرگاردهانه سنج"
+      ]
+    },
+    {
+      "EnglishWord": "inside micrometer",
+      "Meanings": [
+        "ریزسنج داخلی",
+        "میکرومترداخل سنج",
+        "میکرومترداخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inside three-jaws micrometer",
+      "Meanings": [
+        "میکرومترداخل سنج سه فکی"
+      ]
+    },
+    {
+      "EnglishWord": "insolvency",
+      "Meanings": [
+        "درماندگی نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection",
+      "Meanings": [
+        "بازرسی",
+        "بازبینی",
+        "کنترل",
+        "معاینه"
+      ]
+    },
+    {
+      "EnglishWord": "inspection by attributes",
+      "Meanings": [
+        "بازرسی وصفی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection by variable",
+      "Meanings": [
+        "بازرسی کمی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection feedback",
+      "Meanings": [
+        "بازخوربازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection frequency",
+      "Meanings": [
+        "تواتربازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection level",
+      "Meanings": [
+        "سطح بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection lot",
+      "Meanings": [
+        "انباشته بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection record",
+      "Meanings": [
+        "سابقه بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspection station",
+      "Meanings": [
+        "ایستگاه بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspector accuracy",
+      "Meanings": [
+        "صحت بازرس"
+      ]
+    },
+    {
+      "EnglishWord": "inspector error",
+      "Meanings": [
+        "خطای بازرس"
+      ]
+    },
+    {
+      "EnglishWord": "instability",
+      "Meanings": [
+        "بی ثباتی",
+        "نااستواری",
+        "ناپایداری"
+      ]
+    },
+    {
+      "EnglishWord": "installation",
+      "Meanings": [
+        "استقرار",
+        "نصب",
+        "برپایی",
+        "برپاکردن",
+        "برقراری",
+        "دستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "installed capacity",
+      "Meanings": [
+        "ظرفیت نصب شده",
+        "کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous failure rate",
+      "Meanings": [
+        "میزان شکست آنی"
+      ]
+    },
+    {
+      "EnglishWord": "instruction",
+      "Meanings": [
+        "دستورالعمل",
+        "دستور",
+        "تعلیم",
+        "آموزش",
+        "تدریس",
+        "راهنما",
+        "یاددهی"
+      ]
+    },
+    {
+      "EnglishWord": "instrument",
+      "Meanings": [
+        "ابزار",
+        "ستد",
+        "وسیله",
+        "آلت",
+        "سنجه",
+        "اسباب",
+        "دستگاه",
+        "راهنمای علایم",
+        "وسیله پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "insulated nozzle",
+      "Meanings": [
+        "پستانک عایق شده",
+        "نازل عایق شده"
+      ]
+    },
+    {
+      "EnglishWord": "insurance",
+      "Meanings": [
+        "بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance certificate",
+      "Meanings": [
+        "بیمه نامه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance expense",
+      "Meanings": [
+        "هزینه بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance policy",
+      "Meanings": [
+        "بیمه نامه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance premium",
+      "Meanings": [
+        "حق بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "intangible asset",
+      "Meanings": [
+        "دارایی غیرمشهود",
+        "دارایی غیر مادی",
+        "دارایی نامشهود",
+        "دارایی غیرعینی",
+        "دارایی غیرملموس"
+      ]
+    },
+    {
+      "EnglishWord": "intangible fixed asset",
+      "Meanings": [
+        "دارایی ثابت غیرمشهود"
+      ]
+    },
+    {
+      "EnglishWord": "integer programming",
+      "Meanings": [
+        "برنامه ریزی عددصحیح",
+        "برنامه ریزی بااعدادصحیح",
+        "برنامه ریزی اعدادصحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integrated circuit",
+      "Meanings": [
+        "مدارمجتمع",
+        "مدارکلی",
+        "مداریکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "integrated mill",
+      "Meanings": [
+        "کارخانه جامع"
+      ]
+    },
+    {
+      "EnglishWord": "intelligent",
+      "Meanings": [
+        "اندیشمند",
+        "باهوش",
+        "زیرک"
+      ]
+    },
+    {
+      "EnglishWord": "intensifier",
+      "Meanings": [
+        "تشدیدکننده"
+      ]
+    },
+    {
+      "EnglishWord": "intensity",
+      "Meanings": [
+        "شدت",
+        "تندی",
+        "زیادی",
+        "سختی",
+        "قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "interalloying",
+      "Meanings": [
+        "درون آلیاژی",
+        "آلیاژشدن داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inter-arrival time",
+      "Meanings": [
+        "زمان بین دو ورود"
+      ]
+    },
+    {
+      "EnglishWord": "interchangeability",
+      "Meanings": [
+        "قابلیت جایگزینی",
+        "یدک پذیری",
+        "یدک خوری",
+        "معاوضه پذیری",
+        "تبادل پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "interdependence",
+      "Meanings": [
+        "ارتباط متقابل",
+        "وابستگی درونی"
+      ]
+    },
+    {
+      "EnglishWord": "interest",
+      "Meanings": [
+        "بهره",
+        "ربح",
+        "سودتضمین شده",
+        "تنزیل",
+        "سود",
+        "فایده"
+      ]
+    },
+    {
+      "EnglishWord": "interest expense",
+      "Meanings": [
+        "هزینه بهره"
+      ]
+    },
+    {
+      "EnglishWord": "interest factor",
+      "Meanings": [
+        "عامل بهره"
+      ]
+    },
+    {
+      "EnglishWord": "interest rate",
+      "Meanings": [
+        "نرخ بهره",
+        "نرخ ربح"
+      ]
+    },
+    {
+      "EnglishWord": "interference",
+      "Meanings": [
+        "تداخل"
+      ]
+    },
+    {
+      "EnglishWord": "interferometer",
+      "Meanings": [
+        "تداخل سنج"
+      ]
+    },
+    {
+      "EnglishWord": "interim statement",
+      "Meanings": [
+        "صورتحساب موقت",
+        "صورتحساب مالی موقت",
+        "صورتحساب بین دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interlocking",
+      "Meanings": [
+        "درون قفلی",
+        "قفل ازداخل",
+        "قفل درونی",
+        "درهم انداختن",
+        "درهم قفل",
+        "درهم گیرانداختن",
+        "کوپلاژ",
+        "مسدودکردن",
+        "همبندکردن"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate",
+      "Meanings": [
+        "میانی",
+        "واسطه",
+        "متوسط",
+        "بینابینی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate annealing",
+      "Meanings": [
+        "آنیل ضمن عملیات",
+        "آنیل کردن فلزات نوردی درضمن کارمکانیکی وقبل ازآنیل نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate good",
+      "Meanings": [
+        "کالای میانی",
+        "کالای واسطه",
+        "کالای واسطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate mill",
+      "Meanings": [
+        "دستگاه میان نورد"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate product",
+      "Meanings": [
+        "محصول واسطه",
+        "کالای واسطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent",
+      "Meanings": [
+        "غیرپیوسته",
+        "مقطع",
+        "منقطع",
+        "دوره ای",
+        "متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent production",
+      "Meanings": [
+        "تولید گهگاهی",
+        "تولید منفصل",
+        "تولیدناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "internal",
+      "Meanings": [
+        "داخلی",
+        "درونی",
+        "میانی"
+      ]
+    },
+    {
+      "EnglishWord": "internal auditing",
+      "Meanings": [
+        "حسابرسی داخلی",
+        "رسیدگی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal auditor",
+      "Meanings": [
+        "حسابرس داخلی",
+        "ممیز داخلی",
+        "ممیز"
+      ]
+    },
+    {
+      "EnglishWord": "internal balance",
+      "Meanings": [
+        "ترازداخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal chill",
+      "Meanings": [
+        "خنک کن داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal control",
+      "Meanings": [
+        "کنترل داخلی",
+        "سیستم کننترل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal economic rate of return",
+      "Meanings": [
+        "نرخ بازدهی داخلی اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "internal failure costs",
+      "Meanings": [
+        "هزینه‌های نقص داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal financial rate of return",
+      "Meanings": [
+        "نرخ بازده داخلی مالی"
+      ]
+    },
+    {
+      "EnglishWord": "internal financing",
+      "Meanings": [
+        "تامین مالی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal gear",
+      "Meanings": [
+        "چرخ دنده داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal grinding",
+      "Meanings": [
+        "سنگ زدن داخلی",
+        "داخل سابی",
+        "سنگ زنی داخل"
+      ]
+    },
+    {
+      "EnglishWord": "internal grinding point",
+      "Meanings": [
+        "سنگ انگشتی داخل زن"
+      ]
+    },
+    {
+      "EnglishWord": "internal rate of return",
+      "Meanings": [
+        "نرخ بازده داخلی",
+        "نرخ بازده داخلی سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "international standards organization",
+      "Meanings": [
+        "سازمان بین المللی استانداردها"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "درون یابی",
+        "واسطه یابی",
+        "بین یابی",
+        "معدل گیری",
+        "میان گیری",
+        "میانیابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpreter",
+      "Meanings": [
+        "مفسر",
+        "مترجم"
+      ]
+    },
+    {
+      "EnglishWord": "interrupted quenching",
+      "Meanings": [
+        "سردکردن دومرحله ای",
+        "کوینچ کردن منقطع"
+      ]
+    },
+    {
+      "EnglishWord": "intersection",
+      "Meanings": [
+        "اشتراک",
+        "تقاطع",
+        "فصل مشترک",
+        "مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "interstitial",
+      "Meanings": [
+        "بین نشین",
+        "درون حفره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interval",
+      "Meanings": [
+        "فاصله",
+        "ایست",
+        "فاصله زمانی",
+        "فرجه",
+        "مدت",
+        "وقفه"
+      ]
+    },
+    {
+      "EnglishWord": "interval estimate",
+      "Meanings": [
+        "برآوردفاصله ای",
+        "تخمین فاصله ای"
+      ]
+    },
+    {
+      "EnglishWord": "interval scale",
+      "Meanings": [
+        "مقیاس رتبه ای",
+        "مقیاس فاصله ای"
+      ]
+    },
+    {
+      "EnglishWord": "inventory",
+      "Meanings": [
+        "موجودی",
+        "موجودی کالا",
+        "انبارداری",
+        "کنترل موجودی انبار",
+        "صورت اموال",
+        "انبار",
+        "دفتردارایی",
+        "دفترموجودی",
+        "سیاهه",
+        "موجودی انبار"
+      ]
+    },
+    {
+      "EnglishWord": "inventory card",
+      "Meanings": [
+        "کارت انبار"
+      ]
+    },
+    {
+      "EnglishWord": "inventory control",
+      "Meanings": [
+        "کنترل موجودی",
+        "کنترل موجودی کالا",
+        "کنترل انبار",
+        "کنترل دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "inventory count",
+      "Meanings": [
+        "شمارش موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "inventory model",
+      "Meanings": [
+        "مدل انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "inventory reserve",
+      "Meanings": [
+        "اندوخته موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "inventory turnover",
+      "Meanings": [
+        "گردش موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "inverse",
+      "Meanings": [
+        "وارون",
+        "معکوس",
+        "وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverse correlation",
+      "Meanings": [
+        "همبستگی غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "invertible matrix",
+      "Meanings": [
+        "ماتریس وارون پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "investigation",
+      "Meanings": [
+        "بررسی",
+        "تحقیق",
+        "رسیدگی",
+        "بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "investment",
+      "Meanings": [
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "investment casting",
+      "Meanings": [
+        "ریخته گری بسته",
+        "ریخته گری بااستفاده از موم",
+        "ریخته گری دقیق",
+        "قالب گیری دقیق",
+        "قالب گیری ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "invoice",
+      "Meanings": [
+        "صورتحساب",
+        "سیاهه",
+        "فاکتور",
+        "صورت خرید"
+      ]
+    },
+    {
+      "EnglishWord": "irreversible embrittlement",
+      "Meanings": [
+        "تردی غیربرگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "irrevocable documentary credit",
+      "Meanings": [
+        "اعتباراسنادی برگشت ناپذیر",
+        "اعتباراسنادی غیرقابل فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "iso-cost lines",
+      "Meanings": [
+        "خطوط همخرجی",
+        "خطوط هم هزینه",
+        "منحنی‌های سطح"
+      ]
+    },
+    {
+      "EnglishWord": "isometry",
+      "Meanings": [
+        "ایزومتری",
+        "همان متری",
+        "همسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "isoresource curve",
+      "Meanings": [
+        "منحنی منبع همسان"
+      ]
+    },
+    {
+      "EnglishWord": "isothermal annealing",
+      "Meanings": [
+        "تابکاری تک دمایی",
+        "آنیل ایزوترم",
+        "آنیل دردمای ثابت",
+        "بازپخت همگرایی",
+        "نرم کردن درحرارت همانند"
+      ]
+    },
+    {
+      "EnglishWord": "isothermal transformation",
+      "Meanings": [
+        "استحاله ایزوترم",
+        "استحاله دردمای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic",
+      "Meanings": [
+        "متجانس",
+        "یکسانگرد",
+        "همسانگرد",
+        "همگن"
+      ]
+    },
+    {
+      "EnglishWord": "issued stock",
+      "Meanings": [
+        "سهام منتشره"
+      ]
+    },
+    {
+      "EnglishWord": "issuing",
+      "Meanings": [
+        "صدورکالاازانبار"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "قلم",
+        "جنس",
+        "داده اطلاعاتی",
+        "فقره",
+        "مورد"
+      ]
+    },
+    {
+      "EnglishWord": "item-by-item sequential plan",
+      "Meanings": [
+        "طرح نمونه گیری پی درپی قلم به قلم"
+      ]
+    },
+    {
+      "EnglishWord": "itemized price list",
+      "Meanings": [
+        "لیست جزء به جزء قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "iteration",
+      "Meanings": [
+        "تکرار",
+        "دور",
+        "ازسرگیری",
+        "پیاپی",
+        "تسلسل"
+      ]
+    },
+    {
+      "EnglishWord": "iterative step",
+      "Meanings": [
+        "قدم تکراری"
+      ]
+    }
+  ]
+}

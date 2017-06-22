@@ -1,0 +1,96 @@
+﻿{
+  "Group": "W",
+  "Entries": 15,
+  "Words": [
+    {
+      "EnglishWord": "w",
+      "Meanings": [
+        "بیست و سومین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "walk",
+      "Meanings": [
+        "گشت"
+      ]
+    },
+    {
+      "EnglishWord": "weak-heap sort",
+      "Meanings": [
+        "مرتب ساز هرمی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weight rule",
+      "Meanings": [
+        "قانون وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weighted directed graph",
+      "Meanings": [
+        "گراف جهت دار وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted edge",
+      "Meanings": [
+        "یال وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted external path length",
+      "Meanings": [
+        "طول مسیر خارجی وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted graph",
+      "Meanings": [
+        "گراف وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "white space",
+      "Meanings": [
+        "فضای سفید"
+      ]
+    },
+    {
+      "EnglishWord": "winner tree",
+      "Meanings": [
+        "درخت برنده"
+      ]
+    },
+    {
+      "EnglishWord": "worst case",
+      "Meanings": [
+        "بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "worst case cost",
+      "Meanings": [
+        "هزینه بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "worst-case data",
+      "Meanings": [
+        "داده‌ها در بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "worst-case search time",
+      "Meanings": [
+        "زمان جستجو در بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "write out",
+      "Meanings": [
+        "ذخیره کردن"
+      ]
+    }
+  ]
+}

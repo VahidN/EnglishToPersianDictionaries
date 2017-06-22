@@ -1,0 +1,460 @@
+﻿{
+  "Group": "C",
+  "Entries": 71,
+  "Words": [
+    {
+      "EnglishWord": "c",
+      "Meanings": [
+        "نام زبان برنامه نویسی سطح بالا"
+      ]
+    },
+    {
+      "EnglishWord": "c character set",
+      "Meanings": [
+        "مجموعه کاراکتر‌ها در c"
+      ]
+    },
+    {
+      "EnglishWord": "c program",
+      "Meanings": [
+        "برنامه c"
+      ]
+    },
+    {
+      "EnglishWord": "c program organization",
+      "Meanings": [
+        "ساختمان برنامه C"
+      ]
+    },
+    {
+      "EnglishWord": "cable connector",
+      "Meanings": [
+        "اتصال دهنده کابل"
+      ]
+    },
+    {
+      "EnglishWord": "cache",
+      "Meanings": [
+        "نوعی حافظه میانجی که سرعت دستیابی به اطلاعات آن بالا است",
+        "مخفیگاه",
+        "ذخیره گاه"
+      ]
+    },
+    {
+      "EnglishWord": "calculating and storing",
+      "Meanings": [
+        "محاسبه و ذخیره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "calculations",
+      "Meanings": [
+        "محاسبات"
+      ]
+    },
+    {
+      "EnglishWord": "calculator",
+      "Meanings": [
+        "ماشین حساب"
+      ]
+    },
+    {
+      "EnglishWord": "calendar program",
+      "Meanings": [
+        "برنامه تقویم"
+      ]
+    },
+    {
+      "EnglishWord": "call",
+      "Meanings": [
+        "فراخوان",
+        "فراخوانی"
+      ]
+    },
+    {
+      "EnglishWord": "calling a function",
+      "Meanings": [
+        "فراخوانی تابع"
+      ]
+    },
+    {
+      "EnglishWord": "calling sequence",
+      "Meanings": [
+        "ترتیب فراخوانی",
+        "توالی فراخوانی"
+      ]
+    },
+    {
+      "EnglishWord": "camera",
+      "Meanings": [
+        "دوربین"
+      ]
+    },
+    {
+      "EnglishWord": "cancel",
+      "Meanings": [
+        "لغو"
+      ]
+    },
+    {
+      "EnglishWord": "candidate key",
+      "Meanings": [
+        "کلید کاندید"
+      ]
+    },
+    {
+      "EnglishWord": "canned software",
+      "Meanings": [
+        "روال آماده"
+      ]
+    },
+    {
+      "EnglishWord": "capital letters",
+      "Meanings": [
+        "حروف بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "cartesian product",
+      "Meanings": [
+        "ضرب کارتزین"
+      ]
+    },
+    {
+      "EnglishWord": "cascade",
+      "Meanings": [
+        "روی هم",
+        "پشت سر هم",
+        "آبشاری"
+      ]
+    },
+    {
+      "EnglishWord": "cathode ray tube",
+      "Meanings": [
+        "لوله اشعه کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cd rom  compact disk read-only memory",
+      "Meanings": [
+        "دیسک نوری که داده‌های کد شده روی آن با لیزر بازیابی می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "central processing unit",
+      "Meanings": [
+        "واحد پردازش مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central program for microcomputers",
+      "Meanings": [
+        "سیستم عامل میکرو کامپیوتر‌های اولیه هشت بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "cga  color graphics adapter",
+      "Meanings": [
+        "نوعی کارت آداپتور ویدیویی آداپتور گرافیکی رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "character printer",
+      "Meanings": [
+        "چاپگر کاراکتری"
+      ]
+    },
+    {
+      "EnglishWord": "chart",
+      "Meanings": [
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "chess",
+      "Meanings": [
+        "شطرنج"
+      ]
+    },
+    {
+      "EnglishWord": "chip",
+      "Meanings": [
+        "تراشه"
+      ]
+    },
+    {
+      "EnglishWord": "circuit",
+      "Meanings": [
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "circular",
+      "Meanings": [
+        "دایره ای",
+        "حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "cleaner",
+      "Meanings": [
+        "اگر شما در اینترنت گشت می‌زنید و یا اقدام به ارسال و دریافت ایمیل می‌کنید بهترین نرم افزار برای جلوگیری از آلوده شدن شما Cleaner می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "click",
+      "Meanings": [
+        "تقه",
+        "کلیک کردن",
+        "مطلب مرتبط",
+        "یک بار فشردن و رها کردن دکمه سمت چپ موس کلیک کردن نام دارد"
+      ]
+    },
+    {
+      "EnglishWord": "client",
+      "Meanings": [
+        "مشتری",
+        "کاربر",
+        "سرویس گیرنده",
+        "متقاضی"
+      ]
+    },
+    {
+      "EnglishWord": "client/server archtitecture",
+      "Meanings": [
+        "معماری سرویس دهنده/ سرویس گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "client/server model",
+      "Meanings": [
+        "ترکیبی از سرویس دهندگان و سرویس گیرندگان"
+      ]
+    },
+    {
+      "EnglishWord": "clipboard",
+      "Meanings": [
+        "حافظه موقت"
+      ]
+    },
+    {
+      "EnglishWord": "clock",
+      "Meanings": [
+        "ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "clock cycle",
+      "Meanings": [
+        "سیکل ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "close",
+      "Meanings": [
+        "بستن"
+      ]
+    },
+    {
+      "EnglishWord": "cmos  complementray metal-oxide semiconductor",
+      "Meanings": [
+        "تکنیکی برای تولید مدارات مجتمع کم مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "cobol  common bussiness oriented language",
+      "Meanings": [
+        "کوبول",
+        "زبان برنامه سازی برای کارهای تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "codasyle  conference on data systems languages",
+      "Meanings": [
+        "سازمانی جهت توسعه سیستمها و زبانهای مدیرت داده ای مثل کوبول"
+      ]
+    },
+    {
+      "EnglishWord": "codasyle set",
+      "Meanings": [
+        "مجموعه کد اسیل"
+      ]
+    },
+    {
+      "EnglishWord": "code",
+      "Meanings": [
+        "برنامه",
+        "کد"
+      ]
+    },
+    {
+      "EnglishWord": "code fragment",
+      "Meanings": [
+        "قطعه برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "color",
+      "Meanings": [
+        "رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "color table",
+      "Meanings": [
+        "جدول رنگها"
+      ]
+    },
+    {
+      "EnglishWord": "column",
+      "Meanings": [
+        "ستون"
+      ]
+    },
+    {
+      "EnglishWord": "com port",
+      "Meanings": [
+        "درگاه Com"
+      ]
+    },
+    {
+      "EnglishWord": "combo box",
+      "Meanings": [
+        "کادر کمبو"
+      ]
+    },
+    {
+      "EnglishWord": "command button",
+      "Meanings": [
+        "کلید فرمان",
+        "دکمه فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "comment",
+      "Meanings": [
+        "توضیح"
+      ]
+    },
+    {
+      "EnglishWord": "communication",
+      "Meanings": [
+        "ارتباطات"
+      ]
+    },
+    {
+      "EnglishWord": "communication hardware",
+      "Meanings": [
+        "ارتباط سخت افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "compact",
+      "Meanings": [
+        "فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compact disk",
+      "Meanings": [
+        "لوح فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compact disk player",
+      "Meanings": [
+        "خواننده دیسک فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compact model",
+      "Meanings": [
+        "مدل فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compaction",
+      "Meanings": [
+        "فشرده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "complete",
+      "Meanings": [
+        "تمام",
+        "کامل",
+        "انجام شدن"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "جز",
+        "مولفه"
+      ]
+    },
+    {
+      "EnglishWord": "computer telephone",
+      "Meanings": [
+        "مبدل کامپیوتر",
+        "مودم و تلفن به یک واحد"
+      ]
+    },
+    {
+      "EnglishWord": "computerrization",
+      "Meanings": [
+        "کامپیوتریزه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "connected",
+      "Meanings": [
+        "بسته متصل"
+      ]
+    },
+    {
+      "EnglishWord": "continue statment",
+      "Meanings": [
+        "دستور continue"
+      ]
+    },
+    {
+      "EnglishWord": "control keys",
+      "Meanings": [
+        "کلید‌های اصلی",
+        "مطلب مرتبط",
+        "مجموعه 61 کلیدی که در سمت چپ صفحه قرار دارند جهت تایپ",
+        "اعمال ریاضی و کارهای عملیاتی بکار می‌روند که عبارتند از",
+        "کلید Backspace که جهت حذف یک کاراکتر حرف از سمت چپ نشانگر انگلیسی به کار می‌رود",
+        "کلید Enter که بعد از تایپ اعمالی داده‌ها یا اطلاعاتی جهت اعمال و آمادگی برای دادن اعمال بعدی و رفتن به مرحله بعدی می‌باشد و زدن مجدد آن جهت دریافت حاصل کار و دیدن نتیجه پردازش اعمال به نوعی معادل علامت مساوی = است",
+        "کلید shift دو عدد بوده و در سمت راست و چپ صفحه جهت راحتی انجام کار با دو دست میباشد و کارشان یکسان است جهت تغییر تبدیل کارهای صفحه کلید اصلی می‌باشد بدین نحو که در صورت همراه بودن کلید shift بهمراه کلیدهای دیگر آن کلیدها کار دیگری را انجام میدهند. \u000bمثلا به همراه حروف الفبا باعث تغییر حروف کوچک به حروف بزرگ میشود. و با کلیدهایی که نشانگر دو عمل متفاوت میباشند باعث فعال شدن عمل دیگر که در قسمت بالای کلید مشخص شده است میشود. \u000bمثلا\"\" کلیدهای ردیف اول قسمت بالا بدون shift کاراکترهای ارقامی =",
+        "9 8 7 6 5 4 3 2 1 ` را تایپ می‌نمایند. \u000bولی به همراه shift کاراکترهای + _ * &amp; ^ % $ # @! ~ را به ترتیب وارد مینماید",
+        "بقیه کلیدها بدون shift به ترتیب [ p o I u y t r e w q '; l k j h g f d s a \\ /"
+      ]
+    },
+    {
+      "EnglishWord": "control unit",
+      "Meanings": [
+        "واحد کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "cpu time",
+      "Meanings": [
+        "واحد زمانی ریز پردازنده"
+      ]
+    },
+    {
+      "EnglishWord": "cursor",
+      "Meanings": [
+        "مکان نما"
+      ]
+    },
+    {
+      "EnglishWord": "cylinder",
+      "Meanings": [
+        "سیلندر"
+      ]
+    }
+  ]
+}

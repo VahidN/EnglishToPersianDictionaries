@@ -1,0 +1,718 @@
+﻿{
+  "Group": "D",
+  "Entries": 98,
+  "Words": [
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده",
+        "داده ها",
+        "اطلاعات",
+        "سوابق"
+      ]
+    },
+    {
+      "EnglishWord": "data at rest",
+      "Meanings": [
+        "داده‌های در حال سکون"
+      ]
+    },
+    {
+      "EnglishWord": "data base",
+      "Meanings": [
+        "پایگاه داده ای"
+      ]
+    },
+    {
+      "EnglishWord": "data date  dd",
+      "Meanings": [
+        "تاریخ وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "data date dd",
+      "Meanings": [
+        "تاریخ وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "data dictionary  dd",
+      "Meanings": [
+        "فرهنگ داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data entry",
+      "Meanings": [
+        "ثبت داده ها",
+        "ورود داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data flow diagram  dfd",
+      "Meanings": [
+        "نمودارجریان داده ها",
+        "نگرشی به سیستم به صورت جریان داده هایی که وارد آن شده و پردازش هایی که بر روی آن انجام می‌شود تا برون داده هایی تولید شود"
+      ]
+    },
+    {
+      "EnglishWord": "data mining",
+      "Meanings": [
+        "داده کاوی",
+        "تحلیل مقادیر زیادی از داده‌ها به منظور استخراج انواع جدید و مفید اطلاعات از آنها مانند روابط ضمنی بین تکه‌های مختلف اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data processing  dp",
+      "Meanings": [
+        "پردازش داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "database management system  dbms",
+      "Meanings": [
+        "سیستم مدیریت پایگاه داده ای",
+        "سیستم نرم افزاری که به کاربر این اجازه را می‌دهد که اطلاعات را ذخیره سازی",
+        "بازیافت و اصلاح کند"
+      ]
+    },
+    {
+      "EnglishWord": "dead line",
+      "Meanings": [
+        "ضرب العجل",
+        "فرجه",
+        "اولتیماتوم"
+      ]
+    },
+    {
+      "EnglishWord": "debt",
+      "Meanings": [
+        "قرض",
+        "بدهی",
+        "وام"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "تصمیم \u000bتصمیم گرفتن",
+        "عزم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decision making",
+      "Meanings": [
+        "تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision support system  dss",
+      "Meanings": [
+        "سیستم پشتیبانی از تصمیم",
+        "این سیستم ادامه یا مکمل سیستم اطلاعاتی مدیریت است و از مدل‌های تصمیم گیری و پایگاه داده ای خاص برای تهیه اطلاعات در جهت پشتیبانی از تصمیمات نیمه ساخت یافته یا ساخت نیافته استفاده می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree",
+      "Meanings": [
+        "درخت تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree analysis",
+      "Meanings": [
+        "تجزیه و تحلیل درخت تصمیم",
+        "The decision tree is a diagram that describes a decision under consideration and the implications of choosing one or another of the available alternatives. It incorporates probabilities or risks and the costs or rewards of each logical path of events and future decisions"
+      ]
+    },
+    {
+      "EnglishWord": "decline",
+      "Meanings": [
+        "نزول",
+        "کاهش",
+        "کاسته شدن"
+      ]
+    },
+    {
+      "EnglishWord": "dedicated storage",
+      "Meanings": [
+        "انبارش تخصیص یافته"
+      ]
+    },
+    {
+      "EnglishWord": "defect",
+      "Meanings": [
+        "عیب",
+        "نقص"
+      ]
+    },
+    {
+      "EnglishWord": "defect concentration diagram",
+      "Meanings": [
+        "نمودار تمرکز نقص ها",
+        "متشکل است از تصویری از یک محصول که آن را در نماهای مختلف نشان می‌دهد و محل و یا محل‌های ایجاد عیب را بر روی محصول نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "defect per million opportunity  dpmo",
+      "Meanings": [
+        "تعداد فرصت به وقوع پیوستن عیوب در یک میلیون محصول"
+      ]
+    },
+    {
+      "EnglishWord": "defect per unit  dpu",
+      "Meanings": [
+        "تعداد عیب در یک محصول تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "defective",
+      "Meanings": [
+        "ناقص",
+        "معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "define measure analyze design and verify  dmadv",
+      "Meanings": [
+        "متدولوژی شش سیگما در طراحی محصول و فرآیند شامل چزخه DMADV که عبارتست از: شناسایی فرایند/محصول",
+        "اندازه گیری آن",
+        "تجزیه و تحلیل",
+        "طراحی و بررسی"
+      ]
+    },
+    {
+      "EnglishWord": "define measure analyze improve control  dmaic",
+      "Meanings": [
+        "بخشی از متدولوژی بهبود شش سیگما شامل چرخه DMAIC",
+        "تعیین مشکل",
+        "اندازه گیری آن",
+        "تجزیه و تحلیل",
+        "بهبود و کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "deflashing",
+      "Meanings": [
+        "پرداخت سطح قبل از نقاشی و سنباده کاری و پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "degeneracy",
+      "Meanings": [
+        "درجازنی",
+        "تباهیدگی",
+        "انحطاط",
+        "دژنرگی"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate",
+      "Meanings": [
+        "تبهگن",
+        "درجازن",
+        "منحط",
+        "دژنره"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate solution",
+      "Meanings": [
+        "جواب تبهگن",
+        "جواب منحط"
+      ]
+    },
+    {
+      "EnglishWord": "degree of freedom  dof",
+      "Meanings": [
+        "درجه آزادی",
+        "برای هر جسم صلب در فضا می‌توان سه حرکت دورانی و سه حرکت انتقالی در نظر گرفت. به هر یک از این شش حرکت یک درجه آزادی گفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "delay",
+      "Meanings": [
+        "تاخیر",
+        "به تاخیر افتادن",
+        "به تاخیر انداختن",
+        "دیر کرد"
+      ]
+    },
+    {
+      "EnglishWord": "delay compensability index  dci",
+      "Meanings": [
+        "شاخص قابلیت تاخیر پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "deliverable",
+      "Meanings": [
+        "قلم قابل تحویل",
+        "هر خروجی",
+        "نتیجه یا قلم قابل اندازه گیری",
+        "یا قبل لمس یا قابل شناسایی است که بایستی به منظور اتمام یک پروژه یا بخشی از یک پروژه تولید گردد. اغلب به عنوان یک قلم قابل تحویل خارجی که بایستی از طرف مشتری تایید گردد",
+        "شناخته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "delivery",
+      "Meanings": [
+        "تحویل",
+        "ارایه کردن",
+        "دادن",
+        "تقدیم کردن",
+        "عرضه کردن",
+        "تحویل دادن کالا"
+      ]
+    },
+    {
+      "EnglishWord": "delphi technique",
+      "Meanings": [
+        "روش دلفی",
+        "یک روش تصمیم گیری که در آن با دادن پرسشنامه به کارشناسان",
+        "جمع آوری اطلاعات و بررسی اولیه",
+        "بازگرداندن نتایج به کارشناسان و تکرار این رویه تا رسیدن به جواب",
+        "تصمیم گیری می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "demand",
+      "Meanings": [
+        "تقاضا",
+        "مطالبه",
+        "خواسته"
+      ]
+    },
+    {
+      "EnglishWord": "demand analysis",
+      "Meanings": [
+        "تجزیه و تحلیل تقاضا",
+        "ارزیابی تقاضا برای محصولات و خدمات در میان مشتری‌های موجود و مشتری‌های بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "deming cycle",
+      "Meanings": [
+        "چرخه دمینگ"
+      ]
+    },
+    {
+      "EnglishWord": "demurrage",
+      "Meanings": [
+        "هزینه بیکاری",
+        "کرایه معطلی"
+      ]
+    },
+    {
+      "EnglishWord": "department",
+      "Meanings": [
+        "بخش",
+        "قسمت",
+        "دپارتمان",
+        "دانشکده"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation",
+      "Meanings": [
+        "استهلاک",
+        "کاهش بها"
+      ]
+    },
+    {
+      "EnglishWord": "design failure mode and effect analysis  dfmea",
+      "Meanings": [
+        "آنالیز حالات بالقوه خرابی در طراحی",
+        "فرآیند طراحی را با کاهش میزان ریسک خرابی",
+        "استحکام بخشیده و با تصحیح نقص‌ها و اشکالات طراحی محصول یا سیستم میزان خرابی را در دوره عمر مفید کاهش داده و شکست‌های محتمل در زمان فرسودگی را به تعویق می‌اندازد"
+      ]
+    },
+    {
+      "EnglishWord": "design for assembly  dfa",
+      "Meanings": [
+        "طراحی برای مونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "design for manufacture  dfm",
+      "Meanings": [
+        "طراحی برای ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "design for manufacturing and assembly  dfma",
+      "Meanings": [
+        "طراحی برای ساخت و مونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "design for six sigma  dfss",
+      "Meanings": [
+        "طراحی برای شش سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "design of experiments  doe",
+      "Meanings": [
+        "طراحی آزمایش ها",
+        "یک مطالعة برنامه ریزی شده شامل تجزیه و تحلیل‌های آماری از یک مجموعه آزمایشها که در آن تغییرات عمدی در فاکتورهای فرآیند و اثرات مشاهده شده از آن برای تعیین رابطه بین متغیرهای فرآیند و در نهایت بهبود فرآیند",
+        "ایجاد می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "despite",
+      "Meanings": [
+        "با اینکه",
+        "با وجود اینکه",
+        "اگر چه"
+      ]
+    },
+    {
+      "EnglishWord": "destructive test  dt",
+      "Meanings": [
+        "تست مخرب",
+        "تست هایی که اثر تخریبی بر روی قطعه مورد تست دارند"
+      ]
+    },
+    {
+      "EnglishWord": "detailed schedule  ds",
+      "Meanings": [
+        "زمانبندی تفصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "detectability",
+      "Meanings": [
+        "قابلیت شناسایی",
+        "در FMEA عبارتست از قابلیت تشخیص یک عیب یا خرابی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic",
+      "Meanings": [
+        "قطعی",
+        "غیر احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "development",
+      "Meanings": [
+        "توسعه",
+        "گسترش",
+        "پیشرفت",
+        "ترقی",
+        "ایجاد"
+      ]
+    },
+    {
+      "EnglishWord": "deviation",
+      "Meanings": [
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "diagnostic tree",
+      "Meanings": [
+        "درخت تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "die",
+      "Meanings": [
+        "قالب",
+        "قالب گرفتن",
+        "طاس",
+        "طاس تخته نرد"
+      ]
+    },
+    {
+      "EnglishWord": "die life",
+      "Meanings": [
+        "عمر قالب",
+        "پتانسیل تولیدی قالب",
+        "تعداد قطعاتی که قالب می‌تواند از زمان اولین بکارگیری تا زمانیکه از رده خارج می‌شود",
+        "تولید کند"
+      ]
+    },
+    {
+      "EnglishWord": "die-block",
+      "Meanings": [
+        "ماتریس",
+        "درجه پایینی قالب‌های برش و خم که در زیر سنبه قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "اندازه",
+        "بعد"
+      ]
+    },
+    {
+      "EnglishWord": "direct numerical control  dnc",
+      "Meanings": [
+        "کنترل عددی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "director manager",
+      "Meanings": [
+        "مدیر عامل"
+      ]
+    },
+    {
+      "EnglishWord": "dis aggregate production plan  dpp",
+      "Meanings": [
+        "برنامه ریزی تولید کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "disadvantage",
+      "Meanings": [
+        "عیب",
+        "زیان",
+        "عدم برتری و رجحان"
+      ]
+    },
+    {
+      "EnglishWord": "disassemble",
+      "Meanings": [
+        "سوا کردن",
+        "پیاده کردن",
+        "دمونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "disbenefit",
+      "Meanings": [
+        "ضرر",
+        "زیان"
+      ]
+    },
+    {
+      "EnglishWord": "discipline",
+      "Meanings": [
+        "نظم",
+        "انضباط",
+        "ترتیب",
+        "هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "discount rate",
+      "Meanings": [
+        "نرخ تنزل",
+        "نرخ بانکی",
+        "نرخ بهره ای که بانک مرکزی در مورد وامهای اعطایی توسط بانک‌های دیگر",
+        "وضع می‌کند. نرخ حداقل وام دهی minimum lending rate نیز نامیده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "discrete",
+      "Meanings": [
+        "جدا",
+        "مجزا",
+        "گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrimination",
+      "Meanings": [
+        "تفکیک پذیری",
+        "تمایز",
+        "مترادف واژه کوچکترین واحد قابل شناسایی",
+        "عبارتست از میزان وضوح در اندازه گیری",
+        "حد مقیاس و یا کوچکترین واحد قابل تشخیص ابزار اندازه گیری و یا استاندارد مورد استفاده. تفکیک پذیری یک خصیصه ذاتی در طراحی ابزار اندازه گیری است و به عنوان واحد اندازه گیری یا دسته بندی ابزار",
+        "معرفی می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "disjunction",
+      "Meanings": [
+        "یا\" ی منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "disorganization",
+      "Meanings": [
+        "بدون ساختار",
+        "بی نظمی",
+        "به هم ریختگی",
+        "بی سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "disorganization organization",
+      "Meanings": [
+        "سازمان بدون ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "distributed budget  db",
+      "Meanings": [
+        "بودجه توزیع شده"
+      ]
+    },
+    {
+      "EnglishWord": "distributed numerical control  dnc",
+      "Meanings": [
+        "کنترل عددی توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "توزیع",
+        "توزیع کردن",
+        "پخش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "distribution data matrix  ddm",
+      "Meanings": [
+        "ماتریس توزیع اطلاعات",
+        "ماتریسی که در آن نحوه توزیع اطلاعات در سازمان نشان داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "distribution requirement planning  drp",
+      "Meanings": [
+        "‌برنامه ریزی احتیاجات توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution resource planning  drp ii",
+      "Meanings": [
+        "برنامه ریزی منابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "dock",
+      "Meanings": [
+        "بار انداز",
+        "سکو"
+      ]
+    },
+    {
+      "EnglishWord": "document",
+      "Meanings": [
+        "سند",
+        "مدرک",
+        "ملاک"
+      ]
+    },
+    {
+      "EnglishWord": "documented procedure",
+      "Meanings": [
+        "ایزو: روش اجرایی مدون"
+      ]
+    },
+    {
+      "EnglishWord": "double end box wrench",
+      "Meanings": [
+        "آچار رینگی دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "double open end wrench",
+      "Meanings": [
+        "آچار تخت دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "double sampling",
+      "Meanings": [
+        "نمونه برداری مضاعف",
+        "دوبار نمونه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "double-deep storage",
+      "Meanings": [
+        "انبارش دو عمقی"
+      ]
+    },
+    {
+      "EnglishWord": "downtime",
+      "Meanings": [
+        "زمان از کار افتادگی",
+        "زمان توقف",
+        "مدت زمانی که کارخانه کار نمی‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "dual",
+      "Meanings": [
+        "همزاد",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "duality",
+      "Meanings": [
+        "دو گانگی",
+        "همزادی"
+      ]
+    },
+    {
+      "EnglishWord": "due",
+      "Meanings": [
+        "مقتضی",
+        "مقرر",
+        "موعد پرداخت",
+        "ناشی از"
+      ]
+    },
+    {
+      "EnglishWord": "due date",
+      "Meanings": [
+        "مدت زمان اجرای پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "dummy",
+      "Meanings": [
+        "ساختگی",
+        "مجازی",
+        "موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy activity",
+      "Meanings": [
+        "فعالیت مجازی",
+        "فعالیتی که هیچگونه زمان و هزینه ای در بر ندارد و بنابر ضرورت برای نشان دادن رابطه فعالیت‌ها از آن استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "durability",
+      "Meanings": [
+        "دوام",
+        "بقا",
+        "ماندگاری",
+        "قابلیت دوام",
+        "طول عمر مفید محصول حساب می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic",
+      "Meanings": [
+        "پویا",
+        "متحرک",
+        "دینامیک"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "برنامه ریزی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic vehicle test  dvt",
+      "Meanings": [
+        "تست دینامیکی وسیله نقلیه"
+      ]
+    }
+  ]
+}

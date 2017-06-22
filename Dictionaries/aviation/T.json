@@ -1,0 +1,426 @@
+﻿{
+  "Group": "T",
+  "Entries": 69,
+  "Words": [
+    {
+      "EnglishWord": "tacan",
+      "Meanings": [
+        "Tactical Air Navigation System"
+      ]
+    },
+    {
+      "EnglishWord": "taf",
+      "Meanings": [
+        "Terminal Area Forecast"
+      ]
+    },
+    {
+      "EnglishWord": "tail wind component",
+      "Meanings": [
+        "مولفه باد پشت"
+      ]
+    },
+    {
+      "EnglishWord": "tandem",
+      "Meanings": [
+        "پشت سر هم"
+      ]
+    },
+    {
+      "EnglishWord": "tandem-wheel gear",
+      "Meanings": [
+        "مجموعه ای از دو چرخ مشابه یا بیشتر پشت سر هم و واقع بر یک محور"
+      ]
+    },
+    {
+      "EnglishWord": "tangential fading",
+      "Meanings": [
+        "تضعیف مماسی"
+      ]
+    },
+    {
+      "EnglishWord": "target",
+      "Meanings": [
+        "هدف"
+      ]
+    },
+    {
+      "EnglishWord": "tas",
+      "Meanings": [
+        "True Airspeed"
+      ]
+    },
+    {
+      "EnglishWord": "taxi channel",
+      "Meanings": [
+        "راه خزش آبی"
+      ]
+    },
+    {
+      "EnglishWord": "taxi- holding position",
+      "Meanings": [
+        "پمحل ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "tbo",
+      "Meanings": [
+        "Time Between Overhauls"
+      ]
+    },
+    {
+      "EnglishWord": "tca",
+      "Meanings": [
+        "Terminal Control Area USA"
+      ]
+    },
+    {
+      "EnglishWord": "tcas",
+      "Meanings": [
+        "Traffic Alert And Collision Avoidance System"
+      ]
+    },
+    {
+      "EnglishWord": "technical acknodgement message",
+      "Meanings": [
+        "پیام تایید فنی"
+      ]
+    },
+    {
+      "EnglishWord": "technical correction message",
+      "Meanings": [
+        "پیام تصحیح فنی"
+      ]
+    },
+    {
+      "EnglishWord": "technical error message",
+      "Meanings": [
+        "پیام خطای فنی"
+      ]
+    },
+    {
+      "EnglishWord": "technical trend and development",
+      "Meanings": [
+        "روند فنی و تحولات"
+      ]
+    },
+    {
+      "EnglishWord": "telecommuncation",
+      "Meanings": [
+        "مخابرات"
+      ]
+    },
+    {
+      "EnglishWord": "tempo",
+      "Meanings": [
+        "Temporarily"
+      ]
+    },
+    {
+      "EnglishWord": "terminal",
+      "Meanings": [
+        "نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "terminal control area",
+      "Meanings": [
+        "فضای کنترل پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "terms of refernce",
+      "Meanings": [
+        "حدود اختیارات"
+      ]
+    },
+    {
+      "EnglishWord": "terrain",
+      "Meanings": [
+        "عوارض زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "tet",
+      "Meanings": [
+        "Turbine Entry Temperature"
+      ]
+    },
+    {
+      "EnglishWord": "textual",
+      "Meanings": [
+        "متنی"
+      ]
+    },
+    {
+      "EnglishWord": "texture",
+      "Meanings": [
+        "ترکیب",
+        "بافت"
+      ]
+    },
+    {
+      "EnglishWord": "tgt",
+      "Meanings": [
+        "Turbine Gas Temperarture"
+      ]
+    },
+    {
+      "EnglishWord": "thaw",
+      "Meanings": [
+        "ذوب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "thr",
+      "Meanings": [
+        "Threshold"
+      ]
+    },
+    {
+      "EnglishWord": "thrust reverse",
+      "Meanings": [
+        "رانش معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "tie vote",
+      "Meanings": [
+        "نتیجه رای گیری مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "to",
+      "Meanings": [
+        "Take"
+      ]
+    },
+    {
+      "EnglishWord": "toda",
+      "Meanings": [
+        "Take",
+        "Off Distance Available"
+      ]
+    },
+    {
+      "EnglishWord": "to-date",
+      "Meanings": [
+        "تا این تاریخ"
+      ]
+    },
+    {
+      "EnglishWord": "toe",
+      "Meanings": [
+        "پنجه"
+      ]
+    },
+    {
+      "EnglishWord": "toe-in",
+      "Meanings": [
+        "خمیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance",
+      "Meanings": [
+        "انحراف مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "tornado",
+      "Meanings": [
+        "گرد باد"
+      ]
+    },
+    {
+      "EnglishWord": "toss",
+      "Meanings": [
+        "پرت کردن",
+        "انداختن"
+      ]
+    },
+    {
+      "EnglishWord": "touchdown zone",
+      "Meanings": [
+        "ناحیه تماس چرخ با باند"
+      ]
+    },
+    {
+      "EnglishWord": "trace",
+      "Meanings": [
+        "دنباله روی صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "track",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "tracking",
+      "Meanings": [
+        "تعیین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "trailing edge",
+      "Meanings": [
+        "لبه عقبی ایرفویل"
+      ]
+    },
+    {
+      "EnglishWord": "transfer of control",
+      "Meanings": [
+        "انتقال کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "transfer of control message",
+      "Meanings": [
+        "پیام انتقال کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "transfer of control point",
+      "Meanings": [
+        "نقطه انتقال کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "transition altitude",
+      "Meanings": [
+        "ارتفاع انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transition layer",
+      "Meanings": [
+        "لایه انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transition level",
+      "Meanings": [
+        "سطح انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transmit",
+      "Meanings": [
+        "ارسال",
+        "ارسال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "transmitted",
+      "Meanings": [
+        "مخابره شده"
+      ]
+    },
+    {
+      "EnglishWord": "transmitting unit / controller",
+      "Meanings": [
+        "واحد یا کنترل انتقال دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "transonic",
+      "Meanings": [
+        "حدود سرعت صوت"
+      ]
+    },
+    {
+      "EnglishWord": "transonic transport",
+      "Meanings": [
+        "ترابری در حدود سرعت 15/1 ماخ بدون ایجاد ضربه صوتی در سطح زمین"
+      ]
+    },
+    {
+      "EnglishWord": "transparent",
+      "Meanings": [
+        "شفاف"
+      ]
+    },
+    {
+      "EnglishWord": "transpire",
+      "Meanings": [
+        "حادث شدن",
+        "اتفاق افتادن"
+      ]
+    },
+    {
+      "EnglishWord": "transverse",
+      "Meanings": [
+        "عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "tropic",
+      "Meanings": [
+        "al"
+      ]
+    },
+    {
+      "EnglishWord": "true altitude",
+      "Meanings": [
+        "ارتفاع حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "truncate",
+      "Meanings": [
+        "ناقص کردن"
+      ]
+    },
+    {
+      "EnglishWord": "tso",
+      "Meanings": [
+        "Technical Standard Order"
+      ]
+    },
+    {
+      "EnglishWord": "ttaf/e",
+      "Meanings": [
+        "Total Time Airframe/Engine"
+      ]
+    },
+    {
+      "EnglishWord": "ttsn",
+      "Meanings": [
+        "Total Time Since New"
+      ]
+    },
+    {
+      "EnglishWord": "tvor",
+      "Meanings": [
+        "Terminal VOR"
+      ]
+    },
+    {
+      "EnglishWord": "twr",
+      "Meanings": [
+        "Tower Aerodrome Control Tower"
+      ]
+    },
+    {
+      "EnglishWord": "twy",
+      "Meanings": [
+        "Taxiway"
+      ]
+    },
+    {
+      "EnglishWord": "tx",
+      "Meanings": [
+        "Transmitter"
+      ]
+    },
+    {
+      "EnglishWord": "typify",
+      "Meanings": [
+        "مشخص کردن",
+        "نشان دادن"
+      ]
+    }
+  ]
+}

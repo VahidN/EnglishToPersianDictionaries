@@ -1,0 +1,673 @@
+﻿{
+  "Group": "P",
+  "Entries": 107,
+  "Words": [
+    {
+      "EnglishWord": "p1",
+      "Meanings": [
+        "Pilot"
+      ]
+    },
+    {
+      "EnglishWord": "pad",
+      "Meanings": [
+        "محل عملیات هلیکوپتر"
+      ]
+    },
+    {
+      "EnglishWord": "page-faced sequence",
+      "Meanings": [
+        "ترتیب تفکیک پیام"
+      ]
+    },
+    {
+      "EnglishWord": "paint",
+      "Meanings": [
+        "ایجاد تصویر روی صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "papi",
+      "Meanings": [
+        "Precision Approach Path Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "par",
+      "Meanings": [
+        "Precision Approach Radar"
+      ]
+    },
+    {
+      "EnglishWord": "parallax",
+      "Meanings": [
+        "جابجایی ظاهری تصویر بعلت تغییر محل رویت"
+      ]
+    },
+    {
+      "EnglishWord": "parallels",
+      "Meanings": [
+        "مدارات"
+      ]
+    },
+    {
+      "EnglishWord": "parity",
+      "Meanings": [
+        "توازن",
+        "قیاس",
+        "تطابق"
+      ]
+    },
+    {
+      "EnglishWord": "parity error",
+      "Meanings": [
+        "خطای توازن"
+      ]
+    },
+    {
+      "EnglishWord": "part",
+      "Meanings": [
+        "فصل"
+      ]
+    },
+    {
+      "EnglishWord": "pavement",
+      "Meanings": [
+        "سطح پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "pavement classification number",
+      "Meanings": [
+        "عدد مقاومت سطح پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "pavement fleibility",
+      "Meanings": [
+        "نرمی سطح پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "pavvement rigidity",
+      "Meanings": [
+        "سختی سطح پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "pax",
+      "Meanings": [
+        "Passengers"
+      ]
+    },
+    {
+      "EnglishWord": "peak power",
+      "Meanings": [
+        "حداکثر قدرت فرستنده"
+      ]
+    },
+    {
+      "EnglishWord": "ped",
+      "Meanings": [
+        "Portable Electronic Devices"
+      ]
+    },
+    {
+      "EnglishWord": "pedestrain",
+      "Meanings": [
+        "پایده"
+      ]
+    },
+    {
+      "EnglishWord": "pellet",
+      "Meanings": [
+        "گلوله"
+      ]
+    },
+    {
+      "EnglishWord": "pending",
+      "Meanings": [
+        "تا",
+        "تازمانیکه"
+      ]
+    },
+    {
+      "EnglishWord": "percapita income",
+      "Meanings": [
+        "درآمد سرانه"
+      ]
+    },
+    {
+      "EnglishWord": "period",
+      "Meanings": [
+        "نوبت"
+      ]
+    },
+    {
+      "EnglishWord": "peripherial",
+      "Meanings": [
+        "محیطی",
+        "پیرامونی"
+      ]
+    },
+    {
+      "EnglishWord": "persistence of radar display",
+      "Meanings": [
+        "دوام تصویر روی صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "person on board",
+      "Meanings": [
+        "سرنشین"
+      ]
+    },
+    {
+      "EnglishWord": "pertinent",
+      "Meanings": [
+        "مربوطه",
+        "وارده"
+      ]
+    },
+    {
+      "EnglishWord": "pf",
+      "Meanings": [
+        "Pilot Flying"
+      ]
+    },
+    {
+      "EnglishWord": "pfa",
+      "Meanings": [
+        "Popular Flying Association"
+      ]
+    },
+    {
+      "EnglishWord": "pfd",
+      "Meanings": [
+        "Primary Flight Display"
+      ]
+    },
+    {
+      "EnglishWord": "phg",
+      "Meanings": [
+        "Powered Hang"
+      ]
+    },
+    {
+      "EnglishWord": "pic",
+      "Meanings": [
+        "Pilot",
+        "In",
+        "Command"
+      ]
+    },
+    {
+      "EnglishWord": "pig",
+      "Meanings": [
+        "Pilots Information Guide"
+      ]
+    },
+    {
+      "EnglishWord": "pilot in command",
+      "Meanings": [
+        "سر خلبان"
+      ]
+    },
+    {
+      "EnglishWord": "pilot- interpreted aids",
+      "Meanings": [
+        "وسایل قابل توجیه برای خلبان"
+      ]
+    },
+    {
+      "EnglishWord": "pilot interpreted finsl approach aid",
+      "Meanings": [
+        "وسیله قابل توجیه برای خلبان در بخش نهایی تقرب"
+      ]
+    },
+    {
+      "EnglishWord": "pins",
+      "Meanings": [
+        "Pipeline Inspection Notification System"
+      ]
+    },
+    {
+      "EnglishWord": "pio",
+      "Meanings": [
+        "Pilot",
+        "Induced Oscillation"
+      ]
+    },
+    {
+      "EnglishWord": "pitch",
+      "Meanings": [
+        "شیب",
+        "چرخش هواپیما حول محور عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "pln",
+      "Meanings": [
+        "Flight",
+        "Plan"
+      ]
+    },
+    {
+      "EnglishWord": "pms",
+      "Meanings": [
+        "Performance Management System"
+      ]
+    },
+    {
+      "EnglishWord": "pnf",
+      "Meanings": [
+        "Pilot Not Flying"
+      ]
+    },
+    {
+      "EnglishWord": "pnr",
+      "Meanings": [
+        "Point Of No Return"
+      ]
+    },
+    {
+      "EnglishWord": "pob",
+      "Meanings": [
+        "Number Of Persons On Board"
+      ]
+    },
+    {
+      "EnglishWord": "poc",
+      "Meanings": [
+        "Proof",
+        "Of",
+        "Concept"
+      ]
+    },
+    {
+      "EnglishWord": "pod",
+      "Meanings": [
+        "غلاف",
+        "پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "poh",
+      "Meanings": [
+        "Pilot's Operating Handbook"
+      ]
+    },
+    {
+      "EnglishWord": "point",
+      "Meanings": [
+        "موقعیت جغرافیایی در سیستم ناوبری منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "point of departure",
+      "Meanings": [
+        "مبداء"
+      ]
+    },
+    {
+      "EnglishWord": "point of intended landing",
+      "Meanings": [
+        "مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "point of order",
+      "Meanings": [
+        "اخطار نظامنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "polar",
+      "Meanings": [
+        "قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "polarisation",
+      "Meanings": [
+        "قطبی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "position line",
+      "Meanings": [
+        "خط موقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "position report message",
+      "Meanings": [
+        "پیام گزارش موقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "position symbol",
+      "Meanings": [
+        "نشانگر موقعیت در سیستم رادار کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "positional element of the ssr response",
+      "Meanings": [
+        "بخشی از پاسخ رادار ثانویه که موقعیت را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "post",
+      "Meanings": [
+        "نصب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "postponding of debate",
+      "Meanings": [
+        "تعویق مذاکرات"
+      ]
+    },
+    {
+      "EnglishWord": "postpone",
+      "Meanings": [
+        "به تعویق انداختن"
+      ]
+    },
+    {
+      "EnglishWord": "power plant",
+      "Meanings": [
+        "قدرت کشش موتور"
+      ]
+    },
+    {
+      "EnglishWord": "ppg",
+      "Meanings": [
+        "Powered Paraglider"
+      ]
+    },
+    {
+      "EnglishWord": "ppl",
+      "Meanings": [
+        "Private Pilot's Licence"
+      ]
+    },
+    {
+      "EnglishWord": "ppl h",
+      "Meanings": [
+        "Private Pilot's Licence For Helicopters"
+      ]
+    },
+    {
+      "EnglishWord": "ppl slmg",
+      "Meanings": [
+        "Private Pilot's Licence For Self",
+        "Launched Motor Gliders"
+      ]
+    },
+    {
+      "EnglishWord": "ppo",
+      "Meanings": [
+        "Prior Permission Only"
+      ]
+    },
+    {
+      "EnglishWord": "ppr",
+      "Meanings": [
+        "Prior Permission Required"
+      ]
+    },
+    {
+      "EnglishWord": "preceding aircraft",
+      "Meanings": [
+        "هواپیمای جلوی"
+      ]
+    },
+    {
+      "EnglishWord": "precepitant",
+      "Meanings": [
+        "بارندگی"
+      ]
+    },
+    {
+      "EnglishWord": "precision runway",
+      "Meanings": [
+        "باند مجهز به دستگاه تقرب دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "predominate",
+      "Meanings": [
+        "حکمفرما",
+        "غالب"
+      ]
+    },
+    {
+      "EnglishWord": "premise",
+      "Meanings": [
+        "بشکل کبری و صغری ذکر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "premium",
+      "Meanings": [
+        "جایزه",
+        "پاداش"
+      ]
+    },
+    {
+      "EnglishWord": "pressure altitude",
+      "Meanings": [
+        "ارتفاع فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "presume",
+      "Meanings": [
+        "احتمال دادن",
+        "فرض کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pricis writer",
+      "Meanings": [
+        "تند نویس",
+        "خلاصه نویس"
+      ]
+    },
+    {
+      "EnglishWord": "primarily",
+      "Meanings": [
+        "عمدتا"
+      ]
+    },
+    {
+      "EnglishWord": "primary radar",
+      "Meanings": [
+        "رادار اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primme meridian",
+      "Meanings": [
+        "نصف النهار گرینویچ"
+      ]
+    },
+    {
+      "EnglishWord": "privileged motion",
+      "Meanings": [
+        "پیشنهاد رسمی ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "prjority indicator",
+      "Meanings": [
+        "نشاندهنده تقدم"
+      ]
+    },
+    {
+      "EnglishWord": "prob",
+      "Meanings": [
+        "Probability Percentage"
+      ]
+    },
+    {
+      "EnglishWord": "proced",
+      "Meanings": [
+        "اقدام",
+        "پیشرفت"
+      ]
+    },
+    {
+      "EnglishWord": "procedural controller",
+      "Meanings": [
+        "کنترلری که بر مبنای دستورالعملهای غیر راداری کار می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "procedural motion",
+      "Meanings": [
+        "پیشنهاد نظامنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "procedure trun",
+      "Meanings": [
+        "گردش قرینه ای"
+      ]
+    },
+    {
+      "EnglishWord": "processing",
+      "Meanings": [
+        "پردازش"
+      ]
+    },
+    {
+      "EnglishWord": "processor",
+      "Meanings": [
+        "پردازنده"
+      ]
+    },
+    {
+      "EnglishWord": "profile",
+      "Meanings": [
+        "برش عمودی",
+        "مقطع عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "progress",
+      "Meanings": [
+        "پیشرفت"
+      ]
+    },
+    {
+      "EnglishWord": "progression",
+      "Meanings": [
+        "تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "promulgation",
+      "Meanings": [
+        "ترویج",
+        "اعلام"
+      ]
+    },
+    {
+      "EnglishWord": "proper",
+      "Meanings": [
+        "خاص"
+      ]
+    },
+    {
+      "EnglishWord": "proporation",
+      "Meanings": [
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "proportioned",
+      "Meanings": [
+        "مناسب",
+        "درخور"
+      ]
+    },
+    {
+      "EnglishWord": "proposed amendment",
+      "Meanings": [
+        "اصلاحیه پیشنهادی"
+      ]
+    },
+    {
+      "EnglishWord": "protocol",
+      "Meanings": [
+        "ییش نویس سند",
+        "موافقت مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "proven",
+      "Meanings": [
+        "آزمایش شده"
+      ]
+    },
+    {
+      "EnglishWord": "provided for",
+      "Meanings": [
+        "پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "provision",
+      "Meanings": [
+        "مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "provisional acceptable means of compliance",
+      "Meanings": [
+        "اعلام قبول مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "psi",
+      "Meanings": [
+        "Pounds Per Square Inch"
+      ]
+    },
+    {
+      "EnglishWord": "ptt",
+      "Meanings": [
+        "Press",
+        "To",
+        "Transmit"
+      ]
+    },
+    {
+      "EnglishWord": "publish",
+      "Meanings": [
+        "نشر"
+      ]
+    },
+    {
+      "EnglishWord": "pulse",
+      "Meanings": [
+        "پالس"
+      ]
+    },
+    {
+      "EnglishWord": "pulse length",
+      "Meanings": [
+        "طول پالس"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+﻿{
+  "Group": "G",
+  "Entries": 101,
+  "Words": [
+    {
+      "EnglishWord": "gaap generally accepted accounting principles",
+      "Meanings": [
+        "اصول پذیرفته شده حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "gaap guide",
+      "Meanings": [
+        "راهنمای اصول پذیرفته شده حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "gaap practice manual",
+      "Meanings": [
+        "راهنمای عملی/ حرفه ای اصول پذیرفته شده حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "gaas generally accepted auditing standards",
+      "Meanings": [
+        "استانداردهای پذیرفته شده حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "gaas guide",
+      "Meanings": [
+        "راهنمای استانداردهای پذیرفته شده حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "gaas practice manual",
+      "Meanings": [
+        "راهنمای عملی/ حرفه ای استانداردها پذیرفته شده حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "gain contingency",
+      "Meanings": [
+        "سود غیر عملیاتی احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "gain on sale of assets",
+      "Meanings": [
+        "سود غیر عملیاتی حاصل از فر وش داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "gain or loss on disposal",
+      "Meanings": [
+        "سود یا زیان غیر عملیاتی ناشی از واگذاری/ فروش"
+      ]
+    },
+    {
+      "EnglishWord": "gains",
+      "Meanings": [
+        "سودهای غیر عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "gains contingencies",
+      "Meanings": [
+        "سودهای احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "gasb governmental accounting standards board",
+      "Meanings": [
+        "هیات تدوین استانداردهای حسابرسی دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "general accountant",
+      "Meanings": [
+        "حسابدار کل حسابرس دیوان محاسبات"
+      ]
+    },
+    {
+      "EnglishWord": "general agreement on tariffs and trade  gatt",
+      "Meanings": [
+        "موافقنامه عمومی تعرفه و تجارت گات"
+      ]
+    },
+    {
+      "EnglishWord": "general audit objectives",
+      "Meanings": [
+        "اهداف عمومی حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "general authorization",
+      "Meanings": [
+        "تصویب عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general cash account",
+      "Meanings": [
+        "حساب وجه نقد عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general conditions of contract",
+      "Meanings": [
+        "شرایط عمومی پیمان قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "general contractor",
+      "Meanings": [
+        "پیمانکار عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general controls",
+      "Meanings": [
+        "کنترلهای عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general definition",
+      "Meanings": [
+        "تعریف کلی/ عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general fixed asset account group",
+      "Meanings": [
+        "گروه حساب داراییهای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "general journal",
+      "Meanings": [
+        "دفتر روزنامه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general ledger",
+      "Meanings": [
+        "دفتر کل"
+      ]
+    },
+    {
+      "EnglishWord": "general ledger accounts",
+      "Meanings": [
+        "حسابهای دفتر کل"
+      ]
+    },
+    {
+      "EnglishWord": "general long term debt account group",
+      "Meanings": [
+        "گروه حساب بدهیهای بلند مدت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general negligence",
+      "Meanings": [
+        "سهل انگاری عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general obligation bond",
+      "Meanings": [
+        "اوراق قرضه شهرداریها"
+      ]
+    },
+    {
+      "EnglishWord": "general partnership",
+      "Meanings": [
+        "شرکت تضامنی با مسیولیت نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "general price level accounting",
+      "Meanings": [
+        "حسابداری تغییرات سطح عمومی قیمتها حسابداری تورمی"
+      ]
+    },
+    {
+      "EnglishWord": "general purchasing power concept of capital maintenance",
+      "Meanings": [
+        "مفهوم قدرت خرید عمومی حفظ سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose external financial reporting",
+      "Meanings": [
+        "گزارشهای مالی برون سازمانی / عمومی/ منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose financial statements",
+      "Meanings": [
+        "صورتهای مالی اساسی صورتهای مالی عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general reserve",
+      "Meanings": [
+        "اندوخته عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general revenue",
+      "Meanings": [
+        "درآمد عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general rule",
+      "Meanings": [
+        "قاعده کلی قاعده عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general standards",
+      "Meanings": [
+        "استانداردهای عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general survey",
+      "Meanings": [
+        "پژوهش کلی"
+      ]
+    },
+    {
+      "EnglishWord": "general terms",
+      "Meanings": [
+        "شرایط عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general terms of contract",
+      "Meanings": [
+        "شرایط عمومی قرارداد پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "general treasurer",
+      "Meanings": [
+        "خزانه دار کل"
+      ]
+    },
+    {
+      "EnglishWord": "general treasury administration",
+      "Meanings": [
+        "مدیریت خزانه داری کل"
+      ]
+    },
+    {
+      "EnglishWord": "generality approach",
+      "Meanings": [
+        "رویکرد/ دیدگاه کلی نگری"
+      ]
+    },
+    {
+      "EnglishWord": "generalizability",
+      "Meanings": [
+        "تعمیم پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "generalized audit software  gas",
+      "Meanings": [
+        "نرم افزار عمومی حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "generally accepted accounting principles  gaap",
+      "Meanings": [
+        "اصول پذیرفته شده حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "generally accepted auditing standards  gaas",
+      "Meanings": [
+        "استاندارد‌های مبتنی بر میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "geometric mean return",
+      "Meanings": [
+        "بازده مبتنی بر میانگین هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "glamour stock",
+      "Meanings": [
+        "سهام پرجاذبه زرق و برق"
+      ]
+    },
+    {
+      "EnglishWord": "global economy",
+      "Meanings": [
+        "اقتصاد جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "globalization",
+      "Meanings": [
+        "جهانی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "glossary",
+      "Meanings": [
+        "واژه نامه"
+      ]
+    },
+    {
+      "EnglishWord": "goal",
+      "Meanings": [
+        "هدف"
+      ]
+    },
+    {
+      "EnglishWord": "goal congruence",
+      "Meanings": [
+        "همسویی اهداف هماهنگی اهداف"
+      ]
+    },
+    {
+      "EnglishWord": "goal oriented",
+      "Meanings": [
+        "هدف گرا"
+      ]
+    },
+    {
+      "EnglishWord": "going concern assumption",
+      "Meanings": [
+        "فرض تداوم فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "going out of existence",
+      "Meanings": [
+        "منحل شدن عدم تداوم فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "going public",
+      "Meanings": [
+        "تبدیل به سهامی عام شدن"
+      ]
+    },
+    {
+      "EnglishWord": "golden handcuffs",
+      "Meanings": [
+        "دستبندهای طلایی"
+      ]
+    },
+    {
+      "EnglishWord": "golden parachute",
+      "Meanings": [
+        "چتر نجات طلایی"
+      ]
+    },
+    {
+      "EnglishWord": "good business reasons for issuing",
+      "Meanings": [
+        "دلایل تجاری مناسب برای انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "good faith duty",
+      "Meanings": [
+        "با حسن نیت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "good faith gesture",
+      "Meanings": [
+        "صداقت/ حسن نیت ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "good in process inventory",
+      "Meanings": [
+        "موجودی کالای در جریان ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "good nits",
+      "Meanings": [
+        "آحاد واحدهای سالم محصول"
+      ]
+    },
+    {
+      "EnglishWord": "good will",
+      "Meanings": [
+        "سرقفلی"
+      ]
+    },
+    {
+      "EnglishWord": "goodness pf fit",
+      "Meanings": [
+        "مناسب بودن برازش نیکویی برازش"
+      ]
+    },
+    {
+      "EnglishWord": "goods in transit",
+      "Meanings": [
+        "کالاهای بین راهی کالا‌های در راه"
+      ]
+    },
+    {
+      "EnglishWord": "goods on consignment",
+      "Meanings": [
+        "کالا‌های امانی"
+      ]
+    },
+    {
+      "EnglishWord": "gordon's dividend valuation model",
+      "Meanings": [
+        "مدل ارزشیابی مبتنی بر سود سهام مدل گوردن"
+      ]
+    },
+    {
+      "EnglishWord": "government audits",
+      "Meanings": [
+        "حسابرسیهای دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "governmental accounting",
+      "Meanings": [
+        "حسابداری سازمانی غیر انتفاعی حسابداری دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "governmental accounting standards",
+      "Meanings": [
+        "استانداردهای حسابداری دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "governmental accounting standards board  gasb",
+      "Meanings": [
+        "هیات تدوین استانداردهای"
+      ]
+    },
+    {
+      "EnglishWord": "governmental auditing",
+      "Meanings": [
+        "حسابرسی دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "governmental funds",
+      "Meanings": [
+        "حسابهای مستقل وجوه دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "درجه امتیاز رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "graduate accounting admission tests",
+      "Meanings": [
+        "آزمونهای کارشناسی ارشد حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "graduate management admission test  gmat",
+      "Meanings": [
+        "آزمون کارشناسی ارشد مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "grant date",
+      "Meanings": [
+        "تاریخ اعطا"
+      ]
+    },
+    {
+      "EnglishWord": "grant in aid",
+      "Meanings": [
+        "کمک بالا عوض دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "grants",
+      "Meanings": [
+        "کمک‌های بلاعوض"
+      ]
+    },
+    {
+      "EnglishWord": "gray area",
+      "Meanings": [
+        "حوزه مبهم نکته/ مورد مبهم وضع/ وضعیت مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "greater than expected",
+      "Meanings": [
+        "بیشتر از حد مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "gross margin",
+      "Meanings": [
+        "سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross margin method",
+      "Meanings": [
+        "روش سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross margin percentage",
+      "Meanings": [
+        "درصد سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross national product  gnp",
+      "Meanings": [
+        "تولید ناخالص ملی"
+      ]
+    },
+    {
+      "EnglishWord": "gross pay",
+      "Meanings": [
+        "حقوق ناخالص پرداخت ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross profit gross margin",
+      "Meanings": [
+        "سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross profit method",
+      "Meanings": [
+        "روش سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "group assignments",
+      "Meanings": [
+        "تکالیف گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "group depreciation",
+      "Meanings": [
+        "استهلاک گروهی دسته جمعی داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "growth companies",
+      "Meanings": [
+        "شرکتهای در حال رشد"
+      ]
+    },
+    {
+      "EnglishWord": "growth rate",
+      "Meanings": [
+        "نرخ رشد"
+      ]
+    },
+    {
+      "EnglishWord": "growth stage",
+      "Meanings": [
+        "مرحله رشد"
+      ]
+    },
+    {
+      "EnglishWord": "growth stock",
+      "Meanings": [
+        "سهام شرکتهای در حال رشد"
+      ]
+    },
+    {
+      "EnglishWord": "guarantee",
+      "Meanings": [
+        "تضمین محصول"
+      ]
+    },
+    {
+      "EnglishWord": "guaranteed bond",
+      "Meanings": [
+        "اوراق قرضه تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "guaranteed residual",
+      "Meanings": [
+        "ارزش باقیمانده اسقاط تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "guideline",
+      "Meanings": [
+        "رهنمود دستورالعمل"
+      ]
+    }
+  ]
+}

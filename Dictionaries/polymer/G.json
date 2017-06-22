@@ -1,0 +1,665 @@
+﻿{
+  "Group": "G",
+  "Entries": 106,
+  "Words": [
+    {
+      "EnglishWord": "galvanostatic",
+      "Meanings": [
+        "جریان پایی"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "سنگ معدن فلزدار"
+      ]
+    },
+    {
+      "EnglishWord": "gas dispersion",
+      "Meanings": [
+        "پراکندگی گاز",
+        "پاشیدگی گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas gun",
+      "Meanings": [
+        "تفنگ بادی گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas injection moulding",
+      "Meanings": [
+        "قالبگیری تزریقی گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas permeability",
+      "Meanings": [
+        "گاز تراوایی"
+      ]
+    },
+    {
+      "EnglishWord": "gas permeable membrane",
+      "Meanings": [
+        "غشای گازتراوا"
+      ]
+    },
+    {
+      "EnglishWord": "gas product",
+      "Meanings": [
+        "محصول گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas reinjection",
+      "Meanings": [
+        "بازتزریق گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas sensitive",
+      "Meanings": [
+        "گاز حساس",
+        "حساس به گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas trap",
+      "Meanings": [
+        "تله گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gasket",
+      "Meanings": [
+        "واشر"
+      ]
+    },
+    {
+      "EnglishWord": "gate",
+      "Meanings": [
+        "گلویی",
+        "دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gauche",
+      "Meanings": [
+        "کج"
+      ]
+    },
+    {
+      "EnglishWord": "gear",
+      "Meanings": [
+        "چرخ دنده"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel blocking",
+      "Meanings": [
+        "انسداد ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel casting",
+      "Meanings": [
+        "قالبگیری ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel coat",
+      "Meanings": [
+        "پوشش ژلی"
+      ]
+    },
+    {
+      "EnglishWord": "gel content",
+      "Meanings": [
+        "محتوای ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel filteration chromatography",
+      "Meanings": [
+        "کروماتوگرافی ژل صافی"
+      ]
+    },
+    {
+      "EnglishWord": "gel fraction",
+      "Meanings": [
+        "جزء ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel permeation chromatography",
+      "Meanings": [
+        "کروماتوگرافی ژل تراوایی"
+      ]
+    },
+    {
+      "EnglishWord": "gel processing",
+      "Meanings": [
+        "فراورش ژل",
+        "ژل فراوری"
+      ]
+    },
+    {
+      "EnglishWord": "gel spinning",
+      "Meanings": [
+        "ژل ریسی",
+        "ریسندگی ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel time",
+      "Meanings": [
+        "زمان ژل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "gelation",
+      "Meanings": [
+        "ژل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose",
+      "Meanings": [
+        "مورد مصرف عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose plastic",
+      "Meanings": [
+        "پلاستیک با کاربرد عام"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose polymer",
+      "Meanings": [
+        "پلیمر با کاربرد عام"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose thermoplastic",
+      "Meanings": [
+        "گرمانرم با کاربرد عام"
+      ]
+    },
+    {
+      "EnglishWord": "general roughness",
+      "Meanings": [
+        "زبری سرتاسری"
+      ]
+    },
+    {
+      "EnglishWord": "genetic engineering",
+      "Meanings": [
+        "مهندسی ژنتیک"
+      ]
+    },
+    {
+      "EnglishWord": "geogrid",
+      "Meanings": [
+        "شبکه زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "geomembrane",
+      "Meanings": [
+        "غشای زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "geometry",
+      "Meanings": [
+        "شکل هندسه",
+        "هندسه"
+      ]
+    },
+    {
+      "EnglishWord": "geometry function",
+      "Meanings": [
+        "تابع هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geotextile",
+      "Meanings": [
+        "بافت زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "glacial",
+      "Meanings": [
+        "یخی"
+      ]
+    },
+    {
+      "EnglishWord": "glass ballotini",
+      "Meanings": [
+        "گویچه",
+        "گویچه شیشه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass effect",
+      "Meanings": [
+        "اثر شیشه ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "glass fibers",
+      "Meanings": [
+        "الیاف شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glass flake",
+      "Meanings": [
+        "پرک شیشه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass membrane electrode",
+      "Meanings": [
+        "الکترود شیشه غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "glass optical fibers",
+      "Meanings": [
+        "الیاف نوری شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده با الیاف شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glass transition temperature",
+      "Meanings": [
+        "دمای انتقال شیشه ای",
+        "دمای گداز شیشه ای",
+        "در مواد بی شکل با افزایش دما ماده از حالت شیشه ای و سخت به حالت لاستیکی و نرم در می‌آید. دمای وقوع این پدیده را Tg گویند. در این دما مولکولهای مواد درشت مولکول از حالت منجمد در آمده و تحرکات گرمایی در حدی است که مولکول می‌تواند در محل خود شکلهای مختلفی را به خود بگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "glassy state",
+      "Meanings": [
+        "حالت شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "global",
+      "Meanings": [
+        "کلی",
+        "جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "gloss",
+      "Meanings": [
+        "درخشندگی",
+        "جلا",
+        "براق",
+        "براقیت"
+      ]
+    },
+    {
+      "EnglishWord": "gloss measurement scales",
+      "Meanings": [
+        "مقیاس‏های اندازه گیری براقیت"
+      ]
+    },
+    {
+      "EnglishWord": "gloss retention",
+      "Meanings": [
+        "حفظ براقیت"
+      ]
+    },
+    {
+      "EnglishWord": "glossiness",
+      "Meanings": [
+        "براقی"
+      ]
+    },
+    {
+      "EnglishWord": "glossmeter",
+      "Meanings": [
+        "براقیت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "glossy",
+      "Meanings": [
+        "براق"
+      ]
+    },
+    {
+      "EnglishWord": "glove",
+      "Meanings": [
+        "دستکش"
+      ]
+    },
+    {
+      "EnglishWord": "glue",
+      "Meanings": [
+        "سریش"
+      ]
+    },
+    {
+      "EnglishWord": "glue line",
+      "Meanings": [
+        "خط چسبیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "glulam beam",
+      "Meanings": [
+        "تیرچه گلولام"
+      ]
+    },
+    {
+      "EnglishWord": "godet",
+      "Meanings": [
+        "غلتک گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "gold lacquer",
+      "Meanings": [
+        "لاک طلایی"
+      ]
+    },
+    {
+      "EnglishWord": "gop joint",
+      "Meanings": [
+        "اتصال دو نیم لبه"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "درجه",
+        "نوع"
+      ]
+    },
+    {
+      "EnglishWord": "graded index optical fibers",
+      "Meanings": [
+        "الیاف نوری با ضریب شکست تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "grader",
+      "Meanings": [
+        "یکنواخت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "gradient",
+      "Meanings": [
+        "گرادیان",
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "graft",
+      "Meanings": [
+        "پیوند زدن"
+      ]
+    },
+    {
+      "EnglishWord": "graft copolymer",
+      "Meanings": [
+        "کوپلیمر پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "graft copolymerization",
+      "Meanings": [
+        "کوپلیمریزاسیون پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "graft polymerization",
+      "Meanings": [
+        "پلیمریزاسیون پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "grafted",
+      "Meanings": [
+        "پیوند خورده"
+      ]
+    },
+    {
+      "EnglishWord": "grafting form",
+      "Meanings": [
+        "پیوند خوردگی از"
+      ]
+    },
+    {
+      "EnglishWord": "grafting length",
+      "Meanings": [
+        "طول شاخه پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "grafting method",
+      "Meanings": [
+        "روش پیوند زدن"
+      ]
+    },
+    {
+      "EnglishWord": "grafting onto",
+      "Meanings": [
+        "پیوند خوردگی بر"
+      ]
+    },
+    {
+      "EnglishWord": "grafting through",
+      "Meanings": [
+        "پیوند خوردگی از طریق"
+      ]
+    },
+    {
+      "EnglishWord": "grain",
+      "Meanings": [
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "grain boundary",
+      "Meanings": [
+        "مرز دانه"
+      ]
+    },
+    {
+      "EnglishWord": "grain orientation",
+      "Meanings": [
+        "جهتگیری دانه"
+      ]
+    },
+    {
+      "EnglishWord": "granular",
+      "Meanings": [
+        "دانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "granulator",
+      "Meanings": [
+        "دانه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "granule",
+      "Meanings": [
+        "دانه Pellet"
+      ]
+    },
+    {
+      "EnglishWord": "granule production",
+      "Meanings": [
+        "تولید دانه"
+      ]
+    },
+    {
+      "EnglishWord": "graphite fiber",
+      "Meanings": [
+        "الیاف گرافیت"
+      ]
+    },
+    {
+      "EnglishWord": "grating",
+      "Meanings": [
+        "شبکه",
+        "توری برای جداسازی طول موج",
+        "کف‌های مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "gravel",
+      "Meanings": [
+        "شن"
+      ]
+    },
+    {
+      "EnglishWord": "gravimetry",
+      "Meanings": [
+        "وزن سنجی",
+        "ثقل سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "gravure",
+      "Meanings": [
+        "کنده کاری",
+        "گراوور"
+      ]
+    },
+    {
+      "EnglishWord": "grease",
+      "Meanings": [
+        "گریس"
+      ]
+    },
+    {
+      "EnglishWord": "green",
+      "Meanings": [
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "green compound",
+      "Meanings": [
+        "آمیزه خام"
+      ]
+    },
+    {
+      "EnglishWord": "green stage",
+      "Meanings": [
+        "مرحله سبز"
+      ]
+    },
+    {
+      "EnglishWord": "green strength",
+      "Meanings": [
+        "استحکام قبل از پخت"
+      ]
+    },
+    {
+      "EnglishWord": "green tire",
+      "Meanings": [
+        "تایر خام"
+      ]
+    },
+    {
+      "EnglishWord": "grilles",
+      "Meanings": [
+        "صفحات مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "grinder",
+      "Meanings": [
+        "آسیاب گردساز"
+      ]
+    },
+    {
+      "EnglishWord": "grip rating",
+      "Meanings": [
+        "میزان چنگ زدگی تایر بر جاده"
+      ]
+    },
+    {
+      "EnglishWord": "gripper unit",
+      "Meanings": [
+        "واحد گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "grit",
+      "Meanings": [
+        "زبره",
+        "گریت",
+        "ساینده",
+        "Grit=abrasive"
+      ]
+    },
+    {
+      "EnglishWord": "grit blast",
+      "Meanings": [
+        "ماسه پاشی"
+      ]
+    },
+    {
+      "EnglishWord": "grooved feed section",
+      "Meanings": [
+        "ناحیه خوراک گیر شیاردار"
+      ]
+    },
+    {
+      "EnglishWord": "growth",
+      "Meanings": [
+        "رشد"
+      ]
+    },
+    {
+      "EnglishWord": "guest host system",
+      "Meanings": [
+        "سیستم میهمان",
+        "میزبان"
+      ]
+    },
+    {
+      "EnglishWord": "guillotine",
+      "Meanings": [
+        "تیغه برش"
+      ]
+    },
+    {
+      "EnglishWord": "gum",
+      "Meanings": [
+        "صمغ"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum",
+      "Meanings": [
+        "سنگ گچ"
+      ]
+    }
+  ]
+}

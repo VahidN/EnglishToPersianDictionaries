@@ -1,0 +1,2963 @@
+﻿{
+  "Group": "C",
+  "Entries": 464,
+  "Words": [
+    {
+      "EnglishWord": "cabinet",
+      "Meanings": [
+        "اتاقک"
+      ]
+    },
+    {
+      "EnglishWord": "cage effect",
+      "Meanings": [
+        "اثر قفس"
+      ]
+    },
+    {
+      "EnglishWord": "calcination",
+      "Meanings": [
+        "تکلیس",
+        "عمل آهکی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "calender",
+      "Meanings": [
+        "ورقه ساز",
+        "کلندر دستگاه شکل دهنده ورقهای پلیمری"
+      ]
+    },
+    {
+      "EnglishWord": "calendering",
+      "Meanings": [
+        "ورقه ساز با غلتک",
+        "کلندرکاری"
+      ]
+    },
+    {
+      "EnglishWord": "calibrating basket",
+      "Meanings": [
+        "استوانه سبدی تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "calibration",
+      "Meanings": [
+        "درجه بندی",
+        "تنظیم",
+        "پارسنگ کردن",
+        "زینه بندی",
+        "تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "calibration curve",
+      "Meanings": [
+        "منحنی درجه بندی",
+        "نمودار مرجع درجه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "caliche",
+      "Meanings": [
+        "سنگ حاوی نیترات"
+      ]
+    },
+    {
+      "EnglishWord": "calorimetery",
+      "Meanings": [
+        "گرماسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "cam",
+      "Meanings": [
+        "بادامک"
+      ]
+    },
+    {
+      "EnglishWord": "candle filter",
+      "Meanings": [
+        "صافی شمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cantilever",
+      "Meanings": [
+        "میله تیر یک سر گیردار",
+        "پایه",
+        "سگدست"
+      ]
+    },
+    {
+      "EnglishWord": "cap",
+      "Meanings": [
+        "درپوش"
+      ]
+    },
+    {
+      "EnglishWord": "capacity",
+      "Meanings": [
+        "ظرفیت",
+        "گنجایش"
+      ]
+    },
+    {
+      "EnglishWord": "capillarity",
+      "Meanings": [
+        "مویینگی",
+        "حرکت رو به بالای مایعات در مجاری بسیار نازک لوله‌های مویین و یا در مواد متخلخل اسفنج‌ها به خاصیت مویینگی یا اختصارا” مویینگی موسوم است. این پدیده زمانی به وقوع می‌پیوندد که نیروی کشش سطحی بین مایع و سطح تماس آن بیش از نیروی وزن ستون مایع باشد. عامل حرکت آب در ساقه گیاهان و درختان بلند ناشی از همین خاصیت است"
+      ]
+    },
+    {
+      "EnglishWord": "capillary",
+      "Meanings": [
+        "مویین"
+      ]
+    },
+    {
+      "EnglishWord": "capillary die",
+      "Meanings": [
+        "حدیده مویین"
+      ]
+    },
+    {
+      "EnglishWord": "capillary number",
+      "Meanings": [
+        "عدد مویینگی"
+      ]
+    },
+    {
+      "EnglishWord": "capillary rheometer",
+      "Meanings": [
+        "ریومتر مویین"
+      ]
+    },
+    {
+      "EnglishWord": "capillary viscometer",
+      "Meanings": [
+        "گرانروی سنج لوله مویین"
+      ]
+    },
+    {
+      "EnglishWord": "carbocation",
+      "Meanings": [
+        "کربوکاتیون"
+      ]
+    },
+    {
+      "EnglishWord": "carbon black",
+      "Meanings": [
+        "دوده"
+      ]
+    },
+    {
+      "EnglishWord": "carbon nanotube",
+      "Meanings": [
+        "نانوتیوبهای کربن",
+        "ساختارهای استوانه‌ای توخالی متشکل از اتم‌های کربن را گویند که از استحکام بالا و وزن پایین برخوردارند. آنها در اشکال مختلف: استوانه‌ای",
+        "کروی",
+        "مخروطی",
+        "لوله‌ای و اشکال پیچیده موجوداند"
+      ]
+    },
+    {
+      "EnglishWord": "carbonization",
+      "Meanings": [
+        "تقطیر تخریبی",
+        "زغالی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "carboxyl",
+      "Meanings": [
+        "کربوکسیل",
+        "گروه شیمیایی اسید آلی است که در فرآیند واکنش شیمیایی پلی استرها دخالت دارند"
+      ]
+    },
+    {
+      "EnglishWord": "carcass",
+      "Meanings": [
+        "منجید",
+        "تایر بدون آج قبل از پخت"
+      ]
+    },
+    {
+      "EnglishWord": "cardiac pacemaker",
+      "Meanings": [
+        "ضربان ساز قلب"
+      ]
+    },
+    {
+      "EnglishWord": "cardiovascular",
+      "Meanings": [
+        "قلبی عروقی"
+      ]
+    },
+    {
+      "EnglishWord": "carrier gel",
+      "Meanings": [
+        "ژل حامل"
+      ]
+    },
+    {
+      "EnglishWord": "cartridge heater",
+      "Meanings": [
+        "گرم کن میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "cascade",
+      "Meanings": [
+        "سیستم آبشاری"
+      ]
+    },
+    {
+      "EnglishWord": "cascade continuous reactor",
+      "Meanings": [
+        "راکتور پیوسته آبشاری"
+      ]
+    },
+    {
+      "EnglishWord": "cast film",
+      "Meanings": [
+        "فیلم تخت flat film = cast film"
+      ]
+    },
+    {
+      "EnglishWord": "cast in place",
+      "Meanings": [
+        "ریخته گری درجا"
+      ]
+    },
+    {
+      "EnglishWord": "cast molding",
+      "Meanings": [
+        "قالبگیری ریخته گری"
+      ]
+    },
+    {
+      "EnglishWord": "casting",
+      "Meanings": [
+        "ریخته گری",
+        "قالبریزی",
+        "تولید فیلم تخت"
+      ]
+    },
+    {
+      "EnglishWord": "casting solvent",
+      "Meanings": [
+        "حلال قالبریزی"
+      ]
+    },
+    {
+      "EnglishWord": "castor oil",
+      "Meanings": [
+        "روغن کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "catalyst",
+      "Meanings": [
+        "یاریگر",
+        "کاتالیزور",
+        "کمک واکنش",
+        "فعال کننده"
+      ]
+    },
+    {
+      "EnglishWord": "catalyst injection",
+      "Meanings": [
+        "تزریق فعال کننده",
+        "روش تزریق کاتالیست به داخل جریان رزین مورد نظر از مجرایی جداگانه است"
+      ]
+    },
+    {
+      "EnglishWord": "catalyst productivity",
+      "Meanings": [
+        "محصول دهی کاتالیزور"
+      ]
+    },
+    {
+      "EnglishWord": "cataract",
+      "Meanings": [
+        "آب مروارید"
+      ]
+    },
+    {
+      "EnglishWord": "catheter",
+      "Meanings": [
+        "سوند"
+      ]
+    },
+    {
+      "EnglishWord": "cathetometer",
+      "Meanings": [
+        "اختلاف ارتفاع سنج"
+      ]
+    },
+    {
+      "EnglishWord": "cathodic disbonding",
+      "Meanings": [
+        "گسستگی کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cathodic disbondment",
+      "Meanings": [
+        "گسستن کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cathodic protection",
+      "Meanings": [
+        "محافظت کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cation active",
+      "Meanings": [
+        "فعال کاتیونی"
+      ]
+    },
+    {
+      "EnglishWord": "cation exchange capacity",
+      "Meanings": [
+        "ظرفیت تبادل کاتیون"
+      ]
+    },
+    {
+      "EnglishWord": "cationic polymerization",
+      "Meanings": [
+        "پلیمر شدن کاتیونی"
+      ]
+    },
+    {
+      "EnglishWord": "cavitation",
+      "Meanings": [
+        "حفره زایی",
+        "کاواک سازی"
+      ]
+    },
+    {
+      "EnglishWord": "cavity",
+      "Meanings": [
+        "حفره",
+        "محفظه"
+      ]
+    },
+    {
+      "EnglishWord": "cavity ejection",
+      "Meanings": [
+        "پرانش از حفره"
+      ]
+    },
+    {
+      "EnglishWord": "cavity transfer mixer zone",
+      "Meanings": [
+        "ناحیه اختلاط انتقال حفره ای"
+      ]
+    },
+    {
+      "EnglishWord": "ceiling temperature",
+      "Meanings": [
+        "سقف دما"
+      ]
+    },
+    {
+      "EnglishWord": "cell",
+      "Meanings": [
+        "سلول"
+      ]
+    },
+    {
+      "EnglishWord": "cell casting",
+      "Meanings": [
+        "ریخته گری سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "cell colonization",
+      "Meanings": [
+        "تجمع یاخته ای سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "cell culture",
+      "Meanings": [
+        "کشت سلول"
+      ]
+    },
+    {
+      "EnglishWord": "cell hole theory",
+      "Meanings": [
+        "نظریه حفره",
+        "سلول"
+      ]
+    },
+    {
+      "EnglishWord": "cell line",
+      "Meanings": [
+        "خط سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "cell surface",
+      "Meanings": [
+        "سطح سلول یاخته"
+      ]
+    },
+    {
+      "EnglishWord": "cellular polymer",
+      "Meanings": [
+        "پلیمر سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "cellularity",
+      "Meanings": [
+        "سلولی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "cellulose",
+      "Meanings": [
+        "سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "cement paint",
+      "Meanings": [
+        "پوشرنگ سیمانی",
+        "رنگ سیمانی"
+      ]
+    },
+    {
+      "EnglishWord": "cementitus mortar",
+      "Meanings": [
+        "ملات سیمانی"
+      ]
+    },
+    {
+      "EnglishWord": "center of rotation",
+      "Meanings": [
+        "مرکز دوران",
+        "مرکز چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "centipise",
+      "Meanings": [
+        "سانتی پواز",
+        "جهن اندازه گیری گرانروی می‌باشد. cp = mPa. s یک"
+      ]
+    },
+    {
+      "EnglishWord": "central nodule",
+      "Meanings": [
+        "گره مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "centre bolt",
+      "Meanings": [
+        "پیچ مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "centre clamp",
+      "Meanings": [
+        "گیره مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "centrifugal casting",
+      "Meanings": [
+        "ریخته گری گریز از مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "centrifugal force",
+      "Meanings": [
+        "نیروی گریز از مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "centrifuge",
+      "Meanings": [
+        "مرکز گریز"
+      ]
+    },
+    {
+      "EnglishWord": "centroid",
+      "Meanings": [
+        "مرکز ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "ceramic composite",
+      "Meanings": [
+        "کامپوزیت سرامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "ceramic matrix composites",
+      "Meanings": [
+        "کامپوزیتهای بستر سرامیک",
+        "چندسازه‌های بستر سرامیک"
+      ]
+    },
+    {
+      "EnglishWord": "cfc compound",
+      "Meanings": [
+        "ترکیب کلرو فلویورو کربن"
+      ]
+    },
+    {
+      "EnglishWord": "cfc free foam",
+      "Meanings": [
+        "اسفنج بدون CFC"
+      ]
+    },
+    {
+      "EnglishWord": "cfm",
+      "Meanings": [
+        "فوت مکعب بر دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "chain cleavage",
+      "Meanings": [
+        "گسیختگی زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain entanglement",
+      "Meanings": [
+        "درهم رفتگی زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain extender",
+      "Meanings": [
+        "زنجیر افزا",
+        "مولکولهای با طول زنجیر بلند"
+      ]
+    },
+    {
+      "EnglishWord": "chain extension reaction",
+      "Meanings": [
+        "واکنش زنجیر افزایی",
+        "واکنش گسترش زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain scission",
+      "Meanings": [
+        "گسستگی زنجیر",
+        "پارگی زنجیر",
+        "شکست زنجیر تقسیم زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain stiffening",
+      "Meanings": [
+        "سفت شدن زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain transfer agent",
+      "Meanings": [
+        "عامل انتقال زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chalking",
+      "Meanings": [
+        "گچی شدن",
+        "ظاهر پودری و خشک بر روی سطوح پوشش ژلی"
+      ]
+    },
+    {
+      "EnglishWord": "chamber",
+      "Meanings": [
+        "محفظه",
+        "اتاقک"
+      ]
+    },
+    {
+      "EnglishWord": "channel depth",
+      "Meanings": [
+        "عمق مجرا"
+      ]
+    },
+    {
+      "EnglishWord": "channel lateral dimension",
+      "Meanings": [
+        "بعد عرضی مجرا"
+      ]
+    },
+    {
+      "EnglishWord": "char",
+      "Meanings": [
+        "زغال"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic length",
+      "Meanings": [
+        "طول مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic radiation",
+      "Meanings": [
+        "تابش مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic temperature",
+      "Meanings": [
+        "دمای مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characterization",
+      "Meanings": [
+        "شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "charge",
+      "Meanings": [
+        "بار",
+        "پر شدن",
+        "پر کردن",
+        "بار ردن"
+      ]
+    },
+    {
+      "EnglishWord": "charge carrier",
+      "Meanings": [
+        "حامل بار"
+      ]
+    },
+    {
+      "EnglishWord": "charpy test",
+      "Meanings": [
+        "آزمون چارپی"
+      ]
+    },
+    {
+      "EnglishWord": "charring ablator",
+      "Meanings": [
+        "فداشونده زغال گداز"
+      ]
+    },
+    {
+      "EnglishWord": "checklist",
+      "Meanings": [
+        "فهرست تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "chelating agent",
+      "Meanings": [
+        "عامل کی لیت ساز"
+      ]
+    },
+    {
+      "EnglishWord": "chelation",
+      "Meanings": [
+        "کی لیت سازی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical blowing agent",
+      "Meanings": [
+        "عامل شیمیایی باد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "chemical bonding",
+      "Meanings": [
+        "پیوند شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical composition",
+      "Meanings": [
+        "ترکیب بندی شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical constitution",
+      "Meanings": [
+        "قانونمندی شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical controlled system",
+      "Meanings": [
+        "سیستم کنترل شده شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical conversion coating",
+      "Meanings": [
+        "پوشش تبدیلی شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical foaming agent",
+      "Meanings": [
+        "عامل شیمیایی ایجاد فوم"
+      ]
+    },
+    {
+      "EnglishWord": "chemical oxygen demand",
+      "Meanings": [
+        "مقدار اکسیژن خواهی شیمیایی",
+        "مقدار اکسیژن لازم برای اکسایش مواد آلی موجود در آب یا فاضلاب. COD معمولا بعنوان شاخصی برای تعیین میزان آلودگی پسابها شناخته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "chemical potential",
+      "Meanings": [
+        "پتانسیل شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical precipitation",
+      "Meanings": [
+        "رسوب گیری شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical resistance",
+      "Meanings": [
+        "مقاومت شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical structure",
+      "Meanings": [
+        "ساختار شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemically modified electrode",
+      "Meanings": [
+        "الکترود اصلاح شده شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemisorption",
+      "Meanings": [
+        "جذب شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemometry",
+      "Meanings": [
+        "سنجش شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemoselective catalyst",
+      "Meanings": [
+        "کاتالیزور شیمی گزین",
+        "کاتالیزورهایی هستند که از طریق یک یا چند گروه فعال",
+        "واکنشهای خاصی را برگزیده و انجام می‌دهند. اگر واکنش شیمیایی صد در صد کامل انجام شود به آن کاتالیزور شیمی ویژه نیز می‌گویند"
+      ]
+    },
+    {
+      "EnglishWord": "chemothermomechanical pulp",
+      "Meanings": [
+        "خمیر شیمیایی گرما",
+        "مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "chicken pox",
+      "Meanings": [
+        "آبله مرغان"
+      ]
+    },
+    {
+      "EnglishWord": "chilled",
+      "Meanings": [
+        "سرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "chip",
+      "Meanings": [
+        "تراشه"
+      ]
+    },
+    {
+      "EnglishWord": "chip resistance",
+      "Meanings": [
+        "مقاومت در برابر تراشه پری"
+      ]
+    },
+    {
+      "EnglishWord": "chipping",
+      "Meanings": [
+        "تراشه پرانی",
+        "تراشه پری"
+      ]
+    },
+    {
+      "EnglishWord": "chiral center",
+      "Meanings": [
+        "مرکز کایرال"
+      ]
+    },
+    {
+      "EnglishWord": "chiral group",
+      "Meanings": [
+        "گروه کایرال"
+      ]
+    },
+    {
+      "EnglishWord": "chlorosolphunated monomer",
+      "Meanings": [
+        "منومر کلرو سولفوندار شده"
+      ]
+    },
+    {
+      "EnglishWord": "cholestric liquid crystal",
+      "Meanings": [
+        "بلورمایع پیچ دار"
+      ]
+    },
+    {
+      "EnglishWord": "chopped",
+      "Meanings": [
+        "بریده شده"
+      ]
+    },
+    {
+      "EnglishWord": "chopped fibers",
+      "Meanings": [
+        "الیاف بریده شده کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "chopped strand",
+      "Meanings": [
+        "دسته رشته بریده شده",
+        "دسته رشته پیوسته نیم تاب که به یک اندازه بریده می‌شوند که معمولا از",
+        "میلیمتر می‏باشند"
+      ]
+    },
+    {
+      "EnglishWord": "chopped strand mat",
+      "Meanings": [
+        "نمد رشته ای خرد شده",
+        "نمد سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "chopper gun",
+      "Meanings": [
+        "تفنگ تکه کننده"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic aberration",
+      "Meanings": [
+        "ابیراهی فامی",
+        "خطای رنگی",
+        "انحراف فامی",
+        "انحراف رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic adaptation",
+      "Meanings": [
+        "سازگاری رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic attributes",
+      "Meanings": [
+        "خصیصه‏های فام نابی",
+        "خصوصیات رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic perceived colour",
+      "Meanings": [
+        "رنگ فام دار"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic stimulus",
+      "Meanings": [
+        "محرک فام دار"
+      ]
+    },
+    {
+      "EnglishWord": "chromaticity",
+      "Meanings": [
+        "رنگ پذیری",
+        "فام‏نابی"
+      ]
+    },
+    {
+      "EnglishWord": "chromaticity coordinates",
+      "Meanings": [
+        "مختصات فام نابی",
+        "مختصات رنگ‏پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "chromaticity diagram",
+      "Meanings": [
+        "نمودار فام نابی",
+        "نمودار رنگ‏پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "chromatogram",
+      "Meanings": [
+        "رنگ نگار"
+      ]
+    },
+    {
+      "EnglishWord": "chromatography",
+      "Meanings": [
+        "رنگ نگاری",
+        "کروماتوگرافی",
+        "سوانگاری"
+      ]
+    },
+    {
+      "EnglishWord": "chromogen",
+      "Meanings": [
+        "رنگ زا"
+      ]
+    },
+    {
+      "EnglishWord": "chromophore",
+      "Meanings": [
+        "رنگ‏ساز"
+      ]
+    },
+    {
+      "EnglishWord": "cis   trans isomers",
+      "Meanings": [
+        "ایزومرهای سیس و ترانس",
+        "حالت‌های فضایی مولکول را گویند که به واسطه وجود پیوند دو گانه نمی‌توانند در دماهای معمولی به هم تبدیل شوند"
+      ]
+    },
+    {
+      "EnglishWord": "cis addition reaction",
+      "Meanings": [
+        "واکنش افزایشی سیس"
+      ]
+    },
+    {
+      "EnglishWord": "cladding",
+      "Meanings": [
+        "روکش دهی"
+      ]
+    },
+    {
+      "EnglishWord": "clamp",
+      "Meanings": [
+        "گیره"
+      ]
+    },
+    {
+      "EnglishWord": "clamping",
+      "Meanings": [
+        "بسته شدن قالب"
+      ]
+    },
+    {
+      "EnglishWord": "clamping system",
+      "Meanings": [
+        "سیستم بست"
+      ]
+    },
+    {
+      "EnglishWord": "clarifier",
+      "Meanings": [
+        "شفاف کننده",
+        "لجن گیر"
+      ]
+    },
+    {
+      "EnglishWord": "clarity",
+      "Meanings": [
+        "روشنی",
+        "شفافیت"
+      ]
+    },
+    {
+      "EnglishWord": "classifier",
+      "Meanings": [
+        "دسته بندی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "clay",
+      "Meanings": [
+        "خاک رس"
+      ]
+    },
+    {
+      "EnglishWord": "cleanser",
+      "Meanings": [
+        "پاک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "clear",
+      "Meanings": [
+        "شفاف"
+      ]
+    },
+    {
+      "EnglishWord": "clear coat",
+      "Meanings": [
+        "شفاف پوشه",
+        "پوشش شفاف"
+      ]
+    },
+    {
+      "EnglishWord": "cling film",
+      "Meanings": [
+        "فیلم چسبان"
+      ]
+    },
+    {
+      "EnglishWord": "close contact joint",
+      "Meanings": [
+        "اتصال تماس نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "closed molding",
+      "Meanings": [
+        "قالبگیری بسته"
+      ]
+    },
+    {
+      "EnglishWord": "closed packed structure",
+      "Meanings": [
+        "ساختار تنگ چین فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "cloth",
+      "Meanings": [
+        "پارچه",
+        "بافته خیلی ریز الیاف شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "cloud point",
+      "Meanings": [
+        "نقطه ابری شدن"
+      ]
+    },
+    {
+      "EnglishWord": "cluster",
+      "Meanings": [
+        "خوشه"
+      ]
+    },
+    {
+      "EnglishWord": "cluster cluster aggregation",
+      "Meanings": [
+        "تجمع خوشه",
+        "خوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "co axial cable",
+      "Meanings": [
+        "کابل هم محور"
+      ]
+    },
+    {
+      "EnglishWord": "co heterotactic",
+      "Meanings": [
+        "هم",
+        "ناجور آرایش"
+      ]
+    },
+    {
+      "EnglishWord": "co rotating",
+      "Meanings": [
+        "همسوگرد"
+      ]
+    },
+    {
+      "EnglishWord": "co solvent",
+      "Meanings": [
+        "حلالهای آلی قابل امتزاج با آب را گویند. در رنگ‌های آب پایه غالبا نیاز به کمک حلال هاست تا عملیات تولید را آسان‌تر کرده و خواص کاربردی رنگ را بهتر نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "co stabilizer",
+      "Meanings": [
+        "پایدار کننده کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "coacervation",
+      "Meanings": [
+        "توده شدن",
+        "انباشته شدن",
+        "لخته شدن"
+      ]
+    },
+    {
+      "EnglishWord": "coacervation bath",
+      "Meanings": [
+        "حمام انعقاد"
+      ]
+    },
+    {
+      "EnglishWord": "coagulation",
+      "Meanings": [
+        "لخته شدن",
+        "انعقاد"
+      ]
+    },
+    {
+      "EnglishWord": "coal",
+      "Meanings": [
+        "زغال سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "coalecence",
+      "Meanings": [
+        "به هم پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "coalecent",
+      "Meanings": [
+        "به هم پیوند دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "coalescence",
+      "Meanings": [
+        "بهم پیوست ذرات"
+      ]
+    },
+    {
+      "EnglishWord": "coarse",
+      "Meanings": [
+        "درشت و زبر"
+      ]
+    },
+    {
+      "EnglishWord": "coat",
+      "Meanings": [
+        "پوشش",
+        "پوشه"
+      ]
+    },
+    {
+      "EnglishWord": "coat hanger die",
+      "Meanings": [
+        "دای چوب لباسی"
+      ]
+    },
+    {
+      "EnglishWord": "coated fabric",
+      "Meanings": [
+        "الیاف پوشش داده شده",
+        "الیاف پوشش‏دار"
+      ]
+    },
+    {
+      "EnglishWord": "coated paper",
+      "Meanings": [
+        "کاغذ پوشش‏دار"
+      ]
+    },
+    {
+      "EnglishWord": "coater",
+      "Meanings": [
+        "پوشش‏دهنده",
+        "پوشانه"
+      ]
+    },
+    {
+      "EnglishWord": "coating",
+      "Meanings": [
+        "پوشش‏دهی",
+        "پوشانش",
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "coating process",
+      "Meanings": [
+        "فرایند پوشش دهی"
+      ]
+    },
+    {
+      "EnglishWord": "coating system",
+      "Meanings": [
+        "سامانه پوششی",
+        "سامانه پوشش‏دهی",
+        "سیستم پوشش‏دهی"
+      ]
+    },
+    {
+      "EnglishWord": "cobalt",
+      "Meanings": [
+        "کبالت",
+        "شتاب دهنده رزینهای پلی استر می‌باشد که به همراه اتیل کتون پراکساید استفاده می‌شود و به صورت اکتات یا نفتانات کبالت موجود است"
+      ]
+    },
+    {
+      "EnglishWord": "cocondensate",
+      "Meanings": [
+        "محصول همتراکمی"
+      ]
+    },
+    {
+      "EnglishWord": "cocondensation",
+      "Meanings": [
+        "همتراکمی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient",
+      "Meanings": [
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of thermal expansion",
+      "Meanings": [
+        "ضریب انبساط حرارتی",
+        "تغییر ابعادی مواد به ازای تغییر یک واحد درجه حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "coercive field strength",
+      "Meanings": [
+        "شدت میدان مغناطیسی وادارنده"
+      ]
+    },
+    {
+      "EnglishWord": "coexist",
+      "Meanings": [
+        "همزیستی"
+      ]
+    },
+    {
+      "EnglishWord": "coextrusion",
+      "Meanings": [
+        "هم روزن رانی",
+        "جند روزن رانی",
+        "کو اکستروژن",
+        "هم رانی"
+      ]
+    },
+    {
+      "EnglishWord": "coextrusion adapter",
+      "Meanings": [
+        "رابط هم رانی",
+        "سه راهه هم رانی"
+      ]
+    },
+    {
+      "EnglishWord": "coherent",
+      "Meanings": [
+        "همدوست",
+        "منسجم"
+      ]
+    },
+    {
+      "EnglishWord": "cohesion",
+      "Meanings": [
+        "همچسبی",
+        "پیوستگی",
+        "تمایل مواد برای چسبندگی به خود و حفظ وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "cohesive energy",
+      "Meanings": [
+        "انرژی همچسبی"
+      ]
+    },
+    {
+      "EnglishWord": "cohesive failure",
+      "Meanings": [
+        "شکست همچسبی"
+      ]
+    },
+    {
+      "EnglishWord": "cohesive force",
+      "Meanings": [
+        "نیروی همچسبی"
+      ]
+    },
+    {
+      "EnglishWord": "cohesive network",
+      "Meanings": [
+        "شبکه بهم چسبیده",
+        "شبکه همچسب"
+      ]
+    },
+    {
+      "EnglishWord": "coil",
+      "Meanings": [
+        "مارپیچ",
+        "سیم پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "coil coating",
+      "Meanings": [
+        "کلاف پوش",
+        "کلاف پوشانی"
+      ]
+    },
+    {
+      "EnglishWord": "cold crystallization",
+      "Meanings": [
+        "تبلور سرد"
+      ]
+    },
+    {
+      "EnglishWord": "cold draw",
+      "Meanings": [
+        "سردکشی",
+        "در حالت سرد کشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "cold drawing",
+      "Meanings": [
+        "کشش سرد",
+        "کشش در سرما"
+      ]
+    },
+    {
+      "EnglishWord": "cold drawing die",
+      "Meanings": [
+        "حدیده"
+      ]
+    },
+    {
+      "EnglishWord": "cold emulsion",
+      "Meanings": [
+        "امولسیون سرد"
+      ]
+    },
+    {
+      "EnglishWord": "cold hardening",
+      "Meanings": [
+        "سخت شدن در سرما",
+        "سخت شدگی سرد"
+      ]
+    },
+    {
+      "EnglishWord": "cold junction",
+      "Meanings": [
+        "اتصال سرد",
+        "اتصال در سرما"
+      ]
+    },
+    {
+      "EnglishWord": "cold press molding",
+      "Meanings": [
+        "قالبگیری فشاری سرد"
+      ]
+    },
+    {
+      "EnglishWord": "cold rubber",
+      "Meanings": [
+        "لاستیک سرد وولکانیده در سرما"
+      ]
+    },
+    {
+      "EnglishWord": "cold setting adhesive",
+      "Meanings": [
+        "چسب سردگیر"
+      ]
+    },
+    {
+      "EnglishWord": "cold-draw",
+      "Meanings": [
+        "###text2###"
+      ]
+    },
+    {
+      "EnglishWord": "collagen base",
+      "Meanings": [
+        "پایه کولاژن"
+      ]
+    },
+    {
+      "EnglishWord": "collapse",
+      "Meanings": [
+        "فروپاشی"
+      ]
+    },
+    {
+      "EnglishWord": "collapsible",
+      "Meanings": [
+        "فروپاشیدنی"
+      ]
+    },
+    {
+      "EnglishWord": "collapsing rolls",
+      "Meanings": [
+        "غلتکهای راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "colour",
+      "Meanings": [
+        "رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "colour attribute",
+      "Meanings": [
+        "خصیص? رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "colour space",
+      "Meanings": [
+        "فضارنگ",
+        "فضای رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "colour stimulus",
+      "Meanings": [
+        "محرک رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "colourant",
+      "Meanings": [
+        "رنگ دهنده",
+        "فام دهنده",
+        "رنگ بخش",
+        "موادی هستند که با اضافه کردن به مواد دیگر به آنها فام یا رنگ دلخواه را می‌دهند مرکب‌های رنگی و رنگدانه‌ها از این دسته افزودنی‌ها هستند"
+      ]
+    },
+    {
+      "EnglishWord": "colourant mixture",
+      "Meanings": [
+        "مخلوط رنگ ‏بخش‏ها",
+        "مخلوط رنگ‏‏دهنده‏ها"
+      ]
+    },
+    {
+      "EnglishWord": "colouration",
+      "Meanings": [
+        "رنگ دهندگی",
+        "رنگ بخشی",
+        "رنگش",
+        "رنگ بندی"
+      ]
+    },
+    {
+      "EnglishWord": "colourimeter",
+      "Meanings": [
+        "رنگ سنج"
+      ]
+    },
+    {
+      "EnglishWord": "colourimetry",
+      "Meanings": [
+        "رنگ سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "colouring",
+      "Meanings": [
+        "رنگ بندی",
+        "رنگ دهندگی",
+        "رنگ بخشی",
+        "رنگش"
+      ]
+    },
+    {
+      "EnglishWord": "colourist",
+      "Meanings": [
+        "رنگ شناس"
+      ]
+    },
+    {
+      "EnglishWord": "column matrix",
+      "Meanings": [
+        "ماتریس ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "combination techniques",
+      "Meanings": [
+        "فنون ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "comb-like polymer",
+      "Meanings": [
+        "پلیمر شانه مانند شانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "combustion",
+      "Meanings": [
+        "احتراق"
+      ]
+    },
+    {
+      "EnglishWord": "combustion chamber",
+      "Meanings": [
+        "محفظه احتراق"
+      ]
+    },
+    {
+      "EnglishWord": "comonomer",
+      "Meanings": [
+        "کو مونومر",
+        "مونومر همراه",
+        "همتکپار"
+      ]
+    },
+    {
+      "EnglishWord": "compact disc",
+      "Meanings": [
+        "لوح فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compaction test",
+      "Meanings": [
+        "آزمون فشردگی"
+      ]
+    },
+    {
+      "EnglishWord": "compatibility",
+      "Meanings": [
+        "سازگاری",
+        "امتزاج پذیری",
+        "همخوانی"
+      ]
+    },
+    {
+      "EnglishWord": "compatibilization",
+      "Meanings": [
+        "سازگار سازی"
+      ]
+    },
+    {
+      "EnglishWord": "compatibilizer",
+      "Meanings": [
+        "سازگار ساز"
+      ]
+    },
+    {
+      "EnglishWord": "compatible",
+      "Meanings": [
+        "سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "compatible polymer blend",
+      "Meanings": [
+        "آمیخته پلیمری سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "complex",
+      "Meanings": [
+        "کمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "جزء سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "components",
+      "Meanings": [
+        "قطعات",
+        "اجزاء"
+      ]
+    },
+    {
+      "EnglishWord": "composite",
+      "Meanings": [
+        "کامپوزیت",
+        "ماده مرکب",
+        "چند سازه"
+      ]
+    },
+    {
+      "EnglishWord": "composite leaf spring",
+      "Meanings": [
+        "فنر شمشی تخت کامپوزیتی"
+      ]
+    },
+    {
+      "EnglishWord": "composited extract",
+      "Meanings": [
+        "جریان استخراج شده مرکب یا ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "composition",
+      "Meanings": [
+        "ترکیب بندی",
+        "ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "compound",
+      "Meanings": [
+        "آمیزه",
+        "ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "compounding",
+      "Meanings": [
+        "آمیزه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "compresive strength",
+      "Meanings": [
+        "استحکام فشاری",
+        "مقاومت در برابر نیروهای له کننده و فشاری حداکثر نیروی فشاری بر واحد سطح مقطع قطعه را گویند که می‏تواند در مقابل آن مقاومت کند"
+      ]
+    },
+    {
+      "EnglishWord": "compressibility",
+      "Meanings": [
+        "تراکم پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "compression direct molding",
+      "Meanings": [
+        "قالبگیری فشاری دو مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "compression modulus",
+      "Meanings": [
+        "مدول تراکمی"
+      ]
+    },
+    {
+      "EnglishWord": "compression molding",
+      "Meanings": [
+        "قالبگیری فشاری",
+        "روشی برای قالبگیری پلاستیکهای گرماسخت می‌باشد که قطعات رزین و الیاف بوسیله گذاشتن در قالب باز و سپس بستن آن و نهایتا استفاده از حرارت و فشار و رسیدن به شکل نهایی پخت کامل می‏شوند"
+      ]
+    },
+    {
+      "EnglishWord": "compression pressure",
+      "Meanings": [
+        "فشار متراکم سازی"
+      ]
+    },
+    {
+      "EnglishWord": "compression ratio",
+      "Meanings": [
+        "نسبت تراکم"
+      ]
+    },
+    {
+      "EnglishWord": "compression stress",
+      "Meanings": [
+        "تنش فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "compression zone",
+      "Meanings": [
+        "ناحیه تراکم",
+        "transition zone = compression zone"
+      ]
+    },
+    {
+      "EnglishWord": "computational fluid dynamics",
+      "Meanings": [
+        "دینامیک محاسباتی سیال"
+      ]
+    },
+    {
+      "EnglishWord": "concentrate",
+      "Meanings": [
+        "عصاره"
+      ]
+    },
+    {
+      "EnglishWord": "concentration",
+      "Meanings": [
+        "غلظت"
+      ]
+    },
+    {
+      "EnglishWord": "concentric",
+      "Meanings": [
+        "هم مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "condensate",
+      "Meanings": [
+        "محصول تراکم",
+        "محصول میعان"
+      ]
+    },
+    {
+      "EnglishWord": "condensation",
+      "Meanings": [
+        "تراکم",
+        "میعان",
+        "چگالش"
+      ]
+    },
+    {
+      "EnglishWord": "condensation polymerization",
+      "Meanings": [
+        "پلیمر شدن تراکمی"
+      ]
+    },
+    {
+      "EnglishWord": "condenser",
+      "Meanings": [
+        "چگالنده",
+        "مبرد"
+      ]
+    },
+    {
+      "EnglishWord": "condenser lens",
+      "Meanings": [
+        "عدسی متمرکز ساز"
+      ]
+    },
+    {
+      "EnglishWord": "conducting paint",
+      "Meanings": [
+        "رنگ رسانا",
+        "پوشرنگ رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "conducting polymer",
+      "Meanings": [
+        "پلیمر رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "conduction",
+      "Meanings": [
+        "رسانش"
+      ]
+    },
+    {
+      "EnglishWord": "conduction band",
+      "Meanings": [
+        "نوار رسانش"
+      ]
+    },
+    {
+      "EnglishWord": "conduction stability",
+      "Meanings": [
+        "پایداری رسانشی"
+      ]
+    },
+    {
+      "EnglishWord": "conductive coating",
+      "Meanings": [
+        "پوشش رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "conductive surface",
+      "Meanings": [
+        "سطح رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "conduit",
+      "Meanings": [
+        "لوله حفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "cone",
+      "Meanings": [
+        "مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "cone and plate",
+      "Meanings": [
+        "مخروط و صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "confidence region",
+      "Meanings": [
+        "ناحیه اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "configuration",
+      "Meanings": [
+        "پیکربندی",
+        "آرایش"
+      ]
+    },
+    {
+      "EnglishWord": "conformation",
+      "Meanings": [
+        "صورتبندی"
+      ]
+    },
+    {
+      "EnglishWord": "coni cylindrical",
+      "Meanings": [
+        "استوانه ای همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "conjugated",
+      "Meanings": [
+        "مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "conjugated double bonds",
+      "Meanings": [
+        "پیوندهای دوگانه مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "conjugation",
+      "Meanings": [
+        "مزدوج شدن"
+      ]
+    },
+    {
+      "EnglishWord": "connector",
+      "Meanings": [
+        "رابط"
+      ]
+    },
+    {
+      "EnglishWord": "consecutive processes",
+      "Meanings": [
+        "فرایندهای متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "conservasion of energy",
+      "Meanings": [
+        "بقای انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "conservasion of mass",
+      "Meanings": [
+        "بقای جرم"
+      ]
+    },
+    {
+      "EnglishWord": "consititutive",
+      "Meanings": [
+        "معادله قانونمند"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation",
+      "Meanings": [
+        "یکپارچه کردن",
+        "مرحله ای از فرآیند که رزین و الیاف جهت خروج رزین اضافی",
+        "هواگیری و رسیدن به وزن حجمی خاصی فشرده می‏شوند"
+      ]
+    },
+    {
+      "EnglishWord": "constant output",
+      "Meanings": [
+        "خروجی ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constitutive model",
+      "Meanings": [
+        "مدل اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "constrained",
+      "Meanings": [
+        "محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "constrictor",
+      "Meanings": [
+        "فشار دهنده",
+        "متراکم کننده",
+        "تنگناساز"
+      ]
+    },
+    {
+      "EnglishWord": "construction",
+      "Meanings": [
+        "ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "consumption per capita",
+      "Meanings": [
+        "مصرف سرانه"
+      ]
+    },
+    {
+      "EnglishWord": "contact",
+      "Meanings": [
+        "تماس",
+        "تماسی"
+      ]
+    },
+    {
+      "EnglishWord": "contact heater",
+      "Meanings": [
+        "گرمکن تماسی"
+      ]
+    },
+    {
+      "EnglishWord": "contact lens",
+      "Meanings": [
+        "عدسی تماسی"
+      ]
+    },
+    {
+      "EnglishWord": "contact molding",
+      "Meanings": [
+        "قالبگیری تماسی",
+        "فرآیند قالب باز که شامل پاشش پوشش ژلی و متعاقب آن فرآیند لایه گذاری دستی یا فرآیند لایه گذاری پاششی با الیاف و رزین می‏باشد. همچنین لایه گذاری ‏یا لایه گذاری با فشار پایین نیز نامیده می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "contact resistance",
+      "Meanings": [
+        "مقاومت تماسی"
+      ]
+    },
+    {
+      "EnglishWord": "contactor",
+      "Meanings": [
+        "مجاور کننده"
+      ]
+    },
+    {
+      "EnglishWord": "container coating",
+      "Meanings": [
+        "پوشش ظروف"
+      ]
+    },
+    {
+      "EnglishWord": "contamination",
+      "Meanings": [
+        "آلودگی"
+      ]
+    },
+    {
+      "EnglishWord": "content",
+      "Meanings": [
+        "جزء"
+      ]
+    },
+    {
+      "EnglishWord": "continuity equation",
+      "Meanings": [
+        "معادله پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "continuous",
+      "Meanings": [
+        "پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous change of stress",
+      "Meanings": [
+        "تغییرات پیوسته تنش"
+      ]
+    },
+    {
+      "EnglishWord": "continuous drag force",
+      "Meanings": [
+        "نیروی پسای پس زدن پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous fibers",
+      "Meanings": [
+        "الیاف پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous filament strand",
+      "Meanings": [
+        "دسته رشته پیوسته",
+        "دسته ای از رشته‌های الیاف با قطر کم و انعطاف پذیر در طولهای نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "continuous laminating",
+      "Meanings": [
+        "لایه گذاری پیوسته",
+        "فرآیندی است که برای ساختن ورقها و صفحات استفاده می‌شود بدین صورت که تافته یا نمد از درون رزین عبور کرده و در بین پوشش سلفونی قرار داده و سپس از منطقه حرارتی برای پخت عبور داده می‏شود‏. غلتکهای فشرده کننده",
+        "ضخامت و میزان رزین صفحات یا ورقها را کنترل می‏کنند"
+      ]
+    },
+    {
+      "EnglishWord": "continuous process",
+      "Meanings": [
+        "فرایند پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous pyrolyzer",
+      "Meanings": [
+        "تفکافت گر پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous reactor cascade",
+      "Meanings": [
+        "رآکتور پیوسته آبشاری"
+      ]
+    },
+    {
+      "EnglishWord": "continuous roving",
+      "Meanings": [
+        "نیم تاب پیوسته",
+        "رشته‌های موازی پوشش داده شده که باهم بصورت دسته رشته‌های ساده و یا جمعی جمع شده و بدور سیلندر پیچیده می‌شود. اینها معمولا در نیم تاب بافته شده",
+        "رشته پیچی",
+        "کشش رانی یا محصولات با استحکام بالا استفاده می‏شوند"
+      ]
+    },
+    {
+      "EnglishWord": "continuous service temperature",
+      "Meanings": [
+        "دمای کاربرد پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "contour cut",
+      "Meanings": [
+        "طرحی",
+        "برشی"
+      ]
+    },
+    {
+      "EnglishWord": "contraction",
+      "Meanings": [
+        "انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "contrast",
+      "Meanings": [
+        "تمایز جلوه"
+      ]
+    },
+    {
+      "EnglishWord": "contrast ratio",
+      "Meanings": [
+        "نسبت تباین",
+        "معیار اندازه گیری قدرت رنگدانه برای پوشاندن سطح زیر کار که با سرعت پاشش رنگ ارتباط دارد. نسبت تباین 98% یعنی سطح زیر کار کاملا با رنگ پوشانده شده است"
+      ]
+    },
+    {
+      "EnglishWord": "controlled release",
+      "Meanings": [
+        "آزاد سازی کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "convection",
+      "Meanings": [
+        "جابجایی",
+        "همرفت"
+      ]
+    },
+    {
+      "EnglishWord": "convection heat",
+      "Meanings": [
+        "گرمایش جابجایی",
+        "فرآیندی که در آن گرما از قسمتی از سیال به قسمت دیگری از آن به دلیل حرکت خود سیال",
+        "انتقال می‌یابد. علت وقوع این پدیده تغییر چگالی سیال در اثر افزایش یا کاهش دما است"
+      ]
+    },
+    {
+      "EnglishWord": "convergence",
+      "Meanings": [
+        "تقارب",
+        "همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "convergency criteria",
+      "Meanings": [
+        "معیارهای همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "converging annulus",
+      "Meanings": [
+        "استوانه‌های هم مرکز همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "conversion",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion coating",
+      "Meanings": [
+        "پوشش تبدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "convertible coating material",
+      "Meanings": [
+        "ماده پوششی تبدیل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "conveyer belt",
+      "Meanings": [
+        "تسمه نقاله"
+      ]
+    },
+    {
+      "EnglishWord": "conveyor",
+      "Meanings": [
+        "نقاله"
+      ]
+    },
+    {
+      "EnglishWord": "convolusion",
+      "Meanings": [
+        "پیچ و تاب خورده"
+      ]
+    },
+    {
+      "EnglishWord": "convoluted shape",
+      "Meanings": [
+        "شکل تاب دار پیچ خورده"
+      ]
+    },
+    {
+      "EnglishWord": "coolant",
+      "Meanings": [
+        "سردکن"
+      ]
+    },
+    {
+      "EnglishWord": "cooler",
+      "Meanings": [
+        "خنک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "cooling rate",
+      "Meanings": [
+        "سرعت سردسازی"
+      ]
+    },
+    {
+      "EnglishWord": "coordination number",
+      "Meanings": [
+        "عدد کویوردیناسیون"
+      ]
+    },
+    {
+      "EnglishWord": "copolymer",
+      "Meanings": [
+        "کوپلیمر",
+        "پلیمر شریک",
+        "همبسپار",
+        "زنجیر بلند شیمیایی که حداقل از دو منومر یا تکپار غیر مشابه تشکیل شده است"
+      ]
+    },
+    {
+      "EnglishWord": "copolymerization",
+      "Meanings": [
+        "کوپلیمر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "core",
+      "Meanings": [
+        "هسته",
+        "مغزی",
+        "بخش میانی سازه‌های ساندویچی"
+      ]
+    },
+    {
+      "EnglishWord": "core density",
+      "Meanings": [
+        "چگالی هسته",
+        "جرم مخصوص هسته"
+      ]
+    },
+    {
+      "EnglishWord": "core of the screw",
+      "Meanings": [
+        "مغزه پیچ",
+        "هسته پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "coreactant",
+      "Meanings": [
+        "هم واکنش دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "correction factor",
+      "Meanings": [
+        "ضریب تصحیح"
+      ]
+    },
+    {
+      "EnglishWord": "correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation energy",
+      "Meanings": [
+        "انرژی همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation length",
+      "Meanings": [
+        "طول همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion",
+      "Meanings": [
+        "خورندگی",
+        "خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion cell",
+      "Meanings": [
+        "پیل خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion protection",
+      "Meanings": [
+        "حفاظت از خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion resistance",
+      "Meanings": [
+        "مقاومت در برابر خوردگی",
+        "مقاوم به خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosive",
+      "Meanings": [
+        "خورنده"
+      ]
+    },
+    {
+      "EnglishWord": "corrugated cardboard",
+      "Meanings": [
+        "مقوای کنگره ای"
+      ]
+    },
+    {
+      "EnglishWord": "corrugated pipe",
+      "Meanings": [
+        "لوله خرطومی"
+      ]
+    },
+    {
+      "EnglishWord": "cosmetic",
+      "Meanings": [
+        "آرایشی"
+      ]
+    },
+    {
+      "EnglishWord": "cotton linter",
+      "Meanings": [
+        "خرده پنبه"
+      ]
+    },
+    {
+      "EnglishWord": "counter ion",
+      "Meanings": [
+        "یون مخالف",
+        "یون مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "counter rotating",
+      "Meanings": [
+        "ناهمسوگرد"
+      ]
+    },
+    {
+      "EnglishWord": "counting analysis",
+      "Meanings": [
+        "تحلیل شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "coupler",
+      "Meanings": [
+        "جفت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "coupling",
+      "Meanings": [
+        "جفت شدن"
+      ]
+    },
+    {
+      "EnglishWord": "coupling agent",
+      "Meanings": [
+        "عامل جفت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "coupling matrix",
+      "Meanings": [
+        "ماتریس مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "covalent bond",
+      "Meanings": [
+        "پیوند کووالانسی",
+        "پیوند اشتراکی"
+      ]
+    },
+    {
+      "EnglishWord": "cowebbed",
+      "Meanings": [
+        "تار عنکبوتی",
+        "روشی که قبلا برای اعمال پوشش رویه بروی قطعه برای ایجاد اثر سیاه رگی یا میزان برجستگی استفاده شده است. جریانی پیوسته یا شبه پیوسته از رنگ دیگری که بر رنگ پایه پاشیده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "crack",
+      "Meanings": [
+        "ترک"
+      ]
+    },
+    {
+      "EnglishWord": "crack extension force",
+      "Meanings": [
+        "نیروی توسعه ترک"
+      ]
+    },
+    {
+      "EnglishWord": "cracker roll",
+      "Meanings": [
+        "غلتک فروشکن"
+      ]
+    },
+    {
+      "EnglishWord": "cracking",
+      "Meanings": [
+        "شکستن",
+        "ترک برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "crank shaft",
+      "Meanings": [
+        "میل لنگ"
+      ]
+    },
+    {
+      "EnglishWord": "craze",
+      "Meanings": [
+        "ترک مویی"
+      ]
+    },
+    {
+      "EnglishWord": "crazing",
+      "Meanings": [
+        "مویه زایی",
+        "ترکچه ای شدن",
+        "ترک مویی",
+        "ترکهایی که بر اثر تنشهای داخلی ایجاد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "creel",
+      "Meanings": [
+        "قرقره میله"
+      ]
+    },
+    {
+      "EnglishWord": "creep",
+      "Meanings": [
+        "خزش"
+      ]
+    },
+    {
+      "EnglishWord": "creep contract ratio",
+      "Meanings": [
+        "نسبت انقباض خزش"
+      ]
+    },
+    {
+      "EnglishWord": "creep failure",
+      "Meanings": [
+        "ناکارآمدگی خزشی"
+      ]
+    },
+    {
+      "EnglishWord": "creep modulus",
+      "Meanings": [
+        "مدول خزش"
+      ]
+    },
+    {
+      "EnglishWord": "creep resistance",
+      "Meanings": [
+        "مقاومت خزشی"
+      ]
+    },
+    {
+      "EnglishWord": "creep rupture",
+      "Meanings": [
+        "پارگی خزشی",
+        "گسیختگی خزشی"
+      ]
+    },
+    {
+      "EnglishWord": "crimp",
+      "Meanings": [
+        "موج و فر",
+        "چین و شکن"
+      ]
+    },
+    {
+      "EnglishWord": "crimper",
+      "Meanings": [
+        "موجدار کننده"
+      ]
+    },
+    {
+      "EnglishWord": "criterion",
+      "Meanings": [
+        "معیار"
+      ]
+    },
+    {
+      "EnglishWord": "critical",
+      "Meanings": [
+        "بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical chain length",
+      "Meanings": [
+        "طول بحرانی زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "critical free volume",
+      "Meanings": [
+        "حجم آزاد بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical opalescence",
+      "Meanings": [
+        "کدورت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical oxygen index",
+      "Meanings": [
+        "شاخص بحرانی اکسیژن"
+      ]
+    },
+    {
+      "EnglishWord": "critical phenomenon",
+      "Meanings": [
+        "پدیده بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical pigment volume concentration",
+      "Meanings": [
+        "غلظت حجمی بحرانی رنگدانه"
+      ]
+    },
+    {
+      "EnglishWord": "critical point",
+      "Meanings": [
+        "نقطه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical strain energy release rate",
+      "Meanings": [
+        "سرعت رهایش انرژی بحرانی کرنش"
+      ]
+    },
+    {
+      "EnglishWord": "critical stress intensity factor",
+      "Meanings": [
+        "ضریب شدت بحرانی تنش"
+      ]
+    },
+    {
+      "EnglishWord": "cross addition",
+      "Meanings": [
+        "افزایش عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross circulation",
+      "Meanings": [
+        "جریان متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross laminated",
+      "Meanings": [
+        "لایه گذاری متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross link",
+      "Meanings": [
+        "اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross linkage",
+      "Meanings": [
+        "اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross linked",
+      "Meanings": [
+        "دارای اتصال عرضی",
+        "شبکه ای شده"
+      ]
+    },
+    {
+      "EnglishWord": "cross linked polyethylene",
+      "Meanings": [
+        "پلی اتیلن دارای اتصال عرضی شبکه ای شده"
+      ]
+    },
+    {
+      "EnglishWord": "cross linked polymer",
+      "Meanings": [
+        "پلیمر با اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross linked units",
+      "Meanings": [
+        "واحدهای دارای اتصال عرضی شبکه ای شده"
+      ]
+    },
+    {
+      "EnglishWord": "cross linker",
+      "Meanings": [
+        "عامل ایجاد اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross linking",
+      "Meanings": [
+        "ایجاد اتصال عرضی",
+        "شبکه ای شدن",
+        "فرآیند ایجاد پل یا اتصالات عرضی در بین زنجیرهای بسپار که باعث سخت شدن بسپار می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "cross linking nodes",
+      "Meanings": [
+        "گره‌های اتصال عرضی شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "cross polarised light",
+      "Meanings": [
+        "نور قطبیده متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross section",
+      "Meanings": [
+        "مقطع عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross sectional",
+      "Meanings": [
+        "سطح مقطع",
+        "سطح مقطع عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "cross sectional area",
+      "Meanings": [
+        "سطح مقطع عرضی",
+        "مساحت سطح مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "crossed polarizer",
+      "Meanings": [
+        "قطبی کننده متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crosshead",
+      "Meanings": [
+        "کلگی متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crosslink",
+      "Meanings": [
+        "اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinked polymer",
+      "Meanings": [
+        "پلیمر با اتصال عرضی پلیمر مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinker",
+      "Meanings": [
+        "عامل ایجاد اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinking",
+      "Meanings": [
+        "ایجاد اتصال عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "crowding factor",
+      "Meanings": [
+        "ضریب تجمع"
+      ]
+    },
+    {
+      "EnglishWord": "crown",
+      "Meanings": [
+        "تاج"
+      ]
+    },
+    {
+      "EnglishWord": "crown ether",
+      "Meanings": [
+        "اتر تاجی"
+      ]
+    },
+    {
+      "EnglishWord": "crowsfoot",
+      "Meanings": [
+        "چهارتایی",
+        "پاکلاغی"
+      ]
+    },
+    {
+      "EnglishWord": "crucible",
+      "Meanings": [
+        "بوته"
+      ]
+    },
+    {
+      "EnglishWord": "crusher",
+      "Meanings": [
+        "خرد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "cryogen",
+      "Meanings": [
+        "سرمازا"
+      ]
+    },
+    {
+      "EnglishWord": "cryogenics",
+      "Meanings": [
+        "سرمازایی"
+      ]
+    },
+    {
+      "EnglishWord": "cryometry",
+      "Meanings": [
+        "سرماسنجی",
+        "انجماد سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "cryostat",
+      "Meanings": [
+        "سرماپای"
+      ]
+    },
+    {
+      "EnglishWord": "crystal defect",
+      "Meanings": [
+        "نقص بلور"
+      ]
+    },
+    {
+      "EnglishWord": "crystal lattice",
+      "Meanings": [
+        "شبکه بلور"
+      ]
+    },
+    {
+      "EnglishWord": "crystalline structure",
+      "Meanings": [
+        "ساختار بلوری"
+      ]
+    },
+    {
+      "EnglishWord": "crystalline texture",
+      "Meanings": [
+        "بافت بلوری"
+      ]
+    },
+    {
+      "EnglishWord": "crystallinity",
+      "Meanings": [
+        "بلورینگی",
+        "قابلیت تبلور",
+        "کریستالینیتی"
+      ]
+    },
+    {
+      "EnglishWord": "crystallinity index",
+      "Meanings": [
+        "شاخص بلورینگی"
+      ]
+    },
+    {
+      "EnglishWord": "crystallite",
+      "Meanings": [
+        "بلورچه"
+      ]
+    },
+    {
+      "EnglishWord": "crystallization",
+      "Meanings": [
+        "تبلور"
+      ]
+    },
+    {
+      "EnglishWord": "crystallography",
+      "Meanings": [
+        "بلورشناسی",
+        "بلورنگاری"
+      ]
+    },
+    {
+      "EnglishWord": "cubic",
+      "Meanings": [
+        "مکعبی"
+      ]
+    },
+    {
+      "EnglishWord": "culvert",
+      "Meanings": [
+        "آبگذر زیر جاده"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative molecular weight",
+      "Meanings": [
+        "وزن مولکولی تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cup gun",
+      "Meanings": [
+        "تفنگ پاشش ظرف دار"
+      ]
+    },
+    {
+      "EnglishWord": "cure",
+      "Meanings": [
+        "پخت",
+        "پروراندن",
+        "بسپارش یا تبدیل از فاز مایع به جامد با ایجاد حداکثر خواص فیزیکی مانند دمای شیشه ای و سختی و دمای خمش حرارتی و"
+      ]
+    },
+    {
+      "EnglishWord": "cure cycle",
+      "Meanings": [
+        "چرخ? پخت"
+      ]
+    },
+    {
+      "EnglishWord": "cure equivalent",
+      "Meanings": [
+        "هم ارز پخت",
+        "معادل پخت"
+      ]
+    },
+    {
+      "EnglishWord": "cure time",
+      "Meanings": [
+        "زمان پخت",
+        "زمان لازم برای رسیدن رزین مایع به حالت بسپار شده بعد از افزودن فعال کننده"
+      ]
+    },
+    {
+      "EnglishWord": "curing",
+      "Meanings": [
+        "پخت"
+      ]
+    },
+    {
+      "EnglishWord": "curing agent",
+      "Meanings": [
+        "عامل پخت"
+      ]
+    },
+    {
+      "EnglishWord": "curing system",
+      "Meanings": [
+        "سیستم پخت"
+      ]
+    },
+    {
+      "EnglishWord": "curing time",
+      "Meanings": [
+        "زمان پخت"
+      ]
+    },
+    {
+      "EnglishWord": "curl",
+      "Meanings": [
+        "پیچ خوردن"
+      ]
+    },
+    {
+      "EnglishWord": "curtain coating",
+      "Meanings": [
+        "پوشانش پرده‏ای",
+        "پوشش‏دهی پرده‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "curved",
+      "Meanings": [
+        "انحنادار"
+      ]
+    },
+    {
+      "EnglishWord": "cushion",
+      "Meanings": [
+        "بالشتک",
+        "حوضچه مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "cutting device",
+      "Meanings": [
+        "وسیله برش"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic deformation",
+      "Meanings": [
+        "تغییر شکل تناوبی"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic exposure test",
+      "Meanings": [
+        "آزمون مواجهه چرخه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic voltametry",
+      "Meanings": [
+        "ولتامتری چرخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "cyclization",
+      "Meanings": [
+        "حلقه ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "cyclolinear polymer",
+      "Meanings": [
+        "پلیمر خطی حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "cyclone",
+      "Meanings": [
+        "سیکلون",
+        "گردبادساز"
+      ]
+    },
+    {
+      "EnglishWord": "cytotoxicity",
+      "Meanings": [
+        "سمیت سلولی"
+      ]
+    }
+  ]
+}

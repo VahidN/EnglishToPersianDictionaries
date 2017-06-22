@@ -1,0 +1,26 @@
+﻿{
+  "Group": "#",
+  "Entries": 2,
+  "Words": [
+    {
+      "EnglishWord": "#const",
+      "Meanings": [
+        "دستوری برای تعریف کامپایل",
+        "#Const constname = expression"
+      ]
+    },
+    {
+      "EnglishWord": "#if...then...#",
+      "Meanings": [
+        "دستوری مخصوص کامپایل کردن",
+        "#If expression Then",
+        "statements",
+        "[ #ElseIf expression",
+        "n Then",
+        "]",
+        "[ #Else",
+        "#End If"
+      ]
+    }
+  ]
+}

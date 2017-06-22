@@ -1,0 +1,866 @@
+﻿{
+  "Group": "V",
+  "Entries": 137,
+  "Words": [
+    {
+      "EnglishWord": "v.a.t. value added tax",
+      "Meanings": [
+        "مالیات بر ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "vacation",
+      "Meanings": [
+        "مرخصی"
+      ]
+    },
+    {
+      "EnglishWord": "vacation pay",
+      "Meanings": [
+        "حقوق ایام مرخصی",
+        "دستمزد ایام مرخصی"
+      ]
+    },
+    {
+      "EnglishWord": "vaction pay expense",
+      "Meanings": [
+        "هزینه مرخصی"
+      ]
+    },
+    {
+      "EnglishWord": "vaction pay payable",
+      "Meanings": [
+        "هزینه مرخصی پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "vale of work certified",
+      "Meanings": [
+        "ارزش کار تایید شده"
+      ]
+    },
+    {
+      "EnglishWord": "valid",
+      "Meanings": [
+        "معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "validation",
+      "Meanings": [
+        "اعتبار دهی"
+      ]
+    },
+    {
+      "EnglishWord": "validity of the l/c",
+      "Meanings": [
+        "مهلت اعتبار اسنادی"
+      ]
+    },
+    {
+      "EnglishWord": "valuable",
+      "Meanings": [
+        "باارزش"
+      ]
+    },
+    {
+      "EnglishWord": "valuation",
+      "Meanings": [
+        "تعیین ارزش ارزشیابی ارزشگذاری",
+        "ارزشیابی",
+        "ارزش گذاری",
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation accounting",
+      "Meanings": [
+        "حسابداری ارزشیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation accounts",
+      "Meanings": [
+        "حسابهای ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation allowance",
+      "Meanings": [
+        "ذخیره ارزشیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation allowance account",
+      "Meanings": [
+        "حساب ارزشیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation differences",
+      "Meanings": [
+        "تفاوتهای ارزشیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation methodology",
+      "Meanings": [
+        "روش شناسی تعیین ارزش روش ارزشگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "valuation model",
+      "Meanings": [
+        "مدل تعیین شده ارزش مدل ارزشگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "valuation of inventories",
+      "Meanings": [
+        "ارزشیابی موجودیها"
+      ]
+    },
+    {
+      "EnglishWord": "valuation or allocation",
+      "Meanings": [
+        "لرزشیابی یا تخصیص"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "ارزش",
+        "ارزش کل"
+      ]
+    },
+    {
+      "EnglishWord": "value added activity",
+      "Meanings": [
+        "فعالیت ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added chain",
+      "Meanings": [
+        "جریان اطلاعات در زنجیره ارزش افزوده",
+        "زنجیره ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added costs",
+      "Meanings": [
+        "هزینه‌های ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added networks",
+      "Meanings": [
+        "شبکه ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added standard",
+      "Meanings": [
+        "استاندارد ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added tax",
+      "Meanings": [
+        "مالیات بر ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value added tax vat value added taxvat",
+      "Meanings": [
+        "مالیات بر ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value based management",
+      "Meanings": [
+        "مدیریت مبتنی بر ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value chain",
+      "Meanings": [
+        "زنجیره ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value chain analysis",
+      "Meanings": [
+        "تجزیه و تحلیل زنجیره ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value chart",
+      "Meanings": [
+        "نمودار ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value drivers",
+      "Meanings": [
+        "عوامل ایجاد ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value engineering  ve",
+      "Meanings": [
+        "مهندسی ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value for money audit",
+      "Meanings": [
+        "حسابرسی عملیاتی حسابرسی اثر بخشی",
+        "کارآیی و صرفه اقصادی"
+      ]
+    },
+    {
+      "EnglishWord": "value in exchange",
+      "Meanings": [
+        "ارزش مبادله / معاوضه",
+        "قضاوتهای ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "value judgements",
+      "Meanings": [
+        "ارزش مبادله"
+      ]
+    },
+    {
+      "EnglishWord": "value judgment",
+      "Meanings": [
+        "قضاوت مبتنی بر ارزشهای اخلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "value line composite index",
+      "Meanings": [
+        "شاخص جامع ولیولاین"
+      ]
+    },
+    {
+      "EnglishWord": "value of a bond",
+      "Meanings": [
+        "ارزش اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "value of work certified",
+      "Meanings": [
+        "ارزش کارگواهی شده"
+      ]
+    },
+    {
+      "EnglishWord": "value relative",
+      "Meanings": [
+        "ارزش نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "value stock",
+      "Meanings": [
+        "سهام ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "value weighted market index",
+      "Meanings": [
+        "شاخص مبتنی بر میانگین موزون ارزش سهام"
+      ]
+    },
+    {
+      "EnglishWord": "valuing securities",
+      "Meanings": [
+        "تعیین ارزش اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "variability of returns",
+      "Meanings": [
+        "تغییرپذیری بازده‌ها نوسان بازده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "variable",
+      "Meanings": [
+        "متغییر",
+        "متغیر",
+        "متنوع"
+      ]
+    },
+    {
+      "EnglishWord": "variable budget",
+      "Meanings": [
+        "بودجه متغیر نام دیگر بودجه انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable cash flow",
+      "Meanings": [
+        "الگوی متغیر گردش نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "variable cost",
+      "Meanings": [
+        "هزینه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable cost percentage",
+      "Meanings": [
+        "درصد هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "variable cost plus pricing",
+      "Meanings": [
+        "قیمت گذاری بر مبنای هزینه متغیر باضافه درصد معینی سود"
+      ]
+    },
+    {
+      "EnglishWord": "variable cost ratio",
+      "Meanings": [
+        "نسبت هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "variable costing",
+      "Meanings": [
+        "هزینه یابی متغیر نام دیگر هزینه یابی مستقیم",
+        "هزینه یابی متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable costs",
+      "Meanings": [
+        "هزینه‌های متغیر",
+        "متغیر بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "variable costs per unit",
+      "Meanings": [
+        "هزینه‌های متغیر هر واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "variable factory overhead",
+      "Meanings": [
+        "سربارمتغیر ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "variable factory overhead costs",
+      "Meanings": [
+        "هزینه‌های سربار متغیر در کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "variable growth model",
+      "Meanings": [
+        "مدل مبتنی بر رشد متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable income securities",
+      "Meanings": [
+        "اوراق بهادار با درآمد سود متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable of interest",
+      "Meanings": [
+        "متغیرهای مورد نظر متغیرهای مورد مطالعه"
+      ]
+    },
+    {
+      "EnglishWord": "variable overhead efficiency variance",
+      "Meanings": [
+        "انحراف کارآیی سربار متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable overhead spending variance",
+      "Meanings": [
+        "انحراف مصرف هزینه سربار متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable overhead standard",
+      "Meanings": [
+        "استاندارد سربار متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable pricing policy",
+      "Meanings": [
+        "سیاست قیمت گذاری متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable rate",
+      "Meanings": [
+        "ضریب متغیر نرخ متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable sampling",
+      "Meanings": [
+        "نمونه گیری بر اساس متغیرها",
+        "نمونه گیری متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable selling and administrative costs",
+      "Meanings": [
+        "هزینه‌های متغیرهای فروش و اداری"
+      ]
+    },
+    {
+      "EnglishWord": "variable test",
+      "Meanings": [
+        "آزمون متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable-income secutities",
+      "Meanings": [
+        "اوراق بهادار با درآمد متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variables column",
+      "Meanings": [
+        "ستون متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "variables row",
+      "Meanings": [
+        "سطر متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "واریانس انحراف مغایرت",
+        "واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance analysis",
+      "Meanings": [
+        "تجزیه و تحلیل انحراف /انحرافات",
+        "تجزیه و تحلیل انحراف",
+        "آنالیز واریانس",
+        "تجزیه تحلیل انحرافات"
+      ]
+    },
+    {
+      "EnglishWord": "variance covariance matrix",
+      "Meanings": [
+        "ماتریس واریانس کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance disposition",
+      "Meanings": [
+        "بستن به صفر رساندن انحراف انحرافات"
+      ]
+    },
+    {
+      "EnglishWord": "variance investigation",
+      "Meanings": [
+        "بررسی تجزیه و تحلیل انحرافات"
+      ]
+    },
+    {
+      "EnglishWord": "variances",
+      "Meanings": [
+        "انحرافات",
+        "مغایرات"
+      ]
+    },
+    {
+      "EnglishWord": "variation",
+      "Meanings": [
+        "تغییر",
+        "تنوع"
+      ]
+    },
+    {
+      "EnglishWord": "velocity of money",
+      "Meanings": [
+        "سرعت گردش پول"
+      ]
+    },
+    {
+      "EnglishWord": "vender",
+      "Meanings": [
+        "فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "vendor",
+      "Meanings": [
+        "فروشنده تاجر"
+      ]
+    },
+    {
+      "EnglishWord": "vendors  invoice",
+      "Meanings": [
+        "صورتحساب فروشنده فاکتور فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "vendors  statement",
+      "Meanings": [
+        "فاکتور فروشنده صورتحساب فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "vendor's statement",
+      "Meanings": [
+        "صورتحساب فروشندگان مواد و کالا"
+      ]
+    },
+    {
+      "EnglishWord": "venture capital",
+      "Meanings": [
+        "سرمایه گذاری مخاطره آمیز"
+      ]
+    },
+    {
+      "EnglishWord": "verifiability",
+      "Meanings": [
+        "قابل حسابرسی بودن قابلیت تایید یارد قابلیت رسیدگی",
+        "قابلیت اثبات و تایید"
+      ]
+    },
+    {
+      "EnglishWord": "verifiable data",
+      "Meanings": [
+        "اطلاعات قابل رسیدگی قابل حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "verification",
+      "Meanings": [
+        "بررسی تبیین",
+        "بازبینی",
+        "ممیزی"
+      ]
+    },
+    {
+      "EnglishWord": "verify",
+      "Meanings": [
+        "بررسی صحت و سقم تبیین کردن برسی بمنظور تایید یا رد کردن",
+        "بازبینی",
+        "بازبینی و اثبات",
+        "تصدیق کردن",
+        "اثبات کردن"
+      ]
+    },
+    {
+      "EnglishWord": "vertex",
+      "Meanings": [
+        "راس اوج"
+      ]
+    },
+    {
+      "EnglishWord": "vertical",
+      "Meanings": [
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical analysis",
+      "Meanings": [
+        "تجزیه و تحلیل عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical combination",
+      "Meanings": [
+        "ترکیب عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical integration",
+      "Meanings": [
+        "ادغام عمودی",
+        "الحاق عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical merger",
+      "Meanings": [
+        "ادغام عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical transfers",
+      "Meanings": [
+        "انتقالات عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vested",
+      "Meanings": [
+        "اعطا شده قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "vested interests",
+      "Meanings": [
+        "منافع/حقوق اعطایی/ قطعی شده"
+      ]
+    },
+    {
+      "EnglishWord": "vested or unvested",
+      "Meanings": [
+        "مزایای تعلق گرفته یا تعلق نگرفته"
+      ]
+    },
+    {
+      "EnglishWord": "vesting",
+      "Meanings": [
+        "مزایای متعلقه"
+      ]
+    },
+    {
+      "EnglishWord": "via",
+      "Meanings": [
+        "از طریق"
+      ]
+    },
+    {
+      "EnglishWord": "vice chairman",
+      "Meanings": [
+        "نایب رییس هیات مدیره"
+      ]
+    },
+    {
+      "EnglishWord": "vice president of finance",
+      "Meanings": [
+        "معاون / معاونت مالی معاون امور مالی"
+      ]
+    },
+    {
+      "EnglishWord": "vice-president",
+      "Meanings": [
+        "نایب رییس"
+      ]
+    },
+    {
+      "EnglishWord": "violation of laws and government regulations",
+      "Meanings": [
+        "نقض قوانین و مقررات دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "visa",
+      "Meanings": [
+        "ویزا"
+      ]
+    },
+    {
+      "EnglishWord": "viscous neutrals",
+      "Meanings": [
+        "مواد با گرانروی بالا"
+      ]
+    },
+    {
+      "EnglishWord": "vision",
+      "Meanings": [
+        "پنداره بینش"
+      ]
+    },
+    {
+      "EnglishWord": "vision statement",
+      "Meanings": [
+        "بیانیه پنداره‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "visual -display unit",
+      "Meanings": [
+        "صفحه نمایش مانیتور"
+      ]
+    },
+    {
+      "EnglishWord": "vocational training",
+      "Meanings": [
+        "آموزش حرفه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "voice in management",
+      "Meanings": [
+        "نفوذ در هیات مدیره"
+      ]
+    },
+    {
+      "EnglishWord": "void",
+      "Meanings": [
+        "باطل",
+        "بی‌اثر",
+        "بی اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "حجم"
+      ]
+    },
+    {
+      "EnglishWord": "volume based measures",
+      "Meanings": [
+        "اندازه‌های مبتنی برحجم"
+      ]
+    },
+    {
+      "EnglishWord": "volume of shares traded",
+      "Meanings": [
+        "حجم سهام داد و ستد شده حجم معاملات سهام"
+      ]
+    },
+    {
+      "EnglishWord": "volume variance",
+      "Meanings": [
+        "انحراف حجم"
+      ]
+    },
+    {
+      "EnglishWord": "voluminous data information",
+      "Meanings": [
+        "اطاعات حجیم زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary",
+      "Meanings": [
+        "داوطلبانه"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary disclosure",
+      "Meanings": [
+        "افشا گری اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "vote",
+      "Meanings": [
+        "رای"
+      ]
+    },
+    {
+      "EnglishWord": "voting bond",
+      "Meanings": [
+        "اوراق قرضه با حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "voting by proxy",
+      "Meanings": [
+        "رای‌دهی وکالتی اعطای حق رای به مدیران",
+        "اعطای حق رای به مدیران"
+      ]
+    },
+    {
+      "EnglishWord": "voting power",
+      "Meanings": [
+        "قدرت رای دهی"
+      ]
+    },
+    {
+      "EnglishWord": "voting shares",
+      "Meanings": [
+        "سهام با حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "voting stock",
+      "Meanings": [
+        "سیهام با حق رای سهام دارای حق رای",
+        "سهام با حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "vouch",
+      "Meanings": [
+        "بررسی اسناد و مدارک اولیه سندرسی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "voucher",
+      "Meanings": [
+        "دفتر اسناد هزینه",
+        "سند هزینه",
+        "سند دفتر هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "voucher register",
+      "Meanings": [
+        "سیستم سند هزینه",
+        "معین بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "voucher system",
+      "Meanings": [
+        "سیستم نگهداری و ثبت اسناد هزینه",
+        "سیستم اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "vouchers",
+      "Meanings": [
+        "اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "vouchers payable",
+      "Meanings": [
+        "اسناد پرداختی",
+        "برگه‌های پرداختنی",
+        "اسناد پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "vouching",
+      "Meanings": [
+        "سندرسی"
+      ]
+    },
+    {
+      "EnglishWord": "vouchvouching",
+      "Meanings": [
+        "سند رسی"
+      ]
+    },
+    {
+      "EnglishWord": "voyage",
+      "Meanings": [
+        "سفر دریایی",
+        "سفر"
+      ]
+    },
+    {
+      "EnglishWord": "voyage charter",
+      "Meanings": [
+        "حواله کتبی"
+      ]
+    }
+  ]
+}

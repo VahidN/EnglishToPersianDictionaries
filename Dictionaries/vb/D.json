@@ -1,0 +1,460 @@
+﻿{
+  "Group": "D",
+  "Entries": 63,
+  "Words": [
+    {
+      "EnglishWord": "dao",
+      "Meanings": [
+        "D ata A ccess O bject"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده",
+        "یکی از اشیاء VB برای نمایش اطلاعات یک فایل بانک اطلاعاتی",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "data control",
+      "Meanings": [
+        "کنترل داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data type",
+      "Meanings": [
+        "نوع داده"
+      ]
+    },
+    {
+      "EnglishWord": "database",
+      "Meanings": [
+        "پایگاه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "database programming",
+      "Meanings": [
+        "برنامه نویسی تحت پایگاه داده‌ها و بانک اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "databasename",
+      "Meanings": [
+        "یکی از متددهای شیء Data برای مشاهده نام فایل داده"
+      ]
+    },
+    {
+      "EnglishWord": "dataenvironment",
+      "Meanings": [
+        "برنامه ای برای مشخص کردن یک یا چند پایگاه داده ای برای استفاده در تهیه یا و…",
+        "برای اضافه کردن آن از منوی Project گزینه Add DataEnvironment را انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "datareport",
+      "Meanings": [
+        "گزارش داده‌ها",
+        "برنامه ای که گزارشی از داده‌ها می‌سازد",
+        "برای اضافه کردن آن به پروژه از منوی Project گزینه Add Data Report را انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "date",
+      "Meanings": [
+        "تاریخ",
+        "زمان",
+        "نوعی از متغیرها که مقدار آن برابر هشت بایت است و به آن می‌توان تمام تاریخهای از 1 ژانویه سال 100 تا 31 دسامبر سال 9999 را داد",
+        "دستور که تاریخ را بر می‌گرداند",
+        "Date Date"
+      ]
+    },
+    {
+      "EnglishWord": "date$",
+      "Meanings": [
+        "دستوری که تاریخ کنونی را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "dateserial",
+      "Meanings": [
+        "دستوری که سه عدد دریافت می‌کند و آنها را به تاریخ تبدیل می‌کند",
+        "DateSerial year"
+      ]
+    },
+    {
+      "EnglishWord": "datetimepicker control",
+      "Meanings": [
+        "کنترلی که تاریخ و زمان را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "datevalue",
+      "Meanings": [
+        "دستوری که متغیر دریافت شده را به تاریخ تبدیل می‌کند",
+        "DateValue date"
+      ]
+    },
+    {
+      "EnglishWord": "day",
+      "Meanings": [
+        "روز",
+        "دستوری که شماره روز در ماه را بر می‌گرداند عددی بین 1 تا",
+        "Day date"
+      ]
+    },
+    {
+      "EnglishWord": "dbl",
+      "Meanings": [
+        "D ou bl e"
+      ]
+    },
+    {
+      "EnglishWord": "dblclick",
+      "Meanings": [
+        "D ou bl e Click",
+        "دبل کلیک",
+        "دوبار کلیک",
+        "که کد را با دوبار کلیک اجا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "dca",
+      "Meanings": [
+        "Active Designer cache"
+      ]
+    },
+    {
+      "EnglishWord": "ddbl",
+      "Meanings": [
+        "دستوری که متغیر را به Double تبدیل می‌کند",
+        "CDouble Expression"
+      ]
+    },
+    {
+      "EnglishWord": "ddf",
+      "Meanings": [
+        "Package and Deployment Wizard CAB information file"
+      ]
+    },
+    {
+      "EnglishWord": "debug",
+      "Meanings": [
+        "اشکال گرفتن",
+        "برطرف کردن خطاهای برنامه هنگام اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "dec",
+      "Meanings": [
+        "Dec imal"
+      ]
+    },
+    {
+      "EnglishWord": "decimal",
+      "Meanings": [
+        "اعشاری",
+        "دهگانی",
+        "نوعی از متغیرها که مقدار آن برابر چهارده بایت است و مخصوص اعداد اعشاری است"
+      ]
+    },
+    {
+      "EnglishWord": "declaration",
+      "Meanings": [
+        "اعلان",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "declare",
+      "Meanings": [
+        "تعریف کردن",
+        "اعلان کردن",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "declares",
+      "Meanings": [
+        "یکی از گزینه‌های API Type برنامه API Viewer برای دستورات Declare"
+      ]
+    },
+    {
+      "EnglishWord": "default",
+      "Meanings": [
+        "پیش فرض",
+        "یکی از خصیصه‌های دکمه‌ها که با زدن کلید Enter آن را اجرا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "delete",
+      "Meanings": [
+        "پاک کردن",
+        "برای پاک کردن کد انتخاب شده گزینه Delete را از منوی Edit انتخاب کنید یا کلید Del را فشار دهید",
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای پاک کردن یک ردیف از پایگاه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "deletefile",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای پاک کردن یک فایل",
+        "object . DeleteFile filespec ["
+      ]
+    },
+    {
+      "EnglishWord": "deletefolder",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای پاک کردن یک فولدر",
+        "object . DeleteFolder folderspec ["
+      ]
+    },
+    {
+      "EnglishWord": "deletesetting",
+      "Meanings": [
+        "پاک کردن تنظیمات از Registry",
+        "DeleteSetting appname"
+      ]
+    },
+    {
+      "EnglishWord": "dep",
+      "Meanings": [
+        "Package and Deployment Wizard dependency file"
+      ]
+    },
+    {
+      "EnglishWord": "derived math",
+      "Meanings": [
+        "فرمولهای اشتقاقی",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "description",
+      "Meanings": [
+        "شرح",
+        "یکی از متددهای شیء Err که شرح خطا را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "design",
+      "Meanings": [
+        "طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "design time",
+      "Meanings": [
+        "زمان طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "dhtml",
+      "Meanings": [
+        "D ynamic HTML",
+        "زبان HTML پویا برای ساخت ساخت صفحات اینترنتی",
+        "برای ساخت یک صفحه وب با VB گزینه DHTML Application را از پنجره New Project انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "dhtml application",
+      "Meanings": [
+        "یکی از گزینه‌های پنجره New Project برای ساخت صفحه وب"
+      ]
+    },
+    {
+      "EnglishWord": "dictionary",
+      "Meanings": [
+        "دیکشنری",
+        "شیءیی که در آن دو متغیر وارد می‌کنیم و یکی به عنوان لغت و دیگری به عنوان معنی آن حساب می‌شود. برای ساخت دیکشنری از دستور زیر استفاده کنید",
+        "Scripting.Dictionary",
+        "و یا اینکه در قسمت References در منوی Project گزینه Microsoft Scripting Runtime را انتخاب کنید و متغیری مانند زیر تعریف کنید",
+        "Dim VaName As New Dictionary",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "dim",
+      "Meanings": [
+        "تابعی برای تعریف متغیرها و نوع آنها و ذخیره آنها در حافظه",
+        "برای استفاده از آن چنین عمل می‌کنیم",
+        "Dim VarName As VarType",
+        "برای تعریف آرایه‌های داینامیک چنین عمل می‌کنیم",
+        "Dim DynArray n"
+      ]
+    },
+    {
+      "EnglishWord": "dir",
+      "Meanings": [
+        "Dir ectory",
+        "مسیر و دایرکتوری",
+        "این لغت برای نامگذاری DirListBox استفاده می‌شود به صورت DirName",
+        "یکی از خصیصه‌های شیء FileSystem که فایلهای سیستمی در یک مسیر را نشان می‌دهد",
+        "Dir [ pathname ["
+      ]
+    },
+    {
+      "EnglishWord": "dirlistbox",
+      "Meanings": [
+        "Dir ectory List Box",
+        "جعبه لیست فایلها و مسیرها",
+        "یکی از شیء‌های VB که شکل یک جعبه لیست مسیرها را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "رنگ آن خصیصه BackColor"
+      ]
+    },
+    {
+      "EnglishWord": "division operator  /",
+      "Meanings": [
+        "عمل تقسیم",
+        "برای انجام عمل ضرب از علامت / استفاده می‌کنیم. مانند",
+        "result = number1/number"
+      ]
+    },
+    {
+      "EnglishWord": "dlg",
+      "Meanings": [
+        "D ia l o g",
+        "این لغت برای نامگذاری Common Dialog استفاده می‌شود به صورت dlgName"
+      ]
+    },
+    {
+      "EnglishWord": "dll",
+      "Meanings": [
+        "D ynamic",
+        "L ink L ibrary",
+        "فایلهای DLL",
+        "برای ساختن یک فایل DLL از برنامه تان گزینه Make Project. Dll را از منوی File انتخاب کنید",
+        "برای وارد کردن یک فایل DLL در برنامه تان گزینه References را از منوی Project انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "do until/loop",
+      "Meanings": [
+        "یکی از ساختارهای تکراری VB که اگر دستور با موافقت روبرو نشد آن را دوباره اجرا می‌کند در غیر این صورت از اجرای آن صرفنظر می‌کند",
+        "Do",
+        "Loop"
+      ]
+    },
+    {
+      "EnglishWord": "do while/loop",
+      "Meanings": [
+        "یکی از ساختارهای تکراری VB که اگر دستور با موافقت روبرو شد آن را دوباره اجرا می‌کند در غیر این صورت از اجرای آن صرفنظر می‌کند",
+        "Do",
+        "Loop"
+      ]
+    },
+    {
+      "EnglishWord": "do...loop",
+      "Meanings": [
+        "یکی از ساختارهای تکراری VB که اگر دستور با موافقت روبرو شد آن را دوباره اجرا می‌کند در غیر این صورت از اجرای آن صرفنظر می‌کند",
+        "Do condition",
+        "Loop"
+      ]
+    },
+    {
+      "EnglishWord": "dob",
+      "Meanings": [
+        "ActiveX document form file"
+      ]
+    },
+    {
+      "EnglishWord": "doevents",
+      "Meanings": [
+        "دستوری برای بازگشت به یک رویداد و اجرای آن",
+        "DoEvents"
+      ]
+    },
+    {
+      "EnglishWord": "dot net",
+      "Meanings": [
+        "دات نت"
+      ]
+    },
+    {
+      "EnglishWord": "double",
+      "Meanings": [
+        "مضاعف",
+        "نوعی از متغیرها که مقدار آن برابر هشت بایت است و اگر منفی باشد مقدار آن برابر است با",
+        ". 79769313486232E308 تا",
+        ". 94065645841247E",
+        "و اگر مثبت باشد مقدار آن برابر است با 4. 94065645841247E",
+        "تا 1. 79769313486232E"
+      ]
+    },
+    {
+      "EnglishWord": "dox",
+      "Meanings": [
+        "ActiveX document binary form file"
+      ]
+    },
+    {
+      "EnglishWord": "drivelistbox",
+      "Meanings": [
+        "جعبه لیست درایوها",
+        "یکی از شیء‌های VB که شکل یک جعبه درایو را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "رنگ آن خصیصه BackColor"
+      ]
+    },
+    {
+      "EnglishWord": "dropdown combo",
+      "Meanings": [
+        "لیست پایین آمدنی",
+        "یکی از گزینه‌های خصیصه Style جعبه کومبو که شکل کومبو را به صورت یک لیست باز شدنی مشخص می‌کند که قابل تغییر است"
+      ]
+    },
+    {
+      "EnglishWord": "dropdown list",
+      "Meanings": [
+        "لیست پایین آمدنی",
+        "یکی از گزینه‌های خصیصه Style جعبه کومبو که شکل کومبو را به صورت یک لیست باز شدنی مشخص می‌کند که قابل تغییر نمی‌باشد و فقط خواندنی است"
+      ]
+    },
+    {
+      "EnglishWord": "drv",
+      "Meanings": [
+        "Dr i v e",
+        "درایو",
+        "این لغت برای نامگذاری DriveListBox استفاده می‌شود به صورت DrvName"
+      ]
+    },
+    {
+      "EnglishWord": "dsr",
+      "Meanings": [
+        "Active Designer file"
+      ]
+    },
+    {
+      "EnglishWord": "dsx",
+      "Meanings": [
+        "Active Designer binary file"
+      ]
+    },
+    {
+      "EnglishWord": "dtor",
+      "Meanings": [
+        "دستوری برای تبدیل درجه به رادیان",
+        "DTOR nExpression"
+      ]
+    },
+    {
+      "EnglishWord": "dws",
+      "Meanings": [
+        "Deployment wizard script file"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic array",
+      "Meanings": [
+        "آرایه ای که سایز قابل تغییر باشد",
+        "رجوع به: و"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic html",
+      "Meanings": [
+        "رجوع به"
+      ]
+    }
+  ]
+}

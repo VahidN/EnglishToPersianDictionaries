@@ -1,0 +1,446 @@
+﻿{
+  "Group": "H",
+  "Entries": 69,
+  "Words": [
+    {
+      "EnglishWord": "hacker",
+      "Meanings": [
+        "اشخاص غیر مسیول قادر به دستیابی به سیستم‌های کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "half duplex",
+      "Meanings": [
+        "مداری که داده‌ها در یک جهت ارسال و دریافت می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "half register",
+      "Meanings": [
+        "نیم ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "half word",
+      "Meanings": [
+        "نیم کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "handle",
+      "Meanings": [
+        "دستگیره"
+      ]
+    },
+    {
+      "EnglishWord": "handler",
+      "Meanings": [
+        "تابع به کار گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "handshaking",
+      "Meanings": [
+        "پروتکلی که دو کامپیوتر و وسایل جانبی قادر به تبادل اطلاعاتند"
+      ]
+    },
+    {
+      "EnglishWord": "handwriting recognition",
+      "Meanings": [
+        "تشخیص دست نوشته"
+      ]
+    },
+    {
+      "EnglishWord": "hard automation",
+      "Meanings": [
+        "اتوماسیون تک منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "hard copy",
+      "Meanings": [
+        "خروجی ضبط شده روی یک صفحه کاغذ یا فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "hard disk",
+      "Meanings": [
+        "دیسک سخت",
+        "مبانی",
+        "دیسک‌های سخت یا هارد دیسک از یک یا چند صفحه گرد از جنس آلومینیم یا سرامیک تشکیل شده است که بر روی یک محور درون محفظه ای بسته ای دیسک گردان قرار دارند. این صفحه یا صفحه‌ها با سرعتی در حدود چندین هزار دور در دقیقه می‌چرخد یک یا چند بازوی دسترسی بسته به تعداد رویه دیسک هد یا هد‌ها را در امتداد شعاع به جلو وعقب می‌برد و به این ترتیب اطلاعات روی هر شیارtrack می‌تواند خوانده شود گنجایش این دیسک‌ها خیلی بیشتر از فلاپی است و به ده‌ها گیگا بایت می‌رسد"
+      ]
+    },
+    {
+      "EnglishWord": "hard error",
+      "Meanings": [
+        "اشکال سخت افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "hard failure",
+      "Meanings": [
+        "خرابی سخت افزار"
+      ]
+    },
+    {
+      "EnglishWord": "hardware",
+      "Meanings": [
+        "سخت افزار",
+        "مقاله1 مرتبط با سخت افزار",
+        "سخت افزار یا Hardware",
+        "سخت افزار کامپیوتر به تمامی وسایل و امکانات و قطعاتی که قابل لمس بوده و عملا\"\" قابل دیدن",
+        "تغییر دادن و تعمیر و تعویض نمودن میباشندمانند مانیتور",
+        "caseجعبه کامپیوتر",
+        "صفحه کلید",
+        "ماوس",
+        "پرینتر",
+        "اسکنر و ابزارهای درونی یا جانبی آن اتلاق می‌گردد. کامپیوتر ساده ای که ما معمولا با آن سر و کار داریم دارای سه وسیله اصلی زیر میباشد که باید اطلاعاتی از آنها داشته باشیم"
+      ]
+    },
+    {
+      "EnglishWord": "hardware interrupt",
+      "Meanings": [
+        "وقفه سخت افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "hash",
+      "Meanings": [
+        "درهم"
+      ]
+    },
+    {
+      "EnglishWord": "hash coding",
+      "Meanings": [
+        "برنامه نویسی درهم"
+      ]
+    },
+    {
+      "EnglishWord": "hash search",
+      "Meanings": [
+        "جستجوی درهم"
+      ]
+    },
+    {
+      "EnglishWord": "head",
+      "Meanings": [
+        "ابتدا",
+        "سر"
+      ]
+    },
+    {
+      "EnglishWord": "head cleaning device",
+      "Meanings": [
+        "هد پاک کن"
+      ]
+    },
+    {
+      "EnglishWord": "head record",
+      "Meanings": [
+        "گزارش اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "head slot",
+      "Meanings": [
+        "شیار هد"
+      ]
+    },
+    {
+      "EnglishWord": "header",
+      "Meanings": [
+        "سرآمد",
+        "عنوان",
+        "سر صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "header files",
+      "Meanings": [
+        "پرونده‌های سرآمد"
+      ]
+    },
+    {
+      "EnglishWord": "heading",
+      "Meanings": [
+        "عنوان",
+        "سر",
+        "سر فصل"
+      ]
+    },
+    {
+      "EnglishWord": "heap",
+      "Meanings": [
+        "در هم"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneous",
+      "Meanings": [
+        "ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "hexadecimal integer constant",
+      "Meanings": [
+        "ثابتهای صحیح مبنای"
+      ]
+    },
+    {
+      "EnglishWord": "hexadecimal number",
+      "Meanings": [
+        "عدد هگزا دسیمال",
+        "عدد شانزده شانزدهی"
+      ]
+    },
+    {
+      "EnglishWord": "hidden argument",
+      "Meanings": [
+        "آرگومانهی پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "hidden data",
+      "Meanings": [
+        "داده‌های نهان"
+      ]
+    },
+    {
+      "EnglishWord": "hidden file",
+      "Meanings": [
+        "فایل مخفی"
+      ]
+    },
+    {
+      "EnglishWord": "hidden pointer",
+      "Meanings": [
+        "اشاره گر پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "hidden text",
+      "Meanings": [
+        "متن پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "hide",
+      "Meanings": [
+        "÷نهان"
+      ]
+    },
+    {
+      "EnglishWord": "hide columns",
+      "Meanings": [
+        "ستون‌های پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical",
+      "Meanings": [
+        "سلسله مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical model",
+      "Meanings": [
+        "مدل سلسله مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchy chart",
+      "Meanings": [
+        "جدول سلسله مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "high level",
+      "Meanings": [
+        "سطح بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high level documentation",
+      "Meanings": [
+        "مستندات سطح بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high level language",
+      "Meanings": [
+        "زبان سطح بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high memory",
+      "Meanings": [
+        "حافظه فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "high memory area",
+      "Meanings": [
+        "ناحیه حافظه فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "high resolution",
+      "Meanings": [
+        "کیفیت با وضوح زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "highlight",
+      "Meanings": [
+        "پر رنگ کردن",
+        "منور کردن"
+      ]
+    },
+    {
+      "EnglishWord": "highlighted",
+      "Meanings": [
+        "پر رنگ شده",
+        "انتخاب شده"
+      ]
+    },
+    {
+      "EnglishWord": "histogram",
+      "Meanings": [
+        "نمودار مقایسه فراوانی",
+        "هیستو گرام"
+      ]
+    },
+    {
+      "EnglishWord": "home computer",
+      "Meanings": [
+        "کامپیوتر خانگی"
+      ]
+    },
+    {
+      "EnglishWord": "home directory",
+      "Meanings": [
+        "فهرست شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "home grown software",
+      "Meanings": [
+        "نرم افزار خانگی"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous",
+      "Meanings": [
+        "همگن"
+      ]
+    },
+    {
+      "EnglishWord": "host",
+      "Meanings": [
+        "میزبان"
+      ]
+    },
+    {
+      "EnglishWord": "host drive",
+      "Meanings": [
+        "دیسک گردان میزبان"
+      ]
+    },
+    {
+      "EnglishWord": "host language",
+      "Meanings": [
+        "زبان میزبان"
+      ]
+    },
+    {
+      "EnglishWord": "hot key",
+      "Meanings": [
+        "کلید تعریف شده برای اجرای سریع دستور"
+      ]
+    },
+    {
+      "EnglishWord": "hue",
+      "Meanings": [
+        "درجه رنگ",
+        "طیف"
+      ]
+    },
+    {
+      "EnglishWord": "huge",
+      "Meanings": [
+        "عظیم"
+      ]
+    },
+    {
+      "EnglishWord": "human factors",
+      "Meanings": [
+        "فاکتور‌های انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "human machine interface",
+      "Meanings": [
+        "رابط انسان و ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "hyber graph",
+      "Meanings": [
+        "گراف ترکیبی",
+        "شکل ترکیبی",
+        "هایپر گراف"
+      ]
+    },
+    {
+      "EnglishWord": "hyber graph data base structure",
+      "Meanings": [
+        "مدل داده ای هایپر گراف"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid",
+      "Meanings": [
+        "هیبرید",
+        "التقاطی"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid approach",
+      "Meanings": [
+        "روندهیبرید",
+        "روندی که اسمبل کردن سیستم‌ها با دو یا چند ابزار موجود است"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid computer",
+      "Meanings": [
+        "کامپیوتر هیبرید",
+        "کامپیوتر شامل مدار‌های آنالوگ و دیجیتال"
+      ]
+    },
+    {
+      "EnglishWord": "hyper text",
+      "Meanings": [
+        "متن ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "hypermedia",
+      "Meanings": [
+        "رساند ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "hyphen",
+      "Meanings": [
+        "خط فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical",
+      "Meanings": [
+        "فرضی"
+      ]
+    }
+  ]
+}

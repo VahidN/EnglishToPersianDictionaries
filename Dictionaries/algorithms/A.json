@@ -1,0 +1,448 @@
+﻿{
+  "Group": "A",
+  "Entries": 73,
+  "Words": [
+    {
+      "EnglishWord": "a",
+      "Meanings": [
+        "حرف اول از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 10 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "absolute performance guarantee",
+      "Meanings": [
+        "ضمانت کارایی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "abstract",
+      "Meanings": [
+        "انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "abstract data type",
+      "Meanings": [
+        "داده گونه انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "accepting state",
+      "Meanings": [
+        "حالت پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "ackermann's function",
+      "Meanings": [
+        "تابع آکرمن"
+      ]
+    },
+    {
+      "EnglishWord": "ackerman's function",
+      "Meanings": [
+        "تابع آکرمن"
+      ]
+    },
+    {
+      "EnglishWord": "activity",
+      "Meanings": [
+        "فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "actual",
+      "Meanings": [
+        "واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic",
+      "Meanings": [
+        "بدون دور"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic digraph",
+      "Meanings": [
+        "گراف جهت دار بی دور"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic directed graph",
+      "Meanings": [
+        "گراف جهت دار بی دور"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic graph",
+      "Meanings": [
+        "گراف بی دور"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive heap sort",
+      "Meanings": [
+        "مرتب ساز هرمی تطابقی"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive k-d tree",
+      "Meanings": [
+        "درخت K",
+        "d تطابقی"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive sort",
+      "Meanings": [
+        "مرتب ساز تطابقی"
+      ]
+    },
+    {
+      "EnglishWord": "address calculation sort",
+      "Meanings": [
+        "مرتب ساز محاسبه گر آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency list",
+      "Meanings": [
+        "لیست مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency list representation",
+      "Meanings": [
+        "نمایش لیست مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency matrice",
+      "Meanings": [
+        "ماتریس مجاورتی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency matrix",
+      "Meanings": [
+        "ماتریس مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency matrix representation",
+      "Meanings": [
+        "نمایش ماتریس مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency multilist",
+      "Meanings": [
+        "لیست چندگانه مجاورتی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent",
+      "Meanings": [
+        "مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "admissible vertex",
+      "Meanings": [
+        "راس مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adversary",
+      "Meanings": [
+        "رقیب"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm",
+      "Meanings": [
+        "الگوریتم"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic decomposition",
+      "Meanings": [
+        "تجزیه الگوریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "algorithms",
+      "Meanings": [
+        "الگوریتم ها",
+        "اسم جمع الگوریتم"
+      ]
+    },
+    {
+      "EnglishWord": "all pairs shortest path",
+      "Meanings": [
+        "کوتاهترین مسیر بین هر دو راس"
+      ]
+    },
+    {
+      "EnglishWord": "alphabet",
+      "Meanings": [
+        "الفبا"
+      ]
+    },
+    {
+      "EnglishWord": "alternating path",
+      "Meanings": [
+        "مسیر تناوبی"
+      ]
+    },
+    {
+      "EnglishWord": "alternating turing machine",
+      "Meanings": [
+        "ماشین تورینگ تناوبی"
+      ]
+    },
+    {
+      "EnglishWord": "alternation",
+      "Meanings": [
+        "تناوب"
+      ]
+    },
+    {
+      "EnglishWord": "amortize",
+      "Meanings": [
+        "سر شکن"
+      ]
+    },
+    {
+      "EnglishWord": "amortized cost",
+      "Meanings": [
+        "هزینه سر شکن شده"
+      ]
+    },
+    {
+      "EnglishWord": "amortized worst case",
+      "Meanings": [
+        "بدترین حالت سر شکن شده"
+      ]
+    },
+    {
+      "EnglishWord": "ancestor",
+      "Meanings": [
+        "جد"
+      ]
+    },
+    {
+      "EnglishWord": "and",
+      "Meanings": [
+        "و"
+      ]
+    },
+    {
+      "EnglishWord": "ansi",
+      "Meanings": [
+        "موسسه استاندارد ملی امریکا"
+      ]
+    },
+    {
+      "EnglishWord": "antichain",
+      "Meanings": [
+        "پاد زنجیره"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric",
+      "Meanings": [
+        "پاد متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "approximation algorithm",
+      "Meanings": [
+        "الگوریتم تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "arc",
+      "Meanings": [
+        "کمان"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "array index",
+      "Meanings": [
+        "اندیس آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "array merging",
+      "Meanings": [
+        "ادغام آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "articulation point",
+      "Meanings": [
+        "مفصل"
+      ]
+    },
+    {
+      "EnglishWord": "articulation vertex",
+      "Meanings": [
+        "مفصل"
+      ]
+    },
+    {
+      "EnglishWord": "artificial",
+      "Meanings": [
+        "ساختگی",
+        "مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment problem",
+      "Meanings": [
+        "مسیله گمارش"
+      ]
+    },
+    {
+      "EnglishWord": "association list",
+      "Meanings": [
+        "لیست شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative",
+      "Meanings": [
+        "شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative array",
+      "Meanings": [
+        "آرایه انجمنی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic",
+      "Meanings": [
+        "مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic bound",
+      "Meanings": [
+        "کران مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic lower bound",
+      "Meanings": [
+        "کران پایین مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic notation",
+      "Meanings": [
+        "نماد مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic space complexity",
+      "Meanings": [
+        "پیچیدگی حافظه مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic time complexity",
+      "Meanings": [
+        "پیچیدگی زمان مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic upper bound",
+      "Meanings": [
+        "کران بالای مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically equal to",
+      "Meanings": [
+        "تساوی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically tight bound",
+      "Meanings": [
+        "کران دقیق مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "augmenting path",
+      "Meanings": [
+        "مسیر افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "automata",
+      "Meanings": [
+        "اتوماتا"
+      ]
+    },
+    {
+      "EnglishWord": "automation",
+      "Meanings": [
+        "اتوماتون"
+      ]
+    },
+    {
+      "EnglishWord": "automation simulation",
+      "Meanings": [
+        "شبیه ساز اتوماتون"
+      ]
+    },
+    {
+      "EnglishWord": "average",
+      "Meanings": [
+        "متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average case",
+      "Meanings": [
+        "حالت متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average case cost",
+      "Meanings": [
+        "هزینه حالت متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average computing time",
+      "Meanings": [
+        "میانگین زمان اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "avl tree",
+      "Meanings": [
+        "درخت AVL"
+      ]
+    }
+  ]
+}

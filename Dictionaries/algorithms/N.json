@@ -1,0 +1,204 @@
+﻿{
+  "Group": "N",
+  "Entries": 33,
+  "Words": [
+    {
+      "EnglishWord": "n",
+      "Meanings": [
+        "چهاردهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "n-ary function",
+      "Meanings": [
+        "تابع n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "nc many-one reducibility",
+      "Meanings": [
+        "کاهش چند به یک NC"
+      ]
+    },
+    {
+      "EnglishWord": "ndfa",
+      "Meanings": [
+        "اتوماتون متناهی غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nearest neighbor",
+      "Meanings": [
+        "نزدیکترین همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "nearest neighbor search",
+      "Meanings": [
+        "جستجوی نزدیکترین همسایه"
+      ]
+    },
+    {
+      "EnglishWord": "negation",
+      "Meanings": [
+        "نفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative",
+      "Meanings": [
+        "منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nested",
+      "Meanings": [
+        "تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network flow",
+      "Meanings": [
+        "شاره شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network flow problem",
+      "Meanings": [
+        "مسیله شاره شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "next",
+      "Meanings": [
+        "بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "next state",
+      "Meanings": [
+        "حالت بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "nist",
+      "Meanings": [
+        "موسسه ملی استاندارد و فناوری امریکا"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "nonbalance",
+      "Meanings": [
+        "نامتوازن"
+      ]
+    },
+    {
+      "EnglishWord": "nonbalanced merge",
+      "Meanings": [
+        "ادغام نامتوازن"
+      ]
+    },
+    {
+      "EnglishWord": "nonbalanced merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی نامتوازن"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic",
+      "Meanings": [
+        "غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic algorithm",
+      "Meanings": [
+        "الگوریتم غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic finite automaton",
+      "Meanings": [
+        "اتوماتون متناهی غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic finite state machine",
+      "Meanings": [
+        "ماشین حالت متناهی غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic finite tree automaton",
+      "Meanings": [
+        "اتوماتون درختی متناهی غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic polynomial time",
+      "Meanings": [
+        "زمان چند جمله ای غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic tree automaton",
+      "Meanings": [
+        "اتوماتون درختی غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "nondeterministic turing machine",
+      "Meanings": [
+        "ماشین تورینگ غیر قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "noniterative",
+      "Meanings": [
+        "غیر تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "noniterative merge",
+      "Meanings": [
+        "ادغام غیر تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "not",
+      "Meanings": [
+        "چنین نیست که"
+      ]
+    },
+    {
+      "EnglishWord": "notation",
+      "Meanings": [
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "np-complete language",
+      "Meanings": [
+        "زبان NP تمام"
+      ]
+    },
+    {
+      "EnglishWord": "nullary function",
+      "Meanings": [
+        "تابع صفر تایی"
+      ]
+    }
+  ]
+}

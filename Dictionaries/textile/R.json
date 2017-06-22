@@ -1,0 +1,4148 @@
+﻿{
+  "Group": "R",
+  "Entries": 608,
+  "Words": [
+    {
+      "EnglishWord": "r",
+      "Meanings": [
+        "هجدهمین حرف لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "r.p.m",
+      "Meanings": [
+        "دور بر دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "r.r.p.m",
+      "Meanings": [
+        "سرعت دورانی فلایر"
+      ]
+    },
+    {
+      "EnglishWord": "ra",
+      "Meanings": [
+        "رامی"
+      ]
+    },
+    {
+      "EnglishWord": "rabbeth",
+      "Meanings": [
+        "ماسوره چوبی"
+      ]
+    },
+    {
+      "EnglishWord": "rabbit",
+      "Meanings": [
+        "خز",
+        "خرگوش"
+      ]
+    },
+    {
+      "EnglishWord": "rabbit fur",
+      "Meanings": [
+        "موی خرگوش",
+        "خز خرگوش"
+      ]
+    },
+    {
+      "EnglishWord": "race board",
+      "Meanings": [
+        "صفحه ماکو",
+        "میز ماکو",
+        "ماکو رو"
+      ]
+    },
+    {
+      "EnglishWord": "racemate",
+      "Meanings": [
+        "مخلوط غیر فعال مساوی ایزومرهای نوری"
+      ]
+    },
+    {
+      "EnglishWord": "racemic",
+      "Meanings": [
+        "مخلوط راسمیک",
+        "مخلوط غیر فعال مساوی ایزومرهای نوری"
+      ]
+    },
+    {
+      "EnglishWord": "rack",
+      "Meanings": [
+        "رک",
+        "برابر با 480 رج بافته شده",
+        "خط کش در ماشین فلایر"
+      ]
+    },
+    {
+      "EnglishWord": "rack gear",
+      "Meanings": [
+        "دنده شانه ای",
+        "شانه دنده"
+      ]
+    },
+    {
+      "EnglishWord": "racked wale effect",
+      "Meanings": [
+        "طرح کج راه",
+        "اثر جابجایی حلقه کج راه",
+        "طرح جابجایی حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "ractant",
+      "Meanings": [
+        "واکنش دهنده",
+        "واکنشگر"
+      ]
+    },
+    {
+      "EnglishWord": "ractant resin",
+      "Meanings": [
+        "رزین واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "raddle",
+      "Meanings": [
+        "رنگ کردن با گل اخرا"
+      ]
+    },
+    {
+      "EnglishWord": "radial feed drum",
+      "Meanings": [
+        "سیتم روتور و تغذیه شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radial feed electrostatic",
+      "Meanings": [
+        "روش تغذیه شعاعی توسط الکتریسیته ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "radiation chemistry",
+      "Meanings": [
+        "شیمی تشعشع"
+      ]
+    },
+    {
+      "EnglishWord": "radiation polymerisation",
+      "Meanings": [
+        "پلیمریزاسیون تشعشعی"
+      ]
+    },
+    {
+      "EnglishWord": "radiation polymerization",
+      "Meanings": [
+        "پلیمریزاسیون تابشی",
+        "پلیمریزاسیون به روش تابشی"
+      ]
+    },
+    {
+      "EnglishWord": "radical",
+      "Meanings": [
+        "بنیان",
+        "رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "radical polymerisation",
+      "Meanings": [
+        "پلیمریزاسیون رادیکالی"
+      ]
+    },
+    {
+      "EnglishWord": "radio activity eliminator",
+      "Meanings": [
+        "برطرف کننده رادیواکتیو الکتریسیته ساکن",
+        "حذف کننده رادیواکتیو الکتریسیته ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "radioactivity",
+      "Meanings": [
+        "تابش",
+        "رادیو اکتیویته",
+        "تشعشع"
+      ]
+    },
+    {
+      "EnglishWord": "radiochemistry",
+      "Meanings": [
+        "رادیو شیمی"
+      ]
+    },
+    {
+      "EnglishWord": "radius of influence",
+      "Meanings": [
+        "شعاع نفوذ",
+        "حوزه نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "rag",
+      "Meanings": [
+        "تکه پارچه",
+        "تکه پارچه کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "rag carbonizing machine",
+      "Meanings": [
+        "ماشین کربنایزینگ پشم کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "rag dyeing",
+      "Meanings": [
+        "رنگرزی پشم کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "rag picking",
+      "Meanings": [
+        "عمل تبدیل پارچه‌های کهنه پشمه به الیاف پشم"
+      ]
+    },
+    {
+      "EnglishWord": "rag pulling",
+      "Meanings": [
+        "تبدیل تکه‌های پارچه و فرش کهنه پشمی به الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "ragged",
+      "Meanings": [
+        "ریش شدن پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "rail",
+      "Meanings": [
+        "ریل",
+        "پایه یا میله افقی",
+        "نرده",
+        "نرده ایمنی",
+        "راه آهن"
+      ]
+    },
+    {
+      "EnglishWord": "railan",
+      "Meanings": [
+        "لیف مصنوعی ریلان ویسکوز پروتیینی"
+      ]
+    },
+    {
+      "EnglishWord": "raiment",
+      "Meanings": [
+        "لباس",
+        "پوشاک",
+        "جامه",
+        "تن پوش"
+      ]
+    },
+    {
+      "EnglishWord": "rain coat",
+      "Meanings": [
+        "کت بارانی",
+        "پالتو بارانی"
+      ]
+    },
+    {
+      "EnglishWord": "rain proofing water repellent",
+      "Meanings": [
+        "ضدآب",
+        "دافع آب"
+      ]
+    },
+    {
+      "EnglishWord": "rain water",
+      "Meanings": [
+        "آب باران"
+      ]
+    },
+    {
+      "EnglishWord": "rainbow",
+      "Meanings": [
+        "لیف مصنوعی راینبو ویسکوز پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "raise",
+      "Meanings": [
+        "افزایش",
+        "بالا بردن",
+        "پرزدار کردن",
+        "خاب دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "raise to",
+      "Meanings": [
+        "پرزدار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "raised effect",
+      "Meanings": [
+        "اثر برجسته",
+        "طرح برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "raised fabric",
+      "Meanings": [
+        "پارچه خابدار",
+        "پارچه خار زده شده"
+      ]
+    },
+    {
+      "EnglishWord": "raised finished",
+      "Meanings": [
+        "تکمیل پرزی"
+      ]
+    },
+    {
+      "EnglishWord": "raisin",
+      "Meanings": [
+        "قرمز مایل به آبی",
+        "کشمشی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "raising",
+      "Meanings": [
+        "خاب دار کردن پارچه",
+        "خار زنی",
+        "بلند کردن الیاف سطح پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "raising machine",
+      "Meanings": [
+        "ماشین خارزنی"
+      ]
+    },
+    {
+      "EnglishWord": "rake",
+      "Meanings": [
+        "صفحه کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "ramie",
+      "Meanings": [
+        "لیف گیاهی رامی"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی",
+        "اتفاقی",
+        "شانسی"
+      ]
+    },
+    {
+      "EnglishWord": "random yarn",
+      "Meanings": [
+        "نوعی نخ فانتزی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier band",
+      "Meanings": [
+        "نوار راپیر",
+        "نوار سرماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier clamp",
+      "Meanings": [
+        "نخ گیر راپیر",
+        "نخ گیر سر ماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier clamp opener",
+      "Meanings": [
+        "بازکننده نخ گیر راپیر",
+        "وسیله بازکننده نخ گیر سر ماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier head",
+      "Meanings": [
+        "سرماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier housing",
+      "Meanings": [
+        "غلاف نوار سرماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rapier loom",
+      "Meanings": [
+        "ماشین بافندگی گیره ای"
+      ]
+    },
+    {
+      "EnglishWord": "rapier rod",
+      "Meanings": [
+        "میله راپیر",
+        "میله سرماکویی"
+      ]
+    },
+    {
+      "EnglishWord": "rare",
+      "Meanings": [
+        "کمیاب",
+        "نادر"
+      ]
+    },
+    {
+      "EnglishWord": "rarefy",
+      "Meanings": [
+        "رقیق کردن",
+        "رقیق شده",
+        "کم کردن فشار",
+        "کم شده فشار"
+      ]
+    },
+    {
+      "EnglishWord": "raschel knit goods",
+      "Meanings": [
+        "پارچه تریکو تاری راشل",
+        "پارچه کشباف راشل"
+      ]
+    },
+    {
+      "EnglishWord": "raschel lace",
+      "Meanings": [
+        "تور راشل",
+        "توری بافت راشل"
+      ]
+    },
+    {
+      "EnglishWord": "raschel warp knitting machine",
+      "Meanings": [
+        "ماشین بافندگی تریکو تاری راشل"
+      ]
+    },
+    {
+      "EnglishWord": "ratch",
+      "Meanings": [
+        "فاصله بین غلتکهای ورودی و خروجی منطقه کشش"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "سرعت",
+        "تندی",
+        "نرخ",
+        "میزان",
+        "اندازه",
+        "نسبت",
+        "درجه",
+        "روش",
+        "مقدار",
+        "آهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rate of absorption",
+      "Meanings": [
+        "نرخ جذب رطوبت",
+        "نرخ جذب مایعات توسط الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "rate of absorption moisture",
+      "Meanings": [
+        "نرخ جذب رطوبت",
+        "سرعت جذب مایعات توسط الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "rate of diffusion",
+      "Meanings": [
+        "سرعت نفوذ",
+        "سرعت پخش",
+        "سرعت انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "rate of dyeing",
+      "Meanings": [
+        "سرعت رنگرزی"
+      ]
+    },
+    {
+      "EnglishWord": "rate of strain",
+      "Meanings": [
+        "نسبت تغییر بعد",
+        "سرعت تغییر بعد",
+        "نرخ تغییر بعد"
+      ]
+    },
+    {
+      "EnglishWord": "rate theory",
+      "Meanings": [
+        "معادله آرنیوس"
+      ]
+    },
+    {
+      "EnglishWord": "ratine",
+      "Meanings": [
+        "ماشین ویژه تکمیل خاص پارچه مخملی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio",
+      "Meanings": [
+        "نسبیت",
+        "نسبت",
+        "سهم",
+        "درصد"
+      ]
+    },
+    {
+      "EnglishWord": "ratujal",
+      "Meanings": [
+        "لیف مصنوعی راتوژال ویسکوز سبک"
+      ]
+    },
+    {
+      "EnglishWord": "ravel",
+      "Meanings": [
+        "قفسه",
+        "نوعی شانه یا ریل چوبی با دندانه‌های جلو آمده برای جدا کردن و راهنمای نخ‌های چله",
+        "نخ کش شدن",
+        "در رفتگی نخ",
+        "ریش شده پارچه",
+        "پیچ انداختن در",
+        "گره دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "raveled out",
+      "Meanings": [
+        "در هم گیر کردن نخ‌ها در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "ravelling",
+      "Meanings": [
+        "نخ کش شدن تریکو"
+      ]
+    },
+    {
+      "EnglishWord": "raw",
+      "Meanings": [
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw cloth raising",
+      "Meanings": [
+        "خار زدن پارچه خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw hide",
+      "Meanings": [
+        "پوست خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw material",
+      "Meanings": [
+        "ماده اولیه",
+        "ماده خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw silk",
+      "Meanings": [
+        "ابریشم خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw stock",
+      "Meanings": [
+        "ماده اولیه الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "raw stock dyeing",
+      "Meanings": [
+        "رنگرزی الیاف",
+        "رنگرزی پلیمر الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "raw water",
+      "Meanings": [
+        "آب خام",
+        "آب تصفیه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "raw wool",
+      "Meanings": [
+        "پشم خام",
+        "پشم شسته نشده"
+      ]
+    },
+    {
+      "EnglishWord": "raycelon",
+      "Meanings": [
+        "لیف مصنوعی ریسیلون نخ تابیده از 5 قسمت ابریشم رشته ای و 3 قسمت نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rayflex",
+      "Meanings": [
+        "لیف مصنوعی ریفلکس ویسکوز سخت رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rayolanda",
+      "Meanings": [
+        "لیف مصنوعی ریولاندا ویسکوز اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "rayon",
+      "Meanings": [
+        "لیف بازیافتی سلولز رایون",
+        "رایون"
+      ]
+    },
+    {
+      "EnglishWord": "rayon fiber",
+      "Meanings": [
+        "لیف مصنوعی رایون"
+      ]
+    },
+    {
+      "EnglishWord": "rayon filament",
+      "Meanings": [
+        "فیلامنت رایون"
+      ]
+    },
+    {
+      "EnglishWord": "rayon staple",
+      "Meanings": [
+        "اشتیپل رایون",
+        "رایون بریده شده"
+      ]
+    },
+    {
+      "EnglishWord": "rayonne",
+      "Meanings": [
+        "لیف مصنوعی رایون نام عمومی ویسکوز رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "re circulating",
+      "Meanings": [
+        "همزدن"
+      ]
+    },
+    {
+      "EnglishWord": "re emulsifying",
+      "Meanings": [
+        "امولسیون سازی مجدد",
+        "دوباده به صورت امولسیون درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "re manufactured material",
+      "Meanings": [
+        "پارچه بافته شده با الیاف باز یافتی از منسوجات کهنه",
+        "لیف پشم باز یافتی از منسوجات کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "re warping",
+      "Meanings": [
+        "اسنو پیچی",
+        "قرقره پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "reacher in",
+      "Meanings": [
+        "کمک طراح",
+        "کمک نخ کش",
+        "کارگر نخ ده"
+      ]
+    },
+    {
+      "EnglishWord": "reaching in machine",
+      "Meanings": [
+        "ماشین کمک طراح"
+      ]
+    },
+    {
+      "EnglishWord": "reacration",
+      "Meanings": [
+        "هواگیری"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "واکنش",
+        "فعل و انفعال",
+        "عکس العمل"
+      ]
+    },
+    {
+      "EnglishWord": "reactive",
+      "Meanings": [
+        "راکتیو",
+        "رنگینه راکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "reactive dye",
+      "Meanings": [
+        "رنگینه راکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "reactivity",
+      "Meanings": [
+        "فعالیت شیمیایی",
+        "تمایل واکنشی",
+        "واکنش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "reactor",
+      "Meanings": [
+        "راکتور",
+        "نوعی ماشین سربسته جهت واکنش‌های شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "reading in",
+      "Meanings": [
+        "نقشه خوانی"
+      ]
+    },
+    {
+      "EnglishWord": "reading in machine",
+      "Meanings": [
+        "دستگاه سوزن‌های نقشه خوانی دابی"
+      ]
+    },
+    {
+      "EnglishWord": "ready to open position",
+      "Meanings": [
+        "دستگاه سوزن‌های نقشه خوانی دابی"
+      ]
+    },
+    {
+      "EnglishWord": "reagent",
+      "Meanings": [
+        "معرف",
+        "معرف شیمیایی",
+        "شناساگر"
+      ]
+    },
+    {
+      "EnglishWord": "real",
+      "Meanings": [
+        "حقیقی",
+        "واقعی",
+        "درست"
+      ]
+    },
+    {
+      "EnglishWord": "real drafting",
+      "Meanings": [
+        "کشش واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real twist",
+      "Meanings": [
+        "تاب حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "rearranged twill",
+      "Meanings": [
+        "سرژه جابجا شده"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangement",
+      "Meanings": [
+        "نوآرایی",
+        "تغییر ساختار اصلی در شیمی"
+      ]
+    },
+    {
+      "EnglishWord": "reason",
+      "Meanings": [
+        "دلیل",
+        "برهان",
+        "علت"
+      ]
+    },
+    {
+      "EnglishWord": "reatants",
+      "Meanings": [
+        "اجزاء ترکیب شونده"
+      ]
+    },
+    {
+      "EnglishWord": "rebate",
+      "Meanings": [
+        "کم کردن",
+        "کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "rebound",
+      "Meanings": [
+        "پس زدن"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal",
+      "Meanings": [
+        "دوسو",
+        "دوجانبه",
+        "دوطرفه",
+        "معکوس",
+        "وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocating knife",
+      "Meanings": [
+        "تیغه نوسان کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocating traverse",
+      "Meanings": [
+        "نوسان نخ بوسیله راهنمای نوسان کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocity",
+      "Meanings": [
+        "واکنش",
+        "عمل متقابل",
+        "عکس العمل"
+      ]
+    },
+    {
+      "EnglishWord": "reclaimed material",
+      "Meanings": [
+        "ماده بازیافتی"
+      ]
+    },
+    {
+      "EnglishWord": "reclaimed rubber",
+      "Meanings": [
+        "لاستیک بازیافتی",
+        "لاستیک بازیابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "reclaimed wool",
+      "Meanings": [
+        "پشم کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "reclining twill",
+      "Meanings": [
+        "سرژه کم شیب",
+        "سرژه کم زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "recognise",
+      "Meanings": [
+        "شناسایی",
+        "شناختن"
+      ]
+    },
+    {
+      "EnglishWord": "recommencement of spinning",
+      "Meanings": [
+        "شروع ریسندگی"
+      ]
+    },
+    {
+      "EnglishWord": "recommend",
+      "Meanings": [
+        "پیشنهاد"
+      ]
+    },
+    {
+      "EnglishWord": "recommended",
+      "Meanings": [
+        "پیشنهاد شده",
+        "توصیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "reconnaissance",
+      "Meanings": [
+        "مطالعه اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "record",
+      "Meanings": [
+        "ضبط کردن",
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "recovered oil",
+      "Meanings": [
+        "روغن بازیابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "recovery angle",
+      "Meanings": [
+        "زاویه بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "recovery behavior",
+      "Meanings": [
+        "خاصیت برگشت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "recovery of protein from wool",
+      "Meanings": [
+        "بازیابی پروتیین از ابریشم"
+      ]
+    },
+    {
+      "EnglishWord": "recovery rate",
+      "Meanings": [
+        "نرخ بازیابی",
+        "میزان برگشت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "recrystalization",
+      "Meanings": [
+        "دوباره کریستالی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "recrystallisation",
+      "Meanings": [
+        "دوباره کریستالی کردن",
+        "تشکیل ساختمان بلورین جدید"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear loom",
+      "Meanings": [
+        "ماشین بافندگی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "recycled material",
+      "Meanings": [
+        "ماده بازیافتی"
+      ]
+    },
+    {
+      "EnglishWord": "red",
+      "Meanings": [
+        "قرمز",
+        "سرخ"
+      ]
+    },
+    {
+      "EnglishWord": "reddish",
+      "Meanings": [
+        "رنگ مایل به قرمز",
+        "مایل به سرخ"
+      ]
+    },
+    {
+      "EnglishWord": "reddish brown",
+      "Meanings": [
+        "رنگ خرمایی",
+        "رنگ قهوه ای مایل به قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "reddle",
+      "Meanings": [
+        "رنگ کردن با گل اخرا"
+      ]
+    },
+    {
+      "EnglishWord": "redirecting roller",
+      "Meanings": [
+        "غلتک تغییر جهت دهنده الیاف در کارد"
+      ]
+    },
+    {
+      "EnglishWord": "redon",
+      "Meanings": [
+        "لیف مصنوعی ردون پلی آکریلونیتریل اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "redox",
+      "Meanings": [
+        "رداکس",
+        "احیاء"
+      ]
+    },
+    {
+      "EnglishWord": "redox reaction",
+      "Meanings": [
+        "واکنش اکسایش کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "redox system",
+      "Meanings": [
+        "سیستم احیاء"
+      ]
+    },
+    {
+      "EnglishWord": "reduce",
+      "Meanings": [
+        "احیاء شدن",
+        "کاهش",
+        "پایین بردن",
+        "ساده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reduced chrome",
+      "Meanings": [
+        "روش کروم احیاء شده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced chrome mordant",
+      "Meanings": [
+        "دندانه کروم احیاء شده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced supercontraction",
+      "Meanings": [
+        "کاهش انبساط الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "reduced viscosity",
+      "Meanings": [
+        "ویسکوزیته کاهش یافته"
+      ]
+    },
+    {
+      "EnglishWord": "reducer",
+      "Meanings": [
+        "احیاء کننده",
+        "حمام احیاء",
+        "ظرف احیاء"
+      ]
+    },
+    {
+      "EnglishWord": "reducing",
+      "Meanings": [
+        "احیاء کردن",
+        "کم کردن",
+        "نازک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reducing agent",
+      "Meanings": [
+        "ماده احیاء کننده",
+        "عامل کاهنده",
+        "کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "reducing and blending",
+      "Meanings": [
+        "باریک و مخلوط کردن الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "reductant",
+      "Meanings": [
+        "احیاء کننده",
+        "احیاء گر",
+        "کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "reductent",
+      "Meanings": [
+        "احیاء کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reducting",
+      "Meanings": [
+        "احیاء کردن",
+        "احیاء سازی"
+      ]
+    },
+    {
+      "EnglishWord": "reduction",
+      "Meanings": [
+        "احیاء کردن",
+        "احیاء سازی",
+        "کاهش",
+        "تقلیل"
+      ]
+    },
+    {
+      "EnglishWord": "reduction bleaching",
+      "Meanings": [
+        "سفیدگری احیایی"
+      ]
+    },
+    {
+      "EnglishWord": "reduction clearing",
+      "Meanings": [
+        "شستشوی احیایی"
+      ]
+    },
+    {
+      "EnglishWord": "reduction in the dye bath",
+      "Meanings": [
+        "احیاء نمودن در حمام رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "redwood",
+      "Meanings": [
+        "نوعی لیف پوست درخت"
+      ]
+    },
+    {
+      "EnglishWord": "reed",
+      "Meanings": [
+        "ماسوره",
+        "شانه قسمتی از دستگاه بافندگی که پودها را در جای خود محکم می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "reed bar",
+      "Meanings": [
+        "میله شانه جایگاه شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed cap",
+      "Meanings": [
+        "کلاهک دفتین",
+        "کلاهک شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed cleaning machine",
+      "Meanings": [
+        "ماشین تمیز کننده شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed comb motion",
+      "Meanings": [
+        "عمل شانه در حین تغذیه در شانه فرانسوی"
+      ]
+    },
+    {
+      "EnglishWord": "reed counting system",
+      "Meanings": [
+        "سیستم نمره بندی شانه بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "reed denting machine",
+      "Meanings": [
+        "ماشین شانه کشی",
+        "ماشین نخ کشی از شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed draft",
+      "Meanings": [
+        "نقشه شانه کشی",
+        "نخ کشی شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed drawing  machine",
+      "Meanings": [
+        "ماشین شانه کشی",
+        "ماشین نخ کشی شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed drawing in machine",
+      "Meanings": [
+        "نخ کشی شانه در ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "reed maker",
+      "Meanings": [
+        "حصیرباف",
+        "شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed mark",
+      "Meanings": [
+        "اثر شانه خراب در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "reed number",
+      "Meanings": [
+        "نمره شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed pitch",
+      "Meanings": [
+        "تعداد دندانه شانه در یک سانتیمتر"
+      ]
+    },
+    {
+      "EnglishWord": "reed plan",
+      "Meanings": [
+        "نقشه شانه کشی",
+        "نقشه نخ کشی شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reed space",
+      "Meanings": [
+        "فضای طول شانه در ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "reeding",
+      "Meanings": [
+        "شانه کشی",
+        "نخ کشی از شانه",
+        "دندانه کردن نخ تار"
+      ]
+    },
+    {
+      "EnglishWord": "reeding machine",
+      "Meanings": [
+        "ماشین شانه کشی",
+        "ماشین نخ کشی شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reeding plan",
+      "Meanings": [
+        "نقشه شانه کشی",
+        "نقشه نخ کشی از شانه"
+      ]
+    },
+    {
+      "EnglishWord": "reedy cloth",
+      "Meanings": [
+        "پارچه دارای جای دندانه‌های پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "reefer",
+      "Meanings": [
+        "پالتو کوتاه و ضخیم ملوانی"
+      ]
+    },
+    {
+      "EnglishWord": "reek",
+      "Meanings": [
+        "بخار"
+      ]
+    },
+    {
+      "EnglishWord": "reek to",
+      "Meanings": [
+        "بخار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "reel",
+      "Meanings": [
+        "ماسوره",
+        "بوبین",
+        "نخ پیچ",
+        "ابریشم کشی",
+        "باز کردن ابریشم از پیله و پیچیدن روی ماسوره",
+        "چرخ ابریشم کشی",
+        "چرخ نخ پیچی",
+        "کلاف پیچ",
+        "قرقره فلانژ دار",
+        "ماشین کلاف پیچی",
+        "نورد چله پیچی بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "reel off to",
+      "Meanings": [
+        "بوبین بازکنی باز کردن نخ از روی بسته"
+      ]
+    },
+    {
+      "EnglishWord": "reel to",
+      "Meanings": [
+        "ماسوره پیچی",
+        "ابریشم کشی باز کردن ابریشم از پیله و پیچیدن روی قرقره"
+      ]
+    },
+    {
+      "EnglishWord": "reeled silk",
+      "Meanings": [
+        "ابریشم باز شده از پیله",
+        "ابریشم کشیده",
+        "ابریشم خام"
+      ]
+    },
+    {
+      "EnglishWord": "reeling",
+      "Meanings": [
+        "پیچیدن نخ ابریشم از پیله روی ماسوره",
+        "نخ پیچی",
+        "نورد پیچی",
+        "کلاف پیچی",
+        "باز کردن ابریشم از پیله"
+      ]
+    },
+    {
+      "EnglishWord": "reeling machine",
+      "Meanings": [
+        "ماشین بوبین پیچی",
+        "ماشین نخ پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "reevon",
+      "Meanings": [
+        "لیف مصنوعی ریوون پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "reference compound",
+      "Meanings": [
+        "ترکیب مرجع",
+        "ماده مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference dyeing",
+      "Meanings": [
+        "رنگرزی مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference sample",
+      "Meanings": [
+        "نمونه مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reflaction",
+      "Meanings": [
+        "شکست نور"
+      ]
+    },
+    {
+      "EnglishWord": "reflectance",
+      "Meanings": [
+        "انعکاس",
+        "بازتابش"
+      ]
+    },
+    {
+      "EnglishWord": "reflectance value",
+      "Meanings": [
+        "مقدار انعکاس",
+        "ارزش بازتاب",
+        "اندیس بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "reflection of light",
+      "Meanings": [
+        "انعکاس نور",
+        "بازتاب نور"
+      ]
+    },
+    {
+      "EnglishWord": "reflex",
+      "Meanings": [
+        "بازتاب",
+        "انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "reflexion",
+      "Meanings": [
+        "بازتاب",
+        "انعکاس",
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "reflux",
+      "Meanings": [
+        "رفلاکس دستگاه تعیین درصد تعیین درصد چربی الیاف پروتیینی"
+      ]
+    },
+    {
+      "EnglishWord": "reforming",
+      "Meanings": [
+        "تبدیل",
+        "تغییر فرم"
+      ]
+    },
+    {
+      "EnglishWord": "refraction",
+      "Meanings": [
+        "انکسار",
+        "شکست نور"
+      ]
+    },
+    {
+      "EnglishWord": "refractive index",
+      "Meanings": [
+        "ضریب شکست نور"
+      ]
+    },
+    {
+      "EnglishWord": "refractomer",
+      "Meanings": [
+        "دستگاه انداره گیری قابلیت جذب نور"
+      ]
+    },
+    {
+      "EnglishWord": "refractory",
+      "Meanings": [
+        "نسوز",
+        "ضد آتش"
+      ]
+    },
+    {
+      "EnglishWord": "refrasil",
+      "Meanings": [
+        "لیف مصنوعی رفراسیل سیلیکا"
+      ]
+    },
+    {
+      "EnglishWord": "refrigeration",
+      "Meanings": [
+        "سرد سازی",
+        "تبرید"
+      ]
+    },
+    {
+      "EnglishWord": "regain",
+      "Meanings": [
+        "بازیابی",
+        "رطوبت بازیافته",
+        "باز یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "regenarated protein fibre",
+      "Meanings": [
+        "لیف پروتیینی باز یافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "regenated fibre",
+      "Meanings": [
+        "لیف بازیافتی",
+        "لیفی که پایه طبیعی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated",
+      "Meanings": [
+        "باز یافته",
+        "باز یافت شده"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated cellulose",
+      "Meanings": [
+        "سلولزباز یافته",
+        "سلولز باز یافت شده"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated cellulose fibre",
+      "Meanings": [
+        "لیف سلولزی باز یافتی"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated cellulose film",
+      "Meanings": [
+        "فیلم سلولزی باز یافتی"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated fiber",
+      "Meanings": [
+        "لیف نیمه مصنوعی باز یافته",
+        "لیف نو ساخته",
+        "لیف از نو بوجود آمده"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated fibre",
+      "Meanings": [
+        "لیف بازیافتی",
+        "لیف باز یابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "regenerated material",
+      "Meanings": [
+        "ماده باز یافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "regeneration",
+      "Meanings": [
+        "باز یابی",
+        "باز یافت",
+        "باز سازی",
+        "ترمیم",
+        "احیاء",
+        "اصلاح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "regenerative",
+      "Meanings": [
+        "باز یافتی",
+        "باز یافته"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "ناحیه",
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "منظم",
+        "باقایده"
+      ]
+    },
+    {
+      "EnglishWord": "regular basket weave",
+      "Meanings": [
+        "بافت پانامای معمولی یا منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular heald",
+      "Meanings": [
+        "ورد معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "regular nylon",
+      "Meanings": [
+        "نایلون معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "regular sateen",
+      "Meanings": [
+        "ساتین منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular thread",
+      "Meanings": [
+        "نخ تار معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "regular twill",
+      "Meanings": [
+        "سرژه منظم",
+        "سرژه معمولی",
+        "سرژه 45درجه"
+      ]
+    },
+    {
+      "EnglishWord": "regularity",
+      "Meanings": [
+        "یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "regulate",
+      "Meanings": [
+        "مرتب کردن",
+        "تنظیم کردن",
+        "منظم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "regulation",
+      "Meanings": [
+        "مرتب",
+        "تنظیم",
+        "منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regulator",
+      "Meanings": [
+        "تنظیم کننده",
+        "کنترل کننده طول زنجیر در پلیمریزاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "reiner",
+      "Meanings": [
+        "ماشین جوراب بافی رینر"
+      ]
+    },
+    {
+      "EnglishWord": "reinforce",
+      "Meanings": [
+        "تقویت کردن",
+        "مسلح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reinforced",
+      "Meanings": [
+        "تقویت شده"
+      ]
+    },
+    {
+      "EnglishWord": "reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده"
+      ]
+    },
+    {
+      "EnglishWord": "reinforcement",
+      "Meanings": [
+        "تقویت",
+        "تقویت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reinforcer",
+      "Meanings": [
+        "تقویت کننده",
+        "کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "ارتباط",
+        "رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relative",
+      "Meanings": [
+        "نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative breaking load",
+      "Meanings": [
+        "بار گسیختگی نسبی",
+        "بار پارگی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative concentration",
+      "Meanings": [
+        "غلظت نسبی",
+        "غلظت متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "relative dielectric constant",
+      "Meanings": [
+        "ثابت دی الکتریک نسبی در پشم"
+      ]
+    },
+    {
+      "EnglishWord": "relative humidity",
+      "Meanings": [
+        "رطوبت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative rate",
+      "Meanings": [
+        "سرعت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative twist of yarn",
+      "Meanings": [
+        "تاب نسبی نخ",
+        "تاب متوسط نخ"
+      ]
+    },
+    {
+      "EnglishWord": "relative velocity",
+      "Meanings": [
+        "سرعت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative viscosity",
+      "Meanings": [
+        "ویسکوزیته نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relatively",
+      "Meanings": [
+        "نسبتا"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation",
+      "Meanings": [
+        "استراحت",
+        "افت تنش",
+        "کاهش تنش",
+        "در جسم تحت کشش ثابت در اثر گذشت زمان رهایی",
+        "برگشت تدریجی به حالت اولیه",
+        "رفع خستگی",
+        "سست سازی"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation of stress",
+      "Meanings": [
+        "رهایی از تنش",
+        "آزاد شدن از تنش"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation shrinkage",
+      "Meanings": [
+        "جمع شدگی ناشی از حذف تنش‌های داخلی کالای پشمی",
+        "آبرفتگی استراحتی",
+        "جمع شدگی استراحتی"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation shrinking",
+      "Meanings": [
+        "جمع شدگی تنشی",
+        "جمع شدگی افت تنشی",
+        "آبرفتگی ناشی از رها یی از تنش"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation time",
+      "Meanings": [
+        "زمان استراحت"
+      ]
+    },
+    {
+      "EnglishWord": "relaxed condition",
+      "Meanings": [
+        "در شرایط آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "release",
+      "Meanings": [
+        "آزاد",
+        "شل",
+        "رها"
+      ]
+    },
+    {
+      "EnglishWord": "release to",
+      "Meanings": [
+        "رها کردن",
+        "شل کردن",
+        "آزاد کردن از کشش"
+      ]
+    },
+    {
+      "EnglishWord": "relication",
+      "Meanings": [
+        "رونوشت گیری",
+        "روشی برای مقطع گیری از الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "relief",
+      "Meanings": [
+        "کاستن",
+        "خلاص کردن"
+      ]
+    },
+    {
+      "EnglishWord": "relief print",
+      "Meanings": [
+        "چاپ برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "relief printing",
+      "Meanings": [
+        "چاپ برجسته",
+        "چاپ با غلتک طرح بر جسته"
+      ]
+    },
+    {
+      "EnglishWord": "relief to",
+      "Meanings": [
+        "کم کردن",
+        "خلاص کردن",
+        "آزاد کردن از تنش"
+      ]
+    },
+    {
+      "EnglishWord": "relon",
+      "Meanings": [
+        "لیف مصنوعی رلون نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "remaining",
+      "Meanings": [
+        "باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "remark",
+      "Meanings": [
+        "ملاحظه",
+        "اظهار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "remote",
+      "Meanings": [
+        "جزیی",
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "renforce",
+      "Meanings": [
+        "نوعی پارچه پنبه ای با بافت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "reorientation",
+      "Meanings": [
+        "آرایش یافتگی مجدد",
+        "آرایش مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "rep",
+      "Meanings": [
+        "بافت ریپس"
+      ]
+    },
+    {
+      "EnglishWord": "repair heald",
+      "Meanings": [
+        "میل میلک کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "repeat",
+      "Meanings": [
+        "راپورت طرح",
+        "تکرار بافت",
+        "واحد تکرار",
+        "نمونه بافت",
+        "نمونه نخ کشی",
+        "تکرار",
+        "تکرار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "repeatable",
+      "Meanings": [
+        "قابل تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "repeating machine",
+      "Meanings": [
+        "ماشین کپی"
+      ]
+    },
+    {
+      "EnglishWord": "repeating unit",
+      "Meanings": [
+        "واحد تکرار شونده در پلیمر‌ها واحد منومری"
+      ]
+    },
+    {
+      "EnglishWord": "repellent",
+      "Meanings": [
+        "ضد باران"
+      ]
+    },
+    {
+      "EnglishWord": "repening",
+      "Meanings": [
+        "رسیدن",
+        "عمل آمدن",
+        "آماده شدن"
+      ]
+    },
+    {
+      "EnglishWord": "repp",
+      "Meanings": [
+        "بافت ریپس"
+      ]
+    },
+    {
+      "EnglishWord": "repps",
+      "Meanings": [
+        "ریپس",
+        "بافت رگه دار"
+      ]
+    },
+    {
+      "EnglishWord": "representative sample",
+      "Meanings": [
+        "نمونه شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "reprocessed wool",
+      "Meanings": [
+        "پشم حاصله از ضایعات منسوجات"
+      ]
+    },
+    {
+      "EnglishWord": "reproduceability",
+      "Meanings": [
+        "تکرا رپذیری",
+        "قابلیت تولید مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reproducibility",
+      "Meanings": [
+        "تکرا رپذیری",
+        "قابلیت تولید دو باره"
+      ]
+    },
+    {
+      "EnglishWord": "reproducing effect",
+      "Meanings": [
+        "اثر تکثیری",
+        "اثر تکرار مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reps",
+      "Meanings": [
+        "بافت ریپس"
+      ]
+    },
+    {
+      "EnglishWord": "repulser",
+      "Meanings": [
+        "میله اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "require to",
+      "Meanings": [
+        "مورد لزوم",
+        "نیاز داشتن",
+        "لازم داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "reseda",
+      "Meanings": [
+        "گیاه اسپرک با رنگینه زرد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "reserve",
+      "Meanings": [
+        "رزرو کردن",
+        "انبار کردن",
+        "ذخیره کردن",
+        "ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "reserve bunch",
+      "Meanings": [
+        "مایه ماسوره",
+        "رزرو ماسوره پود",
+        "نخ ذخیره ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "reservoir",
+      "Meanings": [
+        "ذخیره کننده",
+        "مخزن",
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "residual",
+      "Meanings": [
+        "رسوب شده",
+        "رسوبی",
+        "رسوب دار"
+      ]
+    },
+    {
+      "EnglishWord": "residual grease",
+      "Meanings": [
+        "گریس مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "residual ratio",
+      "Meanings": [
+        "نسبت نگهداری الیاف روی سیلندر در هر دورگردش سیلندر کاردینگ"
+      ]
+    },
+    {
+      "EnglishWord": "residual shrinkage value",
+      "Meanings": [
+        "ظرفیت جمع شدگی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "residual shrinking",
+      "Meanings": [
+        "درصد جمع شدگی بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "residue",
+      "Meanings": [
+        "ته مانده",
+        "باقیمانده",
+        "پسمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residuel draw ratio",
+      "Meanings": [
+        "میزان کشش باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "resilience",
+      "Meanings": [
+        "حالت ارتجاعی",
+        "برگشت پذیری",
+        "جهندگی",
+        "خاصیت ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "resilience factor",
+      "Meanings": [
+        "ضریب ارتجاعیت",
+        "ضریب برگشت پذیری",
+        "ضریب جهندگی"
+      ]
+    },
+    {
+      "EnglishWord": "resiliency",
+      "Meanings": [
+        "جهندگی",
+        "ارتجاعیت"
+      ]
+    },
+    {
+      "EnglishWord": "resilient",
+      "Meanings": [
+        "قابل برگشت الاستیکی",
+        "قابل ارتجاع",
+        "قابلیت جمع و باز شدن الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "resilient elongation",
+      "Meanings": [
+        "ازدیاد طول ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "resilient nip",
+      "Meanings": [
+        "نوک نرم",
+        "نقطه تماس نرم"
+      ]
+    },
+    {
+      "EnglishWord": "resin",
+      "Meanings": [
+        "موم",
+        "صمغ",
+        "رزین"
+      ]
+    },
+    {
+      "EnglishWord": "resin bonded pigment",
+      "Meanings": [
+        "رنگدانه رزینی",
+        "رنگدانه پیوند یافته بارزین",
+        "رنگدانه ای که همراه رزین به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "resin finish",
+      "Meanings": [
+        "تکمیل رزینی",
+        "تکمیل ضد چروک"
+      ]
+    },
+    {
+      "EnglishWord": "resin finishing",
+      "Meanings": [
+        "تکمیل رزینی"
+      ]
+    },
+    {
+      "EnglishWord": "resin grains",
+      "Meanings": [
+        "دانه‌های رزین"
+      ]
+    },
+    {
+      "EnglishWord": "resin soluble dye",
+      "Meanings": [
+        "رنگینه حل شونده در رزین"
+      ]
+    },
+    {
+      "EnglishWord": "resin to",
+      "Meanings": [
+        "رزینی کردن",
+        "آغشته به صمغ یا رزین"
+      ]
+    },
+    {
+      "EnglishWord": "resined edge",
+      "Meanings": [
+        "لبه رزین اندود شده",
+        "کناره رزین اندودشده"
+      ]
+    },
+    {
+      "EnglishWord": "resinous",
+      "Meanings": [
+        "رزینی",
+        "مومی",
+        "صمغی"
+      ]
+    },
+    {
+      "EnglishWord": "resinous substance",
+      "Meanings": [
+        "ماده رزینی"
+      ]
+    },
+    {
+      "EnglishWord": "resist",
+      "Meanings": [
+        "مقاومت",
+        "پایداری",
+        "ممانعت"
+      ]
+    },
+    {
+      "EnglishWord": "resist dyeing",
+      "Meanings": [
+        "رنگرزی مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "resist paste",
+      "Meanings": [
+        "خمیر اسیدی چاپ که نمک نفتل را خنثی می‌کند",
+        "خمیر مقارم چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "resist print",
+      "Meanings": [
+        "چاپ مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "resist printing",
+      "Meanings": [
+        "چاپ مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "resist salt",
+      "Meanings": [
+        "نمک مقاوم",
+        "ماده جلوگیری کننده از پخش رنگ در چاپ"
+      ]
+    },
+    {
+      "EnglishWord": "resistance",
+      "Meanings": [
+        "پایداری",
+        "مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "resistance to ageing",
+      "Meanings": [
+        "مقاومت در برابر گذشت زمان",
+        "عدم تغییر خواص بر اثر گذشت زمان",
+        "فاسد نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance to rubbing",
+      "Meanings": [
+        "مقاومت سایشی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance to yarn slippage",
+      "Meanings": [
+        "مقاومت در برابر جابجایی نخ در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "resister",
+      "Meanings": [
+        "مقاوم",
+        "پایدار",
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "resistibility",
+      "Meanings": [
+        "استعداد مقاومت",
+        "قابلیت پایداری"
+      ]
+    },
+    {
+      "EnglishWord": "resisting agent",
+      "Meanings": [
+        "ماده مقاوم کننده",
+        "ماده مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "resistivity",
+      "Meanings": [
+        "مقاومت ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "جداسازی",
+        "قدرت تفکیک",
+        "تحلیل",
+        "تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "resonance",
+      "Meanings": [
+        "رزونانس",
+        "تشدید"
+      ]
+    },
+    {
+      "EnglishWord": "restore",
+      "Meanings": [
+        "به حالت اول برگرداندن",
+        "تعمیر کردن",
+        "اصلاح کردن",
+        "نو کردن",
+        "تقویت"
+      ]
+    },
+    {
+      "EnglishWord": "resultant draft",
+      "Meanings": [
+        "کشش برآیند",
+        "کشش حاصل"
+      ]
+    },
+    {
+      "EnglishWord": "ret",
+      "Meanings": [
+        "خیساندن",
+        "خیساندن ساقه جهت گرفتن الیاف ازآن"
+      ]
+    },
+    {
+      "EnglishWord": "retaiding agent",
+      "Meanings": [
+        "ریتاردر",
+        "ماده کند کننده"
+      ]
+    },
+    {
+      "EnglishWord": "retaile piece goods",
+      "Meanings": [
+        "پارچه‌های تکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "retardation",
+      "Meanings": [
+        "خزش ازدیاد طول تحت نیروی ثابت که تابعی از زمان باشد"
+      ]
+    },
+    {
+      "EnglishWord": "retarder",
+      "Meanings": [
+        "بازدارنده",
+        "کند کننده",
+        "ریتارد"
+      ]
+    },
+    {
+      "EnglishWord": "retarding agent",
+      "Meanings": [
+        "ماده کند کننده رنگرزی"
+      ]
+    },
+    {
+      "EnglishWord": "retention",
+      "Meanings": [
+        "حافظه",
+        "ضبط",
+        "ابقاء",
+        "نگهداری در خود جای دادن",
+        "نگاه داری"
+      ]
+    },
+    {
+      "EnglishWord": "reticular",
+      "Meanings": [
+        "شبکه ای",
+        "مشبکی"
+      ]
+    },
+    {
+      "EnglishWord": "reticule",
+      "Meanings": [
+        "شبکه",
+        "شبکه شطرنجی"
+      ]
+    },
+    {
+      "EnglishWord": "retilinear comb",
+      "Meanings": [
+        "شانه فرانسوی"
+      ]
+    },
+    {
+      "EnglishWord": "retouching",
+      "Meanings": [
+        "رطوش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "retract",
+      "Meanings": [
+        "تو بردن",
+        "توکشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "retraction device",
+      "Meanings": [
+        "وسیله تو بردن سر پود کناره"
+      ]
+    },
+    {
+      "EnglishWord": "retractyl",
+      "Meanings": [
+        "لیف مصنوعی رتراکتیل پلی وینیل کلراید پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "retrogravure printing",
+      "Meanings": [
+        "چاپ با غلتک گراور شده"
+      ]
+    },
+    {
+      "EnglishWord": "retting",
+      "Meanings": [
+        "فاسد کردن",
+        "پوساندن حل مواد چسبناک الیاف ساقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "return pass",
+      "Meanings": [
+        "نخ کشی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "reused wool",
+      "Meanings": [
+        "پشم کهنه"
+      ]
+    },
+    {
+      "EnglishWord": "reversal",
+      "Meanings": [
+        "عکس",
+        "معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reverse",
+      "Meanings": [
+        "پشت",
+        "معکوس",
+        "وارونه",
+        "پشت و رو کردن",
+        "پارچه ضخیم و کم تراکم فرانسوی که یکطرف آن پرز داده شده است"
+      ]
+    },
+    {
+      "EnglishWord": "reverse bend number",
+      "Meanings": [
+        "تعداد سیکل خمش"
+      ]
+    },
+    {
+      "EnglishWord": "reverse locknit",
+      "Meanings": [
+        "لاکنیت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reverse osmosis",
+      "Meanings": [
+        "اسمز معکوس",
+        "اسمز بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "reverse twist",
+      "Meanings": [
+        "تاب چپ",
+        "تاب S"
+      ]
+    },
+    {
+      "EnglishWord": "reverse warp wind",
+      "Meanings": [
+        "ماسوره پیچی چله ای معکوس در ریسندگی رینگ",
+        "پیچش تاری معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reversed polarity",
+      "Meanings": [
+        "پلاریته معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reversibility",
+      "Meanings": [
+        "برگشت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "reversible",
+      "Meanings": [
+        "دوطرفه",
+        "دوجانبه",
+        "برگشت پذیر واکنش شیمیایی",
+        "برگشتنی",
+        "پارچه دولای دو رو",
+        "لباس دورو"
+      ]
+    },
+    {
+      "EnglishWord": "reversible crimp",
+      "Meanings": [
+        "فر و موج برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reversible fabric",
+      "Meanings": [
+        "پارچه دو رو"
+      ]
+    },
+    {
+      "EnglishWord": "reversible flange ring",
+      "Meanings": [
+        "عینکی دولبه"
+      ]
+    },
+    {
+      "EnglishWord": "reversible length change",
+      "Meanings": [
+        "تغییر طول برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reversible reaction",
+      "Meanings": [
+        "واکنش برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reversing motion",
+      "Meanings": [
+        "دستگاه معکوس کننده جهت حرکت ریل دوک نیمتاب"
+      ]
+    },
+    {
+      "EnglishWord": "revetment",
+      "Meanings": [
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "revised test",
+      "Meanings": [
+        "آزمایش مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "revolution",
+      "Meanings": [
+        "دوران",
+        "چرخش",
+        "شورش",
+        "انقلاب",
+        "حرکت انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "revolution counter",
+      "Meanings": [
+        "کنتور",
+        "دورشمار",
+        "شمارنده دور"
+      ]
+    },
+    {
+      "EnglishWord": "revolution per minute",
+      "Meanings": [
+        "دور بر دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "revolving ring",
+      "Meanings": [
+        "عینکی دوار",
+        "رینگ دوار"
+      ]
+    },
+    {
+      "EnglishWord": "revolving roll",
+      "Meanings": [
+        "غلتک کالندر پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "reyment",
+      "Meanings": [
+        "لیف مصنوعی ریمت لامینا به صورت ورقه‌های فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "rhea",
+      "Meanings": [
+        "نوعی رامی"
+      ]
+    },
+    {
+      "EnglishWord": "rheology",
+      "Meanings": [
+        "سیال شناسی",
+        "ریولوژی",
+        "علم جریان مواد"
+      ]
+    },
+    {
+      "EnglishWord": "rheometer",
+      "Meanings": [
+        "سیال سنج",
+        "ریومتر"
+      ]
+    },
+    {
+      "EnglishWord": "rhiaknot",
+      "Meanings": [
+        "لیف مصنوعی ریاکونات استات نخی"
+      ]
+    },
+    {
+      "EnglishWord": "rhodelia",
+      "Meanings": [
+        "لیف مصنوعی رودلیا نخ بافندگی استات"
+      ]
+    },
+    {
+      "EnglishWord": "rhodia",
+      "Meanings": [
+        "لیف مصنوعی رودیا"
+      ]
+    },
+    {
+      "EnglishWord": "rhodiafaser",
+      "Meanings": [
+        "لیف مصنوعی رودیا فازر استات سلولز پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "rhodiafil",
+      "Meanings": [
+        "لیف مصنوعی رودیافیل استات سلولز رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rhodialin",
+      "Meanings": [
+        "لیف مصنوعی رودیالین استات سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "rhodianil",
+      "Meanings": [
+        "لیف مصنوعی رودیانیل نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rhonel",
+      "Meanings": [
+        "لیف مصنوعی رونل‌تری استات سلولز"
+      ]
+    },
+    {
+      "EnglishWord": "rhovenyl",
+      "Meanings": [
+        "لیف مصنوعی روونیل مخلوط فیبر اویل و نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rhovyl",
+      "Meanings": [
+        "لیف مصنوعی روویل پلی وینیل کلراید رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rhovyl moss",
+      "Meanings": [
+        "لیف مصنوعی روویل موس پلی اتیلن ترفتالات و نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rhovylin",
+      "Meanings": [
+        "لیف مصنوعی روویلین ترکیب فیبر اویل و الیاف دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "rhovylon",
+      "Meanings": [
+        "لیف مصنوعی روویلون ترکیب ترموویل و نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rhubard",
+      "Meanings": [
+        "لیمویی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rib",
+      "Meanings": [
+        "ریب",
+        "طرح ریب",
+        "بافت ریب"
+      ]
+    },
+    {
+      "EnglishWord": "rib effect",
+      "Meanings": [
+        "اثر ریب",
+        "طرح ریب",
+        "بافت ریب"
+      ]
+    },
+    {
+      "EnglishWord": "rib fabric",
+      "Meanings": [
+        "پارچه ریب"
+      ]
+    },
+    {
+      "EnglishWord": "rib gatting",
+      "Meanings": [
+        "ریب گیتینگ وضعیتی در ماشین بافندگی حلقوی که سوزن‌های صفحه و سیلندر یک در میان قرار می‌گیرند"
+      ]
+    },
+    {
+      "EnglishWord": "rib knit",
+      "Meanings": [
+        "کشباف ریب",
+        "کشباف کش و ساده"
+      ]
+    },
+    {
+      "EnglishWord": "rib set",
+      "Meanings": [
+        "ترتیب ریپسی",
+        "ترتیب ریبی در سوزنهای ماشین تریکوبافی"
+      ]
+    },
+    {
+      "EnglishWord": "rib weave",
+      "Meanings": [
+        "بافت رگه دار",
+        "بافت ریب",
+        "بافت ریب طولی در کشباف"
+      ]
+    },
+    {
+      "EnglishWord": "ribbed fabric",
+      "Meanings": [
+        "نوعی پارچه کشباف که به وسیله دو سری قلاب بافته می‌شود و سطح آن راه راه برجسته و شیاردار است"
+      ]
+    },
+    {
+      "EnglishWord": "ribbed velveteen",
+      "Meanings": [
+        "پارچه مخمل کبریتی"
+      ]
+    },
+    {
+      "EnglishWord": "ribbon",
+      "Meanings": [
+        "نوار",
+        "روبان",
+        "نوار تزیینی",
+        "منسوجلت کم عرض"
+      ]
+    },
+    {
+      "EnglishWord": "ribbon lap machine",
+      "Meanings": [
+        "ماشین شش لا تخت باف",
+        "ماشین روبان"
+      ]
+    },
+    {
+      "EnglishWord": "ribbon loom",
+      "Meanings": [
+        "ماشین روبان بافی",
+        "ماشین نواربافی"
+      ]
+    },
+    {
+      "EnglishWord": "rice oil",
+      "Meanings": [
+        "روغن برنج"
+      ]
+    },
+    {
+      "EnglishWord": "rich colour",
+      "Meanings": [
+        "رنگ روشن"
+      ]
+    },
+    {
+      "EnglishWord": "richness",
+      "Meanings": [
+        "سیری رنگ",
+        "پرمایه بودن رنگ",
+        "پرپشت بودن",
+        "سرشار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "rieter 3 over",
+      "Meanings": [
+        "سیستم 3 بر 5 ریتر",
+        "سیستم جدید کشش در ماشین فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "rift",
+      "Meanings": [
+        "پارگی",
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "right hand card",
+      "Meanings": [
+        "ماشین کاردی که فلکه محرک و پایه کویلردر سمت راست ماشین قرار داشته باشند"
+      ]
+    },
+    {
+      "EnglishWord": "right hand twill",
+      "Meanings": [
+        "سرژه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right side",
+      "Meanings": [
+        "روی پارچه",
+        "سمت راست",
+        "طرف راست"
+      ]
+    },
+    {
+      "EnglishWord": "rigid card clothing",
+      "Meanings": [
+        "نوار اره ای کارد نوار متالیک"
+      ]
+    },
+    {
+      "EnglishWord": "rigid fabric",
+      "Meanings": [
+        "پارچه سفت و محکم",
+        "پارچه خشن"
+      ]
+    },
+    {
+      "EnglishWord": "rigid rapier",
+      "Meanings": [
+        "راپیر سخت",
+        "گیره سخت",
+        "میله سرماکویی سخت و راست",
+        "میله راپیر"
+      ]
+    },
+    {
+      "EnglishWord": "rigidity",
+      "Meanings": [
+        "سختی",
+        "سفتی"
+      ]
+    },
+    {
+      "EnglishWord": "rigidity modulus",
+      "Meanings": [
+        "ضریب سختی"
+      ]
+    },
+    {
+      "EnglishWord": "rigidity of molecule chain",
+      "Meanings": [
+        "سختی زنجیر مولکول"
+      ]
+    },
+    {
+      "EnglishWord": "rilsan",
+      "Meanings": [
+        "لیف مصنوعی ریلسان نایلون"
+      ]
+    },
+    {
+      "EnglishWord": "rim",
+      "Meanings": [
+        "لبه دار",
+        "لبه",
+        "دوره"
+      ]
+    },
+    {
+      "EnglishWord": "rim pulley",
+      "Meanings": [
+        "فلکه لبه دار"
+      ]
+    },
+    {
+      "EnglishWord": "ring",
+      "Meanings": [
+        "رینگ",
+        "حلقه",
+        "حلقوی",
+        "ماشین تمام تاب رینگ",
+        "عینکی"
+      ]
+    },
+    {
+      "EnglishWord": "ring compound",
+      "Meanings": [
+        "ترکیب شیمیایی حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "ring diameter",
+      "Meanings": [
+        "قطر عینکی"
+      ]
+    },
+    {
+      "EnglishWord": "ring doffer",
+      "Meanings": [
+        "استوانه دافر با حلقه‌های خاردار"
+      ]
+    },
+    {
+      "EnglishWord": "ring dyeing",
+      "Meanings": [
+        "رنگرزی حلقه ای",
+        "رنگ شدن سطحی یا جداری الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "ring spinning",
+      "Meanings": [
+        "ریسندگی رینگ نوعی ریسندگی که با عبور نخ از شیطانک الیاف را تاب می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "ring spinning frame",
+      "Meanings": [
+        "ماشین ریسندگی رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring spun worsted yarn",
+      "Meanings": [
+        "نخ فاستونی رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring temple",
+      "Meanings": [
+        "کناره گیر حلقه دار"
+      ]
+    },
+    {
+      "EnglishWord": "ring tension",
+      "Meanings": [
+        "کشش حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "ring traveller",
+      "Meanings": [
+        "شیطانک رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring tube",
+      "Meanings": [
+        "ماسوره رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring tube misses bobbin peg",
+      "Meanings": [
+        "صحیح قرار نگرفتن ماسوره در دوک خشاب اتوکنر",
+        "جا نیفتادن ماسوره در دوک خشاب اتوکنر"
+      ]
+    },
+    {
+      "EnglishWord": "ring twisting",
+      "Meanings": [
+        "تاب دادن به وسیله ماشین رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring twisting frame",
+      "Meanings": [
+        "ماشین تاب دهنده رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "ring wear tester",
+      "Meanings": [
+        "دستگاه سنجش مقاومت پارچه در مقابل سایش"
+      ]
+    },
+    {
+      "EnglishWord": "ringless pirn butt",
+      "Meanings": [
+        "ماسوره پود بدون حلقه‌های فلزی در مهره آن"
+      ]
+    },
+    {
+      "EnglishWord": "rinse",
+      "Meanings": [
+        "آبکشی کردن",
+        "شستن با آب",
+        "آب کشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "rinse cold",
+      "Meanings": [
+        "آبکشی با آب سرد",
+        "شستن با آب سرد"
+      ]
+    },
+    {
+      "EnglishWord": "rinse soap",
+      "Meanings": [
+        "آبکشی با صابون",
+        "شستن با صابون"
+      ]
+    },
+    {
+      "EnglishWord": "rinse to",
+      "Meanings": [
+        "آب کشیدن",
+        "آب کشی",
+        "شستشو دادن"
+      ]
+    },
+    {
+      "EnglishWord": "rinse warm",
+      "Meanings": [
+        "آبکشی با آب گرم"
+      ]
+    },
+    {
+      "EnglishWord": "rinsing bowl",
+      "Meanings": [
+        "آبکشی در حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "rip",
+      "Meanings": [
+        "شکاف",
+        "شکافتن",
+        "پارگی"
+      ]
+    },
+    {
+      "EnglishWord": "rip off selvage",
+      "Meanings": [
+        "بافتن کناره پارچه با نخ موقت که پس از تثبیت حرارتی جدا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "rip out",
+      "Meanings": [
+        "اثر واچیدن پود در پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "ripeness no",
+      "Meanings": [
+        "درجه رسیدگی الیاف پنبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ripening",
+      "Meanings": [
+        "رسیدن یک ماده",
+        "آماده مصرف شدن یک ماده",
+        "رسیدن خمیر سلولز جهت تولید ویسکوز"
+      ]
+    },
+    {
+      "EnglishWord": "ripening time",
+      "Meanings": [
+        "مدت آماده شدن",
+        "مدت لازم برای رسیدن",
+        "مدت رسیدن یک ماده نارس"
+      ]
+    },
+    {
+      "EnglishWord": "ripenning",
+      "Meanings": [
+        "قوام آمدن",
+        "غلظت یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "rippening",
+      "Meanings": [
+        "آماده شدن و رسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "ripple to",
+      "Meanings": [
+        "موجدار کردن",
+        "موجدار شدن"
+      ]
+    },
+    {
+      "EnglishWord": "rippled",
+      "Meanings": [
+        "موج دار",
+        "بشکل موج",
+        "موجی"
+      ]
+    },
+    {
+      "EnglishWord": "rippling",
+      "Meanings": [
+        "جدا سازی ساقه کتان از گیاه خشک",
+        "گرفتن تخم و شاخ و برگ از گیاه کتان خشک شده"
+      ]
+    },
+    {
+      "EnglishWord": "riser",
+      "Meanings": [
+        "بادامک عامل تعویض جعبه ماکو",
+        "برجستگی شبیه بادامک که سبب تعویض جعبه ماکو در ماشین بافندگی می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "rising or box motion",
+      "Meanings": [
+        "دستگاه تعویض جعبه ماکو",
+        "عمل تعویض جعبه ماکو"
+      ]
+    },
+    {
+      "EnglishWord": "river water",
+      "Meanings": [
+        "آب رود خانه"
+      ]
+    },
+    {
+      "EnglishWord": "robe",
+      "Meanings": [
+        "لباس روی بلند و شل",
+        "لباس زنانه یک تکه و لطیف",
+        "لباس زنانه محلی یا ملی یا رسمی",
+        "ردا",
+        "لباس بلند و گشاد",
+        "جامه بلند زنانه",
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "robustness",
+      "Meanings": [
+        "توانایی"
+      ]
+    },
+    {
+      "EnglishWord": "rocker",
+      "Meanings": [
+        "کفشک متحرک پایه مضراب"
+      ]
+    },
+    {
+      "EnglishWord": "rocker followers",
+      "Meanings": [
+        "رکاب در ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "rocker shaft",
+      "Meanings": [
+        "شافت اتصال کفشک زیر پایه مضراب به شاسی ماشین بافندگی",
+        "میله اتصال کفشک ثابت زیر پایه چوب ضربه بافندگی به شاسی ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "rocking rail",
+      "Meanings": [
+        "شافت یا محور پایه دفتین"
+      ]
+    },
+    {
+      "EnglishWord": "rocking shaft",
+      "Meanings": [
+        "میله یا محور پایه دفتین"
+      ]
+    },
+    {
+      "EnglishWord": "rod extrusion",
+      "Meanings": [
+        "ریسندگی میله",
+        "ریسندگی ماکارونی"
+      ]
+    },
+    {
+      "EnglishWord": "rod gripper",
+      "Meanings": [
+        "گیره میله ای"
+      ]
+    },
+    {
+      "EnglishWord": "rod heddle",
+      "Meanings": [
+        "میل میلک"
+      ]
+    },
+    {
+      "EnglishWord": "rofil",
+      "Meanings": [
+        "لیف مصنوعی روفیل پلی اتیلن"
+      ]
+    },
+    {
+      "EnglishWord": "rolan",
+      "Meanings": [
+        "لیف مصنوعی رولان پلی اکریلو نیتریل"
+      ]
+    },
+    {
+      "EnglishWord": "roll",
+      "Meanings": [
+        "رول",
+        "غلتک",
+        "نورد",
+        "استوانه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "roll boss",
+      "Meanings": [
+        "قسمت کاری غلتک",
+        "قسمت مورد استفاده غلتک",
+        "قسمتی از غلتک که استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "roll pattern",
+      "Meanings": [
+        "نقشه نا همواری نخ"
+      ]
+    },
+    {
+      "EnglishWord": "roll setting",
+      "Meanings": [
+        "تنظیم فاصله بین غلتکها ی کشش",
+        "فاصله تنظیمی بین غلتکهای کشش"
+      ]
+    },
+    {
+      "EnglishWord": "rolled selvage",
+      "Meanings": [
+        "کناره لوله شده",
+        "کناره تا شده"
+      ]
+    },
+    {
+      "EnglishWord": "roller",
+      "Meanings": [
+        "رول",
+        "نورد",
+        "غلتک",
+        "استوانه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "roller beam",
+      "Meanings": [
+        "شاسی غلتکهای کشش در ماشین ریسندگی"
+      ]
+    },
+    {
+      "EnglishWord": "roller coating",
+      "Meanings": [
+        "پوشش دادن غلتکی منسوج با مواد",
+        "پوشش دادن منسوج بات مواد توسط غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "roller covering",
+      "Meanings": [
+        "پوشش غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "roller drafting",
+      "Meanings": [
+        "کشش غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller drawing",
+      "Meanings": [
+        "کشش غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller gin",
+      "Meanings": [
+        "جین غلتکی",
+        "پنبه پاک کنی غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller lap",
+      "Meanings": [
+        "عیب پیچش الیاف به دور غلتکها در ناحیه کشش فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "roller mercerizing machine",
+      "Meanings": [
+        "ماشین مرسریزه غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller milling machine",
+      "Meanings": [
+        "ماشین والک غلتکی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "roller press",
+      "Meanings": [
+        "پرس غلتکی",
+        "ماشین اتوی غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller printing",
+      "Meanings": [
+        "چاپ غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller printing machine",
+      "Meanings": [
+        "ماشین چاپ غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller reversing motion",
+      "Meanings": [
+        "دستگاه قرقره بالای وردها برای حرکت برگشت وردها",
+        "حرکت قرقره بالای وردها"
+      ]
+    },
+    {
+      "EnglishWord": "roller setting",
+      "Meanings": [
+        "تنظیم فواصل بین غلتکها",
+        "فیلر گیری غلتکها ماشین فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "roller slip",
+      "Meanings": [
+        "لغزش غلتک در اثر کم بودن فاصله بین غلتکها در ماشین فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "roller squeezer",
+      "Meanings": [
+        "فشار دهنده غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "rolling",
+      "Meanings": [
+        "کج افتادن ماکو حین حرکت روی دفتین",
+        "به پهلو گشتن ماکو حین حرکت روی دفتین"
+      ]
+    },
+    {
+      "EnglishWord": "rolling cloth",
+      "Meanings": [
+        "پارچه بافته نمدی پشمی ریکش غلتکهای کششی",
+        "ماهوت غلتک",
+        "پوشش نمدی غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "rolling head",
+      "Meanings": [
+        "دستگاه غلتک پیچ کردن پارچه",
+        "ذستگاه پیچنده پارچه روی غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "rolling listing",
+      "Meanings": [
+        "کناره لوله شده"
+      ]
+    },
+    {
+      "EnglishWord": "rolling machine",
+      "Meanings": [
+        "ماشین غلتک پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "ronbel",
+      "Meanings": [
+        "لیف مصنوعی رونبل پلیمر ویسکوز و اکریلونیتریل"
+      ]
+    },
+    {
+      "EnglishWord": "rongability",
+      "Meanings": [
+        "قابلیت رنگبری",
+        "قابلیت رنگ برای رنگبری"
+      ]
+    },
+    {
+      "EnglishWord": "rongauge",
+      "Meanings": [
+        "سفید کننده",
+        "رنگ بر",
+        "رنگ زدا"
+      ]
+    },
+    {
+      "EnglishWord": "room temperature",
+      "Meanings": [
+        "دمای اتاق"
+      ]
+    },
+    {
+      "EnglishWord": "rope",
+      "Meanings": [
+        "طناب",
+        "ریسمان",
+        "نخ",
+        "بند"
+      ]
+    },
+    {
+      "EnglishWord": "rope form",
+      "Meanings": [
+        "طنابی",
+        "رنگرزی طنابی",
+        "رنگرزی پارچه با عرض بسته در وینچ"
+      ]
+    },
+    {
+      "EnglishWord": "rope making",
+      "Meanings": [
+        "طناب بافی",
+        "طناب پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "rope scouring machine",
+      "Meanings": [
+        "ماشین شستشوی طنابی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "rope washer",
+      "Meanings": [
+        "ماشین شستشوی طنابی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "rope washing machine",
+      "Meanings": [
+        "ماشین شستشوی طنابی پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "roper",
+      "Meanings": [
+        "طناب باف"
+      ]
+    },
+    {
+      "EnglishWord": "ropery",
+      "Meanings": [
+        "کارخانه طناب سازی",
+        "طناب بافی"
+      ]
+    },
+    {
+      "EnglishWord": "ropping",
+      "Meanings": [
+        "نیمچه نخ پشم سایر الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "ropping spool",
+      "Meanings": [
+        "بوبین نیمچه نخ کارد پشم"
+      ]
+    },
+    {
+      "EnglishWord": "rose",
+      "Meanings": [
+        "گلی رنگ",
+        "رنگ گلی"
+      ]
+    },
+    {
+      "EnglishWord": "rot",
+      "Meanings": [
+        "فاسد شدن",
+        "پوسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "rot proof",
+      "Meanings": [
+        "ضد پوسیدگی",
+        "ضد فساد"
+      ]
+    },
+    {
+      "EnglishWord": "rot proofing wool fabric",
+      "Meanings": [
+        "پارچه پشمی مقاوم در برابر پوسیدگی",
+        "مقاوم کردن پارچه پشمی نسبت به باکتری"
+      ]
+    },
+    {
+      "EnglishWord": "rot resistance",
+      "Meanings": [
+        "ضد پوسیدگی کردن",
+        "ضد فساد نمودن",
+        "مقاومت در مقابل پوسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "rot steeping",
+      "Meanings": [
+        "آهار زدایی به روش تخمیری"
+      ]
+    },
+    {
+      "EnglishWord": "rotary",
+      "Meanings": [
+        "روتوری",
+        "دورانی",
+        "چرخشی",
+        "گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary cloth press",
+      "Meanings": [
+        "ماشین اتوی غلتکی پارچه",
+        "ماشین اتوی چرخشی روتاری"
+      ]
+    },
+    {
+      "EnglishWord": "rotary disc tension",
+      "Meanings": [
+        "کشش دیسکی چرخشی",
+        "کشش اعمالی از دیسک چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotary filter",
+      "Meanings": [
+        "صافی چرخان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary microtome",
+      "Meanings": [
+        "میکروتوم چرخشی",
+        "دستگاهی جهت مقطع گیری از الیاف"
+      ]
+    },
+    {
+      "EnglishWord": "rotary milling machine",
+      "Meanings": [
+        "ماشین والک دوار یا غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "rotary press",
+      "Meanings": [
+        "غلتک پرس پارچه",
+        "جلا دار کردن پارچه بوسیله غلتک داغ"
+      ]
+    },
+    {
+      "EnglishWord": "rotary screen",
+      "Meanings": [
+        "چاپ شابلون غلتکی",
+        "چاپ شابلون دوار",
+        "چاپ روتاری"
+      ]
+    },
+    {
+      "EnglishWord": "rotary screen printing",
+      "Meanings": [
+        "چاپ اسکرین روتاری",
+        "چاپ شابلون غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "rotary screen printing machine",
+      "Meanings": [
+        "ماشین چاپ شابلون غلتکی",
+        "ماشین چاپ روتاری"
+      ]
+    },
+    {
+      "EnglishWord": "rotating traverse",
+      "Meanings": [
+        "نوسان بوسیله غلتک شیاردار",
+        "ایجاد نوسان توسط غلتک ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "rotation",
+      "Meanings": [
+        "گردش",
+        "دوران",
+        "چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotational energy",
+      "Meanings": [
+        "انرژی چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "roto coner",
+      "Meanings": [
+        "ماشین بوبین پیچ غلتکی شیار دار"
+      ]
+    },
+    {
+      "EnglishWord": "roto drafter",
+      "Meanings": [
+        "سیستم کشش سوزنی دوار"
+      ]
+    },
+    {
+      "EnglishWord": "rotor",
+      "Meanings": [
+        "غلتک چرخنده",
+        "چرخانه",
+        "روتور",
+        "قسمتی از دستگاه ریسندگی چرخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rotor spinner",
+      "Meanings": [
+        "ماشین ریسندگی چرخانه ای",
+        "نوعی ماشین تمامتاب که از فتیله نخ میریسد"
+      ]
+    },
+    {
+      "EnglishWord": "rotor spinning",
+      "Meanings": [
+        "ریسندگی اپن اند",
+        "ریسندگی چرخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rotor spinning frame",
+      "Meanings": [
+        "ماشین ریسندگی چرخانه ای اپن اند"
+      ]
+    },
+    {
+      "EnglishWord": "rotwyla supercord",
+      "Meanings": [
+        "لیف مصنوعی روت ویلا سوپر کورد ویسکوز سخت برای نخ لاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "rouched trimming",
+      "Meanings": [
+        "نوار توری چین دار"
+      ]
+    },
+    {
+      "EnglishWord": "rouge",
+      "Meanings": [
+        "ارغوانی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rough",
+      "Meanings": [
+        "خیلی زبر",
+        "خشن",
+        "تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "rough estimate",
+      "Meanings": [
+        "بر آورد تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "roughness depth",
+      "Meanings": [
+        "عمق ناصافی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "اصطلاح انگلیسی برای تعدادنخ‌های پود در یک بافت پارچه معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "round buffer",
+      "Meanings": [
+        "ضربه گیر گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round hold fast",
+      "Meanings": [
+        "میله گرد عقب دفتین و شانه"
+      ]
+    },
+    {
+      "EnglishWord": "rounded crimp effect",
+      "Meanings": [
+        "طرح چین موجی",
+        "طرح چین گرد"
+      ]
+    },
+    {
+      "EnglishWord": "rounding",
+      "Meanings": [
+        "گرد کردن",
+        "کامل کردن",
+        "دایروی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rovana",
+      "Meanings": [
+        "لیف مصنوعی رووانا پلی وینیلیدن کلراید تک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rove",
+      "Meanings": [
+        "فتیله",
+        "نخ نیم تاب"
+      ]
+    },
+    {
+      "EnglishWord": "rovematic",
+      "Meanings": [
+        "ماشین نیم تاب رووماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "rover thread",
+      "Meanings": [
+        "نخ اتصال روور"
+      ]
+    },
+    {
+      "EnglishWord": "rovicella",
+      "Meanings": [
+        "لیف مصنوعی رویسلا ویسکوز سبک"
+      ]
+    },
+    {
+      "EnglishWord": "roving",
+      "Meanings": [
+        "نیمتاب",
+        "فتیله سازی",
+        "نیمچه نخ",
+        "فلایر",
+        "دستگاه نیمتاب",
+        "پیچیدن",
+        "دسته الیاف تابیده نشده"
+      ]
+    },
+    {
+      "EnglishWord": "roving build",
+      "Meanings": [
+        "پیچش تاری"
+      ]
+    },
+    {
+      "EnglishWord": "roving frame",
+      "Meanings": [
+        "ماشین نیمتاب",
+        "ماشین فتیله سازی",
+        "فلایر"
+      ]
+    },
+    {
+      "EnglishWord": "roving frame for worsted yarn",
+      "Meanings": [
+        "ماشین نیمتاب برای نخ فاستونی"
+      ]
+    },
+    {
+      "EnglishWord": "roving hauler",
+      "Meanings": [
+        "کارگر بوبین آور رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "row nucleate",
+      "Meanings": [
+        "هسته گذاری خام در ساختار پلیمری"
+      ]
+    },
+    {
+      "EnglishWord": "royal rib",
+      "Meanings": [
+        "بافت ریب رویال"
+      ]
+    },
+    {
+      "EnglishWord": "royalene",
+      "Meanings": [
+        "لیف مصنوعی رویالین پلی اولفین"
+      ]
+    },
+    {
+      "EnglishWord": "royalty",
+      "Meanings": [
+        "مالیات",
+        "حق امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "rub",
+      "Meanings": [
+        "مالش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "rub off",
+      "Meanings": [
+        "رنگ رفتن با مالش"
+      ]
+    },
+    {
+      "EnglishWord": "rubber",
+      "Meanings": [
+        "لاستیک کایو چوی ولکا نیزه شده",
+        "کایوچو",
+        "تخته ماهوتی زیر غلتکهای کشش"
+      ]
+    },
+    {
+      "EnglishWord": "rubber canvas",
+      "Meanings": [
+        "منجید لاستیک تقویت شده با کرباس"
+      ]
+    },
+    {
+      "EnglishWord": "rubber fiber",
+      "Meanings": [
+        "لیف لاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "rubber like elasticity",
+      "Meanings": [
+        "ارتجاعیت لاستیکی",
+        "ارتجاعیت برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rubber proofed fabric",
+      "Meanings": [
+        "پارچه روکش شده با لاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "rubber thread",
+      "Meanings": [
+        "نخ لاستیکی",
+        "نخ الاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "rubber yarn",
+      "Meanings": [
+        "نخ الاستیک",
+        "نخ کشسان",
+        "نخ ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "rubberized cloth",
+      "Meanings": [
+        "پارچه پوشش داده شده با لاستیک",
+        "پارچه لاستیک پوش شده"
+      ]
+    },
+    {
+      "EnglishWord": "rubbers elastomer",
+      "Meanings": [
+        "لاستیک",
+        "الاستومر لاستیکی",
+        "لاستیک ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "rubbing",
+      "Meanings": [
+        "مالش",
+        "مالش دادن",
+        "سایش"
+      ]
+    },
+    {
+      "EnglishWord": "rubbing fastness",
+      "Meanings": [
+        "ثبات مالشی",
+        "ثبات سایشی",
+        "مقاومت در برابر اصطکاک و سایش"
+      ]
+    },
+    {
+      "EnglishWord": "rubbing fastness fibre",
+      "Meanings": [
+        "لیف مقاوم در برابر سایش"
+      ]
+    },
+    {
+      "EnglishWord": "rubbing leather",
+      "Meanings": [
+        "چرم مالشی",
+        "چرم مالش دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "rubbing of the rust",
+      "Meanings": [
+        "ساییدن زنگار",
+        "ساییدن زنگ تجهیزات فلزی",
+        "رنگبری"
+      ]
+    },
+    {
+      "EnglishWord": "rubicund",
+      "Meanings": [
+        "سرخ رنگ",
+        "رنگ مایل به قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "rubious",
+      "Meanings": [
+        "رنگ قرمز یاقوتی"
+      ]
+    },
+    {
+      "EnglishWord": "ruby",
+      "Meanings": [
+        "یاقوت",
+        "یاقوتی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "ruck",
+      "Meanings": [
+        "چین و چروک",
+        "توده",
+        "پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "ruck to",
+      "Meanings": [
+        "چین خوردن",
+        "چروک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "ruddle",
+      "Meanings": [
+        "رنگ کردن با گل اخرا"
+      ]
+    },
+    {
+      "EnglishWord": "rug",
+      "Meanings": [
+        "قالیچه",
+        "قالی",
+        "فرش",
+        "فرش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rump",
+      "Meanings": [
+        "میاه شیب دار متغیر نوردبخشی در ماشین چله پیچی بخشی",
+        "یارد نخ پشمی"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "نمره پشمی نخ"
+      ]
+    },
+    {
+      "EnglishWord": "run in",
+      "Meanings": [
+        "رانین",
+        "طول نخ جاری",
+        "مقدار نخ مصرف شده هر شانه در بافت 480رج"
+      ]
+    },
+    {
+      "EnglishWord": "run minutes/120 hs",
+      "Meanings": [
+        "مدت زمان کار ماشین در عرض 120ساعت بر حسب دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "run out",
+      "Meanings": [
+        "کار کردن ماشین بافندگی با ماسوره خالی",
+        "با ماسوره خالی کار کردن ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "run out warp",
+      "Meanings": [
+        "چله تمام شده روی ماشین بافندگی"
+      ]
+    },
+    {
+      "EnglishWord": "run system",
+      "Meanings": [
+        "سیستمی در نمره گذاری نخ پشمی ضخیم که عبارتست از تعداد کلافهای 1600یاردی در یک پوند نخ"
+      ]
+    },
+    {
+      "EnglishWord": "runcinate",
+      "Meanings": [
+        "دندانه دار",
+        "دندانه اره ای",
+        "دندانه دندانه",
+        "مضرس"
+      ]
+    },
+    {
+      "EnglishWord": "runner",
+      "Meanings": [
+        "ماشین بوبین پیچی از کلاف",
+        "نوعی پارچه توری"
+      ]
+    },
+    {
+      "EnglishWord": "running",
+      "Meanings": [
+        "رانینگ",
+        "از مراحل تشکیل حلقه در بافندگی حلقوی",
+        "مرحله ای که حلقه درون قلاب با حرکت سوزن به طرف بالا روی زبانه قرار می‌گیرد در سوزن زبانه دار جاری",
+        "مداوم"
+      ]
+    },
+    {
+      "EnglishWord": "running cloth",
+      "Meanings": [
+        "پارچه در حال حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "running mark",
+      "Meanings": [
+        "علامت حرکت پارچه",
+        "ایجاد علایم عبور پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "running on",
+      "Meanings": [
+        "پیچیدن"
+      ]
+    },
+    {
+      "EnglishWord": "rupture",
+      "Meanings": [
+        "پارگی",
+        "قطع",
+        "شکستگی",
+        "گسیختگی",
+        "نقطه گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "russet",
+      "Meanings": [
+        "حنایی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rust",
+      "Meanings": [
+        "زنگار",
+        "زنگ",
+        "زنگ زدن",
+        "اکسید شدن"
+      ]
+    },
+    {
+      "EnglishWord": "rustless",
+      "Meanings": [
+        "ضد زنگ",
+        "زنگ نزن"
+      ]
+    },
+    {
+      "EnglishWord": "rutile",
+      "Meanings": [
+        "اکسید تیتان",
+        "دی اکسید تیتان جهت پشت پوش کردن الیاف مصنوعی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+﻿{
+  "Group": "M",
+  "Entries": 58,
+  "Words": [
+    {
+      "EnglishWord": "make",
+      "Meanings": [
+        "یکی از زبانه‌های پنجره که مشخصات برنامه را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "math",
+      "Meanings": [
+        "عملیات ریاضی",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "maxbutton",
+      "Meanings": [
+        "خصیصه ای از فرمها برای حذف دکمه Max از فرم"
+      ]
+    },
+    {
+      "EnglishWord": "maximized",
+      "Meanings": [
+        "بیشینه",
+        "یکی از گزینه‌های خصیصه windowstate فرم که شکل آن را به صورت بیشینه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "mdi",
+      "Meanings": [
+        "M ultiple D ocument I nterface",
+        "برنامه ای که شامل چند فرم باشد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "me",
+      "Meanings": [
+        "این شیء نام دیگر فرمی است که در آن هستید و به جای به کار بردن نام فرم می‌توانید از آن استفاده کنید"
+      ]
+    },
+    {
+      "EnglishWord": "mehran maghamizadeh",
+      "Meanings": [
+        "نام لغتنامه: کتابخانه ویژوال بیسیک",
+        "نام سازنده: مهران مقامی زاده",
+        "زبان: انگلیسی به فارسی",
+        "پست الکترونیک",
+        "در این لغتنامه تمامی اصطلاحات و کدها و فرمولها و مثالها و… در مورد ویژوال بیسیک قابل رویت است و منبع این لغتنامه MSDN و بعضی از کتب می‌باشد. در صورتی که سیوال یا مشکل یا پیشنهادی در این زمینه داشتید می‌توانید به من ارسال کنید",
+        "با تشکر!"
+      ]
+    },
+    {
+      "EnglishWord": "menu",
+      "Meanings": [
+        "منو",
+        "برای ساخت منوها از منوی tools گزینه Menu Editor را انتخاب کنید یا Ctrl+E را بفشارید",
+        "برای نامگذاری آن از Mnu استفاده کنید سپس نام مورد نظر را بیاورید"
+      ]
+    },
+    {
+      "EnglishWord": "menu bar",
+      "Meanings": [
+        "نوار منو",
+        "نواری که در آن منوهای اصلی قرار دارند و در حالت پیش فرض در بالای صفحه زیر نوار عنوان قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "menu editor",
+      "Meanings": [
+        "قسمتی برای ساخت منو که در آن Name نام منو و Caption عنوان آن است",
+        "قسمت Index اندیس منو و Shortcut کلید میانبر اجرا کننده منو را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "merging text",
+      "Meanings": [
+        "برای داخل کردن یک متن از یک فایل به درون کدها گزینه Insert File را از منوی Edit انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft ado data control",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft agent",
+      "Meanings": [
+        "Microsoft Agent یک ActiveX است که با آن می‌توان یک شخصیت را کنترل کرد تا یک سری فرمانها و صحبتهای ما رو به گوش کاربر برساند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft chart control",
+      "Meanings": [
+        "کنترلی برای رسم نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft comm control",
+      "Meanings": [
+        "کنترلی برای برقراری ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft common dialog control",
+      "Meanings": [
+        "یکی از‌های ویندوز که پنجره‌های استاندارد مانند جعبه Open و Save و Color و… را به کاربر نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft rich textbox",
+      "Meanings": [
+        "یکی از Component‌های ویندوز که یک TextBox با امکانات بیشتر از جمله تغییر رنگ و سایز فونت و… ایجاد می‌کند",
+        "این کامپوننت به برنامه WordPad تعلق دارد"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft text2speech engine",
+      "Meanings": [
+        "نرم افزاری برای صحبت کردن کاراکترهای Microsoft Agent",
+        "<a href=\"\"http://www.download.com/pc/result/titledetail/"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft windows common controls",
+      "Meanings": [
+        "یکی از‌های ویندوز که ابزارهای‌های استاندارد مانند لیست در ختی و نوار ابزار و… را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft winsock control",
+      "Meanings": [
+        "برنامه ای برای برقراری ارتباط با اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "mid",
+      "Meanings": [
+        "میانه",
+        "دستوری که تعداد n کاراکتر از وسط یک نوشته را انتخاب می‌کند",
+        "Mid String"
+      ]
+    },
+    {
+      "EnglishWord": "millimeter",
+      "Meanings": [
+        "میلی متر",
+        "مقیاسی که برابر یک دهم سانتیمتر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "minbutton",
+      "Meanings": [
+        "خصیصه ای از فرمها برای حذف دکمه Min از فرم"
+      ]
+    },
+    {
+      "EnglishWord": "minimized",
+      "Meanings": [
+        "کمینه",
+        "یکی از گزینه‌های خصیصه windowstate فرم که شکل آن را به صورت کمینه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "minute",
+      "Meanings": [
+        "دقیقه",
+        "دستوری که شماره دقیقه در هر ساعت را بر می‌گرداند عددی بین 0 تا",
+        "Minute time"
+      ]
+    },
+    {
+      "EnglishWord": "mnu",
+      "Meanings": [
+        "M e nu",
+        "منو",
+        "این لغت برای نامگذاری منوها Menu استفاده می‌شود به صورت MnuName"
+      ]
+    },
+    {
+      "EnglishWord": "mod",
+      "Meanings": [
+        "باقیمانده تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "mod operator",
+      "Meanings": [
+        "باقیمانده تقسیم",
+        "برای انجام این عمل از حرف mod استفاده می‌کنیم. مانند",
+        "result = number1 Mod number"
+      ]
+    },
+    {
+      "EnglishWord": "mode",
+      "Meanings": [
+        "خصیصه ای از ADODC که نوع داده‌ها را معین می‌کند که مثلا فقط خواندنی باشند یا قابل نوشتن هم باشند و"
+      ]
+    },
+    {
+      "EnglishWord": "module",
+      "Meanings": [
+        "پیمانه",
+        "پنجره ای که در آن می‌توان کدها را جداگانه تایپ کرد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "module class",
+      "Meanings": [
+        "پنجره ای شبیه مدول که کدها را می‌توان به طور مخفی در آن وارد کرد"
+      ]
+    },
+    {
+      "EnglishWord": "module level",
+      "Meanings": [
+        "کد اعلان شده در یک مدول"
+      ]
+    },
+    {
+      "EnglishWord": "month",
+      "Meanings": [
+        "ماه",
+        "دستوری که شماره ماه در سال را بر می‌گرداند عددی بین 1 تا",
+        "Month date"
+      ]
+    },
+    {
+      "EnglishWord": "monthname",
+      "Meanings": [
+        "دستوری که نام ماه را نشان می‌دهد",
+        "MonthName month ["
+      ]
+    },
+    {
+      "EnglishWord": "mousedown",
+      "Meanings": [
+        "پایین آوردن دکمه ماوس",
+        "رویدادی که هنگام پایین آوردن دکمه ماوس کد مورد نظر را اجرا می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "mouseicon",
+      "Meanings": [
+        "اشاره گر ماوس",
+        "یکی از خواص اشیاء برای تعیین شکل اشاره گر ماوس به شکل دلخواه که ابتدا باید MousePointer را به",
+        "Custom تغییر دهید"
+      ]
+    },
+    {
+      "EnglishWord": "mousemove",
+      "Meanings": [
+        "حرکت دادن ماوس",
+        "رویدادی که هنگام حرکت دادن ماوس کد مورد نظر را اجرا می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "mousepointer",
+      "Meanings": [
+        "اشاره گر ماوس",
+        "یکی از خواص اشیاء برای تعیین شکل اشاره گر ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "mouseup",
+      "Meanings": [
+        "بالا آوردن دکمه ماوس",
+        "رویدادی که هنگام رها کردن دکمه ماوس کد مورد نظر را اجرا می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "move",
+      "Meanings": [
+        "جابجایی",
+        "دستوری که مختصات یک شیء را تغییر می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "movecomplete",
+      "Meanings": [
+        "رویدادی که بعد از انجام می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "movefile",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای Cut کردن یک فایل",
+        "object . MoveFile source"
+      ]
+    },
+    {
+      "EnglishWord": "movefirst",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشاهده اولین رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "movefolder",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای Cut کردن یک فولدر",
+        "object . MoveFolder source"
+      ]
+    },
+    {
+      "EnglishWord": "movelast",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشاهده آخرین رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "movenext",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشاهده رکورد بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "moveprevious",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشاهده رکورد قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "moveto",
+      "Meanings": [
+        "حرکت کردن به",
+        "یکی از متددهای Microsoft Agent برای تکان دادن کاراکتر",
+        "Agent.MoveTo X"
+      ]
+    },
+    {
+      "EnglishWord": "moving",
+      "Meanings": [
+        "حرکت دادن",
+        "برای تغییر مکان یک شیء ابتدا روی آن کلیک کنید سپس آن را به مکان مورد نظر بکشید"
+      ]
+    },
+    {
+      "EnglishWord": "msadodc",
+      "Meanings": [
+        "فایل Ocx مربوط به کامپوننت ADODC"
+      ]
+    },
+    {
+      "EnglishWord": "mschart",
+      "Meanings": [
+        "فایل Ocx مربوط به کامپوننت Microsoft chart"
+      ]
+    },
+    {
+      "EnglishWord": "msdn",
+      "Meanings": [
+        "M icro s oft D eveloper N etwork",
+        "راهنمای کامل برنامه‌های Visual Studio مایکروسافت"
+      ]
+    },
+    {
+      "EnglishWord": "msg",
+      "Meanings": [
+        "M e s sa g e",
+        "پیغام"
+      ]
+    },
+    {
+      "EnglishWord": "msgbox",
+      "Meanings": [
+        "M e s sa g e Box",
+        "جعبه پیغام",
+        "دستوری که یک جعبه پیغام به کاربر نشان می‌دهد و کاربر با کلیک بر روی آن به برنامه باز می‌گردد",
+        "MsgBox  Message"
+      ]
+    },
+    {
+      "EnglishWord": "mshflexgrid",
+      "Meanings": [
+        "M icro s oft H ierarchical FlexGrid"
+      ]
+    },
+    {
+      "EnglishWord": "mswinsck",
+      "Meanings": [
+        "فایل Ocx مربوط به کامپوننت WinSock"
+      ]
+    },
+    {
+      "EnglishWord": "multiple document interface",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "multiplication operator",
+      "Meanings": [
+        "عمل ضرب",
+        "برای انجام عمل ضرب از علامت * استفاده می‌کنیم. مانند",
+        "result = number1 * number"
+      ]
+    }
+  ]
+}

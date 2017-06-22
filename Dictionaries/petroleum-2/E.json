@@ -1,0 +1,532 @@
+﻿{
+  "Group": "E",
+  "Entries": 75,
+  "Words": [
+    {
+      "EnglishWord": "e",
+      "Meanings": [
+        "ضخامت کل مخزن نفت و گاز",
+        "gross total reservoir",
+        "rock thickness",
+        "EXPERIMENTAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "e   w/l",
+      "Meanings": [
+        "east of west line"
+      ]
+    },
+    {
+      "EnglishWord": "e log",
+      "Meanings": [
+        "Electric Log"
+      ]
+    },
+    {
+      "EnglishWord": "e/c",
+      "Meanings": [
+        "equipement check, actions or job's abbreviation which Companymans write in reports",
+        "چک نمودن ابزار",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "earthy",
+      "Meanings": [
+        "erth",
+        "خاکی"
+      ]
+    },
+    {
+      "EnglishWord": "earthy cutting",
+      "Meanings": [
+        "II, Archie Classification for Carbonate rocks, a rock which is generally soft and chalky",
+        "کاتینگ یا کنده‌های حفاری با حالت خاکی و نرم"
+      ]
+    },
+    {
+      "EnglishWord": "earthy rock",
+      "Meanings": [
+        "II, Archie Classification for Carbonate rocks, a rock which is generally soft and chalky",
+        "سنگی با حالت خاکی"
+      ]
+    },
+    {
+      "EnglishWord": "east line",
+      "Meanings": [
+        "لاین یا خط شرقی",
+        "EL"
+      ]
+    },
+    {
+      "EnglishWord": "east of west line",
+      "Meanings": [
+        "E of W/L"
+      ]
+    },
+    {
+      "EnglishWord": "ecp",
+      "Meanings": [
+        "Effective Core Penetration",
+        "نفوذ موثر جهت مغزه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "edgewater",
+      "Meanings": [
+        "The water that touches the edge of the Oil in the lower horizon of a Formation"
+      ]
+    },
+    {
+      "EnglishWord": "edthr",
+      "Meanings": [
+        "Endothyra",
+        "اندوتیرا",
+        "endothyra"
+      ]
+    },
+    {
+      "EnglishWord": "effective core penetration",
+      "Meanings": [
+        "ECP",
+        "نفوذ موثر جهت مغزه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "effective permeability",
+      "Meanings": [
+        "A measure of the ability of a single fluid to flow through a rock when another fluid is also present in the pore spaces. Compare also with : Absolute Permeability; Relative Permeability"
+      ]
+    },
+    {
+      "EnglishWord": "effective porosity",
+      "Meanings": [
+        "The percentage of the bulk volume of a rock sample that is composed of interconnected pore spaces that allow the passage of fluids through the sample. See also : Porosity"
+      ]
+    },
+    {
+      "EnglishWord": "eight-round",
+      "Meanings": [
+        "A tapered connection with 8 threads per inch. One turn equals 0.125 inches of travel. Very common Oilfield connection"
+      ]
+    },
+    {
+      "EnglishWord": "el",
+      "Meanings": [
+        "ELECTRICAL SURVEY, Log Curve name",
+        "east line"
+      ]
+    },
+    {
+      "EnglishWord": "el log",
+      "Meanings": [
+        "Electric log",
+        "الکتریک لاگ",
+        "لاگ الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric log",
+      "Meanings": [
+        "El log, also write as : E Log",
+        "E Log",
+        "الکتریک لاگ",
+        "لاگ الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric well log",
+      "Meanings": [
+        "A record of certain electrical characteristics such as resistivity and conductivity of formations traversed by the borehole. It is made to identify the formations, determine the nature and amount of fluids they contain, and estimate their depth"
+      ]
+    },
+    {
+      "EnglishWord": "elev",
+      "Meanings": [
+        "Elevation",
+        "ارتفاع",
+        "معمولا برای ارتفاع سکوی حفاری از سطح دریا بکار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "elevation",
+      "Meanings": [
+        "Elev",
+        "ارتفاع",
+        "معمولا برای ارتفاع سکوی حفاری از سطح دریا بکار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "elevators",
+      "Meanings": [
+        "Clamps that grip a stand of casing, tubing, drill pipe, or sucker rods so that the stand can be raised or lowered into the Hole"
+      ]
+    },
+    {
+      "EnglishWord": "elong",
+      "Meanings": [
+        "elongated",
+        "کشیدگی پیدا کردن",
+        "طویل شده"
+      ]
+    },
+    {
+      "EnglishWord": "elongated",
+      "Meanings": [
+        "elong",
+        "طویل شده",
+        "کشیدگی پیدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "elul",
+      "Meanings": [
+        "ELECTRICAL SURVEY",
+        "ULTRA LONG SPACING, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "emb",
+      "Meanings": [
+        "embed"
+      ]
+    },
+    {
+      "EnglishWord": "embed",
+      "Meanings": [
+        "emb"
+      ]
+    },
+    {
+      "EnglishWord": "emergency shutdown",
+      "Meanings": [
+        "ESD",
+        "بستن اضطراری چاه"
+      ]
+    },
+    {
+      "EnglishWord": "emw",
+      "Meanings": [
+        "Euivalent Mud Weight",
+        "وزن گل معادل"
+      ]
+    },
+    {
+      "EnglishWord": "en cntd",
+      "Meanings": [
+        "encountered"
+      ]
+    },
+    {
+      "EnglishWord": "encl",
+      "Meanings": [
+        "enclose",
+        "در داخل قرار داشتن",
+        "در بر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "enclose",
+      "Meanings": [
+        "encl",
+        "در داخل قرار داشتن",
+        "در بر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "encountered",
+      "Meanings": [
+        "en cntd"
+      ]
+    },
+    {
+      "EnglishWord": "endothyra",
+      "Meanings": [
+        "edthr",
+        "اندوتیرا"
+      ]
+    },
+    {
+      "EnglishWord": "entrained gas",
+      "Meanings": [
+        "Formation Gas that enters the drilling fluid in the Annulus"
+      ]
+    },
+    {
+      "EnglishWord": "ep",
+      "Meanings": [
+        "DIELECTRIC CONSTANT",
+        "ELECTROMAGNETIC PROPAGATION, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "epa",
+      "Meanings": [
+        "DIELECTRIC CONSTANT",
+        "ADAPTABLE EPT TOOL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "eph",
+      "Meanings": [
+        "DIELECTRIC CONSTANT",
+        "HALF FREQUENCY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ept",
+      "Meanings": [
+        "ELECTROMAGNETIC PROPAGATION, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "equ",
+      "Meanings": [
+        "Equipement Run, operation's Abbreviations use in reports",
+        "عملیات راندن ابزار مختلف",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "equipment check",
+      "Meanings": [
+        "E/C, actions or jobs which Companymans write in their reports",
+        "چک نمودن ابزار",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "equipment run",
+      "Meanings": [
+        "EQU, operations' abbreviations use in drilling reports",
+        "عملیات جهت داخل نمودن ابزار در چاه",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent circulating density",
+      "Meanings": [
+        "The increase in bottomhole pressure expressed as an increase in pressure that occurs only when mud is being circulated. Because of friction in the annulus as the mud is pumped, bottomhole pressure is slightly, but significantly, higher than when the mud is not being pumped. ECD is calculated by dividing the annular pressure loss by 0.052, dividing that by true vertical depth, and adding the result to the mud weight, ECD"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent mud weight",
+      "Meanings": [
+        "EMW",
+        "وزن معادل گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "erth",
+      "Meanings": [
+        "earthy",
+        "خاکی"
+      ]
+    },
+    {
+      "EnglishWord": "es",
+      "Meanings": [
+        "ELECTRICAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "esd",
+      "Meanings": [
+        "emergency shut",
+        "down",
+        "بستن اضطراری چاه",
+        "Abbreviation: Emergency Shut Down, an automated platform system to shut in an SCSSV and/or SSV"
+      ]
+    },
+    {
+      "EnglishWord": "est",
+      "Meanings": [
+        "estimate, estimated",
+        "برآورد نمودن",
+        "تخمین زدن"
+      ]
+    },
+    {
+      "EnglishWord": "estimate",
+      "Meanings": [
+        "est",
+        "برآورد نمودن",
+        "تخمین زدن"
+      ]
+    },
+    {
+      "EnglishWord": "etn",
+      "Meanings": [
+        "EPITHERMAL NEUTRON, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "euh",
+      "Meanings": [
+        "euhedral",
+        "اهدرال",
+        "بلور کامل"
+      ]
+    },
+    {
+      "EnglishWord": "euhedral",
+      "Meanings": [
+        "euh",
+        "اهدرال",
+        "بلور کامل"
+      ]
+    },
+    {
+      "EnglishWord": "evaluation run",
+      "Meanings": [
+        "EVR, operations' abbreviations use in drilling reports",
+        "عملیات جهت ارزیابی چاه",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "evap",
+      "Meanings": [
+        "evaporate",
+        "تبخیری"
+      ]
+    },
+    {
+      "EnglishWord": "evaporate",
+      "Meanings": [
+        "evap",
+        "تبخیری"
+      ]
+    },
+    {
+      "EnglishWord": "evd",
+      "Meanings": [
+        "evidence",
+        "شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "evidence",
+      "Meanings": [
+        "evd",
+        "شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "evr",
+      "Meanings": [
+        "evaluation run, operation's Abbreviations which Companymans write in their daily drilling reports",
+        "عملیاتی جهت ارزیابی",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "exc",
+      "Meanings": [
+        "except",
+        "بجز",
+        "استثناء"
+      ]
+    },
+    {
+      "EnglishWord": "except",
+      "Meanings": [
+        "exc",
+        "بجز",
+        "استثناء"
+      ]
+    },
+    {
+      "EnglishWord": "exp",
+      "Meanings": [
+        "exposed"
+      ]
+    },
+    {
+      "EnglishWord": "expansion joint",
+      "Meanings": [
+        "A device used to connect long lines of pipe to allow the pipe joints to expand or contract as the temperature rises or falls"
+      ]
+    },
+    {
+      "EnglishWord": "exploitation",
+      "Meanings": [
+        "The development of a reservoir to extract its Oil"
+      ]
+    },
+    {
+      "EnglishWord": "exploitation well",
+      "Meanings": [
+        "A Well drilled to permit more effective extraction of Oil from a reservoir. Sometimes called a Development Well. See also : Development Well"
+      ]
+    },
+    {
+      "EnglishWord": "exploration",
+      "Meanings": [
+        "The search for reservoirs of Oil and Gas, including Aerial and Geophysical Surveys, Geological studies, Core Testing, and Drilling of Wildcats"
+      ]
+    },
+    {
+      "EnglishWord": "exploration well",
+      "Meanings": [
+        "Also called : a Wildcat. See also : Wildcat"
+      ]
+    },
+    {
+      "EnglishWord": "explosive fracturing",
+      "Meanings": [
+        "When explosives are used to fracture a Formation. At the moment of detonation, the explosion furnishes a source of high",
+        "pressure gas to force fluid into the Formation. The rubble prevent fracture healing, making the use of proppants unnecessary"
+      ]
+    },
+    {
+      "EnglishWord": "exposed",
+      "Meanings": [
+        "exp"
+      ]
+    },
+    {
+      "EnglishWord": "ext",
+      "Meanings": [
+        "extreme",
+        "شدید"
+      ]
+    },
+    {
+      "EnglishWord": "external cutter",
+      "Meanings": [
+        "A Fishing Tool containing metal",
+        "cutting knives that is lowered into the Hole and over the outside of a length of Pipe to cut it. The severed part of the pipe can then be brought to the surface"
+      ]
+    },
+    {
+      "EnglishWord": "extra",
+      "Meanings": [
+        "xtr"
+      ]
+    },
+    {
+      "EnglishWord": "extra fine",
+      "Meanings": [
+        "xf",
+        "بسیار ریز",
+        "فوق ریز"
+      ]
+    },
+    {
+      "EnglishWord": "extremely",
+      "Meanings": [
+        "extly, also write as : ext",
+        "شدیدا"
+      ]
+    },
+    {
+      "EnglishWord": "extrly",
+      "Meanings": [
+        "extremely",
+        "شدیدا"
+      ]
+    }
+  ]
+}

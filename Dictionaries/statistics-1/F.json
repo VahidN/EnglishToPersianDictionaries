@@ -1,0 +1,1115 @@
+﻿{
+  "Group": "F",
+  "Entries": 181,
+  "Words": [
+    {
+      "EnglishWord": "f",
+      "Meanings": [
+        "ششمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "faa di bruno's formula",
+      "Meanings": [
+        "فرمول فا دی برونو"
+      ]
+    },
+    {
+      "EnglishWord": "faces",
+      "Meanings": [
+        "صورتکها"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "factor analysis",
+      "Meanings": [
+        "تحلیل عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factor analysis of variance model",
+      "Meanings": [
+        "مدل تحلیل عاملی واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "factor level",
+      "Meanings": [
+        "سطح عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factor loading",
+      "Meanings": [
+        "بار عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factor of a polynomial",
+      "Meanings": [
+        "عامل چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "factor score",
+      "Meanings": [
+        "امتیاز عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial",
+      "Meanings": [
+        "عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial cumulants",
+      "Meanings": [
+        "انباشتکهای فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "factorial design",
+      "Meanings": [
+        "طرح عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial experiment",
+      "Meanings": [
+        "آزمایش عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial function",
+      "Meanings": [
+        "تابع فاکتوریل 2. تابع عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factorial moment",
+      "Meanings": [
+        "گشتاور فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "factorial n",
+      "Meanings": [
+        "ان n فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "factorial series distribution",
+      "Meanings": [
+        "توزیع سری فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "factorial series family",
+      "Meanings": [
+        "خانواده سری فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "factorization",
+      "Meanings": [
+        "تجزیه به عاملها, عاملگیری"
+      ]
+    },
+    {
+      "EnglishWord": "factorization method",
+      "Meanings": [
+        "روش تجزیه به عاملها"
+      ]
+    },
+    {
+      "EnglishWord": "factorization theorem",
+      "Meanings": [
+        "قضیه تجزیه به عاملها"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "از کار افتادگی 2. شکست"
+      ]
+    },
+    {
+      "EnglishWord": "failure rate classification of distributions",
+      "Meanings": [
+        "رده‌بندی توزیعها بر اساس نرخ از کار افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "fair game",
+      "Meanings": [
+        "بازی منصفانه"
+      ]
+    },
+    {
+      "EnglishWord": "fair-jaffee model",
+      "Meanings": [
+        "مدل فیر",
+        "جافی"
+      ]
+    },
+    {
+      "EnglishWord": "fallacy",
+      "Meanings": [
+        "مغالطه",
+        "کلمات مرتبط",
+        "statistical fallacy"
+      ]
+    },
+    {
+      "EnglishWord": "false acceptance",
+      "Meanings": [
+        "پذیرش غلط"
+      ]
+    },
+    {
+      "EnglishWord": "false position method",
+      "Meanings": [
+        "روش نهشت نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "false rejection",
+      "Meanings": [
+        "رد غلط"
+      ]
+    },
+    {
+      "EnglishWord": "family of distributions",
+      "Meanings": [
+        "خانواده توزیعها"
+      ]
+    },
+    {
+      "EnglishWord": "farlie-gumbel-morgens-tern distributions",
+      "Meanings": [
+        "توزیعهای فارلی",
+        "گامبل",
+        "مورگنس",
+        "ترن"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue",
+      "Meanings": [
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue model",
+      "Meanings": [
+        "مدل فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "fault tolerant",
+      "Meanings": [
+        "متحمل عیب"
+      ]
+    },
+    {
+      "EnglishWord": "fault tree analysis",
+      "Meanings": [
+        "تحلیل درخت عیب"
+      ]
+    },
+    {
+      "EnglishWord": "faulty inspection",
+      "Meanings": [
+        "بازرسی نادرست معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "faulty inspection distribution",
+      "Meanings": [
+        "توزیع بازرسی نادرست معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "favorable",
+      "Meanings": [
+        "مساعد"
+      ]
+    },
+    {
+      "EnglishWord": "f-distribution",
+      "Meanings": [
+        "توزیع F"
+      ]
+    },
+    {
+      "EnglishWord": "feasible",
+      "Meanings": [
+        "شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "fechner's theorem",
+      "Meanings": [
+        "قضیه فشنه"
+      ]
+    },
+    {
+      "EnglishWord": "feedback control",
+      "Meanings": [
+        "کنترل پس‌خورانی"
+      ]
+    },
+    {
+      "EnglishWord": "feedforward",
+      "Meanings": [
+        "پیش‌خورانی"
+      ]
+    },
+    {
+      "EnglishWord": "feedforward-feedback control scheme",
+      "Meanings": [
+        "طرح کنترلی پیش‌خورانی",
+        "پس‌خورانی"
+      ]
+    },
+    {
+      "EnglishWord": "fejer mean",
+      "Meanings": [
+        "میانگین فه‌یر"
+      ]
+    },
+    {
+      "EnglishWord": "feller diffusion process",
+      "Meanings": [
+        "فرایند انتشار فلر"
+      ]
+    },
+    {
+      "EnglishWord": "fence",
+      "Meanings": [
+        "نرده"
+      ]
+    },
+    {
+      "EnglishWord": "fermi-dirac statistics",
+      "Meanings": [
+        "آماره‌های فرمی",
+        "دیراک"
+      ]
+    },
+    {
+      "EnglishWord": "fertility measurement",
+      "Meanings": [
+        "اندازه‌گیری باروری"
+      ]
+    },
+    {
+      "EnglishWord": "fiber bundles",
+      "Meanings": [
+        "کلافهای تاری"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci distribution",
+      "Meanings": [
+        "توزیع فیبوناتچی"
+      ]
+    },
+    {
+      "EnglishWord": "fiducial distribution",
+      "Meanings": [
+        "توزیع اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "fiducial inference",
+      "Meanings": [
+        "استنباط اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "fiducial probability",
+      "Meanings": [
+        "احتمال اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "fiducialist",
+      "Meanings": [
+        "اتکایی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "میدان",
+        "هییت",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "field trials",
+      "Meanings": [
+        "امتحانهای میدانی"
+      ]
+    },
+    {
+      "EnglishWord": "fieller-creasy paradox",
+      "Meanings": [
+        "پارادوکس فیه‌لر",
+        "کریسی"
+      ]
+    },
+    {
+      "EnglishWord": "fieller's theorem",
+      "Meanings": [
+        "قضیه فیه‌لر"
+      ]
+    },
+    {
+      "EnglishWord": "figurate numbers",
+      "Meanings": [
+        "اعداد مصور"
+      ]
+    },
+    {
+      "EnglishWord": "figure",
+      "Meanings": [
+        "رقم, شکل"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "پالایه"
+      ]
+    },
+    {
+      "EnglishWord": "filtering",
+      "Meanings": [
+        "پالایش"
+      ]
+    },
+    {
+      "EnglishWord": "final prediction error",
+      "Meanings": [
+        "خطای پیشگویی نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finance",
+      "Meanings": [
+        "مالیه"
+      ]
+    },
+    {
+      "EnglishWord": "fingerprinting",
+      "Meanings": [
+        "انگشت‌نگاری"
+      ]
+    },
+    {
+      "EnglishWord": "finite markov chains",
+      "Meanings": [
+        "زنجیرهای مارکوف متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite measure",
+      "Meanings": [
+        "اندازه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite mixture distribution",
+      "Meanings": [
+        "توزیع متناهی آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "finite population",
+      "Meanings": [
+        "جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite population correction",
+      "Meanings": [
+        "تصحیح جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite sequence",
+      "Meanings": [
+        "دنباله متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite set",
+      "Meanings": [
+        "مجموعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finitely additive measure",
+      "Meanings": [
+        "اندازه متناهیا جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "first derivative ancillary statistics",
+      "Meanings": [
+        "آماره‌های کمکی مشتق اول"
+      ]
+    },
+    {
+      "EnglishWord": "first passage time",
+      "Meanings": [
+        "زمان نخستین گذر"
+      ]
+    },
+    {
+      "EnglishWord": "first product moment",
+      "Meanings": [
+        "نخستین گشتاور ضربی"
+      ]
+    },
+    {
+      "EnglishWord": "first-digit problem",
+      "Meanings": [
+        "مسیله نخستین رقم"
+      ]
+    },
+    {
+      "EnglishWord": "first-order autocorrelation",
+      "Meanings": [
+        "خودهمبستگی مرتبه اول"
+      ]
+    },
+    {
+      "EnglishWord": "first-order model",
+      "Meanings": [
+        "مدل مرتبه اول"
+      ]
+    },
+    {
+      "EnglishWord": "fisher discriminant",
+      "Meanings": [
+        "تشخیص فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher distribution",
+      "Meanings": [
+        "توزیع فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher inequality",
+      "Meanings": [
+        "نابرابری فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher information",
+      "Meanings": [
+        "اطلاع فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher linear discriminant",
+      "Meanings": [
+        "تشخیص خطی فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher-neyman decomposition",
+      "Meanings": [
+        "تجزیه فیشر",
+        "نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "fisher-neyman factorization theorem",
+      "Meanings": [
+        "قضیه تجزیه به عاملهای فیشر",
+        "نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's chi-squared approximation",
+      "Meanings": [
+        "تقریب خی‌دوی فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's exact test",
+      "Meanings": [
+        "آزمون دقیق فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's ideal index number",
+      "Meanings": [
+        "عدد شاخص ایده‌آل فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's k-statistics",
+      "Meanings": [
+        "آماره‌های kی فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's problem of the nile",
+      "Meanings": [
+        "مسیله رود نیل فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's test approach to index numbers",
+      "Meanings": [
+        "رهیافت آزمون فیشر برای اعداد شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's z-distribution",
+      "Meanings": [
+        "توزیع z فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher's z-transformation",
+      "Meanings": [
+        "تبدیل z فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "fisher-yates test",
+      "Meanings": [
+        "آزمون فیشر",
+        "ییتس"
+      ]
+    },
+    {
+      "EnglishWord": "fitness",
+      "Meanings": [
+        "برازندگی"
+      ]
+    },
+    {
+      "EnglishWord": "fitted line",
+      "Meanings": [
+        "خط برازیده"
+      ]
+    },
+    {
+      "EnglishWord": "fitting",
+      "Meanings": [
+        "برازش"
+      ]
+    },
+    {
+      "EnglishWord": "fitting equation to data",
+      "Meanings": [
+        "برازاندن معادله به داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "fitting frequency curve",
+      "Meanings": [
+        "برازاندن منحنی فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "five-number summaries",
+      "Meanings": [
+        "خلاصه‌های پنج‌عددی"
+      ]
+    },
+    {
+      "EnglishWord": "fixed effects model",
+      "Meanings": [
+        "مدل با اثرهای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed-length life test",
+      "Meanings": [
+        "آزمون عمر ثابت‌طول"
+      ]
+    },
+    {
+      "EnglishWord": "fixed-width",
+      "Meanings": [
+        "پهنای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed-width and bounded length confidence intervals",
+      "Meanings": [
+        "بازه‌های اطمینان با پهنای ثابت و درازای کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "fix-point method",
+      "Meanings": [
+        "روش نقطه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fkg inequality",
+      "Meanings": [
+        "نابرابری F"
+      ]
+    },
+    {
+      "EnglishWord": "flat prior",
+      "Meanings": [
+        "پیشین تخت"
+      ]
+    },
+    {
+      "EnglishWord": "floating point",
+      "Meanings": [
+        "ممیز شناور"
+      ]
+    },
+    {
+      "EnglishWord": "flowgraph",
+      "Meanings": [
+        "روندنگار"
+      ]
+    },
+    {
+      "EnglishWord": "flowgraph analysis",
+      "Meanings": [
+        "تحلیل روندنگار"
+      ]
+    },
+    {
+      "EnglishWord": "fokker-planck equation",
+      "Meanings": [
+        "معادله فوکر",
+        "پلانک"
+      ]
+    },
+    {
+      "EnglishWord": "folded distribution",
+      "Meanings": [
+        "توزیع تاخورده"
+      ]
+    },
+    {
+      "EnglishWord": "folded transformation",
+      "Meanings": [
+        "تبدیل تاخورده"
+      ]
+    },
+    {
+      "EnglishWord": "follow-up",
+      "Meanings": [
+        "پیگیری"
+      ]
+    },
+    {
+      "EnglishWord": "force of mortality",
+      "Meanings": [
+        "نیروی مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "forecasting",
+      "Meanings": [
+        "پیش‌بینی"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "صورت",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "formulation",
+      "Meanings": [
+        "فرمول‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "fortuitous",
+      "Meanings": [
+        "اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "forward difference",
+      "Meanings": [
+        "تفاضل پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "forward difference operator",
+      "Meanings": [
+        "عملگر تفاضلی پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "forward selection procedure",
+      "Meanings": [
+        "شیوه گزینش پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "forward shift",
+      "Meanings": [
+        "انتقال پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "foundations of probability",
+      "Meanings": [
+        "مبانی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "foundations of risk measurement",
+      "Meanings": [
+        "مبانی اندازه‌گیری مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "fourier coefficients",
+      "Meanings": [
+        "ضریبهای فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fourier series",
+      "Meanings": [
+        "سری فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fourier series curve estimation and antismoothing",
+      "Meanings": [
+        "برآورد کردن و ناهموار کردن خم منحنی با سری فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fourier transform",
+      "Meanings": [
+        "تبدیل فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "fractal",
+      "Meanings": [
+        "برخال"
+      ]
+    },
+    {
+      "EnglishWord": "fractal dimensions and estimation",
+      "Meanings": [
+        "ابعاد برخالها و برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "fractile",
+      "Meanings": [
+        "کسرک"
+      ]
+    },
+    {
+      "EnglishWord": "fraction",
+      "Meanings": [
+        "کسر"
+      ]
+    },
+    {
+      "EnglishWord": "fractional",
+      "Meanings": [
+        "کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional arima model",
+      "Meanings": [
+        "مدل آریمای کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional brownian motions and fractional gaussian noises",
+      "Meanings": [
+        "حرکتهای براونی کسری و نوفه‌های گاوسی کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional factorial design",
+      "Meanings": [
+        "طرح عاملی کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional integrodifferentiation",
+      "Meanings": [
+        "انتگرال",
+        "دیفرانسیل‌گیری کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional rank estimator",
+      "Meanings": [
+        "برآوردگر رتبه‌ای کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fractional regression",
+      "Meanings": [
+        "رگرسیون کسری"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentary data",
+      "Meanings": [
+        "داده‌های پاشیده"
+      ]
+    },
+    {
+      "EnglishWord": "frailty model",
+      "Meanings": [
+        "مدل شکنندگی"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "چارچوب"
+      ]
+    },
+    {
+      "EnglishWord": "franklin's identity",
+      "Meanings": [
+        "اتحاد فرانکلین"
+      ]
+    },
+    {
+      "EnglishWord": "fraser structural model",
+      "Meanings": [
+        "مدل ساختاری فریزر"
+      ]
+    },
+    {
+      "EnglishWord": "frechet bounds",
+      "Meanings": [
+        "کرانهای فره‌شه"
+      ]
+    },
+    {
+      "EnglishWord": "frechet derivative",
+      "Meanings": [
+        "مشتق فره‌شه"
+      ]
+    },
+    {
+      "EnglishWord": "free inference",
+      "Meanings": [
+        "استنباط آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freeman-halton test",
+      "Meanings": [
+        "آزمون فریمن",
+        "هالتون"
+      ]
+    },
+    {
+      "EnglishWord": "freeman-tukey test",
+      "Meanings": [
+        "آزمون فریمن",
+        "توکی"
+      ]
+    },
+    {
+      "EnglishWord": "freeman-tukey transformation",
+      "Meanings": [
+        "تبدیل فریمن",
+        "توکی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "فراوانی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "frequency curve",
+      "Meanings": [
+        "خم منحنی فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency distribution",
+      "Meanings": [
+        "توزیع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency function",
+      "Meanings": [
+        "تابع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency interpretation in probability and statistical inference",
+      "Meanings": [
+        "تعبیر فراوانی در احتمال و استنباط آماری"
+      ]
+    },
+    {
+      "EnglishWord": "frequency moment",
+      "Meanings": [
+        "گشتاور فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency polygon",
+      "Meanings": [
+        "چندبر فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency surface",
+      "Meanings": [
+        "رویه فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency table",
+      "Meanings": [
+        "جدول فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequentist",
+      "Meanings": [
+        "فراوانی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "friedman's chi-square test",
+      "Meanings": [
+        "آزمون خی‌دوی فریدمن"
+      ]
+    },
+    {
+      "EnglishWord": "friedman's urn model",
+      "Meanings": [
+        "مدل آوند فریدمن"
+      ]
+    },
+    {
+      "EnglishWord": "froot",
+      "Meanings": [
+        "جذر تاخورده"
+      ]
+    },
+    {
+      "EnglishWord": "f-test",
+      "Meanings": [
+        "آزمون F"
+      ]
+    },
+    {
+      "EnglishWord": "full-information estimator",
+      "Meanings": [
+        "برآوردگر تمام‌اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "fully normal space",
+      "Meanings": [
+        "فضای تماما نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "تابع",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "function of bounded variation",
+      "Meanings": [
+        "تابع با تغییرات کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "function of several variables",
+      "Meanings": [
+        "تابع چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "functional",
+      "Meanings": [
+        "تابعک"
+      ]
+    },
+    {
+      "EnglishWord": "functional data analysis",
+      "Meanings": [
+        "تحلیل داده‌های تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "functional equation",
+      "Meanings": [
+        "معادله تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "functional integration",
+      "Meanings": [
+        "انتگرال‌گیری تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "functional limit theorem",
+      "Meanings": [
+        "قضیه حدی تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "fundamental identity of sequential analysis",
+      "Meanings": [
+        "اتحاد اساسی تحلیل دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy",
+      "Meanings": [
+        "مشکک",
+        "فازی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy set theory",
+      "Meanings": [
+        "نظریه مجموعه‌های مشکک فازی"
+      ]
+    }
+  ]
+}

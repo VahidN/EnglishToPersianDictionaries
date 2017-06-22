@@ -1,0 +1,1103 @@
+﻿{
+  "Group": "G",
+  "Entries": 159,
+  "Words": [
+    {
+      "EnglishWord": "g",
+      "Meanings": [
+        "good, also refer to as : gd",
+        "خوب"
+      ]
+    },
+    {
+      "EnglishWord": "g   o",
+      "Meanings": [
+        "Gas & Oil, also write as : G/O or G&O",
+        "گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "g   ocm",
+      "Meanings": [
+        "gas & oil cut mud",
+        "گاز و نفتی که گل حفاری را از حالت یکپارچه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "g o",
+      "Meanings": [
+        "گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "g/o",
+      "Meanings": [
+        "Gas & Oil, also write as : G & O or G&O",
+        "گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "ga",
+      "Meanings": [
+        "gallons acid"
+      ]
+    },
+    {
+      "EnglishWord": "gaging nipple",
+      "Meanings": [
+        "A small section of pipe in the top of a tank through which a tank may be gaged"
+      ]
+    },
+    {
+      "EnglishWord": "gal",
+      "Meanings": [
+        "gallon",
+        "گالن"
+      ]
+    },
+    {
+      "EnglishWord": "gallon",
+      "Meanings": [
+        "gal",
+        "گالن"
+      ]
+    },
+    {
+      "EnglishWord": "gallons acid",
+      "Meanings": [
+        "تعداد گالن اسید",
+        "GA"
+      ]
+    },
+    {
+      "EnglishWord": "gamma neutron",
+      "Meanings": [
+        "لاگ پرتوی گاما",
+        "نوترون",
+        "GR+N, Gamma Ray & Neutron running with each other"
+      ]
+    },
+    {
+      "EnglishWord": "gamma ray",
+      "Meanings": [
+        "لاگ اشعه گاما",
+        "لاگ پرتوی گاما که میزان رادیواکتیویته سازند را آشکار می‌سازد",
+        "GR Tool or Log",
+        "لاگ اشعە گاما"
+      ]
+    },
+    {
+      "EnglishWord": "gamma ray auxiliary measurement sonde",
+      "Meanings": [
+        "GR/AMS",
+        "سوند کمکی اندازه گیرنده پرتوی گاما"
+      ]
+    },
+    {
+      "EnglishWord": "gamma-netron",
+      "Meanings": [
+        "لاگ پرتوی گاما",
+        "نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "gamma-neutron",
+      "Meanings": [
+        "GR+N, Gamma Ray & Neutron running with each other",
+        "لاگ پرتوی گاما",
+        "نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "gas",
+      "Meanings": [
+        "A compressible fluid that fills any container in which it is confined. Technically, a gas will not condense when it is compressed and cooled, because a gas can exist only above the critical temperature for its particular composition. Below the critical temperature, this form of matter is known as a vapor, because liquid can exist and condensation can occur. Sometimes the terms \"gas\" and\"vapor\" are used interchangeably. The latter, however, should be used for those streams in which condensation can occur and that originate form, or are in equilibrium with, a liquid phase"
+      ]
+    },
+    {
+      "EnglishWord": "gas   oil",
+      "Meanings": [
+        "G/O, also refer to as : G&O",
+        "گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "gas   oil cut mud",
+      "Meanings": [
+        "G& OCM",
+        "گاز و نفتی که گل حفاری را از حالت یکپارچه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "gas anchor",
+      "Meanings": [
+        "A tubular, perforated device attached to the bottom of sucker",
+        "rod pump that helps to prevent gas lock. The device works on the principle that gas, being lighter than oil, rises. As well fluids enter the anchor, the gas breaks out of the fluid and exits from the anchor through perforations near the top. The remaining fluids enter the pump through a mosquito bill a tube with the anchor , which has an opening near the bottom. In this way, all or most of the gas escapes before the fluids enter the pump"
+      ]
+    },
+    {
+      "EnglishWord": "gas cap",
+      "Meanings": [
+        "A free",
+        "gas phase overlying an oil zone and occurring within the same producing Formation as the Oil"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut",
+      "Meanings": [
+        "GC",
+        "گل حفاری که با گاز آغشته شده است"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut mud",
+      "Meanings": [
+        "GCM, or A drilling Mud that contains entrained formation gas, giving the mud a characteristically fluffy texture. Then entrained gas in not released before the fluid returns to the well, the weight or density of the fluid column is reduced. Because a large amount of gas in mud lowers its density, gas",
+        "cut mud must be treated to",
+        "reduce the chance of a Kick",
+        "گازی که گل حفاری را آغشته نموده باشد و آنرا از حالت یکپارچه در آورد باشد"
+      ]
+    },
+    {
+      "EnglishWord": "gas input well",
+      "Meanings": [
+        "A Well into which gas in injected for the purpose of maintaining or supplementing pressure in an oil reservoir. More commonly called : a gas injection Well"
+      ]
+    },
+    {
+      "EnglishWord": "gas lift",
+      "Meanings": [
+        "The process of raising or lifting fluid from a well by injecting gas down the well through tubing or through the tubing",
+        "casing annulus. Injected gas aerates the fluid to make it exert less pressure than the formation does; consequently, the higher formation pressure forces the fluid out of the wellbore. Gas may be injected continuously or intermittently, depending on the producing characteristics of the well and the arrangement of the gas",
+        "lift equipment"
+      ]
+    },
+    {
+      "EnglishWord": "gas liquid ratio",
+      "Meanings": [
+        "GLR",
+        "نسبت گاز مایع"
+      ]
+    },
+    {
+      "EnglishWord": "gas lock",
+      "Meanings": [
+        "A condition sometimes encountered in a pumping well when dissolved gas, released from solution during the upstroke of the plunger, appears as free gas between the valves. If the gas pressure is sufficient, the standing valve is locked shut, and no fluid enter the tubing",
+        ". A device fitted to the gauging hatch on a pressure tank that enables manual dipping and sampling without loss of vapor"
+      ]
+    },
+    {
+      "EnglishWord": "gas odor",
+      "Meanings": [
+        "بوی گاز که از نمونه‌ها به مشام می‌رسد",
+        "Go"
+      ]
+    },
+    {
+      "EnglishWord": "gas sand",
+      "Meanings": [
+        "A stratum of sand or porous sandstone from which natural gas is obtained"
+      ]
+    },
+    {
+      "EnglishWord": "gas well",
+      "Meanings": [
+        "A Well that primarily produces gas. Legal definitions vary among the states"
+      ]
+    },
+    {
+      "EnglishWord": "gasd",
+      "Meanings": [
+        "GAS DETECTION, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gasket",
+      "Meanings": [
+        "Any material i.e. Paper, Cork, Asbestos, or Rubber used to seal two essentially stationary surfaces"
+      ]
+    },
+    {
+      "EnglishWord": "gas-oil contact",
+      "Meanings": [
+        "The contact between Gas and Oil",
+        "GOC"
+      ]
+    },
+    {
+      "EnglishWord": "gas-oil ratio",
+      "Meanings": [
+        "GOR, A measure of the volume of gas produced with oil, expressed in cubic feet per barrel of cubic meters per tonne",
+        "نسبت گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "gastropods",
+      "Meanings": [
+        "gstro"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "Gge, also refer to as : ggd",
+        "گیج",
+        "وسیله ای که استاندارد بودن اندازه چیزی را می‌سنجد"
+      ]
+    },
+    {
+      "EnglishWord": "gauge joint",
+      "Meanings": [
+        "The heaviest",
+        "wall casing section of the string, usually located just below the preventers or tree"
+      ]
+    },
+    {
+      "EnglishWord": "gauge ring",
+      "Meanings": [
+        "A cylindrical metal ring used to guide, and centralize, packers or tools inside casing"
+      ]
+    },
+    {
+      "EnglishWord": "gauge trip",
+      "Meanings": [
+        "Running of a gauge on tubing or slickline to verify casing dimensions"
+      ]
+    },
+    {
+      "EnglishWord": "gauged",
+      "Meanings": [
+        "Ggd"
+      ]
+    },
+    {
+      "EnglishWord": "gc",
+      "Meanings": [
+        "gas cut",
+        "گازی که گل حفاری را از حالت یکپارچه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "gcd",
+      "Meanings": [
+        "GAMMA COMPENSATED DENSITY/GAMMA GAMMA, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gcm",
+      "Meanings": [
+        "gas cut mud",
+        "گازی که گل حفاری را آغشته نموده و آنرا از حالت یکپارچه در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "gcpr",
+      "Meanings": [
+        "GAMMA COLLAR PERFORATING RECORD, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gcrd",
+      "Meanings": [
+        "GAMMA GUARD, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gd",
+      "Meanings": [
+        "good, also refer to as : g",
+        "خوب",
+        "geode, also sometimes use for good"
+      ]
+    },
+    {
+      "EnglishWord": "gen",
+      "Meanings": [
+        "generally",
+        "عموما"
+      ]
+    },
+    {
+      "EnglishWord": "generally",
+      "Meanings": [
+        "gen",
+        "عموما"
+      ]
+    },
+    {
+      "EnglishWord": "geode  also sometimes use for good",
+      "Meanings": [
+        "gd"
+      ]
+    },
+    {
+      "EnglishWord": "geologist",
+      "Meanings": [
+        "A scientist who gathers and interprets data pertaining to the rocks of the earth's crust"
+      ]
+    },
+    {
+      "EnglishWord": "geop",
+      "Meanings": [
+        "GEOPHONE, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "get a bite",
+      "Meanings": [
+        "To set tools in Casings"
+      ]
+    },
+    {
+      "EnglishWord": "gg",
+      "Meanings": [
+        "GAMMA GAMMA, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ggd",
+      "Meanings": [
+        "GAMMA GAMMA DENSITY, Log Curve name",
+        "gauged, also refer to as : Gge"
+      ]
+    },
+    {
+      "EnglishWord": "gge",
+      "Meanings": [
+        "gauge",
+        "گیج",
+        "وسیله ای که استاندارد بودن اندازه چیزی را می‌سنجد"
+      ]
+    },
+    {
+      "EnglishWord": "ggrd",
+      "Meanings": [
+        "GAMMA GUARD EL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gin pole",
+      "Meanings": [
+        "A truck equipped with a pair of poles, and hoisting equipment for use in lifting heavy machinery around a lease"
+      ]
+    },
+    {
+      "EnglishWord": "gin-pole truck",
+      "Meanings": [
+        "A truck equipped with a pair of poles, and hoisting equipment for use in lifting heavy machinery around a lease"
+      ]
+    },
+    {
+      "EnglishWord": "girt",
+      "Meanings": [
+        "One of the horizontal braces between the legs of a derrick"
+      ]
+    },
+    {
+      "EnglishWord": "girth",
+      "Meanings": [
+        "One of the horizontal braces between the legs of a derrick"
+      ]
+    },
+    {
+      "EnglishWord": "gland",
+      "Meanings": [
+        "A device used to form a seal around a reciprocating or rotating rod as in a pump to prevent fluid leakage. Specifically, the movable part of a stuffing box by which the packing is compressed"
+      ]
+    },
+    {
+      "EnglishWord": "glass disk",
+      "Meanings": [
+        "A Sub with a glass blockage in the bore, used to isolate a surge chamber in gravel packing or perforation cleaning operations"
+      ]
+    },
+    {
+      "EnglishWord": "glassy",
+      "Meanings": [
+        "glsy",
+        "شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glau",
+      "Meanings": [
+        "Glauconite, also write as : gluc",
+        "گلوکونیت"
+      ]
+    },
+    {
+      "EnglishWord": "glauconite",
+      "Meanings": [
+        "gluc, also write as : glau",
+        "گلوکونیت"
+      ]
+    },
+    {
+      "EnglishWord": "gle",
+      "Meanings": [
+        "Ground Level Elevation",
+        "ارتفاع سطح آب زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "gley",
+      "Meanings": [
+        "sticky and bluish grey Clay",
+        "رس چسبنده و با رنگ خاکستری مایل به آبی",
+        "لایه چسبنده زیر سطح زمین که توسط رنگ پریده و کمبود اکسید آهن آن مشخص می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "glr",
+      "Meanings": [
+        "Gas Liquid Ratio",
+        "نسبت گاز مایع",
+        "gas",
+        "liquid",
+        "ratio"
+      ]
+    },
+    {
+      "EnglishWord": "glsy",
+      "Meanings": [
+        "glassy",
+        "شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glt",
+      "Meanings": [
+        "GEOCHEMICAL LOGGING TOOL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gluc",
+      "Meanings": [
+        "Glauconite, also use as : glau",
+        "گلوکونیت"
+      ]
+    },
+    {
+      "EnglishWord": "gn",
+      "Meanings": [
+        "green, also write as : grn",
+        "سبز رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "gngy",
+      "Meanings": [
+        "greenish gray"
+      ]
+    },
+    {
+      "EnglishWord": "go",
+      "Meanings": [
+        "بوی گاز که از نمونه‌ها به مشام می‌رسد",
+        "gas odor"
+      ]
+    },
+    {
+      "EnglishWord": "go in the hole",
+      "Meanings": [
+        "To lower the Drill Stem, Tubing, Casing, or Sucker Rods in to the Well"
+      ]
+    },
+    {
+      "EnglishWord": "goc",
+      "Meanings": [
+        "Gas",
+        "Oil contact",
+        "سطح تماس گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "go-devil",
+      "Meanings": [
+        "A device that is inserted into a pipeline for the purpose of cleaning; a line scraper. Also called a pig",
+        ". A device that is lowered into the borehole of a well for various purposes such as enclosing surveying instruments, detonating instruments, and the like"
+      ]
+    },
+    {
+      "EnglishWord": "gone to water",
+      "Meanings": [
+        "Describes a well in which water production is increasing"
+      ]
+    },
+    {
+      "EnglishWord": "good",
+      "Meanings": [
+        "Rock with good porosity more than 12 % , e.g. II",
+        "D, III",
+        "D",
+        "gd, also write as : g",
+        "g, also write as : gd",
+        "خوب"
+      ]
+    },
+    {
+      "EnglishWord": "gooseneck",
+      "Meanings": [
+        "The curved connection between the Rotary Hose and the Swivel",
+        "اتصال خمیده بین خرطومی کلی و هرز گرد"
+      ]
+    },
+    {
+      "EnglishWord": "gor",
+      "Meanings": [
+        "Gas",
+        "Oil Ratio",
+        "نسبت بین گاز و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "gpg",
+      "Meanings": [
+        "Grains Per Gallon"
+      ]
+    },
+    {
+      "EnglishWord": "gr",
+      "Meanings": [
+        "نمودار پرتوی گاما که توسط رادیواکتیویته کار می‌کند",
+        "Gamma Ray, Tool or Log",
+        "from Gradiomanometer",
+        "grain",
+        "ذره",
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "gr n",
+      "Meanings": [
+        "Gamma Ray + Neutron Log",
+        "لاگ پرتوی گاما + نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "gr/ams",
+      "Meanings": [
+        "Gamma Ray Auxiliary Measurement Sonde",
+        "سوند یا ابزار کمکی اندازه گیرنده پرتوی گاما"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "grd",
+        "درجه"
+      ]
+    },
+    {
+      "EnglishWord": "graded",
+      "Meanings": [
+        "grdd"
+      ]
+    },
+    {
+      "EnglishWord": "gradient",
+      "Meanings": [
+        "pressure drop"
+      ]
+    },
+    {
+      "EnglishWord": "grain",
+      "Meanings": [
+        "gr",
+        "ذره",
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "grained",
+      "Meanings": [
+        "grnd"
+      ]
+    },
+    {
+      "EnglishWord": "grains",
+      "Meanings": [
+        "grs",
+        "ذرات",
+        "دانه ها"
+      ]
+    },
+    {
+      "EnglishWord": "grainstone",
+      "Meanings": [
+        "A rock with very much grains, more compact than Packstone , grain size larger than 20 μ without calcareous Mud , also called : Calcirudite or Rudstone, Dunham Classification for Carbonate rocks",
+        "Just grains, without calc Mud, grains > 20 μ, also called Calcirudite or Rudstone",
+        "گرین استون",
+        "سنگی که کلا از دانه تشکیل شده و فاقد گل آهکی می‌باشد و بهنگام رسوبگذاری قطعات آن بیکدیگر متصل نبوده اند",
+        "سنگی است که صرفا دارای دانه بوده و دانه‌های آن بزرگتر از 20 میکرون و فاقد گل آهکی است. نام‌های دیگر آن: کلسی رودایت و رود استون می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "gran",
+      "Meanings": [
+        "granule",
+        "دارای ذرات",
+        "دانه دانه"
+      ]
+    },
+    {
+      "EnglishWord": "gran w",
+      "Meanings": [
+        "شستشوی گرانیت",
+        "granite wash"
+      ]
+    },
+    {
+      "EnglishWord": "granite wash",
+      "Meanings": [
+        "شستشوی گرانیت",
+        "gran W"
+      ]
+    },
+    {
+      "EnglishWord": "granular",
+      "Meanings": [
+        "grnl, also write as : gran",
+        "دارای ذرات",
+        "دانه دانه"
+      ]
+    },
+    {
+      "EnglishWord": "granule",
+      "Meanings": [
+        "Particles with size between 2 mm",
+        "mm",
+        "gran",
+        "ذرات یا دانه هایی با اندازه بین 2 تا 4 میلیمتر"
+      ]
+    },
+    {
+      "EnglishWord": "grapple",
+      "Meanings": [
+        "A mechanism that is fitted into an overshot to grasp and retrieve fish from the Borehole. The interior of a Grapple is wickered to engage the Fish"
+      ]
+    },
+    {
+      "EnglishWord": "grass gooser",
+      "Meanings": [
+        "A hoe or other kind of weed cutter"
+      ]
+    },
+    {
+      "EnglishWord": "grav",
+      "Meanings": [
+        "GRAVITY, Log Curve name",
+        "جاذبه",
+        "gravity"
+      ]
+    },
+    {
+      "EnglishWord": "gravel",
+      "Meanings": [
+        "gvl"
+      ]
+    },
+    {
+      "EnglishWord": "gravel pack",
+      "Meanings": [
+        "A mass of very fine gravel placed around a slotted Liner in a Well"
+      ]
+    },
+    {
+      "EnglishWord": "gravel packing",
+      "Meanings": [
+        "A method of well completion in which a slotted or perforated liner, often wire",
+        "wrapped, is placed in the well and surrounded by gravel. If open hole, the well is sometimes enlarged by underreaming at the point where the gravel is packed. The mass of gravel excludes sand from the wellbore but allows continued production"
+      ]
+    },
+    {
+      "EnglishWord": "gravel-pack packer",
+      "Meanings": [
+        "A Packer used for the Well completion method of gravel packing"
+      ]
+    },
+    {
+      "EnglishWord": "grave-pack",
+      "Meanings": [
+        "To place a slotted or perforated liner in a Well and surround it with gravel"
+      ]
+    },
+    {
+      "EnglishWord": "gravity",
+      "Meanings": [
+        "جاذبه",
+        "grav",
+        "The specific gravity or density of Oil expressed in terms of a scale devised by the American Petroleum Institute. The lighter the oil, the greater the gravity; other factors being equal, the higher the API gravity, the better price the oil will bring, API"
+      ]
+    },
+    {
+      "EnglishWord": "gravity - specific",
+      "Meanings": [
+        "Density expressed as the ratio of the weight of a volume of substance to the weight of an equal volume of another standard substance. In the case of liquids and solids, the standard is water. In the case of natural gas or other gas materials, the standard is air"
+      ]
+    },
+    {
+      "EnglishWord": "gray",
+      "Meanings": [
+        "gy, also rarely write as : gry",
+        "خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "gray valve",
+      "Meanings": [
+        "See : inside blowout preventer"
+      ]
+    },
+    {
+      "EnglishWord": "grayish blue",
+      "Meanings": [
+        "gybl"
+      ]
+    },
+    {
+      "EnglishWord": "grayish brown",
+      "Meanings": [
+        "gybn"
+      ]
+    },
+    {
+      "EnglishWord": "grayish buff",
+      "Meanings": [
+        "gybf"
+      ]
+    },
+    {
+      "EnglishWord": "grayish green",
+      "Meanings": [
+        "gygn"
+      ]
+    },
+    {
+      "EnglishWord": "grayish white",
+      "Meanings": [
+        "gywh"
+      ]
+    },
+    {
+      "EnglishWord": "graywake",
+      "Meanings": [
+        "gywke",
+        "گریوک",
+        "سنگی است که دارای دانه بیش از 10 درصد بوده و دارای گل فراوان با اندازه کوچکتر از 20 میکرون می‌باشد. اجزاء این سنگ در هنگام رسوبگذاری به هم متصل نمی‌باشند"
+      ]
+    },
+    {
+      "EnglishWord": "grd",
+      "Meanings": [
+        "grade",
+        "درجه"
+      ]
+    },
+    {
+      "EnglishWord": "grdd",
+      "Meanings": [
+        "graded"
+      ]
+    },
+    {
+      "EnglishWord": "grdl",
+      "Meanings": [
+        "GUARD, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "green",
+      "Meanings": [
+        "gn, also sometimes write as : grn",
+        "سبز"
+      ]
+    },
+    {
+      "EnglishWord": "greenish gray",
+      "Meanings": [
+        "gngy"
+      ]
+    },
+    {
+      "EnglishWord": "grey",
+      "Meanings": [
+        "gy, also write as : gr, but recently usually use : gy",
+        "خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "gritty",
+      "Meanings": [
+        "gty"
+      ]
+    },
+    {
+      "EnglishWord": "grl",
+      "Meanings": [
+        "GAMMA RAY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "grmr",
+      "Meanings": [
+        "GRADIOMANOMETER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "grn",
+      "Meanings": [
+        "GAMMA RAY",
+        "NEUTRON/SYNTHETIC GAMMA RAY",
+        "NEUTRON, Log Curve name",
+        "Gamma",
+        "Ray",
+        "Neutron, a Well Log",
+        "ground",
+        "Sometimes and rarely write as : green, but mostly use \"gn\" for green",
+        "سبز رنگ",
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "grnd",
+      "Meanings": [
+        "grained"
+      ]
+    },
+    {
+      "EnglishWord": "grnl",
+      "Meanings": [
+        "GAMMA RAY",
+        "NEUTRON, Log Curve name",
+        "granular",
+        "دارای ذرات",
+        "دانه دانه"
+      ]
+    },
+    {
+      "EnglishWord": "gross production",
+      "Meanings": [
+        "The total production of oil from a Well or lease during a specified period of time"
+      ]
+    },
+    {
+      "EnglishWord": "ground",
+      "Meanings": [
+        "grn",
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ground anchor",
+      "Meanings": [
+        "A cable which fix the Rig on the surface",
+        "مهار زمینی دکل حفاری که دکل را در جای خود مهار می‌نماید"
+      ]
+    },
+    {
+      "EnglishWord": "ground level elevation",
+      "Meanings": [
+        "GLE",
+        "ارتفاع سطح زمین از سطح دریا که دکل حفاری بر روی آن قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "grs",
+      "Meanings": [
+        "SPECTRAL GAMMA RAY",
+        "NATURAL, Log Curve name",
+        "grains",
+        "ذرات",
+        "دانه ها"
+      ]
+    },
+    {
+      "EnglishWord": "grsc",
+      "Meanings": [
+        "SPECTRAL GAMMA RAY",
+        "NATURAL",
+        "COMPENSATED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "grsi",
+      "Meanings": [
+        "SPECTRAL GAMMA RAY",
+        "INDUCED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "grsl",
+      "Meanings": [
+        "GAMMA RAY",
+        "SONIC, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "grts",
+      "Meanings": [
+        "GAMMA RAY",
+        "TRACER SURVEY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gry",
+      "Meanings": [
+        "gray, also write as : gy",
+        "اختصاری است که گاهی برای رنگ خاکستری بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "gstro",
+      "Meanings": [
+        "gastropods"
+      ]
+    },
+    {
+      "EnglishWord": "gt",
+      "Meanings": [
+        "HYDROCARBON OR GAS DETECTION, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gty",
+      "Meanings": [
+        "gritty"
+      ]
+    },
+    {
+      "EnglishWord": "guide ring",
+      "Meanings": [
+        "A cylindrical metal ring used to guide packers past casing obtrusions"
+      ]
+    },
+    {
+      "EnglishWord": "guide shoe",
+      "Meanings": [
+        "A short, heavy, cylindrical section of steel filled with concrete and rounded at the bottom, which is placed at the end of the casing string. It prevents the casing from snagging on irregularities in the borehole as it is lowered. A passage through the center of the shoe allow drilling fluid to pass up into the casing while it is being lowered and allows cement to pass out during cementing operations. Also called casing shoe",
+        ". A device, similar to a Casing Shoe, placed at the end of other tubular goods"
+      ]
+    },
+    {
+      "EnglishWord": "gumbo",
+      "Meanings": [
+        "Any relatively sticky Formation, such as Clay encountered in drilling"
+      ]
+    },
+    {
+      "EnglishWord": "gunk slurry",
+      "Meanings": [
+        "A slang term to denote a mixture of diesel oil and bentonite"
+      ]
+    },
+    {
+      "EnglishWord": "gun-perforate",
+      "Meanings": [
+        "To create holes in Casing and Cement set through a productive formation. A common method of completing a well is to set casing through the oil",
+        "bearing formation and cement it. A perforating Gun is then lowered into the hole and fired to detonate high",
+        "powered jets or shoot steel projectiles bullets through the casing and cement and into the pay zone. The formation fluids flow out of the reservoir through the perforations and into the wellbore. See also : Perforating Gun"
+      ]
+    },
+    {
+      "EnglishWord": "gusher",
+      "Meanings": [
+        "A Well which is uncontrolable, or An Oilwell that has come in with such great pressure that the Oil jets out of the Well like a Geyser. In reality, a Gusher is a blowout and is extremely wasteful of reservoir fluids and drive energy. In the early days of the Oil industry, Gushers were common and many times were the only indication that a large reservoir of Oil and Gas had been struck",
+        "چاه سرکش"
+      ]
+    },
+    {
+      "EnglishWord": "guy line",
+      "Meanings": [
+        "A cable which fix the Rig on the surface, or A Wireline attached to a mast, derrick, or offshore platform to stabilize it. See wind guy line",
+        "خط مهار",
+        "یک کابل یا خط سیمی که جهت حفظ پایداری به دکل متصل می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "guy line anchor",
+      "Meanings": [
+        "A buried weight or anchor to which a guy line is attached. See also : Deadman"
+      ]
+    },
+    {
+      "EnglishWord": "guy wire",
+      "Meanings": [
+        "A rope or cable used to steady a mast or pole"
+      ]
+    },
+    {
+      "EnglishWord": "gvl",
+      "Meanings": [
+        "gravel"
+      ]
+    },
+    {
+      "EnglishWord": "gy",
+      "Meanings": [
+        "grey, also write as : gry",
+        "خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "gybf",
+      "Meanings": [
+        "grayish buff"
+      ]
+    },
+    {
+      "EnglishWord": "gybl",
+      "Meanings": [
+        "grayish blue"
+      ]
+    },
+    {
+      "EnglishWord": "gybn",
+      "Meanings": [
+        "grayish brown"
+      ]
+    },
+    {
+      "EnglishWord": "gygn",
+      "Meanings": [
+        "grayish green"
+      ]
+    },
+    {
+      "EnglishWord": "gyp",
+      "Meanings": [
+        "ژیپس",
+        "Gypsum",
+        "که همان انیدریت آبدار است"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum",
+      "Meanings": [
+        "gyp, A naturally occurring crystalline form of Calcium Sulfate in which each molecule of Calcium Sulfate is combined with two molecules of water",
+        "ژیپس",
+        "که همان انیدریت آبدار است"
+      ]
+    },
+    {
+      "EnglishWord": "gyro",
+      "Meanings": [
+        "GYRO SURVEY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "gywh",
+      "Meanings": [
+        "grayish white"
+      ]
+    },
+    {
+      "EnglishWord": "gywke",
+      "Meanings": [
+        "Graywake",
+        "گریوک",
+        "سنگی است که دارای دانه بیش از 10 درصد بوده و دارای گل فراوان با اندازه کوچکتر از 20 میکرون می‌باشد. اجزاء این سنگ در هنگام رسوبگذاری به هم متصل نمی‌باشند"
+      ]
+    }
+  ]
+}

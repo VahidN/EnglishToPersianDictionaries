@@ -1,0 +1,1360 @@
+﻿{
+  "Group": "A",
+  "Entries": 220,
+  "Words": [
+    {
+      "EnglishWord": "a   p",
+      "Meanings": [
+        "Airframe And Powerplant Mechanic USA"
+      ]
+    },
+    {
+      "EnglishWord": "a/c",
+      "Meanings": [
+        "Aircraft"
+      ]
+    },
+    {
+      "EnglishWord": "a/d",
+      "Meanings": [
+        "Aerodrome"
+      ]
+    },
+    {
+      "EnglishWord": "a/g",
+      "Meanings": [
+        "Air",
+        "to",
+        "Ground"
+      ]
+    },
+    {
+      "EnglishWord": "a/p",
+      "Meanings": [
+        "Airport Or Autopilot"
+      ]
+    },
+    {
+      "EnglishWord": "aac",
+      "Meanings": [
+        "Army Air Corps"
+      ]
+    },
+    {
+      "EnglishWord": "aae",
+      "Meanings": [
+        "Above Aerodrome Elevation. Also See AAL"
+      ]
+    },
+    {
+      "EnglishWord": "aaib",
+      "Meanings": [
+        "Air Accident Investigation Branch"
+      ]
+    },
+    {
+      "EnglishWord": "aal",
+      "Meanings": [
+        "Above Aerodrome Level. Also see AAE"
+      ]
+    },
+    {
+      "EnglishWord": "abeyance",
+      "Meanings": [
+        "بلاتکلیفی"
+      ]
+    },
+    {
+      "EnglishWord": "abeyant",
+      "Meanings": [
+        "بلاتکلیف"
+      ]
+    },
+    {
+      "EnglishWord": "abrupt",
+      "Meanings": [
+        "ناگهانی",
+        "بدون تشریفات"
+      ]
+    },
+    {
+      "EnglishWord": "abstain",
+      "Meanings": [
+        "امتناع از",
+        "خودداری"
+      ]
+    },
+    {
+      "EnglishWord": "abstention vole",
+      "Meanings": [
+        "رای ممتنع"
+      ]
+    },
+    {
+      "EnglishWord": "abut",
+      "Meanings": [
+        "نزدیک و مجاور بودن",
+        "متصل بودن"
+      ]
+    },
+    {
+      "EnglishWord": "ac",
+      "Meanings": [
+        "Alternating Current"
+      ]
+    },
+    {
+      "EnglishWord": "acars",
+      "Meanings": [
+        "Aircraft Communication Adressing and Reporting System"
+      ]
+    },
+    {
+      "EnglishWord": "acc",
+      "Meanings": [
+        "Area Control Centre"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration",
+      "Meanings": [
+        "شتاب گیری"
+      ]
+    },
+    {
+      "EnglishWord": "acceptable means of compliance",
+      "Meanings": [
+        "اعلام قبول"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance",
+      "Meanings": [
+        "پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acepting unit/controller",
+      "Meanings": [
+        "واحد یا کنترلر تحویل گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "acknowledgement",
+      "Meanings": [
+        "تصدیق",
+        "قبول",
+        "اقرار"
+      ]
+    },
+    {
+      "EnglishWord": "acms",
+      "Meanings": [
+        "Aircraft Condition Monitoring System"
+      ]
+    },
+    {
+      "EnglishWord": "acquire",
+      "Meanings": [
+        "اندوختن",
+        "بدستآوردن",
+        "حاصل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "acr",
+      "Meanings": [
+        "Aerodrome Control Radar"
+      ]
+    },
+    {
+      "EnglishWord": "active decoder",
+      "Meanings": [
+        "کاشف رمز اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "actuating",
+      "Meanings": [
+        "بکارگیری",
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "acute",
+      "Meanings": [
+        "تیز",
+        "حساس",
+        "حاد",
+        "تند"
+      ]
+    },
+    {
+      "EnglishWord": "ad",
+      "Meanings": [
+        "Airworthiness Directive"
+      ]
+    },
+    {
+      "EnglishWord": "ada",
+      "Meanings": [
+        "Advisory Aispace"
+      ]
+    },
+    {
+      "EnglishWord": "adc",
+      "Meanings": [
+        "Air Data Computer"
+      ]
+    },
+    {
+      "EnglishWord": "additional traffic",
+      "Meanings": [
+        "ترافیک دیگر",
+        "پرواز دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "addressed",
+      "Meanings": [
+        "مخاطب قرار گرفته"
+      ]
+    },
+    {
+      "EnglishWord": "addressee",
+      "Meanings": [
+        "گیرنده",
+        "مخاطب"
+      ]
+    },
+    {
+      "EnglishWord": "addressing",
+      "Meanings": [
+        "ارسال"
+      ]
+    },
+    {
+      "EnglishWord": "adelt",
+      "Meanings": [
+        "Automatically Deployable Emergency Locator Transmitter"
+      ]
+    },
+    {
+      "EnglishWord": "adequate representation",
+      "Meanings": [
+        "توزیع جغرافیایی صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "adf",
+      "Meanings": [
+        "Automatic Direction Finder/Finding"
+      ]
+    },
+    {
+      "EnglishWord": "adi",
+      "Meanings": [
+        "Attitude Deviation Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "adiz",
+      "Meanings": [
+        "Air Defence Identification Zone"
+      ]
+    },
+    {
+      "EnglishWord": "adjournment of sitting",
+      "Meanings": [
+        "ختم جلسه"
+      ]
+    },
+    {
+      "EnglishWord": "adjust",
+      "Meanings": [
+        "مرتب کردن",
+        "تنظیم کردن",
+        "وفق دادن"
+      ]
+    },
+    {
+      "EnglishWord": "adopt",
+      "Meanings": [
+        "تصویب مقررات",
+        "رسماقبول کردن"
+      ]
+    },
+    {
+      "EnglishWord": "adr",
+      "Meanings": [
+        "Accident Data Recorder"
+      ]
+    },
+    {
+      "EnglishWord": "ads",
+      "Meanings": [
+        "Automatic Dependence Surveillance"
+      ]
+    },
+    {
+      "EnglishWord": "adt",
+      "Meanings": [
+        "Approved Departure Time"
+      ]
+    },
+    {
+      "EnglishWord": "advisory area",
+      "Meanings": [
+        "ناحیه پیشنهادی"
+      ]
+    },
+    {
+      "EnglishWord": "advisory route",
+      "Meanings": [
+        "مسیر پیشنهادی"
+      ]
+    },
+    {
+      "EnglishWord": "aef",
+      "Meanings": [
+        "Aerodromes Environmental Federation"
+      ]
+    },
+    {
+      "EnglishWord": "aerad",
+      "Meanings": [
+        "UK"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome control service",
+      "Meanings": [
+        "سرویس کنترل فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome control tower",
+      "Meanings": [
+        "برج کنترل پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome elevation",
+      "Meanings": [
+        "ارتفاع فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome of intended landing",
+      "Meanings": [
+        "فرودگاه مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome taxi circuit",
+      "Meanings": [
+        "مسیر خزش فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome traffic",
+      "Meanings": [
+        "ترافیک فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome traffic circuit",
+      "Meanings": [
+        "دوره ترافیک فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aerodrome/airport elevation",
+      "Meanings": [
+        "بالاترین نقطه در باند فرودگاه"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical authorities and services",
+      "Meanings": [
+        "سرویسها و مقالات هوانوردی"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical fixed station",
+      "Meanings": [
+        "ایستگاه ثابت هوانوردی"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical mobile service",
+      "Meanings": [
+        "سرویس متحرک هوانوردی"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical station",
+      "Meanings": [
+        "ایستگاه هوانوردی"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical telecommunication service",
+      "Meanings": [
+        "سرویس مخابرات هواپیمایی"
+      ]
+    },
+    {
+      "EnglishWord": "aeronautical telecommunication station",
+      "Meanings": [
+        "ایستگاه مخابرات هواپیمایی"
+      ]
+    },
+    {
+      "EnglishWord": "aew",
+      "Meanings": [
+        "Airborne Early Warning"
+      ]
+    },
+    {
+      "EnglishWord": "afb",
+      "Meanings": [
+        "Air Force Base"
+      ]
+    },
+    {
+      "EnglishWord": "afcs",
+      "Meanings": [
+        "Automatic Flight Control System"
+      ]
+    },
+    {
+      "EnglishWord": "afds",
+      "Meanings": [
+        "Autopilot And Flight Director System"
+      ]
+    },
+    {
+      "EnglishWord": "affixed",
+      "Meanings": [
+        "چسبیده",
+        "متصل"
+      ]
+    },
+    {
+      "EnglishWord": "afi",
+      "Meanings": [
+        "Assistant Flying Instructor"
+      ]
+    },
+    {
+      "EnglishWord": "afis",
+      "Meanings": [
+        "Aerodrome Flight Information Service"
+      ]
+    },
+    {
+      "EnglishWord": "afis o",
+      "Meanings": [
+        "Aerodrome Flight Information Service Officer"
+      ]
+    },
+    {
+      "EnglishWord": "african civil aviation conference",
+      "Meanings": [
+        "کنفرانس ایکایو برای قاره آفریقا"
+      ]
+    },
+    {
+      "EnglishWord": "afs",
+      "Meanings": [
+        "Auto Flight System"
+      ]
+    },
+    {
+      "EnglishWord": "aft",
+      "Meanings": [
+        "قسمت عقب هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "aftn",
+      "Meanings": [
+        "Aeronautical Fixed Telecommunications Network"
+      ]
+    },
+    {
+      "EnglishWord": "agl",
+      "Meanings": [
+        "Above Ground Level"
+      ]
+    },
+    {
+      "EnglishWord": "ago",
+      "Meanings": [
+        "Air",
+        "to",
+        "Ground Operator"
+      ]
+    },
+    {
+      "EnglishWord": "ahrs",
+      "Meanings": [
+        "Attitude",
+        "Heading Reference System"
+      ]
+    },
+    {
+      "EnglishWord": "aiaa",
+      "Meanings": [
+        "Area Of Intense Aerial Activity"
+      ]
+    },
+    {
+      "EnglishWord": "aic",
+      "Meanings": [
+        "Aeronautical Information Circular"
+      ]
+    },
+    {
+      "EnglishWord": "aids",
+      "Meanings": [
+        "Airborne Integrated Data System"
+      ]
+    },
+    {
+      "EnglishWord": "aip",
+      "Meanings": [
+        "Aeronautical Information Publication"
+      ]
+    },
+    {
+      "EnglishWord": "air navigation commision",
+      "Meanings": [
+        "کمیسیون ناوبری هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "air navigation conference",
+      "Meanings": [
+        "کنفرانس در زمینه ناوبری هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic advisory service",
+      "Meanings": [
+        "سرویس پیشنهادی مراقبت پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic control clearance",
+      "Meanings": [
+        "اجازه صادره از سوی مراقبت پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic control service",
+      "Meanings": [
+        "سرویس کنترل پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic services ais route",
+      "Meanings": [
+        "مسیر مشمول سرویس مراقبت پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic services reporting office",
+      "Meanings": [
+        "دایره توجیه خلبان"
+      ]
+    },
+    {
+      "EnglishWord": "air traffic services unit",
+      "Meanings": [
+        "واحد مراقبت پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "air transport committee",
+      "Meanings": [
+        "کمیته حمل و نقل هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "air transport conference",
+      "Meanings": [
+        "کنفرانس در زمینه حمل و نقل هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft classification number",
+      "Meanings": [
+        "عدد مقاومت هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft identification",
+      "Meanings": [
+        "شناساگر هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft observation",
+      "Meanings": [
+        "مشاهدات خلبان"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft performance data",
+      "Meanings": [
+        "اطلاعات در مورد کارآیی هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft type designator",
+      "Meanings": [
+        "شاخص نوع هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "air-ground communication",
+      "Meanings": [
+        "ارتباط هوا",
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "air-ground control radio station",
+      "Meanings": [
+        "ایستگاه کنترل رادیویی هوا",
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "airmet",
+      "Meanings": [
+        "سرویس تلفنی هواشناسی هوانوردی CAA"
+      ]
+    },
+    {
+      "EnglishWord": "air-report",
+      "Meanings": [
+        "گزارش هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "airspace",
+      "Meanings": [
+        "محدوده فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "airspeed",
+      "Meanings": [
+        "سرعت هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "air-to-ground communication",
+      "Meanings": [
+        "ارتباط هوا به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ais",
+      "Meanings": [
+        "Aeronautical Information Service"
+      ]
+    },
+    {
+      "EnglishWord": "aiz",
+      "Meanings": [
+        "Aerodrome Information Zone. See ATZ"
+      ]
+    },
+    {
+      "EnglishWord": "alarm silence",
+      "Meanings": [
+        "قطع هشدار"
+      ]
+    },
+    {
+      "EnglishWord": "alerf",
+      "Meanings": [
+        "شناساگر مرحله آماده باش"
+      ]
+    },
+    {
+      "EnglishWord": "alerfa",
+      "Meanings": [
+        "Alert Phase Of Search"
+      ]
+    },
+    {
+      "EnglishWord": "alert phase",
+      "Meanings": [
+        "مرحله آماده باش"
+      ]
+    },
+    {
+      "EnglishWord": "alerting message",
+      "Meanings": [
+        "پیغام آماده باش"
+      ]
+    },
+    {
+      "EnglishWord": "alerting service",
+      "Meanings": [
+        "سرویس آماده باش"
+      ]
+    },
+    {
+      "EnglishWord": "alignment",
+      "Meanings": [
+        "تراز",
+        "تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "alignment function",
+      "Meanings": [
+        "علامت تفکیک سطر"
+      ]
+    },
+    {
+      "EnglishWord": "alignment target",
+      "Meanings": [
+        "نماد تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "allowance",
+      "Meanings": [
+        "تخفیف",
+        "اجازه"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumeric",
+      "Meanings": [
+        "حرف رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumeric characters",
+      "Meanings": [
+        "مشخصه‌های حرف",
+        "رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "alt",
+      "Meanings": [
+        "Altitude. Height Above Sea Level"
+      ]
+    },
+    {
+      "EnglishWord": "alternate",
+      "Meanings": [
+        "فرودگاهی که در برنامه پروازی به عنوان فرودگاه دوم مشخص می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "alternate aerodrome",
+      "Meanings": [
+        "فرودگاه احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "alternative amendment",
+      "Meanings": [
+        "اصلاحیه ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "alternative clearance",
+      "Meanings": [
+        "اجازه ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "alternative motion",
+      "Meanings": [
+        "پیشنهاد ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "altimetre",
+      "Meanings": [
+        "فرازیاب"
+      ]
+    },
+    {
+      "EnglishWord": "altitude",
+      "Meanings": [
+        "ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "am",
+      "Meanings": [
+        "Amplitude Modulation"
+      ]
+    },
+    {
+      "EnglishWord": "ambient",
+      "Meanings": [
+        "پیرامون"
+      ]
+    },
+    {
+      "EnglishWord": "ame",
+      "Meanings": [
+        "Authorized Medical Examiner"
+      ]
+    },
+    {
+      "EnglishWord": "amendment and co-ordination-message",
+      "Meanings": [
+        "پیام اصلاح و همآهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "amendment message",
+      "Meanings": [
+        "پیام اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "amendment to a motion",
+      "Meanings": [
+        "اصلاحیه یک پیشنهاد رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "amsl",
+      "Meanings": [
+        "Above Mean Sea Level Sometimes Asl In USA"
+      ]
+    },
+    {
+      "EnglishWord": "angle of nominal approach path",
+      "Meanings": [
+        "زاویه تعیین شده برای فرود"
+      ]
+    },
+    {
+      "EnglishWord": "angular tolerance",
+      "Meanings": [
+        "اختلاف زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "annex",
+      "Meanings": [
+        "ضمیمه"
+      ]
+    },
+    {
+      "EnglishWord": "ano",
+      "Meanings": [
+        "Air Navigation Order"
+      ]
+    },
+    {
+      "EnglishWord": "anomalous",
+      "Meanings": [
+        "غیر عادی"
+      ]
+    },
+    {
+      "EnglishWord": "anomalous propagation",
+      "Meanings": [
+        "انتشار غیر عادی امواج"
+      ]
+    },
+    {
+      "EnglishWord": "antenna sweep",
+      "Meanings": [
+        "کاوش آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "anxious",
+      "Meanings": [
+        "درک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "aoa",
+      "Meanings": [
+        "Airport Operators' Association"
+      ]
+    },
+    {
+      "EnglishWord": "aoa",
+      "Meanings": [
+        "Angle of attack"
+      ]
+    },
+    {
+      "EnglishWord": "aoc",
+      "Meanings": [
+        "Air Operator's Certificate"
+      ]
+    },
+    {
+      "EnglishWord": "aoe",
+      "Meanings": [
+        "Airport of Entry usually in USA"
+      ]
+    },
+    {
+      "EnglishWord": "aog",
+      "Meanings": [
+        "Aircraft On Ground"
+      ]
+    },
+    {
+      "EnglishWord": "aopa",
+      "Meanings": [
+        "Aircraft Owners and Pilots Association"
+      ]
+    },
+    {
+      "EnglishWord": "apa",
+      "Meanings": [
+        "Aerodromes Protection Agency"
+      ]
+    },
+    {
+      "EnglishWord": "aphaz",
+      "Meanings": [
+        "Aircraft Proximity Hazards Assessment Panel"
+      ]
+    },
+    {
+      "EnglishWord": "app",
+      "Meanings": [
+        "Approach Control"
+      ]
+    },
+    {
+      "EnglishWord": "appeal",
+      "Meanings": [
+        "پژوهش خواهی"
+      ]
+    },
+    {
+      "EnglishWord": "applicable",
+      "Meanings": [
+        "قابل اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "approach control office",
+      "Meanings": [
+        "دایره تقرب پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "approach control service",
+      "Meanings": [
+        "سرویس تقرب پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "approach funnel",
+      "Meanings": [
+        "قیف تقرب"
+      ]
+    },
+    {
+      "EnglishWord": "approach light beacon",
+      "Meanings": [
+        "چراغ مشخص کننده مسیر تقرب"
+      ]
+    },
+    {
+      "EnglishWord": "approach sequence",
+      "Meanings": [
+        "ترتیب تقرب"
+      ]
+    },
+    {
+      "EnglishWord": "appropriate ais authority",
+      "Meanings": [
+        "مقام مسیول مراقبت پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "appropriate authority",
+      "Meanings": [
+        "مقام مسیول"
+      ]
+    },
+    {
+      "EnglishWord": "approve",
+      "Meanings": [
+        "تصویب مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "apron",
+      "Meanings": [
+        "پارکینگ"
+      ]
+    },
+    {
+      "EnglishWord": "apt",
+      "Meanings": [
+        "مناسب",
+        "مستعد"
+      ]
+    },
+    {
+      "EnglishWord": "apu",
+      "Meanings": [
+        "Auxiliary Power Unit"
+      ]
+    },
+    {
+      "EnglishWord": "arb",
+      "Meanings": [
+        "Airworthiness Review Board"
+      ]
+    },
+    {
+      "EnglishWord": "arcal",
+      "Meanings": [
+        "Aircraft Radio Control Of Aerodrome Lighting"
+      ]
+    },
+    {
+      "EnglishWord": "area",
+      "Meanings": [
+        "ناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "area control centre",
+      "Meanings": [
+        "مرکز کنترل پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "area control service",
+      "Meanings": [
+        "سرویس کنترل ناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "arinc",
+      "Meanings": [
+        "Aeronautical Radio Incorporated"
+      ]
+    },
+    {
+      "EnglishWord": "arp",
+      "Meanings": [
+        "Aerodrome Reference Point"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "رشته"
+      ]
+    },
+    {
+      "EnglishWord": "arrival",
+      "Meanings": [
+        "ورود"
+      ]
+    },
+    {
+      "EnglishWord": "arrival message",
+      "Meanings": [
+        "پیام ورود"
+      ]
+    },
+    {
+      "EnglishWord": "arv",
+      "Meanings": [
+        "Air Recreational Vehicle"
+      ]
+    },
+    {
+      "EnglishWord": "asda",
+      "Meanings": [
+        "Accelerate"
+      ]
+    },
+    {
+      "EnglishWord": "asi",
+      "Meanings": [
+        "Airspeed Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "asr",
+      "Meanings": [
+        "Altimeter Setting Region"
+      ]
+    },
+    {
+      "EnglishWord": "assimilate",
+      "Meanings": [
+        "وفق دادن"
+      ]
+    },
+    {
+      "EnglishWord": "assumption of control message",
+      "Meanings": [
+        "پیام پذیرش کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "asterisk",
+      "Meanings": [
+        "نشان",
+        "ستاره"
+      ]
+    },
+    {
+      "EnglishWord": "astovl",
+      "Meanings": [
+        "Advanced Short Take"
+      ]
+    },
+    {
+      "EnglishWord": "at a premium",
+      "Meanings": [
+        "بحد کافی"
+      ]
+    },
+    {
+      "EnglishWord": "at most",
+      "Meanings": [
+        "منتها",
+        "خیلی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "ata",
+      "Meanings": [
+        "Actual Time Of Arrivalو Also Air Training Association"
+      ]
+    },
+    {
+      "EnglishWord": "atc",
+      "Meanings": [
+        "Air Traffic Control"
+      ]
+    },
+    {
+      "EnglishWord": "atc c",
+      "Meanings": [
+        "Air Traffic Control Centre"
+      ]
+    },
+    {
+      "EnglishWord": "atc u",
+      "Meanings": [
+        "Air Traffic Control Unit"
+      ]
+    },
+    {
+      "EnglishWord": "atca",
+      "Meanings": [
+        "Air Traffic Control Assistant"
+      ]
+    },
+    {
+      "EnglishWord": "atco",
+      "Meanings": [
+        "Air Traffic Control Officer"
+      ]
+    },
+    {
+      "EnglishWord": "atis",
+      "Meanings": [
+        "Automatic Terminal Information Service"
+      ]
+    },
+    {
+      "EnglishWord": "ato",
+      "Meanings": [
+        "Assisted Take"
+      ]
+    },
+    {
+      "EnglishWord": "atpl",
+      "Meanings": [
+        "Air Transport Pilot's Licence"
+      ]
+    },
+    {
+      "EnglishWord": "ats",
+      "Meanings": [
+        "Air Traffic Service. Also ATSU"
+      ]
+    },
+    {
+      "EnglishWord": "atsora",
+      "Meanings": [
+        "Air Traffic Services Outside Regulated Airspace"
+      ]
+    },
+    {
+      "EnglishWord": "attachment",
+      "Meanings": [
+        "پیسوت"
+      ]
+    },
+    {
+      "EnglishWord": "attenuation",
+      "Meanings": [
+        "تضعیف قدرت امواج"
+      ]
+    },
+    {
+      "EnglishWord": "attitude",
+      "Meanings": [
+        "وضعیت",
+        "حالت"
+      ]
+    },
+    {
+      "EnglishWord": "atz",
+      "Meanings": [
+        "Aerodrome Traffic Zone"
+      ]
+    },
+    {
+      "EnglishWord": "augment",
+      "Meanings": [
+        "تقویت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "augmentation",
+      "Meanings": [
+        "تقویت",
+        "افزایش"
+      ]
+    },
+    {
+      "EnglishWord": "authomatic data processing equipment",
+      "Meanings": [
+        "تجهیزات خودکار پردازش داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "authomatic terminal information service",
+      "Meanings": [
+        "سرویس خودکار اعلام اطلاعات پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "authority",
+      "Meanings": [
+        "اختیارات"
+      ]
+    },
+    {
+      "EnglishWord": "auto pilot",
+      "Meanings": [
+        "خبلان خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "automatic coupling",
+      "Meanings": [
+        "هنگامیکه خلبان خودکار روی یک ایستگاه تقرب دقیق مثل ILS گذاشته می‌شود تا تقرب بطور خودکار انجام شود"
+      ]
+    },
+    {
+      "EnglishWord": "auw",
+      "Meanings": [
+        "All"
+      ]
+    },
+    {
+      "EnglishWord": "avert",
+      "Meanings": [
+        "دفع کردن",
+        "گرانیدن"
+      ]
+    },
+    {
+      "EnglishWord": "avgas",
+      "Meanings": [
+        "Aviation Gasoline"
+      ]
+    },
+    {
+      "EnglishWord": "avoiding action",
+      "Meanings": [
+        "اقدام به دورسازی"
+      ]
+    },
+    {
+      "EnglishWord": "avtur",
+      "Meanings": [
+        "Aviation Turbine Fuel Kerosene"
+      ]
+    },
+    {
+      "EnglishWord": "awacs",
+      "Meanings": [
+        "airborne warning and control system"
+      ]
+    },
+    {
+      "EnglishWord": "awr",
+      "Meanings": [
+        "Airborne Weather Radar"
+      ]
+    },
+    {
+      "EnglishWord": "awy",
+      "Meanings": [
+        "Airway"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth",
+      "Meanings": [
+        "سمت",
+        "زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth accuracy",
+      "Meanings": [
+        "دقت اندازه گیری وازیه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth dimension",
+      "Meanings": [
+        "بعد زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth pulse generator",
+      "Meanings": [
+        "مولد پالس زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth resolution",
+      "Meanings": [
+        "تفکیک زاویه"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+﻿{
+  "Group": "V",
+  "Entries": 93,
+  "Words": [
+    {
+      "EnglishWord": "vajeh 2000",
+      "Meanings": [
+        "یکی از دیکشنری‌های کامل که دارای زبانهای ایتالیایی و اسپانیایی و آلمانی و… می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "vajeh negar",
+      "Meanings": [
+        "برنامه ای برای تایپ به زبان فارسی"
+      ]
+    },
+    {
+      "EnglishWord": "val",
+      "Meanings": [
+        "Value",
+        "Variable"
+      ]
+    },
+    {
+      "EnglishWord": "valid",
+      "Meanings": [
+        "معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "validate",
+      "Meanings": [
+        "معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "validation",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "مقدار",
+        "اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "variable",
+      "Meanings": [
+        "متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variant",
+      "Meanings": [
+        "مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "variation",
+      "Meanings": [
+        "تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "various",
+      "Meanings": [
+        "مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "vax",
+      "Meanings": [
+        "مینی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "vb.net",
+      "Meanings": [
+        "یکی از زبانهای برنامه نویسی. Net"
+      ]
+    },
+    {
+      "EnglishWord": "vba",
+      "Meanings": [
+        "Visual basic for application"
+      ]
+    },
+    {
+      "EnglishWord": "vbg",
+      "Meanings": [
+        "Visual Basic Group Project"
+      ]
+    },
+    {
+      "EnglishWord": "vbp",
+      "Meanings": [
+        "Visual Basic Project"
+      ]
+    },
+    {
+      "EnglishWord": "vbscript",
+      "Meanings": [
+        "Microsoft Visual Basic Scripting Edition",
+        "نوعی زبان برنامه نویسی تحت وب"
+      ]
+    },
+    {
+      "EnglishWord": "vbw",
+      "Meanings": [
+        "فایلهای Workplace برنامه ویژوال بیسیک"
+      ]
+    },
+    {
+      "EnglishWord": "vbx",
+      "Meanings": [
+        "Visual Basic Extension"
+      ]
+    },
+    {
+      "EnglishWord": "vcc",
+      "Meanings": [
+        "فایلهای برنامه Visual SourceSafe"
+      ]
+    },
+    {
+      "EnglishWord": "vcd",
+      "Meanings": [
+        "Video Compact Disk",
+        "دیسکهای ویدویی فشرده شده"
+      ]
+    },
+    {
+      "EnglishWord": "vcd cutter",
+      "Meanings": [
+        "نرم افزاری برای ویرایش فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "vcdgear",
+      "Meanings": [
+        "نرم افزاری برای ویرایش فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "vcp",
+      "Meanings": [
+        "فایلهای WorkSpace برنامه Visual C++"
+      ]
+    },
+    {
+      "EnglishWord": "vcw",
+      "Meanings": [
+        "فایلهای Workbench برنامه Visual C++"
+      ]
+    },
+    {
+      "EnglishWord": "vdb",
+      "Meanings": [
+        "مخفف Visual DataBase"
+      ]
+    },
+    {
+      "EnglishWord": "vdd",
+      "Meanings": [
+        "Visual DataBase Designer",
+        "برنامه نویسی طراحی بانکهای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "vdt",
+      "Meanings": [
+        "Video/Visual Display Terminal",
+        "ایستگاه نمایش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "vdu",
+      "Meanings": [
+        "Visual Display Unit",
+        "واحد نمایشگر بصری"
+      ]
+    },
+    {
+      "EnglishWord": "vector",
+      "Meanings": [
+        "بردار"
+      ]
+    },
+    {
+      "EnglishWord": "vector graphics",
+      "Meanings": [
+        "نگاره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "velocity",
+      "Meanings": [
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "vendor",
+      "Meanings": [
+        "فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "ventura",
+      "Meanings": [
+        "بسته نرم افزاری نشر رومیزی و برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "verb",
+      "Meanings": [
+        "فعل"
+      ]
+    },
+    {
+      "EnglishWord": "verification",
+      "Meanings": [
+        "بررسی و تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "verify",
+      "Meanings": [
+        "بازرزسی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "verity",
+      "Meanings": [
+        "واقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "version",
+      "Meanings": [
+        "نسخه"
+      ]
+    },
+    {
+      "EnglishWord": "versus",
+      "Meanings": [
+        "مقابله",
+        "در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "vertical",
+      "Meanings": [
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vga",
+      "Meanings": [
+        "مخفف Video graphic array"
+      ]
+    },
+    {
+      "EnglishWord": "vgm",
+      "Meanings": [
+        "فایلهای موزیک و تصویری بازیها"
+      ]
+    },
+    {
+      "EnglishWord": "vhs",
+      "Meanings": [
+        "video home system"
+      ]
+    },
+    {
+      "EnglishWord": "vibra128",
+      "Meanings": [
+        "کمپانی تولید کننده سخت افزار"
+      ]
+    },
+    {
+      "EnglishWord": "video",
+      "Meanings": [
+        "ویدیو"
+      ]
+    },
+    {
+      "EnglishWord": "video convertor",
+      "Meanings": [
+        "نرم افزاری برای تبدیل فایلهای ویدیویی به یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "video disk",
+      "Meanings": [
+        "دیسک تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "video game",
+      "Meanings": [
+        "بازی تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "video generator",
+      "Meanings": [
+        "تولیدکننده تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "video max",
+      "Meanings": [
+        "برنامه ای قوی برای ویرایش فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "video terminal",
+      "Meanings": [
+        "ایستگاه ویدویی"
+      ]
+    },
+    {
+      "EnglishWord": "videocassette",
+      "Meanings": [
+        "نوار ویدویی"
+      ]
+    },
+    {
+      "EnglishWord": "view",
+      "Meanings": [
+        "نما"
+      ]
+    },
+    {
+      "EnglishWord": "violation",
+      "Meanings": [
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "virtual cd",
+      "Meanings": [
+        "بوسیله این برنامه از CDها یک Image می‌گیرید و آن را اجرا می‌کنید"
+      ]
+    },
+    {
+      "EnglishWord": "virtual device driver",
+      "Meanings": [
+        "گرداننده مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual drive",
+      "Meanings": [
+        "بوسیله این برنامه از CDها یک Image می‌گیرید و آن را اجرا می‌کنید"
+      ]
+    },
+    {
+      "EnglishWord": "virtual interface",
+      "Meanings": [
+        "رابط مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual machine",
+      "Meanings": [
+        "دستگاه مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual memory",
+      "Meanings": [
+        "حافظه مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual path",
+      "Meanings": [
+        "مسیر مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual printer device",
+      "Meanings": [
+        "خروجی مجازی چاپگر"
+      ]
+    },
+    {
+      "EnglishWord": "virtual storage",
+      "Meanings": [
+        "ذخیره سازی مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "virus",
+      "Meanings": [
+        "ویروسهای کامپیوتری از یک کامپیوتر به کامپیوتر دیگر عبور می‌کنند. ویروس یک قسمت از کد است که به یک برنامه عمومی مثل یک بازی معروف یا یک کلمه پردازشگر معروف می‌چسبد. ویروس خودش را درون حافظه بارگذاری می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vision",
+      "Meanings": [
+        "دیدگاه"
+      ]
+    },
+    {
+      "EnglishWord": "vistac",
+      "Meanings": [
+        "کمپانی ساخت سخت افزار"
+      ]
+    },
+    {
+      "EnglishWord": "visual basic",
+      "Meanings": [
+        "یکی از زبانهای برنامه نویسی جدید"
+      ]
+    },
+    {
+      "EnglishWord": "visual data manager",
+      "Meanings": [
+        "برنامه ای برای اتصال به پایگاه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "visual display",
+      "Meanings": [
+        "نمایش بصری"
+      ]
+    },
+    {
+      "EnglishWord": "visual interdev",
+      "Meanings": [
+        "یکی از نرم افزارهای برنامه نویسی مورد استفاده در ساخت داده‌های اینترنتی"
+      ]
+    },
+    {
+      "EnglishWord": "visual page",
+      "Meanings": [
+        "صفحه تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "visual sourcesafe",
+      "Meanings": [
+        "یکی از زبانهای برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "visual zip password recovery processor",
+      "Meanings": [
+        "برنامه ای برای پیدا کردن رمز عبور فایلهای فشرده شده"
+      ]
+    },
+    {
+      "EnglishWord": "visualization",
+      "Meanings": [
+        "تجسم"
+      ]
+    },
+    {
+      "EnglishWord": "vital product data",
+      "Meanings": [
+        "ارایه خدماتی درباره خروجی‌های کامپیوتر و"
+      ]
+    },
+    {
+      "EnglishWord": "viv",
+      "Meanings": [
+        "فایلهای بازی Need For Speed"
+      ]
+    },
+    {
+      "EnglishWord": "vms",
+      "Meanings": [
+        "Virtual Memory System",
+        "سیستم حافظه جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "voc",
+      "Meanings": [
+        "این فرمت",
+        "به کمپانی Creative و کارت‌های صوتی SoundBlaster اختصاص دارد. فرمت Voc نیز با ورود ویندوز و فراگیر شدن فرمت Wav",
+        "کم کم از گردونه خارج شد و اکنون کاربرد چدانی ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "voice",
+      "Meanings": [
+        "صدا",
+        "هدست"
+      ]
+    },
+    {
+      "EnglishWord": "volatile",
+      "Meanings": [
+        "حافظه فرار",
+        "حافظه ای که اطلاعات درون آن با قطع برق از بین می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "volt",
+      "Meanings": [
+        "ولت"
+      ]
+    },
+    {
+      "EnglishWord": "voltage",
+      "Meanings": [
+        "ولتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "voltmeter",
+      "Meanings": [
+        "ولت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "voltmeter switch",
+      "Meanings": [
+        "کلید ولت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "دسته تنظیمات",
+        "بر چسب",
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "volume control",
+      "Meanings": [
+        "برنامه ای که برای کنترل صدای سیستم استفاده می‌شد",
+        "آن را در Start Menu&gt; Programs&gt; Accessories&gt; Entertainment تنظیم کنید"
+      ]
+    },
+    {
+      "EnglishWord": "voodoo",
+      "Meanings": [
+        "یک نوع کارت گرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "vram",
+      "Meanings": [
+        "VideoRam",
+        "یک نوع خاص از حافظه‌های RAM بوده که برای موارد خاص نظیر: آداپتورهای ویدیو و یا شتا ب دهندگان سه بعدی استفاده می‌شود. به این نوع از حافظه‌ها multiport dynamic random access memory MPDRAM نیز گفته می‌شود. علت نامگذاری فوق بدین دلیل است که این نوع از حافظه‌ها دارای امکان دستیابی به اطلاعات",
+        "بصورت تصادفی و سریال می‌باشند. VRAM بر روی کارت گرافیک قرار داشته و دارای فرمت‌های متفاوتی است. میزان حافظه فوق به عوامل متفاوتی نظیر: «وضوح تصویر» و «وضعیت رنگ‌ها» بستگی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "vrml",
+      "Meanings": [
+        "Virtual Reality Modeling Language",
+        "زبان مدل سازی حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "vsc",
+      "Meanings": [
+        "فایهلهای برنامه McAfee VirusScan"
+      ]
+    },
+    {
+      "EnglishWord": "vsh",
+      "Meanings": [
+        "فایلهای McAfee VirusShield"
+      ]
+    },
+    {
+      "EnglishWord": "vsl",
+      "Meanings": [
+        "فایلهای لیست برنامه‌های دانلودی در برنامه GetRight"
+      ]
+    }
+  ]
+}

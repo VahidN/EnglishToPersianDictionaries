@@ -1,0 +1,45 @@
+﻿{
+  "Group": "N",
+  "Entries": 5,
+  "Words": [
+    {
+      "EnglishWord": "nand",
+      "Meanings": [
+        "الکترونیک: گیت NAND",
+        "دروازه منطقی NAND"
+      ]
+    },
+    {
+      "EnglishWord": "new",
+      "Meanings": [
+        "کامپیوتر: این فرمان",
+        "یک سند جدید در مورد فایل‌های خود نرم افزار باز می‌کند. Ctrl+N",
+        "جدید",
+        "تازه",
+        "نو"
+      ]
+    },
+    {
+      "EnglishWord": "new/new web page...",
+      "Meanings": [
+        "این فرمان",
+        "یک سند جدید و خالی برای ساخت صفحات وب باز می‌کند Shift+A"
+      ]
+    },
+    {
+      "EnglishWord": "nor",
+      "Meanings": [
+        "الکترونیک: گیت NOR",
+        "دروازه منطقی NOR"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "شماره",
+        "رقم",
+        "عدد"
+      ]
+    }
+  ]
+}

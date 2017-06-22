@@ -1,0 +1,694 @@
+﻿{
+  "Group": "H",
+  "Entries": 106,
+  "Words": [
+    {
+      "EnglishWord": "h",
+      "Meanings": [
+        "هشتمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "haar distribution",
+      "Meanings": [
+        "توزیع هار"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard derivative",
+      "Meanings": [
+        "مشتق آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard matrix",
+      "Meanings": [
+        "ماتریس آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "hajek-renyi inequality",
+      "Meanings": [
+        "نابرابری هایک",
+        "ری‌نی"
+      ]
+    },
+    {
+      "EnglishWord": "hajek's projection lemma",
+      "Meanings": [
+        "لم تصویر هایک"
+      ]
+    },
+    {
+      "EnglishWord": "haldane-smith test",
+      "Meanings": [
+        "آزمون هالدین",
+        "اسمیت"
+      ]
+    },
+    {
+      "EnglishWord": "half-normal distribution",
+      "Meanings": [
+        "توزیع نیم‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "half-normal plot",
+      "Meanings": [
+        "نمودار نیم‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "half-plaid",
+      "Meanings": [
+        "نیم‌چهارخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "half-sample",
+      "Meanings": [
+        "نیم‌نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "half-sample technique",
+      "Meanings": [
+        "فن نیم‌نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "halphen's law",
+      "Meanings": [
+        "قانون هالفن"
+      ]
+    },
+    {
+      "EnglishWord": "hansen-hurwitz method for subsampling nonrespondents",
+      "Meanings": [
+        "روش هنسن",
+        "هورویتس برای نمونه‌گیری جزیی از پاسخ‌نداده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "hardy-weinberg model",
+      "Meanings": [
+        "مدل هاردی",
+        "واین‌برگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic analysis",
+      "Meanings": [
+        "تحلیل همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic components",
+      "Meanings": [
+        "مولفه‌های همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic mean",
+      "Meanings": [
+        "میانگین همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic variability",
+      "Meanings": [
+        "تغییرپذیری همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harris poll",
+      "Meanings": [
+        "نظرسنجی هریس"
+      ]
+    },
+    {
+      "EnglishWord": "harter's adaptive robust method",
+      "Meanings": [
+        "روش استوار سازوار هارتر"
+      ]
+    },
+    {
+      "EnglishWord": "hartley's f-max test",
+      "Meanings": [
+        "آزمون F",
+        "ماکس هارتلی"
+      ]
+    },
+    {
+      "EnglishWord": "hat matrix",
+      "Meanings": [
+        "ماتریس کلاهدار"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff dimension",
+      "Meanings": [
+        "بعد هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "hausman specification test",
+      "Meanings": [
+        "آزمون مشخص‌سازی هاوسمان"
+      ]
+    },
+    {
+      "EnglishWord": "hazard plotting",
+      "Meanings": [
+        "رسم نمودار خطر"
+      ]
+    },
+    {
+      "EnglishWord": "hazard regression",
+      "Meanings": [
+        "رگرسیون خطر"
+      ]
+    },
+    {
+      "EnglishWord": "heavy tail",
+      "Meanings": [
+        "دم کلفت"
+      ]
+    },
+    {
+      "EnglishWord": "heavy-tailed distribution",
+      "Meanings": [
+        "توزیع دم‌بلند"
+      ]
+    },
+    {
+      "EnglishWord": "hedonic index numbers",
+      "Meanings": [
+        "اعداد شاخص لذت‌باورانه"
+      ]
+    },
+    {
+      "EnglishWord": "hellinger distance estimation",
+      "Meanings": [
+        "برآورد فاصله هلینجری"
+      ]
+    },
+    {
+      "EnglishWord": "helmert transformation",
+      "Meanings": [
+        "تبدیل هلمرت"
+      ]
+    },
+    {
+      "EnglishWord": "help jamali",
+      "Meanings": [
+        "با سلام خدمت شما دوست عزیز",
+        "در این دیکشنری سعی شده است تمام اصطلاحات و کلمات آماری و ریاضی تا حد امکان آورده شود",
+        "بعضی از ویژگی‌های این دیکشنری عبارت است از",
+        "امکان گشت و گذار در دیکشنری یعنی شما به راحتی می‌توانید کلمات قبل وبعد از کلمه مورد نظر را مشاهده کنید",
+        "در این دیکشنری زندگی نامه ریاضیدانان و آماردانان معروف جمع آوری شده است برای مشاهده زندگی نامه آنان کافیست نام آن ریاضیدان یا آماردان را تایپ کنید مثلا laplas, toosi",
+        "برای راحتی کاربران عزیز حروف الفبا انگلیسی در این دیکشنری درج شده است تا به راحتی به کلمات که در آن رده قرار دارند دسترسی داشته باشید مثلا شما با تایپ حرف f به راحتی می‌توانید با کلیدهای جهتی که در بالای این دیکشنری موجود است کلمات مانند factor, factor analysis را مشاهده کنید",
+        "در این نرم افزار کلمات عبارات مرتبط با هر کلمه در زیر ان کلمه عبارت درج شده است. بعنوان مثال شما با زدن کلمه estimator می‌تواند عباراتی را که به نوعی در ساختمان آن عبارت کلمه estimator بکار رفته است را ملاحظه کنید",
+        "تذکر مهم: برای استفاده بهینه از دیکشنری بهتر است از Babylon 5 و نسخه‌های بالاتر از ان و سیستم عامل windows xp استفاده نمایید",
+        "بدون شک این دیکشنری خالی از ایراد نیست لطفا نظرات و لغات آماری و ریاضی که در این دیکشنری نمی‌باشند را به ایمیل jamshid_jamali@yahoo. com بفرستید",
+        "با تشکر از شما",
+        "جمشید جمالی"
+      ]
+    },
+    {
+      "EnglishWord": "henderson method",
+      "Meanings": [
+        "روش هندرسون"
+      ]
+    },
+    {
+      "EnglishWord": "heritability",
+      "Meanings": [
+        "قابلیت توارث"
+      ]
+    },
+    {
+      "EnglishWord": "hermite distribution",
+      "Meanings": [
+        "توزیع ارمیت"
+      ]
+    },
+    {
+      "EnglishWord": "hermite form",
+      "Meanings": [
+        "صورت ارمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "hermite polynomial",
+      "Meanings": [
+        "چندجمله‌ای ارمیت"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian matrix",
+      "Meanings": [
+        "ماتریس ارمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneity",
+      "Meanings": [
+        "ناهمگنی"
+      ]
+    },
+    {
+      "EnglishWord": "heteroscedasticity",
+      "Meanings": [
+        "ناهم‌واریانسی"
+      ]
+    },
+    {
+      "EnglishWord": "heuristic method",
+      "Meanings": [
+        "روش رهگشا"
+      ]
+    },
+    {
+      "EnglishWord": "h-function distribution",
+      "Meanings": [
+        "توزیع تابع H"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical classification",
+      "Meanings": [
+        "رده‌بندی سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical cluster analysis",
+      "Meanings": [
+        "تحلیل خوشه‌ای سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical kappa statistic",
+      "Meanings": [
+        "آماره کاپای سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical regression model",
+      "Meanings": [
+        "مدل رگرسیونی سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchy of models",
+      "Meanings": [
+        "سلسله مراتب مدلها"
+      ]
+    },
+    {
+      "EnglishWord": "highspread",
+      "Meanings": [
+        "بالاپراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "hildreth-lu scanning method",
+      "Meanings": [
+        "روش کاوش هیلدرث",
+        "لو"
+      ]
+    },
+    {
+      "EnglishWord": "hirschman's index",
+      "Meanings": [
+        "شاخص هیرشمان"
+      ]
+    },
+    {
+      "EnglishWord": "histogram",
+      "Meanings": [
+        "هیستوگرام, بافت نگار",
+        "نموداری میله ای است که بر اساس فراوانی داده‌ها در دسته هایی رسم میشود و به کمک آن می‌توان داده‌ها را تشریح کرد",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "historical control",
+      "Meanings": [
+        "کنترل پیشینه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "historical series",
+      "Meanings": [
+        "سریهای تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "historical study",
+      "Meanings": [
+        "مطالعه تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "history of statistics",
+      "Meanings": [
+        "تاریخچه آمار"
+      ]
+    },
+    {
+      "EnglishWord": "hitting time",
+      "Meanings": [
+        "زمان اصابت"
+      ]
+    },
+    {
+      "EnglishWord": "hodges bivariate sign test",
+      "Meanings": [
+        "آزمون علامت دومتغیره هاجز"
+      ]
+    },
+    {
+      "EnglishWord": "hodges superefficiency",
+      "Meanings": [
+        "ابرکارآیی هاجز"
+      ]
+    },
+    {
+      "EnglishWord": "hodges-lehmann estimator",
+      "Meanings": [
+        "برآوردگر هاجز",
+        "لی‌من"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding inequality",
+      "Meanings": [
+        "نابرابری هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding's independence test",
+      "Meanings": [
+        "آزمون استقلال هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding's lemma",
+      "Meanings": [
+        "لم هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "holder's inequality",
+      "Meanings": [
+        "نابرابری هولدر"
+      ]
+    },
+    {
+      "EnglishWord": "holdout sample",
+      "Meanings": [
+        "نمونه جدا نگه داشته شده"
+      ]
+    },
+    {
+      "EnglishWord": "hollander bivariate symmetry test",
+      "Meanings": [
+        "آزمون تقارن دومتغیره هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander extreme test",
+      "Meanings": [
+        "آزمون کرانگین هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander parallelism test",
+      "Meanings": [
+        "آزمون توازی هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander-proschan new-better-than-used test",
+      "Meanings": [
+        "آزمون نو بهتر از کهنه هولندر",
+        "پروشان"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneity",
+      "Meanings": [
+        "همگنی"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedastic distribution",
+      "Meanings": [
+        "توزیع هم‌واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedasticity",
+      "Meanings": [
+        "همپراشی"
+      ]
+    },
+    {
+      "EnglishWord": "honest significant difference",
+      "Meanings": [
+        "تفاضل معنی‌دار صدیق"
+      ]
+    },
+    {
+      "EnglishWord": "hooper correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی هوپر"
+      ]
+    },
+    {
+      "EnglishWord": "hopital",
+      "Meanings": [
+        "گیوم فرانسوا انتوان هوپیتال",
+        "در سال 1661 در پاریس و در خانواده ای ثروتمند و اشرافی",
+        "متولد شد. او عنوان «مارکیز» و «کنت» را هم با خود داشت. ریاضیات در زندگی کودکی هوپیتال",
+        "هیچ نقشی بر عهده نداشت. او در زبان لاتین",
+        "که در زمان او از مهمترین موارد درسی بوده است پیشرفت کمی داشت. استعداد او تقریبا تصادفی و وقتی که یک کتاب درسی هندسی در اختیار او قرار گرفت",
+        "کشف شد. ابتدا به طرف شکل‌های کتاب جلب شد و به این دلیل",
+        "نظری هم به کتاب انداخت تا بتواند از کم و کیف شکل‌ها سر در آورد. ولی همین آشنایی اولیه او با هندسه",
+        "خیلی زود علاقه ای واقعی در او به وجود آورد. در سال 1693 هوپیتال به عنوان عضو فرهنگستان علوم پاریس انتخاب شد",
+        "این ریاضی دان جوان",
+        "معلوم نیست به چه علتی",
+        "نتوانست معلم خوبی پیدا کند و ناچار شد موضوع مورد علاقه اش را پیش خود",
+        "کاملا عمیق یاد بگیرد. در این روایتی وجود ندارد. وقتی که 15 سالش بود در اجتماعی ظاهر شد که صحبت از پاسکال و استعداد فوق العاده او بود. بین همه کسانی که داستان حل یکی از مسیله‌ها را",
+        "باشگفتی و تحسین",
+        "دنبال می‌کردند",
+        "تنها هوپیتال ساکت بود. فقط گفت هیچ دلیلی برای شگفتی نمی‌بیند به نظرش میرسید که او هم می‌تواند چنین مسیله ای را حل کند و در واقع هم",
+        "بعد از 2 روز راه حل اختصاصی خود را ارایه داد. در سال 1695 اساسی‌ترین اثر زندگی او",
+        "یعنی «آنالیز» منتشر شد. نام کامل کتاب چنین بود: «آنالیز بینهایت کوچکها برای درک منحنی‌ها» تعریف متغیر و دیفرانسیل",
+        "درست همان بود که لایب نیتس آورده است",
+        "ضمن کار‌های هوپیتال باید از مقاله سال 1699 او هم یاد کرد که در آن",
+        "راه حل یکی از مسیله‌های نیوتن را ارایه داده است. خود نیوتون",
+        "تنها نتیجه گیری مسیله را بدون راه حل داده بود. آخرین کار معروف هوپیتال «رساله تحلیلی مقطع‌های مخروطی» به بررسی منحنی‌های درجه دوم اختصاص داد. با وجودی که بررسی خود را تحلیلی نامیده است",
+        "در سال",
+        "هوپیتال 43 ساله",
+        "در اثر سکته مغزی در گذشت. در پایان سده هفدهم",
+        "هوپیتال چهره شناخته شده ای در میان ریاضی دانان اروپایی بود. بین دانشمندان درجه دوم",
+        "می‌توان او را دست کم به خاطر حل موفقیت آمیز مسیله‌های مشهور نیوتن",
+        "لایب نیتس یاکوب و یوهان برنولی",
+        "برجسته دانست. با همه اینها",
+        "افتخار اصلی هوپیتال را باید به خاطر کتاب «آنالیز» او دانست"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal asymptote",
+      "Meanings": [
+        "مجانب افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal axis",
+      "Meanings": [
+        "محور افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal line",
+      "Meanings": [
+        "خط افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal plane",
+      "Meanings": [
+        "صفحه افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal vector",
+      "Meanings": [
+        "بردار افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horvitz-thompson estimator",
+      "Meanings": [
+        "برآوردگر هورویتز",
+        "تامپسون"
+      ]
+    },
+    {
+      "EnglishWord": "hospital rule",
+      "Meanings": [
+        "قاعده هوپیتال"
+      ]
+    },
+    {
+      "EnglishWord": "hot deck method",
+      "Meanings": [
+        "روش بی‌درنگ"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling strategy",
+      "Meanings": [
+        "راهبرد هتلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling-pabst test",
+      "Meanings": [
+        "آزمون هتلینگ",
+        "پبست"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling's trace",
+      "Meanings": [
+        "اثر هتلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hougaard process",
+      "Meanings": [
+        "فرایند هوگارد"
+      ]
+    },
+    {
+      "EnglishWord": "h-spread",
+      "Meanings": [
+        "بالاپراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "human genetics",
+      "Meanings": [
+        "ژنتیک انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "humped curve",
+      "Meanings": [
+        "منحنی کوهانه‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "hungarian constructions of empirical process",
+      "Meanings": [
+        "روشهای ساخت مجارستانی فرایند تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "hunt-stein theorem",
+      "Meanings": [
+        "قضیه هانت",
+        "استاین"
+      ]
+    },
+    {
+      "EnglishWord": "hurst coefficient",
+      "Meanings": [
+        "ضریب هرست"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid log-normal distribution",
+      "Meanings": [
+        "توزیع لگ‌نرمال دورگه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbola",
+      "Meanings": [
+        "هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic distribution",
+      "Meanings": [
+        "توزیع هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic secant",
+      "Meanings": [
+        "سکانت هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic tangent",
+      "Meanings": [
+        "تانژانت هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolically completely monotone distribution",
+      "Meanings": [
+        "توزیع کاملا یکنوای هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric",
+      "Meanings": [
+        "فوق هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق هندسی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "hyperparameter",
+      "Meanings": [
+        "ابرپارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "hyperplane",
+      "Meanings": [
+        "فوق صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperplane coordinates",
+      "Meanings": [
+        "مختصات ابرصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis",
+      "Meanings": [
+        "فرضیه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis testing",
+      "Meanings": [
+        "آزمون فرض"
+      ]
+    }
+  ]
+}

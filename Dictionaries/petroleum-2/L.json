@@ -1,0 +1,744 @@
+﻿{
+  "Group": "L",
+  "Entries": 101,
+  "Words": [
+    {
+      "EnglishWord": "l",
+      "Meanings": [
+        "low",
+        "کم",
+        "FOCUSED/GUARD/LATERAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "l.c.m",
+      "Meanings": [
+        "Loss Circulation Material or Loss Control Material, LCM",
+        "موادی که جهت کنترل هرزروی چاه بکار برده می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "l/d",
+      "Meanings": [
+        "lay down",
+        "پایین انداختن ابزار",
+        "باز کردن ابزاری خاص"
+      ]
+    },
+    {
+      "EnglishWord": "l/o",
+      "Meanings": [
+        "lay off",
+        "متوقف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "lact",
+      "Meanings": [
+        "Lease Automatic Custody Transfer\", possible where measuring equipment installed at the point of transfer from lease to pipeline is so completely automated as not to require any manual activity or witnesses"
+      ]
+    },
+    {
+      "EnglishWord": "lam",
+      "Meanings": [
+        "laminae"
+      ]
+    },
+    {
+      "EnglishWord": "lamd",
+      "Meanings": [
+        "laminated",
+        "دارای لایه بندی ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "laminae",
+      "Meanings": [
+        "lam"
+      ]
+    },
+    {
+      "EnglishWord": "laminated",
+      "Meanings": [
+        "lamd",
+        "دارای لایه بندی ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "lamination",
+      "Meanings": [
+        "lmn"
+      ]
+    },
+    {
+      "EnglishWord": "landing nipple",
+      "Meanings": [
+        "پستانک",
+        "LN"
+      ]
+    },
+    {
+      "EnglishWord": "landman",
+      "Meanings": [
+        "A person in the petroleum industry who negotiates with landowners for land options, oil",
+        "drilling leases, and royalties and with producers for the pooling of production in the Field, also called leaserman",
+        "A person in the Petroleum industry who negotiates with landowners for land options, Oil"
+      ]
+    },
+    {
+      "EnglishWord": "large",
+      "Meanings": [
+        "lrg",
+        "بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "lasr",
+      "Meanings": [
+        "LASER LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "latch down collar",
+      "Meanings": [
+        "LDC",
+        "طوقە چفتی آستری"
+      ]
+    },
+    {
+      "EnglishWord": "laterolog",
+      "Meanings": [
+        "LL",
+        "لاگ جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "latl",
+      "Meanings": [
+        "LATERAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lay down",
+      "Meanings": [
+        "L/D",
+        "پایین انداختن",
+        "باز کردن ابزار"
+      ]
+    },
+    {
+      "EnglishWord": "lay down pipe",
+      "Meanings": [
+        "LDP, actions or jobs which Companymans write in their reports",
+        "پایین انداختن لوله‌ها از روی دکل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "lay off",
+      "Meanings": [
+        "L/O",
+        "پایین انداختن یا در اصطلاح به باز و جمع کردن ابزارها گویند"
+      ]
+    },
+    {
+      "EnglishWord": "layer",
+      "Meanings": [
+        "lyr",
+        "لایه"
+      ]
+    },
+    {
+      "EnglishWord": "lbs",
+      "Meanings": [
+        "pound",
+        "پوند",
+        "واحد وزن"
+      ]
+    },
+    {
+      "EnglishWord": "lcm",
+      "Meanings": [
+        "موادی که جهت کنترل هرزروی چاه بکار برده می‌شوند",
+        "Loss Circulation Material or Loss Control Material, LCM",
+        "Loss Circulation Material or Loss Control Material, L.C.M"
+      ]
+    },
+    {
+      "EnglishWord": "ldc",
+      "Meanings": [
+        "Latch Down Collar",
+        "طوقه چفت کننده آستری"
+      ]
+    },
+    {
+      "EnglishWord": "ldl/cnl",
+      "Meanings": [
+        "Litho Density Log/ Compensated Neutron Log",
+        "لاگ سختی سنگ",
+        "لاگ نوترون تصحیح شده"
+      ]
+    },
+    {
+      "EnglishWord": "ldp",
+      "Meanings": [
+        "Lay Down Pipe",
+        "پایین انداختن لوله‌های حفاری",
+        "Lay Down Pipe, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "ldt",
+      "Meanings": [
+        "LITHO",
+        "DENSITY TOOL/DENSITY WITH PE INDEX, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lea",
+      "Meanings": [
+        "leached"
+      ]
+    },
+    {
+      "EnglishWord": "leached",
+      "Meanings": [
+        "lea"
+      ]
+    },
+    {
+      "EnglishWord": "leak off test",
+      "Meanings": [
+        "LOT, usually write as :leak",
+        "off test",
+        "تست یا آزمایش مربوط به نشتی داشتن لوله‌ها یا رشتە حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "leak-off test",
+      "Meanings": [
+        "LOT",
+        "تست یا آزمایش مربوط به نشتی داشتن لوله‌ها یا رشتە حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "lease condensate",
+      "Meanings": [
+        "A natural gas liquid recovered from gas well gas associated and non",
+        "associated in lease separators of field facilities"
+      ]
+    },
+    {
+      "EnglishWord": "lease separator",
+      "Meanings": [
+        "A facility located at the surface for the purpose of",
+        "Separating casinghead gas from produced crude oil and water at the temperature and pressure conditions of the separator; and 2 Separating gas from that portion of associated and non",
+        "associated gas which liquefies at temperature and pressure conditions of the separator"
+      ]
+    },
+    {
+      "EnglishWord": "lense",
+      "Meanings": [
+        "lne"
+      ]
+    },
+    {
+      "EnglishWord": "less than 6  porosity",
+      "Meanings": [
+        "Poor porosity, e.g. : I",
+        "B; I",
+        "C; I",
+        "D; II",
+        "B; II",
+        "C and III",
+        "C",
+        "تخلخل ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "level",
+      "Meanings": [
+        "lvl"
+      ]
+    },
+    {
+      "EnglishWord": "lgt",
+      "Meanings": [
+        "light, also write as : lt",
+        "روشن از نظر رنگ",
+        "light"
+      ]
+    },
+    {
+      "EnglishWord": "li",
+      "Meanings": [
+        "LIMESTONE DEVICE, Log Curve name",
+        "line"
+      ]
+    },
+    {
+      "EnglishWord": "lifting nipple",
+      "Meanings": [
+        "A short piece of Pipe with a pronounced upset, or shoulder, on the upper end, screwed into Drill Pipe, Drill Collars, or Casing to provide a positive grip for the elevators. It also is called a Lifting Sub or a Hoisting Plug",
+        "A short piece of Pipe with a pronounced upset, or shoulder, on the upper end, screwed into Drill Pipe, Drill Collars, or Casing to provide a positive grip for the elevators. It also is called a Lifting Sub or a Hoisting plug"
+      ]
+    },
+    {
+      "EnglishWord": "light",
+      "Meanings": [
+        "lt, also use as : lgt",
+        "روشن از نظر رنگ",
+        "lgt"
+      ]
+    },
+    {
+      "EnglishWord": "light brown",
+      "Meanings": [
+        "ltbn"
+      ]
+    },
+    {
+      "EnglishWord": "light buff",
+      "Meanings": [
+        "ltbf"
+      ]
+    },
+    {
+      "EnglishWord": "light gray",
+      "Meanings": [
+        "ltgy"
+      ]
+    },
+    {
+      "EnglishWord": "lii",
+      "Meanings": [
+        "LIQUID ISOTOPE INJECTOR, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lim",
+      "Meanings": [
+        "Limonite",
+        "لیمونیت"
+      ]
+    },
+    {
+      "EnglishWord": "limestone",
+      "Meanings": [
+        "Lst, also in old times wrote as : Ls",
+        "سنگ آهک",
+        "سنگی که از آهک خالص تشکیل شده است"
+      ]
+    },
+    {
+      "EnglishWord": "limonite",
+      "Meanings": [
+        "lim",
+        "لیمونیت",
+        "نوعی رس",
+        "One of the major Iron minerals, a hydrous Ferric Oxide of variable composition",
+        "Often brown and earthy, it is formed by alteration of other Iron minerals, such as the hydration of Hematite or the oxidation and hydration of Siderite or Pyrite",
+        "فرمول شیمیایی: مخلوطی از هیدروکسیدهای آبدار",
+        "گروه کانی شناسی شیمیایی: اکسید",
+        "هیدروکسید",
+        "رنگ: زرد",
+        "نارنجی و قهوه ای",
+        "جلا: خاکی",
+        "سیستم تبلور: نا مشخص",
+        "کلیواژ: ندارد",
+        "شکستگی: ندارد",
+        "سختی",
+        ".",
+        "رنگ خاکه: زرد و قهوه ای",
+        "وزن مخصوص: 2.",
+        "شرایط تشکیل: لیمونیت یک کانی واقعی نیست اما یک مخلوط از کانیهای هیدروکسید آهن محسوب میشود و اغلب از گوتیت ایجاد میشود. لیمونیت در نزدیکی کانیهای آهندار اکسید شده و بعضی از کانسارهای رسوبی لایه دیده میشود"
+      ]
+    },
+    {
+      "EnglishWord": "line",
+      "Meanings": [
+        "li"
+      ]
+    },
+    {
+      "EnglishWord": "liquefied petroleum gas",
+      "Meanings": [
+        "LPG, purified Gas and under pressure, Liquid Gas",
+        "گاز مایع شده"
+      ]
+    },
+    {
+      "EnglishWord": "lith",
+      "Meanings": [
+        "LITHOLOGY, Log Curve name",
+        "lithology",
+        "سنگ شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "litho density log/ compensated neutron log",
+      "Meanings": [
+        "LDL/CNL",
+        "لاگ سختی سنگ",
+        "لاگ نوترون تصحیح شده"
+      ]
+    },
+    {
+      "EnglishWord": "lithology",
+      "Meanings": [
+        "lith",
+        "سنگ شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "little",
+      "Meanings": [
+        "ll, also write as : ltl",
+        "کم",
+        "میزان کم"
+      ]
+    },
+    {
+      "EnglishWord": "live oil",
+      "Meanings": [
+        "Oil that contains gas"
+      ]
+    },
+    {
+      "EnglishWord": "lkg",
+      "Meanings": [
+        "looking"
+      ]
+    },
+    {
+      "EnglishWord": "ll",
+      "Meanings": [
+        "Laterolog",
+        "لاگ جانبی",
+        "LATERO LOG, Log Curve name",
+        "little, also write as : ltl",
+        "کم",
+        "مقدار کم"
+      ]
+    },
+    {
+      "EnglishWord": "lld",
+      "Meanings": [
+        "LATERO LOG",
+        "DUAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lldf",
+      "Meanings": [
+        "LATERO LOG",
+        "DUAL",
+        "FORXO, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "llfx",
+      "Meanings": [
+        "LATERO LOG",
+        "FORXO, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "llog",
+      "Meanings": [
+        "LIFETIME LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "llsf",
+      "Meanings": [
+        "LATERO LOG",
+        "SPHERICALLY FOCUSED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lmn",
+      "Meanings": [
+        "lamination"
+      ]
+    },
+    {
+      "EnglishWord": "ln",
+      "Meanings": [
+        "Landing Nipple",
+        "به آن به فارسی پستانک گویند"
+      ]
+    },
+    {
+      "EnglishWord": "lne",
+      "Meanings": [
+        "lense"
+      ]
+    },
+    {
+      "EnglishWord": "load binder",
+      "Meanings": [
+        "Chain or rope used to tie down loads of equipment, or the \"Boomer\" used to tighten the chains"
+      ]
+    },
+    {
+      "EnglishWord": "loc",
+      "Meanings": [
+        "Lost time due to Loss of Circulation, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "location",
+        "located, location",
+        "منطقه ای",
+        "ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "locally",
+      "Meanings": [
+        "locl",
+        "منطقه ای",
+        "ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "located",
+      "Meanings": [
+        "واقع شده در جایی",
+        "loc"
+      ]
+    },
+    {
+      "EnglishWord": "location",
+      "Meanings": [
+        "loc",
+        "منطقه",
+        "ناحیه",
+        "The place at which a Well is to be or has been drilled"
+      ]
+    },
+    {
+      "EnglishWord": "locl",
+      "Meanings": [
+        "locally",
+        "منطقه ای",
+        "ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "log",
+      "Meanings": [
+        "Logging Run, operation's Abbreviations which Companymans write in their daily drilling reports",
+        "عملیات راندن لاگ",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "All the operations necessary for Logging : from Rigging Up Logging unit to rigging down after the last logging run at the same depth, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "A systematic recording of data, such as a Driller's Log, Mud Log, Electrical Well Log, or Radioactivity Log, GR . Many different Logs are run in Wells to obtain various characteristics of downhole Formations"
+      ]
+    },
+    {
+      "EnglishWord": "logging run",
+      "Meanings": [
+        "LOG, operations' abbreviations which Companymans write in their daily drilling reports",
+        "عملیات جهت نمودار گیری",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "logging while drilling",
+      "Meanings": [
+        "LWD",
+        "ثبت داده‌های مربوط به حفاری همزمان با حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "looking",
+      "Meanings": [
+        "lkg"
+      ]
+    },
+    {
+      "EnglishWord": "loose",
+      "Meanings": [
+        "lse, also write as : ls",
+        "سست"
+      ]
+    },
+    {
+      "EnglishWord": "lost circulation additives",
+      "Meanings": [
+        "A substance added to cement slurries or drilling mud to prevent the loss of cement or mud to the formation. See bridging materials, or LCM"
+      ]
+    },
+    {
+      "EnglishWord": "lost circulation material",
+      "Meanings": [
+        "Materials added to the mud in varying amounts to control or prevent lost circulation. Classified as fiber, flake, or granular"
+      ]
+    },
+    {
+      "EnglishWord": "lost returns",
+      "Meanings": [
+        "See : Lost Circulation. Lower Kelly Cock, n: See also : Drill Stem Safety Valve"
+      ]
+    },
+    {
+      "EnglishWord": "lot",
+      "Meanings": [
+        "leak",
+        "off test",
+        "تستی که برای آشکار شدن لیک یا نشت لوله‌های حفاری انجام می‌شود",
+        "Time actually spent for conducting Leak Off or Formation Integrity Test, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "low",
+      "Meanings": [
+        "lw",
+        "بمیزان کم",
+        "پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lower",
+      "Meanings": [
+        "lwr",
+        "پایینی",
+        "پایین تر"
+      ]
+    },
+    {
+      "EnglishWord": "lower kelly valve",
+      "Meanings": [
+        "An essentially full",
+        "opening Valve installed immediately below the Kelly, with outside diameter equal to the Tool Joint outside diameter"
+      ]
+    },
+    {
+      "EnglishWord": "low-solids mud",
+      "Meanings": [
+        "A drilling Mud that contains a minimum amount of solid material Sand, Silt, and so on and that is used in Rotary Drilling when possible because it can provide fast drilling rates"
+      ]
+    },
+    {
+      "EnglishWord": "low-yield clay",
+      "Meanings": [
+        "Commercial clay chiefly of the calcium montmorillonite type and having a yield of approximately 15 barrels per ton"
+      ]
+    },
+    {
+      "EnglishWord": "lpg",
+      "Meanings": [
+        "Liquefied Petroleum Gas, purified Gas & under pressure, Liquid Gas",
+        "گاز مایع شده",
+        "Liquefied Petroleum Gas"
+      ]
+    },
+    {
+      "EnglishWord": "lpn",
+      "Meanings": [
+        "LINEAR POROSITY NEUTRON, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lrg",
+      "Meanings": [
+        "large",
+        "بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "ls",
+      "Meanings": [
+        "LOST CIRCULATION, Log Curve name",
+        "loose, also write as : lse, but sometimes they refer to \"ls\" as Limestone, so you had better use : lse",
+        "سست"
+      ]
+    },
+    {
+      "EnglishWord": "lse",
+      "Meanings": [
+        "loose, also write as : ls, but sometimes they refer to \"ls\" as Limestone, so you had better use : lse",
+        "سست"
+      ]
+    },
+    {
+      "EnglishWord": "lsl",
+      "Meanings": [
+        "LIMESTONE, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lss",
+      "Meanings": [
+        "LONG SPACED SONIC, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "lst",
+      "Meanings": [
+        "limestone, also in old times wrote as : Ls",
+        "سنگ آهک"
+      ]
+    },
+    {
+      "EnglishWord": "lt",
+      "Meanings": [
+        "light, also write as : lgt",
+        "دارای رنگ روشن"
+      ]
+    },
+    {
+      "EnglishWord": "ltbf",
+      "Meanings": [
+        "light buff"
+      ]
+    },
+    {
+      "EnglishWord": "ltbn",
+      "Meanings": [
+        "light brown"
+      ]
+    },
+    {
+      "EnglishWord": "ltgy",
+      "Meanings": [
+        "light gray"
+      ]
+    },
+    {
+      "EnglishWord": "ltl",
+      "Meanings": [
+        "little, also write as : ll",
+        "کم",
+        "مقدار ناچیز"
+      ]
+    },
+    {
+      "EnglishWord": "lvl",
+      "Meanings": [
+        "level"
+      ]
+    },
+    {
+      "EnglishWord": "lwd",
+      "Meanings": [
+        "Logging While Drilling",
+        "ثبت داده‌ها یا اطلاعات حفاری همزمان با عملیات حفاری",
+        "ثبت داده‌های مربوط به حفاری همزمان با حفاری",
+        "بیشتر بصورت LWD نوشته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "lwr",
+      "Meanings": [
+        "lower",
+        "پایینی",
+        "پایین تر"
+      ]
+    },
+    {
+      "EnglishWord": "lyr",
+      "Meanings": [
+        "layer",
+        "لایه"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+﻿{
+  "Group": "R",
+  "Entries": 39,
+  "Words": [
+    {
+      "EnglishWord": "raise",
+      "Meanings": [
+        "به وجود آوردن",
+        "یکی از متددهای شیء Err برای به وجود آوردن یک خطا"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomize",
+      "Meanings": [
+        "تصادفی",
+        "تابعی که یک عدد تصادفی بین صفر و یک بر اساس زمان ایجاد می‌کند. برای استفاده از آن چنین عمل می‌کنیم",
+        "Randomize",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "readproperty",
+      "Meanings": [
+        "متددی از شیء PropertyBag که اطلاعات ذخیره شده را باز می‌کند",
+        "object .ReadProperty DataName ["
+      ]
+    },
+    {
+      "EnglishWord": "reboot",
+      "Meanings": [
+        "راه اندازی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "recordcount",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشاهده تعداد رکوردها"
+      ]
+    },
+    {
+      "EnglishWord": "recordset",
+      "Meanings": [
+        "یکی از خصیصه‌های شیء Data که تغییراتی بر روی فایلهای اطلاعاتی ایجاد می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "recordsettype",
+      "Meanings": [
+        "یکی از متددهای شیء Data برای تعیین نوع RecordSet Dynaset یا Table یا SnapShot"
+      ]
+    },
+    {
+      "EnglishWord": "recordsource",
+      "Meanings": [
+        "منبع رکورد",
+        "یکی از خصیصه‌های ADODC"
+      ]
+    },
+    {
+      "EnglishWord": "red",
+      "Meanings": [
+        "قرمز",
+        "رنگ قرمز",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "redim",
+      "Meanings": [
+        "کلمه کلیدی برای تعریف آرایه‌های دینامیکی",
+        "ReDim varname  subscripts  ["
+      ]
+    },
+    {
+      "EnglishWord": "references",
+      "Meanings": [
+        "یکی از گزینه‌های منوی Project برای وارد کردن یک فایل Dll در پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "refresh",
+      "Meanings": [
+        "تازه کردن",
+        "یکی از متددهای Rich TextBox برای بارگذاری مجدد متن"
+      ]
+    },
+    {
+      "EnglishWord": "registry",
+      "Meanings": [
+        "رجیستری"
+      ]
+    },
+    {
+      "EnglishWord": "rem",
+      "Meanings": [
+        "اعلان شروع یک توضیح",
+        "علامت",
+        "دستوری برای اضافه کردن یک توضیح",
+        "Rem comment",
+        "یا",
+        "comment"
+      ]
+    },
+    {
+      "EnglishWord": "remove",
+      "Meanings": [
+        "حذف کردن",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . Remove key",
+        "به جای Object نام شیء و به جای Key نام لغت را می‌نویسیم در این صورت لغت مورد نظر حذف می‌شود",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "remove a file",
+      "Meanings": [
+        "پاک کردن فایل",
+        "برای پاک کردن یک فایل ابتدا فایل مورد نظر را از پنجره Project Explorer انتخاب کنید سپس گزینه Remove را از منوی Project انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "removeall",
+      "Meanings": [
+        "حذف کردن همه",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . RemoveAll",
+        "به جای Object نام شیء و به جای Key نام لغت را می‌نویسیم در این صورت لغت مورد نظر حذف می‌شود",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "removeitem",
+      "Meanings": [
+        "حذف کردن آیتم",
+        "یکی از متدد‌های ListBox"
+      ]
+    },
+    {
+      "EnglishWord": "removing project",
+      "Meanings": [
+        "برای حذف کردن یک پروژه از برنامه تان گزینه Remove Project را از منوی File انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "replace",
+      "Meanings": [
+        "جایگزین کردن",
+        "Replace expression"
+      ]
+    },
+    {
+      "EnglishWord": "requre variable declaration",
+      "Meanings": [
+        "گزینه ای که در Tools/Options قرار دارد و برای اضافه کردن دستور به تمامی کدها استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "res",
+      "Meanings": [
+        "Resource file",
+        "فایلهای Resource"
+      ]
+    },
+    {
+      "EnglishWord": "resize",
+      "Meanings": [
+        "تغییر اندازه",
+        "یکی از رویدادهای فرم که هنگام تغییر سایز فرم دستور را اجرا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "resizing",
+      "Meanings": [
+        "تغییر سایز",
+        "برای تغییر اندازه یک شیء اشاره گر موس را در یکی از گوشه‌های شیء قرار دهید و بکشید یا دکمه Shift را فشار داده و دکمه‌های چپ یا راست را برای تغییر اندازه بفشارید"
+      ]
+    },
+    {
+      "EnglishWord": "resource",
+      "Meanings": [
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "resource editor",
+      "Meanings": [
+        "برنامه ای که می‌توان درون آن عکس صدا و متن و… قرار داد و در فایل اجرایی ذخیره کرد نه در فایلی جدا",
+        "برای اجرای آن ابتدا آن را در فعال سازید",
+        "سپس آن را از منوی tools انتخاب کنید تا اجرا شود",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "resource files",
+      "Meanings": [
+        "فایلهای"
+      ]
+    },
+    {
+      "EnglishWord": "restart",
+      "Meanings": [
+        "راه اندازی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "rgb",
+      "Meanings": [
+        "R ed G reen B lue",
+        "قرمز آبی سبز",
+        "رنگهای اصلی",
+        "دستوری برای ساختن یک رنگ",
+        "RGB Red color"
+      ]
+    },
+    {
+      "EnglishWord": "richtextbox",
+      "Meanings": [
+        "جعبه متن پیشرفته",
+        "جعبه متنی دارای امکانات پیشرفته مانند تغییر رنگ و اندازه متن و… و کمپوننت نرم افزار WordPad",
+        "برای نامگذاری آن از لغت rtf همراه با نام مورد نظر استفاده کنید"
+      ]
+    },
+    {
+      "EnglishWord": "right",
+      "Meanings": [
+        "راست",
+        "دستوری که تعداد n کاراکتر از سمت راست یک نوشته را انتخاب می‌کند",
+        "Right String"
+      ]
+    },
+    {
+      "EnglishWord": "rnd",
+      "Meanings": [
+        "R a nd omize",
+        "تصادفی",
+        "تابعی که یک عدد تصادفی بین صفر و یک ایجاد می‌کند. برای استفاده از آن چنین عمل می‌کنیم",
+        "Name = Rnd"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "گرد کردن",
+        "خروجی این تابع عددی از نوع double است که برابر نزدیکترین عدد صحیح به مقدار عدد ورودی است",
+        "Round expression["
+      ]
+    },
+    {
+      "EnglishWord": "rtf",
+      "Meanings": [
+        "نامی برای نامگذاری RichTextBox به صورت rtfName"
+      ]
+    },
+    {
+      "EnglishWord": "rtod",
+      "Meanings": [
+        "دستوری برای تبدیل رادیان به درجه",
+        "RTOD nExpression"
+      ]
+    },
+    {
+      "EnglishWord": "rtrim",
+      "Meanings": [
+        "R ight Trim",
+        "تمام فاصله‌های سمت راست یک رشته را حذف می‌کند",
+        "RTrim string",
+        "مانند",
+        "MyVar = RTrim \"\" vbscript \"\" ' MyVar contains \"\" vbscript"
+      ]
+    },
+    {
+      "EnglishWord": "runtime",
+      "Meanings": [
+        "زمان اجرا",
+        "زمانی که کد در حال اجرا است و شما نمی‌توانید آن را ویرایش کنید"
+      ]
+    },
+    {
+      "EnglishWord": "runtime error",
+      "Meanings": [
+        "خطای زمان اجرا",
+        "خطایی که هنگام اجرای کدها به وجود می‌آید"
+      ]
+    }
+  ]
+}

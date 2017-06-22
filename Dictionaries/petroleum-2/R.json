@@ -1,0 +1,1271 @@
+﻿{
+  "Group": "R",
+  "Entries": 172,
+  "Words": [
+    {
+      "EnglishWord": "r",
+      "Meanings": [
+        "رزیستیویته",
+        "مقاومت سنگها در برابر عبور جریان الکتریکی",
+        "resistivity",
+        "rare",
+        "نایاب",
+        "range, also mostly write as : rge",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "r/b",
+      "Meanings": [
+        "Rack Back, actions or job's abbreviations which Companymans usually write in their daily drilling reports",
+        "چیدن لوله‌ها بر روی خرک",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "r/d",
+      "Meanings": [
+        "Rig Down",
+        "باز کردن وسایل عملیات مختلف از قبیل وسایل راندن لاگ و غیره",
+        "که بآن «ریگ داون» نیز می‌گویند",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "r/u",
+      "Meanings": [
+        "Rig Up",
+        "برپایی وسایل جهت شروع کار یا «ریگ آپ»",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rabbit",
+      "Meanings": [
+        "A small plug that is run through a flow line by pressure to clean the line or test for obstructions, See also : Pig"
+      ]
+    },
+    {
+      "EnglishWord": "rack back",
+      "Meanings": [
+        "R/B, actions or jobs which Companymans usually write in their daily drilling reports",
+        "چیدن لوله‌ها بر روی خرک",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rack pipe",
+      "Meanings": [
+        "To place pipe withdrawn from the hole on a pipe rack",
+        ". To stand pipe on the derrick floor when pulling it out of the hole"
+      ]
+    },
+    {
+      "EnglishWord": "racking platform",
+      "Meanings": [
+        "A small platform with finger",
+        "like steel projections attached to the side of the mast on a well servicing unit. When a string of sucker rods or tubing is pulled from a well, the top end of the rods or tubing is placed racked between the steel projections and held in a vertical position in the mast"
+      ]
+    },
+    {
+      "EnglishWord": "rad",
+      "Meanings": [
+        "RADIATION LOG, Log Curve name",
+        "RAdioactive Densiometer; fluid",
+        "measuring device to measure density"
+      ]
+    },
+    {
+      "EnglishWord": "radioactivity well logging",
+      "Meanings": [
+        "The recording of the natural or induced radioactive characteristics of subsurface Formations. A Radioactivity Log, also known as : a Radiation Log or a Nuclear Log, normally consists of two recorded curves: a Gamma Ray curve and a Neutron curve. Both help to determine the types of rocks in the Formation and the types of fluids contained in the rocks"
+      ]
+    },
+    {
+      "EnglishWord": "ram",
+      "Meanings": [
+        "The closing and sealing component on a blowout preventer. One of three types",
+        "blind, pipe, or shear",
+        "may be installed in several preventers mounted in a stack on top of the wellbore. Blind rams, when closed, form a seal on a hole that has no drill pipe in it; pipe rams, when closed, seal around the pipe; shear rams cut through drill pipe and then form a seal"
+      ]
+    },
+    {
+      "EnglishWord": "ram blowout preventer",
+      "Meanings": [
+        "A blowout preventer that uses rams to seal off pressure on a hole that is with or without pipe. Also called : a Ram Preventer"
+      ]
+    },
+    {
+      "EnglishWord": "ram preventer",
+      "Meanings": [
+        "See also : Ram Blow",
+        "Out Preventer"
+      ]
+    },
+    {
+      "EnglishWord": "ran in hole",
+      "Meanings": [
+        "RIH, or Run in Hole, use for going down with Drilling Pipes in the Well",
+        "لوله پایین",
+        "یا عملیات فرستادن لوله‌های حفاری بداخل چاه جهت شروع عملیات",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "r",
+        "Rge, also rarely write as : r",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "rat",
+      "Meanings": [
+        "RADIOACTIVE TRACER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ratchet",
+      "Meanings": [
+        "A generic term used to describe certain tool movements, such as the cone",
+        "to",
+        "slip engagement on permanent packers or plugs"
+      ]
+    },
+    {
+      "EnglishWord": "rate of penetration",
+      "Meanings": [
+        "ROP",
+        "سرعت حفاری که معمولا به متر در ساعت بیان می‌گردد و گاهی اوقات آنرا بصورت یک متر در چند دقیقه نیز ذکرمی نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "rathole",
+      "Meanings": [
+        "A hole in the rig floor, 30 to 35 feet, 9 to 11 meters deep, which is lined with Casing that projects above the floor and into which the Kelly and Swivel are placed when hoisting operations are in progress",
+        ". A hole of a diameter smaller than the main hole and drilled in the bottom of the main hole",
+        "v : To reduce the size of the wellbore and drill ahead"
+      ]
+    },
+    {
+      "EnglishWord": "rc",
+      "Meanings": [
+        "Reverse Circulation",
+        "گردش گل بصورت معکوس",
+        "از داخل چاه بداخل لوله‌های حفاری و بسمت پمپ‌های گل"
+      ]
+    },
+    {
+      "EnglishWord": "rcs",
+      "Meanings": [
+        "Time actually spent for Running Casing, liner and tieback. Time includes rig up, run casing tubing and rig down casing tubing equipment, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rd",
+      "Meanings": [
+        "Rig Down",
+        "باز نمودن وسایل و ابزار مختلف",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "All the operations for Rig Down including all the operations for rig site, anchoring, jacking up/down. ballast and various testing till the rig released, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "red",
+        "round, also mostly write as : \"rnd\" , but usually use this abbreviation for \"red",
+        "قرمز رنگ",
+        "گاهی اوقات این اختصار برای لغت گرد شده نیز بکار می‌رود ولی بیشتر مواقع اختصار «rnd» را برای لغت گرد شده استفاده می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "rdn",
+      "Meanings": [
+        "Time actually spent for Rigging Down the Drilling Rig, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rdr",
+      "Meanings": [
+        "Time actually spent to Lowering Down the Riser to the sea bed, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rea",
+      "Meanings": [
+        "Reaming, actions or job's abbreviations which Companymans usually write in their daily drilling reports",
+        "ریم کردن یا تمیز نمودن دیواره‌های چاه بمنظور راندن لوله‌های جداره ای یا عملیات بعدی",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "rxn"
+      ]
+    },
+    {
+      "EnglishWord": "ready for drilling",
+      "Meanings": [
+        "RFD",
+        "آماده برای شروع عملیات حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "ream",
+      "Meanings": [
+        "REA, a kind of job to cleaning Hole, actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "ریم کردن یا تمیز نمودن دیواره‌های چاه بمنظور راندن لوله‌های جداره ای یا عملیات بعدی",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "To enlarge the wellbore by drilling it again with a special bit. Often a rathole is reamed or opened to the same size as the main wellbore. See also : Rathole"
+      ]
+    },
+    {
+      "EnglishWord": "reamer",
+      "Meanings": [
+        "A tool used in drilling to smooth the wall of a well, enlarge the hole to the specified size, help stabilize the bit, straighten the wellbore if kinks or doglegs are encountered, and rill directionally. See also : Ream"
+      ]
+    },
+    {
+      "EnglishWord": "reaming",
+      "Meanings": [
+        "Rmg",
+        "ریم کردن یا تمیز نمودن دیواره‌های چاه بمنظور راندن لوله‌های جداره ای یا عملیات بعدی",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rec",
+      "Meanings": [
+        "received",
+        "دریافت شده",
+        "معمولا برای رسیدن وسایل یا مواد حفاری سر دکل حفاری بکار میرود",
+        "recommending",
+        "recovered, or write as : rec",
+        "پیشنهاد نمودن",
+        "recovered, or write as : Rec",
+        "باز یابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocating pump",
+      "Meanings": [
+        "A pump consisting of a piston that moves back and forth or up and down in a cylinder. The cylinder is equipped with inlet suction and outlet discharge valves. On the intake stroke, the suction valves are opened, and fluid is drawn into the cylinder. On the discharge stroke, the suction valves close, the discharge valves open, and fluid is forced out of the cylinder"
+      ]
+    },
+    {
+      "EnglishWord": "recommend",
+      "Meanings": [
+        "Rec, پیشنهاد دادن جهت کار خاص"
+      ]
+    },
+    {
+      "EnglishWord": "recompletion",
+      "Meanings": [
+        "After the initial completion of a Well, the action and techniques of reentering the well and redoing or repairing the original completion to restore the Well's productivity"
+      ]
+    },
+    {
+      "EnglishWord": "recorder carrier",
+      "Meanings": [
+        "A Sub in a DST string in which pressure and temperature recorders are placed for Formation evaluation"
+      ]
+    },
+    {
+      "EnglishWord": "recovered",
+      "Meanings": [
+        "rec or write as : Rec",
+        "باز یابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "recovery",
+      "Meanings": [
+        "recy"
+      ]
+    },
+    {
+      "EnglishWord": "recovery efficiency",
+      "Meanings": [
+        "The recoverable amount of original or residual hydrocarbons in place in a rese4rvoir, expressed as a percentage of total hydrocarbons in place. Also called : Recovery Factor"
+      ]
+    },
+    {
+      "EnglishWord": "recovery factor",
+      "Meanings": [
+        "See : Recovery Efficiency"
+      ]
+    },
+    {
+      "EnglishWord": "recy",
+      "Meanings": [
+        "recovery"
+      ]
+    },
+    {
+      "EnglishWord": "red",
+      "Meanings": [
+        "red, also write as : rd",
+        "رنگ قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "red mud",
+      "Meanings": [
+        "A water",
+        "base clay mud containing caustic soda and tannates to which lime has been added. Also called : Red",
+        "lime"
+      ]
+    },
+    {
+      "EnglishWord": "redlime",
+      "Meanings": [
+        "A water",
+        "base clay mud containing caustic soda and tannates to which lime has been added. Also called : Red",
+        "lime"
+      ]
+    },
+    {
+      "EnglishWord": "red-lime mud",
+      "Meanings": [
+        "A water",
+        "base clay mud containing caustic soda and tannates to which lime has been added. Also called : Red Mud"
+      ]
+    },
+    {
+      "EnglishWord": "redu",
+      "Meanings": [
+        "reduced"
+      ]
+    },
+    {
+      "EnglishWord": "reduced",
+      "Meanings": [
+        "redu"
+      ]
+    },
+    {
+      "EnglishWord": "reel vessel",
+      "Meanings": [
+        "A ship or barge specially designed to handle pipeline that is wound onto a large reel. To lay the pipeline, the vessel pays out the pipe off the reel at a steady rate onto the ocean flow. The pipeline has been constructed at an offshore facility where it has been welded, coated, inspected, and wound onto the reel"
+      ]
+    },
+    {
+      "EnglishWord": "reeled tubing",
+      "Meanings": [
+        "Lighter",
+        "duty Well maintenance than hydraulic workover, employing small OD tubing capable of descending down the production string under Well pressure"
+      ]
+    },
+    {
+      "EnglishWord": "reeve the line",
+      "Meanings": [
+        "To string a wire rope drilling line through the sheaves of the traveling and crown blocks to the hoisting drum"
+      ]
+    },
+    {
+      "EnglishWord": "refl",
+      "Meanings": [
+        "باز تاب",
+        "انعکاس",
+        "reflection"
+      ]
+    },
+    {
+      "EnglishWord": "reflection",
+      "Meanings": [
+        "باز تاب",
+        "انعکاس",
+        "refl"
+      ]
+    },
+    {
+      "EnglishWord": "refr",
+      "Meanings": [
+        "REFRACTURE, Log Curve name",
+        "انکسار",
+        "شکست",
+        "refraction"
+      ]
+    },
+    {
+      "EnglishWord": "refraction",
+      "Meanings": [
+        "انکسار",
+        "شکست",
+        "refr"
+      ]
+    },
+    {
+      "EnglishWord": "refracturing",
+      "Meanings": [
+        "Fracturing a Formation again. See : Frmation Fracturing, Hydraulic Fracturing"
+      ]
+    },
+    {
+      "EnglishWord": "reg",
+      "Meanings": [
+        "regular",
+        "منظم"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "rgn"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "reg",
+        "منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regulator",
+      "Meanings": [
+        "A device that reduces the pressure or volume of a fluid flowing in a line and maintains the pressure or volume at a specified level"
+      ]
+    },
+    {
+      "EnglishWord": "rel",
+      "Meanings": [
+        "relatively",
+        "نسبتا",
+        "بطور نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative density",
+      "Meanings": [
+        "The ratio of the weight of a given volume of a substance at a given temperature to the weight of an equal volume of a standard substance at the same temperature. For example, if 1 cubic inch of water at 39 degrees F weighs 1 unit and 1 cubic inch of another solid or liquid at 39 degrees F weight 0.95 unit, then the relative density of the substance is 0.95. In determining the relative density of gases, the comparison is made with the standard of air or hydrogen",
+        ". The ratio of the mass of a given volume of a substance to the mass of a like volume of a standard substance, such as Water or Air"
+      ]
+    },
+    {
+      "EnglishWord": "relative permeability",
+      "Meanings": [
+        "The radio of effective permeability to absolute permeability. The relative permeability of rock to a single fluid is 1.0 when only that fluid is present, and 0.0 when the presence of another fluid prevents all flow of the given fluid. Compare also with : Absolute Permeability, Effective Permeability"
+      ]
+    },
+    {
+      "EnglishWord": "relatively",
+      "Meanings": [
+        "rel",
+        "نسبتا",
+        "بطور نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relief valve",
+      "Meanings": [
+        "A Valve that will open automatically when pressure gets too high"
+      ]
+    },
+    {
+      "EnglishWord": "relief well",
+      "Meanings": [
+        "A Well drilled near and deflected into a Well that is out of control, making it possible to bring the wild well under control. See also : Wild Well"
+      ]
+    },
+    {
+      "EnglishWord": "remote choke panel",
+      "Meanings": [
+        "A set of controls, usually placed on the rig floor, that is manipulated to control the amount of drilling fluid being circulated through the choke manifold. This procedure is necessary when a kick is being circulated out of a well. See also : Choke Manifold"
+      ]
+    },
+    {
+      "EnglishWord": "repeat formation tester",
+      "Meanings": [
+        "تکرار تست یا آزمایش سازند",
+        "RFT"
+      ]
+    },
+    {
+      "EnglishWord": "repl",
+      "Meanings": [
+        "replaced",
+        "جایگزین شده",
+        "جانشین شده"
+      ]
+    },
+    {
+      "EnglishWord": "replaced",
+      "Meanings": [
+        "repl",
+        "جایگزین شده",
+        "جانشین شده"
+      ]
+    },
+    {
+      "EnglishWord": "report time",
+      "Meanings": [
+        "هنگام گزارش",
+        "در وقت گزارش صبح",
+        "معمولا هنگام ارسال گزارش در صبح ذکر می‌شود",
+        "RT"
+      ]
+    },
+    {
+      "EnglishWord": "req",
+      "Meanings": [
+        "requirements, also write as : req",
+        "requirements, also refer to as : Req",
+        "مواد یا وسایل و ابزار مورد نیاز",
+        "معمولا درون گزارش‌های حفاری روزانه مواد یا وسایلی که مورد نیاز است را در زیر گزارش با این عنوان ذکر می‌نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "requirements",
+      "Meanings": [
+        "Req",
+        "مواد یا وسایل و ابزار مورد نیاز",
+        "معمولا درون گزارش‌های حفاری روزانه مواد یا وسایلی که مورد نیاز است را در زیر گزارش با این عنوان ذکر می‌نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "res",
+      "Meanings": [
+        "RESIDUE, Log Curve name",
+        "residual",
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "reservoir",
+      "Meanings": [
+        "A porous and permeable underground formation containing an individual and separate natural accumulation of producible hydrocarbons oil and/or gas which is confined by impermeable rock or water barriers and is characterized by a single natural pressure system. A subsurface, porous, permeable rock body in which oil and/or gas is stored, Most reservoir rocks are limestones, dolomites, sandstones, or a combination of these. The three basic types of hydrocarbon reservoirs are oil, gas, and condensate. An oil reservoir generally contains three fluids",
+        "gas, oil, and water",
+        "with oil the dominant product. In the typical oil reservoir, these fluids occur in different phases, because of the variance in their gravities. Gas, the lightest, occupies the upper part of the reservoir rocks; water, the lower part; and oil, the intermediate section. In addition to its occurrence as a cap or in solution, gas may accumulate independently of the oil; if so, the reservoir is called a gas reservoir. Associated with the gas, in most instances, are salt water and some oil. In a condensate reservoir, the hydrocarbons may exist as a gas, but, when brought to the surface, some of the heavier ones condense to a liquid"
+      ]
+    },
+    {
+      "EnglishWord": "reservoir pressure",
+      "Meanings": [
+        "The average pressure within the reservoir at any given time. Determination of this value is best made by bottomhole pressure measurements with adequate shut",
+        "in time. If a shut",
+        "in period long enough for the reservoir pressure to stabilize is impractical, then various techniques of analysis by pressure buildup or drawdown tests are available to determine static reservoir pressure"
+      ]
+    },
+    {
+      "EnglishWord": "reservoir rock",
+      "Meanings": [
+        "A permeable rock that may contain oil or gas in appreciable quantity and through which Petroleum may migrate"
+      ]
+    },
+    {
+      "EnglishWord": "residual",
+      "Meanings": [
+        "res",
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "resin",
+      "Meanings": [
+        "Semisolid or solid complex, amorphous mixture of organic compounds having no definite melting point or tendency to crystallize. Resins may be a component of compounded materials that can be added to drilling fluids to impart special properties to the system, to Wall Cake, etc"
+      ]
+    },
+    {
+      "EnglishWord": "resistivity",
+      "Meanings": [
+        "R, Symbol used for resistivity",
+        "The electrical resistance offered to the passage of current; the opposite of conductivity"
+      ]
+    },
+    {
+      "EnglishWord": "rest",
+      "Meanings": [
+        "RESISTIVITY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ret",
+      "Meanings": [
+        "returns",
+        "بازگشت",
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "retainer",
+      "Meanings": [
+        "یک ابزار آهنین یا ساخته شده از منیزیم که قابل حفاری شدن نیز میباشد و متشکل از یک والو یا شیر فشار و مجموعه ابزار فیت کننده یا پکینگ بوده و ‏جهت بستن فضای حلقوی بین تیوبینگ یا لوله حفاری و کیسینگ استفاده می‌گردد",
+        "بمنظور اجازه دادن جهت جایگزینی سیمان یا سیال از میان ‏تیوبینگ یا لوله حفاری در هر نقطه تعیین شده از قبل",
+        "واقع در پشت کیسینگ یا لاینر در اطراف کفشک",
+        "یا در داخل اپن هول Open Hole در اطراف ‏کفشک",
+        "A cast",
+        "iron or magnesium drillable tool consisting of a packing assembly and a back",
+        "pressure valve. It is used to close off the annular space between tubing or drill pipe and casing to allow the placement of cement or fluid through the tubing or drill pipe at any predetermined point behind the casing or liner, around the shoe, or into the open hole around the shoe"
+      ]
+    },
+    {
+      "EnglishWord": "retarder",
+      "Meanings": [
+        "A substance added to cement to prolong the setting time so that the cement can be pumped into place. Retarders are used for cementing in high",
+        "temperature formation"
+      ]
+    },
+    {
+      "EnglishWord": "retrievable wireline choke",
+      "Meanings": [
+        "A bottomhole choke run on wireline and landed in a nipple profile in the tubing string"
+      ]
+    },
+    {
+      "EnglishWord": "reverse circulation",
+      "Meanings": [
+        "RC",
+        "گردش گل حفاری بصورت معکوس یا وارونه",
+        "The course of drilling fluid downward through the annulus and upward through the drill stem, in contrast to normal circulation in which the course is downward through the drill stem and upward through the annulus. Seldom used in open hole, but frequently used in workover operations. Also referred to as \"circulating the short way,\" since returns from bottom can be obtained more quickly than in normal circulation"
+      ]
+    },
+    {
+      "EnglishWord": "reverse out",
+      "Meanings": [
+        "To displace the wellbore fluid back to the surface; to displace tubing volume back to the Pits"
+      ]
+    },
+    {
+      "EnglishWord": "reworked",
+      "Meanings": [
+        "rwrk"
+      ]
+    },
+    {
+      "EnglishWord": "rfd",
+      "Meanings": [
+        "Ready For Drilling",
+        "آماده بودن جهت شروع عملیات حفاری",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rft",
+      "Meanings": [
+        "تکرار تست یا آزمایش سازند",
+        "Repeat Formation Tester",
+        "REPEAT FORMATION TESTER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "rge",
+      "Meanings": [
+        "range, also write rarely as : r"
+      ]
+    },
+    {
+      "EnglishWord": "rgh",
+      "Meanings": [
+        "rough"
+      ]
+    },
+    {
+      "EnglishWord": "rgl",
+      "Meanings": [
+        "RADIATION GUARD LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "rgn",
+      "Meanings": [
+        "region"
+      ]
+    },
+    {
+      "EnglishWord": "rheology",
+      "Meanings": [
+        "Mud Characteristics, Mud Rheology",
+        "به خصوصیات گل یا سیال حفاری گویند",
+        "از قبیل وزن",
+        "ویسکوزیته و غیره",
+        "The study of the flow of gases and liquids of special importance to mud engineers and reservoir engineers"
+      ]
+    },
+    {
+      "EnglishWord": "rig",
+      "Meanings": [
+        "The Drilling Mast which drill Formations and rocks",
+        "دکل حفاری",
+        "The Derrick, Drawworks and attendant surface equipments of a Drilling or workover unit",
+        "The Derrick or Mast, Drawworks, and attendant surface equipments of a drilling or workover unit"
+      ]
+    },
+    {
+      "EnglishWord": "rig down",
+      "Meanings": [
+        "باز نمودن دکل حفاری جهت انتقال آن به محلی دیگر",
+        "R/D"
+      ]
+    },
+    {
+      "EnglishWord": "rig floor",
+      "Meanings": [
+        "The area immediately around the Rotary Table and extending to each corner of the Derrick or Mast; the area immediately above the substructure on which the Drawworks, Rotary Table, and so forth rest",
+        "سکوی دکل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "rig manager",
+      "Meanings": [
+        "An employee of a drilling contractor who is in charge of the entire drilling crew and the drilling rig. Also called : a Toolpusher, Drilling Foreman, Rig Supervisor, or Rig Superintendent",
+        "The person, who supervises all aspects of Offshore Rig operations. Large Semisubmersibles anchored miles at sea with hundreds of workers, are much like a small town engaged in Drilling an Oil & Gas Well beneath hundreds of feet of water. The Rig Manager is the resident Boss of this floating structure",
+        "سر حفار",
+        "بیشتر مواقع بعنوان رییس دستگاه از او یاد می‌شود که ادارە تمامی دکل با وی است"
+      ]
+    },
+    {
+      "EnglishWord": "rig repair",
+      "Meanings": [
+        "RRE, Operations or job's abbreviations which usually Companymans write in their daily drilling reports",
+        "تعمیر دکل حفاری",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rig service",
+      "Meanings": [
+        "RSE, Operations or job's abbreviations which usually Companymans write in their daily drilling reports",
+        "سرویس نمودن دوره ای دکل حفاری",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rig superintendent",
+      "Meanings": [
+        "Also called : a Toolpusher. See also : Toolpusher or Rig Manager"
+      ]
+    },
+    {
+      "EnglishWord": "rig up",
+      "Meanings": [
+        "بر پا کردن دکل حفاری جهت شروع عملیات حفاری در یک محل",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "R/U, Operations or job's abbreviations which usually Companymans write in their daily drilling reports",
+        "To prepare the drilling rig for making hole; to install tools and machinery before drilling is started"
+      ]
+    },
+    {
+      "EnglishWord": "rigged up machine",
+      "Meanings": [
+        "ماشین یا ابزار بر پا شده جهت شروع عملیات",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "RUM, Operations or job's abbreviations which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rigging up cable tools",
+      "Meanings": [
+        "RUCT, Operations or job's abbreviations which usually Companymans write in their daily drilling reports",
+        "بر پا نمودن ابزار کابلی جهت عملیات نمودار گیری",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rigging up pump",
+      "Meanings": [
+        "بر پا نمودن و متصل نمودن پمپ گل حفاری جهت شروع عملیات",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "RUP, Operations or job's abbreviations which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rigging up rotary",
+      "Meanings": [
+        "بر پا نمودن روتاری شروع عملیات",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "RUR, Operations or job's abbreviations which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rigging up standard tools",
+      "Meanings": [
+        "بر پا نمودن ابزار استاندارد جهت شروع عملیات",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "RUST, Operations or job's abbreviations which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rih",
+      "Meanings": [
+        "Ran In Hole, Run In Hole",
+        "لوله پایین",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "ring-joint flange",
+      "Meanings": [
+        "A special type of flanged connection in which a metal ring, resting in a groove in he flange serves as a pressure seal between the two flanges"
+      ]
+    },
+    {
+      "EnglishWord": "riser",
+      "Meanings": [
+        "A pipe through which liquid travels upward"
+      ]
+    },
+    {
+      "EnglishWord": "riser margin",
+      "Meanings": [
+        "The slight increase in mud weight used to offset friction losses that occur as the mud is circulated through the riser. Also see : Riser"
+      ]
+    },
+    {
+      "EnglishWord": "riser pipe",
+      "Meanings": [
+        "The pipe and special fittings used on floating offshore drilling rigs to establish a seal between the top of the wellbore, which is on the ocean floor, and the drilling equipment, located above the surface of the water. A riser pipe serves as a guide for the drill stem from the drilling vessel to the wellhead and as a conductor of drilling fluid from the well to the vessel. The riser consists of several sections of pipe and includes special devices to compensate for any movement of the drilling rig caused by waves. It is also called : a Marine Riser"
+      ]
+    },
+    {
+      "EnglishWord": "rk",
+      "Meanings": [
+        "rock",
+        "سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rkb",
+      "Meanings": [
+        "rotary kelly bushing",
+        "روتاری کلی بوشینگ",
+        "بوش یا وسیله ای چرخنده که به روتاری تیبل متصل شده و کلی از میان آن عبور می‌نماید و باعث انتقال چرخش به رشتە حفاری می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "rm",
+      "Meanings": [
+        "All the operation for Rig Moving from one location to another. Mob/Demobilization, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rmg",
+      "Meanings": [
+        "Reaming",
+        "ریم کردن یا تمیز نمودن چاه جهت عملیات بعدی مانند: راندن لوله‌های کیسینگ"
+      ]
+    },
+    {
+      "EnglishWord": "rnd",
+      "Meanings": [
+        "round",
+        "گرد یا کروی"
+      ]
+    },
+    {
+      "EnglishWord": "rndd",
+      "Meanings": [
+        "rounded",
+        "گرد شدگی",
+        "کروی شده"
+      ]
+    },
+    {
+      "EnglishWord": "rng",
+      "Meanings": [
+        "running",
+        "عملیات راندن ابزار یا وسیله ای خاص بدرون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "ro",
+      "Meanings": [
+        "Lost time due to Repairing service company`s equipment, for service inspection or repair equipment other than rig`s equipment, service company, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rock",
+      "Meanings": [
+        "rk",
+        "سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rock a well",
+      "Meanings": [
+        "To bleed pressure from Casing of a dead Well, then from Tubing, then from Casing, and so on so, that the Well will start to flow"
+      ]
+    },
+    {
+      "EnglishWord": "rock pressure",
+      "Meanings": [
+        "RP",
+        "فشار سنگ یا سازند"
+      ]
+    },
+    {
+      "EnglishWord": "rod blowout preventer",
+      "Meanings": [
+        "A Ram device used to close the Annular space around the polished Rod or Sucker Rod in a pumping Well"
+      ]
+    },
+    {
+      "EnglishWord": "rod elevators",
+      "Meanings": [
+        "A device used to pull or to run Sucker Rods"
+      ]
+    },
+    {
+      "EnglishWord": "rod hanger",
+      "Meanings": [
+        "A device used to hang sucker rods on the mast or in the derrick"
+      ]
+    },
+    {
+      "EnglishWord": "rod hook",
+      "Meanings": [
+        "A small swivel hook having a fast",
+        "operating automatic latch to close the Hook opening when weight is suspended from the Hook"
+      ]
+    },
+    {
+      "EnglishWord": "rod string",
+      "Meanings": [
+        "A Sucker Rod string, that is, the entire length of Sucker Rods, which usually consist of several single Rods screwed together. The Rod string serves as a mechanical link from the beam pumping unit on the surface to the Sucker Rod pump near the bottom of the Well"
+      ]
+    },
+    {
+      "EnglishWord": "rod stripper",
+      "Meanings": [
+        "A device closed around the rods when the well may flow through the tubing while the rods are being pulled. It is a form of blowout preventer"
+      ]
+    },
+    {
+      "EnglishWord": "rod sub",
+      "Meanings": [
+        "A short length of sucker rod that is attached to the top of the sucker rod pump"
+      ]
+    },
+    {
+      "EnglishWord": "roe",
+      "Meanings": [
+        "All repair and Routine service for Other than rigs Equipment, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "roller cone bit",
+      "Meanings": [
+        "A drilling Bit made of two, three, or four Cones, or Cutters, that are mounted on extremely rugged Bearings. the surface of each cone is made of rows of steel teeth or rolls of Tungsten Carbide inserts. Also called : Rock Bits"
+      ]
+    },
+    {
+      "EnglishWord": "rop",
+      "Meanings": [
+        "Rate Of Penetration",
+        "سرعت نفوذ مته در زمین: که بر حسب متر در ساعت و گاهی بر حسب دقیقه برای حفر یک متر بیان می‌گردد",
+        "A measure of the speed at which the bit drills into formations, usually expressed in feet or meters, per hour or minutes per foot or meter",
+        "Lost time due to low ROP, due to choosing wrong Bit type for formation, normally changing Bit after few hours of drilling with new Bit, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "سرعت حفاری یا سرعت نفوذ مته بداخل سنگها که معمولا به متر در ساعت بیان گشته و گاهی اوقات آنرا بصورت تعداد دقیقه جهت حفر یک متر نیز ذکرمی نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "rope socket",
+      "Meanings": [
+        "A device to connect the Wireline to the tool string"
+      ]
+    },
+    {
+      "EnglishWord": "rotary",
+      "Meanings": [
+        "The machine used to impart rotational power to the drill stem while permitting vertical movement of the pipe for Rotary Drilling. Modern Rotary machines have a special component, the Rotary or Master Bushing, to turn the Kelly Bushing, which permits vertical movement of the Kelly while the stem is turning"
+      ]
+    },
+    {
+      "EnglishWord": "rotary drilling",
+      "Meanings": [
+        "A drilling method in which a hole is drilled by a rotating bit to which a downward force is applied. The bit is fastened to and rotated by the drill stem, which also provides a passageway through which the drilling fluid is circulated. Additional joints of drill pipe are added as drilling progresses"
+      ]
+    },
+    {
+      "EnglishWord": "rotary helper",
+      "Meanings": [
+        "A worker on a drilling or workover rig, subordinate to the driller, whose primary work station is on the rig floor. On rotary drilling rigs, there are at least two and usually three or more rotary helpers on each crew. Sometimes called : Floor Man, Roughneck, or Rig Crewman",
+        "کارگر سکوی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "rotary hose",
+      "Meanings": [
+        "A reinforced flexible tub on a rotary drilling rig that conducts the drilling fluid from the Standpipe to the Swivel and Kelly. Also called : the Mud Hose or the Kelly Hose",
+        "The hose on a Rotary Drilling Rig that conducts the Drilling Fluid from the Mud Pumps and Standpipe into the Swivel and Kelly, also called the Mud Hose or the Kelly Hose",
+        "خرطومی کلی",
+        "خرطومی گل یا خرطومی دورانی جهت هدایت گل حفاری از درون پمپهای گل بداخل استند پایپ و هرز گرد و کلی",
+        "همچنین به لغت Mud Hose و Kelly Hose مراجعه شود"
+      ]
+    },
+    {
+      "EnglishWord": "rotary kelly bushing",
+      "Meanings": [
+        "RKB",
+        "کلی بوشینگ چرخنده",
+        "بوش کلی دوار که به روتاری تیبل متصل بوده و کلی از میان آن عبور می‌نماید و باعث انتقال چرخش به رشته حفاری می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "rotary shoe",
+      "Meanings": [
+        "A length of pipe whose bottom edge is serrated or dressed with a hard cutting material and that is run into the wellbore around the outside of stuck casing, pipe, or tubing to mill away the obstruction"
+      ]
+    },
+    {
+      "EnglishWord": "rotary table",
+      "Meanings": [
+        "The principal component of a rotary, or rotary machine, used to turn the Drill Stem and support the Drilling Assembly. It has a beveled",
+        "gear arrangement to create the rotational motion and an opening into which Bushings are fitted to drive and support the Drilling Assembly",
+        "روتاری تیبل: وسیله یا میزی دایره ای شکل و دوار",
+        "که رشتە حفاری را بچرخش در می‌آورد",
+        "در اختصار به آن RT نیز می‌گویند",
+        "The principal component of a rotary, or rotary machine, used to turn the drill stem and support the drilling assembly. It has a beveled gear arrangement to create the rotational motion and an opening into which bushings are fitted to drive and support the drilling assembly"
+      ]
+    },
+    {
+      "EnglishWord": "rotary table elevation",
+      "Meanings": [
+        "RTE",
+        "ارتفاع روتاری تیبل از سطح دریا"
+      ]
+    },
+    {
+      "EnglishWord": "rotating components",
+      "Meanings": [
+        "Those parts of the drilling or Workover Rig that are designed to turn or rotate the Drill Stem and Bit",
+        "Swivel, Kelly, Kelly Busing, Master Bushing, and Rotary Table"
+      ]
+    },
+    {
+      "EnglishWord": "rotating head",
+      "Meanings": [
+        "A sealing device used to close off the annular space around the kelly in drilling with pressure at the surface, usually installed above the main blowout preventers. A rotating head makes it possible to drill ahead even when there is pressure in the annulus that the weight of the drilling fluid is not overcoming; the head prevents the well from blowing out. It is used mainly in the drilling of formations that have low permeability. The Rate Of Penetration, ROP through such Formations is usually rapid"
+      ]
+    },
+    {
+      "EnglishWord": "rotating weight",
+      "Meanings": [
+        "RW",
+        "وزن گل حفاری که در حال گردش در سیستم است",
+        "یا بطور کلی وزن هر چیز هنگام چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotation per minute",
+      "Meanings": [
+        "RPM",
+        "تعداد چرخش روتاری تیبل در دقیقه که با دور در دقیقه بیان می‌شود",
+        "در اختصار به آن RPM گویند"
+      ]
+    },
+    {
+      "EnglishWord": "rough",
+      "Meanings": [
+        "rgh"
+      ]
+    },
+    {
+      "EnglishWord": "roughneck",
+      "Meanings": [
+        "اصطلاحا به کارگر‌های روی فلور یا سکوی حفاری اطلاق می‌شود",
+        "از نظر تحت اللفظی معنای گردن کلفت دارد",
+        "در ایران به آنها کارگران کولی نیز می‌گویند",
+        "A worker on a drilling or workover Rig, subordinate to the driller, sometimes called a Rotary Helper, Floorman, or Rig Crewman",
+        "کارگر سکوی حفاری",
+        "See : Rotary Helper"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "rnd",
+        "گرد یا کروی"
+      ]
+    },
+    {
+      "EnglishWord": "round trip",
+      "Meanings": [
+        "The action of pull out and subsequently running back into the hole a string of drill pipe or tubing. Making a round trip is also called : Tripping"
+      ]
+    },
+    {
+      "EnglishWord": "rounded",
+      "Meanings": [
+        "rndd",
+        "گرد یا کروی شده"
+      ]
+    },
+    {
+      "EnglishWord": "roustabout",
+      "Meanings": [
+        "A worker on an offshore rig who handles the equipment and supplies that are sent to the rig form the shore base. The head roustabout is very often the crane operator. a worker who assists the foreman in the general work around a producing oilwell, usually on the property of the oil company. A helper on a Well servicing unit"
+      ]
+    },
+    {
+      "EnglishWord": "rp",
+      "Meanings": [
+        "Rock Pressure",
+        "فشار سنگ یا سازند"
+      ]
+    },
+    {
+      "EnglishWord": "rpm",
+      "Meanings": [
+        "Rotation Per Minute",
+        "تعداد چرخش روتاری تیبل در دقیقه که با دور در دقیقه بیان می‌شود",
+        "در اختصار به آن RPM گویند"
+      ]
+    },
+    {
+      "EnglishWord": "rr",
+      "Meanings": [
+        "Time actually spent for all Repair and Routine service for Rigs equipment include slip and out drilling ane. service top drive and etc, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "rare",
+        "نایاب",
+        "نادر",
+        "بندرت وجود داشتن",
+        "که برای کم بودن سنگی در‌تری نمونه‌های حفاری شده بکار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "rse",
+      "Meanings": [
+        "Rig Service, operation's abbreviations which Companymans usually write in their daily drilling reports",
+        "سرویس یا باز بینی یا تعمیر دوره ای دکل حفاری",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rt",
+      "Meanings": [
+        "Report Time",
+        "Rotary Table",
+        "روتاری تیبل",
+        "وسیله یا میزی دایره ای و دوار که باعث چرخش رشتە حفاری می‌گردد",
+        "هنگام گزارش",
+        "در وقت گزارش",
+        "معمولا هنگام گزارش صبح راس ساعت 7 ذکر می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "rte",
+      "Meanings": [
+        "Rotary Table Elevation",
+        "ارتفاع روتاری تیبل از سطح دریا"
+      ]
+    },
+    {
+      "EnglishWord": "rtrs",
+      "Meanings": [
+        "RADIOACTIVE TRACER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ru",
+      "Meanings": [
+        "All the operation for Rig Up including all the operations for rig site, anchoring, jacking up/down, ballast and various testing, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "ruct",
+      "Meanings": [
+        "Rigging Up Cable Tools",
+        "بر پا نمودن ابزار کابلی جهت شروع عملیات نمودار گیری",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "rudstone",
+      "Meanings": [
+        "Classification of E & K about Carbonates for Grainstone",
+        "رود استون",
+        "سنگ آهک ریفی تشکیل شده در همان محیط درجازا",
+        "درشت دانه با سیمان اسپاریت که اندازە بیش از 10 درصد ذرات آن بزرگتر از 2 میلیمتر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "rum",
+      "Meanings": [
+        "بر پا شدن ماشین یا وسیله ای خاص جهت شروع عملیات",
+        "Rigged Up Machine"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "Run, actions or job's abbreviations which usually Companymans write in their daily drilling reports",
+        "شروع عملیات راندن ابزار یا وسیله ای خاص",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Run, actions or job's abbreviations which usually Companymans write in their daily drilling reports, but mostly use capital letters",
+        "معمولا با حروف بزرگ نوشته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "running",
+      "Meanings": [
+        "Rng",
+        "شروع عملیات راندن ابزار یا وسیله ای خاص",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "running tools",
+      "Meanings": [
+        "Specialized tools used to run equipment in a well, such as a",
+        "wireline running tool for installing retrievable gas lift valves. Various tubing",
+        "type running tools are also used"
+      ]
+    },
+    {
+      "EnglishWord": "rup",
+      "Meanings": [
+        "برپا نمودن پمپ‌های گل حفاری جهت شروع عملیات حفاری",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Rigging Up Pump"
+      ]
+    },
+    {
+      "EnglishWord": "rur",
+      "Meanings": [
+        "Rigging Up Rotary"
+      ]
+    },
+    {
+      "EnglishWord": "rust",
+      "Meanings": [
+        "بر پا نمودن ابزار استاندارد جهت شروع عملیات",
+        "اختصار آن در مورد عملیاتی بکار می‌رود که",
+        "در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Rigging Up Standard Tools"
+      ]
+    },
+    {
+      "EnglishWord": "rw",
+      "Meanings": [
+        "Rotating Weight",
+        "وزن گل حفاری که در حال گردش در سیستم است",
+        "Time actually spent for Wiper Trips and Reaming including Short Trips, Reaming, Wiper Trip, etc., Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "rwa",
+      "Meanings": [
+        "RESISTIVITY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "rwrk",
+      "Meanings": [
+        "reworked"
+      ]
+    },
+    {
+      "EnglishWord": "rxn",
+      "Meanings": [
+        "reaction"
+      ]
+    }
+  ]
+}

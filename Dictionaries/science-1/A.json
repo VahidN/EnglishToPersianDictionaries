@@ -1,0 +1,7381 @@
+﻿{
+  "Group": "A",
+  "Entries": 998,
+  "Words": [
+    {
+      "EnglishWord": "a fortiori",
+      "Meanings": [
+        "به دلیل قوی تر",
+        "به طریق اولی"
+      ]
+    },
+    {
+      "EnglishWord": "a periori",
+      "Meanings": [
+        "مقدم بر تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "a posteriori",
+      "Meanings": [
+        "بعدی",
+        "پسین",
+        "از معلول به علت رسیده",
+        "حصولی",
+        "پس از تجربه",
+        "پسینی"
+      ]
+    },
+    {
+      "EnglishWord": "a posteriori probability",
+      "Meanings": [
+        "احتمال پسین"
+      ]
+    },
+    {
+      "EnglishWord": "a posteriori proposition",
+      "Meanings": [
+        "قضیه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "a priori",
+      "Meanings": [
+        "پیشین",
+        "قبلی",
+        "ماتقدم",
+        "مقدم بر",
+        "از پیشی",
+        "حضوری",
+        "علنا",
+        "بداهه",
+        "از علت به معلول رسیده",
+        "تجربه",
+        "مربوط به یا ناشی از استدلال قیاسی بر اساس اصول موضوع مفروض یا اصول به ظاهر بدیهی",
+        "بدون ارجاع به تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "a priori distribution",
+      "Meanings": [
+        "توزیع پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori estimate",
+      "Meanings": [
+        "برآورد پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori probability",
+      "Meanings": [
+        "احتمال پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori proposition",
+      "Meanings": [
+        "قضیه قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "ab initio",
+      "Meanings": [
+        "از آغاز",
+        "از ابتدا"
+      ]
+    },
+    {
+      "EnglishWord": "abac",
+      "Meanings": [
+        "نوموگرام"
+      ]
+    },
+    {
+      "EnglishWord": "abacus",
+      "Meanings": [
+        "جدول",
+        "منحنی آباک",
+        "آباک",
+        "چرتک",
+        "چرتکه",
+        "چتکه",
+        "وسیله ای برای انجام دادن چهار عمل اصلی",
+        "شامل قاب و میله هایی که از هریک مهره هایی گذرانیده شده و محاسبه با لغزاندن مهره‌ها بر روی میله‌ها انجام می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "abbreviate",
+      "Meanings": [
+        "مختصرکردن",
+        "خلاصه کردن",
+        "علامت اختصار به کار بردن"
+      ]
+    },
+    {
+      "EnglishWord": "abbreviation",
+      "Meanings": [
+        "اختصار",
+        "تلخیص",
+        "مخفف",
+        "مختصر"
+      ]
+    },
+    {
+      "EnglishWord": "abelian",
+      "Meanings": [
+        "آبلی",
+        "آبلین",
+        "جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "abelian domain",
+      "Meanings": [
+        "دامنه آبلی",
+        "کلمه مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "abelian extension",
+      "Meanings": [
+        "توسیع آبلی",
+        "نوعی توسیع گالوا که گروه گالوای آن آبلی است"
+      ]
+    },
+    {
+      "EnglishWord": "abelian field",
+      "Meanings": [
+        "میدان آبلی",
+        "مجموعه ای عناصر a, b, c, … که با دو عمل جمع و ضرب به عنوان عملهای گروه با ضابطه a b+c =ab+ac",
+        "تشکیل گروه‌های آبلی می‌دهند"
+      ]
+    },
+    {
+      "EnglishWord": "abelian free group",
+      "Meanings": [
+        "گروه آزاد آبلی"
+      ]
+    },
+    {
+      "EnglishWord": "abelian group",
+      "Meanings": [
+        "گروه آبلی",
+        "گروه جابجایی",
+        "گروهی که عمل دوتایی آن تعویض پذیر است. یعنی به ازای هر a و b در گروه",
+        "داشته باشیم ab=ba"
+      ]
+    },
+    {
+      "EnglishWord": "abelian operation",
+      "Meanings": [
+        "عمل آبلی",
+        "کلمه مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "abelian ring",
+      "Meanings": [
+        "حلقه آبلی",
+        "کلمه مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "abelian theorems",
+      "Meanings": [
+        "قضیه‌های آبلی",
+        "دسته ای از قضایا با این مضمون که اگر دنباله یا تابعی به طور منظم رفتار کند",
+        "آنگاه متوسطی از دنباله یا تابع به طور منظم رفتار می‌کند. نمونه‌های آن",
+        "قضیه آبل تعریف دوم و این حکم است که اگر دنباله ای به s همگرا باشد",
+        "آنگاه مجموع چزاروی آن موجود و برابر s است"
+      ]
+    },
+    {
+      "EnglishWord": "abelianize",
+      "Meanings": [
+        "آبلی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "abelianized",
+      "Meanings": [
+        "آبلی شده"
+      ]
+    },
+    {
+      "EnglishWord": "abel's inequality",
+      "Meanings": [
+        "نامساوی آبل",
+        "نابرابری آبل",
+        "این حکم که قدر مطلق مجموع n جمله که هر یک به شکل ab باشد و bها اعداد مثبتی باشند",
+        "بزرگتر از حاصلضرب بزرگترین b در بزرگترین قدرمطلق مجموعی جزیی از aها نیست"
+      ]
+    },
+    {
+      "EnglishWord": "abel's problem",
+      "Meanings": [
+        "مساله آبل",
+        "مساله ای که خواستار تعیین مسیر ذره ای است که فقط تحت تاثیر نیروی گرانش حرکت می‌کند و تابع ارتفاع",
+        "زمان آن باید از قانون خاصی تبعیت کند"
+      ]
+    },
+    {
+      "EnglishWord": "abel's test",
+      "Meanings": [
+        "آزمون آبل"
+      ]
+    },
+    {
+      "EnglishWord": "abel's theorem",
+      "Meanings": [
+        "قضیه آبل"
+      ]
+    },
+    {
+      "EnglishWord": "abnormal",
+      "Meanings": [
+        "غیر عادی",
+        "ناهنجار",
+        "نابهنجار",
+        "غیر نرمال آمار"
+      ]
+    },
+    {
+      "EnglishWord": "abnormal curve",
+      "Meanings": [
+        "منحنی غیرنرمال"
+      ]
+    },
+    {
+      "EnglishWord": "above",
+      "Meanings": [
+        "بالا"
+      ]
+    },
+    {
+      "EnglishWord": "abridge",
+      "Meanings": [
+        "مختصر کردن",
+        "خلاصه کردن",
+        "کوتاه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "abridged",
+      "Meanings": [
+        "مختصر",
+        "اختصاری"
+      ]
+    },
+    {
+      "EnglishWord": "abruptly",
+      "Meanings": [
+        "ناگهان"
+      ]
+    },
+    {
+      "EnglishWord": "abscissa",
+      "Meanings": [
+        "طول مختص",
+        "خفت",
+        "یکی از دو مختص در دستگاه مختصات دو بعدی",
+        "معمولا مختص افقی که با x نشان داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "absolute",
+      "Meanings": [
+        "مطلق",
+        "ثابت",
+        "آوند"
+      ]
+    },
+    {
+      "EnglishWord": "absolute asymptotic efficiency",
+      "Meanings": [
+        "کارآیی مجانبی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute constant",
+      "Meanings": [
+        "ثابت مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute continuity",
+      "Meanings": [
+        "پیوستگی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute convergence",
+      "Meanings": [
+        "همگرایی مطلق",
+        "تقارب مطلق",
+        "ویژگی یک سری نامتناهی یا حاصلضرب نامتناهی از اعداد حقیقی یا مختلط که سری یا حاصلضرب قدرمطلق جمله هایش همگرا باشد",
+        "همگرایی را نتیجه میدهد"
+      ]
+    },
+    {
+      "EnglishWord": "absolute convergence series",
+      "Meanings": [
+        "سری همگرای مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute coordinates",
+      "Meanings": [
+        "مختصات مطلق",
+        "مختصاتی که نسبت به یک نقطه ثابت مبدا مشخص می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "absolute derivation",
+      "Meanings": [
+        "مشتق گیری مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute deviation",
+      "Meanings": [
+        "انحراف مطلق",
+        "تفاوت یک مقدار متغیر و یک مقدار مفروض بدون توجه به علامت"
+      ]
+    },
+    {
+      "EnglishWord": "absolute error",
+      "Meanings": [
+        "خطای مطلق",
+        "قدرمطلق تفاضل بین یک نتیجه عددی تقریبی و نتیجه ای که فرض می‌شود دقیق است"
+      ]
+    },
+    {
+      "EnglishWord": "absolute extremum",
+      "Meanings": [
+        "فرینه مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute frequency",
+      "Meanings": [
+        "فراوانی مطلق",
+        "بسامد مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute frequency of event",
+      "Meanings": [
+        "فراوانی مطلق پیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "absolute geometry",
+      "Meanings": [
+        "هندسه مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute inequality",
+      "Meanings": [
+        "نابرابری مطلق",
+        "کلمه مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "absolute magnitude",
+      "Meanings": [
+        "بزرگی مطلق",
+        "اندازه مطلق",
+        "قدرمطلق یک عدد یا کمیت"
+      ]
+    },
+    {
+      "EnglishWord": "absolute maximum",
+      "Meanings": [
+        "ماکزیمم مطلق",
+        "بیشینه مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute maximum modulus principle",
+      "Meanings": [
+        "اصل کالبد ماکزیمم مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute mean deviation",
+      "Meanings": [
+        "انحراف میانگین مطلق",
+        "میانگین حسابی قدرمطلق‌های انحرافات یک متغیر از مقدار مورد انتظارش"
+      ]
+    },
+    {
+      "EnglishWord": "absolute minimum",
+      "Meanings": [
+        "مینیمم مطلق",
+        "کمینه مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute moment",
+      "Meanings": [
+        "گشتاور مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute number",
+      "Meanings": [
+        "عدد مطلق",
+        "عددی که با ارقام نمایش داده می‌شود نه با حروف"
+      ]
+    },
+    {
+      "EnglishWord": "absolute numbers",
+      "Meanings": [
+        "اعداد مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute retract",
+      "Meanings": [
+        "درون برد مطلق",
+        "فضایی توپولوژیک چون A به طوری که اگر B زیرمجموعه بسته ای از یک فضای توپولوژیک دیگر مانند C باشد",
+        "و اگر A با B همسانریخت باشد",
+        "آنگاه B یک درون برد C است"
+      ]
+    },
+    {
+      "EnglishWord": "absolute term of a polynomial",
+      "Meanings": [
+        "جمله ثابت چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "absolute value",
+      "Meanings": [
+        "قدر مطلق",
+        "ارزش مطلق",
+        "مقدار مطلق",
+        "ارج رها"
+      ]
+    },
+    {
+      "EnglishWord": "absolute value function",
+      "Meanings": [
+        "تابع قدر مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute value of a complex number",
+      "Meanings": [
+        "قدر مطلق یک عدد مختلط",
+        "مدول یک عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "absolute value of a sequence",
+      "Meanings": [
+        "قدر مطلق یک دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "absolute velocity",
+      "Meanings": [
+        "تندی رها"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely",
+      "Meanings": [
+        "به طور مطلق",
+        "مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely continuous",
+      "Meanings": [
+        "مطلقا پیوسته",
+        "پیوسته مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely continuous function",
+      "Meanings": [
+        "تابع مطلقا پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely continuous measure",
+      "Meanings": [
+        "اندازه مطلقا پیوسته",
+        "اندازه متناهی سیگمای m روی یک سیگماجبر نسبت به اندازه متناهی سیگمای دیگر n روی همان سیگماجبر مطلقا پیوسته است اگر هر عضو سیگماجبر که اندازه آن n آن صفر است اندازه mای برابر با صفر نیز داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely convergent",
+      "Meanings": [
+        "همگرای مطلق",
+        "متقارب مطلق",
+        "به طور مطلق همگرا",
+        "مطلقا همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely convergent series",
+      "Meanings": [
+        "سری همگرای مطلق",
+        "سری متقارب مطلق",
+        "رشته همگرای مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely convex set",
+      "Meanings": [
+        "مجموعه مطلقا کوژ"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely unbiased estimator",
+      "Meanings": [
+        "برآوردگر مطلقا نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbent",
+      "Meanings": [
+        "جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbent element",
+      "Meanings": [
+        "عنصر جذب کننده"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing",
+      "Meanings": [
+        "جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing markov chain",
+      "Meanings": [
+        "زنجیر مارکوف جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing subset",
+      "Meanings": [
+        "زیرمجموعه جاذب",
+        "زیرمجموعه ای چون A از یک فضای برداری به طوری که به ازای هر نقطه x یک عدد b بزرگتر از صفر وجود داشته باشد که هرگاه قدرمطلق a بزرگتر از صفر و کوچکتر از b باشد",
+        "ax عضوی از A باشد"
+      ]
+    },
+    {
+      "EnglishWord": "absorption",
+      "Meanings": [
+        "جذب",
+        "جذب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "absorption law",
+      "Meanings": [
+        "قانون جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption laws",
+      "Meanings": [
+        "قوانین جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption probability",
+      "Meanings": [
+        "احتمال جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption property",
+      "Meanings": [
+        "ویژگی جذب",
+        "در نظریه مجموعه‌ها یا در جبر بولی",
+        "این ویژگی که اجتماع یک مجموعه A با اشتراک A و هر مجموعه ای برابر با A باشد",
+        "یا این ویژگی که اشتراک A با اجتماع A و هر مجموعه ای برابر A باشد"
+      ]
+    },
+    {
+      "EnglishWord": "absorptive laws",
+      "Meanings": [
+        "قوانین جذب"
+      ]
+    },
+    {
+      "EnglishWord": "abstract",
+      "Meanings": [
+        "مجرد",
+        "انتزاعی فلسفه",
+        "مطلق",
+        "غیر مجسم",
+        "غیر محسوس",
+        "آهنجیده",
+        "برآهیخته",
+        "نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "abstract algebra",
+      "Meanings": [
+        "جبر مجرد",
+        "جبر انتزاعی",
+        "بررسی دستگاههایی ریاضی مرکب از مجموعه ای از عناصر",
+        "یک یا بیش از یک عمل دوتایی که به وسیله آنها بتوان دو عنصر را با هم ترکیب کرد تا عنصر سومی به دست آید",
+        "و چند قاعده اصل موضوع برای ارتباط عناصر و عمل ها",
+        "نظریه گروه ها",
+        "نظریه حلقه‌ها و نظریه اعداد از جمله مباحث آن است"
+      ]
+    },
+    {
+      "EnglishWord": "abstract element",
+      "Meanings": [
+        "عنصر مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "abstract integral",
+      "Meanings": [
+        "انتگرال مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "abstract l p space",
+      "Meanings": [
+        "فضای مجرد L‌"
+      ]
+    },
+    {
+      "EnglishWord": "abstract l-space",
+      "Meanings": [
+        "فضای مجرد L"
+      ]
+    },
+    {
+      "EnglishWord": "abstract mathematics",
+      "Meanings": [
+        "ریاضیات مجرد",
+        "ریاضیات محض",
+        "ریاضی مجرد",
+        "ریاضی آهنجیده"
+      ]
+    },
+    {
+      "EnglishWord": "abstract number",
+      "Meanings": [
+        "عدد مطلق",
+        "عدد مجرد",
+        "عدد انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "abstract set",
+      "Meanings": [
+        "مجموعه مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "abstract system",
+      "Meanings": [
+        "دستگاه مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "abstraction",
+      "Meanings": [
+        "تجرید",
+        "انتزاع فلسفه",
+        "آهنجش",
+        "انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "absurd",
+      "Meanings": [
+        "ممتنع منطق",
+        "گنگ هندسه",
+        "بی معنی",
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "absurd hypothesis",
+      "Meanings": [
+        "فرض خلف"
+      ]
+    },
+    {
+      "EnglishWord": "absurd relation",
+      "Meanings": [
+        "نسبت ممتنع",
+        "رابطه مزخرف"
+      ]
+    },
+    {
+      "EnglishWord": "absurd statement",
+      "Meanings": [
+        "حکم باطل"
+      ]
+    },
+    {
+      "EnglishWord": "absurdity",
+      "Meanings": [
+        "مزخرف",
+        "مزخرف بودن"
+      ]
+    },
+    {
+      "EnglishWord": "abundant",
+      "Meanings": [
+        "زاید عدد"
+      ]
+    },
+    {
+      "EnglishWord": "abundant number",
+      "Meanings": [
+        "عدد زاید زاید",
+        "عدد صحیح مثبتی که کوچکتر از مجموع همه مقسوم علیه‌های خود از جمله",
+        "به جز خودش است"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated",
+      "Meanings": [
+        "شتابدار",
+        "شتابی"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated life testing",
+      "Meanings": [
+        "آزمون عمر شتابیده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated motion",
+      "Meanings": [
+        "حرکت تندشونده",
+        "جنبش شتابی"
+      ]
+    },
+    {
+      "EnglishWord": "accelerating vector",
+      "Meanings": [
+        "بردار شتابان"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration",
+      "Meanings": [
+        "شتاب",
+        "شتاب تندی"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration of gravity",
+      "Meanings": [
+        "شتاب ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration vector",
+      "Meanings": [
+        "بردار شتاب"
+      ]
+    },
+    {
+      "EnglishWord": "acceptable quality level",
+      "Meanings": [
+        "سطح کیفیت پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance",
+      "Meanings": [
+        "پذیرش",
+        "قبولی",
+        "تصویب"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance error",
+      "Meanings": [
+        "خطای پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance number",
+      "Meanings": [
+        "عدد پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance process level",
+      "Meanings": [
+        "سطح پذیرش فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance process zone",
+      "Meanings": [
+        "منطقه پذیرش فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance region",
+      "Meanings": [
+        "ناحیه قبول"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance sampling",
+      "Meanings": [
+        "نمونه گیری برای پذیرش",
+        "نمونه گیری معتبر",
+        "نمونه‌گیری پذیرشی"
+      ]
+    },
+    {
+      "EnglishWord": "acceptation",
+      "Meanings": [
+        "پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "accessibility condition",
+      "Meanings": [
+        "شرط دسترس پذیری",
+        "این شرط که",
+        "به هر حالت یک زنجیر مارکوف متناهی بتوان از هر حالت دیگر دست یافت"
+      ]
+    },
+    {
+      "EnglishWord": "accessory",
+      "Meanings": [
+        "فرعی",
+        "همدست",
+        "مازاد پارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "accident",
+      "Meanings": [
+        "حادثه",
+        "واقعه",
+        "تصادف",
+        "پیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "accidental",
+      "Meanings": [
+        "تصادفی",
+        "اتفاقی",
+        "صدمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "accmulation point",
+      "Meanings": [
+        "نقطه انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "account",
+      "Meanings": [
+        "حساب"
+      ]
+    },
+    {
+      "EnglishWord": "accounting",
+      "Meanings": [
+        "حساب",
+        "محاسبه",
+        "حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "accretive operator",
+      "Meanings": [
+        "عملگر افزاینده",
+        "عملگری خطی چون T که بر زیر فضایی مانند D از یک فضای هیلبرت تعریف می‌شود و در شرط زیر صدق می‌کند",
+        "قسمت حقیقی حاصلضرب داخلی Tu در u",
+        "به ازای هر uی متعلق به D",
+        "نامنفی است"
+      ]
+    },
+    {
+      "EnglishWord": "accummulation",
+      "Meanings": [
+        "انباشتگی",
+        "تجمع",
+        "انبوهی",
+        "توده"
+      ]
+    },
+    {
+      "EnglishWord": "accumulate",
+      "Meanings": [
+        "انباشتن",
+        "تجمع",
+        "جمع شدن",
+        "جمع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "accumulation point",
+      "Meanings": [
+        "نقطه اجتماع",
+        "نقطه تجمع",
+        "نقطه حدی",
+        "نقطه انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "accumulative error",
+      "Meanings": [
+        "خطای تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "accumulator",
+      "Meanings": [
+        "انباشتگر"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy",
+      "Meanings": [
+        "دقت",
+        "درستی آمار",
+        "صحت"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy  in neyman's sense",
+      "Meanings": [
+        "درستی به تعبیر نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "accurate",
+      "Meanings": [
+        "دقیق",
+        "درست آمار",
+        "صحیح",
+        "تحقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "ace",
+      "Meanings": [
+        "تکخال"
+      ]
+    },
+    {
+      "EnglishWord": "acnode",
+      "Meanings": [
+        "نقطه مزدوج خم‌ها",
+        "نقطه منفرد",
+        "نقطه مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "acoustical",
+      "Meanings": [
+        "صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "act",
+      "Meanings": [
+        "اثر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "action",
+      "Meanings": [
+        "عمل",
+        "اقدام",
+        "کنش",
+        "واکنش",
+        "فعالیت",
+        "هم کنش",
+        "تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "action of a group",
+      "Meanings": [
+        "عمل یک گروه",
+        "کنش یک گروه"
+      ]
+    },
+    {
+      "EnglishWord": "activity level",
+      "Meanings": [
+        "سطح فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "actual value",
+      "Meanings": [
+        "ارزش حقیقی",
+        "مقدار حقیقی",
+        "ارزش واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "actuarial statistics",
+      "Meanings": [
+        "بیمه آمار"
+      ]
+    },
+    {
+      "EnglishWord": "actuary",
+      "Meanings": [
+        "بیمه‌آمار",
+        "بیمه‌آمارشناس"
+      ]
+    },
+    {
+      "EnglishWord": "acute",
+      "Meanings": [
+        "تند",
+        "حاده",
+        "حاد الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "acute angle",
+      "Meanings": [
+        "زاویه حاده",
+        "زاویه تند",
+        "زاویه ای است کوچکتر از 90 درجه و بزرگتر از 0 درجه"
+      ]
+    },
+    {
+      "EnglishWord": "acute angle triangle",
+      "Meanings": [
+        "مثلث با زاویه‌های حاده",
+        "مثلثی که هریک از زاویه‌های آن کمتر از 90 درجه است"
+      ]
+    },
+    {
+      "EnglishWord": "acute angled triangle",
+      "Meanings": [
+        "مثلث حاد الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "acute triangle",
+      "Meanings": [
+        "مثلث حاده",
+        "مثلث تند",
+        "مثلثی که هر یک از زاویه هایش کوچکتر از 90 درجه است"
+      ]
+    },
+    {
+      "EnglishWord": "acuteness",
+      "Meanings": [
+        "تندی",
+        "حدت"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic",
+      "Meanings": [
+        "نادوری",
+        "غیر دوری",
+        "بی دور",
+        "تبدیلی از یک مجموعه به خودش که در آن هیچ توان ناصفری یک عنصر را ثابت نگه نمی‌دارد",
+        "مجتمعی زنجیری که همه گروه‌های هومولوژی آن بدیهی اند"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic digraph",
+      "Meanings": [
+        "گراف سو دار بی دور",
+        "گراف سو داری که هیچ دور سو داری ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic graph",
+      "Meanings": [
+        "گراف بی دور",
+        "گرافی که هیچ دوری ندارد",
+        "کلمه مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "acyue acyclic graph",
+      "Meanings": [
+        "گراف غیر دوری"
+      ]
+    },
+    {
+      "EnglishWord": "ad",
+      "Meanings": [
+        "مخفف کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "ad absurdum statement",
+      "Meanings": [
+        "برهان خلف",
+        "قیاس خلف",
+        "گزاره خلف"
+      ]
+    },
+    {
+      "EnglishWord": "ad infinitum",
+      "Meanings": [
+        "به همین ترتیب تا بی نهایت",
+        "به سمت بی نهایت",
+        "بی نهایت",
+        "تا بی نهایت",
+        "الی آخر"
+      ]
+    },
+    {
+      "EnglishWord": "adams bashforth process",
+      "Meanings": [
+        "فرایند آدامز",
+        "بشفرت",
+        "روشی برای انتگرال گیری عددی از یک معادله دیفرانسیل به شکل dy/dx =f x, y",
+        "که در آن یکی از فرمولهای درون یابی گرگوری برای بسط f به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive",
+      "Meanings": [
+        "سازگار",
+        "تطبیق‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive integration",
+      "Meanings": [
+        "انتگرال گیری تطبیقی",
+        "روشی عددی برای محاسبه انتگرال معین تابعی که همواری یا ناهمواری اش مشخص نیست",
+        "با درجه دلخواهی از دقت",
+        "در این روش نقاط تقسیم بازه انتگرال گیری با توجه به شکل تابع تعیین می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive method",
+      "Meanings": [
+        "روش سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive sampling",
+      "Meanings": [
+        "نمونه‌گیری سازوار",
+        "نمونه‌گیری تطبیق‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive sequential procedure",
+      "Meanings": [
+        "شیوه دنباله‌ای سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "add",
+      "Meanings": [
+        "جمع کردن",
+        "اضافه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "addend",
+      "Meanings": [
+        "عامل جمع",
+        "مضاعف",
+        "عدد افزوده",
+        "افزودنی",
+        "جمع‌وند",
+        "هریک از عوامل جمع",
+        "هریک از اعداد یا مقادیری که با هم جمع می‌شوند",
+        "مثلا در عمل 29=8+4+17 هریک از اعداد 4 و 8 و 17 یک عامل جمع هستند"
+      ]
+    },
+    {
+      "EnglishWord": "adder",
+      "Meanings": [
+        "افزاینده",
+        "جمع کننده",
+        "افزایشگر"
+      ]
+    },
+    {
+      "EnglishWord": "adding new activity",
+      "Meanings": [
+        "افزودن فعالیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "adding new constraint",
+      "Meanings": [
+        "افزودن محدودیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "addition",
+      "Meanings": [
+        "جمع",
+        "جمع کردن",
+        "عملی که دو عضو یک مجموعه به وسیله آن با هم ترکیب می‌شوند و عضو سومی به دست می‌آید",
+        "نماد آن + است",
+        "معمولا به عمل در یک گروه آبلی یا عمل گروه در یک حلقه یا فضای برداری اطلاق می‌شود",
+        "ترکیب کمیت‌های مختلط به نحوی که قسمت‌های حقیقی آنها باهم و قسمت‌های موهومی آنها باهم جمع می‌شوند",
+        "ترکیب بردارها به شیوه ای مشخص",
+        "مثلا با جمع جبری مولفه‌های متناظر بردارها یا با تشکیل ضلع سوم مثلثی که هر یک از دو ضلع دیگر آن نشان دهنده یک بردار است",
+        "کلمه مترادف",
+        "composition"
+      ]
+    },
+    {
+      "EnglishWord": "addition formula",
+      "Meanings": [
+        "فرمول جمع",
+        "رابطه ای که تابعی از مجموع دو کمیت را برحسب توابعی از خود آن کمیت‌ها بیان می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "addition law",
+      "Meanings": [
+        "قانون جمع"
+      ]
+    },
+    {
+      "EnglishWord": "addition matrices",
+      "Meanings": [
+        "جمع ماتریس ها"
+      ]
+    },
+    {
+      "EnglishWord": "addition of matrices",
+      "Meanings": [
+        "جمع ماتریس ها"
+      ]
+    },
+    {
+      "EnglishWord": "addition of two polynomial functions",
+      "Meanings": [
+        "جمع دو تابع چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "addition of vectors",
+      "Meanings": [
+        "جمع بردارها"
+      ]
+    },
+    {
+      "EnglishWord": "addition principle",
+      "Meanings": [
+        "اصل جمع",
+        "قضیه جمع احتمالات"
+      ]
+    },
+    {
+      "EnglishWord": "addition rule",
+      "Meanings": [
+        "قاعده جمع"
+      ]
+    },
+    {
+      "EnglishWord": "addition sign",
+      "Meanings": [
+        "علامت جمع",
+        "نماد + که برای نشان دادن عمل جمع به کار می‌رود",
+        "کلمه مترادف",
+        "plus sign"
+      ]
+    },
+    {
+      "EnglishWord": "addition table",
+      "Meanings": [
+        "جدول جمع"
+      ]
+    },
+    {
+      "EnglishWord": "addition theorem",
+      "Meanings": [
+        "قضیه جمع"
+      ]
+    },
+    {
+      "EnglishWord": "additive",
+      "Meanings": [
+        "جمعی",
+        "جمع پذیر",
+        "اضافی",
+        "افزایشی",
+        "مربوط به جمع. خاصیتی از یک فرایند که طبق آن",
+        "نموهای متغیر وابسته به ازای بازه‌های ناهمپوشی از متغیر مستقل",
+        "مستقل اند"
+      ]
+    },
+    {
+      "EnglishWord": "additive constant",
+      "Meanings": [
+        "مقدار ثابت افزودنی"
+      ]
+    },
+    {
+      "EnglishWord": "additive function",
+      "Meanings": [
+        "تابع جمع پذیر",
+        "تابع اضافی",
+        "تابع جمعی",
+        "هر تابع f که جمع را حفظ کند یعنی",
+        "f x+y =f x +f y"
+      ]
+    },
+    {
+      "EnglishWord": "additive group",
+      "Meanings": [
+        "گروه جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive group of rational numbers",
+      "Meanings": [
+        "گروه جمعی اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "additive identity",
+      "Meanings": [
+        "ععضو خنثی در جمع",
+        "همانی جمعی",
+        "در دستگاهی ریاضی مجهز به یک عمل جمع که با + نشان داده می‌شود",
+        "عنصر 0 به نحوی که به ازای هر عنصر e متعلق به دستگاه داشته باشیم e=e+0=0+e"
+      ]
+    },
+    {
+      "EnglishWord": "additive inverse",
+      "Meanings": [
+        "عضو معکوس در جمع",
+        "عنصر متقارن",
+        "قرینه جمعی",
+        "قرینه",
+        "وارون جمعی",
+        "در دستگاهی ریاضی مجهز به یک عمل جمع که با + نشان داده می‌شود",
+        "وارون جمعی عنصری چون e عنصر",
+        "e است به نحوی که e+",
+        "e =",
+        "e +e=0 که در آن 0 همانی جمعی است"
+      ]
+    },
+    {
+      "EnglishWord": "additive law",
+      "Meanings": [
+        "قانون جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive measure",
+      "Meanings": [
+        "اندازه جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive model",
+      "Meanings": [
+        "مدل جمع‌پذیر",
+        "مدل جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive nature",
+      "Meanings": [
+        "خصوصیت جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive notation",
+      "Meanings": [
+        "نماد جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive property",
+      "Meanings": [
+        "خاصیت جمع پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "additive risk model",
+      "Meanings": [
+        "مدل مخاطره جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive set function",
+      "Meanings": [
+        "تابع مجموعه ای جمعی",
+        "تابعی مجموعه ای با این ویژگی‌ها که",
+        "اجتماع هر دو مجموعه در برد تابع",
+        "خود در برد تابع باشد",
+        "مقدار تابع به ازای یک اجتماع متناهی از مجموعه‌های مجزا در برد تابع مجموعه ای",
+        "برابر با مجموع مقادیر به ازای هر یک از مجموعه‌های واقع در اجتماع باشد",
+        "کلمه مترادف",
+        "finitely additive set function"
+      ]
+    },
+    {
+      "EnglishWord": "additivity",
+      "Meanings": [
+        "ویژگی جمع‌پذیری",
+        "خاصیت جمع‌پذیری",
+        "خاصیت جمعی",
+        "جمعی بودن",
+        "جمع‌پذیری",
+        "ویژگی جمعی",
+        "جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additivity assumption",
+      "Meanings": [
+        "فرض جمع پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "adequate sample",
+      "Meanings": [
+        "نمونه کافی"
+      ]
+    },
+    {
+      "EnglishWord": "adhere",
+      "Meanings": [
+        "چسبیدن",
+        "دوسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "adherence",
+      "Meanings": [
+        "چسبیدگی",
+        "دوسند",
+        "چسبندگی",
+        "غشای چسبندگی",
+        "آدرانس",
+        "دوسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "adherent",
+      "Meanings": [
+        "چسبیده",
+        "دوسیده",
+        "آدران"
+      ]
+    },
+    {
+      "EnglishWord": "adherent point",
+      "Meanings": [
+        "نقطه چسبیده",
+        "برای مجموعه ای در یک فضای توپولوژیک",
+        "نقطه ای که",
+        "یا عضوی از آن مجموعه و یا یک نقطه انباشتگی مجموعه باشد"
+      ]
+    },
+    {
+      "EnglishWord": "adhesion",
+      "Meanings": [
+        "چسبیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacence",
+      "Meanings": [
+        "نزدیکی",
+        "مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency",
+      "Meanings": [
+        "مجاورت",
+        "همجواری"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency matrix",
+      "Meanings": [
+        "ماترس مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency structure",
+      "Meanings": [
+        "ساختار مجاورت",
+        "برای هر راس یک گراف",
+        "فهرست تمام راس‌های مجاور آن"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent",
+      "Meanings": [
+        "مجاور",
+        "همجوار",
+        "نزدیک",
+        "هم پهلو"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent angles",
+      "Meanings": [
+        "زاویه‌های مجانب",
+        "زاویه‌های مجاور هم",
+        "دو زاویه را وقتی مجانب گوییم که راس و یک ضلع آنها مشترک باشد و اضلاع دیگرشان در دو طرف ضلع مشترک و بر یک خط راست قرار داشته باشند مجموعا 180درجه",
+        "زاویه مجاور: هر یک از دو زاویه که یک ضلع مشترک و راس مشترک دارند و در دو طرف ضلع مشترک واقع اند"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent bases",
+      "Meanings": [
+        "پایه‌های مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent extreme directions",
+      "Meanings": [
+        "جهت‌های راسی مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent extreme points",
+      "Meanings": [
+        "نقاط راسی مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent side",
+      "Meanings": [
+        "ضلع مجاور",
+        "برای راسی از یک چندضلعی",
+        "هر یک از ضلع‌های چندضلعی که به آن راس ختم می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent supplementary angles",
+      "Meanings": [
+        "زوایای مجانب مکمل",
+        "زوایای مکمل مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adjoin",
+      "Meanings": [
+        "وصل کردن",
+        "ضمیمه کردن",
+        "ملحق کردن",
+        "منضم کردن",
+        "الحاق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "adjoined",
+      "Meanings": [
+        "وابسته",
+        "الحاقی",
+        "ضمیمه",
+        "ملحق"
+      ]
+    },
+    {
+      "EnglishWord": "adjoined determinant",
+      "Meanings": [
+        "دترمینان الحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "adjoined number",
+      "Meanings": [
+        "عدد الحاقی",
+        "عدد z ای که به یک میدان اعداد F افزوده می‌شود تا میدان جدیدی تشکیل گردد مرکب از همه اعدادی که می‌توان با اعمال جمع",
+        "تفریق",
+        "ضرب",
+        "و تقسیم از z و اعداد موجود در F به دست آورد"
+      ]
+    },
+    {
+      "EnglishWord": "adjoining",
+      "Meanings": [
+        "الحاق",
+        "متصل",
+        "مجاور",
+        "پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "adjoining a square root to a ring",
+      "Meanings": [
+        "الحاق یک جذر به یک حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "adjoint",
+      "Meanings": [
+        "الحاقی",
+        "همال",
+        "بروسته",
+        "معاون",
+        "پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "adjoint matrix",
+      "Meanings": [
+        "ماتریس الحاقی",
+        "مزدوج ماتریس",
+        "ماتریس همال"
+      ]
+    },
+    {
+      "EnglishWord": "adjoint operator",
+      "Meanings": [
+        "عامل آدژوین",
+        "عملگر الحاقی",
+        "عملگری چون B به نحوی که حاصلضرب‌های داخلی Ax, y و x, By به ازای عملگر مفروضی مانند A و به ازای همه عناصر x و y از یک فضای هیلبرت برابر باشند"
+      ]
+    },
+    {
+      "EnglishWord": "adjoint transformation",
+      "Meanings": [
+        "تبدیل وابسته",
+        "تبدیل آدژوین"
+      ]
+    },
+    {
+      "EnglishWord": "adjoint vector space",
+      "Meanings": [
+        "فضای برداری الحاقی",
+        "فضای برداری نرم دار کاملی مرکب از رده ای از توابع اسکالر همگن خطی کراندار که بر یک فضای برداری نرم دار تعریف شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "adjugate",
+      "Meanings": [
+        "متمم",
+        "همال",
+        "در مورد ماتریسی چون A",
+        "ماتریسی که اگر به جای هر درایه A همسازه درایه ترانهاده آن قرار بگیرد",
+        "به دست می‌آید",
+        "کلمه مترادف",
+        "adjoint of a matrix"
+      ]
+    },
+    {
+      "EnglishWord": "adjugate matrix",
+      "Meanings": [
+        "ماتریس مزدوج",
+        "ماتریس وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "adjunction",
+      "Meanings": [
+        "الحاق",
+        "پیوست",
+        "افزایش"
+      ]
+    },
+    {
+      "EnglishWord": "adjunction of roots",
+      "Meanings": [
+        "الحاق ریشه ها"
+      ]
+    },
+    {
+      "EnglishWord": "adjunction space",
+      "Meanings": [
+        "فضای الحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "adjust",
+      "Meanings": [
+        "تعدیل کردن",
+        "میزان کردن",
+        "مطابق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "adjusted",
+      "Meanings": [
+        "تطبیق شده"
+      ]
+    },
+    {
+      "EnglishWord": "adjustment",
+      "Meanings": [
+        "تعدیل",
+        "تطبیق",
+        "تنظیم",
+        "آرازش"
+      ]
+    },
+    {
+      "EnglishWord": "admissibility",
+      "Meanings": [
+        "قابلیت قبول"
+      ]
+    },
+    {
+      "EnglishWord": "admissible",
+      "Meanings": [
+        "مجاز",
+        "پذیرفتنی",
+        "قابل قبول",
+        "شایسته"
+      ]
+    },
+    {
+      "EnglishWord": "admissible decision function",
+      "Meanings": [
+        "تابع تصمیم پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible estimator",
+      "Meanings": [
+        "برآوردگر پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible function",
+      "Meanings": [
+        "تابع پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible hypothesis",
+      "Meanings": [
+        "فرض پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible lattice",
+      "Meanings": [
+        "مشبکه پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible range",
+      "Meanings": [
+        "میدان مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "admissible rule",
+      "Meanings": [
+        "قاعده قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "admissible sequence",
+      "Meanings": [
+        "دنباله پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible subset",
+      "Meanings": [
+        "زیرمجموعه پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible value",
+      "Meanings": [
+        "مقدار قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "admit roots",
+      "Meanings": [
+        "ریشه پذیرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "advanced",
+      "Meanings": [
+        "پیشرفته"
+      ]
+    },
+    {
+      "EnglishWord": "advanced analysis",
+      "Meanings": [
+        "آنالیز پیشرفته",
+        "آنالیز عالی"
+      ]
+    },
+    {
+      "EnglishWord": "affimative",
+      "Meanings": [
+        "موجب گزاره",
+        "مثبت",
+        "کلمه اثبات"
+      ]
+    },
+    {
+      "EnglishWord": "affimative particular proposition",
+      "Meanings": [
+        "قضیه موجبه جزییه"
+      ]
+    },
+    {
+      "EnglishWord": "affimative proposition",
+      "Meanings": [
+        "گزاره موجب",
+        "قضیه موجب"
+      ]
+    },
+    {
+      "EnglishWord": "affimative sentence",
+      "Meanings": [
+        "گزاره موجب"
+      ]
+    },
+    {
+      "EnglishWord": "affimative statement",
+      "Meanings": [
+        "گزاره موجب"
+      ]
+    },
+    {
+      "EnglishWord": "affimative universal proposition",
+      "Meanings": [
+        "قضیه موجبه کلیه"
+      ]
+    },
+    {
+      "EnglishWord": "affine",
+      "Meanings": [
+        "مستوی",
+        "آفین"
+      ]
+    },
+    {
+      "EnglishWord": "affine basis",
+      "Meanings": [
+        "پایه مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine chian",
+      "Meanings": [
+        "زنجیر مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine combination",
+      "Meanings": [
+        "ترکیب آفین"
+      ]
+    },
+    {
+      "EnglishWord": "affine connection",
+      "Meanings": [
+        "ارتباط مستوی",
+        "همبستگی خویشاوند",
+        "همبندش مستوی",
+        "ارتباط آفین",
+        "هموستار آفین",
+        "هموستار همگر",
+        "ساختاری روی یک فضای n بعدی که به ازای هر جفت نقطه همسایه P و Q قاعده ای مشخص می‌کند که بنابر آن",
+        "بردار معینی در Q به هر بردار در P وابسته می‌شود",
+        "این دو بردار را موازی گویند"
+      ]
+    },
+    {
+      "EnglishWord": "affine coordinates",
+      "Meanings": [
+        "مختصات مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine equivalence",
+      "Meanings": [
+        "هم ارزی مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine geometry",
+      "Meanings": [
+        "هندسه آفین",
+        "هندسه مستوی",
+        "هندسه همگر",
+        "مطالعه هندسه با استفاده از روش‌های جبرخطی"
+      ]
+    },
+    {
+      "EnglishWord": "affine group",
+      "Meanings": [
+        "گروه مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine hjelmslev plane",
+      "Meanings": [
+        "صفحه آفین یلمسلو",
+        "تعمیمی از یک صفحه آفین که در آن بیش از یک خط می‌تواند از دو نقطه متمایز بگذرد",
+        "کلمه مترادف",
+        "Hjelmslev plane"
+      ]
+    },
+    {
+      "EnglishWord": "affine line",
+      "Meanings": [
+        "خط مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine linear variety",
+      "Meanings": [
+        "واریته خطی مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine mapping",
+      "Meanings": [
+        "نگاشت مستوی",
+        "نمود مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine plane",
+      "Meanings": [
+        "صفحه آفین",
+        "صفحه همگر",
+        "در هندسه تصویری",
+        "صفحه ای که در آن",
+        "هر دو نقطه روی دقیقا یک خط واقع اند",
+        "اگر p و L به ترتیب نقطه و خط مفروضی باشند که p بر L واقع نباشد",
+        "آنگاه دقیقا یک خط وجود دارد که از p می‌گذرد و L را قطع نمی‌کند",
+        "سه نقطه غیرواقع بر یک خط وجود دارند"
+      ]
+    },
+    {
+      "EnglishWord": "affine reference",
+      "Meanings": [
+        "چارچوب آفین"
+      ]
+    },
+    {
+      "EnglishWord": "affine simplex",
+      "Meanings": [
+        "سادک مستوی"
+      ]
+    },
+    {
+      "EnglishWord": "affine space",
+      "Meanings": [
+        "فضای مستوی",
+        "فضای آفین",
+        "فضای همگر",
+        "یک فضای برداری n بعدی که یک هموستار آفین روی آن تعریف شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "affine subspace",
+      "Meanings": [
+        "زیرفضای آفین"
+      ]
+    },
+    {
+      "EnglishWord": "affine transformation",
+      "Meanings": [
+        "تبدیل مستوی",
+        "تبدیل آفین",
+        "تبدیل همگر",
+        "تابعی از یک فضای خطی به خودش",
+        "که مجموع یک تبدیل خطی و یک بردار ثابت است"
+      ]
+    },
+    {
+      "EnglishWord": "affinity",
+      "Meanings": [
+        "تبدیل آفین"
+      ]
+    },
+    {
+      "EnglishWord": "affirmation",
+      "Meanings": [
+        "تصدیق",
+        "اظهار",
+        "ایجاب",
+        "تایید",
+        "اثبات"
+      ]
+    },
+    {
+      "EnglishWord": "affirmative action choice",
+      "Meanings": [
+        "خط مشی تاثیر مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "affix",
+      "Meanings": [
+        "نگار",
+        "نشان دادن",
+        "نشان کردن",
+        "علامت گذاشتن",
+        "ضمیمه کردن",
+        "چسباندن",
+        "آفیکس",
+        "همزاد"
+      ]
+    },
+    {
+      "EnglishWord": "affluence and poverty indexes",
+      "Meanings": [
+        "شاخص‌های غنا و فقر"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate",
+      "Meanings": [
+        "کوت",
+        "کوده",
+        "مجموعه",
+        "دسته",
+        "جمع شده",
+        "مبلغ کل",
+        "آگرگا",
+        "توده",
+        "انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate an expression in parentheses",
+      "Meanings": [
+        "یک عبارت را بین پرانتز نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate index numbers",
+      "Meanings": [
+        "اعداد شاخص کل"
+      ]
+    },
+    {
+      "EnglishWord": "aggregation",
+      "Meanings": [
+        "اجتماع",
+        "تجمع",
+        "انبوهش"
+      ]
+    },
+    {
+      "EnglishWord": "aggregative model",
+      "Meanings": [
+        "مدل انبوهشی"
+      ]
+    },
+    {
+      "EnglishWord": "agree",
+      "Meanings": [
+        "توافق کردن دو حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "agreement",
+      "Meanings": [
+        "توافق"
+      ]
+    },
+    {
+      "EnglishWord": "aim of a mapping",
+      "Meanings": [
+        "نتیجه یک مطابقه"
+      ]
+    },
+    {
+      "EnglishWord": "air quality problem",
+      "Meanings": [
+        "مساله کیفیت هوا"
+      ]
+    },
+    {
+      "EnglishWord": "aircraft assignment problem",
+      "Meanings": [
+        "مساله تخصیص هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "airy",
+      "Meanings": [
+        "آیری",
+        "G. B"
+      ]
+    },
+    {
+      "EnglishWord": "airy body",
+      "Meanings": [
+        "شکل هوایی",
+        "هشت وجهی منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "airy function",
+      "Meanings": [
+        "تابع ایری",
+        "هر یک از جوابهای معادله دیفرانسیل ایری"
+      ]
+    },
+    {
+      "EnglishWord": "ajar",
+      "Meanings": [
+        "نیم باز"
+      ]
+    },
+    {
+      "EnglishWord": "akaike's criterion",
+      "Meanings": [
+        "ملاک آکاییک"
+      ]
+    },
+    {
+      "EnglishWord": "aleatory",
+      "Meanings": [
+        "کتره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "aleatory variable",
+      "Meanings": [
+        "متغیر کتره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "aleph",
+      "Meanings": [
+        "الف"
+      ]
+    },
+    {
+      "EnglishWord": "aleph identity",
+      "Meanings": [
+        "اتحاد الف"
+      ]
+    },
+    {
+      "EnglishWord": "aleph nought",
+      "Meanings": [
+        "الف صفر"
+      ]
+    },
+    {
+      "EnglishWord": "aleph null",
+      "Meanings": [
+        "الف صفر",
+        "عدد اصلی هر مجموعه ای که بتوان آن را در تناظر یک به یک با مجموعه اعداد صحیح مثبت قرار داد",
+        "کلمه مترادف",
+        "aleph zero"
+      ]
+    },
+    {
+      "EnglishWord": "aleph one",
+      "Meanings": [
+        "الف یک",
+        "کوچکترین عدد اصلی که بزرگتر از الف صفر است"
+      ]
+    },
+    {
+      "EnglishWord": "aleph zero",
+      "Meanings": [
+        "الف صفر"
+      ]
+    },
+    {
+      "EnglishWord": "alexander's subbase theorem",
+      "Meanings": [
+        "قضیه زیرپایه الکساندر",
+        "قضیه ای حاکی از اینکه یک فضای توپولوژیک",
+        "فشرده است اگروتنهااگر توپولوژی آن زیرپایه ای با این ویژگی داشته باشد که هر مجموعه ای که در اجتماع گردآیه ای از اعضای آن زیرپایه واقع است",
+        "در اجتماع تعدادی متناهی از اعضای متناهی از اعضای این گردآیه قرار داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "alexandroff compactification",
+      "Meanings": [
+        "فشرده سازی الکساندروف"
+      ]
+    },
+    {
+      "EnglishWord": "algebra",
+      "Meanings": [
+        "جبر",
+        "جبر و مقابله",
+        "مجموعه دارای ساختمان جبری",
+        "ساختمان جبری",
+        "روشی برای حل مسایل عملی با استفاده از نمادها معمولا حروف برای نمایش کمیتهای مجهول",
+        "بررسی عملیات صوری روی معادلاتی شامل نمادها و اعداد",
+        "یک دستگاه ریاضی مجرد",
+        "مرکب از فضایی برداری همراه با یک عمل ضرب که دو بردار را به وسیله آن می‌توان ترکیب کرد و بردار سومی به دست آورد",
+        "و چند اصل موضوع که این ضرب را به جمع برداری و ضرب اسکالر مربوط می‌سازد",
+        "کلمه مترادف",
+        "hypercomplex system"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of events",
+      "Meanings": [
+        "جبر پیشامدها",
+        "جبر حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of logic",
+      "Meanings": [
+        "جبر منطق"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of o symblos",
+      "Meanings": [
+        "جبر o ها"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of propositions",
+      "Meanings": [
+        "جبر گزاره ها"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of sets",
+      "Meanings": [
+        "جبر مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of simplex method",
+      "Meanings": [
+        "جبر روش سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of subsets",
+      "Meanings": [
+        "جبر زیرمجموعه ها",
+        "جبری از زیرمجموعه‌های یک مجموعه S",
+        "خانواده ای از زیرمجموعه‌های S است که شامل مجموعه تهی",
+        "متمم هر یک از اعضا نسبت به S",
+        "و اجتماع هر دو عضو آن است"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of treatments",
+      "Meanings": [
+        "جبر تیمارها"
+      ]
+    },
+    {
+      "EnglishWord": "algebra parametrical representation",
+      "Meanings": [
+        "نمایش پارامتری جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebra with identity",
+      "Meanings": [
+        "جبر مجهز به همانی",
+        "جبری دارای عنصری مخالف 0 که با 1 نشان داده می‌شود به نحوی که به ازای هر عنصر x در آن جبر داریم: x=1x=x"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic",
+      "Meanings": [
+        "جبری",
+        "مربوط به جبر"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic addition",
+      "Meanings": [
+        "جمع جبری",
+        "جمع کمیتهای جبری به این معنی که جمع کردن یک کمیت منفی با تفریق کردن یک کمیت مثبت",
+        "یکی است"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic calculus",
+      "Meanings": [
+        "حساب جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic closure",
+      "Meanings": [
+        "بربست جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic closure of a feild",
+      "Meanings": [
+        "بستار جبری یک میدان",
+        "یک میدان توسیعی جبری که هیچ توسیع جبری بجز خودش ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic composition",
+      "Meanings": [
+        "ترکیب جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic curve",
+      "Meanings": [
+        "منحنی جبری",
+        "خم جبری",
+        "مجموعه نقاطی در یک صفحه که در یک معادله چندجمله ای دو متغیره صدق کنند",
+        "به طور کلی",
+        "مجموعه نقاطی در فضای n بعدی که در یک معادله چندجمله ای n متغیره صدق کنند"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic derivation",
+      "Meanings": [
+        "انحراف جبری",
+        "تفاضل بین یک متغیر و یک مقدار مفروض",
+        "که مثبت به شمار می‌آید اگر آن متغیر بزرگتر از مقدار مفروض باشد و منفی است اگر کوچکتر باشد"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic derivative",
+      "Meanings": [
+        "مشتق جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic equation",
+      "Meanings": [
+        "معادله جبری",
+        "معادله ای که از برابر قرار دادن صفر با یک عبارت جبری به دست می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic expression",
+      "Meanings": [
+        "عبارت جبری",
+        "عبارتی که از اجزای تعدادی متناهی از عملهای زیر روی نمادهای معرف اعداد به دست می‌آید: جمع",
+        "تفریق",
+        "ضرب",
+        "تقسیم",
+        "و به توان رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic extension",
+      "Meanings": [
+        "توسعه جبری",
+        "توسیع جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic extension of a feild",
+      "Meanings": [
+        "توسیع جبری یک میدان",
+        "میدانی که هم شامل میدان مفروض و هم شامل همه ریشه‌های چندجمله ای هایی است که ضریبهایشان در میدان مفروض اند"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic function",
+      "Meanings": [
+        "تابع جبری",
+        "تابعی که مقدارش فقط با اجرای عملهای زیر روی شناسه آن به دست می‌آید: جمع",
+        "تفریق",
+        "ضرب",
+        "تقسیم",
+        "به توان یک عدد گویا رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic geometry",
+      "Meanings": [
+        "هندسه جبری",
+        "بررسی ویژگیهای هندسی شکلها با استفاده از روشهای جبر مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic group",
+      "Meanings": [
+        "گروه جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic identity",
+      "Meanings": [
+        "اتحاد جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic integer",
+      "Meanings": [
+        "عدد صحیح جبری",
+        "ریشه یک چندجمله ای که ضریبهایش اعدادی صحیح اند و ضریب پیشرو آن برابر 1 است"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic invariant",
+      "Meanings": [
+        "ناوردای جبری",
+        "یک چندجمله ای برحسب ضریبهای یک فرم درجه دوم یا بالاتر از گردایه ای از متغیرها که مقدارش تحت رده مشخصی از تبدیلات خطی آن متغیرها تغییر نمی‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic k theory",
+      "Meanings": [
+        "نظریه Kی جبری",
+        "بررسی ساختاری ریاضی که برای تشکیل آن به هر حلقه A گروه K A",
+        "گروه گروتندیک A",
+        "وابسته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic language",
+      "Meanings": [
+        "زبان جبری",
+        "روش متداول برای نوشتن نمادها",
+        "پرانتزها و سایر علایم فرمولها و عبارتهای ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic law of composition",
+      "Meanings": [
+        "قانون ترکیب جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic logarithm",
+      "Meanings": [
+        "لگاریتم جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic number",
+      "Meanings": [
+        "عدد جبری",
+        "هر ریشه یک چندجمله ای با ضریب‌های گویا"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic number feild",
+      "Meanings": [
+        "میدان اعدا جبری",
+        "توسیعی متناهی از میدان اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic number theory",
+      "Meanings": [
+        "نظریه جبری اعداد",
+        "بررسی ویژگیهای اعداد حقیقی",
+        "به خصوص اعداد صحیح",
+        "با استفاده از روشهای جبر مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic numbers",
+      "Meanings": [
+        "اعداد جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic object",
+      "Meanings": [
+        "شیء جبری",
+        "ساختاری جبری",
+        "مانند گروه",
+        "حلقه یا میدان",
+        "یا عضوی از چنین ساختار جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic operation",
+      "Meanings": [
+        "عمل جبری",
+        "هر یک از عملهای جمع",
+        "تفریق",
+        "ضرب",
+        "تقسیم",
+        "به توان رساندن یا ریشه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic representation",
+      "Meanings": [
+        "نمایش جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic set",
+      "Meanings": [
+        "مجموعه جبری",
+        "مجموعه ای مرکب از همه صفرهای مجموعه مشخصی از چندجمله ایهای n متغیره با ضریبهای متعلق به یک میدان مشخص F",
+        "در میدان توسیعی مشخصی از F"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic solution",
+      "Meanings": [
+        "حل جبری",
+        "جواب جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic structure",
+      "Meanings": [
+        "ساختار جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic subtraction",
+      "Meanings": [
+        "تفریق جبری",
+        "تفریق عددهای علامت دار",
+        "معادل با تغییردادن علامت مفروق و جمع کردن آن با علامت مفروق منه"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic sum",
+      "Meanings": [
+        "جمع جبری",
+        "جمع چند کمیت همجنس با توجه به علامت آنها",
+        "مثلا جمع جبری اعداد 3 و",
+        "و",
+        "برابر",
+        "است"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic surface",
+      "Meanings": [
+        "رویه جبری",
+        "زیرمجموعه ای چون S از یک فضای n بعدی مختلط",
+        "مرکب از مجموعه جوابهای مختلط دستگاهی از معادلات چندجمله ای برحسب n متغیر به نحوی که S یک خمینه دو بعدی مختلط در همسایگی بیشتر آن نقاط باشد"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic symbol",
+      "Meanings": [
+        "نماد جبری",
+        "حرفی که نشان دهنده یک عدد است یا علامتی که نشان دهنده یک عمل جبری است"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic system",
+      "Meanings": [
+        "دستگاه جبری",
+        "ساختمان جبری",
+        "مجموعه دارای ساختمان جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic term",
+      "Meanings": [
+        "جمله جبری",
+        "در یک عبارت",
+        "جمله ای که فقط شامل اعداد و نمادهای جبری است"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic topology",
+      "Meanings": [
+        "توپولوژی جبری",
+        "مکان شناسی جبری",
+        "بررسی ویژگی‌های توپولوژیک شکلها با استفاده از روشهای جبرمجرد",
+        "شامل نظریه هوموتوپی",
+        "نظریه هومولوژی و نظریه کوهومولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic value of a vector",
+      "Meanings": [
+        "اندازه جبری یک بردار"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic variety",
+      "Meanings": [
+        "واریته جبری",
+        "چندگونای جبری",
+        "مجموعه ای از نقاط در یک فضای برداری که در هر معادله از مجموعه ای از معادلات چندجمله ای که ضریبهایشان متعلق به میدان مربوط به آن فضای برداری است",
+        "صدق می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "algebraical composition",
+      "Meanings": [
+        "ترکیب جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraical operation",
+      "Meanings": [
+        "عمل جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraically",
+      "Meanings": [
+        "به طور جبری",
+        "از راه جبری",
+        "جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algebraically closed field",
+      "Meanings": [
+        "میدان بسته جبری",
+        "میدان جبری بسته",
+        "میدانی چون F بااین خصوصیت که هرچند جمله ای از درجه یک یا بیشتر که ضریبهایش در F اند",
+        "ریشه ای در F دارد",
+        "میدانی چون F در یک میدان توسیعی K",
+        "جبری بسته است اگر هر ریشه متعلق به K از یک چندجمله ای که ضریبهایش در F اند",
+        "متعلق به F نیز باشد",
+        "کلمه مترادف",
+        "alebraically complete feild"
+      ]
+    },
+    {
+      "EnglishWord": "algebraically independent",
+      "Meanings": [
+        "جبری مستقل",
+        "زیرمجموعه ای چون S از یک حلقه تعویض پذیرB را روی زیرحلقه ای چون A از B جبری مستقل گویند یا گویند اعضای S روی A جبری مستقل اند اگر",
+        "هرگاه یک چندجمله ای برحسب اعضای S با ضریبهای در A برابر 0 باشد",
+        "آنگاه همه ضریبها در چندجمله ای برابر 0 باشند"
+      ]
+    },
+    {
+      "EnglishWord": "algorist",
+      "Meanings": [
+        "آلگویتم ساز"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm",
+      "Meanings": [
+        "الگوریتم",
+        "سلسله عملیات جبری",
+        "طریقه محاسبه تسلسلی",
+        "اصول و مبانی محاسبه",
+        "الخوارزمی",
+        "روش الخوارزمی",
+        "خوارزمی",
+        "روش محاسبه",
+        "محاسبه",
+        "روش کلی",
+        "مجموعه ای از قواعد خوش تعریف برای حل یک مساله در تعدادی متناهی از مراحل"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm bounded simplex",
+      "Meanings": [
+        "الگوریتم سیمپلکس محدود"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm criss-cross",
+      "Meanings": [
+        "الگوریتم کریس_کراس"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm cutting plane",
+      "Meanings": [
+        "الگوریتم صفحه برش"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm dual simplex",
+      "Meanings": [
+        "الگوریتم سیمپلکس دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm fourier-motzkin",
+      "Meanings": [
+        "الگوریتم فوریر",
+        "موتزکین"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm primal-dual simplex",
+      "Meanings": [
+        "الگوریتم سیمپلکس اولیه",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm revised simplex",
+      "Meanings": [
+        "الگوریتم اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm self-dual",
+      "Meanings": [
+        "الگوریتم خود",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm simplex",
+      "Meanings": [
+        "الگوریتم سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic",
+      "Meanings": [
+        "الگوریتمیک",
+        "با اصول و قاعده",
+        "خوارزمیک"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic independence",
+      "Meanings": [
+        "استقلال الگوریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic information theory",
+      "Meanings": [
+        "نظریه الگوریتمی اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "alias",
+      "Meanings": [
+        "هم اثر",
+        "دگر نام آمار",
+        "در یک آزمایش عاملی",
+        "دو اثری که بر اساس آن آزمایش قابل تمایز نیستند"
+      ]
+    },
+    {
+      "EnglishWord": "alias group",
+      "Meanings": [
+        "گروه هم‌اثر"
+      ]
+    },
+    {
+      "EnglishWord": "alias matrix",
+      "Meanings": [
+        "ماتریس هم‌اثر"
+      ]
+    },
+    {
+      "EnglishWord": "aliasing",
+      "Meanings": [
+        "هم‌اثرسازی",
+        "ورود خطا در محاسبه دامنه‌های مربوط به بسامد پایین در تحلیل فوریه یک تابع",
+        "وقتی از نمونه گیریهای زمانی گسسته ای استفاده می‌شود که بازه آنها تحلیل صحیح بسامدهای بالای موجود در آن تابع را امکان نمی‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "alibi",
+      "Meanings": [
+        "دگر جا"
+      ]
+    },
+    {
+      "EnglishWord": "align",
+      "Meanings": [
+        "در یک امتداد قرار دادن",
+        "به خط کردن",
+        "ردیف کردن",
+        "تراز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "aligned",
+      "Meanings": [
+        "همتراز آمار",
+        "تراز شده"
+      ]
+    },
+    {
+      "EnglishWord": "alignment",
+      "Meanings": [
+        "صف",
+        "ردیف",
+        "ردیف بندی"
+      ]
+    },
+    {
+      "EnglishWord": "alignment chart",
+      "Meanings": [
+        "نمودار",
+        "نوموگرام"
+      ]
+    },
+    {
+      "EnglishWord": "aliquant",
+      "Meanings": [
+        "باقیمانده دار",
+        "مقسوم علیهی که یک کمیت را به اجزاء برابر تقسیم نکند"
+      ]
+    },
+    {
+      "EnglishWord": "aliquot",
+      "Meanings": [
+        "عاد کردن",
+        "عاد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "aliquot parts",
+      "Meanings": [
+        "اجزای عاد کننده",
+        "مقسوم علیه ها",
+        "اجزای عدد",
+        "عامل ها"
+      ]
+    },
+    {
+      "EnglishWord": "allocation",
+      "Meanings": [
+        "تخصیص"
+      ]
+    },
+    {
+      "EnglishWord": "allocation of samples to the strata",
+      "Meanings": [
+        "انتساب نمونه‌ها به طبقات"
+      ]
+    },
+    {
+      "EnglishWord": "allokurtic curve",
+      "Meanings": [
+        "منحنی قناس"
+      ]
+    },
+    {
+      "EnglishWord": "allometry",
+      "Meanings": [
+        "جدامتری",
+        "وردسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "all-or-none compliance",
+      "Meanings": [
+        "رعایت همه یا هیچ یک از مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "allowable",
+      "Meanings": [
+        "مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "almost all zero",
+      "Meanings": [
+        "تقریبا همه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "almost certain convergence",
+      "Meanings": [
+        "همگرایی تقریبا مطمین"
+      ]
+    },
+    {
+      "EnglishWord": "almost every",
+      "Meanings": [
+        "تقریبا هر",
+        "می گویند گزاره ای درباره یک فضای اندازه در تقریبا هرنقطه صادق است یا در تقریبا همه جا صادق است اگر به ازای هر نقطه آن فضا صادق باشد مگر حداکثر در مجموعه ای از نقاط که تشکیل یک مجموعه اندازه پذیر با اندازه صفر بدهند"
+      ]
+    },
+    {
+      "EnglishWord": "almost everywhere",
+      "Meanings": [
+        "تقریبا همه جا",
+        "گویی در همه جا"
+      ]
+    },
+    {
+      "EnglishWord": "almost everywhere convergent sequence",
+      "Meanings": [
+        "دنباله تقریبا همه‌جا همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "almost invariant test",
+      "Meanings": [
+        "آزمون تقریبا ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "almost perfect number",
+      "Meanings": [
+        "عدد تقریبا تام",
+        "عدد صحیحی که یک واحد بزرگتر از مجموع همه عوامل خود بجز خوش است"
+      ]
+    },
+    {
+      "EnglishWord": "almost periodic",
+      "Meanings": [
+        "تقریبا متناوب",
+        "تقریبا دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "almost periodic function",
+      "Meanings": [
+        "تابع تقریبا متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "almost sure convergence",
+      "Meanings": [
+        "همگرایی قریب به یقین"
+      ]
+    },
+    {
+      "EnglishWord": "almost uniform convergence",
+      "Meanings": [
+        "همگرایی تقریبا یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "alphabet",
+      "Meanings": [
+        "الفبا"
+      ]
+    },
+    {
+      "EnglishWord": "altered number",
+      "Meanings": [
+        "عدد غیری"
+      ]
+    },
+    {
+      "EnglishWord": "alternant",
+      "Meanings": [
+        "واگردان"
+      ]
+    },
+    {
+      "EnglishWord": "alternate",
+      "Meanings": [
+        "تناوب داشتن",
+        "متناوب کردن",
+        "متبادل",
+        "متناوب",
+        "متقابل",
+        "عوض",
+        "شق"
+      ]
+    },
+    {
+      "EnglishWord": "alternate angles",
+      "Meanings": [
+        "زاویه‌های متبادل",
+        "وقتی یک خط قاطع مورب دو خط دیگر را قطع می‌کند",
+        "هر جفت زاویه غیرمجاور را که در دو طرف قاطع باشند",
+        "متبادل می‌نامند. دو زاویه متبادل را بر حسب آنکه هر دو بین دو خط قطع شده یا هر دو در خارج دو خط یا یکی در بین و دیگری در خارج دو خط باشند به ترتیب داخلی",
+        "خارجی",
+        "داخلی و خارجی می‌نامند"
+      ]
+    },
+    {
+      "EnglishWord": "alternate exterior angles",
+      "Meanings": [
+        "زوایای متبادل خارجی",
+        "زوایای متبادله خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "alternate interior angles",
+      "Meanings": [
+        "زوایای متبادل داخلی",
+        "زوایای متبادله داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "alternate ratio",
+      "Meanings": [
+        "ابدال نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "alternated",
+      "Meanings": [
+        "متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating",
+      "Meanings": [
+        "متناوب",
+        "متعادل",
+        "متبادل",
+        "واری"
+      ]
+    },
+    {
+      "EnglishWord": "alternating bilinear mapping",
+      "Meanings": [
+        "نگاشت دو خطی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating character",
+      "Meanings": [
+        "شخصیت متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating form",
+      "Meanings": [
+        "فرم متناوب",
+        "صورت متناوب",
+        "فرمی دوخطی چون f که با تعویض جای متغیرهای مستقل آن",
+        "علامتش تغییر می‌کند یعنی به ازای همه مقادیر متغیرهایمستقل x و y داریم",
+        "f x,y =",
+        "f x,y"
+      ]
+    },
+    {
+      "EnglishWord": "alternating function",
+      "Meanings": [
+        "تابع متناوب",
+        "تابعی که در آن اگر جای دو متغیر مستقل با هم عوض شود",
+        "متغیر وابسته تغییر علامت می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "alternating group",
+      "Meanings": [
+        "گروه متناوب",
+        "گروه واری",
+        "گروهی مرکب از همه جایگشتهای زوج n شی"
+      ]
+    },
+    {
+      "EnglishWord": "alternating harmonic",
+      "Meanings": [
+        "همساز متناوب",
+        "هماهنگ متناوب",
+        "توافقی واری",
+        "واری توافقی",
+        "توافقی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating matrix",
+      "Meanings": [
+        "ماتریس متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating multilinear function",
+      "Meanings": [
+        "تابع چندخطی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating p linear mapping",
+      "Meanings": [
+        "نگاشت p",
+        "خطی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating path",
+      "Meanings": [
+        "مسیر متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating polynomial",
+      "Meanings": [
+        "چندجمله ای متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating series",
+      "Meanings": [
+        "سری متناوب",
+        "سری یکی در میان مثبت و منفی",
+        "سری ای از اعداد حقیقی که هر دو جمله متوالی آن علامتهایی مخالف هم دارند"
+      ]
+    },
+    {
+      "EnglishWord": "alternating trilinear mapping",
+      "Meanings": [
+        "نگاشت سه خطی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternation",
+      "Meanings": [
+        "تناوب",
+        "ترکیب فصلی منطق",
+        "نوبت",
+        "یک در میانی",
+        "تبدیل",
+        "جایگزینی",
+        "گردش",
+        "فصل",
+        "تبادل",
+        "استحاله",
+        "استحالت",
+        "وسطین در تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "alternative",
+      "Meanings": [
+        "تناوبی",
+        "متناوب",
+        "جایگزین",
+        "دگرین",
+        "شق",
+        "مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "alternative algebra",
+      "Meanings": [
+        "جبر متناوب",
+        "جبری شرکت ناپذیر که در آن هر دو عنصر",
+        "یک جبر شرکت پذیر تولید می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "alternative denial",
+      "Meanings": [
+        "ناسازگاری تابع",
+        "در منطق"
+      ]
+    },
+    {
+      "EnglishWord": "alternative hypothesis",
+      "Meanings": [
+        "فرض مقابل",
+        "فرض دیگر",
+        "فرضی در آزمون فرض آماری",
+        "حاکی از مقداری برای پارامتر جامعه بجز مقداری که محقق فرض کرده یا باور دارد که درست است"
+      ]
+    },
+    {
+      "EnglishWord": "alternative optimal solutions",
+      "Meanings": [
+        "جواب‌های بهینه دگرین"
+      ]
+    },
+    {
+      "EnglishWord": "altitude",
+      "Meanings": [
+        "ارتفاع",
+        "بلندی",
+        "فراز",
+        "افراز",
+        "بالا",
+        "فرازا نجوم",
+        "فاصله عمودی بین راس و قاعده در چندضلعیها و نیز پاره خطی که طول آن این فاصله عمودی را نشان می‌دهد. در اجسام فضایی",
+        "فاصله ای عمودی که به نحوی بلندی شکل را نشان می‌دهد",
+        "مثلا در مخروط",
+        "فاصله عمودی راس تا قاعده و در استوانه",
+        "فاصله عمودی دو قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "altitude of figure",
+      "Meanings": [
+        "ارتفاع شکل"
+      ]
+    },
+    {
+      "EnglishWord": "altitude of trinagle",
+      "Meanings": [
+        "عمود مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "a-marginal",
+      "Meanings": [
+        "ا a",
+        "حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguity",
+      "Meanings": [
+        "ابهام",
+        "نامعلومی"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguous",
+      "Meanings": [
+        "مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguous case",
+      "Meanings": [
+        "حالت مبهم",
+        "در حل مثلث مسطح",
+        "حالتی که در آن دو ضلع و زاویه مقابل به یکی از آنها داده شده است",
+        "و دو جواب متمایز وجود دارد",
+        "در حل مثلث کروی",
+        "حالتی که در آن دو ضلع و زاویه مقابل به یکی از آنها",
+        "یا دو زاویه و ضلع مقابل به یکی از آنها داده شده است"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguousness",
+      "Meanings": [
+        "ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "amicable",
+      "Meanings": [
+        "متحابه",
+        "دوست دارنده"
+      ]
+    },
+    {
+      "EnglishWord": "amicable numbers",
+      "Meanings": [
+        "اعداد متحابه",
+        "اعداد متحاب",
+        "اعداد دوست دارنده یکدیگر",
+        "عددهای خوش کردار",
+        "عددهای متحاب",
+        "دو عدد که مجموع مقسوم علیه‌های هریک بدون در نظر گرفتن خود آن عدد",
+        "مساوی عدد دیگر باشد",
+        "متحابه خوانده می‌شوند",
+        "مانند دو عدد 220و 284 زیرا که مجموع مقسوم علیه‌های 220 مساوی 284 است 284=110+55+44+22+20+11+10+5+4+2+1 و مجموع مقسوم علیه‌های 284 نیز مساوی 220 است 220=142+71+4+2+",
+        "می گویند فیثاغورث به وجود این ویژگی دو عدد 220 و 284 پی برده بوده است",
+        "هنگامی که از فیثاغورس پرسیده شد رفیق چیست؟ جواب داد: «کسی که من دیگریست بدان گونه که 220 و 284 هستند.»",
+        "فیثاغورسیان چنین اعدادی را اعداد متحابه دوست دار هم می‌نامیدند. با اینکه کشف چنین اعدادی برای یونانیان مشکلات زیادی را به همراه داشت اما کار مورد علاقه یونانیان بود",
+        "بهرحال کشف اینگونه اعداد پیشرفت زیادی نداشت. جالب توجه آنست که از این گروه اعداد",
+        "تا سال 1636 میلادی جفتهای دیگری نمی‌شناختند",
+        "در آن زمان دو عدد متحابه دیگر 17296 و 18416 که در سال 1636 میلادی توسط فرما شناسایی شد.",
+        "که توسط دکارت ارایه گردید.",
+        "که توسط پاگانینی در سال 1867 میلادی معرفی شد. \u000bمشهود است که دو عدد متحابه 1184 و 1210 از این گروه را برای اولین بار یک پسر بچه 16 ساله پیدا کرده است",
+        "اویلر در سال",
+        "پنجاه و نه جفت دیگر از اینگونه اعداد را کشف کرد",
+        "ریاضیدانان عرب زبان بر این باور بوده اند که اعداد متحابه برای دارندگانشان دوستی و محبت می‌آورند!",
+        "سوالی که تاکنون ذهن ریاضیدانان را به خود مشغول کرده اینست که آیا بینهایت از این زوجها وجود دارد یا خیر؟\u000bالبته هندیها اعداد متحابه را قبل از فیثاغورس شناخته بودند. همچنین قسمتهایی از کتاب مقدس را میتوان یافت که نشان می‌دهد یهودیان چنین اعدادی را مبشر سعادت می‌دانستند. نکته جالب دیگر داستان مورد تردید یک شاهزاده دوره باستان است که نامش بنا به علم حروف برابر عدد 284 بود. این شاهزاده سالهای سال دنبال دختری برای ازدواج میگشت که نامش برابر عدد 220 باشد و معتقد بود که این عامل باعث خوشبختی در زندگی او می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "amorphous",
+      "Meanings": [
+        "بی شکل",
+        "بی نظم",
+        "بی رخ"
+      ]
+    },
+    {
+      "EnglishWord": "amortization",
+      "Meanings": [
+        "استهلاک",
+        "استهلاک سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "amount",
+      "Meanings": [
+        "مقدار",
+        "حاصل",
+        "مبلغ",
+        "میزان"
+      ]
+    },
+    {
+      "EnglishWord": "amount of information",
+      "Meanings": [
+        "مقدار آگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude",
+      "Meanings": [
+        "دامنه نوسان",
+        "فاز",
+        "پهنه",
+        "فاصله تغییرات",
+        "زاویه نوسان",
+        "شناسه مختصات قطبی",
+        "بیشترین اندازه تغییرات یک کمیت متناوب در جهت مثبت یا منفی است. این واژه بیشتر در مورد تغییرات سینوسی به کار می‌رود",
+        "شناسه",
+        "در نمودار آرگان",
+        "زاویه ای که بردار نمایش دهنده یک عدد مختلط مفروض با قسمت مثبت محور حقیقی می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude of a complex number",
+      "Meanings": [
+        "مدول یک عد مختلط",
+        "فاز یک عد مختلط",
+        "زاویه عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude of a point",
+      "Meanings": [
+        "زاویه قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "anallagmatic curve",
+      "Meanings": [
+        "خمی که منعکس خود نسبت به یک دایره است"
+      ]
+    },
+    {
+      "EnglishWord": "analog",
+      "Meanings": [
+        "مانند",
+        "شبیه",
+        "نظیر",
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analogical reasoning",
+      "Meanings": [
+        "استدلال تمثیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analogize",
+      "Meanings": [
+        "قیاس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "analogous",
+      "Meanings": [
+        "قابل قیاس",
+        "متشابه",
+        "شبیه",
+        "متناظر",
+        "تشابهی",
+        "مشابه با",
+        "مطابق",
+        "نظیر",
+        "قابل مقایسه",
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analogy",
+      "Meanings": [
+        "قیاس مشابهت",
+        "قیاس تشبیهی",
+        "تشابه",
+        "شباهت",
+        "مطابقت",
+        "قیاس",
+        "تمثیل"
+      ]
+    },
+    {
+      "EnglishWord": "analyse",
+      "Meanings": [
+        "تحلیل منطق",
+        "تجزیه کردن",
+        "مطالعه کردن",
+        "تجزیه و تحلیل کردن",
+        "آنالیز",
+        "تجزیه و تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "آنالیز",
+        "تحلیل",
+        "آنالیز ریاضی",
+        "تجزیه و تحلیل",
+        "تجزیه",
+        "بازکافت",
+        "آناکاوی",
+        "شاخه ای از ریاضیات که مشخصا با فرایندهای حدی و مفهوم همگرایی سروکار دارد و مشتمل بر نظریه‌های مشتق گیری",
+        "انتگرال گیری و اندازه",
+        "سریهای نامتناهی و توابع تحلیلی است"
+      ]
+    },
+    {
+      "EnglishWord": "analysis big m method",
+      "Meanings": [
+        "آنالیز روش M",
+        "بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "analysis convex",
+      "Meanings": [
+        "آنالیز محدب"
+      ]
+    },
+    {
+      "EnglishWord": "analysis into single degree of freedom",
+      "Meanings": [
+        "تجزیه به درجات آزادی منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of covariance",
+      "Meanings": [
+        "تجزیه‌وتحلیل کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of deviance",
+      "Meanings": [
+        "تحلیل انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of variance",
+      "Meanings": [
+        "تجریه‌و‌تحلیل واریانس آمار",
+        "تجزیه واریانس",
+        "تحلیل پراش",
+        "تحلیل واریانس",
+        "آناکاوی پراش",
+        "روشی برای تجزیه کل واریانس در داده‌های تجربی به اجزایی قابل انتساب به منابع مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "analysis parametric",
+      "Meanings": [
+        "آنالیز پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "analysis situs",
+      "Meanings": [
+        "topology"
+      ]
+    },
+    {
+      "EnglishWord": "analysis two phase method",
+      "Meanings": [
+        "آنالیز روش دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic",
+      "Meanings": [
+        "تحلیلی",
+        "آناکاویک",
+        "آنالتیک"
+      ]
+    },
+    {
+      "EnglishWord": "analytic continuation",
+      "Meanings": [
+        "امتداد تحلیلی",
+        "تمدید تحلیلی",
+        "ادامه تحلیلی",
+        "ادامه آنالتیک",
+        "ادامه دهی آناکاویک",
+        "گسترش یک تابع تحلیلی به دامنه ای بزرگتر از دامنه ای که در آغاز روی آن تعریف شده است"
+      ]
+    },
+    {
+      "EnglishWord": "analytic curve",
+      "Meanings": [
+        "منحنی تحلیلی",
+        "خم تحلیلی",
+        "خمی که معادلات پارامتری آن توابع تحلیلی حقیقی از یک متغیر حقیقی باشند"
+      ]
+    },
+    {
+      "EnglishWord": "analytic function",
+      "Meanings": [
+        "تابع تحلیلی",
+        "تابع آناکاویک",
+        "تابعی که بتوان آن را به وسیله یک سری تیلور همگرا نمایش داد"
+      ]
+    },
+    {
+      "EnglishWord": "analytic geometry",
+      "Meanings": [
+        "هندسه تحلیلی",
+        "هندسه آناکاویک",
+        "هندسه آراسته",
+        "بررسی شکلها و خمهای هندسی با استفاده از یک دستگاه مختصات و روشهای جبر",
+        "کلمه مترادف",
+        "Cartesian geometry"
+      ]
+    },
+    {
+      "EnglishWord": "analytic hierarchy",
+      "Meanings": [
+        "سلسله مراتب تحلیلی",
+        "روشی قاعده مند برای نمایش اجزای هر مساله که مساله را به اجزای کوچکتر تقسیم می‌کند و سپس با مقایسه ساده دو به دوی آنها اولویتها در هر سطح مشخص می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "analytic judgement",
+      "Meanings": [
+        "حکم تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic method",
+      "Meanings": [
+        "روش تحلیلی",
+        "روش تحلیل",
+        "روش آناکاویک"
+      ]
+    },
+    {
+      "EnglishWord": "analytic model",
+      "Meanings": [
+        "نمونه تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic number theory",
+      "Meanings": [
+        "نظریه تحلیلی اعداد",
+        "بررسی مسایلی درباره دامنه گسسته اعداد صحیح به وسیله ریاضیات مربوط به پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic plane",
+      "Meanings": [
+        "صفحه تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic representation",
+      "Meanings": [
+        "نمایش تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analytic set",
+      "Meanings": [
+        "مجموع تحلیلی",
+        "زیرمجموعه ای از یک فضای توپولوژیک موضعا اقلیدسی به وسیله مجموعه‌های بازی که هر یک از آنها همسانریخت با مجموعه بازی در فضای اقلیدسی است",
+        "به طوری که تبدیل مختصات در هر دو جهت بین اشتراک هر دو تا از این مجموعه‌ها به وسیله توابعی تحلیلی مشخص شود"
+      ]
+    },
+    {
+      "EnglishWord": "analytic trigonometry",
+      "Meanings": [
+        "مثلثات تحلیلی",
+        "بررسی ویژگیها و رابطه‌های توابع مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "analytical",
+      "Meanings": [
+        "تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "analytical presentation of distribution function",
+      "Meanings": [
+        "بیان تحلیلی تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "analytical presentation of probability distribution",
+      "Meanings": [
+        "بیان تحلیلی توزیع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "analytically",
+      "Meanings": [
+        "به طور تحلیلی",
+        "تحلیلی",
+        "آناکاوانه"
+      ]
+    },
+    {
+      "EnglishWord": "analyticity point",
+      "Meanings": [
+        "نقطه تحلیلی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "ancestor",
+      "Meanings": [
+        "نیا"
+      ]
+    },
+    {
+      "EnglishWord": "ancestral",
+      "Meanings": [
+        "نیایی"
+      ]
+    },
+    {
+      "EnglishWord": "anchor point",
+      "Meanings": [
+        "نقطه لنگری",
+        "هر یک از دو نقطه انتهایی یک خم بزیه"
+      ]
+    },
+    {
+      "EnglishWord": "anchor ring",
+      "Meanings": [
+        "چنبره",
+        "تر"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary",
+      "Meanings": [
+        "فرعی",
+        "کمکی",
+        "دستیار"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary information",
+      "Meanings": [
+        "اطلاع کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary statistic",
+      "Meanings": [
+        "آماره فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary statistics",
+      "Meanings": [
+        "آمار فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "and",
+      "Meanings": [
+        "و رابط گزاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "and function",
+      "Meanings": [
+        "تابع و",
+        "عملی در جبر منطقی روی گزاره‌های P",
+        "Q و R به نحوی که عمل درست است اگر همه گزاره‌های P",
+        "Q",
+        "R و… صادق باشند",
+        "و غلط است اگر دست کم یک گزاره کاذب باشد"
+      ]
+    },
+    {
+      "EnglishWord": "andom walk",
+      "Meanings": [
+        "گردش تصادفی",
+        "سیر تصادفی",
+        "قدم زدن تصادفی",
+        "گام برداری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "angle",
+      "Meanings": [
+        "زاویه",
+        "گوشه",
+        "شکلی هندسی",
+        "کمیتی حسابی",
+        "یا کمیت جبری علامت داری که به وسیله دو نیم خط که از یک نقطه مشترک رسم می‌شوند یا هر دو صفحه که در یک خط مشترک اند",
+        "معین می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "angle at the center",
+      "Meanings": [
+        "زاویه مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "angle between a line and a plane",
+      "Meanings": [
+        "زاویه بین خط و صفحه",
+        "میل",
+        "میل یک خط نسبت به یک صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "angle bisection",
+      "Meanings": [
+        "تنصیف زاویه",
+        "تقسیم یک زاویه به دو زاویه برابر به وسیله یک خط یا صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "angle bisector",
+      "Meanings": [
+        "نیمساز زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "angle exterior to parallel straight lines",
+      "Meanings": [
+        "زاویه خارج از خط‌های متوازی"
+      ]
+    },
+    {
+      "EnglishWord": "angle exterior to triangle",
+      "Meanings": [
+        "زاویه خارج از مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "angle formed by a tangent and a chord",
+      "Meanings": [
+        "زاویه ظلی"
+      ]
+    },
+    {
+      "EnglishWord": "angle in a segment",
+      "Meanings": [
+        "زاویه پذرفته قوس"
+      ]
+    },
+    {
+      "EnglishWord": "angle in a segment of a circle",
+      "Meanings": [
+        "زاویه محاطی"
+      ]
+    },
+    {
+      "EnglishWord": "angle of a lune",
+      "Meanings": [
+        "زاویه هلال"
+      ]
+    },
+    {
+      "EnglishWord": "angle of contingence",
+      "Meanings": [
+        "زاویه مماسی",
+        "برای دو نقطه روی یک خم مسطح",
+        "زاویه بین مماسهای وارد بر خم در آن نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "angle of depression",
+      "Meanings": [
+        "زاویه شیب"
+      ]
+    },
+    {
+      "EnglishWord": "angle of elevation",
+      "Meanings": [
+        "زاویه فراز"
+      ]
+    },
+    {
+      "EnglishWord": "angle of geodesic contingence",
+      "Meanings": [
+        "زاویه مماسی ژیووزیک",
+        "برای دو نقطه از خمی واقع بر یک رویه",
+        "زاویه تقاطع ژیودزیک‌های مماس بر خم در آن نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "angle of inclination",
+      "Meanings": [
+        "میل",
+        "زاویه شیب",
+        "زاویه میل"
+      ]
+    },
+    {
+      "EnglishWord": "angle of reflection",
+      "Meanings": [
+        "زاویه بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "angle of refraction",
+      "Meanings": [
+        "زاویه انکسار",
+        "زاویه شکست"
+      ]
+    },
+    {
+      "EnglishWord": "angle of rotation",
+      "Meanings": [
+        "زاویه دوران"
+      ]
+    },
+    {
+      "EnglishWord": "angle of rotation of conformal transformation",
+      "Meanings": [
+        "زاویه دوران تبدیل همدیس"
+      ]
+    },
+    {
+      "EnglishWord": "angle of two vectors",
+      "Meanings": [
+        "زاویه بین دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "angle preserving mapping",
+      "Meanings": [
+        "تبدیل کنفرم",
+        "تبدیل حافظ زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "angle trisection",
+      "Meanings": [
+        "تثلیث زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "angular",
+      "Meanings": [
+        "زاویه ای",
+        "مربوط به زاویه",
+        "زاویه دار",
+        "گوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular acceleration",
+      "Meanings": [
+        "شتاب زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular coefficient",
+      "Meanings": [
+        "ضریب زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular distance",
+      "Meanings": [
+        "فاصله زاویه ای",
+        "برای دو نقطه",
+        "زاویه بین خطهایی که از نقطه مشاهده به آن نقاط وصل می‌شوند",
+        "اختلاف زاویه ای بین دو راستا که مقدار عددی آن برابر است با اندازه زاویه دو خط که بر راستاهای مفروض باشند",
+        "کمانی از دایره عظیمه که دو نقطه را به هم وصل می‌کند و بر حسب یکاهای زاویه ای بیان می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "angular measure",
+      "Meanings": [
+        "اندازه زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular moment",
+      "Meanings": [
+        "گشتاور جنبشی",
+        "گشتاور زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular momentum",
+      "Meanings": [
+        "اندازه حرکت زاویه ای",
+        "گشتاور جنبشی",
+        "چندی حرکت زاویه ای",
+        "گشتاور زاویه ای",
+        "گشتاور گوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular point",
+      "Meanings": [
+        "نقطه زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular radius",
+      "Meanings": [
+        "شعاع زاویه ای",
+        "برای دایره ای که روی یک کره رسم شده",
+        "فاصله زاویه ای کوچکتر در میان فواصل زاویه ای از یکی از دو قطب دایره تا هر نقطه روی دایره"
+      ]
+    },
+    {
+      "EnglishWord": "angular speed",
+      "Meanings": [
+        "تندی زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular transformation",
+      "Meanings": [
+        "تبدیل زاویه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "angular velocity",
+      "Meanings": [
+        "سرعت زاویه ای"
+      ]
+    },
+    {
+      "EnglishWord": "angulate",
+      "Meanings": [
+        "زاویه دار",
+        "گوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "anharmonic",
+      "Meanings": [
+        "ناهمساز",
+        "ناهماهنگ",
+        "ناتوافقی نسبت",
+        "غیرتوافقی",
+        "ناموزون"
+      ]
+    },
+    {
+      "EnglishWord": "anharmonic ratio",
+      "Meanings": [
+        "نسبت ناتوافقی",
+        "نسبت ناموزون",
+        "نسبت نامتوافق",
+        "غیرتوافقی",
+        "نسبت دوگانه",
+        "نسبت ناهمساز"
+      ]
+    },
+    {
+      "EnglishWord": "anisotropic",
+      "Meanings": [
+        "ناهمروند"
+      ]
+    },
+    {
+      "EnglishWord": "ank difference chi square",
+      "Meanings": [
+        "چی دوی اختلاف رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "annealing",
+      "Meanings": [
+        "نوردیدن"
+      ]
+    },
+    {
+      "EnglishWord": "annex",
+      "Meanings": [
+        "اضافه کردن",
+        "افزودن",
+        "ضمیمه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "annihilate",
+      "Meanings": [
+        "باطل کردن",
+        "صفر کردن",
+        "پوچ ساختن",
+        "نابود کردن",
+        "منهدم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "annihilating ideal",
+      "Meanings": [
+        "ایده آل پوچ ساز",
+        "ایده آل صفر ساز"
+      ]
+    },
+    {
+      "EnglishWord": "annihilator",
+      "Meanings": [
+        "پوچ گر",
+        "نابودساز",
+        "صفر کننده",
+        "صفر ساز",
+        "از بین برنده",
+        "باطل کننده",
+        "برای یک مجموعه S",
+        "رده همه توابعی از نوع مشخص شده که مقدارشان در هر نقطه S برابر با صفر است"
+      ]
+    },
+    {
+      "EnglishWord": "annihilator subspace",
+      "Meanings": [
+        "زیرفضای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "annul",
+      "Meanings": [
+        "صفر کردن",
+        "از بین بردن"
+      ]
+    },
+    {
+      "EnglishWord": "annular",
+      "Meanings": [
+        "حلقوی",
+        "حلقه ای شکل",
+        "طوقی"
+      ]
+    },
+    {
+      "EnglishWord": "annular solid",
+      "Meanings": [
+        "جسم طوقی",
+        "جسم حاصل از دوران یک خم مسطح بسته حول خطی که در صفحه خم واقع است و خم را قطع نمی‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "annulated",
+      "Meanings": [
+        "حلقوی",
+        "حلقه دار"
+      ]
+    },
+    {
+      "EnglishWord": "annulator",
+      "Meanings": [
+        "صفر کننده",
+        "از بین برنده"
+      ]
+    },
+    {
+      "EnglishWord": "annulus",
+      "Meanings": [
+        "تاج",
+        "طوق",
+        "حلقه",
+        "سطح بین دو دایره هم مرکز",
+        "تاج دایره",
+        "چنبره",
+        "حلقه دایره",
+        "شکلی حلقه مانند که بین دو دایره هم مرکز واقع است"
+      ]
+    },
+    {
+      "EnglishWord": "annulus of integrity",
+      "Meanings": [
+        "حلقه بی عیب",
+        "حلقه انتگریته"
+      ]
+    },
+    {
+      "EnglishWord": "antecedent",
+      "Meanings": [
+        "مقدم ترکیب شرطی",
+        "صورت کسر",
+        "پیشرو",
+        "قبل",
+        "سابق",
+        "صورت",
+        "صورت نسبت",
+        "صورت یک کسر",
+        "جمله اول یک نسبت",
+        "مقدم",
+        "اولین گزاره از دو گزاره استلزام منطقی",
+        "در مورد عدد صحیح n ای که بزرگتر از 1 است",
+        "عدد صحیح قبل از آن",
+        "یعنی n"
+      ]
+    },
+    {
+      "EnglishWord": "anthropological mathematics",
+      "Meanings": [
+        "ریاضیات انسان شناسانه",
+        "ریاضیات انسان شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "anthropometric",
+      "Meanings": [
+        "آنتروپومتریک",
+        "وابسته به مبحث اندازه گیری بدن انسان"
+      ]
+    },
+    {
+      "EnglishWord": "anti clockwise",
+      "Meanings": [
+        "پادساعتگرد",
+        "جهت مثبت",
+        "جهت مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "anti clockwise sense",
+      "Meanings": [
+        "جهت مخالف حرکت عقربه‌های ساعت",
+        "پادساعتگرد"
+      ]
+    },
+    {
+      "EnglishWord": "anti hermitian",
+      "Meanings": [
+        "پاد هرمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "anti rank",
+      "Meanings": [
+        "پاد رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "antiautomorphism",
+      "Meanings": [
+        "پاد خودریختی",
+        "پاد یکریختی ای از یک حلقه",
+        "میدان",
+        "یا دامنه صحیح با خودش"
+      ]
+    },
+    {
+      "EnglishWord": "antichain",
+      "Meanings": [
+        "پاد زنجیر",
+        "زیرمجموعه ای از یک مجموعه جزیا مرتب که در آن هیچ جفتی از عناصر یک جفت مقایسه پذیر نیستند",
+        "نگاه کنید به Sperner set"
+      ]
+    },
+    {
+      "EnglishWord": "anticlastic",
+      "Meanings": [
+        "ویژگی یک رویه یا بخشی از یک رویه که دو خمیدگی اصلی آن در هر نقطه علامت‌های مختلف دارند",
+        "بنابراین یک مقطع قایم",
+        "مقعر و دیگری محدب است"
+      ]
+    },
+    {
+      "EnglishWord": "anticommutative",
+      "Meanings": [
+        "پادجابجایی",
+        "غیر جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "anticommutative law",
+      "Meanings": [
+        "قانون ضد جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "anticommutative operation",
+      "Meanings": [
+        "عمل پاد تعویض پذیر",
+        "عمل پاد جابجایی",
+        "روشی برای ترکیب دو شی مانند a و b به طوری که a. b=",
+        "b. a"
+      ]
+    },
+    {
+      "EnglishWord": "anticommutativity",
+      "Meanings": [
+        "ویژگی پادجابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "anticommutator",
+      "Meanings": [
+        "پاد تعویض گر",
+        "پاد جابه جا گر",
+        "پاد تعویض گر دو عملگر A و B",
+        "عملگر AB+BA است"
+      ]
+    },
+    {
+      "EnglishWord": "anticommute",
+      "Meanings": [
+        "پاد تعویض",
+        "پاد جابجایی",
+        "دو عملگر پاد تعویض می‌شوند اگر پاد تعویض گر آنها برابر صفر باشد"
+      ]
+    },
+    {
+      "EnglishWord": "anticosine",
+      "Meanings": [
+        "عکس کسینوس",
+        "معکوس کسینوس"
+      ]
+    },
+    {
+      "EnglishWord": "anticotangent",
+      "Meanings": [
+        "عکس کتانژانت"
+      ]
+    },
+    {
+      "EnglishWord": "antiderivative",
+      "Meanings": [
+        "تابع اولیه",
+        "پادمشتق",
+        "تابع اولی",
+        "ضد مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "antihyperbolic",
+      "Meanings": [
+        "پادهذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "antihyperbolic function",
+      "Meanings": [
+        "تابع معکوس هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "antilexicographical",
+      "Meanings": [
+        "آنتی لکسیکو گرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "antilinear",
+      "Meanings": [
+        "پادخطی"
+      ]
+    },
+    {
+      "EnglishWord": "antilogarithm",
+      "Meanings": [
+        "آنتی لگاریتم",
+        "عکس لگاریتم",
+        "پادلگاریتم",
+        "لگاریتم وارون",
+        "برای یک عدد x",
+        "عدد دیگری که لگاریتمش برابر با x باشد",
+        "صورت اختصاری: antilog",
+        "کلمه مترادف",
+        "inverse logarithm"
+      ]
+    },
+    {
+      "EnglishWord": "antilogarithmic",
+      "Meanings": [
+        "عکس لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "antimetric",
+      "Meanings": [
+        "پادمتر"
+      ]
+    },
+    {
+      "EnglishWord": "antimodal",
+      "Meanings": [
+        "ضدنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "antimodal distribution",
+      "Meanings": [
+        "توزیع ضدنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "antimode",
+      "Meanings": [
+        "پادمد"
+      ]
+    },
+    {
+      "EnglishWord": "antimorphism",
+      "Meanings": [
+        "ضد ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "antinomy",
+      "Meanings": [
+        "تنازع دو قانون",
+        "تنازع دو اصل",
+        "تنازع احکام"
+      ]
+    },
+    {
+      "EnglishWord": "antiparallel",
+      "Meanings": [
+        "متوازی مخالف",
+        "نامتوازی",
+        "غیرموازی",
+        "زاویه‌های راست به تبادل",
+        "پادموازی",
+        "حالت دو بردار ناصفر در یک فضای برداری روی اعداد حقیقی به طوری که یک بردار برابر حاصلضرب بردار دیگر در یک عدد منفی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "antiparallel lines",
+      "Meanings": [
+        "خطهای پاد متوازی",
+        "دو خط که زوایایی برابر ولی با ترتیبی مخالف با دو خط مشخص شده می‌سازند"
+      ]
+    },
+    {
+      "EnglishWord": "antipodal",
+      "Meanings": [
+        "متقاطر"
+      ]
+    },
+    {
+      "EnglishWord": "antipodal points",
+      "Meanings": [
+        "نقطه‌های متقاطر",
+        "دو نقطه که در دو سر قطر یک کره اند"
+      ]
+    },
+    {
+      "EnglishWord": "antipodes",
+      "Meanings": [
+        "نقاط متقاطر"
+      ]
+    },
+    {
+      "EnglishWord": "antirank",
+      "Meanings": [
+        "پادرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "antireflexive",
+      "Meanings": [
+        "غیر انعکاسی",
+        "ضد انعکاسی",
+        "ضد بازتابی",
+        "پادبازتابی",
+        "نابازتابی"
+      ]
+    },
+    {
+      "EnglishWord": "antireflexive relation",
+      "Meanings": [
+        "رابطه غیر انعکاسی"
+      ]
+    },
+    {
+      "EnglishWord": "antisecant",
+      "Meanings": [
+        "آنتی سکانت",
+        "عکس سکانت"
+      ]
+    },
+    {
+      "EnglishWord": "antisine",
+      "Meanings": [
+        "عکس سینوس",
+        "معکوس سینوس"
+      ]
+    },
+    {
+      "EnglishWord": "antismoothing",
+      "Meanings": [
+        "پادهموارسازی"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric",
+      "Meanings": [
+        "پادمتقارن",
+        "نامتقارن",
+        "قناس",
+        "متقارن خلف",
+        "متخالف",
+        "متقابل ماتریس",
+        "ضد متقارن",
+        "پاد اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric determinant",
+      "Meanings": [
+        "دترمینان پادمتقارن",
+        "دترمینان یک ماتریس پادمتقارن",
+        "کلمه مترادف",
+        "skew",
+        "symmetric determinant"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric dyadic",
+      "Meanings": [
+        "دوتایه ای پادمتقارن",
+        "یک دوتایه ای که قرینه مزدوج خود است"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric matrix",
+      "Meanings": [
+        "ماتریس پادمتقارن",
+        "ماتریسی که برابر با قرینه ترانهاده خود است",
+        "کلمه مترادف",
+        "skew matrix",
+        "skew",
+        "symmetric matrix"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric relation",
+      "Meanings": [
+        "رابطه پادمتقارن",
+        "رابطه غیرمتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetric tensor",
+      "Meanings": [
+        "تانسور پادمتقارن",
+        "تانسوری که در آن تعویض دو اندیس یک عنصر باهم",
+        "علامت آن عنصر را تغییر می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetrisation",
+      "Meanings": [
+        "نامتقارن سازی",
+        "نامتقارن کردن",
+        "پادمتقارن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "antisymmetry",
+      "Meanings": [
+        "پادتقارنی",
+        "پادتقارن",
+        "قناسی",
+        "تقارن خلف",
+        "تقارن متخالف",
+        "بی تقارنی",
+        "ضد تقارنی"
+      ]
+    },
+    {
+      "EnglishWord": "antitangent",
+      "Meanings": [
+        "معکوس تانژانت",
+        "عکس تانژانت"
+      ]
+    },
+    {
+      "EnglishWord": "antithesis",
+      "Meanings": [
+        "برابر نهاد",
+        "آنتی تز"
+      ]
+    },
+    {
+      "EnglishWord": "antithetic variable",
+      "Meanings": [
+        "متغیر متضاد",
+        "هر یک از دو متغیر تصادفی که همبستگی منفی زیادی باهم دارند",
+        "این مفهوم در روش متغیر متضاد برای برآورد کردن میانگین یک رشته از مشاهدات به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "antithetic variate",
+      "Meanings": [
+        "متغیر متضاد"
+      ]
+    },
+    {
+      "EnglishWord": "antitrigonometric",
+      "Meanings": [
+        "پادمثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "antitrigonometric function",
+      "Meanings": [
+        "تابع معکوس مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "aperiodic",
+      "Meanings": [
+        "نامتناوب",
+        "بی تناوب",
+        "نادوره ای",
+        "غیرمتناوب",
+        "غیردوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "aperiodic motion",
+      "Meanings": [
+        "حرکت غیردوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "apex",
+      "Meanings": [
+        "بالاترین نقطه",
+        "راس",
+        "اوج",
+        "نوک",
+        "قله",
+        "تارک",
+        "جمع این کلمه به صورت apexes یا apices است"
+      ]
+    },
+    {
+      "EnglishWord": "apex angle",
+      "Meanings": [
+        "زاویه راس",
+        "زاویه فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "aphelion",
+      "Meanings": [
+        "دورترین فاصله",
+        "دورین"
+      ]
+    },
+    {
+      "EnglishWord": "apical",
+      "Meanings": [
+        "راسی",
+        "مربوط به راس"
+      ]
+    },
+    {
+      "EnglishWord": "apodictic",
+      "Meanings": [
+        "برهان"
+      ]
+    },
+    {
+      "EnglishWord": "apodictic judgement",
+      "Meanings": [
+        "حکم ضروری"
+      ]
+    },
+    {
+      "EnglishWord": "apodosis",
+      "Meanings": [
+        "جواب شرط"
+      ]
+    },
+    {
+      "EnglishWord": "apodosis thesis",
+      "Meanings": [
+        "تالی ترکیب شرطی",
+        "در منطق"
+      ]
+    },
+    {
+      "EnglishWord": "apogee",
+      "Meanings": [
+        "نقطه اوج",
+        "اوج"
+      ]
+    },
+    {
+      "EnglishWord": "apollonius' problem",
+      "Meanings": [
+        "مساله آپولونیوس",
+        "مساله ترسیم دایره ای که بر سه دایره مفروض مماس باشد"
+      ]
+    },
+    {
+      "EnglishWord": "apoloniuos",
+      "Meanings": [
+        "آپولونیوس 200 قبل از میلاد",
+        "قبل از میلاد",
+        "در پرگا واقع در آسای صغیر جنوبی متولد شد. منجمی بسیار برجسته بود. اساسی‌ترین کارهای وی در مقاطع مخروطی می‌باشد وکتابی به همین نام در هشت مقله نوشت که تقریبا تممی معلومات دبیرستانی این روزگار در مخروطات را شامل می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "apothem",
+      "Meanings": [
+        "ارتفاع کثیرالاضلاع منتظم",
+        "سهم هرم منتظم",
+        "فاصله عمودی مرکز یک چندضلعی منتظم تا یکی از ضلعهای آن",
+        "کلمه مترادف",
+        "short radius"
+      ]
+    },
+    {
+      "EnglishWord": "apparent",
+      "Meanings": [
+        "ظاهری منطق"
+      ]
+    },
+    {
+      "EnglishWord": "apparent divisor",
+      "Meanings": [
+        "مقسوم علیه آشکار"
+      ]
+    },
+    {
+      "EnglishWord": "apparent outline",
+      "Meanings": [
+        "دروه ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "applicable",
+      "Meanings": [
+        "کاربستنی",
+        "قابل به کارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "application",
+      "Meanings": [
+        "کاربرد",
+        "مورد استعمال",
+        "استعمال",
+        "انطباق",
+        "نگاشت",
+        "گسترش",
+        "کاربست"
+      ]
+    },
+    {
+      "EnglishWord": "applied",
+      "Meanings": [
+        "کاربسته",
+        "کابردی",
+        "عملی",
+        "قابل اجرا",
+        "کاربرده"
+      ]
+    },
+    {
+      "EnglishWord": "applied mathematics",
+      "Meanings": [
+        "ریاضیات کاربردی",
+        "ریاضیات عملی"
+      ]
+    },
+    {
+      "EnglishWord": "applied probability",
+      "Meanings": [
+        "احتمال کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "applied statistics",
+      "Meanings": [
+        "آمار کاربردی",
+        "آمار عملی"
+      ]
+    },
+    {
+      "EnglishWord": "apply",
+      "Meanings": [
+        "به کاربردن",
+        "استعمال کردن",
+        "بر هم منطبق کردن",
+        "اجرا کردن",
+        "اعمال کردن",
+        "اطلاق",
+        "حمل",
+        "افکندن"
+      ]
+    },
+    {
+      "EnglishWord": "apportion",
+      "Meanings": [
+        "بخش کردن",
+        "قسمت کردن",
+        "تقسیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "approach",
+      "Meanings": [
+        "میل",
+        "میل کردن",
+        "تمایل",
+        "رهیافت"
+      ]
+    },
+    {
+      "EnglishWord": "approach a limit",
+      "Meanings": [
+        "نزدیک شدن به سمت حد"
+      ]
+    },
+    {
+      "EnglishWord": "approgression",
+      "Meanings": [
+        "رگرسیون تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximate",
+      "Meanings": [
+        "تقریبی",
+        "نزدیک ساختن",
+        "نزدیک شدن به سمت حد",
+        "قرب",
+        "نزدین",
+        "تقریب زدن",
+        "به دست آوردن نتیجه ای که دقیق نیست ولی برای منظور معینی به اندازه کافی نزدیک به نتیجه درست است",
+        "به دست آوردن سری ای از نتایج که به نتیجه درست میل می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "approximate eigenvalue",
+      "Meanings": [
+        "ویژه‌مقدار تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate from above",
+      "Meanings": [
+        "تقریب از بالا اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate from below",
+      "Meanings": [
+        "تقریب از پایین نقصانی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate integration",
+      "Meanings": [
+        "محاسبه تقریبی انتگرال"
+      ]
+    },
+    {
+      "EnglishWord": "approximate normality",
+      "Meanings": [
+        "نرمال بودن تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate reasoning",
+      "Meanings": [
+        "استدلال تقریبی",
+        "فرایندی که به وسیله آن نتیجه احتمالا نادقیقی از یک دسته مقدمات نادقیق به دست آید"
+      ]
+    },
+    {
+      "EnglishWord": "approximate solution",
+      "Meanings": [
+        "جواب تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate test",
+      "Meanings": [
+        "آزمون تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate value",
+      "Meanings": [
+        "مقدار تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximately",
+      "Meanings": [
+        "تقریبا",
+        "تخمینا",
+        "بنزدین"
+      ]
+    },
+    {
+      "EnglishWord": "approximation",
+      "Meanings": [
+        "تقریب",
+        "نزدیک‌سازی",
+        "تقریب زدن",
+        "نزدش",
+        "نتیجه‌ای که دقیق نیست ولی برای منظور معینی به اندازه کافی نزدیک به نتیجه درست است",
+        "شیوه‌ای برای به دست‌آوردن چنین نتیجه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "approximation calculus",
+      "Meanings": [
+        "حساب تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation formula",
+      "Meanings": [
+        "فرمول تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation from above",
+      "Meanings": [
+        "تقریب اضافی",
+        "تقریب از بالا"
+      ]
+    },
+    {
+      "EnglishWord": "approximation from below",
+      "Meanings": [
+        "تقریب نقصانی",
+        "تقریب از پایین"
+      ]
+    },
+    {
+      "EnglishWord": "approximation property",
+      "Meanings": [
+        "ویژگی تقریب",
+        "ویژگی یک فضای باناخ",
+        "چون B",
+        "که در آن مجموعه‌های فشرده تقریبا متناهی بعدند",
+        "به این معنی که به ازای هر مجموعه فشرده",
+        "مانند K",
+        "تبدیلهای خطی پیوسته L ای از K به زیرفضاهای متناهی بعد B می‌توان یافت که به ازای همه نقاط x در K کرانهای بالایی به اندازه کافی کوچک برای نرم L x",
+        "x وجود داشته باشند"
+      ]
+    },
+    {
+      "EnglishWord": "approximation theorem",
+      "Meanings": [
+        "قضیه تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation theory",
+      "Meanings": [
+        "نظریه تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to distribution",
+      "Meanings": [
+        "تقریب توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to function",
+      "Meanings": [
+        "تقریب تابع"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to mathematical functions",
+      "Meanings": [
+        "تقریب تابع‌های ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "approximative",
+      "Meanings": [
+        "تقریبی",
+        "تخمینی",
+        "نزدشی"
+      ]
+    },
+    {
+      "EnglishWord": "apse line",
+      "Meanings": [
+        "خط ریوس",
+        "محور اطول",
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "apsis",
+      "Meanings": [
+        "نزدور",
+        "اوج و یا حضیض"
+      ]
+    },
+    {
+      "EnglishWord": "arabic figures",
+      "Meanings": [
+        "ارقام هندی",
+        "ارقام عربی"
+      ]
+    },
+    {
+      "EnglishWord": "arabic letters for numerals",
+      "Meanings": [
+        "شمارها به حروف تازی"
+      ]
+    },
+    {
+      "EnglishWord": "arabic numerals",
+      "Meanings": [
+        "ارقام عربی",
+        "رقمهای",
+        "و",
+        "کلمه مترادف",
+        "Hindu",
+        "Arabic numerals"
+      ]
+    },
+    {
+      "EnglishWord": "arbilos",
+      "Meanings": [
+        "گزن",
+        "شکل مسطحی محدود به یک نیمدایره و دو نیمدایره کوچکتر که در درون نیمدایره بزرگتر واقع اند",
+        "قطرهایشان روی قطر نیمدایره بزرگتر است",
+        "و مماس بر یکدیگر و بر نیمدایره بزرگترند",
+        "کلمه مترادف",
+        "shoemaker's knife"
+      ]
+    },
+    {
+      "EnglishWord": "arbitary",
+      "Meanings": [
+        "دلخواه",
+        "اختیاری",
+        "دلبخواهی"
+      ]
+    },
+    {
+      "EnglishWord": "arbitary constant",
+      "Meanings": [
+        "ثابت دلخواه"
+      ]
+    },
+    {
+      "EnglishWord": "arbitary number",
+      "Meanings": [
+        "عدد اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary constant",
+      "Meanings": [
+        "ثابت دل‌خواه"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary origin",
+      "Meanings": [
+        "مبدا دل‌خواه"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary scale",
+      "Meanings": [
+        "مقیاس دل‌خواه"
+      ]
+    },
+    {
+      "EnglishWord": "arc",
+      "Meanings": [
+        "کمان",
+        "قوس",
+        "آرک",
+        "طاق",
+        "قطعه پیوسته ای از محیط یک دایره مترادف است با circular arc",
+        "edge"
+      ]
+    },
+    {
+      "EnglishWord": "arc cosecant",
+      "Meanings": [
+        "عکس کسکانت",
+        "آرک کسکانت",
+        "کمان قطر ظل تمام"
+      ]
+    },
+    {
+      "EnglishWord": "arc cosine",
+      "Meanings": [
+        "عکس کسینوس",
+        "قوس جیب تمام",
+        "آرک کسینوس"
+      ]
+    },
+    {
+      "EnglishWord": "arc cotangent",
+      "Meanings": [
+        "قوس ظل تمام",
+        "آرک کتانژانت",
+        "کمان ظل تمام"
+      ]
+    },
+    {
+      "EnglishWord": "arc disjoint paths",
+      "Meanings": [
+        "مسیرهای کمانی مجزا",
+        "در گراف",
+        "دو مسیر که نقاط انتهایی مشترک دارند ولی هیچ کمان مشترکی ندارند"
+      ]
+    },
+    {
+      "EnglishWord": "arc function",
+      "Meanings": [
+        "تابع کمان"
+      ]
+    },
+    {
+      "EnglishWord": "arc hyperbolic",
+      "Meanings": [
+        "آرک هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "arc length",
+      "Meanings": [
+        "طول کمان",
+        "طول قوس",
+        "درازای کمان",
+        "سنجه اندازه خم"
+      ]
+    },
+    {
+      "EnglishWord": "arc length function",
+      "Meanings": [
+        "تابع طول قوس",
+        "تابع درازای کمان"
+      ]
+    },
+    {
+      "EnglishWord": "arc secant",
+      "Meanings": [
+        "آرک سکانت",
+        "کمان قطر ظل"
+      ]
+    },
+    {
+      "EnglishWord": "arc tangent",
+      "Meanings": [
+        "کمان تانژانت",
+        "کمان ظل",
+        "قوس ظل",
+        "آرک تانژانت"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean",
+      "Meanings": [
+        "ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean law",
+      "Meanings": [
+        "قانون ارشمیدسی",
+        "قانون ارشمیدس"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean ordered field",
+      "Meanings": [
+        "هییت مرتب ارشمیدسی",
+        "میدان مرتب ارشمیدسی",
+        "میدانی مجهز به یک ترتیب خطی که در اصل موضوع ارشمیدس صدق کند"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean property",
+      "Meanings": [
+        "خاصیت ارشمیدسی",
+        "ویژگی ارشمیدسی",
+        "ویژگی ارشمیدس"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean solid",
+      "Meanings": [
+        "جسم ارشمیدسی",
+        "جسمی که همه وجوه آن چندضلعیهای منتظم اند. هرچند همگی لزوما از یک نوع نیستند و همه زوایای چندوجهی آن باهم برابرند. تعداداین جسم‌ها 13 تاست",
+        "کلمه مترادف",
+        "semiregular solid"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean solids",
+      "Meanings": [
+        "اجسام ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean spiral",
+      "Meanings": [
+        "مارپیچ ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "archimedean totally ordered group",
+      "Meanings": [
+        "گروه تماما مرتب ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "archimedes",
+      "Meanings": [
+        "ارشمیدس",
+        "تا 287 قبل از میلاد"
+      ]
+    },
+    {
+      "EnglishWord": "archimedes' axiom",
+      "Meanings": [
+        "اصل موضوع ارشمیدس"
+      ]
+    },
+    {
+      "EnglishWord": "archimedes' principle",
+      "Meanings": [
+        "اصل ارشمیدس",
+        "اصل موضوع ارشمیدس"
+      ]
+    },
+    {
+      "EnglishWord": "archimedes' problem",
+      "Meanings": [
+        "مساله ارشمیدس",
+        "مساله تقسیم یک نمیکره به دو قسمت با حجم برابر به وسیله صفحه ای موازی با قاعده نیمکره",
+        "این مساله را نمی‌توان با روشهای اقلیدسی حل کرد"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine",
+      "Meanings": [
+        "آرک‌سینوس",
+        "عکس سینوس",
+        "کمان جیب",
+        "قوس جیب"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine distribution",
+      "Meanings": [
+        "توزیع آرک‌سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine transformation",
+      "Meanings": [
+        "تبدیل آرک‌سینوسی",
+        "روشی برای تبدیل داده‌های متشکل از فراوانی‌ها یا نسبت‌ها به شکلی که به وسیله تحلیل واریانس یا تحلیل رگرسیون قابل بررسی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "arcwise",
+      "Meanings": [
+        "کمانی",
+        "کمانوار"
+      ]
+    },
+    {
+      "EnglishWord": "arcwise connected",
+      "Meanings": [
+        "دارای ارتباط قوسی",
+        "مرتبط قوسی"
+      ]
+    },
+    {
+      "EnglishWord": "arcwise connected set",
+      "Meanings": [
+        "مجموعه همبند کمانوار",
+        "مجموعه کمانی همبند",
+        "مجموعه ای که هر جفت از نقاط آن را می‌توان به وسیله کمان ساده ای که همه نقاطش در آن مجموعه باشد",
+        "به هم وصل کرد",
+        "کلمات مترادف",
+        "path connected set",
+        "pathwise connected set"
+      ]
+    },
+    {
+      "EnglishWord": "arcwise connectedness",
+      "Meanings": [
+        "همبندی کمانوار"
+      ]
+    },
+    {
+      "EnglishWord": "area",
+      "Meanings": [
+        "مساحت",
+        "پهنه",
+        "اندازه سطح",
+        "وسعت",
+        "سطح",
+        "رویه",
+        "شاخصی از اندازه یک سطح دو بعدی",
+        "یا اندازه ناحیه ای روی چنین سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "area element",
+      "Meanings": [
+        "عنصر مساحت"
+      ]
+    },
+    {
+      "EnglishWord": "area sample",
+      "Meanings": [
+        "نمونه منطقه ای آمار"
+      ]
+    },
+    {
+      "EnglishWord": "area sampling",
+      "Meanings": [
+        "نمونه‌گیری در سطح",
+        "روشی که در آن",
+        "ناحیه‌ای که قرار است از آن نمونه‌گیری شود به اجزای کوچک‌تری تقسیم می‌شود که به طور تصادفی انتخاب می‌شوند و سپس مورد نمونه‌گیری یا آمارگیری کامل قرار می‌گیرند. این روش وقتی به کار می‌رود که چارچوب مرجع کاملی در دسترس نباشد"
+      ]
+    },
+    {
+      "EnglishWord": "area under curve",
+      "Meanings": [
+        "سطح زیر منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "area under normal curve",
+      "Meanings": [
+        "سطح زیر منحنی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "areal",
+      "Meanings": [
+        "سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "areal coordinates",
+      "Meanings": [
+        "مختصات گرانیگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "areal integral",
+      "Meanings": [
+        "انتگرال در روی سطح"
+      ]
+    },
+    {
+      "EnglishWord": "areal velocity",
+      "Meanings": [
+        "سرعت مساحتی"
+      ]
+    },
+    {
+      "EnglishWord": "arete",
+      "Meanings": [
+        "فصل مشترک",
+        "خط الراس کوه"
+      ]
+    },
+    {
+      "EnglishWord": "argan diagram",
+      "Meanings": [
+        "نمودار آرگان"
+      ]
+    },
+    {
+      "EnglishWord": "argand diagram",
+      "Meanings": [
+        "نمودار آرگان",
+        "یک دستگاه مختصات دکارتی دو بعدی برای نمایش اعداد مختلط",
+        "عدد x+iy در این نمودار به وسیله نقطه ای که مختصاتش x و y اندنمایش داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "argument",
+      "Meanings": [
+        "شناسه عدد مختلط",
+        "متغیر",
+        "آوند عدد مختلط",
+        "برهان منطق",
+        "آرگومان",
+        "رهبر",
+        "حجت",
+        "مستند",
+        "زاویه هادی"
+      ]
+    },
+    {
+      "EnglishWord": "argument of a function",
+      "Meanings": [
+        "شناسه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "argument of complex number",
+      "Meanings": [
+        "شناسه یک عدد مختلط",
+        "آرگومان یک عدد مختلط",
+        "آوند عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "argument of function",
+      "Meanings": [
+        "شناسه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "argument principle",
+      "Meanings": [
+        "اصل آوند"
+      ]
+    },
+    {
+      "EnglishWord": "argumentation",
+      "Meanings": [
+        "استدلال",
+        "بحث",
+        "مناظره",
+        "مباحثه",
+        "مناظرات",
+        "اقامه حجت",
+        "حجت"
+      ]
+    },
+    {
+      "EnglishWord": "aristotelian logic",
+      "Meanings": [
+        "منطق ارسطویی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "arithlog paper",
+      "Meanings": [
+        "کاغذی برای ترسیم در یک دستگاه مختصات نیم لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic",
+      "Meanings": [
+        "حساب",
+        "حسابی",
+        "علم حساب",
+        "عددی",
+        "حساب ریاضی",
+        "شمار",
+        "جمع",
+        "تفریق",
+        "ضرب",
+        "و تقسیم",
+        "معمولا در مورد اعداد صحیح",
+        "گویا",
+        "حقیقی",
+        "یا مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic",
+      "Meanings": [
+        "حساب",
+        "جمع",
+        "تفریق",
+        "ضرب و تقسیم",
+        "معمولا در مورد اعداد صحیح",
+        "گویا",
+        "حقیقی یا مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic average",
+      "Meanings": [
+        "متوسط حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic calculus",
+      "Meanings": [
+        "حساب"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic expression",
+      "Meanings": [
+        "عبارت حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic function",
+      "Meanings": [
+        "تابع حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic logarithm",
+      "Meanings": [
+        "لگاریتم حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic mean",
+      "Meanings": [
+        "میانگین حسابی",
+        "واسطه حسابی",
+        "واسطه عددی",
+        "متوسط حسابی",
+        "میانگین",
+        "معدل",
+        "متوسط چند عدد که با تقسیم مجموع آن‌ها بر تعدادشان به دست می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic modular group",
+      "Meanings": [
+        "گروه کالبدی حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic progression",
+      "Meanings": [
+        "تصاعد حسابی",
+        "تصاعد عددی",
+        "فرایازی حسابی",
+        "دنباله‌ای از اعداد به طوری که تفاضل بین هر دو عدد متوالی همواره برابر با مقدار ثابتی چون d باشد"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic scale",
+      "Meanings": [
+        "اشل حسابی",
+        "سنجه حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic sequence",
+      "Meanings": [
+        "دنباله حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic series",
+      "Meanings": [
+        "سری حسابی",
+        "سری‌ای که جمله‌های آن یک تصاعد حسابی می‌سازند"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic sum",
+      "Meanings": [
+        "مجموع حسابی",
+        "نتیجه جمع دو یا چند کمیت مثبت",
+        "نتیجه جمع قدرمطلق‌های دو یا چند کمیت"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic triangle",
+      "Meanings": [
+        "مثلث حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetical",
+      "Meanings": [
+        "حسابی",
+        "مربوط به علم حساب"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetical addition",
+      "Meanings": [
+        "جمع حسابی",
+        "جمع عددهای مثبت یا قدر مطلق‌های عددهای علامت دار"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetical progression",
+      "Meanings": [
+        "تصاعد عددی",
+        "تصاعد حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetical proposition",
+      "Meanings": [
+        "تناسب حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetician",
+      "Meanings": [
+        "دانشمند علم حساب"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetising",
+      "Meanings": [
+        "حسابی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetization",
+      "Meanings": [
+        "حسابی کردن",
+        "حسابیدن",
+        "حسابی سازی",
+        "بررسی شاخه‌های گوناگون ریاضیات عالی با روشهایی که در آنها فقط از مفاهیم و عملهای اصلی حساب استفاده می‌شود",
+        "نمایش اعضای یک مجموعه متناهی یا نامتناهی شمارا به وسیله اعداد صحیح نامنفی",
+        "کلمه مترادف",
+        "Godel numbering"
+      ]
+    },
+    {
+      "EnglishWord": "arithmometer",
+      "Meanings": [
+        "نوعی ماشین محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "arm",
+      "Meanings": [
+        "ضلع",
+        "در مورد ضلعهای زاویه به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "armillary sphere",
+      "Meanings": [
+        "کره مشبک ]ذات الحلق نجوم ["
+      ]
+    },
+    {
+      "EnglishWord": "arrange",
+      "Meanings": [
+        "مرتب کردن",
+        "ترتیب دادن",
+        "آراستن",
+        "تعبیه کردن",
+        "قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "arrange a polynomial in order of decreasing powers",
+      "Meanings": [
+        "مرتب کردن یک چندجمله ای بر حسب قوای نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "arranged",
+      "Meanings": [
+        "مرتب شده",
+        "آراسته"
+      ]
+    },
+    {
+      "EnglishWord": "arrangement",
+      "Meanings": [
+        "آرایش",
+        "ترتیب",
+        "جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "آرایه",
+        "آرایش",
+        "ترتیب",
+        "در صف کردن",
+        "صف و منظم",
+        "در آمار",
+        "دنباله‌ای از عناصر داده‌ها که بر حسب مقادیرشان",
+        "مثلا از بزرگ‌ترین به کوچک‌ترین مقدار",
+        "مرتب شده‌اند. در ریاضیات",
+        "به طور کلی به نمایشی از اعداد یا کمیت‌ها به شیوه‌ای منظم",
+        "مثلا به شکل ماتریس",
+        "اطلاق می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "array mean",
+      "Meanings": [
+        "میانگین آرایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "arrival",
+      "Meanings": [
+        "ورودی آمار",
+        "وارد"
+      ]
+    },
+    {
+      "EnglishWord": "arrow",
+      "Meanings": [
+        "پیکان",
+        "تیر",
+        "فلش",
+        "سهم",
+        "خیز"
+      ]
+    },
+    {
+      "EnglishWord": "arrow category",
+      "Meanings": [
+        "کاتگوری پیکان ها"
+      ]
+    },
+    {
+      "EnglishWord": "ars conjectandi",
+      "Meanings": [
+        "فن حدس"
+      ]
+    },
+    {
+      "EnglishWord": "arthur cayley",
+      "Meanings": [
+        "آرتور کیلی",
+        "کیلی استعداد ریاضی خود را در سنین اولیه نشان داد و به سرعت در مدرسه شکوفا شد. پدر تاجرش",
+        "پس از کمی مقاومت",
+        "او را در سن 17 سالگی به کمبریج فرستاد. وی در 8 سال آثار اساتید را خواند و بیش از 20 مقاله راجع به مباحثی نوشت که وی را تا آخر عمر سرگرم ساختند. او علاوه بر این",
+        "توجه زیادی به ادبیات",
+        "معماری و نقاشی نشان داد. یونانی",
+        "آلمانی و فرانسه را به خوبی زبان انگلیسی می‌خواند. استعدادش را در نقاشی آبرنگ نشان داد. یک ورزشکار و کوهنورد جدی بود",
+        "در 25 سالگی بدون توجه جدی به ریاضیات",
+        "تعلیم حقوق دید و سه سال بعد وکیل شد. وی به عنوان یک وکیل زندگی راحتی داشت اما برای پرداختن به ریاضیات تسلیم پول نشد. او در طی 14 سال تقریبا 300 مقاله منتشر کرد. وی بالاخره در سال 1863 استادی سادلری در کمبریج را پذیرفت و تا آخر عمرش در آنجا ماند و به خاطر مدیریت و مهارتهایش در تدریس و نیز داشتن خصلت طلبگی مورد احترام واقع شد",
+        "با آنکه آرتور کیلی مفهوم گروه مجرد را معرفی کرد",
+        "کارهای اصلی اش در جای دیگرند. او به کمک دوست مادام العمرش «ج. ج. سیلوستر J. J. Sylvester» نظریه پایاها را پی ریزی کرد. وی یکی از نخستین کسانی بود که هندسه بیش از سه بعد را در نظر گرفت و جبر ماتریسی و نظریه دترمینانها را ابداع نمود. وی همچنین راجع به چهارگانها",
+        "نظریه معادلات",
+        "دینامیک وستاره شناسی مطالبی نوشت. کیلی تا زمان مرگ به کارش ادامه داد و از خود 966 مقاله به جا گذاشت که در 13 جلد",
+        "و هر جلد 600صفحه است"
+      ]
+    },
+    {
+      "EnglishWord": "artificial",
+      "Meanings": [
+        "مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial intelligence",
+      "Meanings": [
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial intelligence modeling approach",
+      "Meanings": [
+        "رهیافت مدل هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial number",
+      "Meanings": [
+        "عدد مصنوعی",
+        "عدد وضعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial technique",
+      "Meanings": [
+        "روش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial technique single constraint",
+      "Meanings": [
+        "روش مصنوعی تک‌محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "artificial technique single variable",
+      "Meanings": [
+        "روش مصنوعی تک‌متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "artificial variable",
+      "Meanings": [
+        "متغیر مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artinian",
+      "Meanings": [
+        "آرتینی"
+      ]
+    },
+    {
+      "EnglishWord": "artinian ring",
+      "Meanings": [
+        "حلقه آرتینی",
+        "حلقه ای روی ایده آلهای چپ یا ایده آلهای راست آرتینی است اگر هر دنباله کاهشی ایده آلهای چپ یا ایده آلهای راست فقط تعدادی متناهی عضو متمایز داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "ascendant",
+      "Meanings": [
+        "صعودی",
+        "بالارو"
+      ]
+    },
+    {
+      "EnglishWord": "ascendant curve",
+      "Meanings": [
+        "خم صعودی",
+        "منحنی صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascendant function",
+      "Meanings": [
+        "تابع صعودی",
+        "تابع بالارو",
+        "تابع صاعد"
+      ]
+    },
+    {
+      "EnglishWord": "ascending",
+      "Meanings": [
+        "صعودی",
+        "فزاینده",
+        "فرازی نجوم"
+      ]
+    },
+    {
+      "EnglishWord": "ascending chain",
+      "Meanings": [
+        "زنجیر فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "ascending chain condition",
+      "Meanings": [
+        "شرط زنجیر افزایشی",
+        "شرط زنجیر فزاینده",
+        "این شرط در مورد یک حلقه که هر دنباله افزایشی از ایده‌آل‌های چپ یا ایده‌آل‌های راست فقط تعدادی متناهی عضو متمایز داشته باشند"
+      ]
+    },
+    {
+      "EnglishWord": "ascending error",
+      "Meanings": [
+        "خطای فزاینده",
+        "خطای افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending powers",
+      "Meanings": [
+        "قوای صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending reduction",
+      "Meanings": [
+        "برداشتن عدد",
+        "رفع عدد"
+      ]
+    },
+    {
+      "EnglishWord": "ascending sequence",
+      "Meanings": [
+        "دنباله افزایشی",
+        "دنباله ای از اعضای یک مجموعه جزیا مرتب به نحوی که هر عضو دنباله نابزرگتر از عضو بعدی باشد",
+        "به خصوص",
+        "دنباله ای از مجموعه‌ها به نحوی که هر عضو دنباله زیرمجموعه ای از عضو بعدی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "ascending series",
+      "Meanings": [
+        "سری افزایشی",
+        "سری ای که هر یک از جمله هایش بزرگتر از جمله قبلی باشد",
+        "power series"
+      ]
+    },
+    {
+      "EnglishWord": "ascensional",
+      "Meanings": [
+        "صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascoli's theorem",
+      "Meanings": [
+        "قضیه آسکولی",
+        "این قضیه که مجموعه ای از توابع حقیقی مقدار یکنواخت کراندار و هم پیوسته روی مجموعه ای بسته از یک فضای n بعدی اقلیدسی حقیقی شامل دنباله ای از توابع است که روی زیرمجموعه‌های فشرده به طور یکنواخت همگراست"
+      ]
+    },
+    {
+      "EnglishWord": "ashoob theorem",
+      "Meanings": [
+        "نظریه آشوب در ریاضی",
+        "برخی پدیده‌های طبیعی مانند طوفان",
+        "موج و بسیاری لز چیزهایی که به نظر ما آشفتگی به نظر می‌آید",
+        "در حقیقت دارای نظم است که به وسیله ریاضی آشوب",
+        "قابل تحلیل است. از این دانش نوین که گفته می‌شود دریچه ای به روی خداشناسی باز می‌کند",
+        "دانشمندان می‌توانند پدیده‌ها را بررسی و پیش بینی کنند"
+      ]
+    },
+    {
+      "EnglishWord": "aspe of a curve",
+      "Meanings": [
+        "نقطه نهایی منحنی",
+        "نقطه اوج یک منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "assertion",
+      "Meanings": [
+        "حکم",
+        "ادعا",
+        "تصدیق منطق",
+        "تایید",
+        "بیان",
+        "مدعا"
+      ]
+    },
+    {
+      "EnglishWord": "assertoric judgement",
+      "Meanings": [
+        "حکم واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "assessment",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "assessment of probabilities",
+      "Meanings": [
+        "ارزیابی احتمال‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "assign",
+      "Meanings": [
+        "اختصاص دادن",
+        "نسبت دادن",
+        "گماردن",
+        "تخصیص دادن",
+        "حواله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "assignable cause",
+      "Meanings": [
+        "علت اسنادپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "assignment",
+      "Meanings": [
+        "واگذاری",
+        "تخصیص"
+      ]
+    },
+    {
+      "EnglishWord": "assimilate",
+      "Meanings": [
+        "تلفیق کردن",
+        "برابر کردن",
+        "شبیه ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "associate",
+      "Meanings": [
+        "اتحاد دادن",
+        "نسبت دادن",
+        "شرکت دادن",
+        "شریک دادن",
+        "ترکیب کردن",
+        "پیوند یافتن",
+        "مربوط ساختن",
+        "همراه کردن",
+        "وابسته بودن",
+        "وابسته",
+        "شریک عضو یک دستگاه",
+        "همپا",
+        "انباز",
+        "هم دم"
+      ]
+    },
+    {
+      "EnglishWord": "associate curve",
+      "Meanings": [
+        "خم وابسته",
+        "کلمه مترادف",
+        "Bertrand curve"
+      ]
+    },
+    {
+      "EnglishWord": "associate to the left",
+      "Meanings": [
+        "الحاق به چپ"
+      ]
+    },
+    {
+      "EnglishWord": "associated",
+      "Meanings": [
+        "همپا",
+        "شریک",
+        "وابسته",
+        "مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "associated chebyshev",
+      "Meanings": [
+        "شبه چبیشف"
+      ]
+    },
+    {
+      "EnglishWord": "associated ideal",
+      "Meanings": [
+        "ایده آل وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "associated lauguerre",
+      "Meanings": [
+        "شبه لاگر"
+      ]
+    },
+    {
+      "EnglishWord": "associated legendre",
+      "Meanings": [
+        "شبه لژاندر"
+      ]
+    },
+    {
+      "EnglishWord": "associated matrix",
+      "Meanings": [
+        "ماتریس وابسته",
+        "کلمه مترادف",
+        "Hermitian conjugate"
+      ]
+    },
+    {
+      "EnglishWord": "associated operator",
+      "Meanings": [
+        "عملگر وابسته",
+        "کلمه مترادف",
+        "adjoint operator"
+      ]
+    },
+    {
+      "EnglishWord": "associated prime ideal",
+      "Meanings": [
+        "ایده آل اول وابسته",
+        "یک ایده آل اول I در حلقه ای تعویض پذیر چون R وابسته به یک مدول M روی R نامیده می‌شود اگر عنصر x ای در M وجود داشته باشد به نحوی که I پوچساز x باشد"
+      ]
+    },
+    {
+      "EnglishWord": "associated tensor",
+      "Meanings": [
+        "تانسور وابسته",
+        "تانسوری که از ضرب داخلی یک تانسور مفروض در تانسور متریک یا با انجام یک رشته از اینگونه عملها به دست می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "associates",
+      "Meanings": [
+        "عناصر وابسته",
+        "دو عنصر x و y در یک حلقه تعویض پذیر مجهز به همانی به طوری که x=ay که در آن a عنصری وارون پذیر است",
+        "کلمه مترادف",
+        "aquivalent elements"
+      ]
+    },
+    {
+      "EnglishWord": "association",
+      "Meanings": [
+        "انجمن",
+        "پیوند آمار",
+        "ترکیب",
+        "شرکت",
+        "اتحاد",
+        "ربط",
+        "همراهی",
+        "وابستگی",
+        "ارتباط",
+        "مربوط کردن"
+      ]
+    },
+    {
+      "EnglishWord": "association coefficient",
+      "Meanings": [
+        "ضریب پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "associative",
+      "Meanings": [
+        "شرکت پذیری",
+        "انجمنی",
+        "شرکت پذیر عمل",
+        "پیوندی",
+        "ترکیب",
+        "جمعیت پذیر",
+        "ترکیب پذیر",
+        "مشارکتی",
+        "همبند"
+      ]
+    },
+    {
+      "EnglishWord": "associative algebra",
+      "Meanings": [
+        "جبر شرکت پذیر",
+        "جبر انجمنی",
+        "جبری که در آن ضرب برداری از قانون شرکت پذیری تبعیت می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "associative composition",
+      "Meanings": [
+        "همنهش انجمنی"
+      ]
+    },
+    {
+      "EnglishWord": "associative law",
+      "Meanings": [
+        "قانون شرکت پذیری",
+        "قانون انجمنی",
+        "قانون ترکیب انجمنی",
+        "قانون ترکیب",
+        "قانون جمعیت پذیری",
+        "اصل شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative laws",
+      "Meanings": [
+        "قوانین شرکتپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative low",
+      "Meanings": [
+        "قانون شرکت‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative operation",
+      "Meanings": [
+        "عمل شرکت پذیری",
+        "عمل انجمنی"
+      ]
+    },
+    {
+      "EnglishWord": "associative property",
+      "Meanings": [
+        "خاصیت شرکت پذیری",
+        "ویژگی شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative subsets",
+      "Meanings": [
+        "زیرمجموعه‌های جمعیت پذیر",
+        "زیرمجموعه‌های وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "associativity",
+      "Meanings": [
+        "ویژگی انجمنی",
+        "شرکت پذیری",
+        "خاصیت انجمنی",
+        "انجمن پذیری",
+        "خاصیت شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associativity law",
+      "Meanings": [
+        "قانون جمعیت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associativity law of composition of mappings",
+      "Meanings": [
+        "خاصیت انجمنی ترکیب نگاشت ها"
+      ]
+    },
+    {
+      "EnglishWord": "associativity of product",
+      "Meanings": [
+        "انجمنی بودن ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "associativity relative to factors",
+      "Meanings": [
+        "جمعیت پذیری نسبت به عوامل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "assume",
+      "Meanings": [
+        "گرفتن",
+        "فرض کردن",
+        "انگاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "assume a value",
+      "Meanings": [
+        "قبول کردن یک مقدار",
+        "مقدار پذیرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "assumed",
+      "Meanings": [
+        "مفروض"
+      ]
+    },
+    {
+      "EnglishWord": "assumption",
+      "Meanings": [
+        "فرض",
+        "مفروض",
+        "گیرش"
+      ]
+    },
+    {
+      "EnglishWord": "assumptions in linear programming",
+      "Meanings": [
+        "فرضیه‌های برنامه‌ریزی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "assurance",
+      "Meanings": [
+        "اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "astroid",
+      "Meanings": [
+        "ستاره وار",
+        "آسترویید",
+        "منحنی ستاره گون",
+        "خم ستاره ای",
+        "درون چرخزادی که برای آن قطر دایره ثابت چهار برابر قطر دایره غلتان است"
+      ]
+    },
+    {
+      "EnglishWord": "astrology",
+      "Meanings": [
+        "احکام نجوم",
+        "تنجیم"
+      ]
+    },
+    {
+      "EnglishWord": "astronomic",
+      "Meanings": [
+        "نجومی",
+        "هییتی"
+      ]
+    },
+    {
+      "EnglishWord": "astronomical",
+      "Meanings": [
+        "نجومی",
+        "هییتی"
+      ]
+    },
+    {
+      "EnglishWord": "astronomy",
+      "Meanings": [
+        "نجوم",
+        "هییت"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric",
+      "Meanings": [
+        "نامتقارن",
+        "بی‌تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric distribution",
+      "Meanings": [
+        "توزیع نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric function",
+      "Meanings": [
+        "تابع غیرمتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric population",
+      "Meanings": [
+        "جامعه نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetrical",
+      "Meanings": [
+        "ناهمال"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetry",
+      "Meanings": [
+        "نامتقارنی",
+        "بی‌تقارنی",
+        "عدم تقارن",
+        "ناهمالی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptote",
+      "Meanings": [
+        "مجانب",
+        "خط مجانب",
+        "مماس ازلی",
+        "خطی که وقتی یک خم به سوی بینهایت می‌رود",
+        "در حد به آن خط میل می‌کند",
+        "حد مماسهای وارد بر یک خم وقتی نقطه تماس به بینهایت میل می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "asymptote parabola",
+      "Meanings": [
+        "سهمی مجانب",
+        "مجانب سهمی",
+        "سهمی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic",
+      "Meanings": [
+        "مجانبی",
+        "مجانب وار",
+        "مجانب",
+        "همگام",
+        "فرجامی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic behaviour",
+      "Meanings": [
+        "رفتار مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic convergence",
+      "Meanings": [
+        "همگرایی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic curve",
+      "Meanings": [
+        "خم مجانبی",
+        "خمی روی یک رویه که صفحه بوسان آن در هر نقطه با صفحه مماس بر رویه یکی است"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic direction",
+      "Meanings": [
+        "امتداد مجانبی",
+        "مجانب راستا"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic directions",
+      "Meanings": [
+        "امتدادهای مجانبی",
+        "برای یک نقطه هذلولوی روی یک رویه",
+        "دو راستایی که در آنها خمیدگی قایم صفر می‌شود یا به عبارت دیگر",
+        "راستاهای خمهای مجانبی گذرنده از آن نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic distribution",
+      "Meanings": [
+        "توزیع مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic efficency",
+      "Meanings": [
+        "کارایی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic efficiency",
+      "Meanings": [
+        "کارایی مجانبی",
+        "کارایی یک برآوردگر در حد",
+        "وقتی اندازه نمونه افزایش می‌یابد"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic expansion",
+      "Meanings": [
+        "بسط مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic formula",
+      "Meanings": [
+        "فرمول مجانبی",
+        "عبارتی حاکی از برابری دو تابع که در واقع برابر نیستند ولی وقتی متغیر به حدی",
+        "معمولا بینهایت",
+        "میل کند",
+        "نسبت دو تابع به 1 می‌گراید"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic formula of de moivre laplace",
+      "Meanings": [
+        "فرمول مجانبی موآور لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic formula of poisson",
+      "Meanings": [
+        "فرمول مجانبی پوآسون"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic line",
+      "Meanings": [
+        "خم مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic method",
+      "Meanings": [
+        "روش مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic nonsingular normal distribution",
+      "Meanings": [
+        "توزیع مجانبی نرمال ناویژه"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic normality",
+      "Meanings": [
+        "نرمال‌بودن مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic parallel",
+      "Meanings": [
+        "موازی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic point",
+      "Meanings": [
+        "نقطه مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic property",
+      "Meanings": [
+        "ویژگی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic relative efficiency",
+      "Meanings": [
+        "کارآیی نسبی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic relative efficiency of estimator",
+      "Meanings": [
+        "کارآیی نسبی مجانبی برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic representation",
+      "Meanings": [
+        "نمایش مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic series",
+      "Meanings": [
+        "سری مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic stability",
+      "Meanings": [
+        "پایداری مجانبی",
+        "ویژگی یک معادله دیفرانسیل برداری که در شرطهای زیر صدق کند",
+        "وقتی مقدار شر اولیه به قدر کافی کوچک است",
+        "اختلالات کوچکی در شرط اولیه اختلالات کوچکی در جواب ایجاد کند",
+        "دامنه ربایشی وجود داشته باشد به نحوی که هر گاه شرط اولیه متعلق به این دامنه باشد",
+        "جواب در زمانهای طولانی به صفر میل کند"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic sufficiency",
+      "Meanings": [
+        "بسندگی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic test",
+      "Meanings": [
+        "آزمون مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic variance",
+      "Meanings": [
+        "واریانس مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotical expansion",
+      "Meanings": [
+        "بسط مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotical independence",
+      "Meanings": [
+        "نابستگی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically",
+      "Meanings": [
+        "به طور مجانبی",
+        "مجانبا"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically efficient estimator",
+      "Meanings": [
+        "برآوردگر مجانبا کارآ"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically equal",
+      "Meanings": [
+        "مجانبا مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically normal",
+      "Meanings": [
+        "مجانب طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically unbiased estimator",
+      "Meanings": [
+        "برآوردگر مجانبا نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotics",
+      "Meanings": [
+        "مجانبیات"
+      ]
+    },
+    {
+      "EnglishWord": "at least",
+      "Meanings": [
+        "حداقل",
+        "دست کم",
+        "کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "at least enumerable",
+      "Meanings": [
+        "منتها شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "at least most denumerable",
+      "Meanings": [
+        "منتها شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "at most",
+      "Meanings": [
+        "حداکثر",
+        "بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "at most countable",
+      "Meanings": [
+        "منتها شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "at most countably infinite",
+      "Meanings": [
+        "حداکثر نامتناهی شمارش پذیر",
+        "حداکثر شمارش پذیر",
+        "حداکثر شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "at random",
+      "Meanings": [
+        "به تصادف"
+      ]
+    },
+    {
+      "EnglishWord": "at the most",
+      "Meanings": [
+        "به حداکثر"
+      ]
+    },
+    {
+      "EnglishWord": "atlas",
+      "Meanings": [
+        "اطلس",
+        "اطلسی برای یک خمینه",
+        "گردآیه ای از نقشه‌های مختصات است که آن خمینه را بپوشاند"
+      ]
+    },
+    {
+      "EnglishWord": "atmospheric statistics",
+      "Meanings": [
+        "آمار جوی"
+      ]
+    },
+    {
+      "EnglishWord": "atom",
+      "Meanings": [
+        "اتم",
+        "عنصری چون A به جز عنصر صفر از یک جبر اندازه",
+        "دارای این ویژگی که هر عنصری که نابزرگتر از A است یا برابر با عنصر صفر باشد یا برابر با A"
+      ]
+    },
+    {
+      "EnglishWord": "atomic",
+      "Meanings": [
+        "اتمی"
+      ]
+    },
+    {
+      "EnglishWord": "atomic formula",
+      "Meanings": [
+        "فرمول اتمی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "attitude",
+      "Meanings": [
+        "ایستار",
+        "وضع"
+      ]
+    },
+    {
+      "EnglishWord": "attract",
+      "Meanings": [
+        "جذب کردن",
+        "ربودن"
+      ]
+    },
+    {
+      "EnglishWord": "attraction",
+      "Meanings": [
+        "جذب",
+        "ربایش",
+        "جاذبه"
+      ]
+    },
+    {
+      "EnglishWord": "attractive",
+      "Meanings": [
+        "کششی",
+        "ربایشی",
+        "جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "attribute",
+      "Meanings": [
+        "نسبت‌دادن",
+        "استناد کردن",
+        "صفت کیفی آمار",
+        "صفت",
+        "توصیف",
+        "وصف",
+        "محمول"
+      ]
+    },
+    {
+      "EnglishWord": "auditing",
+      "Meanings": [
+        "حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "augend",
+      "Meanings": [
+        "مضاف الیه",
+        "کمیتی که کمیتی دیگر به آن افزوده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "augmented",
+      "Meanings": [
+        "افزوده",
+        "افزوده شده",
+        "فزوده"
+      ]
+    },
+    {
+      "EnglishWord": "augmented matrix",
+      "Meanings": [
+        "ماتریس افزوده",
+        "ماتریس زاید",
+        "ماتریس بزرگ‌شده",
+        "ماتریس فزونی",
+        "ماتریس مضاف",
+        "ماتریس ضریب‌های دستگاهی از معادلات خطی به اضافه ستونی مرکب از جمله‌های ثابت آنها"
+      ]
+    },
+    {
+      "EnglishWord": "augmented set",
+      "Meanings": [
+        "مجموعه افزوده شده"
+      ]
+    },
+    {
+      "EnglishWord": "augmenting path",
+      "Meanings": [
+        "مسیر افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "augustin lovis cauchy",
+      "Meanings": [
+        "آگوستین لویی کوشی",
+        "ریاضیدان فرانسوی 1857 1789. در زمینه انتشار امواج",
+        "حساب و الاستی سیته",
+        "مطالعاتی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "augustus de morgan",
+      "Meanings": [
+        "اوگاستس دمورگان: دانشمند ریاضیات",
+        "او دو قانون معروف به نام خودش دارد که عبارتند از",
+        "قوانین دمورگان"
+      ]
+    },
+    {
+      "EnglishWord": "autoconjugate",
+      "Meanings": [
+        "مزدوج با خود",
+        "خودهمیوغ"
+      ]
+    },
+    {
+      "EnglishWord": "autocorrelation",
+      "Meanings": [
+        "خودهمبستگی",
+        "در یک سری زمانی",
+        "رابطه بین مقادیر یک متغیر که در زمان‌های مشخصی در سری به دست آمده‌اند و مقادیری که در زمان‌های دیگر",
+        "معمولا زمان‌های قبلی",
+        "حاصل شده‌اند"
+      ]
+    },
+    {
+      "EnglishWord": "autocorrelation function",
+      "Meanings": [
+        "تابع خودهمبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "autocovariance",
+      "Meanings": [
+        "اتو کوواریانس سری زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "autofunction",
+      "Meanings": [
+        "تابع خاص"
+      ]
+    },
+    {
+      "EnglishWord": "automata theory",
+      "Meanings": [
+        "نظریه اتوماتونها",
+        "نظریه ماشینهای خودکار",
+        "نظریه ای درباره مدلهایی که برای شبیه سازی اشیا و فرایندهایی از قبیل رایانه",
+        "مدارهای دیجیتال",
+        "سیستمهای عصبی",
+        "رشد سلولی و بازتولید به کار می‌روند"
+      ]
+    },
+    {
+      "EnglishWord": "automatic interaction detection technique",
+      "Meanings": [
+        "فن خودکار آشکارسازی اثر مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "automorph",
+      "Meanings": [
+        "خودسان"
+      ]
+    },
+    {
+      "EnglishWord": "automorphic",
+      "Meanings": [
+        "خودریخت",
+        "اتومرف",
+        "همشکل",
+        "خوسانی",
+        "خودشکل"
+      ]
+    },
+    {
+      "EnglishWord": "automorphic function",
+      "Meanings": [
+        "تابع خودسانی"
+      ]
+    },
+    {
+      "EnglishWord": "automorphism",
+      "Meanings": [
+        "خود ریختی",
+        "اتومرفیسم",
+        "همشکلی",
+        "خوسانی",
+        "خوددیسگی",
+        "خودشکلی",
+        "خودریختی ای از یک ساختار جبری با خودش"
+      ]
+    },
+    {
+      "EnglishWord": "automorphism of group",
+      "Meanings": [
+        "اتومرفیسم گروه"
+      ]
+    },
+    {
+      "EnglishWord": "automorphism of module",
+      "Meanings": [
+        "خوسانی مدول",
+        "اتومرفیسم مدول"
+      ]
+    },
+    {
+      "EnglishWord": "autonomous",
+      "Meanings": [
+        "خودمدار"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive",
+      "Meanings": [
+        "خودبرگشتی",
+        "اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive integrated moving average model",
+      "Meanings": [
+        "مدل میانگین متحرک جمع‌بسته اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive model",
+      "Meanings": [
+        "مدل اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive process",
+      "Meanings": [
+        "فرآیند اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive series",
+      "Meanings": [
+        "سری خودبرگشتی",
+        "سری اوتو رگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive-moving average model",
+      "Meanings": [
+        "مدل میانگین متحرک اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary",
+      "Meanings": [
+        "کمکی",
+        "معاون",
+        "معین"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary element",
+      "Meanings": [
+        "عنصر معین"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary equation",
+      "Meanings": [
+        "معادله کمکی",
+        "معادله حاصل از یک معادله دیفرانسیل خطی مفروض با قراردادن صفر به جای جمله ای که فقط شامل متغیر مستقل است",
+        "کلمه متردف",
+        "reduced equation"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary sample",
+      "Meanings": [
+        "نمونه کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary unknown",
+      "Meanings": [
+        "مجهول معاون",
+        "معاون مجهول"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary variable",
+      "Meanings": [
+        "متغیر کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "av",
+      "Meanings": [
+        "arithmetic mean"
+      ]
+    },
+    {
+      "EnglishWord": "availability",
+      "Meanings": [
+        "آمادگی"
+      ]
+    },
+    {
+      "EnglishWord": "average",
+      "Meanings": [
+        "متوسط",
+        "میانگین",
+        "معدل",
+        "میانگاه"
+      ]
+    },
+    {
+      "EnglishWord": "average absolute deviation",
+      "Meanings": [
+        "متوسط قدرمطلق‌های انحرافات"
+      ]
+    },
+    {
+      "EnglishWord": "average critical value method",
+      "Meanings": [
+        "روش مقدار بحرانی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average curvature",
+      "Meanings": [
+        "انحنای متوسط",
+        "خمیدگی متوسط",
+        "برای کمانی مفروض از یک خم مسطح",
+        "نسبت تغییر زاویه میل مماس بر خم",
+        "در طول آن کمان",
+        "به طول کمان"
+      ]
+    },
+    {
+      "EnglishWord": "average density",
+      "Meanings": [
+        "چگالی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average deviation",
+      "Meanings": [
+        "انحراف میانگین",
+        "متوسط انحراف",
+        "انحراف متوسط",
+        "در آمار",
+        "متوسط یا میانگین حسابی قدرمطلق انحراف از یک مقدار مشخص که معمولا میانگین حسابی داده هاست. مخفف آن AD است",
+        "کلمه مترادف",
+        "mean deviation"
+      ]
+    },
+    {
+      "EnglishWord": "average extra defective limit",
+      "Meanings": [
+        "حد متوسط اقلام معیوب اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "average life",
+      "Meanings": [
+        "متوسط عمر"
+      ]
+    },
+    {
+      "EnglishWord": "average outgoing quality",
+      "Meanings": [
+        "متوسط کیفیت خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "average outgoing quality limit",
+      "Meanings": [
+        "حد متوسط کیفیت خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "average rate",
+      "Meanings": [
+        "نرخ متوسط",
+        "نسبت متوسط",
+        "نسبت میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "average rate of change",
+      "Meanings": [
+        "متوسط میزان تغییر",
+        "میزان تغییر متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average rate of increase",
+      "Meanings": [
+        "متوسط میزان افزایش",
+        "نمو متوسط",
+        "نمو میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "average run length",
+      "Meanings": [
+        "متوسط مدت اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "average sample number",
+      "Meanings": [
+        "متوسط تعداد نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "average term",
+      "Meanings": [
+        "جمله عمومی سری"
+      ]
+    },
+    {
+      "EnglishWord": "average value",
+      "Meanings": [
+        "مقدار میانگین",
+        "مقدار متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average velocity",
+      "Meanings": [
+        "سرعت متوسط",
+        "سرعت میانگین",
+        "میانگین سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "averaged shifted histogram",
+      "Meanings": [
+        "بافت‌نگار میانگین انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "averaging",
+      "Meanings": [
+        "متوسط‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "awzalagh",
+      "Meanings": [
+        "ابونصر فارابی",
+        "طبیعیدان",
+        "فیلسوف و ریاضیدان ایرانی",
+        "ه. ق. . نامش محمد",
+        "لقبش اونصر است. گاهی در کتابها به نام‌های ابونصر محمدبن طرخان بن اوزالغ Awzalagh و محمدبن طرخان آمده است. یکی از کتاب‌های مهم وی",
+        "کتاب الاحصاءالعلوم است"
+      ]
+    },
+    {
+      "EnglishWord": "axes of coordinates",
+      "Meanings": [
+        "محورهای مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "axial",
+      "Meanings": [
+        "محوری",
+        "آسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "axial distribution",
+      "Meanings": [
+        "توزیع محوری"
+      ]
+    },
+    {
+      "EnglishWord": "axial symmetry",
+      "Meanings": [
+        "تقارن محوری",
+        "ویژگی یک شکل هندسی که بر اثر دوران حول یک خط مفروض تغییر نمی‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "axiom",
+      "Meanings": [
+        "اصل موضوع",
+        "هر یک از مفروضاتی که یک نظریه ریاضی از قبیل هندسه",
+        "نظریه حلقه ها",
+        "و اعداد حقیقی بر آنها مبتنی است",
+        "کلمه مترادف",
+        "postulate"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of addition",
+      "Meanings": [
+        "اصل جمع",
+        "آکسیوم جمع"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of additivity",
+      "Meanings": [
+        "اصل جمع پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of archimedes",
+      "Meanings": [
+        "اصل موضوع ارشمیدس",
+        "این اصل است که اگر x عدد حقیقی دلخواهی باشد",
+        "عدد صحیح n ای وجود دارد که بزرگتر از x است",
+        "کلمه مترادف",
+        "Archimedes' axiom"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of cardinality",
+      "Meanings": [
+        "اصل موضوع اعداد اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of choice",
+      "Meanings": [
+        "اصل انتخاب",
+        "اصل موضوع انتخاب",
+        "اصل متعارف انتخاب",
+        "این اصل که به ازای هر خانواده A از مجموعه‌ها تابعی وجود دارد که به هر مجموعه S از خانواده A عضوی از S را نسبت می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of compatibility",
+      "Meanings": [
+        "اصل سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of continuity",
+      "Meanings": [
+        "اصل موضوع پیوستگی",
+        "آکسیوم پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of extension",
+      "Meanings": [
+        "اصل راجع به محتویات"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of hausdorff",
+      "Meanings": [
+        "اصل هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of infinity",
+      "Meanings": [
+        "اصل موضوع بی نهایت",
+        "اصل متعارف بی نهایت"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of least upper bound",
+      "Meanings": [
+        "اصل کناره بالا"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of neighborhoods",
+      "Meanings": [
+        "اصل همسایگی ها"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of nested intervals",
+      "Meanings": [
+        "اصل فواصل تو در تو",
+        "اصل بازه‌های تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of power sets",
+      "Meanings": [
+        "اصل موضوع مجموعه‌های توانی"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of recurrence",
+      "Meanings": [
+        "اصل استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of separation",
+      "Meanings": [
+        "اصل تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of specification",
+      "Meanings": [
+        "اصل موضوع تصریح",
+        "اصل تشخیص",
+        "اصل تجرید"
+      ]
+    },
+    {
+      "EnglishWord": "axiom of zermelo",
+      "Meanings": [
+        "اصل زرملو"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic",
+      "Meanings": [
+        "اصلی",
+        "اصل موضوعی",
+        "مبتنی بر اصول"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic definition of probability",
+      "Meanings": [
+        "تعریف آکسیوماتیک احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic method",
+      "Meanings": [
+        "روش اصل موضوعی",
+        "روش بنداشتی"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic probability theory",
+      "Meanings": [
+        "نظریه احتمالات آکسیوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic set theory",
+      "Meanings": [
+        "نظریه اصل موضوعی مجموعه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic system",
+      "Meanings": [
+        "دستگاه آکسیوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic theory",
+      "Meanings": [
+        "نظریه اصل موضوعی"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic theory of probability",
+      "Meanings": [
+        "نظریه آکسیوماتیک احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatical",
+      "Meanings": [
+        "اصولی"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatizable theory",
+      "Meanings": [
+        "نظریه اصل موضوع‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatization",
+      "Meanings": [
+        "تدوین اصول",
+        "تدوین اصول موضوعه",
+        "اصل‌گذاری",
+        "اصل موضوعی‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatize",
+      "Meanings": [
+        "تدوین کردن اصول موضوعه",
+        "اصل گذاردن"
+      ]
+    },
+    {
+      "EnglishWord": "axioms",
+      "Meanings": [
+        "بدیهیات",
+        "بدیهیات اولیه",
+        "علوم متعارفه اصطلاحات سابق",
+        "اصول موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "axioms of probability",
+      "Meanings": [
+        "اصول موضوع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "axis",
+      "Meanings": [
+        "محور",
+        "آسه",
+        "قطر بیضی",
+        "هذلولی",
+        "در یک دستگاه مختصات",
+        "خطی که یکی از مختصات را معین می‌کند و از صفر قراردادن همه مختصات دیگر به دست می‌آید. مثلا دستگاه مختصات دکارتی در صفحه شامل دو محور متعامد x و y است",
+        "خطی که یک شکل هندسی نسبت به آن متقارن است",
+        "در مخروطی که قاعده آن مرکز دارد",
+        "خط گذرنده از این مرکز و راس مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "axis of abscissas",
+      "Meanings": [
+        "محور طول ها",
+        "محور افقی یا محور x در یک دستگاه مختصات دو بعدی",
+        "که طول‌های نقاط روی آن یا در راستاهای موازی آن اندازه گیری می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "axis of cone",
+      "Meanings": [
+        "سهم مخروط",
+        "تیر مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "axis of coordinates",
+      "Meanings": [
+        "محور مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "axis of cylinder",
+      "Meanings": [
+        "سهم استوانه",
+        "تیر ستون"
+      ]
+    },
+    {
+      "EnglishWord": "axis of homothety",
+      "Meanings": [
+        "محور تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "axis of ordinates",
+      "Meanings": [
+        "محور عرض ها",
+        "محور قایم یا محور y در یک دستگاه مختصات دکارتی دو بعدی که عرض‌های نقاط به موازات آن اندازه گیری می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "axis of rotation",
+      "Meanings": [
+        "محور دوران"
+      ]
+    },
+    {
+      "EnglishWord": "axis of symmetry",
+      "Meanings": [
+        "محور تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth",
+      "Meanings": [
+        "سمت",
+        "زاویه سمت",
+        "زاویه بردار وضع یک نقطه نسبت به محور مختصات قطبی",
+        "شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuthal",
+      "Meanings": [
+        "سمتی"
+      ]
+    }
+  ]
+}

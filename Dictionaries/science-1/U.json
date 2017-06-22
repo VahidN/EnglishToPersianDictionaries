@@ -1,0 +1,239 @@
+﻿{
+  "Group": "U",
+  "Entries": 37,
+  "Words": [
+    {
+      "EnglishWord": "ultra ideal",
+      "Meanings": [
+        "فرا آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ultra parallel",
+      "Meanings": [
+        "فرا موازی"
+      ]
+    },
+    {
+      "EnglishWord": "ultraradical",
+      "Meanings": [
+        "اولترا رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased",
+      "Meanings": [
+        "نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded optimal solution",
+      "Meanings": [
+        "جواب بهینه بی‌کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded polyhedral set",
+      "Meanings": [
+        "مجموعه چندوجهی بی‌کران"
+      ]
+    },
+    {
+      "EnglishWord": "uncertainty",
+      "Meanings": [
+        "ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional inequality",
+      "Meanings": [
+        "نابرابری نامشروط",
+        "نامعادله‌ای که به ازای همه مقادیر متغیرهای موجود در آن صادق است یا نابرابری‌ای که شامل هیچ متعیری نیست",
+        "مثلا y+2&gt; y",
+        "یا 4&gt;"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated variables",
+      "Meanings": [
+        "متغیرهای ناهمبسته"
+      ]
+    },
+    {
+      "EnglishWord": "uncountable",
+      "Meanings": [
+        "ناشمارا"
+      ]
+    },
+    {
+      "EnglishWord": "uncountable set",
+      "Meanings": [
+        "مجموعه ناشمارا",
+        "مجموعه‌ای که تعداد اعضای آن قابل شمارش نباشد مانند مجموعه اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "uniform distribution",
+      "Meanings": [
+        "توزیع یک‌نواخت"
+      ]
+    },
+    {
+      "EnglishWord": "union",
+      "Meanings": [
+        "اجتماع"
+      ]
+    },
+    {
+      "EnglishWord": "union aggregation",
+      "Meanings": [
+        "اجتماع"
+      ]
+    },
+    {
+      "EnglishWord": "union of sets",
+      "Meanings": [
+        "تماع مجموعه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "unique",
+      "Meanings": [
+        "یکتای",
+        "منحصر به فرد بودن",
+        "یکتا",
+        "منحصر به فرد"
+      ]
+    },
+    {
+      "EnglishWord": "unique factorization",
+      "Meanings": [
+        "یکتایی تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "unique finite optimal solution",
+      "Meanings": [
+        "جواب بهینه متناهی منحصر به فرد"
+      ]
+    },
+    {
+      "EnglishWord": "unique solution",
+      "Meanings": [
+        "جواب منحصر به فرد"
+      ]
+    },
+    {
+      "EnglishWord": "unit",
+      "Meanings": [
+        "یکه واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit vector",
+      "Meanings": [
+        "بردار یکه",
+        "بردار واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unitary",
+      "Meanings": [
+        "یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unity",
+      "Meanings": [
+        "واحد"
+      ]
+    },
+    {
+      "EnglishWord": "univariate",
+      "Meanings": [
+        "یک‌متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "univariate distribution",
+      "Meanings": [
+        "توزیع یک‌متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "universal",
+      "Meanings": [
+        "کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal property",
+      "Meanings": [
+        "خاصیت جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "universal quantifier",
+      "Meanings": [
+        "سور عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal set",
+      "Meanings": [
+        "مجموعه مرجع",
+        "مجموعه جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "universe",
+      "Meanings": [
+        "جهان",
+        "گیتی"
+      ]
+    },
+    {
+      "EnglishWord": "unknown",
+      "Meanings": [
+        "مجهول",
+        "نامعلوم"
+      ]
+    },
+    {
+      "EnglishWord": "unrestricted variables",
+      "Meanings": [
+        "متغیرهای نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "updated basis inverse",
+      "Meanings": [
+        "معکوس پایه بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "updated column vector",
+      "Meanings": [
+        "بردار ستونی بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "upper bounds on variables",
+      "Meanings": [
+        "کران بالای متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "upper central series",
+      "Meanings": [
+        "سری مرکزی بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper hessenberg matrix",
+      "Meanings": [
+        "ماتریس هایزنبرگ بالا"
+      ]
+    }
+  ]
+}

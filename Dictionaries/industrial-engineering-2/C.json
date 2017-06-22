@@ -1,0 +1,1384 @@
+﻿{
+  "Group": "C",
+  "Entries": 192,
+  "Words": [
+    {
+      "EnglishWord": "cad/cam data interchange  cdi",
+      "Meanings": [
+        "تبادل داده‌های /"
+      ]
+    },
+    {
+      "EnglishWord": "calendar",
+      "Meanings": [
+        "تقویم",
+        "سالنما"
+      ]
+    },
+    {
+      "EnglishWord": "calibration",
+      "Meanings": [
+        "کالیبراسیون",
+        "مجموعه ای از فعالیت‌ها که تحت شرایط خاص انجام می‌شود‏",
+        "ارتباط بین یک وسیله اندازه گیری و یک استاندارد قابل ردیابی از یک مقدار مرجع استاندارد و شناخته شده و عدم اطمینان موجود در آن. همچنین کالیبراسیون را می‌توان به عنوان قدم هایی برای شناسایی",
+        "اصلاح",
+        "گزارش یا حذف خطاهای بوجود آمده در میزان دقت وسیله مورد سنجش",
+        "تعریف کرد"
+      ]
+    },
+    {
+      "EnglishWord": "calibration interval",
+      "Meanings": [
+        "دوره کالیبراسیون",
+        "مقدار خاصی از زمان و یا مجموعه ای از شرایط بین دو کالیبراسیون که در آن زمان",
+        "پارامترهای کالیبراسیون مربوط به یک وسیله اندازه گیری معتبر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "calibration standard",
+      "Meanings": [
+        "ا ستاندارد کالیبراسیون",
+        "استانداردی که به عنوان یک مرجع در انجام کالیبراسیون‌های معمول مورد استفاده قرار می‌گیرد. که اغلب به عنوان یک حد فاصل میانگیر بین فعالیت‌های کالیبراسیون و استانداردهای مرجع آزمایشگاهی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "cander",
+      "Meanings": [
+        "خلوص"
+      ]
+    },
+    {
+      "EnglishWord": "cantilever rack storage",
+      "Meanings": [
+        "انبارش در قفسه پایه دار"
+      ]
+    },
+    {
+      "EnglishWord": "capability",
+      "Meanings": [
+        "قابلیت ‏",
+        "صلاحیت",
+        "توانایی"
+      ]
+    },
+    {
+      "EnglishWord": "capability maturity model  cmm",
+      "Meanings": [
+        "مدل بلوغ قابلیت"
+      ]
+    },
+    {
+      "EnglishWord": "capacitor sensor",
+      "Meanings": [
+        "سنسور خازنی"
+      ]
+    },
+    {
+      "EnglishWord": "capacity requirement planning  crp",
+      "Meanings": [
+        "برنامه ریزی احتیاجات ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "capital",
+      "Meanings": [
+        "سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital assets",
+      "Meanings": [
+        "دارایی‌های سرمایه ای",
+        "دارایی‌های قابل استهلاک",
+        "کارخانه",
+        "تجهیزات",
+        "نرم افزارهای ابداع شده و… در طول عمر کاری مفید مثلا دو سال یا بیشتر. این دارایی‌ها در انتهای عمر مفید تخمینی خود فاقد ارزش می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "capitalize",
+      "Meanings": [
+        "جمع کردن سرمایه",
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "cargo",
+      "Meanings": [
+        "محموله",
+        "کالا",
+        "بار"
+      ]
+    },
+    {
+      "EnglishWord": "carousel",
+      "Meanings": [
+        "گردان"
+      ]
+    },
+    {
+      "EnglishWord": "cart-on-track conveyor",
+      "Meanings": [
+        "نقاله کارتن روی مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "case study",
+      "Meanings": [
+        "مطالعه موردی"
+      ]
+    },
+    {
+      "EnglishWord": "cash",
+      "Meanings": [
+        "پول نقد",
+        "نقد کردن",
+        "صندوق پول"
+      ]
+    },
+    {
+      "EnglishWord": "cash flow",
+      "Meanings": [
+        "جریان نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cast",
+      "Meanings": [
+        "قالب ریزی",
+        "گیچ گیری",
+        "ریخته گری",
+        "طاس انداختن"
+      ]
+    },
+    {
+      "EnglishWord": "cause",
+      "Meanings": [
+        "علت",
+        "سبب",
+        "موجب"
+      ]
+    },
+    {
+      "EnglishWord": "cause   effect analysis",
+      "Meanings": [
+        "آنالیز علت ومعلول"
+      ]
+    },
+    {
+      "EnglishWord": "cause   effect diagram",
+      "Meanings": [
+        "نمودار علت و معلول",
+        "نموداراستخوان ماهی",
+        "نموداری که در آن معلول در انتهای یک خط قرار گرفته و علل بوجود آورنده آن معلول توسط خط هایی همچون استخوان ماهی به آن وصل می‌شوند. Fish Bone Diagram"
+      ]
+    },
+    {
+      "EnglishWord": "cell",
+      "Meanings": [
+        "سلول",
+        "ترتیب استقرار انواع متفاوت ماشین آلات به نحوی که عملیات متفاوت طی یک توالی فشرده و تنگاتنگ صورت پذیرد. این استقرار نوعا U شکل است بدین منظور که حرکت تک واحدی ممکن گشته و نیروی انسانی چندکاره بتواند جایگیری انعطاف پذیری داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "centilever rack storage",
+      "Meanings": [
+        "انبارش در قفسه پایه دار"
+      ]
+    },
+    {
+      "EnglishWord": "centralization",
+      "Meanings": [
+        "تمرکز",
+        "عبارتست از جمع شدن اختیار تصمیم گیری در دست مدیران"
+      ]
+    },
+    {
+      "EnglishWord": "certainly",
+      "Meanings": [
+        "اطمنان",
+        "حتمی"
+      ]
+    },
+    {
+      "EnglishWord": "certified six sigma black belt  cssbb",
+      "Meanings": [
+        "دارنده مدرک کمربند مشکی در شش سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "chain",
+      "Meanings": [
+        "زنجیر",
+        "حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "chain conveyor",
+      "Meanings": [
+        "نقاله زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "chain sampling",
+      "Meanings": [
+        "نمونه گیری زنجیره ای"
+      ]
+    },
+    {
+      "EnglishWord": "chaku-chaku",
+      "Meanings": [
+        "چاک",
+        "چاکو",
+        "بار",
+        "یک شیوه اجرای حرکت تک واحدی که در آن ماشینکار از یک ماشین به سوی ماشین دیگر می‌رود تا یک قطعه را که عملیات قبلی آن تمام شده بردارد و روی ماشین بعدی سوار کند و این ماشین همینگونه ادامه پیدا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "challenge",
+      "Meanings": [
+        "رقابت کردن",
+        "به مبارزه طلبیدن",
+        "چالش کردن",
+        "تلاش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "change control board  ccb",
+      "Meanings": [
+        "هییت کنترل تغییرات",
+        "گروهی مرکب از ذینفعان که مسیولیت بررسی",
+        "ارزیابی",
+        "تایید",
+        "به تاخیر انداختن یا رد تغییرات پروژه را بر عهده دارند"
+      ]
+    },
+    {
+      "EnglishWord": "change management",
+      "Meanings": [
+        "مدیریت تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "changeover",
+      "Meanings": [
+        "تبدیل",
+        "قرار دادن ابزاری جدید در یک دستگاه یا ماشین برای انجام عملیات متفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "chaos",
+      "Meanings": [
+        "اغتشاش",
+        "هرج و مرج"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic",
+      "Meanings": [
+        "خصیصه",
+        "ویژگی",
+        "مربوط به ویژگی‌های عملکردی و یک قطعه و مشخصاتی از قطعه می‌شود که جنبه مادی ندارند. به عنوان مثال نقش و کارکردی که یک قطعه در یک محصول دارد جزء خصایص آن محصول است"
+      ]
+    },
+    {
+      "EnglishWord": "check sheet",
+      "Meanings": [
+        "برگ ثبت داده ها",
+        "برای شکل دادن به داده‌های جمع آوری شده در یک قالب معین استفاده می‌شود تا بتوان به سادگی از داده‌ها استفاده و آنها را تجزیه و تحلیل کرد"
+      ]
+    },
+    {
+      "EnglishWord": "check standard",
+      "Meanings": [
+        "استاندارد بررسی",
+        "یک وسیله اندازه گیری که تقریبا همان چیزی است که فرآیند برای اندازه گیری آن طراحی شده است",
+        "ولی ذاتا از فرایند اندازه گیری که مورد ارزیابی قرار می‌گیرد",
+        "با ثبات‌تر است"
+      ]
+    },
+    {
+      "EnglishWord": "chief information officer  cio",
+      "Meanings": [
+        "مدیر ارشد اطلاعات",
+        "مدیر ارشد در یک شرکت که مسیول مدیریت اطلاعات و ارایه خدمات تکنولوژی اطلاعات است"
+      ]
+    },
+    {
+      "EnglishWord": "chute conveyor",
+      "Meanings": [
+        "نقاله شیب دار"
+      ]
+    },
+    {
+      "EnglishWord": "ckd",
+      "Meanings": [
+        "در این روش برای تغذیه خطوط",
+        "قطعات محصول بطور جداگانه در بسته هایی با طراحی مهندسی",
+        "بسته بندی و به مقصد حمل شده و سپس در خط تولید مونتاژ می‌شود. در این روش میزان تولید محدود و تعداد محصول در هر محموله ثابت است"
+      ]
+    },
+    {
+      "EnglishWord": "cleanness",
+      "Meanings": [
+        "پاکی",
+        "پاکیزگی",
+        "تمیزی"
+      ]
+    },
+    {
+      "EnglishWord": "clearance",
+      "Meanings": [
+        "لقی ‏",
+        "اختیار ‏",
+        "اجازه",
+        "ترخیص کالا از گمرک"
+      ]
+    },
+    {
+      "EnglishWord": "clearing house",
+      "Meanings": [
+        "اتاق تهاتر",
+        "شرکتی که چکها را نقد می‌نماید",
+        "اطاق پایاپای"
+      ]
+    },
+    {
+      "EnglishWord": "click and brick",
+      "Meanings": [
+        "هم حقیقی هم مجازی",
+        "واقعی – مجازی",
+        "سنتی – اینترنتی",
+        "خشتی",
+        "الکترونیکی",
+        "موسسه ای است که هم به طریق سنتی مثلا مراجعه مشتریان به محل کسب به کسب و کار خود می‌پردازد و هم اینکه با استفاده از ارتباط اینترنتی به روش پیوسته و متصل on",
+        "line به حیات اقتصادی خود ادامه می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "click and mortar",
+      "Meanings": [
+        "هم حقیقی هم مجازی",
+        "واقعی",
+        "مجازی",
+        "سنتی",
+        "اینترنتی",
+        "خشتی",
+        "الکترونیکی",
+        "موسسه ای است که هم به طریق سنتی مثلا مراجعه مشتریان به محل کسب به کسب و کار خود می‌پردازد و هم اینکه با استفاده از ارتباط اینترنتی به روش پیوسته و متصل on",
+        "line به حیات اقتصادی خود ادامه می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "client",
+      "Meanings": [
+        "کاربر",
+        "مشتری",
+        "ارباب رجوع",
+        "متقاضی",
+        "سرویس گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "close system",
+      "Meanings": [
+        "سیستم بسته",
+        "سیستمی که با محیط اطراف خود تعاملی ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "closed end wrench",
+      "Meanings": [
+        "آچار رینگی یک سر"
+      ]
+    },
+    {
+      "EnglishWord": "code of conduct",
+      "Meanings": [
+        "نظام نامه اخلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient",
+      "Meanings": [
+        "ضریب",
+        "عامل مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "cofactor",
+      "Meanings": [
+        "هم عامل"
+      ]
+    },
+    {
+      "EnglishWord": "cold roll",
+      "Meanings": [
+        "نورد سرد"
+      ]
+    },
+    {
+      "EnglishWord": "co-location",
+      "Meanings": [
+        "مکانی که اعضای تیم پروژه از نظر فیزیکی در آن نزدیک به هم قراردارند"
+      ]
+    },
+    {
+      "EnglishWord": "command style management",
+      "Meanings": [
+        "سبک مدیریت آمرانه"
+      ]
+    },
+    {
+      "EnglishWord": "commercial",
+      "Meanings": [
+        "تجاری",
+        "بازرگانی"
+      ]
+    },
+    {
+      "EnglishWord": "commission",
+      "Meanings": [
+        "حق العمل",
+        "حق الزحمه"
+      ]
+    },
+    {
+      "EnglishWord": "common causes",
+      "Meanings": [
+        "علل تصادفی",
+        "عللی که باعث ایجاد انحرافات کوچک و جزیی می‌شود و معمولا حذف آنها یا غیر ممکن و یا با هزینه بسیار زیاد امکان پذیر است"
+      ]
+    },
+    {
+      "EnglishWord": "communication",
+      "Meanings": [
+        "ارتباطات"
+      ]
+    },
+    {
+      "EnglishWord": "compare",
+      "Meanings": [
+        "مقایسه کردن",
+        "هم سنجی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "comparison",
+      "Meanings": [
+        "همسنجی",
+        "مقایسه",
+        "برابری"
+      ]
+    },
+    {
+      "EnglishWord": "compatibility",
+      "Meanings": [
+        "سازگاری",
+        "مناسب بودن",
+        "سازگار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "compete",
+      "Meanings": [
+        "رقابت کردن",
+        "چشم و هم چشمی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "competence",
+      "Meanings": [
+        "شایستگی",
+        "صلاحیت",
+        "کفایت"
+      ]
+    },
+    {
+      "EnglishWord": "competetive",
+      "Meanings": [
+        "رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competetive advantage",
+      "Meanings": [
+        "مزایای رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "complete bult up unit  cbu",
+      "Meanings": [
+        "محصول ساخته شده و کامل"
+      ]
+    },
+    {
+      "EnglishWord": "completely knocked down  ckd",
+      "Meanings": [
+        "فروش قطعه به منظور مونتاژ در محلی دیگر",
+        "در این روش برای تغذیه خطوط",
+        "قطعات محصول بطور جداگانه در بسته هایی با طراحی مهندسی",
+        "بسته بندی و به مقصد حمل شده و سپس در خط تولید مونتاژ می‌شود. در این روش میزان تولید محدود و تعداد محصول در هر محموله ثابت است"
+      ]
+    },
+    {
+      "EnglishWord": "complexity",
+      "Meanings": [
+        "پیچیدگی",
+        "به درجه تفکیکی که در سازمان وجود دارد گفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "اجزاء",
+        "سازه"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensiveness",
+      "Meanings": [
+        "جامع و فراگیر بودن"
+      ]
+    },
+    {
+      "EnglishWord": "computer",
+      "Meanings": [
+        "رایانه",
+        "حسابگر",
+        "کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided",
+      "Meanings": [
+        "به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided acquisition and logistics support  cals",
+      "Meanings": [
+        "تدارک و پشتیبانی به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided design  cad",
+      "Meanings": [
+        "طراحی به کمک کامپیوتر",
+        "تحلیل‌های طراحی و مهندسی",
+        "محاسبات لی اوت مواد",
+        "تعیین نقاط ماشینکاری",
+        "تعیین مسیر ابزار در ماشین‌های افزار"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided engineering  cae",
+      "Meanings": [
+        "مهندسی به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided manufacturing  cam",
+      "Meanings": [
+        "تولید به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided process planning  capp",
+      "Meanings": [
+        "طرحریزی فرآیند به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided production engineering  cape",
+      "Meanings": [
+        "مهندسی تولید به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided quality control  caq",
+      "Meanings": [
+        "کنترل کیفی به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided storage and transportation  cast",
+      "Meanings": [
+        "انبار سازی و حمل و نقل به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided test  cat",
+      "Meanings": [
+        "تست به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted instruction  cai",
+      "Meanings": [
+        "آموزش به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated business  cib",
+      "Meanings": [
+        "تجارت یکپارچه کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated manufacturing  cim",
+      "Meanings": [
+        "تولید یکپارچه کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated manufacturing system  cims",
+      "Meanings": [
+        "سیستم ساخت یکپارچه کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer numerical control  cnc",
+      "Meanings": [
+        "کنترل عددی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer-aided layout",
+      "Meanings": [
+        "استقرار با کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computerization",
+      "Meanings": [
+        "کامپیوتری کردن",
+        "کامپیوتری شدن"
+      ]
+    },
+    {
+      "EnglishWord": "computerized maintenance management software  cmms",
+      "Meanings": [
+        "سیستم مکانیزه مدیریت تعمیرات"
+      ]
+    },
+    {
+      "EnglishWord": "comulative number of failures  cnf",
+      "Meanings": [
+        "مجموع خرابی‌های اجزاء"
+      ]
+    },
+    {
+      "EnglishWord": "concave",
+      "Meanings": [
+        "مقعر",
+        "کاو",
+        "واگرا"
+      ]
+    },
+    {
+      "EnglishWord": "concentration",
+      "Meanings": [
+        "تمرکز",
+        "تمرکز کردن",
+        "مونتاژ",
+        "جمع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "concept",
+      "Meanings": [
+        "مفهوم",
+        "انگاره"
+      ]
+    },
+    {
+      "EnglishWord": "conceptual phase",
+      "Meanings": [
+        "مرحله مفهومی"
+      ]
+    },
+    {
+      "EnglishWord": "concern",
+      "Meanings": [
+        "درگیر بودن",
+        "سروکار داشتن",
+        "سر و کله زدن"
+      ]
+    },
+    {
+      "EnglishWord": "conclusion",
+      "Meanings": [
+        "نتیجه",
+        "فرجام",
+        "پایان کار"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent",
+      "Meanings": [
+        "همزمان",
+        "هم آورد"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent engineering  ce",
+      "Meanings": [
+        "مهندسی همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence",
+      "Meanings": [
+        "اطمینان",
+        "اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "confidence interval",
+      "Meanings": [
+        "فاصله اطمینان",
+        "بازه ای از مقادیر که انتظار می‌رود با یک احتمال مورد نظر که به آن گویند شامل مقادیر صحیحی از پارامترها باشد"
+      ]
+    },
+    {
+      "EnglishWord": "confidence level",
+      "Meanings": [
+        "سطح اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence limit",
+      "Meanings": [
+        "حد اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "conflict",
+      "Meanings": [
+        "تناقض",
+        "تضاد",
+        "ستیزه",
+        "تعارض",
+        "برخورد",
+        "تنش"
+      ]
+    },
+    {
+      "EnglishWord": "conjunction",
+      "Meanings": [
+        "و\" منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "consensus",
+      "Meanings": [
+        "توافق عام",
+        "عامه پسند",
+        "وفاق",
+        "اجماع"
+      ]
+    },
+    {
+      "EnglishWord": "consensus value",
+      "Meanings": [
+        "مقادیر جمعی",
+        "بر پایه فعالیت‌های آزمایشگاهی گروهی",
+        "تحت حمایت گروه‌های مهندسی و علمی تعیین می‌شوند",
+        "توسط توافق کاربرانی همچون سازمانهای تجاری و حرفه ای تعیین می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "consistency",
+      "Meanings": [
+        "پایایی",
+        "سازگاری",
+        "توافق",
+        "پایایی عبارتست از تفاوت در نوسانات اندازه گیری‌ها در طول زمان که می‌توان به آن به عنوان در طول زمان هم نگریست"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "ثابت",
+        "پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "consumer",
+      "Meanings": [
+        "مصرف کننده",
+        "مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "context",
+      "Meanings": [
+        "فضا",
+        "زمینه",
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "context diagram",
+      "Meanings": [
+        "نمودار سطح صفر",
+        "نمودار محدوده",
+        "نمودار سطح صفر سیستم کلی‌ترین تصویر سیستم است که سیستم را به صورت یک پردازش واحد نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "contingency",
+      "Meanings": [
+        "احتمال",
+        "شانس",
+        "احتمال وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "contingency diagram",
+      "Meanings": [
+        "نمودار احتمال وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "contingency plan",
+      "Meanings": [
+        "طرح اقتضایی",
+        "طرحی به منظور برآورده کردن نیازهای مشتری در شرایط وقوع حوادث اضطراری مانند وقفه در تاسیسات",
+        "کمبود نیروی انسانی و و غیره"
+      ]
+    },
+    {
+      "EnglishWord": "contingency reserve  cr",
+      "Meanings": [
+        "ذخیره احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "continues control",
+      "Meanings": [
+        "کنترل پیوسته",
+        "در این سیستم کنترل نقطه به نقطه و پشت سر هم انجام میشود و موقعیت هر نقطه با توجه به موقعیت نقطه قبل از خود به صورت پیوسته تعیین می‌شود و از این طریق کل قطعه شناسایی می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "continuous",
+      "Meanings": [
+        "پیوسته",
+        "مداوم",
+        "پشت سر هم"
+      ]
+    },
+    {
+      "EnglishWord": "continuous improvement",
+      "Meanings": [
+        "بهبود مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuse time markov chain  ctmc",
+      "Meanings": [
+        "زنجیره مارکف زمان پیوسته",
+        "فرآیند تصادفی دارای خاصیت مارکف که در آن حالت فرآیند در آینده تنها بستگی به حالت فرآیند در زمان حال دارد و مستقل از گذشته می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "contract",
+      "Meanings": [
+        "قرارداد",
+        "پیمان",
+        "مقاطعه کاری",
+        "A contract is a mutually binding agreement that obligates the seller to provide the specified product and obligates the buyer to pay for it. Contracts generally fall into one of three broad categories: fixed",
+        "price or lump sum contracts, cost",
+        "reimbursable contracts or time and material contracts"
+      ]
+    },
+    {
+      "EnglishWord": "contract budget base  cbb",
+      "Meanings": [
+        "بودجه مبنای قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract target cost  ctc",
+      "Meanings": [
+        "هزینه هدف قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract work breakdown structure  cwbs",
+      "Meanings": [
+        "ساختار شکست کار پیمانی",
+        "نوعی ساختار شکست کار که در آن پروژه با توجه به پیمانکاران و فروشندگان به قطعات ریز‌تر شکسته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "کنترل",
+        "بازرسی",
+        "کنترل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "control account  ca",
+      "Meanings": [
+        "مرکز کنترل",
+        "یک حساب عمومی که نشان دهنده تعادل حساب‌های خاص می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "control account manager  cam",
+      "Meanings": [
+        "مدیر مرکز کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control account plan  cap",
+      "Meanings": [
+        "برنامه مرکز کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control chart",
+      "Meanings": [
+        "نمودار کنترل شوهارت",
+        "گرافی از مشخصه‌های فرآیند که بر اساس اندازه گیری‌های نمونه ای در طول زمان تهیه می‌شود و برای نشان دادن رفتار فرآیند",
+        "شناسایی چگونگی نوسانات فرآیند‏",
+        "ارزیابی ثبات و تعیین مسیر فرآیند بکار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "control plan",
+      "Meanings": [
+        "طرح کنترل",
+        "عبارتست از توضیحات مستند سیستم‌ها و فرآیند‌های مورد نیاز برای کنترل محصول"
+      ]
+    },
+    {
+      "EnglishWord": "control plan  cp",
+      "Meanings": [
+        "طرح کنترل",
+        "برنامه کنترل",
+        "برنامه ای برای تشریح مشخصه‌های مورد نیاز در فرآیند شامل اندازه گیری و روش‌های کنترلی به منظور کنترل کیفیت محصول یا خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "convex",
+      "Meanings": [
+        "کوژ",
+        "محدب"
+      ]
+    },
+    {
+      "EnglishWord": "conveyor",
+      "Meanings": [
+        "نقاله",
+        "تسمه",
+        "حامل",
+        "کانوایر"
+      ]
+    },
+    {
+      "EnglishWord": "conwip",
+      "Meanings": [
+        "روش FIFO"
+      ]
+    },
+    {
+      "EnglishWord": "co-operation",
+      "Meanings": [
+        "همکاری"
+      ]
+    },
+    {
+      "EnglishWord": "coordinate measuring machine  cmm",
+      "Meanings": [
+        "ماشین اندازه گیری مختصاتی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate",
+      "Meanings": [
+        "شرکت",
+        "سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "corrective maintenance  cm",
+      "Meanings": [
+        "تعمیرات اصلاحی",
+        "فعالیت اصلاحی که به منظور بازگرداندن یک آیتم معیوب در ماشین به شرایط تعیین شده انجام می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "correlation",
+      "Meanings": [
+        "همبستگی",
+        "وابستگی",
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی",
+        "عددی بین 1 و",
+        "که نشان دهنده میزان رابطه خطی بین دو متغیر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "هزینه",
+        "بها",
+        "عبارتست از کل مبلغ لازم برای شناسایی",
+        "طراحی",
+        "ساخت",
+        "نصب",
+        "بهره برداری و نگهداری یک طرح"
+      ]
+    },
+    {
+      "EnglishWord": "cost account  ca",
+      "Meanings": [
+        "مرکز هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost analysis",
+      "Meanings": [
+        "تجزیه و تحلیل هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost breakdown structure  cbs",
+      "Meanings": [
+        "ساختار شکست هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost effectiveness analysis",
+      "Meanings": [
+        "تحلیل سودمندی هزینه",
+        "تحلیل دو یا چند جایگزینه مختلف برای تعیین جایگزینه ای که دارای بالاترین نسبت خروجی به ورودی است",
+        "بعبارتی جایگزینه ای که حداکثر خروجی",
+        "یا نتیجه ای با ورودی و هزینه حداقل را بدست می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "cost of poor quality  copq",
+      "Meanings": [
+        "هزینه مربوط به تولید محصول بی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "cost of quality  coq",
+      "Meanings": [
+        "هزینه کیفیت",
+        "هزینه ای که به منظور اطمینان از کیفیت کالا و یا خدمات بایستی پرداخت گردد"
+      ]
+    },
+    {
+      "EnglishWord": "cost performance index  cpi",
+      "Meanings": [
+        "شاخصی برای نشان دادن نسبت هزینه برنامه ریزی شده برای کار انجام شده به هزینه مصرف شده است",
+        "CPI=BCWP/ACWP"
+      ]
+    },
+    {
+      "EnglishWord": "cost performance report  cpr",
+      "Meanings": [
+        "گزارش عملکرد هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus fee  cpf",
+      "Meanings": [
+        "هزینه بعلاوه کارمزد یا هزینه بعلاوه درصدی از هزینه",
+        "در این نوع قرارداد",
+        "به فروشنده مبلغی بابت هزینه‌های تایید شده برای انجام قرارداد پرداخت می‌شود بعلاوه اینکه مبلغی نیز بابت کارمزد به عنوان درصدی از هزینه‌ها که قبلا توافق شده دریافت می‌کند. کارمزد متغیری نسبت به هزینه واقعی است"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus fixed fee  cpff",
+      "Meanings": [
+        "هزینه بعلاوه مزد ثابت",
+        "در این نوع قرارداد",
+        "به فروشنده مبلغی بابت هزینه‌های تایید شده برای انجام قرارداد پرداخت می‌شود بعلاوه اینکه مبلغ ثابت نیز بابت کارمزد دریافت می‌کند. این مبلغ ثابت",
+        "از قبل بر اساس درصدی از تخمین هزینه‌های پروژه تعیین شده است. این هزینه ثابت با هزینه واقعی پروژه تغییر نمیکند مگر اینکه محدوده پروژه تغییر کند"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus incentive fee  cpif",
+      "Meanings": [
+        "هزینه بعلاوه کارمزد تشویقی",
+        "در این نوع قرارداد",
+        "به فروشنده مبلغی بابت هزینه‌های تایید شده برای انجام قرارداد پرداخت می‌شود بعلاوه اینکه مبلغ کارمزد از پیش تعیین شده ای نیز دریافت می‌کند. علاوه بر این مبالغ در صورت دستیابی به اهداف عملکردی خاصی که در قرارداد تعیین شده است",
+        "مبالغ تشویقی نیز دریافت می‌کند. در برخی از این نوع قراردادها",
+        "در صورتیکه هزینه نهایی کمتر از هزینه مورد انتظار باشد",
+        "در اینصورت هم فروشنده و هم خریدار بر اساس فرمولی که در قرارداد آمده است",
+        "سهمی از هزینه صرفه جویی شده خواهند داشت"
+      ]
+    },
+    {
+      "EnglishWord": "cost plus percentage of cost  cppc",
+      "Meanings": [
+        "هزینه بعلاوه دستمزد یا هزینه بعلاوه درصدی از هزینه",
+        "در این قرارداد",
+        "به فروشنده مبلغی بابت هزینه‌های تایید شده برای انجام قرارداد پرداخت می‌شود بعلاوه اینکه مبلغی نیز بابت دستمزد به عنوان درصدی از هزینه‌ها که قبلا توافق شده دریافت می‌کند. دستمزد متغیری نسبت به هزینه واقعی است"
+      ]
+    },
+    {
+      "EnglishWord": "cost reimbursable contract",
+      "Meanings": [
+        "قرارداد هزینه قابل پرداخت",
+        "این نوع قرارداد شامل پرداخت در ازای هزینه‌های واقعی فروشنده بعلاوه مبلغی بابت کارمزد فروشنده می‌باشد. این قرارداد خود به سه نوع تقسیم می‌شود",
+        "یا"
+      ]
+    },
+    {
+      "EnglishWord": "cost-benefit analysis  cba",
+      "Meanings": [
+        "تجزیه و تحلیل هزینه",
+        "سود",
+        "روشی برای برنامه ریزی کیفیت که در آن هزینه‌های ناشی از بکارگیری سیستم کیفی با منافع حاصل از دستیابی به کیفیت بالا نظیر کاهش ضایعات",
+        "دوباره کاری ها",
+        "رضایت مشتری و غیره بررسی شده و سیستم کیفی بهینه انتخاب می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "covariance",
+      "Meanings": [
+        "کواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "covariate",
+      "Meanings": [
+        "یک متغیر کمی است که در یک مدل بکار گرفته می‌شود. ممکن است یک متغیر برای سطوحی باشد که به عنوان یک بخش از طراحی کنترل نشود اما مورد اندازه گیری قرار می‌گیرد و برای کاهش نوسانات فرآیند به مدل وارد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "crane",
+      "Meanings": [
+        "جرثقیل"
+      ]
+    },
+    {
+      "EnglishWord": "crashing",
+      "Meanings": [
+        "تکنیکی در کنترل پروژه که در آن تلاش می‌شود بیشترین میزان فشردگی در فعالیت‌ها که در ازای آن فشردگی کمترین هزینه بر پروژه تحمیل گردد",
+        "تعیین شود"
+      ]
+    },
+    {
+      "EnglishWord": "creativity",
+      "Meanings": [
+        "خلاقیت",
+        "عبارتست از پیدایی و تولید یک فکر یا اندیشه نو"
+      ]
+    },
+    {
+      "EnglishWord": "crisp",
+      "Meanings": [
+        "قطعی",
+        "اعداد کلاسیک در مقابل اعداد فازی"
+      ]
+    },
+    {
+      "EnglishWord": "criteria",
+      "Meanings": [
+        "شرایط",
+        "معیارها",
+        "ضوابط"
+      ]
+    },
+    {
+      "EnglishWord": "critical",
+      "Meanings": [
+        "بحرانی",
+        "در فعالیتی است که با به تاخیر افتادن آن سایر فعالیت‌ها و یا کل پروژه به تاخیر می‌افتد"
+      ]
+    },
+    {
+      "EnglishWord": "critical item list  cil",
+      "Meanings": [
+        "لیست موارد بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical path  cp",
+      "Meanings": [
+        "مسیر بحرانی",
+        "مجموعه ای از فعالیت‌های متوالی که با تاخیر در هر یک از آنها کل پروژه نیز به تاخیر می‌افتد",
+        "The series of activities that determines the duration of the project. In a deterministic model, the critical path is usually defined as those activities with float less than or equal to a specified value, often zero. It is the longest path through the project. See critical path method"
+      ]
+    },
+    {
+      "EnglishWord": "critical path method  cpm",
+      "Meanings": [
+        "روش مسیر بحرانی",
+        "روشی در برای زمانبندی فعالیت‌ها بگونه ای که همه فعالیت‌ها بگونه ای زمانبندی شوند که زمان انجام کل پروژه مینیمم شود. در این روش از محتملترین زمان وقوع برای تخمین زمان فعالیت استفاده می‌شود و تمر کز آن بر میزان شناوری فعالیت‌ها می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "critical success factor  csf",
+      "Meanings": [
+        "عوامل بحرانی موفقیت"
+      ]
+    },
+    {
+      "EnglishWord": "crook spanner",
+      "Meanings": [
+        "آچار دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "cross functional",
+      "Meanings": [
+        "میان کارکردی"
+      ]
+    },
+    {
+      "EnglishWord": "cross-cultural",
+      "Meanings": [
+        "میان فرهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "crossed factor",
+      "Meanings": [
+        "عوامل ضربدری در",
+        "هنگامی که هر سطحی از عامل A در هر سطحی از عامل B رخ دهد",
+        "عوامل A و B ضربدری هستند. در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "cross-sectional",
+      "Meanings": [
+        "سطح مقطع",
+        "مرحله ای",
+        "ضربدری"
+      ]
+    },
+    {
+      "EnglishWord": "crucial",
+      "Meanings": [
+        "بحرانی",
+        "قطعی",
+        "سخت",
+        "بسیار مهم"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative",
+      "Meanings": [
+        "تجمعی",
+        "جمعی",
+        "سر جمع",
+        "انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative distribution function  cdf",
+      "Meanings": [
+        "تابع توزیع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "customer",
+      "Meanings": [
+        "مشتری",
+        "ارباب رجوع",
+        "مشتری کسی است که سازمان مایل است با ارزشهایی که می‌آفریند بر رفتار وی تاثیر گذارد"
+      ]
+    },
+    {
+      "EnglishWord": "customer driven",
+      "Meanings": [
+        "برامده از مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer order decoupling point  codp",
+      "Meanings": [
+        "نقطه انفصال سفارش مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer relationship management  crm",
+      "Meanings": [
+        "مدیریت ارتباط با مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer satisfaction",
+      "Meanings": [
+        "رضایت مشتری",
+        "ارضای مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer satisfaction  cs",
+      "Meanings": [
+        "رضایت مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer satisfaction index  csi",
+      "Meanings": [
+        "شاخص رضایت مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer waiver",
+      "Meanings": [
+        "صرفنظر مشتری",
+        "چشم پوشی مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer-supplier model  csm",
+      "Meanings": [
+        "مدلی برای نشان دادن نقش مشتری و تامین کننده در سیستم که در آن ورودی‌ها وارد سیستم شده و پس از انجام پروسه خاص محصول مورد نظر مشتری را به وی تحویل می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "customization",
+      "Meanings": [
+        "سفارشی شدن محصولات",
+        "بدین معنی که هر مشتری محصول دلخواه خود را می‌خواهد و خصوصیات آن را خود تعریف می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "customs union",
+      "Meanings": [
+        "اتحادیه گمرکی",
+        "گروهی از کشورها که تجارت در بین آن‌ها آزاد است و تعرفه‌ها و سایر مقررات گمرکی یکسانی را در تجارت با کشورهای غیر عضو بکار می‌برند. این شرط دوم",
+        "اتحادیه را از منطقه تجارت آزاد free trade zone متمایز می‌کند که اعضای آن می‌توانند در تجارت با سایر کشورها تعرفه‌ها و مقررات مختلفی بکار برند"
+      ]
+    },
+    {
+      "EnglishWord": "cutover",
+      "Meanings": [
+        "گذار سریع از یک مرحله از پروژه به مرحله دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "cutting tool",
+      "Meanings": [
+        "ابزار برش",
+        "قلم تراش"
+      ]
+    },
+    {
+      "EnglishWord": "cycle time",
+      "Meanings": [
+        "زمان سیکل",
+        "مدت زمانی که طول می‌کشد که یک فرآیند تکراری به نقطه شروع خود باز گردد"
+      ]
+    }
+  ]
+}

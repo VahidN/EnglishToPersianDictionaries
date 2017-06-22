@@ -1,0 +1,452 @@
+﻿{
+  "Group": "I",
+  "Entries": 73,
+  "Words": [
+    {
+      "EnglishWord": "i",
+      "Meanings": [
+        "من",
+        "نهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal",
+      "Meanings": [
+        "ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "ideal merge",
+      "Meanings": [
+        "ادغام ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "implication",
+      "Meanings": [
+        "استلزام"
+      ]
+    },
+    {
+      "EnglishWord": "implies",
+      "Meanings": [
+        "نتیجه می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "in-branching",
+      "Meanings": [
+        "انشعاب ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "incident",
+      "Meanings": [
+        "تصادم",
+        "تلاقی",
+        "رویداد"
+      ]
+    },
+    {
+      "EnglishWord": "incident matrix",
+      "Meanings": [
+        "ماتریس تلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion-exclusion privciple",
+      "Meanings": [
+        "اصل رد و شمول"
+      ]
+    },
+    {
+      "EnglishWord": "inclusive or",
+      "Meanings": [
+        "یای منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "incompressible",
+      "Meanings": [
+        "فشرده نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "incompressible string",
+      "Meanings": [
+        "رشته فشرده نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "indegree",
+      "Meanings": [
+        "درجه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "in-degree",
+      "Meanings": [
+        "درجه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent set",
+      "Meanings": [
+        "مجموعه مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "induction",
+      "Meanings": [
+        "استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "induction base",
+      "Meanings": [
+        "پایه استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "induction hypothesis",
+      "Meanings": [
+        "فرض استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "induction step",
+      "Meanings": [
+        "حکم استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "infinite list",
+      "Meanings": [
+        "لیست نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infix",
+      "Meanings": [
+        "میانوندی"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information theoretic",
+      "Meanings": [
+        "نظریه اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "information theoretic bound",
+      "Meanings": [
+        "کران نظریه اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "inheritance",
+      "Meanings": [
+        "وراثت",
+        "توارث"
+      ]
+    },
+    {
+      "EnglishWord": "initialize",
+      "Meanings": [
+        "مقدار دهی",
+        "مقدار دهی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "inline function",
+      "Meanings": [
+        "تابع درون خطی"
+      ]
+    },
+    {
+      "EnglishWord": "inorder",
+      "Meanings": [
+        "میان ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "in-order",
+      "Meanings": [
+        "میان ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "inorder traversal",
+      "Meanings": [
+        "پیمایش میان ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "in-order traversal",
+      "Meanings": [
+        "پیمایش میان ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "in-place",
+      "Meanings": [
+        "درجا"
+      ]
+    },
+    {
+      "EnglishWord": "in-place merging",
+      "Meanings": [
+        "ادغام درجا"
+      ]
+    },
+    {
+      "EnglishWord": "in-place sort",
+      "Meanings": [
+        "مرتب ساز درجا"
+      ]
+    },
+    {
+      "EnglishWord": "insertion sort",
+      "Meanings": [
+        "مرتب ساز درجی"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous",
+      "Meanings": [
+        "آنی"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous description",
+      "Meanings": [
+        "توصیف آنی"
+      ]
+    },
+    {
+      "EnglishWord": "integer",
+      "Meanings": [
+        "صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer multi-commodity flow",
+      "Meanings": [
+        "شاره چند کالایی صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer polyhedron",
+      "Meanings": [
+        "چند وجهی صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "interactive",
+      "Meanings": [
+        "محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interactive proof",
+      "Meanings": [
+        "اثبات محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interactive proof system",
+      "Meanings": [
+        "سیستم اثبات محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "interface",
+      "Meanings": [
+        "واسط",
+        "رابط"
+      ]
+    },
+    {
+      "EnglishWord": "interior-based",
+      "Meanings": [
+        "مبتنی بر درون"
+      ]
+    },
+    {
+      "EnglishWord": "interior-based representation",
+      "Meanings": [
+        "نمایش مبتنی بر درون"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate",
+      "Meanings": [
+        "واسطه",
+        "میانی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate tree",
+      "Meanings": [
+        "درخت میانی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate vertex",
+      "Meanings": [
+        "راس میانی"
+      ]
+    },
+    {
+      "EnglishWord": "internal node",
+      "Meanings": [
+        "گره داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal path",
+      "Meanings": [
+        "مسیر داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal path length",
+      "Meanings": [
+        "طول مسیر میانی"
+      ]
+    },
+    {
+      "EnglishWord": "internal sort",
+      "Meanings": [
+        "مرتب ساز داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "درون یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation search",
+      "Meanings": [
+        "جستجوی درون یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation sort",
+      "Meanings": [
+        "مرتب ساز درون یابی"
+      ]
+    },
+    {
+      "EnglishWord": "intersection",
+      "Meanings": [
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "interval tree",
+      "Meanings": [
+        "درخت بازه"
+      ]
+    },
+    {
+      "EnglishWord": "intractable",
+      "Meanings": [
+        "رام نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "intro",
+      "Meanings": [
+        "خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "intro sort",
+      "Meanings": [
+        "مرتب ساز خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "introspection",
+      "Meanings": [
+        "خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "introspection sort",
+      "Meanings": [
+        "مرتب ساز خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "introspective sort",
+      "Meanings": [
+        "مرتب ساز خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "intuitively",
+      "Meanings": [
+        "بصورت تجربی",
+        "بصورت شهودی"
+      ]
+    },
+    {
+      "EnglishWord": "invoke",
+      "Meanings": [
+        "احضار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "invoking",
+      "Meanings": [
+        "احضار"
+      ]
+    },
+    {
+      "EnglishWord": "irreflexive",
+      "Meanings": [
+        "نابازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphic",
+      "Meanings": [
+        "یکریخت"
+      ]
+    },
+    {
+      "EnglishWord": "iteration",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "iteration limit",
+      "Meanings": [
+        "حد تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "iterator",
+      "Meanings": [
+        "تکرار کننده"
+      ]
+    }
+  ]
+}

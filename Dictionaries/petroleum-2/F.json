@@ -1,0 +1,1310 @@
+﻿{
+  "Group": "F",
+  "Entries": 188,
+  "Words": [
+    {
+      "EnglishWord": "f",
+      "Meanings": [
+        "fine",
+        "ریز",
+        "fluid loss",
+        "هرز روی سیال یا گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "f/",
+      "Meanings": [
+        "from",
+        "از"
+      ]
+    },
+    {
+      "EnglishWord": "f/c",
+      "Meanings": [
+        "flow check, actions or job's abbreviation which Companymans write in their daily drilling reports",
+        "چک نمودن جریان سیال بدرون چاه",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "f/t",
+      "Meanings": [
+        "Function Test, actions or job's abbreviation which Companymans write in reports",
+        "تست یا ارزیابی عملکرد چیزی",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "f/w",
+      "Meanings": [
+        "Flow Well, actions or job's abbreviation which Companymans write in reports",
+        "جریان دادن چاه بمنظور ارزیابی نمودن سیال درون سازند",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "facing",
+      "Meanings": [
+        "fcng"
+      ]
+    },
+    {
+      "EnglishWord": "fair",
+      "Meanings": [
+        "Rock with porosity between",
+        "%, e.g. II",
+        "B, II",
+        "C, II",
+        "D",
+        "fr",
+        "سنگی با تخلخلی برابر 6 تا 12 درصد"
+      ]
+    },
+    {
+      "EnglishWord": "fal",
+      "Meanings": [
+        "FORMATION ANALYSIS, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "flt"
+      ]
+    },
+    {
+      "EnglishWord": "fauna",
+      "Meanings": [
+        "fna"
+      ]
+    },
+    {
+      "EnglishWord": "fc",
+      "Meanings": [
+        "fine Clay"
+      ]
+    },
+    {
+      "EnglishWord": "fcng",
+      "Meanings": [
+        "facing"
+      ]
+    },
+    {
+      "EnglishWord": "fcs",
+      "Meanings": [
+        "fine to coarse, also write as : fcrs",
+        "دانه ریز تا دانه درشت"
+      ]
+    },
+    {
+      "EnglishWord": "fd",
+      "Meanings": [
+        "FORMATION DENSITY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fdc",
+      "Meanings": [
+        "Formation Density Log, compaction",
+        "لاگ تراکم سازند",
+        "FORMATION DENSITY/CALIPER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fdl",
+      "Meanings": [
+        "FLUID DENSITY LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fe",
+      "Meanings": [
+        "iron",
+        "آهن",
+        "اختصاری که برای عنصر آهن بکار برده می‌شود",
+        "ferrigenous, also write as : ferrug",
+        "آهن دار",
+        "دارای آهن"
+      ]
+    },
+    {
+      "EnglishWord": "fed",
+      "Meanings": [
+        "FOUR ELECTRODE DIPMETER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "feed in",
+      "Meanings": [
+        "In drilling, the entrance of Formation fluids into the Well, because hydrostatic pressure is less than Formation pressure"
+      ]
+    },
+    {
+      "EnglishWord": "feldspar",
+      "Meanings": [
+        "fldsp"
+      ]
+    },
+    {
+      "EnglishWord": "female connection",
+      "Meanings": [
+        "A pipe or rod coupling with the threads on the inside"
+      ]
+    },
+    {
+      "EnglishWord": "ferrigenous",
+      "Meanings": [
+        "fe, also write as : ferrug",
+        "آهن دار",
+        "دارای آهن"
+      ]
+    },
+    {
+      "EnglishWord": "ferrug",
+      "Meanings": [
+        "ferruginous, also commonly write as : fe",
+        "آهن دار",
+        "دارای آهن"
+      ]
+    },
+    {
+      "EnglishWord": "fest",
+      "Meanings": [
+        "ironstone"
+      ]
+    },
+    {
+      "EnglishWord": "ff",
+      "Meanings": [
+        "FRACTURE FINDER/FAILURE ID, Log Curve name",
+        "following"
+      ]
+    },
+    {
+      "EnglishWord": "fibrous material",
+      "Meanings": [
+        "Any tough, stringy material of threadlike structure used to prevent loss of circulation or to restore circulation in porous or fractured formations"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "fld, An area consisting of a single reservoir or multiple reservoirs all grouped on or related to, the same individual Geological Structural feature and/or Stratigraphic condition",
+        "میدان",
+        "معمولا برای میدان‌های نفتی بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "fih",
+      "Meanings": [
+        "Fluid In Hole",
+        "سیال درون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "fil",
+      "Meanings": [
+        "SIDEWALL FRAC LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fill the hole",
+      "Meanings": [
+        "To pump drilling fluid into the Well, while the pipe is being withdrawn to ensure that the wellbore remains full of fluid even though the pipe is withdrawn. Filling the Hole lessens the danger of a kick or of caving of the Well"
+      ]
+    },
+    {
+      "EnglishWord": "filling",
+      "Meanings": [
+        "flg",
+        "پر شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "fill-up line",
+      "Meanings": [
+        "The smaller of the side fittings on a Bell Nipple, used to fill the hole when drill pipe is being removed from the Well"
+      ]
+    },
+    {
+      "EnglishWord": "filter cake",
+      "Meanings": [
+        "Compacted solid or semisolid material remaining on a filter after pressure filtration of mud with a standard filter press. Thickness of the cake is reported in thirty",
+        "seconds of an inch or in millimeters",
+        ". the layer of concentrated solids from the drilling mud or cement slurry that forms on the walls of the borehole opposite permeable Formations; also call Wall Cake or Mud Cake"
+      ]
+    },
+    {
+      "EnglishWord": "filter cake thickness",
+      "Meanings": [
+        "A measurement of the solids deposited on filter paper in thirty",
+        "seconds of an inch during standard",
+        "min API filter test. See cake thickness. In certain areas the filter cake thickness is a measurement of the solids deposited on filter paper for 7½ min"
+      ]
+    },
+    {
+      "EnglishWord": "filter loss",
+      "Meanings": [
+        "The amount of fluid that can be delivered through a permeable filter medium after being subjected to a set differential pressure for a set length of time"
+      ]
+    },
+    {
+      "EnglishWord": "filtration qualities",
+      "Meanings": [
+        "The filtration characteristics of a drilling mud. In general, these qualities are inverse to the thickness of the filter cake deposited on the face of a porous medium and the amount of filtrate allowed to escape from the drilling fluid into or through the medium"
+      ]
+    },
+    {
+      "EnglishWord": "final circulating pressure",
+      "Meanings": [
+        "The pressure at which a well is circulated during well",
+        "killing procedures after killweight mud has filled the drill stem. This pressure is maintained until the well is completely filled with killweight mud"
+      ]
+    },
+    {
+      "EnglishWord": "final depth",
+      "Meanings": [
+        "عمق نهایی چاه یا عمقی که در برنامە حفاری چاه در نظر گرفته شده است",
+        "TD, or FD, Total Depth",
+        "عمق نهایی چاه",
+        "عمقی که در برنامه ریزی حفاری چاه در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "fine",
+      "Meanings": [
+        "f",
+        "ریز دانه"
+      ]
+    },
+    {
+      "EnglishWord": "fine clay",
+      "Meanings": [
+        "fc"
+      ]
+    },
+    {
+      "EnglishWord": "fine sand",
+      "Meanings": [
+        "Sand particles with size between 0.125 mm",
+        ".25 mm",
+        "ماسه دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine to coarse",
+      "Meanings": [
+        "fcs, also sometimes write as : fcrs",
+        "دانه ریز تا دانه درشت"
+      ]
+    },
+    {
+      "EnglishWord": "fine to medium",
+      "Meanings": [
+        "fmd",
+        "دانه ریز تا دانه متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "finely",
+      "Meanings": [
+        "fly",
+        "به ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "finer",
+      "Meanings": [
+        "fnr"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "fr",
+        "سخت",
+        "سفت"
+      ]
+    },
+    {
+      "EnglishWord": "fis",
+      "Meanings": [
+        "Fishing Run, operation's Abbreviations which Companymans write in their daily drilling reports",
+        "عملیات برای بازیابی فیش یا مانده در چاه",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "fissile, also write as : fiss",
+        "دارای لایه بندی ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "fish",
+      "Meanings": [
+        "Lost time due to Fish In Hole, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "To recover from a well any equipment left there during drilling operations, such as : a lost Bit or Drill Collar or part of the Drill String",
+        ". to remove from an older Well certain pieces of equipment such as : Packers, Liners, or Screen Liner to allow reconditioning of the Well"
+      ]
+    },
+    {
+      "EnglishWord": "fishing",
+      "Meanings": [
+        "The procedure of recovering lost or stuck equipment in the Well"
+      ]
+    },
+    {
+      "EnglishWord": "fishing head",
+      "Meanings": [
+        "A specialized fixture on a downhole tool that will allow the tool to be fished out after it's used downhole"
+      ]
+    },
+    {
+      "EnglishWord": "fishing magnet",
+      "Meanings": [
+        "A powerful permanent magnet designed to recover metallic objects lost in a well"
+      ]
+    },
+    {
+      "EnglishWord": "fishing neck",
+      "Meanings": [
+        "A device placed on a piece of equipment that is lowered into a wellbore so that the equipment may be retrieved by Wire Line"
+      ]
+    },
+    {
+      "EnglishWord": "fishing run",
+      "Meanings": [
+        "FIS, operations' abbreviations which commonly used in daily drilling reports",
+        "عملیات جهت بازیابی فیش یا مانده در چاه",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "fishing string",
+      "Meanings": [
+        "An assembly of tools made up on drill pipe that is lowered into the hole to retrieve lost or stuck equipment. Also called : a Fish Assembly"
+      ]
+    },
+    {
+      "EnglishWord": "fishing tap",
+      "Meanings": [
+        "A tool that goes inside pipe lost in a well to provide a firm grip and permit recovery of the fish. Sometimes used in place of a spear"
+      ]
+    },
+    {
+      "EnglishWord": "fishing tool",
+      "Meanings": [
+        "A tool designed to recover equipment lost in a Well"
+      ]
+    },
+    {
+      "EnglishWord": "fishing tool operator",
+      "Meanings": [
+        "The person usually a service company employee in charge of directing fishing operations"
+      ]
+    },
+    {
+      "EnglishWord": "fishtail bit",
+      "Meanings": [
+        "A drilling Bit with cutting edges of hard alloys. Developed about 1900, and first used with the Rotary system of drilling, it is still useful in drilling very soft Formations. Also called : a Drag Bit"
+      ]
+    },
+    {
+      "EnglishWord": "fiss",
+      "Meanings": [
+        "fissile, also write as : fis",
+        "دارای لایه بندی ظریف که بسادگی بصورت متورق می‌شکند"
+      ]
+    },
+    {
+      "EnglishWord": "fissile",
+      "Meanings": [
+        "fis, also write as : fiss",
+        "دارای لایه بندی ظریف که بسادگی بصورت متورق می‌شکند"
+      ]
+    },
+    {
+      "EnglishWord": "fit",
+      "Meanings": [
+        "Formation Interval Tester",
+        "Formation Integrity Test, actions or job's abbreviation which Companymans write in reports",
+        "تست ارزیابی سازند",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "fittings",
+      "Meanings": [
+        "The small pipes and valves that are used to make up a system of piping"
+      ]
+    },
+    {
+      "EnglishWord": "fl",
+      "Meanings": [
+        "FRACLOG, Log Curve name",
+        "fluid",
+        "سیال یا گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "fl/",
+      "Meanings": [
+        "flowed",
+        "جریان یافته"
+      ]
+    },
+    {
+      "EnglishWord": "flag",
+      "Meanings": [
+        "A piece of Cloth, Rope or Nylon strand used to mark the WireLine when swabbing or bailing",
+        ". an indicator of wind direction used during drilling or workover operations where hydrogen sulfide, sour gas may be encountered"
+      ]
+    },
+    {
+      "EnglishWord": "flaggy",
+      "Meanings": [
+        "flgy, loose",
+        "سست"
+      ]
+    },
+    {
+      "EnglishWord": "flake",
+      "Meanings": [
+        "flk"
+      ]
+    },
+    {
+      "EnglishWord": "flange",
+      "Meanings": [
+        "A protruding rim extending completely around the Tube or Pipe with holes positioned to accept Bolts and having a sealing mechanism used to join pressure",
+        "containing equipment",
+        "A projecting rim or edge as on pipe fittings and openings in pumps and vessels , usually drilled with holes to allow bolting to other flanged fittings"
+      ]
+    },
+    {
+      "EnglishWord": "flange up",
+      "Meanings": [
+        "To finish a job",
+        ". to use flanges to make final connections on a piping system"
+      ]
+    },
+    {
+      "EnglishWord": "flapper valve",
+      "Meanings": [
+        "A hinged closure mechanism operating in a pivot manner, used to shut off tubing flow"
+      ]
+    },
+    {
+      "EnglishWord": "flash set",
+      "Meanings": [
+        "A premature thickening or setting of cement slurry, which makes it unpumpable"
+      ]
+    },
+    {
+      "EnglishWord": "fld",
+      "Meanings": [
+        "field",
+        "میدان",
+        "معمولا برای میدان‌های نفتی بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "fldsp",
+      "Meanings": [
+        "feldspar"
+      ]
+    },
+    {
+      "EnglishWord": "flg",
+      "Meanings": [
+        "filling",
+        "پرشدگی"
+      ]
+    },
+    {
+      "EnglishWord": "flgy",
+      "Meanings": [
+        "flaggy, loose",
+        "سست"
+      ]
+    },
+    {
+      "EnglishWord": "flk",
+      "Meanings": [
+        "flake"
+      ]
+    },
+    {
+      "EnglishWord": "flo",
+      "Meanings": [
+        "FLOW METER/FLUID TRAVEL/NUCLEAR FLOW, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "float collar",
+      "Meanings": [
+        "A special coupling device inserted one or two joints above the bottom of the casing string that contains a check valve to permit fluid to pass downward but not upward through the casing. The float collar prevents drilling mud from entering the casing while it is being lowered, allowing the casing to float during its descent and thus decreasing the load on the derrick or mat. A float collar also prevents backflow of cement during a cementing operation"
+      ]
+    },
+    {
+      "EnglishWord": "float shoe",
+      "Meanings": [
+        "A short, heavy, cylindrical steel section with a rounded bottom and attached to the bottom of the casing string. It contains a check valve and functions similarly to the float collar but also serves as a guide shoe in the casing"
+      ]
+    },
+    {
+      "EnglishWord": "floating offshore drilling rig",
+      "Meanings": [
+        "A type of mobile Offshore Drilling unit that floats and is not secured to the seafloor except for anchors . Floating units include inland barge rigs, drill ships and ship",
+        "shaped barges, and semisubmersibles"
+      ]
+    },
+    {
+      "EnglishWord": "flocs",
+      "Meanings": [
+        "flocculates"
+      ]
+    },
+    {
+      "EnglishWord": "flood",
+      "Meanings": [
+        "To drive oil from a reservoir into a Well by injecting water under pressure into the reservoir Formation. See also : Waterflooding",
+        ". to drown out a Well with water"
+      ]
+    },
+    {
+      "EnglishWord": "floor man",
+      "Meanings": [
+        "A worker which works on the Rig Floor",
+        "کارگر سکوی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "floorman",
+      "Meanings": [
+        "Also called a Rotary Helper. See also : Rotary Helper"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "flw",
+        "جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow a well hard",
+      "Meanings": [
+        "To let a well flow at too high a rate"
+      ]
+    },
+    {
+      "EnglishWord": "flow by heads",
+      "Meanings": [
+        "A Well flowing Oil at irregular intervals"
+      ]
+    },
+    {
+      "EnglishWord": "flow chart",
+      "Meanings": [
+        "A chart made by a recording meter which shows rate of production"
+      ]
+    },
+    {
+      "EnglishWord": "flow check",
+      "Meanings": [
+        "چک نمودن جریان درون چاه از سازند بداخل آن",
+        "که معمولا در بین حفاری جهت دانستن وضعیت چاه از نظر لاس یا گین انجام می‌شود",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "F/C",
+        "F/C, actions or jobs which Companymans write in their reports"
+      ]
+    },
+    {
+      "EnglishWord": "flow coupling",
+      "Meanings": [
+        "A Tubing Sub made of abrasion",
+        "resistant material and used in a tubing string where turbulent flow may cause internal erosion"
+      ]
+    },
+    {
+      "EnglishWord": "flow line",
+      "Meanings": [
+        "The surface pipe through which oil travels from a well to processing equipment or to storage"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate",
+      "Meanings": [
+        "میزان جریان سیال که از داخل سازند بدرون چاه وارد می‌شود",
+        "q"
+      ]
+    },
+    {
+      "EnglishWord": "flow tank",
+      "Meanings": [
+        "A lease storage tank to which produced oil is run"
+      ]
+    },
+    {
+      "EnglishWord": "flow test",
+      "Meanings": [
+        "Preliminary test to confirm flow rate through a tool prior to going downhole"
+      ]
+    },
+    {
+      "EnglishWord": "flow tube",
+      "Meanings": [
+        "An interval device commonly found in subsurface safety valves used to protect the tool's closure mechanism from the wellbore media"
+      ]
+    },
+    {
+      "EnglishWord": "flow well",
+      "Meanings": [
+        "F/W, actions or jobs which Companymans write in their reports",
+        "جریان دادن چاه که معمولا جهت ارزیابی میزان هیدروکربور انجام می‌شود",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "flowed",
+      "Meanings": [
+        "Fl/",
+        "جریان یافته بدرون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "flowing pressure",
+      "Meanings": [
+        "FP",
+        "فشار جریان سیال حفاری یا سازند"
+      ]
+    },
+    {
+      "EnglishWord": "flowing well",
+      "Meanings": [
+        "A Well which produces oil or gas without any means of artificial lift"
+      ]
+    },
+    {
+      "EnglishWord": "flow-line sensor",
+      "Meanings": [
+        "A device to monitor rate of fluid from the Annulus"
+      ]
+    },
+    {
+      "EnglishWord": "flrcnc",
+      "Meanings": [
+        "fluorescence",
+        "فلیورسنس",
+        "خاصیت جذب اشعه ماوراء بنفش"
+      ]
+    },
+    {
+      "EnglishWord": "flt",
+      "Meanings": [
+        "fault"
+      ]
+    },
+    {
+      "EnglishWord": "fltr",
+      "Meanings": [
+        "FLUID TRAVEL LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fluid",
+      "Meanings": [
+        "fl",
+        "سیال حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "fluid density",
+      "Meanings": [
+        "The unit weight of fluid, e.g. : Pounds Per Gallon"
+      ]
+    },
+    {
+      "EnglishWord": "fluid flow",
+      "Meanings": [
+        "The state in fluid dynamics of a fluid in motion is determined by the type of fluid e.g., Newtonian, plastic, pseudoplastic, dilatant ; the properties of the fluid such as viscosity and density; the geometry of the system; and the velocity. Thus, under a given set of conditions and fluid properties, the fluid flow can be described as plug flow, laminar called also Newtonian, streamline, parallel, or viscous flow, or turbulent flow"
+      ]
+    },
+    {
+      "EnglishWord": "fluid in hole",
+      "Meanings": [
+        "FIH, the Fluid which is in the Well",
+        "سیال درون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "fluid injection",
+      "Meanings": [
+        "Injection of gases or liquids into a reservoir to force oil toward and into producing wells"
+      ]
+    },
+    {
+      "EnglishWord": "fluid level",
+      "Meanings": [
+        "Distance between well head and point to which fluid rises in the well"
+      ]
+    },
+    {
+      "EnglishWord": "fluid loss",
+      "Meanings": [
+        "f",
+        "هرز روی سیال یا گل حفاری",
+        "The unwanted migration of the liquid part of the drilling mud or cement slurry into a Formation, often minimized or prevented by the blending of additives with the Mud or Cement"
+      ]
+    },
+    {
+      "EnglishWord": "fluid saturation",
+      "Meanings": [
+        "The amount of the pore volume of a reservoir rock that is filled by water, oil, or gas and measured in routine core analysis"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescence",
+      "Meanings": [
+        "flrcnc, Instantaneous re",
+        "emission of light of a greater wave length than that light originally absorbed",
+        "فلیورسنس",
+        "خاصیت جذب اشعه ماوراء بنفش"
+      ]
+    },
+    {
+      "EnglishWord": "flush joint casing",
+      "Meanings": [
+        "A Casing in which the outside diameter of the joint is the same as the outside diameter of the casing itself, Also called : Flush",
+        "joint Casing"
+      ]
+    },
+    {
+      "EnglishWord": "flush production",
+      "Meanings": [
+        "The high rate of flow made by a good well right after it is drilled"
+      ]
+    },
+    {
+      "EnglishWord": "flushed zone",
+      "Meanings": [
+        "xo",
+        "زون یا ناحیه ای اطراف چاه که سیال سازند به منطقه دور‌تر رانده شده",
+        "زون شسته شده"
+      ]
+    },
+    {
+      "EnglishWord": "flush-joint pipe",
+      "Meanings": [
+        "Pipe in which the outside diameter of the joint is the same as the outside diameter of the tube. Pipe may also be internally flush",
+        "joint"
+      ]
+    },
+    {
+      "EnglishWord": "flw",
+      "Meanings": [
+        "flow",
+        "جریان سیال"
+      ]
+    },
+    {
+      "EnglishWord": "fly",
+      "Meanings": [
+        "finely",
+        "به ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "fm",
+      "Meanings": [
+        "formation",
+        "سازند",
+        "Formation"
+      ]
+    },
+    {
+      "EnglishWord": "fmd",
+      "Meanings": [
+        "fine to medium",
+        "دانه ریز تا متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "fmf",
+      "Meanings": [
+        "FORMATION FACTOR, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fmi",
+      "Meanings": [
+        "Formation Micro Imager",
+        "لاگ ارزیابی سازند در ناحیه نزدیک دیواره چاه"
+      ]
+    },
+    {
+      "EnglishWord": "fms",
+      "Meanings": [
+        "FORMATION MICRO SCANNER, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fmtm",
+      "Meanings": [
+        "FORMATION MULTI",
+        "TESTER LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fna",
+      "Meanings": [
+        "fauna"
+      ]
+    },
+    {
+      "EnglishWord": "fnr",
+      "Meanings": [
+        "finer"
+      ]
+    },
+    {
+      "EnglishWord": "focl",
+      "Meanings": [
+        "FOCUS, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "following",
+      "Meanings": [
+        "ff"
+      ]
+    },
+    {
+      "EnglishWord": "foram",
+      "Meanings": [
+        "Foraminifera",
+        "فرامینیفرا"
+      ]
+    },
+    {
+      "EnglishWord": "foraminifera",
+      "Meanings": [
+        "foram",
+        "فرامینیفرا"
+      ]
+    },
+    {
+      "EnglishWord": "foreman",
+      "Meanings": [
+        "Head Driller",
+        "سر حفار"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "سازند",
+        "Fm",
+        "A bed or deposit composed throughout of substantially the same kind of rock; often a Lithologic Unit. Each Formation is given a name, frequently as a result of the study of the Formation outcrop at the surface and sometimes based on Fossils found in the Formation"
+      ]
+    },
+    {
+      "EnglishWord": "formation breakdown",
+      "Meanings": [
+        "An event occurring when borehole pressure is of such magnitude that the exposed formation cannot withstand applied pressure"
+      ]
+    },
+    {
+      "EnglishWord": "formation competency test",
+      "Meanings": [
+        "A test used to determine the amount of pressure required to cause a Formation to fracture"
+      ]
+    },
+    {
+      "EnglishWord": "formation damage",
+      "Meanings": [
+        "The reduction of permeability in a reservoir rock caused by the invasion of drilling fluid and treating fluids to the section adjacent to the wellbore. Often call : Skin Damage"
+      ]
+    },
+    {
+      "EnglishWord": "formation density log",
+      "Meanings": [
+        "FDC",
+        "لاگ ارزیابی چگال بودن سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation density log compt",
+      "Meanings": [
+        "FDC",
+        "لاگ ارزیابی چگال بودن سازند",
+        "فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "formation fluid",
+      "Meanings": [
+        "Fluid, such as : Gas, Oil, or Water that exists in a subsurface rock Formation"
+      ]
+    },
+    {
+      "EnglishWord": "formation fracture pressure",
+      "Meanings": [
+        "The point at which a Formation will crack from pressure in the Well"
+      ]
+    },
+    {
+      "EnglishWord": "formation fracturing",
+      "Meanings": [
+        "A method of stimulating production by opening new flow channels in the rock surrounding a production well. Often call a frac job. Under extremely high hydraulic pressure, a fluid such as distillate, diesel fuel, crude oil, dilute hydrochloric acid, water, or kerosene is pumped downward through production tubing or drill pipe and forced out below a packer or between two packers. The pressure causes cracks to open in the formation, and the fluid penetrates the formation through the cracks. Sand grains, aluminum pellets, walnut shells, or similar materials propping agents are carried in suspension by the fluid into the cracks. When the pressure is released at the surface, the fracturing fluid returns to the well. The cracks partially close on the pellets, leaving channels for oil to flow around them to the well. See also : Explosive Fracturing, Hydraulic Fracturing"
+      ]
+    },
+    {
+      "EnglishWord": "formation integrity",
+      "Meanings": [
+        "See : Formation Competency"
+      ]
+    },
+    {
+      "EnglishWord": "formation integrity test",
+      "Meanings": [
+        "تست ارزیابی سازند",
+        "FIT",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "formation interval tester",
+      "Meanings": [
+        "FIT",
+        "تست یا ارزیابی فواصل مختلف سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation micro imager",
+      "Meanings": [
+        "FMI",
+        "لاگ ارزیابی سازند در ناحیه نزدیک دیواره چاه"
+      ]
+    },
+    {
+      "EnglishWord": "formation pressure",
+      "Meanings": [
+        "Pressure at the bottom of a Well that is shut in"
+      ]
+    },
+    {
+      "EnglishWord": "formation tester",
+      "Meanings": [
+        "FT",
+        "تست کننده سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation testing",
+      "Meanings": [
+        "The gathering of pressure data and fluid samples from a formation to determine its production potential before choosing a completion method. Testing tools include formation testers and drill stem test tools"
+      ]
+    },
+    {
+      "EnglishWord": "formation treatment run",
+      "Meanings": [
+        "FTR, operations' abbreviations use in drilling reports",
+        "عملیات جهت بهینه سازی وضعیت سازند",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "formation water",
+      "Meanings": [
+        "آب درون سازند",
+        "w"
+      ]
+    },
+    {
+      "EnglishWord": "former",
+      "Meanings": [
+        "frm"
+      ]
+    },
+    {
+      "EnglishWord": "fos",
+      "Meanings": [
+        "fossil",
+        "فسیل"
+      ]
+    },
+    {
+      "EnglishWord": "fosf",
+      "Meanings": [
+        "fossiliferous",
+        "دارای فسیل",
+        "فسیل دار",
+        "سنگی که دارای فسیل است"
+      ]
+    },
+    {
+      "EnglishWord": "foss",
+      "Meanings": [
+        "fossils",
+        "فسیل ها"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "fos",
+        "فسیل"
+      ]
+    },
+    {
+      "EnglishWord": "fossiliferous",
+      "Meanings": [
+        "fosf",
+        "دارای فسیل",
+        "فسیل دار",
+        "سنگی که دارای فسیل است"
+      ]
+    },
+    {
+      "EnglishWord": "fossils",
+      "Meanings": [
+        "fos, also write for : fossiliferous",
+        "foss",
+        "فسیل ها"
+      ]
+    },
+    {
+      "EnglishWord": "foundation pile",
+      "Meanings": [
+        "The first casing or conductor string generally with a diameter of 30 to 36 inches set when drilling a well from an offshore drilling rig. It prevents sloughing of the ocean",
+        "floor formations and is a structural support for the permanent guide base and the blowout preventers"
+      ]
+    },
+    {
+      "EnglishWord": "fourble",
+      "Meanings": [
+        "Length equal to 4 Drilling Pipes",
+        "A section of Drill Pipe, Casing, or Tubing consisting of four joints screwed together. Compare also with : Double, Single, Thribble",
+        "طولی از لوله‌های حفاری",
+        "وزنه",
+        "جداری یا مغزی که از چهار شاخه پیچ شده و متصل بهم تشکیل شده است"
+      ]
+    },
+    {
+      "EnglishWord": "fourble board",
+      "Meanings": [
+        "The elevation of Monkeyboard which is equal to 4 Drilling Pipes",
+        "سکوی دکلبان که به بلندی چهار طول شاخه لوله‌های حفاری است"
+      ]
+    },
+    {
+      "EnglishWord": "fp",
+      "Meanings": [
+        "flowing pressure",
+        "فشار جریان سیال حفاری یا سازند"
+      ]
+    },
+    {
+      "EnglishWord": "fqt",
+      "Meanings": [
+        "frequently",
+        "گاهگاهی",
+        "اغلب",
+        "frequent"
+      ]
+    },
+    {
+      "EnglishWord": "fr",
+      "Meanings": [
+        "firm",
+        "fair",
+        "سنگی با تخلخلی برابر 6 تا 12 درصد",
+        "اختصاری است که جهت سفت و سخت بودن نیز بکار می‌رود",
+        "سفت و سخت",
+        "اختصاری است که جهت تخلخلی برابر 6 تا 12 درصد نیز بکار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "fr e/l",
+      "Meanings": [
+        "from east line"
+      ]
+    },
+    {
+      "EnglishWord": "frac",
+      "Meanings": [
+        "fracture",
+        "درزه"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "frac",
+        "درزه"
+      ]
+    },
+    {
+      "EnglishWord": "fracture acidizing",
+      "Meanings": [
+        "A procedure by which acid is forced into a formation under pressure high enough to cause the formation to crack. The acid acts on certain kinds of rocks, usually carbonates, to increase the permeability of the Formation. Compare also with : Matrix Acidizing"
+      ]
+    },
+    {
+      "EnglishWord": "fracture pressure",
+      "Meanings": [
+        "The pressure at which a Formation will break down, or fracture"
+      ]
+    },
+    {
+      "EnglishWord": "frag",
+      "Meanings": [
+        "fragment",
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "fragment",
+      "Meanings": [
+        "frag",
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "frb",
+      "Meanings": [
+        "friable, also write as : frble",
+        "سست و شکننده"
+      ]
+    },
+    {
+      "EnglishWord": "frble",
+      "Meanings": [
+        "friable, also write as : frb",
+        "سست و شکننده",
+        "friable"
+      ]
+    },
+    {
+      "EnglishWord": "free point",
+      "Meanings": [
+        "An area or point above the point at which a tubular, such as drill pipe, is stuck in the Well"
+      ]
+    },
+    {
+      "EnglishWord": "free water",
+      "Meanings": [
+        "Water produced with oil. It usually settles out within five minutes when the well fluids become stationary in a settling space within a vessel",
+        ". the measured volume of water that is present in a container and that is not in suspension in the contained liquid at observed temperature"
+      ]
+    },
+    {
+      "EnglishWord": "free-point indicator",
+      "Meanings": [
+        "A device run on wireline into the wellbore and inside the fishing string and fish to locate the area where a fish is stuck. When the drill string is pulled and turned, the electromagnetic fields of free pipe and stuck pipe differ. The free",
+        "point indicator is able to distinguish these differences, which are registered on a metering device at the surface"
+      ]
+    },
+    {
+      "EnglishWord": "freeze point",
+      "Meanings": [
+        "The depth in the hole at which the tubing, casing, or drill pipe is stuck"
+      ]
+    },
+    {
+      "EnglishWord": "frequent",
+      "Meanings": [
+        "fqt",
+        "اغلب",
+        "گاهگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "friable",
+      "Meanings": [
+        "frb, also use as : frble",
+        "سست و شکننده",
+        "frble"
+      ]
+    },
+    {
+      "EnglishWord": "frm",
+      "Meanings": [
+        "former"
+      ]
+    },
+    {
+      "EnglishWord": "from",
+      "Meanings": [
+        "f/",
+        "از"
+      ]
+    },
+    {
+      "EnglishWord": "from east line",
+      "Meanings": [
+        "Fr E/L"
+      ]
+    },
+    {
+      "EnglishWord": "frxl",
+      "Meanings": [
+        "FORXO, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "fsh",
+      "Meanings": [
+        "working on Fish, a kind of Operation or action or job's abbreviation which Companymans write in their daily drilling reports",
+        "کار بر روی فیش یا مانده درون چاه",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Time actually spent for working on Fish In Hole, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "ft",
+      "Meanings": [
+        "Formation tester",
+        "تست کننده یا ارزیابی سازند"
+      ]
+    },
+    {
+      "EnglishWord": "ftr",
+      "Meanings": [
+        "Formation treatment run, operation's Abbreviations use in Companyman's daily drilling reports",
+        "عملیات مربوط به بهینه سازی سازند",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "FORMATION TESTER",
+        "REPEAT, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "function test",
+      "Meanings": [
+        "F/T, actions or jobs which Companymans write in their daily drilling reports",
+        "تست یا ارزیابی عملکرد ابزار یا وسیله ای",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "funnel viscosity",
+      "Meanings": [
+        "Viscosity as measured by the Marsh Funnel, based on the number of second it takes for 1,000 cubic centimeters of drilling fluid to flow through the funnel"
+      ]
+    },
+    {
+      "EnglishWord": "fusl",
+      "Meanings": [
+        "fusulinid",
+        "فوزولینید"
+      ]
+    },
+    {
+      "EnglishWord": "fusulinid",
+      "Meanings": [
+        "fusl",
+        "فوزولین"
+      ]
+    }
+  ]
+}

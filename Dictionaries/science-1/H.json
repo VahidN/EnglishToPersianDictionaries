@@ -1,0 +1,1795 @@
+﻿{
+  "Group": "H",
+  "Entries": 252,
+  "Words": [
+    {
+      "EnglishWord": "h test",
+      "Meanings": [
+        "آزمایش H"
+      ]
+    },
+    {
+      "EnglishWord": "haag's method",
+      "Meanings": [
+        "روش هاگ"
+      ]
+    },
+    {
+      "EnglishWord": "hacure",
+      "Meanings": [
+        "هاشور",
+        "هاشور زدن"
+      ]
+    },
+    {
+      "EnglishWord": "hade",
+      "Meanings": [
+        "زاویه انحراف از قایم"
+      ]
+    },
+    {
+      "EnglishWord": "half",
+      "Meanings": [
+        "نیم",
+        "نیمه",
+        "نصف"
+      ]
+    },
+    {
+      "EnglishWord": "half angle",
+      "Meanings": [
+        "نیم زاویه",
+        "نصف زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "half closed",
+      "Meanings": [
+        "نیم بسته"
+      ]
+    },
+    {
+      "EnglishWord": "half infinite",
+      "Meanings": [
+        "نیمه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "half infinite interval",
+      "Meanings": [
+        "بازه نیمه نامتناهی",
+        "فاصله نیمه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "half line",
+      "Meanings": [
+        "نیم خط",
+        "خط شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "half open",
+      "Meanings": [
+        "نیم باز",
+        "نیم گشوده"
+      ]
+    },
+    {
+      "EnglishWord": "half open interval",
+      "Meanings": [
+        "بازه نیم باز",
+        "فاصله نیم باز"
+      ]
+    },
+    {
+      "EnglishWord": "half open multidimensional interval",
+      "Meanings": [
+        "سنگفرش نیم باز"
+      ]
+    },
+    {
+      "EnglishWord": "half plaid",
+      "Meanings": [
+        "نیمه پیچازی"
+      ]
+    },
+    {
+      "EnglishWord": "half plane",
+      "Meanings": [
+        "نیم صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "half rotation",
+      "Meanings": [
+        "نیم دوران"
+      ]
+    },
+    {
+      "EnglishWord": "half side",
+      "Meanings": [
+        "نصف ضلع"
+      ]
+    },
+    {
+      "EnglishWord": "half space",
+      "Meanings": [
+        "نیم فضا"
+      ]
+    },
+    {
+      "EnglishWord": "half-adder",
+      "Meanings": [
+        "نیم",
+        "فزونگر"
+      ]
+    },
+    {
+      "EnglishWord": "half-subtractor",
+      "Meanings": [
+        "نیم",
+        "تفاضلگر"
+      ]
+    },
+    {
+      "EnglishWord": "halving",
+      "Meanings": [
+        "تنصیف",
+        "نصف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "ham sandwich theorem",
+      "Meanings": [
+        "قضیه ساندویچ هام",
+        "قضیه ساندویچ کالباس"
+      ]
+    },
+    {
+      "EnglishWord": "hamiltonian cycle",
+      "Meanings": [
+        "دور همیلتونی"
+      ]
+    },
+    {
+      "EnglishWord": "hamiltonian graph",
+      "Meanings": [
+        "گراف‌های همیلتونی",
+        "در سال 1859میلادی",
+        "sir William Hamilton مساله ای را با عنوان around the world مطرح کرد و آن را به یک طراح بازی به قیمت 25 گینی هر گینی برابر 21 شیلینگ! فروخت. مساله آغاز سفر از لندن و عبور از 19 شهر دیگر جهان از روی خطوط مشخص شده بود به طوری که از هر شهر تنها یک بار گذر کنیم",
+        "به زبان علمی‌تر هدف یافتن حداقل یک دور فراگیر دور فراگیر یک مسیر بسته است که از تمام راس‌های گراف عبور میکند برای یک گراف است. گراف با چنین دوری را گراف همیلتونی می‌نامند",
+        "به سادگی نمیتوان قانونی برای احراز همیلتونی بودن یک گراف ارایه کرد اما میتوان گفت یک گراف همیلتونی است اگر درجه ریوس آن به اندازه کافی بزرگ باشد! قضیه زیر مطلب را کمی روشن‌تر میکند",
+        "اگر گراف G",
+        "از سه راس بیشتر داشته باشد p&gt; 2 و درجه هرراس حداقل p/2 باشد آنگاه G همیلتونی است",
+        "از کتاب انگلیسی introduction to combinatorial theory نوشته R. C. Bose and B. Manvel"
+      ]
+    },
+    {
+      "EnglishWord": "hamitonian",
+      "Meanings": [
+        "همیلتونی"
+      ]
+    },
+    {
+      "EnglishWord": "handle",
+      "Meanings": [
+        "دسته در سطح"
+      ]
+    },
+    {
+      "EnglishWord": "hangarian algorithm",
+      "Meanings": [
+        "الگوریتم مجارستانی"
+      ]
+    },
+    {
+      "EnglishWord": "hanging",
+      "Meanings": [
+        "آویزان"
+      ]
+    },
+    {
+      "EnglishWord": "hankel transform",
+      "Meanings": [
+        "تبدیل هنکل"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic",
+      "Meanings": [
+        "همساز",
+        "توافقی",
+        "هماهنگ",
+        "موزون",
+        "بساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic analysis",
+      "Meanings": [
+        "آنالیز هامونیک",
+        "آناکاوی هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic average",
+      "Meanings": [
+        "واسطه موزون"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic conjugate",
+      "Meanings": [
+        "مزدوج توافقی",
+        "مزدوج",
+        "مزدوج همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic conjugates",
+      "Meanings": [
+        "مزدوج‌های توافقی",
+        "مزدوج توافقی"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic division",
+      "Meanings": [
+        "تقسیم توافقی",
+        "تقسیم موزون"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic function",
+      "Meanings": [
+        "تابع توافقی",
+        "تابع همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic mean",
+      "Meanings": [
+        "واسطه توافقی",
+        "میانگین توافقی",
+        "میانگین همساز",
+        "واسطه موزون",
+        "میانگین هماهنگ",
+        "میاگین هارمونیک"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic motion",
+      "Meanings": [
+        "حرکت پاندولی",
+        "حرکت سینوسی",
+        "حرکت همساز",
+        "حرکت هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic oscillation",
+      "Meanings": [
+        "نوسان هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic pencil",
+      "Meanings": [
+        "دسته خط توافقی",
+        "دسته خطوط توافقی",
+        "اشعه توافقی",
+        "دسته خطوط موزون"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic progression",
+      "Meanings": [
+        "تصاعد توافقی",
+        "تصاعد همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic quadrilateral",
+      "Meanings": [
+        "چهارضلعی هارمونیک"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic quaternion",
+      "Meanings": [
+        "چهارگانه همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic range",
+      "Meanings": [
+        "رشته توافقی",
+        "تقسیم توافقی"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic ratio",
+      "Meanings": [
+        "نسبت توافقی"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic row",
+      "Meanings": [
+        "تقسیم توافقی"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic series",
+      "Meanings": [
+        "سری توافقی",
+        "سری هارمونیک",
+        "سری همساز",
+        "رشته توافقی",
+        "سلسله هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic spaces",
+      "Meanings": [
+        "فضاهای هماهنگ",
+        "فضاهای موزون"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic tetrad",
+      "Meanings": [
+        "چهاره توافقی"
+      ]
+    },
+    {
+      "EnglishWord": "harmony",
+      "Meanings": [
+        "هماهنگی",
+        "همسازی",
+        "تطابق"
+      ]
+    },
+    {
+      "EnglishWord": "hatch",
+      "Meanings": [
+        "هاشور",
+        "آژ",
+        "هاشور زدن",
+        "خط آژ زدن",
+        "آژیدن"
+      ]
+    },
+    {
+      "EnglishWord": "hatched",
+      "Meanings": [
+        "هاشور خورده",
+        "آژیده"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff maximality principle",
+      "Meanings": [
+        "اصل ماکسیمال هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff metric",
+      "Meanings": [
+        "متر هاسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff property",
+      "Meanings": [
+        "خاصیت هاسدورفی"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff space",
+      "Meanings": [
+        "فضای مجزا",
+        "فضای هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff subset",
+      "Meanings": [
+        "بخش مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff topology",
+      "Meanings": [
+        "توپولوژی مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "haversine",
+      "Meanings": [
+        "توان دوم سینوس نصف قوس",
+        "نیم سهم",
+        "هاورسین"
+      ]
+    },
+    {
+      "EnglishWord": "head or tail",
+      "Meanings": [
+        "شیر یا خط",
+        "پشت یا رو"
+      ]
+    },
+    {
+      "EnglishWord": "heaviside unit function",
+      "Meanings": [
+        "تابع یکه هویساید"
+      ]
+    },
+    {
+      "EnglishWord": "heavy tail",
+      "Meanings": [
+        "دنیال سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "hecto",
+      "Meanings": [
+        "صد",
+        "صد برابر"
+      ]
+    },
+    {
+      "EnglishWord": "hectohedron",
+      "Meanings": [
+        "صدوجهی"
+      ]
+    },
+    {
+      "EnglishWord": "height",
+      "Meanings": [
+        "ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "heine-borel property",
+      "Meanings": [
+        "خاصیت هاینه",
+        "بورل"
+      ]
+    },
+    {
+      "EnglishWord": "helical",
+      "Meanings": [
+        "حلزونی",
+        "مارپیچی"
+      ]
+    },
+    {
+      "EnglishWord": "helicoid",
+      "Meanings": [
+        "مارپیچ وار",
+        "مارپیچ گون",
+        "سطح مارپیچی",
+        "هلیکویید"
+      ]
+    },
+    {
+      "EnglishWord": "helicoidal",
+      "Meanings": [
+        "مارپیچی",
+        "فنری"
+      ]
+    },
+    {
+      "EnglishWord": "helix",
+      "Meanings": [
+        "مارپیچ",
+        "منحنی فنری",
+        "منحنی مارپیچی",
+        "پیچه",
+        "خم استوانه ای",
+        "منحنی فضایی",
+        "جمع این کلمه به صورت helices است"
+      ]
+    },
+    {
+      "EnglishWord": "hemicycle",
+      "Meanings": [
+        "نیمدایره",
+        "منحنی نیمدایره مانند"
+      ]
+    },
+    {
+      "EnglishWord": "hemisphere",
+      "Meanings": [
+        "نیمکره"
+      ]
+    },
+    {
+      "EnglishWord": "hemispherical",
+      "Meanings": [
+        "نیمه کروی",
+        "نیمکروری"
+      ]
+    },
+    {
+      "EnglishWord": "hendecagon",
+      "Meanings": [
+        "یازده ضلعی",
+        "یازده گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "hepta",
+      "Meanings": [
+        "هفت",
+        "این کلمه یونانی است و معادل آن در انگلیسی seven است"
+      ]
+    },
+    {
+      "EnglishWord": "heptad",
+      "Meanings": [
+        "هفتگانه",
+        "هفت تایی"
+      ]
+    },
+    {
+      "EnglishWord": "heptagon",
+      "Meanings": [
+        "هفت ضلعی",
+        "هفت گوشه",
+        "هفت ضلعی منتظم",
+        "مسبع در زبان عربی"
+      ]
+    },
+    {
+      "EnglishWord": "heptagonal",
+      "Meanings": [
+        "هفت ضلعی",
+        "هفت گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "heptahedral",
+      "Meanings": [
+        "هفت وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "heptahedron",
+      "Meanings": [
+        "هفت وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "heptakaidecagon",
+      "Meanings": [
+        "هفده ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "hereditary",
+      "Meanings": [
+        "ارثی",
+        "موروثی"
+      ]
+    },
+    {
+      "EnglishWord": "heritable",
+      "Meanings": [
+        "قابل توارث",
+        "برماندپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "hermite reduction",
+      "Meanings": [
+        "ساده کردن هرمیتی",
+        "تقلیل هرمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "hermite's theorem",
+      "Meanings": [
+        "قضیه هرمیت"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian",
+      "Meanings": [
+        "هرمیتی",
+        "ارمیتی",
+        "هرمیتیک"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian form",
+      "Meanings": [
+        "صورت هرمیتیک",
+        "فرم هرمیتی",
+        "صورت هرمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian matrix",
+      "Meanings": [
+        "ماتریس هرمیتی",
+        "ماتریس هرمیتیک"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian product",
+      "Meanings": [
+        "حاصلضرب هرمیتیک"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian space",
+      "Meanings": [
+        "فضای هرمیتیک",
+        "فضای هرمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "heron's formula",
+      "Meanings": [
+        "فرمول هرون"
+      ]
+    },
+    {
+      "EnglishWord": "hessian",
+      "Meanings": [
+        "هسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneity",
+      "Meanings": [
+        "ناهمگنی"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneity of errors",
+      "Meanings": [
+        "ناهمگنی خطاها آمار"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneous",
+      "Meanings": [
+        "ناهمگن",
+        "نامتجانس"
+      ]
+    },
+    {
+      "EnglishWord": "heterological",
+      "Meanings": [
+        "ناهمگون"
+      ]
+    },
+    {
+      "EnglishWord": "heteromeric number",
+      "Meanings": [
+        "عدد غیری"
+      ]
+    },
+    {
+      "EnglishWord": "heteroscedastic",
+      "Meanings": [
+        "واریانس ناهماهنگ آمار"
+      ]
+    },
+    {
+      "EnglishWord": "heuristic",
+      "Meanings": [
+        "راهنما",
+        "راهگشا"
+      ]
+    },
+    {
+      "EnglishWord": "hexa",
+      "Meanings": [
+        "شش",
+        "این کلمه یونانی است و معادل آن در انگلیسی six است"
+      ]
+    },
+    {
+      "EnglishWord": "hexad",
+      "Meanings": [
+        "شش تایی"
+      ]
+    },
+    {
+      "EnglishWord": "hexadecimal",
+      "Meanings": [
+        "شانزدهگانی"
+      ]
+    },
+    {
+      "EnglishWord": "hexafoil",
+      "Meanings": [
+        "شش برگی"
+      ]
+    },
+    {
+      "EnglishWord": "hexagon",
+      "Meanings": [
+        "شش ضلعی",
+        "شش چهلو",
+        "شش ضلعی منتظم",
+        "مسدس در زبان عربی"
+      ]
+    },
+    {
+      "EnglishWord": "hexagonal",
+      "Meanings": [
+        "شش ضلعی",
+        "مسدسی",
+        "مسدس القاعده"
+      ]
+    },
+    {
+      "EnglishWord": "hexagonal prism",
+      "Meanings": [
+        "منشور مسدس القاعده"
+      ]
+    },
+    {
+      "EnglishWord": "hexagram",
+      "Meanings": [
+        "ستاره شش پر"
+      ]
+    },
+    {
+      "EnglishWord": "hexahedra",
+      "Meanings": [
+        "شش وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "hexahedral",
+      "Meanings": [
+        "شش وجهی گون",
+        "شش وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "hexahedral group",
+      "Meanings": [
+        "گروه شش وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "hexahedron",
+      "Meanings": [
+        "شش وجهی",
+        "مکعب"
+      ]
+    },
+    {
+      "EnglishWord": "hexangular",
+      "Meanings": [
+        "شش گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "high impedance",
+      "Meanings": [
+        "امپدانس بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high order",
+      "Meanings": [
+        "درجه عالی"
+      ]
+    },
+    {
+      "EnglishWord": "high order derivative",
+      "Meanings": [
+        "مشتق رتبه عالی"
+      ]
+    },
+    {
+      "EnglishWord": "high order differential",
+      "Meanings": [
+        "فاضله رتبه عالی"
+      ]
+    },
+    {
+      "EnglishWord": "higher",
+      "Meanings": [
+        "بالاتر",
+        "عالی"
+      ]
+    },
+    {
+      "EnglishWord": "higher arirhmatic",
+      "Meanings": [
+        "نظریه اعداد",
+        "حساب عالی"
+      ]
+    },
+    {
+      "EnglishWord": "higher limit",
+      "Meanings": [
+        "حد بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "higher mathematics",
+      "Meanings": [
+        "ریاضیات عالی"
+      ]
+    },
+    {
+      "EnglishWord": "higher order",
+      "Meanings": [
+        "مرتبه بالاتر"
+      ]
+    },
+    {
+      "EnglishWord": "higher order derivatives",
+      "Meanings": [
+        "مشتق‌های مرتبه بالاتر"
+      ]
+    },
+    {
+      "EnglishWord": "highest common divisor",
+      "Meanings": [
+        "بزرگترین مقسوم علیه مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "highest common factor",
+      "Meanings": [
+        "بزرگترین مقسوم علیه مشترک",
+        "بزرگترین عامل مشترک",
+        "وفق دو عدد",
+        "بزرگترین سازه مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "hight",
+      "Meanings": [
+        "ارتفاع",
+        "بلندی در مثلث",
+        "چندضلعی",
+        "چندوجهی",
+        "بالا"
+      ]
+    },
+    {
+      "EnglishWord": "histogram",
+      "Meanings": [
+        "نمودار ستونی",
+        "نمودار مستطیلی",
+        "نمودار",
+        "نمایش بافتنی",
+        "بافتنما",
+        "بافت نگار"
+      ]
+    },
+    {
+      "EnglishWord": "hodograph",
+      "Meanings": [
+        "شتاب نما",
+        "شتاب نگار",
+        "هودوگراف"
+      ]
+    },
+    {
+      "EnglishWord": "hold",
+      "Meanings": [
+        "صدق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "holder inequality",
+      "Meanings": [
+        "نامساوی هولدر"
+      ]
+    },
+    {
+      "EnglishWord": "holder's inequality",
+      "Meanings": [
+        "نامساوی هولدر",
+        "نابرابری هولدر"
+      ]
+    },
+    {
+      "EnglishWord": "holding time",
+      "Meanings": [
+        "زمان مکالمه آمار"
+      ]
+    },
+    {
+      "EnglishWord": "hole",
+      "Meanings": [
+        "حفره",
+        "سوراخ",
+        "چاله"
+      ]
+    },
+    {
+      "EnglishWord": "holo",
+      "Meanings": [
+        "]پیشوند[کامل",
+        "تمام",
+        "متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "holohedron",
+      "Meanings": [
+        "چندوجهی کاملا متقارن",
+        "حالت کریستالی",
+        "کاملا متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "holomorph",
+      "Meanings": [
+        "هلو ریخت",
+        "هرودیس",
+        "هولومرف"
+      ]
+    },
+    {
+      "EnglishWord": "holomorphic",
+      "Meanings": [
+        "تحلیلی",
+        "تمام ریخت",
+        "هلوریخت",
+        "هولومرف",
+        "هرودیسه"
+      ]
+    },
+    {
+      "EnglishWord": "holomorphic continuation",
+      "Meanings": [
+        "ادامه تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "holomorphic function",
+      "Meanings": [
+        "تابع تحلیلی",
+        "تابع هولومرف"
+      ]
+    },
+    {
+      "EnglishWord": "holomorphism",
+      "Meanings": [
+        "هلوریختی",
+        "هرودیسگی"
+      ]
+    },
+    {
+      "EnglishWord": "holonomic",
+      "Meanings": [
+        "هولونرم"
+      ]
+    },
+    {
+      "EnglishWord": "homeomorphic",
+      "Meanings": [
+        "همانریخت",
+        "هم ساختمان",
+        "هم سان",
+        "همان دیسه"
+      ]
+    },
+    {
+      "EnglishWord": "homeomorphism",
+      "Meanings": [
+        "هم سانی",
+        "همانریختی",
+        "هماندیسگی"
+      ]
+    },
+    {
+      "EnglishWord": "homocentric",
+      "Meanings": [
+        "هم مرکز",
+        "متحدالمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneity",
+      "Meanings": [
+        "تجانس",
+        "همگنی",
+        "یکنواختی",
+        "مجانست"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous",
+      "Meanings": [
+        "همگن",
+        "متجانس",
+        "یکنواخت",
+        "متشابه",
+        "همجنس"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous coordinate",
+      "Meanings": [
+        "مختصات متجانس"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous distribution",
+      "Meanings": [
+        "توزیع همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous equation",
+      "Meanings": [
+        "معادله همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous equations",
+      "Meanings": [
+        "معادلات همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous expression",
+      "Meanings": [
+        "عبارت همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous function",
+      "Meanings": [
+        "تابع همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous polynomial",
+      "Meanings": [
+        "چندجمله ای همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous property",
+      "Meanings": [
+        "خاصیت همگنی"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous system",
+      "Meanings": [
+        "دستگاه همگن",
+        "دستگاه متجانس"
+      ]
+    },
+    {
+      "EnglishWord": "homographic",
+      "Meanings": [
+        "همنگار",
+        "هموگرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "homographic function",
+      "Meanings": [
+        "تابع هموگرافیک",
+        "تابع همنگار"
+      ]
+    },
+    {
+      "EnglishWord": "homographic transformation",
+      "Meanings": [
+        "تبدیل همنگاری"
+      ]
+    },
+    {
+      "EnglishWord": "homography",
+      "Meanings": [
+        "همنگاری",
+        "تابع هوموگرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "homolgy",
+      "Meanings": [
+        "همتایی",
+        "تنظر یک به یک",
+        "مشابهت مانستگی",
+        "همگویی",
+        "هومولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "homological",
+      "Meanings": [
+        "همتایی",
+        "هومولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "homologous",
+      "Meanings": [
+        "همتا",
+        "متناظر",
+        "نظیر به نظیر",
+        "نظیر",
+        "متقابل",
+        "همانند",
+        "همگو",
+        "مانسته",
+        "هومولوگ"
+      ]
+    },
+    {
+      "EnglishWord": "homologous elements",
+      "Meanings": [
+        "عناصر نظیر"
+      ]
+    },
+    {
+      "EnglishWord": "homology",
+      "Meanings": [
+        "مانستگی"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphic",
+      "Meanings": [
+        "همسان",
+        "هم ساختمان",
+        "هم شکل",
+        "یک شکل",
+        "همریخت"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphic groups",
+      "Meanings": [
+        "گروه‌های هومومرف",
+        "هومومرفیسم گروه ها"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphic image",
+      "Meanings": [
+        "تصویر همسان",
+        "نگاره هم دیسه"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphism",
+      "Meanings": [
+        "هم ساختمانی",
+        "همسانی",
+        "هم شکلی",
+        "همریختی"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphism of fields",
+      "Meanings": [
+        "همسانی میدان ها",
+        "همسانی هییت ها",
+        "هومومرفیسم هییت"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphism of groups",
+      "Meanings": [
+        "همسانی گروه ها",
+        "هومومرفیسم گروه"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphism of rings",
+      "Meanings": [
+        "هم سانی حلقه ها",
+        "هومومرفیسم حلقه ها"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphy",
+      "Meanings": [
+        "همسانی",
+        "هم ساختمانی",
+        "هومومرفی",
+        "همدیسی"
+      ]
+    },
+    {
+      "EnglishWord": "homonymy",
+      "Meanings": [
+        "اشتراک اسم"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedastic",
+      "Meanings": [
+        "واریانس همگن",
+        "هم واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedasticity",
+      "Meanings": [
+        "یکسانی پراکندگی",
+        "یکسانی پراش"
+      ]
+    },
+    {
+      "EnglishWord": "homothetic",
+      "Meanings": [
+        "همسان",
+        "متجانس",
+        "هوموتسی"
+      ]
+    },
+    {
+      "EnglishWord": "homothetic figure",
+      "Meanings": [
+        "مجانس"
+      ]
+    },
+    {
+      "EnglishWord": "homothety",
+      "Meanings": [
+        "همسانی",
+        "تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "homothety with ratio",
+      "Meanings": [
+        "همسانی با نسبت مثلاa"
+      ]
+    },
+    {
+      "EnglishWord": "homotopic",
+      "Meanings": [
+        "هم جا",
+        "هم مکان",
+        "هوموتوپیک"
+      ]
+    },
+    {
+      "EnglishWord": "homotopy",
+      "Meanings": [
+        "همجایی",
+        "هم مکانی"
+      ]
+    },
+    {
+      "EnglishWord": "homotopy to a point",
+      "Meanings": [
+        "همجایی با یک نقطه",
+        "هم مکانی با یک نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "horizen",
+      "Meanings": [
+        "افق",
+        "خط افق",
+        "سطح افق"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal",
+      "Meanings": [
+        "افقی",
+        "ترازی",
+        "ترازین"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal axis",
+      "Meanings": [
+        "محور افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal base",
+      "Meanings": [
+        "پایه افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal direction",
+      "Meanings": [
+        "امتداد افقی",
+        "جهت افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal expansion of a graph",
+      "Meanings": [
+        "بسط افقی یک نگار"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal line",
+      "Meanings": [
+        "خط افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal projection",
+      "Meanings": [
+        "تصویر افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horn angle",
+      "Meanings": [
+        "زاویه شاخی"
+      ]
+    },
+    {
+      "EnglishWord": "horocycle",
+      "Meanings": [
+        "دایره زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "householder method",
+      "Meanings": [
+        "روش خانوار"
+      ]
+    },
+    {
+      "EnglishWord": "hub",
+      "Meanings": [
+        "مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "hull",
+      "Meanings": [
+        "غلاف",
+        "نیام",
+        "پوست",
+        "پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "hundreds",
+      "Meanings": [
+        "صدگان",
+        "مرتبه صدگان",
+        "صدها"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid",
+      "Meanings": [
+        "هیبرید",
+        "دور گه"
+      ]
+    },
+    {
+      "EnglishWord": "hypen",
+      "Meanings": [
+        "خط فاصله",
+        "کشک"
+      ]
+    },
+    {
+      "EnglishWord": "hyper",
+      "Meanings": [
+        "]پیشوند[ هیپر",
+        "ابر"
+      ]
+    },
+    {
+      "EnglishWord": "hyper graeco latin",
+      "Meanings": [
+        "فوق لاتین",
+        "یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbola",
+      "Meanings": [
+        "هذلولی",
+        "خط هذلولی",
+        "قطع زاید",
+        "گردنی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic",
+      "Meanings": [
+        "هیپربولیک",
+        "هذلولی شکل",
+        "هذلولوی",
+        "هذلولیک",
+        "هذلولی گون",
+        "هذلولی روش"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cosecant",
+      "Meanings": [
+        "کسکانت هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cosine",
+      "Meanings": [
+        "کسینوس هیپربولیک",
+        "کسینوس هذلولی گون",
+        "کسینوس هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cotangent",
+      "Meanings": [
+        "کتانژانت هیپربولیک",
+        "کتانژانت هذلولی گون",
+        "کتانژانت هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cylinder",
+      "Meanings": [
+        "استوانه هذلولوی",
+        "استوانه هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic equation",
+      "Meanings": [
+        "معادله هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic function",
+      "Meanings": [
+        "تابع هذلولوی",
+        "تابع هذلولی گون",
+        "تابع هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic geometry",
+      "Meanings": [
+        "هندسه هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic logarithm",
+      "Meanings": [
+        "لگاریتم هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic paraboloid",
+      "Meanings": [
+        "سهمی وار هذلولی گون",
+        "رویه سهمی مانند هذلولی روش",
+        "سهمی گون هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic plane",
+      "Meanings": [
+        "صفحه هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic point of a surface",
+      "Meanings": [
+        "نقطه هیپربولیک یک سطح"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic secant",
+      "Meanings": [
+        "سکانت هیپربولیک",
+        "سکانت هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic sector",
+      "Meanings": [
+        "قطاع هذلولی",
+        "قطاع هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic sine",
+      "Meanings": [
+        "سینوس هیپربولیک",
+        "سینوس هذلولی گون",
+        "سینوس هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic spiral",
+      "Meanings": [
+        "ماریپچ هذلولوی",
+        "مارپیچ هذلولی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic tangent",
+      "Meanings": [
+        "تانژانت هیپربولیک",
+        "تانوانت هذلولی گون تانژانت هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic trigonometry",
+      "Meanings": [
+        "مثلثات هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperboloid",
+      "Meanings": [
+        "هذلولی",
+        "هذلولی گون",
+        "هذلولی وار",
+        "رویه هذلولی مانند",
+        "هذلولی دوران یافته"
+      ]
+    },
+    {
+      "EnglishWord": "hyperboloid of one sheet",
+      "Meanings": [
+        "هذلولی وار یکپارچه",
+        "هذلولی گون یکپارچه",
+        "هیپربولویید یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperboloid of revolution of one sheet",
+      "Meanings": [
+        "هیپربولویید دوار یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperboloid of two sheets",
+      "Meanings": [
+        "هذلولی وار دوپارچه",
+        "هذلولی گون دوپارچه",
+        "هیپربولویید دوپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "hypercloid with four cusps",
+      "Meanings": [
+        "خم ستاره ای",
+        "خم هیپوسیکلویید با چهار نقطه عطف"
+      ]
+    },
+    {
+      "EnglishWord": "hypercloid with three cusps",
+      "Meanings": [
+        "تریکوسپید",
+        "هیپوسیکلویید با سه نقطه بازگشت",
+        "خم هیچو سیکلویید با سه نقطه عطف",
+        "خم هیپوسیکلویید سه پره"
+      ]
+    },
+    {
+      "EnglishWord": "hypercomplex",
+      "Meanings": [
+        "مافوق مختلط",
+        "مختلط چندگانه",
+        "هیپرمختلط"
+      ]
+    },
+    {
+      "EnglishWord": "hypercomplex number",
+      "Meanings": [
+        "عدد فوق مختلط",
+        "عدد چندبرگی"
+      ]
+    },
+    {
+      "EnglishWord": "hypercube",
+      "Meanings": [
+        "فوق مکعب",
+        "هیپرمکعب",
+        "ابرمکعب"
+      ]
+    },
+    {
+      "EnglishWord": "hypercycloid",
+      "Meanings": [
+        "درون چرخزاد"
+      ]
+    },
+    {
+      "EnglishWord": "hyperelliptic",
+      "Meanings": [
+        "زبربیضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric",
+      "Meanings": [
+        "فوق هندسی",
+        "ابرهندسی",
+        "هیپرهندسی",
+        "شبه هندسی",
+        "زبرهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق هندسی",
+        "پخش ابرهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric series",
+      "Meanings": [
+        "سری فوق هندسی",
+        "سری هیپرژیومتریک"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometry",
+      "Meanings": [
+        "فوق هندسه",
+        "هیپر هندسه",
+        "هیپرژیومتری"
+      ]
+    },
+    {
+      "EnglishWord": "hyperparallel",
+      "Meanings": [
+        "زبر موازی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperplane",
+      "Meanings": [
+        "فوق صفحه",
+        "صفحه چندبعدی",
+        "سطح مستوی چندبعدی",
+        "شبه صفحه",
+        "ابرصفحه",
+        "زبرصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperspace",
+      "Meanings": [
+        "هیپرفضا",
+        "ابرفضا"
+      ]
+    },
+    {
+      "EnglishWord": "hypersphere",
+      "Meanings": [
+        "کره چندبعدی",
+        "هیپرکره",
+        "فوق کره",
+        "زبرکره",
+        "ابرکره"
+      ]
+    },
+    {
+      "EnglishWord": "hypersurface",
+      "Meanings": [
+        "فوق سطح",
+        "هیپرسطح",
+        "ابررویه",
+        "زبررویه",
+        "شبه رویه"
+      ]
+    },
+    {
+      "EnglishWord": "hypocycloid",
+      "Meanings": [
+        "درون چرخزاد",
+        "درون چرخ نما",
+        "هیپوسیکلویید"
+      ]
+    },
+    {
+      "EnglishWord": "hypotenuse",
+      "Meanings": [
+        "قطر",
+        "وتر مثلث قایم الزاویه",
+        "وتر زاویه قایمه مثلث",
+        "زه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis",
+      "Meanings": [
+        "فرض قضیه",
+        "فرضیه",
+        "مقدم ترکیب شرطی",
+        "شرط",
+        "گمانه",
+        "انگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis of equality",
+      "Meanings": [
+        "فرض مساوی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis of no difference",
+      "Meanings": [
+        "فرض متفاوت نبودن",
+        "فرض نبودن تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis testing",
+      "Meanings": [
+        "آزمودن فرض",
+        "آزمون کردن فرض آمار"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetic",
+      "Meanings": [
+        "فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetic proposition",
+      "Meanings": [
+        "قضیه شرطیه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical",
+      "Meanings": [
+        "فرضی",
+        "شرطی",
+        "احتمالی",
+        "پنداشتی"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical event",
+      "Meanings": [
+        "حادثه فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical imperative",
+      "Meanings": [
+        "امر مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical syllogism",
+      "Meanings": [
+        "قیاس استثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "hypotrochoid",
+      "Meanings": [
+        "درون چرخه زاد",
+        "هیپوتروکویید"
+      ]
+    }
+  ]
+}

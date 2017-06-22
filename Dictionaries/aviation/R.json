@@ -1,0 +1,641 @@
+﻿{
+  "Group": "R",
+  "Entries": 105,
+  "Words": [
+    {
+      "EnglishWord": "r/t",
+      "Meanings": [
+        "Radio Telephony"
+      ]
+    },
+    {
+      "EnglishWord": "rac",
+      "Meanings": [
+        "Rules of the Air and air Traffic Services"
+      ]
+    },
+    {
+      "EnglishWord": "radar",
+      "Meanings": [
+        "مسافت یاب و ردیاب رادیویی"
+      ]
+    },
+    {
+      "EnglishWord": "radar altimeter",
+      "Meanings": [
+        "فراز یابی که ارتفاع هواپیما را از سطح زمین ارایه می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "radar approach",
+      "Meanings": [
+        "تقرب بکمک رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar blip",
+      "Meanings": [
+        "تصویر راداری هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "radar blip identification message",
+      "Meanings": [
+        "پیام شناسایی تصویر راداری هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "radar clutter",
+      "Meanings": [
+        "بازتاب ناخواسته"
+      ]
+    },
+    {
+      "EnglishWord": "radar contact",
+      "Meanings": [
+        "تماس راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar control",
+      "Meanings": [
+        "کنترل به کمک رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar controller workload",
+      "Meanings": [
+        "ظرفیت کار کنترلر رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar display",
+      "Meanings": [
+        "صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar display setting up procedure",
+      "Meanings": [
+        "دستورالعمل تنظیم صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar echo",
+      "Meanings": [
+        "بازتاب رارداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar glide path",
+      "Meanings": [
+        "زاویه فرود در رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar identification",
+      "Meanings": [
+        "شناسایی بوسیله رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar indicator",
+      "Meanings": [
+        "شاخص راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar monotoring",
+      "Meanings": [
+        "نظارت به کمک رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar position symbol",
+      "Meanings": [
+        "نماد موقعیت راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar response",
+      "Meanings": [
+        "پاسخ راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar separation",
+      "Meanings": [
+        "جدایی راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar service",
+      "Meanings": [
+        "سرویس راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar track position",
+      "Meanings": [
+        "تشخیص موقعیت هواپیما بوسیله کامپیوتر بر مبنای اطلاعات رادار که برای تعیین مسیر در اختیار کامپیوتر قرا داده شده"
+      ]
+    },
+    {
+      "EnglishWord": "radar trail",
+      "Meanings": [
+        "دنباله راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar unit",
+      "Meanings": [
+        "واحد راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radar vectoring",
+      "Meanings": [
+        "هدایت با رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radar watch",
+      "Meanings": [
+        "تعقیب راداری"
+      ]
+    },
+    {
+      "EnglishWord": "radial",
+      "Meanings": [
+        "شعاع"
+      ]
+    },
+    {
+      "EnglishWord": "radial velocity",
+      "Meanings": [
+        "سرعت شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radiation pattern",
+      "Meanings": [
+        "الگوی پخش"
+      ]
+    },
+    {
+      "EnglishWord": "radiotelephony",
+      "Meanings": [
+        "مکالمات رادیویی"
+      ]
+    },
+    {
+      "EnglishWord": "raes",
+      "Meanings": [
+        "Royal Aeronautical Society"
+      ]
+    },
+    {
+      "EnglishWord": "raf",
+      "Meanings": [
+        "Royal Air Force"
+      ]
+    },
+    {
+      "EnglishWord": "ragged",
+      "Meanings": [
+        "ناهموار"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "اتفاقی",
+        "غیر منتظره"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "فاصله",
+        "برد"
+      ]
+    },
+    {
+      "EnglishWord": "range mark",
+      "Meanings": [
+        "نشانه برد"
+      ]
+    },
+    {
+      "EnglishWord": "range rings",
+      "Meanings": [
+        "دوایر نشاندهنده برد"
+      ]
+    },
+    {
+      "EnglishWord": "ras",
+      "Meanings": [
+        "Rectified Airspeed"
+      ]
+    },
+    {
+      "EnglishWord": "rate of climb",
+      "Meanings": [
+        "میزان افزایش ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "rate of descent",
+      "Meanings": [
+        "میزان کاهش ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "rate of scan",
+      "Meanings": [
+        "تعداد دور آنتن در واحد زمان"
+      ]
+    },
+    {
+      "EnglishWord": "rbi",
+      "Meanings": [
+        "Relative Bearing Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "rcl",
+      "Meanings": [
+        "Runway Centre",
+        "Line"
+      ]
+    },
+    {
+      "EnglishWord": "rdo",
+      "Meanings": [
+        "Radio"
+      ]
+    },
+    {
+      "EnglishWord": "read back",
+      "Meanings": [
+        "باز خوانی"
+      ]
+    },
+    {
+      "EnglishWord": "readability",
+      "Meanings": [
+        "خوانایی"
+      ]
+    },
+    {
+      "EnglishWord": "readout",
+      "Meanings": [
+        "خوانش"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable assurance",
+      "Meanings": [
+        "اطمینان مدلل"
+      ]
+    },
+    {
+      "EnglishWord": "receiving unit/controller",
+      "Meanings": [
+        "واحد یا کنترلر دریافت کننده پیام"
+      ]
+    },
+    {
+      "EnglishWord": "reckless",
+      "Meanings": [
+        "بی پروا"
+      ]
+    },
+    {
+      "EnglishWord": "reclearance",
+      "Meanings": [
+        "اجازه جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "recommended practices",
+      "Meanings": [
+        "رو شهای توصیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "reconsideration of proposal",
+      "Meanings": [
+        "از سر گیری مجدد بحث"
+      ]
+    },
+    {
+      "EnglishWord": "reduced separation minima",
+      "Meanings": [
+        "تقلیل در حداقل جدایی"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy",
+      "Meanings": [
+        "افزونگی"
+      ]
+    },
+    {
+      "EnglishWord": "reference data",
+      "Meanings": [
+        "اطلاعات اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "referral to a subsidiary component",
+      "Meanings": [
+        "ارجاع موضوع تحت بررسی به یک نهاد فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "reflecting characteristice",
+      "Meanings": [
+        "خصوصیات بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "regional air navigation  ran agreement",
+      "Meanings": [
+        "موافقت نامه ناوبری منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "regional air navigation meeting",
+      "Meanings": [
+        "اجلاس ناوبری منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "registry",
+      "Meanings": [
+        "ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "regulatory",
+      "Meanings": [
+        "تنظیمی"
+      ]
+    },
+    {
+      "EnglishWord": "reliance",
+      "Meanings": [
+        "اتکاء"
+      ]
+    },
+    {
+      "EnglishWord": "reluctant",
+      "Meanings": [
+        "بی علاقه"
+      ]
+    },
+    {
+      "EnglishWord": "remarks",
+      "Meanings": [
+        "ملاحظات"
+      ]
+    },
+    {
+      "EnglishWord": "remedy",
+      "Meanings": [
+        "چاره"
+      ]
+    },
+    {
+      "EnglishWord": "remot control",
+      "Meanings": [
+        "کنترل از راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "reopening of debate",
+      "Meanings": [
+        "تجدید بحث و بررسی"
+      ]
+    },
+    {
+      "EnglishWord": "repetitor",
+      "Meanings": [
+        "تکرار کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reporting point",
+      "Meanings": [
+        "نقطه گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "representation",
+      "Meanings": [
+        "نمایندگی"
+      ]
+    },
+    {
+      "EnglishWord": "request message",
+      "Meanings": [
+        "پیام درخواست"
+      ]
+    },
+    {
+      "EnglishWord": "requirments",
+      "Meanings": [
+        "مقررات",
+        "نیازها"
+      ]
+    },
+    {
+      "EnglishWord": "rescue co-ordination centre",
+      "Meanings": [
+        "مرکز هماهنگیهای تجسس و نجات"
+      ]
+    },
+    {
+      "EnglishWord": "rescue unit",
+      "Meanings": [
+        "واحد تجسس"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "قطعنامه"
+      ]
+    },
+    {
+      "EnglishWord": "resolve",
+      "Meanings": [
+        "تصمیم گرفتن",
+        "مقرر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "responser",
+      "Meanings": [
+        "پاسخ دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "restore",
+      "Meanings": [
+        "بحال اول بر گردانیدن"
+      ]
+    },
+    {
+      "EnglishWord": "resume your own navigation",
+      "Meanings": [
+        "ناوبری خود را شروع کنید"
+      ]
+    },
+    {
+      "EnglishWord": "ring-a- round",
+      "Meanings": [
+        "حلقه جانبی ناخواسته در صفحه تصویر رادار ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "ris",
+      "Meanings": [
+        "Radar Information Service"
+      ]
+    },
+    {
+      "EnglishWord": "rmi",
+      "Meanings": [
+        "Radio Magnetic Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "rmk",
+      "Meanings": [
+        "Remark S"
+      ]
+    },
+    {
+      "EnglishWord": "rmu",
+      "Meanings": [
+        "Radio Management Unit"
+      ]
+    },
+    {
+      "EnglishWord": "rnav",
+      "Meanings": [
+        "سیستم ناوبری ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rnav",
+      "Meanings": [
+        "Area Navigation"
+      ]
+    },
+    {
+      "EnglishWord": "rnav route",
+      "Meanings": [
+        "راه هوایی در سیستم ناوبری ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "roll call",
+      "Meanings": [
+        "رای گیری با ذکر نام"
+      ]
+    },
+    {
+      "EnglishWord": "ron",
+      "Meanings": [
+        "Remain Over Night"
+      ]
+    },
+    {
+      "EnglishWord": "rotary switch",
+      "Meanings": [
+        "کلید قابل چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotation",
+      "Meanings": [
+        "غلتش"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "گرد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "route",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "routine",
+      "Meanings": [
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "rpm",
+      "Meanings": [
+        "revolutions per minute"
+      ]
+    },
+    {
+      "EnglishWord": "rtf",
+      "Meanings": [
+        "Radio Telephony"
+      ]
+    },
+    {
+      "EnglishWord": "rule of procedure",
+      "Meanings": [
+        "نظامنامه"
+      ]
+    },
+    {
+      "EnglishWord": "runway in use",
+      "Meanings": [
+        "باند قابل استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "runway visual range",
+      "Meanings": [
+        "دید روی باند"
+      ]
+    },
+    {
+      "EnglishWord": "rvr",
+      "Meanings": [
+        "Runway Visual Range"
+      ]
+    },
+    {
+      "EnglishWord": "rwy",
+      "Meanings": [
+        "Runway"
+      ]
+    },
+    {
+      "EnglishWord": "rx",
+      "Meanings": [
+        "Receiver"
+      ]
+    }
+  ]
+}

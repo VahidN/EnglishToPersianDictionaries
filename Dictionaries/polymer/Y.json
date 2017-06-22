@@ -1,0 +1,44 @@
+﻿{
+  "Group": "Y",
+  "Entries": 6,
+  "Words": [
+    {
+      "EnglishWord": "yarn",
+      "Meanings": [
+        "نخ",
+        "دسته رشته پیچیده شده نیم تاب"
+      ]
+    },
+    {
+      "EnglishWord": "yarn of roving",
+      "Meanings": [
+        "دسته الیاف بلند"
+      ]
+    },
+    {
+      "EnglishWord": "yellowness index",
+      "Meanings": [
+        "شاخص زردی"
+      ]
+    },
+    {
+      "EnglishWord": "yield point",
+      "Meanings": [
+        "نقطه تسلیم"
+      ]
+    },
+    {
+      "EnglishWord": "yield stress",
+      "Meanings": [
+        "تنش تسلیم"
+      ]
+    },
+    {
+      "EnglishWord": "young's modulus",
+      "Meanings": [
+        "مدول یانگ",
+        "نسبت تنش نرمال به کشش مربوطه برای کشش یا تنشهای فشاری که کمتر از محدوده نسبی مواد می‏باشد"
+      ]
+    }
+  ]
+}

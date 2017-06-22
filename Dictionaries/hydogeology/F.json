@@ -1,0 +1,2941 @@
+﻿{
+  "Group": "F",
+  "Entries": 489,
+  "Words": [
+    {
+      "EnglishWord": "fabric diagram . indicator diagram",
+      "Meanings": [
+        "نمودار مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "face",
+      "Meanings": [
+        "جبهه کار"
+      ]
+    },
+    {
+      "EnglishWord": "face",
+      "Meanings": [
+        "سینه کار معدن"
+      ]
+    },
+    {
+      "EnglishWord": "face area",
+      "Meanings": [
+        "محوطه سینه کار"
+      ]
+    },
+    {
+      "EnglishWord": "face cleat",
+      "Meanings": [
+        "ترکهای اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "face cleat",
+      "Meanings": [
+        "ترکهای جبهه"
+      ]
+    },
+    {
+      "EnglishWord": "face discharge",
+      "Meanings": [
+        "سطح برنده"
+      ]
+    },
+    {
+      "EnglishWord": "face drivage",
+      "Meanings": [
+        "راهرو حمل مواد"
+      ]
+    },
+    {
+      "EnglishWord": "face of stope",
+      "Meanings": [
+        "پیشانی"
+      ]
+    },
+    {
+      "EnglishWord": "faces",
+      "Meanings": [
+        "رخساره"
+      ]
+    },
+    {
+      "EnglishWord": "facies criteria",
+      "Meanings": [
+        "معیارهای رخساره ای"
+      ]
+    },
+    {
+      "EnglishWord": "facing",
+      "Meanings": [
+        "روسازی"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "فاکتور"
+      ]
+    },
+    {
+      "EnglishWord": "factor analysis",
+      "Meanings": [
+        "تجزیه وتحلیل سازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "factor-vector analysis",
+      "Meanings": [
+        "تجزیه و تحلیل فاکتوری",
+        "برداری"
+      ]
+    },
+    {
+      "EnglishWord": "fade - out zone",
+      "Meanings": [
+        "منطقه فشار کاهیده"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "قصور"
+      ]
+    },
+    {
+      "EnglishWord": "failure analysis",
+      "Meanings": [
+        "تحلیل شکست"
+      ]
+    },
+    {
+      "EnglishWord": "failure criteria",
+      "Meanings": [
+        "معیارهای شکست"
+      ]
+    },
+    {
+      "EnglishWord": "failure envelope",
+      "Meanings": [
+        "پوش شکست"
+      ]
+    },
+    {
+      "EnglishWord": "failure envelope",
+      "Meanings": [
+        "پوش گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "failure-discontinuity-fault-faulting",
+      "Meanings": [
+        "گسستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fall earthquake",
+      "Meanings": [
+        "زلزله سقوطی"
+      ]
+    },
+    {
+      "EnglishWord": "falls",
+      "Meanings": [
+        "افتادگان"
+      ]
+    },
+    {
+      "EnglishWord": "false colour",
+      "Meanings": [
+        "رنگ کاذب"
+      ]
+    },
+    {
+      "EnglishWord": "false equilibrium",
+      "Meanings": [
+        "تعادل غلط"
+      ]
+    },
+    {
+      "EnglishWord": "false halo",
+      "Meanings": [
+        "هاله بی اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "false halo",
+      "Meanings": [
+        "هاله دروغی"
+      ]
+    },
+    {
+      "EnglishWord": "fan",
+      "Meanings": [
+        "مخروط آبرفتی"
+      ]
+    },
+    {
+      "EnglishWord": "fan",
+      "Meanings": [
+        "مخروط افکنه"
+      ]
+    },
+    {
+      "EnglishWord": "fan",
+      "Meanings": [
+        "پنکه"
+      ]
+    },
+    {
+      "EnglishWord": "fan drift",
+      "Meanings": [
+        "راهروی مخصوص باد بزن"
+      ]
+    },
+    {
+      "EnglishWord": "fan drilling  ring drilling",
+      "Meanings": [
+        "روش چال رینگی"
+      ]
+    },
+    {
+      "EnglishWord": "fan drilling  ring drilling",
+      "Meanings": [
+        "روش چال پروانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fan fold",
+      "Meanings": [
+        "چین بادبزنی"
+      ]
+    },
+    {
+      "EnglishWord": "fan protection devices",
+      "Meanings": [
+        "وسایل حفاظتی باد بزن"
+      ]
+    },
+    {
+      "EnglishWord": "fan shaft",
+      "Meanings": [
+        "چاه پنکه"
+      ]
+    },
+    {
+      "EnglishWord": "fan-shaped hydrogeochemical anomaly",
+      "Meanings": [
+        "آنو مالی هیدرو ژیو شیمیایی باد بزنی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "fanwise",
+      "Meanings": [
+        "پروانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fast floatable",
+      "Meanings": [
+        "فلوته شونده سریع"
+      ]
+    },
+    {
+      "EnglishWord": "fat coal",
+      "Meanings": [
+        "زغال سنگ چرب"
+      ]
+    },
+    {
+      "EnglishWord": "fatal accident",
+      "Meanings": [
+        "حادثه فلاکت بار"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue",
+      "Meanings": [
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue 5",
+      "Meanings": [
+        "خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue limit",
+      "Meanings": [
+        "حد خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "عیب"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "نقص"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "گسل"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault gauge",
+      "Meanings": [
+        "پودرسنگ"
+      ]
+    },
+    {
+      "EnglishWord": "fault line scarp",
+      "Meanings": [
+        "پرتگاه خط گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault line21.63",
+      "Meanings": [
+        "خط گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault plane",
+      "Meanings": [
+        "سطح گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault scarp",
+      "Meanings": [
+        "پرتگاه گسله ای"
+      ]
+    },
+    {
+      "EnglishWord": "fault scarp",
+      "Meanings": [
+        "پرتگاه گسلی"
+      ]
+    },
+    {
+      "EnglishWord": "fault trace",
+      "Meanings": [
+        "اثر گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault trap",
+      "Meanings": [
+        "نفت گیر گسلی"
+      ]
+    },
+    {
+      "EnglishWord": "fault zone",
+      "Meanings": [
+        "منطقه گسل"
+      ]
+    },
+    {
+      "EnglishWord": "fault zone",
+      "Meanings": [
+        "منطقه گسله"
+      ]
+    },
+    {
+      "EnglishWord": "fault zone",
+      "Meanings": [
+        "منطقه گسلی"
+      ]
+    },
+    {
+      "EnglishWord": "fault-block mountain",
+      "Meanings": [
+        "کوه گسل زاد"
+      ]
+    },
+    {
+      "EnglishWord": "fault-block mountain",
+      "Meanings": [
+        "کوههای گسله ای"
+      ]
+    },
+    {
+      "EnglishWord": "fault-block mountain",
+      "Meanings": [
+        "کوههای گسلی"
+      ]
+    },
+    {
+      "EnglishWord": "faulted rock",
+      "Meanings": [
+        "سنگ گسل خورده"
+      ]
+    },
+    {
+      "EnglishWord": "faulted rocks",
+      "Meanings": [
+        "سنگهای گسل خورده"
+      ]
+    },
+    {
+      "EnglishWord": "faulting",
+      "Meanings": [
+        "گسل خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "faunal succession",
+      "Meanings": [
+        "ردیف زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "ارزیابی فنی و اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "مطالعات امکان پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "مطالعه امکان پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "feasible point",
+      "Meanings": [
+        "نقطه عملی"
+      ]
+    },
+    {
+      "EnglishWord": "feather anchor",
+      "Meanings": [
+        "آنکر پیچ و مهره ای"
+      ]
+    },
+    {
+      "EnglishWord": "feed 1",
+      "Meanings": [
+        "خوراک"
+      ]
+    },
+    {
+      "EnglishWord": "feed rate",
+      "Meanings": [
+        "نرخ باردهی"
+      ]
+    },
+    {
+      "EnglishWord": "feed stock",
+      "Meanings": [
+        "مواد تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "پس خور"
+      ]
+    },
+    {
+      "EnglishWord": "feeder",
+      "Meanings": [
+        "تغذیه کننده"
+      ]
+    },
+    {
+      "EnglishWord": "felsic",
+      "Meanings": [
+        "روشن"
+      ]
+    },
+    {
+      "EnglishWord": "felsic mineral",
+      "Meanings": [
+        "کانی روشن"
+      ]
+    },
+    {
+      "EnglishWord": "felsic mineral",
+      "Meanings": [
+        "کانی فلسیک"
+      ]
+    },
+    {
+      "EnglishWord": "felsite",
+      "Meanings": [
+        "فلسیت"
+      ]
+    },
+    {
+      "EnglishWord": "felsitic rock",
+      "Meanings": [
+        "سنگ فلستیک"
+      ]
+    },
+    {
+      "EnglishWord": "fender washer",
+      "Meanings": [
+        "واشر فنری"
+      ]
+    },
+    {
+      "EnglishWord": "fenster",
+      "Meanings": [
+        "پنجره تکتونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "ferric",
+      "Meanings": [
+        "آهن دار"
+      ]
+    },
+    {
+      "EnglishWord": "ferric alum",
+      "Meanings": [
+        "زاج اهن"
+      ]
+    },
+    {
+      "EnglishWord": "ferriferrous",
+      "Meanings": [
+        "آهن خیز"
+      ]
+    },
+    {
+      "EnglishWord": "ferrite",
+      "Meanings": [
+        "فریت"
+      ]
+    },
+    {
+      "EnglishWord": "ferro-alloy",
+      "Meanings": [
+        "آلیاژ آهن"
+      ]
+    },
+    {
+      "EnglishWord": "ferrography",
+      "Meanings": [
+        "آهن نگاری"
+      ]
+    },
+    {
+      "EnglishWord": "ferrography",
+      "Meanings": [
+        "فروگرافی"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnesian",
+      "Meanings": [
+        "آهن منیزیم دار"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic",
+      "Meanings": [
+        "آهن ربایی"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic",
+      "Meanings": [
+        "آهن مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic",
+      "Meanings": [
+        "فرومغناطیس"
+      ]
+    },
+    {
+      "EnglishWord": "ferrous",
+      "Meanings": [
+        "آهن"
+      ]
+    },
+    {
+      "EnglishWord": "fiatening machine 5",
+      "Meanings": [
+        "ماشین نورد"
+      ]
+    },
+    {
+      "EnglishWord": "fiber",
+      "Meanings": [
+        "فیبر"
+      ]
+    },
+    {
+      "EnglishWord": "fiberous peat",
+      "Meanings": [
+        "تورب الیافی"
+      ]
+    },
+    {
+      "EnglishWord": "fibrosis",
+      "Meanings": [
+        "فیبروژه"
+      ]
+    },
+    {
+      "EnglishWord": "fibrous",
+      "Meanings": [
+        "فیبری"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field telephone",
+      "Meanings": [
+        "تلفن صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field trial",
+      "Meanings": [
+        "آزمایش صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "field viscometer",
+      "Meanings": [
+        "گران روی سنج صحرای"
+      ]
+    },
+    {
+      "EnglishWord": "field viscosimeter",
+      "Meanings": [
+        "گران روی نمای صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "file",
+      "Meanings": [
+        "پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "filed test",
+      "Meanings": [
+        "آزمون صحرایی"
+      ]
+    },
+    {
+      "EnglishWord": "fillar",
+      "Meanings": [
+        "پرکننده"
+      ]
+    },
+    {
+      "EnglishWord": "fillet weld",
+      "Meanings": [
+        "جوش ماهیچه ای"
+      ]
+    },
+    {
+      "EnglishWord": "filling 15",
+      "Meanings": [
+        "ماده پرکننده ناپیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "filling level",
+      "Meanings": [
+        "سطح آبگیر"
+      ]
+    },
+    {
+      "EnglishWord": "fill-stope",
+      "Meanings": [
+        "کار گاه پر شونده"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "فیلتر"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "پالاینده"
+      ]
+    },
+    {
+      "EnglishWord": "filter cake",
+      "Meanings": [
+        "کیک صافی"
+      ]
+    },
+    {
+      "EnglishWord": "filter cake",
+      "Meanings": [
+        "کیک فیلتر"
+      ]
+    },
+    {
+      "EnglishWord": "filter cloth",
+      "Meanings": [
+        "پارچه فیلتر"
+      ]
+    },
+    {
+      "EnglishWord": "filter cloth",
+      "Meanings": [
+        "پوشه پالاینده"
+      ]
+    },
+    {
+      "EnglishWord": "filter loss",
+      "Meanings": [
+        "افت تراوش"
+      ]
+    },
+    {
+      "EnglishWord": "filter loss",
+      "Meanings": [
+        "افت صافی"
+      ]
+    },
+    {
+      "EnglishWord": "filter press",
+      "Meanings": [
+        "فیلتر پرس"
+      ]
+    },
+    {
+      "EnglishWord": "filtering horizon",
+      "Meanings": [
+        "افق پالایش کننده"
+      ]
+    },
+    {
+      "EnglishWord": "filtering layer 25",
+      "Meanings": [
+        "لایة پالایش کننده"
+      ]
+    },
+    {
+      "EnglishWord": "filtering rate",
+      "Meanings": [
+        "سرعت پالایش"
+      ]
+    },
+    {
+      "EnglishWord": "filtering rate",
+      "Meanings": [
+        "نرخ پالایش"
+      ]
+    },
+    {
+      "EnglishWord": "filtering rock",
+      "Meanings": [
+        "سنگ پالایش کننده"
+      ]
+    },
+    {
+      "EnglishWord": "filtrate",
+      "Meanings": [
+        "تراویده"
+      ]
+    },
+    {
+      "EnglishWord": "filtrate",
+      "Meanings": [
+        "میزان تراویده"
+      ]
+    },
+    {
+      "EnglishWord": "filtration",
+      "Meanings": [
+        "فیلتر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "filtration effect",
+      "Meanings": [
+        "اثر پالایشی"
+      ]
+    },
+    {
+      "EnglishWord": "final pit slope",
+      "Meanings": [
+        "آخرین حد معدن"
+      ]
+    },
+    {
+      "EnglishWord": "finds 4",
+      "Meanings": [
+        "یافتگان"
+      ]
+    },
+    {
+      "EnglishWord": "fine grained 24",
+      "Meanings": [
+        "دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine product",
+      "Meanings": [
+        "محصول دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fined carbon",
+      "Meanings": [
+        "کربن ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fined carbon",
+      "Meanings": [
+        "کربن پابسته"
+      ]
+    },
+    {
+      "EnglishWord": "fines",
+      "Meanings": [
+        "مصالح ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fines 5",
+      "Meanings": [
+        "خاکه"
+      ]
+    },
+    {
+      "EnglishWord": "finger",
+      "Meanings": [
+        "قیفهای استخراجی"
+      ]
+    },
+    {
+      "EnglishWord": "finish works",
+      "Meanings": [
+        "کارهای پایانی"
+      ]
+    },
+    {
+      "EnglishWord": "finishing rolling",
+      "Meanings": [
+        "غلتک زدن نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finite air velocity",
+      "Meanings": [
+        "سرعت متناهی هوا"
+      ]
+    },
+    {
+      "EnglishWord": "finite difference",
+      "Meanings": [
+        "تفاضل محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite difference method",
+      "Meanings": [
+        "روش تفاوتهای محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite elements",
+      "Meanings": [
+        "اجزاء محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite elements",
+      "Meanings": [
+        "عناصر محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite population",
+      "Meanings": [
+        "جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite population",
+      "Meanings": [
+        "جامعه محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite strain",
+      "Meanings": [
+        "کرنش محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite-elements method",
+      "Meanings": [
+        "روش عناصر محدود"
+      ]
+    },
+    {
+      "EnglishWord": "fire brick",
+      "Meanings": [
+        "آجر نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "fire brick",
+      "Meanings": [
+        "رست نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "fire brick 17 fire clay 3 lam 6",
+      "Meanings": [
+        "خاک نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "fire damp-mine gas-raw gas",
+      "Meanings": [
+        "گاز معدن"
+      ]
+    },
+    {
+      "EnglishWord": "fire detection",
+      "Meanings": [
+        "کشف اتش"
+      ]
+    },
+    {
+      "EnglishWord": "firedamp",
+      "Meanings": [
+        "گاز حاوی متان"
+      ]
+    },
+    {
+      "EnglishWord": "firedamp",
+      "Meanings": [
+        "گاز داخل معدن"
+      ]
+    },
+    {
+      "EnglishWord": "firedamp-coal gas-white damp",
+      "Meanings": [
+        "گاز زغال"
+      ]
+    },
+    {
+      "EnglishWord": "firing circuit",
+      "Meanings": [
+        "مدار آتشباری"
+      ]
+    },
+    {
+      "EnglishWord": "firing line",
+      "Meanings": [
+        "سیم آتش"
+      ]
+    },
+    {
+      "EnglishWord": "first differentiation",
+      "Meanings": [
+        "تفرقه اول"
+      ]
+    },
+    {
+      "EnglishWord": "fish 32",
+      "Meanings": [
+        "مانده"
+      ]
+    },
+    {
+      "EnglishWord": "fisher test",
+      "Meanings": [
+        "آزمایش فیشه"
+      ]
+    },
+    {
+      "EnglishWord": "fisher test",
+      "Meanings": [
+        "آزمون فیشه"
+      ]
+    },
+    {
+      "EnglishWord": "fishing",
+      "Meanings": [
+        "ابزار یابی"
+      ]
+    },
+    {
+      "EnglishWord": "fishing 32",
+      "Meanings": [
+        "مانده یابی"
+      ]
+    },
+    {
+      "EnglishWord": "fishing tools",
+      "Meanings": [
+        "ابزار مانده یابی"
+      ]
+    },
+    {
+      "EnglishWord": "fishtail bit 24",
+      "Meanings": [
+        "مته دم ماهی"
+      ]
+    },
+    {
+      "EnglishWord": "fissile",
+      "Meanings": [
+        "قابل تورق"
+      ]
+    },
+    {
+      "EnglishWord": "fissile bedding 6",
+      "Meanings": [
+        "لایه بندی قابل تورق"
+      ]
+    },
+    {
+      "EnglishWord": "fission tracks",
+      "Meanings": [
+        "رد شکافت"
+      ]
+    },
+    {
+      "EnglishWord": "fissure",
+      "Meanings": [
+        "ترک مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "fissure vein",
+      "Meanings": [
+        "رگه شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "fissured",
+      "Meanings": [
+        "ترک خورده"
+      ]
+    },
+    {
+      "EnglishWord": "five pieces set",
+      "Meanings": [
+        "قاب پنج قطعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fixed beam",
+      "Meanings": [
+        "تیر دوسر گیر دار"
+      ]
+    },
+    {
+      "EnglishWord": "fixed carbon",
+      "Meanings": [
+        "کربن ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "flagstone 6",
+      "Meanings": [
+        "ماسه سنگ قابل تورق"
+      ]
+    },
+    {
+      "EnglishWord": "flake",
+      "Meanings": [
+        "پولکی"
+      ]
+    },
+    {
+      "EnglishWord": "flaking",
+      "Meanings": [
+        "پوسته ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "flaky .laminar",
+      "Meanings": [
+        "ورقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "flame proof",
+      "Meanings": [
+        "نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "flame proof unit",
+      "Meanings": [
+        "وسیله ایمنی ضد جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "flame quenching additive 12",
+      "Meanings": [
+        "ماده شعله خفه کن"
+      ]
+    },
+    {
+      "EnglishWord": "flammability",
+      "Meanings": [
+        "آتشگیری"
+      ]
+    },
+    {
+      "EnglishWord": "flammability",
+      "Meanings": [
+        "قابلیت اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "flammable",
+      "Meanings": [
+        "آتشگیر"
+      ]
+    },
+    {
+      "EnglishWord": "flammable",
+      "Meanings": [
+        "قابل اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "flanged type wheel",
+      "Meanings": [
+        "چرخ چانه دار"
+      ]
+    },
+    {
+      "EnglishWord": "flanged wheel",
+      "Meanings": [
+        "چرخ لبه دار"
+      ]
+    },
+    {
+      "EnglishWord": "flank 3",
+      "Meanings": [
+        "دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "flase anomaly",
+      "Meanings": [
+        "آنومالی بی اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "flase anomaly",
+      "Meanings": [
+        "آنومالی دروغی"
+      ]
+    },
+    {
+      "EnglishWord": "flash dryer 48",
+      "Meanings": [
+        "خشک کن سریع"
+      ]
+    },
+    {
+      "EnglishWord": "flash vaporization",
+      "Meanings": [
+        "تبخیرتعادلی"
+      ]
+    },
+    {
+      "EnglishWord": "flashing",
+      "Meanings": [
+        "فشار شکنی"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "تخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "کفه"
+      ]
+    },
+    {
+      "EnglishWord": "flat 6 table 44",
+      "Meanings": [
+        "هموار"
+      ]
+    },
+    {
+      "EnglishWord": "flat bucked stoping",
+      "Meanings": [
+        "استخراج با تخریب کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "flat slop",
+      "Meanings": [
+        "کم شیب"
+      ]
+    },
+    {
+      "EnglishWord": "flat structure",
+      "Meanings": [
+        "ساختار مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flattened rope",
+      "Meanings": [
+        "سیم بکسل بیضی"
+      ]
+    },
+    {
+      "EnglishWord": "flattening",
+      "Meanings": [
+        "پهن شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "fleet angle",
+      "Meanings": [
+        "زاویه مخروطی بین غلتک و پولی"
+      ]
+    },
+    {
+      "EnglishWord": "flex 3",
+      "Meanings": [
+        "خم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "flexe 38",
+      "Meanings": [
+        "خمش مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "flexeble 3",
+      "Meanings": [
+        "خمشپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexibility",
+      "Meanings": [
+        "قابلیت انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexible",
+      "Meanings": [
+        "قابل انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexible  conveyor",
+      "Meanings": [
+        "نوار قابل انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexible 6",
+      "Meanings": [
+        "خمپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible jacket",
+      "Meanings": [
+        "پوشش پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible pipe 3",
+      "Meanings": [
+        "لوله خرطومی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible sandstone 63",
+      "Meanings": [
+        "ماسه سنگ خمشپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible shaft",
+      "Meanings": [
+        "محور قابل انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexural 1",
+      "Meanings": [
+        "خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "flexural strength",
+      "Meanings": [
+        "مقاومت خشمی"
+      ]
+    },
+    {
+      "EnglishWord": "flexural tests",
+      "Meanings": [
+        "آزمایش‌های خمش"
+      ]
+    },
+    {
+      "EnglishWord": "flexure folding",
+      "Meanings": [
+        "چین خوردگی در اثر خمش"
+      ]
+    },
+    {
+      "EnglishWord": "flexure vein",
+      "Meanings": [
+        "رگه پاره"
+      ]
+    },
+    {
+      "EnglishWord": "flight conveyer",
+      "Meanings": [
+        "زنجیر نقاله"
+      ]
+    },
+    {
+      "EnglishWord": "flint",
+      "Meanings": [
+        "آتش زنه"
+      ]
+    },
+    {
+      "EnglishWord": "flint",
+      "Meanings": [
+        "سنگ چخماق"
+      ]
+    },
+    {
+      "EnglishWord": "flint",
+      "Meanings": [
+        "فلینت"
+      ]
+    },
+    {
+      "EnglishWord": "flitch beam",
+      "Meanings": [
+        "تیر مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "غوطه ور"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "غوطه ور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "فلوته کردن"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "کانسنگ آواره"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "گسسته سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "float 3",
+      "Meanings": [
+        "ماله چوبی"
+      ]
+    },
+    {
+      "EnglishWord": "float shoe",
+      "Meanings": [
+        "کفشک شناور"
+      ]
+    },
+    {
+      "EnglishWord": "floatability",
+      "Meanings": [
+        "قابلیت شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "floatation",
+      "Meanings": [
+        "عمل مواجی"
+      ]
+    },
+    {
+      "EnglishWord": "floatation",
+      "Meanings": [
+        "فلوتاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "floatation cell",
+      "Meanings": [
+        "سلول فلوتاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "floatation circuit",
+      "Meanings": [
+        "مسیر فلوتاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "floatation machine 48",
+      "Meanings": [
+        "ماشین فلوتاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "floater-floating rig",
+      "Meanings": [
+        "کشتی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "floating dredge",
+      "Meanings": [
+        "سکوی شناور"
+      ]
+    },
+    {
+      "EnglishWord": "floation mill",
+      "Meanings": [
+        "کارخانه تغلیظ"
+      ]
+    },
+    {
+      "EnglishWord": "flocculation",
+      "Meanings": [
+        "جمع شدن"
+      ]
+    },
+    {
+      "EnglishWord": "flocculation",
+      "Meanings": [
+        "فلوکو لاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "flood basalt",
+      "Meanings": [
+        "پهنه بازالتی"
+      ]
+    },
+    {
+      "EnglishWord": "flood tide",
+      "Meanings": [
+        "چرخه فراکشندی"
+      ]
+    },
+    {
+      "EnglishWord": "flood way",
+      "Meanings": [
+        "مسیل"
+      ]
+    },
+    {
+      "EnglishWord": "flooding method",
+      "Meanings": [
+        "روش غرقابی"
+      ]
+    },
+    {
+      "EnglishWord": "floor heave",
+      "Meanings": [
+        "آماس کف"
+      ]
+    },
+    {
+      "EnglishWord": "floor man. rig crew man .rotary helper",
+      "Meanings": [
+        "کارگر ماهر حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "floor pillar",
+      "Meanings": [
+        "ستون کف"
+      ]
+    },
+    {
+      "EnglishWord": "flora",
+      "Meanings": [
+        "فسیل گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "روانه"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "flow borehole 1 sealed bore-hole 1",
+      "Meanings": [
+        "گمانه جریانی"
+      ]
+    },
+    {
+      "EnglishWord": "flow characteristics",
+      "Meanings": [
+        "مشخصات جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow cleavage",
+      "Meanings": [
+        "روانه رخ"
+      ]
+    },
+    {
+      "EnglishWord": "flow diagram",
+      "Meanings": [
+        "جریان کار"
+      ]
+    },
+    {
+      "EnglishWord": "flow folding",
+      "Meanings": [
+        "چین خوردگی خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "flow folding",
+      "Meanings": [
+        "چین خوردگی در اثر جریان امتدادی"
+      ]
+    },
+    {
+      "EnglishWord": "flow line 47",
+      "Meanings": [
+        "لوله جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow line mud flow line",
+      "Meanings": [
+        "ناودان گل"
+      ]
+    },
+    {
+      "EnglishWord": "flow meter",
+      "Meanings": [
+        "جریان سنج"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate",
+      "Meanings": [
+        "آهنگ شارش"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate",
+      "Meanings": [
+        "سرعت سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate",
+      "Meanings": [
+        "سرعت فوران"
+      ]
+    },
+    {
+      "EnglishWord": "flow rate 44 production rate 44 rate of flow 44",
+      "Meanings": [
+        "دبی"
+      ]
+    },
+    {
+      "EnglishWord": "flow rock",
+      "Meanings": [
+        "سنگ روان"
+      ]
+    },
+    {
+      "EnglishWord": "flow test",
+      "Meanings": [
+        "استخراج آزمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "flowing well",
+      "Meanings": [
+        "چاه سر ریز"
+      ]
+    },
+    {
+      "EnglishWord": "flowing well",
+      "Meanings": [
+        "چاه طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuation . liberation",
+      "Meanings": [
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "fluid bed dryer 48",
+      "Meanings": [
+        "خشک کن با بستر معلق"
+      ]
+    },
+    {
+      "EnglishWord": "fluid inclusion",
+      "Meanings": [
+        "سیال درون مانده"
+      ]
+    },
+    {
+      "EnglishWord": "fluid loss",
+      "Meanings": [
+        "افت سیال"
+      ]
+    },
+    {
+      "EnglishWord": "fluidity",
+      "Meanings": [
+        "سیالیت"
+      ]
+    },
+    {
+      "EnglishWord": "fluids pressure",
+      "Meanings": [
+        "فشار مایعات"
+      ]
+    },
+    {
+      "EnglishWord": "flume",
+      "Meanings": [
+        "جریان نما"
+      ]
+    },
+    {
+      "EnglishWord": "flume 49",
+      "Meanings": [
+        "مجرای جناغی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "flumed",
+      "Meanings": [
+        "آب برده"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescence",
+      "Meanings": [
+        "فلویورسانس"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescence",
+      "Meanings": [
+        "فلورسانس"
+      ]
+    },
+    {
+      "EnglishWord": "fluor-hydroxyl-apatite",
+      "Meanings": [
+        "فلور هیدروکسیل آپاتیت"
+      ]
+    },
+    {
+      "EnglishWord": "flushed zone",
+      "Meanings": [
+        "منطقه شستشو شده"
+      ]
+    },
+    {
+      "EnglishWord": "flushed zone",
+      "Meanings": [
+        "منطقه شسته شده"
+      ]
+    },
+    {
+      "EnglishWord": "flushing",
+      "Meanings": [
+        "آب فشانی"
+      ]
+    },
+    {
+      "EnglishWord": "flushing",
+      "Meanings": [
+        "سرمته سوراخ دار"
+      ]
+    },
+    {
+      "EnglishWord": "flushing liquor 5",
+      "Meanings": [
+        "مایع خازن"
+      ]
+    },
+    {
+      "EnglishWord": "flushing liquor 5",
+      "Meanings": [
+        "مایع شستشو"
+      ]
+    },
+    {
+      "EnglishWord": "flute 3",
+      "Meanings": [
+        "خیاره"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "روان ساز"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "گداز آور"
+      ]
+    },
+    {
+      "EnglishWord": "fluxed sinter-self fluxing sinter",
+      "Meanings": [
+        "کلوخه خودگداز"
+      ]
+    },
+    {
+      "EnglishWord": "fluxing power",
+      "Meanings": [
+        "قدرت گداز آوری"
+      ]
+    },
+    {
+      "EnglishWord": "fly rock",
+      "Meanings": [
+        "پرتاب سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "fly rock",
+      "Meanings": [
+        "پرتاب شدن ستگها"
+      ]
+    },
+    {
+      "EnglishWord": "fly wheel",
+      "Meanings": [
+        "فلایول"
+      ]
+    },
+    {
+      "EnglishWord": "fly wheel",
+      "Meanings": [
+        "چرخ طیار"
+      ]
+    },
+    {
+      "EnglishWord": "fly wheel",
+      "Meanings": [
+        "چرخ لنگر"
+      ]
+    },
+    {
+      "EnglishWord": "foam plug 1",
+      "Meanings": [
+        "درپوش کفی"
+      ]
+    },
+    {
+      "EnglishWord": "focal point method",
+      "Meanings": [
+        "روش نقطه کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "کانون"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "کانون زلزله"
+      ]
+    },
+    {
+      "EnglishWord": "foge",
+      "Meanings": [
+        "آهنگری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "تا"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "تالک"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "چین"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "چینه در لایه"
+      ]
+    },
+    {
+      "EnglishWord": "fold 3",
+      "Meanings": [
+        "لا"
+      ]
+    },
+    {
+      "EnglishWord": "fold axis  axial line",
+      "Meanings": [
+        "محور چین"
+      ]
+    },
+    {
+      "EnglishWord": "fold mountain",
+      "Meanings": [
+        "کوههای ناشی ازچین خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "fold system",
+      "Meanings": [
+        "سیستم چینها"
+      ]
+    },
+    {
+      "EnglishWord": "folded",
+      "Meanings": [
+        "چین خورده"
+      ]
+    },
+    {
+      "EnglishWord": "folding",
+      "Meanings": [
+        "چین خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "folding line 46",
+      "Meanings": [
+        "خط لولا"
+      ]
+    },
+    {
+      "EnglishWord": "foliate .sheeting",
+      "Meanings": [
+        "ورقه ورقه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "foliation",
+      "Meanings": [
+        "تورق"
+      ]
+    },
+    {
+      "EnglishWord": "footage",
+      "Meanings": [
+        "پیشرفت مته برحسب فوت"
+      ]
+    },
+    {
+      "EnglishWord": "footwall",
+      "Meanings": [
+        "فرودیواره"
+      ]
+    },
+    {
+      "EnglishWord": "footwall",
+      "Meanings": [
+        "پادیواره"
+      ]
+    },
+    {
+      "EnglishWord": "footwall",
+      "Meanings": [
+        "کمر پایین کانسنگ"
+      ]
+    },
+    {
+      "EnglishWord": "footwall",
+      "Meanings": [
+        "کمرپایین کانسار"
+      ]
+    },
+    {
+      "EnglishWord": "footwall-seat rock",
+      "Meanings": [
+        "کمرپایین"
+      ]
+    },
+    {
+      "EnglishWord": "force of inertia",
+      "Meanings": [
+        "نیروی لختی"
+      ]
+    },
+    {
+      "EnglishWord": "forced decision analysis",
+      "Meanings": [
+        "تحلیل تصمیم گیری واداشته"
+      ]
+    },
+    {
+      "EnglishWord": "forceful injection",
+      "Meanings": [
+        "جایگیری در اثر فشار"
+      ]
+    },
+    {
+      "EnglishWord": "forcing method",
+      "Meanings": [
+        "روش دهشی"
+      ]
+    },
+    {
+      "EnglishWord": "foreland",
+      "Meanings": [
+        "ناحیه جلو"
+      ]
+    },
+    {
+      "EnglishWord": "foreman",
+      "Meanings": [
+        "سرکارگر"
+      ]
+    },
+    {
+      "EnglishWord": "foreset bed",
+      "Meanings": [
+        "پیش لایه"
+      ]
+    },
+    {
+      "EnglishWord": "foreset bed",
+      "Meanings": [
+        "چینه بندی مایل"
+      ]
+    },
+    {
+      "EnglishWord": "forge",
+      "Meanings": [
+        "فولاد کوبیدن"
+      ]
+    },
+    {
+      "EnglishWord": "forge",
+      "Meanings": [
+        "کورە آهنگری"
+      ]
+    },
+    {
+      "EnglishWord": "forged alloy steel",
+      "Meanings": [
+        "فولاد آهنگری"
+      ]
+    },
+    {
+      "EnglishWord": "forged steel",
+      "Meanings": [
+        "فولاد آهنگری شده"
+      ]
+    },
+    {
+      "EnglishWord": "form lines 1",
+      "Meanings": [
+        "خطوط نرم"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "تشکیلات"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation",
+      "Meanings": [
+        "سازه"
+      ]
+    },
+    {
+      "EnglishWord": "formation  pressure",
+      "Meanings": [
+        "فشار سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation fracturing 32",
+      "Meanings": [
+        "لایة شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "formation pressure",
+      "Meanings": [
+        "فشار سیال سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation pressure",
+      "Meanings": [
+        "فشار طبقات"
+      ]
+    },
+    {
+      "EnglishWord": "formation pressure",
+      "Meanings": [
+        "فشار هیدرواستاتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "formation tester 32",
+      "Meanings": [
+        "لایة آزما"
+      ]
+    },
+    {
+      "EnglishWord": "formation tester 32",
+      "Meanings": [
+        "لوازم سنجش سازه"
+      ]
+    },
+    {
+      "EnglishWord": "formation testing",
+      "Meanings": [
+        "آزمایش سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "formation testing",
+      "Meanings": [
+        "سازندآزمایی"
+      ]
+    },
+    {
+      "EnglishWord": "formation testing",
+      "Meanings": [
+        "سرسازند"
+      ]
+    },
+    {
+      "EnglishWord": "formation top",
+      "Meanings": [
+        "سرلایه"
+      ]
+    },
+    {
+      "EnglishWord": "formation water resistivity",
+      "Meanings": [
+        "مقاومت آب سازند"
+      ]
+    },
+    {
+      "EnglishWord": "formations",
+      "Meanings": [
+        "سازندها"
+      ]
+    },
+    {
+      "EnglishWord": "forward crosscut",
+      "Meanings": [
+        "میانبر جلویی"
+      ]
+    },
+    {
+      "EnglishWord": "forward pitch",
+      "Meanings": [
+        "زاویه جلو"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "اثر جانداران"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "اثر حیات"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "سنگواره"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "فسیل"
+      ]
+    },
+    {
+      "EnglishWord": "fossil",
+      "Meanings": [
+        "نشان حیات"
+      ]
+    },
+    {
+      "EnglishWord": "fossil fuel",
+      "Meanings": [
+        "سوخت فسیل"
+      ]
+    },
+    {
+      "EnglishWord": "fossil fuel",
+      "Meanings": [
+        "سوخت فسیلی"
+      ]
+    },
+    {
+      "EnglishWord": "fossil magnetism",
+      "Meanings": [
+        "مغناطیس فسیل"
+      ]
+    },
+    {
+      "EnglishWord": "foul gas",
+      "Meanings": [
+        "گاز کثیف"
+      ]
+    },
+    {
+      "EnglishWord": "foundation",
+      "Meanings": [
+        "فونداسیون"
+      ]
+    },
+    {
+      "EnglishWord": "foundation",
+      "Meanings": [
+        "پی"
+      ]
+    },
+    {
+      "EnglishWord": "founder",
+      "Meanings": [
+        "کاشف معدن"
+      ]
+    },
+    {
+      "EnglishWord": "foundry",
+      "Meanings": [
+        "ریختگری"
+      ]
+    },
+    {
+      "EnglishWord": "four pieces set",
+      "Meanings": [
+        "قاب چهار قطعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fractional analysis",
+      "Meanings": [
+        "تجزیه فراکسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "fractional crystallization",
+      "Meanings": [
+        "تبلوربخشی"
+      ]
+    },
+    {
+      "EnglishWord": "fractional crystallization",
+      "Meanings": [
+        "تبلورجزبه جز"
+      ]
+    },
+    {
+      "EnglishWord": "fractional distillation",
+      "Meanings": [
+        "تقطیر جزء به جزء"
+      ]
+    },
+    {
+      "EnglishWord": "fractional porosity",
+      "Meanings": [
+        "تخلخل نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "fractionation",
+      "Meanings": [
+        "جزء به جزء شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fractoreinitiation",
+      "Meanings": [
+        "آغاز شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "ترک"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "سطح شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fracture cleavage",
+      "Meanings": [
+        "رخپذیری ناشی از شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fracture control",
+      "Meanings": [
+        "کنترل ترک خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "fracture porosity",
+      "Meanings": [
+        "تخلخل ناشی ازترک برداشتگی سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "fracture propagation",
+      "Meanings": [
+        "پخش شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fracture surface",
+      "Meanings": [
+        "سطح شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fracture zone",
+      "Meanings": [
+        "منطقه گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "fractured",
+      "Meanings": [
+        "ترک برداشته"
+      ]
+    },
+    {
+      "EnglishWord": "fractured",
+      "Meanings": [
+        "ترک دار"
+      ]
+    },
+    {
+      "EnglishWord": "fractured zone  sheared zone",
+      "Meanings": [
+        "زون شکسته"
+      ]
+    },
+    {
+      "EnglishWord": "fragment",
+      "Meanings": [
+        "پاره"
+      ]
+    },
+    {
+      "EnglishWord": "fragment 1",
+      "Meanings": [
+        "خردیزه"
+      ]
+    },
+    {
+      "EnglishWord": "fragmental sediment",
+      "Meanings": [
+        "سنگ رسوبی تخریبی"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentary",
+      "Meanings": [
+        "تکه تکه"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "تقسیم به قطعات کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "تکه تکه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "قطعه قطعه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "پاره پاره شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fragmenttation 12",
+      "Meanings": [
+        "خردشدن"
+      ]
+    },
+    {
+      "EnglishWord": "fragmenttation 31 friability 1",
+      "Meanings": [
+        "خردشوندگی"
+      ]
+    },
+    {
+      "EnglishWord": "fragmenttation 61",
+      "Meanings": [
+        "خردشدگی"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "چهار چوب"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "چهار چوبه"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "کنج"
+      ]
+    },
+    {
+      "EnglishWord": "frame 3",
+      "Meanings": [
+        "داربست"
+      ]
+    },
+    {
+      "EnglishWord": "frame minable",
+      "Meanings": [
+        "قاب گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "frech water",
+      "Meanings": [
+        "آب تازه"
+      ]
+    },
+    {
+      "EnglishWord": "frecuency",
+      "Meanings": [
+        "فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frecuency",
+      "Meanings": [
+        "فرکانس"
+      ]
+    },
+    {
+      "EnglishWord": "fredamp migration",
+      "Meanings": [
+        "مهاجرت گاز زغال"
+      ]
+    },
+    {
+      "EnglishWord": "free circulation",
+      "Meanings": [
+        "گردش آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free neutral system",
+      "Meanings": [
+        "سیستم خنثای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free oscillation",
+      "Meanings": [
+        "نوسان آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free point",
+      "Meanings": [
+        "محل آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free point indicator 32",
+      "Meanings": [
+        "گیر یاب"
+      ]
+    },
+    {
+      "EnglishWord": "free point indicator 32",
+      "Meanings": [
+        "گیرنما"
+      ]
+    },
+    {
+      "EnglishWord": "free settling",
+      "Meanings": [
+        "ته نشینی آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free settling",
+      "Meanings": [
+        "سقوط آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free stream",
+      "Meanings": [
+        "جریان آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free water",
+      "Meanings": [
+        "آب آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free-air correction",
+      "Meanings": [
+        "تصحیح هوای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free-face",
+      "Meanings": [
+        "سطح آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freely drained soil 25",
+      "Meanings": [
+        "خاک با قدرت زهکشی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "freepath",
+      "Meanings": [
+        "مسافت آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freeze",
+      "Meanings": [
+        "منجمد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "freeze 5",
+      "Meanings": [
+        "یخ بستن"
+      ]
+    },
+    {
+      "EnglishWord": "freezing point",
+      "Meanings": [
+        "نقطه انجماد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "وفور"
+      ]
+    },
+    {
+      "EnglishWord": "frequency distribution",
+      "Meanings": [
+        "توزیع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "fresh  air 31",
+      "Meanings": [
+        "هوای ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "fresh air 38",
+      "Meanings": [
+        "هوای تازه"
+      ]
+    },
+    {
+      "EnglishWord": "fresh coal",
+      "Meanings": [
+        "زغال سنگ تازه"
+      ]
+    },
+    {
+      "EnglishWord": "fresh rock",
+      "Meanings": [
+        "سنگ خالص"
+      ]
+    },
+    {
+      "EnglishWord": "fresh rock",
+      "Meanings": [
+        "سنگ دست نخورده"
+      ]
+    },
+    {
+      "EnglishWord": "fresh water",
+      "Meanings": [
+        "آب خالص"
+      ]
+    },
+    {
+      "EnglishWord": "fresh water mucl 32",
+      "Meanings": [
+        "گل شیرین"
+      ]
+    },
+    {
+      "EnglishWord": "fresh water mud",
+      "Meanings": [
+        "گل آب"
+      ]
+    },
+    {
+      "EnglishWord": "fresh water mud",
+      "Meanings": [
+        "گل آب شیرین"
+      ]
+    },
+    {
+      "EnglishWord": "fresh water mud",
+      "Meanings": [
+        "گل حفاری شیرین"
+      ]
+    },
+    {
+      "EnglishWord": "friability",
+      "Meanings": [
+        "قابلیت شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "friable",
+      "Meanings": [
+        "پودرشونده"
+      ]
+    },
+    {
+      "EnglishWord": "friable 5",
+      "Meanings": [
+        "خردشونده"
+      ]
+    },
+    {
+      "EnglishWord": "friction",
+      "Meanings": [
+        "اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "friction 5",
+      "Meanings": [
+        "مالش"
+      ]
+    },
+    {
+      "EnglishWord": "friction haulage system",
+      "Meanings": [
+        "سیستم باربری اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "friction losses",
+      "Meanings": [
+        "تلفات اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "friction prop 62",
+      "Meanings": [
+        "ستون اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "friction sensitivity",
+      "Meanings": [
+        "حساسیت در مقابل اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "frictional resistance",
+      "Meanings": [
+        "پایداری اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "fringe well",
+      "Meanings": [
+        "چاه حاشیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "front",
+      "Meanings": [
+        "جبهه"
+      ]
+    },
+    {
+      "EnglishWord": "front",
+      "Meanings": [
+        "جلوه"
+      ]
+    },
+    {
+      "EnglishWord": "frontal",
+      "Meanings": [
+        "جبهه ای"
+      ]
+    },
+    {
+      "EnglishWord": "frontal",
+      "Meanings": [
+        "جلوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "front-end loader 1",
+      "Meanings": [
+        "لودر سرپیش"
+      ]
+    },
+    {
+      "EnglishWord": "front-end loader 59",
+      "Meanings": [
+        "لودر با تخلیه از جلو"
+      ]
+    },
+    {
+      "EnglishWord": "frost splitting",
+      "Meanings": [
+        "ترکیدن سنگ دراثریخبندان"
+      ]
+    },
+    {
+      "EnglishWord": "froth floatation",
+      "Meanings": [
+        "فلوتاسیون با کف"
+      ]
+    },
+    {
+      "EnglishWord": "froth floatation",
+      "Meanings": [
+        "فلوتاسیون کف"
+      ]
+    },
+    {
+      "EnglishWord": "froth-bottom-celer-footwall-invert",
+      "Meanings": [
+        "کف"
+      ]
+    },
+    {
+      "EnglishWord": "frother",
+      "Meanings": [
+        "کف ساز"
+      ]
+    },
+    {
+      "EnglishWord": "fssil top",
+      "Meanings": [
+        "سرسازند بر مبنای سنگواره"
+      ]
+    },
+    {
+      "EnglishWord": "fssil top",
+      "Meanings": [
+        "سرسازند جانداری"
+      ]
+    },
+    {
+      "EnglishWord": "fssil top",
+      "Meanings": [
+        "سرسازند سنگواره ای"
+      ]
+    },
+    {
+      "EnglishWord": "fssil top",
+      "Meanings": [
+        "سرسازند فسیلی"
+      ]
+    },
+    {
+      "EnglishWord": "fuel",
+      "Meanings": [
+        "سوخت"
+      ]
+    },
+    {
+      "EnglishWord": "fuel - oil . furnace oil",
+      "Meanings": [
+        "نفت کوره"
+      ]
+    },
+    {
+      "EnglishWord": "fuel consumed",
+      "Meanings": [
+        "مصرف سوخت"
+      ]
+    },
+    {
+      "EnglishWord": "fuel ratio",
+      "Meanings": [
+        "نسبت سوخت"
+      ]
+    },
+    {
+      "EnglishWord": "fuel-oil",
+      "Meanings": [
+        "سوخت مایع"
+      ]
+    },
+    {
+      "EnglishWord": "fuel-oil",
+      "Meanings": [
+        "سوخت نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "fuel-oil 5 furnace oil 32",
+      "Meanings": [
+        "مازوت"
+      ]
+    },
+    {
+      "EnglishWord": "full face",
+      "Meanings": [
+        "تمام مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "full face drive",
+      "Meanings": [
+        "پیشروی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full-face",
+      "Meanings": [
+        "تمام برش"
+      ]
+    },
+    {
+      "EnglishWord": "fundamental mesh matrix 66",
+      "Meanings": [
+        "ماتریس بنیادی حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "fundametal dependance",
+      "Meanings": [
+        "وابستگی اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "fundametal dependance",
+      "Meanings": [
+        "وابستگی تابع"
+      ]
+    },
+    {
+      "EnglishWord": "funnel flow",
+      "Meanings": [
+        "جریان در قیف"
+      ]
+    },
+    {
+      "EnglishWord": "furnace man",
+      "Meanings": [
+        "کوره بان"
+      ]
+    },
+    {
+      "EnglishWord": "furnace oil",
+      "Meanings": [
+        "نفت مازوت"
+      ]
+    },
+    {
+      "EnglishWord": "furnace oil . fuel - oil",
+      "Meanings": [
+        "نفت سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "furnace-oven",
+      "Meanings": [
+        "کوره"
+      ]
+    },
+    {
+      "EnglishWord": "fusain",
+      "Meanings": [
+        "فیوزین"
+      ]
+    },
+    {
+      "EnglishWord": "fuse",
+      "Meanings": [
+        "فتیله"
+      ]
+    },
+    {
+      "EnglishWord": "fuse",
+      "Meanings": [
+        "فیوز"
+      ]
+    },
+    {
+      "EnglishWord": "fuse cap",
+      "Meanings": [
+        "فتیله باروتی"
+      ]
+    },
+    {
+      "EnglishWord": "fusehead",
+      "Meanings": [
+        "سرچاشنی"
+      ]
+    },
+    {
+      "EnglishWord": "fusibility",
+      "Meanings": [
+        "قابلیت گداخته شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fusinite",
+      "Meanings": [
+        "فوزینیت"
+      ]
+    }
+  ]
+}

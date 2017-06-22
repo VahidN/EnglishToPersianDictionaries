@@ -1,0 +1,1435 @@
+﻿{
+  "Group": "A",
+  "Entries": 227,
+  "Words": [
+    {
+      "EnglishWord": "a string of caracters",
+      "Meanings": [
+        "رشته ای از کاراکتر ها"
+      ]
+    },
+    {
+      "EnglishWord": "a structure member",
+      "Meanings": [
+        "عضو ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "abend",
+      "Meanings": [
+        "پایان غیر عادی",
+        "پایان ناهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "abort",
+      "Meanings": [
+        "لغو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "absolute",
+      "Meanings": [
+        "مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute address",
+      "Meanings": [
+        "آدرس مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute value",
+      "Meanings": [
+        "مقدار مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "abstract model",
+      "Meanings": [
+        "مدل انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "abstraction",
+      "Meanings": [
+        "تجرید",
+        "ایزوله کردن",
+        "انتزاع"
+      ]
+    },
+    {
+      "EnglishWord": "abstraction class",
+      "Meanings": [
+        "کلاس تجریدی"
+      ]
+    },
+    {
+      "EnglishWord": "abstraction level",
+      "Meanings": [
+        "سطح انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "abstractive",
+      "Meanings": [
+        "انتزاعی"
+      ]
+    },
+    {
+      "EnglishWord": "accelerator",
+      "Meanings": [
+        "شتاب دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerator card",
+      "Meanings": [
+        "کارت شتاب دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerator key",
+      "Meanings": [
+        "کلید تسریع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance",
+      "Meanings": [
+        "پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "access",
+      "Meanings": [
+        "دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access control",
+      "Meanings": [
+        "کنترل دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "access function",
+      "Meanings": [
+        "تابع دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "access mechanism",
+      "Meanings": [
+        "مکانیزم دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access metod",
+      "Meanings": [
+        "شیوه دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access module",
+      "Meanings": [
+        "واحد دست یابی"
+      ]
+    },
+    {
+      "EnglishWord": "access number",
+      "Meanings": [
+        "شماره دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access path",
+      "Meanings": [
+        "مسیر دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access strategy",
+      "Meanings": [
+        "استراتژی دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "access time",
+      "Meanings": [
+        "زمان دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "accessory",
+      "Meanings": [
+        "ابزار کمکی",
+        "فرعی",
+        "جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "account",
+      "Meanings": [
+        "حساب"
+      ]
+    },
+    {
+      "EnglishWord": "accumlator",
+      "Meanings": [
+        "ذخیره سازی",
+        "انباره"
+      ]
+    },
+    {
+      "EnglishWord": "accumulate",
+      "Meanings": [
+        "تلفیق کننده",
+        "صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy",
+      "Meanings": [
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "acdsee",
+      "Meanings": [
+        "نرم افزاری برای مشاهده فایلهای تصویری",
+        "آرشیوه",
+        "تغییر اندازه و جهت",
+        "تبدیل فرمت‌های گوناگون به یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic coupler",
+      "Meanings": [
+        "تلفیق کننده صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acronym",
+      "Meanings": [
+        "سرنام"
+      ]
+    },
+    {
+      "EnglishWord": "active",
+      "Meanings": [
+        "فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active cell",
+      "Meanings": [
+        "سلول فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active file",
+      "Meanings": [
+        "فایل فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active program",
+      "Meanings": [
+        "برنامه فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active set",
+      "Meanings": [
+        "مجموعه فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active window",
+      "Meanings": [
+        "پنجره فعال"
+      ]
+    },
+    {
+      "EnglishWord": "activex",
+      "Meanings": [
+        "اکتیو ایکس"
+      ]
+    },
+    {
+      "EnglishWord": "activex container",
+      "Meanings": [
+        "VisualBasic",
+        "اکتیو ایکس"
+      ]
+    },
+    {
+      "EnglishWord": "activity",
+      "Meanings": [
+        "فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "activity network",
+      "Meanings": [
+        "کنترل پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "activity on vertax network",
+      "Meanings": [
+        "شبکه کنترل پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "activity ratio",
+      "Meanings": [
+        "نسبت واقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "actual",
+      "Meanings": [
+        "واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "actual argument",
+      "Meanings": [
+        "آرگومان‌های واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "actual parameters",
+      "Meanings": [
+        "پارامترهای واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "actuator",
+      "Meanings": [
+        "محرک"
+      ]
+    },
+    {
+      "EnglishWord": "ad hoc",
+      "Meanings": [
+        "کاربرد موردی"
+      ]
+    },
+    {
+      "EnglishWord": "ada",
+      "Meanings": [
+        "زبان برنامه نویسی رویه ای که توسط وزارت دفاع آمریکا طراحی شد"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive maintenance",
+      "Meanings": [
+        "عملیات نگهداری تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive system",
+      "Meanings": [
+        "سیستم سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "adder",
+      "Meanings": [
+        "جمع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "addessing cursor",
+      "Meanings": [
+        "مکان نمای قابل جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "add-in functions",
+      "Meanings": [
+        "توابع اضافه شده"
+      ]
+    },
+    {
+      "EnglishWord": "add-ins",
+      "Meanings": [
+        "اضافه شده"
+      ]
+    },
+    {
+      "EnglishWord": "additions record",
+      "Meanings": [
+        "رکورد افزایش"
+      ]
+    },
+    {
+      "EnglishWord": "add-on",
+      "Meanings": [
+        "افزودنی"
+      ]
+    },
+    {
+      "EnglishWord": "address book",
+      "Meanings": [
+        "کتاب آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "address bus",
+      "Meanings": [
+        "گذر گاه آدرس",
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "address mark",
+      "Meanings": [
+        "علامت آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "address modification",
+      "Meanings": [
+        "اصلاح آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "address operator",
+      "Meanings": [
+        "عملگر آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "address register",
+      "Meanings": [
+        "ثبات آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "address space",
+      "Meanings": [
+        "فضای آدرس دهی"
+      ]
+    },
+    {
+      "EnglishWord": "address translation",
+      "Meanings": [
+        "ترجمه آدرس"
+      ]
+    },
+    {
+      "EnglishWord": "addressing memory",
+      "Meanings": [
+        "آدرس حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "addressing mode",
+      "Meanings": [
+        "حالت آدرس دهی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency",
+      "Meanings": [
+        "مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency list",
+      "Meanings": [
+        "لیست مجاورتی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency matrix",
+      "Meanings": [
+        "ماتریس مجاورتی"
+      ]
+    },
+    {
+      "EnglishWord": "adjacency multilist",
+      "Meanings": [
+        "لیست چند گانه مجاورتی"
+      ]
+    },
+    {
+      "EnglishWord": "adobe imagestyler",
+      "Meanings": [
+        "نرم افزاری برای کارهای گرافیکی و ویرایش عکس و تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "adobe photoshop",
+      "Meanings": [
+        "قوی‌ترین برنامه گرافیکی برای طراحی و کار روی عکس"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate functions",
+      "Meanings": [
+        "توابع جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "alarm",
+      "Meanings": [
+        "علامت خطر",
+        "هشدار"
+      ]
+    },
+    {
+      "EnglishWord": "alert",
+      "Meanings": [
+        "هشدار",
+        "اخطار",
+        "علامت هشدار دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "alert box",
+      "Meanings": [
+        "کادر هشدار",
+        "کادر خطر"
+      ]
+    },
+    {
+      "EnglishWord": "algebric equation",
+      "Meanings": [
+        "معادله جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algol",
+      "Meanings": [
+        "اولین زبان برنامه نویسی رویه ساخت یافته"
+      ]
+    },
+    {
+      "EnglishWord": "algorism",
+      "Meanings": [
+        "الخوریسم",
+        "ابو محمداله بن موسی خوارزمی",
+        "تاریخ کامپیوتر",
+        "از دانشمندان بزرگ ریاضی جهان و اهل خوارزم بود که در حدود سالهای 129 تا 159 شمسی متولد شد و در حدود سال 229 شمسی در گذشت او اولین کسی است که علم جبر را کشف کرد و کتاب جبر و المقابله را نوشت اروپاییان روش او را مورد استفاده قرار دادند و چون اولین بار به زبان لاتین به نام الخوریسم یا algorism چاپ شد نام الگوریسم و لگاریتم به رشته ای از علم حساب که خوارزمی کاشف آن بود اطلاق گردید این نام در تمام فرهنگنامه‌های جهان و در دانش ریاضی ثبت شده است سیستم محاسبه ارقام ریاضی اروپاییان از خوارزمی گرفته شده و مدت 400 سال کتاب ریاضی وی جز کتب مطرح در دانشگاه‌های اروپا بود به افتخار این دانشمند ایرانی نیمه اول قرن 9 میلادی را عصر خوارزمی نامیده اند",
+        "کتاب جبر و مقابله و المجمع و التفریق وزیج خوارزمی از کتابهای معروف اوست و کتاب الرخامه درباره محاسبات ظل سایه آفتاب و تعیین اوقات است که پایه و اساس محاسبات مثلثات کروی گردید",
+        "علم کامپیوتر علم مطالعه الگوریتم هاست الگوریتم برگرفته از نام خوارزمی است به همین دلیل دانشمندان علم کامپیوتر در هزاره خوارزمی او را پدر برنامه نویسی نامیده اند"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm",
+      "Meanings": [
+        "الگوریتم",
+        "به مجموعه ای از دستور العمل‌ها که با این ترتیب معین و مشخص اجرا شده و موجب حل مساله ای می‌گردند الگوریتم گفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm language",
+      "Meanings": [
+        "زبان الگوریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "alias",
+      "Meanings": [
+        "نام مستعار"
+      ]
+    },
+    {
+      "EnglishWord": "aliasing",
+      "Meanings": [
+        "ناهمواری",
+        "ناصافی"
+      ]
+    },
+    {
+      "EnglishWord": "aliasing text",
+      "Meanings": [
+        "تراز کردن متن"
+      ]
+    },
+    {
+      "EnglishWord": "alignment",
+      "Meanings": [
+        "تراز"
+      ]
+    },
+    {
+      "EnglishWord": "all key",
+      "Meanings": [
+        "تمام کلید"
+      ]
+    },
+    {
+      "EnglishWord": "all points addressable",
+      "Meanings": [
+        "قابلیت آدرس دهی"
+      ]
+    },
+    {
+      "EnglishWord": "allocate",
+      "Meanings": [
+        "تخصیص دهی",
+        "اختصاص دهی"
+      ]
+    },
+    {
+      "EnglishWord": "allow editing",
+      "Meanings": [
+        "ویرایش",
+        "اصلاح"
+      ]
+    },
+    {
+      "EnglishWord": "alphabets",
+      "Meanings": [
+        "حروف"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumberic",
+      "Meanings": [
+        "حرفی عددی",
+        "الفبا عددی"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumeric",
+      "Meanings": [
+        "حرفی عددی",
+        "الفبا عددی"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumeric display terminal",
+      "Meanings": [
+        "نشان دهنده حرفی عددی",
+        "پایانه نمایش حرفی عددی"
+      ]
+    },
+    {
+      "EnglishWord": "alphanumeric sort",
+      "Meanings": [
+        "مرتب سازی حرفی"
+      ]
+    },
+    {
+      "EnglishWord": "alternate key",
+      "Meanings": [
+        "کلید کاندید",
+        "کلید بدیل"
+      ]
+    },
+    {
+      "EnglishWord": "alternative",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "alu",
+      "Meanings": [
+        "جزیی از cpu که عملیات ریاضی و منطقی انجام می‌دهد",
+        "واحد حساب و منطق"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguous class",
+      "Meanings": [
+        "کلاس مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "ambiguous object",
+      "Meanings": [
+        "اشیا مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "amplifier",
+      "Meanings": [
+        "تقویت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "analog",
+      "Meanings": [
+        "آنالوگ",
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analog computer",
+      "Meanings": [
+        "کامپیوتر قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analog date",
+      "Meanings": [
+        "داده‌های قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analog display",
+      "Meanings": [
+        "نمایشگر قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "analyst",
+      "Meanings": [
+        "تحلیل گر",
+        "تجزیه کننده"
+      ]
+    },
+    {
+      "EnglishWord": "analytial graphics",
+      "Meanings": [
+        "گرافیک تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "ancestore",
+      "Meanings": [
+        "اجداد"
+      ]
+    },
+    {
+      "EnglishWord": "animation",
+      "Meanings": [
+        "تصویر متحرک",
+        "پویانمایی",
+        "انیمیشن"
+      ]
+    },
+    {
+      "EnglishWord": "annotation",
+      "Meanings": [
+        "حاشیه نویسی",
+        "توضیحی برای اطلاعات بیشتر"
+      ]
+    },
+    {
+      "EnglishWord": "anomaly",
+      "Meanings": [
+        "وضعیت نامطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "anonymous objects",
+      "Meanings": [
+        "اشیا بدون نام"
+      ]
+    },
+    {
+      "EnglishWord": "anonymous unoin",
+      "Meanings": [
+        "اتحاد مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "ansi",
+      "Meanings": [
+        "موسسه",
+        "استاندارد ملی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "answer",
+      "Meanings": [
+        "جواب",
+        "مودم پاسخ دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "answer mode",
+      "Meanings": [
+        "حالت پاسخ دهی"
+      ]
+    },
+    {
+      "EnglishWord": "antenna",
+      "Meanings": [
+        "آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "anti",
+      "Meanings": [
+        "ضد"
+      ]
+    },
+    {
+      "EnglishWord": "anti-aliasing",
+      "Meanings": [
+        "هموار کردن ناصافیها"
+      ]
+    },
+    {
+      "EnglishWord": "aol",
+      "Meanings": [
+        "یک نرم افزار گپ"
+      ]
+    },
+    {
+      "EnglishWord": "append",
+      "Meanings": [
+        "پیوستن",
+        "الصاق کردن",
+        "اضافه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "applet",
+      "Meanings": [
+        "برنامه کاربردی در ویندوز که همراه سیستم عامل است"
+      ]
+    },
+    {
+      "EnglishWord": "application",
+      "Meanings": [
+        "کاربرد",
+        "برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application developer",
+      "Meanings": [
+        "طراح برنامه",
+        "سازنده برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application development language",
+      "Meanings": [
+        "زبان طراحی برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application development system",
+      "Meanings": [
+        "سیستم طراحی برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application generator",
+      "Meanings": [
+        "مولد برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application object",
+      "Meanings": [
+        "داده و دستور العملهای ادغام شده در ماجول نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "application plan",
+      "Meanings": [
+        "طرح برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application processor",
+      "Meanings": [
+        "پردازنده برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application program",
+      "Meanings": [
+        "برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application programmer",
+      "Meanings": [
+        "برنامه ساز کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application programmer interface",
+      "Meanings": [
+        "رابط برنامه نویس کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application software",
+      "Meanings": [
+        "نرم افزار کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application system",
+      "Meanings": [
+        "سیستم کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "application window",
+      "Meanings": [
+        "پنجره برنامه کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "applications",
+      "Meanings": [
+        "موارد کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "apply",
+      "Meanings": [
+        "استفاده شده",
+        "بکار بستن"
+      ]
+    },
+    {
+      "EnglishWord": "apply filter",
+      "Meanings": [
+        "اجرای فیلتر"
+      ]
+    },
+    {
+      "EnglishWord": "arbitration",
+      "Meanings": [
+        "نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "arc",
+      "Meanings": [
+        "کمان"
+      ]
+    },
+    {
+      "EnglishWord": "architectural desing",
+      "Meanings": [
+        "طراحی معماری سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "architecture",
+      "Meanings": [
+        "معماری"
+      ]
+    },
+    {
+      "EnglishWord": "archive",
+      "Meanings": [
+        "بایگانی"
+      ]
+    },
+    {
+      "EnglishWord": "archive bit",
+      "Meanings": [
+        "بیت بایگانی"
+      ]
+    },
+    {
+      "EnglishWord": "area",
+      "Meanings": [
+        "محدوده",
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "area chart",
+      "Meanings": [
+        "نمودار مساحتی",
+        "نمودار ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "area search",
+      "Meanings": [
+        "تحقیق ناحیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "arguman",
+      "Meanings": [
+        "آرگومان"
+      ]
+    },
+    {
+      "EnglishWord": "argument date types",
+      "Meanings": [
+        "انواع اطلاعاتی آرگومانها"
+      ]
+    },
+    {
+      "EnglishWord": "argument declartions",
+      "Meanings": [
+        "معرفی آرگومانها"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic",
+      "Meanings": [
+        "حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic expression",
+      "Meanings": [
+        "عبارت حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic logic unit",
+      "Meanings": [
+        "واحد حساب و منطق"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic operation",
+      "Meanings": [
+        "عملیات حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic operator",
+      "Meanings": [
+        "عملگر حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmatic unit",
+      "Meanings": [
+        "واحد حساب"
+      ]
+    },
+    {
+      "EnglishWord": "arrage",
+      "Meanings": [
+        "تنظیم",
+        "مرتب سازی"
+      ]
+    },
+    {
+      "EnglishWord": "arrage icons",
+      "Meanings": [
+        "تنظیم نشانه ها"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "سری",
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "array constants",
+      "Meanings": [
+        "مقادیر ثابت آرایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "array definition",
+      "Meanings": [
+        "تعریف آرایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "array elements",
+      "Meanings": [
+        "عناصر آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "array formula",
+      "Meanings": [
+        "فرمول آرایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "array range",
+      "Meanings": [
+        "ناحیه آرایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "arrow keys",
+      "Meanings": [
+        "کلید‌ها جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "arrow operator",
+      "Meanings": [
+        "عملگر پیکانی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial intellingence",
+      "Meanings": [
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial language",
+      "Meanings": [
+        "زبان مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "artificial life",
+      "Meanings": [
+        "حیات مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending",
+      "Meanings": [
+        "صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending order",
+      "Meanings": [
+        "نظم صعودی",
+        "ترتیب صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending sort",
+      "Meanings": [
+        "مرتب سازی صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "ascii",
+      "Meanings": [
+        "اسکی",
+        "کد استاندارد آمریکایی جهت تبادل اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "ascii caracter set",
+      "Meanings": [
+        "مجموعه کاراکتر‌های اسکی"
+      ]
+    },
+    {
+      "EnglishWord": "ascii caracters",
+      "Meanings": [
+        "کاراکتر‌های اسکی"
+      ]
+    },
+    {
+      "EnglishWord": "ascii file",
+      "Meanings": [
+        "فایل اسکی"
+      ]
+    },
+    {
+      "EnglishWord": "assemble",
+      "Meanings": [
+        "اسمبل",
+        "همگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "assembler",
+      "Meanings": [
+        "اسمبلر",
+        "برنامه مبدل زبان اسمبلی به زبان ماشین",
+        "برای اجرا دستور debug را اجرا نمایید"
+      ]
+    },
+    {
+      "EnglishWord": "assembly",
+      "Meanings": [
+        "زبان اسمبلی",
+        "زبان برنامه نویسی سطح پایین"
+      ]
+    },
+    {
+      "EnglishWord": "assignment",
+      "Meanings": [
+        "انتصاب",
+        "جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment expressions",
+      "Meanings": [
+        "عبارت جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment of",
+      "Meanings": [
+        "انتساب به"
+      ]
+    },
+    {
+      "EnglishWord": "assignment of numerical values",
+      "Meanings": [
+        "جایگزینی مقادیر عددی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment operation",
+      "Meanings": [
+        "عمل انتصاب",
+        "عمل جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment operators",
+      "Meanings": [
+        "عملگرهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment rules",
+      "Meanings": [
+        "قواعد جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment statement",
+      "Meanings": [
+        "دستورات جای گزینی"
+      ]
+    },
+    {
+      "EnglishWord": "assignment supperssion",
+      "Meanings": [
+        "حذف جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "associate",
+      "Meanings": [
+        "مرتبط کردن",
+        "ارتباط دادن"
+      ]
+    },
+    {
+      "EnglishWord": "associative",
+      "Meanings": [
+        "شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "associative entity",
+      "Meanings": [
+        "موجودیت ارتباط دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "associativity",
+      "Meanings": [
+        "مشارکت",
+        "شرکت پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "atomic",
+      "Meanings": [
+        "تجزیه ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "attach table",
+      "Meanings": [
+        "الحاق جدول",
+        "اتصال جدول"
+      ]
+    },
+    {
+      "EnglishWord": "attribute",
+      "Meanings": [
+        "ویژگی",
+        "صفت خاصه"
+      ]
+    },
+    {
+      "EnglishWord": "attribute set",
+      "Meanings": [
+        "خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "audio",
+      "Meanings": [
+        "صوت",
+        "شنیداری"
+      ]
+    },
+    {
+      "EnglishWord": "audio digitizer board",
+      "Meanings": [
+        "بورد مبدل امواج صوتی آنالوگ به فایل دیجیتالی"
+      ]
+    },
+    {
+      "EnglishWord": "audio output port",
+      "Meanings": [
+        "درگاه خروجی صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "audit",
+      "Meanings": [
+        "بررسی",
+        "پیگیری",
+        "بازبینی"
+      ]
+    },
+    {
+      "EnglishWord": "auditor",
+      "Meanings": [
+        "بررسی کننده",
+        "ارزیاب"
+      ]
+    },
+    {
+      "EnglishWord": "auto",
+      "Meanings": [
+        "خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "auto resume",
+      "Meanings": [
+        "ادامه خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "autofill",
+      "Meanings": [
+        "تکثیر اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "automated office",
+      "Meanings": [
+        "دفتر کامپیوتری",
+        "دفتر مکانیزه شده با وسایل الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "automatic answering",
+      "Meanings": [
+        "پاسخ دهی اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "automatic date processing",
+      "Meanings": [
+        "پردازش اتوماتیک داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "automatic error correction",
+      "Meanings": [
+        "تصحیح اتوماتیک خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "automatic teller machine",
+      "Meanings": [
+        "کامپیوتر همه منظوره برای مشتریان بانک"
+      ]
+    },
+    {
+      "EnglishWord": "automatic variable",
+      "Meanings": [
+        "متغییر اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "automation",
+      "Meanings": [
+        "فرایند مکانیزه کردن کارها"
+      ]
+    },
+    {
+      "EnglishWord": "autoring system",
+      "Meanings": [
+        "ابزاری برای طراحی برنامه‌های محاوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "autorun",
+      "Meanings": [
+        "اجرای خودکار",
+        "مطلب مرتبط",
+        "مقدمه ای در مورد فایل‌های AUTORUN. INF",
+        "در Windowsهای32بیتی قابلیت Autoplay وچود دارد که سیستم عامل میتواند بوسیله آن دیسک موجود در درایو را تشخیص دهد. در محیط Windows وقتی که دیسک را در درایو قرار میدهیم"
+      ]
+    },
+    {
+      "EnglishWord": "autosave",
+      "Meanings": [
+        "ذخیره سازی خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary storage",
+      "Meanings": [
+        "منبع ذخیره کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary storage device",
+      "Meanings": [
+        "دستگاههای ذخیره سازی کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "available space list",
+      "Meanings": [
+        "لیست فضای مجاور",
+        "لیست فضای در دسترس"
+      ]
+    },
+    {
+      "EnglishWord": "available time",
+      "Meanings": [
+        "زمان دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "availablity",
+      "Meanings": [
+        "قابل دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "avrage",
+      "Meanings": [
+        "معدل"
+      ]
+    },
+    {
+      "EnglishWord": "avx",
+      "Meanings": [
+        "یک ضد ویروس قدرتمند که تمام راه‌های ورود ویروس به کامپیوتر را بسته و قابلیت شناسایی بیش از 50000 ویروس را دارد"
+      ]
+    },
+    {
+      "EnglishWord": "axioms",
+      "Meanings": [
+        "قواعد"
+      ]
+    }
+  ]
+}

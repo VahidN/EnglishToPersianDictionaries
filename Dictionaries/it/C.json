@@ -1,0 +1,2741 @@
+﻿{
+  "Group": "C",
+  "Entries": 423,
+  "Words": [
+    {
+      "EnglishWord": "c",
+      "Meanings": [
+        "عددی در مبنای16 برابر با 12 در مبنای"
+      ]
+    },
+    {
+      "EnglishWord": "c#",
+      "Meanings": [
+        "یکی از زبانهای برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "c/s",
+      "Meanings": [
+        "Client/Server",
+        "مشتری/خدمات دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "c2x",
+      "Meanings": [
+        "فایلهای برنامه WinOn CD"
+      ]
+    },
+    {
+      "EnglishWord": "ca",
+      "Meanings": [
+        "certification authority",
+        "canada",
+        "حوزه اینترنتی کشور کانادا"
+      ]
+    },
+    {
+      "EnglishWord": "cab",
+      "Meanings": [
+        "فایلهای فشرده شده"
+      ]
+    },
+    {
+      "EnglishWord": "cable",
+      "Meanings": [
+        "کابل"
+      ]
+    },
+    {
+      "EnglishWord": "cache",
+      "Meanings": [
+        "حافظه با سرعت بالا",
+        "حافظه‌ای بسیار کوچک اما سریع که برای تسریع سرعت عملکرد در کامپیوتر به کار می‌رود. در زمان استفاده از این حافظه باید چک کنید ببینید آیا آن موضوع موردنظرتان در حافظه نهانی وجود دارد یا نه",
+        "در صورت وجود",
+        "عبارت وصول آن را دریافت کرده ودر صورت عدم وجود موضوع مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "cad",
+      "Meanings": [
+        "Computer Aided Desing",
+        "برنامه‌های طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "cakewalk",
+      "Meanings": [
+        "کمپانی ساخت نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "calculation",
+      "Meanings": [
+        "محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "calculations",
+      "Meanings": [
+        "محسبات"
+      ]
+    },
+    {
+      "EnglishWord": "calculator",
+      "Meanings": [
+        "برنامه ماشین حساب",
+        "برای اجرا کردن آن Start&gt; Program files&gt; Accessories&gt; Calculator را اجرا کنید"
+      ]
+    },
+    {
+      "EnglishWord": "calendar",
+      "Meanings": [
+        "تقویم"
+      ]
+    },
+    {
+      "EnglishWord": "calender",
+      "Meanings": [
+        "تقویم"
+      ]
+    },
+    {
+      "EnglishWord": "calibration",
+      "Meanings": [
+        "کالیبره و درجه بندی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "call wating",
+      "Meanings": [
+        "نرم افزاری برای استفاده از سیستم انتظار تلفن به وسیله مودم"
+      ]
+    },
+    {
+      "EnglishWord": "calling",
+      "Meanings": [
+        "فرا خواندن",
+        "صدا زدن",
+        "شماره گیری"
+      ]
+    },
+    {
+      "EnglishWord": "camara",
+      "Meanings": [
+        "دوربین"
+      ]
+    },
+    {
+      "EnglishWord": "camera",
+      "Meanings": [
+        "دوربین"
+      ]
+    },
+    {
+      "EnglishWord": "camstudio",
+      "Meanings": [
+        "برنامه ای که از صفحه مانیتور فیلم می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "cancel",
+      "Meanings": [
+        "کنسل",
+        "رد"
+      ]
+    },
+    {
+      "EnglishWord": "candidate",
+      "Meanings": [
+        "داوطلب"
+      ]
+    },
+    {
+      "EnglishWord": "candidate key",
+      "Meanings": [
+        "کلید کاندید"
+      ]
+    },
+    {
+      "EnglishWord": "canned",
+      "Meanings": [
+        "آماده"
+      ]
+    },
+    {
+      "EnglishWord": "cannot communicate with modem",
+      "Meanings": [
+        "به دلیلی ویندوز به مودم شما دسترسی ندارد. تمامی اتصالات و پیکربندی مودم را امتحان کنید تا مطمین شوید مودم درست کار می‌کند و به طور صحیح تنظیم شده است"
+      ]
+    },
+    {
+      "EnglishWord": "cannot find the file \"\"xxx\"\" or one of its components",
+      "Meanings": [
+        "معمولترین دلیل ظاهر شدن این پیام این است که پرونده مورد نظر پاک و یا خراب شده است‌. دکمه شروع را کلیک کنید و Find را انتخاب کنید تا پرونده مورد نظر را بیابید. اگر لازم است‌",
+        "برنامه مشکل آفرین را مجددا نصب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "cannot format disk",
+      "Meanings": [
+        "هنگامی که شما سعی دارید دیسکتی را که در برابر نوشتن محافظت شده",
+        "قالب‌بندی کنید",
+        "ویندوز این پیام را نشان می‌دهد. دیسکت را عوض کنید و یا ضامن محافظ نوشتن را در وضعیت پایین قرار دهید",
+        "این پیام",
+        "هنگامی که سعی دارید از یک دیسکت خراب استفاده کنید و یا دیسکت شما ویروسی شده است‌",
+        "نیز ظاهر می‌گردد. اگر هر یک از این دو",
+        "علت این پیام باشند",
+        "شاید بهتر باشد که دیسکت خود را دور افکنده و از دیسکت دیگری استفاده کنید"
+      ]
+    },
+    {
+      "EnglishWord": "cannot run program - no application is associated with this file",
+      "Meanings": [
+        "اگر هیچ برنامه‌ای با سندی که شما می‌خواهید آن را اجرا کنید",
+        "متناظر نشده باشد",
+        "این پیام را دریافت خواهید کرد. برای متناظر کردن برنامه‌ای با نوعی پرونده",
+        "My Computer را اجرا کرده و منوی View را باز کنید و سپس Folder Options را انتخاب کنید",
+        "هنگامی که جعبه محاوره‌ای Folder Options ظاهر شد",
+        "File Type را انتخاب کنید. نوع پرونده جدید را با کلیک کردن دکمه New Type و پر کردن فضای خالی جعبه محاوره‌ای Add New File Type اضافه کنید"
+      ]
+    },
+    {
+      "EnglishWord": "cannot start application",
+      "Meanings": [
+        "ویندوز نمی‌تواند برنامه کاربردی مورد نظر را شروع کند",
+        "مطمین شوید که مسیر کشو و نام پرونده صحیح هستند. این امکان نیز هست که حافظه کافی برای اجرای برنامه موجود نباشد"
+      ]
+    },
+    {
+      "EnglishWord": "canon",
+      "Meanings": [
+        "کمپانی سازنده دوربین"
+      ]
+    },
+    {
+      "EnglishWord": "capability",
+      "Meanings": [
+        "قدرت",
+        "توانایی"
+      ]
+    },
+    {
+      "EnglishWord": "capacitor",
+      "Meanings": [
+        "خازن",
+        "باطری"
+      ]
+    },
+    {
+      "EnglishWord": "capacity",
+      "Meanings": [
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "caps",
+      "Meanings": [
+        "حروف بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "caps lock",
+      "Meanings": [
+        "کلید قفل کننده کلیدهایی که حروف بزرگ را تایپ می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "caption",
+      "Meanings": [
+        "عنوان"
+      ]
+    },
+    {
+      "EnglishWord": "capture",
+      "Meanings": [
+        "ضبط کردن"
+      ]
+    },
+    {
+      "EnglishWord": "card",
+      "Meanings": [
+        "کارت"
+      ]
+    },
+    {
+      "EnglishWord": "cardholder",
+      "Meanings": [
+        "صاحب کارت"
+      ]
+    },
+    {
+      "EnglishWord": "carriage",
+      "Meanings": [
+        "نورد"
+      ]
+    },
+    {
+      "EnglishWord": "carriage return",
+      "Meanings": [
+        "سر سطر رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "carrier",
+      "Meanings": [
+        "حامل"
+      ]
+    },
+    {
+      "EnglishWord": "carrier frequency",
+      "Meanings": [
+        "فرکانس موج حامل"
+      ]
+    },
+    {
+      "EnglishWord": "carry",
+      "Meanings": [
+        "رقم نقلی"
+      ]
+    },
+    {
+      "EnglishWord": "carry on",
+      "Meanings": [
+        "ادامه دادن"
+      ]
+    },
+    {
+      "EnglishWord": "cartoon",
+      "Meanings": [
+        "کارتون"
+      ]
+    },
+    {
+      "EnglishWord": "cartoon pack",
+      "Meanings": [
+        "مجموعه CDهای کارتونهای وال دیسنی"
+      ]
+    },
+    {
+      "EnglishWord": "cartridge",
+      "Meanings": [
+        "قاب نوار"
+      ]
+    },
+    {
+      "EnglishWord": "carxl",
+      "Meanings": [
+        "خودرو‏‎ صنعت‌‏‎ جامع‌‏‎ سایت‌‏‎"
+      ]
+    },
+    {
+      "EnglishWord": "cash",
+      "Meanings": [
+        "نقد",
+        "دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "casio",
+      "Meanings": [
+        "کمپانی تولیدکننده لوازم الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "caspian studies",
+      "Meanings": [
+        "موسسه مطالعات دریای خزر"
+      ]
+    },
+    {
+      "EnglishWord": "cat",
+      "Meanings": [
+        "Computer Aided Test",
+        "تست به کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "catalogue",
+      "Meanings": [
+        "لیست",
+        "فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "category",
+      "Meanings": [
+        "طبقه",
+        "فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "catv",
+      "Meanings": [
+        "Cable Television",
+        "کابل تلویزیون",
+        "Community Antenna Television",
+        "انجمن آنتن تلویزیون"
+      ]
+    },
+    {
+      "EnglishWord": "cause",
+      "Meanings": [
+        "دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "cbh",
+      "Meanings": [
+        "فایلهای بازی شطرنج"
+      ]
+    },
+    {
+      "EnglishWord": "cbi",
+      "Meanings": [
+        "Computer Based Instruction",
+        "دستور اصلی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "cbl",
+      "Meanings": [
+        "فایلهای برنامه Cobol"
+      ]
+    },
+    {
+      "EnglishWord": "cbm",
+      "Meanings": [
+        "فایلهای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "cbt",
+      "Meanings": [
+        "Computer Based Training",
+        "آموزش بر مبنای کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "cbw",
+      "Meanings": [
+        "Convert Byte to Word",
+        "تبدیل بایت به کلمه/"
+      ]
+    },
+    {
+      "EnglishWord": "ccb",
+      "Meanings": [
+        "فایلهایی که تغییرات دکمه‌های برنامه Visual Basic را در خود ذخیره می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "ccd",
+      "Meanings": [
+        "فایلهای برنامه Clone CD"
+      ]
+    },
+    {
+      "EnglishWord": "ccw magazine",
+      "Meanings": [
+        "مجله کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "ccx",
+      "Meanings": [
+        "فایلهای برنامه Corel Drow"
+      ]
+    },
+    {
+      "EnglishWord": "cd",
+      "Meanings": [
+        "مخفف Compact disk به معنای دیسک فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "cd marker",
+      "Meanings": [
+        "ماژیک CD"
+      ]
+    },
+    {
+      "EnglishWord": "cd mate",
+      "Meanings": [
+        "برنامه ای برای Write CD"
+      ]
+    },
+    {
+      "EnglishWord": "cd player",
+      "Meanings": [
+        "برنامه پخش کننده دیسکهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "cd protector",
+      "Meanings": [
+        "برنامه ای مربوط به کپی CD"
+      ]
+    },
+    {
+      "EnglishWord": "cd secure",
+      "Meanings": [
+        "برنامه ای مربوط به کپی CD"
+      ]
+    },
+    {
+      "EnglishWord": "cdda",
+      "Meanings": [
+        "CD Digitaal Audio",
+        "این فرمت در واقع چندان ربطی به فایل‌های صوتی کامپیوتری ندارد. ولی از آنجا که در کامپیوتر استفاده زیادی دارد",
+        "آن را معرفی می‌کنیم. CDDA در واقع فرمت CD‌های صوتی یا Audio cd‌ها است که توسط ضبط‌ها و CD player‌ها قابل اجرا است. این فرمت ساختار کامپیوتری ندارد و حتی نمیتوان آن را روی کامپیوتر کپی کرد. در درس‌های آینده",
+        "روش تبدیل این فرمت را به فرمت‌های متعارف بررسی می‌کنیم. در حال حاضر به دلیل حجم بالایی که این فرمت اشغال می‌کند",
+        "استقبال از آن کاهش یافته است"
+      ]
+    },
+    {
+      "EnglishWord": "cdl",
+      "Meanings": [
+        "Computer Design Language",
+        "زبان طراحی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "cd-lock",
+      "Meanings": [
+        "نرم افزاری برای قفل گذاشتن بر روی CD"
+      ]
+    },
+    {
+      "EnglishWord": "cdma",
+      "Meanings": [
+        "Code Division Multiple Access"
+      ]
+    },
+    {
+      "EnglishWord": "cdr",
+      "Meanings": [
+        "corel Draw"
+      ]
+    },
+    {
+      "EnglishWord": "cd-rom driver",
+      "Meanings": [
+        "وظیفه این دستگاه خواندن اطلاعات درون یک CD",
+        "ROM می‌باشد",
+        "CD",
+        "ROM یکی از ذخیره کننده‌ها یا ROM است و حدود 100MB تا 750MB را می‌تواند در خود جای دهد",
+        "ROM به شکل یک دایره است که مرکز آن خالی می‌باشد",
+        "یکی از اشکالات CD",
+        "ROM این است که نمی‌توان مانند دیسکت اطلاعات را دوبار درون آن ریخت",
+        "یعنی اگر یک بار در آن داده ای ریخته شد به طور مجدد نمی‌توان در آن داده ای ریخت",
+        "البته در بعضی از CD",
+        "ROMها این کار ممکن می‌باشد ولی قیمت این نوع دیسکها نسبت به بقیه CD",
+        "ROMها بیشتر است",
+        "دستگاه CD",
+        "ROM driver شمایلی مانند FDD و کمی بزرگتر از آن دارد با این تفاوت که هنگام قرار دادن CD",
+        "ROM در آن با فشار دادن دکمه ای محلی که CD",
+        "ROM باید درون آن قرار گیرد به بیرون می‌آید",
+        "ROM driver هم مانند FDD به وسیله دو کابل به منبع تغذیه کیس و Motherboard وصل می‌شوند. همینطور یک سیم نازک هم از طرف Motherboard به آن متصل می‌شود که وظیفه دارد CD",
+        "ROMهایی را که درون آنها موسیقی می‌باشد به طور خودکار اجرا کند. در این دیسکها دو. نوع موسیقی ممکن است باشد",
+        "نوع اول موسیقیهایی هستند که Audio نام دارند و در ضبط صوتهای مجهز به CD هم اجرا می‌شوند",
+        "نوع دوم موسیقیهایی هستند که MP3 نام دارند و فقط در کامپیوترها اجرا می‌شوند. این سیم نازک وظیفه دارد که",
+        "موسیقیهای Audio را به طور خودکار اجرا کند. اگر دکمه سمت راست دستگاه را بفشاریم موسیقی",
+        "شروع به خواندن می‌کند و سپس اگر دکمه سمت چپ را بفشاریم موسیقی بعدی اجرا می‌شود",
+        "در مواقعی که CD",
+        "ROM درون دستگاه گیر می‌کند و با فشردن دکمه دستگاه این دیسک به بیرون نیآید می‌توان با جسمی مانند یک سوزن بلند درون سوراخی که در وسط این دستگاه قرار دارد فرو کنیم تا دیسک به بیرون بیآید",
+        "نام درایور دیسک در سیستم عامل عموما حرف انگلیسی بعد از آخرین نام دایور دیسک سخت",
+        "می باشد",
+        "مثلا اگر آخرین درایو دیسک سخت G: باشد درایو دیسک H: نام دارد. همینطور بسته به ظرفیت کیس می‌توان از یک یا چند CD",
+        "ROM driver روی کامپیوتر نصب کرد"
+      ]
+    },
+    {
+      "EnglishWord": "cd-rom writer",
+      "Meanings": [
+        "دستگاهی که اطلاعات را درون CD وارد می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "cdt",
+      "Meanings": [
+        "Corel Drow Template"
+      ]
+    },
+    {
+      "EnglishWord": "cdx",
+      "Meanings": [
+        "فایلهای برنامه Visual FoxPro"
+      ]
+    },
+    {
+      "EnglishWord": "celeron",
+      "Meanings": [
+        "نوعی پردازنده کامپیوتر جدید از شرکت Intel"
+      ]
+    },
+    {
+      "EnglishWord": "cell",
+      "Meanings": [
+        "خانه‌ها جدول"
+      ]
+    },
+    {
+      "EnglishWord": "center",
+      "Meanings": [
+        "مرکز",
+        "وسط",
+        "میانه"
+      ]
+    },
+    {
+      "EnglishWord": "centi",
+      "Meanings": [
+        "سانتی = 1 صدم علامت اختصاری = C"
+      ]
+    },
+    {
+      "EnglishWord": "centiliter",
+      "Meanings": [
+        "سانتی لیتر",
+        "سانتی متر مکعب"
+      ]
+    },
+    {
+      "EnglishWord": "cerience",
+      "Meanings": [
+        "کمپانی ساخت نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "certificate",
+      "Meanings": [
+        "گواهی نامه"
+      ]
+    },
+    {
+      "EnglishWord": "certification",
+      "Meanings": [
+        "تایید",
+        "تصدیق"
+      ]
+    },
+    {
+      "EnglishWord": "cfa",
+      "Meanings": [
+        "Color Filter Array",
+        "آرایه صاف کننده رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "cfo",
+      "Meanings": [
+        "فایلهای برنامه Turbo C"
+      ]
+    },
+    {
+      "EnglishWord": "cga",
+      "Meanings": [
+        "Color graphics adaptor",
+        "آداپتور گرافیکی رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "cgi",
+      "Meanings": [
+        "Common Gateway Interface"
+      ]
+    },
+    {
+      "EnglishWord": "cgm",
+      "Meanings": [
+        "Computer Graphics Metafile"
+      ]
+    },
+    {
+      "EnglishWord": "cha",
+      "Meanings": [
+        "فایلهای برنامه mIRC"
+      ]
+    },
+    {
+      "EnglishWord": "championship manager",
+      "Meanings": [
+        "بازی‌های ورزشی"
+      ]
+    },
+    {
+      "EnglishWord": "change",
+      "Meanings": [
+        "تغییر دادن"
+      ]
+    },
+    {
+      "EnglishWord": "channel",
+      "Meanings": [
+        "کانال",
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "chaos",
+      "Meanings": [
+        "شلوغ"
+      ]
+    },
+    {
+      "EnglishWord": "chapter",
+      "Meanings": [
+        "فصل",
+        "بخش",
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "character",
+      "Meanings": [
+        "کاراکتر",
+        "حرف"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic",
+      "Meanings": [
+        "خصوصیت",
+        "مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "charcter map",
+      "Meanings": [
+        "برنامه ای که شکلی کلی از فونتها نشان می‌دهد",
+        "برای اجرای آن به Start Menu&gt; Programs&gt; Accessories&gt; System Tools&gt; charcter map بروید"
+      ]
+    },
+    {
+      "EnglishWord": "charge",
+      "Meanings": [
+        "شارژ کردن",
+        "بار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "charge master",
+      "Meanings": [
+        "نرم افزاری که سرعت دانلود را افزایش می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "chart",
+      "Meanings": [
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "chat",
+      "Meanings": [
+        "چت کردن",
+        "گپ زدن در اینترنت",
+        "در چت کردن امکاناتی مانند ارسال پیغام به صورت متن یا صدا یا تصویر به طور مستقیم و یا غیر زنده وجود دارد و امکانات دیگری مانند فرستادن فایل و… هم ممکن می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "chat room",
+      "Meanings": [
+        "اتاقهای گپ زنی"
+      ]
+    },
+    {
+      "EnglishWord": "chatgroup",
+      "Meanings": [
+        "افرادی که چت می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "chdir",
+      "Meanings": [
+        "Change Directory",
+        "فرمان تغییر Dir"
+      ]
+    },
+    {
+      "EnglishWord": "cheat",
+      "Meanings": [
+        "رمز"
+      ]
+    },
+    {
+      "EnglishWord": "check",
+      "Meanings": [
+        "چک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "check box",
+      "Meanings": [
+        "جعبه که کاربر با تیک زدن آن رویدادی را انجام می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "checksum",
+      "Meanings": [
+        "مجموع مقابله ای"
+      ]
+    },
+    {
+      "EnglishWord": "cheetachat",
+      "Meanings": [
+        "نرم افزاری برای چت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "chemistry",
+      "Meanings": [
+        "شیمی"
+      ]
+    },
+    {
+      "EnglishWord": "chess",
+      "Meanings": [
+        "بازی شطرنج"
+      ]
+    },
+    {
+      "EnglishWord": "chet",
+      "Meanings": [
+        "این کرم از نوع کرم‌های ایمیلی بوده که در تاریخ دهم ماه September سال 2002 فعال شد و دارای یک BUG جدی نیز می‌باشد. \u000bبه همین دلیل این کرم موفقیت چندانی در گسترش و انتشار پیدا نکرد. با توجه به سر نخ‌های موجود منشاء آن از روسیه شناخته شده است. \u000bاین کرم سعی می‌کند خود را از راه ضمیمه‌های نامه به نام 11 September. exe منتشر کند. پس از اجرای فایل کرم فایل را به آدرس‌های دیگری که از Address Book در ویندوز می‌گیرد ضمیمه می‌کند و به آنها ارسال می‌کند",
+        "From: main@world.com",
+        "To: all",
+        "people",
+        "in",
+        "the",
+        "address",
+        "book",
+        "Subject: All people!!",
+        "Attachment: 11september.exe",
+        "Dear ladies and gentlemen!",
+        "The given letter does not contain viruses"
+      ]
+    },
+    {
+      "EnglishWord": "chgrp",
+      "Meanings": [
+        "Change Group",
+        "تغییر گروه"
+      ]
+    },
+    {
+      "EnglishWord": "chh",
+      "Meanings": [
+        "C++ Header"
+      ]
+    },
+    {
+      "EnglishWord": "chi",
+      "Meanings": [
+        "بیست و دومین حرف یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "chief programmer",
+      "Meanings": [
+        "سازمان برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "child",
+      "Meanings": [
+        "رابطه فرزندی"
+      ]
+    },
+    {
+      "EnglishWord": "chip",
+      "Meanings": [
+        "تراشه"
+      ]
+    },
+    {
+      "EnglishWord": "chip family",
+      "Meanings": [
+        "خانواده تراشه ها"
+      ]
+    },
+    {
+      "EnglishWord": "chip select",
+      "Meanings": [
+        "انتخاب تراشه"
+      ]
+    },
+    {
+      "EnglishWord": "chipset",
+      "Meanings": [
+        "مجموعه ای از تراشه ها"
+      ]
+    },
+    {
+      "EnglishWord": "chkdsk",
+      "Meanings": [
+        "فرمان check disk"
+      ]
+    },
+    {
+      "EnglishWord": "chmod",
+      "Meanings": [
+        "Change Mode",
+        "تغییر حالت"
+      ]
+    },
+    {
+      "EnglishWord": "choose",
+      "Meanings": [
+        "انتخاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "chop",
+      "Meanings": [
+        "داده ای را که نیازمند آن نیستیم کنار بگذاریم"
+      ]
+    },
+    {
+      "EnglishWord": "chtml",
+      "Meanings": [
+        "مخفف Compressed HTML"
+      ]
+    },
+    {
+      "EnglishWord": "cib",
+      "Meanings": [
+        "Computer Integrated Business",
+        "تجارت یکپارچه کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "cif",
+      "Meanings": [
+        "فایلهای Image برنامه Easy CD Creator"
+      ]
+    },
+    {
+      "EnglishWord": "cih",
+      "Meanings": [
+        "یک برنامه ویروس کش"
+      ]
+    },
+    {
+      "EnglishWord": "cipher",
+      "Meanings": [
+        "رمز"
+      ]
+    },
+    {
+      "EnglishWord": "circle",
+      "Meanings": [
+        "دایره"
+      ]
+    },
+    {
+      "EnglishWord": "circuit",
+      "Meanings": [
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "circular",
+      "Meanings": [
+        "دایره ای",
+        "حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "cirus",
+      "Meanings": [
+        "کمپانی ساخت مودم"
+      ]
+    },
+    {
+      "EnglishWord": "citizen",
+      "Meanings": [
+        "کمپانی تولید کننده ساعت و…"
+      ]
+    },
+    {
+      "EnglishWord": "class",
+      "Meanings": [
+        "کلاس",
+        "فایلهای برنامه Java"
+      ]
+    },
+    {
+      "EnglishWord": "class viewer",
+      "Meanings": [
+        "نمایش دهنده Class"
+      ]
+    },
+    {
+      "EnglishWord": "classified",
+      "Meanings": [
+        "طبقه بندی",
+        "دسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "clear",
+      "Meanings": [
+        "پاک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "click here",
+      "Meanings": [
+        "اینجا را کلیک کنید"
+      ]
+    },
+    {
+      "EnglishWord": "client",
+      "Meanings": [
+        "سرویس گیرنده",
+        "استفاده کننده از خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "clipboard",
+      "Meanings": [
+        "برنامه ای که وقتی چیزی را کپی می‌کنیم درون آن می‌رود",
+        "برای مشاهده آن به Start&gt; Programs&gt; Accessories&gt; System tools بروید"
+      ]
+    },
+    {
+      "EnglishWord": "clist",
+      "Meanings": [
+        "Command List",
+        "لیست فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "clock",
+      "Meanings": [
+        "ساعت",
+        "زمان سنج"
+      ]
+    },
+    {
+      "EnglishWord": "clone cd",
+      "Meanings": [
+        "نرم افزاری قوی برای کپی دیسکهایی که قفل دارند"
+      ]
+    },
+    {
+      "EnglishWord": "close",
+      "Meanings": [
+        "بستن"
+      ]
+    },
+    {
+      "EnglishWord": "closed",
+      "Meanings": [
+        "مسدود",
+        "بسته"
+      ]
+    },
+    {
+      "EnglishWord": "cls",
+      "Meanings": [
+        "clear screen",
+        "پاک کردن صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "cluster",
+      "Meanings": [
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "cm",
+      "Meanings": [
+        "Corrective Maintenance",
+        "نگهداشت اصلاحی",
+        "CentiMeter",
+        "سانتی متر"
+      ]
+    },
+    {
+      "EnglishWord": "cmf",
+      "Meanings": [
+        "Corel Meta File"
+      ]
+    },
+    {
+      "EnglishWord": "cmg",
+      "Meanings": [
+        "فایلهای ذخیره شده در بازی Chess master"
+      ]
+    },
+    {
+      "EnglishWord": "cmos",
+      "Meanings": [
+        "Complementary Metal Oxide Semiconductor"
+      ]
+    },
+    {
+      "EnglishWord": "cmt",
+      "Meanings": [
+        "فایلهای برنامه Corel Drow"
+      ]
+    },
+    {
+      "EnglishWord": "cmy",
+      "Meanings": [
+        "Cyan Magenta Yellow",
+        "آبی",
+        "قرمز",
+        "زرد"
+      ]
+    },
+    {
+      "EnglishWord": "cmyk",
+      "Meanings": [
+        "Cyan Magenta Yellow Black",
+        "آبی",
+        "قرمز",
+        "زرد",
+        "مشکی"
+      ]
+    },
+    {
+      "EnglishWord": "cn",
+      "Meanings": [
+        "حوزه اینترنتی کشور چین"
+      ]
+    },
+    {
+      "EnglishWord": "cnc",
+      "Meanings": [
+        "Computerized Numerical Control",
+        "کنتری عددی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "cnt",
+      "Meanings": [
+        "فایلهای کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "co",
+      "Meanings": [
+        "یکی از حوزه‌های اینترنتی مخفف Company یعنی شرکتها",
+        "حوزه اینترنتی کشور کلمبیا"
+      ]
+    },
+    {
+      "EnglishWord": "cobol",
+      "Meanings": [
+        "مخفف Common Business Oriented Language",
+        "زبان برنامه نویسی کوبول"
+      ]
+    },
+    {
+      "EnglishWord": "cobra",
+      "Meanings": [
+        "Common Object Request Broker Architecture"
+      ]
+    },
+    {
+      "EnglishWord": "codasyle",
+      "Meanings": [
+        "سازمان توسعه دهنده نرم افزارهای اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "code",
+      "Meanings": [
+        "کد"
+      ]
+    },
+    {
+      "EnglishWord": "code view",
+      "Meanings": [
+        "نمای کدها"
+      ]
+    },
+    {
+      "EnglishWord": "codec",
+      "Meanings": [
+        "Coder/Decoder",
+        "رمز گذار/رمز گشا"
+      ]
+    },
+    {
+      "EnglishWord": "cofee cup html editor",
+      "Meanings": [
+        "یکی از برنامه‌های ساخت صفحات وب"
+      ]
+    },
+    {
+      "EnglishWord": "col",
+      "Meanings": [
+        "فایلهای طبقه بندی شده در نرم افزار Movie Maker"
+      ]
+    },
+    {
+      "EnglishWord": "collaboration",
+      "Meanings": [
+        "همدستی",
+        "همکاری"
+      ]
+    },
+    {
+      "EnglishWord": "collapse",
+      "Meanings": [
+        "متلاشی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "collection",
+      "Meanings": [
+        "جمع آوری"
+      ]
+    },
+    {
+      "EnglishWord": "collision",
+      "Meanings": [
+        "تلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "column",
+      "Meanings": [
+        "ستون"
+      ]
+    },
+    {
+      "EnglishWord": "com",
+      "Meanings": [
+        "فایلهای اجرایی",
+        "مخفف COMmunication",
+        "حوزه سایتها"
+      ]
+    },
+    {
+      "EnglishWord": "comandoes",
+      "Meanings": [
+        "یکی از بازیهای معروف جنگی",
+        "رمزهای بازی",
+        "درون بازی یکی از افراد را انتخاب کنید. سپس با حروف بزرگ این کلمه را تایپ کنید دقت داشته باشید جایی برای نوشتن کلمه باز نخواهد شد: GONZOANDJON \u000bبعد این دکمه هارا بزنید. \u000bshift+X————انتقال سریع به محل نشانه گر ماوس\u000bCtrl+V————",
+        "نامریی شدن گروه\u000bCtrl+Shoft+N—–تمام کردن مرحله کنونی و رفتن به مرحله بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "combat",
+      "Meanings": [
+        "بازی جنگی معروف کمبت"
+      ]
+    },
+    {
+      "EnglishWord": "combination",
+      "Meanings": [
+        "ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "combo",
+      "Meanings": [
+        "کمبو"
+      ]
+    },
+    {
+      "EnglishWord": "combo box",
+      "Meanings": [
+        "جعبه ای که از آن با یک گزینه را انتخاب کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "comdex",
+      "Meanings": [
+        "نمایشگاه بین المللی کامپیوترهای آمریکایی و بقیه کشورهای دنیا"
+      ]
+    },
+    {
+      "EnglishWord": "command",
+      "Meanings": [
+        "فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "command dos  cmd",
+      "Meanings": [
+        "داس در ویندوز",
+        "برای اجرای آن در پنجره عبارت cmd را تایپ کنید"
+      ]
+    },
+    {
+      "EnglishWord": "command post",
+      "Meanings": [
+        "فرمان پست"
+      ]
+    },
+    {
+      "EnglishWord": "command prompt",
+      "Meanings": [
+        "برنامه داس در محیط ویندوز"
+      ]
+    },
+    {
+      "EnglishWord": "command register",
+      "Meanings": [
+        "فرمان عضویت"
+      ]
+    },
+    {
+      "EnglishWord": "command/central proccessor",
+      "Meanings": [
+        "پردازنده مرکزی/فرمان دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "comment",
+      "Meanings": [
+        "توضیحات"
+      ]
+    },
+    {
+      "EnglishWord": "commerce",
+      "Meanings": [
+        "تجارت"
+      ]
+    },
+    {
+      "EnglishWord": "commercial",
+      "Meanings": [
+        "تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commission",
+      "Meanings": [
+        "مزد"
+      ]
+    },
+    {
+      "EnglishWord": "common",
+      "Meanings": [
+        "رایج",
+        "معمول",
+        "فایلهای نصب کننده برنامه Matlab"
+      ]
+    },
+    {
+      "EnglishWord": "common data representation",
+      "Meanings": [
+        "نمایش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "communicate",
+      "Meanings": [
+        "گفتگو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "communication",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "communication manager",
+      "Meanings": [
+        "مدیر ارتباطات"
+      ]
+    },
+    {
+      "EnglishWord": "community",
+      "Meanings": [
+        "انجمن"
+      ]
+    },
+    {
+      "EnglishWord": "comp",
+      "Meanings": [
+        "ترکیب",
+        "کومپ",
+        "مخفف کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "compact",
+      "Meanings": [
+        "فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compact disk recordable",
+      "Meanings": [
+        "لوحهای فشرده ای که قابلیت اینکه چند بار بتوان بر روی آنها اطلاعات ریخت را داشته باشند"
+      ]
+    },
+    {
+      "EnglishWord": "company",
+      "Meanings": [
+        "کمپانی",
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "compaq computer corporation",
+      "Meanings": [
+        "یکی از کمپانیهای ساخت کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "compare",
+      "Meanings": [
+        "مقایسه کردن",
+        "با هم سنجیدن"
+      ]
+    },
+    {
+      "EnglishWord": "comparison",
+      "Meanings": [
+        "مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "compatibility",
+      "Meanings": [
+        "سازگاری برنامه با محیط"
+      ]
+    },
+    {
+      "EnglishWord": "compile language",
+      "Meanings": [
+        "زبان کامپایلر"
+      ]
+    },
+    {
+      "EnglishWord": "compile script",
+      "Meanings": [
+        "انجام عملیات بر روی کدهای برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "compiled",
+      "Meanings": [
+        "گردآوری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "compiler",
+      "Meanings": [
+        "برنامه ای که در زبانهای برنامه نویسی سطح بالا سورس کدها را اجرا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "complement",
+      "Meanings": [
+        "مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complementary",
+      "Meanings": [
+        "مکمل",
+        "متمم"
+      ]
+    },
+    {
+      "EnglishWord": "complete",
+      "Meanings": [
+        "تمام",
+        "کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complex",
+      "Meanings": [
+        "پیچیده"
+      ]
+    },
+    {
+      "EnglishWord": "complimentary",
+      "Meanings": [
+        "تعریفی"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "جزء"
+      ]
+    },
+    {
+      "EnglishWord": "composer",
+      "Meanings": [
+        "سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "composite",
+      "Meanings": [
+        "مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound",
+      "Meanings": [
+        "مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive",
+      "Meanings": [
+        "جامع"
+      ]
+    },
+    {
+      "EnglishWord": "compression",
+      "Meanings": [
+        "فشردگی"
+      ]
+    },
+    {
+      "EnglishWord": "compressor",
+      "Meanings": [
+        "به مجموعه نرم افزارهایی گویند که برای فشرده کردن فایلها به کار می‌روند"
+      ]
+    },
+    {
+      "EnglishWord": "compupic pro",
+      "Meanings": [
+        "نرم افزاری قوی برای پخش و سازماندهی کلیه فایلها به خصوص فایلهای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "compuserve",
+      "Meanings": [
+        "شبکه اطلاع رسانی"
+      ]
+    },
+    {
+      "EnglishWord": "computed",
+      "Meanings": [
+        "حیاب شده"
+      ]
+    },
+    {
+      "EnglishWord": "computer",
+      "Meanings": [
+        "رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided",
+      "Meanings": [
+        "به کمک رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided engineering",
+      "Meanings": [
+        "مهندسی با کمک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer architect",
+      "Meanings": [
+        "معمار کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer awarness",
+      "Meanings": [
+        "دانش کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer circuits",
+      "Meanings": [
+        "مدارهای کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer code",
+      "Meanings": [
+        "کد کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer crime",
+      "Meanings": [
+        "جرم کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer design",
+      "Meanings": [
+        "طراحی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer drawing",
+      "Meanings": [
+        "رسم کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer enclosure",
+      "Meanings": [
+        "محفظه کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer engineer",
+      "Meanings": [
+        "مهندس کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer engineering",
+      "Meanings": [
+        "مهندسی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer family",
+      "Meanings": [
+        "خانواده کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer flick",
+      "Meanings": [
+        "فیلمهای ساخته شده با کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer game",
+      "Meanings": [
+        "بازیهای کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer graphic",
+      "Meanings": [
+        "گرافیک کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer graphicist",
+      "Meanings": [
+        "طراح کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer industry",
+      "Meanings": [
+        "صنعت کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer information system",
+      "Meanings": [
+        "سیستم اطلاعاتی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer instruction",
+      "Meanings": [
+        "دستورالعمل کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer interface unit",
+      "Meanings": [
+        "متصل کننده قطعات به کامپیوتر =UCI"
+      ]
+    },
+    {
+      "EnglishWord": "computer jargon",
+      "Meanings": [
+        "لغات و اصطلاحات مربوط به کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer language",
+      "Meanings": [
+        "زبان کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer literacy",
+      "Meanings": [
+        "دانش کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer logic",
+      "Meanings": [
+        "منطق کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer museum",
+      "Meanings": [
+        "موزه کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer music",
+      "Meanings": [
+        "موسیقی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer network",
+      "Meanings": [
+        "شبکه کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer operation",
+      "Meanings": [
+        "عملکرد کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer operator",
+      "Meanings": [
+        "اپراتور کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer professional",
+      "Meanings": [
+        "متخصص رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer program",
+      "Meanings": [
+        "برنامه کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer programmer",
+      "Meanings": [
+        "برنامه نویس کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer programming",
+      "Meanings": [
+        "برنامه نویسی کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer revolution",
+      "Meanings": [
+        "انقلاب کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer science",
+      "Meanings": [
+        "علم رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer security",
+      "Meanings": [
+        "امنیت کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "computer simulation",
+      "Meanings": [
+        "شبیه سازی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer store",
+      "Meanings": [
+        "رایانه فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "computer system",
+      "Meanings": [
+        "سیستم کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer telephone",
+      "Meanings": [
+        "مودم و تلفن"
+      ]
+    },
+    {
+      "EnglishWord": "computer time",
+      "Meanings": [
+        "زمان کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer typesetting",
+      "Meanings": [
+        "تایپ و حروف چینی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer user",
+      "Meanings": [
+        "کاربر رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer utility",
+      "Meanings": [
+        "خدمات رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer vendor",
+      "Meanings": [
+        "کامپیوترفروش"
+      ]
+    },
+    {
+      "EnglishWord": "computerization",
+      "Meanings": [
+        "کامپیوتری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "computerized",
+      "Meanings": [
+        "کامپیوتری شدن"
+      ]
+    },
+    {
+      "EnglishWord": "computerized clothing",
+      "Meanings": [
+        "لباسهای کامپیوتری",
+        "این لباسها سایز کوچک دارند و سبک هستند. لباسهای هوشمند می‌توانند ضربان قلب و تنفس ما را بشمارند. در این لباسها از نخ خاصی استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "computing",
+      "Meanings": [
+        "محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "comunications parameters",
+      "Meanings": [
+        "پارامترهای ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "concept",
+      "Meanings": [
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "conceptual",
+      "Meanings": [
+        "مفهومی",
+        "فکری"
+      ]
+    },
+    {
+      "EnglishWord": "concise oxford dictionary",
+      "Meanings": [
+        "فرهنگ آکسفورد"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent",
+      "Meanings": [
+        "همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "condition",
+      "Meanings": [
+        "شرط و شروط",
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "conference",
+      "Meanings": [
+        "کنفرانس"
+      ]
+    },
+    {
+      "EnglishWord": "config.sys",
+      "Meanings": [
+        "فایلی که شامل فرمان‌ها و تعریفهای پیکربندی و تنظیمات سیستم عامل می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "configurable",
+      "Meanings": [
+        "دارای توانایی پیکرسازی"
+      ]
+    },
+    {
+      "EnglishWord": "configuration",
+      "Meanings": [
+        "پیکربندی",
+        "تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "confirm",
+      "Meanings": [
+        "قبول کردن"
+      ]
+    },
+    {
+      "EnglishWord": "connect",
+      "Meanings": [
+        "اتصال به شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "connection",
+      "Meanings": [
+        "اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "connection refused by host",
+      "Meanings": [
+        "یا مجوز لازم برای دسترسی به سایت را ندرید و یا رمز وارد شده توسط شما اشتباه است"
+      ]
+    },
+    {
+      "EnglishWord": "connection tester",
+      "Meanings": [
+        "برنامه ای برای تست مودم"
+      ]
+    },
+    {
+      "EnglishWord": "connectionless",
+      "Meanings": [
+        "وصل نشده",
+        "کسی که به شبکه متصل نباشد"
+      ]
+    },
+    {
+      "EnglishWord": "connectivity",
+      "Meanings": [
+        "اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "connectoid",
+      "Meanings": [
+        "برنامه ای برای شماره گیری در ویندوز 95 یا"
+      ]
+    },
+    {
+      "EnglishWord": "conseal",
+      "Meanings": [
+        "یک برنامه ویروس کش"
+      ]
+    },
+    {
+      "EnglishWord": "consistency",
+      "Meanings": [
+        "پایداری",
+        "سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "console",
+      "Meanings": [
+        "میز فرمان"
+      ]
+    },
+    {
+      "EnglishWord": "consortium",
+      "Meanings": [
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "const",
+      "Meanings": [
+        "مقدار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant velocity",
+      "Meanings": [
+        "سرعت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "construction",
+      "Meanings": [
+        "ساختن",
+        "ساختمان"
+      ]
+    },
+    {
+      "EnglishWord": "content",
+      "Meanings": [
+        "محتوی"
+      ]
+    },
+    {
+      "EnglishWord": "contents",
+      "Meanings": [
+        "محتویات"
+      ]
+    },
+    {
+      "EnglishWord": "context",
+      "Meanings": [
+        "زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "contiguous",
+      "Meanings": [
+        "پیوسته",
+        "متصل",
+        "متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "continuous",
+      "Meanings": [
+        "امتداد",
+        "پیوسته",
+        "مداوم"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control panel",
+      "Meanings": [
+        "فولدری که در آن می‌توان سخت افزار و تنظیمات دیگری را انجام داد و در My computer قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "control point",
+      "Meanings": [
+        "کنترل نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "control word",
+      "Meanings": [
+        "کلمه کنترلی"
+      ]
+    },
+    {
+      "EnglishWord": "convention",
+      "Meanings": [
+        "قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "convergence",
+      "Meanings": [
+        "وضعیت و جهت تابش اشعه‌های الکترونی به صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "conversation",
+      "Meanings": [
+        "مکالمه"
+      ]
+    },
+    {
+      "EnglishWord": "conversion",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "convert",
+      "Meanings": [
+        "تبدیل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "converter",
+      "Meanings": [
+        "تبدیل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "convertion",
+      "Meanings": [
+        "تبدیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "coo",
+      "Meanings": [
+        "فایلهای Cookie"
+      ]
+    },
+    {
+      "EnglishWord": "cookie",
+      "Meanings": [
+        "اطلاعات یک سایت که بر روی کامپیوتر شما به صورت یک فایل متنی ظاهر می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "cookie grabber",
+      "Meanings": [
+        "برنامه ای که‌ها را پاک می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "cool debugger",
+      "Meanings": [
+        "یکی از برنامه اشکال گیر"
+      ]
+    },
+    {
+      "EnglishWord": "cool edit",
+      "Meanings": [
+        "برنامه ای برای ویرایش فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative",
+      "Meanings": [
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "coordinate",
+      "Meanings": [
+        "مختصات",
+        "هماهنگ کردن",
+        "زبان برنامه نویسی مختص محاسات هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "copernic",
+      "Meanings": [
+        "یک برنامه کامل برای جستجو در وب",
+        "این برنامه با استفاده از موتورهای جستجوی قوی مانند گوگل و… کار Search را انجام می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "copy",
+      "Meanings": [
+        "کپی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "copy control",
+      "Meanings": [
+        "برنامه برای کپی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "copyright",
+      "Meanings": [
+        "حق چاپ محفوظ است"
+      ]
+    },
+    {
+      "EnglishWord": "copyrighted",
+      "Meanings": [
+        "چاپ شده"
+      ]
+    },
+    {
+      "EnglishWord": "corba",
+      "Meanings": [
+        "یکی از توابع برنامه نویسی برای ایجاد ارتباط میان شیءها در شبکه و"
+      ]
+    },
+    {
+      "EnglishWord": "core",
+      "Meanings": [
+        "هسته"
+      ]
+    },
+    {
+      "EnglishWord": "corel drow",
+      "Meanings": [
+        "نرم افزاری قوی برای کارهای گرافیکی"
+      ]
+    },
+    {
+      "EnglishWord": "corporation",
+      "Meanings": [
+        "کمپانی",
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "correction",
+      "Meanings": [
+        "اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "cosine",
+      "Meanings": [
+        "کسینوس"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "هزینه",
+        "قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "council",
+      "Meanings": [
+        "انجمن"
+      ]
+    },
+    {
+      "EnglishWord": "count",
+      "Meanings": [
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "counter",
+      "Meanings": [
+        "شمارنده"
+      ]
+    },
+    {
+      "EnglishWord": "counting",
+      "Meanings": [
+        "شماردن"
+      ]
+    },
+    {
+      "EnglishWord": "country",
+      "Meanings": [
+        "کشور"
+      ]
+    },
+    {
+      "EnglishWord": "coupled",
+      "Meanings": [
+        "پیوند",
+        "زوج",
+        "جفت"
+      ]
+    },
+    {
+      "EnglishWord": "coupler",
+      "Meanings": [
+        "متصل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "cover",
+      "Meanings": [
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "cp/m",
+      "Meanings": [
+        "Control Program for Microprocessors",
+        "سیستم عامل ریزپردازنده ها"
+      ]
+    },
+    {
+      "EnglishWord": "cpe",
+      "Meanings": [
+        "Central Proccessing Element",
+        "عنصر پردازنده مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "cph",
+      "Meanings": [
+        "Cost Per Hour",
+        "مقدار هزینه در ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "cpi",
+      "Meanings": [
+        "Character Per Inch",
+        "کاراکتر در اینچ"
+      ]
+    },
+    {
+      "EnglishWord": "cpm",
+      "Meanings": [
+        "Cost Per Minute",
+        "هزینه در دقیقه"
+      ]
+    },
+    {
+      "EnglishWord": "cpp",
+      "Meanings": [
+        "C Plus Plus",
+        "برنامه C++"
+      ]
+    },
+    {
+      "EnglishWord": "cps",
+      "Meanings": [
+        "Character Per Second",
+        "کاراکتر بر ثانیه",
+        "Cycles Per Second",
+        "دور بر ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "cpu",
+      "Meanings": [
+        "مخفف Central procesing unit به معنای واحد پردازش مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "crack",
+      "Meanings": [
+        "یک نوع قفل که بر روی CDها وجود دارد",
+        "فایلهای موجود در آن باید در فولدر مورد نظر کپی شود"
+      ]
+    },
+    {
+      "EnglishWord": "cracker",
+      "Meanings": [
+        "نوعی برنامه هکر"
+      ]
+    },
+    {
+      "EnglishWord": "crash",
+      "Meanings": [
+        "از کار افتادن سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "crawler",
+      "Meanings": [
+        "برنامه ای که سایتها را بازبینی کرده و برای آنها جستجوگر می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "crazy talk",
+      "Meanings": [
+        "برنامه ای که عکسهای انیمیشنی صدادار می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "crc",
+      "Meanings": [
+        "Cyclic Redundancy Check",
+        "بررسی افزونگی دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "created",
+      "Meanings": [
+        "ساخته شده"
+      ]
+    },
+    {
+      "EnglishWord": "createobject",
+      "Meanings": [
+        "یکی از متددهای برنامه نویسی برای ساخت یک کامپونت که به صورت زیر است",
+        "A = Createobject \"\"Component name",
+        "برخی از این کامپوننتها عبارتند از",
+        "ADO = \"\"ADODB.Connection",
+        "command = \"\"ADODB.Commnad",
+        "Excel = \"\"Excel.sheet",
+        "Filesytemobject = \"\"Scripting.filesystemobject",
+        "Form = \"\"Form",
+        "Shell = \"\"Shell.Application",
+        "XML = \"\"XML.Scriptlet"
+      ]
+    },
+    {
+      "EnglishWord": "creation",
+      "Meanings": [
+        "ایجاد"
+      ]
+    },
+    {
+      "EnglishWord": "creative",
+      "Meanings": [
+        "یکی از کمپانیهای ساخت سخت افزار"
+      ]
+    },
+    {
+      "EnglishWord": "credit card",
+      "Meanings": [
+        "کارت اعتباری"
+      ]
+    },
+    {
+      "EnglishWord": "credit card memory",
+      "Meanings": [
+        "یک نمونه کاملا\"\" اختصاصی از تولیدکنندگان خاص بوده و شامل ماژول‌های DRAM بوده که دریک نوع خاص اسلات",
+        "در کامپیوترهای noteBook استفاده می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "crf",
+      "Meanings": [
+        "فایلهای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "critical",
+      "Meanings": [
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "crk",
+      "Meanings": [
+        "crack"
+      ]
+    },
+    {
+      "EnglishWord": "crom",
+      "Meanings": [
+        "Control ROM",
+        "کنترل حافظه فقط خواندنی"
+      ]
+    },
+    {
+      "EnglishWord": "crosstalk",
+      "Meanings": [
+        "مکالمه متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "crossword",
+      "Meanings": [
+        "جدول کلمات"
+      ]
+    },
+    {
+      "EnglishWord": "crt",
+      "Meanings": [
+        "Cathode ray tube",
+        "لوله اشعه کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cryogenics",
+      "Meanings": [
+        "برودتی"
+      ]
+    },
+    {
+      "EnglishWord": "cryptic",
+      "Meanings": [
+        "پنهان",
+        "دارای رمز"
+      ]
+    },
+    {
+      "EnglishWord": "cryptography",
+      "Meanings": [
+        "رمز"
+      ]
+    },
+    {
+      "EnglishWord": "crystal",
+      "Meanings": [
+        "شفاف"
+      ]
+    },
+    {
+      "EnglishWord": "csc",
+      "Meanings": [
+        "Corel Script"
+      ]
+    },
+    {
+      "EnglishWord": "csk",
+      "Meanings": [
+        "Copernic Skin"
+      ]
+    },
+    {
+      "EnglishWord": "cslip",
+      "Meanings": [
+        "Compressed Serial Line Interface Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "csm",
+      "Meanings": [
+        "C++ Symbol"
+      ]
+    },
+    {
+      "EnglishWord": "csn",
+      "Meanings": [
+        "فایلهای برنامه Dreamwever"
+      ]
+    },
+    {
+      "EnglishWord": "css",
+      "Meanings": [
+        "Cascading Style Sheets"
+      ]
+    },
+    {
+      "EnglishWord": "cst",
+      "Meanings": [
+        "فایلهای برنامه Macromedia Director",
+        "Central Standard Time",
+        "زمان استاندارد مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "cti",
+      "Meanings": [
+        "Computer Telephony Integration",
+        "شماره گیری تلفن به وسیله کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "ctl",
+      "Meanings": [
+        "فایلهای اطلاعاتی در مورد برنامه برای کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "ctr",
+      "Meanings": [
+        "counter"
+      ]
+    },
+    {
+      "EnglishWord": "ctrl",
+      "Meanings": [
+        "کلید control"
+      ]
+    },
+    {
+      "EnglishWord": "cts",
+      "Meanings": [
+        "واضح و تمیز بودن جهت ارسال داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "cty",
+      "Meanings": [
+        "فایلهای بازی Sim City"
+      ]
+    },
+    {
+      "EnglishWord": "cu",
+      "Meanings": [
+        "control unit",
+        "واحد کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "cube",
+      "Meanings": [
+        "مکعب",
+        "به توان سه"
+      ]
+    },
+    {
+      "EnglishWord": "cubi",
+      "Meanings": [
+        "فایلهای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "cug",
+      "Meanings": [
+        "Closed User Group",
+        "بسته شدن گروه کاربران"
+      ]
+    },
+    {
+      "EnglishWord": "cul",
+      "Meanings": [
+        "See You Later",
+        "بعدا می‌بینمت مورد استفاده در چت"
+      ]
+    },
+    {
+      "EnglishWord": "cup",
+      "Meanings": [
+        "Cursor Position",
+        "محل قرارگیری اشاره گر ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "cur",
+      "Meanings": [
+        "Cursor",
+        "فایلهایی برای شکل اشاره گر ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "current",
+      "Meanings": [
+        "رایج",
+        "جاری"
+      ]
+    },
+    {
+      "EnglishWord": "curriculum",
+      "Meanings": [
+        "آموزش"
+      ]
+    },
+    {
+      "EnglishWord": "cursor",
+      "Meanings": [
+        "اشاره گر ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "curve",
+      "Meanings": [
+        "منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "customization",
+      "Meanings": [
+        "ساختن بر اساس سفارشات"
+      ]
+    },
+    {
+      "EnglishWord": "customize",
+      "Meanings": [
+        "سفارشی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "cut",
+      "Meanings": [
+        "همزمان کپی و پاک کردن",
+        "بریدن"
+      ]
+    },
+    {
+      "EnglishWord": "cute dhtml",
+      "Meanings": [
+        "برنامه ای برای کار با کدهای HTML"
+      ]
+    },
+    {
+      "EnglishWord": "cuteftp",
+      "Meanings": [
+        "برنامه ای برای تبادل فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "cvf",
+      "Meanings": [
+        "Compressed Volume File",
+        "فایل فشرده شده ای که فقط خواندنی است و تمام اطلاعات در مورد گرداننده‌های هارد دیسک را دربرمیگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "cvh",
+      "Meanings": [
+        "فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "cvr",
+      "Meanings": [
+        "فایلهای برنامه Bitware"
+      ]
+    },
+    {
+      "EnglishWord": "cvs",
+      "Meanings": [
+        "فایلهای صوتی",
+        "فایلهای برنامه Outlook Express"
+      ]
+    },
+    {
+      "EnglishWord": "cwd",
+      "Meanings": [
+        "Change Working Directory",
+        "تغییر مسیر کار"
+      ]
+    },
+    {
+      "EnglishWord": "cxx",
+      "Meanings": [
+        "فایلهای برنامه C++"
+      ]
+    },
+    {
+      "EnglishWord": "cyan",
+      "Meanings": [
+        "آبی تیره",
+        "آبی مایل به سبز"
+      ]
+    },
+    {
+      "EnglishWord": "cyber",
+      "Meanings": [
+        "یکی از کمپانیهای تولید کننده نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "cycle",
+      "Meanings": [
+        "حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic",
+      "Meanings": [
+        "دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "cylinder",
+      "Meanings": [
+        "سیلندر"
+      ]
+    },
+    {
+      "EnglishWord": "cymk",
+      "Meanings": [
+        "Cyan Yellow Magenta Black",
+        "آبی",
+        "زرد",
+        "قرمز",
+        "مشکی"
+      ]
+    }
+  ]
+}

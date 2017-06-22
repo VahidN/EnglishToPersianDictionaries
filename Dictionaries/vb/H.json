@@ -1,0 +1,329 @@
+﻿{
+  "Group": "H",
+  "Entries": 45,
+  "Words": [
+    {
+      "EnglishWord": "handle window",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "harccos",
+      "Meanings": [
+        "H yperbolic Arc Cos ine",
+        "Inverse Hyperbolic Cosine",
+        "HArccos X = Log X + Sqr X * X"
+      ]
+    },
+    {
+      "EnglishWord": "harccosec",
+      "Meanings": [
+        "H yperbolic Arc C osecant",
+        "Inverse Hyperbolic Cosecant",
+        "HArccosec X = Log Sgn X * Sqr X * X + 1 +1 / X"
+      ]
+    },
+    {
+      "EnglishWord": "harccot",
+      "Meanings": [
+        "H yperbolic Arc C otangent",
+        "Inverse Hyperbolic Cotangent",
+        "HArccotan X = Log X + 1 / X",
+        "/"
+      ]
+    },
+    {
+      "EnglishWord": "harccotan",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "harcsec",
+      "Meanings": [
+        "H yperbolic Arc Sec ant",
+        "Inverse Hyperbolic Secant",
+        "HArcsec X = Log Sqr",
+        "X * X + 1 + 1 / X"
+      ]
+    },
+    {
+      "EnglishWord": "harcsin",
+      "Meanings": [
+        "H yperbolic Arc S ine",
+        "Inverse Hyperbolic Sine",
+        "HArcsin X = Log X + Sqr X * X +"
+      ]
+    },
+    {
+      "EnglishWord": "harctan",
+      "Meanings": [
+        "H yperbolic Arc Tan gent",
+        "Inverse Hyperbolic Tan gent",
+        "HArctan X = Log 1 + X /",
+        "X /"
+      ]
+    },
+    {
+      "EnglishWord": "hcos",
+      "Meanings": [
+        "H yperbolic Cos ine",
+        "HCos X = Exp X + Exp",
+        "X /"
+      ]
+    },
+    {
+      "EnglishWord": "hcosec",
+      "Meanings": [
+        "H yperbolic Cosec ant",
+        "HCosec X = 2 / Exp X",
+        "Exp",
+        "X"
+      ]
+    },
+    {
+      "EnglishWord": "hcot",
+      "Meanings": [
+        "H yperbolic Cot angent",
+        "HCotan X = Exp X + Exp",
+        "X / Exp X",
+        "Exp",
+        "X"
+      ]
+    },
+    {
+      "EnglishWord": "hcotan",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "height",
+      "Meanings": [
+        "طول",
+        "ارتفاع",
+        "خاصیتی که اندازه طول شیء را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "hello",
+      "Meanings": [
+        "world!"
+      ]
+    },
+    {
+      "EnglishWord": "help",
+      "Meanings": [
+        "راهنما",
+        "یکی از منوهای VB که شامل آموزشها و نکته‌ها و راهنمای ویژوال بیسیک می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "help file",
+      "Meanings": [
+        "فایلهای کمکی با پسوند hlp و chm"
+      ]
+    },
+    {
+      "EnglishWord": "helpfile",
+      "Meanings": [
+        "فایل کمکی",
+        "یکی از خصیصه‌های App که فایل راهنمای برنامه را مشخص می‌کند",
+        "object . HelpFile",
+        "در Filename مسیر فایل کمکی را مشخص می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "hex",
+      "Meanings": [
+        "Hex adecimal",
+        "بر مبنای شانزده",
+        "دستوری برای تبدیل به مبنای شانزده",
+        "Hex Number"
+      ]
+    },
+    {
+      "EnglishWord": "hexadecimal",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hidden",
+      "Meanings": [
+        "مخفی",
+        "یکی از خصیصه‌های FileListBox که فایلهای Hidden را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "hide",
+      "Meanings": [
+        "مخفی کردن",
+        "متددی که یک فرم را مخفی می‌کند",
+        "یکی از متددهای Microsoft Agent برای مخفی کردن کاراکتر",
+        "Agent.Hide"
+      ]
+    },
+    {
+      "EnglishWord": "hinstance",
+      "Meanings": [
+        "H andle Instance"
+      ]
+    },
+    {
+      "EnglishWord": "hlp",
+      "Meanings": [
+        "WinHelp",
+        "فایلهای کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "hour",
+      "Meanings": [
+        "ساعت",
+        "دستوری که شماره ساعت در شبانه روز را بر می‌گرداند عددی بین 1 تا",
+        "Hour time"
+      ]
+    },
+    {
+      "EnglishWord": "hscrollbar",
+      "Meanings": [
+        "نوار لغزنده افقی",
+        "یکی از اشیاء برای کنترل چیزهای دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "hsec",
+      "Meanings": [
+        "H yperbolic Sec ant",
+        "HSec X = 2 / Exp X + Exp",
+        "X"
+      ]
+    },
+    {
+      "EnglishWord": "hsin",
+      "Meanings": [
+        "H yperbolic s ine",
+        "HSin X = Exp X",
+        "Exp",
+        "X /"
+      ]
+    },
+    {
+      "EnglishWord": "htan",
+      "Meanings": [
+        "H yperbolic Tan gent",
+        "HTan X = Exp X",
+        "Exp",
+        "X / Exp X + Exp",
+        "X"
+      ]
+    },
+    {
+      "EnglishWord": "html",
+      "Meanings": [
+        "H yper t ext M arkup L anguage",
+        "زبان برنامه نویسی تحت وب",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hwnd",
+      "Meanings": [
+        "H andle W i nd ow",
+        "هندل شیء"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc cosecant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc cosine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc cotangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc secant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc sine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc sinus",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic arc tangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cosecant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cosine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic cotangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic secant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic sine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic sinus",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic tangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "hypertext markup language",
+      "Meanings": [
+        "رجوع به"
+      ]
+    }
+  ]
+}

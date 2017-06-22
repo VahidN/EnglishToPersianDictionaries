@@ -1,0 +1,942 @@
+﻿{
+  "Group": "E",
+  "Entries": 155,
+  "Words": [
+    {
+      "EnglishWord": "eberhardt statistic",
+      "Meanings": [
+        "آماره ابرهارت"
+      ]
+    },
+    {
+      "EnglishWord": "ecological statistics",
+      "Meanings": [
+        "آمار بوم‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "econometrics",
+      "Meanings": [
+        "اقتصادسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "economic index number",
+      "Meanings": [
+        "عدد شاخص اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "edgeworth expansion",
+      "Meanings": [
+        "بسط اج‌وورث"
+      ]
+    },
+    {
+      "EnglishWord": "edgeworth-marshall-bowley index",
+      "Meanings": [
+        "شاخص اج‌وورث",
+        "مارشال",
+        "باولی"
+      ]
+    },
+    {
+      "EnglishWord": "editing statistical data",
+      "Meanings": [
+        "ویراستن داده‌های آماری"
+      ]
+    },
+    {
+      "EnglishWord": "educational statistics",
+      "Meanings": [
+        "آمار در علوم تربیتی"
+      ]
+    },
+    {
+      "EnglishWord": "edwards' test for seasonality",
+      "Meanings": [
+        "آزمون ادواردز برای فصلی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "effective degrees of freedom",
+      "Meanings": [
+        "درجه‌های آزادی موثر"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "کارآیی"
+      ]
+    },
+    {
+      "EnglishWord": "efficient estimator",
+      "Meanings": [
+        "برآوردگر کارآ"
+      ]
+    },
+    {
+      "EnglishWord": "efficient score",
+      "Meanings": [
+        "نمره کارآ"
+      ]
+    },
+    {
+      "EnglishWord": "efron-morris estimator",
+      "Meanings": [
+        "برآوردگر افران",
+        "موریس"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvalue equation",
+      "Meanings": [
+        "معادله ویژه‌مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvector",
+      "Meanings": [
+        "ویژه‌بردار"
+      ]
+    },
+    {
+      "EnglishWord": "elasticity",
+      "Meanings": [
+        "کشسانی"
+      ]
+    },
+    {
+      "EnglishWord": "election",
+      "Meanings": [
+        "انتخابات"
+      ]
+    },
+    {
+      "EnglishWord": "election forecasting transferable vote system",
+      "Meanings": [
+        "پیش‌بینی انتخابات در نظام رای‌دهی قابل انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "election projection",
+      "Meanings": [
+        "پیش‌بینی انتخابات"
+      ]
+    },
+    {
+      "EnglishWord": "element of a determinant",
+      "Meanings": [
+        "عنصر دترمینان"
+      ]
+    },
+    {
+      "EnglishWord": "element of a matrix",
+      "Meanings": [
+        "عنصر ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "elementary event",
+      "Meanings": [
+        "پیشامد ساده"
+      ]
+    },
+    {
+      "EnglishWord": "elements analysis",
+      "Meanings": [
+        "تحلیل عناصر"
+      ]
+    },
+    {
+      "EnglishWord": "elicitation",
+      "Meanings": [
+        "برون‌کشی"
+      ]
+    },
+    {
+      "EnglishWord": "elimination method",
+      "Meanings": [
+        "روش حذفی"
+      ]
+    },
+    {
+      "EnglishWord": "elimination of variables",
+      "Meanings": [
+        "حذف متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "ellipse",
+      "Meanings": [
+        "بیضی"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoid",
+      "Meanings": [
+        "بیضی‌وار"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoid of concentration",
+      "Meanings": [
+        "بیضی‌وار تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "ellipsoidal",
+      "Meanings": [
+        "بیضی‌واری"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic",
+      "Meanings": [
+        "بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic coordinates",
+      "Meanings": [
+        "مختصات بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptic operator",
+      "Meanings": [
+        "عملگر بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "elliptically contoured distribution",
+      "Meanings": [
+        "توزیع بیضوی‌تراز"
+      ]
+    },
+    {
+      "EnglishWord": "embedded process",
+      "Meanings": [
+        "فرایند نشانیده"
+      ]
+    },
+    {
+      "EnglishWord": "empirical bayes theory",
+      "Meanings": [
+        "نظریه بیز تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical density function",
+      "Meanings": [
+        "تابع چگالی تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical distribution function",
+      "Meanings": [
+        "تابع توزیع تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical likelihood",
+      "Meanings": [
+        "درستنمایی تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "empirical process",
+      "Meanings": [
+        "فرایند تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "employment cost index",
+      "Meanings": [
+        "شاخص هزینه اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "encoding",
+      "Meanings": [
+        "رمزی‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "engineering statistics",
+      "Meanings": [
+        "آمار مهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "ensemble",
+      "Meanings": [
+        "کلیت"
+      ]
+    },
+    {
+      "EnglishWord": "entity",
+      "Meanings": [
+        "هستی"
+      ]
+    },
+    {
+      "EnglishWord": "entropy",
+      "Meanings": [
+        "آنتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "entropy of a transformation",
+      "Meanings": [
+        "آنتروپی تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "entropy principle",
+      "Meanings": [
+        "اصل آنتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "entry of a determinant",
+      "Meanings": [
+        "درایه دترمینان"
+      ]
+    },
+    {
+      "EnglishWord": "entry of a matrix",
+      "Meanings": [
+        "درایه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "envelop",
+      "Meanings": [
+        "پوش"
+      ]
+    },
+    {
+      "EnglishWord": "environmental statistics",
+      "Meanings": [
+        "آمار زیست‌محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "environmetrics",
+      "Meanings": [
+        "زیست محیط‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "epidemics",
+      "Meanings": [
+        "همه‌گیری‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "epidemiological",
+      "Meanings": [
+        "همه‌گیری‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "epidemiological statistics",
+      "Meanings": [
+        "آمار همه‌گیری‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "epistemic",
+      "Meanings": [
+        "شناختیک"
+      ]
+    },
+    {
+      "EnglishWord": "epistomology",
+      "Meanings": [
+        "شناخت‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "epstein scoring rule",
+      "Meanings": [
+        "قاعده امتیازبندی اپستاین"
+      ]
+    },
+    {
+      "EnglishWord": "equal sets",
+      "Meanings": [
+        "مجموعه‌های برابر"
+      ]
+    },
+    {
+      "EnglishWord": "equality",
+      "Meanings": [
+        "برابری"
+      ]
+    },
+    {
+      "EnglishWord": "equality sign",
+      "Meanings": [
+        "علامت برابری"
+      ]
+    },
+    {
+      "EnglishWord": "equalization",
+      "Meanings": [
+        "برابرسازی"
+      ]
+    },
+    {
+      "EnglishWord": "equalization of variance",
+      "Meanings": [
+        "برابرسازی واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "equally likely events",
+      "Meanings": [
+        "پیشامدهای هم‌شانس"
+      ]
+    },
+    {
+      "EnglishWord": "equation",
+      "Meanings": [
+        "معادله"
+      ]
+    },
+    {
+      "EnglishWord": "equilibrium distribution",
+      "Meanings": [
+        "توزیع تعادلی"
+      ]
+    },
+    {
+      "EnglishWord": "equinormal distribution",
+      "Meanings": [
+        "توزیع هم‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence",
+      "Meanings": [
+        "هم‌ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent",
+      "Meanings": [
+        "معادل",
+        "هم‌ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent plans",
+      "Meanings": [
+        "طرحهای هم‌ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivariant",
+      "Meanings": [
+        "هم‌وردا"
+      ]
+    },
+    {
+      "EnglishWord": "equivariant estimator",
+      "Meanings": [
+        "برآوردگر هم‌وردا"
+      ]
+    },
+    {
+      "EnglishWord": "erdos-renyi law of large numbers",
+      "Meanings": [
+        "قانون اعداد بزرگ اردیش",
+        "ری‌نی"
+      ]
+    },
+    {
+      "EnglishWord": "ergodic",
+      "Meanings": [
+        "ارگودیک"
+      ]
+    },
+    {
+      "EnglishWord": "ergodic theorem",
+      "Meanings": [
+        "قضیه ارگودیک"
+      ]
+    },
+    {
+      "EnglishWord": "erlang distribution",
+      "Meanings": [
+        "توزیع ارلانگ"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error analysis",
+      "Meanings": [
+        "تحلیل خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error function",
+      "Meanings": [
+        "تابع خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error of measurement  measurement error",
+      "Meanings": [
+        "خطای اندازه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "error of the third kind",
+      "Meanings": [
+        "خطای نوع سوم"
+      ]
+    },
+    {
+      "EnglishWord": "error rate",
+      "Meanings": [
+        "نرخ خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error space",
+      "Meanings": [
+        "فضای خطا"
+      ]
+    },
+    {
+      "EnglishWord": "error term",
+      "Meanings": [
+        "جمله خطا"
+      ]
+    },
+    {
+      "EnglishWord": "errors of input data",
+      "Meanings": [
+        "خطاهای داده‌های ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "estimability",
+      "Meanings": [
+        "برآوردپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "estimand",
+      "Meanings": [
+        "مورد برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "estimate  estimation",
+      "Meanings": [
+        "برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "estimating function",
+      "Meanings": [
+        "تابع برآوردساز"
+      ]
+    },
+    {
+      "EnglishWord": "estimation",
+      "Meanings": [
+        "برآورد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "estimation efficiency factor",
+      "Meanings": [
+        "عامل کارآیی برآورد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of accuracy",
+      "Meanings": [
+        "برآورد کردن درستی"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of bounds",
+      "Meanings": [
+        "برآورد کردن کرانها"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of location parameter",
+      "Meanings": [
+        "برآورد کردن پارامتر مکان"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of mean",
+      "Meanings": [
+        "برآورد کردن میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of percentiles",
+      "Meanings": [
+        "برآورد کردن صدکها"
+      ]
+    },
+    {
+      "EnglishWord": "estimation of slope",
+      "Meanings": [
+        "برآورد کردن شیب"
+      ]
+    },
+    {
+      "EnglishWord": "estimator",
+      "Meanings": [
+        "برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "eugenics",
+      "Meanings": [
+        "بهنژادی"
+      ]
+    },
+    {
+      "EnglishWord": "euler integral of the second kind",
+      "Meanings": [
+        "انتگرال نوع دوم اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler polynomial",
+      "Meanings": [
+        "چندجمله‌ای اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "eulerian numbers",
+      "Meanings": [
+        "اعداد اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "euler-maclaurin expansion",
+      "Meanings": [
+        "بسط اویلر",
+        "مک‌لورن"
+      ]
+    },
+    {
+      "EnglishWord": "euler's conjecture",
+      "Meanings": [
+        "حدس اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "euler's constant",
+      "Meanings": [
+        "ثابت اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "evenness",
+      "Meanings": [
+        "همسانی"
+      ]
+    },
+    {
+      "EnglishWord": "even-point estimation",
+      "Meanings": [
+        "برآورد کردن زوج‌نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "event history analysis",
+      "Meanings": [
+        "تحلیل سابقه‌ای پیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "everett's central difference interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی تفاضل مرکزی اورت"
+      ]
+    },
+    {
+      "EnglishWord": "everywhere dense set",
+      "Meanings": [
+        "مجموعه همه‌جاچگال"
+      ]
+    },
+    {
+      "EnglishWord": "evidence",
+      "Meanings": [
+        "شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "evolutionary operation",
+      "Meanings": [
+        "عملیات تکاملی"
+      ]
+    },
+    {
+      "EnglishWord": "evolving",
+      "Meanings": [
+        "گسترشی"
+      ]
+    },
+    {
+      "EnglishWord": "evolving longitudinal study",
+      "Meanings": [
+        "مطالعه طولی گسترشی"
+      ]
+    },
+    {
+      "EnglishWord": "ewens sampling formula",
+      "Meanings": [
+        "فرمول نمونه‌گیری ای‌ونس"
+      ]
+    },
+    {
+      "EnglishWord": "excess",
+      "Meanings": [
+        "فزونی"
+      ]
+    },
+    {
+      "EnglishWord": "excessive function",
+      "Meanings": [
+        "تابع فزون"
+      ]
+    },
+    {
+      "EnglishWord": "exchangeability",
+      "Meanings": [
+        "تبادل‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "exclusive events",
+      "Meanings": [
+        "پیشامدهای ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "excursion",
+      "Meanings": [
+        "برون‌گشت"
+      ]
+    },
+    {
+      "EnglishWord": "exhaustive",
+      "Meanings": [
+        "فرسا"
+      ]
+    },
+    {
+      "EnglishWord": "expansion",
+      "Meanings": [
+        "بسط"
+      ]
+    },
+    {
+      "EnglishWord": "expansion coefficients",
+      "Meanings": [
+        "ضریبهای بسط"
+      ]
+    },
+    {
+      "EnglishWord": "expectation  mathematical expectation",
+      "Meanings": [
+        "امید ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "expected normal scores",
+      "Meanings": [
+        "نمره‌های نرمال مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "expected normal scores test",
+      "Meanings": [
+        "آزمون نمره‌های نرمال مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "expected probability",
+      "Meanings": [
+        "احتمال مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "expected value",
+      "Meanings": [
+        "مقدار مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "experience",
+      "Meanings": [
+        "تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "experiment",
+      "Meanings": [
+        "آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimental analysis",
+      "Meanings": [
+        "تحلیل آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimental design",
+      "Meanings": [
+        "طرح آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimental error",
+      "Meanings": [
+        "خطای آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimenter",
+      "Meanings": [
+        "آزمایشگر"
+      ]
+    },
+    {
+      "EnglishWord": "experimentwise error rate",
+      "Meanings": [
+        "نرخ خطا در سطح آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "expert systems",
+      "Meanings": [
+        "سیستم‌های خبره"
+      ]
+    },
+    {
+      "EnglishWord": "explanatory variable",
+      "Meanings": [
+        "متغیر تبیینی"
+      ]
+    },
+    {
+      "EnglishWord": "exploratory data analysis",
+      "Meanings": [
+        "تحلیل کاوشگرانه داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "exponential autoregressive model",
+      "Meanings": [
+        "مدل اتورگرسیو نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential density function",
+      "Meanings": [
+        "تابع چگالی نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential distribution",
+      "Meanings": [
+        "توزیع نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential family",
+      "Meanings": [
+        "خانواده نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential function",
+      "Meanings": [
+        "تابع نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential scores",
+      "Meanings": [
+        "نمره‌های نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential smoothing",
+      "Meanings": [
+        "هموارسازی نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exposed to risk",
+      "Meanings": [
+        "در معرض خطر"
+      ]
+    },
+    {
+      "EnglishWord": "extension",
+      "Meanings": [
+        "توسیع"
+      ]
+    },
+    {
+      "EnglishWord": "extrapolation",
+      "Meanings": [
+        "برون‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "extremal process",
+      "Meanings": [
+        "فرایند کرانگینی"
+      ]
+    },
+    {
+      "EnglishWord": "extreme",
+      "Meanings": [
+        "کرانگین"
+      ]
+    },
+    {
+      "EnglishWord": "extreme studentized deviate",
+      "Meanings": [
+        "انحراف استیودنتیده کرانگین"
+      ]
+    },
+    {
+      "EnglishWord": "extreme-value distributions",
+      "Meanings": [
+        "توزیعهای مقدار کرانگین"
+      ]
+    },
+    {
+      "EnglishWord": "eye estimate",
+      "Meanings": [
+        "برآورد چشمی"
+      ]
+    }
+  ]
+}

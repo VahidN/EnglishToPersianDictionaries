@@ -1,0 +1,615 @@
+﻿{
+  "Group": "O",
+  "Entries": 101,
+  "Words": [
+    {
+      "EnglishWord": "oakes's test of concordance",
+      "Meanings": [
+        "آزمون هماهنگی اوکس"
+      ]
+    },
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شیء"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع عینی",
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective probability",
+      "Meanings": [
+        "احتمال عینی"
+      ]
+    },
+    {
+      "EnglishWord": "oblique rotation",
+      "Meanings": [
+        "دوران مایل"
+      ]
+    },
+    {
+      "EnglishWord": "observand",
+      "Meanings": [
+        "مورد مشاهده"
+      ]
+    },
+    {
+      "EnglishWord": "observation",
+      "Meanings": [
+        "مشاهده"
+      ]
+    },
+    {
+      "EnglishWord": "observational error",
+      "Meanings": [
+        "خطای مشاهداتی"
+      ]
+    },
+    {
+      "EnglishWord": "observational study",
+      "Meanings": [
+        "مطالعه مشاهداتی"
+      ]
+    },
+    {
+      "EnglishWord": "observer",
+      "Meanings": [
+        "مشاهده‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "occupancy problems",
+      "Meanings": [
+        "مسیله‌های اشغال"
+      ]
+    },
+    {
+      "EnglishWord": "occurrence rate",
+      "Meanings": [
+        "نرخ رخداد"
+      ]
+    },
+    {
+      "EnglishWord": "octile",
+      "Meanings": [
+        "هشتک"
+      ]
+    },
+    {
+      "EnglishWord": "odds",
+      "Meanings": [
+        "بخت",
+        "بختها"
+      ]
+    },
+    {
+      "EnglishWord": "odds ratio estimator",
+      "Meanings": [
+        "برآوردگر نسبت بختها"
+      ]
+    },
+    {
+      "EnglishWord": "offline",
+      "Meanings": [
+        "واخط"
+      ]
+    },
+    {
+      "EnglishWord": "off-line quality control",
+      "Meanings": [
+        "کنترل کیفیت خارج از خط تولید"
+      ]
+    },
+    {
+      "EnglishWord": "offset normal distribution",
+      "Meanings": [
+        "توزیع شناسه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "ogive",
+      "Meanings": [
+        "تاقدیس"
+      ]
+    },
+    {
+      "EnglishWord": "omega distribution",
+      "Meanings": [
+        "توزیع اومگا"
+      ]
+    },
+    {
+      "EnglishWord": "omega square test",
+      "Meanings": [
+        "آزمون توان دوم اومگا"
+      ]
+    },
+    {
+      "EnglishWord": "omnibus test  portmanteau test",
+      "Meanings": [
+        "آزمون کلی‌نگر"
+      ]
+    },
+    {
+      "EnglishWord": "one sample test",
+      "Meanings": [
+        "آزمون یک‌نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "one-armed bandit problem",
+      "Meanings": [
+        "مسیله ماشین قمار یک‌بازو"
+      ]
+    },
+    {
+      "EnglishWord": "one-dimensional probability distribution",
+      "Meanings": [
+        "توزیع احتمال یک‌بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one-hit model",
+      "Meanings": [
+        "مدل یک‌برخوردی"
+      ]
+    },
+    {
+      "EnglishWord": "one-sided test",
+      "Meanings": [
+        "آزمون یک‌طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one-tailed test",
+      "Meanings": [
+        "آزمون یک‌دمی"
+      ]
+    },
+    {
+      "EnglishWord": "one-third sigma rule",
+      "Meanings": [
+        "قاعده یک‌سوم سیگما"
+      ]
+    },
+    {
+      "EnglishWord": "one-way analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس یک‌طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "عملگر"
+      ]
+    },
+    {
+      "EnglishWord": "optimal control",
+      "Meanings": [
+        "کنترل بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal sample size",
+      "Meanings": [
+        "اندازه نمونه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal sampling",
+      "Meanings": [
+        "نمونه گیری بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal spacing",
+      "Meanings": [
+        "فاصله بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal stochastic control",
+      "Meanings": [
+        "کنترل تصادفی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal stopping rule",
+      "Meanings": [
+        "قاعده توقف بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimality",
+      "Meanings": [
+        "بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "optimization",
+      "Meanings": [
+        "بهینه‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimum allocation",
+      "Meanings": [
+        "انتساب بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum design of experiments",
+      "Meanings": [
+        "طراحی بهینه آزمایشها"
+      ]
+    },
+    {
+      "EnglishWord": "optimum error rate",
+      "Meanings": [
+        "نرخ خطای بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum stratification",
+      "Meanings": [
+        "طبقه‌بندی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optional sampling",
+      "Meanings": [
+        "نمونه گیری اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "options set",
+      "Meanings": [
+        "مجموعه انتخابها"
+      ]
+    },
+    {
+      "EnglishWord": "orbit",
+      "Meanings": [
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "مرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "order  rank",
+      "Meanings": [
+        "رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "order of bias",
+      "Meanings": [
+        "مرتبه اریبی"
+      ]
+    },
+    {
+      "EnglishWord": "order of stationarity",
+      "Meanings": [
+        "رتبه مانایی"
+      ]
+    },
+    {
+      "EnglishWord": "order statistics",
+      "Meanings": [
+        "آماره‌های ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordered",
+      "Meanings": [
+        "مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered alternative",
+      "Meanings": [
+        "فرض مقابل مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordering",
+      "Meanings": [
+        "مرتب کردن",
+        "مرتب‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "ordering distributions by dispersion",
+      "Meanings": [
+        "مرتب کردن توزیعها بر اساس پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "ordering procedure",
+      "Meanings": [
+        "شیوه مرتب‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "order-restricted",
+      "Meanings": [
+        "ترتیب‌مقید"
+      ]
+    },
+    {
+      "EnglishWord": "order-restricted inference",
+      "Meanings": [
+        "استنباط ترتیب‌مقید"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal data",
+      "Meanings": [
+        "داده‌‌های ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal variables",
+      "Meanings": [
+        "متغیرهای ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary discontinuity  jump discontinuity",
+      "Meanings": [
+        "ناپیوستگی جهشی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary least squares",
+      "Meanings": [
+        "کمترین توانهای دوم عادی"
+      ]
+    },
+    {
+      "EnglishWord": "origin",
+      "Meanings": [
+        "مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "orthant probabilities",
+      "Meanings": [
+        "احتمالهای همه‌مثبتی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal arrays",
+      "Meanings": [
+        "آرایه‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal chebyshev polynomials",
+      "Meanings": [
+        "چندجمله‌ایهای متعامد چبیشوف"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal decomposition",
+      "Meanings": [
+        "تجزیه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal designs",
+      "Meanings": [
+        "طرحهای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal expansions",
+      "Meanings": [
+        "بسطهای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal factor model",
+      "Meanings": [
+        "مدل عاملی متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal latin squares",
+      "Meanings": [
+        "مربعهای لاتین متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal matrix",
+      "Meanings": [
+        "ماتریس متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal polynomials",
+      "Meanings": [
+        "چندجمله‌ایهای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal process",
+      "Meanings": [
+        "فرایند متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal squares",
+      "Meanings": [
+        "مربعهای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal transformation",
+      "Meanings": [
+        "تبدیل متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonality",
+      "Meanings": [
+        "تعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonalization of matrices",
+      "Meanings": [
+        "متعامدسازی ماتریسها"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonally invariant distributions",
+      "Meanings": [
+        "توزیعهای ناوردامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal expansions",
+      "Meanings": [
+        "بسطهای یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal set",
+      "Meanings": [
+        "مجموعه یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal vectors",
+      "Meanings": [
+        "بردارهای یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormalization",
+      "Meanings": [
+        "یکامتعامدسازی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillatory process",
+      "Meanings": [
+        "فرایند نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "outcome",
+      "Meanings": [
+        "برآمد"
+      ]
+    },
+    {
+      "EnglishWord": "outer measure",
+      "Meanings": [
+        "اندازه برونی"
+      ]
+    },
+    {
+      "EnglishWord": "outgoing",
+      "Meanings": [
+        "خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "outlier-prone distribution",
+      "Meanings": [
+        "توزیع مستعد برای نقاط دورافتاده"
+      ]
+    },
+    {
+      "EnglishWord": "outliers",
+      "Meanings": [
+        "نقاط دورافتاده"
+      ]
+    },
+    {
+      "EnglishWord": "output data",
+      "Meanings": [
+        "داده‌‌های خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output index",
+      "Meanings": [
+        "شاخص بازدهی"
+      ]
+    },
+    {
+      "EnglishWord": "over shoot",
+      "Meanings": [
+        "فراحد"
+      ]
+    },
+    {
+      "EnglishWord": "overdispersed",
+      "Meanings": [
+        "بیش‌پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "overdispersion",
+      "Meanings": [
+        "بیش‌پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "overestimation",
+      "Meanings": [
+        "بیش‌برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "overgraduation",
+      "Meanings": [
+        "بیش‌هموارسازی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "overidentification",
+      "Meanings": [
+        "بیش‌شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "overlap",
+      "Meanings": [
+        "متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "overlap design",
+      "Meanings": [
+        "طرح متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping coefficient",
+      "Meanings": [
+        "ضریب تداخل"
+      ]
+    },
+    {
+      "EnglishWord": "overrepresentation",
+      "Meanings": [
+        "بیش‌نمایندگی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+﻿{
+  "Group": "H",
+  "Entries": 97,
+  "Words": [
+    {
+      "EnglishWord": "haar distribution",
+      "Meanings": [
+        "توزیع هار"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard derivative",
+      "Meanings": [
+        "مشتق آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "hadamard matrix",
+      "Meanings": [
+        "ماتریس آدامار"
+      ]
+    },
+    {
+      "EnglishWord": "hajek-renyi inequality",
+      "Meanings": [
+        "نابرابری هایک",
+        "ری‌نی"
+      ]
+    },
+    {
+      "EnglishWord": "hajek's projection lemma",
+      "Meanings": [
+        "لم تصویر هایک"
+      ]
+    },
+    {
+      "EnglishWord": "haldane-smith test",
+      "Meanings": [
+        "آزمون هالدین",
+        "اسمیت"
+      ]
+    },
+    {
+      "EnglishWord": "half-normal distribution",
+      "Meanings": [
+        "توزیع نیم‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "half-normal plot",
+      "Meanings": [
+        "نمودار نیم‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "half-plaid",
+      "Meanings": [
+        "نیم‌چهارخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "half-sample",
+      "Meanings": [
+        "نیم‌نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "half-sample technique",
+      "Meanings": [
+        "فن نیم‌نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "halphen's law",
+      "Meanings": [
+        "قانون هالفن"
+      ]
+    },
+    {
+      "EnglishWord": "hansen-hurwitz method for subsampling nonrespondents",
+      "Meanings": [
+        "روش هنسن",
+        "هورویتس برای نمونه‌گیری جزیی از پاسخ‌نداده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "hardy-weinberg model",
+      "Meanings": [
+        "مدل هاردی",
+        "واین‌برگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic analysis",
+      "Meanings": [
+        "تحلیل همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic components",
+      "Meanings": [
+        "مولفه‌های همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic mean",
+      "Meanings": [
+        "میانگین همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic variability",
+      "Meanings": [
+        "تغییرپذیری همساز"
+      ]
+    },
+    {
+      "EnglishWord": "harris poll",
+      "Meanings": [
+        "نظرسنجی هریس"
+      ]
+    },
+    {
+      "EnglishWord": "harter's adaptive robust method",
+      "Meanings": [
+        "روش استوار سازوار هارتر"
+      ]
+    },
+    {
+      "EnglishWord": "hat matrix",
+      "Meanings": [
+        "ماتریس کلاهدار"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff dimension",
+      "Meanings": [
+        "بعد هاوسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "hausman specification test",
+      "Meanings": [
+        "آزمون مشخص‌سازی هاوسمان"
+      ]
+    },
+    {
+      "EnglishWord": "hazard plotting",
+      "Meanings": [
+        "رسم نمودار خطر"
+      ]
+    },
+    {
+      "EnglishWord": "hazard regression",
+      "Meanings": [
+        "رگرسیون خطر"
+      ]
+    },
+    {
+      "EnglishWord": "heavy tail",
+      "Meanings": [
+        "دم کلفت"
+      ]
+    },
+    {
+      "EnglishWord": "heavy-tailed distribution",
+      "Meanings": [
+        "توزیع دم‌بلند"
+      ]
+    },
+    {
+      "EnglishWord": "hedonic index numbers  vintage method",
+      "Meanings": [
+        "اعداد شاخص لذت‌باورانه"
+      ]
+    },
+    {
+      "EnglishWord": "hellinger distance estimation",
+      "Meanings": [
+        "برآورد فاصله هلینجری"
+      ]
+    },
+    {
+      "EnglishWord": "helmert transformation",
+      "Meanings": [
+        "تبدیل هلمرت"
+      ]
+    },
+    {
+      "EnglishWord": "henderson method",
+      "Meanings": [
+        "روش هندرسون"
+      ]
+    },
+    {
+      "EnglishWord": "heritability",
+      "Meanings": [
+        "قابلیت توارث"
+      ]
+    },
+    {
+      "EnglishWord": "hermite distribution",
+      "Meanings": [
+        "توزیع ارمیت"
+      ]
+    },
+    {
+      "EnglishWord": "hermite form",
+      "Meanings": [
+        "صورت ارمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "hermite polynomial",
+      "Meanings": [
+        "چندجمله‌ای ارمیت"
+      ]
+    },
+    {
+      "EnglishWord": "hermitian matrix",
+      "Meanings": [
+        "ماتریس ارمیتی"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneity",
+      "Meanings": [
+        "ناهمگنی"
+      ]
+    },
+    {
+      "EnglishWord": "heteroscedasticity",
+      "Meanings": [
+        "ناهم‌واریانسی"
+      ]
+    },
+    {
+      "EnglishWord": "heuristic method",
+      "Meanings": [
+        "روش رهگشا"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical classification",
+      "Meanings": [
+        "رده‌بندی سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical cluster analysis",
+      "Meanings": [
+        "تحلیل خوشه‌ای سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical kappa statistic",
+      "Meanings": [
+        "آماره کاپای سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchical regression model",
+      "Meanings": [
+        "مدل رگرسیونی سلسله‌مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "hierarchy of models",
+      "Meanings": [
+        "سلسله مراتب مدلها"
+      ]
+    },
+    {
+      "EnglishWord": "hildreth-lu scanning method",
+      "Meanings": [
+        "روش کاوش هیلدرث",
+        "لو"
+      ]
+    },
+    {
+      "EnglishWord": "hirschman's index",
+      "Meanings": [
+        "شاخص هیرشمان"
+      ]
+    },
+    {
+      "EnglishWord": "histogram",
+      "Meanings": [
+        "بافت‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "historical control",
+      "Meanings": [
+        "کنترل پیشینه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "historical series",
+      "Meanings": [
+        "سریهای تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "historical study",
+      "Meanings": [
+        "مطالعه تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "history of statistics",
+      "Meanings": [
+        "تاریخچه آمار"
+      ]
+    },
+    {
+      "EnglishWord": "hitting time",
+      "Meanings": [
+        "زمان اصابت"
+      ]
+    },
+    {
+      "EnglishWord": "hodges bivariate sign test",
+      "Meanings": [
+        "آزمون علامت دومتغیره هاجز"
+      ]
+    },
+    {
+      "EnglishWord": "hodges superefficiency",
+      "Meanings": [
+        "ابرکارآیی هاجز"
+      ]
+    },
+    {
+      "EnglishWord": "hodges-lehmann estimator",
+      "Meanings": [
+        "برآوردگر هاجز",
+        "لی‌من"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding inequality",
+      "Meanings": [
+        "نابرابری هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding's independence test",
+      "Meanings": [
+        "آزمون استقلال هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hoeffding's lemma",
+      "Meanings": [
+        "لم هوفدینگ"
+      ]
+    },
+    {
+      "EnglishWord": "holder's inequality",
+      "Meanings": [
+        "نابرابری هولدر"
+      ]
+    },
+    {
+      "EnglishWord": "holdout sample",
+      "Meanings": [
+        "نمونه جدا نگه داشته شده"
+      ]
+    },
+    {
+      "EnglishWord": "hollander bivariate symmetry test",
+      "Meanings": [
+        "آزمون تقارن دومتغیره هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander extreme test",
+      "Meanings": [
+        "آزمون کرانگین هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander parallelism test",
+      "Meanings": [
+        "آزمون توازی هولندر"
+      ]
+    },
+    {
+      "EnglishWord": "hollander-proschan new-better-than-used test",
+      "Meanings": [
+        "آزمون نو بهتر از کهنه هولندر",
+        "پروشان"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneity",
+      "Meanings": [
+        "همگنی"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedastic distribution",
+      "Meanings": [
+        "توزیع هم‌واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "homoscedasticity",
+      "Meanings": [
+        "هم‌واریانسی"
+      ]
+    },
+    {
+      "EnglishWord": "honest significant difference",
+      "Meanings": [
+        "تفاضل معنی‌دار صدیق"
+      ]
+    },
+    {
+      "EnglishWord": "hooper correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی هوپر"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal asymptote",
+      "Meanings": [
+        "مجانب افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal axis",
+      "Meanings": [
+        "محور افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal line",
+      "Meanings": [
+        "خط افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal plane",
+      "Meanings": [
+        "صفحه افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal vector",
+      "Meanings": [
+        "بردار افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horvitz-thompson estimator",
+      "Meanings": [
+        "برآوردگر هورویتز",
+        "تامپسون"
+      ]
+    },
+    {
+      "EnglishWord": "hospital rule  l' hopital rule",
+      "Meanings": [
+        "قاعده هوپیتال"
+      ]
+    },
+    {
+      "EnglishWord": "hot deck method",
+      "Meanings": [
+        "روش بی‌درنگ"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling strategy",
+      "Meanings": [
+        "راهبرد هتلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling-pabst test",
+      "Meanings": [
+        "آزمون هتلینگ",
+        "پبست"
+      ]
+    },
+    {
+      "EnglishWord": "hotelling's trace",
+      "Meanings": [
+        "اثر هتلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "hougaard process",
+      "Meanings": [
+        "فرایند هوگارد"
+      ]
+    },
+    {
+      "EnglishWord": "h-spread  highspread",
+      "Meanings": [
+        "بالاپراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "human genetics",
+      "Meanings": [
+        "ژنتیک انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "humped curve",
+      "Meanings": [
+        "خم کوهانه‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "hungarian constructions of empirical process",
+      "Meanings": [
+        "روشهای ساخت مجارستانی فرایند تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "hunt-stein theorem",
+      "Meanings": [
+        "قضیه هانت",
+        "استاین"
+      ]
+    },
+    {
+      "EnglishWord": "hurst coefficient",
+      "Meanings": [
+        "ضریب هرست"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid log-normal distribution",
+      "Meanings": [
+        "توزیع لگ‌نرمال دورگه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbola",
+      "Meanings": [
+        "هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic distribution",
+      "Meanings": [
+        "توزیع هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolically completely monotone distribution",
+      "Meanings": [
+        "توزیع کاملا یکنوای هذلولوی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric",
+      "Meanings": [
+        "فوق‌هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق‌هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "hyperparameter",
+      "Meanings": [
+        "ابرپارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "hyperplane",
+      "Meanings": [
+        "ابرصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "hyperplane coordinates",
+      "Meanings": [
+        "مختصات ابرصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis",
+      "Meanings": [
+        "فرض"
+      ]
+    }
+  ]
+}

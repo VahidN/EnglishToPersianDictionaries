@@ -1,0 +1,320 @@
+﻿{
+  "Group": "L",
+  "Entries": 39,
+  "Words": [
+    {
+      "EnglishWord": "label",
+      "Meanings": [
+        "برچسب",
+        "یکی از شیء‌های VB که شکل یک برچسب را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "عنوان آن خصیصه Caption",
+        "رنگ آن خصیصه BackColor",
+        "مکان متن خصیصه Alignment",
+        "شکل ظاهری آن Appearance",
+        "ایجاد حاشیه BorderStyle",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "رنگ متن آن ForeColor",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "lastmodified",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای مشخص کردن آخرین تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "lbl",
+      "Meanings": [
+        "L a b e l",
+        "برچسب",
+        "این لغت برای نامگذاری شیء Label استفاده می‌شود به صورت lblName"
+      ]
+    },
+    {
+      "EnglishWord": "lbound",
+      "Meanings": [
+        "L ow Bound",
+        "دستوری که کمترین مقدار یک آرایه را بر می‌گرداند",
+        "LBound arrayname ["
+      ]
+    },
+    {
+      "EnglishWord": "lcase",
+      "Meanings": [
+        "l ower case",
+        "حرف کوچک",
+        "تابعی که تمام کاراکترهای رشته ورودی را به حروف کوچک تبدیل میکند",
+        "LCase string"
+      ]
+    },
+    {
+      "EnglishWord": "left",
+      "Meanings": [
+        "چپ",
+        "دستوری که تعداد n کاراکتر از سمت چپ یک نوشته را انتخاب می‌کند",
+        "Left String"
+      ]
+    },
+    {
+      "EnglishWord": "legalcopyright",
+      "Meanings": [
+        "حق کپی برداری",
+        "یکی از خصیصه‌های که کپی رایت برنامه اجرایی را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "legaltrademarks",
+      "Meanings": [
+        "علامت",
+        "آرم",
+        "یکی از خصیصه‌های App که آرم برنامه اجرایی را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "len",
+      "Meanings": [
+        "تابعی که طول رشته یک عبارت را مشخص می‌کند به صورت زیر",
+        "Len string varname"
+      ]
+    },
+    {
+      "EnglishWord": "less than",
+      "Meanings": [
+        "کوچکتر از",
+        "برای کوچکتر قرار دادن یک عبارت از عبارتی دیگر از علامت &gt; استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "less than or equal to   =",
+      "Meanings": [
+        "کوچکتر از یا مساوی با",
+        "برای انجام این عمل از علامت =&gt; استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "lib",
+      "Meanings": [
+        "Lib rary",
+        "مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "line",
+      "Meanings": [
+        "خط",
+        "دستوری برای کشیدن خط و مستطیل بر روی فرم که با توجه به نقاط مختصات رسم می‌شود",
+        "Line X"
+      ]
+    },
+    {
+      "EnglishWord": "list",
+      "Meanings": [
+        "لیست",
+        "یکی از خصیصه‌های جعبه لیست برای معین کردن آیتمهای آن",
+        "یکی از متتدهای جعبه لیست برای نشان دادن آیتمی که در پرانتز نوشته می‌شود",
+        "Lst.List Integer"
+      ]
+    },
+    {
+      "EnglishWord": "listbox",
+      "Meanings": [
+        "برچسب",
+        "یکی از شیء‌های VB که شکل یک لیست شامل آیتمهای مختلف را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "آیتمهای آن خصیصه List",
+        "رنگ آن خصیصه BackColor",
+        "مکان متن خصیصه Alignment",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "رنگ متن آن ForeColor",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "listcount",
+      "Meanings": [
+        "تعداد آیتمهای لیست",
+        "یکی از خاصیتهای لیست برای نشان دادن تعداد آیتمهای لیست"
+      ]
+    },
+    {
+      "EnglishWord": "listindex",
+      "Meanings": [
+        "اندیس لیست",
+        "یکی از خاصیتهای لیست برای نشان دادن اندیس لیست گزینه انتخاب شده"
+      ]
+    },
+    {
+      "EnglishWord": "listview control",
+      "Meanings": [
+        "کنترلی برای ساختن یک لیست سفارشی دارای عکس و به شکلهای مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "ln",
+      "Meanings": [
+        "l ogarithm n atural",
+        "لوگ نپر",
+        "لگاریتم بر مبنای عدد ای عدد نپر",
+        "رجوع به و"
+      ]
+    },
+    {
+      "EnglishWord": "lng",
+      "Meanings": [
+        "L o ng"
+      ]
+    },
+    {
+      "EnglishWord": "load",
+      "Meanings": [
+        "بارگذاری",
+        "یکی از رویدادهای Form که کد مورد نظر را هنگام بالا آمدن فرم اجرا می‌کند",
+        "دستوری که شیء مورد نظر را بارگذاری می‌کند",
+        "Load Object Index"
+      ]
+    },
+    {
+      "EnglishWord": "load  2",
+      "Meanings": [
+        "یکی از خصیصه‌های متدد Characters در Microsoft Agent برای مشخص کردن کاراکتر",
+        "Agent.Characters.Load Name"
+      ]
+    },
+    {
+      "EnglishWord": "loadfile",
+      "Meanings": [
+        "اجرای فایل",
+        "یکی از متددهای Rich TextBox جهت باز کردن متن درون یک فایل و نمایش آن در TextBox",
+        "rtf.LoadFile FileName"
+      ]
+    },
+    {
+      "EnglishWord": "loadpicture",
+      "Meanings": [
+        "بارگذاری عکس",
+        "دستوری که عکسی را در مسیری که در آن قرار دارد بالا می‌آورد",
+        "LoadPicture Path"
+      ]
+    },
+    {
+      "EnglishWord": "loadresdata",
+      "Meanings": [
+        "دستوری برای Load کردن یک فایل از Resource",
+        "برای ایجاد یک فایل در Resource ابتدا روی آیکون Add Custom Resource در Resource Editor کلیک کنید و سپس فایل مورد نظر خود را انتخاب کنید و در پنجره کد عبارت زیر را تایپ کنید",
+        "LoadResData index"
+      ]
+    },
+    {
+      "EnglishWord": "loadrespicture",
+      "Meanings": [
+        "دستوری برای Load کردن یک عکس از Resource",
+        "برای ایجاد یک عکس در Resource ابتدا روی آیکون Add Bitmap یا Add Icon یا Add Cursor در Resource Editor کلیک کنید و سپس عکس مورد نظر خود را انتخاب کنید و در پنجره کد عبارت زیر را تایپ کنید",
+        "LoadResPicture index"
+      ]
+    },
+    {
+      "EnglishWord": "loadresstring",
+      "Meanings": [
+        "دستوری برای Load کردن یک متن از Resource",
+        "برای ایجاد یک متن در Resource ابتدا روی آیکون Edit String Table در Resource Editor کلیک کنید و سپس داده‌های خود را وارد کنید و در پنجره کد عبارت زیر را تایپ کنید",
+        "LoadResString index",
+        "کلمه Index همان شماره متن است"
+      ]
+    },
+    {
+      "EnglishWord": "locking controls",
+      "Meanings": [
+        "قفل کردن شیء",
+        "برای قفل کردن یک شی از منوی Format گزینه Lock Controls را انتخاب کنید",
+        "قفل کردن باعث می‌شود که نتوان تغییری روی شیء انجام داد"
+      ]
+    },
+    {
+      "EnglishWord": "locktype",
+      "Meanings": [
+        "خصیصه ای از ADODC که به کاربر اجازه تغییر در داده‌ها را نمی‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "log",
+      "Meanings": [
+        "log arithm",
+        "لگاریتم",
+        "خروجی این تابع عددی از نوع double است که برابر لگاریم طبیعی عدد ورودی است لگاریتم بر مبنای عدد e یا همان Ln",
+        "Log number",
+        "Log file for load errors",
+        "فایلهای تنظیمات",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "logarithm",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "logarithm natural",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "logarithm to base n",
+      "Meanings": [
+        "لگاریتم در مبنای N",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "logn",
+      "Meanings": [
+        "لگاریتم در مبنای N",
+        "اگر بخواهیم یک لگاریتم در مبنای N بگیریم از فرمول زیر استفاده می‌کنیم",
+        "LogN X = Log X / Log N"
+      ]
+    },
+    {
+      "EnglishWord": "logoff",
+      "Meanings": [
+        "خروج از سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "long",
+      "Meanings": [
+        "عدد بزرگ",
+        "نوعی از متغیرها که عددی طولانی می‌باشد و مقدار آن برابر چهار بایت است و عددی بین"
+      ]
+    },
+    {
+      "EnglishWord": "loop",
+      "Meanings": [
+        "حلقه",
+        "دستورات حلقه ای",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "lst",
+      "Meanings": [
+        "L i st",
+        "لیست",
+        "این لغت برای نامگذاری جعبه لیستها ListBox استفاده می‌شود به صورت lstName"
+      ]
+    },
+    {
+      "EnglishWord": "ltrim",
+      "Meanings": [
+        "L eft Trim",
+        "تمام فاصله‌های سمت چپ یک رشته را حذف می‌کند",
+        "LTrim string",
+        "مانند",
+        "MyVar = LTrim \"\" vbscript \"\" ' MyVar contains \"\" vbscript"
+      ]
+    }
+  ]
+}

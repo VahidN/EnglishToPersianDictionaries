@@ -1,0 +1,326 @@
+﻿{
+  "Group": "E",
+  "Entries": 52,
+  "Words": [
+    {
+      "EnglishWord": "e",
+      "Meanings": [
+        "حرف پنجم از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 14 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "edge",
+      "Meanings": [
+        "یال"
+      ]
+    },
+    {
+      "EnglishWord": "edge coloring",
+      "Meanings": [
+        "رنگ آمیزی یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge connectivity",
+      "Meanings": [
+        "همبندی یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge crossing",
+      "Meanings": [
+        "تقاطع یالی"
+      ]
+    },
+    {
+      "EnglishWord": "edge node",
+      "Meanings": [
+        "گره یال"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "element",
+      "Meanings": [
+        "عضو"
+      ]
+    },
+    {
+      "EnglishWord": "element uniqueness",
+      "Meanings": [
+        "یکتایی اعضا"
+      ]
+    },
+    {
+      "EnglishWord": "em",
+      "Meanings": [
+        "حافظه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "em data structure",
+      "Meanings": [
+        "داده ساختار حافظه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "empty",
+      "Meanings": [
+        "خالی"
+      ]
+    },
+    {
+      "EnglishWord": "empty binary tree",
+      "Meanings": [
+        "درخت دودویی خالی"
+      ]
+    },
+    {
+      "EnglishWord": "empty subtree",
+      "Meanings": [
+        "زیر درخت خالی"
+      ]
+    },
+    {
+      "EnglishWord": "entity",
+      "Meanings": [
+        "موجودیت"
+      ]
+    },
+    {
+      "EnglishWord": "entry",
+      "Meanings": [
+        "جمله",
+        "عضو",
+        "عنصر",
+        "درایه",
+        "داده"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean algorithm",
+      "Meanings": [
+        "الگوریتم اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean distance",
+      "Meanings": [
+        "فاصله اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean steiner tree",
+      "Meanings": [
+        "درخت اشتاینر اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean traveling salesman",
+      "Meanings": [
+        "فروشنده دوره گرد اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclidean traveling salesman problem",
+      "Meanings": [
+        "مسیله فروشنده دوره گرد اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "euclid's algorithm",
+      "Meanings": [
+        "الگوریتم اقلیدس"
+      ]
+    },
+    {
+      "EnglishWord": "euler cycle",
+      "Meanings": [
+        "دور اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "euler tour",
+      "Meanings": [
+        "تور اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "eulerian graph",
+      "Meanings": [
+        "گراف اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "eulerian path",
+      "Meanings": [
+        "مسیر اویلری"
+      ]
+    },
+    {
+      "EnglishWord": "evaluation",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "exchange sort",
+      "Meanings": [
+        "مرتب ساز تعویضی"
+      ]
+    },
+    {
+      "EnglishWord": "exclusive or",
+      "Meanings": [
+        "یای انحصاری"
+      ]
+    },
+    {
+      "EnglishWord": "exhaust",
+      "Meanings": [
+        "پردازش شدن"
+      ]
+    },
+    {
+      "EnglishWord": "exhibit",
+      "Meanings": [
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "existential state",
+      "Meanings": [
+        "حالت وجودی"
+      ]
+    },
+    {
+      "EnglishWord": "expander graph",
+      "Meanings": [
+        "گراف توسعه دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "expansion",
+      "Meanings": [
+        "توسعه",
+        "بسط",
+        "انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "expansion phase",
+      "Meanings": [
+        "مرحله بسط"
+      ]
+    },
+    {
+      "EnglishWord": "expected",
+      "Meanings": [
+        "مورد نظر",
+        "مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "exponential",
+      "Meanings": [
+        "نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "extended binary tree",
+      "Meanings": [
+        "درخت دودویی تعمیم یافته"
+      ]
+    },
+    {
+      "EnglishWord": "extended euclid's algorithm",
+      "Meanings": [
+        "الگوریتم اقلیدسی توسعه یافته"
+      ]
+    },
+    {
+      "EnglishWord": "extendible hashing",
+      "Meanings": [
+        "درهم سازی قابل تعمیم"
+      ]
+    },
+    {
+      "EnglishWord": "external",
+      "Meanings": [
+        "خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external memory",
+      "Meanings": [
+        "حافظه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external memory algorithm",
+      "Meanings": [
+        "الگوریتم حافظه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external memory data structure",
+      "Meanings": [
+        "داده ساختار حافظه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external merge",
+      "Meanings": [
+        "ادغام خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external node",
+      "Meanings": [
+        "گره خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external quicksort",
+      "Meanings": [
+        "مرتب ساز سریع خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external radix sort",
+      "Meanings": [
+        "مرتب ساز مبنایی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external sort",
+      "Meanings": [
+        "مرتب ساز خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "extreme",
+      "Meanings": [
+        "خیلی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "extreme point",
+      "Meanings": [
+        "نقطه کنج"
+      ]
+    }
+  ]
+}

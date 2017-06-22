@@ -1,0 +1,1256 @@
+﻿{
+  "Group": "O",
+  "Entries": 203,
+  "Words": [
+    {
+      "EnglishWord": "o.e.c.d. organization for economic co-operation and development",
+      "Meanings": [
+        "سازمان همکاری و توسعه اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "objective column",
+      "Meanings": [
+        "ستون هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective information",
+      "Meanings": [
+        "اطلاعات عینی"
+      ]
+    },
+    {
+      "EnglishWord": "objective measurability",
+      "Meanings": [
+        "قابلیت اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "objective row",
+      "Meanings": [
+        "سطر هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objectives",
+      "Meanings": [
+        "اهداف"
+      ]
+    },
+    {
+      "EnglishWord": "objectivity",
+      "Meanings": [
+        "عینیت"
+      ]
+    },
+    {
+      "EnglishWord": "object-oriented",
+      "Meanings": [
+        "شی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "object-relational database",
+      "Meanings": [
+        "پایگاه داده ارتباطی با رویکرد موضوعی"
+      ]
+    },
+    {
+      "EnglishWord": "obligate",
+      "Meanings": [
+        "موظف",
+        "ملزم"
+      ]
+    },
+    {
+      "EnglishWord": "obligation",
+      "Meanings": [
+        "تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "obligations",
+      "Meanings": [
+        "تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "observation",
+      "Meanings": [
+        "نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "observation evidence",
+      "Meanings": [
+        "شواهد مشاهده ای"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescence",
+      "Meanings": [
+        "نابابی"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescence of assets",
+      "Meanings": [
+        "نابابی داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "obsolete",
+      "Meanings": [
+        "ناباب"
+      ]
+    },
+    {
+      "EnglishWord": "occupation",
+      "Meanings": [
+        "حرفه",
+        "مقام",
+        "شغل"
+      ]
+    },
+    {
+      "EnglishWord": "occurrence",
+      "Meanings": [
+        "رخداد"
+      ]
+    },
+    {
+      "EnglishWord": "odd lot",
+      "Meanings": [
+        "ته مانده کالا",
+        "ته انباری"
+      ]
+    },
+    {
+      "EnglishWord": "of goods manufactured",
+      "Meanings": [
+        "بهای تمام شده کالای ساخته شده تولید شده"
+      ]
+    },
+    {
+      "EnglishWord": "off",
+      "Meanings": [
+        "تعطیل",
+        "مرخصی"
+      ]
+    },
+    {
+      "EnglishWord": "off hire",
+      "Meanings": [
+        "عدم تعلق کرایه"
+      ]
+    },
+    {
+      "EnglishWord": "off-balance sheet debt",
+      "Meanings": [
+        "بدهی برون ترازنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "off-balance sheet financing",
+      "Meanings": [
+        "تامین مالی خارج از ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "offer",
+      "Meanings": [
+        "پیشنهاد"
+      ]
+    },
+    {
+      "EnglishWord": "offer and acceptance",
+      "Meanings": [
+        "ایجاب و قبول در حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "off-hire",
+      "Meanings": [
+        "عدم تعلق کرایه"
+      ]
+    },
+    {
+      "EnglishWord": "office",
+      "Meanings": [
+        "دفتر",
+        "منصب"
+      ]
+    },
+    {
+      "EnglishWord": "office automation systems",
+      "Meanings": [
+        "سیستم‌های اتوماسیون اداری"
+      ]
+    },
+    {
+      "EnglishWord": "office hours",
+      "Meanings": [
+        "ساعت اداری"
+      ]
+    },
+    {
+      "EnglishWord": "office practice",
+      "Meanings": [
+        "کار اداری"
+      ]
+    },
+    {
+      "EnglishWord": "official",
+      "Meanings": [
+        "رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "official document",
+      "Meanings": [
+        "سند رسی"
+      ]
+    },
+    {
+      "EnglishWord": "official letter",
+      "Meanings": [
+        "نامه رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "offset",
+      "Meanings": [
+        "تهاتر",
+        "پایاپای"
+      ]
+    },
+    {
+      "EnglishWord": "offsetting asset accounts",
+      "Meanings": [
+        "حسابهای دارایی کاه"
+      ]
+    },
+    {
+      "EnglishWord": "offsetting cost with revenue",
+      "Meanings": [
+        "تهاتر درآمد با بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "off-the -shelf system",
+      "Meanings": [
+        "سیستم حاضر و آماده"
+      ]
+    },
+    {
+      "EnglishWord": "oligopoly",
+      "Meanings": [
+        "رقابت چند جانبه"
+      ]
+    },
+    {
+      "EnglishWord": "on account",
+      "Meanings": [
+        "علی الحساب"
+      ]
+    },
+    {
+      "EnglishWord": "on condition",
+      "Meanings": [
+        "مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "on demand",
+      "Meanings": [
+        "به محض درخواست"
+      ]
+    },
+    {
+      "EnglishWord": "on line processing system",
+      "Meanings": [
+        "سیستم پردازش پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "on line system",
+      "Meanings": [
+        "سیستم پیوسته",
+        "سیستم پیوسته کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "one way fare",
+      "Meanings": [
+        "کرایه یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one write system",
+      "Meanings": [
+        "سیستم ثبت یکباره"
+      ]
+    },
+    {
+      "EnglishWord": "one-line consolidation",
+      "Meanings": [
+        "تلفیق یک سطری"
+      ]
+    },
+    {
+      "EnglishWord": "one-line consolidation method",
+      "Meanings": [
+        "روش تلفیق در یک سطر"
+      ]
+    },
+    {
+      "EnglishWord": "one-sided reliability",
+      "Meanings": [
+        "قابلیت اعتماد یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "on-going operations continuing operations",
+      "Meanings": [
+        "عملیات در حال اجراء مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "online",
+      "Meanings": [
+        "پیوسته",
+        "درون خطی"
+      ]
+    },
+    {
+      "EnglishWord": "on-linereal time",
+      "Meanings": [
+        "پیوسته",
+        "بیدرنگ"
+      ]
+    },
+    {
+      "EnglishWord": "opc code",
+      "Meanings": [
+        "کد مهندسی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "open accounts",
+      "Meanings": [
+        "حسابهای جاری"
+      ]
+    },
+    {
+      "EnglishWord": "open cheque",
+      "Meanings": [
+        "چک سفید"
+      ]
+    },
+    {
+      "EnglishWord": "open cover",
+      "Meanings": [
+        "بیمه نامه عمومی حمل و نقل"
+      ]
+    },
+    {
+      "EnglishWord": "open credit",
+      "Meanings": [
+        "اعتبار نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "open orders",
+      "Meanings": [
+        "درخواست‌های باز خرید و فروش و دستور‌های کاری"
+      ]
+    },
+    {
+      "EnglishWord": "opening inventory",
+      "Meanings": [
+        "موجودی کالای ابتدای دوره"
+      ]
+    },
+    {
+      "EnglishWord": "operating",
+      "Meanings": [
+        "عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating activities",
+      "Meanings": [
+        "فعالیتهای عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating costing",
+      "Meanings": [
+        "هزینه خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "operating cycle",
+      "Meanings": [
+        "چرخه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operating expenses",
+      "Meanings": [
+        "هزینه‌های عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating income",
+      "Meanings": [
+        "سود عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating information",
+      "Meanings": [
+        "اطلاعات عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating lease",
+      "Meanings": [
+        "اجاره عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating leases",
+      "Meanings": [
+        "اجاره‌های عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating leverage",
+      "Meanings": [
+        "اهرم عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating loss",
+      "Meanings": [
+        "زیان عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating manual",
+      "Meanings": [
+        "راهنماهای عملیاتی",
+        "راهنماهای عملیاتی برای اپراتورها"
+      ]
+    },
+    {
+      "EnglishWord": "operating method",
+      "Meanings": [
+        "روش عملیاتی اجاره بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "operating profit",
+      "Meanings": [
+        "سود عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating profit or loss",
+      "Meanings": [
+        "سود وزیان عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating reports",
+      "Meanings": [
+        "گزارشهای عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating reserves",
+      "Meanings": [
+        "ذخایر عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating revenue",
+      "Meanings": [
+        "درآمد عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating system",
+      "Meanings": [
+        "سیستم عامل"
+      ]
+    },
+    {
+      "EnglishWord": "operating trend",
+      "Meanings": [
+        "روند عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operation",
+      "Meanings": [
+        "عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation analysis",
+      "Meanings": [
+        "تجزیه تحلیل عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation process chart",
+      "Meanings": [
+        "چارت فرآیند عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operational",
+      "Meanings": [
+        "عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operational assets",
+      "Meanings": [
+        "داراییهای عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operational audit",
+      "Meanings": [
+        "حسابرسی عملیاتی",
+        "حسابرسی عملکرد مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "operational auditing",
+      "Meanings": [
+        "حسابرسی عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operational expense",
+      "Meanings": [
+        "هزینه عملیات عادی واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "operational level systems",
+      "Meanings": [
+        "مدیران عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operations",
+      "Meanings": [
+        "عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operations research",
+      "Meanings": [
+        "پژوهش عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "اپراتور",
+        "مجری",
+        "گرداننده",
+        "متصدی"
+      ]
+    },
+    {
+      "EnglishWord": "operator instruction",
+      "Meanings": [
+        "دستور العمل اجرای برنامه برای اپراتورها"
+      ]
+    },
+    {
+      "EnglishWord": "opinion paragraph",
+      "Meanings": [
+        "بند اظهارنظر حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity cost",
+      "Meanings": [
+        "هزینه فرصت از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "optimal",
+      "Meanings": [
+        "بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal allocation neyman allocation",
+      "Meanings": [
+        "روش تخصیص مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimal capital structure",
+      "Meanings": [
+        "ساختار سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal level",
+      "Meanings": [
+        "سطح مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimal solution",
+      "Meanings": [
+        "راه حل مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic",
+      "Meanings": [
+        "خوش بینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic procedures",
+      "Meanings": [
+        "رویه خوش بینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimization",
+      "Meanings": [
+        "بهینه سازی",
+        "بهبود"
+      ]
+    },
+    {
+      "EnglishWord": "optimizing models",
+      "Meanings": [
+        "مدلهای بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimum",
+      "Meanings": [
+        "مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum allocation",
+      "Meanings": [
+        "تخصیص مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum decisions",
+      "Meanings": [
+        "تصمیمات مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum price",
+      "Meanings": [
+        "قیمت مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum solution",
+      "Meanings": [
+        "راه حل مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum use",
+      "Meanings": [
+        "استفاده مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "option",
+      "Meanings": [
+        "اختیار",
+        "اضافی",
+        "اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "option price",
+      "Meanings": [
+        "قیمت فروش سهام طبق طرح اختیار خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "optional",
+      "Meanings": [
+        "اختیاری",
+        "مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "oracle financial",
+      "Meanings": [
+        "سیستم مالی اوراکل"
+      ]
+    },
+    {
+      "EnglishWord": "oracle small business suite",
+      "Meanings": [
+        "بسته نرم افزاری کوچک اوراکل"
+      ]
+    },
+    {
+      "EnglishWord": "oral",
+      "Meanings": [
+        "شفاهی"
+      ]
+    },
+    {
+      "EnglishWord": "order confirmation",
+      "Meanings": [
+        "تایید به سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order of statement analysis",
+      "Meanings": [
+        "نظام تجزیه و تحلیل صورتها"
+      ]
+    },
+    {
+      "EnglishWord": "order-filling costs",
+      "Meanings": [
+        "هزینه‌های انجام سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order-getting costs",
+      "Meanings": [
+        "هزینه‌های دریافت سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "ordering cost",
+      "Meanings": [
+        "هزینه سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary repairs",
+      "Meanings": [
+        "تعمیرات عادی"
+      ]
+    },
+    {
+      "EnglishWord": "organisation",
+      "Meanings": [
+        "سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "organization",
+      "Meanings": [
+        "سازمان",
+        "تشکیلات"
+      ]
+    },
+    {
+      "EnglishWord": "organization costs",
+      "Meanings": [
+        "هزینه‌های تاسیس"
+      ]
+    },
+    {
+      "EnglishWord": "organization for economic cooperation   development  oecd oecd",
+      "Meanings": [
+        "سازمان همکاری و توسعه اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "organization for economic cooperation and development oecd organization for economic cooperation and developmentoecd",
+      "Meanings": [
+        "سازمان همکاری و توسعه اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational",
+      "Meanings": [
+        "سازمانی",
+        "تشکیلاتی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational behavior",
+      "Meanings": [
+        "رفتار سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational behavior management",
+      "Meanings": [
+        "مدیریت رفتار سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational chart",
+      "Meanings": [
+        "نمودار سازمانی",
+        "نمودار چارت سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational unit",
+      "Meanings": [
+        "واحد سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organized",
+      "Meanings": [
+        "سازمان یافته"
+      ]
+    },
+    {
+      "EnglishWord": "organizers",
+      "Meanings": [
+        "موسسین"
+      ]
+    },
+    {
+      "EnglishWord": "organizing",
+      "Meanings": [
+        "سازماندهی"
+      ]
+    },
+    {
+      "EnglishWord": "original",
+      "Meanings": [
+        "اصلی",
+        "اصل",
+        "اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original copy",
+      "Meanings": [
+        "اصل سند",
+        "نسخه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original cost",
+      "Meanings": [
+        "بهای تمام شده اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original entry",
+      "Meanings": [
+        "ثبت اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original estimate",
+      "Meanings": [
+        "برآورد اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original selling price",
+      "Meanings": [
+        "قیمت اولیه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "other assets",
+      "Meanings": [
+        "سایر داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "other expenses",
+      "Meanings": [
+        "سایر هزینه ها"
+      ]
+    },
+    {
+      "EnglishWord": "other factors",
+      "Meanings": [
+        "سایر عوامل"
+      ]
+    },
+    {
+      "EnglishWord": "other income",
+      "Meanings": [
+        "سایر درآمدها"
+      ]
+    },
+    {
+      "EnglishWord": "other mathematical models",
+      "Meanings": [
+        "سایر مدلهای ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "other receivables",
+      "Meanings": [
+        "سایر حسابهای دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "other revenueother income",
+      "Meanings": [
+        "سایر درآمد",
+        "سایر درآمدها"
+      ]
+    },
+    {
+      "EnglishWord": "other revenues",
+      "Meanings": [
+        "سایردرآمدها"
+      ]
+    },
+    {
+      "EnglishWord": "out going letters",
+      "Meanings": [
+        "نامه‌های ارسالی"
+      ]
+    },
+    {
+      "EnglishWord": "out put",
+      "Meanings": [
+        "بازده",
+        "ستانده",
+        "محصول"
+      ]
+    },
+    {
+      "EnglishWord": "out put reports",
+      "Meanings": [
+        "گزارشات خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "out standing accounts",
+      "Meanings": [
+        "حسابهای تسویه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "out standing cheque",
+      "Meanings": [
+        "چک معوق",
+        "واریز نشده"
+      ]
+    },
+    {
+      "EnglishWord": "out standing reservation",
+      "Meanings": [
+        "کرایه یکسره"
+      ]
+    },
+    {
+      "EnglishWord": "outflow of cash",
+      "Meanings": [
+        "جریان خروج وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "out-of pocket costs",
+      "Meanings": [
+        "مخارج واقعی پرداختی",
+        "هزینه‌های واقعی انجام شده"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "بازده"
+      ]
+    },
+    {
+      "EnglishWord": "output data",
+      "Meanings": [
+        "اطلاعات یا گزارشهای خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output method",
+      "Meanings": [
+        "میزان تولید"
+      ]
+    },
+    {
+      "EnglishWord": "out-put oriented principles",
+      "Meanings": [
+        "اصول متمرکز برستانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "output reconciliation",
+      "Meanings": [
+        "تطبیق جمعهای کنترل اطلاعات خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output scanning",
+      "Meanings": [
+        "وارسی گزارشهای خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "outright sale",
+      "Meanings": [
+        "فروش یکسره شکلی از واگذاری مطالبات است"
+      ]
+    },
+    {
+      "EnglishWord": "outstanding",
+      "Meanings": [
+        "منتشر شده",
+        "بدهی تسویه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "outstanding capital stock  outstanding share outstanding capital stock",
+      "Meanings": [
+        "سهام در دست سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "outstanding shares",
+      "Meanings": [
+        "سهام در دست سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "over absorption",
+      "Meanings": [
+        "اضافه جذب"
+      ]
+    },
+    {
+      "EnglishWord": "over age",
+      "Meanings": [
+        "اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "over draft",
+      "Meanings": [
+        "حواله بیش از اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "over draw",
+      "Meanings": [
+        "بیش از اعتبار حواله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "over due",
+      "Meanings": [
+        "سر رسید گذشته"
+      ]
+    },
+    {
+      "EnglishWord": "over heads",
+      "Meanings": [
+        "هزینه‌های سر بار"
+      ]
+    },
+    {
+      "EnglishWord": "over or under absorbed overhead",
+      "Meanings": [
+        "اضافه یا کسری سربار جذب شده"
+      ]
+    },
+    {
+      "EnglishWord": "over time",
+      "Meanings": [
+        "اضافه کار"
+      ]
+    },
+    {
+      "EnglishWord": "over time premium",
+      "Meanings": [
+        "حقوق اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "over weight",
+      "Meanings": [
+        "اضافه وزن"
+      ]
+    },
+    {
+      "EnglishWord": "overapplied factory overhead",
+      "Meanings": [
+        "اضافه جذب سربار کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "overauditing",
+      "Meanings": [
+        "حسابرسی بیش از اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "overdraft",
+      "Meanings": [
+        "اضافه برداشت از حساب جاری بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "over-estimate",
+      "Meanings": [
+        "برآورد زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "سربار"
+      ]
+    },
+    {
+      "EnglishWord": "overhead absorption",
+      "Meanings": [
+        "جذب سربار"
+      ]
+    },
+    {
+      "EnglishWord": "overhead expenses",
+      "Meanings": [
+        "هزینه‌های سربار بالاسری"
+      ]
+    },
+    {
+      "EnglishWord": "overhead over or under recovery",
+      "Meanings": [
+        "اضافه یا کسری بازگیری سربار"
+      ]
+    },
+    {
+      "EnglishWord": "overseas investors",
+      "Meanings": [
+        "سرمایه گذاران ماورای بحار"
+      ]
+    },
+    {
+      "EnglishWord": "overstate",
+      "Meanings": [
+        "ارایه بیش از واقع"
+      ]
+    },
+    {
+      "EnglishWord": "overstatement",
+      "Meanings": [
+        "بیش از میزان واقع نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "overtime",
+      "Meanings": [
+        "اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "overtime ban",
+      "Meanings": [
+        "خاتمه توقف اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "overtime payment",
+      "Meanings": [
+        "پرداخت بابت اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "overtime premium",
+      "Meanings": [
+        "فوق العاده اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "overtrading company",
+      "Meanings": [
+        "شرکت پر مبادله"
+      ]
+    },
+    {
+      "EnglishWord": "owing",
+      "Meanings": [
+        "پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "owner",
+      "Meanings": [
+        "دارنده",
+        "صاحب"
+      ]
+    },
+    {
+      "EnglishWord": "owners' equity",
+      "Meanings": [
+        "حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "owner's equity",
+      "Meanings": [
+        "حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "owners equitystockholders equity",
+      "Meanings": [
+        "حقوق صاحبان سرمایه سهام"
+      ]
+    },
+    {
+      "EnglishWord": "ownership",
+      "Meanings": [
+        "مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "ownership concentrate",
+      "Meanings": [
+        "تمرکز مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "ownership- interest",
+      "Meanings": [
+        "حقوق مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "ownership rights",
+      "Meanings": [
+        "حقوق مالکیت"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3090 @@
+﻿{
+  "Group": "P",
+  "Entries": 514,
+  "Words": [
+    {
+      "EnglishWord": "paid in capital",
+      "Meanings": [
+        "سرمایه پرداخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "paid in capital in excess of par",
+      "Meanings": [
+        "سرمایه پرداخت شده مازاد بر ارزش اسمی صرف سهام"
+      ]
+    },
+    {
+      "EnglishWord": "paper assets",
+      "Meanings": [
+        "داراییهای مالی اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "par value",
+      "Meanings": [
+        "ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "par value method",
+      "Meanings": [
+        "روش ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "par value of bond",
+      "Meanings": [
+        "ارزش اسمی اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "par value of stock",
+      "Meanings": [
+        "ارزش اسمی سهام"
+      ]
+    },
+    {
+      "EnglishWord": "par value per share",
+      "Meanings": [
+        "ارزش اسمی هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "par value per stock",
+      "Meanings": [
+        "ارزش اسمی هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "par value theory",
+      "Meanings": [
+        "تیوری ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "paradigm",
+      "Meanings": [
+        "الگوی فکری پاردایم"
+      ]
+    },
+    {
+      "EnglishWord": "parallel simulation",
+      "Meanings": [
+        "شبیه سازی موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel testing",
+      "Meanings": [
+        "آزمون موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parameter",
+      "Meanings": [
+        "عامل ثابت پارامتر"
+      ]
+    },
+    {
+      "EnglishWord": "parent company concept",
+      "Meanings": [
+        "مفهمو/ تیوری شرکت اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "parent company theory",
+      "Meanings": [
+        "تیوری شرکت مادر/ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "parent subsidiary relationship",
+      "Meanings": [
+        "رابطه اصلی فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "pareto analysis",
+      "Meanings": [
+        "تجزیه و تحلیل اصل پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "pareto principle",
+      "Meanings": [
+        "اصلی پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "partial productivity",
+      "Meanings": [
+        "بهره وری ناقص/ نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "partial productivity measurement",
+      "Meanings": [
+        "اندازه گیری بهره وری ناقص/ نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "partial recognition",
+      "Meanings": [
+        "شناسایی ناقص/ نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "partial year",
+      "Meanings": [
+        "بخشی از سال"
+      ]
+    },
+    {
+      "EnglishWord": "partially participating preferred stock",
+      "Meanings": [
+        "سهام ممتاز با مشارکت جزیی در سود باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "participating",
+      "Meanings": [
+        "مشارکتی"
+      ]
+    },
+    {
+      "EnglishWord": "participating budgeting",
+      "Meanings": [
+        "بودجه بندی مشارکتی"
+      ]
+    },
+    {
+      "EnglishWord": "participating certificate",
+      "Meanings": [
+        "گواهی مشارکت"
+      ]
+    },
+    {
+      "EnglishWord": "participating clause",
+      "Meanings": [
+        "شرط حق مشارکت در سود اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "participatory budget",
+      "Meanings": [
+        "بودجه مشارکتی"
+      ]
+    },
+    {
+      "EnglishWord": "partner",
+      "Meanings": [
+        "شریک"
+      ]
+    },
+    {
+      "EnglishWord": "partner drawing accounts",
+      "Meanings": [
+        "حسابهای برداشت شرکا"
+      ]
+    },
+    {
+      "EnglishWord": "partnership",
+      "Meanings": [
+        "شرکت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "partnership accounting",
+      "Meanings": [
+        "حسابداری شرکتهای تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "partnership agreement",
+      "Meanings": [
+        "موافقتنامه شرکت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "partnership dissolution",
+      "Meanings": [
+        "انحلال شرکت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "partnership financial statement",
+      "Meanings": [
+        "صورتهای مالی شرکت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "partnership liquidation",
+      "Meanings": [
+        "انحلال شرکت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "passage of title",
+      "Meanings": [
+        "انتقال مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "passive investment",
+      "Meanings": [
+        "سرمایه گذاری غیرفعال"
+      ]
+    },
+    {
+      "EnglishWord": "passive management",
+      "Meanings": [
+        "مدیریت غیرفعال"
+      ]
+    },
+    {
+      "EnglishWord": "password",
+      "Meanings": [
+        "اسم رمز/ کلمه رمز"
+      ]
+    },
+    {
+      "EnglishWord": "password control",
+      "Meanings": [
+        "کنترل با اسم رمز"
+      ]
+    },
+    {
+      "EnglishWord": "patent",
+      "Meanings": [
+        "حق اختراع"
+      ]
+    },
+    {
+      "EnglishWord": "pattern of cost allocation",
+      "Meanings": [
+        "الگوی تخصیص هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "pay off matrix",
+      "Meanings": [
+        "ماتریس عایدات بازده ها"
+      ]
+    },
+    {
+      "EnglishWord": "payback",
+      "Meanings": [
+        "برگشت سرمایه/ بازیافت سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "payback method",
+      "Meanings": [
+        "روش دوره بازیافت سرمایه گذاری/ برگشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "payback period",
+      "Meanings": [
+        "دوره برگشت سرمایه/ دوره بازیافت سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "payee of the note",
+      "Meanings": [
+        "دریافت کننده وجه سند گیرنده سند"
+      ]
+    },
+    {
+      "EnglishWord": "payment on account",
+      "Meanings": [
+        "پرداخت علی الحساب"
+      ]
+    },
+    {
+      "EnglishWord": "payoff table",
+      "Meanings": [
+        "جدول عایدات"
+      ]
+    },
+    {
+      "EnglishWord": "payoffs",
+      "Meanings": [
+        "عایدات بازده ها"
+      ]
+    },
+    {
+      "EnglishWord": "payout ratio",
+      "Meanings": [
+        "نسبت پرداخت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "payroll",
+      "Meanings": [
+        "لیست حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll accounting",
+      "Meanings": [
+        "حسابداری حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll and personnel cycle",
+      "Meanings": [
+        "چرخه حقوق و دستمزد کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "payroll entries",
+      "Meanings": [
+        "ثبتهای حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll master file",
+      "Meanings": [
+        "پرونده اصلی حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll register",
+      "Meanings": [
+        "دفتر ثبت حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll system",
+      "Meanings": [
+        "سیستم حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "peanut butter costing",
+      "Meanings": [
+        "هزینه یابی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "pecking order",
+      "Meanings": [
+        "به ترتیب اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "peer review",
+      "Meanings": [
+        "بررسی همپیشگان"
+      ]
+    },
+    {
+      "EnglishWord": "penalty",
+      "Meanings": [
+        "جریمه"
+      ]
+    },
+    {
+      "EnglishWord": "pending lawsuits",
+      "Meanings": [
+        "دعاوی حقوقی در شرف طرح دعاوی حقوقی در جریان"
+      ]
+    },
+    {
+      "EnglishWord": "penetration pricing",
+      "Meanings": [
+        "قیمت گذاری زیرکانه"
+      ]
+    },
+    {
+      "EnglishWord": "penny stocks",
+      "Meanings": [
+        "سهام کم ارزش سهام کم بنیه"
+      ]
+    },
+    {
+      "EnglishWord": "pension",
+      "Meanings": [
+        "بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "pension gains and losses",
+      "Meanings": [
+        "سود و زیانهای صندوق بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "pension liability",
+      "Meanings": [
+        "بدهی بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "pension plan",
+      "Meanings": [
+        "طرح بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "per annum",
+      "Meanings": [
+        "سالانه"
+      ]
+    },
+    {
+      "EnglishWord": "percent of sales method",
+      "Meanings": [
+        "روش درصد فروش"
+      ]
+    },
+    {
+      "EnglishWord": "percentage change in  ebit",
+      "Meanings": [
+        "درصد تغییر در سود قبل از کسر بهره و مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "percentage of completion method",
+      "Meanings": [
+        "روش درصد تکمیل کار روش درصد پیشرفت کار"
+      ]
+    },
+    {
+      "EnglishWord": "percentage of credit sales",
+      "Meanings": [
+        "درصد فروشهای نسیه"
+      ]
+    },
+    {
+      "EnglishWord": "percentage of ending accounts receivable",
+      "Meanings": [
+        "درصد حسابهای دریافتنی پایان دوره"
+      ]
+    },
+    {
+      "EnglishWord": "percentage statutory depletion",
+      "Meanings": [
+        "درصد قانونی استهلاک/ تهی شدن منابع طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "perfect markets",
+      "Meanings": [
+        "بازارهای کامل/ کارا"
+      ]
+    },
+    {
+      "EnglishWord": "perfect negative correlation",
+      "Meanings": [
+        "همبستگی منفی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "perfect positive correlation",
+      "Meanings": [
+        "همبستگی مثبت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "perfection standard",
+      "Meanings": [
+        "استاندارد کامل ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "perfectly competitive market",
+      "Meanings": [
+        "بازار رقابت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "perfectly divisible commodity",
+      "Meanings": [
+        "کالای کاملا بخش پذیر/ قابل تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "perfectly positively correlated",
+      "Meanings": [
+        "همبستگی کاملا مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "performance",
+      "Meanings": [
+        "عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance audit",
+      "Meanings": [
+        "حسابرسی عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance bond",
+      "Meanings": [
+        "ضمانتنامه انجام تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "performance budget",
+      "Meanings": [
+        "بودجه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "performance evaluation",
+      "Meanings": [
+        "ارزیابی عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance gap",
+      "Meanings": [
+        "شکاف عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance measurement",
+      "Meanings": [
+        "معیار سنجش/ اندازه گیری عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance options",
+      "Meanings": [
+        "گزینه‌های اجرا/ عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance reports",
+      "Meanings": [
+        "گزارشات عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance withholdings",
+      "Meanings": [
+        "کسور وجه الضمان سپرده حسن انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "period cost",
+      "Meanings": [
+        "هزینه دوره مخارج جاری"
+      ]
+    },
+    {
+      "EnglishWord": "period for remedying defects",
+      "Meanings": [
+        "دوره رفع نواقص"
+      ]
+    },
+    {
+      "EnglishWord": "periodic compensation",
+      "Meanings": [
+        "حقوق و مزایای ادواری"
+      ]
+    },
+    {
+      "EnglishWord": "periodic costs",
+      "Meanings": [
+        "مخارج ادواری/ هزینه‌های دوره"
+      ]
+    },
+    {
+      "EnglishWord": "periodic inventory method",
+      "Meanings": [
+        "روش ادواری موجود کالا"
+      ]
+    },
+    {
+      "EnglishWord": "periodic inventory system",
+      "Meanings": [
+        "سیستم ثبت ادواری موجودیها"
+      ]
+    },
+    {
+      "EnglishWord": "periodicity",
+      "Meanings": [
+        "فرض دوره مالی"
+      ]
+    },
+    {
+      "EnglishWord": "periodicity assumption",
+      "Meanings": [
+        "فرض دوره مالی"
+      ]
+    },
+    {
+      "EnglishWord": "perishability",
+      "Meanings": [
+        "فسادپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "perishable goods",
+      "Meanings": [
+        "کالای فاسدشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "perks",
+      "Meanings": [
+        "مزایای جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent accounts",
+      "Meanings": [
+        "حسابهای دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent file",
+      "Meanings": [
+        "پرونده دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "peroration",
+      "Meanings": [
+        "تسهیم به نسبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "perpetual inventory master file",
+      "Meanings": [
+        "پرونده اصلی ثبت دایمی موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "perpetual inventory method",
+      "Meanings": [
+        "روش ثبت دایمی موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "perpetual inventory system",
+      "Meanings": [
+        "سیستم ثبت دایمی موجودیها"
+      ]
+    },
+    {
+      "EnglishWord": "perquisites",
+      "Meanings": [
+        "مزایای جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "personal financial statement",
+      "Meanings": [
+        "صورتهای مالی فردی/انفرادی"
+      ]
+    },
+    {
+      "EnglishWord": "personnel",
+      "Meanings": [
+        "کارکنان حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "personnel records",
+      "Meanings": [
+        "سوابق کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "personnel secondments",
+      "Meanings": [
+        "ماموریت کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "persuasive criterion",
+      "Meanings": [
+        "معیار متقاعدکننده"
+      ]
+    },
+    {
+      "EnglishWord": "persuasiveness of evidence",
+      "Meanings": [
+        "متقاعدکننده بودن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "pervasive constraint",
+      "Meanings": [
+        "محدودیت فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "pervasive principles",
+      "Meanings": [
+        "اصول فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "petty cash",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "petty cash fund",
+      "Meanings": [
+        "حساب مستقل تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "phantom profit",
+      "Meanings": [
+        "سود موقت"
+      ]
+    },
+    {
+      "EnglishWord": "phase out period",
+      "Meanings": [
+        "دوره توقف تدریجی دوره گذر"
+      ]
+    },
+    {
+      "EnglishWord": "phases of the audit process",
+      "Meanings": [
+        "مراحل مختلف فرآیند حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "philadelphia stock exchange  pse",
+      "Meanings": [
+        "بورس سهام فیلادلفیا"
+      ]
+    },
+    {
+      "EnglishWord": "philosophy of auditing",
+      "Meanings": [
+        "فلسفه حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "physical capital maintenance concept",
+      "Meanings": [
+        "مفهوم حفظ سرمایه فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physical examination",
+      "Meanings": [
+        "بازدید یا بررسی عینی"
+      ]
+    },
+    {
+      "EnglishWord": "physical flow of inventory",
+      "Meanings": [
+        "گردش فیزیکی موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "physical flow schedule",
+      "Meanings": [
+        "جدول گردش فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physical inventory count",
+      "Meanings": [
+        "شمارش فیزیکی موجودی کالا انبارگردانی"
+      ]
+    },
+    {
+      "EnglishWord": "physical measure method",
+      "Meanings": [
+        "روش اندازه گیری فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physical measurement allocation",
+      "Meanings": [
+        "تخصیص بر مبنای اندازه گیری فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physical representation of population",
+      "Meanings": [
+        "وجود عینی جامعه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "physical representative of population",
+      "Meanings": [
+        "معرف فیزیکی جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "physical units method",
+      "Meanings": [
+        "روش آحاد فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "piecemeal acquisition",
+      "Meanings": [
+        "تحصیل تدریجی تحصیل گام به گام"
+      ]
+    },
+    {
+      "EnglishWord": "piecemeal opinion",
+      "Meanings": [
+        "اظهار نظر ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "pilot study",
+      "Meanings": [
+        "مطالعه مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "pilot testing",
+      "Meanings": [
+        "آزمون محدود/ مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "placement decision",
+      "Meanings": [
+        "تصمیم جایابی تصمیم گیری در خصوص محل انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "plaintiff",
+      "Meanings": [
+        "شاکی"
+      ]
+    },
+    {
+      "EnglishWord": "plan sponsor",
+      "Meanings": [
+        "مجری طرح متولی طرح حامی طرح"
+      ]
+    },
+    {
+      "EnglishWord": "planned detection risk",
+      "Meanings": [
+        "ریسک برنامه ریزی شده عدم کشف"
+      ]
+    },
+    {
+      "EnglishWord": "planning",
+      "Meanings": [
+        "برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "planning materiality",
+      "Meanings": [
+        "برنامه ریزی اهمیت در حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "planning memorandum",
+      "Meanings": [
+        "کاربرگ برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "plant assets",
+      "Meanings": [
+        "داراییهای ثابت فیزیکی داراییهای ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "plant layout",
+      "Meanings": [
+        "ساختار کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plant rearrangement",
+      "Meanings": [
+        "جابجایی ماشین آلت تجدید آرایش ماشین آلات"
+      ]
+    },
+    {
+      "EnglishWord": "pledge",
+      "Meanings": [
+        "گروگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "pledging",
+      "Meanings": [
+        "گروگذاری رهن گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "pledging accounts receivable",
+      "Meanings": [
+        "گرو گذاشتن حسابهای دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "pledging of receivables",
+      "Meanings": [
+        "گروگذاری مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "plotting the data",
+      "Meanings": [
+        "ترسیم داده‌ها بر روی نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "point and figure chart  pfc",
+      "Meanings": [
+        "نمودار نقطه و شکل"
+      ]
+    },
+    {
+      "EnglishWord": "point estimate",
+      "Meanings": [
+        "برآورد نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "point foreword",
+      "Meanings": [
+        "کاربرگ نکات حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "point of view",
+      "Meanings": [
+        "نقطه نظر دیدگاه"
+      ]
+    },
+    {
+      "EnglishWord": "political costs",
+      "Meanings": [
+        "مخارج سیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "political insurance",
+      "Meanings": [
+        "بیمه سیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "political risk",
+      "Meanings": [
+        "ریسک سیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "politicalization of standard setting",
+      "Meanings": [
+        "جریان سیاسی تدوین استانداردها"
+      ]
+    },
+    {
+      "EnglishWord": "pool rate",
+      "Meanings": [
+        "نرخ مرکز هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "pooled approach",
+      "Meanings": [
+        "روش اتحاد منافع روش یگانه روش متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "pooled investments",
+      "Meanings": [
+        "سرمایه گذاریهای متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "pooling of interests method",
+      "Meanings": [
+        "روش اتحاد منافع"
+      ]
+    },
+    {
+      "EnglishWord": "population",
+      "Meanings": [
+        "جامعه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "population of interest",
+      "Meanings": [
+        "جامعه آماری مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio construction",
+      "Meanings": [
+        "تشکیل پرتفوی ایجاد مجموعه سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio manager",
+      "Meanings": [
+        "مدیر پرتفوی"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio performance evaluation",
+      "Meanings": [
+        "ارزیابی عملکرد مجوعه سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio return",
+      "Meanings": [
+        "بازده پرتفوی مجموعه سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio revision",
+      "Meanings": [
+        "بازنگری در پرتفوی"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio theory",
+      "Meanings": [
+        "تیوری پرتفوی نظریه مجموعه سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio turnover rate",
+      "Meanings": [
+        "ضریب گردش مجموعه سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "positive accounting research",
+      "Meanings": [
+        "تحقیقات توصیفی/ اثباتی حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "positive accounting theory",
+      "Meanings": [
+        "تیوری اثباتی حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "positive confirmation",
+      "Meanings": [
+        "تاییدیه مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive signal",
+      "Meanings": [
+        "علامت/ پیغام مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive theories",
+      "Meanings": [
+        "تیوری‌های اثباتی توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "post audit",
+      "Meanings": [
+        "حسابرسی حین اجرای طرح حسابرسی عملیاتی پروژه ها"
+      ]
+    },
+    {
+      "EnglishWord": "post balance sheet events",
+      "Meanings": [
+        "رویدادهای بعد از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "post balance sheet period",
+      "Meanings": [
+        "دوره بعد از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "post closing trial balance",
+      "Meanings": [
+        "ترازنامه آزمایشی اختتامی تراز آزمایشی پس از بستن حسابها و انجام ثبتهای تعدیلی"
+      ]
+    },
+    {
+      "EnglishWord": "post dated checks",
+      "Meanings": [
+        "چک مدات دار"
+      ]
+    },
+    {
+      "EnglishWord": "post deduct costing",
+      "Meanings": [
+        "هزینه یابی تاخیری هزینه یابی معکوس هزینه یابی دیرهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "post implementation costs",
+      "Meanings": [
+        "مخارج بعد از اجرا پیاده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "post investment audit",
+      "Meanings": [
+        "حسابرسی بعد از سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "post manufacturing costs",
+      "Meanings": [
+        "هزینه‌های بعد از تولید"
+      ]
+    },
+    {
+      "EnglishWord": "post purchase costs",
+      "Meanings": [
+        "هزینه بعد از حرید"
+      ]
+    },
+    {
+      "EnglishWord": "posterior probabilities",
+      "Meanings": [
+        "احتمالات پسین"
+      ]
+    },
+    {
+      "EnglishWord": "posting",
+      "Meanings": [
+        "نقل از دفتر روزنامه به دفتر کل"
+      ]
+    },
+    {
+      "EnglishWord": "postulate",
+      "Meanings": [
+        "اصل/ فرض بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "potential",
+      "Meanings": [
+        "بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potential conflict of interest",
+      "Meanings": [
+        "تضاد منافع بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potential interest",
+      "Meanings": [
+        "بهره بالقوه/ منافع بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potential investors",
+      "Meanings": [
+        "سرمایه گذارران بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potential liability",
+      "Meanings": [
+        "بدهی بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "potentially dilutive securities",
+      "Meanings": [
+        "اوراق بهادار بالقوه تقلیل دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "practical activity level",
+      "Meanings": [
+        "سطح فعالیت علمی"
+      ]
+    },
+    {
+      "EnglishWord": "practical capacity",
+      "Meanings": [
+        "ظرفیت علمی"
+      ]
+    },
+    {
+      "EnglishWord": "practical standards",
+      "Meanings": [
+        "استانداردها علمی/ کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "practicality",
+      "Meanings": [
+        "قابلیت کاربرد علمی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "practitioner",
+      "Meanings": [
+        "حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "pragmatic",
+      "Meanings": [
+        "تیوریهای عملگرا تیوریهای کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "pre audit",
+      "Meanings": [
+        "قبل از حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "preacquisition dividends",
+      "Meanings": [
+        "سود سهام قبل از تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "preacquisition earnings",
+      "Meanings": [
+        "ذخیره‌های احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "precedent",
+      "Meanings": [
+        "رویه قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "preceding costs",
+      "Meanings": [
+        "هزینه‌های قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "predatory pricing",
+      "Meanings": [
+        "قیمت گذاری غارتگرانه"
+      ]
+    },
+    {
+      "EnglishWord": "predecessor auditor",
+      "Meanings": [
+        "حسابرسی قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "predetermined overhead application rate",
+      "Meanings": [
+        "نرخ از پیش تعیین شده جذب سربار"
+      ]
+    },
+    {
+      "EnglishWord": "prediction measures",
+      "Meanings": [
+        "معیارهای پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "predictive value",
+      "Meanings": [
+        "ارزش پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "predictor",
+      "Meanings": [
+        "عامل پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "preemptive right",
+      "Meanings": [
+        "حق تقدم در خرید حق تقدم خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "preference as to assets in the event of liquidation",
+      "Meanings": [
+        "اولویت در دریافت داراییها به هنگام انحلال شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "preference as to dividends",
+      "Meanings": [
+        "اولویت در دریافت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "preferential timeseter",
+      "Meanings": [
+        "حق تقدم یا اولویت در پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "preferred habitat theory",
+      "Meanings": [
+        "تیوری زیستگاه ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "preferred portfolio",
+      "Meanings": [
+        "مجموعه سرمایه گذاری ارجح پورتفوی ارحج سبد سرمایه گذاری ارحج/ ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "preferred stock",
+      "Meanings": [
+        "سهام ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "prejudice",
+      "Meanings": [
+        "پیشداوری"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary computer system examination",
+      "Meanings": [
+        "رسیدگی مقدماتی به سیستمهای کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary control evaluation",
+      "Meanings": [
+        "ارزیابی مقدماتی سیستم کنترلهای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary judgment about materiality",
+      "Meanings": [
+        "قضاوت اولیه درباره سطح اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary planning procedures",
+      "Meanings": [
+        "روشهای برنامه ریزی اولیه/ مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary stage costs",
+      "Meanings": [
+        "مخارج مرحله مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary study",
+      "Meanings": [
+        "مطالعه مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary system examination",
+      "Meanings": [
+        "رسیدگی مقدماتی به سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "preliminary views",
+      "Meanings": [
+        "دیدگاهها/ نقطه نظرات اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "premium",
+      "Meanings": [
+        "صرف حق بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "premium on common stock",
+      "Meanings": [
+        "صرف سهام عادی"
+      ]
+    },
+    {
+      "EnglishWord": "prepaid expense",
+      "Meanings": [
+        "پیش پرداخت هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "prepaid taxes",
+      "Meanings": [
+        "پیش پرداخت مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "prepayment",
+      "Meanings": [
+        "پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "prepayment advance payment",
+      "Meanings": [
+        "پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "prepayment current year",
+      "Meanings": [
+        "پیش پرداخت سال جاری"
+      ]
+    },
+    {
+      "EnglishWord": "prepayment prior years",
+      "Meanings": [
+        "پیش پرداخت سنواتی"
+      ]
+    },
+    {
+      "EnglishWord": "prescriptive approach",
+      "Meanings": [
+        "روش تجویزی"
+      ]
+    },
+    {
+      "EnglishWord": "present fairly",
+      "Meanings": [
+        "مطلوبیت ارایه"
+      ]
+    },
+    {
+      "EnglishWord": "present value  pv",
+      "Meanings": [
+        "ارزش فعلی"
+      ]
+    },
+    {
+      "EnglishWord": "present value index",
+      "Meanings": [
+        "شاخص ارزش فعلی"
+      ]
+    },
+    {
+      "EnglishWord": "present value interest factor  pvif",
+      "Meanings": [
+        "عامل بهره ارزش فعلی"
+      ]
+    },
+    {
+      "EnglishWord": "present value of a single amount",
+      "Meanings": [
+        "ارزش فعلی مبلغ واحد"
+      ]
+    },
+    {
+      "EnglishWord": "present value of an ordinary annuity",
+      "Meanings": [
+        "ارزش فعلی اقساط مساوی قابل دریافت/ پرداخت در پایان دوره"
+      ]
+    },
+    {
+      "EnglishWord": "present value of deferred annuity",
+      "Meanings": [
+        "ارزش فعلی اقساط مساوی به دوره‌های آتی"
+      ]
+    },
+    {
+      "EnglishWord": "present value of expected cash flows",
+      "Meanings": [
+        "ارزش فعلی جریانهای نقدی مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "presentation",
+      "Meanings": [
+        "نحوه ارایه"
+      ]
+    },
+    {
+      "EnglishWord": "presentation and disclosure",
+      "Meanings": [
+        "نحوه ارایه و افشا"
+      ]
+    },
+    {
+      "EnglishWord": "presents fairly",
+      "Meanings": [
+        "به نحو مطلوب نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "presents fairly concept",
+      "Meanings": [
+        "مفهوم به نحو مطلوب نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "president",
+      "Meanings": [
+        "مدیر عامل"
+      ]
+    },
+    {
+      "EnglishWord": "pretax accounting income",
+      "Meanings": [
+        "سود حسابداری قبل از کسر مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "pretax yield",
+      "Meanings": [
+        "بازده قبل از کسر مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "prevention costs",
+      "Meanings": [
+        "هزینه‌های پیشگیری"
+      ]
+    },
+    {
+      "EnglishWord": "preventive controls",
+      "Meanings": [
+        "کنترلهای پیشگیر"
+      ]
+    },
+    {
+      "EnglishWord": "previous department cost",
+      "Meanings": [
+        "بهای تمام شده دایره قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "previously recognized",
+      "Meanings": [
+        "قبلا شناسایی شده"
+      ]
+    },
+    {
+      "EnglishWord": "price adjustment",
+      "Meanings": [
+        "تعدیل قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price discrimination",
+      "Meanings": [
+        "تمایز قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price earning ratio  pe  ratio",
+      "Meanings": [
+        "نسبت قیمت بازار هر سهم به سود هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "price earnings multiple approach",
+      "Meanings": [
+        "روش ضریب قیمت به سود"
+      ]
+    },
+    {
+      "EnglishWord": "price earnings ratio",
+      "Meanings": [
+        "نسبت قیمت هر سهم به سود هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "price elasticity of demand",
+      "Meanings": [
+        "کشش پذیری قیمت تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "price fixing",
+      "Meanings": [
+        "تثبیت قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price floor",
+      "Meanings": [
+        "حد پایین قیمت قیمت کف"
+      ]
+    },
+    {
+      "EnglishWord": "price fluctuation risk",
+      "Meanings": [
+        "ریسک ناشی از نوسان قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price gauging",
+      "Meanings": [
+        "سنجش قیمت تخمین قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price impact",
+      "Meanings": [
+        "اثر قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price index",
+      "Meanings": [
+        "شاخص قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price protection",
+      "Meanings": [
+        "مصونیت قیمتی"
+      ]
+    },
+    {
+      "EnglishWord": "price relative",
+      "Meanings": [
+        "قیمت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "price standard",
+      "Meanings": [
+        "استاندارد قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price taker",
+      "Meanings": [
+        "قیمت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "price variance",
+      "Meanings": [
+        "انحراف قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price volume variance",
+      "Meanings": [
+        "انحراف حجم قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "price weighted market index",
+      "Meanings": [
+        "شاخص مبتنی بر میانگین موزون قیمت اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "primary",
+      "Meanings": [
+        "اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary audit objective",
+      "Meanings": [
+        "هدف اصلی/ اولیه حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "primary market",
+      "Meanings": [
+        "بازار اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary offering",
+      "Meanings": [
+        "عرضه اولیه اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "primary quality",
+      "Meanings": [
+        "کیفیت اولیه ویژگی کیفی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary user groups",
+      "Meanings": [
+        "گروه‌های اولیه استفاده کننده"
+      ]
+    },
+    {
+      "EnglishWord": "prime costs",
+      "Meanings": [
+        "هزینه‌های اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "principal",
+      "Meanings": [
+        "مالک عمده/ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principal agent relationship",
+      "Meanings": [
+        "رابطه مالک و مدیر رابطه ارباب و رعیت رابطه نمایندگی"
+      ]
+    },
+    {
+      "EnglishWord": "principal auditor",
+      "Meanings": [
+        "حسابرسی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "principles",
+      "Meanings": [
+        "اصول"
+      ]
+    },
+    {
+      "EnglishWord": "principles of accounting",
+      "Meanings": [
+        "اصول حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "principles of auditing",
+      "Meanings": [
+        "اصول حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "principles of consolidation",
+      "Meanings": [
+        "اصول تلفیق"
+      ]
+    },
+    {
+      "EnglishWord": "principles of managerial finance",
+      "Meanings": [
+        "اصول مدیریت مالی"
+      ]
+    },
+    {
+      "EnglishWord": "prior period adjustment",
+      "Meanings": [
+        "تعدیل دوره قبل تعدیل سنواتی"
+      ]
+    },
+    {
+      "EnglishWord": "prior probabilities",
+      "Meanings": [
+        "احتمالات پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "prior service cost",
+      "Meanings": [
+        "هزینه خدمت سنوات قبل"
+      ]
+    },
+    {
+      "EnglishWord": "priority incremental budget",
+      "Meanings": [
+        "بودجه تفاضلی اولویت ها"
+      ]
+    },
+    {
+      "EnglishWord": "private accountant",
+      "Meanings": [
+        "حسابدار خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "private accounting",
+      "Meanings": [
+        "حسابداری خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "private bodies",
+      "Meanings": [
+        "نهادهای خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "private contracting",
+      "Meanings": [
+        "انعقاد قراردادهای خاص"
+      ]
+    },
+    {
+      "EnglishWord": "private placement",
+      "Meanings": [
+        "عرضه خصوصی سهام"
+      ]
+    },
+    {
+      "EnglishWord": "private securities litigation reform act",
+      "Meanings": [
+        "قانون اصلاحیه پیگرد قانون اوراق بهادار بخش خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "privately owned corporations",
+      "Meanings": [
+        "شرکتهای سهامی خاص"
+      ]
+    },
+    {
+      "EnglishWord": "privileged information",
+      "Meanings": [
+        "اطلاعات ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "privity",
+      "Meanings": [
+        "رابطه حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "pro forma amounts",
+      "Meanings": [
+        "مبالغ پیش بین شده"
+      ]
+    },
+    {
+      "EnglishWord": "pro forma data",
+      "Meanings": [
+        "اطلاعات دادهای فرضی/ پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "pro forma effects of retroactive application",
+      "Meanings": [
+        "آثار فرضی بکاریگیری مبتنی بر تسری به دوره‌های قبل"
+      ]
+    },
+    {
+      "EnglishWord": "pro forma invoice",
+      "Meanings": [
+        "صورتحساب موقت پیش فاکتور"
+      ]
+    },
+    {
+      "EnglishWord": "pro forma statements",
+      "Meanings": [
+        "صورتهای مالی پیش بینی شده فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "pro formats",
+      "Meanings": [
+        "صورتهای مالی فرضی یا پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic forecasting",
+      "Meanings": [
+        "پیش بینی مبتنی بر احتمالات"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic sample selection",
+      "Meanings": [
+        "انتخاب نمونه براساس احتمالات آماری"
+      ]
+    },
+    {
+      "EnglishWord": "probability",
+      "Meanings": [
+        "احتمال وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "probability distribution",
+      "Meanings": [
+        "توزیع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability of bankruptcy",
+      "Meanings": [
+        "احتمال ورشکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "probability proportion to size sample selection  pps",
+      "Meanings": [
+        "انتخاب نمونه به روش احتمال متناسب با اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "probable",
+      "Meanings": [
+        "محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "probity audit",
+      "Meanings": [
+        "حسابرسی صحت"
+      ]
+    },
+    {
+      "EnglishWord": "problem delineation",
+      "Meanings": [
+        "تشریح و بیان موضوع مساله"
+      ]
+    },
+    {
+      "EnglishWord": "procedural  executional  activities",
+      "Meanings": [
+        "فعالیتهای اجرایی"
+      ]
+    },
+    {
+      "EnglishWord": "procedural to obtain an understanding",
+      "Meanings": [
+        "روشهای کسب شناخت"
+      ]
+    },
+    {
+      "EnglishWord": "procedural to obtain an understanding of internal control",
+      "Meanings": [
+        "روش‌های کسب شناخت از کنترلهای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "proceeds from  ...",
+      "Meanings": [
+        "… عایدات حاصل از"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "فرایند مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "process benchmarking",
+      "Meanings": [
+        "الگوگزینی فرایند مقایسه فرایند با الگوی برگزیده"
+      ]
+    },
+    {
+      "EnglishWord": "process cost systems",
+      "Meanings": [
+        "سیستمهای هزینه یابی مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process costing principles",
+      "Meanings": [
+        "اصول هزینه یابی مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process costing system",
+      "Meanings": [
+        "سیستم هزینه یابی مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process improvement",
+      "Meanings": [
+        "بهبود فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process innovation",
+      "Meanings": [
+        "نوسازی فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process map",
+      "Meanings": [
+        "تصویر فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process productivity",
+      "Meanings": [
+        "بهره وری فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process productivity analysis",
+      "Meanings": [
+        "تجزیه و تحلیل بهره وری فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process quality yield",
+      "Meanings": [
+        "بازده کیفیت فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "process value analysis",
+      "Meanings": [
+        "تجریه و تحلیل ارزش فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "processing controls",
+      "Meanings": [
+        "کنترلهای پردازشی"
+      ]
+    },
+    {
+      "EnglishWord": "processing time",
+      "Meanings": [
+        "زمان پردازش"
+      ]
+    },
+    {
+      "EnglishWord": "procontract works",
+      "Meanings": [
+        "کارهای قبل از قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "producing department",
+      "Meanings": [
+        "دایره تولیدی نام دیگر دایره عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "product complexity",
+      "Meanings": [
+        "پیچیدگی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product contribution margin",
+      "Meanings": [
+        "حاشیه فروش محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product cost",
+      "Meanings": [
+        "بهای تمام شده محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product cost cross subsidization",
+      "Meanings": [
+        "یارانه دهی به هزینه محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product costing methods",
+      "Meanings": [
+        "روشهای هزینه یابی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product diversity",
+      "Meanings": [
+        "تنوع محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product financing arrangement",
+      "Meanings": [
+        "قرارداد تامین مالی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product level drivers",
+      "Meanings": [
+        "محرکهای سطح محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product level sustaining activities",
+      "Meanings": [
+        "فعالیتهای نگهداری سطح محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product life cycle",
+      "Meanings": [
+        "چرخه حیات محصول دوره عمر محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product line",
+      "Meanings": [
+        "خط تولید"
+      ]
+    },
+    {
+      "EnglishWord": "product line margin",
+      "Meanings": [
+        "حاشیه فروش خط تولید"
+      ]
+    },
+    {
+      "EnglishWord": "product master",
+      "Meanings": [
+        "محصول عمده یا اصلی مارک محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product or process level cost",
+      "Meanings": [
+        "هزینه سطح محصول یا فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "product overcosting",
+      "Meanings": [
+        "هزینه یابی بیش از واقع محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product undercosting",
+      "Meanings": [
+        "هزینه یابی کمتر از واقع محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product variety",
+      "Meanings": [
+        "تنوع محصول"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production budget",
+      "Meanings": [
+        "بودجه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production denominator level",
+      "Meanings": [
+        "سطح فعالیت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production denominator volume",
+      "Meanings": [
+        "حجم فعالیت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production line rearrangement costs",
+      "Meanings": [
+        "مخارج تجدید آرایش جابجایی خط تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production or use method",
+      "Meanings": [
+        "روش تولید یا مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "production overhead",
+      "Meanings": [
+        "سربار تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production report",
+      "Meanings": [
+        "گزارش تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production scheduling",
+      "Meanings": [
+        "زمانبندی تولید تهیه جدول زمانی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production volume variance",
+      "Meanings": [
+        "انحراف حجم تولید"
+      ]
+    },
+    {
+      "EnglishWord": "productive capacity",
+      "Meanings": [
+        "ظرفیت مولد ظرفیت تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "productive output",
+      "Meanings": [
+        "آحاد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "productive processing time",
+      "Meanings": [
+        "زمان پردازش تولید"
+      ]
+    },
+    {
+      "EnglishWord": "productivity",
+      "Meanings": [
+        "بهره وری"
+      ]
+    },
+    {
+      "EnglishWord": "productivity measurement",
+      "Meanings": [
+        "اندازه گیری/ سنجش بهره وری"
+      ]
+    },
+    {
+      "EnglishWord": "profession",
+      "Meanings": [
+        "حرفه"
+      ]
+    },
+    {
+      "EnglishWord": "professional bodies",
+      "Meanings": [
+        "نهادهای حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional constituencies",
+      "Meanings": [
+        "تشکیلات حرفه ای سازمانهای حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional corporation",
+      "Meanings": [
+        "شرکت سهامی حرفه ای تخصصی"
+      ]
+    },
+    {
+      "EnglishWord": "professional influence",
+      "Meanings": [
+        "نفوذ حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional investors",
+      "Meanings": [
+        "سرمایه گذاران حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional money manager",
+      "Meanings": [
+        "مدیریت حرفه ای پول"
+      ]
+    },
+    {
+      "EnglishWord": "professional reputation",
+      "Meanings": [
+        "شهرت حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional responsibilities",
+      "Meanings": [
+        "مسولیتهای حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional silence",
+      "Meanings": [
+        "رازداری حرفه ای سکوت حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professional skepticism",
+      "Meanings": [
+        "تردید حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "professionalism",
+      "Meanings": [
+        "حرفه گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "profession's position",
+      "Meanings": [
+        "جایگاه حرفه موقعیت حرفه"
+      ]
+    },
+    {
+      "EnglishWord": "profile measurement",
+      "Meanings": [
+        "سنجش وضعیت موجود"
+      ]
+    },
+    {
+      "EnglishWord": "profit",
+      "Meanings": [
+        "سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit and loss account",
+      "Meanings": [
+        "حساب سود و زیان"
+      ]
+    },
+    {
+      "EnglishWord": "profit and loss sharing ratios",
+      "Meanings": [
+        "نسبتهای تقسیم سود و زیان"
+      ]
+    },
+    {
+      "EnglishWord": "profit center",
+      "Meanings": [
+        "مرکز سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit linked productivity measurement",
+      "Meanings": [
+        "اندازه گیری بهره وری وابسته به سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit margin",
+      "Meanings": [
+        "سود ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "profit maximization",
+      "Meanings": [
+        "حداکثرسازی سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit on uncompleted contract",
+      "Meanings": [
+        "سود پیمان تکمیل نشده"
+      ]
+    },
+    {
+      "EnglishWord": "profit oriented enterprises",
+      "Meanings": [
+        "واحدهای تجاری انتفاعی"
+      ]
+    },
+    {
+      "EnglishWord": "profit seeking",
+      "Meanings": [
+        "سودطلبی انتفاعی"
+      ]
+    },
+    {
+      "EnglishWord": "profit seeking enterprises firms",
+      "Meanings": [
+        "واحدهای اقتصادی انتفاعی"
+      ]
+    },
+    {
+      "EnglishWord": "profit sharing",
+      "Meanings": [
+        "تقسیم سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit volume graph",
+      "Meanings": [
+        "نمودار رابطه سود و حجم"
+      ]
+    },
+    {
+      "EnglishWord": "profitability index  pi",
+      "Meanings": [
+        "شاخص سودآوری"
+      ]
+    },
+    {
+      "EnglishWord": "profitability ratios",
+      "Meanings": [
+        "نسبتهای سودآوری"
+      ]
+    },
+    {
+      "EnglishWord": "program audit",
+      "Meanings": [
+        "حسابرسی برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program budget",
+      "Meanings": [
+        "بودجه برنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "program budgeting",
+      "Meanings": [
+        "بودجه بندی برنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "program flowchart",
+      "Meanings": [
+        "نمودار گردش عملیات برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program me analysis techniques",
+      "Meanings": [
+        "فنون تجزیه و تحلیل برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program me audit",
+      "Meanings": [
+        "حسابرسی اثربخشی برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program me compilation",
+      "Meanings": [
+        "تدوین برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program payment",
+      "Meanings": [
+        "پرداخت در ازای درصد پیشرفت کار"
+      ]
+    },
+    {
+      "EnglishWord": "program trading",
+      "Meanings": [
+        "داد و ستد براساس برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "programmed delivery dates",
+      "Meanings": [
+        "برنامه زمانبندی شده تحویل محصول به مشتریان"
+      ]
+    },
+    {
+      "EnglishWord": "project",
+      "Meanings": [
+        "پروژه طرح"
+      ]
+    },
+    {
+      "EnglishWord": "project audit",
+      "Meanings": [
+        "حسابرسی پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project performance cost variance",
+      "Meanings": [
+        "انحراف هزینه عملکرد/ اجرای پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project schedule",
+      "Meanings": [
+        "جدول زمانبندی شده اجرای پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "projected annual income",
+      "Meanings": [
+        "سود/ درآمد برآورده شده یالانه"
+      ]
+    },
+    {
+      "EnglishWord": "projected benefit obligation  pbo",
+      "Meanings": [
+        "بدهی مزایای پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "projected error",
+      "Meanings": [
+        "خطای تعمیم یافته"
+      ]
+    },
+    {
+      "EnglishWord": "projected misstatement",
+      "Meanings": [
+        "تحریف پیش بینی شده/ تعمیم یافته"
+      ]
+    },
+    {
+      "EnglishWord": "projection financial",
+      "Meanings": [
+        "گزارشهای مالی فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "projections",
+      "Meanings": [
+        "پیش بینی ها"
+      ]
+    },
+    {
+      "EnglishWord": "promised yield to maturity",
+      "Meanings": [
+        "بازده وعده داده شده تا تاریخ سررسید"
+      ]
+    },
+    {
+      "EnglishWord": "promising investment opportunities",
+      "Meanings": [
+        "فرصتهای نویدبخش سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "promissory note",
+      "Meanings": [
+        "سفته برات"
+      ]
+    },
+    {
+      "EnglishWord": "promote",
+      "Meanings": [
+        "تبلیغ کردن ترفیع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "promoter",
+      "Meanings": [
+        "موسس بنیانگذار"
+      ]
+    },
+    {
+      "EnglishWord": "promotion costs",
+      "Meanings": [
+        "مخارج هزینه‌های تبلیغات"
+      ]
+    },
+    {
+      "EnglishWord": "proof of cash",
+      "Meanings": [
+        "صورت مغایرت بانکی چهار ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "proof of cash receipts",
+      "Meanings": [
+        "صورت مغایرت دریافتهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "plant and equipment ppe"
+      ]
+    },
+    {
+      "EnglishWord": "property dividend",
+      "Meanings": [
+        "سود سهام غیرنقدی"
+      ]
+    },
+    {
+      "EnglishWord": "property dividends payable",
+      "Meanings": [
+        "سود سهام پرداختنی غیرنقدی"
+      ]
+    },
+    {
+      "EnglishWord": "property rights approach",
+      "Meanings": [
+        "روش حقوق مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "property tax",
+      "Meanings": [
+        "مالیات بر اموال"
+      ]
+    },
+    {
+      "EnglishWord": "proponents",
+      "Meanings": [
+        "طرفداران حامیان"
+      ]
+    },
+    {
+      "EnglishWord": "proportional method",
+      "Meanings": [
+        "روش نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "proportional performance method",
+      "Meanings": [
+        "روش عملکرد نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "proportionate ...",
+      "Meanings": [
+        "متناسب با"
+      ]
+    },
+    {
+      "EnglishWord": "proportionate or prorate consolidation",
+      "Meanings": [
+        "تلفیق نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "proprieary accounts",
+      "Meanings": [
+        "حسابهای سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "proprieary funds",
+      "Meanings": [
+        "حسابهای مستقل وجود سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "proprieary theory",
+      "Meanings": [
+        "تیوری مالکیت انفرادی"
+      ]
+    },
+    {
+      "EnglishWord": "proprietorship",
+      "Meanings": [
+        "واحد اقتصادی تک مالکی مالکیت انفرادی موسسه تک مالکی"
+      ]
+    },
+    {
+      "EnglishWord": "pros and cons",
+      "Meanings": [
+        "نقاط قوت و ضعف/ جنبه‌های مثبت و منفی"
+      ]
+    },
+    {
+      "EnglishWord": "prospect theory",
+      "Meanings": [
+        "تیوری چشم انداز تیوری مشتری احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "prospective approach",
+      "Meanings": [
+        "روش تسری به دوره‌های آینده"
+      ]
+    },
+    {
+      "EnglishWord": "prospective basis",
+      "Meanings": [
+        "تسری به دوره‌های آینده"
+      ]
+    },
+    {
+      "EnglishWord": "prospective financial information",
+      "Meanings": [
+        "اطلاعات مالی برآوردی"
+      ]
+    },
+    {
+      "EnglishWord": "prospective financial statements",
+      "Meanings": [
+        "صورتهای مالی برآوردی"
+      ]
+    },
+    {
+      "EnglishWord": "prospectus",
+      "Meanings": [
+        "آگهی پذیره نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "protective role",
+      "Meanings": [
+        "نقش حفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "protest fee",
+      "Meanings": [
+        "حق الزحمه واخواست/ اعتراض"
+      ]
+    },
+    {
+      "EnglishWord": "provision",
+      "Meanings": [
+        "ذخیره شرط"
+      ]
+    },
+    {
+      "EnglishWord": "provision for accrued expenses",
+      "Meanings": [
+        "ذخیره هزینه‌های معوق"
+      ]
+    },
+    {
+      "EnglishWord": "provision for bad debts",
+      "Meanings": [
+        "ذخیره مطالبات مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "provision for foreseeable losses",
+      "Meanings": [
+        "ذخیره زیانهای قابل پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "provision for loan losses",
+      "Meanings": [
+        "ذخیره زیان‌های وام"
+      ]
+    },
+    {
+      "EnglishWord": "provision for staff termination benefits",
+      "Meanings": [
+        "ذخیره مزایای پایان خدمت کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "provision for vested benefits",
+      "Meanings": [
+        "ذخیره مزایای قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "provisional hand over",
+      "Meanings": [
+        "تحویل موقت"
+      ]
+    },
+    {
+      "EnglishWord": "provisional monthly statement",
+      "Meanings": [
+        "صورت وضعیت موقت ماهانه"
+      ]
+    },
+    {
+      "EnglishWord": "provisional take over acceptance",
+      "Meanings": [
+        "تحویل موقت"
+      ]
+    },
+    {
+      "EnglishWord": "proximate cause",
+      "Meanings": [
+        "علت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "proxy",
+      "Meanings": [
+        "وکالتنامه جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "proxy fight",
+      "Meanings": [
+        "جمع آوری وکالتنامه"
+      ]
+    },
+    {
+      "EnglishWord": "proxy statements",
+      "Meanings": [
+        "برگه‌های درخواست وکالتنامه جهت انتخاب اعضای هیات مدیره"
+      ]
+    },
+    {
+      "EnglishWord": "proxy variables",
+      "Meanings": [
+        "متغیرهای جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "prudence",
+      "Meanings": [
+        "دوراندیشی احتیاط"
+      ]
+    },
+    {
+      "EnglishWord": "prudent person concept",
+      "Meanings": [
+        "مفهوم شخص دوراندیش و محتاط"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo participation",
+      "Meanings": [
+        "مشارکت کاذب"
+      ]
+    },
+    {
+      "EnglishWord": "public",
+      "Meanings": [
+        "عامه جامعه دولتی"
+      ]
+    },
+    {
+      "EnglishWord": "public accounting",
+      "Meanings": [
+        "حسابداری حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "public company",
+      "Meanings": [
+        "شرکت سهامی عام"
+      ]
+    },
+    {
+      "EnglishWord": "public good",
+      "Meanings": [
+        "کالای عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "public information",
+      "Meanings": [
+        "اطلاعات در دسترس عموم اطلاعات عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "public oversight board  pob",
+      "Meanings": [
+        "هیات ناظر بر فعالتهای شرکتهای سهامی عام"
+      ]
+    },
+    {
+      "EnglishWord": "public trust fund",
+      "Meanings": [
+        "حساب مستقل وجوه امانی عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "public utility companies",
+      "Meanings": [
+        "شرکتهای عام المنفعه شرکتهای تولیدکننده/ ارایه دهنده/ کالا یا خدمات عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "publicity and attention",
+      "Meanings": [
+        "کسب و شهرت و جلب افکار عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "publicly available information",
+      "Meanings": [
+        "اطلاعات عمومی اطلاعات قابل دسترسی برای عموم"
+      ]
+    },
+    {
+      "EnglishWord": "publicly held corporation",
+      "Meanings": [
+        "شرکت سهامی عام"
+      ]
+    },
+    {
+      "EnglishWord": "pull system",
+      "Meanings": [
+        "سیستم کششی"
+      ]
+    },
+    {
+      "EnglishWord": "purchase allowance",
+      "Meanings": [
+        "تخفیف خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase commitment losses",
+      "Meanings": [
+        "زیان‌های ناشی از تعهدات خرید کالا"
+      ]
+    },
+    {
+      "EnglishWord": "purchase commitments",
+      "Meanings": [
+        "تعهدات خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase costs",
+      "Meanings": [
+        "هزینه‌های خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase cutoff test",
+      "Meanings": [
+        "آزمون انقطاع زمانی خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase discounts",
+      "Meanings": [
+        "تخفیفات خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase discounts not taken",
+      "Meanings": [
+        "تخفیفات استفاده نشده خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase journal",
+      "Meanings": [
+        "دفتر روزنامه خریدها"
+      ]
+    },
+    {
+      "EnglishWord": "purchase order",
+      "Meanings": [
+        "سفارش خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase order lead time",
+      "Meanings": [
+        "زمان تحویل سفارش خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase requisition",
+      "Meanings": [
+        "درخواست خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase return",
+      "Meanings": [
+        "برگشت از خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase returns and allowances",
+      "Meanings": [
+        "برگشتیها و تخفیفات خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchased goodwill",
+      "Meanings": [
+        "سرقفلی خریداری شده"
+      ]
+    },
+    {
+      "EnglishWord": "purchased preacquistion earnings",
+      "Meanings": [
+        "سود خریداری شده قبل از تحصیل"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing cost",
+      "Meanings": [
+        "بهای تمام شده خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing department",
+      "Meanings": [
+        "دایره خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing power gains and losses",
+      "Meanings": [
+        "سود و زیانهای ناشی از قدرت خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing power loss",
+      "Meanings": [
+        "زیان ناشی از کاهش قدرت خرید پول"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing power risk",
+      "Meanings": [
+        "ریسک ناشی از قدرت خرید"
+      ]
+    },
+    {
+      "EnglishWord": "pure discount security",
+      "Meanings": [
+        "اوراق بهادار با تخفیف هنگفت"
+      ]
+    },
+    {
+      "EnglishWord": "push down accounting",
+      "Meanings": [
+        "حسابداری تعدیل ارزش دفتری شرکت فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "push system",
+      "Meanings": [
+        "سیستم فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "put call parity",
+      "Meanings": [
+        "دوگانگی حق/ اختیار فروش و خرید اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "put option",
+      "Meanings": [
+        "گواهینامه اختیار فروش و یا عدم فروش سهام"
+      ]
+    },
+    {
+      "EnglishWord": "pv chart",
+      "Meanings": [
+        "نمودار رابطه بین سود و حجم"
+      ]
+    },
+    {
+      "EnglishWord": "pyramiding",
+      "Meanings": [
+        "هرم بندی"
+      ]
+    }
+  ]
+}

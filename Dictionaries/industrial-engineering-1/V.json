@@ -1,0 +1,460 @@
+﻿{
+  "Group": "V",
+  "Entries": 63,
+  "Words": [
+    {
+      "EnglishWord": "vacuum casting",
+      "Meanings": [
+        "فولادریزی در خلا",
+        "ریخته گری در خلا",
+        "ریخته گری مکشی"
+      ]
+    },
+    {
+      "EnglishWord": "vacuum deposition",
+      "Meanings": [
+        "رسوب در خلا",
+        "فلز نشانی در خلا"
+      ]
+    },
+    {
+      "EnglishWord": "vacuum forming",
+      "Meanings": [
+        "فرم دادن مکشی"
+      ]
+    },
+    {
+      "EnglishWord": "validation",
+      "Meanings": [
+        "معتبر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "validity",
+      "Meanings": [
+        "اعتبار",
+        "روایی",
+        "مدت اعتبار",
+        "رسایی",
+        "صحت",
+        "قوت قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "مقدار",
+        "ارزش",
+        "بها",
+        "قیمت"
+      ]
+    },
+    {
+      "EnglishWord": "value added",
+      "Meanings": [
+        "ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "value analysis",
+      "Meanings": [
+        "تحلیل کمی",
+        "تحلیل مقداری",
+        "آنالیز ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value date",
+      "Meanings": [
+        "سررسید",
+        "تاریخ اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "valve",
+      "Meanings": [
+        "سوپاپ",
+        "شیر",
+        "دریچه",
+        "سرپوش"
+      ]
+    },
+    {
+      "EnglishWord": "valve ejector",
+      "Meanings": [
+        "پران سوپاپی"
+      ]
+    },
+    {
+      "EnglishWord": "vane",
+      "Meanings": [
+        "پره"
+      ]
+    },
+    {
+      "EnglishWord": "vapor degreasing",
+      "Meanings": [
+        "چربی زدایی با بخار",
+        "چربیگیری با بخار",
+        "گریسزدایی با بخار"
+      ]
+    },
+    {
+      "EnglishWord": "variable",
+      "Meanings": [
+        "متغیر",
+        "تغییر پذیر",
+        "قابل تغییر",
+        "مقدار متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable budget",
+      "Meanings": [
+        "بودجه انعطاف پذیر",
+        "بودجه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable cost",
+      "Meanings": [
+        "هزینه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "واریانس",
+        "پراش",
+        "پخش شدگی",
+        "گونه گونی",
+        "مغایرت",
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "variance analysis",
+      "Meanings": [
+        "آنالیز واریانس",
+        "تجزیه و تحلیل مغایرت",
+        "تجزیه و تحلیل واریانس",
+        "تحلیل واریانس",
+        "تجزیه و تحلیل انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "variance ratio distribution",
+      "Meanings": [
+        "توزیع نسبت واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variant process",
+      "Meanings": [
+        "پروسه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variate",
+      "Meanings": [
+        "صفت"
+      ]
+    },
+    {
+      "EnglishWord": "variate value",
+      "Meanings": [
+        "مقدار صفت"
+      ]
+    },
+    {
+      "EnglishWord": "variation",
+      "Meanings": [
+        "تغییر",
+        "تغییرات",
+        "گوناگونی"
+      ]
+    },
+    {
+      "EnglishWord": "v-belt",
+      "Meanings": [
+        "تسمه ذوزنقه ای",
+        "تسمه V شکل"
+      ]
+    },
+    {
+      "EnglishWord": "vector",
+      "Meanings": [
+        "بردار",
+        "حامل"
+      ]
+    },
+    {
+      "EnglishWord": "vector interpolation",
+      "Meanings": [
+        "درونیابی برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector space",
+      "Meanings": [
+        "فضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vee location",
+      "Meanings": [
+        "موضعدهی V شکل"
+      ]
+    },
+    {
+      "EnglishWord": "velocity",
+      "Meanings": [
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "vendor",
+      "Meanings": [
+        "فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "vent",
+      "Meanings": [
+        "هواکش",
+        "تهویه",
+        "منفذ",
+        "تهویه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "verification",
+      "Meanings": [
+        "بازبینی",
+        "ممیزی",
+        "رسیدگی",
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "vernier bevel protractor",
+      "Meanings": [
+        "نقاله دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "vernier caliper",
+      "Meanings": [
+        "کولیس ورنیه",
+        "کولیس",
+        "کولیس اندازه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "vernier height gage",
+      "Meanings": [
+        "کولیس ارتفاع سنج"
+      ]
+    },
+    {
+      "EnglishWord": "vernier micrometer",
+      "Meanings": [
+        "ریزسنج ورنیه دار",
+        "میکرومتر ورنیه دار"
+      ]
+    },
+    {
+      "EnglishWord": "versatile",
+      "Meanings": [
+        "تطریق پذیر",
+        "شکیل",
+        "تطبیق نمودن",
+        "همه کاره"
+      ]
+    },
+    {
+      "EnglishWord": "version",
+      "Meanings": [
+        "نسخه",
+        "گونه",
+        "مدل"
+      ]
+    },
+    {
+      "EnglishWord": "vertical band machine",
+      "Meanings": [
+        "ماشین اره نواری عمودی",
+        "اره نواری عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical communication",
+      "Meanings": [
+        "ارتباط عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical growth",
+      "Meanings": [
+        "رشد عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical milling machine",
+      "Meanings": [
+        "ماشین فرز عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vexen-cut file",
+      "Meanings": [
+        "سوهان ردیف قوسی"
+      ]
+    },
+    {
+      "EnglishWord": "vibrating conveyor",
+      "Meanings": [
+        "خط نقاله لرزان"
+      ]
+    },
+    {
+      "EnglishWord": "vibration dampener",
+      "Meanings": [
+        "ضربه گیر",
+        "کمک فنر",
+        "برزه گیر",
+        "ارتعاشگیر"
+      ]
+    },
+    {
+      "EnglishWord": "vibratory bowel feeder",
+      "Meanings": [
+        "تغذیه کننده قیفی ارتعاشی",
+        "تغذیه کننده کاسه ای ارتعاشی"
+      ]
+    },
+    {
+      "EnglishWord": "vibratory rail",
+      "Meanings": [
+        "ریل مرتعش"
+      ]
+    },
+    {
+      "EnglishWord": "vibratory roller",
+      "Meanings": [
+        "غلتک لرزان"
+      ]
+    },
+    {
+      "EnglishWord": "vice",
+      "Meanings": [
+        "گیره",
+        "قید",
+        "دستگاه گیره"
+      ]
+    },
+    {
+      "EnglishWord": "vice jaw",
+      "Meanings": [
+        "فک گیره",
+        "آرواره گیره"
+      ]
+    },
+    {
+      "EnglishWord": "video display",
+      "Meanings": [
+        "نمایش تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "view",
+      "Meanings": [
+        "نما",
+        "بازنگری"
+      ]
+    },
+    {
+      "EnglishWord": "viewpoint",
+      "Meanings": [
+        "دیدگاه",
+        "نقطه دید",
+        "نقطه نظر"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity",
+      "Meanings": [
+        "ویسکوزیته",
+        "گرانوری",
+        "لزجت",
+        "قوام",
+        "لختی"
+      ]
+    },
+    {
+      "EnglishWord": "visual inspection",
+      "Meanings": [
+        "بازرسی با دیدن",
+        "بازرسی رویتی",
+        "بازرسی ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "visual review system",
+      "Meanings": [
+        "سیستم بازدید عینی"
+      ]
+    },
+    {
+      "EnglishWord": "vocal number",
+      "Meanings": [
+        "شماره مشخصات کالا"
+      ]
+    },
+    {
+      "EnglishWord": "void",
+      "Meanings": [
+        "حفره",
+        "ناخالصی"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "حجم",
+        "ظرفیت",
+        "گنجایش"
+      ]
+    },
+    {
+      "EnglishWord": "volume discount",
+      "Meanings": [
+        "تخفیف برای حجم",
+        "تخفیف حجمی"
+      ]
+    },
+    {
+      "EnglishWord": "voucher",
+      "Meanings": [
+        "سند",
+        "برگه",
+        "سند حسابداری",
+        "سند هزینه",
+        "مدرک هزینه",
+        "رسید"
+      ]
+    },
+    {
+      "EnglishWord": "v-shape",
+      "Meanings": [
+        "ناودانی"
+      ]
+    }
+  ]
+}

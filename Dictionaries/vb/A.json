@@ -1,0 +1,455 @@
+﻿{
+  "Group": "A",
+  "Entries": 61,
+  "Words": [
+    {
+      "EnglishWord": "abs",
+      "Meanings": [
+        "Abs olute",
+        "قدر مطلق",
+        "مقدار بدون علامت یک عدد را برمی‌گرداند",
+        "Abs number"
+      ]
+    },
+    {
+      "EnglishWord": "absolute",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "acs",
+      "Meanings": [
+        "فایلهای حاوی کاراکترهای Microsoft Agent"
+      ]
+    },
+    {
+      "EnglishWord": "activecontrol",
+      "Meanings": [
+        "کنترل فعال",
+        "یکی از متددهای شیء Screen که شیء فعال بر روی صفحه را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "activeform",
+      "Meanings": [
+        "فرم فعال",
+        "یکی از متددهای شیء Screen که فرم فعال بر روی صفحه را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "activex",
+      "Meanings": [
+        "استفاده از یک شیء از فایل Ocx در فرم",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "activex control",
+      "Meanings": [
+        "یکی از پسوندهای جعبه ابزار قابل استفاده برای به کار بردن هر کنترلی",
+        "برای استفاده از ActiveX از منوی Project گزینه Components را انتخاب کردن و فایل مورد نظر را تیک بزنید و روی OK کلیک کنید",
+        "برای ساخت یک ActiveX Control آن را از گزینه New Project در منوی File انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "activex controls",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "add",
+      "Meanings": [
+        "اضافه کردن",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . Add key"
+      ]
+    },
+    {
+      "EnglishWord": "add a file",
+      "Meanings": [
+        "اضافه کردن یک فایل",
+        "برای اضافه کردن یک فایل به پروژه گزینه Add File را از منوی Project انتخاب کنید یا Ctrl+D را فشار دهید",
+        "سپس فایل مورد را انتخاب کنید تا به پروژه اضافه شود"
+      ]
+    },
+    {
+      "EnglishWord": "add data report",
+      "Meanings": [
+        "گزینه ای از منوی Project برای اضافه کردن DataReport به پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "add dataenvironment",
+      "Meanings": [
+        "گزینه ای از منوی Project برای اضافه کردن DataEnvironment به پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "add form",
+      "Meanings": [
+        "اضافه کردن فرم",
+        "یکی از گزینه‌های منوی Project برای اضافه کردن یک فرم خالی یا از پیش ساخته شده"
+      ]
+    },
+    {
+      "EnglishWord": "add in manager",
+      "Meanings": [
+        "یکی از گزینه‌های درون منوی Add",
+        "Ins برای اضافه کردن و پاک کردن برنامه‌های اضافی مانند Resource Editor یا API Viewer و"
+      ]
+    },
+    {
+      "EnglishWord": "add mdi form",
+      "Meanings": [
+        "یکی از گزینه‌های منوی Project برای اضافه کردن یک فرم به برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "add module",
+      "Meanings": [
+        "اضافه کردن مدول",
+        "یکی از گزینه‌های منوی Project برای اضافه کردن یک مدول به پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "add user document",
+      "Meanings": [
+        "اضافه کردن سند کاربر",
+        "گزینه ای از منوی Project برای اضافه کردن سند کاربر به یک پروجکت"
+      ]
+    },
+    {
+      "EnglishWord": "adding project",
+      "Meanings": [
+        "برای اضافه کردن یک پروژه به برنامه تان گزینه Add Project را از منوی File انتخاب کردن و روی زبانه Exicting کلیک کنید و فایل مورد نظر را انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "add-ins",
+      "Meanings": [
+        "یکی از منوهای برنامه برای اضافه کردن و از بین بردن ابزارهای اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "additem",
+      "Meanings": [
+        "اضافه کردن آیتم",
+        "یکی از متدد‌های ListBox"
+      ]
+    },
+    {
+      "EnglishWord": "addition operator",
+      "Meanings": [
+        "عمل جمع",
+        "برای انجام عمل جمع از علامت + استفاده می‌کنیم. مانند",
+        "result = expression1 + expression"
+      ]
+    },
+    {
+      "EnglishWord": "addnew",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای اضافه کردن یک ردیف به پایگاه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "ado",
+      "Meanings": [
+        "A ctiveX D ata O bject",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "ado data control",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "adodc",
+      "Meanings": [
+        "A ctiveX D ata O bject D ata C ontrol",
+        "یک شیء ActiveX برای کار بر روی بانکهای اطلاعاتی",
+        "برای ایجاد ADO از پنجره گزینه Microsoft ADO Data Control را کلیک کنید. سپس در جعبه ابزار ADO Data Control را انتخاب کرده و در پنجره Properties گزینه ConnectionString را انتخاب کنید",
+        "در پنجره ای که ظاهر می‌شود نوع داده را مشخص کنید و OK را بزنید"
+      ]
+    },
+    {
+      "EnglishWord": "advanced optimizations",
+      "Meanings": [
+        "دکمه ای در زبانه Compile پنجره که به تنظیمات تخصصی هنگام ساخته شدن برنامه می‌پردازد"
+      ]
+    },
+    {
+      "EnglishWord": "alias",
+      "Meanings": [
+        "نام مستعار",
+        "نامی که به یک متغیر می‌دهند تا به طور سراسری در کل برنامه تعریف شود"
+      ]
+    },
+    {
+      "EnglishWord": "align",
+      "Meanings": [
+        "تنظیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "alignment",
+      "Meanings": [
+        "تنظیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "alt",
+      "Meanings": [
+        "کلید Alt"
+      ]
+    },
+    {
+      "EnglishWord": "and",
+      "Meanings": [
+        "و",
+        "جمع"
+      ]
+    },
+    {
+      "EnglishWord": "animation",
+      "Meanings": [
+        "انیمیشن",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "animation control",
+      "Meanings": [
+        "کنترلی برای اجرای فایلهای فیلم AVI",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "animationname",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "api",
+      "Meanings": [
+        "A pplication P rogramming I nterface",
+        "رابط برنامه کاربردی",
+        "توابعی که به منظور استفاده از فایلهای Dll مانند gdi32. dll یا shell32. dll و… ویندوز در ویژوال بیسیک استفاده می‌شود",
+        "برای استفاده از آنها از منوی Add",
+        "Ins گزینه Add",
+        "Ins Manager را انتخاب کنید",
+        "سپس گزینه VB 6 API Viewer را از لیست انتخاب کنید و گزینه‌های Loaded/Unloaded و Load On Startup را تیک زده و OK را بزنید",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "api type",
+      "Meanings": [
+        "جعبه کمبویی برای تعیین نوع API"
+      ]
+    },
+    {
+      "EnglishWord": "api viewer",
+      "Meanings": [
+        "برنامه ای برای کار با",
+        "برای استفاده از آن از منوی File گزینه Load Text File را انتخاب کرده و فایل WIN32API. txt را برگزینید",
+        "سپس API مورد نظر را انتخاب کرده و دکمه Add را بزنید"
+      ]
+    },
+    {
+      "EnglishWord": "app",
+      "Meanings": [
+        "App lication",
+        "برنامه",
+        "شیءیی که اطلاعاتی درباره مشخصات برنامه درون پنجره مانند عنوان و مسیر آن به ما می‌دهد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "appearance",
+      "Meanings": [
+        "ظاهر",
+        "خصیصه ای که ظاهر یک شیء را معین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "application",
+      "Meanings": [
+        "برنامه کاربردی",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "arc",
+      "Meanings": [
+        "قوس",
+        "کمان"
+      ]
+    },
+    {
+      "EnglishWord": "arccos",
+      "Meanings": [
+        "Arc Cos ine",
+        "Inverse Cosine",
+        "آرک کسینوس",
+        "برای بدست آوردن آرک کسینوس یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Arccos X = Atn",
+        "X / Sqr",
+        "X * X + 1 + 2 * Atn"
+      ]
+    },
+    {
+      "EnglishWord": "arccosec",
+      "Meanings": [
+        "Arc Cosec ant",
+        "Inverse Cosec ant",
+        "آرک کسکانت",
+        "برای بدست آوردن آرک کسکانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Arccosec X = Atn X / Sqr X * X",
+        "+ Sgn X",
+        "* 2 * Atn"
+      ]
+    },
+    {
+      "EnglishWord": "arccot",
+      "Meanings": [
+        "Arc Cot angent",
+        "Inverse Cotangent",
+        "آرک کتانژانت",
+        "برای بدست آوردن آرک کتانژانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Arccotan X = Atn X + 2 * Atn"
+      ]
+    },
+    {
+      "EnglishWord": "arccotan",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "arcsec",
+      "Meanings": [
+        "Arc Sec ant",
+        "Inverse Sec ant",
+        "آرک سکانت",
+        "برای بدست آوردن آرک سکانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Arcsec X = Atn X / Sqr X * X",
+        "+ Sgn X",
+        "* 2 * Atn"
+      ]
+    },
+    {
+      "EnglishWord": "arcsin",
+      "Meanings": [
+        "Arc Sin e",
+        "Inverse Sine",
+        "آرک سینوس",
+        "برای بدست آوردن آرک سینوس یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Arcsin X = Atn X / Sqr",
+        "X * X +"
+      ]
+    },
+    {
+      "EnglishWord": "arctangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "argument",
+      "Meanings": [
+        "آرگومان",
+        "متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "asc",
+      "Meanings": [
+        "Asc ii",
+        "کد اسکی",
+        "کد اسکی اولین کاراکتر رشته ورودی را بر میگرداند",
+        "Asc string",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "ascb",
+      "Meanings": [
+        "کد بایتی اولین کاراکتر را بر میگرداند"
+      ]
+    },
+    {
+      "EnglishWord": "ascii",
+      "Meanings": [
+        "A merican S tandard C ode for I nformation I nterchange",
+        "کد امریکایی استاندارد برای مبادله اطلاعات",
+        "کد اسکی",
+        "کدی هشت بیتی که برای هر کلید کیبورد یک عدد می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "ascw",
+      "Meanings": [
+        "این تابع کد یونیکد اولین کاراکتر را بر میگرداند"
+      ]
+    },
+    {
+      "EnglishWord": "assume no aliasing",
+      "Meanings": [
+        "یکی از گزینه‌های پنجره که مشخص می‌کند در برنامه از کدهای غیر استاندارد استفاده نشده است"
+      ]
+    },
+    {
+      "EnglishWord": "async",
+      "Meanings": [
+        "Asyn chronous C ommunication",
+        "ارتباط ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "atn",
+      "Meanings": [
+        "a rc t a n gent",
+        "آرک تانژانت \u000bخروجی این تابع عددی از نوع double است که برابر زاویه‌ای است که تانژانت آن عدد ورودی تابع است",
+        "Atn number"
+      ]
+    },
+    {
+      "EnglishWord": "autoplay",
+      "Meanings": [
+        "اجرای خودکار",
+        "یکی از متددهای Animation Control برای اجرای خودکار فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "autoredraw",
+      "Meanings": [
+        "رسم خودکار",
+        "اگر توجه کردن خطهای رسم شده روی فرم با قرار گرفتن یک قسمت بر روی آنها پاک می‌شوند با استفاده از این خصیصه آنها دیگر پاک نمی‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "autosize",
+      "Meanings": [
+        "اندازه شدن خودکار",
+        "یکی از خواص جعبه‌های عکس برای اینکه عکس را دقیقا با کادر مساوی کند"
+      ]
+    },
+    {
+      "EnglishWord": "autoverbmenu",
+      "Meanings": [
+        "یکی از خصیصه‌های Rich TextBox که اگر True باشد با کلیک راست کردن بر روی آن منویی ظاهر می‌شود"
+      ]
+    }
+  ]
+}

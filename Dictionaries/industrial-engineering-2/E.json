@@ -1,0 +1,539 @@
+﻿{
+  "Group": "E",
+  "Entries": 77,
+  "Words": [
+    {
+      "EnglishWord": "earliest due date  edd",
+      "Meanings": [
+        "زودترین موعد تحویل",
+        "روشی برای تعیین توالی فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "earned value  ev",
+      "Meanings": [
+        "ارزش کسب شده",
+        "مقدار حاصله",
+        "مقدار ارزش کار انجام شده در پروژه تا یک تاریخ مشخص معادل"
+      ]
+    },
+    {
+      "EnglishWord": "earned value cost variance  cv",
+      "Meanings": [
+        "اختلاف بین هزینه برنامه ریزی شده و هزینه واقعی پرداخت شده برای رسیدن به یک میزان پیشرفت مورد نظر در پروژه",
+        "CV=BCWP",
+        "ACWS"
+      ]
+    },
+    {
+      "EnglishWord": "earned value cost variance precent   cv",
+      "Meanings": [
+        "درصد انحراف هزینه",
+        "نسبت انحراف هزینه به هزینه بودجه بندی شده برای کار انجام شده است",
+        "CV%=*"
+      ]
+    },
+    {
+      "EnglishWord": "earned value management  evm",
+      "Meanings": [
+        "مدیریت ارزش کسب شده",
+        "A method for integrating scope, schedule, and resources, and for measuring project performance. It compares the amount of work that was planned with what was actually earned with what was actually spent to determine if cost and schedule performance are as planned"
+      ]
+    },
+    {
+      "EnglishWord": "earned value management system  evms",
+      "Meanings": [
+        "سیستم مدیریت ارزش کسب شده"
+      ]
+    },
+    {
+      "EnglishWord": "earned value schedule variance  sv",
+      "Meanings": [
+        "اختلاف بین پیشرفت برنامه جاری و برنامه خط مبنا",
+        "میزان انحراف پروژه واقعی با پروژه برنامه ریزی شده تا تاریخی مشخص\u000bSV=BCWP",
+        "BCWS"
+      ]
+    },
+    {
+      "EnglishWord": "earned value schedule variance precent  sv",
+      "Meanings": [
+        "نسبت انحراف از مقدار برنامه ریزی شده به مقدار کل بودجه برنامه ریزی شده",
+        "SV%= SV/BCWS *"
+      ]
+    },
+    {
+      "EnglishWord": "e-business",
+      "Meanings": [
+        "تجارت الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "economic",
+      "Meanings": [
+        "اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic batch quantity  ebq",
+      "Meanings": [
+        "مقدار انباشته اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic lot quantities  loq",
+      "Meanings": [
+        "تعداد محموله‌های اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic order quantity  eoq",
+      "Meanings": [
+        "مقدار سفارش اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic value added",
+      "Meanings": [
+        "ارزش افزوده اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic value added  eva",
+      "Meanings": [
+        "ارزش افزوده اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "effective resolution",
+      "Meanings": [
+        "قدرت تفکیک کارا",
+        "تفکیک پذیری موثر",
+        "اندازه دسته داده ای هنگامیکه تغییرپذیری کل سیستم اندازه گیری مورد نظر دارای تفکیک پذیری موثر باشد"
+      ]
+    },
+    {
+      "EnglishWord": "effectiveness",
+      "Meanings": [
+        "اثر بخشی",
+        "انجام کار درست"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "بازدهی",
+        "انجام درست کار"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency rate",
+      "Meanings": [
+        "نرخ کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "electro deposition",
+      "Meanings": [
+        "آرایش جدید الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electronic communication networks  ecn",
+      "Meanings": [
+        "شبکه ارتباطات الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "electronic data exchange  ede",
+      "Meanings": [
+        "مبادله الکترونیکی داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "electronic data interchange  edi",
+      "Meanings": [
+        "تبادل الکترونیکی داده‌ها",
+        "انتقال مستندات استاندارد الکترونیکی بین سیستم‌های کامپیوتری در شرکت‌ها و یا سازمانهای تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "eliminate",
+      "Meanings": [
+        "زدودن",
+        "رفع کردن",
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "emergency maintenance  em",
+      "Meanings": [
+        "تعمیرات اضطراری",
+        "عبارتست از هر فعالیت اصلاحی که به منظور بازگرداندن تجهیز به حالت اولیه خود در هنگام رخداد خرابی انجامی می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "empirical cumulative distribution function  ecdf",
+      "Meanings": [
+        "تابع تجربی توزیع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "employ",
+      "Meanings": [
+        "به کار گرفتن",
+        "استخدام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "employee",
+      "Meanings": [
+        "کارمند",
+        "کارگر",
+        "استخدام شده",
+        "مستخدم"
+      ]
+    },
+    {
+      "EnglishWord": "empowerment",
+      "Meanings": [
+        "تفویض اختیار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "end effector",
+      "Meanings": [
+        "عمل کننده نهایی",
+        "عملگر نهایی",
+        "کارگیر"
+      ]
+    },
+    {
+      "EnglishWord": "engineer to order  eto",
+      "Meanings": [
+        "مهندسی طبق سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "engineering",
+      "Meanings": [
+        "مهندسی کردن مهندسی",
+        "مهندسی عبارتست از بکارگیری اصول علمی و ریاضی برای مقاصد عملی مانند طراحی",
+        "ساخت و یا استفاده اقتصادی و کارآمد از ساختارها",
+        "ماشین آلات",
+        "فرآیندها و سیستم ها"
+      ]
+    },
+    {
+      "EnglishWord": "engineering change order  eco",
+      "Meanings": [
+        "درخواست تغییرات مهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "ensemble",
+      "Meanings": [
+        "یک مجموعه از عناصر که به عنوان یک کل دیده می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "enterprise",
+      "Meanings": [
+        "سرمایه گذاری",
+        "ریسک کردن",
+        "بنگاه اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "enterprise resource planning  erp",
+      "Meanings": [
+        "برنامه ریزی منابع سرمایه ای",
+        "سیستم مدیریت تجارت یکپارچه شامل تمام زمینه‌ها و روش‌های کامپیوتری که برای برنامه ریزی موثر و مدیریت یک حرفه و تجارت لازم است که صورت توسعه یافته می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "entity relationship diagram  erd",
+      "Meanings": [
+        "نمودار ارتباط موجودیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "equifinality",
+      "Meanings": [
+        "همپایایی",
+        "از راه‌های اولیه مختلف به نتیجه نهایی یکسان رسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "equipment",
+      "Meanings": [
+        "تجهیزات",
+        "موارد ضروری"
+      ]
+    },
+    {
+      "EnglishWord": "equipment efficiency  eu",
+      "Meanings": [
+        "کارایی ماشین آلات"
+      ]
+    },
+    {
+      "EnglishWord": "equipment variation  ev",
+      "Meanings": [
+        "نوسانات ابزار",
+        "تغییر پذیری ابزار"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent uniform annual benefit  euab",
+      "Meanings": [
+        "درآمد یکنواخت سالیانه"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent uniform annual cost  euac",
+      "Meanings": [
+        "هزینه یکنواخت سالیانه"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent unit cost  euc",
+      "Meanings": [
+        "هزینه به ازای هر واحد معادل"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "خطا",
+        "اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "error proofing",
+      "Meanings": [
+        "خطا ناپذیری",
+        "عبارتست از طراحی و توسعه محصول و فرآیند تولید بگونه ای که از ساخت محصول نا منطبق جلوگیری شود"
+      ]
+    },
+    {
+      "EnglishWord": "estimate",
+      "Meanings": [
+        "تخمین",
+        "بر آورد",
+        "An assessment of the likely quantitative result. Usually applied to project costs and durations and should always include some indication of accuracy e.g., ±x percent . Usually used with a modifier e.g., preliminary, conceptual, feasibility . Some application areas have specific modifiers that imply particular accuracy ranges e.g., order",
+        "of",
+        "magnitude estimate, budget estimate, and definitive estimate in engineering and construction projects"
+      ]
+    },
+    {
+      "EnglishWord": "estimate at completion  eac",
+      "Meanings": [
+        "مقدار هزینه تخمین زده شده در هنگام تکمیل پروژه",
+        "EAC=ACWP+ BAC",
+        "BCWP /CPI"
+      ]
+    },
+    {
+      "EnglishWord": "estimate to completion  etc",
+      "Meanings": [
+        "تخمین منابع و یا هزینه‌ها برای تکمیل کار باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "europe customer satisfaction index  ecsi",
+      "Meanings": [
+        "شاخص رضایت مشتری اروپایی"
+      ]
+    },
+    {
+      "EnglishWord": "european foundation for quality management  efqm",
+      "Meanings": [
+        "بنیان مدیریت کیفیت اروپا"
+      ]
+    },
+    {
+      "EnglishWord": "evaluation",
+      "Meanings": [
+        "ارزیابی",
+        "محک زدن",
+        "سنجیدن",
+        "بررسی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "event",
+      "Meanings": [
+        "رویداد",
+        "رخداد",
+        "واقعه",
+        "پیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "event driven",
+      "Meanings": [
+        "رویداد گرا"
+      ]
+    },
+    {
+      "EnglishWord": "event-driven process chain  epc",
+      "Meanings": [
+        "زنجیره فرآیند رویداد گرا"
+      ]
+    },
+    {
+      "EnglishWord": "excellence model",
+      "Meanings": [
+        "مدل تعالی"
+      ]
+    },
+    {
+      "EnglishWord": "exception",
+      "Meanings": [
+        "استثناء"
+      ]
+    },
+    {
+      "EnglishWord": "exchange",
+      "Meanings": [
+        "مبادله",
+        "معامله",
+        "داد و ستد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "exchange rate",
+      "Meanings": [
+        "نرخ ارز",
+        "ارزش یک واحد پولی",
+        "که برحسب واحد پولی دیگری بیان شده است"
+      ]
+    },
+    {
+      "EnglishWord": "executive",
+      "Meanings": [
+        "اجرایی",
+        "مجری",
+        "مدیر اجرایی"
+      ]
+    },
+    {
+      "EnglishWord": "executive information system  eis",
+      "Meanings": [
+        "سیستم پشتیبانی مدیران اجرایی",
+        "سیستم اطلاعاتی مدیریت سطوح بالا",
+        "این سیستم برای ارایه اطلاعات به مدیران سطح بالا برای برنامه ریزی استراتژیک و کنترل کلی موسسه مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "expect",
+      "Meanings": [
+        "انتظار داشتن",
+        "منتظر بودن",
+        "چشم داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "expectation",
+      "Meanings": [
+        "امید",
+        "انتظار",
+        "چشم داشت"
+      ]
+    },
+    {
+      "EnglishWord": "expected",
+      "Meanings": [
+        "مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "expected value",
+      "Meanings": [
+        "ارزش انتظاری",
+        "امید ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "expected value of perfect information  evpi",
+      "Meanings": [
+        "ارزش مورد انتظار برای کسب اطلاعات کامل"
+      ]
+    },
+    {
+      "EnglishWord": "expected value of sample information  evsi",
+      "Meanings": [
+        "ارزش انتظاری اطلاعات نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "expediting",
+      "Meanings": [
+        "سرعت بخشی",
+        "تسریع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "expeditor",
+      "Meanings": [
+        "پیگیری کننده",
+        "تسهیل کننده",
+        "تسریع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "experiment",
+      "Meanings": [
+        "آزمایش",
+        "تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "expert",
+      "Meanings": [
+        "ماهر",
+        "خبره",
+        "متخصص",
+        "کارشناس"
+      ]
+    },
+    {
+      "EnglishWord": "expert system  es",
+      "Meanings": [
+        "سیستم خبره",
+        "سیستم هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "expert system  xps",
+      "Meanings": [
+        "سیستم خبره"
+      ]
+    },
+    {
+      "EnglishWord": "exploded assembly drawing",
+      "Meanings": [
+        "نقشه مونتاژ گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "exponential",
+      "Meanings": [
+        "نمایی",
+        "تعریفی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential smoothing",
+      "Meanings": [
+        "هموار سازی نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "extended enterprise  ee",
+      "Meanings": [
+        "بنگاه توسعه یافته"
+      ]
+    }
+  ]
+}

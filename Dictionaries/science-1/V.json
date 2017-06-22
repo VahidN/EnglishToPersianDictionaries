@@ -1,0 +1,1129 @@
+﻿{
+  "Group": "V",
+  "Entries": 168,
+  "Words": [
+    {
+      "EnglishWord": "vacuous",
+      "Meanings": [
+        "بی معنی",
+        "تهی",
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "vacuous set",
+      "Meanings": [
+        "مجموعه تهی"
+      ]
+    },
+    {
+      "EnglishWord": "vague",
+      "Meanings": [
+        "مبهم",
+        "نامعلوم"
+      ]
+    },
+    {
+      "EnglishWord": "vagueness",
+      "Meanings": [
+        "ابهام",
+        "نامعلومی"
+      ]
+    },
+    {
+      "EnglishWord": "valence",
+      "Meanings": [
+        "ارزش",
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "valid",
+      "Meanings": [
+        "معتبر",
+        "درست",
+        "قابل پذیرش",
+        "صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "validity",
+      "Meanings": [
+        "درستی",
+        "اعتبار",
+        "صحت"
+      ]
+    },
+    {
+      "EnglishWord": "validity check",
+      "Meanings": [
+        "بررسی اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "validity coefficient",
+      "Meanings": [
+        "ضریب اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "valuability",
+      "Meanings": [
+        "ارزایی"
+      ]
+    },
+    {
+      "EnglishWord": "valuable",
+      "Meanings": [
+        "باارزش",
+        "ارزشمند"
+      ]
+    },
+    {
+      "EnglishWord": "valuation",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "valuation ring",
+      "Meanings": [
+        "حلقه مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "مقدار",
+        "ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "value of function",
+      "Meanings": [
+        "مقدار تابع"
+      ]
+    },
+    {
+      "EnglishWord": "value of ratio",
+      "Meanings": [
+        "مقدار نسبت",
+        "مقدار کسر"
+      ]
+    },
+    {
+      "EnglishWord": "value table",
+      "Meanings": [
+        "جدول ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "vanish",
+      "Meanings": [
+        "صفر شدن",
+        "ناپدید شدن",
+        "به صفر رسیدن",
+        "از بین رفتی"
+      ]
+    },
+    {
+      "EnglishWord": "vanishing",
+      "Meanings": [
+        "صفرشونده"
+      ]
+    },
+    {
+      "EnglishWord": "vanishing point",
+      "Meanings": [
+        "نقطه فرار"
+      ]
+    },
+    {
+      "EnglishWord": "variability",
+      "Meanings": [
+        "قابلیت تغییر",
+        "تغییر پذیری",
+        "پراکندگی",
+        "وردش‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "variable",
+      "Meanings": [
+        "متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable artificial",
+      "Meanings": [
+        "متغیر مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "variable basic",
+      "Meanings": [
+        "متغیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "variable blocking",
+      "Meanings": [
+        "متغیر بلوک‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "variable bounded",
+      "Meanings": [
+        "متغیر کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "variable coefficient",
+      "Meanings": [
+        "ضریب متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable coefficients",
+      "Meanings": [
+        "ضرایب متغییر"
+      ]
+    },
+    {
+      "EnglishWord": "variable definition",
+      "Meanings": [
+        "تعریف متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable dual",
+      "Meanings": [
+        "متغیر دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "variable entering basis",
+      "Meanings": [
+        "متغیر ورود به پایه"
+      ]
+    },
+    {
+      "EnglishWord": "variable integer",
+      "Meanings": [
+        "متغیر صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "variable leaving basis",
+      "Meanings": [
+        "متغیر خروج از پایه"
+      ]
+    },
+    {
+      "EnglishWord": "variable legitimate",
+      "Meanings": [
+        "متغیر قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "variable nonbasic",
+      "Meanings": [
+        "متغیر غیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "variable point",
+      "Meanings": [
+        "با ممیز متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable slack",
+      "Meanings": [
+        "متغیر کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "variable surplus",
+      "Meanings": [
+        "متغیر مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "variable unrestricted",
+      "Meanings": [
+        "متغیر نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "variable upper bounding",
+      "Meanings": [
+        "متغیر کران بالا"
+      ]
+    },
+    {
+      "EnglishWord": "variable vector",
+      "Meanings": [
+        "بردار متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "واریانس آمار",
+        "اختلاف",
+        "مغایرت",
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "variance analysis",
+      "Meanings": [
+        "تجزیه واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance between samples",
+      "Meanings": [
+        "واریانس بین نمونه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "variance confidence limits",
+      "Meanings": [
+        "حدود اعتماد واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance covariance",
+      "Meanings": [
+        "واریانس",
+        "کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance equation",
+      "Meanings": [
+        "معادله واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance function",
+      "Meanings": [
+        "تابع واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance matrix",
+      "Meanings": [
+        "ماتریس واریانس",
+        "کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance of estimate",
+      "Meanings": [
+        "واریانس برآورد",
+        "واریانس تخمین"
+      ]
+    },
+    {
+      "EnglishWord": "variance of frequency",
+      "Meanings": [
+        "واریانس فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "variance of random variable",
+      "Meanings": [
+        "واریانس کمیت تصادفی",
+        "پراکندگی کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "variance of sampling",
+      "Meanings": [
+        "واریانس نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "variance of the estimation of the mean",
+      "Meanings": [
+        "واریانس برآورد میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "variance of two random variables",
+      "Meanings": [
+        "واریانس دو کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "variance ratio",
+      "Meanings": [
+        "نسبت واریانس",
+        "نسبت واریانس‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "variance ratio distribution",
+      "Meanings": [
+        "توزیع نسبت واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance square root",
+      "Meanings": [
+        "جذر واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "variance within samples",
+      "Meanings": [
+        "واریانس داخل نمونه ها"
+      ]
+    },
+    {
+      "EnglishWord": "variant",
+      "Meanings": [
+        "مختف",
+        "مغایر"
+      ]
+    },
+    {
+      "EnglishWord": "variate",
+      "Meanings": [
+        "متغیر تصادفی",
+        "صفت متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variation",
+      "Meanings": [
+        "تغییر",
+        "تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "variation of a first degree function",
+      "Meanings": [
+        "تغییرا تابع درجه اول"
+      ]
+    },
+    {
+      "EnglishWord": "variation of a second degree function",
+      "Meanings": [
+        "تغییرا تابع درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "variation of constants",
+      "Meanings": [
+        "تغییر مقادیر ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "variation of parameters",
+      "Meanings": [
+        "تغییر پارامترها",
+        "تغییر مقادیر ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "variations",
+      "Meanings": [
+        "تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "variations of function",
+      "Meanings": [
+        "تغییرات تابع"
+      ]
+    },
+    {
+      "EnglishWord": "variations of functions",
+      "Meanings": [
+        "تغییرات توابع"
+      ]
+    },
+    {
+      "EnglishWord": "variety",
+      "Meanings": [
+        "تنوع",
+        "گوناگونی",
+        "واریته",
+        "چندگونا"
+      ]
+    },
+    {
+      "EnglishWord": "vary",
+      "Meanings": [
+        "تغییر کردن",
+        "تغییر دادن",
+        "فرق داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "vector",
+      "Meanings": [
+        "بردار",
+        "عامل هندسی که به صورت پاره‌خطی با امتداد",
+        "جهت",
+        "مبدا و درازای معین مشخص می‌شود. بردار معمولا نماینده و واحد مقایسه عواملی است که با دو عامل اندازه و جهت باید مشخص شوند. مانند نیرو",
+        "سرعت",
+        "شتاب و"
+      ]
+    },
+    {
+      "EnglishWord": "vector algebra",
+      "Meanings": [
+        "جبر برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector analysis",
+      "Meanings": [
+        "آنالیز برداری",
+        "محاسبات برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector basic",
+      "Meanings": [
+        "بردار پایه"
+      ]
+    },
+    {
+      "EnglishWord": "vector calculus",
+      "Meanings": [
+        "حساب برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector definition",
+      "Meanings": [
+        "تعریف بردار"
+      ]
+    },
+    {
+      "EnglishWord": "vector equation",
+      "Meanings": [
+        "معادله برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector eta",
+      "Meanings": [
+        "بردار اتا"
+      ]
+    },
+    {
+      "EnglishWord": "vector field",
+      "Meanings": [
+        "میدان برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector function",
+      "Meanings": [
+        "تابع برداری",
+        "تابع مقدار برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector geometry",
+      "Meanings": [
+        "هندسه برداری",
+        "بخشی از هندسه که در آن اثبات احکام بر خواص بردارها بنا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "vector operations",
+      "Meanings": [
+        "عملیات برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector product",
+      "Meanings": [
+        "ضرب برداری",
+        "حاصل‌ضرب برداری",
+        "ضرب خارجی",
+        "حاصل‌ضرب خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "vector projection",
+      "Meanings": [
+        "تصویر برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector quantity",
+      "Meanings": [
+        "کمیت برداری",
+        "کمیتی که با اندازه",
+        "جهت و امتداد مشخص می‌شود مانند سرعت و شتاب در حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "vector space",
+      "Meanings": [
+        "فضای برداری",
+        "فضای حاملی"
+      ]
+    },
+    {
+      "EnglishWord": "vector subspace",
+      "Meanings": [
+        "زیرفضای برداری",
+        "تحت‌فضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vector valued",
+      "Meanings": [
+        "بردار ارز",
+        "بردار مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "vector with n components",
+      "Meanings": [
+        "بردار با n مولفه"
+      ]
+    },
+    {
+      "EnglishWord": "vector zero",
+      "Meanings": [
+        "بردار صفر"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial",
+      "Meanings": [
+        "برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial component",
+      "Meanings": [
+        "مولفه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial parametrical represntation",
+      "Meanings": [
+        "نمایش پارامتری",
+        "برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial product",
+      "Meanings": [
+        "حاصل‌ضرب برداری",
+        "حاصل‌ضرب خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial quantity",
+      "Meanings": [
+        "کمیت برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial space",
+      "Meanings": [
+        "فضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial subspace",
+      "Meanings": [
+        "زیرفضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "vectors dependence",
+      "Meanings": [
+        "وابستگی بردارها"
+      ]
+    },
+    {
+      "EnglishWord": "vectors in the same sense",
+      "Meanings": [
+        "بردارهای متحدالجهت"
+      ]
+    },
+    {
+      "EnglishWord": "vectors with opposite sense",
+      "Meanings": [
+        "بردارهای مختلف الجهت"
+      ]
+    },
+    {
+      "EnglishWord": "veer",
+      "Meanings": [
+        "تغییر جهت دادن",
+        "تغییر مسیر",
+        "برگشت",
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "velocity",
+      "Meanings": [
+        "تندی",
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "velocity function",
+      "Meanings": [
+        "تابع سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "velocity potential",
+      "Meanings": [
+        "پتانسیل سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "velocity vector",
+      "Meanings": [
+        "بردار سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "venn diagram",
+      "Meanings": [
+        "نمودار ون",
+        "نموداری که معمولا به صورتی از ترکیب شکل‌ها حاصل می‌شود و در بیشتر موارد برای نمایش اعمال روی مجموعه‌ها به کار می‌رود. این اصطلاح به یاد جان ون Jaohn Venn",
+        "ریاضی‌دان انگلیسی بدین نام خوانده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "venn euler diagrams",
+      "Meanings": [
+        "نمودارهای ون",
+        "اویلر"
+      ]
+    },
+    {
+      "EnglishWord": "verge",
+      "Meanings": [
+        "کناره",
+        "لبه",
+        "حاشیه"
+      ]
+    },
+    {
+      "EnglishWord": "verifiable",
+      "Meanings": [
+        "قابل تحقیق",
+        "قابل تصدیق"
+      ]
+    },
+    {
+      "EnglishWord": "verification",
+      "Meanings": [
+        "تحقیق",
+        "بررسی",
+        "بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "verified",
+      "Meanings": [
+        "تحقیق شده",
+        "محقق شده",
+        "سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "verified condition",
+      "Meanings": [
+        "شرط صادق"
+      ]
+    },
+    {
+      "EnglishWord": "verify",
+      "Meanings": [
+        "تحقیق کردن",
+        "بررسی کردن مسلم کردن",
+        "صدق کردن",
+        "سازگار شدن",
+        "بررسی کردن صحت‌و‌سقم امری"
+      ]
+    },
+    {
+      "EnglishWord": "versed cosine",
+      "Meanings": [
+        "سهم تمام",
+        "سمت جیب تمام"
+      ]
+    },
+    {
+      "EnglishWord": "versed sine",
+      "Meanings": [
+        "سهم",
+        "سمت جیب",
+        "جیب باشگونه",
+        "جیب معکوس",
+        "ورساین"
+      ]
+    },
+    {
+      "EnglishWord": "versiera",
+      "Meanings": [
+        "منحنی افسون‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "versine",
+      "Meanings": [
+        "سهم",
+        "ورساین"
+      ]
+    },
+    {
+      "EnglishWord": "versus",
+      "Meanings": [
+        "مقابل",
+        "روبرو",
+        "در مقابل",
+        "در برابر",
+        "مانند دو زاویه متقابل به راس یا هر راس مثلث در مقایسه با ضلع مقابل آن"
+      ]
+    },
+    {
+      "EnglishWord": "vertex",
+      "Meanings": [
+        "راس"
+      ]
+    },
+    {
+      "EnglishWord": "vertex colouring",
+      "Meanings": [
+        "رنگ‌آمیزی راس"
+      ]
+    },
+    {
+      "EnglishWord": "vertex cut",
+      "Meanings": [
+        "برش راسی"
+      ]
+    },
+    {
+      "EnglishWord": "vertex of an angle",
+      "Meanings": [
+        "راس یک زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "vertex of parabola",
+      "Meanings": [
+        "راس سهمی",
+        "تارک سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "vertex of ray",
+      "Meanings": [
+        "راس شعاع"
+      ]
+    },
+    {
+      "EnglishWord": "vertex of the cone",
+      "Meanings": [
+        "راس مخروط",
+        "تارک مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "vertical",
+      "Meanings": [
+        "قایم",
+        "عمودی",
+        "امتداد عمود بر امتداد افقی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical angles",
+      "Meanings": [
+        "زاویه‌های متقابل به راس",
+        "فرجه‌های متقابل به یال",
+        "فرجه‌های روبرو",
+        "زاویه‌های روبرو"
+      ]
+    },
+    {
+      "EnglishWord": "vertical asymptote",
+      "Meanings": [
+        "مجانب قایم"
+      ]
+    },
+    {
+      "EnglishWord": "vertical circle",
+      "Meanings": [
+        "دایره قایم در علم نجوم"
+      ]
+    },
+    {
+      "EnglishWord": "vertical direction",
+      "Meanings": [
+        "امتداد قایم"
+      ]
+    },
+    {
+      "EnglishWord": "vertical expansion of a graph",
+      "Meanings": [
+        "بسط عمودی یک نگار"
+      ]
+    },
+    {
+      "EnglishWord": "vertical line",
+      "Meanings": [
+        "خط عمود ی",
+        "خط قایم"
+      ]
+    },
+    {
+      "EnglishWord": "vertical plane",
+      "Meanings": [
+        "صفحه قایم",
+        "صفحه عمود ی",
+        "هامن قایم"
+      ]
+    },
+    {
+      "EnglishWord": "vertically opposite angles",
+      "Meanings": [
+        "زوایای متقابل به راس"
+      ]
+    },
+    {
+      "EnglishWord": "vertices",
+      "Meanings": [
+        "ریوس"
+      ]
+    },
+    {
+      "EnglishWord": "vertices of a triangle",
+      "Meanings": [
+        "زاویه‌های یک مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "very significant",
+      "Meanings": [
+        "بسیار معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "vibrate",
+      "Meanings": [
+        "ارتعاش کردن",
+        "لرزش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "vibration",
+      "Meanings": [
+        "ارتعاش",
+        "لرزش"
+      ]
+    },
+    {
+      "EnglishWord": "vicinity",
+      "Meanings": [
+        "مجاورت",
+        "حومه",
+        "نزدیکی",
+        "همسایگی"
+      ]
+    },
+    {
+      "EnglishWord": "vicious circle",
+      "Meanings": [
+        "دور باطل",
+        "دور تسلسل",
+        "دور فاسد",
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "vierergruppe",
+      "Meanings": [
+        "چار گروه",
+        "چهار گروه",
+        "گروه درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "viete relation",
+      "Meanings": [
+        "رابطه ویت"
+      ]
+    },
+    {
+      "EnglishWord": "vigesimal",
+      "Meanings": [
+        "بیست‌گانی",
+        "در مبنای عدد"
+      ]
+    },
+    {
+      "EnglishWord": "vigesimal numeration system",
+      "Meanings": [
+        "دستگاه شمار در مبنای عدد"
+      ]
+    },
+    {
+      "EnglishWord": "vinculum",
+      "Meanings": [
+        "خط",
+        "خط تیره"
+      ]
+    },
+    {
+      "EnglishWord": "viod",
+      "Meanings": [
+        "تهی",
+        "پوچ",
+        "خالی"
+      ]
+    },
+    {
+      "EnglishWord": "viod result",
+      "Meanings": [
+        "نتیجه باطل"
+      ]
+    },
+    {
+      "EnglishWord": "viod set",
+      "Meanings": [
+        "مجموعه تهی",
+        "مجموعه خالی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual",
+      "Meanings": [
+        "واقعی",
+        "حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "virtual waiting time",
+      "Meanings": [
+        "زمان انتظار واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity",
+      "Meanings": [
+        "چسبندگی"
+      ]
+    },
+    {
+      "EnglishWord": "visualization",
+      "Meanings": [
+        "تجسم"
+      ]
+    },
+    {
+      "EnglishWord": "vital",
+      "Meanings": [
+        "واجب",
+        "اساسی",
+        "حیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "vital index",
+      "Meanings": [
+        "شاخص حیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "vital records",
+      "Meanings": [
+        "ثبت‌و‌نگهداری وقایع زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "vital statistics",
+      "Meanings": [
+        "آمار وقایع زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "volterra's integral equations",
+      "Meanings": [
+        "معادلات انتگرال ولترا"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "حجم",
+        "گنجایش"
+      ]
+    },
+    {
+      "EnglishWord": "volume element",
+      "Meanings": [
+        "عنصر حجم"
+      ]
+    },
+    {
+      "EnglishWord": "volume function",
+      "Meanings": [
+        "تابع حجم"
+      ]
+    },
+    {
+      "EnglishWord": "volume integral",
+      "Meanings": [
+        "انتگرال حجم"
+      ]
+    },
+    {
+      "EnglishWord": "voluminous",
+      "Meanings": [
+        "حجیم",
+        "گنجا"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary motion",
+      "Meanings": [
+        "حرکت ارادی"
+      ]
+    },
+    {
+      "EnglishWord": "vortex",
+      "Meanings": [
+        "گردآب"
+      ]
+    },
+    {
+      "EnglishWord": "vorticity",
+      "Meanings": [
+        "گردآبی"
+      ]
+    },
+    {
+      "EnglishWord": "vulgar fraction",
+      "Meanings": [
+        "کسر متعارفی ساده",
+        "کسر معمولی",
+        "عدد کسری که صورت و مخرج آن اعداد صحیح هستند",
+        "عدد نسبی نیز نامیده می‌شود"
+      ]
+    }
+  ]
+}

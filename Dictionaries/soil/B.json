@@ -1,0 +1,716 @@
+﻿{
+  "Group": "B",
+  "Entries": 118,
+  "Words": [
+    {
+      "EnglishWord": "b horizons",
+      "Meanings": [
+        "افق بی"
+      ]
+    },
+    {
+      "EnglishWord": "bacillocylindrical",
+      "Meanings": [
+        "فضله استوانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "back slope",
+      "Meanings": [
+        "پشت شیب"
+      ]
+    },
+    {
+      "EnglishWord": "backfill",
+      "Meanings": [
+        "پس پر"
+      ]
+    },
+    {
+      "EnglishWord": "background concentration",
+      "Meanings": [
+        "غلظت زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "backslope",
+      "Meanings": [
+        "دامنه پرشیب"
+      ]
+    },
+    {
+      "EnglishWord": "backswamp",
+      "Meanings": [
+        "باتلاق کناری"
+      ]
+    },
+    {
+      "EnglishWord": "bacteria",
+      "Meanings": [
+        "باکتریها"
+      ]
+    },
+    {
+      "EnglishWord": "bacterioid",
+      "Meanings": [
+        "باکتریویید"
+      ]
+    },
+    {
+      "EnglishWord": "bacteriophage",
+      "Meanings": [
+        "باکتری خوار"
+      ]
+    },
+    {
+      "EnglishWord": "badland",
+      "Meanings": [
+        "هزاره دره"
+      ]
+    },
+    {
+      "EnglishWord": "band application",
+      "Meanings": [
+        "کاربرد نواری"
+      ]
+    },
+    {
+      "EnglishWord": "banding",
+      "Meanings": [
+        "کاربرد نواری"
+      ]
+    },
+    {
+      "EnglishWord": "bank storage",
+      "Meanings": [
+        "انباشت ساحلی"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "انباشت پشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "bar screen",
+      "Meanings": [
+        "شبکه جدا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "basal till",
+      "Meanings": [
+        "پایه یخ نهشت"
+      ]
+    },
+    {
+      "EnglishWord": "base flow",
+      "Meanings": [
+        "جریان پایه"
+      ]
+    },
+    {
+      "EnglishWord": "base level",
+      "Meanings": [
+        "سطح مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base map",
+      "Meanings": [
+        "نقشه مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base saturation",
+      "Meanings": [
+        "اشباع بازی"
+      ]
+    },
+    {
+      "EnglishWord": "base saturation percentage",
+      "Meanings": [
+        "درصد اشباع بازی"
+      ]
+    },
+    {
+      "EnglishWord": "basic cation",
+      "Meanings": [
+        "کاتیون بازی"
+      ]
+    },
+    {
+      "EnglishWord": "basic distribution pattern",
+      "Meanings": [
+        "الگوی توزیع اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "basic shrinkage phase",
+      "Meanings": [
+        "انقباض پایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "basic shrinkage zone",
+      "Meanings": [
+        "انقباض پایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "basin",
+      "Meanings": [
+        "حوضه"
+      ]
+    },
+    {
+      "EnglishWord": "basoid",
+      "Meanings": [
+        "شبه‌باز"
+      ]
+    },
+    {
+      "EnglishWord": "batch culture",
+      "Meanings": [
+        "کشت بسته"
+      ]
+    },
+    {
+      "EnglishWord": "beccarl process",
+      "Meanings": [
+        "فرآیند بکارل"
+      ]
+    },
+    {
+      "EnglishWord": "bed",
+      "Meanings": [
+        "بستر"
+      ]
+    },
+    {
+      "EnglishWord": "bed planting",
+      "Meanings": [
+        "کشت بستری"
+      ]
+    },
+    {
+      "EnglishWord": "bedding",
+      "Meanings": [
+        "بسترسازی"
+      ]
+    },
+    {
+      "EnglishWord": "bedload",
+      "Meanings": [
+        "بار بستر"
+      ]
+    },
+    {
+      "EnglishWord": "bedrock",
+      "Meanings": [
+        "سنگ بستر"
+      ]
+    },
+    {
+      "EnglishWord": "bench terrace",
+      "Meanings": [
+        "تراس پلکانی"
+      ]
+    },
+    {
+      "EnglishWord": "benchmark",
+      "Meanings": [
+        "بنچ مارک"
+      ]
+    },
+    {
+      "EnglishWord": "benthic",
+      "Meanings": [
+        "کفزی"
+      ]
+    },
+    {
+      "EnglishWord": "benthos",
+      "Meanings": [
+        "موجود کفزی"
+      ]
+    },
+    {
+      "EnglishWord": "bentonite",
+      "Meanings": [
+        "بنتونیت"
+      ]
+    },
+    {
+      "EnglishWord": "berm",
+      "Meanings": [
+        "سکوی خاکی"
+      ]
+    },
+    {
+      "EnglishWord": "bioaccumulation",
+      "Meanings": [
+        "زی انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "bioassay",
+      "Meanings": [
+        "زیست آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "bioavailable",
+      "Meanings": [
+        "زیست فراهم"
+      ]
+    },
+    {
+      "EnglishWord": "biochemical oxidation",
+      "Meanings": [
+        "اکسایش زیست شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "bioconcentration",
+      "Meanings": [
+        "زی غلظت"
+      ]
+    },
+    {
+      "EnglishWord": "biodegradable",
+      "Meanings": [
+        "زیست تجزیه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "biodegradation",
+      "Meanings": [
+        "زیست تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "biogenic",
+      "Meanings": [
+        "زیست زا"
+      ]
+    },
+    {
+      "EnglishWord": "biological availability",
+      "Meanings": [
+        "زیست فراهمی"
+      ]
+    },
+    {
+      "EnglishWord": "biological denitrification",
+      "Meanings": [
+        "نیترات زدایی زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biological immobilization",
+      "Meanings": [
+        "آلی شدن زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biological interchange",
+      "Meanings": [
+        "مبادله زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biological oxidation",
+      "Meanings": [
+        "اکسایش زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biomass",
+      "Meanings": [
+        "زیست توده"
+      ]
+    },
+    {
+      "EnglishWord": "biome",
+      "Meanings": [
+        "زیست بوم"
+      ]
+    },
+    {
+      "EnglishWord": "bioremediation",
+      "Meanings": [
+        "ترمیم بیولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "biosequence",
+      "Meanings": [
+        "خاک ردیف زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biosphere",
+      "Meanings": [
+        "زی سپهر"
+      ]
+    },
+    {
+      "EnglishWord": "biostablizer",
+      "Meanings": [
+        "کمپوست‌ساز"
+      ]
+    },
+    {
+      "EnglishWord": "biota",
+      "Meanings": [
+        "زیواگان"
+      ]
+    },
+    {
+      "EnglishWord": "biotic enzymes",
+      "Meanings": [
+        "آنزیمهای زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biotite",
+      "Meanings": [
+        "بیوتیت"
+      ]
+    },
+    {
+      "EnglishWord": "birefringence",
+      "Meanings": [
+        "دوشکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "birefringence fabric",
+      "Meanings": [
+        "فابریک دو شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "birnessite",
+      "Meanings": [
+        "بیرنزیت"
+      ]
+    },
+    {
+      "EnglishWord": "bisect",
+      "Meanings": [
+        "برش دوبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "bisequal",
+      "Meanings": [
+        "دوخاکرخی"
+      ]
+    },
+    {
+      "EnglishWord": "bisequum",
+      "Meanings": [
+        "نیمرخ دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "bittern",
+      "Meanings": [
+        "تلخاب"
+      ]
+    },
+    {
+      "EnglishWord": "biuret",
+      "Meanings": [
+        "بیوره"
+      ]
+    },
+    {
+      "EnglishWord": "black earth",
+      "Meanings": [
+        "زمین سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "black soils",
+      "Meanings": [
+        "خاکهای سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "bleicherde",
+      "Meanings": [
+        "افق رنگ شسته"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "تنک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "blocky soil structure",
+      "Meanings": [
+        "ساختمان مکعبی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "bloom",
+      "Meanings": [
+        "شکوفایی"
+      ]
+    },
+    {
+      "EnglishWord": "blowing sand",
+      "Meanings": [
+        "شن روان"
+      ]
+    },
+    {
+      "EnglishWord": "blown- out land",
+      "Meanings": [
+        "زمین بادبرده"
+      ]
+    },
+    {
+      "EnglishWord": "blowout",
+      "Meanings": [
+        "بادکنده"
+      ]
+    },
+    {
+      "EnglishWord": "bod",
+      "Meanings": [
+        "نیاز زیست شیمیایی به اکسیژن"
+      ]
+    },
+    {
+      "EnglishWord": "bog soil",
+      "Meanings": [
+        "خاک باتلاقی"
+      ]
+    },
+    {
+      "EnglishWord": "boralfs",
+      "Meanings": [
+        "بورالفها"
+      ]
+    },
+    {
+      "EnglishWord": "borolls",
+      "Meanings": [
+        "بورالها"
+      ]
+    },
+    {
+      "EnglishWord": "bottomland",
+      "Meanings": [
+        "زمین پایین"
+      ]
+    },
+    {
+      "EnglishWord": "boulders",
+      "Meanings": [
+        "تخته سنگ",
+        "تخته سنگها"
+      ]
+    },
+    {
+      "EnglishWord": "bouldery",
+      "Meanings": [
+        "تخته سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "brackish water",
+      "Meanings": [
+        "آب لب شور"
+      ]
+    },
+    {
+      "EnglishWord": "bradyrhizobia",
+      "Meanings": [
+        "ریزوبیومهای برادی"
+      ]
+    },
+    {
+      "EnglishWord": "braided stream",
+      "Meanings": [
+        "رود چند شاخه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "breakthrough curve",
+      "Meanings": [
+        "منحنی میان‌بر"
+      ]
+    },
+    {
+      "EnglishWord": "breccia",
+      "Meanings": [
+        "سنگ جوش"
+      ]
+    },
+    {
+      "EnglishWord": "brine",
+      "Meanings": [
+        "شور آب"
+      ]
+    },
+    {
+      "EnglishWord": "broad-base terrace",
+      "Meanings": [
+        "سکوی پهن"
+      ]
+    },
+    {
+      "EnglishWord": "broadcast application",
+      "Meanings": [
+        "کاربرد پخشی"
+      ]
+    },
+    {
+      "EnglishWord": "broadcast planting",
+      "Meanings": [
+        "کشت دست پاش"
+      ]
+    },
+    {
+      "EnglishWord": "brown earths",
+      "Meanings": [
+        "زمینهای قهوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "brown forest soils",
+      "Meanings": [
+        "خاکهای جنگلی قهوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "brown podzolic soils",
+      "Meanings": [
+        "خاکهای پادزلی قهوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "brown soils",
+      "Meanings": [
+        "خاکهای قهوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "brown water",
+      "Meanings": [
+        "آب قهوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "brunizem",
+      "Meanings": [
+        "برونیزم"
+      ]
+    },
+    {
+      "EnglishWord": "bs",
+      "Meanings": [
+        "درصد اشباع بازی",
+        "درصداشباع‌بازی"
+      ]
+    },
+    {
+      "EnglishWord": "buffer compounds soils",
+      "Meanings": [
+        "ترکیبهای بافری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "buffer power",
+      "Meanings": [
+        "توان بافری"
+      ]
+    },
+    {
+      "EnglishWord": "bulge profile",
+      "Meanings": [
+        "خاکرخ میان‌شور"
+      ]
+    },
+    {
+      "EnglishWord": "bulk  specific gravity",
+      "Meanings": [
+        "چگالی ویژه ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "bulk area",
+      "Meanings": [
+        "مساحت ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "bulk blending",
+      "Meanings": [
+        "آمیختگی کودی"
+      ]
+    },
+    {
+      "EnglishWord": "bulk density",
+      "Meanings": [
+        "جرم مخصوص ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "bulk density soil",
+      "Meanings": [
+        "جرم مخصوص ظاهری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "bulk fertilizer",
+      "Meanings": [
+        "کود فله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulk length",
+      "Meanings": [
+        "طول ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "bulk volume",
+      "Meanings": [
+        "حجم ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "buried",
+      "Meanings": [
+        "خاک دفن شده"
+      ]
+    },
+    {
+      "EnglishWord": "burying",
+      "Meanings": [
+        "دفن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "butte",
+      "Meanings": [
+        "بی یوت"
+      ]
+    },
+    {
+      "EnglishWord": "bypass flow",
+      "Meanings": [
+        "جریان بی اثر"
+      ]
+    }
+  ]
+}

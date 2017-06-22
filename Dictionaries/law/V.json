@@ -1,0 +1,575 @@
+﻿{
+  "Group": "V",
+  "Entries": 74,
+  "Words": [
+    {
+      "EnglishWord": "v    lat.     see also  versus vs",
+      "Meanings": [
+        "علیه",
+        "در برابر",
+        "به طرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "vacantia bona    lat.     see also  res derelicta",
+      "Meanings": [
+        "مال متروک",
+        "مال بی صاحب",
+        "مال بی وارث"
+      ]
+    },
+    {
+      "EnglishWord": "vacate    n. vacation",
+      "Meanings": [
+        "رد کردن",
+        "فسخ کردن",
+        "نقض کردن",
+        "لغو کردن",
+        "باطل کردن",
+        "تخلیه کردن",
+        "ترک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "vacation of judgment",
+      "Meanings": [
+        "فسخ حکم",
+        "رد حکم",
+        "نقض حکم"
+      ]
+    },
+    {
+      "EnglishWord": "valid",
+      "Meanings": [
+        "معتبر",
+        "نافذ",
+        "صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "validate    n. validation",
+      "Meanings": [
+        "تنفیذ کردن",
+        "اعتبار بخشیدن",
+        "قوت قانونی بخشیدن",
+        "تایید کردن",
+        "تصدیق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "validity",
+      "Meanings": [
+        "اعتبار",
+        "نفوذ",
+        "صحت"
+      ]
+    },
+    {
+      "EnglishWord": "valuable consideration",
+      "Meanings": [
+        "عوضی که دارای ارزش مادی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "valuate    n. valuation",
+      "Meanings": [
+        "تقویم کردن",
+        "ارزیابی کردن",
+        "ارزشیابی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "قیمت گذاری کردن",
+        "قدرشناسی کردن",
+        "ارزش",
+        "بهاء",
+        "قدر"
+      ]
+    },
+    {
+      "EnglishWord": "variable costs    see also  avoidable costs direct costs prime costs recurring costs",
+      "Meanings": [
+        "هزینه‌های متغیر",
+        "هزینه‌های مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "اختلاف",
+        "تناقض بین اظهارات و استدلالات موید آنها",
+        "تناقض بین دو مطلب یا دو سند"
+      ]
+    },
+    {
+      "EnglishWord": "veil of corporate personality to lift",
+      "Meanings": [
+        "خرق حجاب شخصیت حقوقی کشف هویت صاحبان اصلی شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "vendee    see also  buyer",
+      "Meanings": [
+        "خریدار",
+        "مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "vendor    see also  seller",
+      "Meanings": [
+        "فروشنده",
+        "بایع"
+      ]
+    },
+    {
+      "EnglishWord": "vendue    lat.",
+      "Meanings": [
+        "حراج عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "venire    lat.     see also  venire facias",
+      "Meanings": [
+        "حضور در دادگاه",
+        "قرار تشکیل هیات منصفه",
+        "صورت اسامی اشخاصی که اعضای هیات منصفه از میان آنها انتخاب می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "venire contra factum proprium    lat.",
+      "Meanings": [
+        "عمل متناقض با عمل قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "venire facias    lat.     see also  venire",
+      "Meanings": [
+        "قرار تشکیل هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "venire facias de novo    lat.     var. venire de novo",
+      "Meanings": [
+        "قرار تشکیل هیات منصفه جدید برای اعاده دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "venture",
+      "Meanings": [
+        "به مخاطره انداختن",
+        "مشارکت",
+        "اقدام خطیر"
+      ]
+    },
+    {
+      "EnglishWord": "venue",
+      "Meanings": [
+        "حوزه قضایی",
+        "محل دادگاه",
+        "محل دادرسی",
+        "محل ارتکاب جرم با ایراد ضرر"
+      ]
+    },
+    {
+      "EnglishWord": "venue of arbitration    see also  place of arbitration situs of arbitration",
+      "Meanings": [
+        "مقر یا محل داوری"
+      ]
+    },
+    {
+      "EnglishWord": "veracity",
+      "Meanings": [
+        "صحت",
+        "راستگویی",
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "verba ambigua accipuntur contra proferentem    lat.     see also  contra proferentem",
+      "Meanings": [
+        "شرط یا شروط مبهم قرارداد به زبان طرفی تفسیر می‌شود که آن را پیشنهاد یا انشاء کرده است"
+      ]
+    },
+    {
+      "EnglishWord": "verbal",
+      "Meanings": [
+        "لفظی",
+        "شفاهی"
+      ]
+    },
+    {
+      "EnglishWord": "verbal agreement / contract",
+      "Meanings": [
+        "توافق شفاهی",
+        "عقد لفظی"
+      ]
+    },
+    {
+      "EnglishWord": "verdict",
+      "Meanings": [
+        "رای هیات منصفه",
+        "تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "verdict to return",
+      "Meanings": [
+        "اعلام رای یا تصمیم هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "verify    n. verification",
+      "Meanings": [
+        "تصدیق یا تعیین کردن صحت یا سقم",
+        "تصدیق کردن",
+        "گواهی دادن",
+        "تایید کردن",
+        "مقابله کردن دو متن"
+      ]
+    },
+    {
+      "EnglishWord": "versus    lat.     abbrev. v.  vs",
+      "Meanings": [
+        "علیه",
+        "در برابر",
+        "به طرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "vest",
+      "Meanings": [
+        "واگذار کردن حق یا مال",
+        "تفویض کردن",
+        "سپردن",
+        "رسمیت یافتن",
+        "تعلق گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "vested",
+      "Meanings": [
+        "مطلق",
+        "ثابت",
+        "محرز",
+        "مسلم"
+      ]
+    },
+    {
+      "EnglishWord": "vested in interest    see also  remainder reversion",
+      "Meanings": [
+        "مال موضوع حق انتفاع موجل",
+        "حق ما لم یجب"
+      ]
+    },
+    {
+      "EnglishWord": "vested in possession",
+      "Meanings": [
+        "مال موضوع حق انتفاع موجود"
+      ]
+    },
+    {
+      "EnglishWord": "vested interest    s",
+      "Meanings": [
+        "حقوق مسلم",
+        "گروه یا اشخاصی که دارای علایق و منافع مشترک باشند"
+      ]
+    },
+    {
+      "EnglishWord": "vested rights",
+      "Meanings": [
+        "حقوق مسلم",
+        "حقوق لاینفک",
+        "حقوق مکتسبه به موجب قانون اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "veto",
+      "Meanings": [
+        "وتو کردن",
+        "رد کردن",
+        "حق وتو",
+        "عدم توشیح قانون توسط شخص اول مملکت"
+      ]
+    },
+    {
+      "EnglishWord": "vexata quaestio    lat.     var. quaestio vexata     see also  vexed question",
+      "Meanings": [
+        "موضوع حقوقی لاینحل"
+      ]
+    },
+    {
+      "EnglishWord": "vexation",
+      "Meanings": [
+        "ایذاء",
+        "مزاحمت",
+        "زیان و خسارت ناشی از عمل تقلب آمیز"
+      ]
+    },
+    {
+      "EnglishWord": "vexatious",
+      "Meanings": [
+        "ایذایی",
+        "مزاحم",
+        "بدون دلیل منطقی یا عذر موجه"
+      ]
+    },
+    {
+      "EnglishWord": "vexatious action / proceeding / suit    see also  malicious prosecution",
+      "Meanings": [
+        "دعوی ایذایی"
+      ]
+    },
+    {
+      "EnglishWord": "vexed question    see also  quaestio vexata vexata quaestio",
+      "Meanings": [
+        "موضوع حقوقی لاینحل"
+      ]
+    },
+    {
+      "EnglishWord": "vicarious liability    see also  respondeat superior",
+      "Meanings": [
+        "مسیولیت کارفرما مسیولیت ناشی از فعل غیر"
+      ]
+    },
+    {
+      "EnglishWord": "vice",
+      "Meanings": [
+        "قایم مقام",
+        "نایب",
+        "معاون"
+      ]
+    },
+    {
+      "EnglishWord": "victim",
+      "Meanings": [
+        "قربانی",
+        "زیان دیده",
+        "متضرر"
+      ]
+    },
+    {
+      "EnglishWord": "vide    lat.",
+      "Meanings": [
+        "رجوع شود به",
+        "نگاه کنید به"
+      ]
+    },
+    {
+      "EnglishWord": "videlicit    lat.     see also  scilicet viz.",
+      "Meanings": [
+        "یعنی",
+        "به معنی",
+        "برای مثال"
+      ]
+    },
+    {
+      "EnglishWord": "vindicate    n. vindication",
+      "Meanings": [
+        "استیفاء کردن",
+        "احقاق حق کردن",
+        "دفاع کردن",
+        "توجیه کردن",
+        "اثبات کردن",
+        "اعاده حیثیت",
+        "رفع کردن ابهام یا سوء ظن"
+      ]
+    },
+    {
+      "EnglishWord": "vindication of right    s",
+      "Meanings": [
+        "استیفای حق",
+        "احقاق حق"
+      ]
+    },
+    {
+      "EnglishWord": "vindictive damages    see also  exemplary damages presumptive damages punitive damages",
+      "Meanings": [
+        "خسارت تنبیهی",
+        "خسارت عبرت آموز"
+      ]
+    },
+    {
+      "EnglishWord": "violate    n. violation",
+      "Meanings": [
+        "تخطی کردن",
+        "تخلف کردن",
+        "تجاوز کردن",
+        "تعدی کردن",
+        "نقض کردن"
+      ]
+    },
+    {
+      "EnglishWord": "violence",
+      "Meanings": [
+        "خشونت",
+        "عنف",
+        "زور"
+      ]
+    },
+    {
+      "EnglishWord": "virtue of by",
+      "Meanings": [
+        "به موجب",
+        "براساس",
+        "به دلیل",
+        "با استناد به"
+      ]
+    },
+    {
+      "EnglishWord": "vis divina    lat.     see also  act of god force majeure inevitable accident",
+      "Meanings": [
+        "مشیت الهی",
+        "حادثه غیر مترقبه",
+        "حادثه قهری",
+        "حادثه طبیعی",
+        "فورس ماژور"
+      ]
+    },
+    {
+      "EnglishWord": "vis major    lat.     see also  act of god force majeure inevitable accident",
+      "Meanings": [
+        "مشیت الهی",
+        "حادثه غیر مترقبه",
+        "حادثه قهری",
+        "حادثه طبیعی",
+        "فورس ماژور"
+      ]
+    },
+    {
+      "EnglishWord": "vital statistics",
+      "Meanings": [
+        "اطلاعات مربوط به احوال شخصیه"
+      ]
+    },
+    {
+      "EnglishWord": "vitiate    n. vitiation",
+      "Meanings": [
+        "سبب بطلان شدن",
+        "بی اعتبار ساختن",
+        "ضایع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "viz.    lat.     see also  scilicet videlicet",
+      "Meanings": [
+        "یعنی",
+        "به معنی",
+        "برای مثال"
+      ]
+    },
+    {
+      "EnglishWord": "void",
+      "Meanings": [
+        "باطل",
+        "بی اثر",
+        "کان لم یکن",
+        "پوچ",
+        "فاسد"
+      ]
+    },
+    {
+      "EnglishWord": "void contract",
+      "Meanings": [
+        "عقد باطل",
+        "عقد فاسد"
+      ]
+    },
+    {
+      "EnglishWord": "voidable",
+      "Meanings": [
+        "جایز",
+        "قابل فسخ",
+        "قابل ابطال"
+      ]
+    },
+    {
+      "EnglishWord": "voidable contract    see also  revocable contract",
+      "Meanings": [
+        "عقد جایز",
+        "عقد قابل فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "voir dire    fr.",
+      "Meanings": [
+        "بیان حقیقت",
+        "سوگندی که شاهد قبل از دادن شهادت ادا می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "volenti non injuria    lat.     see also  assumption of risk",
+      "Meanings": [
+        "اقدام به ضرر خود",
+        "قبول مخاطره اگر کسی دانسته قبول خطر کند",
+        "مستحق دریافت خسارت بابت زیان وارده نیست"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary",
+      "Meanings": [
+        "ارادی",
+        "اختیاری",
+        "عمدی",
+        "داوطلبانه"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary arbitration",
+      "Meanings": [
+        "داوری به تراضی",
+        "داوری قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary bankruptcy",
+      "Meanings": [
+        "اعلام ورشکستگی از طرف خود ورشکسته"
+      ]
+    },
+    {
+      "EnglishWord": "voluntary nonsuit",
+      "Meanings": [
+        "ترک دعوی توسط خواهان با علم به اینکه پرداخت هزینه دادرسی می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "vote",
+      "Meanings": [
+        "رای دادن",
+        "رای",
+        "نظر",
+        "عقیده"
+      ]
+    },
+    {
+      "EnglishWord": "voting",
+      "Meanings": [
+        "رای دادن",
+        "اخذ رای"
+      ]
+    },
+    {
+      "EnglishWord": "voting share / stock",
+      "Meanings": [
+        "سهام واجد حق رای"
+      ]
+    },
+    {
+      "EnglishWord": "voucher",
+      "Meanings": [
+        "سند هزینه",
+        "سند ابراء"
+      ]
+    },
+    {
+      "EnglishWord": "vs    see also  v.  versus",
+      "Meanings": [
+        "علیه",
+        "در برابر",
+        "به طرفیت"
+      ]
+    }
+  ]
+}

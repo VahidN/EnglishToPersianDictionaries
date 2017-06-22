@@ -1,0 +1,406 @@
+﻿{
+  "Group": "V",
+  "Entries": 63,
+  "Words": [
+    {
+      "EnglishWord": "vaccum",
+      "Meanings": [
+        "خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum assisted resin injection",
+      "Meanings": [
+        "تزریق رزین به کمک خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum assisted resin transfer molding",
+      "Meanings": [
+        "قالبگیری با انتقال رزین با کمک خلاء",
+        "مشابه روش قالبگیری با انتقال رزین می‏باشد با این تفاوت که در این روش با ایجاد خلاء درون قالب به انتقال سریعتر و راحتتر رزین به درون آن کمک می‏گردد"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum bag molding",
+      "Meanings": [
+        "قالبگیری کیسه ای در خلاء",
+        "فرآیندی برای حذف فضاهای خالی و خارج کردن هوای محبوس شده و رزین اضافی با فشار همچنین رزین اضافه حاصل از لایه‏گذاری بوسیله خلاء از کیسه سلفون یا پلی وینیل استات که روی قطعه گذاشته شده است حذف می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum forming",
+      "Meanings": [
+        "شکل گیری در خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum gripper",
+      "Meanings": [
+        "گیرنده خلایی"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum injection",
+      "Meanings": [
+        "تزریق با خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum line",
+      "Meanings": [
+        "خط خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum rotary dier",
+      "Meanings": [
+        "خشک کن دوار خلاء"
+      ]
+    },
+    {
+      "EnglishWord": "vaccum shelf",
+      "Meanings": [
+        "خشک کن با محفظه"
+      ]
+    },
+    {
+      "EnglishWord": "valve",
+      "Meanings": [
+        "شیر"
+      ]
+    },
+    {
+      "EnglishWord": "vapor barrier",
+      "Meanings": [
+        "محافظ بخار",
+        "موادی هستند که از آنها بخار آب یا ماده دیگری عبور نمی‏کند"
+      ]
+    },
+    {
+      "EnglishWord": "vapor degreaser",
+      "Meanings": [
+        "بخار چربی بر"
+      ]
+    },
+    {
+      "EnglishWord": "vapor deposition method",
+      "Meanings": [
+        "روش نشاندن بخار"
+      ]
+    },
+    {
+      "EnglishWord": "vapor phase condensation",
+      "Meanings": [
+        "تراکم فاز بخار"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "واریانس",
+        "مجذور انحراف استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "varnish",
+      "Meanings": [
+        "لعاب",
+        "ورنی"
+      ]
+    },
+    {
+      "EnglishWord": "varnish stain",
+      "Meanings": [
+        "ورنی رنگانه ای",
+        "لعاب لکه‏زا"
+      ]
+    },
+    {
+      "EnglishWord": "vascular graft",
+      "Meanings": [
+        "رگ پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "vat dyes",
+      "Meanings": [
+        "رزانه‌های خمی"
+      ]
+    },
+    {
+      "EnglishWord": "vegetable oil",
+      "Meanings": [
+        "روغن گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "vented barrel",
+      "Meanings": [
+        "بدنه منفذدار"
+      ]
+    },
+    {
+      "EnglishWord": "venting",
+      "Meanings": [
+        "هواگیری",
+        "گازگیری",
+        "گاززدایی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical stabilizer",
+      "Meanings": [
+        "سکان عمودی در کشتی و هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "vertical stiffness",
+      "Meanings": [
+        "سفتی عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vesicle carrier",
+      "Meanings": [
+        "حامل تاولچه"
+      ]
+    },
+    {
+      "EnglishWord": "vibration energy",
+      "Meanings": [
+        "انرژی ارتعاشی"
+      ]
+    },
+    {
+      "EnglishWord": "vibration welding",
+      "Meanings": [
+        "جوشکاری ارتعاشی"
+      ]
+    },
+    {
+      "EnglishWord": "vibrational spectrography",
+      "Meanings": [
+        "طیف نگاری ارتعاشی"
+      ]
+    },
+    {
+      "EnglishWord": "virgin insulant",
+      "Meanings": [
+        "عایق بکر"
+      ]
+    },
+    {
+      "EnglishWord": "virgin material",
+      "Meanings": [
+        "ماده بکر"
+      ]
+    },
+    {
+      "EnglishWord": "virtification",
+      "Meanings": [
+        "شیشه ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "viscoelastic",
+      "Meanings": [
+        "ویسکوالاستیک",
+        "گرانروکشسان"
+      ]
+    },
+    {
+      "EnglishWord": "viscoelasticity",
+      "Meanings": [
+        "ویسکوالاستیسیته",
+        "به خاصیتی از ماده اطلاق می‌شود که به واسطه آن تنش اعمال شده بر ماده با سرعت کرنش آن متناسب است. به عبارت ساده‌تر می‌توان گفت خاصیت یک ماده ویسکوز سیال گونه که از خود خواص الاستیک جامد گونه نیز نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "viscometer",
+      "Meanings": [
+        "گرانروی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "viscometry",
+      "Meanings": [
+        "گرانروی سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "viscose rayon",
+      "Meanings": [
+        "ویسکوز ریون"
+      ]
+    },
+    {
+      "EnglishWord": "viscose solution",
+      "Meanings": [
+        "محلول گرانرو"
+      ]
+    },
+    {
+      "EnglishWord": "viscosifier",
+      "Meanings": [
+        "گرانروساز",
+        "لزج ساز"
+      ]
+    },
+    {
+      "EnglishWord": "viscosimeter",
+      "Meanings": [
+        "گرانروی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity",
+      "Meanings": [
+        "گرانروی",
+        "ویسکوزیته"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity depressant",
+      "Meanings": [
+        "کاهنده گرانروی"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity improver",
+      "Meanings": [
+        "بهبود دهنده گرانروی"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity index",
+      "Meanings": [
+        "شاخص گرانروی"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity number",
+      "Meanings": [
+        "عدد گرانروی",
+        "عدد ویسکوزیته"
+      ]
+    },
+    {
+      "EnglishWord": "viscous",
+      "Meanings": [
+        "گرانرو"
+      ]
+    },
+    {
+      "EnglishWord": "viscous damping",
+      "Meanings": [
+        "میرایی گرانرو"
+      ]
+    },
+    {
+      "EnglishWord": "viscous flow",
+      "Meanings": [
+        "روانی گرانرو"
+      ]
+    },
+    {
+      "EnglishWord": "viscous liquid",
+      "Meanings": [
+        "مایع گرانرو"
+      ]
+    },
+    {
+      "EnglishWord": "visible defect",
+      "Meanings": [
+        "نقص مریی"
+      ]
+    },
+    {
+      "EnglishWord": "vitreous silica",
+      "Meanings": [
+        "سیلیکای شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "vitrification",
+      "Meanings": [
+        "شیشه‏ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "vividness",
+      "Meanings": [
+        "زنده بودن",
+        "رنگ زندگی",
+        "سرزندگی"
+      ]
+    },
+    {
+      "EnglishWord": "void",
+      "Meanings": [
+        "فضای خالی",
+        "خالی",
+        "تهی",
+        "حباب",
+        "حفره"
+      ]
+    },
+    {
+      "EnglishWord": "volatile",
+      "Meanings": [
+        "فرار"
+      ]
+    },
+    {
+      "EnglishWord": "volatile organic compound",
+      "Meanings": [
+        "مواد آلی فرار",
+        "ترکیبات شیمیایی شامل کربن که در دمای محیط یا در دمای فرآیند تبخیر می‏شوند‏"
+      ]
+    },
+    {
+      "EnglishWord": "volatile portions",
+      "Meanings": [
+        "جزء فرار",
+        "این اجزاء در حین شرایط خاص و تخریب دهی کوتاه مدت تبخیر می‏شوند و مواد غیر فرار باقی می‏ماند"
+      ]
+    },
+    {
+      "EnglishWord": "volatility",
+      "Meanings": [
+        "فراریت"
+      ]
+    },
+    {
+      "EnglishWord": "volume fraction",
+      "Meanings": [
+        "جزء حجمی",
+        "کسر حجمی"
+      ]
+    },
+    {
+      "EnglishWord": "volume shrinkage",
+      "Meanings": [
+        "جمع شدگی انقباض حجمی"
+      ]
+    },
+    {
+      "EnglishWord": "vortex",
+      "Meanings": [
+        "گرداب"
+      ]
+    },
+    {
+      "EnglishWord": "vulcanizate",
+      "Meanings": [
+        "محصول ولکانش"
+      ]
+    },
+    {
+      "EnglishWord": "vulcanization",
+      "Meanings": [
+        "ولکانش افزودن موادی چون گوگرد برای افزایش مقاومت فرسایشی"
+      ]
+    }
+  ]
+}

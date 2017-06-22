@@ -1,0 +1,1909 @@
+﻿{
+  "Group": "W",
+  "Entries": 280,
+  "Words": [
+    {
+      "EnglishWord": "w",
+      "Meanings": [
+        "بیست و سومین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "wage",
+      "Meanings": [
+        "اجرت",
+        "مزد",
+        "دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage policy",
+      "Meanings": [
+        "سیاست دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage scale",
+      "Meanings": [
+        "پایه دستمزد",
+        "اشل دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage system",
+      "Meanings": [
+        "سیستم دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wager",
+      "Meanings": [
+        "روز مزد"
+      ]
+    },
+    {
+      "EnglishWord": "waiting",
+      "Meanings": [
+        "انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line",
+      "Meanings": [
+        "صف",
+        "در صف گذاشتن",
+        "خط انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line analysis",
+      "Meanings": [
+        "تحلیل خط انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line model",
+      "Meanings": [
+        "مدل صف",
+        "مدل خط انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting time",
+      "Meanings": [
+        "زمان انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "walk",
+      "Meanings": [
+        "گذر",
+        "گشت و گذار",
+        "گام",
+        "راه"
+      ]
+    },
+    {
+      "EnglishWord": "walking beam",
+      "Meanings": [
+        "شمش سیار"
+      ]
+    },
+    {
+      "EnglishWord": "walkthrough method",
+      "Meanings": [
+        "روش گامی"
+      ]
+    },
+    {
+      "EnglishWord": "wall",
+      "Meanings": [
+        "دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "wall thickness",
+      "Meanings": [
+        "ضخامت دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "wallis formula",
+      "Meanings": [
+        "دستور والیس"
+      ]
+    },
+    {
+      "EnglishWord": "wallis product",
+      "Meanings": [
+        "حاصل ضرب والیس"
+      ]
+    },
+    {
+      "EnglishWord": "wallis's formula",
+      "Meanings": [
+        "فرمول والیس"
+      ]
+    },
+    {
+      "EnglishWord": "ware",
+      "Meanings": [
+        "جنس"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse",
+      "Meanings": [
+        "انبار کالا",
+        "مخزن",
+        "انبار"
+      ]
+    },
+    {
+      "EnglishWord": "warehouseman",
+      "Meanings": [
+        "انباردار"
+      ]
+    },
+    {
+      "EnglishWord": "warehousing",
+      "Meanings": [
+        "نگهداری در انبار",
+        "انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "waring's problem",
+      "Meanings": [
+        "مساله وارینگ"
+      ]
+    },
+    {
+      "EnglishWord": "warning lines",
+      "Meanings": [
+        "خطوط هشدار",
+        "خطوط اعلام"
+      ]
+    },
+    {
+      "EnglishWord": "warpage",
+      "Meanings": [
+        "اعوجاج",
+        "تاب برداشتن",
+        "پیچیدگی",
+        "تاب برداشتنی"
+      ]
+    },
+    {
+      "EnglishWord": "warrant",
+      "Meanings": [
+        "تضمنی کردن",
+        "رسید انبار",
+        "ضمانت کردن",
+        "تعهد کردن",
+        "مجوز دادن",
+        "مجوز"
+      ]
+    },
+    {
+      "EnglishWord": "warranty",
+      "Meanings": [
+        "تجویز",
+        "تعهدنامه",
+        "التزام",
+        "اجاره",
+        "ضمانت نامه کالا",
+        "تضمین"
+      ]
+    },
+    {
+      "EnglishWord": "warranty of quality",
+      "Meanings": [
+        "تضمین کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "waste",
+      "Meanings": [
+        "بی مصرف",
+        "باطله",
+        "ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "water shield plasma",
+      "Meanings": [
+        "پلاسما با لایه پوششی آب"
+      ]
+    },
+    {
+      "EnglishWord": "water volume",
+      "Meanings": [
+        "حجم آب"
+      ]
+    },
+    {
+      "EnglishWord": "watery body",
+      "Meanings": [
+        "شکل آبی"
+      ]
+    },
+    {
+      "EnglishWord": "watson's lemma",
+      "Meanings": [
+        "لم واتسون"
+      ]
+    },
+    {
+      "EnglishWord": "wave",
+      "Meanings": [
+        "موج"
+      ]
+    },
+    {
+      "EnglishWord": "wave equation",
+      "Meanings": [
+        "معادله موج"
+      ]
+    },
+    {
+      "EnglishWord": "wave function",
+      "Meanings": [
+        "تابع موج"
+      ]
+    },
+    {
+      "EnglishWord": "wave length",
+      "Meanings": [
+        "طول موج"
+      ]
+    },
+    {
+      "EnglishWord": "wave motion",
+      "Meanings": [
+        "حرکت موج",
+        "حرکت موجی"
+      ]
+    },
+    {
+      "EnglishWord": "wave number",
+      "Meanings": [
+        "عدد موج",
+        "عکس طول موج",
+        "تعداد موج",
+        "تعداد موج در واحد طول"
+      ]
+    },
+    {
+      "EnglishWord": "wave velocity",
+      "Meanings": [
+        "سرعت موج",
+        "سرعت فاز"
+      ]
+    },
+    {
+      "EnglishWord": "waveform",
+      "Meanings": [
+        "موجی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "wavelength",
+      "Meanings": [
+        "طول موج"
+      ]
+    },
+    {
+      "EnglishWord": "waviness",
+      "Meanings": [
+        "تموجی بودن",
+        "موجدار بودن",
+        "موجی بودن",
+        "تموج"
+      ]
+    },
+    {
+      "EnglishWord": "way",
+      "Meanings": [
+        "راه",
+        "طریق"
+      ]
+    },
+    {
+      "EnglishWord": "way bill",
+      "Meanings": [
+        "بارنامه زمینی",
+        "صورت بار",
+        "بارنامه"
+      ]
+    },
+    {
+      "EnglishWord": "we are given that",
+      "Meanings": [
+        "در صورتی که بدانیم"
+      ]
+    },
+    {
+      "EnglishWord": "we are though",
+      "Meanings": [
+        "مساله تمام است",
+        "اثبات تمام است"
+      ]
+    },
+    {
+      "EnglishWord": "we have found that",
+      "Meanings": [
+        "دیدیم که"
+      ]
+    },
+    {
+      "EnglishWord": "we notice that",
+      "Meanings": [
+        "می بینیم که"
+      ]
+    },
+    {
+      "EnglishWord": "weak",
+      "Meanings": [
+        "خفیف",
+        "ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak  topology",
+      "Meanings": [
+        "توپولوژی ضعیف ستاره",
+        "توپولوژی ضعیف*"
+      ]
+    },
+    {
+      "EnglishWord": "weak compactness",
+      "Meanings": [
+        "فشردگی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak completeness",
+      "Meanings": [
+        "فشردگی ضعیف",
+        "کمال ضعیف",
+        "تمامیت ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak convergence",
+      "Meanings": [
+        "همگرایی ضعیف",
+        "همگرایی خفیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak converse theorem",
+      "Meanings": [
+        "عکس ضعیف قضیه"
+      ]
+    },
+    {
+      "EnglishWord": "weak duality",
+      "Meanings": [
+        "دوگان ضعیف",
+        "ضعیف دوگانی"
+      ]
+    },
+    {
+      "EnglishWord": "weak induction",
+      "Meanings": [
+        "استقرای کم توان"
+      ]
+    },
+    {
+      "EnglishWord": "weak integral",
+      "Meanings": [
+        "انتگرال ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak interaction",
+      "Meanings": [
+        "بر هم کنش ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak law of large numbers",
+      "Meanings": [
+        "قانون خفیف اعداد بزرگ",
+        "قانون ضعیف اعداد بزرگ",
+        "قانون کم توان"
+      ]
+    },
+    {
+      "EnglishWord": "weak minimum",
+      "Meanings": [
+        "مینیمم ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak operator topology",
+      "Meanings": [
+        "توپولوژی ضعیف عملگر ها"
+      ]
+    },
+    {
+      "EnglishWord": "weak order",
+      "Meanings": [
+        "ترتیب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak order relation",
+      "Meanings": [
+        "نسبت ترتیبی ضعیف",
+        "رابطه ترتیبی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak relation",
+      "Meanings": [
+        "نسبت ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak solution",
+      "Meanings": [
+        "جواب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak topology",
+      "Meanings": [
+        "توپولوژی ضعیف",
+        "توپولوژی کم توان"
+      ]
+    },
+    {
+      "EnglishWord": "weaken",
+      "Meanings": [
+        "سبک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "weakened mood",
+      "Meanings": [
+        "ضرب ضعیف",
+        "استقرای ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weaker topology",
+      "Meanings": [
+        "توپولوژی ضعیفتر"
+      ]
+    },
+    {
+      "EnglishWord": "weakly",
+      "Meanings": [
+        "به طور ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weakly continuous representation",
+      "Meanings": [
+        "نمایش ضعیف پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "weakly convergent sequence",
+      "Meanings": [
+        "دنباله ضعیف همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "weakly integrable function",
+      "Meanings": [
+        "تابع ضعیف",
+        "انتگرال پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "weakly measurable function",
+      "Meanings": [
+        "تابع ضعیف",
+        "اندازه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "weakly order preserving",
+      "Meanings": [
+        "حافظ ترتیب ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weakly ordered",
+      "Meanings": [
+        "به طور ضعیف مرتب شده"
+      ]
+    },
+    {
+      "EnglishWord": "weakly stationary process",
+      "Meanings": [
+        "فرایند ضعیف مانا"
+      ]
+    },
+    {
+      "EnglishWord": "weakly symmetric riemannian space",
+      "Meanings": [
+        "فضای ریمانی ضعیف متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "wear",
+      "Meanings": [
+        "فرسودگی",
+        "فرسایش",
+        "ساییدگی",
+        "خورده شدن",
+        "ساییده شدن",
+        "مستهلک شدن",
+        "فرسودن",
+        "سایش"
+      ]
+    },
+    {
+      "EnglishWord": "wear and tear",
+      "Meanings": [
+        "سایش و فرسایش",
+        "استهلاک عادی",
+        "استهلاک",
+        "ریخت و ریز",
+        "ساییدگی و فرسودگی",
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "wear out",
+      "Meanings": [
+        "فرسوده شدن",
+        "ساییده شدن",
+        "فرسایش",
+        "خورده شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wear resistance",
+      "Meanings": [
+        "مقاومت در برابر سایش",
+        "دیرسایی",
+        "سخت سایی",
+        "پایداری در برابر سایش"
+      ]
+    },
+    {
+      "EnglishWord": "weather",
+      "Meanings": [
+        "هوا"
+      ]
+    },
+    {
+      "EnglishWord": "weather map",
+      "Meanings": [
+        "نقشه هوا"
+      ]
+    },
+    {
+      "EnglishWord": "weber function",
+      "Meanings": [
+        "تابع وبر"
+      ]
+    },
+    {
+      "EnglishWord": "weber transform",
+      "Meanings": [
+        "تبدیل وبر"
+      ]
+    },
+    {
+      "EnglishWord": "weddle's rule",
+      "Meanings": [
+        "قاعده ودل"
+      ]
+    },
+    {
+      "EnglishWord": "wedge",
+      "Meanings": [
+        "بیرون انداز",
+        "لبه",
+        "گاوه",
+        "گوه",
+        "از هم جدا کردن",
+        "با گوه شکافتن"
+      ]
+    },
+    {
+      "EnglishWord": "wedge clamp",
+      "Meanings": [
+        "گیره شیبدار",
+        "گیره گوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "wedge product",
+      "Meanings": [
+        "حاصل ضرب گوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "weibull distribution",
+      "Meanings": [
+        "توزیع وایبال"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass approximation theorem",
+      "Meanings": [
+        "قضیه تقریب وایراشتراوس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass canonical product",
+      "Meanings": [
+        "حاصل ضرب متعارف وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass elliptic functions",
+      "Meanings": [
+        "تابع‌های بیضوی وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass m test",
+      "Meanings": [
+        "آزمون وایرشتراس",
+        "آزمون m وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass point",
+      "Meanings": [
+        "نقطه وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass stone theorem",
+      "Meanings": [
+        "قضیه وایرشتراس",
+        "استون"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass test",
+      "Meanings": [
+        "آزمون وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass theorem",
+      "Meanings": [
+        "قضیه وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass zeta function",
+      "Meanings": [
+        "تابع زتای وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weight",
+      "Meanings": [
+        "وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weight function",
+      "Meanings": [
+        "تابع وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weight of a code",
+      "Meanings": [
+        "وزن کد"
+      ]
+    },
+    {
+      "EnglishWord": "weighted",
+      "Meanings": [
+        "وزن دار",
+        "وزین",
+        "سنگین",
+        "وزنه دار",
+        "موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted arithmetic mean",
+      "Meanings": [
+        "میانگین موزون حسابی",
+        "حسابی وزندار",
+        "میانگین حسابی وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "weighted average",
+      "Meanings": [
+        "میانگین وزنی",
+        "میانگین وزین",
+        "واسطه وزن دار",
+        "معدل وزن دار",
+        "میانگین موزون",
+        "متوسط موزون",
+        "میانگین وزندار",
+        "متوسط وزندار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted mean",
+      "Meanings": [
+        "متوسط وزنه دار",
+        "میانگین موزون",
+        "متوسط موزون",
+        "میانگین وزن دار",
+        "واسطه وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted mean value theorem",
+      "Meanings": [
+        "قضیه مقدار میانگین وزندار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted moving average",
+      "Meanings": [
+        "معدل متحرک موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted path length",
+      "Meanings": [
+        "طول مسیر وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighting factor",
+      "Meanings": [
+        "عامل وزنه"
+      ]
+    },
+    {
+      "EnglishWord": "weighting function",
+      "Meanings": [
+        "تابع چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "weightlessness",
+      "Meanings": [
+        "بی وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "weil conjecture",
+      "Meanings": [
+        "حدس وایل"
+      ]
+    },
+    {
+      "EnglishWord": "weil domain",
+      "Meanings": [
+        "حوزه وایل"
+      ]
+    },
+    {
+      "EnglishWord": "well behaved",
+      "Meanings": [
+        "خوش رفتار",
+        "خوش کردار"
+      ]
+    },
+    {
+      "EnglishWord": "well behaved function",
+      "Meanings": [
+        "تابع خوش رفتار"
+      ]
+    },
+    {
+      "EnglishWord": "well conditioned",
+      "Meanings": [
+        "خوش حالت",
+        "خوش طرح"
+      ]
+    },
+    {
+      "EnglishWord": "well defined",
+      "Meanings": [
+        "خوش تعریف",
+        "خوب تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "well defined function",
+      "Meanings": [
+        "تابع خوش تعریف"
+      ]
+    },
+    {
+      "EnglishWord": "well formed",
+      "Meanings": [
+        "خوش ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "well formed formula",
+      "Meanings": [
+        "فرمول خوش ساخت",
+        "دستور خوب ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "well known",
+      "Meanings": [
+        "آشنا"
+      ]
+    },
+    {
+      "EnglishWord": "well ordered",
+      "Meanings": [
+        "خوش ترتیب",
+        "نیکو مرتب",
+        "خوب مرتب شده"
+      ]
+    },
+    {
+      "EnglishWord": "well ordered set",
+      "Meanings": [
+        "مجموعه خوش ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering",
+      "Meanings": [
+        "خوش ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering principle",
+      "Meanings": [
+        "اصل خوش ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering property",
+      "Meanings": [
+        "ویژگی خوشترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well ordering theorem",
+      "Meanings": [
+        "قضیه خوشترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well posed",
+      "Meanings": [
+        "خوش طرح"
+      ]
+    },
+    {
+      "EnglishWord": "well principle",
+      "Meanings": [
+        "اصل خوش ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "well relation",
+      "Meanings": [
+        "نسبت ترتیبی نیکو"
+      ]
+    },
+    {
+      "EnglishWord": "well set",
+      "Meanings": [
+        "مجموعه خوش ترتیب",
+        "مجموعه کاملا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "weyl integral formula",
+      "Meanings": [
+        "فرمول انتگرال وایل"
+      ]
+    },
+    {
+      "EnglishWord": "weyl principle",
+      "Meanings": [
+        "اصل وایل"
+      ]
+    },
+    {
+      "EnglishWord": "what happen",
+      "Meanings": [
+        "به چه صورتی در می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "whatever",
+      "Meanings": [
+        "بدون توجه به",
+        "اگر",
+        "هر چه باشد",
+        "هر چه",
+        "هر آنچه",
+        "اصلا",
+        "هر",
+        "دلخواه",
+        "هر قدر"
+      ]
+    },
+    {
+      "EnglishWord": "whatever process",
+      "Meanings": [
+        "هر پردازشی"
+      ]
+    },
+    {
+      "EnglishWord": "wheel",
+      "Meanings": [
+        "نقاله چرخی",
+        "چرخ"
+      ]
+    },
+    {
+      "EnglishWord": "when",
+      "Meanings": [
+        "برای",
+        "به ازای",
+        "چه وقت"
+      ]
+    },
+    {
+      "EnglishWord": "when need",
+      "Meanings": [
+        "در صورت لزوم"
+      ]
+    },
+    {
+      "EnglishWord": "when possible",
+      "Meanings": [
+        "در صورت امکان"
+      ]
+    },
+    {
+      "EnglishWord": "when we wish to",
+      "Meanings": [
+        "هنگامی که بخواهیم"
+      ]
+    },
+    {
+      "EnglishWord": "whence",
+      "Meanings": [
+        "از آنجا",
+        "که از آن نتیجه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "whenever",
+      "Meanings": [
+        "هر جا",
+        "هرگاه",
+        "اگر"
+      ]
+    },
+    {
+      "EnglishWord": "where",
+      "Meanings": [
+        "در کجا",
+        "کی"
+      ]
+    },
+    {
+      "EnglishWord": "where by",
+      "Meanings": [
+        "که به وسیله آن"
+      ]
+    },
+    {
+      "EnglishWord": "where the stone falls",
+      "Meanings": [
+        "پای ارتفاع مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "whereas",
+      "Meanings": [
+        "نظر به این که",
+        "از آنجا که",
+        "در حالی که"
+      ]
+    },
+    {
+      "EnglishWord": "wherefore",
+      "Meanings": [
+        "به چه علت",
+        "چرا"
+      ]
+    },
+    {
+      "EnglishWord": "wherefrom",
+      "Meanings": [
+        "که از آنجا"
+      ]
+    },
+    {
+      "EnglishWord": "wherein",
+      "Meanings": [
+        "که در آن",
+        "در جایی که"
+      ]
+    },
+    {
+      "EnglishWord": "whereof",
+      "Meanings": [
+        "از آنجایی که"
+      ]
+    },
+    {
+      "EnglishWord": "wherever",
+      "Meanings": [
+        "جایی که",
+        "آنجا که",
+        "هر جا که"
+      ]
+    },
+    {
+      "EnglishWord": "whether",
+      "Meanings": [
+        "آیا",
+        "چه",
+        "خواه"
+      ]
+    },
+    {
+      "EnglishWord": "whether each of",
+      "Meanings": [
+        "کدامیک از"
+      ]
+    },
+    {
+      "EnglishWord": "whether or not",
+      "Meanings": [
+        "در همه حال",
+        "به هر صورت",
+        "به هر حال"
+      ]
+    },
+    {
+      "EnglishWord": "which",
+      "Meanings": [
+        "که",
+        "کدام",
+        "به طوری که"
+      ]
+    },
+    {
+      "EnglishWord": "which is",
+      "Meanings": [
+        "یعنی"
+      ]
+    },
+    {
+      "EnglishWord": "which means that",
+      "Meanings": [
+        "به معنای آن است که"
+      ]
+    },
+    {
+      "EnglishWord": "which of",
+      "Meanings": [
+        "کدام یک از"
+      ]
+    },
+    {
+      "EnglishWord": "whichever",
+      "Meanings": [
+        "هر کدام"
+      ]
+    },
+    {
+      "EnglishWord": "whispering",
+      "Meanings": [
+        "نجوا"
+      ]
+    },
+    {
+      "EnglishWord": "white",
+      "Meanings": [
+        "سفید"
+      ]
+    },
+    {
+      "EnglishWord": "white dwarf",
+      "Meanings": [
+        "کوتوله سفید"
+      ]
+    },
+    {
+      "EnglishWord": "white noise",
+      "Meanings": [
+        "اغتشاش خالص"
+      ]
+    },
+    {
+      "EnglishWord": "whitehead product",
+      "Meanings": [
+        "حاصل ضرب وایتهد"
+      ]
+    },
+    {
+      "EnglishWord": "whittaker differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل ویتاکر"
+      ]
+    },
+    {
+      "EnglishWord": "whittaker function",
+      "Meanings": [
+        "تابع‌های ویتاکر"
+      ]
+    },
+    {
+      "EnglishWord": "whittaker functions",
+      "Meanings": [
+        "تابع‌های ویتاکر"
+      ]
+    },
+    {
+      "EnglishWord": "whoever x",
+      "Meanings": [
+        "هر چه باشد x",
+        "به ازای تمام مقادیر x"
+      ]
+    },
+    {
+      "EnglishWord": "whole",
+      "Meanings": [
+        "کامل",
+        "درست",
+        "تمام",
+        "سراسر",
+        "همه",
+        "سالم",
+        "بی خرده",
+        "صحیح",
+        "کل"
+      ]
+    },
+    {
+      "EnglishWord": "whole number",
+      "Meanings": [
+        "عدد صحیح",
+        "عدد تام",
+        "عدد درست",
+        "عدد تمام",
+        "شمار درست"
+      ]
+    },
+    {
+      "EnglishWord": "whole part",
+      "Meanings": [
+        "قسمت صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "wholesale",
+      "Meanings": [
+        "عمده فروشی",
+        "کلی فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "wide",
+      "Meanings": [
+        "پهن",
+        "گشاد",
+        "وسیع"
+      ]
+    },
+    {
+      "EnglishWord": "wide area",
+      "Meanings": [
+        "فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "wide range",
+      "Meanings": [
+        "دامنه وسیع"
+      ]
+    },
+    {
+      "EnglishWord": "widen",
+      "Meanings": [
+        "گستراندن",
+        "پهن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "عرض",
+        "پهنا",
+        "پهنه"
+      ]
+    },
+    {
+      "EnglishWord": "width of a region",
+      "Meanings": [
+        "عرض یک ناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "widthwise",
+      "Meanings": [
+        "عرضی گون"
+      ]
+    },
+    {
+      "EnglishWord": "wiener levy theorem",
+      "Meanings": [
+        "قضیه وینر",
+        "لوی"
+      ]
+    },
+    {
+      "EnglishWord": "wiener process",
+      "Meanings": [
+        "فرایند وینر"
+      ]
+    },
+    {
+      "EnglishWord": "wigger indicator",
+      "Meanings": [
+        "سنجه جنبان"
+      ]
+    },
+    {
+      "EnglishWord": "wild function",
+      "Meanings": [
+        "تابع وحشی"
+      ]
+    },
+    {
+      "EnglishWord": "wilding",
+      "Meanings": [
+        "پیچش",
+        "تاب دادن",
+        "چرخش",
+        "گشت"
+      ]
+    },
+    {
+      "EnglishWord": "wilding number",
+      "Meanings": [
+        "عدد پیچش",
+        "عدد گردشی",
+        "شماره گشت",
+        "عدد چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "will",
+      "Meanings": [
+        "دلخواه",
+        "اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "will be",
+      "Meanings": [
+        "می توان"
+      ]
+    },
+    {
+      "EnglishWord": "wilson's theorem",
+      "Meanings": [
+        "قضیه ویلسون"
+      ]
+    },
+    {
+      "EnglishWord": "wilsorized",
+      "Meanings": [
+        "وینسوریزه"
+      ]
+    },
+    {
+      "EnglishWord": "winding",
+      "Meanings": [
+        "گردشی"
+      ]
+    },
+    {
+      "EnglishWord": "winding number",
+      "Meanings": [
+        "عدد چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "wiper",
+      "Meanings": [
+        "برف پاک کن",
+        "جاروبک",
+        "بادامه"
+      ]
+    },
+    {
+      "EnglishWord": "wiper blade",
+      "Meanings": [
+        "تیغه جاروب کن"
+      ]
+    },
+    {
+      "EnglishWord": "wire",
+      "Meanings": [
+        "مفتول",
+        "کابل",
+        "سیم"
+      ]
+    },
+    {
+      "EnglishWord": "wire drawing",
+      "Meanings": [
+        "کشش سیمی",
+        "مفتول کشی"
+      ]
+    },
+    {
+      "EnglishWord": "wire frame modelling",
+      "Meanings": [
+        "مدل قاب سیمی",
+        "مدل سازی شبکه توری"
+      ]
+    },
+    {
+      "EnglishWord": "wire rope",
+      "Meanings": [
+        "سیم رشته ای",
+        "کابل فولادی"
+      ]
+    },
+    {
+      "EnglishWord": "wish",
+      "Meanings": [
+        "بخواهیم"
+      ]
+    },
+    {
+      "EnglishWord": "wishart distribution",
+      "Meanings": [
+        "توزیع ویشارت"
+      ]
+    },
+    {
+      "EnglishWord": "wit replacement",
+      "Meanings": [
+        "با جای گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "witch of agnesi",
+      "Meanings": [
+        "خم آنزا",
+        "خم اگنس"
+      ]
+    },
+    {
+      "EnglishWord": "with",
+      "Meanings": [
+        "با استفاده از",
+        "با",
+        "بوسیله ی"
+      ]
+    },
+    {
+      "EnglishWord": "with a number of examples",
+      "Meanings": [
+        "با چند مثال"
+      ]
+    },
+    {
+      "EnglishWord": "with account take",
+      "Meanings": [
+        "با در نظر گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "with different sign",
+      "Meanings": [
+        "نا همعلامت"
+      ]
+    },
+    {
+      "EnglishWord": "with different signs",
+      "Meanings": [
+        "با علامت‌های مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "with reference to",
+      "Meanings": [
+        "مرجع",
+        "نسبت به"
+      ]
+    },
+    {
+      "EnglishWord": "with regard to",
+      "Meanings": [
+        "نسبت به",
+        "درباره ی",
+        "با رعایت",
+        "با ملاحظه"
+      ]
+    },
+    {
+      "EnglishWord": "with respect",
+      "Meanings": [
+        "نسبت به",
+        "در مورد"
+      ]
+    },
+    {
+      "EnglishWord": "with respect to",
+      "Meanings": [
+        "نسبت به",
+        "بر حسب"
+      ]
+    },
+    {
+      "EnglishWord": "with the exception",
+      "Meanings": [
+        "به استثنای"
+      ]
+    },
+    {
+      "EnglishWord": "with the same sign",
+      "Meanings": [
+        "هم علامت"
+      ]
+    },
+    {
+      "EnglishWord": "with the same signs",
+      "Meanings": [
+        "هم علامت"
+      ]
+    },
+    {
+      "EnglishWord": "within",
+      "Meanings": [
+        "در قرار دارد",
+        "درون",
+        "تو",
+        "داخل"
+      ]
+    },
+    {
+      "EnglishWord": "within and on",
+      "Meanings": [
+        "دروبر"
+      ]
+    },
+    {
+      "EnglishWord": "within loss",
+      "Meanings": [
+        "بدون انحصار"
+      ]
+    },
+    {
+      "EnglishWord": "within replacement",
+      "Meanings": [
+        "بدون جایگزاری"
+      ]
+    },
+    {
+      "EnglishWord": "without loss of generality",
+      "Meanings": [
+        "بدون از دست رفتن کلیت"
+      ]
+    },
+    {
+      "EnglishWord": "without replacement",
+      "Meanings": [
+        "بدون جای گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "wobble",
+      "Meanings": [
+        "لرزش",
+        "حرکت لرزشی"
+      ]
+    },
+    {
+      "EnglishWord": "wold decomposition",
+      "Meanings": [
+        "تجزیه ولد"
+      ]
+    },
+    {
+      "EnglishWord": "word",
+      "Meanings": [
+        "کلمه",
+        "واژه"
+      ]
+    },
+    {
+      "EnglishWord": "word length",
+      "Meanings": [
+        "طول واژه"
+      ]
+    },
+    {
+      "EnglishWord": "word problem",
+      "Meanings": [
+        "مساله واژه"
+      ]
+    },
+    {
+      "EnglishWord": "word processing",
+      "Meanings": [
+        "پردازش کلمه",
+        "لغت پردازی"
+      ]
+    },
+    {
+      "EnglishWord": "work",
+      "Meanings": [
+        "کار"
+      ]
+    },
+    {
+      "EnglishWord": "work breakdown schedule",
+      "Meanings": [
+        "جدول زمانی تقسیم کار"
+      ]
+    },
+    {
+      "EnglishWord": "work head",
+      "Meanings": [
+        "کارگیر"
+      ]
+    },
+    {
+      "EnglishWord": "work in process",
+      "Meanings": [
+        "کالای در جریان ساخت",
+        "محصول نیمه تمام"
+      ]
+    },
+    {
+      "EnglishWord": "work integral",
+      "Meanings": [
+        "انتگرال کار"
+      ]
+    },
+    {
+      "EnglishWord": "work measurement",
+      "Meanings": [
+        "کارسنجی",
+        "اندازه گیری کار"
+      ]
+    },
+    {
+      "EnglishWord": "work pachage",
+      "Meanings": [
+        "گروه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work priority system",
+      "Meanings": [
+        "سیستم کار با اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "work program",
+      "Meanings": [
+        "برنامه کار"
+      ]
+    },
+    {
+      "EnglishWord": "work sampling",
+      "Meanings": [
+        "نمونه برداری از کار"
+      ]
+    },
+    {
+      "EnglishWord": "work shop",
+      "Meanings": [
+        "کارخانه کوچک",
+        "کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "work simplification",
+      "Meanings": [
+        "ساده کردن کار"
+      ]
+    },
+    {
+      "EnglishWord": "work situation",
+      "Meanings": [
+        "محیط کار",
+        "وضعیت کار",
+        "موقعیت کار"
+      ]
+    },
+    {
+      "EnglishWord": "work station",
+      "Meanings": [
+        "ایستگاه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work stoppage",
+      "Meanings": [
+        "متوقف شدن کار",
+        "توقف کار"
+      ]
+    },
+    {
+      "EnglishWord": "work study",
+      "Meanings": [
+        "بررسی کار",
+        "کارسنجی",
+        "مطالعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "work unit",
+      "Meanings": [
+        "واحد کار"
+      ]
+    },
+    {
+      "EnglishWord": "work volume",
+      "Meanings": [
+        "فضای کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work zone",
+      "Meanings": [
+        "منطقه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "workflow chart",
+      "Meanings": [
+        "نمودار مراحل کار",
+        "نمودار جریان کار"
+      ]
+    },
+    {
+      "EnglishWord": "workhandling",
+      "Meanings": [
+        "جا به جا کردن قطعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "working capital",
+      "Meanings": [
+        "سرمایه جاری",
+        "سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "working day",
+      "Meanings": [
+        "روز غیر تعطیل",
+        "روز فعالیت",
+        "روز کار",
+        "روز کاری"
+      ]
+    },
+    {
+      "EnglishWord": "working fund",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "working hours method",
+      "Meanings": [
+        "روش میزان ساعات کارکرد",
+        "روش ساعات کارکرد"
+      ]
+    },
+    {
+      "EnglishWord": "working life",
+      "Meanings": [
+        "دوره کارکرد",
+        "عمر کارکرد",
+        "دوره فعالیت",
+        "دوام"
+      ]
+    },
+    {
+      "EnglishWord": "working origin",
+      "Meanings": [
+        "مبداء کارآمد"
+      ]
+    },
+    {
+      "EnglishWord": "working probits",
+      "Meanings": [
+        "آزمایش‌های عملی"
+      ]
+    },
+    {
+      "EnglishWord": "working procedure",
+      "Meanings": [
+        "روش کار",
+        "رویه کار"
+      ]
+    },
+    {
+      "EnglishWord": "workmanship",
+      "Meanings": [
+        "طرز کار",
+        "مهارت",
+        "استادی"
+      ]
+    },
+    {
+      "EnglishWord": "workpiece",
+      "Meanings": [
+        "قطعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "workplace",
+      "Meanings": [
+        "منطقه کار",
+        "منطقه کاری",
+        "محل کار"
+      ]
+    },
+    {
+      "EnglishWord": "works",
+      "Meanings": [
+        "کارخانه",
+        "عملیات",
+        "آثار",
+        "عمل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "worksheet",
+      "Meanings": [
+        "برگه کار",
+        "ورقه کار",
+        "کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "world series",
+      "Meanings": [
+        "سری‌های جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "worm",
+      "Meanings": [
+        "لوله مارپیچی حلزونی",
+        "پیچ حلزون"
+      ]
+    },
+    {
+      "EnglishWord": "worm gear",
+      "Meanings": [
+        "چرخ دنده بی انتها",
+        "چرخ دنده حلزونی",
+        "دنده مارپیچی",
+        "دنده حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "wormwheel",
+      "Meanings": [
+        "چرخ حلزون",
+        "چرخ دنده مارپیچی",
+        "چرخ حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "worst case",
+      "Meanings": [
+        "بدترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "wrench",
+      "Meanings": [
+        "چرخش",
+        "پیچش",
+        "پیچاندن",
+        "آچار"
+      ]
+    },
+    {
+      "EnglishWord": "wring fit",
+      "Meanings": [
+        "انطباق چسبنده"
+      ]
+    },
+    {
+      "EnglishWord": "wrinkled",
+      "Meanings": [
+        "چین دار"
+      ]
+    },
+    {
+      "EnglishWord": "wrist pin",
+      "Meanings": [
+        "انگشتی پیستون",
+        "انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "write down",
+      "Meanings": [
+        "پایین آوردن ارزش دفتری"
+      ]
+    },
+    {
+      "EnglishWord": "write in the form",
+      "Meanings": [
+        "به شکل… درآوردن",
+        "به صورت… نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "wrong",
+      "Meanings": [
+        "غلط"
+      ]
+    },
+    {
+      "EnglishWord": "wronskian",
+      "Meanings": [
+        "دترمینان رانسکی",
+        "رانسکین",
+        "رونسکی",
+        "رانسکی"
+      ]
+    },
+    {
+      "EnglishWord": "wronskian determinant",
+      "Meanings": [
+        "دترمینان ورونیسکی",
+        "ورونیسکی"
+      ]
+    },
+    {
+      "EnglishWord": "wronskin",
+      "Meanings": [
+        "رونسکینی",
+        "تابع رانسکین"
+      ]
+    },
+    {
+      "EnglishWord": "wrought",
+      "Meanings": [
+        "ساختار فرم داده شده",
+        "نوردی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+﻿{
+  "Group": "B",
+  "Entries": 78,
+  "Words": [
+    {
+      "EnglishWord": "b",
+      "Meanings": [
+        "حرف دوم از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 11 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "b  tree",
+      "Meanings": [
+        "درخت +B"
+      ]
+    },
+    {
+      "EnglishWord": "back edge",
+      "Meanings": [
+        "یال برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "backtracking",
+      "Meanings": [
+        "پسگرد"
+      ]
+    },
+    {
+      "EnglishWord": "backward",
+      "Meanings": [
+        "رو به عقب"
+      ]
+    },
+    {
+      "EnglishWord": "bag",
+      "Meanings": [
+        "گردایه",
+        "مجموعه چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "balance",
+      "Meanings": [
+        "توازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced binary search tree",
+      "Meanings": [
+        "درخت دودویی جستجوی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced binary tree",
+      "Meanings": [
+        "درخت دودویی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced k-way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی k راهی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced multiway merge",
+      "Meanings": [
+        "ادغام چند راهی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced node",
+      "Meanings": [
+        "گره متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced quicksort",
+      "Meanings": [
+        "مرتب ساز سریع متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "balanced two-way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی دو راهی متوازن"
+      ]
+    },
+    {
+      "EnglishWord": "bellman-ford algorithm",
+      "Meanings": [
+        "الگوریتم بلمن",
+        "فورد"
+      ]
+    },
+    {
+      "EnglishWord": "benford's law",
+      "Meanings": [
+        "قانون بن فورد"
+      ]
+    },
+    {
+      "EnglishWord": "best case",
+      "Meanings": [
+        "بهترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "best case cost",
+      "Meanings": [
+        "هزینه بهترین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "best first search",
+      "Meanings": [
+        "جستجوی بهترین اول"
+      ]
+    },
+    {
+      "EnglishWord": "bfs",
+      "Meanings": [
+        "جستجوی سطح اول"
+      ]
+    },
+    {
+      "EnglishWord": "biconnected",
+      "Meanings": [
+        "همبند دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "biconnected component",
+      "Meanings": [
+        "مولفه دو همبند"
+      ]
+    },
+    {
+      "EnglishWord": "biconnected graph",
+      "Meanings": [
+        "گراف دو همبند"
+      ]
+    },
+    {
+      "EnglishWord": "bidirectional bubble sort",
+      "Meanings": [
+        "مرتب ساز حبابی دو جهته"
+      ]
+    },
+    {
+      "EnglishWord": "big o notation",
+      "Meanings": [
+        "نماد O بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "bin sort",
+      "Meanings": [
+        "مرتب ساز سطلی"
+      ]
+    },
+    {
+      "EnglishWord": "binary",
+      "Meanings": [
+        "دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary function",
+      "Meanings": [
+        "تابع دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary gcd algorithm",
+      "Meanings": [
+        "الگوریتم ب. م. م بزرگترین مقسوم علیه مشترک دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary insertion sort",
+      "Meanings": [
+        "مرتب ساز درجی دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary priority queue",
+      "Meanings": [
+        "صف اولویت دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary relation",
+      "Meanings": [
+        "رابطه دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary search",
+      "Meanings": [
+        "جستجوی دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary search tree",
+      "Meanings": [
+        "درخت جستجوی دودویی",
+        "BST"
+      ]
+    },
+    {
+      "EnglishWord": "binary trie",
+      "Meanings": [
+        "ترای دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "bingo sort",
+      "Meanings": [
+        "مرتب ساز بینگو"
+      ]
+    },
+    {
+      "EnglishWord": "binomial distribution",
+      "Meanings": [
+        "توزیع دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial heap",
+      "Meanings": [
+        "هرم دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bipartite graph",
+      "Meanings": [
+        "گراف دو بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "bipartite matching",
+      "Meanings": [
+        "تطابق دو بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "bisector",
+      "Meanings": [
+        "نیمساز"
+      ]
+    },
+    {
+      "EnglishWord": "bit",
+      "Meanings": [
+        "بیت"
+      ]
+    },
+    {
+      "EnglishWord": "bit vector",
+      "Meanings": [
+        "آرایه بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "blocking flow",
+      "Meanings": [
+        "شاره انسدادی"
+      ]
+    },
+    {
+      "EnglishWord": "blossom",
+      "Meanings": [
+        "شکوفه"
+      ]
+    },
+    {
+      "EnglishWord": "boolean",
+      "Meanings": [
+        "بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean expression",
+      "Meanings": [
+        "عبارت بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean function",
+      "Meanings": [
+        "تابع بولی"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck",
+      "Meanings": [
+        "تنگنا"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck",
+      "Meanings": [
+        "گلوگاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck traveling salesman",
+      "Meanings": [
+        "فروشنده دوره گرد با گلوگاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom-up radix sort",
+      "Meanings": [
+        "مرتب ساز مبنایی پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bottom-up tree automaton",
+      "Meanings": [
+        "اتوماتون درختی پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bound",
+      "Meanings": [
+        "کران"
+      ]
+    },
+    {
+      "EnglishWord": "boundary based representation",
+      "Meanings": [
+        "نمایش مبتنی بر کرانه"
+      ]
+    },
+    {
+      "EnglishWord": "bounded queue",
+      "Meanings": [
+        "صف کران دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded stack",
+      "Meanings": [
+        "پشته کران دار"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "شاخه"
+      ]
+    },
+    {
+      "EnglishWord": "branch and bound",
+      "Meanings": [
+        "انشعاب و حد"
+      ]
+    },
+    {
+      "EnglishWord": "branching",
+      "Meanings": [
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "breadth first search",
+      "Meanings": [
+        "جستجوی سطح اول",
+        "BFS"
+      ]
+    },
+    {
+      "EnglishWord": "bresenham's algorithm",
+      "Meanings": [
+        "الگوریتم برزنهام"
+      ]
+    },
+    {
+      "EnglishWord": "brick sort",
+      "Meanings": [
+        "مرتب ساز خشتی"
+      ]
+    },
+    {
+      "EnglishWord": "bridge",
+      "Meanings": [
+        "پل"
+      ]
+    },
+    {
+      "EnglishWord": "british museum algorithm",
+      "Meanings": [
+        "الگوریتم موزه انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "broujerd",
+      "Meanings": [
+        "از شهرهای استان لرستان در کشور ایران"
+      ]
+    },
+    {
+      "EnglishWord": "brute force",
+      "Meanings": [
+        "کورکورانه"
+      ]
+    },
+    {
+      "EnglishWord": "bsp tree",
+      "Meanings": [
+        "درخت BSP"
+      ]
+    },
+    {
+      "EnglishWord": "bst",
+      "Meanings": [
+        "درخت جستجوی دودویی",
+        "B inary S earch T ree"
+      ]
+    },
+    {
+      "EnglishWord": "bubble sort",
+      "Meanings": [
+        "مرتب ساز حبابی"
+      ]
+    },
+    {
+      "EnglishWord": "bucket",
+      "Meanings": [
+        "سطل"
+      ]
+    },
+    {
+      "EnglishWord": "bucket array",
+      "Meanings": [
+        "آرایه سطلی"
+      ]
+    },
+    {
+      "EnglishWord": "bucket sort",
+      "Meanings": [
+        "مرتب ساز سطلی"
+      ]
+    },
+    {
+      "EnglishWord": "bucketing method",
+      "Meanings": [
+        "روش سطل بندی"
+      ]
+    },
+    {
+      "EnglishWord": "byzantine agreement prablem",
+      "Meanings": [
+        "مسیله معاهده رومی"
+      ]
+    },
+    {
+      "EnglishWord": "byzantine generals",
+      "Meanings": [
+        "ژنرالهای رومی"
+      ]
+    }
+  ]
+}

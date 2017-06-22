@@ -1,0 +1,1312 @@
+﻿{
+  "Group": "O",
+  "Entries": 175,
+  "Words": [
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شیء",
+        "هدف",
+        "جسم",
+        "موضوع",
+        "مقصد",
+        "مقصود"
+      ]
+    },
+    {
+      "EnglishWord": "object program",
+      "Meanings": [
+        "برنامه مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "objective",
+      "Meanings": [
+        "هدف",
+        "عینی",
+        "برونی",
+        "عملی"
+      ]
+    },
+    {
+      "EnglishWord": "objective criterion",
+      "Meanings": [
+        "معیار عینی",
+        "ضابطه عینی"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "obligation",
+      "Meanings": [
+        "تعهد",
+        "مسیولیت",
+        "تکلیف",
+        "التزام",
+        "بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "oblique cutting",
+      "Meanings": [
+        "برش کاری مورب"
+      ]
+    },
+    {
+      "EnglishWord": "observation",
+      "Meanings": [
+        "مشاهده",
+        "مشاهده کردن",
+        "تنظیم",
+        "دقت",
+        "کنترل",
+        "معاینه"
+      ]
+    },
+    {
+      "EnglishWord": "observed frequency",
+      "Meanings": [
+        "فراوانی مشهود",
+        "فراوانی مشاهده شده"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescene",
+      "Meanings": [
+        "قدیمی شدن",
+        "کهنگی و منسوخ شدن",
+        "کهنگی و فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescent technology",
+      "Meanings": [
+        "تکنولوژی نایاب"
+      ]
+    },
+    {
+      "EnglishWord": "occupancy theory",
+      "Meanings": [
+        "نظزیه اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "occupational hazards",
+      "Meanings": [
+        "خطرات شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "occupational safety",
+      "Meanings": [
+        "ایمنی حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "octagonal ingot",
+      "Meanings": [
+        "شمش هشت ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "odds",
+      "Meanings": [
+        "شانس",
+        "بخت"
+      ]
+    },
+    {
+      "EnglishWord": "offer",
+      "Meanings": [
+        "اوفر",
+        "پیشنهاد",
+        "عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "off-hand grinding",
+      "Meanings": [
+        "سنگزنی دستی",
+        "سنگزنی دم دستی"
+      ]
+    },
+    {
+      "EnglishWord": "office supplies",
+      "Meanings": [
+        "ملزومات اداری"
+      ]
+    },
+    {
+      "EnglishWord": "official structure",
+      "Meanings": [
+        "سازمان رسمی",
+        "ساختار اداری",
+        "ساختار رسمی",
+        "ساخت سازمان رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "off-line",
+      "Meanings": [
+        "برون خطی",
+        "بدون ارتباط مستقیم",
+        "خارج از خط",
+        "خط خاموش",
+        "قطع"
+      ]
+    },
+    {
+      "EnglishWord": "offset",
+      "Meanings": [
+        "انحراف",
+        "جبران کردن",
+        "خنثی کردن",
+        "متعادل ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "offset cam",
+      "Meanings": [
+        "بادامک انحرافی",
+        "بادامک با پس نشست",
+        "بادامک زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "off-time",
+      "Meanings": [
+        "زمان خاموشی",
+        "زمان توقف",
+        "مرخصی",
+        "وقت آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "ogives",
+      "Meanings": [
+        "نمودارهای اجایو"
+      ]
+    },
+    {
+      "EnglishWord": "oil circulation system",
+      "Meanings": [
+        "سیستم گردش روغن"
+      ]
+    },
+    {
+      "EnglishWord": "oil cushion",
+      "Meanings": [
+        "بالشتک روخنی"
+      ]
+    },
+    {
+      "EnglishWord": "oil mist",
+      "Meanings": [
+        "روغنکاری قطره ای",
+        "روانکاری غباری",
+        "روغنکاری روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "oil quench",
+      "Meanings": [
+        "آب دادن در روغن",
+        "خنک کردن در روغن",
+        "سرد کردن در روغن",
+        "کوینچ کردن در روغن"
+      ]
+    },
+    {
+      "EnglishWord": "oil quenching",
+      "Meanings": [
+        "آب دادن بوسیله روغن",
+        "آبکاری با روغن",
+        "سختکاری با روغن",
+        "آبدهی روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "oil-hardening tool steel",
+      "Meanings": [
+        "فولاد ابزاری سخت شده در روغن"
+      ]
+    },
+    {
+      "EnglishWord": "on and off",
+      "Meanings": [
+        "قطع و وصل",
+        "متناوب",
+        "نوبتی"
+      ]
+    },
+    {
+      "EnglishWord": "on line",
+      "Meanings": [
+        "روی خط",
+        "درون خط",
+        "ارتباط مستقیم",
+        "با ارتباط مستقیم",
+        "در خط",
+        "در مدار"
+      ]
+    },
+    {
+      "EnglishWord": "one hundred percent inspection",
+      "Meanings": [
+        "بازرسی صد در صد"
+      ]
+    },
+    {
+      "EnglishWord": "one material problem",
+      "Meanings": [
+        "مساله تک محصولی"
+      ]
+    },
+    {
+      "EnglishWord": "one-off production",
+      "Meanings": [
+        "تولید تکی"
+      ]
+    },
+    {
+      "EnglishWord": "one-sample runs test",
+      "Meanings": [
+        "آزمون سری‌های یک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one-sample sign test",
+      "Meanings": [
+        "آزمون علامت یک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one-single-strand machine",
+      "Meanings": [
+        "ماشین یک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "one-step transition matrix",
+      "Meanings": [
+        "ماتریس انتقال وضعیت یک مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "one-tailed",
+      "Meanings": [
+        "یکطرفه",
+        "یک دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "one-way analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one-way classification",
+      "Meanings": [
+        "طبقه بندی یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "on-line terminal",
+      "Meanings": [
+        "پایانه پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "opaque",
+      "Meanings": [
+        "کدر",
+        "مات",
+        "تیره",
+        "ناشفاف"
+      ]
+    },
+    {
+      "EnglishWord": "open half-space",
+      "Meanings": [
+        "نیم فضای باز"
+      ]
+    },
+    {
+      "EnglishWord": "open riser",
+      "Meanings": [
+        "لوله تغذیه سر باز",
+        "تغذیه کننده باز"
+      ]
+    },
+    {
+      "EnglishWord": "open system",
+      "Meanings": [
+        "نظام باز",
+        "سیستم باز"
+      ]
+    },
+    {
+      "EnglishWord": "open train",
+      "Meanings": [
+        "نورد یک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "open-end budget",
+      "Meanings": [
+        "بودجه نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "open-end wrench",
+      "Meanings": [
+        "آچار دو سر پهن",
+        "آچار سرباز",
+        "آچار تخت"
+      ]
+    },
+    {
+      "EnglishWord": "open-ended",
+      "Meanings": [
+        "راه به در"
+      ]
+    },
+    {
+      "EnglishWord": "open-ended questionnaire",
+      "Meanings": [
+        "آچار دو سر پهن",
+        "آچار سر باز",
+        "آچار تخت"
+      ]
+    },
+    {
+      "EnglishWord": "open-hearth furnace",
+      "Meanings": [
+        "کوره زیمنس",
+        "مارتین",
+        "کوره رو باز",
+        "کوره بلند"
+      ]
+    },
+    {
+      "EnglishWord": "opening inventory",
+      "Meanings": [
+        "موجودی کالای ابتدای دوره"
+      ]
+    },
+    {
+      "EnglishWord": "open-sequence system",
+      "Meanings": [
+        "سیستم با توالی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open-side planner",
+      "Meanings": [
+        "صفحه تراش دورازه ای بغل باز"
+      ]
+    },
+    {
+      "EnglishWord": "operand",
+      "Meanings": [
+        "عامل",
+        "عملوند"
+      ]
+    },
+    {
+      "EnglishWord": "operating characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه عملکرد",
+        "منحنی مشخصه عملیاتی",
+        "منحنی مشخصه عمل"
+      ]
+    },
+    {
+      "EnglishWord": "operating cost",
+      "Meanings": [
+        "هزینه عملیاتی",
+        "هزینه بهره برداری",
+        "هزینه راهبردی"
+      ]
+    },
+    {
+      "EnglishWord": "operating efficiency",
+      "Meanings": [
+        "کارایی عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating expense",
+      "Meanings": [
+        "هزینه عملیات",
+        "هزینه عملکرد",
+        "هزینه عملیات بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "operating leverage",
+      "Meanings": [
+        "اهرم عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating managers",
+      "Meanings": [
+        "مدیران عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating manual",
+      "Meanings": [
+        "کتاب دستی عملیاتی",
+        "راهنمای عملیاتی",
+        "دستورالعمل",
+        "دستور کار"
+      ]
+    },
+    {
+      "EnglishWord": "operating system",
+      "Meanings": [
+        "سیستم عامل",
+        "سیستم تنظیم کننده",
+        "سیستم کارنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "operation",
+      "Meanings": [
+        "عملیات",
+        "طرز کار",
+        "عمل",
+        "کار اجرایی",
+        "بهره برداری",
+        "شرایط کار"
+      ]
+    },
+    {
+      "EnglishWord": "operation characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه عمل"
+      ]
+    },
+    {
+      "EnglishWord": "operation process chart",
+      "Meanings": [
+        "جدول اجرای عملیات",
+        "نمودار فراگرد عملیاتی",
+        "نمودار فرایند عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation research",
+      "Meanings": [
+        "تحقیق عملیات",
+        "بررسی عملیات",
+        "پژوهش عملیات",
+        "پژوهش عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operation sheet",
+      "Meanings": [
+        "برگه عملیات",
+        "فرم عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operational planning",
+      "Meanings": [
+        "برنامه ریزی عملیات",
+        "طرح ریزی عملیاتی",
+        "طرح ریزی عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operational research",
+      "Meanings": [
+        "بررسی عملیات",
+        "پژوهش عملیات",
+        "تحقیق عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operations research",
+      "Meanings": [
+        "تحقیق در عملیات",
+        "بررسی عملیات",
+        "پژوهش عملیات",
+        "پژوهش عملیاتی",
+        "تحقیق عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "عملگر",
+        "اپراتور",
+        "ماشین بان",
+        "گرداننده",
+        "متصدی",
+        "مجری",
+        "کاربان",
+        "ماشینکار",
+        "متصدی دستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity cost",
+      "Meanings": [
+        "هزینه فرصت از دست رفته",
+        "هزینه فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity curve",
+      "Meanings": [
+        "منحنی فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity loss",
+      "Meanings": [
+        "فرصت از دست رفته",
+        "زیان از دست رفتن فرصت",
+        "زیان فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity studies",
+      "Meanings": [
+        "شناسایی و بررسی امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "optical comparator",
+      "Meanings": [
+        "کمپراتور نوری",
+        "مقایسه گرنوری"
+      ]
+    },
+    {
+      "EnglishWord": "optimal",
+      "Meanings": [
+        "بهینه",
+        "بهین",
+        "مطلوب",
+        "اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "optimal feasible solution",
+      "Meanings": [
+        "جواب ممکن بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal frequency",
+      "Meanings": [
+        "تواتر بهینه",
+        "بسامد بهینه",
+        "فرکانس بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal point",
+      "Meanings": [
+        "نقطه مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimal solution",
+      "Meanings": [
+        "جواب بهینه",
+        "حل بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimality",
+      "Meanings": [
+        "مطلوبیت"
+      ]
+    },
+    {
+      "EnglishWord": "optimality condition",
+      "Meanings": [
+        "شرط بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "optimalize",
+      "Meanings": [
+        "به سطح مطلوب رسانیدن"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic",
+      "Meanings": [
+        "خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic estimate",
+      "Meanings": [
+        "برآورد خوشبینانه",
+        "تخمین خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic time",
+      "Meanings": [
+        "زمان خوشبینانه",
+        "زمان خوشبینی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic time estimate",
+      "Meanings": [
+        "برآورد زمانی خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimization",
+      "Meanings": [
+        "بهینه سازی",
+        "حصول کامل",
+        "بهینه گری",
+        "مطلوب سازی",
+        "بهبود"
+      ]
+    },
+    {
+      "EnglishWord": "optimize",
+      "Meanings": [
+        "بهینه ساختن",
+        "بهینه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "optimizing",
+      "Meanings": [
+        "بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimum",
+      "Meanings": [
+        "بهینه",
+        "مطلوب",
+        "اپتیمم",
+        "بهترین",
+        "بهین",
+        "حد بهینه",
+        "حد مطلوب",
+        "وضع مطلوب",
+        "حد متناسب",
+        "دلخواه",
+        "به حد مطلوب",
+        "مناسب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum allocation",
+      "Meanings": [
+        "تخصیص بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum design",
+      "Meanings": [
+        "طراحی بهینه",
+        "طرح بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum maintenance program",
+      "Meanings": [
+        "برنامه نگهداری بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum output",
+      "Meanings": [
+        "بازده مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum plant size",
+      "Meanings": [
+        "اندازه بهینه واحد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "optimum point",
+      "Meanings": [
+        "نقطه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum policy",
+      "Meanings": [
+        "سیاست بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum work period",
+      "Meanings": [
+        "د طول یوره کار مطلوب",
+        "مناسیترین طول زمان کار"
+      ]
+    },
+    {
+      "EnglishWord": "option",
+      "Meanings": [
+        "حق انتخاب",
+        "اختیار",
+        "اختیار معامله",
+        "انتخاب معامله",
+        "خیار",
+        "شق"
+      ]
+    },
+    {
+      "EnglishWord": "optional time",
+      "Meanings": [
+        "زمان اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "مرتبه",
+        "سفارش",
+        "دستور",
+        "نظم",
+        "حواله",
+        "دسته",
+        "دستور دادن",
+        "سبک",
+        "سفارش کالا",
+        "ترتیب",
+        "مرتب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "order confirmation",
+      "Meanings": [
+        "تایید سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order form",
+      "Meanings": [
+        "برگه سفارش",
+        "فرم سفارش",
+        "فرم سفارش دهی"
+      ]
+    },
+    {
+      "EnglishWord": "order interval",
+      "Meanings": [
+        "فاصله سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order point system",
+      "Meanings": [
+        "سیستم نقطه سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order size",
+      "Meanings": [
+        "اندازه سفارش",
+        "مقدار سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order statistic",
+      "Meanings": [
+        "آماره ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordered",
+      "Meanings": [
+        "به نظم درآمده",
+        "ردیف شده",
+        "مرتب شده",
+        "مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered pair",
+      "Meanings": [
+        "جفت مرتب",
+        "زوج مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered partitions",
+      "Meanings": [
+        "افرازهای مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered samples",
+      "Meanings": [
+        "نمونه‌های مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered set",
+      "Meanings": [
+        "دسته مرتب",
+        "مجموعه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordering cost",
+      "Meanings": [
+        "هزینه سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "ordering time",
+      "Meanings": [
+        "زمان سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary",
+      "Meanings": [
+        "معمولی",
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary depreciation",
+      "Meanings": [
+        "استهلاک عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary interest",
+      "Meanings": [
+        "بهره ساده",
+        "بهره عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary share",
+      "Meanings": [
+        "سهم معمولی",
+        "سهم عادی"
+      ]
+    },
+    {
+      "EnglishWord": "organic",
+      "Meanings": [
+        "آلی",
+        "ارگانیک",
+        "حیاتی",
+        "مربوط به حیاط"
+      ]
+    },
+    {
+      "EnglishWord": "organization",
+      "Meanings": [
+        "سازمان",
+        "تشکیلات",
+        "سازماندهی",
+        "موسسه"
+      ]
+    },
+    {
+      "EnglishWord": "organization chart",
+      "Meanings": [
+        "نمودار سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization level",
+      "Meanings": [
+        "طبقه سازمانی",
+        "رده سازمانی",
+        "سطح سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization unit",
+      "Meanings": [
+        "واحد سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational chart",
+      "Meanings": [
+        "نمودار سازمانی",
+        "نمودار سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "organizational level",
+      "Meanings": [
+        "رده سازمانی",
+        "سطح سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational planning",
+      "Meanings": [
+        "طرح ریزی سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational pyramid",
+      "Meanings": [
+        "هرم سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational structure",
+      "Meanings": [
+        "ساخت سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizing",
+      "Meanings": [
+        "سازماندهی تشکیل سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "orientation",
+      "Meanings": [
+        "جهت",
+        "جهت یابی",
+        "راستا",
+        "جهت داری",
+        "گرایش",
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "orienting",
+      "Meanings": [
+        "جهت دهی",
+        "جهت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "orifice",
+      "Meanings": [
+        "روزنه",
+        "سوراخ",
+        "دهانه",
+        "مجرا",
+        "دریچه ورودی",
+        "محل باز شدن",
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "origin",
+      "Meanings": [
+        "مبدا",
+        "خواستگاه",
+        "اصلی",
+        "اولیه",
+        "منبع",
+        "موجب",
+        "نقطه آغاز",
+        "اصل",
+        "شروع",
+        "مایه"
+      ]
+    },
+    {
+      "EnglishWord": "original",
+      "Meanings": [
+        "اصلی",
+        "اولیه",
+        "نسخه اصلی",
+        "نمونه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal cutting",
+      "Meanings": [
+        "برش کاری متعامد",
+        "بریدن متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal vectors",
+      "Meanings": [
+        "بردارهای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "oscillation",
+      "Meanings": [
+        "نوسان",
+        "حرکت نوسانی",
+        "لرزش"
+      ]
+    },
+    {
+      "EnglishWord": "out of stock",
+      "Meanings": [
+        "غیر موجود"
+      ]
+    },
+    {
+      "EnglishWord": "outcome",
+      "Meanings": [
+        "تنیجه",
+        "برآمد",
+        "حاصل"
+      ]
+    },
+    {
+      "EnglishWord": "outlet",
+      "Meanings": [
+        "خروجی",
+        "مجرای خروج",
+        "دریچه خروجی",
+        "سوپاپ دود",
+        "دررو"
+      ]
+    },
+    {
+      "EnglishWord": "outline",
+      "Meanings": [
+        "طرح"
+      ]
+    },
+    {
+      "EnglishWord": "out-of-bowl tooling",
+      "Meanings": [
+        "ابزار بندی برون کاسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "بازده",
+        "خروجی",
+        "ستاده",
+        "محصول",
+        "برونداد",
+        "ظرفیت",
+        "توان خروجی",
+        "گرفته شده",
+        "حاصل بدست آمده",
+        "صادرات",
+        "صادره",
+        "نتیجه"
+      ]
+    },
+    {
+      "EnglishWord": "output data",
+      "Meanings": [
+        "اطلاعات خروجی",
+        "داده خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output report",
+      "Meanings": [
+        "گزارش خروجی",
+        "گزارش خارج شده از سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "outside caliper",
+      "Meanings": [
+        "اندازه گیر خارجی",
+        "پرگار خارجی",
+        "پرگار خارج",
+        "قطر سنج خارجی",
+        "اندازه گیر قسمت خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outside circle",
+      "Meanings": [
+        "دایره خارجی",
+        "دایره سر دنده"
+      ]
+    },
+    {
+      "EnglishWord": "oven soldering",
+      "Meanings": [
+        "لحیمکاری در اجاق"
+      ]
+    },
+    {
+      "EnglishWord": "overall control",
+      "Meanings": [
+        "کنترل سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "overall development plan",
+      "Meanings": [
+        "برنامه کلی توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "overdelivery",
+      "Meanings": [
+        "اضافه تحویل",
+        "تحویل بیش از اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "overestimate",
+      "Meanings": [
+        "تخمین اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "overflow",
+      "Meanings": [
+        "سرریز",
+        "تجاوز از حد",
+        "هزینه عمومی",
+        "هزینه غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "overhaul",
+      "Meanings": [
+        "پیاده کردن دستگاه",
+        "تعویض یا تعمیر دوره ای",
+        "تعمیر کلی",
+        "باز کردن و بستن دستگاه",
+        "پیاده و سوار کردن ماشین",
+        "امتحان کردن",
+        "پیاده کردن قطعات ماشین برای تعمیر کلی",
+        "تعمیرات اساسی",
+        "تعمیر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "بالاسری",
+        "سربار",
+        "سقفی",
+        "بالای سری"
+      ]
+    },
+    {
+      "EnglishWord": "overhead cost",
+      "Meanings": [
+        "هزینه بالاسری",
+        "هزینه سربار"
+      ]
+    },
+    {
+      "EnglishWord": "overhead tool block",
+      "Meanings": [
+        "قلمگیر بالاسری",
+        "کشوی ابزار بالاسر"
+      ]
+    },
+    {
+      "EnglishWord": "overhead travelling",
+      "Meanings": [
+        "جرثقیل سقفی"
+      ]
+    },
+    {
+      "EnglishWord": "overhead welding",
+      "Meanings": [
+        "جوشکاری بالاسری",
+        "جوش سقفی"
+      ]
+    },
+    {
+      "EnglishWord": "overheating",
+      "Meanings": [
+        "حرارت دادن بیش از حد"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping",
+      "Meanings": [
+        "تداخل",
+        "روی هم افتادگی",
+        "همپوشی",
+        "سر رفتن",
+        "همپوشانی"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping network",
+      "Meanings": [
+        "شبکه همپوش"
+      ]
+    },
+    {
+      "EnglishWord": "overtime",
+      "Meanings": [
+        "اضافه کار",
+        "اضافه کاری",
+        "ساعت فوق العاده",
+        "کار اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "overtime premium",
+      "Meanings": [
+        "فوق العاده اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "oxidizing flame",
+      "Meanings": [
+        "شعله اکسید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "oxy-acetylene welding",
+      "Meanings": [
+        "جوشکاری اکسی استیلن",
+        "جوشکاری با استیلن اکسیژن",
+        "جوشکاری با کاربید",
+        "جوش اکسیژن"
+      ]
+    },
+    {
+      "EnglishWord": "oxy-gas cutting torch",
+      "Meanings": [
+        "مشعل برش اکسیژن"
+      ]
+    },
+    {
+      "EnglishWord": "oxygen cutting",
+      "Meanings": [
+        "برشکاری با اکسیژن",
+        "برش با اکسیژن",
+        "برش اکسیژنی",
+        "هوا برش"
+      ]
+    },
+    {
+      "EnglishWord": "oxygen-arc cutting",
+      "Meanings": [
+        "جوشکاری با قوس اکسیژن",
+        "برش با قوس الکتریکی و اکسیژن"
+      ]
+    }
+  ]
+}

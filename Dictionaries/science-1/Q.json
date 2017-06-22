@@ -1,0 +1,805 @@
+﻿{
+  "Group": "Q",
+  "Entries": 114,
+  "Words": [
+    {
+      "EnglishWord": "qoutient",
+      "Meanings": [
+        "خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "qua",
+      "Meanings": [
+        "فی‌نفسه",
+        "بماهو",
+        "کاربرد این کلمه بدین‌گونه است که بعداز آن یک متغیر می‌آید",
+        "مثلا",
+        "qua X به این صورت خوانده می‌شود: ایکس فی نفسه",
+        "X qua X به این صورت خوانده می‌شود: x بماهو x"
+      ]
+    },
+    {
+      "EnglishWord": "quad",
+      "Meanings": [
+        "چهارقلو"
+      ]
+    },
+    {
+      "EnglishWord": "quadrangle",
+      "Meanings": [
+        "چهار ضلعی",
+        "چهر گوش",
+        "چهار زاویه",
+        "چهارگوشه",
+        "ذو اربعة الزوایا"
+      ]
+    },
+    {
+      "EnglishWord": "quadrangular",
+      "Meanings": [
+        "چهارگوشه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "quadrant",
+      "Meanings": [
+        "ربع",
+        "چارک",
+        "چهاریک",
+        "ربع دایره",
+        "قایمه زاویه",
+        "ربع صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "quadrantal",
+      "Meanings": [
+        "ربعی",
+        "تربیعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrantal angles",
+      "Meanings": [
+        "زاویای قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "quadrate",
+      "Meanings": [
+        "به توان 2 رساندن",
+        "مجذور کردن",
+        "مربع کردن",
+        "مربعی",
+        "مربع‌شکل"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic",
+      "Meanings": [
+        "درجه دوم",
+        "مربعی از درجه دوم",
+        "کوادراتیک",
+        "زینه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic equation",
+      "Meanings": [
+        "معادله درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic form",
+      "Meanings": [
+        "صورت مجذوری",
+        "فرم درجه دوم فرم مربع",
+        "دیس درجه دوم",
+        "صورت درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic formula",
+      "Meanings": [
+        "فرمول حل معادله درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic function",
+      "Meanings": [
+        "معادله درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic group",
+      "Meanings": [
+        "گروه درجه دوم",
+        "چهار",
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic mean",
+      "Meanings": [
+        "میانگین درجه دو",
+        "میانگین مربع"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic non residue",
+      "Meanings": [
+        "مانده مجذوری",
+        "باقیمانده تربیعی",
+        "مانده مربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic polymonial",
+      "Meanings": [
+        "چندجمله ای درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic reciprocity",
+      "Meanings": [
+        "تقابل مربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic surface",
+      "Meanings": [
+        "رویه درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadration equation",
+      "Meanings": [
+        "معادله درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratrix",
+      "Meanings": [
+        "قوس تربیع",
+        "مربع‌ساز"
+      ]
+    },
+    {
+      "EnglishWord": "quadrature",
+      "Meanings": [
+        "تربیع",
+        "جامعه بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrature of the circle",
+      "Meanings": [
+        "تربیع دایره"
+      ]
+    },
+    {
+      "EnglishWord": "quadrature to the circle",
+      "Meanings": [
+        "تربیع دایره"
+      ]
+    },
+    {
+      "EnglishWord": "quadrefoil",
+      "Meanings": [
+        "چهاربرگ"
+      ]
+    },
+    {
+      "EnglishWord": "quadric",
+      "Meanings": [
+        "درجه دو",
+        "از درجه دوم",
+        "منحنی یا رویه درجه دوم",
+        "سطح درجه دوم",
+        "صورت درجه دوم",
+        "سه متغیری"
+      ]
+    },
+    {
+      "EnglishWord": "quadric surface",
+      "Meanings": [
+        "رویه درجه دوم",
+        "سطح درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadridual",
+      "Meanings": [
+        "همتای چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quadrilateral",
+      "Meanings": [
+        "چهارضلعی",
+        "چهاربر",
+        "منحرف"
+      ]
+    },
+    {
+      "EnglishWord": "quadrilateral figures",
+      "Meanings": [
+        "شکل‌های چهارضلعی",
+        "چهارسوها"
+      ]
+    },
+    {
+      "EnglishWord": "quadrillion",
+      "Meanings": [
+        "کادریلیون یک عدد بسیار بزرگ مانند میلیارد",
+        "میلیون و…",
+        "این عدد در آمریکا برابر با 10 به توان 15 و در انگلستان برابر با 10 به توان 24 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "quadruple",
+      "Meanings": [
+        "چهار برابر",
+        "از رتبه چهارم",
+        "چهار برابر کردن",
+        "چهار تایی",
+        "چهارگانه"
+      ]
+    },
+    {
+      "EnglishWord": "quadruple point",
+      "Meanings": [
+        "نقطه مکرر از مرتبه چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quadruplet",
+      "Meanings": [
+        "چهارتایی",
+        "چهارگان"
+      ]
+    },
+    {
+      "EnglishWord": "quadruplication",
+      "Meanings": [
+        "عمل چهار برابر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "qual rule",
+      "Meanings": [
+        "قانون فی‌نفسه"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative",
+      "Meanings": [
+        "کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative characteristics",
+      "Meanings": [
+        "ویژگی‌های کیفی",
+        "خواص کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative observations",
+      "Meanings": [
+        "مشاهدات کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "quality",
+      "Meanings": [
+        "کیفیت",
+        "خاصیت",
+        "مرغوبیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality control",
+      "Meanings": [
+        "کنترل کیفیت",
+        "کنترل کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "quant",
+      "Meanings": [
+        "پیمانه",
+        "کوانتوم"
+      ]
+    },
+    {
+      "EnglishWord": "quantic",
+      "Meanings": [
+        "درجه چندم"
+      ]
+    },
+    {
+      "EnglishWord": "quantification",
+      "Meanings": [
+        "تسویر"
+      ]
+    },
+    {
+      "EnglishWord": "quantification rules",
+      "Meanings": [
+        "قواعد تسویر"
+      ]
+    },
+    {
+      "EnglishWord": "quantified",
+      "Meanings": [
+        "سور دار",
+        "مسور"
+      ]
+    },
+    {
+      "EnglishWord": "quantified formula",
+      "Meanings": [
+        "فرمول مسور",
+        "فرمول سور دار"
+      ]
+    },
+    {
+      "EnglishWord": "quantified proposition",
+      "Meanings": [
+        "گزاره مسور",
+        "قضیه محصوره"
+      ]
+    },
+    {
+      "EnglishWord": "quantified sentence",
+      "Meanings": [
+        "گزاره مسور"
+      ]
+    },
+    {
+      "EnglishWord": "quantified statement",
+      "Meanings": [
+        "گزاره مسور"
+      ]
+    },
+    {
+      "EnglishWord": "quantifier",
+      "Meanings": [
+        "سور",
+        "چندی‌نما",
+        "پیداگری چندی"
+      ]
+    },
+    {
+      "EnglishWord": "quantifier negation",
+      "Meanings": [
+        "نقیض سور"
+      ]
+    },
+    {
+      "EnglishWord": "quantile",
+      "Meanings": [
+        "چندک",
+        "کوانتیل",
+        "چندیک"
+      ]
+    },
+    {
+      "EnglishWord": "quantile of p-th order",
+      "Meanings": [
+        "کوانتیل مرتبه p ام"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative",
+      "Meanings": [
+        "کمی",
+        "مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative characteristics",
+      "Meanings": [
+        "خواص کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative evidential interpretation",
+      "Meanings": [
+        "تفسیر مقرون به دلیل کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative observations",
+      "Meanings": [
+        "مشاهدات کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantity",
+      "Meanings": [
+        "کمیت",
+        "مقدار",
+        "اندازه",
+        "نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "quantum",
+      "Meanings": [
+        "پیمانه",
+        "کوانتوم"
+      ]
+    },
+    {
+      "EnglishWord": "quarter",
+      "Meanings": [
+        "یک چهارم",
+        "ربع",
+        "چارک",
+        "چهاریک"
+      ]
+    },
+    {
+      "EnglishWord": "quartic",
+      "Meanings": [
+        "از درجه چهارم",
+        "چهارمین",
+        "درجه چهارم",
+        "درجه چهارم منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "quartic curve",
+      "Meanings": [
+        "منحنی درجه چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quartic equation",
+      "Meanings": [
+        "معادله درجه چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quartic polymonial",
+      "Meanings": [
+        "چندجمله ای درجه چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quartile",
+      "Meanings": [
+        "چارک",
+        "چهاریک"
+      ]
+    },
+    {
+      "EnglishWord": "quartile deviation",
+      "Meanings": [
+        "انحراف چارکی"
+      ]
+    },
+    {
+      "EnglishWord": "quartum non datur",
+      "Meanings": [
+        "طرد شق چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quasi",
+      "Meanings": [
+        "پیشوندی به معنای گون",
+        "شبه",
+        "مانا"
+      ]
+    },
+    {
+      "EnglishWord": "quasi latin square",
+      "Meanings": [
+        "شبه‌مربع لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "quasi ordering",
+      "Meanings": [
+        "شبه ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "quasi recursive",
+      "Meanings": [
+        "نیمه تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "quaternary",
+      "Meanings": [
+        "چهارتایی",
+        "چهارعضوی",
+        "چهارواحدی"
+      ]
+    },
+    {
+      "EnglishWord": "quaternary relation",
+      "Meanings": [
+        "نسبت چهارتایی"
+      ]
+    },
+    {
+      "EnglishWord": "quaternion",
+      "Meanings": [
+        "چهارگان",
+        "چهارگانه",
+        "عدد چهاربرگی",
+        "عدد چهارتایی",
+        "چهارمقداری",
+        "چهارعنصری",
+        "کواترنیون"
+      ]
+    },
+    {
+      "EnglishWord": "quaternion group",
+      "Meanings": [
+        "گروه چهاربرگی",
+        "گروه چهارگان"
+      ]
+    },
+    {
+      "EnglishWord": "quaternion units",
+      "Meanings": [
+        "یکه‌ای چهارگانه",
+        "واحدهای چهارگانه"
+      ]
+    },
+    {
+      "EnglishWord": "quaternionic",
+      "Meanings": [
+        "چهارگانی"
+      ]
+    },
+    {
+      "EnglishWord": "quaternions",
+      "Meanings": [
+        "کواترنیون‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "quatrefoil",
+      "Meanings": [
+        "چهاربرگ"
+      ]
+    },
+    {
+      "EnglishWord": "questionable",
+      "Meanings": [
+        "قابل سوال",
+        "قابل چون و چرا"
+      ]
+    },
+    {
+      "EnglishWord": "questionnaire",
+      "Meanings": [
+        "پرسش‌نامه",
+        "سوال‌نامه"
+      ]
+    },
+    {
+      "EnglishWord": "queue",
+      "Meanings": [
+        "صف",
+        "صف کشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "queue discipline",
+      "Meanings": [
+        "نظم صف"
+      ]
+    },
+    {
+      "EnglishWord": "queueing",
+      "Meanings": [
+        "صف بندی"
+      ]
+    },
+    {
+      "EnglishWord": "queueing markov chain",
+      "Meanings": [
+        "زنجیر مارکف صفی"
+      ]
+    },
+    {
+      "EnglishWord": "queueing theory",
+      "Meanings": [
+        "نظریه صف",
+        "تیوری صف"
+      ]
+    },
+    {
+      "EnglishWord": "queueing with balking",
+      "Meanings": [
+        "صف بندی با انصراف",
+        "صف بندی با طرد"
+      ]
+    },
+    {
+      "EnglishWord": "quinary",
+      "Meanings": [
+        "دستگاه شمار در مبنای",
+        "از مرتبه",
+        "پنج‌تایی",
+        "پنج به پنج"
+      ]
+    },
+    {
+      "EnglishWord": "quindecagon",
+      "Meanings": [
+        "پانزده ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "quindecillion",
+      "Meanings": [
+        "کویندسیلیون یک عدد بسیار بزرگ از رده میلیون و میلیارد و…",
+        "این عدد در آمریکا برابر با 10 به توان 18 و در انگلستان بابر با 10 به توان 9 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "quinque",
+      "Meanings": [
+        "پنج",
+        "به پنج قسمت پیشوند"
+      ]
+    },
+    {
+      "EnglishWord": "quintic",
+      "Meanings": [
+        "درجه پنجم",
+        "از درجه پنجم",
+        "از مرتبه پنج",
+        "پنجمین"
+      ]
+    },
+    {
+      "EnglishWord": "quintillion",
+      "Meanings": [
+        "کوینتیلیون",
+        "این عدد در آمریکا بابر با 10 به توان 18 و در انگلستان برابر با 10 به توان 30 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "quintuple",
+      "Meanings": [
+        "پنج‌تایی",
+        "پنج‌گان",
+        "پنج برابر",
+        "از درجه پنجم",
+        "از مرتبه پنجم",
+        "پنج برابر شدن",
+        "پنج برابر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quintuplet",
+      "Meanings": [
+        "پنج‌گان"
+      ]
+    },
+    {
+      "EnglishWord": "quod erat demonstrandum",
+      "Meanings": [
+        "همان است که باید ثابت می‌شد",
+        "فهو المطلوب",
+        "و هو المطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "quoin",
+      "Meanings": [
+        "زاویه",
+        "گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "quota",
+      "Meanings": [
+        "سهمیه",
+        "سهمیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "quota sampling",
+      "Meanings": [
+        "نمونه‌گیری سهمیه‌ای",
+        "نمونه‌برداری سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "quotient",
+      "Meanings": [
+        "خارج قسمت",
+        "نسبت",
+        "بهر"
+      ]
+    },
+    {
+      "EnglishWord": "quotient field",
+      "Meanings": [
+        "میدان خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient group",
+      "Meanings": [
+        "گروه خارج قسمت",
+        "گروه سازه",
+        "گروه بهری"
+      ]
+    },
+    {
+      "EnglishWord": "quotient module",
+      "Meanings": [
+        "مدول خارج قسمت",
+        "پیمانه خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient of a set by an equivalence relation",
+      "Meanings": [
+        "خارج قسمت یک مجموعه بر یک رابطه هم ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "quotient ring",
+      "Meanings": [
+        "حلقه خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient set",
+      "Meanings": [
+        "مجموعه خارج قسمت بر یک رابطه هم‌ارزی",
+        "مجموعه بهری"
+      ]
+    },
+    {
+      "EnglishWord": "quotient space",
+      "Meanings": [
+        "فضای خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient structure",
+      "Meanings": [
+        "ساختمان بهری"
+      ]
+    },
+    {
+      "EnglishWord": "quotient system",
+      "Meanings": [
+        "دستگاه بهری"
+      ]
+    },
+    {
+      "EnglishWord": "quotient topological space",
+      "Meanings": [
+        "فضای توپولوژیک خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient topology",
+      "Meanings": [
+        "توپولوژی خارج قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotient vector space",
+      "Meanings": [
+        "فضای برداری خارج قسمت"
+      ]
+    }
+  ]
+}

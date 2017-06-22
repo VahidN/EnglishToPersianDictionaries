@@ -1,0 +1,394 @@
+﻿{
+  "Group": "M",
+  "Entries": 60,
+  "Words": [
+    {
+      "EnglishWord": "machine cycle",
+      "Meanings": [
+        "سیکل ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "machine independence",
+      "Meanings": [
+        "مستقل از ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "machine language",
+      "Meanings": [
+        "زبان ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "macro",
+      "Meanings": [
+        "ماکرو",
+        "برنامه کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "macro language",
+      "Meanings": [
+        "زبان ماکرو"
+      ]
+    },
+    {
+      "EnglishWord": "macromedia director",
+      "Meanings": [
+        "برنامه ای برای ساخت برنامه‌های Multimedia و انیمیشن و بازی"
+      ]
+    },
+    {
+      "EnglishWord": "macromedia freehand",
+      "Meanings": [
+        "نرم افزار طراحی بسیار قوی مناسب برای طراحی آرم و غیره"
+      ]
+    },
+    {
+      "EnglishWord": "macrosheat functions",
+      "Meanings": [
+        "توابع ماکرو برگ"
+      ]
+    },
+    {
+      "EnglishWord": "magic square",
+      "Meanings": [
+        "مربع جادویی",
+        "وقفی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic disk",
+      "Meanings": [
+        "دیسک مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic printer",
+      "Meanings": [
+        "چاپگر مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic tape",
+      "Meanings": [
+        "نوار مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic-ink caracter recognition",
+      "Meanings": [
+        "تشخیص کاراکتر با جوهر مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "main frame computers",
+      "Meanings": [
+        "پردازنده مرکزی کامپیوتر بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "main loop",
+      "Meanings": [
+        "حلقه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main memory",
+      "Meanings": [
+        "حافظه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "malloc function",
+      "Meanings": [
+        "تابع Malloc"
+      ]
+    },
+    {
+      "EnglishWord": "management information system mis",
+      "Meanings": [
+        "سیستم مدیریت اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "manipulation",
+      "Meanings": [
+        "دستکاری"
+      ]
+    },
+    {
+      "EnglishWord": "manipulator",
+      "Meanings": [
+        "ابزار کنترل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "map",
+      "Meanings": [
+        "نقشه",
+        "نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "map driven",
+      "Meanings": [
+        "محیط دارای نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "mapping",
+      "Meanings": [
+        "نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "margin",
+      "Meanings": [
+        "حاشیه"
+      ]
+    },
+    {
+      "EnglishWord": "marker value",
+      "Meanings": [
+        "مقدار نشانگر"
+      ]
+    },
+    {
+      "EnglishWord": "marking",
+      "Meanings": [
+        "علامت گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "masking",
+      "Meanings": [
+        "نقابگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "mass storage",
+      "Meanings": [
+        "رسانه ذخیره سازی انبوه"
+      ]
+    },
+    {
+      "EnglishWord": "master file",
+      "Meanings": [
+        "فایل اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "materialization",
+      "Meanings": [
+        "به عینیت در آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "matrix multiplication",
+      "Meanings": [
+        "ضرب ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix square",
+      "Meanings": [
+        "ماتریس مربع"
+      ]
+    },
+    {
+      "EnglishWord": "max position",
+      "Meanings": [
+        "موقعیت بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximize",
+      "Meanings": [
+        "به حداکثر رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "maximum rights mask",
+      "Meanings": [
+        "پوشش حقوق حداکثر"
+      ]
+    },
+    {
+      "EnglishWord": "mazing",
+      "Meanings": [
+        "مسیر پر پیچ و خم"
+      ]
+    },
+    {
+      "EnglishWord": "mcafee virusscan",
+      "Meanings": [
+        "McAfee VirusScan یکی از بهترین و معروف‌ترین ویروس کش‌ها می‌باشد که قابلیت شناسایی بیش از 80000 ویروس را دارا می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "mdi multiple document interface",
+      "Meanings": [
+        "رابط چند مستندی"
+      ]
+    },
+    {
+      "EnglishWord": "mega byte",
+      "Meanings": [
+        "میلیون بایت",
+        "مگا بایت"
+      ]
+    },
+    {
+      "EnglishWord": "mega hertz  mhz",
+      "Meanings": [
+        "مگا هرتز"
+      ]
+    },
+    {
+      "EnglishWord": "member",
+      "Meanings": [
+        "عضو"
+      ]
+    },
+    {
+      "EnglishWord": "member access function",
+      "Meanings": [
+        "تابع عضوی مختص دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "member class",
+      "Meanings": [
+        "کلاس عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "member data element",
+      "Meanings": [
+        "عنصر داده ای عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "member function",
+      "Meanings": [
+        "عملگر عضوی",
+        "اپراتور عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "member object",
+      "Meanings": [
+        "شی عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "member operator",
+      "Meanings": [
+        "عملگر عضوی",
+        "اپراتور عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "member variable",
+      "Meanings": [
+        "متغیر عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "memory",
+      "Meanings": [
+        "حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "micr magnetic-ink character recognition",
+      "Meanings": [
+        "وسایلی که قادر به شناسایی کارکترهای چاپ شده هستند"
+      ]
+    },
+    {
+      "EnglishWord": "midi musical instrument digital interface",
+      "Meanings": [
+        "رابط رقمی ابزار موسیقی"
+      ]
+    },
+    {
+      "EnglishWord": "mips  million instrument per second",
+      "Meanings": [
+        "واحد اندازه گیری برای مقایسه سرعت کامپیوتر ها"
+      ]
+    },
+    {
+      "EnglishWord": "mis department  management information system",
+      "Meanings": [
+        "دپارتمان سیستم مدیریت اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "monitor",
+      "Meanings": [
+        "نمایشگر",
+        "وسیله ای شبیه تلویزیون در اندازه‌های مختلف ولی با حساسیت خاصی جهت نمایش داده‌ها و تصویر بر مقیاس پیکسل یا dpi. این وسیله در قسمت عقب داری دو سیم رابط میباشد که یکی از آنها متصل و ثابت مخصوص انتقال داده‌ها است به پرتی درگاه ورودی که در پشت Case جعبه کامپیوتر تعبیه شده است متصل میشود و دیگری که سیم برق می‌باشد به قسمتی که در پشت Case مخصوص آن و در کنار سیم برق خود دستگاه است وصل شود. در قسمت جلو و زیر صفحه نمایش کلید روشن و خاموش قرار دارد سعی کنید که همیشه به حالت روشن باشد و مانیتور نیز همزمان با روشن شدن کامپیوتر روشن شود و در سمت چپ یا پایینی مانیتور دکمه‌های تنظیم کیفیت نمایش",
+        "بزرگی",
+        "کوچکی و رنگ صفحه نمایش تصویر قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "mos metal-oxide semiconductor",
+      "Meanings": [
+        "ماده ای که در ساخت مدارات مجتمع به کار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "mouse",
+      "Meanings": [
+        "موشواره",
+        "مطلب مرتبط",
+        "برنامه‌های امروزی بیشتر سعی می‌نمایند طوری طراحی شوند که بیشتر قابلیت اجرا با ماوس را داشته باشند. چرا که هم کار با آن ساده است و هم فراگیری و سرعت عمل آن مناسب است",
+        "ماوس وسیله ای جهت اجرا و بکارگیری برنامه‌ها بخصوص در ویندوز و اینترنت که دارای 2 کلید اصلی کلید سومی که در وسط یا بغل بعضی از ماوسها قرار دارد در برنامه‌های خاصی بکار می‌رود می‌باشد. به کمک سیمی به کامپیوتر که نشانگری pointer or cursor را در صفحه مانیتور حرکت و هدایت می‌نماید وصل است. این نشانگر با حرکت ماوس در سطح صافی توپی کوچکی در زیر ماوس است که حساس بوده و نشانگر را حرکت می‌دهد. در روی صفحه حرکت می‌کند و هر کجا باشد با توجه به نیاز با ضربه کلیک کردن دکمه سمت راست یا چپ عمل نموده و کار را پیش می‌برد",
+        "کلید سمت راست جهت یکسری از برنامه‌های سیستمی کپی",
+        "برش",
+        "حذف",
+        "انتخاب",
+        "ذخیره",
+        "تغییرات و…. . بکار می‌رود",
+        "کلید سمت چپ که مهمترین اعمال را انجام می‌دهد چهار عمل زیر را به عهده دارد",
+        "click: اگر روی فایل یا کلمه مورد نظر باشیم با یک بار فشار دادن کلید سمت چپ می‌توانیم آنرا جهت اعمال کارهای دیگر مورد نظر انتخاب نماییم که رنگ آن آبی یا سیاه می‌شود",
+        "تذکر مهم: \u000bتا شما فایل یا مطلبی را انتخاب ننمایید نمی‌توانید روی آن کاری انجام دهید. ضمنا\"\" یک بار کلیک نمودن برنامه‌های start و یا internet را اجرا می‌کند",
+        "double click: دو بار فشار دادن سریع کلید سمت چپ جهت اجرای یا باز نمودن برنامه‌ها در ویندوز به کار می‌رود",
+        "تذکر مهم: \u000bحتما\"\" دو بار کلیک متوالی",
+        "سریع و پشت سر هم باشند",
+        "click and drag: شما می‌توانید با کلیک کردن و نگهداشتن کلید در پایین",
+        "بدون رها کردن کلید پنجره‌ها را بزرگ و کوچک و یا جا بجا نمایید",
+        "click and drop: شمامی توانید فایلی یا متنی را کلیک کرده و با نگهداشتن کلید آنرا در جای دیگری جهت کپی یا حذف بیاندازید",
+        "تذکر: این چهار عمل در برنامه‌های خاص مانند برنامه نوشتاری word 97 کار خاص خود را انجام می‌دهند که تقریبا\"\" شبیه اعمال بالا. است"
+      ]
+    },
+    {
+      "EnglishWord": "ms dos application",
+      "Meanings": [
+        "برنامه‌های کاربردی سیستم عامل داس"
+      ]
+    },
+    {
+      "EnglishWord": "ms dos based computer",
+      "Meanings": [
+        "کامپیوتر شخصی که از سیستم عامل داس استفاده می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "ms dos microsoft disk operating system",
+      "Meanings": [
+        "سیستم عامل داس از شرکت ماکروسافت"
+      ]
+    },
+    {
+      "EnglishWord": "ms dos mode",
+      "Meanings": [
+        "حالت سیستم عامل داس"
+      ]
+    }
+  ]
+}

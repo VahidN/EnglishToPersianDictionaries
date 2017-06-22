@@ -1,0 +1,374 @@
+﻿{
+  "Group": "F",
+  "Entries": 60,
+  "Words": [
+    {
+      "EnglishWord": "f",
+      "Meanings": [
+        "حرف ششم از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 15 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "facility",
+      "Meanings": [
+        "سهولت"
+      ]
+    },
+    {
+      "EnglishWord": "facility location",
+      "Meanings": [
+        "مکان یابی تسهیلات"
+      ]
+    },
+    {
+      "EnglishWord": "factorial",
+      "Meanings": [
+        "فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "fast transpose",
+      "Meanings": [
+        "ترانهاده سریع"
+      ]
+    },
+    {
+      "EnglishWord": "feasible",
+      "Meanings": [
+        "امکان پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "feasible region",
+      "Meanings": [
+        "ناحیه امکان پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "feasible solution",
+      "Meanings": [
+        "جواب امکان پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "feedback edge",
+      "Meanings": [
+        "یال پس خورد"
+      ]
+    },
+    {
+      "EnglishWord": "ferguson-forcade algorithm",
+      "Meanings": [
+        "الگوریتم فرگوسن",
+        "فرکید"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci",
+      "Meanings": [
+        "فیبوناچی"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci heap",
+      "Meanings": [
+        "هرم فیبوناچی"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci heap tree",
+      "Meanings": [
+        "درخت هرم فیبوناچی"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci number",
+      "Meanings": [
+        "عدد فیبوناچی"
+      ]
+    },
+    {
+      "EnglishWord": "fibonacci numbers",
+      "Meanings": [
+        "اعداد فیبوناچی"
+      ]
+    },
+    {
+      "EnglishWord": "fifo",
+      "Meanings": [
+        "اولین ورودی",
+        "اولین خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "finite",
+      "Meanings": [
+        "متناهی",
+        "محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite automaton",
+      "Meanings": [
+        "اتوماتون متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite fourier transform",
+      "Meanings": [
+        "تبدیل فوریه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite set",
+      "Meanings": [
+        "مجموعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite state automaton",
+      "Meanings": [
+        "اتوماتون حالت متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite state machine",
+      "Meanings": [
+        "ماشین حالت متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite state machine minimization",
+      "Meanings": [
+        "کمینه سازی ماشین حالت متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite state transducer",
+      "Meanings": [
+        "مبدل حالت متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "first-in",
+      "Meanings": [
+        "first",
+        "out"
+      ]
+    },
+    {
+      "EnglishWord": "fixed grid method",
+      "Meanings": [
+        "روش توری ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "flash sort",
+      "Meanings": [
+        "مرتب ساز پرتوی"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "شاره"
+      ]
+    },
+    {
+      "EnglishWord": "flow conservation",
+      "Meanings": [
+        "بقای شاره"
+      ]
+    },
+    {
+      "EnglishWord": "flow function",
+      "Meanings": [
+        "تابع شاره"
+      ]
+    },
+    {
+      "EnglishWord": "flow network",
+      "Meanings": [
+        "شبکه شاره"
+      ]
+    },
+    {
+      "EnglishWord": "floyd-warshall algorithm",
+      "Meanings": [
+        "الگوریتم فلوید",
+        "وارشال"
+      ]
+    },
+    {
+      "EnglishWord": "ford-bellman",
+      "Meanings": [
+        "فورد",
+        "بلمن"
+      ]
+    },
+    {
+      "EnglishWord": "ford-fulkerson method",
+      "Meanings": [
+        "روش فورد",
+        "فاکرسن"
+      ]
+    },
+    {
+      "EnglishWord": "forest",
+      "Meanings": [
+        "جنگل"
+      ]
+    },
+    {
+      "EnglishWord": "formal",
+      "Meanings": [
+        "رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "formal language",
+      "Meanings": [
+        "زبان رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "formal methods",
+      "Meanings": [
+        "روش‌های رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "formal verification",
+      "Meanings": [
+        "درستی یابی رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "forward edge",
+      "Meanings": [
+        "یال رو به جلو"
+      ]
+    },
+    {
+      "EnglishWord": "fractal",
+      "Meanings": [
+        "فرکتال"
+      ]
+    },
+    {
+      "EnglishWord": "fractional knapsack",
+      "Meanings": [
+        "کوله پشتی تقسیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "fractional knapsack problem",
+      "Meanings": [
+        "مسیله کوله پشتی تقسیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "fractional solution",
+      "Meanings": [
+        "جواب کسری"
+      ]
+    },
+    {
+      "EnglishWord": "free",
+      "Meanings": [
+        "آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free edge",
+      "Meanings": [
+        "یال آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free vertex",
+      "Meanings": [
+        "راس آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "front",
+      "Meanings": [
+        "ابتدا"
+      ]
+    },
+    {
+      "EnglishWord": "full",
+      "Meanings": [
+        "پر"
+      ]
+    },
+    {
+      "EnglishWord": "full array",
+      "Meanings": [
+        "آرایه پر"
+      ]
+    },
+    {
+      "EnglishWord": "full binary tree",
+      "Meanings": [
+        "درخت دودویی پر"
+      ]
+    },
+    {
+      "EnglishWord": "fully dynamic graph",
+      "Meanings": [
+        "گراف کاملا پویا"
+      ]
+    },
+    {
+      "EnglishWord": "fully dynamic graph problem",
+      "Meanings": [
+        "مسیله گراف کاملا پویا"
+      ]
+    },
+    {
+      "EnglishWord": "fully persistent data structure",
+      "Meanings": [
+        "داده ساختار تمام ماندگار"
+      ]
+    },
+    {
+      "EnglishWord": "fully polynomial approximation scheme",
+      "Meanings": [
+        "شمای تقریب کاملا چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "تابع"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy edge",
+      "Meanings": [
+        "یال فازی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy graph",
+      "Meanings": [
+        "گراف فازی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy node",
+      "Meanings": [
+        "گره فازی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy set",
+      "Meanings": [
+        "تابع فازی"
+      ]
+    }
+  ]
+}

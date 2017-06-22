@@ -1,0 +1,674 @@
+﻿{
+  "Group": "W",
+  "Entries": 109,
+  "Words": [
+    {
+      "EnglishWord": "waiting time",
+      "Meanings": [
+        "زمان انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "wakeby distribution",
+      "Meanings": [
+        "توزیع ویک‌بای"
+      ]
+    },
+    {
+      "EnglishWord": "wald distribution",
+      "Meanings": [
+        "توزیع والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald statistic",
+      "Meanings": [
+        "آماره والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald test",
+      "Meanings": [
+        "آزمون والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald test of marginal symmetry",
+      "Meanings": [
+        "آزمون والد برای تقارن حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "wald's decision theory",
+      "Meanings": [
+        "نظریه تصمیم والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald's equation",
+      "Meanings": [
+        "معادله والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald's identity",
+      "Meanings": [
+        "اتحاد والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald's lemma",
+      "Meanings": [
+        "لم والد"
+      ]
+    },
+    {
+      "EnglishWord": "wald-wolfowitz two-sample test",
+      "Meanings": [
+        "آزمون دونمونه‌ای والد",
+        "ولفوویتس"
+      ]
+    },
+    {
+      "EnglishWord": "wallis and moore phase-frequency test",
+      "Meanings": [
+        "آزمون والیس و مور برای فازفراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "wallis' formula",
+      "Meanings": [
+        "فرمول والیس"
+      ]
+    },
+    {
+      "EnglishWord": "walsh function",
+      "Meanings": [
+        "تابع والش"
+      ]
+    },
+    {
+      "EnglishWord": "walsh index",
+      "Meanings": [
+        "شاخص والش"
+      ]
+    },
+    {
+      "EnglishWord": "walsh-fourier transform",
+      "Meanings": [
+        "تبدیل والش",
+        "فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "wandering-quarter sampling",
+      "Meanings": [
+        "نمونه گیری ربع سیار"
+      ]
+    },
+    {
+      "EnglishWord": "ward's clustering algorithm",
+      "Meanings": [
+        "الگوریتم خوشه‌بندی وارد"
+      ]
+    },
+    {
+      "EnglishWord": "waring limits",
+      "Meanings": [
+        "حدهای وارینگ"
+      ]
+    },
+    {
+      "EnglishWord": "waring-herdan model",
+      "Meanings": [
+        "مدل وارینگ",
+        "هردان"
+      ]
+    },
+    {
+      "EnglishWord": "waring's distribution",
+      "Meanings": [
+        "توزیع وارینگ"
+      ]
+    },
+    {
+      "EnglishWord": "warning line",
+      "Meanings": [
+        "خط هشدار"
+      ]
+    },
+    {
+      "EnglishWord": "wasserstein distance",
+      "Meanings": [
+        "فاصله واسرشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "watson's distribution",
+      "Meanings": [
+        "توزیع واتسون"
+      ]
+    },
+    {
+      "EnglishWord": "wave-cutting index",
+      "Meanings": [
+        "شاخص برش موج"
+      ]
+    },
+    {
+      "EnglishWord": "wavelet",
+      "Meanings": [
+        "موجک"
+      ]
+    },
+    {
+      "EnglishWord": "weak convergence",
+      "Meanings": [
+        "همگرایی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak data",
+      "Meanings": [
+        "داده‌های ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weak law of large numbers",
+      "Meanings": [
+        "قانون ضعیف اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "weakly ergodic chain",
+      "Meanings": [
+        "زنجیر ضعیفا ارگودیک"
+      ]
+    },
+    {
+      "EnglishWord": "weakly stationary process",
+      "Meanings": [
+        "فرایند ضعیفا مانا"
+      ]
+    },
+    {
+      "EnglishWord": "wear process",
+      "Meanings": [
+        "فرایند سایش"
+      ]
+    },
+    {
+      "EnglishWord": "weather modification",
+      "Meanings": [
+        "تعدیل وضع هوا"
+      ]
+    },
+    {
+      "EnglishWord": "weber function",
+      "Meanings": [
+        "تابع وبر"
+      ]
+    },
+    {
+      "EnglishWord": "weddle's rule",
+      "Meanings": [
+        "قاعده ودل"
+      ]
+    },
+    {
+      "EnglishWord": "wedge estimator",
+      "Meanings": [
+        "برآوردگر گاوه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "weibull distribution",
+      "Meanings": [
+        "توزیع وایبول"
+      ]
+    },
+    {
+      "EnglishWord": "weibull process",
+      "Meanings": [
+        "فرایند وایبول"
+      ]
+    },
+    {
+      "EnglishWord": "weibull-exponential distribution",
+      "Meanings": [
+        "توزیع وایبول",
+        "نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "weibull-poisson process",
+      "Meanings": [
+        "فرایند وایبول",
+        "پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "weierstrass approximation theorem",
+      "Meanings": [
+        "قضیه تقریب وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "weighing design",
+      "Meanings": [
+        "طرح توزین"
+      ]
+    },
+    {
+      "EnglishWord": "weight bias",
+      "Meanings": [
+        "اریبی وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weight of an array",
+      "Meanings": [
+        "وزن آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "weight of evidence",
+      "Meanings": [
+        "وزن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "weighted distribution",
+      "Meanings": [
+        "توزیع موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted empirical process",
+      "Meanings": [
+        "فرایند تجربی موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted least squares",
+      "Meanings": [
+        "کمترین توانهای دوم موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted least-squares rank estimator",
+      "Meanings": [
+        "برآوردگر رتبه‌ای کمترین توانهای دوم موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted mean",
+      "Meanings": [
+        "میانگین موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted normal plot",
+      "Meanings": [
+        "نمودار نرمال موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted quasilinear mean",
+      "Meanings": [
+        "میانگین شبه‌خطی موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weighted symmetry",
+      "Meanings": [
+        "تقارن موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weiler's index of goodness of fit",
+      "Meanings": [
+        "شاخص نیکویی برازش وایلر"
+      ]
+    },
+    {
+      "EnglishWord": "weiss test of independence  of variables",
+      "Meanings": [
+        "آزمون استقلال وایس"
+      ]
+    },
+    {
+      "EnglishWord": "weiss-type estimators of shape parameters",
+      "Meanings": [
+        "برآوردگرهای وایس‌گونه پارامترهای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "welch test",
+      "Meanings": [
+        "آزمون ولچ"
+      ]
+    },
+    {
+      "EnglishWord": "well-calibrated forecast",
+      "Meanings": [
+        "پیش‌بینی خوش‌کالبیده"
+      ]
+    },
+    {
+      "EnglishWord": "well-conditioned",
+      "Meanings": [
+        "خوش‌شرطیده"
+      ]
+    },
+    {
+      "EnglishWord": "westberg adaptive combination of tests",
+      "Meanings": [
+        "ترکیب سازوار وست‌برگ برای آزمونها"
+      ]
+    },
+    {
+      "EnglishWord": "westenberg test of dispersion",
+      "Meanings": [
+        "آزمون وستنبرگ برای پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "weyl inequality",
+      "Meanings": [
+        "نابرابری وایل"
+      ]
+    },
+    {
+      "EnglishWord": "wheeler and watson's test",
+      "Meanings": [
+        "آزمون ویلر و واتسون"
+      ]
+    },
+    {
+      "EnglishWord": "wherry clean-up method",
+      "Meanings": [
+        "روش پاکیزه‌سازی وری"
+      ]
+    },
+    {
+      "EnglishWord": "white noise",
+      "Meanings": [
+        "نوفه سفید"
+      ]
+    },
+    {
+      "EnglishWord": "white test of misspecification",
+      "Meanings": [
+        "آزمون بدمشخص‌سازی وایت"
+      ]
+    },
+    {
+      "EnglishWord": "whittaker-henderson graduation formula",
+      "Meanings": [
+        "فرمول هموارسازی آماری ویتاکر",
+        "هندرسون"
+      ]
+    },
+    {
+      "EnglishWord": "whittaker-type distribution",
+      "Meanings": [
+        "توزیع ویتاکرگونه"
+      ]
+    },
+    {
+      "EnglishWord": "whittemore's collapsibility",
+      "Meanings": [
+        "رمبش‌پذیر ویتمور"
+      ]
+    },
+    {
+      "EnglishWord": "whittinghill-potthoff test",
+      "Meanings": [
+        "آزمون ویتینگهیل",
+        "پات‌هاف"
+      ]
+    },
+    {
+      "EnglishWord": "whittle likelihood",
+      "Meanings": [
+        "درستنمایی ویتل"
+      ]
+    },
+    {
+      "EnglishWord": "wholesale price index",
+      "Meanings": [
+        "شاخص بهای عمده‌فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "پهنا"
+      ]
+    },
+    {
+      "EnglishWord": "wiener chain",
+      "Meanings": [
+        "زنجیر وینر"
+      ]
+    },
+    {
+      "EnglishWord": "wiener measure",
+      "Meanings": [
+        "اندازه وینر"
+      ]
+    },
+    {
+      "EnglishWord": "wiener process",
+      "Meanings": [
+        "فرایند وینر"
+      ]
+    },
+    {
+      "EnglishWord": "wiener-hopf equation",
+      "Meanings": [
+        "معادله وینر",
+        "هاف"
+      ]
+    },
+    {
+      "EnglishWord": "wiener-kolmogorov prediction theory",
+      "Meanings": [
+        "نظریه پیشگویی وینر",
+        "کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "wijsman's representation theorem",
+      "Meanings": [
+        "قضیه نمایش ویزمن"
+      ]
+    },
+    {
+      "EnglishWord": "wilcoxon rank-sum test",
+      "Meanings": [
+        "آزمون مجموع رتبه‌های ویلکاکسون"
+      ]
+    },
+    {
+      "EnglishWord": "wilcoxon scores",
+      "Meanings": [
+        "نمره‌های ویلکاکسون"
+      ]
+    },
+    {
+      "EnglishWord": "wilcoxon signed rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای علامت‌دار ویلکاکسون"
+      ]
+    },
+    {
+      "EnglishWord": "wilcoxon-type scale test",
+      "Meanings": [
+        "آزمون مقیاس ویلکاکسون‌گونه"
+      ]
+    },
+    {
+      "EnglishWord": "wilcoxon-type tests for ordered alternatives in randomized blocks",
+      "Meanings": [
+        "آزمونهای ویلکاکسون‌گونه برای فرضهای مقابل مرتب در بلوکهای تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "wild shot",
+      "Meanings": [
+        "برد شدید"
+      ]
+    },
+    {
+      "EnglishWord": "wild value",
+      "Meanings": [
+        "مقدار پرت"
+      ]
+    },
+    {
+      "EnglishWord": "wilk and kempthorne formula",
+      "Meanings": [
+        "فرمول ویلک و کمپتورن"
+      ]
+    },
+    {
+      "EnglishWord": "wilks' inner and outer tolerance interval",
+      "Meanings": [
+        "بازه تحمل درونی و بیرونی ویلکس"
+      ]
+    },
+    {
+      "EnglishWord": "wilks' lambda criterion",
+      "Meanings": [
+        "ملاک لامبدای ویلکس"
+      ]
+    },
+    {
+      "EnglishWord": "winckler-von mises type inequality",
+      "Meanings": [
+        "نابرابری وینکلر",
+        "فون میزس‌گونه"
+      ]
+    },
+    {
+      "EnglishWord": "window plot",
+      "Meanings": [
+        "نمودار پنجره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "window width",
+      "Meanings": [
+        "پهنای پنجره"
+      ]
+    },
+    {
+      "EnglishWord": "winsorization",
+      "Meanings": [
+        "وینزوریدن"
+      ]
+    },
+    {
+      "EnglishWord": "winsorized",
+      "Meanings": [
+        "وینزوریده"
+      ]
+    },
+    {
+      "EnglishWord": "wishart distribution",
+      "Meanings": [
+        "توزیع ویشارت"
+      ]
+    },
+    {
+      "EnglishWord": "witch of agnesi",
+      "Meanings": [
+        "جادوی آن‌یزی"
+      ]
+    },
+    {
+      "EnglishWord": "witt design",
+      "Meanings": [
+        "طرح ویت"
+      ]
+    },
+    {
+      "EnglishWord": "wold decomposition",
+      "Meanings": [
+        "تجزیه ولد"
+      ]
+    },
+    {
+      "EnglishWord": "wolfowitz inequality",
+      "Meanings": [
+        "نابرابری ولفوویتس"
+      ]
+    },
+    {
+      "EnglishWord": "woodbury model",
+      "Meanings": [
+        "مدل وودبری"
+      ]
+    },
+    {
+      "EnglishWord": "woodroofe's inversion formula",
+      "Meanings": [
+        "فرمول وارون‌سازی وودروف"
+      ]
+    },
+    {
+      "EnglishWord": "woolhouse's formula",
+      "Meanings": [
+        "فرمول وول‌هاوس"
+      ]
+    },
+    {
+      "EnglishWord": "working-hotelling-scheffe confidence band",
+      "Meanings": [
+        "نوار اطمینان ورکینگ",
+        "هتلینگ",
+        "شفه"
+      ]
+    },
+    {
+      "EnglishWord": "worsley-hunter bound",
+      "Meanings": [
+        "کران ورسلی",
+        "هانتر"
+      ]
+    },
+    {
+      "EnglishWord": "wrapped distribution",
+      "Meanings": [
+        "توزیع پوشانده"
+      ]
+    },
+    {
+      "EnglishWord": "wrapped-up cauchy distribution",
+      "Meanings": [
+        "توزیع کوشی پوشانده"
+      ]
+    },
+    {
+      "EnglishWord": "wright's rejection procedure",
+      "Meanings": [
+        "شیوه رد کردن رایت"
+      ]
+    },
+    {
+      "EnglishWord": "wrong regression",
+      "Meanings": [
+        "رگرسیون غلط"
+      ]
+    },
+    {
+      "EnglishWord": "wu-hausman specification test",
+      "Meanings": [
+        "آزمون مشخص‌سازی وو",
+        "هاسمن"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+﻿{
+  "Group": "L",
+  "Entries": 43,
+  "Words": [
+    {
+      "EnglishWord": "l",
+      "Meanings": [
+        "دوازدهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "labeled graph",
+      "Meanings": [
+        "گراف بر چسب دار"
+      ]
+    },
+    {
+      "EnglishWord": "language",
+      "Meanings": [
+        "زبان"
+      ]
+    },
+    {
+      "EnglishWord": "last-in",
+      "Meanings": [
+        "first",
+        "out"
+      ]
+    },
+    {
+      "EnglishWord": "latency time",
+      "Meanings": [
+        "زمان تاخیر",
+        "مدت تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "latest time",
+      "Meanings": [
+        "دیرترین زمان"
+      ]
+    },
+    {
+      "EnglishWord": "lattice",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "layered digraph",
+      "Meanings": [
+        "گراف جهت دار لایه شده"
+      ]
+    },
+    {
+      "EnglishWord": "layered graph",
+      "Meanings": [
+        "گراف لایه شده"
+      ]
+    },
+    {
+      "EnglishWord": "leaf",
+      "Meanings": [
+        "برگ"
+      ]
+    },
+    {
+      "EnglishWord": "leaf node",
+      "Meanings": [
+        "گره برگی"
+      ]
+    },
+    {
+      "EnglishWord": "learning automata",
+      "Meanings": [
+        "اتوماتون یادگیر"
+      ]
+    },
+    {
+      "EnglishWord": "least common multiple",
+      "Meanings": [
+        "کوچکترین مضرب مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "least significant digit",
+      "Meanings": [
+        "کم ارزش‌ترین رقم معنا دار",
+        "رقم معنی دار با کمترین ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "left child",
+      "Meanings": [
+        "فرزند چپ"
+      ]
+    },
+    {
+      "EnglishWord": "leftist tree",
+      "Meanings": [
+        "درخت چپ گرا",
+        "درخت متمایل به چپ"
+      ]
+    },
+    {
+      "EnglishWord": "leftmost node",
+      "Meanings": [
+        "سمت چپ‌ترین گره"
+      ]
+    },
+    {
+      "EnglishWord": "leftmost path",
+      "Meanings": [
+        "سمت چپ‌ترین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "level",
+      "Meanings": [
+        "سطح"
+      ]
+    },
+    {
+      "EnglishWord": "life time",
+      "Meanings": [
+        "زمان زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "linear",
+      "Meanings": [
+        "خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear hashing",
+      "Meanings": [
+        "درهم سازی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear insertion sort",
+      "Meanings": [
+        "مرتب ساز درجی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear list",
+      "Meanings": [
+        "لیست خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear order",
+      "Meanings": [
+        "ترتیب خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear probing sort",
+      "Meanings": [
+        "مرتب ساز وارسی خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear product",
+      "Meanings": [
+        "ضرب خطی"
+      ]
+    },
+    {
+      "EnglishWord": "link",
+      "Meanings": [
+        "پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "linked chain",
+      "Meanings": [
+        "زنجیره پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked list",
+      "Meanings": [
+        "لیست پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked queue",
+      "Meanings": [
+        "صف پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linked stack",
+      "Meanings": [
+        "پشته پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "linker",
+      "Meanings": [
+        "پیوند دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "list",
+      "Meanings": [
+        "لیست"
+      ]
+    },
+    {
+      "EnglishWord": "little o notation",
+      "Meanings": [
+        "نماد o کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "lm distance",
+      "Meanings": [
+        "فاصله LM"
+      ]
+    },
+    {
+      "EnglishWord": "logarithmic",
+      "Meanings": [
+        "لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "loser tree",
+      "Meanings": [
+        "درخت بازنده"
+      ]
+    },
+    {
+      "EnglishWord": "lotka's law",
+      "Meanings": [
+        "قانون لاتکا"
+      ]
+    },
+    {
+      "EnglishWord": "low",
+      "Meanings": [
+        "پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lower bound",
+      "Meanings": [
+        "کران پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lower triangular matrix",
+      "Meanings": [
+        "ماتریس پایین مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "l-reduction",
+      "Meanings": [
+        "کاهش l"
+      ]
+    }
+  ]
+}

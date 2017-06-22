@@ -1,0 +1,666 @@
+﻿{
+  "Group": "T",
+  "Entries": 101,
+  "Words": [
+    {
+      "EnglishWord": "tableau",
+      "Meanings": [
+        "جدول"
+      ]
+    },
+    {
+      "EnglishWord": "tableau bounded simplex",
+      "Meanings": [
+        "جدول سیمپلکس کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "tableau dual simplex",
+      "Meanings": [
+        "جودل سیمپلکس دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "tableau primal dual",
+      "Meanings": [
+        "جدول اولیه",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "tableau revised simplex",
+      "Meanings": [
+        "جدول سیمپلکس اصلاح‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "tableau simplex",
+      "Meanings": [
+        "جدول سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "tableau two phase",
+      "Meanings": [
+        "جدول دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "tangent",
+      "Meanings": [
+        "مماس"
+      ]
+    },
+    {
+      "EnglishWord": "tanker scheduling problem",
+      "Meanings": [
+        "مساله زمان‌بندی تانکر"
+      ]
+    },
+    {
+      "EnglishWord": "tartaglia",
+      "Meanings": [
+        "تارتاگلیا"
+      ]
+    },
+    {
+      "EnglishWord": "tautology",
+      "Meanings": [
+        "راست‌گو"
+      ]
+    },
+    {
+      "EnglishWord": "tautology statemenet",
+      "Meanings": [
+        "گزاره راستگو",
+        "گزاره همیشه درست"
+      ]
+    },
+    {
+      "EnglishWord": "technological coefficients",
+      "Meanings": [
+        "ضرایب فنی"
+      ]
+    },
+    {
+      "EnglishWord": "term",
+      "Meanings": [
+        "اصطلاح"
+      ]
+    },
+    {
+      "EnglishWord": "terminating decimal",
+      "Meanings": [
+        "اعشاری مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "termination criterion",
+      "Meanings": [
+        "معیار توقف"
+      ]
+    },
+    {
+      "EnglishWord": "termination criterion optimality",
+      "Meanings": [
+        "معیار توقف بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "termination criterion unboundeness",
+      "Meanings": [
+        "معیار توقف نامتناهی‌بودن"
+      ]
+    },
+    {
+      "EnglishWord": "tersion",
+      "Meanings": [
+        "تاب‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "test",
+      "Meanings": [
+        "آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "test bench",
+      "Meanings": [
+        "برنامه تست"
+      ]
+    },
+    {
+      "EnglishWord": "testing of hypothesis",
+      "Meanings": [
+        "آزمون فرض"
+      ]
+    },
+    {
+      "EnglishWord": "thales",
+      "Meanings": [
+        "تالس",
+        "ریاضی‌دان قدیم یونانی",
+        "قبل از میلاد. در یونان و مصر زندگی کرد. وی با مطالعه درباره پاره‌خط‌های متناسب و تشابه مثلث‌ها",
+        "برای اولین بار روش محاسبه ارتفاع اهرام مصر را عرضه کرد. یکی از قضایای مهم هندسه اقلیدسی را در مورد پاره‌خط‌هایی که به وسیله مورب‌های موازی بر دو خط جدا می‌شوند به او نسبت می‌دهند"
+      ]
+    },
+    {
+      "EnglishWord": "theorem",
+      "Meanings": [
+        "قضیه",
+        "اصل"
+      ]
+    },
+    {
+      "EnglishWord": "theorems of the alternatives",
+      "Meanings": [
+        "قضایای دگرین"
+      ]
+    },
+    {
+      "EnglishWord": "theory",
+      "Meanings": [
+        "نظریه",
+        "تیوری"
+      ]
+    },
+    {
+      "EnglishWord": "theory of games",
+      "Meanings": [
+        "نظریه بازی‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "tie breaking rule",
+      "Meanings": [
+        "قاعده شکستن گره"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance limits",
+      "Meanings": [
+        "حدود تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "tolerance sensitivity approach",
+      "Meanings": [
+        "رهیافت حساسیت تحمل‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "top down",
+      "Meanings": [
+        "بالا به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "topological sapce",
+      "Meanings": [
+        "فضای توپولوژیک"
+      ]
+    },
+    {
+      "EnglishWord": "topologically equivalent",
+      "Meanings": [
+        "به طور توپولوژیکی معادل"
+      ]
+    },
+    {
+      "EnglishWord": "topology",
+      "Meanings": [
+        "توپولوژی مکان شناسی",
+        "مطالعه ریاضیاتی روی خصوصیاتی است که در طی تغییر شکلها",
+        "ضربه خوردن‌ها و کشیده شدن اشیاء",
+        "به طور ثابت حفظ میشوند البته عمل پاره کردن مجاز نمی‌باشد. یک دایره به لحاظ توپولوژیکی هم ارز بیضی میباشد که می‌تواند در داخل آن با کشیده شدن تغییر شکل یابد و یک کره به سطح بیضی وار هم ارز است یعنی یک منحنی بسته تک بعدی و بدون هیچ محل تقاطع که میتواند در فضای دو بعدی جای گیرد",
+        "مجموعه تمام وضعیتهای ممکن برای عقربه‌های ساعت شمار و دقیقه شمار با هم",
+        "به لحاظ توپولوژیکی با چنبره هم ارز است یعنی یک سطح دوبعدی که می‌تواند در داخل فضای سه بعدی جای گیرد و مجموعه تمام وضعیت‌های ممکن برای عقربه‌های ساعت شمار",
+        "دقیقه شمار و ثانیه شمار با هم",
+        "به لحاظ توپولوژی با یک شیء سه بعدی هم ارز می‌باشد",
+        "البته توپولوژی فقط این نیست. توپولوژی با منحنی ها",
+        "سطوح و سایر اشیاء در صفحه و فضای سه بعدی مطرح گردید. یکی از ایده‌های اصلی در توپولوژی این است که اشیاء فضایی مثل دایره‌ها و کره‌ها در نوع خود میتوانند به عنوان اشیاء محسوب شوند و علم اشیاء ارتباطی با چگونگی نمایش یافتن یا جای گرفتن آنها در فضا ندارد. برای مثال",
+        "عبارت «اگر شما یک نقطه را از دایره بیرون بکشید",
+        "یک پاره خط حاصل خواهد شد»",
+        "درست به همان اندازه که برای دایره صادق است برای بیضی و حتی دایره‌های پیچ خورده و گره دار نیز صدق می‌کند",
+        "چرا که این عبارت فقط خصوصیات توپولوژیکی را شامل می‌شود. \u000bتوپولوژی با مطالعه مواردی چون اشیاء فضایی از قبیل منحنی ها",
+        "سطوح",
+        "فضایی که ما آن را جهان می‌نامیم",
+        "پیوستار فضا زمان با نسبیت عمومی",
+        "فراکتال ها",
+        "گره ها",
+        "چند شکلی‌ها اشیایی هستند که برخی خصوصیات فضایی اصلی آن‌ها مشابه با جهان ما می‌باشد",
+        "فضا‌های مرحله ای که در فیزیک با آن‌ها مواجه می‌شییم مثل فضای وضعیت‌های قرار گرفتن عقربه‌ها در ساعت",
+        "گروه‌های متقارن همچون مجموعه شیوه‌های چرخاندن یک راس و غیره در ارتباط است. \u000bتوپولوژی برای جدا سازی اتصال ذاتی اشیاء و در عین حال کنار گذاشتن ساختار جزء به جزء آنها قابل استفاده می‌باشد. \u000bاشیاء توپولوژیکی اغلب به صورت رسمی به عنوان فضا‌های توپولوژیکی تعریف می‌شوند. اگر دو شیء دارای خصوصیات توپولوژیکی مشابه باشند",
+        "گفته می‌شود که آن‌ها هم ریخت هستند. البته اگر دقیق‌تر بگوییم",
+        "خصوصیاتی که با کشیدن یا کج کردن یک شیء تخریب نمی‌شوند",
+        "در واقع خصوصیاتی هستند که به واسطه همسانگری حفظ می‌شوند نه به واسطه هم ریختی",
+        "همسانگری با کج کردن اشیاء دیگر در ارتباط است در حالیکه همریختی",
+        "خصیصه ذاتی است. \u000bحدود سال",
+        "پوانکاره poincare",
+        "معیاری از توپولوژی را تحت عنوان هوموتوپی Homotopy طراحی کرد کولینز. 2004. به طور خاص دو شیء ریاضیاتی زمانی هوموتوپیک خوانده می‌شوند که یکی از آنها بتواند به طور پیوسته به شکلی مشابه شکل دیگری تغییر یابد. \u000bتوپولوژی بر سه قسم است: توپولوژی جبری که توپولوژی ترکیبی نامیده میشود توپولوژی نا همسان و توپولوژی کم بعدی. \u000bیک تعریف رسمی نیز برای توپولوژی که بر حسب عملیات‌های مجموعه ای تعریف میشوند",
+        "وجود دارد. یک مجموعه X به همراه یک مجموعه T از زیر مجموعه آن",
+        "در صورتی یک توپولوژی محسوب می‌شود که زیر مجموعه‌ها در T از خصوصیات زیر پیروی نمایند",
+        "زیر مجموعه‌های ناچیز X و مجموعه تهی در T باشند.",
+        "هر گاه مجموعه ای A و B در T باشند",
+        "آنگاهA^ B",
+        "هر گاه دو یا چند مجموعه در T باشند آنگاه اجتماع آن‌ها نیز چنین است",
+        "منبع: وبلاگ دانشجویان ریاضی کرمان: http: //riyazy83. blogfa. com"
+      ]
+    },
+    {
+      "EnglishWord": "torsion free",
+      "Meanings": [
+        "بی‌تاب"
+      ]
+    },
+    {
+      "EnglishWord": "torus",
+      "Meanings": [
+        "چنبره",
+        "تر"
+      ]
+    },
+    {
+      "EnglishWord": "total",
+      "Meanings": [
+        "مجموع",
+        "کل"
+      ]
+    },
+    {
+      "EnglishWord": "total order",
+      "Meanings": [
+        "ترتیب تام"
+      ]
+    },
+    {
+      "EnglishWord": "total order relation",
+      "Meanings": [
+        "رابطه کلا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "totally ordered set",
+      "Meanings": [
+        "مجموعه کاملا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "totient function",
+      "Meanings": [
+        "تابع نشانگر"
+      ]
+    },
+    {
+      "EnglishWord": "tourism problem",
+      "Meanings": [
+        "مساله گردشگری"
+      ]
+    },
+    {
+      "EnglishWord": "tournament",
+      "Meanings": [
+        "تورنمنت"
+      ]
+    },
+    {
+      "EnglishWord": "tower law",
+      "Meanings": [
+        "قانون برج"
+      ]
+    },
+    {
+      "EnglishWord": "trace",
+      "Meanings": [
+        "اثر"
+      ]
+    },
+    {
+      "EnglishWord": "traffic assignment problem",
+      "Meanings": [
+        "مساله تخصیص ترافیک"
+      ]
+    },
+    {
+      "EnglishWord": "trajectory orthogonal",
+      "Meanings": [
+        "مسیر عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "transcedental extension",
+      "Meanings": [
+        "توسیع متعالی"
+      ]
+    },
+    {
+      "EnglishWord": "transcendence",
+      "Meanings": [
+        "تعالی",
+        "برتری"
+      ]
+    },
+    {
+      "EnglishWord": "transcendence of e",
+      "Meanings": [
+        "تعالی e"
+      ]
+    },
+    {
+      "EnglishWord": "transcendental",
+      "Meanings": [
+        "متعالی",
+        "غیر جبری"
+      ]
+    },
+    {
+      "EnglishWord": "transcendental number",
+      "Meanings": [
+        "عدد متعالی"
+      ]
+    },
+    {
+      "EnglishWord": "transfinite cardinal number",
+      "Meanings": [
+        "عدد اصلی ترامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "transfinite induction",
+      "Meanings": [
+        "استقرای ترامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "transformation",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "transitive",
+      "Meanings": [
+        "متعدی",
+        "ترایا"
+      ]
+    },
+    {
+      "EnglishWord": "transitive law",
+      "Meanings": [
+        "قانون متعدی"
+      ]
+    },
+    {
+      "EnglishWord": "transitivity",
+      "Meanings": [
+        "تعدی"
+      ]
+    },
+    {
+      "EnglishWord": "transitivity of a group action",
+      "Meanings": [
+        "ترایایی عمل یک گروه"
+      ]
+    },
+    {
+      "EnglishWord": "transpose",
+      "Meanings": [
+        "ترانهاد",
+        "ترانهاده"
+      ]
+    },
+    {
+      "EnglishWord": "transpose of matrix",
+      "Meanings": [
+        "ترانهاده یک ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "transposition",
+      "Meanings": [
+        "تحویل ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "transposition of matrix",
+      "Meanings": [
+        "ماتریس حمل‌و‌نقل"
+      ]
+    },
+    {
+      "EnglishWord": "transposition problem",
+      "Meanings": [
+        "مساله حمل‌و‌نقل"
+      ]
+    },
+    {
+      "EnglishWord": "transposition problem definition",
+      "Meanings": [
+        "تعریف مساله حمل‌و‌نقل"
+      ]
+    },
+    {
+      "EnglishWord": "transversal",
+      "Meanings": [
+        "پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "trapezoid",
+      "Meanings": [
+        "ذوزنقه"
+      ]
+    },
+    {
+      "EnglishWord": "treatment",
+      "Meanings": [
+        "تیمار"
+      ]
+    },
+    {
+      "EnglishWord": "trebly asymptotic triangle",
+      "Meanings": [
+        "مثلث سه مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "tree",
+      "Meanings": [
+        "درخت"
+      ]
+    },
+    {
+      "EnglishWord": "tree diagram",
+      "Meanings": [
+        "نمودار درختی"
+      ]
+    },
+    {
+      "EnglishWord": "tree graph",
+      "Meanings": [
+        "گراف درخت"
+      ]
+    },
+    {
+      "EnglishWord": "triangle",
+      "Meanings": [
+        "مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "triangle of crucible",
+      "Meanings": [
+        "مثلث بوته"
+      ]
+    },
+    {
+      "EnglishWord": "triangular",
+      "Meanings": [
+        "سه‌گوشی",
+        "مثلثی",
+        "سه‌گوشه",
+        "دارای سه زاویه",
+        "به شکل مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "triangular matrix",
+      "Meanings": [
+        "ماتریس مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "triangularzation",
+      "Meanings": [
+        "مثلثی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "triangulation",
+      "Meanings": [
+        "مثلث بندی"
+      ]
+    },
+    {
+      "EnglishWord": "trichotomy",
+      "Meanings": [
+        "سه حالتی"
+      ]
+    },
+    {
+      "EnglishWord": "trignometry",
+      "Meanings": [
+        "مثلثات"
+      ]
+    },
+    {
+      "EnglishWord": "trigonometric",
+      "Meanings": [
+        "مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "trigonometric identity",
+      "Meanings": [
+        "اتحاد مثلثاتی"
+      ]
+    },
+    {
+      "EnglishWord": "triquetrum",
+      "Meanings": [
+        "سه گوشه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "trisection of the angle",
+      "Meanings": [
+        "تثلیث زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "trivariate probability density",
+      "Meanings": [
+        "چگالی احتمال سه‌متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "trivial",
+      "Meanings": [
+        "بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "trivial graph",
+      "Meanings": [
+        "گراف بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "truth",
+      "Meanings": [
+        "حقیقت",
+        "راستی"
+      ]
+    },
+    {
+      "EnglishWord": "truth table",
+      "Meanings": [
+        "جدول ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "truth value",
+      "Meanings": [
+        "ارزش راستی"
+      ]
+    },
+    {
+      "EnglishWord": "tschirnhaus",
+      "Meanings": [
+        "تشیرن‌هاوس",
+        "تا 1708 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "tschirnhaus transformation",
+      "Meanings": [
+        "تبدیل تشیرن‌هاوس"
+      ]
+    },
+    {
+      "EnglishWord": "two person zero sum game",
+      "Meanings": [
+        "بازی دو نفره با مجموع صفر"
+      ]
+    },
+    {
+      "EnglishWord": "two phase method",
+      "Meanings": [
+        "روش دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "two phase method analysis",
+      "Meanings": [
+        "آنالیز روش دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "two phase method comparison with big m method",
+      "Meanings": [
+        "مقایسه روش M بزرگ و روش دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "two phase method description",
+      "Meanings": [
+        "توصیف روش دو فازی"
+      ]
+    },
+    {
+      "EnglishWord": "two sided",
+      "Meanings": [
+        "دو طرفی"
+      ]
+    },
+    {
+      "EnglishWord": "two tailed test",
+      "Meanings": [
+        "آزمون دو دمی"
+      ]
+    },
+    {
+      "EnglishWord": "two way analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس دوطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "type",
+      "Meanings": [
+        "نوع"
+      ]
+    }
+  ]
+}

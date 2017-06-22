@@ -1,0 +1,511 @@
+﻿{
+  "Group": "I",
+  "Entries": 84,
+  "Words": [
+    {
+      "EnglishWord": "i",
+      "Meanings": [
+        "آی"
+      ]
+    },
+    {
+      "EnglishWord": "igneous rock",
+      "Meanings": [
+        "سنگ آذرین"
+      ]
+    },
+    {
+      "EnglishWord": "illite",
+      "Meanings": [
+        "ایلیت"
+      ]
+    },
+    {
+      "EnglishWord": "illitic",
+      "Meanings": [
+        "ایلیت دار"
+      ]
+    },
+    {
+      "EnglishWord": "illuvial horizon",
+      "Meanings": [
+        "افق انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "illuviation",
+      "Meanings": [
+        "انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "illuviation cutan",
+      "Meanings": [
+        "کوتان انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "imagery",
+      "Meanings": [
+        "تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "imhoff cone",
+      "Meanings": [
+        "مخروط ایم‌هوف"
+      ]
+    },
+    {
+      "EnglishWord": "immature soil",
+      "Meanings": [
+        "خاک نارس"
+      ]
+    },
+    {
+      "EnglishWord": "immobilization",
+      "Meanings": [
+        "آلی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "immunofluorescence",
+      "Meanings": [
+        "فلورسانس ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "imogolite",
+      "Meanings": [
+        "ایموگولیت"
+      ]
+    },
+    {
+      "EnglishWord": "impeded drainage",
+      "Meanings": [
+        "زهکشی دشوار"
+      ]
+    },
+    {
+      "EnglishWord": "impervious",
+      "Meanings": [
+        "نفوذ ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "improvement soil",
+      "Meanings": [
+        "بهسازی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "in situ",
+      "Meanings": [
+        "درجا"
+      ]
+    },
+    {
+      "EnglishWord": "inceptisols",
+      "Meanings": [
+        "اینسپتی سولها"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion",
+      "Meanings": [
+        "پیسه"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete tillage",
+      "Meanings": [
+        "خاک‌ورزی ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "incorporate",
+      "Meanings": [
+        "مخلوط کردن"
+      ]
+    },
+    {
+      "EnglishWord": "incorporation",
+      "Meanings": [
+        "قاطی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "indicator plants",
+      "Meanings": [
+        "گیاهان معرف"
+      ]
+    },
+    {
+      "EnglishWord": "indigenous",
+      "Meanings": [
+        "بومی"
+      ]
+    },
+    {
+      "EnglishWord": "indirect toxicity",
+      "Meanings": [
+        "سمیت غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indore process",
+      "Meanings": [
+        "فرآیند ایندور"
+      ]
+    },
+    {
+      "EnglishWord": "indurated",
+      "Meanings": [
+        "سخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "indurated layer",
+      "Meanings": [
+        "سخت لایه"
+      ]
+    },
+    {
+      "EnglishWord": "infiltrability",
+      "Meanings": [
+        "نفوذپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration",
+      "Meanings": [
+        "نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration capacity",
+      "Meanings": [
+        "گنجایش نفوذپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration flux",
+      "Meanings": [
+        "شدت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration rate",
+      "Meanings": [
+        "شدت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration velocity",
+      "Meanings": [
+        "سرعت نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "infiltrometer",
+      "Meanings": [
+        "نفوذ سنج"
+      ]
+    },
+    {
+      "EnglishWord": "infrared",
+      "Meanings": [
+        "فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "infrared far",
+      "Meanings": [
+        "فروسرخ دور"
+      ]
+    },
+    {
+      "EnglishWord": "infrared middle",
+      "Meanings": [
+        "فروسرخ میانه"
+      ]
+    },
+    {
+      "EnglishWord": "infrared near",
+      "Meanings": [
+        "فروسرخ نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "inhibition",
+      "Meanings": [
+        "بازدارندگی"
+      ]
+    },
+    {
+      "EnglishWord": "inner sphere adsorption",
+      "Meanings": [
+        "جذب درون کره ای"
+      ]
+    },
+    {
+      "EnglishWord": "inoculate",
+      "Meanings": [
+        "تلقیح"
+      ]
+    },
+    {
+      "EnglishWord": "inoculum",
+      "Meanings": [
+        "مایه"
+      ]
+    },
+    {
+      "EnglishWord": "insepic",
+      "Meanings": [
+        "اینسپیک"
+      ]
+    },
+    {
+      "EnglishWord": "integrated drainage",
+      "Meanings": [
+        "زهکشی یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "interflow",
+      "Meanings": [
+        "درون جریانی"
+      ]
+    },
+    {
+      "EnglishWord": "interfluve",
+      "Meanings": [
+        "میان رفت"
+      ]
+    },
+    {
+      "EnglishWord": "intergrade",
+      "Meanings": [
+        "بینابین"
+      ]
+    },
+    {
+      "EnglishWord": "interlayer",
+      "Meanings": [
+        "بین لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent stream",
+      "Meanings": [
+        "روددوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "internal friction",
+      "Meanings": [
+        "اصطکاک داخلی",
+        "اصطکاک درونی"
+      ]
+    },
+    {
+      "EnglishWord": "internal soil drainage",
+      "Meanings": [
+        "زهکشی داخلی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "interrill erosion",
+      "Meanings": [
+        "فرسایش بین شیاری"
+      ]
+    },
+    {
+      "EnglishWord": "interstices",
+      "Meanings": [
+        "روزنه ها"
+      ]
+    },
+    {
+      "EnglishWord": "interstratification",
+      "Meanings": [
+        "میان لایه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "interstratified mineral",
+      "Meanings": [
+        "کانی رسی میان لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intertextic fabric",
+      "Meanings": [
+        "فابریک اینترتکستیک"
+      ]
+    },
+    {
+      "EnglishWord": "intolerant",
+      "Meanings": [
+        "غیرمتحمل"
+      ]
+    },
+    {
+      "EnglishWord": "intoxication",
+      "Meanings": [
+        "مسموم شدن"
+      ]
+    },
+    {
+      "EnglishWord": "intracellular enzyme",
+      "Meanings": [
+        "آنزیم درون یاخته ای"
+      ]
+    },
+    {
+      "EnglishWord": "intrazonal soils",
+      "Meanings": [
+        "خاکهای درون منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic permeability",
+      "Meanings": [
+        "تراوایی ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "inversion",
+      "Meanings": [
+        "خاک برگردانی"
+      ]
+    },
+    {
+      "EnglishWord": "ion activity",
+      "Meanings": [
+        "فعالیت یون"
+      ]
+    },
+    {
+      "EnglishWord": "ion selective electrode",
+      "Meanings": [
+        "الکترودویژه یون"
+      ]
+    },
+    {
+      "EnglishWord": "ion selectivity",
+      "Meanings": [
+        "گزینش یون"
+      ]
+    },
+    {
+      "EnglishWord": "ionic activity coefficient",
+      "Meanings": [
+        "ضریب فعالیت یونی"
+      ]
+    },
+    {
+      "EnglishWord": "ionic strength",
+      "Meanings": [
+        "قدرت یونی"
+      ]
+    },
+    {
+      "EnglishWord": "ionizing radiation",
+      "Meanings": [
+        "پرتویون ساز"
+      ]
+    },
+    {
+      "EnglishWord": "ions",
+      "Meanings": [
+        "یونها"
+      ]
+    },
+    {
+      "EnglishWord": "ir",
+      "Meanings": [
+        "فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "iron oxides",
+      "Meanings": [
+        "اکسیدهای آهن"
+      ]
+    },
+    {
+      "EnglishWord": "iron stone",
+      "Meanings": [
+        "سنگ آهن"
+      ]
+    },
+    {
+      "EnglishWord": "iron-pan",
+      "Meanings": [
+        "کفه آهن دار"
+      ]
+    },
+    {
+      "EnglishWord": "irrigation",
+      "Meanings": [
+        "آبیاری"
+      ]
+    },
+    {
+      "EnglishWord": "irrigation efficiency",
+      "Meanings": [
+        "راندمان آبیاری"
+      ]
+    },
+    {
+      "EnglishWord": "irrigation-induced erosion",
+      "Meanings": [
+        "فرسایش ناشی ازآبیاری"
+      ]
+    },
+    {
+      "EnglishWord": "isoelectric point",
+      "Meanings": [
+        "نقطه هم بارالکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphous substitution",
+      "Meanings": [
+        "جایگزینی همشکل"
+      ]
+    },
+    {
+      "EnglishWord": "isothermic",
+      "Meanings": [
+        "ایزوترمیک"
+      ]
+    },
+    {
+      "EnglishWord": "isotic plasmic fabric",
+      "Meanings": [
+        "فابریک پلاسمیک ایزوتیک"
+      ]
+    },
+    {
+      "EnglishWord": "isotopically exchangeable ion",
+      "Meanings": [
+        "یون تبادلی ایزوتوپی"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic shrinkage",
+      "Meanings": [
+        "انقباض همسانگرد"
+      ]
+    },
+    {
+      "EnglishWord": "iunctic fabric",
+      "Meanings": [
+        "فابریک ایونکتیک"
+      ]
+    }
+  ]
+}

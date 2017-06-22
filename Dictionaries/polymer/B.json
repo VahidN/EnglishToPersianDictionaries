@@ -1,0 +1,1364 @@
+﻿{
+  "Group": "B",
+  "Entries": 212,
+  "Words": [
+    {
+      "EnglishWord": "back donation",
+      "Meanings": [
+        "بازپس دهی"
+      ]
+    },
+    {
+      "EnglishWord": "back effect",
+      "Meanings": [
+        "اثر برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "back filling material",
+      "Meanings": [
+        "ماده پشت پر کننده"
+      ]
+    },
+    {
+      "EnglishWord": "back titration",
+      "Meanings": [
+        "تیتر کردن برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "backbiting",
+      "Meanings": [
+        "گاز زدن از پشت",
+        "گرفتن از پشت"
+      ]
+    },
+    {
+      "EnglishWord": "backbonding",
+      "Meanings": [
+        "تشکیل پیوند برگشتی از پشت"
+      ]
+    },
+    {
+      "EnglishWord": "backbone",
+      "Meanings": [
+        "پیکره",
+        "استخوان بندی"
+      ]
+    },
+    {
+      "EnglishWord": "bacteria membrane electrode",
+      "Meanings": [
+        "الکترود غشایی باکتری"
+      ]
+    },
+    {
+      "EnglishWord": "bactericidal paint",
+      "Meanings": [
+        "پوشرنگ باکتری کش",
+        "رنگ ضد باکتری"
+      ]
+    },
+    {
+      "EnglishWord": "bacteriocide",
+      "Meanings": [
+        "باکتری کش",
+        "ضد باکتری"
+      ]
+    },
+    {
+      "EnglishWord": "baffle",
+      "Meanings": [
+        "مانع",
+        "موجگیر",
+        "تیغه و بافل"
+      ]
+    },
+    {
+      "EnglishWord": "bag molding",
+      "Meanings": [
+        "قالبگیری کیسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bagasse",
+      "Meanings": [
+        "تفاله",
+        "تفاله نیشکر"
+      ]
+    },
+    {
+      "EnglishWord": "baking",
+      "Meanings": [
+        "کوره پزی",
+        "فرآورش رنگ در داخل کوره"
+      ]
+    },
+    {
+      "EnglishWord": "baking schedule",
+      "Meanings": [
+        "جدول کوره پزی"
+      ]
+    },
+    {
+      "EnglishWord": "baking time",
+      "Meanings": [
+        "زمان کوره پزی"
+      ]
+    },
+    {
+      "EnglishWord": "ball mill",
+      "Meanings": [
+        "آسیای گلوله ای"
+      ]
+    },
+    {
+      "EnglishWord": "ballistic",
+      "Meanings": [
+        "پرتابی"
+      ]
+    },
+    {
+      "EnglishWord": "ballotini",
+      "Meanings": [
+        "گویچه",
+        "گویچه شیشه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "banbury mixer",
+      "Meanings": [
+        "مخلوط کن پرتابه ای"
+      ]
+    },
+    {
+      "EnglishWord": "band",
+      "Meanings": [
+        "نوار"
+      ]
+    },
+    {
+      "EnglishWord": "banding",
+      "Meanings": [
+        "قابلیت نوار شدن"
+      ]
+    },
+    {
+      "EnglishWord": "bandwidth",
+      "Meanings": [
+        "پهنای نوار"
+      ]
+    },
+    {
+      "EnglishWord": "banzoyl peroxide",
+      "Meanings": [
+        "بنزوییل پر اکساید",
+        "فعال کننده ای است که با شتاب دهنده دی متیلن آنیلین و دی اتیلن آنیلین و یا جایی که حرارت به عنوان شتاب دهنده مورد استفاده قرار می‌گیرد مصرف می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "میله"
+      ]
+    },
+    {
+      "EnglishWord": "barcol molding",
+      "Meanings": [
+        "سختی بار کل",
+        "اندازه سختی چندلایی که بوسیله میزان مقاومت در برابر نفوذ سوزن تیز فولادی ضد زنگ در اثر فشار بدست می‏آید"
+      ]
+    },
+    {
+      "EnglishWord": "bare spots",
+      "Meanings": [
+        "نقاط خالی"
+      ]
+    },
+    {
+      "EnglishWord": "barite",
+      "Meanings": [
+        "باریت"
+      ]
+    },
+    {
+      "EnglishWord": "barrel",
+      "Meanings": [
+        "سیلندر cylinder=barrel"
+      ]
+    },
+    {
+      "EnglishWord": "barrel heaters",
+      "Meanings": [
+        "گرم کنهای محفظه بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel residence time",
+      "Meanings": [
+        "زمان اقامت در سیلندر"
+      ]
+    },
+    {
+      "EnglishWord": "barrier",
+      "Meanings": [
+        "سدگر",
+        "محافظ",
+        "سد",
+        "سد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "barrier coat",
+      "Meanings": [
+        "پوشش محافظ",
+        "سدپوشه"
+      ]
+    },
+    {
+      "EnglishWord": "barrier coating",
+      "Meanings": [
+        "پوشش نفوذ ناپذیر",
+        "پوشش مانع"
+      ]
+    },
+    {
+      "EnglishWord": "barrier layer",
+      "Meanings": [
+        "لایه مانع"
+      ]
+    },
+    {
+      "EnglishWord": "barrier properties",
+      "Meanings": [
+        "خواص حفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "barrier screw",
+      "Meanings": [
+        "مارپیچ مانع دار"
+      ]
+    },
+    {
+      "EnglishWord": "basal spacing",
+      "Meanings": [
+        "فواصل بین لایه ای باسال در سیلیکاتها"
+      ]
+    },
+    {
+      "EnglishWord": "basalt fibers",
+      "Meanings": [
+        "الیاف بازالت"
+      ]
+    },
+    {
+      "EnglishWord": "base",
+      "Meanings": [
+        "باز"
+      ]
+    },
+    {
+      "EnglishWord": "base coat",
+      "Meanings": [
+        "پوشش اولیه",
+        "بن پوشه"
+      ]
+    },
+    {
+      "EnglishWord": "base line",
+      "Meanings": [
+        "خط مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "base oil",
+      "Meanings": [
+        "روغن پایه"
+      ]
+    },
+    {
+      "EnglishWord": "basic dye",
+      "Meanings": [
+        "رنگینه بازی",
+        "رزانه بازی"
+      ]
+    },
+    {
+      "EnglishWord": "basket",
+      "Meanings": [
+        "سبدی یا پاناما"
+      ]
+    },
+    {
+      "EnglishWord": "batch",
+      "Meanings": [
+        "پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "batch number",
+      "Meanings": [
+        "شماره پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "batch process",
+      "Meanings": [
+        "فرایند ناپیوسته نوبتی"
+      ]
+    },
+    {
+      "EnglishWord": "batch reactor",
+      "Meanings": [
+        "راکتور ناپیوسته نوبتی",
+        "پیمانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bead insulation",
+      "Meanings": [
+        "عایق سازی طوقه"
+      ]
+    },
+    {
+      "EnglishWord": "bead polymerization",
+      "Meanings": [
+        "پلیمر شدن مرواریدی"
+      ]
+    },
+    {
+      "EnglishWord": "beaker",
+      "Meanings": [
+        "بشر"
+      ]
+    },
+    {
+      "EnglishWord": "beam",
+      "Meanings": [
+        "تیرچه",
+        "پرتو"
+      ]
+    },
+    {
+      "EnglishWord": "beam condenser",
+      "Meanings": [
+        "متمرکز کننده باریکه پرتوها"
+      ]
+    },
+    {
+      "EnglishWord": "beam splitter",
+      "Meanings": [
+        "شکافنده باریکه پرتوها"
+      ]
+    },
+    {
+      "EnglishWord": "bearing",
+      "Meanings": [
+        "یاتاقان"
+      ]
+    },
+    {
+      "EnglishWord": "bending moment",
+      "Meanings": [
+        "گشتاور خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending resistance",
+      "Meanings": [
+        "مقاومت خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending stiffness",
+      "Meanings": [
+        "سفتی خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending stiffness coefficient",
+      "Meanings": [
+        "ضریب سفتی خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending strength",
+      "Meanings": [
+        "استحکام خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "benzenoid",
+      "Meanings": [
+        "بنزن مانند"
+      ]
+    },
+    {
+      "EnglishWord": "beta scission",
+      "Meanings": [
+        "گسستگی در محل بتا",
+        "بتا گسستگی"
+      ]
+    },
+    {
+      "EnglishWord": "bi directional",
+      "Meanings": [
+        "دو جهته",
+        "آرایشی که الیاف تقویت کننده دسته رشته ای در دو جهت زاویه دار حداکثر عمود برهم برای رسیدن به حداکثر استحکام محصول در دو جهت به خود می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "bias cutter",
+      "Meanings": [
+        "ماشین اریب بر"
+      ]
+    },
+    {
+      "EnglishWord": "bias ply",
+      "Meanings": [
+        "لایه مورب در تایر"
+      ]
+    },
+    {
+      "EnglishWord": "bias tire",
+      "Meanings": [
+        "تایر با زاویه نخ مورب"
+      ]
+    },
+    {
+      "EnglishWord": "biaxial",
+      "Meanings": [
+        "دو محوری"
+      ]
+    },
+    {
+      "EnglishWord": "biaxial orientation",
+      "Meanings": [
+        "دوسو جهت یافتگی"
+      ]
+    },
+    {
+      "EnglishWord": "bicontinuous",
+      "Meanings": [
+        "دو پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "bifunctional",
+      "Meanings": [
+        "دو عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "bimetalic",
+      "Meanings": [
+        "دو فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "bimodal",
+      "Meanings": [
+        "دو قله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bimolecular",
+      "Meanings": [
+        "دو مولکولی"
+      ]
+    },
+    {
+      "EnglishWord": "binder",
+      "Meanings": [
+        "محمل",
+        "اتصال دهنده",
+        "پیوند دهنده",
+        "پیونده",
+        "چسب",
+        "بخشی از رنگ است که سبب پیوستگی لایه و چسبندگی رنگ به سطح می‌شود. مخلوط از رزینها",
+        "نرم کننده ها",
+        "روغن‌های خشک شونده و غیره است"
+      ]
+    },
+    {
+      "EnglishWord": "binder demand",
+      "Meanings": [
+        "پیونده خوری"
+      ]
+    },
+    {
+      "EnglishWord": "binodal",
+      "Meanings": [
+        "دو گره ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial",
+      "Meanings": [
+        "دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "bio accumulation",
+      "Meanings": [
+        "زیست انباشتگی"
+      ]
+    },
+    {
+      "EnglishWord": "bio active",
+      "Meanings": [
+        "زیست فعال"
+      ]
+    },
+    {
+      "EnglishWord": "bio inert",
+      "Meanings": [
+        "زیست خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "biochemical oxygen demand",
+      "Meanings": [
+        "مقدار اکسیژن خواهی زیست شیمیایی",
+        "مقدار اکسیژن مورد نیاز برای اکسایش زیست شناسی بیولوژیکی مواد آلی موجود در آب یا فاضلاب. BOD معمولا بعنوان شاخصی برای تعیین میزان آلودگی پسابها شناخته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "biochemistry",
+      "Meanings": [
+        "زیست شیمی"
+      ]
+    },
+    {
+      "EnglishWord": "biocide",
+      "Meanings": [
+        "پادزیست",
+        "ضد حیات",
+        "زیست کش"
+      ]
+    },
+    {
+      "EnglishWord": "biocompatibility",
+      "Meanings": [
+        "زیست سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "biocomponent",
+      "Meanings": [
+        "زیست جزء",
+        "جزء سازنده زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "bioconversion",
+      "Meanings": [
+        "زیست تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "biodegradability",
+      "Meanings": [
+        "زیست تخریب پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "biologically process",
+      "Meanings": [
+        "فرایند زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biomass",
+      "Meanings": [
+        "زیست توده",
+        "توده زنده"
+      ]
+    },
+    {
+      "EnglishWord": "biomaterial",
+      "Meanings": [
+        "زیست ماده",
+        "ماده زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biomedical membrane",
+      "Meanings": [
+        "غشای زیست پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "biomembrane",
+      "Meanings": [
+        "زیست غشا",
+        "غشای زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biopolymer",
+      "Meanings": [
+        "زیست پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "bioprocess",
+      "Meanings": [
+        "فرآیند بیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "bioreactor",
+      "Meanings": [
+        "زیست راکتور"
+      ]
+    },
+    {
+      "EnglishWord": "biorelated polymer",
+      "Meanings": [
+        "پلیمر زیست وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "bioremediation",
+      "Meanings": [
+        "زیست پیشگیری",
+        "زیست درمانی"
+      ]
+    },
+    {
+      "EnglishWord": "biosensitive",
+      "Meanings": [
+        "زیست حساس"
+      ]
+    },
+    {
+      "EnglishWord": "biosensor",
+      "Meanings": [
+        "زیست حسگر"
+      ]
+    },
+    {
+      "EnglishWord": "biospecific electode",
+      "Meanings": [
+        "الکترود زیست ویژه",
+        "الکترود ویژه زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biotransformation",
+      "Meanings": [
+        "زیست انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "bipolaron",
+      "Meanings": [
+        "بی پلارون",
+        "جزیره بار عامل رسانای پلیمر"
+      ]
+    },
+    {
+      "EnglishWord": "biradical transition",
+      "Meanings": [
+        "گذار دو رادیکالی"
+      ]
+    },
+    {
+      "EnglishWord": "birefringence",
+      "Meanings": [
+        "شکست مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bismaleimides",
+      "Meanings": [
+        "بیس مال ایمید"
+      ]
+    },
+    {
+      "EnglishWord": "bitumen",
+      "Meanings": [
+        "قیر"
+      ]
+    },
+    {
+      "EnglishWord": "black varnish",
+      "Meanings": [
+        "ورنی سیاه",
+        "لعاب سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "bladder",
+      "Meanings": [
+        "کیسه پخت تایر کیسه تحت فشار برای شکل دادن به تایر در حین پخت"
+      ]
+    },
+    {
+      "EnglishWord": "blade",
+      "Meanings": [
+        "تیغه"
+      ]
+    },
+    {
+      "EnglishWord": "blanc fix",
+      "Meanings": [
+        "سولفات باریم"
+      ]
+    },
+    {
+      "EnglishWord": "blank",
+      "Meanings": [
+        "خالی",
+        "شاهد"
+      ]
+    },
+    {
+      "EnglishWord": "blasting",
+      "Meanings": [
+        "زبره پاشی"
+      ]
+    },
+    {
+      "EnglishWord": "bleeder",
+      "Meanings": [
+        "منفذ تخلیه هوا از قالب"
+      ]
+    },
+    {
+      "EnglishWord": "bleeding",
+      "Meanings": [
+        "رو افتادن",
+        "پدیده ای است که در نتیجه نرم شدن پشت پوشش ژلی به رنگدانه‌ها اجازه جریان و متحرک بودن داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "blend",
+      "Meanings": [
+        "آمیخته",
+        "مخلوط"
+      ]
+    },
+    {
+      "EnglishWord": "blender",
+      "Meanings": [
+        "مخلوط کن"
+      ]
+    },
+    {
+      "EnglishWord": "blending",
+      "Meanings": [
+        "آمیخته کاری",
+        "آمیخته سازی"
+      ]
+    },
+    {
+      "EnglishWord": "blister",
+      "Meanings": [
+        "تاول"
+      ]
+    },
+    {
+      "EnglishWord": "blistering",
+      "Meanings": [
+        "تاول زدن"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "قطعه",
+        "دسته"
+      ]
+    },
+    {
+      "EnglishWord": "block copolymer",
+      "Meanings": [
+        "کو پلیمر قطعه ای",
+        "کو پلیمر دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "block foam",
+      "Meanings": [
+        "اسفنج تکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "blocked",
+      "Meanings": [
+        "مسدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "blocked amine",
+      "Meanings": [
+        "آمین مهار شده"
+      ]
+    },
+    {
+      "EnglishWord": "blocked isocyanat",
+      "Meanings": [
+        "ایزوسیانات بلوکه",
+        "از واکنش ایزوسیانات‌ها با عوامل بلوکه‌کننده مانند اتیل‌مالونات یا اتیل‌استواستات گروه فعال ایزوسیانات در دمای اتاق غیرفعال شده و ترکیب تا پیش از بالابردن دما پایدار باقی می‌ماند. محصول تهیه‌شده از واکنش ایزوسیانات‌‌‌‌های آلی با عوامل بلوکه‌کننده را ایزوسیانات‌های بلوکه گویند"
+      ]
+    },
+    {
+      "EnglishWord": "blocking",
+      "Meanings": [
+        "قطعه ای شدن",
+        "دسته ای شدن",
+        "مهارسازی",
+        "خشک چسبی"
+      ]
+    },
+    {
+      "EnglishWord": "blood bag",
+      "Meanings": [
+        "کیسه خون"
+      ]
+    },
+    {
+      "EnglishWord": "bloom",
+      "Meanings": [
+        "شکفته شدن لاستیک",
+        "کدر شدن رنگ",
+        "شوره"
+      ]
+    },
+    {
+      "EnglishWord": "blooming",
+      "Meanings": [
+        "شکفتگی",
+        "شکوفندگی"
+      ]
+    },
+    {
+      "EnglishWord": "blow cooling",
+      "Meanings": [
+        "خنک سازی دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "blow molding",
+      "Meanings": [
+        "قالبگیری دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "blow pipe",
+      "Meanings": [
+        "لوله دمش"
+      ]
+    },
+    {
+      "EnglishWord": "blow ratio",
+      "Meanings": [
+        "نسبت دمش"
+      ]
+    },
+    {
+      "EnglishWord": "blow up ratio",
+      "Meanings": [
+        "نسبت باد شدن"
+      ]
+    },
+    {
+      "EnglishWord": "blowing agent",
+      "Meanings": [
+        "عامل پف دهنده",
+        "عامل پف زا",
+        "عامل دمش",
+        "ماده‌ای است که به تنهایی یا در ترکیب با سایر مواد قادر به تولید ساختاری سلولی در یک توده پلاستیکی یا لاستیکی است. بنابراین",
+        "عامل پف‌زا شامل موارد زیر می‌باشد‌",
+        "گازهای فشرده که هنگام حذف فشار منبسط می‌شوند",
+        "جامدات انحلال‌پذیر که هنگام شکسته‌شدن منافذی را باقی می‌گذارند",
+        "مانند بی‌کربنات‌سدیم یا آمونیوم",
+        "مایعات مختلف که هنگام تبدیل به گاز ایجاد سلول می‌کند",
+        "مانند هیدروکربن‌های آلیفاتیک",
+        "آروماتیک و هالوژن‌دار و اترها و الکلها"
+      ]
+    },
+    {
+      "EnglishWord": "blown castor oil",
+      "Meanings": [
+        "روغن کرچک دم پرورد"
+      ]
+    },
+    {
+      "EnglishWord": "blown film",
+      "Meanings": [
+        "فیلم دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "blown oil",
+      "Meanings": [
+        "روغن دم پرورد"
+      ]
+    },
+    {
+      "EnglishWord": "blunt tip",
+      "Meanings": [
+        "نوک کند"
+      ]
+    },
+    {
+      "EnglishWord": "board like",
+      "Meanings": [
+        "سخت"
+      ]
+    },
+    {
+      "EnglishWord": "bobbin",
+      "Meanings": [
+        "ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "bodied oil",
+      "Meanings": [
+        "روغن پرورده"
+      ]
+    },
+    {
+      "EnglishWord": "body center cubic stracture",
+      "Meanings": [
+        "ساختار مکعبی مرکزدار"
+      ]
+    },
+    {
+      "EnglishWord": "boiled oil",
+      "Meanings": [
+        "روغن پخته"
+      ]
+    },
+    {
+      "EnglishWord": "bolster",
+      "Meanings": [
+        "بالشتک"
+      ]
+    },
+    {
+      "EnglishWord": "bond",
+      "Meanings": [
+        "پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "bond cleavage",
+      "Meanings": [
+        "گسستگی گسیختگی پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "bond coat",
+      "Meanings": [
+        "پیوند پوشه",
+        "پوشش پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "bond deterioration",
+      "Meanings": [
+        "تخریب پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "bond strength",
+      "Meanings": [
+        "استحکام پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "bonding",
+      "Meanings": [
+        "تشکیل پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "bonding agent",
+      "Meanings": [
+        "عامل پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "bone chair",
+      "Meanings": [
+        "زغال حیوانی فعال"
+      ]
+    },
+    {
+      "EnglishWord": "borax",
+      "Meanings": [
+        "بوراکس"
+      ]
+    },
+    {
+      "EnglishWord": "bore of the bush",
+      "Meanings": [
+        "سوراخ قطر داخلی بوش"
+      ]
+    },
+    {
+      "EnglishWord": "boron",
+      "Meanings": [
+        "بورون"
+      ]
+    },
+    {
+      "EnglishWord": "boron fibers",
+      "Meanings": [
+        "الیاف بور"
+      ]
+    },
+    {
+      "EnglishWord": "bouancy force",
+      "Meanings": [
+        "نیروی شناور"
+      ]
+    },
+    {
+      "EnglishWord": "bound water",
+      "Meanings": [
+        "آب پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary condition",
+      "Meanings": [
+        "شرایط مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary element method",
+      "Meanings": [
+        "روش اجزای مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary layer",
+      "Meanings": [
+        "لایه مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "box extractor",
+      "Meanings": [
+        "استخراج کننده جعبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "braided",
+      "Meanings": [
+        "بافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "braiding",
+      "Meanings": [
+        "قیطان دوزی"
+      ]
+    },
+    {
+      "EnglishWord": "branching",
+      "Meanings": [
+        "شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "brass",
+      "Meanings": [
+        "برنج"
+      ]
+    },
+    {
+      "EnglishWord": "brazing",
+      "Meanings": [
+        "جوش زرد",
+        "جوش برنج",
+        "پوشش دهی با برنج"
+      ]
+    },
+    {
+      "EnglishWord": "break",
+      "Meanings": [
+        "پارگی"
+      ]
+    },
+    {
+      "EnglishWord": "break down",
+      "Meanings": [
+        "شکست",
+        "افت"
+      ]
+    },
+    {
+      "EnglishWord": "break point",
+      "Meanings": [
+        "نقطه شکست"
+      ]
+    },
+    {
+      "EnglishWord": "breakage",
+      "Meanings": [
+        "شکستگی",
+        "پارگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaker plate",
+      "Meanings": [
+        "صفحه سرعت شکن",
+        "صفحه مذاب شکن"
+      ]
+    },
+    {
+      "EnglishWord": "breaking load",
+      "Meanings": [
+        "بار شکنندگی",
+        "بار پارگی",
+        "تحمل بار"
+      ]
+    },
+    {
+      "EnglishWord": "breathable film",
+      "Meanings": [
+        "فیلم نفس کش"
+      ]
+    },
+    {
+      "EnglishWord": "breather",
+      "Meanings": [
+        "ورقه نفوذ دهنده هوا"
+      ]
+    },
+    {
+      "EnglishWord": "bridging",
+      "Meanings": [
+        "پل زدن",
+        "پل زنی"
+      ]
+    },
+    {
+      "EnglishWord": "brightener",
+      "Meanings": [
+        "براق کننده"
+      ]
+    },
+    {
+      "EnglishWord": "brittle",
+      "Meanings": [
+        "شکننده",
+        "ترد"
+      ]
+    },
+    {
+      "EnglishWord": "brittle cracking",
+      "Meanings": [
+        "ترک خوردگی ترد"
+      ]
+    },
+    {
+      "EnglishWord": "brittle fracture",
+      "Meanings": [
+        "شکست ترد"
+      ]
+    },
+    {
+      "EnglishWord": "brittle point",
+      "Meanings": [
+        "نقطه شکنندگی",
+        "نقطه تردی"
+      ]
+    },
+    {
+      "EnglishWord": "brittleness",
+      "Meanings": [
+        "شکنندگی",
+        "تردی"
+      ]
+    },
+    {
+      "EnglishWord": "brittleness temperature",
+      "Meanings": [
+        "دمای شکنندگی"
+      ]
+    },
+    {
+      "EnglishWord": "bronze paste",
+      "Meanings": [
+        "خمیر مفرغی",
+        "خمیر برنزی"
+      ]
+    },
+    {
+      "EnglishWord": "bronzing",
+      "Meanings": [
+        "مفرغ نمایی",
+        "برنزنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "bronzing lacquer",
+      "Meanings": [
+        "لاک مفرغ نما",
+        "لاک برنزنما"
+      ]
+    },
+    {
+      "EnglishWord": "broth",
+      "Meanings": [
+        "محیط آبی"
+      ]
+    },
+    {
+      "EnglishWord": "brush",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "bubble",
+      "Meanings": [
+        "حباب"
+      ]
+    },
+    {
+      "EnglishWord": "bubble column reactor",
+      "Meanings": [
+        "راکتور حبابی ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "bubbling agent buckling",
+      "Meanings": [
+        "عامل حباب زا",
+        "عامل پف زا"
+      ]
+    },
+    {
+      "EnglishWord": "buckling",
+      "Meanings": [
+        "کمانش"
+      ]
+    },
+    {
+      "EnglishWord": "build up",
+      "Meanings": [
+        "تجمع"
+      ]
+    },
+    {
+      "EnglishWord": "bulging",
+      "Meanings": [
+        "برآمدگی",
+        "تحدب"
+      ]
+    },
+    {
+      "EnglishWord": "bulk",
+      "Meanings": [
+        "توده"
+      ]
+    },
+    {
+      "EnglishWord": "bulk boiling",
+      "Meanings": [
+        "جوشش حجمی"
+      ]
+    },
+    {
+      "EnglishWord": "bulk mass movement",
+      "Meanings": [
+        "جابجایی جرمی حجمی"
+      ]
+    },
+    {
+      "EnglishWord": "bulk modulus",
+      "Meanings": [
+        "مدول توده"
+      ]
+    },
+    {
+      "EnglishWord": "bulk molding compound",
+      "Meanings": [
+        "آمیزه قالبگیری آماده",
+        "آمیزه قالبگیری توده ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulk polymerization",
+      "Meanings": [
+        "پلیمر شدن توده ای",
+        "این نوع پلیمر شدن با عنوان پلیمر شدن جرمی یا قطعه ای نیز شناخته می‌شود. سیستم تنها شامل منومر و پلیمر آغازگر است و از نقطه نظر فرمول بندی و تجهیزات ساده‌ترین روش پلیمر شدن به شمار می‌رود. کاربرد اصلی این نوع پلیمر شدن در صنعت اغلب در تولید پلیمرهای با وزن مولکولی کم است که اکثرا به عنوان چسب",
+        "نرم کننده و افزودنی‌های روان کننده مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "bulk substituation",
+      "Meanings": [
+        "استخلاف توده ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulky white deposite",
+      "Meanings": [
+        "رسوبات حجیم سفید"
+      ]
+    },
+    {
+      "EnglishWord": "bumper",
+      "Meanings": [
+        "سپر",
+        "ضربه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "bunsen burner",
+      "Meanings": [
+        "چراغ گاز بنسن"
+      ]
+    },
+    {
+      "EnglishWord": "buoyancy",
+      "Meanings": [
+        "شناوری",
+        "نیروی شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "burn rate",
+      "Meanings": [
+        "سرغت سوختن"
+      ]
+    },
+    {
+      "EnglishWord": "burning",
+      "Meanings": [
+        "سوزاندن"
+      ]
+    },
+    {
+      "EnglishWord": "burst",
+      "Meanings": [
+        "ترکیدن"
+      ]
+    },
+    {
+      "EnglishWord": "butt welding",
+      "Meanings": [
+        "جوشکاری لب به لب"
+      ]
+    },
+    {
+      "EnglishWord": "by product",
+      "Meanings": [
+        "محصول فرعی",
+        "فرآورده جنبی"
+      ]
+    }
+  ]
+}

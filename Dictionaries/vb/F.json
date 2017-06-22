@@ -1,0 +1,344 @@
+﻿{
+  "Group": "F",
+  "Entries": 44,
+  "Words": [
+    {
+      "EnglishWord": "false",
+      "Meanings": [
+        "غلط و اشتباه",
+        "یکی از مقدارهای بولی که نشان می‌دهد دستور با موفقیت انجام نشده است"
+      ]
+    },
+    {
+      "EnglishWord": "fil",
+      "Meanings": [
+        "Fil e",
+        "فایل",
+        "این لغت برای نامگذاری FileListBox استفاده می‌شود به صورت FilName"
+      ]
+    },
+    {
+      "EnglishWord": "file",
+      "Meanings": [
+        "یکی از منوهای VB که در آن گزینه هایی شامل باز کردن",
+        "چاپ و… قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "file system object",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "filedescription",
+      "Meanings": [
+        "توضیحات فایل",
+        "یکی از خصیصه‌های App که توضیحات برنامه را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "filelistbox",
+      "Meanings": [
+        "جعبه لیست فایلها",
+        "یکی از شیء‌های VB که شکل یک جعبه فایل را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "رنگ آن خصیصه BackColor"
+      ]
+    },
+    {
+      "EnglishWord": "filename",
+      "Meanings": [
+        "نام فایل",
+        "یکی از متددهای FileListBox و Microsoft Common Dialog Control که نام فایل مورد نظر را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "filesystemobject",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "فیلتر",
+        "یکی از متددها و مشخصه‌های Microsoft Common Dialog Control که هنگام نشان دادن جعبه‌های Open و Save فقط فایلهای مشخصی را که خود معین می‌کنیم نشان می‌دهد",
+        "برای استفاده از آن ابتدا عنوان مورد نظر را نوشته سپس فایلهایی را که باید نمایش داده شوند را بنویسید مانند",
+        "Image Files *.Gif"
+      ]
+    },
+    {
+      "EnglishWord": "findfirst",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای پیدا کردن اولین رکورد موجود",
+        "FindFirst Criteria As String"
+      ]
+    },
+    {
+      "EnglishWord": "findlast",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای پیدا کردن آخرین رکورد موجود",
+        "FindLast Criteria As String"
+      ]
+    },
+    {
+      "EnglishWord": "findnext",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای پیدا کردن رکورد بعد",
+        "FindNext Criteria As String"
+      ]
+    },
+    {
+      "EnglishWord": "findprevious",
+      "Meanings": [
+        "یکی از گزینه‌های متدد Recordset از شیء Data برای پیدا کردن رکورد قبلی",
+        "FindPrevious Criteria As String"
+      ]
+    },
+    {
+      "EnglishWord": "fix",
+      "Meanings": [
+        "ثابت",
+        "Fix number",
+        "دستوری که عدد مورد نظر را اگر اعشاری باشد به کوچکترین عدد صحیح نزدیک به آن تبدیل می‌کند. مانند",
+        "MyNumber = Fix 99.2 ' Returns",
+        "MyNumber = Fix",
+        ".8 ' Returns",
+        ".2 ' Returns"
+      ]
+    },
+    {
+      "EnglishWord": "fixed-length",
+      "Meanings": [
+        "رشته ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "flags",
+      "Meanings": [
+        "یکی از متددهای Microsoft Common Dialog Control که تغییراتی را در جعبه هایش ایجاد می‌کند مانند",
+        "CommonDialog1.Flags = cdlOFNHideReadOnly",
+        "که دکمه ReadOnly را حذف می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "صاف",
+        "یکی از گزینه‌های خصیصه appearance که شیء را به شکل صاف می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "flatscrollbar control",
+      "Meanings": [
+        "کنترل لغزنده به شکل صاف"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "فوکوس",
+        "زمانی که بر روی شیء کلیک شود یا کلیدی فشار داده شود. شیءیی که به طور پیش فرض انتخاب شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "font",
+      "Meanings": [
+        "فونت",
+        "قلم",
+        "خصیصه ای که شکل فونت اشیاء را مشخص می‌کند",
+        "یکی از متددهای شیء پرینتر که نوع فونت چاپ متن را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "fontbold",
+      "Meanings": [
+        "یکی از متددهای Microsoft Common Dialog Control که نشان می‌دهد که فونت انتخاب شده Bold است یا نه"
+      ]
+    },
+    {
+      "EnglishWord": "fontcount",
+      "Meanings": [
+        "شمار فونتها",
+        "یکی از متدد‌های Screen که تعداد فونتها را به نمایش در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "fontdialog",
+      "Meanings": [
+        "جعبه فونت",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه Fonts را نشان می‌دهد",
+        "رجوع به: و و و و و و"
+      ]
+    },
+    {
+      "EnglishWord": "fontitalic",
+      "Meanings": [
+        "یکی از متددهای Microsoft Common Dialog Control که نشان می‌دهد که فونت انتخاب شده کج است یا نه"
+      ]
+    },
+    {
+      "EnglishWord": "fontname",
+      "Meanings": [
+        "یکی از متددهای Microsoft Common Dialog Control که نام فونت انتخاب شده نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "fonts",
+      "Meanings": [
+        "فونت",
+        "یکی از متدد‌های Screen که نام فونت مورد نظر را به نمایش در می‌آورد",
+        "Screen.Fonts Integer",
+        "در پرانتز هم باید شماره فونت مورد نظر را بنویسید"
+      ]
+    },
+    {
+      "EnglishWord": "fontsize",
+      "Meanings": [
+        "اندازه فونت",
+        "متددی که سایز فونت را نشان می‌دهد",
+        "یکی از متددهای شیء پرینتر که سایز فونت چاپ متن را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "fontstrikethru",
+      "Meanings": [
+        "متددی که یک خط در وسط فونت می‌کشد"
+      ]
+    },
+    {
+      "EnglishWord": "fontunderline",
+      "Meanings": [
+        "متددی برای زیرخط دار کردن یک نوشته"
+      ]
+    },
+    {
+      "EnglishWord": "for each...next",
+      "Meanings": [
+        "دستوری که همه خصوصیات یک شیء یا متغیر را در نظر می‌گیرد و کد مورد نظر را اجرا می‌کند",
+        "For Each Element In group",
+        "Next",
+        "مانند",
+        "Dim Found"
+      ]
+    },
+    {
+      "EnglishWord": "for/next",
+      "Meanings": [
+        "یکی از توابع ویژوال بیسیک که یک دستور را به اندازه عددی که وارد می‌کنید اجرا می‌کند و به صورت زیر است",
+        "For counter = start To end",
+        "Next",
+        "حال به جای Counter نام یک متغیر عددی و به جای Start"
+      ]
+    },
+    {
+      "EnglishWord": "forecolor",
+      "Meanings": [
+        "رنگ پیش زمینه",
+        "این خصیصه در فرمها و عکسها رنگ متن و شکلهای روی فرم را تعیین می‌کند و در اشیاء دیگر رنگ متن روی آن را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "فرم",
+        "پنجره",
+        "پنجره ای که درون آن انواع کنترلها از قبیل دکمه و جعبه متن و… قرار دارد و در منوی Project قرار دارد",
+        "برای تغییر نام آن از خصیصه Name",
+        "رنگ آن خصیصه BackColor"
+      ]
+    },
+    {
+      "EnglishWord": "form layout window",
+      "Meanings": [
+        "پنجره ای که در آن مکان و آرایش فرمها در صفحه را نشان می‌دهند و به طور پیش فرض در گوشه پایین",
+        "سمت راست صفحه قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "form template",
+      "Meanings": [
+        "فرم الگو",
+        "برای ایجاد یک فرم الگو گزینه Add Form را از منوی Project انتخاب کردن و یکی از فرمها را انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "format",
+      "Meanings": [
+        "قالب",
+        "دستوری که قالب و نوع متن را مشخص می‌کند مثلا وقت یا درصد یا واحد پول و…",
+        "Format Text"
+      ]
+    },
+    {
+      "EnglishWord": "fra",
+      "Meanings": [
+        "Fr a m e",
+        "فریم",
+        "قاب",
+        "این لغت برای نامگذاری Fram e استفاده می‌شود به صورت FraName"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب",
+        "فریم",
+        "یکی از شیء‌های VB که شکل یک قاب کادری شامل شیءهای دیگر را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "عنوان آن خصیصه Caption",
+        "رنگ آن خصیصه BackColor",
+        "رنگ متن درون آن Forecolor",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "free vb code",
+      "Meanings": [
+        "سایتی دارای سورس کدهای ویژوال بیسیک"
+      ]
+    },
+    {
+      "EnglishWord": "frm",
+      "Meanings": [
+        "F o rm",
+        "فرم",
+        "این لغت برای نامگذاری Form استفاده می‌شود به صورت FrmName",
+        "پسوند فایلهای فرم"
+      ]
+    },
+    {
+      "EnglishWord": "frompage",
+      "Meanings": [
+        "متددی که در هنگام پرینت اولین صفحه برای چاپ را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "frx",
+      "Meanings": [
+        "Binary form file"
+      ]
+    },
+    {
+      "EnglishWord": "fso",
+      "Meanings": [
+        "F ile S ystem O bject",
+        "کنترلی برای انجام عملیاتی مانند کپی و حذف فایلها و…",
+        "Scripting.FileSystemObject",
+        "مانند",
+        "Set fs = CreateObject \"\"Scripting.FileSystemObject",
+        "Set a = fs.CreateTextFile \"\"c:\\testfile.txt"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "دستوری برای اعلان کردن یک کد",
+        "Function name",
+        "End Function"
+      ]
+    }
+  ]
+}

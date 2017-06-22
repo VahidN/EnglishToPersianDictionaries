@@ -1,0 +1,167 @@
+﻿{
+  "Group": "K",
+  "Entries": 20,
+  "Words": [
+    {
+      "EnglishWord": "k",
+      "Meanings": [
+        "permeability symbol"
+      ]
+    },
+    {
+      "EnglishWord": "k.o.p.",
+      "Meanings": [
+        "Kick Off Point",
+        "کیک آو پویینت",
+        "محلی که در آن نقطه حفاری مایل می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "kb",
+      "Meanings": [
+        "Kelly Bushing",
+        "کلی بوشینگ",
+        "بوش یا وسیله ای که به روتاری تیبل متصل شده و کلی از میان آن عبور می‌نماید و باعث انتقال چرخش به رشته حفاری می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "kelly",
+      "Meanings": [
+        "The heavy steel member, three",
+        "four",
+        "six",
+        "or eight",
+        "sided, suspended from the swivel through the rotary table and connected to the topmost joint of drill pipe to turn the drill stem as the rotary table turns. It has a bored passageway that permits fluid to be circulated into the drill stem and up the annulus, or vice versa"
+      ]
+    },
+    {
+      "EnglishWord": "kelly bushing",
+      "Meanings": [
+        "کلی بوشینگ",
+        "بوش رانش کلی",
+        "بوش یا وسیله ای که به روتاری تیبل متصل شده و کلی از میان آن عبور می‌نماید و باعث انتقال چرخش به رشته حفاری می‌گردد",
+        "KB",
+        "A special device that, when fitted in to the master bushing, transmits torque to the kelly and simultaneously permits vertical movement of the kelly to make hole. It may be shaped to fit the rotary opening or have pins for transmitting torque. Also called the drive bushing. See also : Kelly"
+      ]
+    },
+    {
+      "EnglishWord": "kelly cock",
+      "Meanings": [
+        "Kelly Safety Valve",
+        "شیر ایمنی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "kelly hose",
+      "Meanings": [
+        "خرطومی کلی",
+        "خرطومی دورانی",
+        "خرطومی گل",
+        "The hose on a Rotary Drilling Rig that conducts the Drilling Fluid from the Mud Pumps and Standpipe into the Swivel and Kelly, also called the Mud Hose or the Kelly Hose",
+        "خرطومی گل یا خرطومی دورانی جهت هدایت گل حفاری از درون پمپهای گل بداخل استند پایپ و هرز گرد و کلی",
+        "همچنین به لغت Mud Hose و Rotary Hose مراجعه شود"
+      ]
+    },
+    {
+      "EnglishWord": "kelly saver sub",
+      "Meanings": [
+        "طوق محافظ کلی",
+        "A Saver Sub that fits in the Drill Stem between the Kelly and Drill Pipe. The threads of the Drill Pipe mate with those of the Saver, minimizing wear on the Kelly"
+      ]
+    },
+    {
+      "EnglishWord": "kelly spinner",
+      "Meanings": [
+        "کلی گردان"
+      ]
+    },
+    {
+      "EnglishWord": "keyway",
+      "Meanings": [
+        "A slot in the edge of the barge hull of a jackup drilling unit over which the drilling rig is mounted and through which drilling tools are lowered and removed from the well being drilled"
+      ]
+    },
+    {
+      "EnglishWord": "kick",
+      "Meanings": [
+        "An entry of Water, Gas, Oil, or other Formation fluid into the Well, during drilling. It occurs because the pressure exerted by the column of drilling fluid is not great enough to overcome the pressure exerted by the fluids in the Formation drilled. If prompt action is not taken to control the Kick or Kill the Well, a blowout may occur",
+        "لگد: که در اصطلاح حفاری",
+        "فوران چاه بتوسط گاز یا نفت موجود در مخزن را گویند",
+        "ضربه",
+        "و در صنعت نفت و گاز به فوران چاه گویند",
+        "سیلان یا فوران آب یا گاز یا نفت از چاه در حال حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "kick off",
+      "Meanings": [
+        "KO",
+        "To bring a well into production, usually by injecting gas.",
+        "in Workover operations, to swab a well to restore it to production.",
+        "to deviate a well from the vertical",
+        "KOP the depth in a vertical hole at which a deviated or slant hole is started; used in directional drilling"
+      ]
+    },
+    {
+      "EnglishWord": "kick off point",
+      "Meanings": [
+        "kick off point usually"
+      ]
+    },
+    {
+      "EnglishWord": "kicked off",
+      "Meanings": [
+        "KO",
+        "To bring a well into production, usually by injecting gas.",
+        "in Workover operations, to swab a well to restore it to production.",
+        "to deviate a well from the vertical"
+      ]
+    },
+    {
+      "EnglishWord": "kill a well",
+      "Meanings": [
+        "To overcome pressure in a Well by use of Mud or water so that surface connections may be removed"
+      ]
+    },
+    {
+      "EnglishWord": "kill mud weight",
+      "Meanings": [
+        "KMW",
+        "کشتن وزن گل حفاری یا در اصطلاح به پایین آوردن وزن گل حفاری گویند"
+      ]
+    },
+    {
+      "EnglishWord": "kmw",
+      "Meanings": [
+        "Kill Mud Weight",
+        "کشتن وزن گل حفاری یا در اصطلاح به پایین آوردن وزن گل حفاری گویند",
+        "کاستن از وزن گل"
+      ]
+    },
+    {
+      "EnglishWord": "knockout",
+      "Meanings": [
+        "A kind of tank of filter used to separate Oil and Water"
+      ]
+    },
+    {
+      "EnglishWord": "ko",
+      "Meanings": [
+        "kicked off",
+        "To bring a well into production, usually by injecting gas.",
+        "in Workover operations, to swab a well to restore it to production.",
+        "to deviate a well from the vertical"
+      ]
+    },
+    {
+      "EnglishWord": "kop",
+      "Meanings": [
+        "Kick Off Point",
+        "کیک آو پویینت",
+        "محلی که در آن نقطه حفاری مایل می‌شود",
+        "Kick Off Point, K.O.P",
+        "نقطه ای که از آنجا حفاری زاویه دار شروع می‌گردد"
+      ]
+    }
+  ]
+}

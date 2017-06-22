@@ -1,0 +1,361 @@
+﻿{
+  "Group": "L",
+  "Entries": 57,
+  "Words": [
+    {
+      "EnglishWord": "labelling",
+      "Meanings": [
+        "برچسب زنی"
+      ]
+    },
+    {
+      "EnglishWord": "lacroix",
+      "Meanings": [
+        "لاکرویکس",
+        "تا 1843 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "ladrange",
+      "Meanings": [
+        "لاگرانژ",
+        "تا 1813 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "lambert",
+      "Meanings": [
+        "لامبرت",
+        "تا 1777 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "language",
+      "Meanings": [
+        "زبان"
+      ]
+    },
+    {
+      "EnglishWord": "latin square",
+      "Meanings": [
+        "مربع لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "latitude",
+      "Meanings": [
+        "عرض جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "lattice diagram",
+      "Meanings": [
+        "دیاگرام شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "lattice point",
+      "Meanings": [
+        "نقطه مشبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "law",
+      "Meanings": [
+        "قانون",
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "law of large numbers",
+      "Meanings": [
+        "قانون اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "laws of idempotence",
+      "Meanings": [
+        "قوانین خودتوانی"
+      ]
+    },
+    {
+      "EnglishWord": "leading",
+      "Meanings": [
+        "پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "least squares method",
+      "Meanings": [
+        "روش کمترین مربعات"
+      ]
+    },
+    {
+      "EnglishWord": "least upper bound",
+      "Meanings": [
+        "کوچکترین کران بالا"
+      ]
+    },
+    {
+      "EnglishWord": "legender",
+      "Meanings": [
+        "لژاندر",
+        "تا 1833 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "leibniz",
+      "Meanings": [
+        "لایبنتز",
+        "تا 1716 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "leonhard euler",
+      "Meanings": [
+        "لیونارد اویلر",
+        "ریاضیدان سوییسی",
+        ". در الهیات",
+        "طب",
+        "موسیقی",
+        "فیزیک و نجوم مطالعات وسیعی داشت. وی مبانی موضع شناسی مکان شناسی را کشف کرد. رابطه بین تعداد راس‌ها و وجه‌ها و بال هی یک حجم هندسی را تعیین کرد که به نام او معروف است. وی در زمینه‌های حساب دیفرانسیل و آنالیز کتابها و جزواتی منتشر کرده که بسیار باارزش است"
+      ]
+    },
+    {
+      "EnglishWord": "level of significance",
+      "Meanings": [
+        "سطح معنی‌دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "lexicographic order",
+      "Meanings": [
+        "ترتیب الفبایی"
+      ]
+    },
+    {
+      "EnglishWord": "lexicographic ordering",
+      "Meanings": [
+        "ترتیب الفبایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood",
+      "Meanings": [
+        "درست‌نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood function",
+      "Meanings": [
+        "تابع درست‌نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "likelihood ration statistic",
+      "Meanings": [
+        "آماره نسبت درست‌نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "limit point",
+      "Meanings": [
+        "نقطه حدی"
+      ]
+    },
+    {
+      "EnglishWord": "limiting",
+      "Meanings": [
+        "حدی"
+      ]
+    },
+    {
+      "EnglishWord": "limiting parallel",
+      "Meanings": [
+        "موازی حدی"
+      ]
+    },
+    {
+      "EnglishWord": "lindelof space",
+      "Meanings": [
+        "فضای لیندلف"
+      ]
+    },
+    {
+      "EnglishWord": "lindemann",
+      "Meanings": [
+        "لیندمن",
+        "تا 1939 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "line at infinity",
+      "Meanings": [
+        "خط در بی‌نهایت"
+      ]
+    },
+    {
+      "EnglishWord": "line of enclosure",
+      "Meanings": [
+        "خط انسداد"
+      ]
+    },
+    {
+      "EnglishWord": "linear",
+      "Meanings": [
+        "خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear algebra",
+      "Meanings": [
+        "جبر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear combination",
+      "Meanings": [
+        "ترکیب خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear equation",
+      "Meanings": [
+        "معادله خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear fractional transformation",
+      "Meanings": [
+        "تبدیل خطی کسری"
+      ]
+    },
+    {
+      "EnglishWord": "linear order",
+      "Meanings": [
+        "ترتیب خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear transformation",
+      "Meanings": [
+        "تبدیل خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linearly dependent",
+      "Meanings": [
+        "وابسته خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linearly independent",
+      "Meanings": [
+        "مستقل خطی"
+      ]
+    },
+    {
+      "EnglishWord": "link",
+      "Meanings": [
+        "پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "liouville",
+      "Meanings": [
+        "لیویل",
+        "تا 1882 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "literal",
+      "Meanings": [
+        "لفظ"
+      ]
+    },
+    {
+      "EnglishWord": "local base",
+      "Meanings": [
+        "پایه موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local extremum",
+      "Meanings": [
+        "اکسترمم نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "logic",
+      "Meanings": [
+        "منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logic circuit",
+      "Meanings": [
+        "مدار منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logic gate",
+      "Meanings": [
+        "دریچه منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logical",
+      "Meanings": [
+        "منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "logically equivalent",
+      "Meanings": [
+        "هم ارز منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "longitude",
+      "Meanings": [
+        "طول جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "look a head carry",
+      "Meanings": [
+        "پیش‌بینی نقلی"
+      ]
+    },
+    {
+      "EnglishWord": "loop",
+      "Meanings": [
+        "طوقه"
+      ]
+    },
+    {
+      "EnglishWord": "lower central series",
+      "Meanings": [
+        "سری مرکزی پایینی"
+      ]
+    },
+    {
+      "EnglishWord": "loxodrome",
+      "Meanings": [
+        "rhomb line"
+      ]
+    },
+    {
+      "EnglishWord": "lu factors",
+      "Meanings": [
+        "فاکتورهای LU"
+      ]
+    },
+    {
+      "EnglishWord": "lu factors tableau",
+      "Meanings": [
+        "جدول فاکتورهای LU"
+      ]
+    }
+  ]
+}

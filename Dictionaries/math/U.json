@@ -1,0 +1,4039 @@
+﻿{
+  "Group": "U",
+  "Entries": 603,
+  "Words": [
+    {
+      "EnglishWord": "u",
+      "Meanings": [
+        "بیست و یکمین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "u curve",
+      "Meanings": [
+        "u",
+        "خم"
+      ]
+    },
+    {
+      "EnglishWord": "u flow",
+      "Meanings": [
+        "طرح توسعه u شکل",
+        "جریان u"
+      ]
+    },
+    {
+      "EnglishWord": "u test",
+      "Meanings": [
+        "آزمایش u"
+      ]
+    },
+    {
+      "EnglishWord": "ufd",
+      "Meanings": [
+        "حوزه تجزیه یکتا"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate",
+      "Meanings": [
+        "ماکزیمم",
+        "محدود",
+        "نهایی",
+        "غایی",
+        "واپسین"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate administrative authority",
+      "Meanings": [
+        "عالی‌ترین مرجع اداری"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate authority",
+      "Meanings": [
+        "اختیار نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate cluster",
+      "Meanings": [
+        "خوشه نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate departmentation",
+      "Meanings": [
+        "تقسیم وظایف نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate maximizer",
+      "Meanings": [
+        "حداکثر کننده نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate responsibility",
+      "Meanings": [
+        "مسیولیت نهای"
+      ]
+    },
+    {
+      "EnglishWord": "ultimate sampling unit",
+      "Meanings": [
+        "آخرین واحد نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "ultimately",
+      "Meanings": [
+        "نهایتا",
+        "سرانجام",
+        "نهایی",
+        "غایی",
+        "بالاخره",
+        "دوترین",
+        "مآلا"
+      ]
+    },
+    {
+      "EnglishWord": "ultra",
+      "Meanings": [
+        "فرا",
+        "مافوق",
+        "ماوراء"
+      ]
+    },
+    {
+      "EnglishWord": "ultra ideal",
+      "Meanings": [
+        "فراآرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ultra parallel",
+      "Meanings": [
+        "فراموازی"
+      ]
+    },
+    {
+      "EnglishWord": "ultrafilter",
+      "Meanings": [
+        "فراپالایه",
+        "فراصافی"
+      ]
+    },
+    {
+      "EnglishWord": "ultrainfinite point",
+      "Meanings": [
+        "نقطه فرابینهایت"
+      ]
+    },
+    {
+      "EnglishWord": "ultrametric",
+      "Meanings": [
+        "فرامتریک",
+        "فرامتری"
+      ]
+    },
+    {
+      "EnglishWord": "ultrasonic",
+      "Meanings": [
+        "مافوق صوت",
+        "فراصوتی",
+        "ابر صوت",
+        "مافوق سرعت صوت"
+      ]
+    },
+    {
+      "EnglishWord": "ultrasonic testing",
+      "Meanings": [
+        "عیب یابی با امواج ماوراء صوت",
+        "آزمایش فراصوتی",
+        "عیب یابی فراصوتی"
+      ]
+    },
+    {
+      "EnglishWord": "ultraviolet",
+      "Meanings": [
+        "ماوراء بنفش",
+        "فرابنفش"
+      ]
+    },
+    {
+      "EnglishWord": "umbilic",
+      "Meanings": [
+        "نافی",
+        "نقطه نافی"
+      ]
+    },
+    {
+      "EnglishWord": "umbilic point",
+      "Meanings": [
+        "نقطه نافی"
+      ]
+    },
+    {
+      "EnglishWord": "umbilical point",
+      "Meanings": [
+        "نقطه نافی"
+      ]
+    },
+    {
+      "EnglishWord": "umbilicus",
+      "Meanings": [
+        "ناف"
+      ]
+    },
+    {
+      "EnglishWord": "un",
+      "Meanings": [
+        "پیشوندی به معنی بدون",
+        "نه",
+        "غیر"
+      ]
+    },
+    {
+      "EnglishWord": "un favorable",
+      "Meanings": [
+        "نامطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "unacceptable",
+      "Meanings": [
+        "ناپذیرفتنی",
+        "غیر قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "unacceptable quality level",
+      "Meanings": [
+        "سطح کیفیت غیر قابل پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "unaccomodate",
+      "Meanings": [
+        "ناهمساز"
+      ]
+    },
+    {
+      "EnglishWord": "unaccomodation",
+      "Meanings": [
+        "ناهمسازی"
+      ]
+    },
+    {
+      "EnglishWord": "unadaptation",
+      "Meanings": [
+        "عدم انطباق"
+      ]
+    },
+    {
+      "EnglishWord": "unadapted",
+      "Meanings": [
+        "انطباق نیافته",
+        "نامنطبق"
+      ]
+    },
+    {
+      "EnglishWord": "unadjusted",
+      "Meanings": [
+        "ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "unadjusted trial balance",
+      "Meanings": [
+        "تراز آزمایشی اصلاح نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unadjustment",
+      "Meanings": [
+        "ناسازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "unaligned",
+      "Meanings": [
+        "ناهمخط",
+        "نا هم تراز"
+      ]
+    },
+    {
+      "EnglishWord": "unallotted appropriation",
+      "Meanings": [
+        "اعتبار تخصیص نیافته"
+      ]
+    },
+    {
+      "EnglishWord": "unallotted share",
+      "Meanings": [
+        "سهام منتشر نشده",
+        "سهام توزیع نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unambiguous",
+      "Meanings": [
+        "بدون ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "unambiguously",
+      "Meanings": [
+        "آشکارا",
+        "به طور بدون ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "unary",
+      "Meanings": [
+        "یکتایی",
+        "یک جایی"
+      ]
+    },
+    {
+      "EnglishWord": "unary connective",
+      "Meanings": [
+        "ادات یک طرفی"
+      ]
+    },
+    {
+      "EnglishWord": "unary operation",
+      "Meanings": [
+        "عمل یگانی",
+        "عمل یکتایی",
+        "عمل یک جایی"
+      ]
+    },
+    {
+      "EnglishWord": "unary operator",
+      "Meanings": [
+        "عملگر یکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "unassignable cause",
+      "Meanings": [
+        "عامل غیر قابل شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "unaugmented histogram",
+      "Meanings": [
+        "نمودار پله ای ناافزوده"
+      ]
+    },
+    {
+      "EnglishWord": "unauthorized",
+      "Meanings": [
+        "غیر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "unauthorized absence",
+      "Meanings": [
+        "غیبت غیر موجه",
+        "غیبت غیر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "unavailability",
+      "Meanings": [
+        "عدم قابلیت استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "unavodabel hacard",
+      "Meanings": [
+        "خطر اجتناب ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "unavoid able delay",
+      "Meanings": [
+        "تاخیر اجتناب ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "unbalanced",
+      "Meanings": [
+        "غیر متعادل",
+        "نامتعادل",
+        "نامیزان",
+        "غیر متقارن",
+        "نامتوازن"
+      ]
+    },
+    {
+      "EnglishWord": "unbalanced transportation model",
+      "Meanings": [
+        "مدل حمل و نقل ناموزون"
+      ]
+    },
+    {
+      "EnglishWord": "unbias",
+      "Meanings": [
+        "نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased",
+      "Meanings": [
+        "نااریبی",
+        "بی نظرانه",
+        "بی پیشقدر",
+        "نااریب",
+        "درست",
+        "بی اریب"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased estimate",
+      "Meanings": [
+        "برآورد نااریب",
+        "برآورد بی غرض"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased estimator",
+      "Meanings": [
+        "برآورد کننده نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased sample",
+      "Meanings": [
+        "نمونه مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "unbiased test",
+      "Meanings": [
+        "آزمون نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "unbiasedness",
+      "Meanings": [
+        "نااریبی"
+      ]
+    },
+    {
+      "EnglishWord": "unbound",
+      "Meanings": [
+        "بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded",
+      "Meanings": [
+        "بیکران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded above",
+      "Meanings": [
+        "از بالا بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded from above",
+      "Meanings": [
+        "از بالا نامحدود",
+        "از بالا بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded function",
+      "Meanings": [
+        "تابع بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded interval",
+      "Meanings": [
+        "بازه بی کران",
+        "فاصله نامحدود",
+        "فاصله بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded manifold",
+      "Meanings": [
+        "خمینه بیکران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded optimal solution",
+      "Meanings": [
+        "جواب بهینه بیکران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded optimal value",
+      "Meanings": [
+        "مقدار بهینه بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded polyhedral set",
+      "Meanings": [
+        "مجموعه چندوجهی بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded sequence",
+      "Meanings": [
+        "دنباله بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded set",
+      "Meanings": [
+        "مجموعه بیکران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded sets",
+      "Meanings": [
+        "مجموعه‌های بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unbounded subset",
+      "Meanings": [
+        "زیرمجموعه بی کران",
+        "بخش بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unboundedly",
+      "Meanings": [
+        "به طور بی کران",
+        "به طور نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "unboundedness",
+      "Meanings": [
+        "نامتناهی بودن",
+        "بی کرانی",
+        "نامحدودی"
+      ]
+    },
+    {
+      "EnglishWord": "unboundely",
+      "Meanings": [
+        "به طور نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "unbroken interval",
+      "Meanings": [
+        "فاصله یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "unbroken service",
+      "Meanings": [
+        "خدمت بلاانقطاع",
+        "سابقه"
+      ]
+    },
+    {
+      "EnglishWord": "uncertain",
+      "Meanings": [
+        "نایقین",
+        "ناآورین",
+        "نامشخص",
+        "نامعلوم",
+        "غیر حتمی",
+        "نامعین"
+      ]
+    },
+    {
+      "EnglishWord": "uncertainty",
+      "Meanings": [
+        "ناآوری",
+        "عدم قطعیت",
+        "بلاتکلیفی",
+        "نایقین",
+        "عدم وجود اطمینان",
+        "عدم یقین",
+        "غیر قطعی",
+        "عدم اطمینان",
+        "نایقینی"
+      ]
+    },
+    {
+      "EnglishWord": "uncertainty condition",
+      "Meanings": [
+        "شرط عدم اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "uncertainty principle",
+      "Meanings": [
+        "اصل عدم قطعیت"
+      ]
+    },
+    {
+      "EnglishWord": "unchangeable",
+      "Meanings": [
+        "تغییر ناپذیر",
+        "پایدار",
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "unchecked",
+      "Meanings": [
+        "بدون بررسی"
+      ]
+    },
+    {
+      "EnglishWord": "uncia",
+      "Meanings": [
+        "یک دوازدهم"
+      ]
+    },
+    {
+      "EnglishWord": "unclaimed",
+      "Meanings": [
+        "مطالبه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unclaimed balance",
+      "Meanings": [
+        "مانده مطالبه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unclaimed wage",
+      "Meanings": [
+        "دستمزد مطالبه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "uncofirmed",
+      "Meanings": [
+        "تایید نشده"
+      ]
+    },
+    {
+      "EnglishWord": "uncollectable",
+      "Meanings": [
+        "وصول نشدنی",
+        "غیر قابل وصول"
+      ]
+    },
+    {
+      "EnglishWord": "uncollectable cash items",
+      "Meanings": [
+        "اقلام نقدی وصول نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "uncomplemented",
+      "Meanings": [
+        "بدون متمم"
+      ]
+    },
+    {
+      "EnglishWord": "uncomplemented variable",
+      "Meanings": [
+        "متغیر بدون متمم"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional",
+      "Meanings": [
+        "بدون شرط",
+        "بی شرط",
+        "بلاشرط",
+        "غیر شرطی",
+        "غیر مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional convergence",
+      "Meanings": [
+        "همگرایی غیر شرطی",
+        "همگرایی نا مشروظ"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional frequency",
+      "Meanings": [
+        "فراوانی غیر شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional inequality",
+      "Meanings": [
+        "نابرابری نامشروط",
+        "نامساوی غیر شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional probability",
+      "Meanings": [
+        "احتمال غیر شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional relative frequency",
+      "Meanings": [
+        "فراوانی غیر شرطی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "unconditional relative frequency of event",
+      "Meanings": [
+        "فراوانی نسبی غیر شرطی حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "unconditionally",
+      "Meanings": [
+        "بدون هیچ شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "unconfirmed credit",
+      "Meanings": [
+        "اعتبار تایید نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unconfirmed letter of credit",
+      "Meanings": [
+        "اعتبار نامه تایید نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unconnected",
+      "Meanings": [
+        "ناهمبند",
+        "غیر یکپارچه",
+        "ناهمبسته",
+        "ناهموسته"
+      ]
+    },
+    {
+      "EnglishWord": "unconstrained",
+      "Meanings": [
+        "بدون محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "unconstrained optimization",
+      "Meanings": [
+        "بهینه سازی نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated infinity",
+      "Meanings": [
+        "بی پایان",
+        "شمارش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated random numbers",
+      "Meanings": [
+        "اعداد تصادفی ناهمبسته"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated random variables",
+      "Meanings": [
+        "متغیر‌های تصادفی نا همبسته"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated samples",
+      "Meanings": [
+        "نمونه‌های نا همبسته"
+      ]
+    },
+    {
+      "EnglishWord": "uncorrelated variables",
+      "Meanings": [
+        "متغیر‌های ناهمبسته"
+      ]
+    },
+    {
+      "EnglishWord": "uncountability",
+      "Meanings": [
+        "شمارش ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "uncountable",
+      "Meanings": [
+        "تعریف ناپذیر",
+        "شمارش ناپذیر",
+        "ناشمارا"
+      ]
+    },
+    {
+      "EnglishWord": "uncountable set",
+      "Meanings": [
+        "مجموعه نا شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "uncoupled system",
+      "Meanings": [
+        "دستگاه غیر زوج غیر جفت"
+      ]
+    },
+    {
+      "EnglishWord": "unctional statement",
+      "Meanings": [
+        "شرح وظایف"
+      ]
+    },
+    {
+      "EnglishWord": "undamped",
+      "Meanings": [
+        "نامیرا"
+      ]
+    },
+    {
+      "EnglishWord": "undamped oscillation",
+      "Meanings": [
+        "نوسان غیر میرا"
+      ]
+    },
+    {
+      "EnglishWord": "undamped wave",
+      "Meanings": [
+        "موج نامیرا"
+      ]
+    },
+    {
+      "EnglishWord": "undate period",
+      "Meanings": [
+        "دوره بهنگام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "undefinable",
+      "Meanings": [
+        "تعریف ناپذیر",
+        "غیر قابل تعریف"
+      ]
+    },
+    {
+      "EnglishWord": "undefined",
+      "Meanings": [
+        "تعریف نشده"
+      ]
+    },
+    {
+      "EnglishWord": "undefined concept",
+      "Meanings": [
+        "مفهوم تعریف نشده"
+      ]
+    },
+    {
+      "EnglishWord": "undefined term",
+      "Meanings": [
+        "جمله تعریف نشده",
+        "اصطلاح تعریف نشده"
+      ]
+    },
+    {
+      "EnglishWord": "undefined terms",
+      "Meanings": [
+        "حدود تعریف نشده"
+      ]
+    },
+    {
+      "EnglishWord": "under",
+      "Meanings": [
+        "نسبت به"
+      ]
+    },
+    {
+      "EnglishWord": "under applied overhead",
+      "Meanings": [
+        "کسر جذب سربار"
+      ]
+    },
+    {
+      "EnglishWord": "under damping",
+      "Meanings": [
+        "کند میرایی"
+      ]
+    },
+    {
+      "EnglishWord": "under flow",
+      "Meanings": [
+        "پاریز"
+      ]
+    },
+    {
+      "EnglishWord": "under go",
+      "Meanings": [
+        "مذکور"
+      ]
+    },
+    {
+      "EnglishWord": "under investigation",
+      "Meanings": [
+        "مورد بحث"
+      ]
+    },
+    {
+      "EnglishWord": "under the action",
+      "Meanings": [
+        "تحت تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "under the action of",
+      "Meanings": [
+        "تحت تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "undercritical damping",
+      "Meanings": [
+        "میرایی تحت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "undercut face tooth",
+      "Meanings": [
+        "دندانه نوع زیرخالی"
+      ]
+    },
+    {
+      "EnglishWord": "undercut section",
+      "Meanings": [
+        "مقطع با تو رفتگی جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "underdamped",
+      "Meanings": [
+        "میرای کم",
+        "میرایی خفیف"
+      ]
+    },
+    {
+      "EnglishWord": "underdamped oscillation",
+      "Meanings": [
+        "تحت میرا"
+      ]
+    },
+    {
+      "EnglishWord": "underdetermined system",
+      "Meanings": [
+        "دستگاه فرو معین"
+      ]
+    },
+    {
+      "EnglishWord": "underemployed economy",
+      "Meanings": [
+        "اقتصاد کم اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "underestimate",
+      "Meanings": [
+        "تخمین کم",
+        "کاست برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "underevaluation",
+      "Meanings": [
+        "ارزیابی کم",
+        "برآورد کم",
+        "ارزشیابی کم"
+      ]
+    },
+    {
+      "EnglishWord": "underfills",
+      "Meanings": [
+        "کمتر از حد معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "underline cracking",
+      "Meanings": [
+        "ترک زیر لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "underlying",
+      "Meanings": [
+        "اصولی",
+        "اساسی",
+        "زیربنا",
+        "زمینه",
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "underlying group",
+      "Meanings": [
+        "گروه زیربنا"
+      ]
+    },
+    {
+      "EnglishWord": "underlying mapping of a function",
+      "Meanings": [
+        "نگاشت زیربنای تابع"
+      ]
+    },
+    {
+      "EnglishWord": "underlying normal distribution",
+      "Meanings": [
+        "توزیع بنیادی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "underlying ordered set",
+      "Meanings": [
+        "مجموعه مرتب زیربنا"
+      ]
+    },
+    {
+      "EnglishWord": "underlying set",
+      "Meanings": [
+        "مجموعه زیربنا"
+      ]
+    },
+    {
+      "EnglishWord": "undermonopoly",
+      "Meanings": [
+        "وضعیت انحصاری"
+      ]
+    },
+    {
+      "EnglishWord": "understand",
+      "Meanings": [
+        "درک کردن",
+        "فهمیدن"
+      ]
+    },
+    {
+      "EnglishWord": "understanding",
+      "Meanings": [
+        "استنباط",
+        "درک"
+      ]
+    },
+    {
+      "EnglishWord": "understimate",
+      "Meanings": [
+        "کران پایین"
+      ]
+    },
+    {
+      "EnglishWord": "understood",
+      "Meanings": [
+        "معلوم"
+      ]
+    },
+    {
+      "EnglishWord": "undertaker",
+      "Meanings": [
+        "صاحبکار",
+        "متعهد"
+      ]
+    },
+    {
+      "EnglishWord": "undertaking",
+      "Meanings": [
+        "کسب و کار",
+        "تعهد کردن",
+        "تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "undervaluing",
+      "Meanings": [
+        "ارزش گذاری کمتر از اندازه",
+        "کم ارزش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "underwriter",
+      "Meanings": [
+        "متعهد معامله",
+        "بیمه گر",
+        "کارگزار",
+        "متعهد خرید",
+        "متعهد"
+      ]
+    },
+    {
+      "EnglishWord": "underwriting",
+      "Meanings": [
+        "تعهد خرید"
+      ]
+    },
+    {
+      "EnglishWord": "undeterminable",
+      "Meanings": [
+        "غیر قابل تعیین",
+        "مشکوک",
+        "تعیین نشدنی",
+        "تصمیم ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "undetermined",
+      "Meanings": [
+        "نامعین",
+        "مبهم",
+        "غیر مشخص",
+        "نامعلوم"
+      ]
+    },
+    {
+      "EnglishWord": "undetermined coefficient method",
+      "Meanings": [
+        "روش ضرایب نامعین"
+      ]
+    },
+    {
+      "EnglishWord": "undetermined coefficients",
+      "Meanings": [
+        "ضریب‌های نامعین",
+        "ضرایب مبهم",
+        "ضرایب نامعلوم",
+        "ضرایب نامعین"
+      ]
+    },
+    {
+      "EnglishWord": "undirect flow",
+      "Meanings": [
+        "جریان غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "undirected graph",
+      "Meanings": [
+        "گراف بیسو",
+        "گراف غیر جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "undiscountable bill",
+      "Meanings": [
+        "برات غیر قابل تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "undistributed",
+      "Meanings": [
+        "غیر منبسط"
+      ]
+    },
+    {
+      "EnglishWord": "undo",
+      "Meanings": [
+        "خنثی کردن",
+        "بی اثر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unearned income",
+      "Meanings": [
+        "پیش دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "unemployable",
+      "Meanings": [
+        "غیر قابل استخدام"
+      ]
+    },
+    {
+      "EnglishWord": "unemployment",
+      "Meanings": [
+        "بیکاری",
+        "عدم اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "unemployment benefit",
+      "Meanings": [
+        "مستمری بیکاری",
+        "اعانه بیکاری",
+        "غرامت بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "unemployment compensation",
+      "Meanings": [
+        "حقوق بیکاری",
+        "جبران بیکاری",
+        "غرامت بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "unemployment fund",
+      "Meanings": [
+        "صندوق بیمه بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "unequal",
+      "Meanings": [
+        "نابرابر",
+        "نامساوی",
+        "غیر مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "unequal precision",
+      "Meanings": [
+        "دقت نابرابر"
+      ]
+    },
+    {
+      "EnglishWord": "unequal probability",
+      "Meanings": [
+        "احتمال نامساوی"
+      ]
+    },
+    {
+      "EnglishWord": "uneven",
+      "Meanings": [
+        "نامساوی"
+      ]
+    },
+    {
+      "EnglishWord": "unevenly even",
+      "Meanings": [
+        "زوج الفرد"
+      ]
+    },
+    {
+      "EnglishWord": "unexcused absence",
+      "Meanings": [
+        "غیبت غیر موجه"
+      ]
+    },
+    {
+      "EnglishWord": "unexpected departure",
+      "Meanings": [
+        "حرکت غیر منتظره"
+      ]
+    },
+    {
+      "EnglishWord": "unexplained variation",
+      "Meanings": [
+        "تغییرات غیر قابل توضیح"
+      ]
+    },
+    {
+      "EnglishWord": "unfavorable",
+      "Meanings": [
+        "نامساعد"
+      ]
+    },
+    {
+      "EnglishWord": "unfavoral",
+      "Meanings": [
+        "نامساعد",
+        "نامطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "unfavourable",
+      "Meanings": [
+        "نامساعد"
+      ]
+    },
+    {
+      "EnglishWord": "unharmonic",
+      "Meanings": [
+        "ناهمساز",
+        "ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "unharmonic ratio",
+      "Meanings": [
+        "نسبت ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "unharmony",
+      "Meanings": [
+        "ناهماهنگی",
+        "ناهمسازی"
+      ]
+    },
+    {
+      "EnglishWord": "uni",
+      "Meanings": [
+        "پیشوندی به معنی یک",
+        "واحد",
+        "تنها",
+        "یک…",
+        "یک تا"
+      ]
+    },
+    {
+      "EnglishWord": "uniaxial force",
+      "Meanings": [
+        "نیروی تک محوری"
+      ]
+    },
+    {
+      "EnglishWord": "unidentifiable",
+      "Meanings": [
+        "غیر قابل شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "unidimensional",
+      "Meanings": [
+        "یک بعدی",
+        "یک مایشی"
+      ]
+    },
+    {
+      "EnglishWord": "unified budget",
+      "Meanings": [
+        "بودجه واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unified terms",
+      "Meanings": [
+        "حدود تعریف نشده",
+        "حد",
+        "جمله"
+      ]
+    },
+    {
+      "EnglishWord": "uniform",
+      "Meanings": [
+        "یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform acceleration",
+      "Meanings": [
+        "شتاب یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform algebra",
+      "Meanings": [
+        "جبر یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform bound",
+      "Meanings": [
+        "کران یکنواخت",
+        "کران یک شکل"
+      ]
+    },
+    {
+      "EnglishWord": "uniform boundedness",
+      "Meanings": [
+        "کرانداری یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform boundedness theorem",
+      "Meanings": [
+        "قضیه کرانداری یکنواخت",
+        "قضیه تشدید",
+        "قضیه باناخ",
+        "اشتینهاوس"
+      ]
+    },
+    {
+      "EnglishWord": "uniform bundedness theorem",
+      "Meanings": [
+        "قضیه کرانداری یکنواخت",
+        "قضیه تشدید",
+        "قضیه باناخ"
+      ]
+    },
+    {
+      "EnglishWord": "uniform calssification of accounts",
+      "Meanings": [
+        "طبقه بندی متحدالشکل حساب ها"
+      ]
+    },
+    {
+      "EnglishWord": "uniform charge method",
+      "Meanings": [
+        "طریقه اقساط مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "uniform chiling",
+      "Meanings": [
+        "سردکاری یکنواخت",
+        "تبرید یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform circular",
+      "Meanings": [
+        "مستدیر یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform circular motion",
+      "Meanings": [
+        "حرکت مستدیر یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform closure",
+      "Meanings": [
+        "بست یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform continuity",
+      "Meanings": [
+        "پیوستگی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform convergence",
+      "Meanings": [
+        "تقارب متشابه",
+        "هم گرایی یکنواخت",
+        "همگرایی یک شکل"
+      ]
+    },
+    {
+      "EnglishWord": "uniform convergence of a series",
+      "Meanings": [
+        "همگرایی یکنواخت سری",
+        "همگرایی یکنواخت یک سری"
+      ]
+    },
+    {
+      "EnglishWord": "uniform convergent",
+      "Meanings": [
+        "یکنواخت",
+        "همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "uniform covering system",
+      "Meanings": [
+        "دستگاه پوششی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform distribution",
+      "Meanings": [
+        "احتمال یکنواخت",
+        "توزیع یکسان",
+        "پخش یکنواخت",
+        "توزیع یکنواخت",
+        "توزیع مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "uniform field",
+      "Meanings": [
+        "میدان یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform function",
+      "Meanings": [
+        "تابع منظم",
+        "تابع یکسان",
+        "تابع یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform isomorphism",
+      "Meanings": [
+        "یکریختی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform lipschitz condition",
+      "Meanings": [
+        "شرط لیپ شیتس یک شکل"
+      ]
+    },
+    {
+      "EnglishWord": "uniform motion",
+      "Meanings": [
+        "حرکت یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform neighborhood system",
+      "Meanings": [
+        "دستگاه همسایگی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform norm",
+      "Meanings": [
+        "نرم یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform operator topology",
+      "Meanings": [
+        "توپولوژی عملگر یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform probability",
+      "Meanings": [
+        "احتمال یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform probability distribution",
+      "Meanings": [
+        "توزیع احتمال یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform resource rate",
+      "Meanings": [
+        "نرخ بهره وری یکنواخت منبع"
+      ]
+    },
+    {
+      "EnglishWord": "uniform sampling procedure",
+      "Meanings": [
+        "شیوه نمونه گیری یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform space",
+      "Meanings": [
+        "فضای یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform structure",
+      "Meanings": [
+        "ساختار یکنواخت",
+        "یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "uniform subspace",
+      "Meanings": [
+        "زیرفضای یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform topology",
+      "Meanings": [
+        "توپولوژی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniform update",
+      "Meanings": [
+        "بهنگام کردن پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "uniformative outcome",
+      "Meanings": [
+        "پیشآمد غیر آگاهی بخش"
+      ]
+    },
+    {
+      "EnglishWord": "uniformity",
+      "Meanings": [
+        "هم شکلی",
+        "یکسانی",
+        "یکنواختی",
+        "یکریختی",
+        "متحد الشکلی"
+      ]
+    },
+    {
+      "EnglishWord": "uniformizable",
+      "Meanings": [
+        "یکنواخت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "uniformizable topological space",
+      "Meanings": [
+        "فضای توپولوژیک یکنواختی پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "uniformize",
+      "Meanings": [
+        "یکنواخت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly",
+      "Meanings": [
+        "به طور یکسان",
+        "یکنواخت",
+        "به طور یکنواخت",
+        "به طور منظم",
+        "به گونه یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly absolutely convergent series",
+      "Meanings": [
+        "سری مطلقا یکنواخت همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly bounded",
+      "Meanings": [
+        "کراندار یک شکل"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly bounded sequence",
+      "Meanings": [
+        "دنباله کراندار یک شکل",
+        "دنباله کراندار یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly closed",
+      "Meanings": [
+        "به طور یکنواخت پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly closed algebra",
+      "Meanings": [
+        "جبر به طور یکنواخت پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly consistent test",
+      "Meanings": [
+        "آزمون یکنواخت سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly continuous",
+      "Meanings": [
+        "پیوسته یکنواخت",
+        "پیوسته منظم",
+        "پیوسته یک شکل"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly continuous function",
+      "Meanings": [
+        "تابع یکنواخت",
+        "پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly continuous mapping",
+      "Meanings": [
+        "نگاشت یکنواخت پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly convergent",
+      "Meanings": [
+        "متقارب منظم"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly convergent sequence",
+      "Meanings": [
+        "دنباله یکنواخت همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly convergent series",
+      "Meanings": [
+        "سری متقارب منظم",
+        "سری یکنواخت همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly convex normed linear space",
+      "Meanings": [
+        "فضای خطی نرم دار یکنواخت",
+        "محدب"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly differentiable",
+      "Meanings": [
+        "به طور یکنواخت مشتقپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly distributed variable",
+      "Meanings": [
+        "متغیر با توزیع یکنواخت",
+        "متغیر با توزیع مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly locally compact space",
+      "Meanings": [
+        "فضای یکنواخت موضعا فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly minimum variance unbiased estimator",
+      "Meanings": [
+        "برآورد کننده نااریب با واریانس یکنواخت",
+        "مینیمم"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly most accurate",
+      "Meanings": [
+        "به طور یکنواخت درست ترین"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly most powerful",
+      "Meanings": [
+        "به طور یکنواخت تواناترین"
+      ]
+    },
+    {
+      "EnglishWord": "uniformly motion",
+      "Meanings": [
+        "حرکت متشابه",
+        "جنبش یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "unify",
+      "Meanings": [
+        "یکی کردن",
+        "برابر نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "unifying ideas",
+      "Meanings": [
+        "مفاهیم وحدت بخش"
+      ]
+    },
+    {
+      "EnglishWord": "unilateral",
+      "Meanings": [
+        "یک طرفه",
+        "یک جانبه",
+        "یک رویه"
+      ]
+    },
+    {
+      "EnglishWord": "unilateral agrement",
+      "Meanings": [
+        "قرارداد یک جانبه"
+      ]
+    },
+    {
+      "EnglishWord": "unilateral contract",
+      "Meanings": [
+        "انتقال یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "unilateral surface",
+      "Meanings": [
+        "رویه یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "unilateral transfer",
+      "Meanings": [
+        "انتقال یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "unilaterally connected",
+      "Meanings": [
+        "همبند یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "unimodal",
+      "Meanings": [
+        "یک نمایی",
+        "یک کوهانه",
+        "تک نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "unimodal distribution",
+      "Meanings": [
+        "توزیع تک مدی",
+        "توزیع یک نما",
+        "توزیع یک نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "unimodular",
+      "Meanings": [
+        "تک پیمانه ای",
+        "یک هنگ"
+      ]
+    },
+    {
+      "EnglishWord": "unimodular group",
+      "Meanings": [
+        "گروه خطی خاص"
+      ]
+    },
+    {
+      "EnglishWord": "unimodular matrix",
+      "Meanings": [
+        "ماتریس تک مدولی"
+      ]
+    },
+    {
+      "EnglishWord": "uninterrupted",
+      "Meanings": [
+        "بی وقفه",
+        "نامعبر"
+      ]
+    },
+    {
+      "EnglishWord": "uniomodal function",
+      "Meanings": [
+        "تابع یک کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "union",
+      "Meanings": [
+        "اتحادیه",
+        "انجمن",
+        "مجموع",
+        "اتحاد",
+        "مهره ماسوره",
+        "بست",
+        "اتصال",
+        "اجتماع"
+      ]
+    },
+    {
+      "EnglishWord": "union of a family of sets",
+      "Meanings": [
+        "اجتماع یک خانواده از مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "union of events",
+      "Meanings": [
+        "اجتماع حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "union of intersections",
+      "Meanings": [
+        "اجتماع اشتراک ها"
+      ]
+    },
+    {
+      "EnglishWord": "union of relations",
+      "Meanings": [
+        "اجتماع روابط"
+      ]
+    },
+    {
+      "EnglishWord": "union of sets",
+      "Meanings": [
+        "اجتماع مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "union of the family",
+      "Meanings": [
+        "اجتماع خانواده ها"
+      ]
+    },
+    {
+      "EnglishWord": "union of two sets",
+      "Meanings": [
+        "اجتماع دو مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "union steward",
+      "Meanings": [
+        "حوزه فعالیت اتحادیه"
+      ]
+    },
+    {
+      "EnglishWord": "unipotent",
+      "Meanings": [
+        "تک توان"
+      ]
+    },
+    {
+      "EnglishWord": "unipotent matrix",
+      "Meanings": [
+        "ماتریس تک توان"
+      ]
+    },
+    {
+      "EnglishWord": "unique",
+      "Meanings": [
+        "یکتا",
+        "منحصر به فرد",
+        "یگانه",
+        "تک",
+        "منحصر"
+      ]
+    },
+    {
+      "EnglishWord": "unique element",
+      "Meanings": [
+        "عنصر یکتا",
+        "عنصر منحصر به فرد"
+      ]
+    },
+    {
+      "EnglishWord": "unique existence theorem",
+      "Meanings": [
+        "قضیه وجود یکتا"
+      ]
+    },
+    {
+      "EnglishWord": "unique factorization",
+      "Meanings": [
+        "یکتایی تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "unique factorization domain",
+      "Meanings": [
+        "قلمرو یکتایی تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "unique factorization theorem",
+      "Meanings": [
+        "قضیه تجزیه یکتا"
+      ]
+    },
+    {
+      "EnglishWord": "unique finite optimal solution",
+      "Meanings": [
+        "جواب بهینه متناهی بی کران"
+      ]
+    },
+    {
+      "EnglishWord": "unique immediate predecessor",
+      "Meanings": [
+        "مقدم بی واسطه یکتا"
+      ]
+    },
+    {
+      "EnglishWord": "unique set of atoms",
+      "Meanings": [
+        "مجموعه ای یکتا از اتم ها"
+      ]
+    },
+    {
+      "EnglishWord": "unique solution",
+      "Meanings": [
+        "جواب بی کران",
+        "جواب یکتا",
+        "جواب یگانه"
+      ]
+    },
+    {
+      "EnglishWord": "uniquely",
+      "Meanings": [
+        "منحصرا",
+        "به طور یگانه",
+        "به صورت یکتا"
+      ]
+    },
+    {
+      "EnglishWord": "uniquely define",
+      "Meanings": [
+        "به صورت یکتایی تعریف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness",
+      "Meanings": [
+        "یکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness condition",
+      "Meanings": [
+        "شرط یکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness of complement",
+      "Meanings": [
+        "یکتایی متمم"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness principle",
+      "Meanings": [
+        "اصل یکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness proof",
+      "Meanings": [
+        "برهان یکتایی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness theorem",
+      "Meanings": [
+        "قضیه یکتایی",
+        "قضیه یگانگی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness theorem of analytic",
+      "Meanings": [
+        "قضیه یکتایی تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "uniqueness theorem of analytic continuation",
+      "Meanings": [
+        "قضیه یکتایی ادامه تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "unissued debenture",
+      "Meanings": [
+        "سند قرضه نشر نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unissued share",
+      "Meanings": [
+        "سهم نشر نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unit",
+      "Meanings": [
+        "یکه",
+        "یکانی",
+        "شمار",
+        "یکی",
+        "بخش",
+        "شعبه",
+        "یکان",
+        "دستگاه",
+        "یکا",
+        "واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit ball",
+      "Meanings": [
+        "گوی واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit cell",
+      "Meanings": [
+        "سلول واحد",
+        "حجره یکه",
+        "قرص واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit circle",
+      "Meanings": [
+        "دایره واحد",
+        "دایره یکه",
+        "دایره یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit class",
+      "Meanings": [
+        "مجموعه یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit closed ball",
+      "Meanings": [
+        "گوی بسته یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit coordinate vectors",
+      "Meanings": [
+        "بردار‌های یکه مختصات",
+        "بردار‌های مختصات یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit cost",
+      "Meanings": [
+        "بهای تمام شده یک واحد",
+        "بهای واحد",
+        "قیمت واحد",
+        "هزینه واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit cube",
+      "Meanings": [
+        "مکعب یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit disc",
+      "Meanings": [
+        "قرص یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit disk",
+      "Meanings": [
+        "قرص یکه",
+        "قرص واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit distance",
+      "Meanings": [
+        "فاصله یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit element",
+      "Meanings": [
+        "عنصر واحد",
+        "عضو واحد",
+        "واحد",
+        "عامل",
+        "عنصر یکه",
+        "عنصر یکانی",
+        "عنصر خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "unit fraction",
+      "Meanings": [
+        "کسر واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit group",
+      "Meanings": [
+        "یکاگروه"
+      ]
+    },
+    {
+      "EnglishWord": "unit hyperbola",
+      "Meanings": [
+        "هذلولی یکه",
+        "هذلولی یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit impulse function",
+      "Meanings": [
+        "تابع ضربه ای واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit interval",
+      "Meanings": [
+        "بازه یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit length",
+      "Meanings": [
+        "واحد طول"
+      ]
+    },
+    {
+      "EnglishWord": "unit load",
+      "Meanings": [
+        "واحد بار",
+        "تک محموله",
+        "محموله واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit matrix",
+      "Meanings": [
+        "ماتریس واحد",
+        "ماتریس یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit normal",
+      "Meanings": [
+        "قایم واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit normal curve",
+      "Meanings": [
+        "منحنی نرمال واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit normal deviate",
+      "Meanings": [
+        "نمره انحرافی نرمال واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit normal vector",
+      "Meanings": [
+        "بردار قایم یکه",
+        "بردار قایم واحد",
+        "بردار یکه قایم",
+        "بردار یکانی قایم"
+      ]
+    },
+    {
+      "EnglishWord": "unit of account",
+      "Meanings": [
+        "واحد محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "unit of currency",
+      "Meanings": [
+        "واحد پول"
+      ]
+    },
+    {
+      "EnglishWord": "unit of distance",
+      "Meanings": [
+        "واحد طول",
+        "واحد مسافت"
+      ]
+    },
+    {
+      "EnglishWord": "unit of length",
+      "Meanings": [
+        "سنجه اندازه",
+        "واحد طول"
+      ]
+    },
+    {
+      "EnglishWord": "unit of measurement",
+      "Meanings": [
+        "واحد اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "unit of value",
+      "Meanings": [
+        "واحد ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "unit of work",
+      "Meanings": [
+        "واحد کار"
+      ]
+    },
+    {
+      "EnglishWord": "unit open ball",
+      "Meanings": [
+        "گوی باز یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit operator",
+      "Meanings": [
+        "عملگر واحد",
+        "عملگر یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit point",
+      "Meanings": [
+        "نقطه واحد",
+        "نقطه یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unit set",
+      "Meanings": [
+        "مجموعه یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit sets",
+      "Meanings": [
+        "مجموعه یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unit sphere",
+      "Meanings": [
+        "کره واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit square",
+      "Meanings": [
+        "مربع واحد",
+        "مربعی به ضلع واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit step function",
+      "Meanings": [
+        "تابع پله ای یکه",
+        "تابع پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "unit tangent",
+      "Meanings": [
+        "مماس واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unit tangent vector",
+      "Meanings": [
+        "بردار یکه مماس"
+      ]
+    },
+    {
+      "EnglishWord": "unit variant",
+      "Meanings": [
+        "با یک درجه آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "unit vector",
+      "Meanings": [
+        "بردار یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unital",
+      "Meanings": [
+        "یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "unital ring",
+      "Meanings": [
+        "حلقه یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "unitarical",
+      "Meanings": [
+        "یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary",
+      "Meanings": [
+        "یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary a module",
+      "Meanings": [
+        "A",
+        "مدول یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "unitary algebra",
+      "Meanings": [
+        "جبر یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "unitary annulus",
+      "Meanings": [
+        "حلقه یگانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary diagonalization",
+      "Meanings": [
+        "قطری کردن یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary group",
+      "Meanings": [
+        "گروه یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary matrix",
+      "Meanings": [
+        "ماتریس یکانی",
+        "ماتریس یکه"
+      ]
+    },
+    {
+      "EnglishWord": "unitary operator",
+      "Meanings": [
+        "عملگر یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary ring",
+      "Meanings": [
+        "حلقه یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "unitary semigroup",
+      "Meanings": [
+        "نیمگروه یکه دار",
+        "تکواره"
+      ]
+    },
+    {
+      "EnglishWord": "unitary similarity",
+      "Meanings": [
+        "تشابه یکانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary space",
+      "Meanings": [
+        "فضای یکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "unitary transformation",
+      "Meanings": [
+        "تبدیل یکانی",
+        "تبدیل یکه",
+        "تبدیل همانی"
+      ]
+    },
+    {
+      "EnglishWord": "unitary vector",
+      "Meanings": [
+        "بردار واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unite",
+      "Meanings": [
+        "متحد شدن",
+        "متحد کردن",
+        "متفق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unitless",
+      "Meanings": [
+        "بی یکه"
+      ]
+    },
+    {
+      "EnglishWord": "units digit",
+      "Meanings": [
+        "رقم یکان"
+      ]
+    },
+    {
+      "EnglishWord": "units of output method",
+      "Meanings": [
+        "روش تعداد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "units on order",
+      "Meanings": [
+        "مقدار در سفارش",
+        "تعداد در سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "unity",
+      "Meanings": [
+        "یگانی"
+      ]
+    },
+    {
+      "EnglishWord": "unity element",
+      "Meanings": [
+        "عضو یکه",
+        "عنصر یکه",
+        "عضو واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unity matrix",
+      "Meanings": [
+        "ماتریس واحد"
+      ]
+    },
+    {
+      "EnglishWord": "unity of command",
+      "Meanings": [
+        "وحدت فرماندهی"
+      ]
+    },
+    {
+      "EnglishWord": "unity of purpose",
+      "Meanings": [
+        "وحدت هدف"
+      ]
+    },
+    {
+      "EnglishWord": "univalent",
+      "Meanings": [
+        "تک مقداری",
+        "تک ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "univalent analytic function",
+      "Meanings": [
+        "تابع تحلیلی تک ارز"
+      ]
+    },
+    {
+      "EnglishWord": "univalent correspondence",
+      "Meanings": [
+        "تناظر تک ارز"
+      ]
+    },
+    {
+      "EnglishWord": "univalent function",
+      "Meanings": [
+        "تابع تک ارز"
+      ]
+    },
+    {
+      "EnglishWord": "univariate",
+      "Meanings": [
+        "یک متغیری",
+        "یک وردایی"
+      ]
+    },
+    {
+      "EnglishWord": "univariate analysis",
+      "Meanings": [
+        "تحلیل یک متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "univariate distribution",
+      "Meanings": [
+        "توزیع یک متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "univariate distribution law",
+      "Meanings": [
+        "قانون توزیع یک متغیره",
+        "قانون توزیع یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "universal",
+      "Meanings": [
+        "جهانی",
+        "عمومی",
+        "فراگیر",
+        "کلی",
+        "همگانی",
+        "جامع"
+      ]
+    },
+    {
+      "EnglishWord": "universal address system",
+      "Meanings": [
+        "دستگاه آدرس دهی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal algebra",
+      "Meanings": [
+        "جبر عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal bevel",
+      "Meanings": [
+        "زاویه سنج جامع",
+        "نقاله عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal bundle",
+      "Meanings": [
+        "بافه عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal chern class",
+      "Meanings": [
+        "رده چرن عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal class",
+      "Meanings": [
+        "مجموعه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal covering group",
+      "Meanings": [
+        "گروه پوششی عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal covering space",
+      "Meanings": [
+        "فضای پوششی عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal covering surface",
+      "Meanings": [
+        "رویه پوششی عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal curve",
+      "Meanings": [
+        "خم عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal domain",
+      "Meanings": [
+        "حوزه عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal gas constant",
+      "Meanings": [
+        "ثابت گاز عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal gravitational constant",
+      "Meanings": [
+        "ثابت ثقلی عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal jig",
+      "Meanings": [
+        "الگوی کار همه کاره"
+      ]
+    },
+    {
+      "EnglishWord": "universal judgement",
+      "Meanings": [
+        "حکم کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal machine",
+      "Meanings": [
+        "ماشین همه کاره"
+      ]
+    },
+    {
+      "EnglishWord": "universal net",
+      "Meanings": [
+        "تور عام"
+      ]
+    },
+    {
+      "EnglishWord": "universal proposition",
+      "Meanings": [
+        "گزاره عام",
+        "گزاره کلی",
+        "قضیه کلیه",
+        "گزاره عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal quantifier",
+      "Meanings": [
+        "سور عمومی",
+        "کم کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal quantifier symbol",
+      "Meanings": [
+        "علامت سور کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal relation",
+      "Meanings": [
+        "رابطه مرجع",
+        "رابطه عام",
+        "رابطه عمومی",
+        "نسبت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal sentence",
+      "Meanings": [
+        "گزاره کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal set",
+      "Meanings": [
+        "مجموعه عام",
+        "مجموعه مرجع",
+        "مجموعه جهانی",
+        "مجموعه عمومی",
+        "مجموعه کل",
+        "مجموعه جامع"
+      ]
+    },
+    {
+      "EnglishWord": "universal sets",
+      "Meanings": [
+        "مجموعه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "universal statement",
+      "Meanings": [
+        "گزاره کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal time",
+      "Meanings": [
+        "زمان جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "universal truths",
+      "Meanings": [
+        "حقایق کلی"
+      ]
+    },
+    {
+      "EnglishWord": "universal valid expression",
+      "Meanings": [
+        "عبارت همیشه معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "universality",
+      "Meanings": [
+        "جهانی بودن",
+        "کلیت",
+        "عمومیت",
+        "جامعیت"
+      ]
+    },
+    {
+      "EnglishWord": "universally valid",
+      "Meanings": [
+        "همیشه برقرار",
+        "عموما برقرار"
+      ]
+    },
+    {
+      "EnglishWord": "universally valid experssion",
+      "Meanings": [
+        "عبارت همیشه معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "universals",
+      "Meanings": [
+        "کلیات"
+      ]
+    },
+    {
+      "EnglishWord": "universe",
+      "Meanings": [
+        "جهان",
+        "کیهان",
+        "کل",
+        "عالم",
+        "جامعه کل",
+        "کل جامعه",
+        "جامعه",
+        "حیطه",
+        "جامعه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "universe of discourse",
+      "Meanings": [
+        "عالم سخن",
+        "جهان مباحثه"
+      ]
+    },
+    {
+      "EnglishWord": "universe of discussion",
+      "Meanings": [
+        "جهان مباحثه"
+      ]
+    },
+    {
+      "EnglishWord": "universe relation",
+      "Meanings": [
+        "رابطه مرجع",
+        "رابطه عام"
+      ]
+    },
+    {
+      "EnglishWord": "univocal",
+      "Meanings": [
+        "یک ارزشی",
+        "یکسو",
+        "یک مفهومی"
+      ]
+    },
+    {
+      "EnglishWord": "univocal correspondence",
+      "Meanings": [
+        "تناظر یکسویی"
+      ]
+    },
+    {
+      "EnglishWord": "univocal function",
+      "Meanings": [
+        "تابع یک ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "univocal mapping",
+      "Meanings": [
+        "گسترش یک ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "unknown",
+      "Meanings": [
+        "مجهول",
+        "ناشناخته",
+        "مقدار مجهول",
+        "نامعلوم"
+      ]
+    },
+    {
+      "EnglishWord": "unknown quantity",
+      "Meanings": [
+        "کمیت مجهول"
+      ]
+    },
+    {
+      "EnglishWord": "unlabeled",
+      "Meanings": [
+        "بدون برچسب"
+      ]
+    },
+    {
+      "EnglishWord": "unlike",
+      "Meanings": [
+        "مختلف",
+        "متفاوت",
+        "نابرابر",
+        "غیر مساوی",
+        "بی شباهت",
+        "برخلاف"
+      ]
+    },
+    {
+      "EnglishWord": "unlikely",
+      "Meanings": [
+        "غیر محتمل",
+        "بعید"
+      ]
+    },
+    {
+      "EnglishWord": "unlimited",
+      "Meanings": [
+        "نامحدود",
+        "لایتناهی",
+        "بدون نهایت"
+      ]
+    },
+    {
+      "EnglishWord": "unlimited capital",
+      "Meanings": [
+        "سرمایه نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "unlimited period",
+      "Meanings": [
+        "مدت نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "unlimited resource allocation",
+      "Meanings": [
+        "تخصیص منابع نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "unload",
+      "Meanings": [
+        "بی بار کردن",
+        "خالی کردن",
+        "تخلیه بار",
+        "پیاده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unloading",
+      "Meanings": [
+        "خالی کردن بار",
+        "بار اندازی",
+        "تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "unloading fixture",
+      "Meanings": [
+        "بست پیاده کردن",
+        "بست تخلیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unlocking",
+      "Meanings": [
+        "آزاد کردن",
+        "رها کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unmixed ideal",
+      "Meanings": [
+        "ایدآل نا آمیخته",
+        "ایدآل خالص"
+      ]
+    },
+    {
+      "EnglishWord": "unmixedness theorem",
+      "Meanings": [
+        "قضیه نا آمیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "unnecessary",
+      "Meanings": [
+        "غیر ضروری",
+        "غیر لازم",
+        "نابایسته"
+      ]
+    },
+    {
+      "EnglishWord": "unofficial employee",
+      "Meanings": [
+        "مستخدم غیر رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "unordered pair",
+      "Meanings": [
+        "زوج نا مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "unordered partition",
+      "Meanings": [
+        "افزار نامرتب"
+      ]
+    },
+    {
+      "EnglishWord": "unpack",
+      "Meanings": [
+        "از بسته بندی در آوردن",
+        "باز",
+        "غیر متراکم",
+        "نافشرده",
+        "باز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "unpainted",
+      "Meanings": [
+        "رنگ نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unparted",
+      "Meanings": [
+        "یک پارچه"
+      ]
+    },
+    {
+      "EnglishWord": "unpredictable",
+      "Meanings": [
+        "غیر قابل پیش بینی",
+        "پیشگویی ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "unproductive expenditure",
+      "Meanings": [
+        "خرج غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "unprovable",
+      "Meanings": [
+        "غر قابل اثبات",
+        "اثبات نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "unproved",
+      "Meanings": [
+        "اثبات نشده",
+        "ثابت نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unranked data",
+      "Meanings": [
+        "داده‌های غیر رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "unraveled",
+      "Meanings": [
+        "حل کردن",
+        "نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "unreachable state",
+      "Meanings": [
+        "حالت غیر قابل دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "unrecorded cost",
+      "Meanings": [
+        "هزینه جبران نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unrecorded expenses",
+      "Meanings": [
+        "هزینه‌های ثبت نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unrecorded revenue",
+      "Meanings": [
+        "درآمد ثبت نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unrecorded variable",
+      "Meanings": [
+        "متغیر آزاد",
+        "متغیر نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "unrelated",
+      "Meanings": [
+        "نابستگی",
+        "عدم همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "unrelated variable",
+      "Meanings": [
+        "متغیر نابسته"
+      ]
+    },
+    {
+      "EnglishWord": "unrestricted",
+      "Meanings": [
+        "غیر مقید"
+      ]
+    },
+    {
+      "EnglishWord": "unrestricted random sample",
+      "Meanings": [
+        "نمونه تصادفی نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "unrestricted variable",
+      "Meanings": [
+        "متغیر نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "unrestricted variables",
+      "Meanings": [
+        "متغیر‌های نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "unsecured",
+      "Meanings": [
+        "بدون تضمین",
+        "بی وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "unsecured credit",
+      "Meanings": [
+        "اعتبار بدون وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "unsecured loan",
+      "Meanings": [
+        "وام بی وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "unsettled",
+      "Meanings": [
+        "تسویه نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unshaded area",
+      "Meanings": [
+        "ناحیه سایه دار نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unsignificant",
+      "Meanings": [
+        "نامعتبر"
+      ]
+    },
+    {
+      "EnglishWord": "unskilled labor",
+      "Meanings": [
+        "نیروی کار غیر ماهر",
+        "نیروی کار بدون تخصص"
+      ]
+    },
+    {
+      "EnglishWord": "unskilled worker",
+      "Meanings": [
+        "کارگر غیر ماهر",
+        "کارگر ساده",
+        "کارگر بدون تخصص"
+      ]
+    },
+    {
+      "EnglishWord": "unsolvability",
+      "Meanings": [
+        "حل ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "unsolvable",
+      "Meanings": [
+        "غیر قابل حل",
+        "حل نشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "unsolved problem",
+      "Meanings": [
+        "مساله حل نشده"
+      ]
+    },
+    {
+      "EnglishWord": "unstable",
+      "Meanings": [
+        "ناپایدار",
+        "بی ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "unstable equilibrium",
+      "Meanings": [
+        "تعادل نا پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "unstable solution of hill equation",
+      "Meanings": [
+        "جواب نا پایدار معادله هیل"
+      ]
+    },
+    {
+      "EnglishWord": "unstable state",
+      "Meanings": [
+        "حالت ناپایدار"
+      ]
+    },
+    {
+      "EnglishWord": "unstressed",
+      "Meanings": [
+        "استفاده شدن",
+        "استفاده کردن از",
+        "کشیده نشده",
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "unstretched",
+      "Meanings": [
+        "عادی",
+        "کشیده نشده"
+      ]
+    },
+    {
+      "EnglishWord": "untied",
+      "Meanings": [
+        "ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "untied ranks",
+      "Meanings": [
+        "رتبه‌های ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "until",
+      "Meanings": [
+        "تا آنجا",
+        "تا این که"
+      ]
+    },
+    {
+      "EnglishWord": "unwinding",
+      "Meanings": [
+        "باز کردن",
+        "نامتقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "up",
+      "Meanings": [
+        "بالا"
+      ]
+    },
+    {
+      "EnglishWord": "up and down",
+      "Meanings": [
+        "بالا و پایین"
+      ]
+    },
+    {
+      "EnglishWord": "up to",
+      "Meanings": [
+        "به تقریب",
+        "تا حد",
+        "حداکثر",
+        "متوالی",
+        "حداکثر تا",
+        "تا حدود",
+        "تا",
+        "به میزان"
+      ]
+    },
+    {
+      "EnglishWord": "up to an isomorphism",
+      "Meanings": [
+        "در حد یک یکسانی",
+        "صرفنظر از یک یکسانی",
+        "با تقریب یک یکسانی",
+        "با تقریب یک ایزومرفیسم"
+      ]
+    },
+    {
+      "EnglishWord": "up to date",
+      "Meanings": [
+        "بهنگام",
+        "به روز بودن",
+        "به روز در آوردن",
+        "بهنگام بودن",
+        "بموقع",
+        "به روز",
+        "جدید",
+        "به روز کردن",
+        "بهنگام کردن",
+        "منعکس کردن",
+        "آخرین تغییرات",
+        "تازه",
+        "به هنگام"
+      ]
+    },
+    {
+      "EnglishWord": "update",
+      "Meanings": [
+        "به هنگام آوردن",
+        "به روز در آمدن",
+        "به تاریخ روز",
+        "به روز رساندن",
+        "بهنگام درآوردن",
+        "به روز درآوردن",
+        "بهنگام کردن",
+        "بموقع کردن",
+        "بوقت کردن",
+        "تازه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "updated",
+      "Meanings": [
+        "بهنگام",
+        "به روز"
+      ]
+    },
+    {
+      "EnglishWord": "updated basis invector",
+      "Meanings": [
+        "معکوس پایه بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "updated column vector",
+      "Meanings": [
+        "بردار ستونی بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "updated tableau",
+      "Meanings": [
+        "جدول بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "updated tree",
+      "Meanings": [
+        "درخت به روز درآمده"
+      ]
+    },
+    {
+      "EnglishWord": "updating",
+      "Meanings": [
+        "بهنگام سازی",
+        "بهنگام درآوری",
+        "بهنگام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "upon",
+      "Meanings": [
+        "بر روی",
+        "بر",
+        "روی",
+        "برفراز",
+        "فوق"
+      ]
+    },
+    {
+      "EnglishWord": "upper",
+      "Meanings": [
+        "بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper arm",
+      "Meanings": [
+        "بازوی بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper bainite",
+      "Meanings": [
+        "بینیت بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper bound",
+      "Meanings": [
+        "کران بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper bound constraint",
+      "Meanings": [
+        "محدودیت حد فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "upper boundary",
+      "Meanings": [
+        "مرز بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper bounded variable",
+      "Meanings": [
+        "متغیر مشخص شده با حد بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper boundes on variables updated",
+      "Meanings": [
+        "کران بالای متغیر ها"
+      ]
+    },
+    {
+      "EnglishWord": "upper cavity",
+      "Meanings": [
+        "محفظه فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "upper central series",
+      "Meanings": [
+        "سری بالا مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "upper class",
+      "Meanings": [
+        "رده بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper control limit",
+      "Meanings": [
+        "حد بالایی کنترل",
+        "حد کنترل بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper derivative",
+      "Meanings": [
+        "مشتق بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper envelope",
+      "Meanings": [
+        "پوش بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper function",
+      "Meanings": [
+        "تابع بالایی",
+        "تابع فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "upper half",
+      "Meanings": [
+        "نیمه سمت راست"
+      ]
+    },
+    {
+      "EnglishWord": "upper half of poincare",
+      "Meanings": [
+        "نیم صفحه پوانکاره"
+      ]
+    },
+    {
+      "EnglishWord": "upper half plane",
+      "Meanings": [
+        "نیمه بالایی صفحه",
+        "نیم صفحه فوقانی",
+        "نیم صفحه بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper integral",
+      "Meanings": [
+        "انتگرال بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper left corner",
+      "Meanings": [
+        "بالاترین گوشه سمت چپ"
+      ]
+    },
+    {
+      "EnglishWord": "upper limit",
+      "Meanings": [
+        "حد بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper limit function",
+      "Meanings": [
+        "تابع حد بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper limit of an integral",
+      "Meanings": [
+        "حد بالای انتگرال"
+      ]
+    },
+    {
+      "EnglishWord": "upper limit of summation",
+      "Meanings": [
+        "حد بالایی جمع بندی"
+      ]
+    },
+    {
+      "EnglishWord": "upper normal",
+      "Meanings": [
+        "قایم بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper number",
+      "Meanings": [
+        "عدد بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper real limit",
+      "Meanings": [
+        "حد بالایی واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "upper riemann sum",
+      "Meanings": [
+        "مجموع ریمانی بالایی",
+        "مجموعه بالایی ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "upper right entry",
+      "Meanings": [
+        "درایه بالایی سمت راست"
+      ]
+    },
+    {
+      "EnglishWord": "upper semicontinuous function",
+      "Meanings": [
+        "تابع بالا نیم پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "upper semicontinuous partition",
+      "Meanings": [
+        "افراز بالا",
+        "نیمپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "upper semilattice",
+      "Meanings": [
+        "نیم مشبکه بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper specification limit",
+      "Meanings": [
+        "حد فنی بالایی",
+        "حد مشخصه بالا",
+        "حد قابل قبول بالایی",
+        "حد بالای مشخصه فنی"
+      ]
+    },
+    {
+      "EnglishWord": "upper specification statistic",
+      "Meanings": [
+        "شاخص کیفیت بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "upper stieltjes sum",
+      "Meanings": [
+        "مجموع اشتیل یس بالایی",
+        "مجموعه بالایی استیلجس"
+      ]
+    },
+    {
+      "EnglishWord": "upper sum",
+      "Meanings": [
+        "مجموع بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upper triangular",
+      "Meanings": [
+        "بالامثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "upper triangular matrix",
+      "Meanings": [
+        "ماتریس بالا مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "upper triangularization",
+      "Meanings": [
+        "بالا مثلثی سازی"
+      ]
+    },
+    {
+      "EnglishWord": "upper variation",
+      "Meanings": [
+        "وردش بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upright",
+      "Meanings": [
+        "راست",
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "upset",
+      "Meanings": [
+        "جا زدن",
+        "فرو بردن"
+      ]
+    },
+    {
+      "EnglishWord": "upset butt",
+      "Meanings": [
+        "سر به سر جازده"
+      ]
+    },
+    {
+      "EnglishWord": "upward",
+      "Meanings": [
+        "به بالا بردن",
+        "به سمت بالا",
+        "به بالا",
+        "رو به بالا",
+        "بالایی",
+        "به طرف بالا",
+        "رو به ترقی"
+      ]
+    },
+    {
+      "EnglishWord": "upward bias",
+      "Meanings": [
+        "بالا اریبی"
+      ]
+    },
+    {
+      "EnglishWord": "upward concave function",
+      "Meanings": [
+        "تابع مقعر رو به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "upward tendency",
+      "Meanings": [
+        "گرایش صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "urban planning",
+      "Meanings": [
+        "برنامه ریزی شهری"
+      ]
+    },
+    {
+      "EnglishWord": "urbanization",
+      "Meanings": [
+        "شهری شدن"
+      ]
+    },
+    {
+      "EnglishWord": "urn",
+      "Meanings": [
+        "ظرف",
+        "آوند",
+        "کیسه"
+      ]
+    },
+    {
+      "EnglishWord": "urn model",
+      "Meanings": [
+        "شمای کیسه گلوله ها",
+        "شمای آوند"
+      ]
+    },
+    {
+      "EnglishWord": "urn scheme",
+      "Meanings": [
+        "شماری آوند",
+        "شمای کیسه"
+      ]
+    },
+    {
+      "EnglishWord": "uryson lemma",
+      "Meanings": [
+        "لم اوریسون"
+      ]
+    },
+    {
+      "EnglishWord": "usability",
+      "Meanings": [
+        "قابلیت استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "usage",
+      "Meanings": [
+        "مصرف",
+        "کاربرد",
+        "استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "usage rate",
+      "Meanings": [
+        "ضریب مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "usance",
+      "Meanings": [
+        "مهلت پرداخت سفته",
+        "مهلت پرداخت برات"
+      ]
+    },
+    {
+      "EnglishWord": "usance credit",
+      "Meanings": [
+        "اعتبار مدت دار"
+      ]
+    },
+    {
+      "EnglishWord": "use",
+      "Meanings": [
+        "استفاده کردن",
+        "بکاربردن",
+        "کاربرد",
+        "مصرف شدن",
+        "استعمال"
+      ]
+    },
+    {
+      "EnglishWord": "use depreciation",
+      "Meanings": [
+        "استهلاک ناشی از استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "use factor",
+      "Meanings": [
+        "ضریب استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "use value",
+      "Meanings": [
+        "ارزش استعمال",
+        "ارزش استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "used",
+      "Meanings": [
+        "متداول"
+      ]
+    },
+    {
+      "EnglishWord": "useful economic life",
+      "Meanings": [
+        "عمر مفید اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "useful life",
+      "Meanings": [
+        "عمر مفید"
+      ]
+    },
+    {
+      "EnglishWord": "usefullness",
+      "Meanings": [
+        "استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "user",
+      "Meanings": [
+        "کاربر",
+        "مصرف کننده",
+        "استفاده کننده"
+      ]
+    },
+    {
+      "EnglishWord": "user guide",
+      "Meanings": [
+        "راهنمای استفاده کننده"
+      ]
+    },
+    {
+      "EnglishWord": "user manual",
+      "Meanings": [
+        "راهنمای استفاده کننده",
+        "راهنمای مصرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "usual",
+      "Meanings": [
+        "معمول",
+        "معمولی",
+        "متداول",
+        "مرسوم",
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "usual distance",
+      "Meanings": [
+        "دوری معمولی",
+        "فاصله معمول"
+      ]
+    },
+    {
+      "EnglishWord": "usual order",
+      "Meanings": [
+        "ترتیب معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual order relation",
+      "Meanings": [
+        "نسبت ترتیبی معمولی",
+        "رابطه ترتیب معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual ordering",
+      "Meanings": [
+        "ترتیب معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual product of integers",
+      "Meanings": [
+        "ضرب معمولی اعداد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "usual product of natural numbers",
+      "Meanings": [
+        "ضرب معمولی اعداد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "usual product of rational numbers",
+      "Meanings": [
+        "ضرب معمولی اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "usual product of real numbers",
+      "Meanings": [
+        "ضرب معمولی اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "usual sum",
+      "Meanings": [
+        "جمع معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual sum of integers",
+      "Meanings": [
+        "جمع معمولی اعداد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "usual sum of natural numbers",
+      "Meanings": [
+        "جمع معمولی اعداد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "usual sum of rational numbers",
+      "Meanings": [
+        "جمع معمولی اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "usual terms",
+      "Meanings": [
+        "شرایط معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual topology",
+      "Meanings": [
+        "توپولوژی معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "usual way",
+      "Meanings": [
+        "روش معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "utilities",
+      "Meanings": [
+        "تاسیسات ضروری",
+        "برنامه‌های خدمات عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "utilities expense",
+      "Meanings": [
+        "هزینه آب و برق و تلفن"
+      ]
+    },
+    {
+      "EnglishWord": "utility",
+      "Meanings": [
+        "سودمندی",
+        "فایده",
+        "مطلوبیت",
+        "مطلوبیتی",
+        "کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "utility cost",
+      "Meanings": [
+        "هزینه بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "utility function",
+      "Meanings": [
+        "تابع مطلوبیت",
+        "تابع سودمند"
+      ]
+    },
+    {
+      "EnglishWord": "utility graph",
+      "Meanings": [
+        "گراف سودمندی"
+      ]
+    },
+    {
+      "EnglishWord": "utility matrix",
+      "Meanings": [
+        "ماتریس سودمندی"
+      ]
+    },
+    {
+      "EnglishWord": "utility model",
+      "Meanings": [
+        "مدل بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "utility programs",
+      "Meanings": [
+        "برنامه‌های خدمات عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "utility table",
+      "Meanings": [
+        "جدول سودمندی"
+      ]
+    },
+    {
+      "EnglishWord": "utilization",
+      "Meanings": [
+        "استفاده",
+        "به کارگیری",
+        "کاربرد",
+        "بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "utilization factor",
+      "Meanings": [
+        "ضریب بهره وری",
+        "ضریب بهره گیری",
+        "ضریب بهره برداری کردن",
+        "عامل بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "utilize",
+      "Meanings": [
+        "به کارگرفتن",
+        "بهره برداری کردن",
+        "مورد استفاده قرار دادن",
+        "به کار بردن",
+        "استفاده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "utilizing",
+      "Meanings": [
+        "استفاده کردن"
+      ]
+    },
+    {
+      "EnglishWord": "utmost",
+      "Meanings": [
+        "به حداکثر",
+        "بیشترین",
+        "حداکثر",
+        "دورترین"
+      ]
+    },
+    {
+      "EnglishWord": "utter",
+      "Meanings": [
+        "کامل",
+        "تمام",
+        "مطلق",
+        "به اعلی درجه"
+      ]
+    }
+  ]
+}

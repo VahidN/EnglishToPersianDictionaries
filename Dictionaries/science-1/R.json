@@ -1,0 +1,4494 @@
+﻿{
+  "Group": "R",
+  "Entries": 645,
+  "Words": [
+    {
+      "EnglishWord": "raabe and duhamel's rule",
+      "Meanings": [
+        "قاعده راب و دوهامل"
+      ]
+    },
+    {
+      "EnglishWord": "racecourse paradox",
+      "Meanings": [
+        "پرادوکس مسابقه"
+      ]
+    },
+    {
+      "EnglishWord": "radial",
+      "Meanings": [
+        "شعاعی",
+        "پرتوی"
+      ]
+    },
+    {
+      "EnglishWord": "radial acceleration",
+      "Meanings": [
+        "شتاب شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radial component",
+      "Meanings": [
+        "مولفه شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radial distance",
+      "Meanings": [
+        "فاصله شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radial set",
+      "Meanings": [
+        "مجموعه شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radial vector",
+      "Meanings": [
+        "بردار شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radially",
+      "Meanings": [
+        "شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radian",
+      "Meanings": [
+        "رادیان"
+      ]
+    },
+    {
+      "EnglishWord": "radian measure",
+      "Meanings": [
+        "مقیاس رادیان",
+        "سنج رادیان",
+        "اندازه‌گیری با واحد رادیان"
+      ]
+    },
+    {
+      "EnglishWord": "radical",
+      "Meanings": [
+        "رادیکال",
+        "اصلی",
+        "ریشه‌ای",
+        "ریشه جبری عدد",
+        "ریشه",
+        "ریشگی"
+      ]
+    },
+    {
+      "EnglishWord": "radical axis of two circles",
+      "Meanings": [
+        "محور اصلی دو دایره"
+      ]
+    },
+    {
+      "EnglishWord": "radical center",
+      "Meanings": [
+        "مرکز اصلی سه دایره"
+      ]
+    },
+    {
+      "EnglishWord": "radical expression",
+      "Meanings": [
+        "عبارت رادیکالی",
+        "عبارت شامل ریشه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "radical of an ideal",
+      "Meanings": [
+        "ریشگی یک ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "radical plane of two spheres",
+      "Meanings": [
+        "صفحه اصلی دو دایره"
+      ]
+    },
+    {
+      "EnglishWord": "radical sequence",
+      "Meanings": [
+        "دنباله رادیکال",
+        "رشته رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "radical sign",
+      "Meanings": [
+        "علامت رادیکال",
+        "علامت ریشه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "radicand",
+      "Meanings": [
+        "زیر رادیکال",
+        "عبارت مقدار زیر رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "radii",
+      "Meanings": [
+        "اشعه",
+        "شعاع‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "radius",
+      "Meanings": [
+        "شعاع",
+        "پرتو",
+        "جیب بزرگتر",
+        "نیم‌قطر",
+        "همه جیب"
+      ]
+    },
+    {
+      "EnglishWord": "radius of convergence",
+      "Meanings": [
+        "شعاع همگرایی",
+        "شعاع تقارب"
+      ]
+    },
+    {
+      "EnglishWord": "radius of curvature",
+      "Meanings": [
+        "شعاع انحنا",
+        "شعاع خمیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "radius of gyration",
+      "Meanings": [
+        "شعاع ژیراسیون",
+        "شعاع گردش",
+        "شعاع چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "radius of torsion",
+      "Meanings": [
+        "شعاع تاب",
+        "شعاع پیچش منحنی فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "radius vector",
+      "Meanings": [
+        "بردار شعاعی",
+        "شعاع حامل"
+      ]
+    },
+    {
+      "EnglishWord": "radix",
+      "Meanings": [
+        "پایه شمارش",
+        "مبنا شمارش",
+        "لگاریتم"
+      ]
+    },
+    {
+      "EnglishWord": "radix point",
+      "Meanings": [
+        "ممیز"
+      ]
+    },
+    {
+      "EnglishWord": "raise",
+      "Meanings": [
+        "افزایش دادن",
+        "بالا بردن"
+      ]
+    },
+    {
+      "EnglishWord": "raise a number to power",
+      "Meanings": [
+        "به توان رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "ramification",
+      "Meanings": [
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی",
+        "اتفاقی",
+        "بختی"
+      ]
+    },
+    {
+      "EnglishWord": "random digits table",
+      "Meanings": [
+        "جدول اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random event",
+      "Meanings": [
+        "حادثه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random experiment",
+      "Meanings": [
+        "آزمایش تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random matrix",
+      "Meanings": [
+        "ماتریس تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random numbers",
+      "Meanings": [
+        "اعداد تصادفی",
+        "ارقام تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random process",
+      "Meanings": [
+        "فرایند تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sample",
+      "Meanings": [
+        "نمونه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sampling",
+      "Meanings": [
+        "نمونه‌گیری تصادفی",
+        "نمونه‌برداری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random type surveying",
+      "Meanings": [
+        "آمارگیری تصادفی",
+        "آمارگیری از نوع تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random variable",
+      "Meanings": [
+        "متغیر تصادفی",
+        "کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random vector",
+      "Meanings": [
+        "بردار تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomied block design",
+      "Meanings": [
+        "طرح بلوکی تصادفی‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "randomization",
+      "Meanings": [
+        "تصادفی کردن",
+        "انتخاب تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomize",
+      "Meanings": [
+        "تصادفی کردن",
+        "بختی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "randomized",
+      "Meanings": [
+        "تصادفی",
+        "تصادفی شده",
+        "بختین"
+      ]
+    },
+    {
+      "EnglishWord": "randomized numbers",
+      "Meanings": [
+        "اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomized strategy",
+      "Meanings": [
+        "استراتژی تصادفی‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "randomly",
+      "Meanings": [
+        "به طور تصادفی",
+        "بختانه"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "مجموعه مقادیر",
+        "برد",
+        "فاصله تغییرات",
+        "دامنه",
+        "حوزه",
+        "قلمرو",
+        "دامنه تغییر",
+        "حدود",
+        "راسته متغیر",
+        "حوزه عکس نسبت",
+        "حوزه مقادیر تابع",
+        "میدان تغییرات",
+        "سلسله",
+        "عرصه",
+        "مجموعه نگار"
+      ]
+    },
+    {
+      "EnglishWord": "range finder",
+      "Meanings": [
+        "مساحت یاب"
+      ]
+    },
+    {
+      "EnglishWord": "range limits",
+      "Meanings": [
+        "حدود دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "range of a function",
+      "Meanings": [
+        "برد یک تابع",
+        "ناحیه مقادیر تابع"
+      ]
+    },
+    {
+      "EnglishWord": "range of a mapping",
+      "Meanings": [
+        "مجموعه مقادیر",
+        "برد یک نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "range of points",
+      "Meanings": [
+        "مجموعه ای از نقاط روی خط راست"
+      ]
+    },
+    {
+      "EnglishWord": "range of relation",
+      "Meanings": [
+        "برد رابطه",
+        "برد نسبت",
+        "ناحیه مقادیر رابطه",
+        "حوزه مقدار رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "range of variable",
+      "Meanings": [
+        "برد متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "range of variations",
+      "Meanings": [
+        "دامنه تغییرات",
+        "حیطه تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "range space",
+      "Meanings": [
+        "فضای مقادیر"
+      ]
+    },
+    {
+      "EnglishWord": "rank",
+      "Meanings": [
+        "رتبه",
+        "مرتبه",
+        "ردیف",
+        "رسته"
+      ]
+    },
+    {
+      "EnglishWord": "rank biserial",
+      "Meanings": [
+        "رتبه‌ای دو دسته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank biserial correlation",
+      "Meanings": [
+        "همبستگی رتبه ای دو دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank correlation",
+      "Meanings": [
+        "همبستگی رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی رتبه‌ای",
+        "ضریب کورلاسیون رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "rank difference correlation coeficient",
+      "Meanings": [
+        "ضریب همبستگی تفاوت",
+        "رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank of a family of linear forms",
+      "Meanings": [
+        "رتبه یک خانواده از فرم‌های خطی"
+      ]
+    },
+    {
+      "EnglishWord": "rank of a homomorphism",
+      "Meanings": [
+        "رتبه یک همسانی"
+      ]
+    },
+    {
+      "EnglishWord": "rank of a matrix",
+      "Meanings": [
+        "رتبه یک ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "rank of a system of equations",
+      "Meanings": [
+        "رتبه یک دستگاه معادلات"
+      ]
+    },
+    {
+      "EnglishWord": "rank of abelian group",
+      "Meanings": [
+        "رتبه گروه آبلین"
+      ]
+    },
+    {
+      "EnglishWord": "rank of free abelian group",
+      "Meanings": [
+        "رتبه گروه آبلین آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "rank of matrix",
+      "Meanings": [
+        "رتبه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "rank sum test",
+      "Meanings": [
+        "آزمون مجموع رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "rank theorem",
+      "Meanings": [
+        "قضیه رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "ranked",
+      "Meanings": [
+        "رتبه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "ranked data",
+      "Meanings": [
+        "داده‌های رتبه بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "ranking",
+      "Meanings": [
+        "رتبه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "ranking scale",
+      "Meanings": [
+        "مقیاس رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "ranking techniques",
+      "Meanings": [
+        "فن رتبه بندی",
+        "تکنیک رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "rare",
+      "Meanings": [
+        "نادر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "rassel",
+      "Meanings": [
+        "برتراند راسل",
+        "فیلسوف وریاضیدان ونویسنده انگلیسی او را می‌توان پایه گذار منطق جدید شمرد وکتاب اصول ریاضیات پرینسیپیا ماتماتیکا نوشته او وآلفرد نورث رایتهد مهمترین کتاب منطق این قرن محسوب می‌شود درسال 1950 جایزه ادبی نوبل به او اعطا شد. نیمه دوم عمر خود را بیشتر صرف نوشتن کتابهای علمی وفلسفی برای عامه نمود در اواخر دهه 60 دادگاهی بین اللملی تشکیل داد وایالات متحده را بخاطر جنایاتش در ویتنام بطور سمبولیک به محاکمه کشید که این اقدام در جهت برانگیختن افکار عمومی جهانیان بر علیه جنگ ویتنام بسیار موثر بود"
+      ]
+    },
+    {
+      "EnglishWord": "ratchet polygons",
+      "Meanings": [
+        "کثیرالاضلاع‌های چرخ‌دنده"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نسبت",
+        "آهنگ",
+        "میزان",
+        "مقدار",
+        "اندازه",
+        "نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "rate of charge",
+      "Meanings": [
+        "نرخ تغییرات",
+        "نسبت تغییرات",
+        "نرخ تغییر",
+        "نسبت تغییر",
+        "میزان تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "rate of growth",
+      "Meanings": [
+        "میزان رشد",
+        "نسبت رشد"
+      ]
+    },
+    {
+      "EnglishWord": "ratio",
+      "Meanings": [
+        "نسبت دو عدد یا دو مقدار",
+        "کسر",
+        "مقدار کسری",
+        "ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "ratio estimate",
+      "Meanings": [
+        "برآورد نسبتی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio ex aequali",
+      "Meanings": [
+        "نسبت مساوات منتظم",
+        "نسبت مساوات هموار"
+      ]
+    },
+    {
+      "EnglishWord": "ratio measurement",
+      "Meanings": [
+        "اندازه‌گیری نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of a geometric series",
+      "Meanings": [
+        "قدرنسبت یک سری هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of a section",
+      "Meanings": [
+        "نسبت مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of dilation",
+      "Meanings": [
+        "نسبت یک انبساط"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of homothery",
+      "Meanings": [
+        "نسبت تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of proportionality",
+      "Meanings": [
+        "نسبت تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of similitude",
+      "Meanings": [
+        "نسبت تجانس",
+        "نسبت تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "ratio scale",
+      "Meanings": [
+        "مقیاس نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio test",
+      "Meanings": [
+        "آزمون نسبت",
+        "قاعده دالامبر",
+        "آزمون نسبتی",
+        "قاعده نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "ratiocinative",
+      "Meanings": [
+        "استدلالی"
+      ]
+    },
+    {
+      "EnglishWord": "rational",
+      "Meanings": [
+        "گویا",
+        "منطق"
+      ]
+    },
+    {
+      "EnglishWord": "rational algebraic function",
+      "Meanings": [
+        "تابع جبری گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational and surd roots",
+      "Meanings": [
+        "جذر اصم و جذر گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational cut",
+      "Meanings": [
+        "بریدگی گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational expression",
+      "Meanings": [
+        "عبارت منطق"
+      ]
+    },
+    {
+      "EnglishWord": "rational fraction",
+      "Meanings": [
+        "تابع گویا",
+        "تابع جبری گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational function",
+      "Meanings": [
+        "تابع گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational insight",
+      "Meanings": [
+        "بینش عقلی"
+      ]
+    },
+    {
+      "EnglishWord": "rational integer function",
+      "Meanings": [
+        "تابع صحیح گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational integers",
+      "Meanings": [
+        "اعداد صحیح گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational line",
+      "Meanings": [
+        "خط گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational machanics",
+      "Meanings": [
+        "مکانیک استدلالی"
+      ]
+    },
+    {
+      "EnglishWord": "rational number",
+      "Meanings": [
+        "عدد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational number system",
+      "Meanings": [
+        "دستگاه اعداد گویا",
+        "Q"
+      ]
+    },
+    {
+      "EnglishWord": "rational numbers",
+      "Meanings": [
+        "اعداد گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational operations",
+      "Meanings": [
+        "اعمال گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational p-adic numbers space",
+      "Meanings": [
+        "فضای اعداد گویای p",
+        "ادیک"
+      ]
+    },
+    {
+      "EnglishWord": "rational plane",
+      "Meanings": [
+        "صفحه گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational points",
+      "Meanings": [
+        "نقاط گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational root theorem",
+      "Meanings": [
+        "قضیه ریشه گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational sequence",
+      "Meanings": [
+        "دنباله گویا",
+        "رشته گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rationalism",
+      "Meanings": [
+        "عقل گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "rationalists",
+      "Meanings": [
+        "اصحاب عقل"
+      ]
+    },
+    {
+      "EnglishWord": "rationalization",
+      "Meanings": [
+        "عمل گویا کردن",
+        "از زیر رادیکال درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "rationalize",
+      "Meanings": [
+        "گویا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rationalizing",
+      "Meanings": [
+        "گویا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "rationalizing substitiution",
+      "Meanings": [
+        "تعویض متغیر گویا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "raw",
+      "Meanings": [
+        "خام",
+        "نارس"
+      ]
+    },
+    {
+      "EnglishWord": "raw datum",
+      "Meanings": [
+        "داده آماری خام",
+        "داده خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw score",
+      "Meanings": [
+        "نمره خام"
+      ]
+    },
+    {
+      "EnglishWord": "ray",
+      "Meanings": [
+        "خط شعاعی",
+        "نیم‌خط",
+        "پرتو",
+        "شعاع"
+      ]
+    },
+    {
+      "EnglishWord": "rayleigh distribution",
+      "Meanings": [
+        "توزیع ریلی"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "واکنش",
+        "عکس‌العمل"
+      ]
+    },
+    {
+      "EnglishWord": "real",
+      "Meanings": [
+        "حقیقی",
+        "واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real analysis",
+      "Meanings": [
+        "آنالیز حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real axis",
+      "Meanings": [
+        "محور حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real exponential function",
+      "Meanings": [
+        "تابع نمایی حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real function",
+      "Meanings": [
+        "تابع حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real integral",
+      "Meanings": [
+        "انتگرال حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real line",
+      "Meanings": [
+        "خط حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real number",
+      "Meanings": [
+        "عدد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real number modulo",
+      "Meanings": [
+        "اعداد حقیقی به پیمانه‌ی…",
+        "اعداد حقیقی به مدول"
+      ]
+    },
+    {
+      "EnglishWord": "real number system",
+      "Meanings": [
+        "دستگاه اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real numbers",
+      "Meanings": [
+        "اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real numbers axis",
+      "Meanings": [
+        "محور اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real part",
+      "Meanings": [
+        "جزء حقیقی",
+        "قسمت حقیقی",
+        "بخش حقیقی در اعداد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "real part of complex number",
+      "Meanings": [
+        "جزء حقیقی عدد مختلط",
+        "قسمت حقیقی عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "real plane",
+      "Meanings": [
+        "صفحه حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real power",
+      "Meanings": [
+        "توان حقیقی",
+        "قوه حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real power series",
+      "Meanings": [
+        "سری توانی حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real root",
+      "Meanings": [
+        "ریشه حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real sequence",
+      "Meanings": [
+        "دنباله حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real subset",
+      "Meanings": [
+        "زیرمجموعه حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real value",
+      "Meanings": [
+        "مقدار حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real valued",
+      "Meanings": [
+        "با مقدار حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real variable",
+      "Meanings": [
+        "متغیر حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real vector space",
+      "Meanings": [
+        "فضای برداری حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "realistic",
+      "Meanings": [
+        "واقع‌گرایانه",
+        "راستین‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "realization",
+      "Meanings": [
+        "وقوع",
+        "به وجود آمدن",
+        "تحقق ریالیزه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "rear",
+      "Meanings": [
+        "پشت"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangement",
+      "Meanings": [
+        "تجدید آرایش",
+        "بازآرایی",
+        "ترتیب مجدد",
+        "تغییر نظم",
+        "بازآرایش"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangement theorem",
+      "Meanings": [
+        "قضیه تجدید آرایش سری‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "reason",
+      "Meanings": [
+        "دلیل",
+        "برهان",
+        "دلیل آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable",
+      "Meanings": [
+        "عاقلانه",
+        "معقول",
+        "روا"
+      ]
+    },
+    {
+      "EnglishWord": "reasoning",
+      "Meanings": [
+        "استدلال",
+        "تعقل"
+      ]
+    },
+    {
+      "EnglishWord": "reasoning by analogy",
+      "Meanings": [
+        "استدلال تمثیلی"
+      ]
+    },
+    {
+      "EnglishWord": "reasoning by resemblance",
+      "Meanings": [
+        "استدلال تمثیلی"
+      ]
+    },
+    {
+      "EnglishWord": "recessive",
+      "Meanings": [
+        "بازگشتی",
+        "مایل به بازگشت",
+        "پس‌رفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "reciproc",
+      "Meanings": [
+        "متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal",
+      "Meanings": [
+        "معکوس",
+        "وارون",
+        "متقابل",
+        "عکس یک عدد",
+        "متناسب معکوس",
+        "متعاکس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal element",
+      "Meanings": [
+        "عنصر معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal equation",
+      "Meanings": [
+        "معادله معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal image",
+      "Meanings": [
+        "تصویر معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal of a fraction",
+      "Meanings": [
+        "معکوس یک کسر",
+        "کسر معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal of a ratio",
+      "Meanings": [
+        "نسبت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal spiral",
+      "Meanings": [
+        "مارپیچ وارون خم"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocity",
+      "Meanings": [
+        "تقابل",
+        "متقابلیت"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocity law",
+      "Meanings": [
+        "قانون تقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reckon",
+      "Meanings": [
+        "شمردن",
+        "محاسبه کردن",
+        "تخمین زدن"
+      ]
+    },
+    {
+      "EnglishWord": "recognition",
+      "Meanings": [
+        "تشخیص",
+        "شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangle",
+      "Meanings": [
+        "مستطیل",
+        "مربع‌مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular",
+      "Meanings": [
+        "مستطیلی",
+        "قایم‌الزاویه",
+        "راست‌گوشه",
+        "متعامد",
+        "شکل قایم",
+        "قایم"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular array",
+      "Meanings": [
+        "آرایه مستطیلی",
+        "ماتریس",
+        "آرایش مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular coordinates",
+      "Meanings": [
+        "مختصات قایم",
+        "مختصات متعامد",
+        "آراینده‌های راست گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular distribution",
+      "Meanings": [
+        "توزیع مستطیلی",
+        "توزیع مستطیل",
+        "توزیع یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular distribution in plane",
+      "Meanings": [
+        "توزیع مستطیلی در سطح",
+        "توزیع یکنواخت دو بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular hyperbola",
+      "Meanings": [
+        "هذلولی متساوی الساقین",
+        "هذلولی قایم الزاویه",
+        "هذلولی دو پهلو برابر"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular matrix",
+      "Meanings": [
+        "ماتریس مستطیل",
+        "ماتریس مستطیل شکل"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular number",
+      "Meanings": [
+        "عدد مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular parallelepiped",
+      "Meanings": [
+        "مکعب مستطیل",
+        "متوازی السطوح قایم",
+        "متوازی السطوح قایم الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular right prism",
+      "Meanings": [
+        "مکعب مستطیل",
+        "منشور قایم مستطیل القاعده"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular rule",
+      "Meanings": [
+        "دستور مستطیل",
+        "دستور راست گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular solid",
+      "Meanings": [
+        "مکعب مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular term",
+      "Meanings": [
+        "جمله مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "rectifiable",
+      "Meanings": [
+        "راستی‌پذیر",
+        "با درازای متناهی",
+        "راست‌شدنی",
+        "راستا شدنی",
+        "اندازه‌پذیر",
+        "مستقیم‌شدنی",
+        "طول‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rectifiable curve",
+      "Meanings": [
+        "منحنی ای که قوس آن با خط سنجیده می‌شود",
+        "خم راست شدنی",
+        "منحنی راستی پذیر",
+        "منحنی با طول متناهی",
+        "خم با درازای متناهی",
+        "خم رکتیفایبل"
+      ]
+    },
+    {
+      "EnglishWord": "rectification",
+      "Meanings": [
+        "عمل راست‌کردن",
+        "راستش",
+        "راستابخشی",
+        "رکتیفیکاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier",
+      "Meanings": [
+        "یک‌سو کننده",
+        "اصلاح کننده",
+        "راستگرا"
+      ]
+    },
+    {
+      "EnglishWord": "rectify",
+      "Meanings": [
+        "یک‌سو کردن",
+        "راستا کردن",
+        "راستیدن",
+        "اصلاح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rectifying",
+      "Meanings": [
+        "راست کردن",
+        "راستگر",
+        "مقوم",
+        "رکتیفیان"
+      ]
+    },
+    {
+      "EnglishWord": "rectifying plane",
+      "Meanings": [
+        "صفحه راست‌کننده",
+        "صفحه راستگرا"
+      ]
+    },
+    {
+      "EnglishWord": "rectilineal",
+      "Meanings": [
+        "مستقیم‌الخط"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear",
+      "Meanings": [
+        "مستقیم الخط",
+        "مستقیم الاضلاع",
+        "مستقیم",
+        "مستقیم خطی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear angle",
+      "Meanings": [
+        "زاویه دوخطی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear coordinates",
+      "Meanings": [
+        "مختصات مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear motion",
+      "Meanings": [
+        "حرکت مستقیم‌الخط"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence",
+      "Meanings": [
+        "بازگشتی",
+        "تسلسل",
+        "بازگشت",
+        "تکراری",
+        "برگشت",
+        "استقرا",
+        "استقرای ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence decimals",
+      "Meanings": [
+        "اعشار متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence formula",
+      "Meanings": [
+        "فرمول بازگشتی",
+        "دستور برگشتی",
+        "رابطه تکراری",
+        "دستور تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence relation",
+      "Meanings": [
+        "رابطه برگشتی",
+        "رابطه تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent",
+      "Meanings": [
+        "بازگشتی",
+        "متناوب",
+        "بازگردنده",
+        "برگشتی",
+        "تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent fraction",
+      "Meanings": [
+        "کسر متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "recurring",
+      "Meanings": [
+        "متناوب کسر"
+      ]
+    },
+    {
+      "EnglishWord": "recurring decimal",
+      "Meanings": [
+        "اعشاری متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "recurring series",
+      "Meanings": [
+        "سری متناوب",
+        "سری برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursion",
+      "Meanings": [
+        "بازگشت",
+        "برگشت",
+        "تناوب"
+      ]
+    },
+    {
+      "EnglishWord": "recursion formula",
+      "Meanings": [
+        "فرمول بازگشتی",
+        "دستور بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive",
+      "Meanings": [
+        "بازگشتی",
+        "برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive definition",
+      "Meanings": [
+        "تعریف بازگشتی",
+        "تعریف تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive formula",
+      "Meanings": [
+        "فرمول بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive function",
+      "Meanings": [
+        "تابع بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursively",
+      "Meanings": [
+        "به طور بازگشتی",
+        "به طور تراجعی"
+      ]
+    },
+    {
+      "EnglishWord": "reduce",
+      "Meanings": [
+        "ساده کردن",
+        "کاهش دادن",
+        "تقلیل دادن",
+        "تحویل و تبدیل",
+        "تجزیه",
+        "رد و ارجاع"
+      ]
+    },
+    {
+      "EnglishWord": "reduced",
+      "Meanings": [
+        "ساده شده",
+        "تحویل‌یافته",
+        "مخفف",
+        "تقلیل داده شده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced equation",
+      "Meanings": [
+        "معادله تقلیل یافته",
+        "معادله کاهش یافته"
+      ]
+    },
+    {
+      "EnglishWord": "reduced form",
+      "Meanings": [
+        "فرم ساده شده",
+        "فرم تقلیل یافته"
+      ]
+    },
+    {
+      "EnglishWord": "reduced length",
+      "Meanings": [
+        "طول مقصوره"
+      ]
+    },
+    {
+      "EnglishWord": "reduced residue system",
+      "Meanings": [
+        "دستگاه مخفف مانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "reduced set of residues",
+      "Meanings": [
+        "مجموعه کاسته باقیمانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "reduced to lowest terms",
+      "Meanings": [
+        "مطوی",
+        "نوردیده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced word",
+      "Meanings": [
+        "کلمه ساده شده",
+        "کلمه تقلیل یافته",
+        "واژه کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "reducibility",
+      "Meanings": [
+        "تجزیه‌پذیری",
+        "ویژگی ساده‌شدنی",
+        "تحویل‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "reducible",
+      "Meanings": [
+        "تحویل‌پذیر",
+        "ساده شدنی",
+        "تقلیل پذیر",
+        "کاهش پذیر",
+        "تجزیه پذیر در چندجمله‌ای‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "reductio ad absurdum",
+      "Meanings": [
+        "برهان خلف",
+        "مراجعه به هیچ و پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "reduction",
+      "Meanings": [
+        "تحویل",
+        "تبدیل",
+        "تقلیل",
+        "تنزل",
+        "تخفیف",
+        "تجنیس",
+        "تبدیل واحد",
+        "ساده کردن",
+        "کم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reduction formula",
+      "Meanings": [
+        "فرمول دستور تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of a common fraction to a decimal",
+      "Meanings": [
+        "تحویل یک کسر متعارفی به کسر اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of a fraction to its lowest terms",
+      "Meanings": [
+        "تحویل یک کسر به ساده‌ترین صورت آن"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of data",
+      "Meanings": [
+        "تلخیص داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "reduction to common denominator",
+      "Meanings": [
+        "مخرج مشترک گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "reduction to lowest terms",
+      "Meanings": [
+        "نوردیدن عدد"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy",
+      "Meanings": [
+        "زاید بودن",
+        "زیاده‌روی"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy in parametrization",
+      "Meanings": [
+        "زیاده روی در پارامتری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "redundant equation",
+      "Meanings": [
+        "معادله فزونه"
+      ]
+    },
+    {
+      "EnglishWord": "redundant number",
+      "Meanings": [
+        "عدد زاید"
+      ]
+    },
+    {
+      "EnglishWord": "reentrant angle",
+      "Meanings": [
+        "زاویه مقعر",
+        "زاویه تو رفته"
+      ]
+    },
+    {
+      "EnglishWord": "refered to the axes",
+      "Meanings": [
+        "نسبت به محور‌ها",
+        "تعیین‌شده به کمک محورها"
+      ]
+    },
+    {
+      "EnglishWord": "reference",
+      "Meanings": [
+        "مرجع",
+        "منبع",
+        "مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "reference frame",
+      "Meanings": [
+        "دستگاه مختصات مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference set",
+      "Meanings": [
+        "مجموعه مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference trihedron",
+      "Meanings": [
+        "سه‌وجهی مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "referential",
+      "Meanings": [
+        "مرجعی"
+      ]
+    },
+    {
+      "EnglishWord": "refine",
+      "Meanings": [
+        "ظریف کردن",
+        "ریز کردن",
+        "آراسته کردن",
+        "پالایش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "refinement",
+      "Meanings": [
+        "پالایش",
+        "ظریف سازی",
+        "ریزه سازی",
+        "نرم سازی",
+        "تظریف"
+      ]
+    },
+    {
+      "EnglishWord": "reflect",
+      "Meanings": [
+        "منعکس کردن",
+        "بازتابیدن",
+        "بازتافتن"
+      ]
+    },
+    {
+      "EnglishWord": "reflected",
+      "Meanings": [
+        "منعکس شده",
+        "تصویر بازتافته",
+        "بازتافته"
+      ]
+    },
+    {
+      "EnglishWord": "reflecting",
+      "Meanings": [
+        "بازتاب",
+        "بازتابنده"
+      ]
+    },
+    {
+      "EnglishWord": "reflection",
+      "Meanings": [
+        "بازتاب",
+        "انعکاس",
+        "قرینه‌یابی",
+        "تقارن",
+        "قرینه",
+        "منعکس",
+        "بازتابش"
+      ]
+    },
+    {
+      "EnglishWord": "reflection principle",
+      "Meanings": [
+        "اصل انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "reflection property",
+      "Meanings": [
+        "خاصیت انعکاسی",
+        "خاصیت بازتابشی"
+      ]
+    },
+    {
+      "EnglishWord": "reflector",
+      "Meanings": [
+        "بازتابنده"
+      ]
+    },
+    {
+      "EnglishWord": "reflex",
+      "Meanings": [
+        "مقعر",
+        "بازتاب",
+        "انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "reflex angle",
+      "Meanings": [
+        "زاویه مقعر"
+      ]
+    },
+    {
+      "EnglishWord": "reflexion",
+      "Meanings": [
+        "بازتاب",
+        "انعکاس",
+        "قرینه‌یابی",
+        "تقارن",
+        "قرینه",
+        "منعکس",
+        "بازتابش"
+      ]
+    },
+    {
+      "EnglishWord": "reflexive",
+      "Meanings": [
+        "بازتابی",
+        "انعکاسی نسبت",
+        "منعکس",
+        "متعاکس",
+        "انعکاس پذیر",
+        "بازگشت‌پذیر",
+        "خود‌پذیر",
+        "بازتابا",
+        "بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "reflexive property",
+      "Meanings": [
+        "خاصیت انعکاسی"
+      ]
+    },
+    {
+      "EnglishWord": "reflexive relation",
+      "Meanings": [
+        "رابطه انعکاسی",
+        "رابطه بازتابی",
+        "رابطه انعکاس پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reflexivity",
+      "Meanings": [
+        "انعکاس پذیری",
+        "بازتابی",
+        "کیفیت بازتابی",
+        "خودپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "refraction",
+      "Meanings": [
+        "تجزیه",
+        "شکست",
+        "انکسار"
+      ]
+    },
+    {
+      "EnglishWord": "refutation",
+      "Meanings": [
+        "بطلان"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "ناحیه",
+        "حوزه",
+        "میدان",
+        "بومه"
+      ]
+    },
+    {
+      "EnglishWord": "region of acceptance",
+      "Meanings": [
+        "ناحیه قبول"
+      ]
+    },
+    {
+      "EnglishWord": "region of integration",
+      "Meanings": [
+        "ناحیه انتگرال‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "region of rejection",
+      "Meanings": [
+        "ناحیه رد"
+      ]
+    },
+    {
+      "EnglishWord": "regions of complex plane",
+      "Meanings": [
+        "نواحی صفحه مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "register transfer level",
+      "Meanings": [
+        "سطح انتقال بین ثباتی"
+      ]
+    },
+    {
+      "EnglishWord": "regression",
+      "Meanings": [
+        "رگرسیون",
+        "وایازی",
+        "برگشت",
+        "بازگشت هندسه"
+      ]
+    },
+    {
+      "EnglishWord": "regression analysis",
+      "Meanings": [
+        "تجزیه‌و‌تحلیل رگرسیونی",
+        "تحلیل گرایش",
+        "تحلیل رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression coefficient",
+      "Meanings": [
+        "ضریب رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression coefficients",
+      "Meanings": [
+        "ضرایب رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression curve",
+      "Meanings": [
+        "منحنی برگشت",
+        "منحنی رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression equation",
+      "Meanings": [
+        "معادله رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression estimate",
+      "Meanings": [
+        "برآورد رگرسیون",
+        "تخمین رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression line",
+      "Meanings": [
+        "خط رگرسیون",
+        "خط برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "regression of several variables on several variables",
+      "Meanings": [
+        "رگرسیون چند متغیر بر حسب چند متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "regression surface",
+      "Meanings": [
+        "سطح رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression to the mean",
+      "Meanings": [
+        "بازگشت به میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "regressive",
+      "Meanings": [
+        "پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "regret",
+      "Meanings": [
+        "تاسف"
+      ]
+    },
+    {
+      "EnglishWord": "regret function",
+      "Meanings": [
+        "تابع تاسف آمار"
+      ]
+    },
+    {
+      "EnglishWord": "regula",
+      "Meanings": [
+        "دستور",
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "regula falsi",
+      "Meanings": [
+        "قاعده خطا و تصحیح",
+        "قاعده امتحان و تصحیح",
+        "روش آزمون و خطا"
+      ]
+    },
+    {
+      "EnglishWord": "regulae",
+      "Meanings": [
+        "دستورات",
+        "قواعد",
+        "مفرد این کلمه به صورت regula است"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "منظم",
+        "باقاعده",
+        "هموار",
+        "سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "regular diltation",
+      "Meanings": [
+        "انبساط منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular element",
+      "Meanings": [
+        "عنصر باقاعده",
+        "عنصر عادی",
+        "جزء عادی",
+        "عنصر وارون‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "regular figure",
+      "Meanings": [
+        "شکل منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular graph",
+      "Meanings": [
+        "گراف منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular hexagonal group",
+      "Meanings": [
+        "گروه شش ضلعی منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular linear mapping",
+      "Meanings": [
+        "مطابقه خطبی منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular matrix",
+      "Meanings": [
+        "ماتریس منظم",
+        "ماتریس انعکاس پذیر",
+        "ماتریس عادی",
+        "ماتریس غیر منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "regular part",
+      "Meanings": [
+        "قسمت موزون"
+      ]
+    },
+    {
+      "EnglishWord": "regular permutation",
+      "Meanings": [
+        "تبدیل باقاعده",
+        "جایگشت منظم",
+        "جانشینی منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular point",
+      "Meanings": [
+        "نقطه عادی",
+        "نقطه غیرمنفرد"
+      ]
+    },
+    {
+      "EnglishWord": "regular polygon",
+      "Meanings": [
+        "چندضلعی منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular polyhedron",
+      "Meanings": [
+        "چندوجهی منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular presentation",
+      "Meanings": [
+        "نمایش باقاعده"
+      ]
+    },
+    {
+      "EnglishWord": "regular region",
+      "Meanings": [
+        "ناحیه منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular representation",
+      "Meanings": [
+        "نمایش باقاعده"
+      ]
+    },
+    {
+      "EnglishWord": "regular sequence",
+      "Meanings": [
+        "دنباله همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "regular set function",
+      "Meanings": [
+        "تابع مجموعه ای منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular singular",
+      "Meanings": [
+        "منظم منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "regular singularity",
+      "Meanings": [
+        "انفراد عادی"
+      ]
+    },
+    {
+      "EnglishWord": "regular solid",
+      "Meanings": [
+        "چندوجهی منتظم",
+        "جسم منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular value",
+      "Meanings": [
+        "مقدار عادی"
+      ]
+    },
+    {
+      "EnglishWord": "regularity",
+      "Meanings": [
+        "منظم بودن",
+        "ترتیب",
+        "نظم"
+      ]
+    },
+    {
+      "EnglishWord": "regulated plane",
+      "Meanings": [
+        "صفحه تنظیم شده",
+        "صفحه منظم شده"
+      ]
+    },
+    {
+      "EnglishWord": "regulation",
+      "Meanings": [
+        "تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "regulator",
+      "Meanings": [
+        "ناظم",
+        "تنظیم کننده",
+        "منظم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reject",
+      "Meanings": [
+        "رد کردن",
+        "راندن",
+        "طرد کردن",
+        "رد"
+      ]
+    },
+    {
+      "EnglishWord": "rejection",
+      "Meanings": [
+        "رد",
+        "طرد",
+        "رانش"
+      ]
+    },
+    {
+      "EnglishWord": "rejection of hypothesis",
+      "Meanings": [
+        "رد فرض"
+      ]
+    },
+    {
+      "EnglishWord": "rejection rate",
+      "Meanings": [
+        "نرخ رد شدن",
+        "میزان رد شدن"
+      ]
+    },
+    {
+      "EnglishWord": "rejection region",
+      "Meanings": [
+        "ناحیه رد",
+        "ناحیه بحرانی",
+        "ناحیه طرد"
+      ]
+    },
+    {
+      "EnglishWord": "relabel",
+      "Meanings": [
+        "برچسب مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "related",
+      "Meanings": [
+        "وابسته",
+        "منسوب",
+        "مربوط",
+        "مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "related rate",
+      "Meanings": [
+        "نسبت وابسته",
+        "میزان مربوطه",
+        "نرخ منسوب"
+      ]
+    },
+    {
+      "EnglishWord": "related rates",
+      "Meanings": [
+        "میزان‌های وابسته",
+        "میزان‌های مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "related variables",
+      "Meanings": [
+        "متغیرهای وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "رابطه",
+        "نسبت",
+        "بستگی",
+        "اضافه"
+      ]
+    },
+    {
+      "EnglishWord": "relation companion",
+      "Meanings": [
+        "هم رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relation group",
+      "Meanings": [
+        "گروه رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relation of equivalence of events",
+      "Meanings": [
+        "رابطه هم ارزی حوادث رخدادها"
+      ]
+    },
+    {
+      "EnglishWord": "relations of events",
+      "Meanings": [
+        "روابط بین حوادث",
+        "روابط حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "relationship",
+      "Meanings": [
+        "رابطه",
+        "نسبت",
+        "ارتباط",
+        "بستگی"
+      ]
+    },
+    {
+      "EnglishWord": "relative",
+      "Meanings": [
+        "نسبی",
+        "مربوط",
+        "وابسته",
+        "محلی",
+        "بسته",
+        "وربستی"
+      ]
+    },
+    {
+      "EnglishWord": "relative deviation",
+      "Meanings": [
+        "انحراف نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative dispersion",
+      "Meanings": [
+        "پراکندگی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative efficiency",
+      "Meanings": [
+        "کارایی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative enlargement",
+      "Meanings": [
+        "بزرگ نمایی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative error",
+      "Meanings": [
+        "خطای نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative extremum",
+      "Meanings": [
+        "اکسترمم نسبی",
+        "فرینه نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative frequency",
+      "Meanings": [
+        "فراوانی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative frequency of event",
+      "Meanings": [
+        "فراوانی نسبی حادثه رخداد"
+      ]
+    },
+    {
+      "EnglishWord": "relative maximum",
+      "Meanings": [
+        "ماکزیمم نسبی",
+        "بیشینه نسبی",
+        "ماکزیمم محلی"
+      ]
+    },
+    {
+      "EnglishWord": "relative metric induced by ...",
+      "Meanings": [
+        "متریک نسبی القا شده به وسیله ی…",
+        "متر نسبی القا شده به وسیله ی"
+      ]
+    },
+    {
+      "EnglishWord": "relative minimum",
+      "Meanings": [
+        "مینیمم نسبی",
+        "کمینه نسبی",
+        "مینیمم محلی"
+      ]
+    },
+    {
+      "EnglishWord": "relative number",
+      "Meanings": [
+        "عدد جبری"
+      ]
+    },
+    {
+      "EnglishWord": "relative position",
+      "Meanings": [
+        "وضعیت نسبی",
+        "موقعیت نسبی",
+        "وضع نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative predicate",
+      "Meanings": [
+        "محمول اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "relative price",
+      "Meanings": [
+        "ارزش نسبی",
+        "قیمت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative product",
+      "Meanings": [
+        "حاصلضرب نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative reduction",
+      "Meanings": [
+        "کاهش نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative standard deviation",
+      "Meanings": [
+        "انحراف معیار نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative to",
+      "Meanings": [
+        "نسبت به"
+      ]
+    },
+    {
+      "EnglishWord": "relative variance",
+      "Meanings": [
+        "واریانس نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative velocity",
+      "Meanings": [
+        "تندی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relatively open",
+      "Meanings": [
+        "باز نسبی",
+        "به طور نسبی باز",
+        "نسبتا باز"
+      ]
+    },
+    {
+      "EnglishWord": "relatively prime",
+      "Meanings": [
+        "متباین",
+        "نسببت به هم اول",
+        "اول نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relatively prime numbers",
+      "Meanings": [
+        "اعداد متباین",
+        "اعداد نسبت به هم اول"
+      ]
+    },
+    {
+      "EnglishWord": "relativity",
+      "Meanings": [
+        "نسبیت",
+        "بستگی",
+        "رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relator",
+      "Meanings": [
+        "رابط"
+      ]
+    },
+    {
+      "EnglishWord": "relax",
+      "Meanings": [
+        "سبک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation",
+      "Meanings": [
+        "باز رامش",
+        "واهلش"
+      ]
+    },
+    {
+      "EnglishWord": "relevant",
+      "Meanings": [
+        "مربوط",
+        "منتسب"
+      ]
+    },
+    {
+      "EnglishWord": "reliability",
+      "Meanings": [
+        "اعتمادپذیری",
+        "ثبات",
+        "قابلیت اعتماد",
+        "اعتبار",
+        "قابلیت اطمینان",
+        "استیگانی"
+      ]
+    },
+    {
+      "EnglishWord": "reliability coefficient",
+      "Meanings": [
+        "ضریب ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "reliable",
+      "Meanings": [
+        "معتبر",
+        "موثق",
+        "قابل اعتماد",
+        "استیگان",
+        "اعتمادپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "remainder",
+      "Meanings": [
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "remainder in teylor's formula",
+      "Meanings": [
+        "باقیمانده در دستور تیلور"
+      ]
+    },
+    {
+      "EnglishWord": "remainder term",
+      "Meanings": [
+        "جمله باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "remainder theorem",
+      "Meanings": [
+        "قضیه مانده"
+      ]
+    },
+    {
+      "EnglishWord": "remandier",
+      "Meanings": [
+        "باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "remark",
+      "Meanings": [
+        "نکته",
+        "یادآوری",
+        "تذکر",
+        "تبصره",
+        "ملاحظه",
+        "یادداشت",
+        "بینش"
+      ]
+    },
+    {
+      "EnglishWord": "reminder",
+      "Meanings": [
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "remoteness",
+      "Meanings": [
+        "دوری"
+      ]
+    },
+    {
+      "EnglishWord": "removable",
+      "Meanings": [
+        "رفع شدنی",
+        "قابل رفع",
+        "برداشتنی",
+        "رفع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "removable discontinuity",
+      "Meanings": [
+        "ناپیوستگی رفع شدنی",
+        "ناپیوستگی قابل رفع"
+      ]
+    },
+    {
+      "EnglishWord": "removable singulaity",
+      "Meanings": [
+        "استثنایی رفع شدنی",
+        "انفراد قابل رفع"
+      ]
+    },
+    {
+      "EnglishWord": "removable singular point",
+      "Meanings": [
+        "نقطه استثنایی رفع شدنی",
+        "نقطه منفرد قابل رفع"
+      ]
+    },
+    {
+      "EnglishWord": "removal",
+      "Meanings": [
+        "رفع",
+        "انتقال",
+        "جابجایی",
+        "حذف"
+      ]
+    },
+    {
+      "EnglishWord": "remove",
+      "Meanings": [
+        "رفع کردن",
+        "منتقل کردن",
+        "برداشتن",
+        "جابجا کردن",
+        "حذف کردن",
+        "پرانتز را باز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rene descartes",
+      "Meanings": [
+        "رنه دکارت",
+        "فیلسوف و ریاضیدان فرانسوی",
+        ". با مطالعات وسیعش در علوم ریاضی بخصوص جبر و هندسه تحلیلی از مشاهیر زمان خود شناخته می‌شود. او دستگاه مختصات را برای نمایش عددی نقاط صفحه ابداع کرد و هندسه تحلیلی را بنیان نهاد"
+      ]
+    },
+    {
+      "EnglishWord": "renewal",
+      "Meanings": [
+        "تجدید",
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "renewal theorem",
+      "Meanings": [
+        "قضیه تجدید"
+      ]
+    },
+    {
+      "EnglishWord": "renumbering",
+      "Meanings": [
+        "تجدید شماره گذاری",
+        "دوباره شماره گذاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reparametrization",
+      "Meanings": [
+        "دوباره پارامتری سازی",
+        "باز پرمایش",
+        "باز پرامایش"
+      ]
+    },
+    {
+      "EnglishWord": "reparametrize",
+      "Meanings": [
+        "دوباره پارامتری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "repartition",
+      "Meanings": [
+        "پخش احتمال",
+        "پراکندگی",
+        "پخش",
+        "توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "repartition function",
+      "Meanings": [
+        "تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "repeated",
+      "Meanings": [
+        "مکرر",
+        "چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "repeated bisection",
+      "Meanings": [
+        "نصف کردن پی در پی",
+        "تنصیف مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated bisections",
+      "Meanings": [
+        "نیمسازی پی در پی",
+        "نصف کردن‌های متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "repeated integral",
+      "Meanings": [
+        "انتگرال مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated limit",
+      "Meanings": [
+        "حد مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated permutations",
+      "Meanings": [
+        "پرموتاسیون‌های تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "repeated root",
+      "Meanings": [
+        "ریشه مضاعف",
+        "ریشه مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated sum",
+      "Meanings": [
+        "مجموع مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated trails",
+      "Meanings": [
+        "آزمایش‌های تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "repeating decimal",
+      "Meanings": [
+        "عدد اعشاری متناوب",
+        "عدد دهدهی تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "repective position of two circles",
+      "Meanings": [
+        "وضع نسبی دو دایره",
+        "وضع نسبی دو دایره نسبت به هم"
+      ]
+    },
+    {
+      "EnglishWord": "repetitation",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "repetition",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "replace",
+      "Meanings": [
+        "جانشین کردن",
+        "عوض کردن",
+        "جابجا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "replacement",
+      "Meanings": [
+        "جانشینی",
+        "جاگذاری",
+        "تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "replicated",
+      "Meanings": [
+        "تکرار شده"
+      ]
+    },
+    {
+      "EnglishWord": "replication",
+      "Meanings": [
+        "تکرار",
+        "تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "reported value",
+      "Meanings": [
+        "ارزش گزارش شده"
+      ]
+    },
+    {
+      "EnglishWord": "represent",
+      "Meanings": [
+        "نمایش دادن",
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "representant",
+      "Meanings": [
+        "نماینده",
+        "این کلمه فرانسه است"
+      ]
+    },
+    {
+      "EnglishWord": "representation",
+      "Meanings": [
+        "نمایش",
+        "معرف",
+        "ارایه"
+      ]
+    },
+    {
+      "EnglishWord": "representation of a curve",
+      "Meanings": [
+        "نمایش خم"
+      ]
+    },
+    {
+      "EnglishWord": "representative",
+      "Meanings": [
+        "نمایشگر",
+        "نماینده",
+        "معرف",
+        "نمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "representative curve of a function",
+      "Meanings": [
+        "خم نمایش تغییرات تابع"
+      ]
+    },
+    {
+      "EnglishWord": "reproductive property",
+      "Meanings": [
+        "خاصیت دوباره به وجود آورندگی",
+        "خاصیت تکثیری"
+      ]
+    },
+    {
+      "EnglishWord": "repulsion",
+      "Meanings": [
+        "رانش",
+        "دفع"
+      ]
+    },
+    {
+      "EnglishWord": "repulsive",
+      "Meanings": [
+        "رانشی",
+        "دافع",
+        "پس زدن"
+      ]
+    },
+    {
+      "EnglishWord": "require",
+      "Meanings": [
+        "مطلوبست محاسبه ی…",
+        "لازم داشتن",
+        "لازم بودن",
+        "پرسیدن",
+        "ایجاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "requirement",
+      "Meanings": [
+        "الزام",
+        "لزوم",
+        "اقتضا",
+        "احتیاج",
+        "ایجاب"
+      ]
+    },
+    {
+      "EnglishWord": "research",
+      "Meanings": [
+        "تحقیق",
+        "جستجو",
+        "پژوهش",
+        "مطالعه"
+      ]
+    },
+    {
+      "EnglishWord": "research process",
+      "Meanings": [
+        "جریان بررسی"
+      ]
+    },
+    {
+      "EnglishWord": "resemblance",
+      "Meanings": [
+        "شباهت"
+      ]
+    },
+    {
+      "EnglishWord": "reset",
+      "Meanings": [
+        "بازنشانی"
+      ]
+    },
+    {
+      "EnglishWord": "residual",
+      "Meanings": [
+        "باقیمانده ای",
+        "مربوط به باقیمانده",
+        "مابقی",
+        "مانده ای",
+        "مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual class",
+      "Meanings": [
+        "کلاس مانده ای",
+        "طبقه مانده ای"
+      ]
+    },
+    {
+      "EnglishWord": "residual effects",
+      "Meanings": [
+        "اثر باقیمانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "residual relationship",
+      "Meanings": [
+        "ارتباط مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "residual scores",
+      "Meanings": [
+        "نمره‌های مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "residual sum of squares",
+      "Meanings": [
+        "مجموع توان دوم باقیمانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "residual variance",
+      "Meanings": [
+        "واریانس باقیمانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "residue",
+      "Meanings": [
+        "مانده",
+        "باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residue calculus",
+      "Meanings": [
+        "حساب باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residue class",
+      "Meanings": [
+        "کلاس باقیمانده ها",
+        "کلاس باقیمانده",
+        "رده باقیمانده ای",
+        "رده مانده ای"
+      ]
+    },
+    {
+      "EnglishWord": "residue class ring",
+      "Meanings": [
+        "حلقه کلاس‌های باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residue system",
+      "Meanings": [
+        "دستگاه مانده ها"
+      ]
+    },
+    {
+      "EnglishWord": "residue theorem",
+      "Meanings": [
+        "قضیه باقیمانده",
+        "قضیه مانده"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "حل",
+        "تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "resolve",
+      "Meanings": [
+        "حل کردن",
+        "تجزیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "resolve into factors",
+      "Meanings": [
+        "تجزیه کردن به عوامل"
+      ]
+    },
+    {
+      "EnglishWord": "resolvent",
+      "Meanings": [
+        "حلال",
+        "واگشا"
+      ]
+    },
+    {
+      "EnglishWord": "resolvent equation",
+      "Meanings": [
+        "معادله حلال"
+      ]
+    },
+    {
+      "EnglishWord": "resonance",
+      "Meanings": [
+        "تشدید"
+      ]
+    },
+    {
+      "EnglishWord": "resonance frequency",
+      "Meanings": [
+        "فرکانس رزونانس"
+      ]
+    },
+    {
+      "EnglishWord": "respective position",
+      "Meanings": [
+        "وضعیت نسبت به هم",
+        "وضع نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "respectively",
+      "Meanings": [
+        "به ترتیب",
+        "به تناظر",
+        "در پی یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "response",
+      "Meanings": [
+        "پاسخ",
+        "جواب"
+      ]
+    },
+    {
+      "EnglishWord": "rest",
+      "Meanings": [
+        "باقیمانده",
+        "مانده",
+        "سکون",
+        "تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "restricition",
+      "Meanings": [
+        "تحدید"
+      ]
+    },
+    {
+      "EnglishWord": "restrict",
+      "Meanings": [
+        "تجدید",
+        "محدود کردن",
+        "منحصر کردن",
+        "مقید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "restricted",
+      "Meanings": [
+        "محدود",
+        "مقید"
+      ]
+    },
+    {
+      "EnglishWord": "restricted functional calculus",
+      "Meanings": [
+        "حساب محمولات مرتبه اول منطق"
+      ]
+    },
+    {
+      "EnglishWord": "restricted predicate calculus",
+      "Meanings": [
+        "حساب محمولات مرتبه اول منطق"
+      ]
+    },
+    {
+      "EnglishWord": "restricted quantifier",
+      "Meanings": [
+        "سور مقید منطق"
+      ]
+    },
+    {
+      "EnglishWord": "restriction",
+      "Meanings": [
+        "تحدید نسبت و توابع",
+        "انحصار",
+        "محدودیت",
+        "قید",
+        "شرط",
+        "محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restriction mapping",
+      "Meanings": [
+        "نگاشت تحدیدی"
+      ]
+    },
+    {
+      "EnglishWord": "restriction of a mapping",
+      "Meanings": [
+        "تحدید یک تابع",
+        "تخصیص یک تابع"
+      ]
+    },
+    {
+      "EnglishWord": "result",
+      "Meanings": [
+        "نتیجه",
+        "جواب",
+        "برآمد",
+        "پیامد",
+        "نتیجه دادن",
+        "حل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "resultant",
+      "Meanings": [
+        "برآیند",
+        "نتیجه",
+        "مجموع هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "resultant moment",
+      "Meanings": [
+        "گشتاور منتجه",
+        "برآیند آهنگ ها"
+      ]
+    },
+    {
+      "EnglishWord": "resultant of two or more vectors",
+      "Meanings": [
+        "برآیند دو یا چند بردار"
+      ]
+    },
+    {
+      "EnglishWord": "retard motion",
+      "Meanings": [
+        "حرکت کند شونده",
+        "جنبش درنگی",
+        "حرکت مبطیه"
+      ]
+    },
+    {
+      "EnglishWord": "retardation",
+      "Meanings": [
+        "کندی",
+        "تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "retarded motion",
+      "Meanings": [
+        "حرکت کند شونده",
+        "جنبش درنگی",
+        "حرکت مبطیه"
+      ]
+    },
+    {
+      "EnglishWord": "reticular density",
+      "Meanings": [
+        "چگالی شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "retract",
+      "Meanings": [
+        "منقبض شدن",
+        "تو رفتن",
+        "جمع شدن",
+        "توکش",
+        "درون بر"
+      ]
+    },
+    {
+      "EnglishWord": "retrench",
+      "Meanings": [
+        "کسر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "retrograde",
+      "Meanings": [
+        "معکوس",
+        "وارون",
+        "پس رو"
+      ]
+    },
+    {
+      "EnglishWord": "retrograde sense",
+      "Meanings": [
+        "جهت وارون",
+        "جهت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reveal",
+      "Meanings": [
+        "تصریح",
+        "ایضاح",
+        "آشکار کردن",
+        "معلوم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reversal",
+      "Meanings": [
+        "وارونی",
+        "نقض",
+        "برگشت",
+        "واژگون سازی",
+        "واژگونی"
+      ]
+    },
+    {
+      "EnglishWord": "reverse",
+      "Meanings": [
+        "برعکس",
+        "عکس",
+        "معکوس",
+        "وارونه",
+        "وارون",
+        "وارون کردن",
+        "پشت و رو کردن",
+        "معکوس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reverse lexicorgraphical",
+      "Meanings": [
+        "ضد قاموسی",
+        "قاموسی معکوس",
+        "قاموسی وارونه",
+        "لکسیکوگرافیک معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reverse order",
+      "Meanings": [
+        "ترتیب معکوس",
+        "ترتیب وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "reversed sequence",
+      "Meanings": [
+        "دنباله وارون شده"
+      ]
+    },
+    {
+      "EnglishWord": "reversibility",
+      "Meanings": [
+        "معکوس پذیری",
+        "برگشت پذیری",
+        "قابلیت برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "reversible",
+      "Meanings": [
+        "معکوس پذیر",
+        "وارون پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reversion",
+      "Meanings": [
+        "تحویل",
+        "تبدیل",
+        "تبدیل واحد",
+        "انعکاس",
+        "عکس",
+        "ارجاع",
+        "وارون کردن"
+      ]
+    },
+    {
+      "EnglishWord": "revert",
+      "Meanings": [
+        "تبدیل کردن",
+        "معکوس کردن سری",
+        "برگرداندن",
+        "عکس کردن",
+        "تحویل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "revolution",
+      "Meanings": [
+        "دوران",
+        "دورانی",
+        "دوار",
+        "گردش"
+      ]
+    },
+    {
+      "EnglishWord": "revolve",
+      "Meanings": [
+        "دوران کردن",
+        "گرداندن",
+        "چرخاندن"
+      ]
+    },
+    {
+      "EnglishWord": "rewritable",
+      "Meanings": [
+        "بازنویس پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rewriting",
+      "Meanings": [
+        "بازنویسی"
+      ]
+    },
+    {
+      "EnglishWord": "rhomb",
+      "Meanings": [
+        "لوزی"
+      ]
+    },
+    {
+      "EnglishWord": "rhomb line",
+      "Meanings": [
+        "rhomb line = loxodrome"
+      ]
+    },
+    {
+      "EnglishWord": "rhombic",
+      "Meanings": [
+        "لوزی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "rhombohedron",
+      "Meanings": [
+        "لوز وجهی",
+        "متوازی السطوح متساوی الاضلاع"
+      ]
+    },
+    {
+      "EnglishWord": "rhomboid",
+      "Meanings": [
+        "متوازی الاضلاع غیر لوزی و غیر مستطیل",
+        "شبه لوزی",
+        "ماننده معین"
+      ]
+    },
+    {
+      "EnglishWord": "rhomboidal",
+      "Meanings": [
+        "متوازی الاضلاع شکل"
+      ]
+    },
+    {
+      "EnglishWord": "rhombus",
+      "Meanings": [
+        "لوزی",
+        "معین"
+      ]
+    },
+    {
+      "EnglishWord": "riccati's differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل ریکاتی"
+      ]
+    },
+    {
+      "EnglishWord": "richard dedekind",
+      "Meanings": [
+        "ریچارد ددکیند",
+        "ریچارد ددکیند فرزند یک استاد حقوق بود که در برونسویک آلمان",
+        "زادگاه گاوس",
+        "متولد شد. او درجه دکتری خود را در 21 سالگی در گوتینگن گرفت و اخرین شاگرد گاوس بود. پس از مدتی کوتاه در زوریخ به دبیرستان صنعتی در برونسویک بازگشت و 50 سال در آنجا ماند. او هرگز ازدواج نکرد و تا هنگام مرگ با خواهرش زندگی می‌کرد",
+        "ددکیند به بخش‌های مختلف ریاضی علاقه داشت. او از عدم وجود مبانی دقیق مجموعه اعداد حقیقی R",
+        "مضطرب بود و این شکاف را در مقاله ای در سال 1872 با برش‌های ددکیند پر کرد. کارهایش در جبر نیز از اهمیت ویژه ای برخوردارند. او در مقابل ژوردان Jordan راجع به نظریه گروهها سخنرانی کرد و اصول موضوع پیانو را قبل از وی بیان کرد. ددکیند یکی از نخستین کسانی بود که راجع به نظریه سخنرانی کرد"
+      ]
+    },
+    {
+      "EnglishWord": "richelot",
+      "Meanings": [
+        "ریشلوت"
+      ]
+    },
+    {
+      "EnglishWord": "riemann condition",
+      "Meanings": [
+        "شرط ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann integrable",
+      "Meanings": [
+        "انتگرال ریمان دار",
+        "دارای انتگرال ریمانی",
+        "انتگرال پذیر ریمانی"
+      ]
+    },
+    {
+      "EnglishWord": "riemann integrable function",
+      "Meanings": [
+        "تابع انتگرال پذیر ریمانی"
+      ]
+    },
+    {
+      "EnglishWord": "riemann integral",
+      "Meanings": [
+        "انتگرال ریمانی",
+        "انتگرال ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann sphere",
+      "Meanings": [
+        "کره ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann stieltjes integral",
+      "Meanings": [
+        "انتگرال ریمان",
+        "استیلتیس"
+      ]
+    },
+    {
+      "EnglishWord": "riemann sum",
+      "Meanings": [
+        "مجموع ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann surfaces",
+      "Meanings": [
+        "سطوح ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann zeta function",
+      "Meanings": [
+        "تابع زتای ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "riemann's theorem",
+      "Meanings": [
+        "قضیه ریمان"
+      ]
+    },
+    {
+      "EnglishWord": "right",
+      "Meanings": [
+        "درست",
+        "راست",
+        "صحیح",
+        "قایم",
+        "قایم الزاویه",
+        "قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "right angle",
+      "Meanings": [
+        "زاویه قایمه",
+        "گوشه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right angle trapezoid",
+      "Meanings": [
+        "ذوزنقه قایم الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "right angle triangle",
+      "Meanings": [
+        "مثلث قایم الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "right circular cone",
+      "Meanings": [
+        "مخروط قایم دوار",
+        "مخروط مستدیر دوار"
+      ]
+    },
+    {
+      "EnglishWord": "right circular cylinder",
+      "Meanings": [
+        "استوانه قایم دوار",
+        "استوانه مستدیر دوار"
+      ]
+    },
+    {
+      "EnglishWord": "right conoid",
+      "Meanings": [
+        "مخروط گون قایم"
+      ]
+    },
+    {
+      "EnglishWord": "right coset",
+      "Meanings": [
+        "همدسته راست",
+        "مجموعه به راست",
+        "طبقه راست",
+        "همرده راست"
+      ]
+    },
+    {
+      "EnglishWord": "right cylinder",
+      "Meanings": [
+        "استوانه قایم",
+        "ستون راست"
+      ]
+    },
+    {
+      "EnglishWord": "right derivative",
+      "Meanings": [
+        "مشتق راست"
+      ]
+    },
+    {
+      "EnglishWord": "right dihedral angle",
+      "Meanings": [
+        "زاویه دو وجهی قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "right distributive",
+      "Meanings": [
+        "بخش پذیر از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right distributivity",
+      "Meanings": [
+        "بخش پذیری از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right factor",
+      "Meanings": [
+        "عامل راست",
+        "مقسوم علیه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right half open",
+      "Meanings": [
+        "نیم باز راست"
+      ]
+    },
+    {
+      "EnglishWord": "right half plane",
+      "Meanings": [
+        "نیم صفحه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right hand",
+      "Meanings": [
+        "سمت راست",
+        "دست راستی"
+      ]
+    },
+    {
+      "EnglishWord": "right hand continuity",
+      "Meanings": [
+        "پیوستگی راست",
+        "پیوستگی سمت راست",
+        "اتصال از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right hand limit",
+      "Meanings": [
+        "حد راست",
+        "حد سمت راست"
+      ]
+    },
+    {
+      "EnglishWord": "right hand rule",
+      "Meanings": [
+        "قانون دست راست",
+        "قاعده دست راست"
+      ]
+    },
+    {
+      "EnglishWord": "right hand tangent",
+      "Meanings": [
+        "مماس راست"
+      ]
+    },
+    {
+      "EnglishWord": "right handed",
+      "Meanings": [
+        "راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "right handed circular helix",
+      "Meanings": [
+        "مارپیچ استوانه ای راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "right handed coordinate system",
+      "Meanings": [
+        "دستگاه مختصات راستگرد",
+        "دستگاه مختصات دست راستی"
+      ]
+    },
+    {
+      "EnglishWord": "right handed curve",
+      "Meanings": [
+        "منحنی راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "right handed lipschitz condition",
+      "Meanings": [
+        "شرط لیپ شیتس دست راستی"
+      ]
+    },
+    {
+      "EnglishWord": "right handed trihedral",
+      "Meanings": [
+        "کنج سه وجهی راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "right helicoid",
+      "Meanings": [
+        "سطح مارپیچی قایم"
+      ]
+    },
+    {
+      "EnglishWord": "right ideal",
+      "Meanings": [
+        "ایده آل راست"
+      ]
+    },
+    {
+      "EnglishWord": "right inverse",
+      "Meanings": [
+        "معکوس راست",
+        "وارون راست"
+      ]
+    },
+    {
+      "EnglishWord": "right k-module",
+      "Meanings": [
+        "k",
+        "مدول راست"
+      ]
+    },
+    {
+      "EnglishWord": "right limit",
+      "Meanings": [
+        "حد راست"
+      ]
+    },
+    {
+      "EnglishWord": "right multiplication",
+      "Meanings": [
+        "ضرب از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right prism",
+      "Meanings": [
+        "منشور قایم"
+      ]
+    },
+    {
+      "EnglishWord": "right reflection",
+      "Meanings": [
+        "قرینه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right section",
+      "Meanings": [
+        "مقطع قایم",
+        "مقطع مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "right simplifiable element",
+      "Meanings": [
+        "عضو ساده شدنی از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right topology",
+      "Meanings": [
+        "توپولوژی راست"
+      ]
+    },
+    {
+      "EnglishWord": "right triangle",
+      "Meanings": [
+        "مثلث قایم الزاویه",
+        "سه بر راست گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "right truncated prism",
+      "Meanings": [
+        "منشور ناقص قایم"
+      ]
+    },
+    {
+      "EnglishWord": "right unit element",
+      "Meanings": [
+        "عنصر یکه راست"
+      ]
+    },
+    {
+      "EnglishWord": "right-open interval",
+      "Meanings": [
+        "بازه نیم باز از راست"
+      ]
+    },
+    {
+      "EnglishWord": "rigid body",
+      "Meanings": [
+        "جسم صلب",
+        "جسم سخت"
+      ]
+    },
+    {
+      "EnglishWord": "rigid motion",
+      "Meanings": [
+        "حرکت صلب",
+        "حرکت مقید",
+        "حرکت جسم صلب"
+      ]
+    },
+    {
+      "EnglishWord": "rigid space",
+      "Meanings": [
+        "فضای صلب"
+      ]
+    },
+    {
+      "EnglishWord": "rigidity",
+      "Meanings": [
+        "صلبی"
+      ]
+    },
+    {
+      "EnglishWord": "ring",
+      "Meanings": [
+        "حلقه",
+        "زرفین"
+      ]
+    },
+    {
+      "EnglishWord": "ring commutative",
+      "Meanings": [
+        "حلقه تعویض‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "ring compound",
+      "Meanings": [
+        "دوری ف سیکلیک"
+      ]
+    },
+    {
+      "EnglishWord": "ring division",
+      "Meanings": [
+        "حلقه تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "ring extension",
+      "Meanings": [
+        "گسترش حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "ring fixed",
+      "Meanings": [
+        "حلقه پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "ring of endomorphisms",
+      "Meanings": [
+        "حلقه درسانی ها"
+      ]
+    },
+    {
+      "EnglishWord": "ring of integers modulo p",
+      "Meanings": [
+        "حلقه اعداد صحیح به سنج p"
+      ]
+    },
+    {
+      "EnglishWord": "ring of integers n modulo",
+      "Meanings": [
+        "اعداد صحیح با مدول n"
+      ]
+    },
+    {
+      "EnglishWord": "ring of mappings of a set into a ring",
+      "Meanings": [
+        "حلقه نگاشت‌های یک مجموعه در یک حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "ring of matrices of order n",
+      "Meanings": [
+        "حلقه ماتریس‌های مرتبه n"
+      ]
+    },
+    {
+      "EnglishWord": "ring of polynomials",
+      "Meanings": [
+        "حلقه چندجمله‌ای‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "ring of rational integers",
+      "Meanings": [
+        "حلقه اعداد صحیح گویا"
+      ]
+    },
+    {
+      "EnglishWord": "ring permutation",
+      "Meanings": [
+        "جایگشت حلقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ring surfaces",
+      "Meanings": [
+        "سطوح حلقوی",
+        "چنبره حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "ring theory",
+      "Meanings": [
+        "نظریه حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "ring with identity element",
+      "Meanings": [
+        "حلقه یگانی",
+        "حلقه با عنصر خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "ring with unity",
+      "Meanings": [
+        "حلقه واحد دار",
+        "حلقه یگانی",
+        "حلقه یکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "rise",
+      "Meanings": [
+        "خیز",
+        "نمو",
+        "افزایش",
+        "برخاست",
+        "صعود",
+        "افزودن"
+      ]
+    },
+    {
+      "EnglishWord": "risk",
+      "Meanings": [
+        "مخاطره",
+        "بیم",
+        "به خطر انداختن",
+        "خطر"
+      ]
+    },
+    {
+      "EnglishWord": "risk function",
+      "Meanings": [
+        "تابع خطر",
+        "تابع مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk of error",
+      "Meanings": [
+        "مخاطره اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "robust",
+      "Meanings": [
+        "نیرومند"
+      ]
+    },
+    {
+      "EnglishWord": "rocket",
+      "Meanings": [
+        "موشک"
+      ]
+    },
+    {
+      "EnglishWord": "rolle's theorem",
+      "Meanings": [
+        "قضیه رل"
+      ]
+    },
+    {
+      "EnglishWord": "roman numbers",
+      "Meanings": [
+        "اعداد رومی"
+      ]
+    },
+    {
+      "EnglishWord": "roman numerals",
+      "Meanings": [
+        "ارقام رومی"
+      ]
+    },
+    {
+      "EnglishWord": "rook polynomial",
+      "Meanings": [
+        "چندجمله‌ای رخی"
+      ]
+    },
+    {
+      "EnglishWord": "root",
+      "Meanings": [
+        "ریشه عدد",
+        "معادله",
+        "جواب معادله"
+      ]
+    },
+    {
+      "EnglishWord": "root field",
+      "Meanings": [
+        "میدان ریشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "root mean square",
+      "Meanings": [
+        "جذر میانگین مربعات"
+      ]
+    },
+    {
+      "EnglishWord": "root of unity",
+      "Meanings": [
+        "ریشه واحد"
+      ]
+    },
+    {
+      "EnglishWord": "root test",
+      "Meanings": [
+        "آزمون ریشه",
+        "آزمون ریشه ای",
+        "قاعده کوشی",
+        "قاعده ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rootogram",
+      "Meanings": [
+        "ریشه نگار"
+      ]
+    },
+    {
+      "EnglishWord": "roots of complex number",
+      "Meanings": [
+        "ریشه‌های عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "roots of equation",
+      "Meanings": [
+        "ریشه‌های معادله"
+      ]
+    },
+    {
+      "EnglishWord": "rosace",
+      "Meanings": [
+        "گلبرگ خم",
+        "چندبرگی خم",
+        "این کلمه از زبان فرانسه است"
+      ]
+    },
+    {
+      "EnglishWord": "rose",
+      "Meanings": [
+        "گلدیس منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "rose petal",
+      "Meanings": [
+        "پر رز"
+      ]
+    },
+    {
+      "EnglishWord": "rosette",
+      "Meanings": [
+        "گلبرگ",
+        "چندبرگی",
+        "گلگونه",
+        "روزاس"
+      ]
+    },
+    {
+      "EnglishWord": "rosette notation",
+      "Meanings": [
+        "نمادگذاری نوبتی"
+      ]
+    },
+    {
+      "EnglishWord": "rotary",
+      "Meanings": [
+        "گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotatable",
+      "Meanings": [
+        "دورانی",
+        "چرخشی",
+        "قابل چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotate",
+      "Meanings": [
+        "دوران کردن",
+        "دوران دادن",
+        "چرخیدن",
+        "چرخاندن"
+      ]
+    },
+    {
+      "EnglishWord": "rotation",
+      "Meanings": [
+        "دوران",
+        "چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotation matrix",
+      "Meanings": [
+        "ماتریس دوران"
+      ]
+    },
+    {
+      "EnglishWord": "rotation of axes",
+      "Meanings": [
+        "دوران محورها"
+      ]
+    },
+    {
+      "EnglishWord": "rotation sampling",
+      "Meanings": [
+        "نمونه گیری چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotational",
+      "Meanings": [
+        "چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotationnel",
+      "Meanings": [
+        "تاو",
+        "چرخه",
+        "چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotund space",
+      "Meanings": [
+        "فضای خپله"
+      ]
+    },
+    {
+      "EnglishWord": "rouche's theorem",
+      "Meanings": [
+        "قضیه روشه"
+      ]
+    },
+    {
+      "EnglishWord": "roulette",
+      "Meanings": [
+        "چرخک"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "گرد کردن",
+        "سر راست کردن",
+        "رند کردن",
+        "گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round angle",
+      "Meanings": [
+        "زاویه تمام صفحه 360 درجه"
+      ]
+    },
+    {
+      "EnglishWord": "round bracket",
+      "Meanings": [
+        "پرانتز"
+      ]
+    },
+    {
+      "EnglishWord": "round error",
+      "Meanings": [
+        "خطای ناشی از گرد کردن",
+        "خطای سر راست کردن"
+      ]
+    },
+    {
+      "EnglishWord": "round number",
+      "Meanings": [
+        "عدد بی خرده",
+        "عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "round off",
+      "Meanings": [
+        "گرد کردن",
+        "رند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rounded number",
+      "Meanings": [
+        "عدد گرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "rounding",
+      "Meanings": [
+        "عمل گرد کردن",
+        "سر راست کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rounding off",
+      "Meanings": [
+        "گرد کردن",
+        "رند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "row",
+      "Meanings": [
+        "سطر",
+        "رج",
+        "ردیف"
+      ]
+    },
+    {
+      "EnglishWord": "row address strobe",
+      "Meanings": [
+        "آگاه‌گر آدرس سطر"
+      ]
+    },
+    {
+      "EnglishWord": "row echelon from",
+      "Meanings": [
+        "فرم اشلی سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row equivalent matrices",
+      "Meanings": [
+        "ماتریس‌های هم ارز سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row matrix",
+      "Meanings": [
+        "ماتریس سطری",
+        "ماتریس ردیفی"
+      ]
+    },
+    {
+      "EnglishWord": "row maximum sum norm",
+      "Meanings": [
+        "نرم جمع ماکزیمم سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row operations",
+      "Meanings": [
+        "عملیات سطری",
+        "اعمال سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row rank",
+      "Meanings": [
+        "مرتبه سطری",
+        "رتبه سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row space",
+      "Meanings": [
+        "فضای سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row vector",
+      "Meanings": [
+        "بردار سطری"
+      ]
+    },
+    {
+      "EnglishWord": "ruffini",
+      "Meanings": [
+        "رافینی",
+        "تا 1822 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "ruin",
+      "Meanings": [
+        "ورشکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قانون",
+        "قاعده",
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "rule of addition",
+      "Meanings": [
+        "قانون جمع"
+      ]
+    },
+    {
+      "EnglishWord": "rule of calculation",
+      "Meanings": [
+        "دستور محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "rule of compound probabilities",
+      "Meanings": [
+        "قانون احتمال‌های مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "rule of description",
+      "Meanings": [
+        "قانون ترسیم"
+      ]
+    },
+    {
+      "EnglishWord": "rule of detachment",
+      "Meanings": [
+        "قاعده انتزاع"
+      ]
+    },
+    {
+      "EnglishWord": "rule of multiplication",
+      "Meanings": [
+        "قانون ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "rule of signs",
+      "Meanings": [
+        "قاعده علامات"
+      ]
+    },
+    {
+      "EnglishWord": "rule of three",
+      "Meanings": [
+        "قاعده طرفین وسطین",
+        "تبدیل به واحد"
+      ]
+    },
+    {
+      "EnglishWord": "rule of two errors",
+      "Meanings": [
+        "حساب خطاین"
+      ]
+    },
+    {
+      "EnglishWord": "ruled",
+      "Meanings": [
+        "خط کشی",
+        "خط دار"
+      ]
+    },
+    {
+      "EnglishWord": "ruled paper",
+      "Meanings": [
+        "کاغذ مدرج",
+        "کاغذ شطرنجی"
+      ]
+    },
+    {
+      "EnglishWord": "ruled surface",
+      "Meanings": [
+        "رویه خط دار",
+        "سطح خط کشی",
+        "سطح خط دار",
+        "رویه توری"
+      ]
+    },
+    {
+      "EnglishWord": "ruler",
+      "Meanings": [
+        "خط کش",
+        "خط کش مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "ruler function",
+      "Meanings": [
+        "تابع خط کش"
+      ]
+    },
+    {
+      "EnglishWord": "rules of inference",
+      "Meanings": [
+        "قاعده‌های استنتاج",
+        "قوانین استنتاج"
+      ]
+    },
+    {
+      "EnglishWord": "rules of multiplication of signs",
+      "Meanings": [
+        "قاعده ضرب علامت ها",
+        "قاعده ضرب علایم"
+      ]
+    },
+    {
+      "EnglishWord": "ruling",
+      "Meanings": [
+        "خط دار",
+        "مولد"
+      ]
+    },
+    {
+      "EnglishWord": "rulings of the cone",
+      "Meanings": [
+        "یال‌های مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "rulings of the cylinder",
+      "Meanings": [
+        "یال‌های استوانه"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "مسیر",
+        "رفت",
+        "گردش",
+        "طریق خفت",
+        "ردیف",
+        "پیمودن",
+        "طی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "run through",
+      "Meanings": [
+        "از… گذشتن"
+      ]
+    },
+    {
+      "EnglishWord": "russian roulette",
+      "Meanings": [
+        "رولت روسی Russian roulette راشاید بتوان به عنوان عجیب ترین",
+        "خشن ترین",
+        "غیرانسانی‌ترین وحتی احمقانه‌ترین انعکاس حساب احتمالات درزندگی بشر نام برد",
+        "ریشه تاریخی این بازی به اواخر قرن نوزدهم در روسیه باز می‌گردد. درزندان‌های آن زمان روسیه تزاری نگهبانان زندان برای انجام این بازی یک گلوله در خشاب چرخان فشنگ خور یک اسلحه قرار می‌دادند",
+        "فشنگ خور را می‌بستند ومی چرخاندند",
+        "سپس6 نفر از زندانیانرا که عموما از انقلابیون ضد حکومت تزاری بودند مجبور می‌کردند که دوریک میز بنشینند وبه ترتیب",
+        "هر کدام یک بار اسلحه رابه سمت شقیقه خود بگیرند وماشه رابچکانند. نفربعدی به همین ترتیب می‌بایست فشنگ خور را بچرخاند وکار نفرقبلی را تکرار کند. هر نفر پس از امتحان می‌بایست اسلحه را به نفر سمت چپ خود می‌داد وبازی وقتی تمام می‌شد که اولین نفر این سلسله کشته شود",
+        "نگهبانان زندان با یکدیگر برسر این که کدام زندانی کشته خواهد شد شرط بندی می‌کردند",
+        "در نوع خشن‌تر این بازی",
+        "بعد از هربار چکاندن ماشه",
+        "نفربعدی حق چرخاندن مجدد فشنگ خور را نداشت",
+        "بنابراین احتمال مرگ نوبت به نوبت بالاتر می‌رفت",
+        "با توسعه جوامع سرمایه داری وپیچیده ترشدن زندگی ماشینی شهری وبه دنبال آن افزایش ع. ارض واختلالات روانی ناشی از آن",
+        "رولت روسی از آن وضعیت بازی مرگ اجباری به نوعی بازی روانی اختیاری تبدیل شد. به نحوی که دریک دوره ی10 ساله در ایالت متحده آمریکا",
+        "مرگ دراثربازی رولت روسی گزارش شده است"
+      ]
+    }
+  ]
+}

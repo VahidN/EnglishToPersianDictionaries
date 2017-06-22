@@ -1,0 +1,118 @@
+﻿{
+  "Group": "U",
+  "Entries": 16,
+  "Words": [
+    {
+      "EnglishWord": "ubound",
+      "Meanings": [
+        "U pper Bound",
+        "دستوری که بیشترین مقدار یک آرایه را بر می‌گرداند",
+        "UBound arrayname ["
+      ]
+    },
+    {
+      "EnglishWord": "ucase",
+      "Meanings": [
+        "u pper case",
+        "حرف بزرگ",
+        "تابعی که تمام کاراکترهای رشته ورودی را به حروف کوچک تبدیل میکند",
+        "UCase string"
+      ]
+    },
+    {
+      "EnglishWord": "uda",
+      "Meanings": [
+        "U niversal D ata A ccess",
+        "دسترسی سریع به داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "unavailable",
+      "Meanings": [
+        "یکی از گزینه‌های خصیصه Value جعبه چک که مشخض می‌کند قسمتی از جعبه در حال انتخاب نیست و مقدار آن دو است و با vbGrayed در مدول معین می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "unchecked",
+      "Meanings": [
+        "چک نشده",
+        "یکی از گزینه‌های خصیصه Value جعبه چک که مشخض می‌کند جعبه در حال انتخاب نیست و مقدار آن صفر است و با vbUnchecked در مدول معین می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "underline",
+      "Meanings": [
+        "زیر خط دار",
+        "متددی برای زیر خط دار کردن متن"
+      ]
+    },
+    {
+      "EnglishWord": "undo",
+      "Meanings": [
+        "خنثی کردن",
+        "یکی از گزینه‌های منوی Edit برای برگرداندن آخرین عمل انجام شده با کلید میانبر Ctrl+Z"
+      ]
+    },
+    {
+      "EnglishWord": "unicode",
+      "Meanings": [
+        "استاندارد کاراکترها"
+      ]
+    },
+    {
+      "EnglishWord": "universal data access",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "unload",
+      "Meanings": [
+        "خروج",
+        "یکی از رویدادهای Form که کد مورد نظر را هنگام خروج از فرم اجرا می‌کند",
+        "دستوری که از شیء مورد نظر خارج می‌شود",
+        "Unload object  index%"
+      ]
+    },
+    {
+      "EnglishWord": "user control",
+      "Meanings": [
+        "کنترلهایی که کاربر می‌سازد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "user defind",
+      "Meanings": [
+        "تعریف شده توسط کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "user document",
+      "Meanings": [
+        "سند کاربر",
+        "سند کاربر سندی است که مشخصات پروژه را توضیح می‌دهد و بیشتر در ساخت ActiveX کاربرد دارد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "user name",
+      "Meanings": [
+        "نام کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "user-defined type",
+      "Meanings": [
+        "متغیرهای به کار برده شده در دستور Type"
+      ]
+    },
+    {
+      "EnglishWord": "username",
+      "Meanings": [
+        "نام کاربر",
+        "خصیصه نام کاربر در شیء ADODC"
+      ]
+    }
+  ]
+}

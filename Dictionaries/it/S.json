@@ -1,0 +1,1928 @@
+﻿{
+  "Group": "S",
+  "Entries": 303,
+  "Words": [
+    {
+      "EnglishWord": "s3",
+      "Meanings": [
+        "یکی از جدیدترین کارتهای گرافیکی"
+      ]
+    },
+    {
+      "EnglishWord": "saeb soft dictionary",
+      "Meanings": [
+        "دیکشنری با قابلیت ترجمه کلمات انگلیسی به فارسی و بر عکس"
+      ]
+    },
+    {
+      "EnglishWord": "sag",
+      "Meanings": [
+        "SQL Access Group"
+      ]
+    },
+    {
+      "EnglishWord": "sale",
+      "Meanings": [
+        "فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sam",
+      "Meanings": [
+        "serial access memory",
+        "Security Accounts manager",
+        "Single Application mode"
+      ]
+    },
+    {
+      "EnglishWord": "sample",
+      "Meanings": [
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "samsung",
+      "Meanings": [
+        "کمپانی ساخت سخت افزار و لوازم برقی"
+      ]
+    },
+    {
+      "EnglishWord": "sanyo",
+      "Meanings": [
+        "کمپانی تولید کننده وسایل الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "sas",
+      "Meanings": [
+        "Statistical Analysis System",
+        "سیستم تجزیه و تحلیل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "satellite",
+      "Meanings": [
+        "ماهواره"
+      ]
+    },
+    {
+      "EnglishWord": "satus",
+      "Meanings": [
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "sav",
+      "Meanings": [
+        "فایلهای Save شده در بازیهای مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "save",
+      "Meanings": [
+        "ذخیره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "save as",
+      "Meanings": [
+        "ذخیره در"
+      ]
+    },
+    {
+      "EnglishWord": "say",
+      "Meanings": [
+        "گفتن"
+      ]
+    },
+    {
+      "EnglishWord": "sayareh",
+      "Meanings": [
+        "کمپانی تولید کننده کارتهای اینترنت و تلفن"
+      ]
+    },
+    {
+      "EnglishWord": "sb",
+      "Meanings": [
+        "Sound Blaster",
+        "یک نوع از کارتهای صدا در کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "sbc",
+      "Meanings": [
+        "Single Board Computer",
+        "صفحه ای دارای قطعات جانبی مانند رم و"
+      ]
+    },
+    {
+      "EnglishWord": "sbp",
+      "Meanings": [
+        "Serial Bus Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "scale",
+      "Meanings": [
+        "مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "scan",
+      "Meanings": [
+        "اسکن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "scandisk",
+      "Meanings": [
+        "برنامه ای که فایلهای هارد دیسک را از نظر خرابی بازرسی می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "scanner",
+      "Meanings": [
+        "اسکنرها دستگاهی برای ورود عکس یا متن به کامپیوتر می‌باشند و کمپانیهای تولید کننده اسکنر همان کمپانیهای تولید کننده چاپگرها هستند",
+        "اسکنرها شمایلی مانند دستگاه فتوکپی دارند. در محفظه ای که در آن کاغذ قرار می‌گیرد تصویر یا متن مورد نظر در کامپیوتر وارد می‌شود. اگر ما بخواهیم متنی را وارد کامپیوتر کنیم باید تصویر را با برنامه‌ها و نرم افزارهای مخصوص تبدیل به متن کنیم",
+        "در پشت اسکنر دو خروجی وجود دارد که به یکی از آنها از طرف کامپیوتر فیشی متصل می‌شود و به دیگری فیشی از طرف چاپگر متصل می‌شود. رنگ فیش خروجی اسکنر هم آبی است"
+      ]
+    },
+    {
+      "EnglishWord": "scence",
+      "Meanings": [
+        "صحنه"
+      ]
+    },
+    {
+      "EnglishWord": "scene",
+      "Meanings": [
+        "صحنه",
+        "نما",
+        "منظره"
+      ]
+    },
+    {
+      "EnglishWord": "schedule",
+      "Meanings": [
+        "زمان بندی"
+      ]
+    },
+    {
+      "EnglishWord": "scheduled",
+      "Meanings": [
+        "برنامه ریزی شده"
+      ]
+    },
+    {
+      "EnglishWord": "scheduled tasks",
+      "Meanings": [
+        "اجرا کننده یک فایل در زمانی معین",
+        "برای اجرای آن به Start Menu&gt; Programs&gt; Accessories&gt; System Tools بروید"
+      ]
+    },
+    {
+      "EnglishWord": "scheduler",
+      "Meanings": [
+        "زمان بند"
+      ]
+    },
+    {
+      "EnglishWord": "scheduling",
+      "Meanings": [
+        "زمان بندی"
+      ]
+    },
+    {
+      "EnglishWord": "schema",
+      "Meanings": [
+        "طرح",
+        "نما",
+        "شما"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "school",
+      "Meanings": [
+        "مدرسه"
+      ]
+    },
+    {
+      "EnglishWord": "science",
+      "Meanings": [
+        "آگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "science   technology university",
+      "Meanings": [
+        "دانشگاه علم و صنعت"
+      ]
+    },
+    {
+      "EnglishWord": "scientific",
+      "Meanings": [
+        "علمی"
+      ]
+    },
+    {
+      "EnglishWord": "scm",
+      "Meanings": [
+        "فایلهای صوتی در برنامه ICQ"
+      ]
+    },
+    {
+      "EnglishWord": "score",
+      "Meanings": [
+        "امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "scr",
+      "Meanings": [
+        "فایلهای Screen saver"
+      ]
+    },
+    {
+      "EnglishWord": "screen",
+      "Meanings": [
+        "صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "screen saver",
+      "Meanings": [
+        "محافظ صفحه نمایش",
+        "برنامه ای که هنگامی که کامپیوتر تا مدت معینی کار نکند به صورت فیلم یا عکس اجرا می‌شود",
+        "برای ایجاد آن به Control panel&gt; Display&gt; Screen saver مراجعه کنید",
+        "طرز کار محافظ صفحه نمایش",
+        "در اصل",
+        "یک برنامه است و جزء گروه فایل اجرایی می‌باشد یعنی با گذاشتن فایل محافظ صفحه نمایش",
+        "در ویندوز یا در فهرست راهنمای سیستم",
+        "و با دادن یک فایل اجرایی",
+        "ویندوز تشخیص می‌دهد که باید این فایل را به عنوان یک محافظ صفحه نمایش اجرا کند و آن را به عنوان یک انتخاب در قسمت خاصیت صفحه نمایش قرار دهد. بعد از اجرای آن به محض برخورد با ورودیه‌هایی چون ماوس یا یکی از دکمه‌های صفحه کلید",
+        "اجرای آن متوقف می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "screen sever creator",
+      "Meanings": [
+        "نرم افزاری برای ساخت محافظ صفحه نمایش"
+      ]
+    },
+    {
+      "EnglishWord": "script",
+      "Meanings": [
+        "زبان برنامه نویسی تحت وب",
+        "متن"
+      ]
+    },
+    {
+      "EnglishWord": "scroll",
+      "Meanings": [
+        "لغزنده",
+        "مرور کننده"
+      ]
+    },
+    {
+      "EnglishWord": "scroll bar",
+      "Meanings": [
+        "نوار لغزنده"
+      ]
+    },
+    {
+      "EnglishWord": "scsi",
+      "Meanings": [
+        "Small Computer System Interface",
+        "سیستم کامپیوتر کوچک میانجی"
+      ]
+    },
+    {
+      "EnglishWord": "sdk",
+      "Meanings": [
+        "Software Development Kit",
+        "برنامه ای که برنامه نویسان از آن برای ساخت پروژه هایشان استفاده می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "sdram",
+      "Meanings": [
+        "Synchronous dynamic random access memory",
+        "از ویژگی «حالت پیوسته» بمنظور افزایش و بهبود کارایی استفاده می‌نماید. بدین منظور زمانیکه سطر شامل داده مورد نظر باشد",
+        "بسرعت در بین ستون‌ها حرکت و بلافاصله پس از تامین داده",
+        "آن را خواهد خواند. SDRAM دارای سرعتی معادل پنج برابر سرعت حافظه‌های EDO بوده و امروزه در اکثر کامپیوترها استفاده می‌گردد. حداکثر سرعت ارسال داده به L2 cache معادل 528 مگابایت در ثانیه است"
+      ]
+    },
+    {
+      "EnglishWord": "sea",
+      "Meanings": [
+        "نرم افزاری برای مشاهده عکس"
+      ]
+    },
+    {
+      "EnglishWord": "sealedmedia",
+      "Meanings": [
+        "کمپانی تولید کننده نرم افار"
+      ]
+    },
+    {
+      "EnglishWord": "search",
+      "Meanings": [
+        "پیدا کردن",
+        "کلید اجرا = F"
+      ]
+    },
+    {
+      "EnglishWord": "search and replace",
+      "Meanings": [
+        "جستجو و جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "search engine",
+      "Meanings": [
+        "موتور جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "search key",
+      "Meanings": [
+        "کلید جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "second",
+      "Meanings": [
+        "ثانیه",
+        "دوم"
+      ]
+    },
+    {
+      "EnglishWord": "sector",
+      "Meanings": [
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "secure",
+      "Meanings": [
+        "امن بودن"
+      ]
+    },
+    {
+      "EnglishWord": "secure ie",
+      "Meanings": [
+        "برنامه ای همانند IE با این تفاوت که دست هکرها را از دسترسی به اطلاعات شما کوتاه می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "security",
+      "Meanings": [
+        "امنیت"
+      ]
+    },
+    {
+      "EnglishWord": "sega",
+      "Meanings": [
+        "یکی از کمپانیهای سازنده لوازم الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "segment",
+      "Meanings": [
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "seiko",
+      "Meanings": [
+        "کمپانی تولید کننده ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "select",
+      "Meanings": [
+        "انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "select all",
+      "Meanings": [
+        "انتخاب همه"
+      ]
+    },
+    {
+      "EnglishWord": "selected",
+      "Meanings": [
+        "انتخاب شده"
+      ]
+    },
+    {
+      "EnglishWord": "selection",
+      "Meanings": [
+        "انتخاب شده"
+      ]
+    },
+    {
+      "EnglishWord": "selective",
+      "Meanings": [
+        "انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "semiconductor",
+      "Meanings": [
+        "نیمه رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "send",
+      "Meanings": [
+        "فرستادن"
+      ]
+    },
+    {
+      "EnglishWord": "sender",
+      "Meanings": [
+        "ارسال کننده"
+      ]
+    },
+    {
+      "EnglishWord": "sense",
+      "Meanings": [
+        "دریافتن",
+        "حسی"
+      ]
+    },
+    {
+      "EnglishWord": "sense amplifier",
+      "Meanings": [
+        "تقویت کننده حسی"
+      ]
+    },
+    {
+      "EnglishWord": "sensitive",
+      "Meanings": [
+        "مهم",
+        "حساس"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity",
+      "Meanings": [
+        "حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sensor",
+      "Meanings": [
+        "حس کننده"
+      ]
+    },
+    {
+      "EnglishWord": "sepand",
+      "Meanings": [
+        "نرم افزاری برای تایپ فارسی در داس"
+      ]
+    },
+    {
+      "EnglishWord": "sepanta",
+      "Meanings": [
+        "کمپانی تولید کننده کارتهای اینترنت و تلفن"
+      ]
+    },
+    {
+      "EnglishWord": "separator",
+      "Meanings": [
+        "جدا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "sequel",
+      "Meanings": [
+        "نتیجه",
+        "پایان"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "توالی",
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "sequencing",
+      "Meanings": [
+        "ترتیب دهی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential",
+      "Meanings": [
+        "ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "serial",
+      "Meanings": [
+        "شماره"
+      ]
+    },
+    {
+      "EnglishWord": "serial number",
+      "Meanings": [
+        "شماره سریال نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "serials 2000",
+      "Meanings": [
+        "شماره سریال نرم افزارها"
+      ]
+    },
+    {
+      "EnglishWord": "server",
+      "Meanings": [
+        "سازمانهای سرویس دهنده اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "server based application",
+      "Meanings": [
+        "برنامه کاربردی در شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "service",
+      "Meanings": [
+        "سرویس",
+        "خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service temporarily overloaded",
+      "Meanings": [
+        "گرفتگی سرور. ارتباطهای زیاد. ترافیک شدید. باز هم سعی کنید تا صفحات بارگذاری شوند"
+      ]
+    },
+    {
+      "EnglishWord": "service unavailable",
+      "Meanings": [
+        "سرور مشغول است",
+        "سایت ممکن است جابجا شده باشد و یا ارتباط از طریق Dial",
+        "up قطع شده است"
+      ]
+    },
+    {
+      "EnglishWord": "servlet",
+      "Meanings": [
+        "برنامه ای که در شبکه کار می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "session",
+      "Meanings": [
+        "جلسه"
+      ]
+    },
+    {
+      "EnglishWord": "set",
+      "Meanings": [
+        "قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "setting",
+      "Meanings": [
+        "تنظیمات"
+      ]
+    },
+    {
+      "EnglishWord": "setup",
+      "Meanings": [
+        "نصب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "seven",
+      "Meanings": [
+        "هفت"
+      ]
+    },
+    {
+      "EnglishWord": "sexy",
+      "Meanings": [
+        "جنسی",
+        "برای جلوگیری از رفتن به این نوع سایتها سعی کنید که کارتهای اینترنتی فیلتر دار بخرید و یا اینکه عمل زیر را انجام دهید",
+        "به Control panel&gt; Internet options&gt; Content&gt; Content advisor&gt; Enable بروید",
+        "و در آنجا می‌توانید برای سایتهای جنسی یا جنگی و… فیلتر بگذارید"
+      ]
+    },
+    {
+      "EnglishWord": "sfx",
+      "Meanings": [
+        "فایلهای آرشیو فشرده شده"
+      ]
+    },
+    {
+      "EnglishWord": "sgml",
+      "Meanings": [
+        "Standard Generalized Markup Language"
+      ]
+    },
+    {
+      "EnglishWord": "shape",
+      "Meanings": [
+        "شکل"
+      ]
+    },
+    {
+      "EnglishWord": "shared",
+      "Meanings": [
+        "اشتراک گذاشته شده"
+      ]
+    },
+    {
+      "EnglishWord": "sharif university",
+      "Meanings": [
+        "دانشگاه صنعتی شریف"
+      ]
+    },
+    {
+      "EnglishWord": "sheet",
+      "Meanings": [
+        "ورقه"
+      ]
+    },
+    {
+      "EnglishWord": "shell",
+      "Meanings": [
+        "یک برنامه کوچک برای اجرای برنامه ها"
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "کلید شیفت",
+        "کلید جابجا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "shopping",
+      "Meanings": [
+        "خرید",
+        "مغازه"
+      ]
+    },
+    {
+      "EnglishWord": "short",
+      "Meanings": [
+        "کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "shortcut",
+      "Meanings": [
+        "میانبر"
+      ]
+    },
+    {
+      "EnglishWord": "show",
+      "Meanings": [
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "show desktop",
+      "Meanings": [
+        "برنامه ای که اگر در هر جای ویندوز باشید میزکار را به شما نشان می‌دهد",
+        "برای این کار بر روی آیکون Show Desktop در Quick launch bar کلیک کنید"
+      ]
+    },
+    {
+      "EnglishWord": "show password",
+      "Meanings": [
+        "نرم افزاری برای نشان دادن رمزهای ستاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "shtml",
+      "Meanings": [
+        "فایلهای اینترنتی"
+      ]
+    },
+    {
+      "EnglishWord": "shuffle",
+      "Meanings": [
+        "به هم زدن"
+      ]
+    },
+    {
+      "EnglishWord": "shut down",
+      "Meanings": [
+        "خاموش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sigma",
+      "Meanings": [
+        "سیگما",
+        "انحراف معیار",
+        "حرف هجدهم الفبای یونانی",
+        "سیگما یکی از عملیات ریاضی است که اعداد را با هم جمع می‌کند به این صورت که مثلا عدد یک تا n را به شکل زیر جمع می‌کند",
+        "+2+3+...+n"
+      ]
+    },
+    {
+      "EnglishWord": "sign",
+      "Meanings": [
+        "علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signal",
+      "Meanings": [
+        "سیگنال",
+        "علامت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "signaling",
+      "Meanings": [
+        "علامت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "signalling",
+      "Meanings": [
+        "علامت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "significant",
+      "Meanings": [
+        "مهم و اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "silence yahoo",
+      "Meanings": [
+        "نرم افزار هک کردن یاهو"
+      ]
+    },
+    {
+      "EnglishWord": "silencer",
+      "Meanings": [
+        "نرم افزار بوتر"
+      ]
+    },
+    {
+      "EnglishWord": "silent",
+      "Meanings": [
+        "ساکت",
+        "بی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "silicon",
+      "Meanings": [
+        "سیلیس",
+        "سیلیکان"
+      ]
+    },
+    {
+      "EnglishWord": "sim city",
+      "Meanings": [
+        "یکی از بازیهای معروف",
+        "رمزهای بازی",
+        "در بازی دکمه‌های Ctrl+Alt+Shift+C را فشار دهید در سمت چپ صفحه جایی برای تایپ رمزها باز خواهد شد. سپس این کدها را وارد کنید. \u000bi am weak—————————",
+        "همه چیز آزاد باشد\u000bufo swarm—————————",
+        "بازی سخت بشقاب پرنده بی نهایت \u000bbat————————————",
+        "پیغام بت من\u000bmoremoney————————–پ. ل بیشتر\u000bpaytribute to your king————–همه جایزه‌های فوق العاده\u000bwater in the desert—————–همه آبها\u000bpower to the masses—————مستقر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "similar",
+      "Meanings": [
+        "مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "simple",
+      "Meanings": [
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "simplex",
+      "Meanings": [
+        "ساده"
+      ]
+    },
+    {
+      "EnglishWord": "sims",
+      "Meanings": [
+        "یکی از بازیهای معروف شهرسازی"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simulator",
+      "Meanings": [
+        "تشبیه کننده",
+        "نمونه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "single",
+      "Meanings": [
+        "تنها"
+      ]
+    },
+    {
+      "EnglishWord": "sink",
+      "Meanings": [
+        "فرو بردن"
+      ]
+    },
+    {
+      "EnglishWord": "site",
+      "Meanings": [
+        "سایت"
+      ]
+    },
+    {
+      "EnglishWord": "six",
+      "Meanings": [
+        "شش"
+      ]
+    },
+    {
+      "EnglishWord": "size",
+      "Meanings": [
+        "فضا"
+      ]
+    },
+    {
+      "EnglishWord": "sketch",
+      "Meanings": [
+        "طرح از قبل طراحی شده"
+      ]
+    },
+    {
+      "EnglishWord": "skew",
+      "Meanings": [
+        "کج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "skin",
+      "Meanings": [
+        "حالت",
+        "لایه",
+        "پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "slack",
+      "Meanings": [
+        "کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "slang",
+      "Meanings": [
+        "نرم افزار ضرب المثلها"
+      ]
+    },
+    {
+      "EnglishWord": "slide",
+      "Meanings": [
+        "عکس",
+        "لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "slip",
+      "Meanings": [
+        "یادداشت",
+        "Serial Line Interface Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "slot",
+      "Meanings": [
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "sm",
+      "Meanings": [
+        "Symbol : Sm",
+        "Element name : Samarium",
+        "Atomic number",
+        "Atomic weight : 150.",
+        "Electron configuration",
+        "Type : Lanthanide series"
+      ]
+    },
+    {
+      "EnglishWord": "smart",
+      "Meanings": [
+        "هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "smart card",
+      "Meanings": [
+        "کارت هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "smil",
+      "Meanings": [
+        "فایلهای Real player"
+      ]
+    },
+    {
+      "EnglishWord": "sms",
+      "Meanings": [
+        "Short message service"
+      ]
+    },
+    {
+      "EnglishWord": "smtp",
+      "Meanings": [
+        "simple mail tansfor protocol"
+      ]
+    },
+    {
+      "EnglishWord": "sn2000",
+      "Meanings": [
+        "این برنامه شماره سریال نرم افزارها را به ما نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "sna",
+      "Meanings": [
+        "Systems Network Architecture",
+        "ساختمان شبکه‌های سیستمی"
+      ]
+    },
+    {
+      "EnglishWord": "snap",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "snapshot",
+      "Meanings": [
+        "عکس فوری"
+      ]
+    },
+    {
+      "EnglishWord": "snd",
+      "Meanings": [
+        "sound file",
+        "فایلهای حاوی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sniffer",
+      "Meanings": [
+        "نرم افزاری برای نشان دادن آمار سایت در شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "snmp",
+      "Meanings": [
+        "Simple Network Management Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "so",
+      "Meanings": [
+        "Send Only",
+        "فقط فرستادنی"
+      ]
+    },
+    {
+      "EnglishWord": "sobig",
+      "Meanings": [
+        "یکی از ویروس ها"
+      ]
+    },
+    {
+      "EnglishWord": "software",
+      "Meanings": [
+        "نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "software development",
+      "Meanings": [
+        "توسعه نرم افزارها"
+      ]
+    },
+    {
+      "EnglishWord": "solitaire",
+      "Meanings": [
+        "بازی ورق"
+      ]
+    },
+    {
+      "EnglishWord": "song",
+      "Meanings": [
+        "آهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "sonique",
+      "Meanings": [
+        "نرم افزار پخش کننده فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "sony",
+      "Meanings": [
+        "کمپانی ساخت سخت افزار و لوازم برقی"
+      ]
+    },
+    {
+      "EnglishWord": "soroush co.",
+      "Meanings": [
+        "کمپانی سروش انتشار دهنده کتاب فیلم و…"
+      ]
+    },
+    {
+      "EnglishWord": "sort",
+      "Meanings": [
+        "مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "sou",
+      "Meanings": [
+        "فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "sound",
+      "Meanings": [
+        "صوت",
+        "صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sound card",
+      "Meanings": [
+        "کارت صدا",
+        "کارت صدا یا Sound card وظیفه دارد که پردازشهای CPU را به صدا تبدیل کند و از طریق بلندگو یا گوشی آن را برای ما پخش نماید",
+        "در Motherboardهای جدید کارت صدا هم مانند کارت خود گرافیک بر روی آن نصب شده است و نیازی به خرید مجدد آن نیست",
+        "کارت صدا یکی از عناصر سخت افزاری رایانه است که باعث پخش و ضبط صدا می‌گردد. قبل از گسترش کارت‌های صدا",
+        "صدا در رایانه توسط بلند گوهای داخلی ایجاد می‌شد. این بلند گوها توان خود را از برد اصلی می‌گرفتند",
+        "استفاده از کارت صدا از اواخر سال 1980 شروع شد. در حال حاضر شرکت‌های متعددی تولیدات خود را در این زمینه به بازار عرضه می‌کنند. کارت صوتی همانند کارت گرافیکی بر روی برد اصلی نصب می‌شود و در پشت آن چند فیش برای میکروفن و بلند گو قرار دارد. وظیفه کارت صدا آماده سازی سیگنال‌ها جهت پخش و دریافت سیگنال‌های ورودی از میکروفن و آماده کردن آنها برای ذخیره در رایانه است. \u000bکارت صدا",
+        "کارت صوتی نیز نامیده می‌شود و در بسیاری موارد می‌تواند اصواتی با کیفیت بسیار عالی تولید کند",
+        "صوت",
+        "یک سیگنال آنالوگ است که به صورت موج پیوسته انتشار می‌یابد. رایانه همواره در حال پردازش سیگنال‌های آنالوگ است",
+        "زیرا این سیگنال‌ها دایما در حال تغییرند. در واقع لازم است که سیگنال‌های آنالوگ به بیت‌های رقمی دیجیتال تبدیل شوند. این عمل توسط وسیله ای به نام ADC صورت می‌گیرد",
+        "سیگنال‌های دیجیتالی تولید شده مجددا باید به سیگنال‌های آنالوگ تبدیل شوند تا بتوانند به وسیله بلند گو پخش شوند. این عمل توسط سخت افزار دیگری به نام DACصورت می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "sound forge",
+      "Meanings": [
+        "نرم افزاری بسیار قدرتمند در ویرایش و تدوین فایلهای صوتی در سطح حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sound recorder",
+      "Meanings": [
+        "نرم افزاری برای ضبط صدا که در Start Menu&gt; Programs&gt; accessories&gt; Entertainment قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "soundnails",
+      "Meanings": [
+        "برنامه ای برای تبدیل فایلهای صوتی به Swf"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "source code",
+      "Meanings": [
+        "کدهای یک برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "sp",
+      "Meanings": [
+        "Stack Pointer",
+        "اشاره گر بسته"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "کلید فاصله",
+        "فضا"
+      ]
+    },
+    {
+      "EnglishWord": "spacebar",
+      "Meanings": [
+        "کلید فاصله زن"
+      ]
+    },
+    {
+      "EnglishWord": "spam",
+      "Meanings": [
+        "نامه‌های الکترونیکی که ناشناس هستند"
+      ]
+    },
+    {
+      "EnglishWord": "sparc",
+      "Meanings": [
+        "نوعی طراحی گرافیکی در ریزپردازنده ها"
+      ]
+    },
+    {
+      "EnglishWord": "special",
+      "Meanings": [
+        "ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific",
+      "Meanings": [
+        "ثابت",
+        "مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "specification",
+      "Meanings": [
+        "خصوصیات"
+      ]
+    },
+    {
+      "EnglishWord": "spectrum",
+      "Meanings": [
+        "کمپانی ساخت نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "speed",
+      "Meanings": [
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "speed email extractor",
+      "Meanings": [
+        "برنامه ای برای بالا بردن سرعت دانلود نامه‌های الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "speedy",
+      "Meanings": [
+        "سریع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "speedzapper",
+      "Meanings": [
+        "کمپانی سازنده نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "spider solitaire",
+      "Meanings": [
+        "بازی اسپایدر"
+      ]
+    },
+    {
+      "EnglishWord": "spl",
+      "Meanings": [
+        "فایلهای فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "split",
+      "Meanings": [
+        "دو نیم"
+      ]
+    },
+    {
+      "EnglishWord": "spread",
+      "Meanings": [
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "spreadsheet",
+      "Meanings": [
+        "صفحه گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "sprint",
+      "Meanings": [
+        "سریع"
+      ]
+    },
+    {
+      "EnglishWord": "spss",
+      "Meanings": [
+        "نرم افزاری برای کارهای آماری و کارهایی مانند کشیدن نمودار و"
+      ]
+    },
+    {
+      "EnglishWord": "spy",
+      "Meanings": [
+        "جاسوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sql",
+      "Meanings": [
+        "Structured Query Language"
+      ]
+    },
+    {
+      "EnglishWord": "sql server",
+      "Meanings": [
+        "یکی از قویترینها برنامه‌های ساخت پایگاه داده"
+      ]
+    },
+    {
+      "EnglishWord": "sqp",
+      "Meanings": [
+        "کمپانی ارایه دهنده خدمات نرم افزاری",
+        "فایلهای نرم افزار Sonique"
+      ]
+    },
+    {
+      "EnglishWord": "square",
+      "Meanings": [
+        "مربع"
+      ]
+    },
+    {
+      "EnglishWord": "sqw",
+      "Meanings": [
+        "فایلهای آرشیو"
+      ]
+    },
+    {
+      "EnglishWord": "sra",
+      "Meanings": [
+        "فایلهای برنامه PowerBuilder"
+      ]
+    },
+    {
+      "EnglishWord": "sram",
+      "Meanings": [
+        "Static random access memory",
+        "این نوع حافظه‌ها از چندین ترانزیستور چهار تا شش برای هر سلول حافظه استفاده می‌نمایند. برای هر سلول از خازن استفاده نمی‌گردد. این نوع حافظه در ابتدا به منظور cache استفاده می‌شدند"
+      ]
+    },
+    {
+      "EnglishWord": "src",
+      "Meanings": [
+        "فایلهای Source Code"
+      ]
+    },
+    {
+      "EnglishWord": "ssi",
+      "Meanings": [
+        "Small Scale Integration",
+        "مجتمع سازی کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "ssl",
+      "Meanings": [
+        "Secure Sockets Layer"
+      ]
+    },
+    {
+      "EnglishWord": "ssv",
+      "Meanings": [
+        "فایلهای نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "stack",
+      "Meanings": [
+        "بسته",
+        "توده"
+      ]
+    },
+    {
+      "EnglishWord": "stage",
+      "Meanings": [
+        "صحنه"
+      ]
+    },
+    {
+      "EnglishWord": "stand by",
+      "Meanings": [
+        "کامپیوتر را به طور موقت خاموش کردن به طوری که با تکان دادن موس یا فشار دادن کلید کیبورد کامپیوتر فعال شود و مانیتور روشن شود",
+        "برای این کار به Start&gt; Shut down&gt; Stand by بروید"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "starcd",
+      "Meanings": [
+        "برنامه ای برای پخش فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "stardock skinstudio",
+      "Meanings": [
+        "برنامه ای برای ساخت پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "start",
+      "Meanings": [
+        "منوی شروع استارت",
+        "آغاز",
+        "شروع",
+        "کلید اجرا: Ctrl+Esc"
+      ]
+    },
+    {
+      "EnglishWord": "startup",
+      "Meanings": [
+        "برنامه هایی که در شروع یک برنامه اجرا می‌شند"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "stationary",
+      "Meanings": [
+        "ساکن",
+        "ثابت",
+        "بی حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "statistic",
+      "Meanings": [
+        "آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistical",
+      "Meanings": [
+        "آماری"
+      ]
+    },
+    {
+      "EnglishWord": "status",
+      "Meanings": [
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "status bar",
+      "Meanings": [
+        "نوار وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "step",
+      "Meanings": [
+        "گام"
+      ]
+    },
+    {
+      "EnglishWord": "stereo",
+      "Meanings": [
+        "استریو",
+        "دارای تقویت موجی"
+      ]
+    },
+    {
+      "EnglishWord": "stock",
+      "Meanings": [
+        "سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stonewall",
+      "Meanings": [
+        "نرم افزار بوتر و هکر"
+      ]
+    },
+    {
+      "EnglishWord": "stop",
+      "Meanings": [
+        "ایست"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "ذخیره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "str",
+      "Meanings": [
+        "فایلهای صوتی در بازی فیفا"
+      ]
+    },
+    {
+      "EnglishWord": "strategy",
+      "Meanings": [
+        "فن",
+        "استراتژی"
+      ]
+    },
+    {
+      "EnglishWord": "streak",
+      "Meanings": [
+        "خط"
+      ]
+    },
+    {
+      "EnglishWord": "streaming tape drive",
+      "Meanings": [
+        "محافظ گرداننده دیسک"
+      ]
+    },
+    {
+      "EnglishWord": "strengthener",
+      "Meanings": [
+        "تقویت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "stretch",
+      "Meanings": [
+        "کشش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "string",
+      "Meanings": [
+        "رشته"
+      ]
+    },
+    {
+      "EnglishWord": "strobe",
+      "Meanings": [
+        "ارتباط میان یک دستگاه با کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "structure",
+      "Meanings": [
+        "ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "structured",
+      "Meanings": [
+        "ساخت یافته"
+      ]
+    },
+    {
+      "EnglishWord": "structuring",
+      "Meanings": [
+        "ساختمان"
+      ]
+    },
+    {
+      "EnglishWord": "study",
+      "Meanings": [
+        "مطالعه"
+      ]
+    },
+    {
+      "EnglishWord": "stx",
+      "Meanings": [
+        "Start Of Text",
+        "شروع متن"
+      ]
+    },
+    {
+      "EnglishWord": "style",
+      "Meanings": [
+        "سبک",
+        "روش"
+      ]
+    },
+    {
+      "EnglishWord": "sub",
+      "Meanings": [
+        "تابع"
+      ]
+    },
+    {
+      "EnglishWord": "sub seven",
+      "Meanings": [
+        "قویتیرن و خطرناکترین برنامه هکر که با آن می‌توان کامپیوتر شخص را کاملا تحت اختیار قرار داد"
+      ]
+    },
+    {
+      "EnglishWord": "sub seven remover",
+      "Meanings": [
+        "برنامه ای برای جلوگیری از هکرهای ساب سون"
+      ]
+    },
+    {
+      "EnglishWord": "subject",
+      "Meanings": [
+        "موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "submit",
+      "Meanings": [
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "submited",
+      "Meanings": [
+        "ثبت شده"
+      ]
+    },
+    {
+      "EnglishWord": "subscribe",
+      "Meanings": [
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "subscriber",
+      "Meanings": [
+        "مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "subseven-firewall",
+      "Meanings": [
+        "یک برنامه ضدهکر ساب سون"
+      ]
+    },
+    {
+      "EnglishWord": "substring",
+      "Meanings": [
+        "زیر رشته"
+      ]
+    },
+    {
+      "EnglishWord": "subsystem",
+      "Meanings": [
+        "زیر سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "subtract",
+      "Meanings": [
+        "کم شدن",
+        "کاهش یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "suffix",
+      "Meanings": [
+        "پسوند"
+      ]
+    },
+    {
+      "EnglishWord": "suite",
+      "Meanings": [
+        "برنامه هایی که به هم ارتباط نزدیکی دارند"
+      ]
+    },
+    {
+      "EnglishWord": "sum",
+      "Meanings": [
+        "جمع"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "خلاصه",
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "sun screen saver creator",
+      "Meanings": [
+        "نرم افزاری برای ساخت محافظ صفحه نمایش"
+      ]
+    },
+    {
+      "EnglishWord": "super",
+      "Meanings": [
+        "عالی"
+      ]
+    },
+    {
+      "EnglishWord": "supercomputer",
+      "Meanings": [
+        "ابر کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "supervisor",
+      "Meanings": [
+        "سرپرست"
+      ]
+    },
+    {
+      "EnglishWord": "supply",
+      "Meanings": [
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "پشتیبانی"
+      ]
+    },
+    {
+      "EnglishWord": "surface",
+      "Meanings": [
+        "صاف",
+        "سطح"
+      ]
+    },
+    {
+      "EnglishWord": "surprise",
+      "Meanings": [
+        "غافل گیر"
+      ]
+    },
+    {
+      "EnglishWord": "survey",
+      "Meanings": [
+        "برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "sustain",
+      "Meanings": [
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "svga",
+      "Meanings": [
+        "Super VGA"
+      ]
+    },
+    {
+      "EnglishWord": "swa",
+      "Meanings": [
+        "shockwave audio file"
+      ]
+    },
+    {
+      "EnglishWord": "sweet english",
+      "Meanings": [
+        "خودآموز زبان انگلیسی بر اساس مجموعه New interchange دانشگاه کمبریج"
+      ]
+    },
+    {
+      "EnglishWord": "swf",
+      "Meanings": [
+        "فایلهای Flash player"
+      ]
+    },
+    {
+      "EnglishWord": "swf2video",
+      "Meanings": [
+        "نرم افزاری برای تبدیل فایلهای Swf به فایلهای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "swfs",
+      "Meanings": [
+        "فایلهای برنامه Dreamweaver"
+      ]
+    },
+    {
+      "EnglishWord": "swish",
+      "Meanings": [
+        "برنامه ای برای طراحی عکس و فیلم و"
+      ]
+    },
+    {
+      "EnglishWord": "switch",
+      "Meanings": [
+        "تعویض کردن"
+      ]
+    },
+    {
+      "EnglishWord": "switch user",
+      "Meanings": [
+        "تعویض کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "switching",
+      "Meanings": [
+        "راه و چاره"
+      ]
+    },
+    {
+      "EnglishWord": "swl",
+      "Meanings": [
+        "فایلهای برنامه Flash"
+      ]
+    },
+    {
+      "EnglishWord": "sybase",
+      "Meanings": [
+        "کمپانی سازنده نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "sygate technologies firewall",
+      "Meanings": [
+        "یک برنامه ضدهکر"
+      ]
+    },
+    {
+      "EnglishWord": "symantec",
+      "Meanings": [
+        "کمپانی سازنده نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic",
+      "Meanings": [
+        "نمادی",
+        "نشانه ای",
+        "علامت دار"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric",
+      "Meanings": [
+        "مناسب"
+      ]
+    },
+    {
+      "EnglishWord": "sync",
+      "Meanings": [
+        "کارکتر همگام"
+      ]
+    },
+    {
+      "EnglishWord": "synchronize",
+      "Meanings": [
+        "مطابق"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous",
+      "Meanings": [
+        "هم زمان"
+      ]
+    },
+    {
+      "EnglishWord": "synonym",
+      "Meanings": [
+        "هم معنی",
+        "مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "syntax",
+      "Meanings": [
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "syntax error",
+      "Meanings": [
+        "خطای نحوی"
+      ]
+    },
+    {
+      "EnglishWord": "synthesizer",
+      "Meanings": [
+        "ترکیب کننده"
+      ]
+    },
+    {
+      "EnglishWord": "sys",
+      "Meanings": [
+        "system",
+        "فایلهای تنظیم سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system analysis",
+      "Meanings": [
+        "تحلیل سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system analyst",
+      "Meanings": [
+        "تحلیل گر سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system comander",
+      "Meanings": [
+        "برنامه ای که باعث می‌شود شما بتوانید چند سیستم عامل بر روی کامپیوترتان نصب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "system file",
+      "Meanings": [
+        "فایل سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system info",
+      "Meanings": [
+        "نرم افزاری برای نمایش اطلاعاتی از سیستمتان"
+      ]
+    },
+    {
+      "EnglishWord": "system information",
+      "Meanings": [
+        "برنامه ای که اطلاعاتی از سیستم تان را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "system installation",
+      "Meanings": [
+        "نصب سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system mechanic",
+      "Meanings": [
+        "برنامه ای برای حذف فایلهای اضافی ویندوز و"
+      ]
+    },
+    {
+      "EnglishWord": "system tools",
+      "Meanings": [
+        "فولدری که در آن برنامه هایی برای ویندوز قرار دارد",
+        "این فولدر در Start&gt; Programs&gt; Accessories&gt; System tools قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "system32",
+      "Meanings": [
+        "پوشه ای که در آن برنامه‌های ویندوز قرار دارد"
+      ]
+    }
+  ]
+}

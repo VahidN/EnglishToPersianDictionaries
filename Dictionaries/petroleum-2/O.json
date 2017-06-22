@@ -1,0 +1,799 @@
+﻿{
+  "Group": "O",
+  "Entries": 109,
+  "Words": [
+    {
+      "EnglishWord": "o",
+      "Meanings": [
+        "oil",
+        "نفت",
+        "هیدروکربور مایع"
+      ]
+    },
+    {
+      "EnglishWord": "o   sw",
+      "Meanings": [
+        "Oil & Salt Water",
+        "نفت و آب شور"
+      ]
+    },
+    {
+      "EnglishWord": "o stn",
+      "Meanings": [
+        "stain of Oil or Oil stain",
+        "لکە نفتی",
+        "به نشانه‌های نفتی نیز اطلاق می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "o/s",
+      "Meanings": [
+        "outstanding",
+        "موجود"
+      ]
+    },
+    {
+      "EnglishWord": "o/w",
+      "Meanings": [
+        "Oil/Water ratio",
+        "نسبت آب و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "oaw",
+      "Meanings": [
+        "چاه نفتی قدیمی که رها گردیده است",
+        "Old Abandoned Well"
+      ]
+    },
+    {
+      "EnglishWord": "obm",
+      "Meanings": [
+        "Oil Base Mud, or Mud which consist of Gasoline",
+        "گل پایە روغنی: که مادە اصلی آن بجای آب گازوییل است",
+        "گل حفاری پایه روغنی",
+        "که در آن گازوییل بجای آب بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "obs",
+      "Meanings": [
+        "observe",
+        "مشاهده نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "observe",
+      "Meanings": [
+        "obs",
+        "مشاهده نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "oc",
+      "Meanings": [
+        "oil cut, or OC",
+        "بریده شدن گل",
+        "در مواقعی بکار برده می‌شود که یکپارچگی سیال حفاری بتوسط نفت موجود در چاه از بین رفته است"
+      ]
+    },
+    {
+      "EnglishWord": "occ",
+      "Meanings": [
+        "occasional",
+        "گاهگداری",
+        "برخی مواقع"
+      ]
+    },
+    {
+      "EnglishWord": "occasional",
+      "Meanings": [
+        "occ",
+        "گاهگداری",
+        "برخی مواقع"
+      ]
+    },
+    {
+      "EnglishWord": "ocm",
+      "Meanings": [
+        "Oil Cut Mud",
+        "بریده شدن گل حفاری",
+        "در مواقعی بکار برده می‌شود که یکپارچگی سیال حفاری بتوسط نفت موجود در چاه از بین رفته است"
+      ]
+    },
+    {
+      "EnglishWord": "od",
+      "Meanings": [
+        "outside diameter",
+        "قطر خارجی لوله‌ها یا کیسینگ‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "odt",
+      "Meanings": [
+        "oil down to"
+      ]
+    },
+    {
+      "EnglishWord": "oedp",
+      "Meanings": [
+        "Open End Drill Pipe",
+        "لوله حفاری که انتهای آن باز است"
+      ]
+    },
+    {
+      "EnglishWord": "of",
+      "Meanings": [
+        "open flow",
+        "The production of Oil or Gas under wide",
+        "open conditions; the flow of production from a Well without any restrictions, Valves or Chokes on the rate of flow. Open flow is permitted only for testing or clean",
+        "out. Good production practice nowadays is to produce a Well under maximum efficiency rate conditions"
+      ]
+    },
+    {
+      "EnglishWord": "off production",
+      "Meanings": [
+        "Said of a Well when it is shut in or temporarily not able to produce"
+      ]
+    },
+    {
+      "EnglishWord": "off wh",
+      "Meanings": [
+        "off white",
+        "سفید کثیف"
+      ]
+    },
+    {
+      "EnglishWord": "off white",
+      "Meanings": [
+        "off wh, or dirty white",
+        "سفید کثیف"
+      ]
+    },
+    {
+      "EnglishWord": "offset well",
+      "Meanings": [
+        "Well drilled near another one"
+      ]
+    },
+    {
+      "EnglishWord": "offset-well data",
+      "Meanings": [
+        "Information obtained from wells that are drilled in an area close to where another well is being drilled or worked over. Such information can be very helpful in determining how a particular well will behave or react to certain treatments or techniques"
+      ]
+    },
+    {
+      "EnglishWord": "offshore drilling",
+      "Meanings": [
+        "Drilling for Oil or Gas in an ocean, gulf, or sea, usually on the Outer Continental Shelf. A drilling unit for offshore operations may be a mobile floating vessel with a ship or barge hull, a semisubmersible or submersible base, a self",
+        "propelled or towed structure with jacking legs jackup drilling rig , or a permanent structure used as a production platform when drilling is completed. In general, wildcat wells are drilled from mobile floating vessels or from Jackups, while development wells are drilled from Platforms or Jackups"
+      ]
+    },
+    {
+      "EnglishWord": "oh",
+      "Meanings": [
+        "Open Hole",
+        "بخشی از چاه که دیواره آن فاقد لوله جداری بوده و در واقع لخت می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "oht",
+      "Meanings": [
+        "Open Hole Test, actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "تست چاه عریان یا فاقد لولە جداری",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Time actually spent for all the operations necessary to enable any Open Hole Tests starts from make up and trip in with test assembly till It pulled out after finishing test, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "oih",
+      "Meanings": [
+        "Oil In Hole",
+        "نفت یا هیدروکربور درون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "oil",
+      "Meanings": [
+        "o, most of the time write with small letters",
+        "نفت"
+      ]
+    },
+    {
+      "EnglishWord": "oil   salt water",
+      "Meanings": [
+        "O & SW",
+        "نفت و آب شور"
+      ]
+    },
+    {
+      "EnglishWord": "oil base mud",
+      "Meanings": [
+        "OBM",
+        "سیال حفاری پایه روغنی",
+        "که در آن گازوییل بجای آب بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "oil breakout",
+      "Meanings": [
+        "Oil that has risen to the surface of the mud but which was previously combined with the mud as emulsion"
+      ]
+    },
+    {
+      "EnglishWord": "oil content",
+      "Meanings": [
+        "The amount of Oil in volume",
+        "percent in a drilling fluid"
+      ]
+    },
+    {
+      "EnglishWord": "oil cut",
+      "Meanings": [
+        "OC",
+        "بریده شدن گل",
+        "در مواقعی بکار برده می‌شود که یکپارچگی سیال حفاری بتوسط نفت موجود در چاه از بین رفته است"
+      ]
+    },
+    {
+      "EnglishWord": "oil cut mud",
+      "Meanings": [
+        "OCM",
+        "بریده شدن گل",
+        "در مواقعی بکار برده می‌شود که یکپارچگی سیال حفاری بتوسط نفت موجود در چاه از بین رفته است"
+      ]
+    },
+    {
+      "EnglishWord": "oil down to",
+      "Meanings": [
+        "ODT"
+      ]
+    },
+    {
+      "EnglishWord": "oil history",
+      "Meanings": [
+        "سابقە اکتشاف نفت در ایران به حدود 4000 سال پیش می‌رسد. ایرانیان باستان به عنوان مواد سوختی و قیراندود ‏کردن کشتی‌ها",
+        "ساختمانها و پشت بامها از این مواد استفاده می‌کردند",
+        "نادر شاه در جنگ با سپاهیان هند قیر را ‏آتش زد و مورد استفاده قرار داد در بعضی از معابد ایران باستان برای افروختن آتش مقدس از گاز طبیعی استفاده ‏شده و بر اساس یک گزارش تاریخی یک درویش در حوالی باکو چاه نفتی داشته که از فروش آن امرار معاش ‏می‌نموده است. ‏ در سال 1909 تاسیس شرکت نفت انگلستان و ایران در لندن به ثبت رسید. نخستین چاه نفت 26 ماه مه 1908 در ‏عمق کمتر از 400 متر در مسجد سلیمان به نفت رسیده بود و متعاقب آن دو چاه دیگر. ‏",
+        "‎ ‎دارسی برای اکتشاف و استخراج نفت ایران مهندس جورج رینولدز را به ایران فرستاد و در سال 1905 نیز ‏با شرکت انگلیسی نفت برمه شریک شد. رینولدز که معروف به جورج سر سخت بود",
+        "بعد از سه سال حفاری در مسجد ‏سلیمان موفق به کشف نفت نشد و بارها توسط دارسی به لندن فرا خوانده شده",
+        "اما او هر بار به بهانه ای ‏حفاری را با سرسختی ادامه میداد. سر انجام روزی که آخرین نامە دارسی به دست او رسید و او را به شدت توبیخ ‏کرده بود که: «چرا از دستور اطاعت نمیکنی و پول و سرمایه را بیش از این خودسرانه هدر میدهی ومیبایستی به ‏سرعت خود را به لندن معرفی کنی»",
+        "اما باز رینولدز علی رغم دستور دارسی یک روز دیگر به حفاری ادامه داد تا ‏سر انجام به نفت رسید‎. ‎",
+        "‎ William Knox D’Arcy ‎‏",
+        "ویلیام ناکس دارسی از اشراف زادگان انگلیسی بود که از 17 سالگی با خانواده اش ‏برای مدتی دراسترالیا زندگی کرده بود و به استخراج طلا از کوه «مورگن» سرگرم بود",
+        "پس از بازگشت و ادامه ‏زندگی در لندن متوجه وجود نفت در ایران شد. پیش از او ژولیوس رویتر موسس خبرگزاری رویتر",
+        "با مطالعە ‏یادداشتهای یک زمین شناس فرانسوی که قبلا از ایران دیدن کرده بود",
+        "به فکر گرفتن امتیاز اکتشاف و استخراج ‏آن از دولت تهران افتاده بود",
+        "ولی موفق نشده بود‎. ‎",
+        "‎ ‎دارسی از طریق همکارانش برمفاد یادداشتهای زمین شناس فرانسوی و نیز تلاشهای رویتر وقوف یافت و با ‏یافتن یک دوست رییس الوزراء وقت ایران و واسطه قرار دادن او از سال 1900 با دولت تهران تماس گرفت که ‏سفارت روسیه در تهران متوجه فعالیت‌های او شد و اعتراض نمود",
+        "با وجود این",
+        "قرارداد در سال 1901 برای مدت 60 ‏سال امضاء شد و پنج استان ایرانی مجاور مرز روسیه از شمول آن مستثنی گردید. دارسی برای دریافت امتیاز نفت ‏ایران مبلغ ناچیزی با وعده تعدادی سهم به ایران داده بود‎. ‎",
+        "‎ ‎‏ به هر حال پس از تاسیس شرکت در سال",
+        "سهام آن به معرض فروش گذارده شد و دو لرد انگلیسی ‏متعاقب هم مدیر عامل آن شدند",
+        "ولی دارسی تا زمان مرگ در سال 1917 عضو هیات مدیره بود ‏‎. ‎",
+        "‎ ‎در سال 1914 در آستانە جنگ جهانی اول نیروی دریایی انگلستان 51 درصد سهام این شرکت را دراختیار ‏گرفت که بعدا تا 97 درصد آن متعلق به دولت انگلستان شد"
+      ]
+    },
+    {
+      "EnglishWord": "oil in hole",
+      "Meanings": [
+        "OIH",
+        "نفت درون چاه"
+      ]
+    },
+    {
+      "EnglishWord": "oil mud",
+      "Meanings": [
+        "A drilling mud, e.g. : Oil",
+        "Base Mud and invertemulsion mud, in which oil is the continuous phase. It is useful in drilling certain formation that may e difficult or costly to drill with water",
+        "base mud. Also compare with : Oil",
+        "emulsion Mud"
+      ]
+    },
+    {
+      "EnglishWord": "oil odor",
+      "Meanings": [
+        "بوی نفت متساعد شده از نمونه‌های حفاری یا سیال حفاری خارج شده از چاه",
+        "OO"
+      ]
+    },
+    {
+      "EnglishWord": "oil pool",
+      "Meanings": [
+        "The accumulation of oil in the pores of sedimentary rock that yields petroleum on drilling. Not a pool or pond in the ordinary use of the term"
+      ]
+    },
+    {
+      "EnglishWord": "oil sand",
+      "Meanings": [
+        "osd",
+        "ماسه حاوی نفت",
+        "ماسە نفت دار",
+        "Any porous stratum bearing Oil"
+      ]
+    },
+    {
+      "EnglishWord": "oil seepage",
+      "Meanings": [
+        "oil spring",
+        "چشمە نفتی",
+        "نشت نفت بر روی سطح زمین که بصورت چشمه ظاهر می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "oil spring",
+      "Meanings": [
+        "چشمە نفتی",
+        "نشت نفت بر روی سطح زمین که بصورت چشمه ظاهر می‌شود",
+        "oil seepage",
+        "چشمه نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "oil well",
+      "Meanings": [
+        "A Well completed for the production of crude oil from at least one oil zone or reservoir"
+      ]
+    },
+    {
+      "EnglishWord": "oil well drilled deeper",
+      "Meanings": [
+        "چاه نفتی که عملیات حفاری تا عمق بیشترانجام گردد",
+        "OWDD"
+      ]
+    },
+    {
+      "EnglishWord": "oil well worked over",
+      "Meanings": [
+        "چاه نفتی قدیمی که عملیات تعمیراتی بر روی آن انجام شده باشد",
+        "OWWO"
+      ]
+    },
+    {
+      "EnglishWord": "oil zone",
+      "Meanings": [
+        "A Formation or Horizon of a Well from which oil may be produced. The oil zone is usually immediately under the gas zone and on top of the water zone if all three fluids are present and segregated"
+      ]
+    },
+    {
+      "EnglishWord": "oil/water ratio",
+      "Meanings": [
+        "O/W",
+        "نسبت آب و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "oil-base mud",
+      "Meanings": [
+        "A drilling or workover fluid in which oil is the continuous phase and which contains from less than 2 percent and up to 5 percent water. This water is spread out, or dispersed, in the Oil as small droplets. See also : Oil Mud"
+      ]
+    },
+    {
+      "EnglishWord": "oil-emulsion mud",
+      "Meanings": [
+        "A Water",
+        "Base Mud in which water is the continuous phase and oil is the dispersed phase. The oil is spread out, or dispersed, in the water in small droplets, which are tightly emulsified so that they do not settle out. Because of its lubricating abilities, an oil",
+        "emulsion mud increases the drilling rate and ensures better hole conditions than other muds. Also compare with : Oil Mud"
+      ]
+    },
+    {
+      "EnglishWord": "oilfield",
+      "Meanings": [
+        "The surface area overlying an oil reservoir or reservoirs. The term usually includes not only the surface area, but also the reservoir, the wells, and the production equipment"
+      ]
+    },
+    {
+      "EnglishWord": "old abandoned well",
+      "Meanings": [
+        "چاه قدیمی که رها شده باشد",
+        "OAW"
+      ]
+    },
+    {
+      "EnglishWord": "old hand",
+      "Meanings": [
+        "A man who has been around the oil field for a long time"
+      ]
+    },
+    {
+      "EnglishWord": "old total depth",
+      "Meanings": [
+        "عمق نهایی قدیمی چاه",
+        "OTD"
+      ]
+    },
+    {
+      "EnglishWord": "old well plugged back",
+      "Meanings": [
+        "OWPB",
+        "چاه نفتی قدیمی که پلاگ گذاری شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "old well worked over",
+      "Meanings": [
+        "OWWO",
+        "چاه قدیمی که کار تعمیراتی بر روی آن انجام شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "olive",
+      "Meanings": [
+        "ov, also write as : olv",
+        "رنگ زیتونی"
+      ]
+    },
+    {
+      "EnglishWord": "olv",
+      "Meanings": [
+        "olive, also write as : ov",
+        "زیتونی رنگ",
+        "برنگ زیتون"
+      ]
+    },
+    {
+      "EnglishWord": "omw",
+      "Meanings": [
+        "Original Mud Weight",
+        "وزن اولیه گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "on the horn",
+      "Meanings": [
+        "Someone talking on a two",
+        "way radio to another person"
+      ]
+    },
+    {
+      "EnglishWord": "one-trip",
+      "Meanings": [
+        "A tool that goes downhole and is not retrievable"
+      ]
+    },
+    {
+      "EnglishWord": "on-off tool",
+      "Meanings": [
+        "A tool used to open or close a downhole valve; a tool used to set or release a downhole tool, such as a retrievable bridge plug"
+      ]
+    },
+    {
+      "EnglishWord": "oo",
+      "Meanings": [
+        "بوی نفت متساعد شده از نمونه‌های حفاری یا سیال حفاری خارج شده از چاه",
+        "Oil odor"
+      ]
+    },
+    {
+      "EnglishWord": "ool",
+      "Meanings": [
+        "Oolitic",
+        "االیت"
+      ]
+    },
+    {
+      "EnglishWord": "oolitic",
+      "Meanings": [
+        "ool",
+        "دارای دانه‌های االیت",
+        "االیتی"
+      ]
+    },
+    {
+      "EnglishWord": "op",
+      "Meanings": [
+        "opaque",
+        "اپک",
+        "کدر یا بدون شفافیت"
+      ]
+    },
+    {
+      "EnglishWord": "opaque",
+      "Meanings": [
+        "op",
+        "اپک",
+        "کدر یا بدون شفافیت"
+      ]
+    },
+    {
+      "EnglishWord": "open end drill pipe",
+      "Meanings": [
+        "OEDP",
+        "لوله حفاری با دهانه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open flow",
+      "Meanings": [
+        "The production of Oil or Gas under wide",
+        "open conditions; the flow of production from a Well without any restrictions, Valves or Chokes on the rate of flow. Open flow is permitted only for testing or clean",
+        "out. Good production practice nowadays is to produce a well under maximum efficiency rate conditions",
+        "OF",
+        "تولید نفت یا گاز تحت شرایط کاملا باز یا بدون محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "open hole",
+      "Meanings": [
+        "OH",
+        "بخشی از چاه که دیواره آن فاقد لوله جداری بوده و در واقع لخت می‌باشد",
+        "Uncased portion of a well"
+      ]
+    },
+    {
+      "EnglishWord": "open hole test",
+      "Meanings": [
+        "OHT, actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "تست بخشی از چاه که فاقد لوله‌های جداری یا کیسینگ میباشد"
+      ]
+    },
+    {
+      "EnglishWord": "open-hole completion",
+      "Meanings": [
+        "A method of preparing a well for production in which no production casing or liner is set opposite the producing formation. Reservoir fluids flow unrestricted into the open wellbore. An open",
+        "hole completion has limited use in rather special situations. Also called : a Barefoot Completion"
+      ]
+    },
+    {
+      "EnglishWord": "opening hole",
+      "Meanings": [
+        "OPH, work on, actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "باز نمودن چاه یا گشاد کردن آن",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "opening ratio",
+      "Meanings": [
+        "The ratio between the pressure required to open the preventer and the Well pressure under the Rams"
+      ]
+    },
+    {
+      "EnglishWord": "opening/closing plug",
+      "Meanings": [
+        "A Rubber Plug used in primary cementing operations to displace cement slurry from the casing into the Borehole Annulus"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "The person or company, either proprietor or lessee, actually operating an oilwell or lease. Generally, the oil company by whom the drilling contractor is engaged"
+      ]
+    },
+    {
+      "EnglishWord": "oph",
+      "Meanings": [
+        "opening hole, work on , actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "باز نمودن چاه یا گشاد کردن آن",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "orange",
+      "Meanings": [
+        "orn",
+        "نارنجی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "org",
+      "Meanings": [
+        "organic",
+        "آلی",
+        "ارگانیک"
+      ]
+    },
+    {
+      "EnglishWord": "organic",
+      "Meanings": [
+        "org",
+        "آلی",
+        "ارگانیک"
+      ]
+    },
+    {
+      "EnglishWord": "organic theory",
+      "Meanings": [
+        "An explanation of the origin of petroleum, which holds that the hydrogen and the carbon that make up petroleum come from plants and animals of land and sea. Furthermore, the theory holds that more of this organic material comes from very tiny creatures of swamp and sea than comes from larger creatures of land"
+      ]
+    },
+    {
+      "EnglishWord": "orifice",
+      "Meanings": [
+        "An opening of a measured diameter that is used for measuring the flow of fluid through a pipe, the orifice must be of smaller diameter than the pipe diameter. It is drilled into an orifice plate held by an orifice fitting"
+      ]
+    },
+    {
+      "EnglishWord": "original mud weight",
+      "Meanings": [
+        "OMW",
+        "وزن گل حفاری اولیه یا اصلی قبل از گردش در چاه"
+      ]
+    },
+    {
+      "EnglishWord": "o-ring",
+      "Meanings": [
+        "A circular seal common in the Oilfield; requires deformation, squeeze to energize and seal"
+      ]
+    },
+    {
+      "EnglishWord": "orit",
+      "Meanings": [
+        "Orientation Log or CDR",
+        "همان لاگ سی دی آر است",
+        "لاگی که آزیموت حفاری و همچنین تمایل یا شیب چاه را تا انتها اندازه گیری می‌نماید"
+      ]
+    },
+    {
+      "EnglishWord": "orn",
+      "Meanings": [
+        "orange",
+        "نارنجی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "os",
+      "Meanings": [
+        "اسور شات",
+        "یک ابزار مانده یابی که به لوله‌های حفاری وصل می‌شود و دور مانده یا فیش درون چاه قرار گرفته و آن را محکم می‌گیرد. یک ابزار که اصطکاک زیادی دارد معمولا درون این ابزار قرار دارد و به فیش می‌چسبد و اجازه نمی‌دهد که رها شود",
+        "overshut, OS",
+        "اور شات"
+      ]
+    },
+    {
+      "EnglishWord": "osd",
+      "Meanings": [
+        "oil Sand",
+        "ماسه حاوی نفت",
+        "ماسە نفت دار"
+      ]
+    },
+    {
+      "EnglishWord": "ostra",
+      "Meanings": [
+        "Ostracod"
+      ]
+    },
+    {
+      "EnglishWord": "ostracod",
+      "Meanings": [
+        "ostra"
+      ]
+    },
+    {
+      "EnglishWord": "ot",
+      "Meanings": [
+        "Own Tools"
+      ]
+    },
+    {
+      "EnglishWord": "otd",
+      "Meanings": [
+        "Old Total Depth"
+      ]
+    },
+    {
+      "EnglishWord": "oth",
+      "Meanings": [
+        "Other Runs, operation's abbreviations which Companymans write in their daily drilling reports",
+        "دیگر عملیات انجام شده",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد",
+        "Lost time due to Unlisted Problems, Operations' abbreviation which usually Companymans write in their daily drilling reports"
+      ]
+    },
+    {
+      "EnglishWord": "other runs",
+      "Meanings": [
+        "OTH, operations' abbreviations usually Companymans write in their daily drilling reports",
+        "شروع سایرعملیات درون چاه",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "outrigger",
+      "Meanings": [
+        "A projecting member run out at an angle from the sides of a portable mast or a land crane to the ground to provide stability and to minimize the possibility of having the mast or the crane overturn"
+      ]
+    },
+    {
+      "EnglishWord": "out-running",
+      "Meanings": [
+        "A condition in which fluid is free",
+        "falling down the well at a faster rate than the pumps can handle",
+        ". in wireline, trying to pull out of the well faster than the wireline tools are being blown upwards by unexpected pressure",
+        ". trying to pump out a gas influx before the expansion of gas reduces pressure allowing the Well to Kick"
+      ]
+    },
+    {
+      "EnglishWord": "outside diameter",
+      "Meanings": [
+        "OD",
+        "قطر خارجی لوله‌ها یا کیسینگ‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "outstanding",
+      "Meanings": [
+        "O/S"
+      ]
+    },
+    {
+      "EnglishWord": "ov",
+      "Meanings": [
+        "olive",
+        "زیتونی رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "overbalance",
+      "Meanings": [
+        "The extent to which the hydrostatic pressure of the mud column exceeds formation pressure"
+      ]
+    },
+    {
+      "EnglishWord": "overproduced",
+      "Meanings": [
+        "Said of a Well that has produced more than its allowable"
+      ]
+    },
+    {
+      "EnglishWord": "overpull",
+      "Meanings": [
+        "Pull on pipe over and beyond its weight in either air or fluid"
+      ]
+    },
+    {
+      "EnglishWord": "overshot",
+      "Meanings": [
+        "A Fishing Tool that is attached to tubing or drill pipe and lowered over the outside wall of pipe or sucker rods lost or stuck in the wellbore. A friction device in the overshot, usually either a basket or as spiral grapple, firmly grips the pipe, allowing the Fish to be pulled from the Hole"
+      ]
+    },
+    {
+      "EnglishWord": "overshut",
+      "Meanings": [
+        "OS"
+      ]
+    },
+    {
+      "EnglishWord": "owdd",
+      "Meanings": [
+        "چاه نفتی که عملیات حفاری تا عمق بیشترانجام گردد",
+        "Oil Well Drilled Deeper"
+      ]
+    },
+    {
+      "EnglishWord": "own tools",
+      "Meanings": [
+        "OT"
+      ]
+    },
+    {
+      "EnglishWord": "owpb",
+      "Meanings": [
+        "Old Well Plugged Back",
+        "چاه قدیمی که پلاگ گذاری شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "owwo",
+      "Meanings": [
+        "Old Well Worked Over",
+        "چاه قدیمی نفتی که کار تعمیراتی بر روی آن انجام شده باشد. اصطلاحا به این عمل ورک اور گویند"
+      ]
+    },
+    {
+      "EnglishWord": "ox",
+      "Meanings": [
+        "اکسیده شده",
+        "oxidized"
+      ]
+    },
+    {
+      "EnglishWord": "oxidized",
+      "Meanings": [
+        "اکسیده شده",
+        "OX"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,723 @@
+﻿{
+  "Group": "I",
+  "Entries": 119,
+  "Words": [
+    {
+      "EnglishWord": "ideal normal sonde",
+      "Meanings": [
+        "گمانه عادی مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "igneous rock",
+      "Meanings": [
+        "سنگ آذرین"
+      ]
+    },
+    {
+      "EnglishWord": "immersed sedmientary",
+      "Meanings": [
+        "زمین‌های رسوبی مغروق"
+      ]
+    },
+    {
+      "EnglishWord": "immersion",
+      "Meanings": [
+        "غوطه وری"
+      ]
+    },
+    {
+      "EnglishWord": "impenetrability",
+      "Meanings": [
+        "نفوذ ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "impermeable",
+      "Meanings": [
+        "بستر ناتراوا"
+      ]
+    },
+    {
+      "EnglishWord": "impermeable rock",
+      "Meanings": [
+        "سنگ ناتراوا"
+      ]
+    },
+    {
+      "EnglishWord": "impregnated sand",
+      "Meanings": [
+        "ماسه آغشته"
+      ]
+    },
+    {
+      "EnglishWord": "impregnation deposit",
+      "Meanings": [
+        "نهشت نفت آلود"
+      ]
+    },
+    {
+      "EnglishWord": "impression block",
+      "Meanings": [
+        "استوانه اثر گیر"
+      ]
+    },
+    {
+      "EnglishWord": "impulse inclinometer",
+      "Meanings": [
+        "شیب سنج ضربه یی"
+      ]
+    },
+    {
+      "EnglishWord": "impulse neutron - neutron logging",
+      "Meanings": [
+        "نمودارگیری ضربه یی نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "in situ porosity",
+      "Meanings": [
+        "تخلخل درجا"
+      ]
+    },
+    {
+      "EnglishWord": "inclined anticline",
+      "Meanings": [
+        "تاقدیس مایل"
+      ]
+    },
+    {
+      "EnglishWord": "inclined fold",
+      "Meanings": [
+        "چین مایل"
+      ]
+    },
+    {
+      "EnglishWord": "inclined hole",
+      "Meanings": [
+        "چاه مایل"
+      ]
+    },
+    {
+      "EnglishWord": "inclined oil water contact",
+      "Meanings": [
+        "سطح تماس مایل نفت و آب"
+      ]
+    },
+    {
+      "EnglishWord": "inclined pipe",
+      "Meanings": [
+        "لوله مایل"
+      ]
+    },
+    {
+      "EnglishWord": "independent drive",
+      "Meanings": [
+        "رانش مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "index well",
+      "Meanings": [
+        "چاه شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "indirect flushing",
+      "Meanings": [
+        "شره شویی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "indistinct cleavage",
+      "Meanings": [
+        "رخ نامشخص"
+      ]
+    },
+    {
+      "EnglishWord": "individual pump injectiorr system",
+      "Meanings": [
+        "سیستم تزریق بک تلمبه یی"
+      ]
+    },
+    {
+      "EnglishWord": "individual pumping unit",
+      "Meanings": [
+        "واحد تک تلمبه"
+      ]
+    },
+    {
+      "EnglishWord": "individual transmission of the rotary table",
+      "Meanings": [
+        "حرکت منفصل میز دوار"
+      ]
+    },
+    {
+      "EnglishWord": "induced flow",
+      "Meanings": [
+        "جریان مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "induced potential logging",
+      "Meanings": [
+        "نمودارگیری از پتانسیل القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction log",
+      "Meanings": [
+        "نمودار القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction logging",
+      "Meanings": [
+        "نمودار گیری القایی"
+      ]
+    },
+    {
+      "EnglishWord": "indulation between layers",
+      "Meanings": [
+        "عایق بندی بین لایه ها"
+      ]
+    },
+    {
+      "EnglishWord": "industrial diamond",
+      "Meanings": [
+        "الماس صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "inferior water horizon",
+      "Meanings": [
+        "افق آب زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "infilling drilling",
+      "Meanings": [
+        "حفاری چاه واسط"
+      ]
+    },
+    {
+      "EnglishWord": "infilling well",
+      "Meanings": [
+        "چاه واسط"
+      ]
+    },
+    {
+      "EnglishWord": "infiltrated zone",
+      "Meanings": [
+        "منطقه رسوخ"
+      ]
+    },
+    {
+      "EnglishWord": "infiltration area",
+      "Meanings": [
+        "ناحیه رخنه"
+      ]
+    },
+    {
+      "EnglishWord": "inflatable packre",
+      "Meanings": [
+        "توپک بادی"
+      ]
+    },
+    {
+      "EnglishWord": "inflection of a bed",
+      "Meanings": [
+        "خمیدگی لایه"
+      ]
+    },
+    {
+      "EnglishWord": "inflow performance",
+      "Meanings": [
+        "عملکرد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "infrared detector",
+      "Meanings": [
+        "آشکارساز فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "infrared distance measuring equipment",
+      "Meanings": [
+        "دستگاه فاصله یاب فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "ingerss of water",
+      "Meanings": [
+        "پیش روی",
+        "رسوخ آب"
+      ]
+    },
+    {
+      "EnglishWord": "inhibited mud",
+      "Meanings": [
+        "گل کنده شده"
+      ]
+    },
+    {
+      "EnglishWord": "inhibitor",
+      "Meanings": [
+        "کنده کننده"
+      ]
+    },
+    {
+      "EnglishWord": "initial dip",
+      "Meanings": [
+        "شیب اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initial field",
+      "Meanings": [
+        "میدان اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initial gel",
+      "Meanings": [
+        "استحکام ژلاتینی ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "initial out put",
+      "Meanings": [
+        "تولید اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initial permeability",
+      "Meanings": [
+        "تراوایی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initial pressure",
+      "Meanings": [
+        "فشار اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "initial rating of the well",
+      "Meanings": [
+        "تولید اولیه چاه"
+      ]
+    },
+    {
+      "EnglishWord": "initial set of cement",
+      "Meanings": [
+        "آغاز بستن سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "injection area",
+      "Meanings": [
+        "ناحیه تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injection fluid",
+      "Meanings": [
+        "سیال تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injection line",
+      "Meanings": [
+        "خط لوله تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injection perssure",
+      "Meanings": [
+        "فشار تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injection pump",
+      "Meanings": [
+        "تلمبه تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injection water",
+      "Meanings": [
+        "آب تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injectivity",
+      "Meanings": [
+        "قابلیت تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "injectivity profile",
+      "Meanings": [
+        "نمودار قایم قابلیت تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "inmiscible",
+      "Meanings": [
+        "اختلاط ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "inner conductor",
+      "Meanings": [
+        "رشته جداره نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "inner core barrel",
+      "Meanings": [
+        "تویی مغزه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "input gas",
+      "Meanings": [
+        "گاز تزریقی"
+      ]
+    },
+    {
+      "EnglishWord": "inrush",
+      "Meanings": [
+        "جهش",
+        "فوران سریع",
+        "هجوم"
+      ]
+    },
+    {
+      "EnglishWord": "insert",
+      "Meanings": [
+        "دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "insert pump anchorage",
+      "Meanings": [
+        "تثبیت تلمبه سر راه"
+      ]
+    },
+    {
+      "EnglishWord": "insert tooth",
+      "Meanings": [
+        "دندانه نشانده"
+      ]
+    },
+    {
+      "EnglishWord": "insert v the casing",
+      "Meanings": [
+        "پایین داده جداره"
+      ]
+    },
+    {
+      "EnglishWord": "inserted joint pipe",
+      "Meanings": [
+        "لوله درهم پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "inserted sleeve",
+      "Meanings": [
+        "غلاف جازده"
+      ]
+    },
+    {
+      "EnglishWord": "inside caliper",
+      "Meanings": [
+        "قطر سنجی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inside pipe cutter",
+      "Meanings": [
+        "لوله بر داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inside preventer",
+      "Meanings": [
+        "فوران گیر داخل لوله"
+      ]
+    },
+    {
+      "EnglishWord": "insoluble rock",
+      "Meanings": [
+        "سنگ نامحلول"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous logging",
+      "Meanings": [
+        "نمودار گیری فوری"
+      ]
+    },
+    {
+      "EnglishWord": "instrument pig",
+      "Meanings": [
+        "توپک سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "intake and delivery pressures",
+      "Meanings": [
+        "فشار‌های تزریق و تولید"
+      ]
+    },
+    {
+      "EnglishWord": "intake pressure",
+      "Meanings": [
+        "فشار ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "integral joint",
+      "Meanings": [
+        "اتصال سرخود"
+      ]
+    },
+    {
+      "EnglishWord": "integral riser",
+      "Meanings": [
+        "لوله قایم یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "integrating meter",
+      "Meanings": [
+        "کنتور جمع زن"
+      ]
+    },
+    {
+      "EnglishWord": "intercalated bed",
+      "Meanings": [
+        "میان لایه"
+      ]
+    },
+    {
+      "EnglishWord": "interface",
+      "Meanings": [
+        "سطح مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "interface level",
+      "Meanings": [
+        "تراز سطح مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "interfacial tension",
+      "Meanings": [
+        "کشش سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "interference of wells",
+      "Meanings": [
+        "تداخل چاه ها"
+      ]
+    },
+    {
+      "EnglishWord": "intergranular porosity",
+      "Meanings": [
+        "تخلخل بین دانه یی"
+      ]
+    },
+    {
+      "EnglishWord": "interior leg braces of the derrick",
+      "Meanings": [
+        "بست‌های داخلی پایه دکل"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate casing string",
+      "Meanings": [
+        "رشته جداره میانی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate column",
+      "Meanings": [
+        "پایه میانی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate platform",
+      "Meanings": [
+        "سکوی میانی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediate rock",
+      "Meanings": [
+        "سنگ خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent gas lift",
+      "Meanings": [
+        "فرازآوری منقطع با فشار گاز"
+      ]
+    },
+    {
+      "EnglishWord": "intermittent production",
+      "Meanings": [
+        "تولید منقطع"
+      ]
+    },
+    {
+      "EnglishWord": "intermitter",
+      "Meanings": [
+        "چاه متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "internal flush joint dill pipe",
+      "Meanings": [
+        "لوله حفاری توصاف"
+      ]
+    },
+    {
+      "EnglishWord": "internal upset",
+      "Meanings": [
+        "تقویت داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal upset casing joint",
+      "Meanings": [
+        "اتصال جداره با تقویت داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal upset drill pipe",
+      "Meanings": [
+        "لوله حفاری با تقویت داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal yield pressength",
+      "Meanings": [
+        "مقاومت شکست در مقابل فشار داخلی در لوله ها"
+      ]
+    },
+    {
+      "EnglishWord": "interstice",
+      "Meanings": [
+        "خلل و فرج"
+      ]
+    },
+    {
+      "EnglishWord": "interstitial pressure",
+      "Meanings": [
+        "فشار آب همزاد"
+      ]
+    },
+    {
+      "EnglishWord": "interstitial space",
+      "Meanings": [
+        "حجم خلل و فرج"
+      ]
+    },
+    {
+      "EnglishWord": "interstitial water",
+      "Meanings": [
+        "آب همزاد"
+      ]
+    },
+    {
+      "EnglishWord": "intrusion of water",
+      "Meanings": [
+        "نفوذ آب"
+      ]
+    },
+    {
+      "EnglishWord": "intrusion of water in an oil bearing",
+      "Meanings": [
+        "نفوذ آب به داخل سازند نفت دار"
+      ]
+    },
+    {
+      "EnglishWord": "intrusion rocks",
+      "Meanings": [
+        "سنگ‌های نفوذی"
+      ]
+    },
+    {
+      "EnglishWord": "invasion of permeable beds",
+      "Meanings": [
+        "اشغال لایه‌های نفوذپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "inverse lateral logging",
+      "Meanings": [
+        "نمودار گیری جانبی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse lateral sonde",
+      "Meanings": [
+        "گمانه جانبی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse sonde",
+      "Meanings": [
+        "گمانه معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverted emulsion mud",
+      "Meanings": [
+        "گل امولسیونی وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverted fold",
+      "Meanings": [
+        "چین وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "irregular bedding",
+      "Meanings": [
+        "لایه بندی نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "isohypses",
+      "Meanings": [
+        "خطوط تراز چینه یی"
+      ]
+    },
+    {
+      "EnglishWord": "isolating valve",
+      "Meanings": [
+        "شیر جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "isostatic pressure",
+      "Meanings": [
+        "فشار همستادی"
+      ]
+    },
+    {
+      "EnglishWord": "isostatical settling",
+      "Meanings": [
+        "فرونشست همستادی"
+      ]
+    }
+  ]
+}

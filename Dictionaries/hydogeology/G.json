@@ -1,0 +1,2347 @@
+﻿{
+  "Group": "G",
+  "Entries": 390,
+  "Words": [
+    {
+      "EnglishWord": "gage pressure",
+      "Meanings": [
+        "فشار نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "gain",
+      "Meanings": [
+        "افزونی"
+      ]
+    },
+    {
+      "EnglishWord": "gain",
+      "Meanings": [
+        "فزونش"
+      ]
+    },
+    {
+      "EnglishWord": "gain",
+      "Meanings": [
+        "نفوذ سیال"
+      ]
+    },
+    {
+      "EnglishWord": "galena",
+      "Meanings": [
+        "سنگ گا لن"
+      ]
+    },
+    {
+      "EnglishWord": "gallery-drift-stulm",
+      "Meanings": [
+        "گالری"
+      ]
+    },
+    {
+      "EnglishWord": "galvanization",
+      "Meanings": [
+        "آب کاری"
+      ]
+    },
+    {
+      "EnglishWord": "galvanize",
+      "Meanings": [
+        "آب روی دادن"
+      ]
+    },
+    {
+      "EnglishWord": "galvanize",
+      "Meanings": [
+        "سفید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "galvanized iron",
+      "Meanings": [
+        "آهن سفید"
+      ]
+    },
+    {
+      "EnglishWord": "galvanized steel",
+      "Meanings": [
+        "فولاد گالوانیزه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "galvanizing",
+      "Meanings": [
+        "روی اندود کردن"
+      ]
+    },
+    {
+      "EnglishWord": "galvanizing bath",
+      "Meanings": [
+        "وان آبکاری"
+      ]
+    },
+    {
+      "EnglishWord": "gamma ray",
+      "Meanings": [
+        "نمودار پرتوی گاما"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "سنگ زاید"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "سنگ فلز"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "قشر کان"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "ناخالصی سنگ معدن"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "ناخالصی کانی"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "هرز سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "هرزه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "gangue",
+      "Meanings": [
+        "کلوخه معدن دار"
+      ]
+    },
+    {
+      "EnglishWord": "gangue dilution impurity inclusion lean loss parting scoria",
+      "Meanings": [
+        "ناخالصی"
+      ]
+    },
+    {
+      "EnglishWord": "gangue-rockymatrix",
+      "Meanings": [
+        "گانگ"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "نبود"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "وقفه"
+      ]
+    },
+    {
+      "EnglishWord": "garben",
+      "Meanings": [
+        "فروزمین"
+      ]
+    },
+    {
+      "EnglishWord": "gas blower",
+      "Meanings": [
+        "وزش گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas cap",
+      "Meanings": [
+        "کلاهک گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas cap 32 gas dome 17",
+      "Meanings": [
+        "گنبد گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas carbon",
+      "Meanings": [
+        "زغال قرع"
+      ]
+    },
+    {
+      "EnglishWord": "gas chamber",
+      "Meanings": [
+        "محفظه گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas chromatograph",
+      "Meanings": [
+        "کروماتو گراف گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas chromatography",
+      "Meanings": [
+        "کروماتو گرافی گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas coal",
+      "Meanings": [
+        "گاز قیردار"
+      ]
+    },
+    {
+      "EnglishWord": "gas condensate",
+      "Meanings": [
+        "قطران گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas cone",
+      "Meanings": [
+        "مخروط گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas cone",
+      "Meanings": [
+        "مخروط گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut",
+      "Meanings": [
+        "نفوذ گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut mud",
+      "Meanings": [
+        "گل حفاری گاز کن"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut mud",
+      "Meanings": [
+        "گل حفاری گازدار"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut mud 32",
+      "Meanings": [
+        "گل گاز آلود"
+      ]
+    },
+    {
+      "EnglishWord": "gas cut mud 32",
+      "Meanings": [
+        "گل گاز زده"
+      ]
+    },
+    {
+      "EnglishWord": "gas cycling",
+      "Meanings": [
+        "روش باز یابی گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas drive",
+      "Meanings": [
+        "گاز رانش"
+      ]
+    },
+    {
+      "EnglishWord": "gas drive reservoir",
+      "Meanings": [
+        "مخزن گاز ران"
+      ]
+    },
+    {
+      "EnglishWord": "gas emission",
+      "Meanings": [
+        "گاز خیزی"
+      ]
+    },
+    {
+      "EnglishWord": "gas field",
+      "Meanings": [
+        "میدان نفتی گاز خیز"
+      ]
+    },
+    {
+      "EnglishWord": "gas geology parameters",
+      "Meanings": [
+        "پارامترهای گاز",
+        "زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "gas inclusion",
+      "Meanings": [
+        "میانبار گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas injection",
+      "Meanings": [
+        "تزریق گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas injection well",
+      "Meanings": [
+        "چاه تزریقی"
+      ]
+    },
+    {
+      "EnglishWord": "gas input well",
+      "Meanings": [
+        "چاه تزریق گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas life 32",
+      "Meanings": [
+        "خیزش گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas lift",
+      "Meanings": [
+        "استخراج با تزریق گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas lift",
+      "Meanings": [
+        "تولید گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas oil level",
+      "Meanings": [
+        "سطوح تماس نفت و گا ز"
+      ]
+    },
+    {
+      "EnglishWord": "gas oil ratio",
+      "Meanings": [
+        "نسبت نفت و گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas oil ratio",
+      "Meanings": [
+        "نسبت گاز به نفت"
+      ]
+    },
+    {
+      "EnglishWord": "gas phase",
+      "Meanings": [
+        "فاز گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas pool",
+      "Meanings": [
+        "مخزن گاز زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "gas purification 30",
+      "Meanings": [
+        "خالص نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "gas ratio",
+      "Meanings": [
+        "نسبت گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas sand 17",
+      "Meanings": [
+        "ماسه سنگ گازدار"
+      ]
+    },
+    {
+      "EnglishWord": "gas sand 17",
+      "Meanings": [
+        "ماسه گازدار"
+      ]
+    },
+    {
+      "EnglishWord": "gas streaming",
+      "Meanings": [
+        "سیلان گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas water level",
+      "Meanings": [
+        "سطح تماس گازوآب"
+      ]
+    },
+    {
+      "EnglishWord": "gas well",
+      "Meanings": [
+        "چاه تخلیه گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas well",
+      "Meanings": [
+        "چاه گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas zone",
+      "Meanings": [
+        "منطقه گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas zone",
+      "Meanings": [
+        "ناحیه گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas-driven blowing engine",
+      "Meanings": [
+        "توربین گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas-emission",
+      "Meanings": [
+        "قشر گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gaseous  mine",
+      "Meanings": [
+        "معدن گریزودار"
+      ]
+    },
+    {
+      "EnglishWord": "gaseous drilling fluid",
+      "Meanings": [
+        "سیال حفاری گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gaseous mine",
+      "Meanings": [
+        "معدن گاز دار"
+      ]
+    },
+    {
+      "EnglishWord": "gas-fume-trip gas",
+      "Meanings": [
+        "گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gas-lift pump",
+      "Meanings": [
+        "تلمبه گاز ران"
+      ]
+    },
+    {
+      "EnglishWord": "gas-off-take 5",
+      "Meanings": [
+        "مجرای خروج گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gasoil ratio",
+      "Meanings": [
+        "مقدار گاز در نفت"
+      ]
+    },
+    {
+      "EnglishWord": "gasometer",
+      "Meanings": [
+        "گاز سنج"
+      ]
+    },
+    {
+      "EnglishWord": "gasser",
+      "Meanings": [
+        "چاه مولد گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gate conveyor",
+      "Meanings": [
+        "نوار نقاله دروازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "gateroad",
+      "Meanings": [
+        "راه دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gathering arm loader 31",
+      "Meanings": [
+        "لودر بازو دار"
+      ]
+    },
+    {
+      "EnglishWord": "gathering arm loader 55",
+      "Meanings": [
+        "لودر با با زوهای جمع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "gathering belt conveyor",
+      "Meanings": [
+        "نوار جمع آوری مواد"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "سنجه"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "مغار"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "مواد دانه ریز بین دیواره‌های گسل"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "ناودانی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "گرزن"
+      ]
+    },
+    {
+      "EnglishWord": "gauge 17",
+      "Meanings": [
+        "لایة مواد نرم بین رگة معدنی و دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "gauge clearance",
+      "Meanings": [
+        "اضافه عرض راه"
+      ]
+    },
+    {
+      "EnglishWord": "gauge surface",
+      "Meanings": [
+        "سطوح دیواربر"
+      ]
+    },
+    {
+      "EnglishWord": "gauge surface",
+      "Meanings": [
+        "سطوح کناری مته"
+      ]
+    },
+    {
+      "EnglishWord": "gaussian 58",
+      "Meanings": [
+        "گوسی"
+      ]
+    },
+    {
+      "EnglishWord": "gavel",
+      "Meanings": [
+        "تیشه"
+      ]
+    },
+    {
+      "EnglishWord": "gavel",
+      "Meanings": [
+        "پتک چوبی"
+      ]
+    },
+    {
+      "EnglishWord": "gear box 1",
+      "Meanings": [
+        "گیر بکس"
+      ]
+    },
+    {
+      "EnglishWord": "gearing 59",
+      "Meanings": [
+        "گیرینگ"
+      ]
+    },
+    {
+      "EnglishWord": "gechemical barrier",
+      "Meanings": [
+        "سد ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "محلول ژلاتینی"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "ژل"
+      ]
+    },
+    {
+      "EnglishWord": "gel 60 slurry",
+      "Meanings": [
+        "ژله ای"
+      ]
+    },
+    {
+      "EnglishWord": "gelignite",
+      "Meanings": [
+        "نوعی دینامیت"
+      ]
+    },
+    {
+      "EnglishWord": "gelignite",
+      "Meanings": [
+        "ژلیگنیت"
+      ]
+    },
+    {
+      "EnglishWord": "gelignite",
+      "Meanings": [
+        "ژلیگنیتا"
+      ]
+    },
+    {
+      "EnglishWord": "gelling 47",
+      "Meanings": [
+        "خاصیت زله ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "gem",
+      "Meanings": [
+        "جواهر"
+      ]
+    },
+    {
+      "EnglishWord": "gem",
+      "Meanings": [
+        "سنگ تزیینی"
+      ]
+    },
+    {
+      "EnglishWord": "gem",
+      "Meanings": [
+        "سنگ قیمتی"
+      ]
+    },
+    {
+      "EnglishWord": "gem 6",
+      "Meanings": [
+        "گوهر"
+      ]
+    },
+    {
+      "EnglishWord": "general composite halo",
+      "Meanings": [
+        "هاله مرکب کلی"
+      ]
+    },
+    {
+      "EnglishWord": "general cost",
+      "Meanings": [
+        "هزینه ای عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "general expense",
+      "Meanings": [
+        "هزینه ای غیر عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "general failure",
+      "Meanings": [
+        "گسیختگی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "ژنراتور"
+      ]
+    },
+    {
+      "EnglishWord": "genesis",
+      "Meanings": [
+        "ژنز"
+      ]
+    },
+    {
+      "EnglishWord": "genesis  source",
+      "Meanings": [
+        "منشا"
+      ]
+    },
+    {
+      "EnglishWord": "genesis process",
+      "Meanings": [
+        "فرآیند زایشی"
+      ]
+    },
+    {
+      "EnglishWord": "genetic classification",
+      "Meanings": [
+        "تقسیم بندی زایشی"
+      ]
+    },
+    {
+      "EnglishWord": "geobotanic",
+      "Meanings": [
+        "زمین گیاه شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geobotanical",
+      "Meanings": [
+        "ژیوبوتانی"
+      ]
+    },
+    {
+      "EnglishWord": "geobotanical",
+      "Meanings": [
+        "ژیوگیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "geobotany",
+      "Meanings": [
+        "زمین شناسی گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical",
+      "Meanings": [
+        "زمین شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical  background unit",
+      "Meanings": [
+        "واحد مقدار زمینه ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical criteria",
+      "Meanings": [
+        "معیارهای ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical dispersion trains",
+      "Meanings": [
+        "پراکندگی رشته ای ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical halo",
+      "Meanings": [
+        "هاله ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical method",
+      "Meanings": [
+        "روش ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical migration",
+      "Meanings": [
+        "مهاجرت ژیو شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical pathfinder",
+      "Meanings": [
+        "رد یاب ژیو شیمیا یی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical population",
+      "Meanings": [
+        "جمعیت ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical prospecting",
+      "Meanings": [
+        "پی جویی ژیوشیمی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical sampling",
+      "Meanings": [
+        "نمونه برداری ژیوشیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemical-geological map",
+      "Meanings": [
+        "نقشه ژیو شیمیایی _زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemistry",
+      "Meanings": [
+        "زمین شیمی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemistry",
+      "Meanings": [
+        "ژیوشیمی"
+      ]
+    },
+    {
+      "EnglishWord": "geochronology",
+      "Meanings": [
+        "زمان شناسی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geochronology",
+      "Meanings": [
+        "ژیوکرنولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "geochronology",
+      "Meanings": [
+        "گاه شناسی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geodesic",
+      "Meanings": [
+        "پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "geodesic line 17",
+      "Meanings": [
+        "خط زمین پیمایش"
+      ]
+    },
+    {
+      "EnglishWord": "geodesic line3",
+      "Meanings": [
+        "خط زیودزی"
+      ]
+    },
+    {
+      "EnglishWord": "geodesy",
+      "Meanings": [
+        "زمین سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "geodesy",
+      "Meanings": [
+        "زمین پیمایی"
+      ]
+    },
+    {
+      "EnglishWord": "geodesy",
+      "Meanings": [
+        "ژیودزی"
+      ]
+    },
+    {
+      "EnglishWord": "geodesy surveying",
+      "Meanings": [
+        "مساحی"
+      ]
+    },
+    {
+      "EnglishWord": "geoelectric",
+      "Meanings": [
+        "پی جویی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "geoelectrical response",
+      "Meanings": [
+        "پاسخ زیوالکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "geoelectrical section",
+      "Meanings": [
+        "مقطع ژیو الکتریک"
+      ]
+    },
+    {
+      "EnglishWord": "geohydrology",
+      "Meanings": [
+        "ژیوهیدرولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "geoid",
+      "Meanings": [
+        "زمین نما"
+      ]
+    },
+    {
+      "EnglishWord": "geologic column",
+      "Meanings": [
+        "ستون زمین شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "geologic cycle",
+      "Meanings": [
+        "چرخه زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geologic logs",
+      "Meanings": [
+        "نمودار زمین شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "geological",
+      "Meanings": [
+        "کاوش زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological  column . geological log.",
+      "Meanings": [
+        "نمودار زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological  formation",
+      "Meanings": [
+        "سازند زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological age",
+      "Meanings": [
+        "سن زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological age",
+      "Meanings": [
+        "عمر سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "geological block",
+      "Meanings": [
+        "قطعه زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological column",
+      "Meanings": [
+        "ستون زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological cycle",
+      "Meanings": [
+        "سیکل زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological faulting",
+      "Meanings": [
+        "گسلە شدن‌های زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological formation",
+      "Meanings": [
+        "تشکیلات زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological map",
+      "Meanings": [
+        "نقشه زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological mapping",
+      "Meanings": [
+        "نقشه برداری زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological section",
+      "Meanings": [
+        "مقطع زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological survey",
+      "Meanings": [
+        "اداره زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological survey",
+      "Meanings": [
+        "تحقیقات زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological survey",
+      "Meanings": [
+        "سازمان زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological survey",
+      "Meanings": [
+        "سازمان زمین شناسی کشور"
+      ]
+    },
+    {
+      "EnglishWord": "geological survey",
+      "Meanings": [
+        "عملیات زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geological trip",
+      "Meanings": [
+        "سفرزمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geologicl cycle",
+      "Meanings": [
+        "مرحله زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geologocal age",
+      "Meanings": [
+        "سن طبقه"
+      ]
+    },
+    {
+      "EnglishWord": "geolograph",
+      "Meanings": [
+        "ژیوگراف"
+      ]
+    },
+    {
+      "EnglishWord": "geolograph 17",
+      "Meanings": [
+        "لایه نگار"
+      ]
+    },
+    {
+      "EnglishWord": "geology",
+      "Meanings": [
+        "زمین شناخت"
+      ]
+    },
+    {
+      "EnglishWord": "geology",
+      "Meanings": [
+        "زمین شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geology 32",
+      "Meanings": [
+        "دانش کره زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geomathematics",
+      "Meanings": [
+        "زمین ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "geometery 1",
+      "Meanings": [
+        "هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphic cycle",
+      "Meanings": [
+        "چرخه ریخت شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphic cycle",
+      "Meanings": [
+        "چرخه ژیو مورفیک"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphological criteria",
+      "Meanings": [
+        "معیارهای مربوط به پستی وبلندی سطح زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphological criteria",
+      "Meanings": [
+        "معیارهای ژیو مرفولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphology",
+      "Meanings": [
+        "ریخت شناسی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphology",
+      "Meanings": [
+        "فرم شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphology",
+      "Meanings": [
+        "ژیومرفولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphology",
+      "Meanings": [
+        "ژیومورفولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphy",
+      "Meanings": [
+        "زمین ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "geophone",
+      "Meanings": [
+        "زمین گوش"
+      ]
+    },
+    {
+      "EnglishWord": "geophone",
+      "Meanings": [
+        "ژیوفون"
+      ]
+    },
+    {
+      "EnglishWord": "geophone 19",
+      "Meanings": [
+        "لرزه سنج"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical",
+      "Meanings": [
+        "ژیوفیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical criteria",
+      "Meanings": [
+        "معیارهای ژیو فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical exploration",
+      "Meanings": [
+        "اکتشافات زمین فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical exploration",
+      "Meanings": [
+        "اکتشافات ژیوفیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical exploration",
+      "Meanings": [
+        "ژیوفیزیک اکتشافی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysical exploration",
+      "Meanings": [
+        "ژیوفیزیک پیگردی"
+      ]
+    },
+    {
+      "EnglishWord": "geophysics",
+      "Meanings": [
+        "زمین فیزیک"
+      ]
+    },
+    {
+      "EnglishWord": "geophysics",
+      "Meanings": [
+        "فیزیک زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geophysics",
+      "Meanings": [
+        "فیزیک کره زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geophysics  geophysic",
+      "Meanings": [
+        "ژیوفیزیک"
+      ]
+    },
+    {
+      "EnglishWord": "geostatic  pressure",
+      "Meanings": [
+        "فشار زمین ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "geostatic  pressure",
+      "Meanings": [
+        "فشار ژیواستاتیک"
+      ]
+    },
+    {
+      "EnglishWord": "geo-statistical",
+      "Meanings": [
+        "زمین اماری"
+      ]
+    },
+    {
+      "EnglishWord": "geostatistics",
+      "Meanings": [
+        "زمین امار"
+      ]
+    },
+    {
+      "EnglishWord": "geosyncline",
+      "Meanings": [
+        "ناوزمین"
+      ]
+    },
+    {
+      "EnglishWord": "geosyncline",
+      "Meanings": [
+        "ژیوسینکلین"
+      ]
+    },
+    {
+      "EnglishWord": "geotechnics",
+      "Meanings": [
+        "فنون زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geotechnics",
+      "Meanings": [
+        "ژیوتکنیک"
+      ]
+    },
+    {
+      "EnglishWord": "geotechnological hole",
+      "Meanings": [
+        "چال ژیوتکنیکی"
+      ]
+    },
+    {
+      "EnglishWord": "geothermal",
+      "Meanings": [
+        "زمین گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "geothermal step",
+      "Meanings": [
+        "پله حرارتی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geothermal step",
+      "Meanings": [
+        "پله زمین گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "geothermometry",
+      "Meanings": [
+        "حرارت سنجی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "geothermometry",
+      "Meanings": [
+        "ژیوترمال"
+      ]
+    },
+    {
+      "EnglishWord": "germ",
+      "Meanings": [
+        "میکروب"
+      ]
+    },
+    {
+      "EnglishWord": "germ",
+      "Meanings": [
+        "ژرم"
+      ]
+    },
+    {
+      "EnglishWord": "get 37",
+      "Meanings": [
+        "مته حفاری بدون ماسوره"
+      ]
+    },
+    {
+      "EnglishWord": "geyser",
+      "Meanings": [
+        "آب فشان"
+      ]
+    },
+    {
+      "EnglishWord": "ghost movement",
+      "Meanings": [
+        "حرکت اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "ghost movement",
+      "Meanings": [
+        "حرکت سایه"
+      ]
+    },
+    {
+      "EnglishWord": "giant",
+      "Meanings": [
+        "سرلوله آب"
+      ]
+    },
+    {
+      "EnglishWord": "gin pit",
+      "Meanings": [
+        "چاه منجنیقی"
+      ]
+    },
+    {
+      "EnglishWord": "glacial deposit",
+      "Meanings": [
+        "رسوبات یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift 1",
+      "Meanings": [
+        "یخرفت"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift 33",
+      "Meanings": [
+        "یخ آورد"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift 33",
+      "Meanings": [
+        "یخرانده"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift 33",
+      "Meanings": [
+        "یخرانه"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift 33",
+      "Meanings": [
+        "یخرفته"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift gas",
+      "Meanings": [
+        "گاز یخرفتی"
+      ]
+    },
+    {
+      "EnglishWord": "glaciar 33",
+      "Meanings": [
+        "یخ انباشت"
+      ]
+    },
+    {
+      "EnglishWord": "glacier",
+      "Meanings": [
+        "توده یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "glacier",
+      "Meanings": [
+        "روانه یخ"
+      ]
+    },
+    {
+      "EnglishWord": "glacier 45 refrigerator 44",
+      "Meanings": [
+        "یخچال"
+      ]
+    },
+    {
+      "EnglishWord": "glacio-fluvial",
+      "Meanings": [
+        "رسوبات یخ ابی"
+      ]
+    },
+    {
+      "EnglishWord": "glascier surge 33",
+      "Meanings": [
+        "خیزش یخجالی"
+      ]
+    },
+    {
+      "EnglishWord": "glass paper",
+      "Meanings": [
+        "کاغذ سمباده"
+      ]
+    },
+    {
+      "EnglishWord": "glide direction",
+      "Meanings": [
+        "جهت لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "glide line 17",
+      "Meanings": [
+        "خط لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "glide plane",
+      "Meanings": [
+        "سطح لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "global average",
+      "Meanings": [
+        "میانگین جهانی"
+      ]
+    },
+    {
+      "EnglishWord": "global-kelly",
+      "Meanings": [
+        "کلی"
+      ]
+    },
+    {
+      "EnglishWord": "globular",
+      "Meanings": [
+        "کروی"
+      ]
+    },
+    {
+      "EnglishWord": "globular",
+      "Meanings": [
+        "گرد"
+      ]
+    },
+    {
+      "EnglishWord": "globular 17",
+      "Meanings": [
+        "گلوله ای"
+      ]
+    },
+    {
+      "EnglishWord": "globular 17",
+      "Meanings": [
+        "گوی دار"
+      ]
+    },
+    {
+      "EnglishWord": "glory hole mine",
+      "Meanings": [
+        "معدن روباز قیفی"
+      ]
+    },
+    {
+      "EnglishWord": "gloty hole mining",
+      "Meanings": [
+        "روش استخراجی قیف گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "gneiss 1",
+      "Meanings": [
+        "گنایس"
+      ]
+    },
+    {
+      "EnglishWord": "gneissic 1",
+      "Meanings": [
+        "گنایسی"
+      ]
+    },
+    {
+      "EnglishWord": "gneissic layering 21",
+      "Meanings": [
+        "لایه بندی گنایسی"
+      ]
+    },
+    {
+      "EnglishWord": "goaf",
+      "Meanings": [
+        "ناحیه تخریب شده"
+      ]
+    },
+    {
+      "EnglishWord": "gob",
+      "Meanings": [
+        "تل باطله"
+      ]
+    },
+    {
+      "EnglishWord": "gob",
+      "Meanings": [
+        "کار گاه استخراج شده"
+      ]
+    },
+    {
+      "EnglishWord": "goggle",
+      "Meanings": [
+        "عینک ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "goggle",
+      "Meanings": [
+        "نقاب"
+      ]
+    },
+    {
+      "EnglishWord": "gold staub",
+      "Meanings": [
+        "گرد طلا"
+      ]
+    },
+    {
+      "EnglishWord": "goose-neck--swan-neck",
+      "Meanings": [
+        "گردن غازی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "gossan-iron hat-capping",
+      "Meanings": [
+        "کلاهک آهنی"
+      ]
+    },
+    {
+      "EnglishWord": "gouge",
+      "Meanings": [
+        "آرد سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "gouging",
+      "Meanings": [
+        "گداختن"
+      ]
+    },
+    {
+      "EnglishWord": "grab",
+      "Meanings": [
+        "بیل"
+      ]
+    },
+    {
+      "EnglishWord": "grab  sampling",
+      "Meanings": [
+        "نمونه برداری کلوخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "grab sample",
+      "Meanings": [
+        "نمونه کتره ای"
+      ]
+    },
+    {
+      "EnglishWord": "graben",
+      "Meanings": [
+        "پایین افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "grable car",
+      "Meanings": [
+        "واگن صندوق مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "gradability",
+      "Meanings": [
+        "قابلیت صعود"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "عیار کان سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "کلاس"
+      ]
+    },
+    {
+      "EnglishWord": "grade - tonnage curve",
+      "Meanings": [
+        "منحنی تناژ عیار"
+      ]
+    },
+    {
+      "EnglishWord": "grade 1 step 6",
+      "Meanings": [
+        "درجه"
+      ]
+    },
+    {
+      "EnglishWord": "grade distribution",
+      "Meanings": [
+        "کم شدن تدریجی عیار"
+      ]
+    },
+    {
+      "EnglishWord": "grade resistance",
+      "Meanings": [
+        "نیروی مقاوم شیب"
+      ]
+    },
+    {
+      "EnglishWord": "graded bedding 21",
+      "Meanings": [
+        "لایه بندی دانه ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "graded bedding 33",
+      "Meanings": [
+        "لایه بندی تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "graded stream",
+      "Meanings": [
+        "رودخانه هموار"
+      ]
+    },
+    {
+      "EnglishWord": "grader",
+      "Meanings": [
+        "گریدر"
+      ]
+    },
+    {
+      "EnglishWord": "gradient",
+      "Meanings": [
+        "گرادیان"
+      ]
+    },
+    {
+      "EnglishWord": "grading 6 grain size distiribution 48 granulometry",
+      "Meanings": [
+        "دانه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "gradual change",
+      "Meanings": [
+        "تغییرات تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "grain-size curve  screen analysis graph",
+      "Meanings": [
+        "منحنی دانه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "granby car",
+      "Meanings": [
+        "واگن چپ شوی بغلی"
+      ]
+    },
+    {
+      "EnglishWord": "granby car",
+      "Meanings": [
+        "واگن گرانبای"
+      ]
+    },
+    {
+      "EnglishWord": "granit",
+      "Meanings": [
+        "گرانیت"
+      ]
+    },
+    {
+      "EnglishWord": "granite",
+      "Meanings": [
+        "سنگ خارا"
+      ]
+    },
+    {
+      "EnglishWord": "granitization 1",
+      "Meanings": [
+        "خاراشدن"
+      ]
+    },
+    {
+      "EnglishWord": "granolation 5",
+      "Meanings": [
+        "دانه دانه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "granular",
+      "Meanings": [
+        "حبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "granular 24",
+      "Meanings": [
+        "دانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "graph theory",
+      "Meanings": [
+        "نظریه گرافها"
+      ]
+    },
+    {
+      "EnglishWord": "graphic well log",
+      "Meanings": [
+        "نمودار جامع چاه"
+      ]
+    },
+    {
+      "EnglishWord": "graphic well log",
+      "Meanings": [
+        "نمودار کامل چاه"
+      ]
+    },
+    {
+      "EnglishWord": "graphic well log.well log.bore chart.bore hole log",
+      "Meanings": [
+        "نمودار چاه"
+      ]
+    },
+    {
+      "EnglishWord": "graphitization",
+      "Meanings": [
+        "گرافیت شدن"
+      ]
+    },
+    {
+      "EnglishWord": "grate discharge",
+      "Meanings": [
+        "تخلیه با شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "grate discharge",
+      "Meanings": [
+        "تخلیه شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "gravel",
+      "Meanings": [
+        "سنگریزه"
+      ]
+    },
+    {
+      "EnglishWord": "gravimeter",
+      "Meanings": [
+        "گرانی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "gravimetery",
+      "Meanings": [
+        "ثقل سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "gravimetry",
+      "Meanings": [
+        "گرانی سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "gravitational constant",
+      "Meanings": [
+        "مقدار ثابت جاذبه"
+      ]
+    },
+    {
+      "EnglishWord": "gravitational force",
+      "Meanings": [
+        "نیروی ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravitational water",
+      "Meanings": [
+        "آب گرانشی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity",
+      "Meanings": [
+        "نیروی ثقل جاذبه"
+      ]
+    },
+    {
+      "EnglishWord": "gravity bar",
+      "Meanings": [
+        "میله ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity concentration",
+      "Meanings": [
+        "آرایش ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity concentration",
+      "Meanings": [
+        "تغلیظ ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity concentration",
+      "Meanings": [
+        "پرعیارکردن به روش ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity drainage",
+      "Meanings": [
+        "گرانش ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity drainage",
+      "Meanings": [
+        "گرانی رانشی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity dranage 32",
+      "Meanings": [
+        "خیزش وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity haulage",
+      "Meanings": [
+        "روش ثقلی باربری در کارگاه استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "gravity method",
+      "Meanings": [
+        "روش ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity method",
+      "Meanings": [
+        "روش گرانی سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity separator",
+      "Meanings": [
+        "جدا کننده ثقلی مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "gray antimony",
+      "Meanings": [
+        "سولفور آنتیموان"
+      ]
+    },
+    {
+      "EnglishWord": "grease belt",
+      "Meanings": [
+        "نوار چرب"
+      ]
+    },
+    {
+      "EnglishWord": "grease table",
+      "Meanings": [
+        "میز چوب"
+      ]
+    },
+    {
+      "EnglishWord": "green roof",
+      "Meanings": [
+        "سقف تازه"
+      ]
+    },
+    {
+      "EnglishWord": "greenhouse effect",
+      "Meanings": [
+        "اثر گلخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "greisenization",
+      "Meanings": [
+        "گرایزنی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "grenalation cleavage",
+      "Meanings": [
+        "کلیواژ با چین خوردگی ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "grid density",
+      "Meanings": [
+        "چگالی شبکه اکتشاف"
+      ]
+    },
+    {
+      "EnglishWord": "grid roller",
+      "Meanings": [
+        "غلتک شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "grind",
+      "Meanings": [
+        "تیز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grind",
+      "Meanings": [
+        "ساییدن"
+      ]
+    },
+    {
+      "EnglishWord": "grindability",
+      "Meanings": [
+        "ریز شوندگی"
+      ]
+    },
+    {
+      "EnglishWord": "grindability",
+      "Meanings": [
+        "قابلیت خرد شدن"
+      ]
+    },
+    {
+      "EnglishWord": "grindability 1",
+      "Meanings": [
+        "خردایش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "grinder",
+      "Meanings": [
+        "سنگ تیزگر"
+      ]
+    },
+    {
+      "EnglishWord": "grinder",
+      "Meanings": [
+        "چرخ سمباده"
+      ]
+    },
+    {
+      "EnglishWord": "grinding",
+      "Meanings": [
+        "آسیا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grinding",
+      "Meanings": [
+        "آسیاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grinding 1 milling 1 size reduction 1",
+      "Meanings": [
+        "خردایش"
+      ]
+    },
+    {
+      "EnglishWord": "grinding kinetics",
+      "Meanings": [
+        "سینتیک خرد کنندگی"
+      ]
+    },
+    {
+      "EnglishWord": "grinding milling",
+      "Meanings": [
+        "نرم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grinding stone",
+      "Meanings": [
+        "سنگ چاقو تیزکنی"
+      ]
+    },
+    {
+      "EnglishWord": "grinding stone",
+      "Meanings": [
+        "چرخ چاقو تیز کنی"
+      ]
+    },
+    {
+      "EnglishWord": "grinding-circuit",
+      "Meanings": [
+        "مدار نرم کن"
+      ]
+    },
+    {
+      "EnglishWord": "grisou-wild fire-coal gas-mine gas",
+      "Meanings": [
+        "گریزو"
+      ]
+    },
+    {
+      "EnglishWord": "grizzly",
+      "Meanings": [
+        "گریزلی"
+      ]
+    },
+    {
+      "EnglishWord": "grizzly man",
+      "Meanings": [
+        "گریزلی چی"
+      ]
+    },
+    {
+      "EnglishWord": "gross homogeneity 57",
+      "Meanings": [
+        "همگونی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "gross metal",
+      "Meanings": [
+        "فلز برجا"
+      ]
+    },
+    {
+      "EnglishWord": "gross operating",
+      "Meanings": [
+        "فرجه عملیاتی ناویژه"
+      ]
+    },
+    {
+      "EnglishWord": "gross revenue",
+      "Meanings": [
+        "فروش ناویژه"
+      ]
+    },
+    {
+      "EnglishWord": "gross value tax 1",
+      "Meanings": [
+        "مالیات بر ارزش ناویژه"
+      ]
+    },
+    {
+      "EnglishWord": "ground air 25",
+      "Meanings": [
+        "هوای درون زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ground ice 45",
+      "Meanings": [
+        "یخ زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground open exploation",
+      "Meanings": [
+        "اکتشافات سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "ground preparation",
+      "Meanings": [
+        "آماده شدن زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "ground state",
+      "Meanings": [
+        "حالت پایه"
+      ]
+    },
+    {
+      "EnglishWord": "ground vibration 31",
+      "Meanings": [
+        "لرزش زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ground water",
+      "Meanings": [
+        "آب زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground-water ridge",
+      "Meanings": [
+        "پشته آب زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "grouted steel cable anchors",
+      "Meanings": [
+        "میل مهاری فولادی دوغابکاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "grouting",
+      "Meanings": [
+        "تزریق سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "guase-fossil",
+      "Meanings": [
+        "فسیل مانند"
+      ]
+    },
+    {
+      "EnglishWord": "guide fossil",
+      "Meanings": [
+        "فسیل تعیین کننده"
+      ]
+    },
+    {
+      "EnglishWord": "guide fossil",
+      "Meanings": [
+        "فسیل راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guide fossil",
+      "Meanings": [
+        "فسیل مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "guide rope",
+      "Meanings": [
+        "کابل راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guide vane",
+      "Meanings": [
+        "پره هادی"
+      ]
+    },
+    {
+      "EnglishWord": "guinte",
+      "Meanings": [
+        "گانایت"
+      ]
+    },
+    {
+      "EnglishWord": "gully",
+      "Meanings": [
+        "راه اب"
+      ]
+    },
+    {
+      "EnglishWord": "gully",
+      "Meanings": [
+        "کندر"
+      ]
+    },
+    {
+      "EnglishWord": "gumbo 17",
+      "Meanings": [
+        "خاک رس بسیار چسبنده"
+      ]
+    },
+    {
+      "EnglishWord": "gun cotton",
+      "Meanings": [
+        "پنبه توپ"
+      ]
+    },
+    {
+      "EnglishWord": "gun sampler",
+      "Meanings": [
+        "نمونه گیر تفنگی"
+      ]
+    },
+    {
+      "EnglishWord": "gunite 65",
+      "Meanings": [
+        "گونیت"
+      ]
+    },
+    {
+      "EnglishWord": "gutter",
+      "Meanings": [
+        "آب رو"
+      ]
+    },
+    {
+      "EnglishWord": "gympsum",
+      "Meanings": [
+        "سنگ گچ"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum",
+      "Meanings": [
+        "گچ"
+      ]
+    },
+    {
+      "EnglishWord": "gyratory",
+      "Meanings": [
+        "حرکت دوارانی"
+      ]
+    },
+    {
+      "EnglishWord": "gyratory crusher",
+      "Meanings": [
+        "سنگ کن دوار"
+      ]
+    },
+    {
+      "EnglishWord": "gyratory screen",
+      "Meanings": [
+        "سرند ژیراتوری"
+      ]
+    },
+    {
+      "EnglishWord": "gyre",
+      "Meanings": [
+        "گرداب اقیانوسی"
+      ]
+    },
+    {
+      "EnglishWord": "gyroscope",
+      "Meanings": [
+        "ژیروسکوب"
+      ]
+    },
+    {
+      "EnglishWord": "gyrotary crusher",
+      "Meanings": [
+        "سنگ شکن دوار"
+      ]
+    },
+    {
+      "EnglishWord": "gyrotary crusher",
+      "Meanings": [
+        "سنگ شکن ژیراتوری"
+      ]
+    },
+    {
+      "EnglishWord": "gyrotary crusher",
+      "Meanings": [
+        "سنگ شکن ژیراسیونی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1162 @@
+﻿{
+  "Group": "V",
+  "Entries": 186,
+  "Words": [
+    {
+      "EnglishWord": "val",
+      "Meanings": [
+        "Val ue",
+        "مقدار",
+        "دستوری برای تبدیل دستور به عدد",
+        "Val Number"
+      ]
+    },
+    {
+      "EnglishWord": "validate",
+      "Meanings": [
+        "معتبر",
+        "رویدادی که مشخص می‌کند که چه زمان کاربر می‌تواند از برنامه خارج شود",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "value",
+      "Meanings": [
+        "متغیر",
+        "رجوع به و",
+        "صه از جعبه چک که مشخص می‌کند که انتخاب شده یا نه و به طور پیش فرض هنگام به کار بردن این شیء بدون هیچ خصیصه ای منظور V alue م ی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "var",
+      "Meanings": [
+        "Var iant",
+        "Var iable",
+        "متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable-length",
+      "Meanings": [
+        "رشته متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variant",
+      "Meanings": [
+        "متغیر",
+        "شکلی از متغیرها که شامل هر نوع متغیری می‌باشد و مقدار آن از 16 تا 22 بایت متغیر است"
+      ]
+    },
+    {
+      "EnglishWord": "variant expression",
+      "Meanings": [
+        "هر عبارتی که دارای نوعی متغیر از جمله عدد و متن و… باشد"
+      ]
+    },
+    {
+      "EnglishWord": "vb",
+      "Meanings": [
+        "V isual B asic",
+        "ویژوال بیسیک"
+      ]
+    },
+    {
+      "EnglishWord": "vb.net",
+      "Meanings": [
+        "V isual B asic .Net"
+      ]
+    },
+    {
+      "EnglishWord": "vb6 api viewer",
+      "Meanings": [
+        "یکی از گزینه‌های درون برای اضافه کردن ابزار"
+      ]
+    },
+    {
+      "EnglishWord": "vba",
+      "Meanings": [
+        "V isual B asic for A pplications"
+      ]
+    },
+    {
+      "EnglishWord": "vbabort",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه Abort را انتخاب کند مقدار آن vbAbort می‌شود و مقدار عددی آن برابر 3 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbabortretryignore",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که دکمه‌های Abort"
+      ]
+    },
+    {
+      "EnglishWord": "vbaltmask",
+      "Meanings": [
+        "کد کلید Alt"
+      ]
+    },
+    {
+      "EnglishWord": "vbapplicationmodal",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که اگر کاربر به آن جواب ندهد نمی‌تواند با برنامه کار کند و مقدار عددی آن 0 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbbinarycompare",
+      "Meanings": [
+        "مقایسه دودویی",
+        "یکی از گزینه‌های Compare در دستورهای Replace"
+      ]
+    },
+    {
+      "EnglishWord": "vbblack",
+      "Meanings": [
+        "رنگ سیاه که مقدار آن برابر 0x0 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbblue",
+      "Meanings": [
+        "رنگ آبی که مقدار آن برابر 0xFF0000 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbcancel",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه Cancel را انتخاب کند مقدار آن vbCancel می‌شود و مقدار عددی آن برابر 2 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbcentimeters",
+      "Meanings": [
+        "مقیاسی که برابر یک صدم متر می‌باشد و مقدار عددی آن برابر هفت است"
+      ]
+    },
+    {
+      "EnglishWord": "vbcfbitmap",
+      "Meanings": [
+        "یکی از فرمتهای VB که نوع داده را از Bitmap مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbcfdib",
+      "Meanings": [
+        "یکی از فرمتهای VB که نوع داده را از Bitmap مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbcfmetafile",
+      "Meanings": [
+        "یکی از فرمتهای VB که نوع داده را از MetaFile مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbcfrtf",
+      "Meanings": [
+        "یکی از فرمتهای VB که نوع متن را از RTF مشخص می‌کند",
+        "در این فرمت اندازه فونتها و رنگها و… ثابت است"
+      ]
+    },
+    {
+      "EnglishWord": "vbcharacters",
+      "Meanings": [
+        "مقیاسی که برابر با 12 نقطه می‌باشد و مقدار عددی آن برابر چهار است"
+      ]
+    },
+    {
+      "EnglishWord": "vbchecked",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbcombodropdown",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbcombodropdownlist",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbcombosimple",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbcritical",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که یک جعبه پیغام اخطار را نشان می‌دهد و مقدار عددی آن 16 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbctrlmask",
+      "Meanings": [
+        "کد کلید Ctrl"
+      ]
+    },
+    {
+      "EnglishWord": "vbcyan",
+      "Meanings": [
+        "رنگی بین آبی و سبز که مقدار آن برابر 0xFFFF00 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbd",
+      "Meanings": [
+        "ActiveX document state file"
+      ]
+    },
+    {
+      "EnglishWord": "vbdatabasecompare",
+      "Meanings": [
+        "یکی از گزینه‌های Compare در دستور"
+      ]
+    },
+    {
+      "EnglishWord": "vbdefaultbutton",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که در حالت پیش فرض دکمه اول یا دوم یا سوم یا چهارم را انتخاب می‌کند و مقدار عددی آن صفر است",
+        "vbDefaultButton"
+      ]
+    },
+    {
+      "EnglishWord": "vbexclamation",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که یک جعبه پیغام اخطار را نشان می‌دهد و مقدار عددی آن 48 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbg",
+      "Meanings": [
+        "Visual Basic group project file"
+      ]
+    },
+    {
+      "EnglishWord": "vbgrayed",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbgreen",
+      "Meanings": [
+        "رنگ سبز که مقدار آن برابر 0xFF00 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbhide",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت مخفی اجرا می‌کند و مقدار عددی آن 0 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbignore",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه Ignore را انتخاب کند مقدار آن vbIgnore می‌شود و مقدار عددی آن برابر 5 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbinches",
+      "Meanings": [
+        "مقیاسی که برابر 2. 54 سانتیمتر می‌باشد و مقدار عددی آن برابر پنج است"
+      ]
+    },
+    {
+      "EnglishWord": "vbinformation",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که یک جعبه پیغام جهت اطلاعات را به کاربر نشان می‌دهد و مقدار عددی آن 64 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey",
+      "Meanings": [
+        "کد کلیدها که با اسم کلید بعد از آن مشخص می‌شود مثلا کلید L یعنی vbKeyL"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey0",
+      "Meanings": [
+        "کد کلید شماره صفر"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey1",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey2",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey3",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey4",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey5",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey6",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey7",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey8",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkey9",
+      "Meanings": [
+        "کد کلید شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeya",
+      "Meanings": [
+        "کد کلید حرف A"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyb",
+      "Meanings": [
+        "کد کلید حرف B"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyc",
+      "Meanings": [
+        "کد کلید حرف C"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeycapital",
+      "Meanings": [
+        "کد کلید Caps Lock"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeycontrol",
+      "Meanings": [
+        "کد کلید کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyd",
+      "Meanings": [
+        "کد کلید حرف D"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeydecimal",
+      "Meanings": [
+        "کد کلید ماشین حسابی ممیز اعشار"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeydelete",
+      "Meanings": [
+        "کد کلید Delete"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeydevide",
+      "Meanings": [
+        "کد کلید ماشین حسابی تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeydown",
+      "Meanings": [
+        "کد کلید سمت پایین"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeye",
+      "Meanings": [
+        "کد کلید حرف E"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyend",
+      "Meanings": [
+        "کد کلید End"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyescape",
+      "Meanings": [
+        "کد کلید Escape"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf",
+      "Meanings": [
+        "کد کلید حرف F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf1",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf10",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf11",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf12",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf2",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf3",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf4",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf5",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf6",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf7",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf8",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyf9",
+      "Meanings": [
+        "کد کلید F"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyfn",
+      "Meanings": [
+        "کد کیدهای تابع",
+        "کد کلیدهای تابع Function Key که شماره کلید در جلوی VbKeyF می‌آید مثلا کلید F4 برابر است با VbKeyF"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyg",
+      "Meanings": [
+        "کد کلید حرف G"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyh",
+      "Meanings": [
+        "کد کلید حرف H"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyhome",
+      "Meanings": [
+        "کد کلید Home"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyi",
+      "Meanings": [
+        "کد کلید حرف I"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyinsert",
+      "Meanings": [
+        "کد کلید Insert"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyj",
+      "Meanings": [
+        "کد کلید حرف J"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyk",
+      "Meanings": [
+        "کد کلید حرف K"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyl",
+      "Meanings": [
+        "کد کلید حرف L"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyleft",
+      "Meanings": [
+        "کد کلید سمت چپ –&gt;"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeym",
+      "Meanings": [
+        "کد کلید حرف M"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeymultiply",
+      "Meanings": [
+        "کد کلید ماشین حسابی ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyn",
+      "Meanings": [
+        "کد کلید حرف N"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumlock",
+      "Meanings": [
+        "کد کلید Num Lock"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad",
+      "Meanings": [
+        "کد کلیدهای ماشین حسابی که شماره عدد بعی از آن می‌آید مثلا vbKeyNumPad"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad0",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad1",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad2",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad3",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad4",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad5",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad6",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad7",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad8",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeynumpad9",
+      "Meanings": [
+        "کد کلید ماشین حسابی شماره"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyo",
+      "Meanings": [
+        "کد کلید حرف O"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyp",
+      "Meanings": [
+        "کد کلید حرف P"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeypagedown",
+      "Meanings": [
+        "کد کلید Page Down"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeypageup",
+      "Meanings": [
+        "کد کلید Page UP"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyprint",
+      "Meanings": [
+        "کد کلید Print Screen"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyq",
+      "Meanings": [
+        "کد کلید حرف Q"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyr",
+      "Meanings": [
+        "کد کلید حرف R"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyreturn",
+      "Meanings": [
+        "کد کلید Enter"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyright",
+      "Meanings": [
+        "کد کلید سمت راست &lt; –"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeys",
+      "Meanings": [
+        "کد کلید حرف S"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyscrolllock",
+      "Meanings": [
+        "کد کلید Scroll Lock"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyseparator",
+      "Meanings": [
+        "کد کلید ماشین حسابی مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyshift",
+      "Meanings": [
+        "کد کلید Shift"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyspace",
+      "Meanings": [
+        "کد کلید Space"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeysubtract",
+      "Meanings": [
+        "کد کلید ماشین حسابی تفریق"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyt",
+      "Meanings": [
+        "کد کلید حرف T"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeytab",
+      "Meanings": [
+        "کد کلید Tab"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyu",
+      "Meanings": [
+        "کد کلید حرف U"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyup",
+      "Meanings": [
+        "کد کلید سمت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyv",
+      "Meanings": [
+        "کد کلید حرف V"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyw",
+      "Meanings": [
+        "کد کلید حرف W"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyx",
+      "Meanings": [
+        "کد کلید حرف X"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyy",
+      "Meanings": [
+        "کد کلید حرف Y"
+      ]
+    },
+    {
+      "EnglishWord": "vbkeyz",
+      "Meanings": [
+        "کد کلید حرف Z"
+      ]
+    },
+    {
+      "EnglishWord": "vbl",
+      "Meanings": [
+        "Control licensing file"
+      ]
+    },
+    {
+      "EnglishWord": "vbmagenta",
+      "Meanings": [
+        "رنگ مایل به قرمز که مقدار آن برابر 0xFF00FF است"
+      ]
+    },
+    {
+      "EnglishWord": "vbmaximizedfocus",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت بیشینه و متمرکز اجرا می‌کند و مقدار عددی آن 3 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbmillimeters",
+      "Meanings": [
+        "مقیاسی که برابر یک دهم سانتیمتر می‌باشد و مقدار عددی آن برابر شش است"
+      ]
+    },
+    {
+      "EnglishWord": "vbminimizedfocus",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت کمینه و متمرکز اجرا می‌کند و مقدار عددی آن 2 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbminimizednofocus",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت کمینه اجرا می‌کند و مقدار عددی آن 6 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbmodal",
+      "Meanings": [
+        "با استفاده از این پارامتر برای نشان دادن فرم دومی با فرم اولی نمی‌توان کار کرد",
+        "Form.Show VBModal"
+      ]
+    },
+    {
+      "EnglishWord": "vbmsgboxresult",
+      "Meanings": [
+        "نوعی از متغیرها که دکمه ای را که کاربر در جعبه پیغام انتخاب کرده را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbno",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه No را انتخاب کند مقدار آن vbNo می‌شود و مقدار عددی آن برابر 7 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbnormalfocus",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت نرمال و متمرکز اجرا می‌کند و مقدار عددی آن 1 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbnormalnofocus",
+      "Meanings": [
+        "یکی از گزینه‌های windowstyle در دستور Shell که شکل برنامه را به صورت نرمال اجرا می‌کند و مقدار عددی آن 4 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbok",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه OK را انتخاب کند مقدار آن vbOK می‌شود و مقدار عددی آن برابر 1 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbokcancel",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که دکمه‌های Cancel"
+      ]
+    },
+    {
+      "EnglishWord": "vbokonly",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که فقط یک دکمه OK را به نمایش می‌گذارد و مقدار عددی آن 0 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbp",
+      "Meanings": [
+        "V isual B asic p roject file",
+        "فایلهای Visual Basic"
+      ]
+    },
+    {
+      "EnglishWord": "vbpixels",
+      "Meanings": [
+        "مقیاسی که بیشتر در تصاویر کاربرد دارد و کوچکترین واحد تصویری است و مقدار عددی آن برابر سه است"
+      ]
+    },
+    {
+      "EnglishWord": "vbpoints",
+      "Meanings": [
+        "مقیاسی که 72 قسمت آن برابر یک اینچ است و مقدار عددی آن برابر دو است"
+      ]
+    },
+    {
+      "EnglishWord": "vbquestion",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که از کاربر سیوال می‌پرسد و مقدار عددی آن 32 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbr",
+      "Meanings": [
+        "Remote Automation registration file"
+      ]
+    },
+    {
+      "EnglishWord": "vbred",
+      "Meanings": [
+        "رنگ قرمز که مقدار آن برابر 0xFF است"
+      ]
+    },
+    {
+      "EnglishWord": "vbresbitmap",
+      "Meanings": [
+        "یکی از فرمتهای دستور LoadResPicture که نوع عکس را از نوع طرح بیتی مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbrescursor",
+      "Meanings": [
+        "یکی از فرمتهای دستور LoadResPicture که نوع عکس را از نوع کرسر مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbresicon",
+      "Meanings": [
+        "یکی از فرمتهای دستور LoadResPicture که نوع عکس را از نوع آیکون مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "vbretry",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه Retry را انتخاب کند مقدار آن vbRetry می‌شود و مقدار عددی آن برابر 4 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbretrycancel",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که دکمه‌های Cancel"
+      ]
+    },
+    {
+      "EnglishWord": "vbrightbutton",
+      "Meanings": [
+        "کلید راست ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "vbscript",
+      "Meanings": [
+        "V isual B asic Scripti ng Edition",
+        "زبان برنامه نویسی تحت وب که کدهای آن مشابه کدهای VB است"
+      ]
+    },
+    {
+      "EnglishWord": "vbshiftmask",
+      "Meanings": [
+        "کد کلید Shift"
+      ]
+    },
+    {
+      "EnglishWord": "vbsystemmodal",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که اگر کاربر به آن جواب ندهد نمی‌تواند با هیچ یک از برنامه‌های ویندوز کار کند و مقدار عددی آن 4096 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbtextcompare",
+      "Meanings": [
+        "مقایسه دودویی",
+        "یکی از گزینه‌های Compare در دستورهای Replace"
+      ]
+    },
+    {
+      "EnglishWord": "vbtwips",
+      "Meanings": [
+        "مقیاسی که 1440 قسمت آن برابر یک اینچ است و مقدار عددی آن برابر یک است"
+      ]
+    },
+    {
+      "EnglishWord": "vbunchecked",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "vbusecompareoption",
+      "Meanings": [
+        "یکی از گزینه‌های Compare در دستور Replace"
+      ]
+    },
+    {
+      "EnglishWord": "vbuser",
+      "Meanings": [
+        "مقیاسی که توسط کاربر تعریف شود. مقدار آن برابر صفر است"
+      ]
+    },
+    {
+      "EnglishWord": "vbw",
+      "Meanings": [
+        "Visual Basic project workspace file"
+      ]
+    },
+    {
+      "EnglishWord": "vbwhite",
+      "Meanings": [
+        "رنگ سفید که مقدار آن برابر 0xFFFFFF است"
+      ]
+    },
+    {
+      "EnglishWord": "vbx",
+      "Meanings": [
+        "V isual B asic E x tension"
+      ]
+    },
+    {
+      "EnglishWord": "vbyellow",
+      "Meanings": [
+        "رنگ زرد که مقدار آن برابر 0xFFFF است"
+      ]
+    },
+    {
+      "EnglishWord": "vbyes",
+      "Meanings": [
+        "هر گاه کاربر در جعبه پیغام گزینه Yes را انتخاب کند مقدار آن vbYes می‌شود و مقدار عددی آن برابر 6 است"
+      ]
+    },
+    {
+      "EnglishWord": "vbyesno",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که دکمه‌های Yes"
+      ]
+    },
+    {
+      "EnglishWord": "vbyesnocancel",
+      "Meanings": [
+        "یکی از دکمه‌های دستور MsgBox که دکمه‌های Cancel"
+      ]
+    },
+    {
+      "EnglishWord": "vbz",
+      "Meanings": [
+        "Wizard launch file"
+      ]
+    },
+    {
+      "EnglishWord": "view",
+      "Meanings": [
+        "نما",
+        "یکی از منوهای برنامه برای نمایش دادن انواع پنجره ها"
+      ]
+    },
+    {
+      "EnglishWord": "view code",
+      "Meanings": [
+        "پنجره ای که در آن کد شیء تایپ می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "view object",
+      "Meanings": [
+        "پنجره ای برای انتخاب شیء و مدول و"
+      ]
+    },
+    {
+      "EnglishWord": "violet",
+      "Meanings": [
+        "بنفش",
+        "رنگ بنفش",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "visible",
+      "Meanings": [
+        "قابل دیدن",
+        "یکی از خصیصه‌های اشیاء که اگر True باشد شیء قابل نمایش است و اگر False باشد خیر"
+      ]
+    },
+    {
+      "EnglishWord": "visual basic",
+      "Meanings": [
+        "ویژوال بیسیک",
+        "یکی از قویترین زبانهای برنامه نویسی امروزی برای ساخت برنامه‌های گرافیکی",
+        "شبکه",
+        "کاربردی",
+        "اکتیوایکس",
+        "اینترنتی",
+        "صفحات وب",
+        "بانک اطلاعاتی",
+        "چند رسانه ای",
+        "بازی و… با ساخت محیطی GUI. در این نرم افزار چندین ویژگی وجود دارد از قبیل اینکه خطا و کدها مشخص است. این نرم افزار محیط پیشرفته نرم افزار قدیمی Basic می‌باشد و برنامه‌های تحت ویندوز می‌سازد",
+        "برای کسانی که در سطح حرفه ای ای می‌خواهند کار کنند توصیه می‌کنم به MSDN مراجعه کنند. چندین سایت در مورد ویژوال بیسیک در زیر معرفی شده است",
+        "سایت‌های انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "visual basic hardware and software needs",
+      "Meanings": [
+        "برای نصب ویژوال بیسیک بر روی سیستمتان باید نرم افزار و سخت افزارهای زیر را دارا باشید",
+        "Microsoft Windows 95 or later"
+      ]
+    },
+    {
+      "EnglishWord": "visual basic installing",
+      "Meanings": [
+        "برای نصب VB ابتدا دیسک آن را درون درایو قرار دهید سپس صبر کنید تا برنامه به طور خودکار اجرا شود. از Autorun گزینه Install Visual Basic 6. 0 را انتخاب کنید و آن را نصب کنید",
+        "برای اطلاعات بیشتر به Readme مراجعه کنید"
+      ]
+    },
+    {
+      "EnglishWord": "visual basic.net",
+      "Meanings": [
+        "یکی از زبانهای برنامه نویسی دات نت تحت وب و"
+      ]
+    },
+    {
+      "EnglishWord": "visual data manager",
+      "Meanings": [
+        "برنامه برای ساخت فایلهای بانک اطلاعاتی که در منوی Add",
+        "ind قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "visual studio",
+      "Meanings": [
+        "بسته نرم افزار ویژوال استادیو",
+        "در این بسته نرم افزارهای مختلفی از جمله VB و VC++ و… قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "visual studio.net",
+      "Meanings": [
+        "بسته نرم افزارهایی که در آن برنامه‌های. NET وجود دارد"
+      ]
+    },
+    {
+      "EnglishWord": "vs",
+      "Meanings": [
+        "V isual S tudio",
+        "بسته نرم افزاری که در آن نرم افزارهای برنامه نویسی قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "vs.net",
+      "Meanings": [
+        "V isual S tudio .Net"
+      ]
+    },
+    {
+      "EnglishWord": "vscrollbar",
+      "Meanings": [
+        "نوار لغزنده عمودی",
+        "یکی از اشیاء برای کنترل چیزهای دیگر"
+      ]
+    }
+  ]
+}

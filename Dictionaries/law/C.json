@@ -1,0 +1,4218 @@
+﻿{
+  "Group": "C",
+  "Entries": 583,
+  "Words": [
+    {
+      "EnglishWord": "c   f    cargo  freight",
+      "Meanings": [
+        "فقط بهای کالا در مبدا به اضافه هزینه‌های بسته بندی و کرایه تا بندر مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "c. i. f.   c.    cost insurance   freight and commission",
+      "Meanings": [
+        "قیمت کالا به اضافه حق بیمه و هزینه حمل ودلالی"
+      ]
+    },
+    {
+      "EnglishWord": "c. i. f.   c. and i.    cost insurance   freight and commission   interest",
+      "Meanings": [
+        "قیمت کالا به اضافه حق بیمه و هزینه حمل و دلالی و بهره"
+      ]
+    },
+    {
+      "EnglishWord": "cabotage",
+      "Meanings": [
+        "کشتیرانی ساحلی",
+        "تجارت ساحلی",
+        "پرواز هواپیما از یک فرودگاه خارجی به فرودگاه خارجی دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "cabotage reservation of",
+      "Meanings": [
+        "جلوگیری از حمل ونقل کالا با کشتیهای خارجی در آبهای ساحلی یک کشور",
+        "جلوگیری از سوار یا پیاده کردن مسافر یا بارگیری و تخلیه بار توسط هواپیماهای بیگانه در فرودگاههای یک کشور"
+      ]
+    },
+    {
+      "EnglishWord": "cadit quaestio    lat.",
+      "Meanings": [
+        "کفایت مذاکرات"
+      ]
+    },
+    {
+      "EnglishWord": "caduca    lat.     see also  at sight on demand upon demand",
+      "Meanings": [
+        "میراث",
+        "ماترک",
+        "حق دولت برای تصاحب ماترک بلاوارث"
+      ]
+    },
+    {
+      "EnglishWord": "caduciary    see also  escheat esceated property",
+      "Meanings": [
+        "حق دولت برای تصاحب ماترک بلاوارث"
+      ]
+    },
+    {
+      "EnglishWord": "caduciary    var. caducary",
+      "Meanings": [
+        "حق دولت در تصاحب ماترک بلاوارث"
+      ]
+    },
+    {
+      "EnglishWord": "call    on a guarantee",
+      "Meanings": [
+        "مطالبه کردن وجه الضمان"
+      ]
+    },
+    {
+      "EnglishWord": "call at / on    see also  at sight on demand upon demand",
+      "Meanings": [
+        "عندالمطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "callable bonds    see also  redeemable bond",
+      "Meanings": [
+        "اوراق قرضه قابل خرید",
+        "اوراق قرضه عندالمطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "camera    lat.     in",
+      "Meanings": [
+        "محرمانه",
+        "غیر علنی"
+      ]
+    },
+    {
+      "EnglishWord": "cancel    n. cancellation",
+      "Meanings": [
+        "لغو کردن",
+        "باطل کردن",
+        "فسخ کردن",
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "capable of arising",
+      "Meanings": [
+        "محتمل الوقوع"
+      ]
+    },
+    {
+      "EnglishWord": "capacity",
+      "Meanings": [
+        "اهلیت",
+        "صلاحیت",
+        "سمت"
+      ]
+    },
+    {
+      "EnglishWord": "capacity to contract    var. contracting capacity contractual capacity",
+      "Meanings": [
+        "اهلیت انعقاد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "capital",
+      "Meanings": [
+        "سرمایه",
+        "دارایی",
+        "ثروت",
+        "مهم",
+        "عمده",
+        "جرم مستوجب اعدام"
+      ]
+    },
+    {
+      "EnglishWord": "capital assets    see also  fixed assets permanent assets",
+      "Meanings": [
+        "دارایی سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital contribution",
+      "Meanings": [
+        "آورده سرمایه",
+        "سهم سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capital gains",
+      "Meanings": [
+        "سود سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital reserves",
+      "Meanings": [
+        "اندوخته سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "capital stock",
+      "Meanings": [
+        "سهام سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "capitalization    v. capitalize",
+      "Meanings": [
+        "تبدیل به سرمایه کردن",
+        "ارزش کل سرمایه شرکت",
+        "مجموع ارزش سهام و اوراق قرضه شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "capitulation",
+      "Meanings": [
+        "کاپیتالاسیون",
+        "حق قضاوت کنسولی",
+        "شرایط عهد نامه",
+        "تسلیم"
+      ]
+    },
+    {
+      "EnglishWord": "caption",
+      "Meanings": [
+        "سرلوحه",
+        "عنوان لایحه یا سند حاوی اسامی اطراف دعوا",
+        "شماره پرونده و غیره"
+      ]
+    },
+    {
+      "EnglishWord": "care due",
+      "Meanings": [
+        "مراقبت لازم و کافی"
+      ]
+    },
+    {
+      "EnglishWord": "care standard of",
+      "Meanings": [
+        "میزان احتیاط لازم"
+      ]
+    },
+    {
+      "EnglishWord": "cargo list    see also  tally",
+      "Meanings": [
+        "صورت محموله"
+      ]
+    },
+    {
+      "EnglishWord": "carriage",
+      "Meanings": [
+        "حمل ونقل",
+        "کرایه حمل"
+      ]
+    },
+    {
+      "EnglishWord": "carrier",
+      "Meanings": [
+        "حمل کننده",
+        "وسیله حمل",
+        "پیک",
+        "شرکت هواپیمایی یا کشتیرانی"
+      ]
+    },
+    {
+      "EnglishWord": "cartel",
+      "Meanings": [
+        "کارتل اتحاد تولید کنندگان محصول مشابه",
+        "به منظور تسلط بر بازار"
+      ]
+    },
+    {
+      "EnglishWord": "case",
+      "Meanings": [
+        "پرونده",
+        "دعوا",
+        "مورد",
+        "قضیه",
+        "مرافعه"
+      ]
+    },
+    {
+      "EnglishWord": "case at bar",
+      "Meanings": [
+        "دعوای مطروح در دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "case law",
+      "Meanings": [
+        "سابقه و رویه قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "case reopening a",
+      "Meanings": [
+        "اعاده دادرسی",
+        "اجازه ارایه ادله و مدارک جدید",
+        "رسیدگی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "case stated    see also  state a case",
+      "Meanings": [
+        "دعوای مطروح"
+      ]
+    },
+    {
+      "EnglishWord": "case to state    see also  case stated",
+      "Meanings": [
+        "طرح کردن دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "cashier's check    see also  bank draft certified check",
+      "Meanings": [
+        "چک بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "cassation",
+      "Meanings": [
+        "نقض حکم توسط دیوان عالی کشور در حقوق فرانسه"
+      ]
+    },
+    {
+      "EnglishWord": "cast up    see also  foot up",
+      "Meanings": [
+        "جمع عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "casting vote",
+      "Meanings": [
+        "رای قاطع",
+        "رای رییس یا سرداور در صورت تساوی آراء موافق و مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "casual condition",
+      "Meanings": [
+        "شرط محتمل الوقوع"
+      ]
+    },
+    {
+      "EnglishWord": "casual profit",
+      "Meanings": [
+        "سود اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "casuistry",
+      "Meanings": [
+        "حیله",
+        "سفسطه",
+        "استدلال غلط و غیر منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "casus belli    lat.",
+      "Meanings": [
+        "علت جنگ"
+      ]
+    },
+    {
+      "EnglishWord": "casus foederis    lat.",
+      "Meanings": [
+        "رویداد یا وضعیت مصرح در عهدنامه یا قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "casus omissus    lat.",
+      "Meanings": [
+        "مورد سکوت قانون",
+        "مالانص فیه"
+      ]
+    },
+    {
+      "EnglishWord": "causa    lat.",
+      "Meanings": [
+        "علت",
+        "مبنی",
+        "انگیزه",
+        "به دلیل",
+        "دعوای مطروح"
+      ]
+    },
+    {
+      "EnglishWord": "causa causans    lat.     see also  immediate cause",
+      "Meanings": [
+        "علت بلافصل یا مستقیم آخرین حلقه در سلسله علیت"
+      ]
+    },
+    {
+      "EnglishWord": "causa proxima non remota spectatur    lat.",
+      "Meanings": [
+        "با وجود علت اصلی و مستقیم",
+        "توجه به علت بعید و غیر مستقیم مجاز نیست"
+      ]
+    },
+    {
+      "EnglishWord": "causa sine qua non    lat.     see also  direct cause efficient cause intervening cause legal cause procuring cause proximate cause",
+      "Meanings": [
+        "علت اصلی",
+        "علت لازم که بدون آن معلول به وجود نمی‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "causality    var. causation",
+      "Meanings": [
+        "علیت"
+      ]
+    },
+    {
+      "EnglishWord": "causation    var. causality",
+      "Meanings": [
+        "علیت"
+      ]
+    },
+    {
+      "EnglishWord": "cause    n. causality causation",
+      "Meanings": [
+        "سبب شدن",
+        "موجب شدن",
+        "سبب یا علت دعوی",
+        "منشا یا مبنای دعوا",
+        "غرض",
+        "داعی",
+        "حق طرح دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "cause of action    see also  ground of action",
+      "Meanings": [
+        "سبب دعوی",
+        "منشا یا مبنای دعوی",
+        "حق طرح دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "cause shown for",
+      "Meanings": [
+        "با توجه به دلایل اقامه شده"
+      ]
+    },
+    {
+      "EnglishWord": "cautio judicatum solvi    lat.     see also  security for costs",
+      "Meanings": [
+        "تضمین هزینه دادرسی توسط خواهان یا پژوهش خواه"
+      ]
+    },
+    {
+      "EnglishWord": "caveat    lat.     see also  warning notice",
+      "Meanings": [
+        "اخطار رسمی",
+        "اخطاریه"
+      ]
+    },
+    {
+      "EnglishWord": "caveat actor    lat.",
+      "Meanings": [
+        "اخطار به عامل"
+      ]
+    },
+    {
+      "EnglishWord": "caveat emptor    lat.",
+      "Meanings": [
+        "اخطار به مشتری اصلی که به موجب آن مشتری باید احتیاط لازم را به عمل آورده",
+        "جنس را به مسیولیت خود انتخاب و خریداری نماید"
+      ]
+    },
+    {
+      "EnglishWord": "cease and desist order",
+      "Meanings": [
+        "قرار منع"
+      ]
+    },
+    {
+      "EnglishWord": "cede",
+      "Meanings": [
+        "واگذار کردن",
+        "گذشتن از حق",
+        "مسترد داشتن",
+        "تسلیم شدم",
+        "واگذاری سرزمینی توسط یک دولت به دولت دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "center of gravity doctrine",
+      "Meanings": [
+        "نظریه قانون مرکز اصلی قرارداد نظریه ای که به موجب آن در موارد تعارض قوانین",
+        "قانون محلی که نزدیکترین رابطه را با طرفین یا موضوع قرارداد دارد به عنوان قانون حاکم انتخاب می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "certificate",
+      "Meanings": [
+        "گواهی",
+        "گواهینامه"
+      ]
+    },
+    {
+      "EnglishWord": "certificate check    see also  bank draft cashier's check",
+      "Meanings": [
+        "چک تضمین شده",
+        "چک بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "certificate copy",
+      "Meanings": [
+        "رونوشت مصدق"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of deposit",
+      "Meanings": [
+        "برگ سپرده",
+        "گواهینامه سپرده"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of incorporation    see also  articles of incorporation charter corporate charter incorporation charter",
+      "Meanings": [
+        "اسانامه شرکت",
+        "شرکتنامه",
+        "گواهی ثبت شرکت انگلیس"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of misfortune",
+      "Meanings": [
+        "گواهی ورشکستگی بی تقصیر"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of non encumbrance",
+      "Meanings": [
+        "مفاصا حساب",
+        "گواهی آزاد بودن مال"
+      ]
+    },
+    {
+      "EnglishWord": "certificate of origin",
+      "Meanings": [
+        "گواهی مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "certificated bankrupt",
+      "Meanings": [
+        "ورشکسته",
+        "بی تقصیر"
+      ]
+    },
+    {
+      "EnglishWord": "certified    public    accountant    see also  chartered accountant",
+      "Meanings": [
+        "حسابدار رسمی",
+        "حسابدار قسم خورده",
+        "حسابدار خبره"
+      ]
+    },
+    {
+      "EnglishWord": "certify    n. certification",
+      "Meanings": [
+        "تصدیق کردن",
+        "گواهی دادن",
+        "شهادت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "certiorari    lat.     see also  writ of certiorari",
+      "Meanings": [
+        "تصمیم دیوان عالی کشور آمریکا به قبول دعوی",
+        "قرار صادره توسط دادگاه پژوهش به دادگاه نخستین برای ارسال نسخه گواهی شده پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "cessante ratione legis cessat et lex    lat.",
+      "Meanings": [
+        "با از بین رفتن علت وجودی یک قانون",
+        "خود قانون نیز منسوخ و بلا اثر می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "cesser",
+      "Meanings": [
+        "فسخ اجاره",
+        "فک رهن",
+        "اختتام یا انقضای مدت اجاره یا رهن",
+        "ترک فعل",
+        "غفلت",
+        "تحریر ترکه"
+      ]
+    },
+    {
+      "EnglishWord": "cessio bonorum    lat.",
+      "Meanings": [
+        "تخصیص یا توزیع اموال ورشکسته بین طلبکاران"
+      ]
+    },
+    {
+      "EnglishWord": "cession",
+      "Meanings": [
+        "تسلیم",
+        "تفویض",
+        "واگذاری",
+        "اعراض",
+        "انتقال دین"
+      ]
+    },
+    {
+      "EnglishWord": "cestui que trust    lat.     see also  beneficial owner equitable owner",
+      "Meanings": [
+        "مالک واقعی در برابر مالک اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "cfr  cost and freight   ... named port of destination",
+      "Meanings": [
+        "هزینه و کرایه حمل… بندر و مقصد تعیین شده"
+      ]
+    },
+    {
+      "EnglishWord": "challenge",
+      "Meanings": [
+        "ایراد گرفتن به صلاحیت",
+        "جرح کردن",
+        "اعتراض",
+        "جرح"
+      ]
+    },
+    {
+      "EnglishWord": "challenge for cause",
+      "Meanings": [
+        "جرح عضو هیات منصفه به دلایل مشخص و معین"
+      ]
+    },
+    {
+      "EnglishWord": "challenge of arbitrator",
+      "Meanings": [
+        "جرح داور"
+      ]
+    },
+    {
+      "EnglishWord": "chamber",
+      "Meanings": [
+        "شعبه",
+        "اتاق"
+      ]
+    },
+    {
+      "EnglishWord": "chamber of commerce",
+      "Meanings": [
+        "اتاق بازرگانی",
+        "اتاق تجارت"
+      ]
+    },
+    {
+      "EnglishWord": "chancery",
+      "Meanings": [
+        "انصاف",
+        "دادگاه انصاف",
+        "دفتر خانه"
+      ]
+    },
+    {
+      "EnglishWord": "change of venue",
+      "Meanings": [
+        "تغییر دادگاه",
+        "احاله دعوی به دادگاه دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "changed circumstances",
+      "Meanings": [
+        "اصل تغییر اوضاع و احوال",
+        "تغییر کیفیات یا شرایط"
+      ]
+    },
+    {
+      "EnglishWord": "charge",
+      "Meanings": [
+        "متهم کردن",
+        "تحمیل کردن",
+        "موظف کردن",
+        "ملزم کردن",
+        "وضع کردن مالیات",
+        "مطالبه کردن",
+        "نسیه خریدن",
+        "فرستادن صورتحساب",
+        "اتهام",
+        "ادعا",
+        "حق حبس",
+        "مولی علیه",
+        "بار",
+        "نرخ",
+        "وظیفه",
+        "تعهد",
+        "گرو",
+        "مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "charge d'affaires",
+      "Meanings": [
+        "کاردار سفارت",
+        "شارژدافر"
+      ]
+    },
+    {
+      "EnglishWord": "charge to prefer a",
+      "Meanings": [
+        "اعلام جرم کردن",
+        "تحت تعقیب قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "charges prepaid",
+      "Meanings": [
+        "پیش پرداخت کرایه حمل"
+      ]
+    },
+    {
+      "EnglishWord": "charges to jury    see also  jury instructions",
+      "Meanings": [
+        "جمع بندی دعوی و راهنمایی هیات منصفه توسط قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "charging order     br.",
+      "Meanings": [
+        "قرارداد ضبط اموال بدهکار به نفع طلبکار تا پرداخت دین",
+        "قرار توقیف مال"
+      ]
+    },
+    {
+      "EnglishWord": "charter    see also  articles of incorporation certificate of incorporation corporate charter",
+      "Meanings": [
+        "منشور",
+        "سند",
+        "اساسنامه شرکت یا شهرداری",
+        "اجازه تاسیس شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "charter of economic rights and duties of states    un",
+      "Meanings": [
+        "منشور حقوق و تکالیف اقتصادی دولتها سازمان ملل"
+      ]
+    },
+    {
+      "EnglishWord": "chartered accountant    see also  certified   public   accountantz",
+      "Meanings": [
+        "حسابدار خبره",
+        "حسابدار قسم خورده",
+        "حسابدار رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "chattel    see also  personal effects personal property personality",
+      "Meanings": [
+        "مال منقول",
+        "هر نوع دارایی شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "chattel mortgage",
+      "Meanings": [
+        "رهن مال منقول",
+        "رهن اموال شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "chattel personal    var. personal chattel     see also  chose",
+      "Meanings": [
+        "مال منقول شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "chattel real    see also  fixtures real chattels",
+      "Meanings": [
+        "هر گونه علایق و منافعی در املاک و مستغلات",
+        "به استثنای مالکیت عین"
+      ]
+    },
+    {
+      "EnglishWord": "cheat",
+      "Meanings": [
+        "فریب دادن",
+        "کلاهبرداری کردن",
+        "فریب",
+        "خدعه",
+        "شخص فریبکار و متقلب"
+      ]
+    },
+    {
+      "EnglishWord": "check    var. cheque",
+      "Meanings": [
+        "چک"
+      ]
+    },
+    {
+      "EnglishWord": "check crossed generally",
+      "Meanings": [
+        "چکی که قابل نقد کردن نبوده",
+        "فقط قابل واریز به حساب بانکی باشد"
+      ]
+    },
+    {
+      "EnglishWord": "check crossed specially",
+      "Meanings": [
+        "چکی که قابل نقد کردن نبوده",
+        "فقط قابل واریز به حساب بانکی با ذکر نام بانک مورد نظر باشد"
+      ]
+    },
+    {
+      "EnglishWord": "choice of forum",
+      "Meanings": [
+        "انتخاب مرجع رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "choice of law",
+      "Meanings": [
+        "انتخاب قانون حاکم"
+      ]
+    },
+    {
+      "EnglishWord": "choice of law rules",
+      "Meanings": [
+        "قواعد انتخاب قانون حاکم در موارد تعارض قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "chose    see also  chattel personal personal chattel",
+      "Meanings": [
+        "مال منقول شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "chose in action    see also  incorporeal property right in action rights in action",
+      "Meanings": [
+        "حق متنازع فیه",
+        "حق موضوع دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "chose in possession",
+      "Meanings": [
+        "مال مورد تصرف",
+        "حق غیر متنازع فیه"
+      ]
+    },
+    {
+      "EnglishWord": "cif   cost insurance and freight    ... named port of destination",
+      "Meanings": [
+        "قیمت کالا",
+        "هزینه بیمه و کرایه حمل بندر مقصد تعیین شده"
+      ]
+    },
+    {
+      "EnglishWord": "cip  carriage and insurance paid to    ... named place of destination",
+      "Meanings": [
+        "کرایه حمل و بیمه پرداخت شده… محل تعیین شده در مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "circuit court",
+      "Meanings": [
+        "دادگاه منطقه ای در ایالات متحده آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "circuit court of appeals    see also  appeals court appellate court court of appeals",
+      "Meanings": [
+        "دادگاه پژوهش در ایالات متحده آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "circular",
+      "Meanings": [
+        "بخشنامه"
+      ]
+    },
+    {
+      "EnglishWord": "circular reasoning",
+      "Meanings": [
+        "مصادره بر مطلوب",
+        "دلیل عین مدعی"
+      ]
+    },
+    {
+      "EnglishWord": "circumstances",
+      "Meanings": [
+        "شرایط",
+        "کیفیات",
+        "اوضاع و احوال"
+      ]
+    },
+    {
+      "EnglishWord": "circumstantial evidence    see also  half-proof indirect evidence inferential evidence semi-plena probatio unus nullus rule",
+      "Meanings": [
+        "قراین و امارات"
+      ]
+    },
+    {
+      "EnglishWord": "circumvent    n. circumvention",
+      "Meanings": [
+        "کلاه شرعی گذاشتن",
+        "با حیله از اجرای قانون طفره رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "cite    n. citation",
+      "Meanings": [
+        "احضار کردن به دادگاه",
+        "نقل کردن",
+        "استناد کردن",
+        "تقدیر کردن",
+        "جریمه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "citizen",
+      "Meanings": [
+        "شهروند"
+      ]
+    },
+    {
+      "EnglishWord": "citizenship",
+      "Meanings": [
+        "شهروندی"
+      ]
+    },
+    {
+      "EnglishWord": "civic",
+      "Meanings": [
+        "مربوط به شهروند یا به شهروندی"
+      ]
+    },
+    {
+      "EnglishWord": "civil",
+      "Meanings": [
+        "مدنی",
+        "غیر نظامی",
+        "کشوری",
+        "متمدن"
+      ]
+    },
+    {
+      "EnglishWord": "civil action",
+      "Meanings": [
+        "دعوی مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil arbitration    see also  commercial arbitration",
+      "Meanings": [
+        "داوری تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "civil code",
+      "Meanings": [
+        "قانون مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil commotion",
+      "Meanings": [
+        "اغتشاش و آشوب داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "civil company",
+      "Meanings": [
+        "شرکت مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil contract",
+      "Meanings": [
+        "عقد مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil disability    see also  legal disability",
+      "Meanings": [
+        "محرومیت از بعضی حقوق مدنی در اثر احکام جزایی"
+      ]
+    },
+    {
+      "EnglishWord": "civil law    see also  jus civile",
+      "Meanings": [
+        "حقوق مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil liability",
+      "Meanings": [
+        "مسیولیت مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil penalties",
+      "Meanings": [
+        "مجازاتهای مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil procedure code",
+      "Meanings": [
+        "آیین دادرسی مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil remedy",
+      "Meanings": [
+        "جبران خسارت مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "civil servant",
+      "Meanings": [
+        "کارمند دولت"
+      ]
+    },
+    {
+      "EnglishWord": "civil service",
+      "Meanings": [
+        "خدمت دولت"
+      ]
+    },
+    {
+      "EnglishWord": "civil suit",
+      "Meanings": [
+        "دعوای مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "claim",
+      "Meanings": [
+        "ادعا کردن",
+        "مطالبه کردن",
+        "ادعا",
+        "دعوی",
+        "سبب دعوی",
+        "مطالبه",
+        "استحقاق"
+      ]
+    },
+    {
+      "EnglishWord": "claim barred by limitation",
+      "Meanings": [
+        "ادعای مشمول مرور زمان"
+      ]
+    },
+    {
+      "EnglishWord": "claim settlement declaration",
+      "Meanings": [
+        "بیانیه حل و فصل دعاوی"
+      ]
+    },
+    {
+      "EnglishWord": "claimant",
+      "Meanings": [
+        "خواهان",
+        "مدعی"
+      ]
+    },
+    {
+      "EnglishWord": "clandestine",
+      "Meanings": [
+        "پنهانی",
+        "مخفی معمولا برای مقاصد نا مشروع و غیر قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "class action suit",
+      "Meanings": [
+        "دعوای مطروح علیه یک یا چند خوانده که نمونه تعداد کثیری خوانده باشند",
+        "دعوایی که یک یا چند خواهان نمونه عده کثیری خواهان مطرح کنند"
+      ]
+    },
+    {
+      "EnglishWord": "clause",
+      "Meanings": [
+        "قید",
+        "شرط"
+      ]
+    },
+    {
+      "EnglishWord": "clause compromissoire    fr.",
+      "Meanings": [
+        "قید داوری",
+        "شرط داوری"
+      ]
+    },
+    {
+      "EnglishWord": "clean acceptance",
+      "Meanings": [
+        "قبولی بدون قید و شرط برات"
+      ]
+    },
+    {
+      "EnglishWord": "clean bill of exchange",
+      "Meanings": [
+        "برات بدون قید و شرط"
+      ]
+    },
+    {
+      "EnglishWord": "clean bill of lading",
+      "Meanings": [
+        "بارنامه با قید بی عیب و نقص بودن محموله"
+      ]
+    },
+    {
+      "EnglishWord": "clean hands doctrine    see also  unclean hands doctrine",
+      "Meanings": [
+        "نظریه دستهای پاک لزوم منزه بودن دادخواه",
+        "بدین مفهوم که ادعای دادخواهی که بر خلاف وجدان و یا سوء نیت عمل کرده",
+        "انصافا مسموع نیست"
+      ]
+    },
+    {
+      "EnglishWord": "clear title    see also  good title marketable title merchantable title",
+      "Meanings": [
+        "مالکیت بلا معارض",
+        "مالکیت مطلق",
+        "سند مالکیت آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "clearance",
+      "Meanings": [
+        "برایت",
+        "تصفیه دیون و مطالبات",
+        "ترخیص کالا از گمرک",
+        "اجازه تخلیه یا بارگیری در بندر",
+        "حق خروج کشتی از بندر حقوق دریایی",
+        "تهاتر کردن چک و حواله در اتاق پایاپای بانکها"
+      ]
+    },
+    {
+      "EnglishWord": "clearance certificate",
+      "Meanings": [
+        "گواهی ترخیص کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "clearance papers",
+      "Meanings": [
+        "گواهی ترخیص صادره توسط گمرک برای کشتی",
+        "جهت تخلیه بار یا ترک بندر"
+      ]
+    },
+    {
+      "EnglishWord": "clearing",
+      "Meanings": [
+        "تهاتر",
+        "پایاپایی"
+      ]
+    },
+    {
+      "EnglishWord": "clearing agent",
+      "Meanings": [
+        "کارگزار ترخیص کالا از گمرک"
+      ]
+    },
+    {
+      "EnglishWord": "clearing house",
+      "Meanings": [
+        "اتاق تهاتر"
+      ]
+    },
+    {
+      "EnglishWord": "clearings",
+      "Meanings": [
+        "مبلغ پایاپای شده"
+      ]
+    },
+    {
+      "EnglishWord": "client",
+      "Meanings": [
+        "موکل",
+        "مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "clientele",
+      "Meanings": [
+        "ارباب رجوع"
+      ]
+    },
+    {
+      "EnglishWord": "close company / corporation",
+      "Meanings": [
+        "شرکتی که سهام آن در دست عده معدودی باشد",
+        "شرکت خانوادگی"
+      ]
+    },
+    {
+      "EnglishWord": "closely held corporation / company",
+      "Meanings": [
+        "شرکتی که سهام آن در دست عده معدودی باشد",
+        "شرکت خانوادگی"
+      ]
+    },
+    {
+      "EnglishWord": "closing argument",
+      "Meanings": [
+        "آخرین اظهارات و دفاعیات دادستان و وکیل",
+        "خطاب به هیات منصفه",
+        "همراه با جمع بندی و تلخیص سوابق امر و ادله و شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "closing stock",
+      "Meanings": [
+        "ارزش موجودی مواد خام و کالا در پایان دوره مالی"
+      ]
+    },
+    {
+      "EnglishWord": "cloud on title",
+      "Meanings": [
+        "مالکیت متنازع فیها"
+      ]
+    },
+    {
+      "EnglishWord": "code",
+      "Meanings": [
+        "مجموع قوانین",
+        "رمز"
+      ]
+    },
+    {
+      "EnglishWord": "code of civil procedure",
+      "Meanings": [
+        "آیین دادرسی مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "code of federal regulation    cfr",
+      "Meanings": [
+        "مجموع مقررات سازمانهای دولت فدرال ایالات متحده آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "codify    n. codification",
+      "Meanings": [
+        "تدوین کردن قانون",
+        "وضع کردن قانون",
+        "به صورت قانون درآوردن",
+        "به صورت رمز درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "coerce",
+      "Meanings": [
+        "وارد کردن",
+        "مجبور کردن",
+        "اعمال زور"
+      ]
+    },
+    {
+      "EnglishWord": "coercion",
+      "Meanings": [
+        "اجبار",
+        "اکراه",
+        "اعمال زور"
+      ]
+    },
+    {
+      "EnglishWord": "cognizable    see also  conusable",
+      "Meanings": [
+        "مشمول صلاحیت",
+        "مسموع",
+        "قابل رسیدگی",
+        "قابل تعقیب",
+        "قابل طرح"
+      ]
+    },
+    {
+      "EnglishWord": "cognizance    see also  conusance",
+      "Meanings": [
+        "صلاحیت",
+        "حق رسیدگی",
+        "استماع دعوی",
+        "بداهت قضایی",
+        "اقرار",
+        "شناسایی رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "cognovit    lat.    note    see also  confession of judgement judgement note",
+      "Meanings": [
+        "اقرارنامه",
+        "سفته ای که دارنده آن می‌تواند در صورت عدم پرداخت وجه آن توسط متعهد",
+        "از دادگاه علیه وی بدون رسیدگی حکم دریافت کند",
+        "اعتراف خوانده بر صحت ادعای خواهان پیش از شروع دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "collateral",
+      "Meanings": [
+        "وثیقه",
+        "ضمان",
+        "وجه التزام",
+        "مال گرویی",
+        "وثیقه انجام تعهد",
+        "تضمین وام",
+        "فرعی",
+        "تبعی",
+        "همزمان",
+        "متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "collateral contract",
+      "Meanings": [
+        "قرارداد جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "collateral estoppel",
+      "Meanings": [
+        "منع طرح مجدد قضیه مختومه محکوم بها",
+        "امر مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "collateral estoppel doctrine",
+      "Meanings": [
+        "اصل منع طرح مجدد",
+        "اعتبار قضیه محکوم بها",
+        "اعتبار امر مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "collateral guarantee    see also  aval",
+      "Meanings": [
+        "تضمین",
+        "وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "collateral loan",
+      "Meanings": [
+        "وام با وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "collateral negligence",
+      "Meanings": [
+        "مسیولیت در قبال عمل غیر نظیر مسیولیت کارفرما در قبال اعمال کارگر",
+        "تقصیر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "collateral note",
+      "Meanings": [
+        "وام یا سفته ای که با اوراق بهادار تضمین شود"
+      ]
+    },
+    {
+      "EnglishWord": "collateral promise",
+      "Meanings": [
+        "تراضی طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "collateral property / security",
+      "Meanings": [
+        "عین مرهونه",
+        "وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "collecting bank",
+      "Meanings": [
+        "بانک وصول کننده"
+      ]
+    },
+    {
+      "EnglishWord": "collection",
+      "Meanings": [
+        "وصول",
+        "گردآوری",
+        "مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "collection agency",
+      "Meanings": [
+        "بنگاه یا نمایندگی وصول",
+        "تحصیلداری"
+      ]
+    },
+    {
+      "EnglishWord": "collection agent",
+      "Meanings": [
+        "عامل یا نماینده وصول",
+        "تحصیلدار"
+      ]
+    },
+    {
+      "EnglishWord": "collude    n. collusion",
+      "Meanings": [
+        "تبانی کردن",
+        "سازش کردن",
+        "دسیسه چیدن"
+      ]
+    },
+    {
+      "EnglishWord": "color",
+      "Meanings": [
+        "شایبه",
+        "شبهه",
+        "ظاهر",
+        "حق ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "color of law",
+      "Meanings": [
+        "حق قانونی ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "color of office",
+      "Meanings": [
+        "تظاهر به داشتن اختیار به اعتبار سمت اداری"
+      ]
+    },
+    {
+      "EnglishWord": "color of title    see also  apparent title",
+      "Meanings": [
+        "مالکیت صوری",
+        "مالکیت ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "color to give to    a claim",
+      "Meanings": [
+        "پذیرفتن ظاهر ادعا"
+      ]
+    },
+    {
+      "EnglishWord": "colorable",
+      "Meanings": [
+        "تقلبی",
+        "جعلی",
+        "ساختگی",
+        "صوری"
+      ]
+    },
+    {
+      "EnglishWord": "combination",
+      "Meanings": [
+        "ادغام",
+        "اتحادیه",
+        "ایتلاف",
+        "تلفیق",
+        "ترکیب",
+        "توطیه"
+      ]
+    },
+    {
+      "EnglishWord": "comity",
+      "Meanings": [
+        "نزاکت"
+      ]
+    },
+    {
+      "EnglishWord": "comity of nations",
+      "Meanings": [
+        "مراعات آداب و نزاکت بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "commanditaire    fr.",
+      "Meanings": [
+        "شریک تضامنی",
+        "مضارب"
+      ]
+    },
+    {
+      "EnglishWord": "commanditer    fr.",
+      "Meanings": [
+        "شرکت با مسیولیت محدود یا غیر تضامنی",
+        "مضاربه"
+      ]
+    },
+    {
+      "EnglishWord": "commence    n. commencement",
+      "Meanings": [
+        "اقامه کردن",
+        "آغاز کردن",
+        "شروع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "commence an action",
+      "Meanings": [
+        "اقامه کردن دعوی",
+        "طرح کردن دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "commerce",
+      "Meanings": [
+        "تجارت کردن",
+        "معامله کردن",
+        "تجارت",
+        "بازرگانی",
+        "داد و ستد"
+      ]
+    },
+    {
+      "EnglishWord": "commercial",
+      "Meanings": [
+        "تجاری",
+        "بازرگانی",
+        "قابل داد و ستد"
+      ]
+    },
+    {
+      "EnglishWord": "commercial arbitration    see also  civil arbitration",
+      "Meanings": [
+        "داوری تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial bill",
+      "Meanings": [
+        "برات تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial frustration",
+      "Meanings": [
+        "انتفای تعهدات تجاری به علت حوادث قهری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial law    see also  mercantile law",
+      "Meanings": [
+        "حقوق تجارت",
+        "مجموعه قوانین تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial letter of credit",
+      "Meanings": [
+        "اعتبار اسنادی تجاری معمولا غیر قابل فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "commercial paper",
+      "Meanings": [
+        "اسناد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial pledge",
+      "Meanings": [
+        "وثیقه تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commercial usage",
+      "Meanings": [
+        "عرف و رویه تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "commission",
+      "Meanings": [
+        "حق العمل",
+        "کارمزد",
+        "کمیسیون",
+        "ارتکاب",
+        "ماموریت"
+      ]
+    },
+    {
+      "EnglishWord": "commission on international trade law    un     unctiral",
+      "Meanings": [
+        "کمیسیون حقوق تجارت بین الملل سازمان ملل متحد",
+        "آنسیترال"
+      ]
+    },
+    {
+      "EnglishWord": "commit",
+      "Meanings": [
+        "مرتکب شدن",
+        "سپردن",
+        "ارجاع کردن",
+        "زندانی کردن",
+        "تعهد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "commit perjury",
+      "Meanings": [
+        "گواهی دروغ دادن",
+        "سوگند دروغ ادا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "commitment",
+      "Meanings": [
+        "تعهد",
+        "ارجاع",
+        "تسلیم",
+        "حکم توقیف"
+      ]
+    },
+    {
+      "EnglishWord": "commodatum    lat.",
+      "Meanings": [
+        "عقد عاریه"
+      ]
+    },
+    {
+      "EnglishWord": "commodity",
+      "Meanings": [
+        "کالا",
+        "جنس",
+        "متاع"
+      ]
+    },
+    {
+      "EnglishWord": "commodum ex injuria sua nemo habere debet    lat.",
+      "Meanings": [
+        "هیچکس نباید از عمل زیانبار خود منتفع شود"
+      ]
+    },
+    {
+      "EnglishWord": "common",
+      "Meanings": [
+        "مشترک عمومی",
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "common carrier",
+      "Meanings": [
+        "موسسه حمل ونقل عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "common law    see also  jus commune lex communis",
+      "Meanings": [
+        "حقوق عرفی",
+        "قوانین مبتنی بر عرف",
+        "«کامن لا»",
+        "رویه قضایی در انگلستان"
+      ]
+    },
+    {
+      "EnglishWord": "common ownership    see also  co-ownership joint ownership ownership in common",
+      "Meanings": [
+        "اشاعه",
+        "مالکیت مشاع",
+        "مالکیت مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "common property",
+      "Meanings": [
+        "مال مشاع",
+        "اشتراک در حق انتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "common stock",
+      "Meanings": [
+        "سهم عادی"
+      ]
+    },
+    {
+      "EnglishWord": "common to hold in",
+      "Meanings": [
+        "مشترکا یا به صورت اشاعه مالک بودن"
+      ]
+    },
+    {
+      "EnglishWord": "communi dividundo    lat.",
+      "Meanings": [
+        "دعوای افراز"
+      ]
+    },
+    {
+      "EnglishWord": "communication",
+      "Meanings": [
+        "ارتباط",
+        "مراوده",
+        "مکاتبه",
+        "مبادله اطلاعات",
+        "نقل و انتقال",
+        "وسایل ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "communication of sentence",
+      "Meanings": [
+        "تخفیف مجازات"
+      ]
+    },
+    {
+      "EnglishWord": "communio bonorum    lat.",
+      "Meanings": [
+        "مالکیت مشاع کالا"
+      ]
+    },
+    {
+      "EnglishWord": "communis error    lat.",
+      "Meanings": [
+        "غلط مصطلح"
+      ]
+    },
+    {
+      "EnglishWord": "communis error facit jus    lat.",
+      "Meanings": [
+        "غلط مصطلحی که در اثر کثرت استعمال به صورت قاعده درآید"
+      ]
+    },
+    {
+      "EnglishWord": "communis opinio    lat.",
+      "Meanings": [
+        "نظر غالب",
+        "نظر عموم"
+      ]
+    },
+    {
+      "EnglishWord": "communis opinio juris    lat.",
+      "Meanings": [
+        "نظر غالب حقوقدانان",
+        "اجماع دانشمندان حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "community",
+      "Meanings": [
+        "جماعت",
+        "جامعه امت",
+        "انجمن",
+        "مالکیت مشترک",
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "community of goods / property",
+      "Meanings": [
+        "مالکیت مشترک زن و شوهر در اموال"
+      ]
+    },
+    {
+      "EnglishWord": "community property",
+      "Meanings": [
+        "اموال مشترک زن و شوهر"
+      ]
+    },
+    {
+      "EnglishWord": "commutative contract",
+      "Meanings": [
+        "عقد معاوضی"
+      ]
+    },
+    {
+      "EnglishWord": "commute    n. commutation",
+      "Meanings": [
+        "تخفیف دادن",
+        "تعویض کردن",
+        "تغییر دادن"
+      ]
+    },
+    {
+      "EnglishWord": "compact",
+      "Meanings": [
+        "پیمان",
+        "موافقتنامه",
+        "کنوانسیون"
+      ]
+    },
+    {
+      "EnglishWord": "company",
+      "Meanings": [
+        "شرکت",
+        "گروه",
+        "دسته"
+      ]
+    },
+    {
+      "EnglishWord": "company law",
+      "Meanings": [
+        "حقوق شرکتها"
+      ]
+    },
+    {
+      "EnglishWord": "comparative law",
+      "Meanings": [
+        "حقوق تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "comparative negligence    see also  contributory negligence",
+      "Meanings": [
+        "تقصیر نسبی در تعیین نسبت تقصیر طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "compel    n. compulsion",
+      "Meanings": [
+        "مجبور کردن",
+        "وادار کردن",
+        "ملزم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "compelling reasons",
+      "Meanings": [
+        "دلایل موجه",
+        "دلایل متقن",
+        "دلایل قانع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "compensate    n. compensation",
+      "Meanings": [
+        "جبران کردن",
+        "غرامت پرداختن",
+        "عوض دادن"
+      ]
+    },
+    {
+      "EnglishWord": "compensation",
+      "Meanings": [
+        "غرامت",
+        "جبران خسارت",
+        "حق الزحمه",
+        "قیمت",
+        "عوض"
+      ]
+    },
+    {
+      "EnglishWord": "compensatory damages",
+      "Meanings": [
+        "خسارت معادل زیان"
+      ]
+    },
+    {
+      "EnglishWord": "competence",
+      "Meanings": [
+        "اختیار دادگاه در تعیین صلاحیت خود"
+      ]
+    },
+    {
+      "EnglishWord": "competence de la competence    fr.",
+      "Meanings": [
+        "اختیار دادگاه در تعیین صلاحیت خود"
+      ]
+    },
+    {
+      "EnglishWord": "competency",
+      "Meanings": [
+        "صلاحیت",
+        "اهلیت شاهد",
+        "اهلیت انعقاد قرارداد",
+        "قابل قبول و مسموع بودن مدارک"
+      ]
+    },
+    {
+      "EnglishWord": "competent",
+      "Meanings": [
+        "صالح",
+        "دارای اهلیت",
+        "دارای صلاحیت",
+        "مسموع",
+        "قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "competent evidence",
+      "Meanings": [
+        "مدارک قابل قبول",
+        "مدارک ذیربط"
+      ]
+    },
+    {
+      "EnglishWord": "competent law",
+      "Meanings": [
+        "قانون حاکم",
+        "قانون قابل اعمال"
+      ]
+    },
+    {
+      "EnglishWord": "competent witness",
+      "Meanings": [
+        "شاهد واجد شرایط قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "complain    n. complaint",
+      "Meanings": [
+        "شکایت کردن",
+        "دادخواهی کردن",
+        "عرض حال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "complainant",
+      "Meanings": [
+        "شاکی",
+        "دادخواه",
+        "خواهان"
+      ]
+    },
+    {
+      "EnglishWord": "complaint",
+      "Meanings": [
+        "دادخواست",
+        "شکواییه",
+        "عرض حال",
+        "تظلم"
+      ]
+    },
+    {
+      "EnglishWord": "complete ownership    see also  absolute ownership perfect ownership",
+      "Meanings": [
+        "مالکیت مطلق",
+        "مالکیت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complicity",
+      "Meanings": [
+        "شرکت در جرم",
+        "توطیه"
+      ]
+    },
+    {
+      "EnglishWord": "comply    with     n. compliance",
+      "Meanings": [
+        "رعایت کردن",
+        "پیروی کردن",
+        "اجابت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "compos mentis    lat.",
+      "Meanings": [
+        "عاقل",
+        "دارای سلامت عقل"
+      ]
+    },
+    {
+      "EnglishWord": "composition    with creditors     see also  deed of arrangement respite scheme of arrangement",
+      "Meanings": [
+        "قرارداد ارفاقی میان بدهکار یا ورشکسته با بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "composition need",
+      "Meanings": [
+        "قرارداد ارفاقی میان بدهکار یا ورشکسته یا بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "compound",
+      "Meanings": [
+        "مصالحه کردن",
+        "قرارداد ارفاقی با طلبکاران منعقد کردن",
+        "مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound interest",
+      "Meanings": [
+        "بهره مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compounder    see also  amiable compositeur amicable compounder arbitrato libero free arbitrator",
+      "Meanings": [
+        "داوری که مجاز باشد دعوا را بر اساس قواعد انصاف و کدخدا منشانه فیصله دهد"
+      ]
+    },
+    {
+      "EnglishWord": "comprehensive coverage    insurance",
+      "Meanings": [
+        "بیمه کامل"
+      ]
+    },
+    {
+      "EnglishWord": "compromis    lat.     see also  arbitration agreement",
+      "Meanings": [
+        "موافقتنامه داوری",
+        "قراداد داوری بین دو یا چند دولت"
+      ]
+    },
+    {
+      "EnglishWord": "compromise",
+      "Meanings": [
+        "مصالحه کردن",
+        "سازش کردن",
+        "سازش",
+        "مصالحه"
+      ]
+    },
+    {
+      "EnglishWord": "comptroller    see also  controller",
+      "Meanings": [
+        "ذیحساب",
+        "کنترلر بالاترین مقام مالی شرکت یا سازمان",
+        "ممیز"
+      ]
+    },
+    {
+      "EnglishWord": "compulsion",
+      "Meanings": [
+        "اجبار",
+        "الزام",
+        "اضطرار"
+      ]
+    },
+    {
+      "EnglishWord": "compulsory",
+      "Meanings": [
+        "اجباری",
+        "الزامی",
+        "قهری",
+        "اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "compulsory arbitration",
+      "Meanings": [
+        "داوری اجباری در روابط کارگری",
+        "دولت کارگران را وادار به انصراف از اعتصاب",
+        "و اختلافات را به داوری شخص ثالث ارجاع می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "compulsory condition",
+      "Meanings": [
+        "شرط الزامی"
+      ]
+    },
+    {
+      "EnglishWord": "compulsory counterclaim",
+      "Meanings": [
+        "ادعای متقابل ناشی از موضوع دعوای اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "compulsory jurisdiction    see also  limited jurisdiction",
+      "Meanings": [
+        "صلاحیت الزامی",
+        "صلاحیت محدود حقوق بین الملل"
+      ]
+    },
+    {
+      "EnglishWord": "conceal",
+      "Meanings": [
+        "پنهان کردن",
+        "مخفی کردن",
+        "کتمان کردن"
+      ]
+    },
+    {
+      "EnglishWord": "concealment",
+      "Meanings": [
+        "کتمان حقیقت",
+        "اخفا",
+        "اختفا"
+      ]
+    },
+    {
+      "EnglishWord": "concede    n. concession",
+      "Meanings": [
+        "اعتراف کردن",
+        "اعطا کردن",
+        "واگذار کردن",
+        "تسلیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "concern",
+      "Meanings": [
+        "مربوط بودن",
+        "راجع بودن",
+        "ربط",
+        "موسسه",
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "concession",
+      "Meanings": [
+        "امتیاز",
+        "اعطا",
+        "واگذاری",
+        "تسلیم"
+      ]
+    },
+    {
+      "EnglishWord": "concession contract",
+      "Meanings": [
+        "قرارداد امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "conciliation    v. conciliate",
+      "Meanings": [
+        "اصلاح",
+        "مصالحه",
+        "سازش",
+        "آشتی",
+        "رفع اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "conciliator",
+      "Meanings": [
+        "مصلح",
+        "سازش دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "conclusive",
+      "Meanings": [
+        "قاطع",
+        "تعیین کننده",
+        "نهایی",
+        "غیر قابل انکار",
+        "آشکار",
+        "مسلم"
+      ]
+    },
+    {
+      "EnglishWord": "conclusive presumption    see also  irrebuttable presumption",
+      "Meanings": [
+        "اماره قاطع",
+        "اماره غیر قابل رد"
+      ]
+    },
+    {
+      "EnglishWord": "concord",
+      "Meanings": [
+        "توافق",
+        "سازش",
+        "مصالحه",
+        "پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "concur",
+      "Meanings": [
+        "موافق بودن",
+        "موافقت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "concurrence",
+      "Meanings": [
+        "حق یا ادعای مشترک",
+        "توافق",
+        "تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent",
+      "Meanings": [
+        "مشترک",
+        "همزمان",
+        "متقارن",
+        "موافق",
+        "هم عقیده"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent causes",
+      "Meanings": [
+        "علل و اسباب وابسته و متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent conditions",
+      "Meanings": [
+        "شرایط وابسته و متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent jurisdiction",
+      "Meanings": [
+        "صلاحیت متقارن دو یا چند مرجع نسبت به دعوای واحد"
+      ]
+    },
+    {
+      "EnglishWord": "concurring    opinion / vote",
+      "Meanings": [
+        "نظر یا رای موافق"
+      ]
+    },
+    {
+      "EnglishWord": "condemn    n. condemnation",
+      "Meanings": [
+        "محکوم کردن",
+        "متروکه اعلام کردن ساختمان یا کشتی",
+        "مصادره کردن اموال خصوصی به نفع عامه",
+        "مخالفت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "condition",
+      "Meanings": [
+        "شرط",
+        "قید",
+        "وضعیت",
+        "حالت",
+        "کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "conditional",
+      "Meanings": [
+        "مشروط",
+        "مقید",
+        "شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional acceptance",
+      "Meanings": [
+        "قبولی مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "conditional assent",
+      "Meanings": [
+        "موافقت مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "conditional bill of sale",
+      "Meanings": [
+        "بیع نامه با شرط اختیار"
+      ]
+    },
+    {
+      "EnglishWord": "conditional collateral",
+      "Meanings": [
+        "شرط جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional contract",
+      "Meanings": [
+        "عقد مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "conditional precedent",
+      "Meanings": [
+        "شرط متقدم شرطی که ایفای تعهد منوط به تحقق آن است"
+      ]
+    },
+    {
+      "EnglishWord": "conditional subsequent    see also  dissolving condition resolutory condition",
+      "Meanings": [
+        "شرط متاخر شرطی که عدم تحقق آن موجب انتفاء تعهد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "condominium",
+      "Meanings": [
+        "مالکیت مشاع در یک مجتمع ساختمانی",
+        "حاکمیت مشترک",
+        "تسلط مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "condone    n. condonation",
+      "Meanings": [
+        "اغماض کردن",
+        "عفو کردن",
+        "چشم پوشی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "conduct",
+      "Meanings": [
+        "هدایت کردن",
+        "رهبری کردن",
+        "اداره کردن",
+        "رفتار کردن",
+        "انتقال دادن",
+        "هدایت",
+        "اداره",
+        "رفتار"
+      ]
+    },
+    {
+      "EnglishWord": "confer    n. conferral conference conferment",
+      "Meanings": [
+        "مشورت کردن",
+        "مذاکره",
+        "اعطا کردن",
+        "تطبیق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "conference",
+      "Meanings": [
+        "جلسه",
+        "مشاوره",
+        "کنفرانس",
+        "اعطاء"
+      ]
+    },
+    {
+      "EnglishWord": "confess    n. confession",
+      "Meanings": [
+        "اعتراف کردن",
+        "اقرار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "confession of judgment    see also  cognovit note judgment note",
+      "Meanings": [
+        "اقرارنامه",
+        "سفته ای که دارنده آن می‌تواند در صورت عدم پرداخت وجه آن توسط متعهد از دادگاه علیه وی بدون رسیدگی حکم دریافت کند",
+        "اعتراف خوانده بر صحت ادعای خواهان پیش از شروع دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "confidential",
+      "Meanings": [
+        "محرمانه",
+        "سری"
+      ]
+    },
+    {
+      "EnglishWord": "confirming bank",
+      "Meanings": [
+        "بانک تایید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "confiscate    n. confiscation",
+      "Meanings": [
+        "مصادره کردن",
+        "ظبط کردن",
+        "توقیف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "conflict",
+      "Meanings": [
+        "تضاد داشتن",
+        "تعارض داشتن",
+        "تضاد",
+        "تعارض",
+        "اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "conflict of interest",
+      "Meanings": [
+        "تضاد منافع"
+      ]
+    },
+    {
+      "EnglishWord": "conflict of laws",
+      "Meanings": [
+        "تعارض قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "conflict of laws rules",
+      "Meanings": [
+        "قواعد حل تعارض قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "conflict of nationality",
+      "Meanings": [
+        "تعارض تابعیت"
+      ]
+    },
+    {
+      "EnglishWord": "conformed    see also  true copy",
+      "Meanings": [
+        "رونوشت برابر اصل و دارای توضیحاتی در مورد مطالب حذف شده"
+      ]
+    },
+    {
+      "EnglishWord": "confront    n. confrontation",
+      "Meanings": [
+        "مواجهه دادن شاهد و متهم تحقیق کردن از شاهد طرف مقابل",
+        "مقابله کردن",
+        "مقایسه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "conge    fr.",
+      "Meanings": [
+        "اجازه عبور",
+        "گذرنامه",
+        "برگ ترخیص کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "congeable",
+      "Meanings": [
+        "مجاز",
+        "قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "consensual contract",
+      "Meanings": [
+        "عقد رضایی در مقابل شکلی",
+        "عقد غیر تشریفاتی",
+        "عقد شفاهی"
+      ]
+    },
+    {
+      "EnglishWord": "consensus",
+      "Meanings": [
+        "اتفاق آراء"
+      ]
+    },
+    {
+      "EnglishWord": "consensus ad idem    ad idem    lat.",
+      "Meanings": [
+        "توافق در مورد همان موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "consent",
+      "Meanings": [
+        "رضایت دادن",
+        "موافقت کردن",
+        "رضایت",
+        "موافقت"
+      ]
+    },
+    {
+      "EnglishWord": "consent award / decree    see also  award by confession consent judgment judgment by consent",
+      "Meanings": [
+        "حکم مرضی الطرفین",
+        "حکم سازشی"
+      ]
+    },
+    {
+      "EnglishWord": "consent contract",
+      "Meanings": [
+        "عقد رضایی",
+        "قرارداد شفاهی"
+      ]
+    },
+    {
+      "EnglishWord": "consent judgment    var. judgment by consent     see also  award by confession consent award",
+      "Meanings": [
+        "حکم مرضی الطرفین",
+        "حکم سازشی"
+      ]
+    },
+    {
+      "EnglishWord": "consent jurisdiction",
+      "Meanings": [
+        "مرجع رسیدگی مرضی الطرفین"
+      ]
+    },
+    {
+      "EnglishWord": "consequence",
+      "Meanings": [
+        "نتیجه",
+        "اثر",
+        "معلول"
+      ]
+    },
+    {
+      "EnglishWord": "consequential damages    see also  indirect damages",
+      "Meanings": [
+        "خسارت تبعی"
+      ]
+    },
+    {
+      "EnglishWord": "conservator",
+      "Meanings": [
+        "قیم",
+        "امین"
+      ]
+    },
+    {
+      "EnglishWord": "consider",
+      "Meanings": [
+        "رسیدگی کردن",
+        "توجه کردن",
+        "ملاحظه کردن",
+        "عقیده داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "consideration",
+      "Meanings": [
+        "عوض",
+        "عوضین",
+        "ثمن",
+        "بدل",
+        "ملاحظه",
+        "رسیدگی",
+        "توجه",
+        "انگیزه"
+      ]
+    },
+    {
+      "EnglishWord": "consideration absence of",
+      "Meanings": [
+        "بلاعوض یا غیر معوض بودن معامله یا تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "consideration failure of",
+      "Meanings": [
+        "بی ارزش شدن یا از بین رفتن تمام یا قسمتی از عوض"
+      ]
+    },
+    {
+      "EnglishWord": "consideration want of",
+      "Meanings": [
+        "بلاعوض یا مجانی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "consign",
+      "Meanings": [
+        "ارسال کردن کالا",
+        "تحویل دادن",
+        "محول کردن",
+        "تسایم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "consignee",
+      "Meanings": [
+        "گیرنده محموله",
+        "مرسل الیه"
+      ]
+    },
+    {
+      "EnglishWord": "consignment",
+      "Meanings": [
+        "محموله بار"
+      ]
+    },
+    {
+      "EnglishWord": "consignment note    see also  waybill",
+      "Meanings": [
+        "بارنامه در حمل ونقل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "consignor",
+      "Meanings": [
+        "فرستنده",
+        "حمل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "consistent condition",
+      "Meanings": [
+        "شرط موافق با مقتضای ذات عقد"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation    v. consolidate",
+      "Meanings": [
+        "ترکیب",
+        "ادغام",
+        "تلفیق",
+        "تثبیت",
+        "تحکیم",
+        "تقویت"
+      ]
+    },
+    {
+      "EnglishWord": "consolidation of actions",
+      "Meanings": [
+        "ادغام دعاوی"
+      ]
+    },
+    {
+      "EnglishWord": "consortium",
+      "Meanings": [
+        "کنسرسیوم",
+        "اشتراک منافع"
+      ]
+    },
+    {
+      "EnglishWord": "conspiracy    v. conspire",
+      "Meanings": [
+        "تبانی",
+        "توطیه"
+      ]
+    },
+    {
+      "EnglishWord": "constituent",
+      "Meanings": [
+        "موکل",
+        "اصیل",
+        "انتخاب کننده"
+      ]
+    },
+    {
+      "EnglishWord": "constituent assembly",
+      "Meanings": [
+        "مجلس موسسان"
+      ]
+    },
+    {
+      "EnglishWord": "constitute",
+      "Meanings": [
+        "تشکیل دادن",
+        "تاسیس کردن",
+        "در حکم یا به منزله چیزی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "constitution    see also  fundamental law",
+      "Meanings": [
+        "قانون اساسی",
+        "اسانامه",
+        "تشکیل",
+        "ایجاد"
+      ]
+    },
+    {
+      "EnglishWord": "constitutional",
+      "Meanings": [
+        "مطابق با یا مربوط به قانون اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "constitutional law",
+      "Meanings": [
+        "علم حقوق اساسی",
+        "قانون اساسی",
+        "قانون منطبق با قانون اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "constitutional power",
+      "Meanings": [
+        "اختیارات مبتنی بر قانون اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "constitutional rights",
+      "Meanings": [
+        "حقوق اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "constitutum    lat.",
+      "Meanings": [
+        "موافقت برای پرداخت بدهی",
+        "روز مقرر برای هر منظوری",
+        "نوعی پژوهش"
+      ]
+    },
+    {
+      "EnglishWord": "constraint    v. constrain",
+      "Meanings": [
+        "محظور",
+        "اجبار",
+        "اضطرار",
+        "محدودیت",
+        "توقیف"
+      ]
+    },
+    {
+      "EnglishWord": "construction    v. construct construe",
+      "Meanings": [
+        "استنباط",
+        "تفسیر",
+        "تعبیر",
+        "ترکیب",
+        "توقیف"
+      ]
+    },
+    {
+      "EnglishWord": "construction of law",
+      "Meanings": [
+        "تفسیر قانون"
+      ]
+    },
+    {
+      "EnglishWord": "construction of the contract",
+      "Meanings": [
+        "تفسیر و تعبیر قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "constructive",
+      "Meanings": [
+        "استنباطی",
+        "تعبیری",
+        "ضمنی",
+        "قانونی",
+        "حکمی",
+        "سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "constructive delivery",
+      "Meanings": [
+        "تحویل قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive fault",
+      "Meanings": [
+        "تقصیر مفروض فعل یا ترک فعلی که قانونا آثار تقصیر بر آن مترتب باشد"
+      ]
+    },
+    {
+      "EnglishWord": "constructive fraud",
+      "Meanings": [
+        "تقلب حکمی عملی که قانونا آثار تقلب بر آن مترتب باشد"
+      ]
+    },
+    {
+      "EnglishWord": "constructive intent / intention",
+      "Meanings": [
+        "قصد ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive knowledge",
+      "Meanings": [
+        "اطلاع مفروض"
+      ]
+    },
+    {
+      "EnglishWord": "constructive malice    see also  implied malice legal malice malice in law",
+      "Meanings": [
+        "سوء نیت فرضی",
+        "سوء نیت استنباطی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive notice",
+      "Meanings": [
+        "اخطار قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive possession",
+      "Meanings": [
+        "تصرف قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive service",
+      "Meanings": [
+        "ابلاغ قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive taking",
+      "Meanings": [
+        "غصب یا مصادره حکمی"
+      ]
+    },
+    {
+      "EnglishWord": "constructive trust    see also  implied trust presumptive resulting trust",
+      "Meanings": [
+        "امانت قانونی",
+        "امانت ضمنی",
+        "امانت حکمی"
+      ]
+    },
+    {
+      "EnglishWord": "consul",
+      "Meanings": [
+        "کنسول"
+      ]
+    },
+    {
+      "EnglishWord": "consular invoice",
+      "Meanings": [
+        "صورت کالای صادره با مهر و امضای کنسولگری کشور مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "consulate",
+      "Meanings": [
+        "کنسولگری"
+      ]
+    },
+    {
+      "EnglishWord": "container contract",
+      "Meanings": [
+        "قرارداد حاوی قید داوری"
+      ]
+    },
+    {
+      "EnglishWord": "contemplate    n. contemplation",
+      "Meanings": [
+        "در نظر داشتن",
+        "قصد داشتن",
+        "پیش بینی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "contempt",
+      "Meanings": [
+        "توهین",
+        "اهانت",
+        "تحقیر"
+      ]
+    },
+    {
+      "EnglishWord": "contempt of court",
+      "Meanings": [
+        "اخلال در نظم دادگاه",
+        "توهین به دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "contempt to hold in",
+      "Meanings": [
+        "به جرم اهانت به دادگاه محکوم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "contemptuous damages    br.     see also  nominal damages",
+      "Meanings": [
+        "خسارت اسمی یا سمبولیک"
+      ]
+    },
+    {
+      "EnglishWord": "contend",
+      "Meanings": [
+        "ادعا کردن",
+        "استدلال کردن",
+        "اظهار داشتن",
+        "عقیده داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "contention",
+      "Meanings": [
+        "ادعا",
+        "استدلال",
+        "مباحثه",
+        "مشاجره",
+        "اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "contentious",
+      "Meanings": [
+        "متنازع فیه",
+        "مورد بحث",
+        "ستیزه جو"
+      ]
+    },
+    {
+      "EnglishWord": "contentious jurisdiction",
+      "Meanings": [
+        "صلاحیت رسیدگی به امور ترافعی"
+      ]
+    },
+    {
+      "EnglishWord": "contentious matter / issue",
+      "Meanings": [
+        "موضوع مورد اختلاف",
+        "موضوع ترافقی"
+      ]
+    },
+    {
+      "EnglishWord": "contentious proceeding",
+      "Meanings": [
+        "دعوای ترافعی"
+      ]
+    },
+    {
+      "EnglishWord": "contest",
+      "Meanings": [
+        "اعتراض کردن",
+        "ایراد گرفتن",
+        "دفاع کردن",
+        "طرح کردن دعوی",
+        "مورد تردید قرار دادن",
+        "ایراد",
+        "اعتراض",
+        "دفاع",
+        "دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "contest of award",
+      "Meanings": [
+        "اعتراض به حکم"
+      ]
+    },
+    {
+      "EnglishWord": "contingency",
+      "Meanings": [
+        "احتمال وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "contingency fund    var. contingent fund",
+      "Meanings": [
+        "وجوه احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "contingency liability",
+      "Meanings": [
+        "مسیولیت یا بدهی احتمالی",
+        "پیش بینی نشده یا محتمل الوقوع"
+      ]
+    },
+    {
+      "EnglishWord": "contingent",
+      "Meanings": [
+        "محتمل الوقوع",
+        "مشروط",
+        "احتمالی",
+        "تبعی",
+        "اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent claim",
+      "Meanings": [
+        "ادعای محتمل الوقوع",
+        "ادعای احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent debt",
+      "Meanings": [
+        "بدهی احتمالی",
+        "بدهی اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent fund    var. contingency fund",
+      "Meanings": [
+        "وجوه احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "continue    n. continuation continuance",
+      "Meanings": [
+        "ادامه دادن",
+        "ادامه یافتن",
+        "به بعد موکول کردن",
+        "به تعویق انداختن"
+      ]
+    },
+    {
+      "EnglishWord": "contra bonos mores    lat.",
+      "Meanings": [
+        "خلاف اخلاق حسنه"
+      ]
+    },
+    {
+      "EnglishWord": "contra proferentem    lat.     see also  verba ambigua accipuntur contra proferentem",
+      "Meanings": [
+        "به زبان پیشنهاد کننده",
+        "تفسیر علیه انشاء کننده شرط یا شروط مبهم قرارداد به زبان طرفی تفسیر می‌شود که آن را انشاء کرده است"
+      ]
+    },
+    {
+      "EnglishWord": "contraband",
+      "Meanings": [
+        "جنس قاچاق",
+        "تجارت قاچاق",
+        "اجناس ممنوع از تولید یا تملک"
+      ]
+    },
+    {
+      "EnglishWord": "contract",
+      "Meanings": [
+        "منعقد کردن",
+        "قرارداد بستن",
+        "عقد",
+        "قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contract binding in honor only    see also  contract not subject to legal jurisdiction     br.",
+      "Meanings": [
+        "عقد شرافتی"
+      ]
+    },
+    {
+      "EnglishWord": "contract by deed    see also  contract under seal special contract specialty contract",
+      "Meanings": [
+        "عقد شکلی",
+        "عقد تشریفاتی",
+        "عقد رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "contract not subject to legal jurisdiction    br.     see also  contract binding in honor only",
+      "Meanings": [
+        "عقد شرافتی"
+      ]
+    },
+    {
+      "EnglishWord": "contract of mandate    see also  mandate mandatum",
+      "Meanings": [
+        "عقد وکالت"
+      ]
+    },
+    {
+      "EnglishWord": "contract under seal    see also  contract by deed special contract specialty contract",
+      "Meanings": [
+        "عقد شکلی",
+        "عقد تشریفاتی",
+        "عقد رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "contracting capacity    var. capacity to contract contractual capacity",
+      "Meanings": [
+        "اهلیت انعقاد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contractor",
+      "Meanings": [
+        "پیمانکار",
+        "مقاطعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "contractual capacity    var. capacity to contract contracting capacity",
+      "Meanings": [
+        "اهلیت انعقاد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contractual disability",
+      "Meanings": [
+        "عدم اهلیت انعقاد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contractual freedom",
+      "Meanings": [
+        "اختیار و آزادی در انعقاد قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "contradict    n. contradiction",
+      "Meanings": [
+        "تعارض داشتن",
+        "انکار کردن",
+        "تکذیب کردن",
+        "متناقض بودن"
+      ]
+    },
+    {
+      "EnglishWord": "contradictory",
+      "Meanings": [
+        "متناقض",
+        "متضاد",
+        "متغایر"
+      ]
+    },
+    {
+      "EnglishWord": "contributing cause    var. contributory cause",
+      "Meanings": [
+        "علت معین یا کمکی",
+        "علت فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "contributory",
+      "Meanings": [
+        "سهامدار یا شریکی که در صورت انحلال شرکت ملزم به پرداخت سهم خود از دیون شرکت باشد",
+        "کمک کننده",
+        "معین"
+      ]
+    },
+    {
+      "EnglishWord": "contributory negligence    see also  comparative negligence",
+      "Meanings": [
+        "غفلت یا بی احتیاطی زیان دیده که در ورود زیان موثر بوده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "کنترل کننده",
+        "نظارت کردن",
+        "کنترل",
+        "نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "controlled",
+      "Meanings": [
+        "تحت کنترل",
+        "تحت نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "controlled company",
+      "Meanings": [
+        "شرکت تحت کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controller    see also  comptroller",
+      "Meanings": [
+        "ذیحساب",
+        "کنترلر بالاترین مقام شرکت یا سازمان",
+        "ممیز"
+      ]
+    },
+    {
+      "EnglishWord": "controlling",
+      "Meanings": [
+        "حاکم",
+        "ناظر",
+        "کنترل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "controlling company",
+      "Meanings": [
+        "شرکت مادر",
+        "شرکت کنترل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "controversy",
+      "Meanings": [
+        "اختلاف",
+        "مرافعه",
+        "دعوای مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "controvert",
+      "Meanings": [
+        "انکار کردن",
+        "رد کردن",
+        "مخالفت کردن",
+        "مورد تردید قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "contumacy",
+      "Meanings": [
+        "امتناع از حضور در دادگاه علیرغم احضار",
+        "امتناع از پاسخ دادن به سوالات در دادگاه",
+        "اخلال در نظم دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "contumely",
+      "Meanings": [
+        "اهانت",
+        "بی احترامی",
+        "ناسزا"
+      ]
+    },
+    {
+      "EnglishWord": "conusable    see also  cognizable",
+      "Meanings": [
+        "مشمول صلاحیت",
+        "مسموع",
+        "صلاحیت",
+        "اقرار",
+        "اعتراف",
+        "بداهت قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "conusance    see also  cognizance",
+      "Meanings": [
+        "استماع دعوی در دادگاه",
+        "صلاحیت",
+        "اقرار",
+        "اعتراف",
+        "بداهت قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "convene",
+      "Meanings": [
+        "تشکیل دادن جلسه",
+        "دعوت کردن",
+        "احضار کردن",
+        "طرح کردن دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "conventio    lat.",
+      "Meanings": [
+        "قرارداد",
+        "عقد",
+        "موافقتنامه",
+        "معاهده"
+      ]
+    },
+    {
+      "EnglishWord": "conventio vincit legem    lat.",
+      "Meanings": [
+        "توافق صریح طرفین بر مدلول قانون اولویت دارد"
+      ]
+    },
+    {
+      "EnglishWord": "convention",
+      "Meanings": [
+        "کنوانسیون",
+        "عرف",
+        "رسم",
+        "میثاق",
+        "قرارداد",
+        "توافق"
+      ]
+    },
+    {
+      "EnglishWord": "conventional",
+      "Meanings": [
+        "عرفی",
+        "معمول",
+        "مرسوم",
+        "قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "converging will of the parties",
+      "Meanings": [
+        "توافق اراده یا قصد طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "conversion rate",
+      "Meanings": [
+        "نرخ تبدیل ارز",
+        "نرخ تسعیر"
+      ]
+    },
+    {
+      "EnglishWord": "convert    n. conversion",
+      "Meanings": [
+        "غصب کردن",
+        "تصرف عدوانی مال غیر منقول",
+        "تسعیر یا تبدیل کردن ارز",
+        "معکوس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "convertibility",
+      "Meanings": [
+        "قابلیت تبدیل",
+        "قابلیت تسعیر"
+      ]
+    },
+    {
+      "EnglishWord": "convey",
+      "Meanings": [
+        "واگذار کردن",
+        "منتقل کردن انتقال ملک",
+        "فروختن",
+        "صلح کردن مال غیر منقول حمل کردن",
+        "دزدیدن"
+      ]
+    },
+    {
+      "EnglishWord": "conveyance",
+      "Meanings": [
+        "انتقال مال غیر منقول",
+        "صلح نامه",
+        "سند انتقال مال غیر منقول",
+        "حمل",
+        "وسیله نقلیه"
+      ]
+    },
+    {
+      "EnglishWord": "conveyance deed    var. deed of conveyance     see also  deed of transfer",
+      "Meanings": [
+        "سند انتقال ملک"
+      ]
+    },
+    {
+      "EnglishWord": "convict",
+      "Meanings": [
+        "محکوم کردن",
+        "مقصر شناختن",
+        "محکوم",
+        "مجرم",
+        "مقصر",
+        "زندانی"
+      ]
+    },
+    {
+      "EnglishWord": "conviction",
+      "Meanings": [
+        "محکومیت",
+        "مجرمیت",
+        "یقین",
+        "ایمان"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative",
+      "Meanings": [
+        "تعاونی",
+        "شرکت تعاونی"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative society",
+      "Meanings": [
+        "شرکت تعاونی"
+      ]
+    },
+    {
+      "EnglishWord": "coordinate jurisdiction",
+      "Meanings": [
+        "صلاحیت مشترک دو یا چند دادگاه هم درجه برای رسیدگی به دعوای واحد"
+      ]
+    },
+    {
+      "EnglishWord": "co-ownership    see also  common ownership joint ownership ownership in common",
+      "Meanings": [
+        "اشاعه",
+        "مالکیت مشاع",
+        "مالکیت مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "coparcenary    var. coparceny",
+      "Meanings": [
+        "وراثت به صورت مشاع",
+        "مالکیت مشاع"
+      ]
+    },
+    {
+      "EnglishWord": "coparcener",
+      "Meanings": [
+        "وارث مال مشاع"
+      ]
+    },
+    {
+      "EnglishWord": "co-partner    see also  partner",
+      "Meanings": [
+        "شریک"
+      ]
+    },
+    {
+      "EnglishWord": "copulative condition",
+      "Meanings": [
+        "شرط متعدد"
+      ]
+    },
+    {
+      "EnglishWord": "copy",
+      "Meanings": [
+        "نسخه برداشتن",
+        "رونوشت تهیه کردن",
+        "تقلید کردن",
+        "نسخه",
+        "رونوشت"
+      ]
+    },
+    {
+      "EnglishWord": "copyright",
+      "Meanings": [
+        "حفظ کردن حق چاپ یا تقلید",
+        "حق طبع",
+        "حق کار فکری"
+      ]
+    },
+    {
+      "EnglishWord": "coram    lat.",
+      "Meanings": [
+        "در حضور شخص یا اشخاص"
+      ]
+    },
+    {
+      "EnglishWord": "coram judice    lat.",
+      "Meanings": [
+        "دعوای مطروح در دادگاه صالح"
+      ]
+    },
+    {
+      "EnglishWord": "coram non judice    lat.",
+      "Meanings": [
+        "دعوای مطروح در دادگاه غیر صالح"
+      ]
+    },
+    {
+      "EnglishWord": "corollary",
+      "Meanings": [
+        "نتیجه فرعی",
+        "تبعی یا طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate",
+      "Meanings": [
+        "مربوط یا متعلق به شرکت",
+        "تاسیس یافته"
+      ]
+    },
+    {
+      "EnglishWord": "corporate charter    see also  articles of incorporation certificate of incorporation charter incorporation charter",
+      "Meanings": [
+        "اجازه تاسیس شرکت",
+        "اساسنامه شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate entity",
+      "Meanings": [
+        "شخصیت حقوقی شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate personality",
+      "Meanings": [
+        "شخصیت حقوقی شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate veil",
+      "Meanings": [
+        "حجاب شخصیت حقوقی که دارایی شرکت را از دارایی سهامداران آن متمایز می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "corporation",
+      "Meanings": [
+        "شرکت واجد شخصیت حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "corporation aggregate",
+      "Meanings": [
+        "شرکت مرکب از چند یا متعلق به چند نفر در مقابل corporation sole"
+      ]
+    },
+    {
+      "EnglishWord": "corporation nationality",
+      "Meanings": [
+        "تابعیت شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporation sole",
+      "Meanings": [
+        "شرکت انفرادی"
+      ]
+    },
+    {
+      "EnglishWord": "corporeal",
+      "Meanings": [
+        "مادی",
+        "عینی"
+      ]
+    },
+    {
+      "EnglishWord": "corporeal hereditaments",
+      "Meanings": [
+        "اموال غیر منقول قابل انتقال به ورثه"
+      ]
+    },
+    {
+      "EnglishWord": "corporeal property",
+      "Meanings": [
+        "اموال عینی",
+        "اموال مادی"
+      ]
+    },
+    {
+      "EnglishWord": "corpus    lat.",
+      "Meanings": [
+        "مجموعه نوشته ها",
+        "قوانین",
+        "واقعیات",
+        "عنصر مادی"
+      ]
+    },
+    {
+      "EnglishWord": "corpus delicti    lat.",
+      "Meanings": [
+        "ارکان تشکیل دهنده جرم"
+      ]
+    },
+    {
+      "EnglishWord": "corpus juris    lat.",
+      "Meanings": [
+        "مجموعه قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "corpus possessionis    lat.     see also  animus possidendi",
+      "Meanings": [
+        "عمل تصرف مالکانه"
+      ]
+    },
+    {
+      "EnglishWord": "correct    n. correction     see also  rectify reform",
+      "Meanings": [
+        "اصلاح کردن",
+        "تصحیح کردن",
+        "ترمیم کردن",
+        "رفع کردن اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "correi credendi    lat.",
+      "Meanings": [
+        "بستانکاران مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "correi debendi    lat.",
+      "Meanings": [
+        "بدهکاران مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "correspondent bank",
+      "Meanings": [
+        "بانک کارگزار"
+      ]
+    },
+    {
+      "EnglishWord": "corroborate    n. corroboration",
+      "Meanings": [
+        "تایید کردن",
+        "اثبات کردن",
+        "قوت بخشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "corroborating evidence",
+      "Meanings": [
+        "ادله موید و مکمل ادله قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "corrupt",
+      "Meanings": [
+        "فاسد کردن",
+        "رشوه دادن",
+        "تحریف کردن",
+        "مرتشی",
+        "فاسد",
+        "تحریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "corruption    see also  bribery",
+      "Meanings": [
+        "فساد",
+        "ارتشاء"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "هزینه",
+        "خرج",
+        "قیمت",
+        "بهاء"
+      ]
+    },
+    {
+      "EnglishWord": "cost-plus",
+      "Meanings": [
+        "قیمت تمام شده بعلاوه سود تعیین شده"
+      ]
+    },
+    {
+      "EnglishWord": "cost-reimbursable contract",
+      "Meanings": [
+        "قرارداد امانی"
+      ]
+    },
+    {
+      "EnglishWord": "costs    see also  court costs",
+      "Meanings": [
+        "هزینه دادرسی",
+        "خسارت دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "council",
+      "Meanings": [
+        "شورا",
+        "انجمن شهر"
+      ]
+    },
+    {
+      "EnglishWord": "counsel",
+      "Meanings": [
+        "مشورت کردن",
+        "نظر مشورتی دادن",
+        "مشاوره حقوقی",
+        "مشورت",
+        "وکیل"
+      ]
+    },
+    {
+      "EnglishWord": "counsellor",
+      "Meanings": [
+        "وکیل",
+        "مشاور حقوقی",
+        "حقوقدانان"
+      ]
+    },
+    {
+      "EnglishWord": "count",
+      "Meanings": [
+        "اعلام کردن",
+        "نقل کردن",
+        "شفاها دفاع کردن",
+        "مورد اتهام",
+        "فقره"
+      ]
+    },
+    {
+      "EnglishWord": "counterclaim    see also  cross action cross-claim offset recoup set-off",
+      "Meanings": [
+        "ادعای متقابل",
+        "ادعای تقابل"
+      ]
+    },
+    {
+      "EnglishWord": "counterclaimant",
+      "Meanings": [
+        "خواهان متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "counterfeit",
+      "Meanings": [
+        "جعل کردن",
+        "تقلب کردن",
+        "جعلی",
+        "تقلبی",
+        "ساختگی"
+      ]
+    },
+    {
+      "EnglishWord": "countermand",
+      "Meanings": [
+        "لغو کردن",
+        "نقض کردن دستور قبلی یا اختیار اعطایی",
+        "دستور عدم پرداخت چک",
+        "لغو سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "counter-offer",
+      "Meanings": [
+        "پیشنهاد متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "counterpart",
+      "Meanings": [
+        "همتا",
+        "رونوشت"
+      ]
+    },
+    {
+      "EnglishWord": "counter-respondent",
+      "Meanings": [
+        "خوانده متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "countersign",
+      "Meanings": [
+        "ظهرنویسی کردن",
+        "تایید کردن با امضا",
+        "امضای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "country court",
+      "Meanings": [
+        "دادگاه بخش"
+      ]
+    },
+    {
+      "EnglishWord": "county attorney    see also  district attorney prosecuting attorney prosecutor state's attorney",
+      "Meanings": [
+        "دادستان"
+      ]
+    },
+    {
+      "EnglishWord": "cour de cassation    fr.",
+      "Meanings": [
+        "دیوان عالی کشور"
+      ]
+    },
+    {
+      "EnglishWord": "course",
+      "Meanings": [
+        "جریان",
+        "مسیر",
+        "روش",
+        "مرور زمان",
+        "جهت",
+        "خط مشی"
+      ]
+    },
+    {
+      "EnglishWord": "course as a matter of",
+      "Meanings": [
+        "حسب معمول",
+        "به طور عادی"
+      ]
+    },
+    {
+      "EnglishWord": "course business",
+      "Meanings": [
+        "رویه معمول داد و ستد",
+        "مشی عادی تجارت"
+      ]
+    },
+    {
+      "EnglishWord": "course of dealing",
+      "Meanings": [
+        "مناسبات گذشته طرفین معامله دادگاه",
+        "محکمه"
+      ]
+    },
+    {
+      "EnglishWord": "court",
+      "Meanings": [
+        "دادگاه",
+        "محکمه"
+      ]
+    },
+    {
+      "EnglishWord": "court calendar    see also  docket trial calendar",
+      "Meanings": [
+        "صورت پرونده‌های مطروح در دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "court costs    see also  costs",
+      "Meanings": [
+        "هزینه دادرسی",
+        "خسارت دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "court en banc    en banc    lat.      var. court in bank   see also  full court",
+      "Meanings": [
+        "جلسه دادگاه با حضور همه قضات",
+        "هیات عمومی قضات"
+      ]
+    },
+    {
+      "EnglishWord": "court injunction",
+      "Meanings": [
+        "قرار منع"
+      ]
+    },
+    {
+      "EnglishWord": "court of appeals    see also  appeal court appellate court circuit court of appeals",
+      "Meanings": [
+        "دادگاه پژوهش",
+        "دادگاه استیناف",
+        "دادگاه استان"
+      ]
+    },
+    {
+      "EnglishWord": "court of equity",
+      "Meanings": [
+        "دادگاه انصاف"
+      ]
+    },
+    {
+      "EnglishWord": "court of justice",
+      "Meanings": [
+        "دادگاه",
+        "محکمه"
+      ]
+    },
+    {
+      "EnglishWord": "court of law",
+      "Meanings": [
+        "دادگاه",
+        "محکمه"
+      ]
+    },
+    {
+      "EnglishWord": "court of the first instance",
+      "Meanings": [
+        "دادگاه نخستین",
+        "دادگاه بدوی",
+        "دادگاه شهرستان"
+      ]
+    },
+    {
+      "EnglishWord": "court of the last resort",
+      "Meanings": [
+        "آخرین مرجع رسیدگی قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "court order",
+      "Meanings": [
+        "قرار یا دستور دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "court reporter    see also  reporter",
+      "Meanings": [
+        "تندنویس دادگاه",
+        "گزارشگر جریان دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "court ruling",
+      "Meanings": [
+        "رای",
+        "حکم یا تصمیمی دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "court writ",
+      "Meanings": [
+        "قرار دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "courtroom papers    cpr",
+      "Meanings": [
+        "اوراق جلسه دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "covenant",
+      "Meanings": [
+        "توافق کردن",
+        "عقد",
+        "پیمان",
+        "میثاق",
+        "توافق",
+        "قرارداد رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "covenant action",
+      "Meanings": [
+        "دعوای نقض قرارداد رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "covenant of quiet enjoyment",
+      "Meanings": [
+        "شرط مندرج در اجازه نامه یا سند انتقال مبنی بر تضمین استفاده بلامعارض و بدون مزاحمت از ملک",
+        "واگذاری مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "cover",
+      "Meanings": [
+        "بیمه کردن",
+        "شامل شدن",
+        "وثیقه",
+        "پشتوانه"
+      ]
+    },
+    {
+      "EnglishWord": "coverage",
+      "Meanings": [
+        "پوشش",
+        "شمول",
+        "مورد یا مبلغ بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "cover-up",
+      "Meanings": [
+        "سرپوش نهادن",
+        "پنهان کردن",
+        "مخفی کردن",
+        "پنهانکاری"
+      ]
+    },
+    {
+      "EnglishWord": "cpr    courtroom papers",
+      "Meanings": [
+        "اوراق جلسه دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "cpt  carriage paid to    ... named port of destination",
+      "Meanings": [
+        "کرایه حمل پرداخت شده… مقصد معین شده"
+      ]
+    },
+    {
+      "EnglishWord": "credibility",
+      "Meanings": [
+        "اعتبار",
+        "قابلیت قبول"
+      ]
+    },
+    {
+      "EnglishWord": "credit",
+      "Meanings": [
+        "بستانکار کردن",
+        "باور کردن",
+        "اعتبار قایل شدن",
+        "نسبت دادن اعتبار",
+        "رقم بستانکار",
+        "نسیه",
+        "آبرو",
+        "حیثیت"
+      ]
+    },
+    {
+      "EnglishWord": "credit rating",
+      "Meanings": [
+        "تعیین میزان اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "credit sale",
+      "Meanings": [
+        "فروش نسیه"
+      ]
+    },
+    {
+      "EnglishWord": "creditor",
+      "Meanings": [
+        "بستانکار",
+        "طلبکار",
+        "داین"
+      ]
+    },
+    {
+      "EnglishWord": "crime",
+      "Meanings": [
+        "جنایت",
+        "جرم",
+        "تبهکاری"
+      ]
+    },
+    {
+      "EnglishWord": "criminal",
+      "Meanings": [
+        "مجرم",
+        "تبهکار",
+        "جانی",
+        "جنایتکار",
+        "کیفری",
+        "جنایی"
+      ]
+    },
+    {
+      "EnglishWord": "criminal jurisdiction",
+      "Meanings": [
+        "صلاحیت رسیدگی به امور کیفری"
+      ]
+    },
+    {
+      "EnglishWord": "criminal law    see also  penal law",
+      "Meanings": [
+        "حقوق کیفری",
+        "حقوق جزا",
+        "حقوق جنایی"
+      ]
+    },
+    {
+      "EnglishWord": "criminal offense",
+      "Meanings": [
+        "جنایت",
+        "جرم کیفری"
+      ]
+    },
+    {
+      "EnglishWord": "criminal penalties",
+      "Meanings": [
+        "مجازات کیفری"
+      ]
+    },
+    {
+      "EnglishWord": "criminal procedure",
+      "Meanings": [
+        "آیین دادرسی کیفری",
+        "اصول محاکمات جزایی"
+      ]
+    },
+    {
+      "EnglishWord": "criminal prosecution",
+      "Meanings": [
+        "تعقیب کیفری",
+        "تعقیب جزایی"
+      ]
+    },
+    {
+      "EnglishWord": "cross action    see also  counterclaim cross-claim offset recoup set-off",
+      "Meanings": [
+        "ادعای متقابل",
+        "ادعای خوانده علیه خواهان یا خوانده دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "cross complaint",
+      "Meanings": [
+        "دعوای متقابل خوانده علیه خواهان یا خوانده دیگر یا علیه شخص ثالث"
+      ]
+    },
+    {
+      "EnglishWord": "cross demand",
+      "Meanings": [
+        "ادعای متقابل",
+        "تهاتر"
+      ]
+    },
+    {
+      "EnglishWord": "cross-casting    see also  crossfooting",
+      "Meanings": [
+        "جمع افقی"
+      ]
+    },
+    {
+      "EnglishWord": "cross-claim    see also  counterclaim cross action offset recoup set-off",
+      "Meanings": [
+        "ادعای خوانده ای علیه خوانده دیگر ناشی از معامله یا رویداد موضوع دعوی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "crossed check",
+      "Meanings": [
+        "چک بسته"
+      ]
+    },
+    {
+      "EnglishWord": "cross-examination",
+      "Meanings": [
+        "سوال مستقیم از شاهد طرف مقابل در دادگاه به منظور کشف و اثبات صحت یا سقم شهادت"
+      ]
+    },
+    {
+      "EnglishWord": "crossfooting    see also  cross-casting",
+      "Meanings": [
+        "جمع افقی"
+      ]
+    },
+    {
+      "EnglishWord": "culpa    lat.",
+      "Meanings": [
+        "تخلف",
+        "تخطی",
+        "تقصیر",
+        "غفلت",
+        "خاطی"
+      ]
+    },
+    {
+      "EnglishWord": "culpa in contrahendo    lat.",
+      "Meanings": [
+        "تخلف ناشی از نقض قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "culpable",
+      "Meanings": [
+        "مقصر",
+        "مجرم",
+        "قابل سرزنش",
+        "متخلف",
+        "خاطی"
+      ]
+    },
+    {
+      "EnglishWord": "culpable bankruptcy",
+      "Meanings": [
+        "ورشکستگی به تقصیر"
+      ]
+    },
+    {
+      "EnglishWord": "culprit",
+      "Meanings": [
+        "بزه کار",
+        "مجرم",
+        "متهم"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative damages",
+      "Meanings": [
+        "خسارت انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative evidence",
+      "Meanings": [
+        "ادله و مدارک مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "curative law",
+      "Meanings": [
+        "قانون اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "curator",
+      "Meanings": [
+        "قیم",
+        "سرپرست",
+        "متصدی"
+      ]
+    },
+    {
+      "EnglishWord": "currency",
+      "Meanings": [
+        "پول رایج",
+        "رواج",
+        "گردش",
+        "قبول عام"
+      ]
+    },
+    {
+      "EnglishWord": "current",
+      "Meanings": [
+        "جاری",
+        "رایج"
+      ]
+    },
+    {
+      "EnglishWord": "current account    see also  drawing account",
+      "Meanings": [
+        "حساب جاری"
+      ]
+    },
+    {
+      "EnglishWord": "current capital    see also  liquid capital working capital",
+      "Meanings": [
+        "سرمایه در گردش",
+        "سرمایه جاری"
+      ]
+    },
+    {
+      "EnglishWord": "custodian",
+      "Meanings": [
+        "متولی",
+        "امین",
+        "متصدی"
+      ]
+    },
+    {
+      "EnglishWord": "custodianship",
+      "Meanings": [
+        "تولیت",
+        "امانت",
+        "تصدی"
+      ]
+    },
+    {
+      "EnglishWord": "custody",
+      "Meanings": [
+        "ولایت",
+        "حضانت",
+        "امانت",
+        "توقیف",
+        "بازداشت",
+        "حبس"
+      ]
+    },
+    {
+      "EnglishWord": "custom",
+      "Meanings": [
+        "عرف",
+        "رسم",
+        "عادت",
+        "سنت"
+      ]
+    },
+    {
+      "EnglishWord": "customary",
+      "Meanings": [
+        "عرفی",
+        "رایج",
+        "سنتی",
+        "مرسوم"
+      ]
+    },
+    {
+      "EnglishWord": "customary law",
+      "Meanings": [
+        "حقوق یا قوانین عرفی"
+      ]
+    },
+    {
+      "EnglishWord": "customary rules of international law",
+      "Meanings": [
+        "قواعد عرفی حقوق بین الملل"
+      ]
+    },
+    {
+      "EnglishWord": "customs",
+      "Meanings": [
+        "گمرک",
+        "عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "customs authority",
+      "Meanings": [
+        "گمرکات",
+        "اداره گمرک"
+      ]
+    },
+    {
+      "EnglishWord": "customs declaration",
+      "Meanings": [
+        "اظهار نامه گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "customs duties",
+      "Meanings": [
+        "حقوق یا عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "customs permit",
+      "Meanings": [
+        "جواز ترخیص کالا از گمرک پس از پرداخت حقوق و عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "customs warehouse",
+      "Meanings": [
+        "انبار گمرک"
+      ]
+    }
+  ]
+}

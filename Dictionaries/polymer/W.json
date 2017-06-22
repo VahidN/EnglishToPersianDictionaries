@@ -1,0 +1,470 @@
+﻿{
+  "Group": "W",
+  "Entries": 73,
+  "Words": [
+    {
+      "EnglishWord": "wafer board",
+      "Meanings": [
+        "تخته ویفر"
+      ]
+    },
+    {
+      "EnglishWord": "wall",
+      "Meanings": [
+        "دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "wall thickness ratio",
+      "Meanings": [
+        "نسبت ضخامت دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "warp",
+      "Meanings": [
+        "تار"
+      ]
+    },
+    {
+      "EnglishWord": "warp beam method",
+      "Meanings": [
+        "روش چله کشی"
+      ]
+    },
+    {
+      "EnglishWord": "warp ud",
+      "Meanings": [
+        "تک جهتی تاری",
+        "تک جهته طولی"
+      ]
+    },
+    {
+      "EnglishWord": "warpage",
+      "Meanings": [
+        "تاب برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "warping",
+      "Meanings": [
+        "پیچاندن"
+      ]
+    },
+    {
+      "EnglishWord": "wash fastness",
+      "Meanings": [
+        "ثبات شویشی"
+      ]
+    },
+    {
+      "EnglishWord": "wastage",
+      "Meanings": [
+        "ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "water absorption",
+      "Meanings": [
+        "جذب آب"
+      ]
+    },
+    {
+      "EnglishWord": "water blown system",
+      "Meanings": [
+        "سیستم آب دمشی"
+      ]
+    },
+    {
+      "EnglishWord": "water borne coating dispersion",
+      "Meanings": [
+        "پراکنش پوشش پایه آب",
+        "نوعی مخلوط پراکنده پوشش دهنده که در آن مولکولهای محمل به شکل ذرات کلویید به طور یکنواخت در سرتاسر محیطی پایدار که قسمت اعظم آن را آب تشکیل داده پخش شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "water compatibility",
+      "Meanings": [
+        "آب سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "water compatible",
+      "Meanings": [
+        "آب سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "water flooding",
+      "Meanings": [
+        "غرقابه",
+        "طغیان آب"
+      ]
+    },
+    {
+      "EnglishWord": "water permeability",
+      "Meanings": [
+        "آب تراوایی"
+      ]
+    },
+    {
+      "EnglishWord": "water reducible",
+      "Meanings": [
+        "آب کاه"
+      ]
+    },
+    {
+      "EnglishWord": "water reducing plasticizer",
+      "Meanings": [
+        "نرم کننده کاهنده آب"
+      ]
+    },
+    {
+      "EnglishWord": "water repellant",
+      "Meanings": [
+        "دافع آب"
+      ]
+    },
+    {
+      "EnglishWord": "water stain",
+      "Meanings": [
+        "رنگان? آب پایه"
+      ]
+    },
+    {
+      "EnglishWord": "water swelling",
+      "Meanings": [
+        "تورم با آب"
+      ]
+    },
+    {
+      "EnglishWord": "water uptake",
+      "Meanings": [
+        "جذب آب"
+      ]
+    },
+    {
+      "EnglishWord": "waterproof",
+      "Meanings": [
+        "ضد آب",
+        "مقاوم به آب"
+      ]
+    },
+    {
+      "EnglishWord": "waterproofing agent",
+      "Meanings": [
+        "عامل ضدآب کننده"
+      ]
+    },
+    {
+      "EnglishWord": "wave guide",
+      "Meanings": [
+        "موج رسان"
+      ]
+    },
+    {
+      "EnglishWord": "wave number",
+      "Meanings": [
+        "عدد موجی"
+      ]
+    },
+    {
+      "EnglishWord": "wax",
+      "Meanings": [
+        "موم",
+        "واکس",
+        "ماده جدا کننده قالب"
+      ]
+    },
+    {
+      "EnglishWord": "wear",
+      "Meanings": [
+        "سایش"
+      ]
+    },
+    {
+      "EnglishWord": "wear exposure",
+      "Meanings": [
+        "در معرض فرسایش قرار گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "wear rate",
+      "Meanings": [
+        "سرعت فرسایش"
+      ]
+    },
+    {
+      "EnglishWord": "wear resistance",
+      "Meanings": [
+        "مقاومت فرسایشی"
+      ]
+    },
+    {
+      "EnglishWord": "weather resistance",
+      "Meanings": [
+        "مقاوم به هوازدگی"
+      ]
+    },
+    {
+      "EnglishWord": "weatherability",
+      "Meanings": [
+        "جوسازگاری",
+        "مقاوم به عوامل جوی"
+      ]
+    },
+    {
+      "EnglishWord": "weathering",
+      "Meanings": [
+        "در معرض عوامل جوی قرار دادن",
+        "هوا زدگی",
+        "فرآیند تخریب و تجزیه شدن در شرایط جوی نظیر خورشید",
+        "سرما زدگی",
+        "آب و گرما که عموما با واکنش‌های شیمیایی و فرآیندهای فیزیکی همراه است"
+      ]
+    },
+    {
+      "EnglishWord": "weatherometer",
+      "Meanings": [
+        "هواسنج"
+      ]
+    },
+    {
+      "EnglishWord": "weave",
+      "Meanings": [
+        "بافتن"
+      ]
+    },
+    {
+      "EnglishWord": "wedge",
+      "Meanings": [
+        "گوه ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "wedge shaped die",
+      "Meanings": [
+        "حدیده گوه ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "weft",
+      "Meanings": [
+        "پود"
+      ]
+    },
+    {
+      "EnglishWord": "weft ud",
+      "Meanings": [
+        "تک جهته پودی",
+        "تک جهته عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "weight loss",
+      "Meanings": [
+        "افت وزن",
+        "کاهش وزن"
+      ]
+    },
+    {
+      "EnglishWord": "weight percent",
+      "Meanings": [
+        "درصد وزنی"
+      ]
+    },
+    {
+      "EnglishWord": "weld lines",
+      "Meanings": [
+        "خطوط جوش"
+      ]
+    },
+    {
+      "EnglishWord": "weldability",
+      "Meanings": [
+        "جوش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "welding",
+      "Meanings": [
+        "جوش دادن",
+        "جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "wet sanding",
+      "Meanings": [
+        "سنباده زنی تر"
+      ]
+    },
+    {
+      "EnglishWord": "wet spinning",
+      "Meanings": [
+        "ریسندگی تر"
+      ]
+    },
+    {
+      "EnglishWord": "wetout",
+      "Meanings": [
+        "خیس شدن",
+        "سرعتی را که مواد تقویت کننده می‌توانند به طور کامل بوسیله رزین و یا در کل با محمل اشباع شوند"
+      ]
+    },
+    {
+      "EnglishWord": "wettability",
+      "Meanings": [
+        "رطوبت پذیری",
+        "قابلیت‌تر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wettable",
+      "Meanings": [
+        "تر شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "wetting",
+      "Meanings": [
+        "ترشدگی",
+        "‌تر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wetting agent",
+      "Meanings": [
+        "عامل‌تر کننده"
+      ]
+    },
+    {
+      "EnglishWord": "whirler",
+      "Meanings": [
+        "صفحه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "whisker",
+      "Meanings": [
+        "الیاف ریز",
+        "تار موهای خیلی کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "whitening",
+      "Meanings": [
+        "سفید شدن"
+      ]
+    },
+    {
+      "EnglishWord": "whole blood",
+      "Meanings": [
+        "خون کامل"
+      ]
+    },
+    {
+      "EnglishWord": "wicking",
+      "Meanings": [
+        "فتیله شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wicking rate",
+      "Meanings": [
+        "میزان تراوش فتیله ای"
+      ]
+    },
+    {
+      "EnglishWord": "wide angle xray",
+      "Meanings": [
+        "پرتو ایکس با زاویه باز"
+      ]
+    },
+    {
+      "EnglishWord": "wijs solution",
+      "Meanings": [
+        "محلول عامل"
+      ]
+    },
+    {
+      "EnglishWord": "winding machine",
+      "Meanings": [
+        "طاقه پیچ فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "wire coating",
+      "Meanings": [
+        "سیم پوشانی"
+      ]
+    },
+    {
+      "EnglishWord": "wood composite",
+      "Meanings": [
+        "کامپوزیت‌های چندسازه را گویند که جزء اصلی آنها را چوب تشکیل داده باشد. چوب و یا دیگر مواد ممکن است با انواع چسبها به هم متصل شوند تا این سازه را شکل دهند تخته چند لایه یکی از ساده‌ترین کامپوزیتهای چوبی است"
+      ]
+    },
+    {
+      "EnglishWord": "wood flour",
+      "Meanings": [
+        "پودر چوب"
+      ]
+    },
+    {
+      "EnglishWord": "work of rupture",
+      "Meanings": [
+        "کار گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "workability",
+      "Meanings": [
+        "کارپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "worn",
+      "Meanings": [
+        "فرسوده",
+        "پوسیده"
+      ]
+    },
+    {
+      "EnglishWord": "woven fabric",
+      "Meanings": [
+        "پارچه بافته شده",
+        "مواد ساخته شده از نخها",
+        "الیاف یا رشته‌های متقاطع که خودشان به تنهایی متقاطع نیستند",
+        "حصیر پارچه‏ای"
+      ]
+    },
+    {
+      "EnglishWord": "woven roving",
+      "Meanings": [
+        "دسته رشته بافته",
+        "حصیری",
+        "نیم تاب بافته شده"
+      ]
+    },
+    {
+      "EnglishWord": "woven roving fabric",
+      "Meanings": [
+        "پارچه نیم تاب بافته",
+        "پارچه بافته سنگین از رشته‌های پیوسته در شکل نیم تاب آنها خوب کشیده می‏شوند سریع آغشته می‏شوند و قیمت متعادلی بین نخ و ماتریس دارند"
+      ]
+    },
+    {
+      "EnglishWord": "woven tape",
+      "Meanings": [
+        "نوار بافته",
+        "نوار بافته با انواع ضخامت از رشته نخهای پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "wrinkling",
+      "Meanings": [
+        "چین خوردگی"
+      ]
+    }
+  ]
+}

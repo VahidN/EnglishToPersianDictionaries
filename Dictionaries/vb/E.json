@@ -1,0 +1,287 @@
+﻿{
+  "Group": "E",
+  "Entries": 38,
+  "Words": [
+    {
+      "EnglishWord": "e",
+      "Meanings": [
+        "عدد ای",
+        "عدد نپر",
+        "عدد"
+      ]
+    },
+    {
+      "EnglishWord": "edit",
+      "Meanings": [
+        "ویرایش",
+        "یکی از منوهای برنامه شامل امکاناتی مانند Copy"
+      ]
+    },
+    {
+      "EnglishWord": "enabled",
+      "Meanings": [
+        "فعال یا غیر فعال",
+        "خصیصه ای که اگر True باشد شیء مورد نظر فعال و اگر False باشد شیء مورد نظر غیر فعال می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "enablewindow",
+      "Meanings": [
+        "یک دستور API برای فعال یا غیر فعال کردن یک پنجره",
+        "Private Declare Function EnableWindow Lib \"\"user32\"\" ByVal hwnd As Long"
+      ]
+    },
+    {
+      "EnglishWord": "end",
+      "Meanings": [
+        "پایان",
+        "دستوری که برنامه را به پایان می‌رساند"
+      ]
+    },
+    {
+      "EnglishWord": "end enum",
+      "Meanings": [
+        "عبارتی که نشان می‌دهد دستور Enum به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end function",
+      "Meanings": [
+        "دستوری که نشان می‌دهد دستور Function به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end if",
+      "Meanings": [
+        "دستوری که نشان می‌دهد دستور If/Then به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end of file",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "end property",
+      "Meanings": [
+        "دستوری که نشان می‌دهد که دستورات Property Let"
+      ]
+    },
+    {
+      "EnglishWord": "end select",
+      "Meanings": [
+        "عبارتی که نشان می‌دهد دستور به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end sub",
+      "Meanings": [
+        "پایان دستور",
+        "دستوری که نشان می‌دهد دستور Sub به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end type",
+      "Meanings": [
+        "دستوری که نشان می‌دهد که دستور Type به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "end with",
+      "Meanings": [
+        "دستوری که نشان می‌دهد که دستور With به پایان رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "enddoc",
+      "Meanings": [
+        "متتدی از شیء پرینتر که تا قبل از اجرای آن عمل چاپ انجام نمی‌شود و فقط بعد از فراخوانی این متد است که چاپ انجام شده و کاغذ بیرون می‌آید",
+        "Printer.EndDoc"
+      ]
+    },
+    {
+      "EnglishWord": "enum",
+      "Meanings": [
+        "Enum eration",
+        "شمارش",
+        "دستوری برای تعریف یک متغیر دارای چند متغیر دیگر",
+        "Enum Name",
+        "Var",
+        "Varn",
+        "End Enum",
+        "و برای تعریف یک متغیر از نوع آن",
+        "Dim VarName As EnumName",
+        "VarName = Var",
+        "مانند",
+        "Public Enum WorkDays",
+        "Saturday",
+        "Sunday =",
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday Invalid =",
+        "Dim MyDay As WorkDays",
+        "MyDay = Saturday"
+      ]
+    },
+    {
+      "EnglishWord": "enumeration",
+      "Meanings": [
+        "شمارش",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "eof",
+      "Meanings": [
+        "E nd O f F ile",
+        "پایان یک داده",
+        "یکی از گزینه‌های متدد Recordset از شیء Data که آخرین رکورد پایگاه داده‌ها را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "equality  =",
+      "Meanings": [
+        "برابری",
+        "برای مساوی کردن دو عبارت از علامت = استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "err",
+      "Meanings": [
+        "Err or",
+        "خطا",
+        "یکی از شیءهای VB که وضعیت برنامه را هنگام رخ دادن خطا معلوم می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "event",
+      "Meanings": [
+        "رویداد",
+        "رخداد",
+        "حرکتی که بوسیله شیء شناخته می‌شود مانند حرکت موس یا فشار دادن کلید و…",
+        "برای دستیابی به رویدادهای شیء روی آن دابل کلیک می‌کنیم تا جعبه کد باز شود سپس در جعبه منوی سمت راست نوع رویداد را مشخص می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "event handler",
+      "Meanings": [
+        "قسمتی از برنامه که مسیولیت کنترل رویدادها را بر عهده دارد"
+      ]
+    },
+    {
+      "EnglishWord": "exe",
+      "Meanings": [
+        "Exe cutable",
+        "فایلهای اجرایی",
+        "برای ساختن یک فایل اجرایی از برنامه تان گزینه Make Project. Exe را از منوی File انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "execwb",
+      "Meanings": [
+        "یکی از متددهای شیء WebBrowser برای اجرای عملهای معلوم آن مانند Open و"
+      ]
+    },
+    {
+      "EnglishWord": "exename",
+      "Meanings": [
+        "نام برنامه اجرایی",
+        "یکی از خصیصه‌های App که نام برنامه اجرایی را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "exists",
+      "Meanings": [
+        "وجود داشتن",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . Exists key",
+        "به جای Object نام شیء و به جای Key هم لغت مورد نظر را می‌نویسیم در این صورت اگر وجود داشت آن را با True و اگر نداشت با False نشان می‌دهد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "exit",
+      "Meanings": [
+        "خروج",
+        "گزینه ای از منوی File برای خروج با کلید میانبر Alt+Q"
+      ]
+    },
+    {
+      "EnglishWord": "exit do",
+      "Meanings": [
+        "دستوری برای خروج از دستور Do/Loop"
+      ]
+    },
+    {
+      "EnglishWord": "exit for",
+      "Meanings": [
+        "دستوری برای خروج از دستور For/Next"
+      ]
+    },
+    {
+      "EnglishWord": "exit function",
+      "Meanings": [
+        "دستوری برای خروج از دستور Function"
+      ]
+    },
+    {
+      "EnglishWord": "exit property",
+      "Meanings": [
+        "دستوری برای خروج از دستور Property"
+      ]
+    },
+    {
+      "EnglishWord": "exit sub",
+      "Meanings": [
+        "خروج از دستور",
+        "دستوری که از کد فعلی خارج می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "exitwindowsex",
+      "Meanings": [
+        "یک دستور API برای خروج از ویندوز"
+      ]
+    },
+    {
+      "EnglishWord": "exp",
+      "Meanings": [
+        "Exp onent",
+        "توان نمایی",
+        "خروجی این تابع عددی از نوع double است که برابر e به توان ورودی تابع است",
+        "Exp number"
+      ]
+    },
+    {
+      "EnglishWord": "exponent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "exponentiation operator  ^",
+      "Meanings": [
+        "عمل توان",
+        "برای انجام عمل توان از علامت ^ استفاده می‌کنیم. مانند",
+        "result = number^exponent"
+      ]
+    },
+    {
+      "EnglishWord": "expression",
+      "Meanings": [
+        "اصطلاع",
+        "عبارت"
+      ]
+    }
+  ]
+}

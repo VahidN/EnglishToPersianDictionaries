@@ -1,0 +1,665 @@
+﻿{
+  "Group": "V",
+  "Entries": 96,
+  "Words": [
+    {
+      "EnglishWord": "v antigen",
+      "Meanings": [
+        "پادگن/آنتی ژن ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "vaccine",
+      "Meanings": [
+        "مایه",
+        "مایه آبله",
+        "واکسن"
+      ]
+    },
+    {
+      "EnglishWord": "vaccinia",
+      "Meanings": [
+        "آبله گاوی"
+      ]
+    },
+    {
+      "EnglishWord": "vacuoles",
+      "Meanings": [
+        "واکویل ها",
+        "حباب ها",
+        "حفره ها",
+        "کریچه ها"
+      ]
+    },
+    {
+      "EnglishWord": "vagile",
+      "Meanings": [
+        "جنبنده",
+        "دارای تحرک",
+        "متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "vagility",
+      "Meanings": [
+        "تحرک",
+        "جنبش",
+        "قابلیت انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "vaginosis",
+      "Meanings": [
+        "التهاب مهبل",
+        "واژنوز"
+      ]
+    },
+    {
+      "EnglishWord": "val",
+      "Meanings": [
+        "نگاه کنید به valine"
+      ]
+    },
+    {
+      "EnglishWord": "validation",
+      "Meanings": [
+        "معتبر سازی",
+        "اعتبار بخشی",
+        "تایید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "valine",
+      "Meanings": [
+        "والین"
+      ]
+    },
+    {
+      "EnglishWord": "valuation",
+      "Meanings": [
+        "بهاء",
+        "قدر",
+        "ارزش",
+        "ارزش گذاری",
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "van",
+      "Meanings": [
+        "وانت",
+        "کامیون کوچک",
+        "واگن باری"
+      ]
+    },
+    {
+      "EnglishWord": "vancomycin",
+      "Meanings": [
+        "وانکومایسین"
+      ]
+    },
+    {
+      "EnglishWord": "variable number of tandem repeats",
+      "Meanings": [
+        "تعدادمتغیر تکرار‌های توام"
+      ]
+    },
+    {
+      "EnglishWord": "variable region",
+      "Meanings": [
+        "منطقه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variable surface glycoprotein",
+      "Meanings": [
+        "گلیکو پروتیین دارای سطح تغییر پذیر",
+        "گلیکوژن سطح متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "variance",
+      "Meanings": [
+        "تنوع",
+        "نا پایداری",
+        "ناجوری",
+        "واریانس",
+        "وردایی",
+        "پراش",
+        "پراکنش",
+        "تغییر پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "variation",
+      "Meanings": [
+        "جوراجوری",
+        "گوناگونی",
+        "وردایی",
+        "اختلاف",
+        "انحراف",
+        "تغییر",
+        "تنوع"
+      ]
+    },
+    {
+      "EnglishWord": "varicella zoster virus",
+      "Meanings": [
+        "ویروس واریسلا زوستر"
+      ]
+    },
+    {
+      "EnglishWord": "variegation",
+      "Meanings": [
+        "گوناگونی"
+      ]
+    },
+    {
+      "EnglishWord": "variety",
+      "Meanings": [
+        "تنوع"
+      ]
+    },
+    {
+      "EnglishWord": "vascular endothelium",
+      "Meanings": [
+        "توپوش/درون پوشه آوندی"
+      ]
+    },
+    {
+      "EnglishWord": "vascular hemophilia",
+      "Meanings": [
+        "هموفیلی عروقی"
+      ]
+    },
+    {
+      "EnglishWord": "vasoactive intestinal polypeptide",
+      "Meanings": [
+        "پلی پپتید روده ای وازواکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "vasoconstrictor",
+      "Meanings": [
+        "تنگ کننده عروق"
+      ]
+    },
+    {
+      "EnglishWord": "vasodilator",
+      "Meanings": [
+        "رگ گشا",
+        "گشاد کننده عروق"
+      ]
+    },
+    {
+      "EnglishWord": "vasopressin",
+      "Meanings": [
+        "وازوپرسین"
+      ]
+    },
+    {
+      "EnglishWord": "vasotocin",
+      "Meanings": [
+        "وازوتوسین"
+      ]
+    },
+    {
+      "EnglishWord": "vdd",
+      "Meanings": [
+        "نگاه کنید به vitamind",
+        "dependency rickets"
+      ]
+    },
+    {
+      "EnglishWord": "vector",
+      "Meanings": [
+        "بردار",
+        "حامل",
+        "ناقل",
+        "منتقل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "vector borne",
+      "Meanings": [
+        "ناقل برد",
+        "وکتور برن"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial processing",
+      "Meanings": [
+        "پروسسینگ ناقلی"
+      ]
+    },
+    {
+      "EnglishWord": "vectorial translation",
+      "Meanings": [
+        "ترجمه ناقلی"
+      ]
+    },
+    {
+      "EnglishWord": "vegetative cell",
+      "Meanings": [
+        "سلول گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "vegetative propagation",
+      "Meanings": [
+        "نشر گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "vegetative reproduction",
+      "Meanings": [
+        "تولید مثل گیاهی"
+      ]
+    },
+    {
+      "EnglishWord": "vehicle",
+      "Meanings": [
+        "حامل",
+        "حمل کننده",
+        "ناقل"
+      ]
+    },
+    {
+      "EnglishWord": "vent",
+      "Meanings": [
+        "منفذ",
+        "روزنه",
+        "سوراخ",
+        "شکاف",
+        "مقعد"
+      ]
+    },
+    {
+      "EnglishWord": "vent dna polymerase",
+      "Meanings": [
+        "پلیمرآز DNA منفذ"
+      ]
+    },
+    {
+      "EnglishWord": "vernalization",
+      "Meanings": [
+        "باردهی",
+        "بهارگی",
+        "بهاره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "vertical gene transfer",
+      "Meanings": [
+        "انتقال ژن عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "vertical transmission",
+      "Meanings": [
+        "انتقال عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "very late antigen",
+      "Meanings": [
+        "پادگن/آنتی ژن خیلی دیر"
+      ]
+    },
+    {
+      "EnglishWord": "very low-density lipoprotein",
+      "Meanings": [
+        "لیپوپروتیین با غلضت خیلی کم"
+      ]
+    },
+    {
+      "EnglishWord": "vesicle",
+      "Meanings": [
+        "حبابچه",
+        "ریز کیسه",
+        "وزیکول",
+        "آبدانک",
+        "تاول",
+        "تاولچه"
+      ]
+    },
+    {
+      "EnglishWord": "vesicular transport",
+      "Meanings": [
+        "انتقال ریز کیسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "vesicule",
+      "Meanings": [
+        "وزیکول"
+      ]
+    },
+    {
+      "EnglishWord": "v-gene",
+      "Meanings": [
+        "ژن v"
+      ]
+    },
+    {
+      "EnglishWord": "viability",
+      "Meanings": [
+        "قابلیت زیست",
+        "زیستایی",
+        "زیست پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "viable count",
+      "Meanings": [
+        "شمارش زیستی",
+        "شمار قابل رویش/زیست"
+      ]
+    },
+    {
+      "EnglishWord": "vibrio cholerae",
+      "Meanings": [
+        "باکتری مژکدار وبا",
+        "ویبریو کولرا"
+      ]
+    },
+    {
+      "EnglishWord": "vicariant pattern",
+      "Meanings": [
+        "الگوی جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "vicilin",
+      "Meanings": [
+        "ویسیلین"
+      ]
+    },
+    {
+      "EnglishWord": "vinblastine",
+      "Meanings": [
+        "وینبلاستین"
+      ]
+    },
+    {
+      "EnglishWord": "vincristine",
+      "Meanings": [
+        "وینکریستین"
+      ]
+    },
+    {
+      "EnglishWord": "viral",
+      "Meanings": [
+        "ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viral agent",
+      "Meanings": [
+        "عامل ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viral encephalitis",
+      "Meanings": [
+        "التهاب مغز ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viral hemorrhagic fever",
+      "Meanings": [
+        "تب ناشی از خونریزی ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viral retroelement",
+      "Meanings": [
+        "پسا عنصر ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viral transactivating protein",
+      "Meanings": [
+        "پروتیین فعال ساز ترانس ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "virion",
+      "Meanings": [
+        "ویریون",
+        "ویشه",
+        "ذره ویروس",
+        "ویروس رسیده"
+      ]
+    },
+    {
+      "EnglishWord": "viroid",
+      "Meanings": [
+        "شبه ویروس"
+      ]
+    },
+    {
+      "EnglishWord": "virulence",
+      "Meanings": [
+        "شدت",
+        "قدرت عفونت زایی",
+        "بیماری زایی",
+        "زهرآگینی"
+      ]
+    },
+    {
+      "EnglishWord": "virulent",
+      "Meanings": [
+        "زهرآگین",
+        "سمی",
+        "بیماری زا",
+        "تند",
+        "حدت دار"
+      ]
+    },
+    {
+      "EnglishWord": "virulent phage",
+      "Meanings": [
+        "فاژ بیماری زا"
+      ]
+    },
+    {
+      "EnglishWord": "virus",
+      "Meanings": [
+        "ویروس",
+        "ویش"
+      ]
+    },
+    {
+      "EnglishWord": "virus disease",
+      "Meanings": [
+        "بیماری ویروسی",
+        "ویش زدگی"
+      ]
+    },
+    {
+      "EnglishWord": "virus replication",
+      "Meanings": [
+        "تکثیر/همانند سازی ویروسی"
+      ]
+    },
+    {
+      "EnglishWord": "viscosity",
+      "Meanings": [
+        "ضریب گران روی/چسبندگی",
+        "غلظت",
+        "ویسکوزیته",
+        "چسبندگی",
+        "گران روی"
+      ]
+    },
+    {
+      "EnglishWord": "visfatin",
+      "Meanings": [
+        "ویزفاتین"
+      ]
+    },
+    {
+      "EnglishWord": "visible fluorescent protein",
+      "Meanings": [
+        "پروتیین تابناک مریی"
+      ]
+    },
+    {
+      "EnglishWord": "vitafood",
+      "Meanings": [
+        "ماده غذایی طبی"
+      ]
+    },
+    {
+      "EnglishWord": "vitamer",
+      "Meanings": [
+        "ویتامر"
+      ]
+    },
+    {
+      "EnglishWord": "vitamin",
+      "Meanings": [
+        "ویتامین"
+      ]
+    },
+    {
+      "EnglishWord": "vitamin d-dependency rickets",
+      "Meanings": [
+        "ریکتزی متکی به ویتامین d"
+      ]
+    },
+    {
+      "EnglishWord": "vivaparous",
+      "Meanings": [
+        "ویواپاروز"
+      ]
+    },
+    {
+      "EnglishWord": "vla",
+      "Meanings": [
+        "نگاه کنید به very late antigen"
+      ]
+    },
+    {
+      "EnglishWord": "vldl",
+      "Meanings": [
+        "نگاه کنید به very low",
+        "density lipoprotein"
+      ]
+    },
+    {
+      "EnglishWord": "vntr",
+      "Meanings": [
+        "نگاه کنید به variable number of tandem repeats"
+      ]
+    },
+    {
+      "EnglishWord": "volatile suspended solids",
+      "Meanings": [
+        "مواد جامد معلق فرار"
+      ]
+    },
+    {
+      "EnglishWord": "volicitin",
+      "Meanings": [
+        "وولیسیتین"
+      ]
+    },
+    {
+      "EnglishWord": "voltage-gated ion channel",
+      "Meanings": [
+        "منفذ ترا شامه ای یون"
+      ]
+    },
+    {
+      "EnglishWord": "volume",
+      "Meanings": [
+        "گنجایش",
+        "مقدار",
+        "بلندی صدا",
+        "حجم",
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "volume rendering",
+      "Meanings": [
+        "ایجاد ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "volumetric flask",
+      "Meanings": [
+        "بالن حجم سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "volutin granule",
+      "Meanings": [
+        "گرانول ولوتین"
+      ]
+    },
+    {
+      "EnglishWord": "vomitoxin",
+      "Meanings": [
+        "ومیتوکسین",
+        "زهرابه",
+        "قارچ زهر"
+      ]
+    },
+    {
+      "EnglishWord": "von willebrand factor",
+      "Meanings": [
+        "عامل فون ویلبراند"
+      ]
+    },
+    {
+      "EnglishWord": "von willebrand factor disease",
+      "Meanings": [
+        "بیماری عامل فون ویل براند"
+      ]
+    },
+    {
+      "EnglishWord": "von willebrand s toxin",
+      "Meanings": [
+        "سم فون ویلبراند"
+      ]
+    },
+    {
+      "EnglishWord": "v-oncogene",
+      "Meanings": [
+        "انکوژن V",
+        "V",
+        "انکوژن"
+      ]
+    },
+    {
+      "EnglishWord": "voucher specimen",
+      "Meanings": [
+        "نمونه واچر",
+        "واچر اسپسیمن"
+      ]
+    },
+    {
+      "EnglishWord": "vss",
+      "Meanings": [
+        "نگاه کنید به volatile suspended solids"
+      ]
+    },
+    {
+      "EnglishWord": "vulgaris",
+      "Meanings": [
+        "پست",
+        "تیره گسترده لوبیاهای خوراکی",
+        "عوامانه"
+      ]
+    },
+    {
+      "EnglishWord": "vzv",
+      "Meanings": [
+        "نگاه کنید به varicella zoster virus"
+      ]
+    }
+  ]
+}

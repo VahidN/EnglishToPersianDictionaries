@@ -1,0 +1,512 @@
+﻿{
+  "Group": "O",
+  "Entries": 80,
+  "Words": [
+    {
+      "EnglishWord": "o ring",
+      "Meanings": [
+        "واشر حلقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective lens",
+      "Meanings": [
+        "عدسی شییی"
+      ]
+    },
+    {
+      "EnglishWord": "ochroma lagopus",
+      "Meanings": [
+        "درخت بالسا دارای چوب سبک"
+      ]
+    },
+    {
+      "EnglishWord": "oil in place",
+      "Meanings": [
+        "نفت درجا"
+      ]
+    },
+    {
+      "EnglishWord": "oil length",
+      "Meanings": [
+        "محتوای روغن",
+        "طول روغن"
+      ]
+    },
+    {
+      "EnglishWord": "oil paint",
+      "Meanings": [
+        "پوشرنگ روغن پایه",
+        "رنگ پایه روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "oil resistance",
+      "Meanings": [
+        "مقاوم به روغن",
+        "ضد روغن"
+      ]
+    },
+    {
+      "EnglishWord": "oil shale",
+      "Meanings": [
+        "ماسه نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "oil shale reserves",
+      "Meanings": [
+        "مخازن ماسه نفتی"
+      ]
+    },
+    {
+      "EnglishWord": "oil stain",
+      "Meanings": [
+        "رنگانه روغن پایه"
+      ]
+    },
+    {
+      "EnglishWord": "oil varnish",
+      "Meanings": [
+        "روغن جلا"
+      ]
+    },
+    {
+      "EnglishWord": "olephilic",
+      "Meanings": [
+        "روغن دوست"
+      ]
+    },
+    {
+      "EnglishWord": "oligomer",
+      "Meanings": [
+        "اولیگومر",
+        "چندپار",
+        "پلیمری است که تعداد منومرهای آن در یک زنجیر کم باشد و بنابراین وزن مولکولی کمی دارد. به عبارت دقیق‌تر به ترکیباتی اولیگومر گفته می‌شود که جرم مولکولی آنها بیش از 500 و کمتر از 5000 باشد"
+      ]
+    },
+    {
+      "EnglishWord": "oligomerization",
+      "Meanings": [
+        "الیگومر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "olive",
+      "Meanings": [
+        "زیتون"
+      ]
+    },
+    {
+      "EnglishWord": "omega end",
+      "Meanings": [
+        "انتهای امگا"
+      ]
+    },
+    {
+      "EnglishWord": "one coat paint",
+      "Meanings": [
+        "پوشرنگ تک پوشه",
+        "رنگ تک پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "one side cling",
+      "Meanings": [
+        "چسب یکسو"
+      ]
+    },
+    {
+      "EnglishWord": "online",
+      "Meanings": [
+        "در مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "opacity",
+      "Meanings": [
+        "مات",
+        "ماتی"
+      ]
+    },
+    {
+      "EnglishWord": "opaque",
+      "Meanings": [
+        "مات",
+        "پشت پوش",
+        "ناشفاف"
+      ]
+    },
+    {
+      "EnglishWord": "open molding",
+      "Meanings": [
+        "قالبگیری باز"
+      ]
+    },
+    {
+      "EnglishWord": "open tack time",
+      "Meanings": [
+        "زمان چسبندگی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open weave",
+      "Meanings": [
+        "بافت باز"
+      ]
+    },
+    {
+      "EnglishWord": "operating arena",
+      "Meanings": [
+        "عرصه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating cost",
+      "Meanings": [
+        "هزینه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating line",
+      "Meanings": [
+        "خط تبادل"
+      ]
+    },
+    {
+      "EnglishWord": "operating point",
+      "Meanings": [
+        "نقطه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "مجری"
+      ]
+    },
+    {
+      "EnglishWord": "optical fiber",
+      "Meanings": [
+        "تار نوری",
+        "لیف نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical loss",
+      "Meanings": [
+        "اتلاف نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical modulation",
+      "Meanings": [
+        "مدوله کردن نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical properties",
+      "Meanings": [
+        "خواص نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical susceptibility",
+      "Meanings": [
+        "اثرپذیری نور"
+      ]
+    },
+    {
+      "EnglishWord": "optical window",
+      "Meanings": [
+        "پنجره نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optimum",
+      "Meanings": [
+        "بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum cure",
+      "Meanings": [
+        "پخت بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "orange peel",
+      "Meanings": [
+        "پوست پرتقالی",
+        "سطح پوشش ژلی که دارای ظاهری موجدار شبیه پوست پرتقال می‏باشد"
+      ]
+    },
+    {
+      "EnglishWord": "orb web",
+      "Meanings": [
+        "تور عنکبوتی"
+      ]
+    },
+    {
+      "EnglishWord": "orbital",
+      "Meanings": [
+        "اوربیتال"
+      ]
+    },
+    {
+      "EnglishWord": "organdie",
+      "Meanings": [
+        "ارگاندی",
+        "نوعی پارچه پنبه ای نازک آهاردار"
+      ]
+    },
+    {
+      "EnglishWord": "organism",
+      "Meanings": [
+        "موجود زنده"
+      ]
+    },
+    {
+      "EnglishWord": "organoclay",
+      "Meanings": [
+        "خاک رس اصلاح شده با ترکیبات آلی"
+      ]
+    },
+    {
+      "EnglishWord": "organometallic compound",
+      "Meanings": [
+        "ترکیب آلی فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "organomontmorillonite",
+      "Meanings": [
+        "مونت موریلونیت اصلاح شده با ترکیبات آلی"
+      ]
+    },
+    {
+      "EnglishWord": "organophile",
+      "Meanings": [
+        "آلی دوست"
+      ]
+    },
+    {
+      "EnglishWord": "organosilicon",
+      "Meanings": [
+        "ارگانوسیلیسیم",
+        "سیلیسیم اصلاح شده با مواد آلی"
+      ]
+    },
+    {
+      "EnglishWord": "orientation",
+      "Meanings": [
+        "جهت یابی",
+        "جهت گیری"
+      ]
+    },
+    {
+      "EnglishWord": "orientational briefringence",
+      "Meanings": [
+        "شکست مضاعف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented",
+      "Meanings": [
+        "آرایش یافته",
+        "جهت یافته"
+      ]
+    },
+    {
+      "EnglishWord": "orifice",
+      "Meanings": [
+        "حفره خروجی",
+        "خروجی که مربوط به اندازه خروجی دستگاه پاشش می‏شود",
+        "یکی از دستگاههای اندازه گیری دبی در سیالات"
+      ]
+    },
+    {
+      "EnglishWord": "ortho",
+      "Meanings": [
+        "اورتو",
+        "مخفف رزینها و پوششهای ژلی اورتوفتالیک اسید",
+        "یکی از ساختارهای مواد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal arrays",
+      "Meanings": [
+        "آرایه‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "oscillator",
+      "Meanings": [
+        "نوسانگر"
+      ]
+    },
+    {
+      "EnglishWord": "oscillograph",
+      "Meanings": [
+        "نوسان نگار",
+        "نوسان نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "oscilloscope",
+      "Meanings": [
+        "نوسان نما"
+      ]
+    },
+    {
+      "EnglishWord": "osmometry",
+      "Meanings": [
+        "اسمزسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "برون دهی",
+        "برونداد",
+        "بازده"
+      ]
+    },
+    {
+      "EnglishWord": "ovalized",
+      "Meanings": [
+        "بیضوی"
+      ]
+    },
+    {
+      "EnglishWord": "oven",
+      "Meanings": [
+        "گرمخانه",
+        "آون"
+      ]
+    },
+    {
+      "EnglishWord": "oven cure",
+      "Meanings": [
+        "فراپخت"
+      ]
+    },
+    {
+      "EnglishWord": "over expanded core",
+      "Meanings": [
+        "مغزه فراگسترده"
+      ]
+    },
+    {
+      "EnglishWord": "over heated",
+      "Meanings": [
+        "بیش گرمادیده"
+      ]
+    },
+    {
+      "EnglishWord": "over heating",
+      "Meanings": [
+        "بیش گرمایش یا ابرگرمایش"
+      ]
+    },
+    {
+      "EnglishWord": "over packed",
+      "Meanings": [
+        "بیش فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "over reduction",
+      "Meanings": [
+        "کاهش اضافی",
+        "بیش کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "overbaking",
+      "Meanings": [
+        "بیش پزی کوره ای",
+        "پخت بیش از حد"
+      ]
+    },
+    {
+      "EnglishWord": "overcoating",
+      "Meanings": [
+        "فر اپوشانی",
+        "پوشش بیش از حد"
+      ]
+    },
+    {
+      "EnglishWord": "overcure",
+      "Meanings": [
+        "بیش پختگی"
+      ]
+    },
+    {
+      "EnglishWord": "overlap",
+      "Meanings": [
+        "همپوشانی"
+      ]
+    },
+    {
+      "EnglishWord": "overshoot",
+      "Meanings": [
+        "پرش"
+      ]
+    },
+    {
+      "EnglishWord": "overspray",
+      "Meanings": [
+        "پخش اضافی ذرات پاشش"
+      ]
+    },
+    {
+      "EnglishWord": "overstress",
+      "Meanings": [
+        "تنش بیش از حد"
+      ]
+    },
+    {
+      "EnglishWord": "oxidation",
+      "Meanings": [
+        "اکسایش"
+      ]
+    },
+    {
+      "EnglishWord": "oxidative coupling",
+      "Meanings": [
+        "جفت شدن اکسایشی"
+      ]
+    },
+    {
+      "EnglishWord": "oxophile",
+      "Meanings": [
+        "اکسیژن دوست"
+      ]
+    },
+    {
+      "EnglishWord": "oxygen reversion",
+      "Meanings": [
+        "اکسیژن بازگشتی تخریبی"
+      ]
+    },
+    {
+      "EnglishWord": "ozone",
+      "Meanings": [
+        "اوزن"
+      ]
+    },
+    {
+      "EnglishWord": "ozone resistance",
+      "Meanings": [
+        "مقاومت در برابر اوزن"
+      ]
+    }
+  ]
+}

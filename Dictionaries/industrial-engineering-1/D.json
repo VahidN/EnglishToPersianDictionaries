@@ -1,0 +1,4006 @@
+﻿{
+  "Group": "D",
+  "Entries": 554,
+  "Words": [
+    {
+      "EnglishWord": "daily pay",
+      "Meanings": [
+        "پرداخت مزد روزانه",
+        "مزد روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "daily rate",
+      "Meanings": [
+        "روزمزدی",
+        "نرخ روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "daily rate worker",
+      "Meanings": [
+        "کارگر روزمرد"
+      ]
+    },
+    {
+      "EnglishWord": "daily resource sum",
+      "Meanings": [
+        "مجموع روزانه منبع"
+      ]
+    },
+    {
+      "EnglishWord": "daily statement of account",
+      "Meanings": [
+        "صورتحساب روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "daily-paid employee",
+      "Meanings": [
+        "کارمند روزمرد"
+      ]
+    },
+    {
+      "EnglishWord": "dam",
+      "Meanings": [
+        "مسدود کننده جریان",
+        "بستن",
+        "بند",
+        "سد",
+        "مسدود کردن"
+      ]
+    },
+    {
+      "EnglishWord": "damage",
+      "Meanings": [
+        "زیان",
+        "خسارت",
+        "ضرر",
+        "تاوان",
+        "صدمه",
+        "غرامت",
+        "خرابی",
+        "وجه خسارت"
+      ]
+    },
+    {
+      "EnglishWord": "damper",
+      "Meanings": [
+        "خفه کن",
+        "دریچه خفه کن",
+        "تضعیف کننده",
+        "تعدیل کننده",
+        "درپوش",
+        "سوپاپ تنظیم هوا",
+        "ضربه گیر",
+        "عایق",
+        "کوبه",
+        "مانع",
+        "مستهلک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "dash",
+      "Meanings": [
+        "تکه خط",
+        "هاشور",
+        "خط تیره"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده",
+        "داده ها",
+        "یافته",
+        "مفروضات",
+        "اطلاعات",
+        "دانسته",
+        "اطلاعات ورودی",
+        "کامیپوتر",
+        "داده آماری",
+        "اطلاعات اولیه",
+        "اطلاعات خام"
+      ]
+    },
+    {
+      "EnglishWord": "data analysis",
+      "Meanings": [
+        "تحلیل داده ها",
+        "داده کاوی"
+      ]
+    },
+    {
+      "EnglishWord": "data bank",
+      "Meanings": [
+        "بانک اطلاعاتی",
+        "مرکز اطلاعاتی",
+        "مغز اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "data base",
+      "Meanings": [
+        "پایگاه اطلاعاتی",
+        "پایگاه داده ها",
+        "بانک اطلاعات",
+        "ذخیره اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data base file",
+      "Meanings": [
+        "فایل بانک اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data base management system",
+      "Meanings": [
+        "سیستم مدیریت بانک"
+      ]
+    },
+    {
+      "EnglishWord": "data base memo",
+      "Meanings": [
+        "فایل یادداشت بانک اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data collecting",
+      "Meanings": [
+        "گردآوری داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data collection",
+      "Meanings": [
+        "جمع آوری داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data communication",
+      "Meanings": [
+        "ارتباطات داده ای",
+        "انتقال داده‌ها و سوابق",
+        "مخاربه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data conversion",
+      "Meanings": [
+        "پانج",
+        "تبدیل اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data date",
+      "Meanings": [
+        "تاریخ دانسته ها"
+      ]
+    },
+    {
+      "EnglishWord": "data digestion",
+      "Meanings": [
+        "گوارش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "data feedback",
+      "Meanings": [
+        "بازخور داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data file",
+      "Meanings": [
+        "پرونده اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "data handling",
+      "Meanings": [
+        "برداشت داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data processing",
+      "Meanings": [
+        "داده پردازی",
+        "پردازش داده",
+        "پردازش اطلاعات",
+        "داده آمایی",
+        "پرورش داده ها",
+        "فرآوری اطلاعات",
+        "پرورش اطلاعات خام",
+        "فرابری داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data processing center",
+      "Meanings": [
+        "مرکز داده پردازی",
+        "مرکز فرابری داده",
+        "مرکز پرورش داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data processing personnel",
+      "Meanings": [
+        "کارکنان فرابری داده"
+      ]
+    },
+    {
+      "EnglishWord": "data recording",
+      "Meanings": [
+        "ثبت داده ها",
+        "ثبت مشخصات",
+        "داده نگاری",
+        "ضبط داده"
+      ]
+    },
+    {
+      "EnglishWord": "data set",
+      "Meanings": [
+        "مجموعه اطلاعاتی",
+        "دادگان",
+        "مجموعه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data sheet",
+      "Meanings": [
+        "برگه اطلاعاتی",
+        "برگ آمارگیری",
+        "ورقه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "data smoothing",
+      "Meanings": [
+        "همسازی داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data structure",
+      "Meanings": [
+        "ساختار داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data system",
+      "Meanings": [
+        "سیستم داده ها",
+        "دستگاه اطلاعاتی",
+        "سیستم اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "data transmission equipment",
+      "Meanings": [
+        "وسیله انتقال داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data type",
+      "Meanings": [
+        "نوع اطلاعات",
+        "نوع داده"
+      ]
+    },
+    {
+      "EnglishWord": "date of arrival",
+      "Meanings": [
+        "تاریخ ورود"
+      ]
+    },
+    {
+      "EnglishWord": "date of delivery",
+      "Meanings": [
+        "تاریخ تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "date of grace",
+      "Meanings": [
+        "مهلت"
+      ]
+    },
+    {
+      "EnglishWord": "date of maturity",
+      "Meanings": [
+        "تاریخ سر رسید"
+      ]
+    },
+    {
+      "EnglishWord": "date of payment",
+      "Meanings": [
+        "تاریخ پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "datum",
+      "Meanings": [
+        "داده",
+        "ماخذ",
+        "مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "dead file",
+      "Meanings": [
+        "بایگانی راکد"
+      ]
+    },
+    {
+      "EnglishWord": "deadheading pay",
+      "Meanings": [
+        "حق ایاب و ذهاب",
+        "هزینه ایاب و ذهاب"
+      ]
+    },
+    {
+      "EnglishWord": "deadline",
+      "Meanings": [
+        "سررسید",
+        "موعد"
+      ]
+    },
+    {
+      "EnglishWord": "deadline date",
+      "Meanings": [
+        "موعد قرار گذاشته شده"
+      ]
+    },
+    {
+      "EnglishWord": "dead-soft steel",
+      "Meanings": [
+        "فولادهای خیلی نرم",
+        "فولاد کاملا نرم",
+        "فولاد نرم",
+        "آرام"
+      ]
+    },
+    {
+      "EnglishWord": "death benefit",
+      "Meanings": [
+        "مستمری فوت",
+        "مستمری وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "debased histogram",
+      "Meanings": [
+        "نمودار پله ای پایه کاسته"
+      ]
+    },
+    {
+      "EnglishWord": "debasing",
+      "Meanings": [
+        "پایه کاهی",
+        "کاستن پایه"
+      ]
+    },
+    {
+      "EnglishWord": "debenture",
+      "Meanings": [
+        "قرضه",
+        "برگ و سند قرضه",
+        "حواله دولتی",
+        "قرارداد بیمه",
+        "گواهینامه گمرکی",
+        "وجه الضمان",
+        "ورقه قرضه",
+        "اوراق قرضه",
+        "سند قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "debit",
+      "Meanings": [
+        "بدهکار",
+        "بدهکار کردن",
+        "بدهی",
+        "ثبت در ستون بدهکار",
+        "ستون بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debit instrument",
+      "Meanings": [
+        "سند بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debit interest",
+      "Meanings": [
+        "بهره بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit memorandum",
+      "Meanings": [
+        "برگ بدهکار"
+      ]
+    },
+    {
+      "EnglishWord": "debit ratio",
+      "Meanings": [
+        "نسبت بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debt ratio",
+      "Meanings": [
+        "نسبت بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "debtor",
+      "Meanings": [
+        "بدهکار",
+        "ستون بدهکار دفتر روزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "debug",
+      "Meanings": [
+        "اشکال زدایی",
+        "خطایابی",
+        "تصحیح اشتباهات",
+        "رفع عیب",
+        "برطرف کردن اشکالات"
+      ]
+    },
+    {
+      "EnglishWord": "deburring",
+      "Meanings": [
+        "صاف کردن لبه‌ها تیز",
+        "خشن زدایی",
+        "پلیسه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decanting chamber",
+      "Meanings": [
+        "اطاق تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "decarburization",
+      "Meanings": [
+        "کربنگیریی",
+        "کربنزدایی",
+        "عمل کربن گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decease",
+      "Meanings": [
+        "کاستن",
+        "افت",
+        "تقلیل",
+        "کاهش دادن",
+        "کاهش یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "deceleration",
+      "Meanings": [
+        "شتاب منفی",
+        "شتاب کاهشی",
+        "فرآیند برگشت پذیر",
+        "کاهش سرعت",
+        "کندمان",
+        "واشتاب"
+      ]
+    },
+    {
+      "EnglishWord": "decentral inspection",
+      "Meanings": [
+        "بازرسی غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "decentralization",
+      "Meanings": [
+        "عدم تمرکز",
+        "تمرمز زدایی",
+        "غیر متمرکز ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "decentralized filing",
+      "Meanings": [
+        "بایگانی غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decentralized hiring",
+      "Meanings": [
+        "استخدام غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decentralized planning",
+      "Meanings": [
+        "طرح ریزی غیر متمرکز",
+        "برنامه ریزی غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "decile",
+      "Meanings": [
+        "دهک",
+        "دهه",
+        "ده یک"
+      ]
+    },
+    {
+      "EnglishWord": "decimal",
+      "Meanings": [
+        "اعشاری",
+        "دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "تصمیم",
+        "تعیین",
+        "مشخص کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decision box",
+      "Meanings": [
+        "جعبه تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision criteria",
+      "Meanings": [
+        "معیارهای تصمیم گیری",
+        "ضابطه‌های تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision function",
+      "Meanings": [
+        "تابع تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision model",
+      "Meanings": [
+        "مدل تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision rule",
+      "Meanings": [
+        "قاعده تصمیم",
+        "قاعده تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision symbol",
+      "Meanings": [
+        "نماد تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision table",
+      "Meanings": [
+        "جدول تصمیم گیری",
+        "جدول تصمیمی"
+      ]
+    },
+    {
+      "EnglishWord": "decision theory",
+      "Meanings": [
+        "نظریه تصمیم گیری",
+        "نظریه تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree",
+      "Meanings": [
+        "درخت تصمیم گیریی",
+        "تصمیم گیری شاخه ای",
+        "درخت تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision variable",
+      "Meanings": [
+        "متغیر تصمیم گیری",
+        "متغیر تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making",
+      "Meanings": [
+        "تصمیم گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making body",
+      "Meanings": [
+        "مرجع تصمیم گیرنده",
+        "مقام تصمیم گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making under certainty",
+      "Meanings": [
+        "تصمیم گیری در شرایط اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making under conflict",
+      "Meanings": [
+        "تصمیم گیری در شرایط تعارض"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making under risk",
+      "Meanings": [
+        "تصمیم گیری در شرایط ریسک",
+        "تصمیم گیری در حالت ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "decision-making under uncertainty",
+      "Meanings": [
+        "تصمیم گیری در شرایط عدم اطمینان کامل",
+        "تصمیم گیری در حالت عدم اطمینان کامل"
+      ]
+    },
+    {
+      "EnglishWord": "deck",
+      "Meanings": [
+        "دسته",
+        "دستینه",
+        "دسته کارت",
+        "کارت"
+      ]
+    },
+    {
+      "EnglishWord": "declining balance method",
+      "Meanings": [
+        "روش محاسبه استهلاک بر مبنای قیمت دفتری",
+        "روش موازنه کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "decode",
+      "Meanings": [
+        "رمز گشودن",
+        "گشودن رمز",
+        "رمز برگردان کردن",
+        "رمز برگردانی",
+        "برداشتن رمز",
+        "تبدیل کد به شکل اصلی",
+        "کشف رمز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decoding",
+      "Meanings": [
+        "رمزبرداری",
+        "رمز گشایی",
+        "رمز خوانی",
+        "رمزیابی",
+        "کشف رمز"
+      ]
+    },
+    {
+      "EnglishWord": "decoiler",
+      "Meanings": [
+        "کلاف بازکن"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition principle",
+      "Meanings": [
+        "اصل تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing",
+      "Meanings": [
+        "کاهنده",
+        "نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing failure rate",
+      "Meanings": [
+        "میزان شکست کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing marginal rate of substitution",
+      "Meanings": [
+        "نرخ نهایی جانشینی نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing-cost industry",
+      "Meanings": [
+        "صنعت با هزینه‌های نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "dedendum",
+      "Meanings": [
+        "ته دنده",
+        "قسمت پایین دندانه",
+        "ارتفاع ته دنده"
+      ]
+    },
+    {
+      "EnglishWord": "dedicated machine",
+      "Meanings": [
+        "ماشین اختصاصی"
+      ]
+    },
+    {
+      "EnglishWord": "deduction",
+      "Meanings": [
+        "تخفیف",
+        "استقرار",
+        "قیاس",
+        "کسر",
+        "کسور"
+      ]
+    },
+    {
+      "EnglishWord": "deductive",
+      "Meanings": [
+        "قیاسی",
+        "استنتاجی"
+      ]
+    },
+    {
+      "EnglishWord": "deep drawing",
+      "Meanings": [
+        "سنبه ماتریسکاری",
+        "کشش عمقی",
+        "کشیدن عمقی"
+      ]
+    },
+    {
+      "EnglishWord": "default disk drive",
+      "Meanings": [
+        "دیسک خوان فرض شده"
+      ]
+    },
+    {
+      "EnglishWord": "default value",
+      "Meanings": [
+        "ارزش قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "defect",
+      "Meanings": [
+        "نقص",
+        "عیب",
+        "اشتباه",
+        "خرابی",
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "defect free",
+      "Meanings": [
+        "بدون نقص"
+      ]
+    },
+    {
+      "EnglishWord": "defective",
+      "Meanings": [
+        "معیوب",
+        "ناقص",
+        "ضایع",
+        "قطعه معیوب در ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "defective unit",
+      "Meanings": [
+        "واحد معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "deferred credit",
+      "Meanings": [
+        "اعتبار انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred income",
+      "Meanings": [
+        "پیش دریافت درآمد",
+        "درآمدهای انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "deferred payment credit",
+      "Meanings": [
+        "اعتبار با پرداخت معوق"
+      ]
+    },
+    {
+      "EnglishWord": "deficiency",
+      "Meanings": [
+        "عدم کارایی",
+        "ناکارایی",
+        "کمبود",
+        "نقص"
+      ]
+    },
+    {
+      "EnglishWord": "deficit",
+      "Meanings": [
+        "کسری",
+        "کمبود",
+        "کسر",
+        "کسر محل",
+        "کسری موازنه",
+        "کسری تراز پرداخت ها",
+        "کسر بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "defining equation",
+      "Meanings": [
+        "معادله معرف"
+      ]
+    },
+    {
+      "EnglishWord": "definite integral",
+      "Meanings": [
+        "جامعه معین"
+      ]
+    },
+    {
+      "EnglishWord": "deflaction",
+      "Meanings": [
+        "شکم انداختن",
+        "کجی"
+      ]
+    },
+    {
+      "EnglishWord": "deflation",
+      "Meanings": [
+        "تورم زدایی",
+        "رکود",
+        "انقباض",
+        "ضد تورم",
+        "جمع شدن",
+        "تعدیل",
+        "تنزیل قیمت ها"
+      ]
+    },
+    {
+      "EnglishWord": "deflect",
+      "Meanings": [
+        "شکستن",
+        "منحرف",
+        "منعکس کردن",
+        "منحرف شدن",
+        "منحرف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deflection",
+      "Meanings": [
+        "خیز",
+        "انحراف",
+        "کجی",
+        "انکسار",
+        "شکست",
+        "واخمش"
+      ]
+    },
+    {
+      "EnglishWord": "degeneracy",
+      "Meanings": [
+        "تباهی",
+        "تبهگنی",
+        "تباهیدگی",
+        "ناقصی",
+        "افت",
+        "انحطاط"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate",
+      "Meanings": [
+        "تباهیده",
+        "تباه شده",
+        "تبهگون",
+        "تبهگن",
+        "ناقص",
+        "تباه",
+        "منحط"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate basic solution",
+      "Meanings": [
+        "جواب پایه ای تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate bilinear from",
+      "Meanings": [
+        "صورت دو خطی تبهگون"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate extreme point",
+      "Meanings": [
+        "نقطه فرین تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate solution",
+      "Meanings": [
+        "حل منحط"
+      ]
+    },
+    {
+      "EnglishWord": "degrade",
+      "Meanings": [
+        "تنزل دادن",
+        "تنزل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "degrease",
+      "Meanings": [
+        "گریسزدایی",
+        "چربی زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "degree",
+      "Meanings": [
+        "درجه",
+        "میزان",
+        "رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "degree of freedom",
+      "Meanings": [
+        "درجه آزادی",
+        "میزان لقی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of interaction",
+      "Meanings": [
+        "درجه مواجهه"
+      ]
+    },
+    {
+      "EnglishWord": "degree of preventive maintenance",
+      "Meanings": [
+        "درجه فعالیتهای نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "degree of variability",
+      "Meanings": [
+        "درجه تغییر پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "deionized water",
+      "Meanings": [
+        "آب یون زدایی شده"
+      ]
+    },
+    {
+      "EnglishWord": "delay",
+      "Meanings": [
+        "تاخیر",
+        "تاخیر کردن",
+        "تعویق",
+        "توقف",
+        "دیرکرد",
+        "دیر کردن",
+        "عقب افتادن",
+        "مکث"
+      ]
+    },
+    {
+      "EnglishWord": "delay in delivery",
+      "Meanings": [
+        "تاخیر در تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delete",
+      "Meanings": [
+        "حذف نمودن",
+        "حذف کردن",
+        "از بین بردن",
+        "کنار گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "delicate",
+      "Meanings": [
+        "ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "delinquency tax",
+      "Meanings": [
+        "مالیات تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "deliver",
+      "Meanings": [
+        "تحویل دادن"
+      ]
+    },
+    {
+      "EnglishWord": "delivery",
+      "Meanings": [
+        "تحویل",
+        "ارسال",
+        "واگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "delivery chute",
+      "Meanings": [
+        "سرسره تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery date",
+      "Meanings": [
+        "تاریخ تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery equipment",
+      "Meanings": [
+        "وسیله نقلیه",
+        "وسیله تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery expense",
+      "Meanings": [
+        "هزینه تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery point",
+      "Meanings": [
+        "نقطه تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery rate",
+      "Meanings": [
+        "میزان تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "delivery rube",
+      "Meanings": [
+        "لوله تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "demagnete",
+      "Meanings": [
+        "مغناطیس زدا"
+      ]
+    },
+    {
+      "EnglishWord": "demand",
+      "Meanings": [
+        "تقاضا",
+        "مطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "demand bill",
+      "Meanings": [
+        "حواله عندالمطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "demand debt",
+      "Meanings": [
+        "بدهی عندالمطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "demand forecasting",
+      "Meanings": [
+        "پیش بینی نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "demand surface",
+      "Meanings": [
+        "سطح تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "demonstrate",
+      "Meanings": [
+        "اثبات کردن",
+        "ثبوت",
+        "برپایی",
+        "به نمایش درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "demonstration",
+      "Meanings": [
+        "اقامه شواهد",
+        "اثبات"
+      ]
+    },
+    {
+      "EnglishWord": "demotion",
+      "Meanings": [
+        "تنزیل رتبه",
+        "تنزیل مقام"
+      ]
+    },
+    {
+      "EnglishWord": "dendrite",
+      "Meanings": [
+        "دندانه ای شکل",
+        "شاخه نباتی",
+        "دندریت شاخوار"
+      ]
+    },
+    {
+      "EnglishWord": "denitration",
+      "Meanings": [
+        "تکنولوژی ضد آلودگی",
+        "دنیتره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "density",
+      "Meanings": [
+        "تراکم",
+        "چگالی",
+        "غلظت",
+        "جرم ویژه",
+        "انبوهی",
+        "سنگینی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "density function",
+      "Meanings": [
+        "تابع چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "dent",
+      "Meanings": [
+        "بریدگی",
+        "دندانه بریده",
+        "زایده",
+        "برآمدگی و فرورفتکی",
+        "دندانه",
+        "گودی"
+      ]
+    },
+    {
+      "EnglishWord": "dented",
+      "Meanings": [
+        "دندانه دار"
+      ]
+    },
+    {
+      "EnglishWord": "deoxidization",
+      "Meanings": [
+        "اکسیژن زدایی",
+        "اکسیژن گیری",
+        "اکسید زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "deoxidizer",
+      "Meanings": [
+        "اکسیژن گیر",
+        "اکسیژن زدا"
+      ]
+    },
+    {
+      "EnglishWord": "department",
+      "Meanings": [
+        "دایره",
+        "دپارتمان",
+        "اداره",
+        "بخش",
+        "وزارتخانه"
+      ]
+    },
+    {
+      "EnglishWord": "departmental",
+      "Meanings": [
+        "اداره ای",
+        "دایره ای"
+      ]
+    },
+    {
+      "EnglishWord": "departmental aims",
+      "Meanings": [
+        "اهداف واحدی"
+      ]
+    },
+    {
+      "EnglishWord": "departmental organization",
+      "Meanings": [
+        "واحد تشکیلاتی"
+      ]
+    },
+    {
+      "EnglishWord": "departmental policy",
+      "Meanings": [
+        "سیاست واحدی"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation",
+      "Meanings": [
+        "طبقه بندی",
+        "دپارتمانبندی",
+        "تقسیم وظایف",
+        "گروهبندی وظایف",
+        "واحد سازی اداری"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation by process",
+      "Meanings": [
+        "طبقه بندی بر اساس فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation by product",
+      "Meanings": [
+        "طبقه بندی بر حسب محصول"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation by time",
+      "Meanings": [
+        "طبقه بندی بر حسب زمان"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation head",
+      "Meanings": [
+        "رییس اداره",
+        "رییس دایره"
+      ]
+    },
+    {
+      "EnglishWord": "departure",
+      "Meanings": [
+        "حرکت",
+        "انحراف",
+        "خروج",
+        "خروجی",
+        "شروع حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "departure rate",
+      "Meanings": [
+        "آهنگ خروج"
+      ]
+    },
+    {
+      "EnglishWord": "dependence",
+      "Meanings": [
+        "وابستگی",
+        "بستگی",
+        "مستقل نبودن",
+        "اتکا"
+      ]
+    },
+    {
+      "EnglishWord": "dependent",
+      "Meanings": [
+        "وابسته",
+        "غیر مستقل",
+        "موکول",
+        "نامستقل"
+      ]
+    },
+    {
+      "EnglishWord": "dependent events",
+      "Meanings": [
+        "پیشامد‌های وابسته",
+        "پیشامد‌های غیر مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "dependent samples",
+      "Meanings": [
+        "نمونه‌های وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent variable",
+      "Meanings": [
+        "متغیر وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "deplating",
+      "Meanings": [
+        "آبکاری معکوس",
+        "پوسته برداری",
+        "ورقه برداری"
+      ]
+    },
+    {
+      "EnglishWord": "deposit",
+      "Meanings": [
+        "رسوب",
+        "سپرده",
+        "ودیعه",
+        "نهاده",
+        "پوشش",
+        "امانت",
+        "وجه امانی"
+      ]
+    },
+    {
+      "EnglishWord": "deposit rate",
+      "Meanings": [
+        "نرخ سپرده"
+      ]
+    },
+    {
+      "EnglishWord": "deposition efficiency",
+      "Meanings": [
+        "بازدهی رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "deposition rate",
+      "Meanings": [
+        "نرخ رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "depositor",
+      "Meanings": [
+        "اماتنگذار",
+        "صاحب سپرده"
+      ]
+    },
+    {
+      "EnglishWord": "depreciable",
+      "Meanings": [
+        "استهلاک پذیر",
+        "مستهلک شونده"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation",
+      "Meanings": [
+        "استهلاک",
+        "افت بها",
+        "کاهش بها",
+        "میرایی"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation accounting",
+      "Meanings": [
+        "حسابداری استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation base",
+      "Meanings": [
+        "قیمت تمام شده دارایی ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation based on income",
+      "Meanings": [
+        "روش چند درصد سود"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation expense",
+      "Meanings": [
+        "هزینه استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "depression",
+      "Meanings": [
+        "بحران, کسادی",
+        "رکود",
+        "کساد شدن",
+        "کم شدن"
+      ]
+    },
+    {
+      "EnglishWord": "depth",
+      "Meanings": [
+        "عمق",
+        "ژرفا",
+        "گودی"
+      ]
+    },
+    {
+      "EnglishWord": "depth gage",
+      "Meanings": [
+        "عمق سنج",
+        "ژرفا سنج",
+        "کولیس سوراخ",
+        "ژرفانما",
+        "کولیس عمق سنج"
+      ]
+    },
+    {
+      "EnglishWord": "depth of cut",
+      "Meanings": [
+        "عمق تراشه بردای",
+        "عمق برش"
+      ]
+    },
+    {
+      "EnglishWord": "depth of fusion",
+      "Meanings": [
+        "عمق ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "depth of smoothness",
+      "Meanings": [
+        "عمق نرمی"
+      ]
+    },
+    {
+      "EnglishWord": "depth of teeth",
+      "Meanings": [
+        "گود ی دندانه",
+        "ارتفاع دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "deputy",
+      "Meanings": [
+        "قایم مقام",
+        "معاون",
+        "جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "derivative",
+      "Meanings": [
+        "مشتق",
+        "فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "derived demand",
+      "Meanings": [
+        "تقاضای مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derived group",
+      "Meanings": [
+        "گروه فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "description",
+      "Meanings": [
+        "تشریح",
+        "توصیف",
+        "شرح"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive scale",
+      "Meanings": [
+        "مقیاس ترسیمی",
+        "مقیاس توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive statistics",
+      "Meanings": [
+        "آمار توصیفی",
+        "آمار ترسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive study",
+      "Meanings": [
+        "مطالعه تشریحی",
+        "مطالعه توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "design",
+      "Meanings": [
+        "طراحی",
+        "طرح",
+        "طرح کردن",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "design data sheet",
+      "Meanings": [
+        "برگ اطلاعات طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "design of experiment",
+      "Meanings": [
+        "طراحی آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "design of weldment",
+      "Meanings": [
+        "طراحی جوش"
+      ]
+    },
+    {
+      "EnglishWord": "design review",
+      "Meanings": [
+        "مرور طرح"
+      ]
+    },
+    {
+      "EnglishWord": "design workshop",
+      "Meanings": [
+        "کارگاه طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "designate",
+      "Meanings": [
+        "انتخاب کردن",
+        "تعیین کردن",
+        "در نظر گرفتن",
+        "گماردن",
+        "گماشتن, معین کردن",
+        "علامتگذاری کردن",
+        "مشخص کردنن"
+      ]
+    },
+    {
+      "EnglishWord": "designation",
+      "Meanings": [
+        "معرفی",
+        "سمت",
+        "نقش"
+      ]
+    },
+    {
+      "EnglishWord": "designer",
+      "Meanings": [
+        "طراح",
+        "طرح آفرین",
+        "نقشه کش"
+      ]
+    },
+    {
+      "EnglishWord": "destination",
+      "Meanings": [
+        "مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "destructive test",
+      "Meanings": [
+        "آزمایش تخریبی",
+        "آزمایش مخرب"
+      ]
+    },
+    {
+      "EnglishWord": "desulfurization",
+      "Meanings": [
+        "آلودگی زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "detail",
+      "Meanings": [
+        "جزییات",
+        "تفصیلات",
+        "مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "detailed network",
+      "Meanings": [
+        "شبکه تفصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "detect",
+      "Meanings": [
+        "کشف کردن",
+        "آشکار ساختن",
+        "یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "detection",
+      "Meanings": [
+        "کشف",
+        "یافت",
+        "آشکار سازی",
+        "تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "determinant",
+      "Meanings": [
+        "دترمینان",
+        "تعیین کنند",
+        "ه بازدارنده",
+        "مانع"
+      ]
+    },
+    {
+      "EnglishWord": "determined",
+      "Meanings": [
+        "تعیین شده",
+        "مصمم"
+      ]
+    },
+    {
+      "EnglishWord": "determining",
+      "Meanings": [
+        "تعیین کردن",
+        "قطع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic",
+      "Meanings": [
+        "قطعی",
+        "معین",
+        "غیر احتمالی",
+        "تثبیتی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic distribution",
+      "Meanings": [
+        "توزیع قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic model",
+      "Meanings": [
+        "مدل مشخص",
+        "مدل غیر احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic system",
+      "Meanings": [
+        "سیستم قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic time",
+      "Meanings": [
+        "زمان معین"
+      ]
+    },
+    {
+      "EnglishWord": "devaluation",
+      "Meanings": [
+        "کاهش ارزش",
+        "تقلیل ارزش پول",
+        "کاهش ارزش پول",
+        "تضعیف ارزش پول رایج"
+      ]
+    },
+    {
+      "EnglishWord": "develop",
+      "Meanings": [
+        "طرح و تدوین",
+        "ایجاد کردن",
+        "توسعه دادن",
+        "آماده بهره برداری کردن",
+        "پیشرفت",
+        "گسترش دادن",
+        "ارایه روش خوب"
+      ]
+    },
+    {
+      "EnglishWord": "developed countries",
+      "Meanings": [
+        "کشورهای پیشرفته"
+      ]
+    },
+    {
+      "EnglishWord": "developer",
+      "Meanings": [
+        "توسعه دهنده",
+        "ظاهر کننده"
+      ]
+    },
+    {
+      "EnglishWord": "developing countries",
+      "Meanings": [
+        "کشورهای در حال توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "development",
+      "Meanings": [
+        "توسعه",
+        "پرورش",
+        "پیشرفت",
+        "عمران",
+        "بسط",
+        "تحت تکفل",
+        "عایله",
+        "ایجاد",
+        "بهسازی"
+      ]
+    },
+    {
+      "EnglishWord": "development budget",
+      "Meanings": [
+        "بودجه عمرانی"
+      ]
+    },
+    {
+      "EnglishWord": "development plan",
+      "Meanings": [
+        "طرح توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "development project",
+      "Meanings": [
+        "پروژه توسعه ای"
+      ]
+    },
+    {
+      "EnglishWord": "deviation",
+      "Meanings": [
+        "انحراف",
+        "کجروی",
+        "برگشت",
+        "تغییر مسیر",
+        "خطا در اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "deviator",
+      "Meanings": [
+        "اختلاف سنج",
+        "انحراف سنج"
+      ]
+    },
+    {
+      "EnglishWord": "device",
+      "Meanings": [
+        "اسباب",
+        "آلت",
+        "وسیله",
+        "دستگاه",
+        "خارضامن",
+        "شیوه",
+        "ضامن",
+        "طرح",
+        "قطعه",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "diagnosis",
+      "Meanings": [
+        "تشخیص",
+        "شناخت",
+        "عیب یابی"
+      ]
+    },
+    {
+      "EnglishWord": "diagnosis system",
+      "Meanings": [
+        "سیستم تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "diagnosis time",
+      "Meanings": [
+        "زمان تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal matrix",
+      "Meanings": [
+        "ماتریس قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalizable matrix",
+      "Meanings": [
+        "ماتریس قطری شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "diagram",
+      "Meanings": [
+        "نمودار",
+        "دیاگرام",
+        "شکل",
+        "نما",
+        "نمودار خطی"
+      ]
+    },
+    {
+      "EnglishWord": "dial",
+      "Meanings": [
+        "ساعت",
+        "صفحه مدرج ساعتی",
+        "شماره گرفتن",
+        "شماره گیر"
+      ]
+    },
+    {
+      "EnglishWord": "dial gage",
+      "Meanings": [
+        "اندازه گیر ساعتی",
+        "سنجه عقربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dial indicator",
+      "Meanings": [
+        "اندازه گیر ساعتی",
+        "شمارنده نمایشگر",
+        "ساعت اندازه گیر",
+        "سنجه",
+        "عقربه نشان دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "dial press",
+      "Meanings": [
+        "پرس با میزگردان"
+      ]
+    },
+    {
+      "EnglishWord": "diameter",
+      "Meanings": [
+        "قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diametral pitch",
+      "Meanings": [
+        "گام قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diamond",
+      "Meanings": [
+        "الماس"
+      ]
+    },
+    {
+      "EnglishWord": "diamond point chisel",
+      "Meanings": [
+        "قلم نوک الماسه"
+      ]
+    },
+    {
+      "EnglishWord": "diaphragm gate",
+      "Meanings": [
+        "مدخل دیافراگمی"
+      ]
+    },
+    {
+      "EnglishWord": "dichotomy",
+      "Meanings": [
+        "دورستگی",
+        "دوگانگی"
+      ]
+    },
+    {
+      "EnglishWord": "die",
+      "Meanings": [
+        "حدیده",
+        "قالب",
+        "ماتریس",
+        "تاس",
+        "حدیده کردن",
+        "سنبه",
+        "نگهدارنده الکترود",
+        "حدیده ای"
+      ]
+    },
+    {
+      "EnglishWord": "die and stock",
+      "Meanings": [
+        "حدیده و دسته"
+      ]
+    },
+    {
+      "EnglishWord": "die block",
+      "Meanings": [
+        "جعبه حدیده",
+        "جاقالبی",
+        "ماتریس قالب سازی"
+      ]
+    },
+    {
+      "EnglishWord": "die casting",
+      "Meanings": [
+        "ریخته گری حدیده ای",
+        "ریخته گری قالبی",
+        "ریخته گری با فشار",
+        "ریختن فلزات تحت فشار",
+        "ریخته گری فشاری با قالب فلزی",
+        "قالبریزی"
+      ]
+    },
+    {
+      "EnglishWord": "die holder",
+      "Meanings": [
+        "کفشک پایینی",
+        "ماتریس نگهدار",
+        "نیمه پایینی قالبگیر",
+        "قالبگیر",
+        "حدیده نگهدار"
+      ]
+    },
+    {
+      "EnglishWord": "die land",
+      "Meanings": [
+        "کفی دور قالب"
+      ]
+    },
+    {
+      "EnglishWord": "die making",
+      "Meanings": [
+        "قالبسازی"
+      ]
+    },
+    {
+      "EnglishWord": "die opening",
+      "Meanings": [
+        "منفذ ورود به قالب",
+        "دهانه قالب",
+        "مجرای باز قالب"
+      ]
+    },
+    {
+      "EnglishWord": "die set",
+      "Meanings": [
+        "قالب نگهدار",
+        "مجمومه نگهدارنده",
+        "دست قالب"
+      ]
+    },
+    {
+      "EnglishWord": "die shoe",
+      "Meanings": [
+        "کفشک قالب",
+        "بالشتک قلم شیارزنی"
+      ]
+    },
+    {
+      "EnglishWord": "die sinking machine",
+      "Meanings": [
+        "ماشین کپی تراش"
+      ]
+    },
+    {
+      "EnglishWord": "dielectric",
+      "Meanings": [
+        "دی الکتریک",
+        "نارسانای برقی",
+        "برقبند",
+        "عایق"
+      ]
+    },
+    {
+      "EnglishWord": "difference",
+      "Meanings": [
+        "اختلاف",
+        "تفاوت",
+        "تفاضل",
+        "وابرد"
+      ]
+    },
+    {
+      "EnglishWord": "difference equation",
+      "Meanings": [
+        "معادله تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential cost",
+      "Meanings": [
+        "هزینه تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential estimate",
+      "Meanings": [
+        "براورد تقاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "differential indexing",
+      "Meanings": [
+        "تنظیم جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "differential piece-work plan",
+      "Meanings": [
+        "طرح پاره کاری نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation",
+      "Meanings": [
+        "تخصصگرایی",
+        "تفکیک وظایف",
+        "تفکیک",
+        "تمایز",
+        "مشتقگیری"
+      ]
+    },
+    {
+      "EnglishWord": "diffusion",
+      "Meanings": [
+        "پخش",
+        "پراکنش",
+        "اشاعه",
+        "تراوش",
+        "دیفوزیون",
+        "نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "diffusion annealing",
+      "Meanings": [
+        "تابکاری همگنساز",
+        "آنیل دیفوزیونی"
+      ]
+    },
+    {
+      "EnglishWord": "diffusion coefficient",
+      "Meanings": [
+        "ضریب نفوذ",
+        "ضریب یفوزیونی"
+      ]
+    },
+    {
+      "EnglishWord": "diffusion welding",
+      "Meanings": [
+        "جوش نفوذی",
+        "جوشکاری نفوذی"
+      ]
+    },
+    {
+      "EnglishWord": "digital",
+      "Meanings": [
+        "دیجیتال",
+        "رقمی عددی",
+        "پیکره ای",
+        "شماره ای",
+        "نمره ای"
+      ]
+    },
+    {
+      "EnglishWord": "digital -analog",
+      "Meanings": [
+        "رقمی",
+        "تشخیصی",
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "digital computer",
+      "Meanings": [
+        "کامپیوتر رقمی",
+        "کامپیوتر عددی",
+        "حسابگر رقمی",
+        "کامپیوتر دیجیتال"
+      ]
+    },
+    {
+      "EnglishWord": "digital control",
+      "Meanings": [
+        "کنترل رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "digital table",
+      "Meanings": [
+        "تخته ترافیکی"
+      ]
+    },
+    {
+      "EnglishWord": "digitizer",
+      "Meanings": [
+        "رقمساز",
+        "رقمی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "dilatometer",
+      "Meanings": [
+        "انبساط سنج",
+        "دیلاتومتر",
+        "گسترش سنج"
+      ]
+    },
+    {
+      "EnglishWord": "dilute",
+      "Meanings": [
+        "رقیق کردن رقیق"
+      ]
+    },
+    {
+      "EnglishWord": "dilution",
+      "Meanings": [
+        "رقت",
+        "میزان رقت",
+        "رقیق سازی"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "بعد, اندازه",
+        "دیمانسیون",
+        "اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "dimensional stability",
+      "Meanings": [
+        "دوام ابعادی",
+        "پایداری اندازه",
+        "ثبات بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "dimensionality problem",
+      "Meanings": [
+        "مسیله تک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "dimensioning",
+      "Meanings": [
+        "اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "diminishing efficiency",
+      "Meanings": [
+        "بهره وری نقصانی"
+      ]
+    },
+    {
+      "EnglishWord": "diminishing rate",
+      "Meanings": [
+        "نرخ نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "diminishing returns",
+      "Meanings": [
+        "بازده نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "dimple hole",
+      "Meanings": [
+        "حفره کله قندی"
+      ]
+    },
+    {
+      "EnglishWord": "dinking",
+      "Meanings": [
+        "بریدن با سمبه"
+      ]
+    },
+    {
+      "EnglishWord": "dip brazing",
+      "Meanings": [
+        "برنجکاری غرقابه ای",
+        "برنجکاری مستغرق",
+        "لحیمکاری غوطه وری",
+        "برنجکار",
+        "غوطه وری",
+        "لحیمکاری سخت غوطه ور"
+      ]
+    },
+    {
+      "EnglishWord": "dip soldering",
+      "Meanings": [
+        "لحیمکاری نرم غوطه وری",
+        "لحیمکاری غوطه وری"
+      ]
+    },
+    {
+      "EnglishWord": "dip stick",
+      "Meanings": [
+        "سیخک",
+        "خطکش بازدید روغن",
+        "عمق یاب",
+        "میله روغن",
+        "میله عمق سنج"
+      ]
+    },
+    {
+      "EnglishWord": "dip transfer",
+      "Meanings": [
+        "انتقال عمقی",
+        "انتقال قطره ای"
+      ]
+    },
+    {
+      "EnglishWord": "dipole",
+      "Meanings": [
+        "دوقطبی",
+        "دی پل"
+      ]
+    },
+    {
+      "EnglishWord": "direct",
+      "Meanings": [
+        "مستقیم",
+        "هدایت کردن",
+        "بی واسطه",
+        "راهنما",
+        "راهنمایی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "direct access",
+      "Meanings": [
+        "دسترسی مستقیم",
+        "با دسترسی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct arc furnace",
+      "Meanings": [
+        "کوره قوس الکتریکی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct control",
+      "Meanings": [
+        "کنترل مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct correlation",
+      "Meanings": [
+        "همبستگی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct cost",
+      "Meanings": [
+        "هزینه مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct costing",
+      "Meanings": [
+        "هزینه یابی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct enumeration",
+      "Meanings": [
+        "شمارش مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct extrusion",
+      "Meanings": [
+        "اکستروژن مستقیم",
+        "روزنرانی مستقیم",
+        "حدیده کاری مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct factory overhead",
+      "Meanings": [
+        "سربار مستقیم کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "direct float",
+      "Meanings": [
+        "نوسان شدید",
+        "ارزشناور مشروط"
+      ]
+    },
+    {
+      "EnglishWord": "direct furnace",
+      "Meanings": [
+        "کوره قوس مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "direct gate",
+      "Meanings": [
+        "مدخل مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct inventory reduction",
+      "Meanings": [
+        "کاهش مستقیم موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "direct investment",
+      "Meanings": [
+        "سرمایه گذاری مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor",
+      "Meanings": [
+        "کار مستقیم",
+        "دستمزد مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor hours",
+      "Meanings": [
+        "ساعات کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct material",
+      "Meanings": [
+        "مواد مستقیم",
+        "مصالح مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct method allocation",
+      "Meanings": [
+        "روش سرشکن کردن مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct network",
+      "Meanings": [
+        "شبکه جهتدار"
+      ]
+    },
+    {
+      "EnglishWord": "direct numerical control",
+      "Meanings": [
+        "کنترل عددی هدایت شده"
+      ]
+    },
+    {
+      "EnglishWord": "direct observation method",
+      "Meanings": [
+        "روش مشاهده مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct quenching",
+      "Meanings": [
+        "کوینچ مستقیم از درجه حرارت کربوره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "direct reduction",
+      "Meanings": [
+        "احیاء مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct steel process",
+      "Meanings": [
+        "تولید مستقیم فولاد"
+      ]
+    },
+    {
+      "EnglishWord": "direct supervision",
+      "Meanings": [
+        "سرپرستی مستقیم",
+        "نظارت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct tax",
+      "Meanings": [
+        "مالیات مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct-fired furnace",
+      "Meanings": [
+        "کوره شعله ساده"
+      ]
+    },
+    {
+      "EnglishWord": "directing",
+      "Meanings": [
+        "هدایت",
+        "رهبزی",
+        "فرماندهی",
+        "ارشاد",
+        "هدایت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "directive",
+      "Meanings": [
+        "جهت دهنده",
+        "ارشادی",
+        "دستورالعملی",
+        "جهتدار",
+        "هادی",
+        "هدایت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "director",
+      "Meanings": [
+        "مدیر"
+      ]
+    },
+    {
+      "EnglishWord": "disability",
+      "Meanings": [
+        "ازکارافتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "disability benefit",
+      "Meanings": [
+        "مستمری ازکارافتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "disability pension",
+      "Meanings": [
+        "مستمری ازکارافتادگی",
+        "حقوق وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "disabled status",
+      "Meanings": [
+        "حالت ازکارافتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "disadvantage",
+      "Meanings": [
+        "عیب"
+      ]
+    },
+    {
+      "EnglishWord": "disbursements",
+      "Meanings": [
+        "پرداخت نقدی",
+        "مخارج"
+      ]
+    },
+    {
+      "EnglishWord": "disc cam",
+      "Meanings": [
+        "بادامک صفحه ای"
+      ]
+    },
+    {
+      "EnglishWord": "disc gate",
+      "Meanings": [
+        "مدخل صفحه ای"
+      ]
+    },
+    {
+      "EnglishWord": "disc mandrel",
+      "Meanings": [
+        "سمبه بشقابی"
+      ]
+    },
+    {
+      "EnglishWord": "discharge",
+      "Meanings": [
+        "اخراج کردن",
+        "تخلیه الکتریکی",
+        "تسویه حساب"
+      ]
+    },
+    {
+      "EnglishWord": "discipline",
+      "Meanings": [
+        "انظباط",
+        "دیسیپلین",
+        "مجازات",
+        "نظام"
+      ]
+    },
+    {
+      "EnglishWord": "discoloration",
+      "Meanings": [
+        "تغییر رنگ",
+        "بی رنگی",
+        "تبدیل رنگ",
+        "رنگ رفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuity",
+      "Meanings": [
+        "ناپیوستگی",
+        "انفصال",
+        "انقطاع",
+        "گسیختگی",
+        "عدم استمرار, مرز ناپیوسته ساختار کریستالی",
+        "گسستگی"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous",
+      "Meanings": [
+        "ناپیوسته",
+        "تراشه غیر پیوسته",
+        "شکسته",
+        "گسسته",
+        "منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous function",
+      "Meanings": [
+        "تابع ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous quenching",
+      "Meanings": [
+        "گوینچ منقطع"
+      ]
+    },
+    {
+      "EnglishWord": "discount",
+      "Meanings": [
+        "تخفیف",
+        "تخفیف دادن",
+        "تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discount lost",
+      "Meanings": [
+        "تخفیف از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "discount rate",
+      "Meanings": [
+        "نرخ تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discounted cash flow",
+      "Meanings": [
+        "جریان نقدی تنزیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "discounted value",
+      "Meanings": [
+        "ارزش تنزیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "discounting",
+      "Meanings": [
+        "تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "discrepancy",
+      "Meanings": [
+        "اختلاف",
+        "فرق",
+        "مغایرت"
+      ]
+    },
+    {
+      "EnglishWord": "discrete",
+      "Meanings": [
+        "گسسته",
+        "جدا, حالت گسسته",
+        "منقطع",
+        "ریزدانه",
+        "چندپارچه",
+        "مجزا",
+        "منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "discrete approach",
+      "Meanings": [
+        "روش عددی",
+        "نگرش تکه تکه"
+      ]
+    },
+    {
+      "EnglishWord": "discrete events simulation",
+      "Meanings": [
+        "شبیه سازی وقایع گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete probability distribution",
+      "Meanings": [
+        "توزیع احتمال منفصل",
+        "توزیع احتمال مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete random variable",
+      "Meanings": [
+        "متغیر گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discriminant",
+      "Meanings": [
+        "مبین"
+      ]
+    },
+    {
+      "EnglishWord": "discriminate analysis",
+      "Meanings": [
+        "تجزیه و تحلیل تمایزی"
+      ]
+    },
+    {
+      "EnglishWord": "disc-type clutch",
+      "Meanings": [
+        "دیسک کلاچ",
+        "کلاچ دیسکی"
+      ]
+    },
+    {
+      "EnglishWord": "disequilibrium",
+      "Meanings": [
+        "قانون عدم تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "dish-type wheel",
+      "Meanings": [
+        "چرخ سمباده بشقابی"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint",
+      "Meanings": [
+        "غیر متصل",
+        "مجزا",
+        "جدا از هم",
+        "منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "disk",
+      "Meanings": [
+        "دیسک",
+        "صفحه",
+        "قرص",
+        "دیسکی",
+        "پولک",
+        "دایره",
+        "صفحه گردان",
+        "صفحه مدور",
+        "طبق"
+      ]
+    },
+    {
+      "EnglishWord": "disk drive",
+      "Meanings": [
+        "دیسک خوان",
+        "دیسک چرخان",
+        "گرده چرخان",
+        "گرده راه"
+      ]
+    },
+    {
+      "EnglishWord": "disk operating system",
+      "Meanings": [
+        "سیستم عامل دیسک"
+      ]
+    },
+    {
+      "EnglishWord": "disk storage",
+      "Meanings": [
+        "حافظه صفحه ای",
+        "حافظه مغناطیسی صفحه ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "dislocation",
+      "Meanings": [
+        "نابجایی جابجایی بلورهای فلز تغییر محل جابجایی جدایی"
+      ]
+    },
+    {
+      "EnglishWord": "dismiss",
+      "Meanings": [
+        "مرخص کردن مطرح نکردن منفصل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "disorder",
+      "Meanings": [
+        "بی نظمی اخلال"
+      ]
+    },
+    {
+      "EnglishWord": "disorganization",
+      "Meanings": [
+        "بی سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "dispatch",
+      "Meanings": [
+        "ارسال اعزام مخابره تسریع توزیع ا"
+      ]
+    },
+    {
+      "EnglishWord": "dispatch office",
+      "Meanings": [
+        "اداره ارسال مراسلات",
+        "دفتر توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "dispatching",
+      "Meanings": [
+        "ارسال"
+      ]
+    },
+    {
+      "EnglishWord": "dispenser",
+      "Meanings": [
+        "پخش کن",
+        "مخزن پخش کن"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion",
+      "Meanings": [
+        "پراکندگی",
+        "پخش واگرایی",
+        "پراکند",
+        "انتشار پاشندگی",
+        "پاشیدگی تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion hardening",
+      "Meanings": [
+        "سختسازی",
+        "پراکندی سختگردانی",
+        "پراکندی سختگردانی انتشاری سخت کردن توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion strengthening",
+      "Meanings": [
+        "سخت سازی",
+        "پراکندی سختگردانی",
+        "پراکندی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement",
+      "Meanings": [
+        "جابه جایی",
+        "جابه جا شدن",
+        "تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "displacing group",
+      "Meanings": [
+        "جابه جایی",
+        "گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "display control",
+      "Meanings": [
+        "کنترل نمایشی",
+        "کنترل تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "display screen",
+      "Meanings": [
+        "صفحه نمایش",
+        "پرده نمایش"
+      ]
+    },
+    {
+      "EnglishWord": "disposable",
+      "Meanings": [
+        "یکبار مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "disposable personal income",
+      "Meanings": [
+        "درآمد شخصی",
+        "قابل تصرف"
+      ]
+    },
+    {
+      "EnglishWord": "disposal of fixed asset",
+      "Meanings": [
+        "خروج دارایی ثابت از جریان"
+      ]
+    },
+    {
+      "EnglishWord": "disposing of variances",
+      "Meanings": [
+        "بستن حسابهای انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "dissociation",
+      "Meanings": [
+        "تفکیک گسستگی شکند جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "dissociation pressure",
+      "Meanings": [
+        "فشارتفکیکی",
+        "تنش تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "dissolution",
+      "Meanings": [
+        "انحلا",
+        "ل تجزیه",
+        "فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "distance",
+      "Meanings": [
+        "فاصله مسافت دوری"
+      ]
+    },
+    {
+      "EnglishWord": "distance function",
+      "Meanings": [
+        "تابع فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "distortion",
+      "Meanings": [
+        "اعوجاج",
+        "پیچیدگی",
+        "واپیچش",
+        "اختلال پیجیدگی و تاب برداشتن تغییر ابعاد"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "توزیع پخش انتشار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution cost",
+      "Meanings": [
+        "هزینه توزیع",
+        "هزینه پخش"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function",
+      "Meanings": [
+        "تابع پخش",
+        "تابع توزیعی",
+        "تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution manager",
+      "Meanings": [
+        "مدیر توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distributional gain",
+      "Meanings": [
+        "سود توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distributive",
+      "Meanings": [
+        "توزیع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "distributive law",
+      "Meanings": [
+        "قانون توزیعپذیر",
+        "قانون توزیعی",
+        "قانون پخشی",
+        "قانون پخشپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "disturbance",
+      "Meanings": [
+        "آشفتگی",
+        "اختلال بی نظمی"
+      ]
+    },
+    {
+      "EnglishWord": "ditution",
+      "Meanings": [
+        "درجه دقت"
+      ]
+    },
+    {
+      "EnglishWord": "diverge",
+      "Meanings": [
+        "واگرا"
+      ]
+    },
+    {
+      "EnglishWord": "divergence",
+      "Meanings": [
+        "واگرایی جدایی"
+      ]
+    },
+    {
+      "EnglishWord": "divergent",
+      "Meanings": [
+        "واگرا",
+        "بازشو در جهت مخالف دورشونده متباعد"
+      ]
+    },
+    {
+      "EnglishWord": "diversification",
+      "Meanings": [
+        "گسترش",
+        "متنوع سازی"
+      ]
+    },
+    {
+      "EnglishWord": "divided-table planer",
+      "Meanings": [
+        "ماشین صفحه تراش دروازه ای دو میزه",
+        "صفحه تراش با میز دو تکه"
+      ]
+    },
+    {
+      "EnglishWord": "dividend",
+      "Meanings": [
+        "سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "dividend per share",
+      "Meanings": [
+        "سود هر سهم"
+      ]
+    },
+    {
+      "EnglishWord": "dividend yield",
+      "Meanings": [
+        "بازده سود سهم"
+      ]
+    },
+    {
+      "EnglishWord": "divider",
+      "Meanings": [
+        "مقسم",
+        "پرگار",
+        "پرگار تقسیم",
+        "تقسیم کننده",
+        "جداکننده"
+      ]
+    },
+    {
+      "EnglishWord": "divider caliper",
+      "Meanings": [
+        "پرگاراندازه گیری",
+        "پرگار اندازه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "dividing head",
+      "Meanings": [
+        "سز تقسیم کننده",
+        "کله گی تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "divisibility",
+      "Meanings": [
+        "بخشپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "division manager",
+      "Meanings": [
+        "مدیر اداره"
+      ]
+    },
+    {
+      "EnglishWord": "division of labor",
+      "Meanings": [
+        "تقسیم کار"
+      ]
+    },
+    {
+      "EnglishWord": "division of work",
+      "Meanings": [
+        "تقسیم کار"
+      ]
+    },
+    {
+      "EnglishWord": "dock",
+      "Meanings": [
+        "بارانداز"
+      ]
+    },
+    {
+      "EnglishWord": "doctrine",
+      "Meanings": [
+        "تز دکترین"
+      ]
+    },
+    {
+      "EnglishWord": "document",
+      "Meanings": [
+        "سند مدرک پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "documentary credit",
+      "Meanings": [
+        "اعتبار اسنادی"
+      ]
+    },
+    {
+      "EnglishWord": "documentary draft bill",
+      "Meanings": [
+        "برات اسنادی"
+      ]
+    },
+    {
+      "EnglishWord": "documentary letter of credit",
+      "Meanings": [
+        "اعتبارنامه اسنادی"
+      ]
+    },
+    {
+      "EnglishWord": "documentation",
+      "Meanings": [
+        "مستندات",
+        "مستند سازی"
+      ]
+    },
+    {
+      "EnglishWord": "documents against payment",
+      "Meanings": [
+        "تحویل اسناد در قبال پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "documents analysis",
+      "Meanings": [
+        "تجزیه و تحلیل اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "dodge-romig sampling plans",
+      "Meanings": [
+        "طرحهای نمونه گری داج رامیگ"
+      ]
+    },
+    {
+      "EnglishWord": "dog",
+      "Meanings": [
+        "نوک گیر",
+        "لبه گیر",
+        "توک گیر گیره",
+        "قلبی قلاب",
+        "چنگک بازو",
+        "حایل ینگ",
+        "زبانه سگدست",
+        "قلاب گیره"
+      ]
+    },
+    {
+      "EnglishWord": "dog plate",
+      "Meanings": [
+        "صفحه لبه گیر",
+        "صفحه توک گیر",
+        "صفحه بند"
+      ]
+    },
+    {
+      "EnglishWord": "dolly",
+      "Meanings": [
+        "بوبین قرقره",
+        "صفحه چرخدار ارابه",
+        "مستحکم",
+        "دستگاه پرچ"
+      ]
+    },
+    {
+      "EnglishWord": "domain",
+      "Meanings": [
+        "قلمرو",
+        "دامنه",
+        "دامنه تعریف",
+        "حدود",
+        "حوزه",
+        "میدان"
+      ]
+    },
+    {
+      "EnglishWord": "domestic resource cost",
+      "Meanings": [
+        "هزینه منابع داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "domestic value added",
+      "Meanings": [
+        "ارزش افزوده داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "dominant causes",
+      "Meanings": [
+        "علل",
+        "مسلط"
+      ]
+    },
+    {
+      "EnglishWord": "dos external command",
+      "Meanings": [
+        "دستورات خارجی داس"
+      ]
+    },
+    {
+      "EnglishWord": "dos internal command",
+      "Meanings": [
+        "دستورات داخلی داس"
+      ]
+    },
+    {
+      "EnglishWord": "dot matrix printer",
+      "Meanings": [
+        "چاپگر نقطه ای",
+        "چاپگر نقطه ماتریسی",
+        "چاپگر با ماتریس نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dot product",
+      "Meanings": [
+        "ضرب نقطه ای",
+        "حاصلضرب نقطه ای",
+        "حاصلضرب داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "dot prompt",
+      "Meanings": [
+        "علامت نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "double- angle milling cutter",
+      "Meanings": [
+        "تیغچه فرز مورب دو طرفه",
+        "تیغچه فرز دو طرف شیبدار"
+      ]
+    },
+    {
+      "EnglishWord": "double blowing",
+      "Meanings": [
+        "دمیدن مجدد",
+        "دمش مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double classification",
+      "Meanings": [
+        "طبقه بندی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double entry",
+      "Meanings": [
+        "حسابداری دوبل",
+        "حسابداری مترادف"
+      ]
+    },
+    {
+      "EnglishWord": "double- entry acco0unting",
+      "Meanings": [
+        "دفترداری دوبل"
+      ]
+    },
+    {
+      "EnglishWord": "double entry bookkeeping",
+      "Meanings": [
+        "دفترداری دوبل",
+        "دفترداری دو طرفه",
+        "روش ثبت مترادف دفترداری با ثبت دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "double -frame hammer",
+      "Meanings": [
+        "چکش دوسو بسته"
+      ]
+    },
+    {
+      "EnglishWord": "double -knockout mold",
+      "Meanings": [
+        "قالب با بیرون انداز دو گانه"
+      ]
+    },
+    {
+      "EnglishWord": "double precision",
+      "Meanings": [
+        "دقت مضاعف دقت دو گانه"
+      ]
+    },
+    {
+      "EnglishWord": "double -reduction helical gear",
+      "Meanings": [
+        "چرخ دندهای نوع هلیکال",
+        "چرخ مارپیچ دو کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "double -sample acceptance sampling",
+      "Meanings": [
+        "روش نمونه برداری دو مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "double sampling",
+      "Meanings": [
+        "نمونه گیری مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double sampling plan",
+      "Meanings": [
+        "طرح دو نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "double -sided drive",
+      "Meanings": [
+        "دیسک خوان دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "double tempering",
+      "Meanings": [
+        "بازگشت دو مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "double-cut broach",
+      "Meanings": [
+        "خانکش با دندانهای دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "double-cut file",
+      "Meanings": [
+        "سوهان دو ردیفه",
+        "سوهان دو عاجه"
+      ]
+    },
+    {
+      "EnglishWord": "double-housing planer",
+      "Meanings": [
+        "صفحه تراش دروازه ای دو قابه"
+      ]
+    },
+    {
+      "EnglishWord": "double-plunger die",
+      "Meanings": [
+        "قالب دو پیستونه قالب دو سمبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "double-shear steel",
+      "Meanings": [
+        "فولاد قیچی مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "double-specification limits",
+      "Meanings": [
+        "مشخصه فنی با حدود دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "doubtful debts",
+      "Meanings": [
+        "مطالباط مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "dowel",
+      "Meanings": [
+        "میخ پرچ",
+        "پین مفتول",
+        "اتصال",
+        "دم چلچله",
+        "اشپیل",
+        "خاراتصال",
+        "میخ چوبی",
+        "میل مهار"
+      ]
+    },
+    {
+      "EnglishWord": "dowel pin",
+      "Meanings": [
+        "پین قالب"
+      ]
+    },
+    {
+      "EnglishWord": "down milling",
+      "Meanings": [
+        "فرزکاری همراه"
+      ]
+    },
+    {
+      "EnglishWord": "downhand",
+      "Meanings": [
+        "مسطح و پایین"
+      ]
+    },
+    {
+      "EnglishWord": "downhill",
+      "Meanings": [
+        "روبه پایین"
+      ]
+    },
+    {
+      "EnglishWord": "down-nose",
+      "Meanings": [
+        "دماغه به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "down-time",
+      "Meanings": [
+        "خوابیدن زمان خوابیدگی",
+        "از کارافتادگی زمان بیکاری",
+        "زمان از کارافتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "draft",
+      "Meanings": [
+        "شیب پخ",
+        "برات",
+        "حواله پیش رسم",
+        "کشش",
+        "ترسیم مدل نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "drag",
+      "Meanings": [
+        "پسکشی حرکت پویا",
+        "خطوط موجی",
+        "برش درجه درجه",
+        "زیر قلاب کشش",
+        "مانع درجه پایینی",
+        "درجه تحتانی"
+      ]
+    },
+    {
+      "EnglishWord": "dragout phase",
+      "Meanings": [
+        "فاز کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "drastic",
+      "Meanings": [
+        "شدید"
+      ]
+    },
+    {
+      "EnglishWord": "draw",
+      "Meanings": [
+        "برداشت",
+        "رسم کردن",
+        "کشیدن",
+        "از حساب برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "draw bar",
+      "Meanings": [
+        "میله کشش",
+        "میل کشش",
+        "سپربند",
+        "میله اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "drawer",
+      "Meanings": [
+        "براتکش کشنده",
+        "چک یا برات",
+        "حواله دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "drawing",
+      "Meanings": [
+        "رسم",
+        "نقشه کشش",
+        "کشیدن",
+        "نقشه کشی",
+        "کشش مفتول",
+        "مفتول کشی",
+        "آب گرفتگی فلز",
+        "ردکردن سیم از حدیده",
+        "طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "drawing account",
+      "Meanings": [
+        "حساب برداشت"
+      ]
+    },
+    {
+      "EnglishWord": "drawing cutter tube",
+      "Meanings": [
+        "لوله مسی بدون درز",
+        "لوله مسی کشیده شده"
+      ]
+    },
+    {
+      "EnglishWord": "drawing die",
+      "Meanings": [
+        "قالب کشش",
+        "قالب کششی"
+      ]
+    },
+    {
+      "EnglishWord": "drawing editor",
+      "Meanings": [
+        "ادیتور نقشه کشی"
+      ]
+    },
+    {
+      "EnglishWord": "drawing elements",
+      "Meanings": [
+        "عناصر نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "drawing extent",
+      "Meanings": [
+        "وسعت نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "drawing limit",
+      "Meanings": [
+        "محدوده نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "drawn parts",
+      "Meanings": [
+        "قطعات کشیده شده"
+      ]
+    },
+    {
+      "EnglishWord": "drawn up in duplicate",
+      "Meanings": [
+        "صادر شده در دو برگ"
+      ]
+    },
+    {
+      "EnglishWord": "draw-spike",
+      "Meanings": [
+        "میله درآور"
+      ]
+    },
+    {
+      "EnglishWord": "dressing",
+      "Meanings": [
+        "تیز کردن گرافیت زنی",
+        "آماده کردن مته و ابزار چاق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dressing wheel",
+      "Meanings": [
+        "چرخ تیز کردن",
+        "سنگ تیز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "drier",
+      "Meanings": [
+        "خشک کن",
+        "خشک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "drift",
+      "Meanings": [
+        "میله لق کن",
+        "رانش",
+        "سنبه سوراخ کردن",
+        "گوه مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill bush",
+      "Meanings": [
+        "بوش راهنمای مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill jig",
+      "Meanings": [
+        "جیگ مخصوص ماشین مته",
+        "الگوی مته کاری"
+      ]
+    },
+    {
+      "EnglishWord": "drill press",
+      "Meanings": [
+        "پرس",
+        "مته کاری",
+        "ماشین مته",
+        "مته فشاری",
+        "دریل",
+        "فشار مته پیچدار"
+      ]
+    },
+    {
+      "EnglishWord": "drill rod",
+      "Meanings": [
+        "میله مته"
+      ]
+    },
+    {
+      "EnglishWord": "drill stop",
+      "Meanings": [
+        "مکانیسم محدود کننده",
+        "عمق سوراخکاری"
+      ]
+    },
+    {
+      "EnglishWord": "drilling",
+      "Meanings": [
+        "مته کاری",
+        "سوراخ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "drive",
+      "Meanings": [
+        "محرک",
+        "محرکه کشش",
+        "راه انداز راندن"
+      ]
+    },
+    {
+      "EnglishWord": "drop forging",
+      "Meanings": [
+        "آهنگری حدیده ای",
+        "آهنگری افتادنی",
+        "پرسکاری ضربه ای",
+        "آهنگری لقمه ای",
+        "پتک کاری ضربه ای",
+        "آهنگری پرتابی"
+      ]
+    },
+    {
+      "EnglishWord": "drop-hammer punch",
+      "Meanings": [
+        "سمبه با چکش رها"
+      ]
+    },
+    {
+      "EnglishWord": "drum",
+      "Meanings": [
+        "استوانه کوچک",
+        "بشکه چلیک",
+        "استوانه طوقه",
+        "غلتک قرقره"
+      ]
+    },
+    {
+      "EnglishWord": "dry bottom",
+      "Meanings": [
+        "کف خشک کوره"
+      ]
+    },
+    {
+      "EnglishWord": "dry electrostatic cleaner",
+      "Meanings": [
+        "دستگاه تمیز کننده",
+        "الکترواستاتیکی خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dry sand core",
+      "Meanings": [
+        "ماهیچه ماسه خشک"
+      ]
+    },
+    {
+      "EnglishWord": "dual",
+      "Meanings": [
+        "دوگان همزاد ثانویه",
+        "دوگانه جفت دو واحدی"
+      ]
+    },
+    {
+      "EnglishWord": "dual flow plasma",
+      "Meanings": [
+        "پلاسما با لایه ثانویه گاز"
+      ]
+    },
+    {
+      "EnglishWord": "dual hearth furnace",
+      "Meanings": [
+        "کوره باز دو بوته ای"
+      ]
+    },
+    {
+      "EnglishWord": "dual identity",
+      "Meanings": [
+        "هویت دوگانه شناسایی دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "dual problem",
+      "Meanings": [
+        "مسیله ثانویه",
+        "مسیله دوگانه",
+        "مسیله دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "dual simplex method",
+      "Meanings": [
+        "روش سیمپلکس ثانویه",
+        "روش سیمپلکس مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "duality",
+      "Meanings": [
+        "دوگانگی",
+        "دوگانی همزادی",
+        "زوجیت تقویت ثنویت دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "duality theorem",
+      "Meanings": [
+        "قضییه دوگانگی"
+      ]
+    },
+    {
+      "EnglishWord": "ductile",
+      "Meanings": [
+        "شکلپذیر",
+        "چکشخوار",
+        "مفتولپذیر نرم قابل کشش",
+        "قابل مفتول شدن"
+      ]
+    },
+    {
+      "EnglishWord": "ductile cast iron",
+      "Meanings": [
+        "چدن داکتیل",
+        "چدن نشکن",
+        "چدن نرم"
+      ]
+    },
+    {
+      "EnglishWord": "ductility",
+      "Meanings": [
+        "خاصیت لوله شدن",
+        "نرمی",
+        "انعطافپذیری نرمش خاصیت فتیله شدن",
+        "خاصیت کش آمدن تورق",
+        "شکلپذیر فتیله",
+        "واری مفتول پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "due",
+      "Meanings": [
+        "بدهی قابل پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "due date",
+      "Meanings": [
+        "تاریخ سررسید",
+        "سررسید"
+      ]
+    },
+    {
+      "EnglishWord": "due from bank",
+      "Meanings": [
+        "طلب از بانک"
+      ]
+    },
+    {
+      "EnglishWord": "due to bank",
+      "Meanings": [
+        "بدهی از بانک"
+      ]
+    },
+    {
+      "EnglishWord": "dummy",
+      "Meanings": [
+        "مجازی",
+        "موهومی",
+        "ساختگی",
+        "گنگ",
+        "فعالیت مجازی",
+        "خیالی واهی",
+        "زاید",
+        "مدل مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy activity",
+      "Meanings": [
+        "فعالیت مجازی",
+        "فعالیت موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy bar",
+      "Meanings": [
+        "میله کف بند"
+      ]
+    },
+    {
+      "EnglishWord": "dummy level",
+      "Meanings": [
+        "سطح مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy origin",
+      "Meanings": [
+        "منبع ساختگی",
+        "منبع مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "duplex bed -type milling machine",
+      "Meanings": [
+        "ماشین فرز بستری دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "duplex process",
+      "Meanings": [
+        "روش دوگانه گداز",
+        "دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "duplicate",
+      "Meanings": [
+        "کپی دوبرگ",
+        "دونسخه تکراری",
+        "نسخه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "duplicating attachment",
+      "Meanings": [
+        "دستگاه الحاقی کپی ساز"
+      ]
+    },
+    {
+      "EnglishWord": "duplicating milling machine",
+      "Meanings": [
+        "ماشین فرزکپی"
+      ]
+    },
+    {
+      "EnglishWord": "duplication",
+      "Meanings": [
+        "دوباره کاری",
+        "نسخه برداری",
+        "تکثیر",
+        "تکرار رونوشت بردار ی"
+      ]
+    },
+    {
+      "EnglishWord": "duplication check",
+      "Meanings": [
+        "مقابله از راه تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "duration",
+      "Meanings": [
+        "طول دوره",
+        "زمان استمرار",
+        "دیرش طول مدت"
+      ]
+    },
+    {
+      "EnglishWord": "durometer",
+      "Meanings": [
+        "دورومتر سختی سنج",
+        "سختی سنج لاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "dust collector",
+      "Meanings": [
+        "غبارجمع کن",
+        "محفظه گردگیر",
+        "ماشین مته"
+      ]
+    },
+    {
+      "EnglishWord": "dusted electrode",
+      "Meanings": [
+        "الکترود خاکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "duty",
+      "Meanings": [
+        "تکلیف",
+        "عوارض",
+        "وظیفه",
+        "حقوق گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "duty-free",
+      "Meanings": [
+        "معاف از حقوق گمرکی",
+        "معاف از عوارض گمرکی"
+      ]
+    },
+    {
+      "EnglishWord": "dwell",
+      "Meanings": [
+        "مکث",
+        "توقف",
+        "زمان تاخیری"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic",
+      "Meanings": [
+        "پویا",
+        "دینامیک",
+        "متحرک",
+        "متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic analysis",
+      "Meanings": [
+        "تعادل درونی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic equilibrium",
+      "Meanings": [
+        "تعادل دینامیکی",
+        "تعادل پویا",
+        "تعادل دینامیک"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic instability",
+      "Meanings": [
+        "بی ثباتی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "برنامه ریزی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic specification",
+      "Meanings": [
+        "مشخصات دینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamics",
+      "Meanings": [
+        "پویایی جنبشی دینامیک",
+        "پویایی شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "dynamometer",
+      "Meanings": [
+        "نیروسنج دینامومتر",
+        "توانسنج توانمتر",
+        "گشتاورسنج"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4941 @@
+﻿{
+  "Group": "O",
+  "Entries": 741,
+  "Words": [
+    {
+      "EnglishWord": "o",
+      "Meanings": [
+        "پانزدهمین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "o notation",
+      "Meanings": [
+        "نماد o"
+      ]
+    },
+    {
+      "EnglishWord": "obelisk",
+      "Meanings": [
+        "چندوجهی مربع القاعده",
+        "هرم ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "obey",
+      "Meanings": [
+        "تبعیت کردن",
+        "پیروی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شیء",
+        "جسم",
+        "موضوع",
+        "هدف",
+        "مقصد",
+        "مقصود",
+        "چیز",
+        "شکل",
+        "منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "object language",
+      "Meanings": [
+        "زبان موضوعی"
+      ]
+    },
+    {
+      "EnglishWord": "object of expriment",
+      "Meanings": [
+        "هدف آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "object program",
+      "Meanings": [
+        "برنامه مقصد",
+        "برنامه ریزی مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "object variable",
+      "Meanings": [
+        "متغیر شیء"
+      ]
+    },
+    {
+      "EnglishWord": "objective",
+      "Meanings": [
+        "عینی",
+        "هدف",
+        "منظور",
+        "مقصود",
+        "برونی",
+        "عملی"
+      ]
+    },
+    {
+      "EnglishWord": "objective contour",
+      "Meanings": [
+        "نمودار تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective criterion",
+      "Meanings": [
+        "معیار عینی",
+        "ضابطه عینی"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "objective probability",
+      "Meanings": [
+        "احتمال ابژکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "objects of expriment",
+      "Meanings": [
+        "هدف‌های آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "oblate",
+      "Meanings": [
+        "جمع شده"
+      ]
+    },
+    {
+      "EnglishWord": "oblate ellipsoid",
+      "Meanings": [
+        "بیضوی پخ"
+      ]
+    },
+    {
+      "EnglishWord": "oblate spheroid",
+      "Meanings": [
+        "کره وار پخت"
+      ]
+    },
+    {
+      "EnglishWord": "oblateness",
+      "Meanings": [
+        "ضریب فشردگی"
+      ]
+    },
+    {
+      "EnglishWord": "obligation",
+      "Meanings": [
+        "تکلیف",
+        "التزام",
+        "بدهی",
+        "مسیولیت",
+        "تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "obligatory",
+      "Meanings": [
+        "ضروری",
+        "الزامی"
+      ]
+    },
+    {
+      "EnglishWord": "oblique",
+      "Meanings": [
+        "مورب",
+        "مایل",
+        "کج"
+      ]
+    },
+    {
+      "EnglishWord": "oblique angle",
+      "Meanings": [
+        "زاویه ناقایمه",
+        "زاویه حاد یا منفرجه",
+        "زاویه غیر قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "oblique asymptote",
+      "Meanings": [
+        "مجانب مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique axonometry",
+      "Meanings": [
+        "محورسنجی مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique circular cone",
+      "Meanings": [
+        "مخروط مایل دوار",
+        "مخروط مستدیر مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique circular cylinder",
+      "Meanings": [
+        "استوانه مستدیر مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique cone",
+      "Meanings": [
+        "مخروط مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique coordinates",
+      "Meanings": [
+        "مختصات مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique cutting",
+      "Meanings": [
+        "برشکاری مورب"
+      ]
+    },
+    {
+      "EnglishWord": "oblique cylinder",
+      "Meanings": [
+        "استوانه مایل",
+        "ستون کژ"
+      ]
+    },
+    {
+      "EnglishWord": "oblique line",
+      "Meanings": [
+        "خط مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique parallelepiped",
+      "Meanings": [
+        "متوازی السطوح مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique plane",
+      "Meanings": [
+        "صفحه مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique prism",
+      "Meanings": [
+        "منشور مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique projection",
+      "Meanings": [
+        "تصویر مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique pyramid",
+      "Meanings": [
+        "هرم مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblique triangle",
+      "Meanings": [
+        "مثلث نا قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "obliquely",
+      "Meanings": [
+        "به صورت مایل",
+        "به طور اریب یا مایل"
+      ]
+    },
+    {
+      "EnglishWord": "obliqueness",
+      "Meanings": [
+        "کجی",
+        "تمایل"
+      ]
+    },
+    {
+      "EnglishWord": "obliquity",
+      "Meanings": [
+        "میل",
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "oblong",
+      "Meanings": [
+        "مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "oblong number",
+      "Meanings": [
+        "عدد غیری"
+      ]
+    },
+    {
+      "EnglishWord": "oblongated",
+      "Meanings": [
+        "امتداد یافته"
+      ]
+    },
+    {
+      "EnglishWord": "obovate",
+      "Meanings": [
+        "مقطع طولی تخم مرغ"
+      ]
+    },
+    {
+      "EnglishWord": "obscure",
+      "Meanings": [
+        "پیچیده و مبهم"
+      ]
+    },
+    {
+      "EnglishWord": "observability",
+      "Meanings": [
+        "قابلیت رویت"
+      ]
+    },
+    {
+      "EnglishWord": "observable",
+      "Meanings": [
+        "چشمگیر",
+        "قابل ملاحظه"
+      ]
+    },
+    {
+      "EnglishWord": "observable variate",
+      "Meanings": [
+        "متغیر مشاهده شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "observation",
+      "Meanings": [
+        "مشاهده کردن",
+        "تنظیم",
+        "معاینه",
+        "کنترل",
+        "دقت",
+        "مشاهده",
+        "دیده بانی",
+        "ملاحظه",
+        "نتیجه",
+        "رصد"
+      ]
+    },
+    {
+      "EnglishWord": "observation outcomes",
+      "Meanings": [
+        "نتایج مشاهدات"
+      ]
+    },
+    {
+      "EnglishWord": "observational",
+      "Meanings": [
+        "مشاهده ای"
+      ]
+    },
+    {
+      "EnglishWord": "observatory",
+      "Meanings": [
+        "رصد خانه"
+      ]
+    },
+    {
+      "EnglishWord": "observe",
+      "Meanings": [
+        "حفظ کردن",
+        "مشاهده کردن",
+        "ملاحظه کردن",
+        "برقرار بودن",
+        "رعایت شدن",
+        "نگریستن"
+      ]
+    },
+    {
+      "EnglishWord": "observe frequencies",
+      "Meanings": [
+        "فراوانی‌های آزمایشی",
+        "فراوانی‌های واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "observe frequency",
+      "Meanings": [
+        "فراوانی مشاهده شده"
+      ]
+    },
+    {
+      "EnglishWord": "observe probits",
+      "Meanings": [
+        "جستجو‌های مشاهده شده"
+      ]
+    },
+    {
+      "EnglishWord": "observe value",
+      "Meanings": [
+        "مقدار مشاهده شده"
+      ]
+    },
+    {
+      "EnglishWord": "observed frequency",
+      "Meanings": [
+        "فراوانی مشاهده شده",
+        "فراوانی مشهود"
+      ]
+    },
+    {
+      "EnglishWord": "observer",
+      "Meanings": [
+        "ناظر",
+        "شنونده",
+        "شاهد",
+        "راصد"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescence",
+      "Meanings": [
+        "قدیمی شدن",
+        "کهنگی و منسوخ شدن",
+        "کهنگی و فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "obsolescent technology",
+      "Meanings": [
+        "تکنولوژی ناباب"
+      ]
+    },
+    {
+      "EnglishWord": "obstacle",
+      "Meanings": [
+        "سد",
+        "مانع"
+      ]
+    },
+    {
+      "EnglishWord": "obtain",
+      "Meanings": [
+        "به دست آوردن",
+        "حاصل کردن",
+        "کسب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "obtuse",
+      "Meanings": [
+        "منفرجه",
+        "منفرجه الزاویه",
+        "منفرج الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "obtuse angle",
+      "Meanings": [
+        "زاویه منفرجه"
+      ]
+    },
+    {
+      "EnglishWord": "obtuse angled triangle",
+      "Meanings": [
+        "مثلث منفرجه الزوایا"
+      ]
+    },
+    {
+      "EnglishWord": "obtuse triangle",
+      "Meanings": [
+        "مثلث منفرجه",
+        "مثلث منفرجه الزاویه"
+      ]
+    },
+    {
+      "EnglishWord": "obverse",
+      "Meanings": [
+        "طرف مقابل",
+        "معکوس",
+        "نقیض"
+      ]
+    },
+    {
+      "EnglishWord": "obversion",
+      "Meanings": [
+        "استنتاج معکوس",
+        "عدول محمول"
+      ]
+    },
+    {
+      "EnglishWord": "obvert",
+      "Meanings": [
+        "نقض کردن",
+        "نمای چیزی را عوض کردن"
+      ]
+    },
+    {
+      "EnglishWord": "obverted contrapositive",
+      "Meanings": [
+        "عکس نقیض"
+      ]
+    },
+    {
+      "EnglishWord": "obviate",
+      "Meanings": [
+        "رفع کردن",
+        "رفع نیاز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "obvious",
+      "Meanings": [
+        "روشن",
+        "آشکار",
+        "معلوم",
+        "واضح",
+        "بدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "obviously",
+      "Meanings": [
+        "واضح است که",
+        "آشکارا",
+        "به طور آشکار"
+      ]
+    },
+    {
+      "EnglishWord": "occasion",
+      "Meanings": [
+        "موقع",
+        "مورد",
+        "فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "occupancy problem",
+      "Meanings": [
+        "مساله اشغال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "occupancy theory",
+      "Meanings": [
+        "نظریه اشتغال"
+      ]
+    },
+    {
+      "EnglishWord": "occupation",
+      "Meanings": [
+        "اشغال",
+        "تصرف"
+      ]
+    },
+    {
+      "EnglishWord": "occupational hazards",
+      "Meanings": [
+        "خطرات شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "occupational safety",
+      "Meanings": [
+        "ایمنی حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "occupy",
+      "Meanings": [
+        "فراگرفتن",
+        "اشغال کردن",
+        "قرارداشتن",
+        "اختیار کردن",
+        "تصرف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "occur",
+      "Meanings": [
+        "برخورد کردن",
+        "اتفاق افتادن",
+        "ظاهر شدن",
+        "پیش آمدن",
+        "واقع شدن",
+        "رخ دادن"
+      ]
+    },
+    {
+      "EnglishWord": "occur on",
+      "Meanings": [
+        "فرد بودن"
+      ]
+    },
+    {
+      "EnglishWord": "occurrence",
+      "Meanings": [
+        "رخداد",
+        "وقوع",
+        "رویداد"
+      ]
+    },
+    {
+      "EnglishWord": "occurrence of an event",
+      "Meanings": [
+        "وقوع یک پیشامد",
+        "وقوع یک پدیده"
+      ]
+    },
+    {
+      "EnglishWord": "octa",
+      "Meanings": [
+        "هشت",
+        "پیشوندی به معنای هشت"
+      ]
+    },
+    {
+      "EnglishWord": "octad",
+      "Meanings": [
+        "هشت تایی",
+        "هشت"
+      ]
+    },
+    {
+      "EnglishWord": "octagon",
+      "Meanings": [
+        "هشت ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "octagonal",
+      "Meanings": [
+        "هشت ضلعی شکل",
+        "هشت گوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "octagonal group",
+      "Meanings": [
+        "گروه هشت وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "octagonal ingot",
+      "Meanings": [
+        "شمش هشت ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "octahedral group",
+      "Meanings": [
+        "گروه هشت وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "octahedron",
+      "Meanings": [
+        "هشت وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "octal",
+      "Meanings": [
+        "مربوط به هشت",
+        "هشت تایی"
+      ]
+    },
+    {
+      "EnglishWord": "octal number system",
+      "Meanings": [
+        "دستگاه هشت هشتی اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "octamerous",
+      "Meanings": [
+        "هشت هشت",
+        "هشت جزیی",
+        "دارای ساختمانی با اجزاء هشت تایی"
+      ]
+    },
+    {
+      "EnglishWord": "octangular",
+      "Meanings": [
+        "هشت گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "octant",
+      "Meanings": [
+        "هشت یک",
+        "یک هشتم"
+      ]
+    },
+    {
+      "EnglishWord": "octic",
+      "Meanings": [
+        "هشتمین"
+      ]
+    },
+    {
+      "EnglishWord": "octic group",
+      "Meanings": [
+        "گروه هشتمین"
+      ]
+    },
+    {
+      "EnglishWord": "octillion",
+      "Meanings": [
+        "اکتیلیون عدد 1027 در دستگاه آمریکایی و 1048 در دستگاه انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "octo",
+      "Meanings": [
+        "هشت"
+      ]
+    },
+    {
+      "EnglishWord": "odd",
+      "Meanings": [
+        "فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odd function",
+      "Meanings": [
+        "تابع فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odd integer",
+      "Meanings": [
+        "عدد صحیح فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odd inversion",
+      "Meanings": [
+        "انعکاس فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odd number",
+      "Meanings": [
+        "عدد فرد",
+        "طاق"
+      ]
+    },
+    {
+      "EnglishWord": "odd permutation",
+      "Meanings": [
+        "جایگشت فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odd polynomial",
+      "Meanings": [
+        "چندجمله ای فرد"
+      ]
+    },
+    {
+      "EnglishWord": "oddness",
+      "Meanings": [
+        "فرد بودن"
+      ]
+    },
+    {
+      "EnglishWord": "odds",
+      "Meanings": [
+        "بخت",
+        "شانس"
+      ]
+    },
+    {
+      "EnglishWord": "odds ratio",
+      "Meanings": [
+        "کسر برتری"
+      ]
+    },
+    {
+      "EnglishWord": "oddy odd",
+      "Meanings": [
+        "فردالفرد"
+      ]
+    },
+    {
+      "EnglishWord": "of a through b",
+      "Meanings": [
+        "از a تا b"
+      ]
+    },
+    {
+      "EnglishWord": "of characteristic",
+      "Meanings": [
+        "از مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "of class",
+      "Meanings": [
+        "از رده ی"
+      ]
+    },
+    {
+      "EnglishWord": "of degree n",
+      "Meanings": [
+        "از درجه n"
+      ]
+    },
+    {
+      "EnglishWord": "of finite characteristic",
+      "Meanings": [
+        "از مشخص متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "of integration",
+      "Meanings": [
+        "انتگرالگیری"
+      ]
+    },
+    {
+      "EnglishWord": "of linear transformations",
+      "Meanings": [
+        "تبدیل‌های خطی"
+      ]
+    },
+    {
+      "EnglishWord": "of maximum length",
+      "Meanings": [
+        "با بیشترین طول"
+      ]
+    },
+    {
+      "EnglishWord": "of order n",
+      "Meanings": [
+        "از مرتبه n"
+      ]
+    },
+    {
+      "EnglishWord": "of pertaining to",
+      "Meanings": [
+        "در رابطه با",
+        "مربوط به"
+      ]
+    },
+    {
+      "EnglishWord": "of which",
+      "Meanings": [
+        "در حالتی که",
+        "در حالی که",
+        "حال آن که"
+      ]
+    },
+    {
+      "EnglishWord": "of which n",
+      "Meanings": [
+        "n تا از آنها"
+      ]
+    },
+    {
+      "EnglishWord": "of which two",
+      "Meanings": [
+        "که دو تای آنها"
+      ]
+    },
+    {
+      "EnglishWord": "off",
+      "Meanings": [
+        "مبداء",
+        "منشاء",
+        "قطع",
+        "خاموش",
+        "باز",
+        "عضوهای غیر واقع بر",
+        "روی… نباشد"
+      ]
+    },
+    {
+      "EnglishWord": "off line",
+      "Meanings": [
+        "بدون ارتباط مستقیم",
+        "خارج از خط",
+        "خط خاموش",
+        "قطع",
+        "برون خطی"
+      ]
+    },
+    {
+      "EnglishWord": "off peak hour",
+      "Meanings": [
+        "ساعت عادی مصرف برق"
+      ]
+    },
+    {
+      "EnglishWord": "off time",
+      "Meanings": [
+        "مرخصی",
+        "زمان توقف",
+        "زمان خاموشی",
+        "وقت آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "offer",
+      "Meanings": [
+        "داشته باشد",
+        "پیشنهاد",
+        "عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "office supplies",
+      "Meanings": [
+        "ملزومات اداری"
+      ]
+    },
+    {
+      "EnglishWord": "official structure",
+      "Meanings": [
+        "ساختار اداری",
+        "ساختار رسمی",
+        "سازمان رسمی",
+        "ساخت سازمان رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "offset",
+      "Meanings": [
+        "خارج از مرکز",
+        "خارج از خط",
+        "زانو",
+        "متنافر",
+        "خنثی کردن",
+        "متعادل ساختن",
+        "انحراف",
+        "جبران کردن"
+      ]
+    },
+    {
+      "EnglishWord": "offspring",
+      "Meanings": [
+        "فرزند"
+      ]
+    },
+    {
+      "EnglishWord": "oft recurring statement",
+      "Meanings": [
+        "گزاره دایما در حال تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "often",
+      "Meanings": [
+        "بیشتر",
+        "اغلب",
+        "بسیار اتفاق می‌افتد"
+      ]
+    },
+    {
+      "EnglishWord": "ogives",
+      "Meanings": [
+        "نمودار‌های اجایو"
+      ]
+    },
+    {
+      "EnglishWord": "oil circulation system",
+      "Meanings": [
+        "سیستم گردش روغن"
+      ]
+    },
+    {
+      "EnglishWord": "oil cuchion",
+      "Meanings": [
+        "بالشتک روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "old",
+      "Meanings": [
+        "قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "old coordinate system",
+      "Meanings": [
+        "دستگاه مختصات پیشین",
+        "دستگاه هماراهای پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "omission",
+      "Meanings": [
+        "قلم افتادگی",
+        "حذف"
+      ]
+    },
+    {
+      "EnglishWord": "omit",
+      "Meanings": [
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "on",
+      "Meanings": [
+        "روی"
+      ]
+    },
+    {
+      "EnglishWord": "on a circle",
+      "Meanings": [
+        "واقع روی یک دایره",
+        "روی یک دایره",
+        "بر یک دایره",
+        "واقع بر دایره"
+      ]
+    },
+    {
+      "EnglishWord": "on a keyboard",
+      "Meanings": [
+        "در یک صفحه کلید"
+      ]
+    },
+    {
+      "EnglishWord": "on a line",
+      "Meanings": [
+        "در یک خط"
+      ]
+    },
+    {
+      "EnglishWord": "on and off",
+      "Meanings": [
+        "متناوب",
+        "نوبتی",
+        "قطع و وصل"
+      ]
+    },
+    {
+      "EnglishWord": "on line",
+      "Meanings": [
+        "ارتباط مستقیم",
+        "با ارتباط مستقیم",
+        "در خط",
+        "در مدار",
+        "درون خطی",
+        "روی خط"
+      ]
+    },
+    {
+      "EnglishWord": "on line terminal",
+      "Meanings": [
+        "پایانه پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "on passing to",
+      "Meanings": [
+        "درباره ی"
+      ]
+    },
+    {
+      "EnglishWord": "on the basis of",
+      "Meanings": [
+        "با توجه به"
+      ]
+    },
+    {
+      "EnglishWord": "on the contrary",
+      "Meanings": [
+        "برخلاف",
+        "برعکس"
+      ]
+    },
+    {
+      "EnglishWord": "once",
+      "Meanings": [
+        "زمانی که",
+        "یکبار",
+        "همین که"
+      ]
+    },
+    {
+      "EnglishWord": "once again",
+      "Meanings": [
+        "مجدد",
+        "بار دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "ond limit",
+      "Meanings": [
+        "حد یکطرفی"
+      ]
+    },
+    {
+      "EnglishWord": "ond sided vderivative",
+      "Meanings": [
+        "مشتق یکطرفی"
+      ]
+    },
+    {
+      "EnglishWord": "ond surface",
+      "Meanings": [
+        "رویه یکجانبه"
+      ]
+    },
+    {
+      "EnglishWord": "one",
+      "Meanings": [
+        "یک"
+      ]
+    },
+    {
+      "EnglishWord": "one can",
+      "Meanings": [
+        "می توان"
+      ]
+    },
+    {
+      "EnglishWord": "one dimension set",
+      "Meanings": [
+        "مجموعه یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional",
+      "Meanings": [
+        "یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional distribution law",
+      "Meanings": [
+        "قانون توزیع یک متغیره",
+        "قانون توزیع یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional probability distribution",
+      "Meanings": [
+        "توزیع احتمال یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional random variable",
+      "Meanings": [
+        "کمیت تصادفی یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one dimensional space",
+      "Meanings": [
+        "فضای یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one element",
+      "Meanings": [
+        "مجموعه تک عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "one element set",
+      "Meanings": [
+        "مجموعه یک یک عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "one hundred percent inspection",
+      "Meanings": [
+        "بازرسی صددرصد"
+      ]
+    },
+    {
+      "EnglishWord": "one layout",
+      "Meanings": [
+        "آرایش یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one line",
+      "Meanings": [
+        "روی خط"
+      ]
+    },
+    {
+      "EnglishWord": "one many relation",
+      "Meanings": [
+        "نسبت یک به چند"
+      ]
+    },
+    {
+      "EnglishWord": "one material problem",
+      "Meanings": [
+        "مساله تک محصولی"
+      ]
+    },
+    {
+      "EnglishWord": "one off production",
+      "Meanings": [
+        "تولید تکی"
+      ]
+    },
+    {
+      "EnglishWord": "one one",
+      "Meanings": [
+        "یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one or more",
+      "Meanings": [
+        "یک یا چند"
+      ]
+    },
+    {
+      "EnglishWord": "one parameter family",
+      "Meanings": [
+        "خانواده یک پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "one parameter group",
+      "Meanings": [
+        "گروه یک پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "one parameter subgroup",
+      "Meanings": [
+        "زیرگروه یک پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "one poini compactification",
+      "Meanings": [
+        "فشرده سازی یک نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one point compactification",
+      "Meanings": [
+        "فشرده سازی یک نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one point confidence set",
+      "Meanings": [
+        "مجموعه اعتماد یک نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one possibility",
+      "Meanings": [
+        "یک راه ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "one sample problem",
+      "Meanings": [
+        "مساله یک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sample runs test",
+      "Meanings": [
+        "آزمون سری‌های یک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sample sign test",
+      "Meanings": [
+        "آزمون علامت یک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sheet",
+      "Meanings": [
+        "یک پارچه",
+        "یک پارچه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sheet hyperboloid",
+      "Meanings": [
+        "هذلولیوار یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "one shot",
+      "Meanings": [
+        "یک باره ای"
+      ]
+    },
+    {
+      "EnglishWord": "one shot sampling",
+      "Meanings": [
+        "نمونه گیری یکباره ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sided",
+      "Meanings": [
+        "یکطرفه",
+        "یک پهلو",
+        "یک جانبه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided bayesian interval",
+      "Meanings": [
+        "فاصله بیزی یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided continuity",
+      "Meanings": [
+        "پیوستگی یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided derivative",
+      "Meanings": [
+        "مشتق یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided limit",
+      "Meanings": [
+        "حد یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided limits",
+      "Meanings": [
+        "حدود یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided surface",
+      "Meanings": [
+        "سطح یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one sided test",
+      "Meanings": [
+        "آزمون یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one single strand machine",
+      "Meanings": [
+        "ماشین یک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "one space",
+      "Meanings": [
+        "فضای یک بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "one step",
+      "Meanings": [
+        "تک گام"
+      ]
+    },
+    {
+      "EnglishWord": "one step method",
+      "Meanings": [
+        "روش تک گامی"
+      ]
+    },
+    {
+      "EnglishWord": "one step transition matrix",
+      "Meanings": [
+        "ماتریس انتقال وضعیت یک مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "one tailed",
+      "Meanings": [
+        "یکطرفه",
+        "یک دامنه",
+        "یک دنبالی"
+      ]
+    },
+    {
+      "EnglishWord": "one tailed test",
+      "Meanings": [
+        "آزمون یک دامنه ای"
+      ]
+    },
+    {
+      "EnglishWord": "one to one",
+      "Meanings": [
+        "یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one continuous function",
+      "Meanings": [
+        "تابع پیوسته یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one correspondence",
+      "Meanings": [
+        "تناظر یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one function",
+      "Meanings": [
+        "تابع یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one mapping",
+      "Meanings": [
+        "گسترش دوسویی",
+        "نگاشت یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one onto",
+      "Meanings": [
+        "دوسویی",
+        "یک به یک پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "one to one relation",
+      "Meanings": [
+        "رابطه دو سویی",
+        "رابطه یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one transformation",
+      "Meanings": [
+        "تبدیل دو سویی",
+        "تبدیل یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one valued",
+      "Meanings": [
+        "یک مقداری",
+        "یک ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "one valued function",
+      "Meanings": [
+        "تابع تک مقداری",
+        "تابع یک مقداری",
+        "تابع یک ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "one way",
+      "Meanings": [
+        "یکطرفه",
+        "یک راهه",
+        "یک جانبه",
+        "یکراهی"
+      ]
+    },
+    {
+      "EnglishWord": "one way analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس یک عاملی",
+        "تحلیل واریانس یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "one way classification",
+      "Meanings": [
+        "طبقه بندی یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "oneness",
+      "Meanings": [
+        "وحدانیت",
+        "یگانگی"
+      ]
+    },
+    {
+      "EnglishWord": "ones",
+      "Meanings": [
+        "اینها",
+        "آنها"
+      ]
+    },
+    {
+      "EnglishWord": "only if",
+      "Meanings": [
+        "فقط وقتی که",
+        "فقط اگر"
+      ]
+    },
+    {
+      "EnglishWord": "onto",
+      "Meanings": [
+        "بر روی",
+        "پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "onto function",
+      "Meanings": [
+        "تابع پوشا",
+        "تابع به رو",
+        "تابع پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "onto mapping",
+      "Meanings": [
+        "نگاشت پوشا",
+        "نگاشت بروی"
+      ]
+    },
+    {
+      "EnglishWord": "onto transformation",
+      "Meanings": [
+        "تبدیل پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "opaque",
+      "Meanings": [
+        "ناشفاف",
+        "تیره",
+        "کدر",
+        "مات"
+      ]
+    },
+    {
+      "EnglishWord": "oparation table",
+      "Meanings": [
+        "جدول عمل"
+      ]
+    },
+    {
+      "EnglishWord": "opcode",
+      "Meanings": [
+        "کد عمل",
+        "عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "open",
+      "Meanings": [
+        "باز"
+      ]
+    },
+    {
+      "EnglishWord": "open ball",
+      "Meanings": [
+        "گوی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open base",
+      "Meanings": [
+        "پایه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open closed interval",
+      "Meanings": [
+        "بازه باز",
+        "بسته"
+      ]
+    },
+    {
+      "EnglishWord": "open cover",
+      "Meanings": [
+        "پوشش باز"
+      ]
+    },
+    {
+      "EnglishWord": "open covering",
+      "Meanings": [
+        "پوشش باز"
+      ]
+    },
+    {
+      "EnglishWord": "open covering of a set",
+      "Meanings": [
+        "پوشش باز مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "open curve",
+      "Meanings": [
+        "خم باز",
+        "منحنی باز",
+        "منحنی غیر بسته"
+      ]
+    },
+    {
+      "EnglishWord": "open disc",
+      "Meanings": [
+        "قرص باز"
+      ]
+    },
+    {
+      "EnglishWord": "open end budget",
+      "Meanings": [
+        "بودجه نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "open ended",
+      "Meanings": [
+        "راه به در"
+      ]
+    },
+    {
+      "EnglishWord": "open ended questionnaire",
+      "Meanings": [
+        "پرسشنامه آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "open half space",
+      "Meanings": [
+        "نیم فضای باز"
+      ]
+    },
+    {
+      "EnglishWord": "open interval",
+      "Meanings": [
+        "بازه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open loop",
+      "Meanings": [
+        "حلقه باز",
+        "مدار باز"
+      ]
+    },
+    {
+      "EnglishWord": "open manifold",
+      "Meanings": [
+        "خمینه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open mapping",
+      "Meanings": [
+        "نگاشت باز"
+      ]
+    },
+    {
+      "EnglishWord": "open mapping theorem",
+      "Meanings": [
+        "قضیه نگاشت باز"
+      ]
+    },
+    {
+      "EnglishWord": "open multi dimensional interval",
+      "Meanings": [
+        "سنگفرش باز"
+      ]
+    },
+    {
+      "EnglishWord": "open neighborhood",
+      "Meanings": [
+        "همسایگی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open region",
+      "Meanings": [
+        "ناحیه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open sentence",
+      "Meanings": [
+        "گزاره نما",
+        "گزاره باز"
+      ]
+    },
+    {
+      "EnglishWord": "open sequence system",
+      "Meanings": [
+        "سیستم با توالی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open set",
+      "Meanings": [
+        "مجموعه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open set of point",
+      "Meanings": [
+        "مجموعه باز نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "open simplex",
+      "Meanings": [
+        "سادک باز"
+      ]
+    },
+    {
+      "EnglishWord": "open statement",
+      "Meanings": [
+        "گزاره باز",
+        "گزاره نما"
+      ]
+    },
+    {
+      "EnglishWord": "open subgroup",
+      "Meanings": [
+        "زیرگروه باز"
+      ]
+    },
+    {
+      "EnglishWord": "open system",
+      "Meanings": [
+        "نظام باز",
+        "سیستم باز"
+      ]
+    },
+    {
+      "EnglishWord": "open train",
+      "Meanings": [
+        "نورد یک رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "open traverse",
+      "Meanings": [
+        "خط شکسته باز"
+      ]
+    },
+    {
+      "EnglishWord": "open unit interval",
+      "Meanings": [
+        "بازه یکه باز"
+      ]
+    },
+    {
+      "EnglishWord": "opening",
+      "Meanings": [
+        "فرجه"
+      ]
+    },
+    {
+      "EnglishWord": "opening inventory",
+      "Meanings": [
+        "موجودی کالای ابتدای دوره"
+      ]
+    },
+    {
+      "EnglishWord": "openning",
+      "Meanings": [
+        "سوراخ"
+      ]
+    },
+    {
+      "EnglishWord": "operand",
+      "Meanings": [
+        "عامل",
+        "کارگزار",
+        "عملوند"
+      ]
+    },
+    {
+      "EnglishWord": "operate",
+      "Meanings": [
+        "عمل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "operating",
+      "Meanings": [
+        "عملکرد",
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "operating characteristic",
+      "Meanings": [
+        "مشخصه عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "operating characteristic curve",
+      "Meanings": [
+        "خم مشخصه عملکرد",
+        "منحنی مشخصه عمل",
+        "منحنی مشخصه عملکرد",
+        "منحنی مشخصه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating cost",
+      "Meanings": [
+        "هزینه بهره برداری",
+        "هزینه عملیاتی",
+        "هزینه راهبری"
+      ]
+    },
+    {
+      "EnglishWord": "operating efficiency",
+      "Meanings": [
+        "کارایی عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating expense",
+      "Meanings": [
+        "هزینه عملکرد",
+        "هزینه عملیات بهره برداری",
+        "هزینه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operating function",
+      "Meanings": [
+        "تابع عمل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "operating leverage",
+      "Meanings": [
+        "اهرم عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating managers",
+      "Meanings": [
+        "مدیران عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operating manual",
+      "Meanings": [
+        "راهنمایی عملیاتی",
+        "کتاب دستی عملیاتی",
+        "دستور کار",
+        "دستورالعمل"
+      ]
+    },
+    {
+      "EnglishWord": "operating system",
+      "Meanings": [
+        "سیستم تنظیم کننده",
+        "سیستم کارنمایی",
+        "سیستم عامل"
+      ]
+    },
+    {
+      "EnglishWord": "operation",
+      "Meanings": [
+        "عمل"
+      ]
+    },
+    {
+      "EnglishWord": "operation characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه عمل"
+      ]
+    },
+    {
+      "EnglishWord": "operation of a group",
+      "Meanings": [
+        "عمل گروه"
+      ]
+    },
+    {
+      "EnglishWord": "operation process chart",
+      "Meanings": [
+        "نمودار فراگرد عملیاتی",
+        "نمودار فرایند عملیات",
+        "جدول اجرای عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation research",
+      "Meanings": [
+        "پژوهش عملیاتی",
+        "بررسی عملیات",
+        "تحقیق عملیات",
+        "پژوهش عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation sheet",
+      "Meanings": [
+        "برگه عملیات",
+        "فرم عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation symbol",
+      "Meanings": [
+        "علامت عمل",
+        "علامت رمز"
+      ]
+    },
+    {
+      "EnglishWord": "operational",
+      "Meanings": [
+        "عملی",
+        "عملگری"
+      ]
+    },
+    {
+      "EnglishWord": "operational calculus",
+      "Meanings": [
+        "حساب عملی",
+        "حساب عملگری"
+      ]
+    },
+    {
+      "EnglishWord": "operational mathod",
+      "Meanings": [
+        "روش عملگری",
+        "روش عملی"
+      ]
+    },
+    {
+      "EnglishWord": "operational method",
+      "Meanings": [
+        "روش عملگری"
+      ]
+    },
+    {
+      "EnglishWord": "operational planning",
+      "Meanings": [
+        "طرحریزی عملیاتی",
+        "برنامه ریزی عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operational research",
+      "Meanings": [
+        "پژوهش عملیات",
+        "تحقیق عملیات",
+        "بررسی عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operational symbol",
+      "Meanings": [
+        "نماد عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "operations of arithmetic",
+      "Meanings": [
+        "عملیات محاسباتی"
+      ]
+    },
+    {
+      "EnglishWord": "operations research",
+      "Meanings": [
+        "تحقیق در عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operations set",
+      "Meanings": [
+        "مجموعه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operative",
+      "Meanings": [
+        "عملگر",
+        "عامل",
+        "عمل کننده",
+        "عملی",
+        "کارگر",
+        "موثر",
+        "فراونده"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "عملگر"
+      ]
+    },
+    {
+      "EnglishWord": "operator algebra",
+      "Meanings": [
+        "جبر عملگر ها"
+      ]
+    },
+    {
+      "EnglishWord": "operator of integration",
+      "Meanings": [
+        "عملگر انتگرال گیری"
+      ]
+    },
+    {
+      "EnglishWord": "operator ring",
+      "Meanings": [
+        "حلقه عملگر ها"
+      ]
+    },
+    {
+      "EnglishWord": "opisometer",
+      "Meanings": [
+        "وسیله اندازه گیری طول منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "opponent",
+      "Meanings": [
+        "حریف",
+        "هماورد"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity cost",
+      "Meanings": [
+        "هزینه فرصت",
+        "هزینه فرصت از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity curve",
+      "Meanings": [
+        "منحنی فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity loss",
+      "Meanings": [
+        "زیان غفلت",
+        "زیان از دست رفتن فرصت",
+        "فرصت از دست رفته",
+        "زیان فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity studies",
+      "Meanings": [
+        "شناسایی و بررسی امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "oppose",
+      "Meanings": [
+        "مخالفت کردن",
+        "ضدیت کردن",
+        "مقابله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "opposite",
+      "Meanings": [
+        "مقابل",
+        "متقابل",
+        "مخالف",
+        "روبرو"
+      ]
+    },
+    {
+      "EnglishWord": "opposite angles",
+      "Meanings": [
+        "زاویه مقابل",
+        "زاویه‌های متقابل",
+        "زوایای روبرو",
+        "زوایای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "opposite arrow",
+      "Meanings": [
+        "فلش متقابل",
+        "پیکان متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "opposite number",
+      "Meanings": [
+        "عدد مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "opposite of",
+      "Meanings": [
+        "مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "opposite orientation",
+      "Meanings": [
+        "سوی متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "opposite sense inequalities",
+      "Meanings": [
+        "نامساوی‌های مختلف الجهت"
+      ]
+    },
+    {
+      "EnglishWord": "opposite sides",
+      "Meanings": [
+        "اضلاع روبرو"
+      ]
+    },
+    {
+      "EnglishWord": "opposite vector",
+      "Meanings": [
+        "بردار متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "oppositely",
+      "Meanings": [
+        "متقابلا"
+      ]
+    },
+    {
+      "EnglishWord": "opposition",
+      "Meanings": [
+        "مقابلت",
+        "تقابل"
+      ]
+    },
+    {
+      "EnglishWord": "optical",
+      "Meanings": [
+        "مربوط به چشم",
+        "چشمی"
+      ]
+    },
+    {
+      "EnglishWord": "optical comparator",
+      "Meanings": [
+        "مقایسه گر نوری",
+        "کمپراتور نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical property of conics",
+      "Meanings": [
+        "ویژگی اپتیکی مقطع‌های مخروطی",
+        "خاصیت نوری مقاطع مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "optical property of conies",
+      "Meanings": [
+        "ویژگی اپتیکی مقطع‌های مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "optics",
+      "Meanings": [
+        "اپتیک",
+        "نورشناسی",
+        "فیزیک نور",
+        "عمل نور",
+        "علم مناظر"
+      ]
+    },
+    {
+      "EnglishWord": "optimal",
+      "Meanings": [
+        "مطلوب",
+        "اپتیمال",
+        "بهین"
+      ]
+    },
+    {
+      "EnglishWord": "optimal basic feasible solution",
+      "Meanings": [
+        "جواب شدنی پایه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal basis",
+      "Meanings": [
+        "پایه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal block design",
+      "Meanings": [
+        "طرح بلوکی اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "optimal bounded variables",
+      "Meanings": [
+        "متغیر‌های کراندار بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal control",
+      "Meanings": [
+        "کنترل اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "optimal control problem",
+      "Meanings": [
+        "مساله کنترل بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal decision",
+      "Meanings": [
+        "تصمیم اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "optimal extreme point",
+      "Meanings": [
+        "نقطه راسی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal feasible solution",
+      "Meanings": [
+        "جواب ممکن بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal frequency",
+      "Meanings": [
+        "فرکانس بهینه",
+        "بسامد",
+        "تواتر بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal location problem nonbasic",
+      "Meanings": [
+        "مساله موقعیت بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal point",
+      "Meanings": [
+        "نقطه مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimal policy",
+      "Meanings": [
+        "سیاست بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal solution",
+      "Meanings": [
+        "جواب بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal strategy",
+      "Meanings": [
+        "استراتژی بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimal system",
+      "Meanings": [
+        "دستگاه اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "optimality",
+      "Meanings": [
+        "اپتیمم بودن",
+        "بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "optimality at",
+      "Meanings": [
+        "بهینگی در"
+      ]
+    },
+    {
+      "EnglishWord": "optimality condition",
+      "Meanings": [
+        "شرط بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "optimality conditions criterion nonbasic",
+      "Meanings": [
+        "معیار/شرایط بهینگی",
+        "غیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "optimality criterion",
+      "Meanings": [
+        "معیار بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "optimalize",
+      "Meanings": [
+        "به سطح مطلوب رسانیدن"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic",
+      "Meanings": [
+        "خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic estimate",
+      "Meanings": [
+        "تخمین خوشبینانه",
+        "براورد خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic time",
+      "Meanings": [
+        "زمان خوشبینی کامل",
+        "زمان خوشبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimization",
+      "Meanings": [
+        "اپتیمم سازی",
+        "بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimization problem",
+      "Meanings": [
+        "مساله بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimization theory",
+      "Meanings": [
+        "نظریه اپتیمم سازی",
+        "نظریه بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimize",
+      "Meanings": [
+        "بهینه یافتن",
+        "بهینه ساختن",
+        "بهینه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "optimizing",
+      "Meanings": [
+        "بهینه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "optimum",
+      "Meanings": [
+        "اپتیمم",
+        "حداکثر",
+        "بهترین",
+        "مطلوب",
+        "بهینه",
+        "حد بهینه",
+        "بهین",
+        "حد متناسب",
+        "دلخواه",
+        "وضع مطلوب",
+        "حد مطلوب",
+        "مناسب",
+        "به حد مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum allocation",
+      "Meanings": [
+        "تخصیص اپتیمم"
+      ]
+    },
+    {
+      "EnglishWord": "optimum design",
+      "Meanings": [
+        "طراحی بهینه",
+        "طرح بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum maintenance program",
+      "Meanings": [
+        "برنامه نگهداری بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum output",
+      "Meanings": [
+        "بازده مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "optimum plant size",
+      "Meanings": [
+        "اندازه بهینه واحد تولید"
+      ]
+    },
+    {
+      "EnglishWord": "optimum point",
+      "Meanings": [
+        "نقطه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum policy",
+      "Meanings": [
+        "سیاست بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optimum size of clusters",
+      "Meanings": [
+        "اندازه بهینه خوشه ها"
+      ]
+    },
+    {
+      "EnglishWord": "optimum work period",
+      "Meanings": [
+        "مناسبترین طول زمان کار",
+        "طول دوره کار مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "option",
+      "Meanings": [
+        "اختیار معامله",
+        "انتخاب معامله",
+        "خیار",
+        "شق",
+        "حق انتخاب",
+        "اختیار"
+      ]
+    },
+    {
+      "EnglishWord": "option sampling",
+      "Meanings": [
+        "نمونه گیری اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "optional sampling",
+      "Meanings": [
+        "نمونه گیری اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "optional time",
+      "Meanings": [
+        "زمان اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "or",
+      "Meanings": [
+        "یا"
+      ]
+    },
+    {
+      "EnglishWord": "or else",
+      "Meanings": [
+        "یا به طریق دیگر",
+        "یا به طریقی دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "or equal to",
+      "Meanings": [
+        "یا مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "or function",
+      "Meanings": [
+        "تابع یا"
+      ]
+    },
+    {
+      "EnglishWord": "or if",
+      "Meanings": [
+        "و اگر",
+        "و هرگاه"
+      ]
+    },
+    {
+      "EnglishWord": "or simply",
+      "Meanings": [
+        "یا به صورت ساده تر"
+      ]
+    },
+    {
+      "EnglishWord": "orb",
+      "Meanings": [
+        "جسم کروی",
+        "گوی",
+        "بدور چیزی"
+      ]
+    },
+    {
+      "EnglishWord": "orbed",
+      "Meanings": [
+        "کروی",
+        "گرد"
+      ]
+    },
+    {
+      "EnglishWord": "orbicularity",
+      "Meanings": [
+        "به طور کروی",
+        "به طور مدور",
+        "کروی بودن",
+        "کیفیت گرد"
+      ]
+    },
+    {
+      "EnglishWord": "orbiculate",
+      "Meanings": [
+        "کروی",
+        "گرد",
+        "مدور"
+      ]
+    },
+    {
+      "EnglishWord": "orbit",
+      "Meanings": [
+        "دایره وار",
+        "حرکت کردن",
+        "بدور مداری گشتن",
+        "قلمرو",
+        "مدار",
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "orbit determination",
+      "Meanings": [
+        "تعیین مدار"
+      ]
+    },
+    {
+      "EnglishWord": "orbit of x under g",
+      "Meanings": [
+        "مدار x بوسیله g"
+      ]
+    },
+    {
+      "EnglishWord": "orbit space",
+      "Meanings": [
+        "فضای مداری"
+      ]
+    },
+    {
+      "EnglishWord": "orbital",
+      "Meanings": [
+        "مداری",
+        "مدار",
+        "مسیر",
+        "مسیری"
+      ]
+    },
+    {
+      "EnglishWord": "orbital elements",
+      "Meanings": [
+        "عنصر‌های مداری"
+      ]
+    },
+    {
+      "EnglishWord": "orbital motion",
+      "Meanings": [
+        "حرکت مداری"
+      ]
+    },
+    {
+      "EnglishWord": "orbital velocity",
+      "Meanings": [
+        "سرعت مداری"
+      ]
+    },
+    {
+      "EnglishWord": "orbiting rocket",
+      "Meanings": [
+        "موشک مدار گرد"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "مرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "order axioms",
+      "Meanings": [
+        "اصول موضوع ترتیب",
+        "اصل‌های موضوع ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order confirmation",
+      "Meanings": [
+        "تایید سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order form",
+      "Meanings": [
+        "برگه سفارش",
+        "فرم سفارش",
+        "فرم سفارشدهی"
+      ]
+    },
+    {
+      "EnglishWord": "order interval",
+      "Meanings": [
+        "فاصله سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order mapping",
+      "Meanings": [
+        "نگاشت ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order of a branch point",
+      "Meanings": [
+        "مرتبه نقطه شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "order of a contact",
+      "Meanings": [
+        "مرتبه تماس"
+      ]
+    },
+    {
+      "EnglishWord": "order of a cyclic group",
+      "Meanings": [
+        "مرتبه یک گروه دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "order of a derivative",
+      "Meanings": [
+        "مرتبه مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "order of a determinant",
+      "Meanings": [
+        "مرتبه یک دترمینان"
+      ]
+    },
+    {
+      "EnglishWord": "order of a differential equation",
+      "Meanings": [
+        "مرتبه معادله دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "order of a group",
+      "Meanings": [
+        "مرتبه گروه",
+        "مرتبه یک گروه",
+        "رتبه یک گروه"
+      ]
+    },
+    {
+      "EnglishWord": "order of a lipschitz mapping",
+      "Meanings": [
+        "درجه یک نگاشت لیپ شیتز",
+        "قدرنسبت نگاشت لیپ شیتسی"
+      ]
+    },
+    {
+      "EnglishWord": "order of a matrix",
+      "Meanings": [
+        "مرتبه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "order of a multiplicity",
+      "Meanings": [
+        "مرتبه تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "order of a pole",
+      "Meanings": [
+        "مرتبه قطب",
+        "مرتبه یک قطب"
+      ]
+    },
+    {
+      "EnglishWord": "order of a polynomial",
+      "Meanings": [
+        "مرتبه چندجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "order of a radical",
+      "Meanings": [
+        "مرتبه رادیکال",
+        "فرجه یک رادیکال"
+      ]
+    },
+    {
+      "EnglishWord": "order of a root",
+      "Meanings": [
+        "مرتبه ریشه",
+        "مرتبه تکرار یک ریشه",
+        "رتبه یک ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "order of a subgroup",
+      "Meanings": [
+        "مرتبه یک زیرگروه"
+      ]
+    },
+    {
+      "EnglishWord": "order of a zero",
+      "Meanings": [
+        "مرتبه یک صفر"
+      ]
+    },
+    {
+      "EnglishWord": "order of an algebraic curve or surface",
+      "Meanings": [
+        "مرتبه منحنی یا سطح جبری"
+      ]
+    },
+    {
+      "EnglishWord": "order of an element",
+      "Meanings": [
+        "مرتبه عنصر",
+        "دوره یک عنصر"
+      ]
+    },
+    {
+      "EnglishWord": "order of an equation",
+      "Meanings": [
+        "درجه یک معادله"
+      ]
+    },
+    {
+      "EnglishWord": "order of an infinitesimal",
+      "Meanings": [
+        "مرتبه یک بینهایت کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "order of an infinity",
+      "Meanings": [
+        "درجه یک بینهایت بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "order of contact",
+      "Meanings": [
+        "مرتبه تماس"
+      ]
+    },
+    {
+      "EnglishWord": "order of convergence",
+      "Meanings": [
+        "مرتبه همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "order of elements of a group",
+      "Meanings": [
+        "رتبه عناصر یک گروه"
+      ]
+    },
+    {
+      "EnglishWord": "order of group",
+      "Meanings": [
+        "درجه گروه",
+        "مرتبه گروه"
+      ]
+    },
+    {
+      "EnglishWord": "order of magnitude",
+      "Meanings": [
+        "درجه قدرت",
+        "درجه بزرگی",
+        "مرتبه بزرگی"
+      ]
+    },
+    {
+      "EnglishWord": "order of matrix",
+      "Meanings": [
+        "مرتبه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "order of multiplicity",
+      "Meanings": [
+        "مرتبه تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "order of the number line",
+      "Meanings": [
+        "ترتیب روی محور اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "order point system",
+      "Meanings": [
+        "سیستم نقطه سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order preserving",
+      "Meanings": [
+        "حافظ ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order preserving function",
+      "Meanings": [
+        "تابع حافظ ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order properties",
+      "Meanings": [
+        "ویژگی‌های ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order properties of the real numbers",
+      "Meanings": [
+        "خواص ترتیبی اعداد حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "order relation",
+      "Meanings": [
+        "رابطه ترتیب",
+        "رابطه ترتیبی",
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order relative to",
+      "Meanings": [
+        "مرتبه نسبت به"
+      ]
+    },
+    {
+      "EnglishWord": "order reversing",
+      "Meanings": [
+        "قلب کننده ترتیب",
+        "عاکس ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order size",
+      "Meanings": [
+        "اندازه سفارش",
+        "مقدار سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "order statistic",
+      "Meanings": [
+        "آمار ترتیبی",
+        "آماره ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "order topology",
+      "Meanings": [
+        "توپولوژی ترتیبی",
+        "توپولوژی ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "order type",
+      "Meanings": [
+        "نوع ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered",
+      "Meanings": [
+        "مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered additive group",
+      "Meanings": [
+        "گروه جمعی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered basis",
+      "Meanings": [
+        "پایه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered couple",
+      "Meanings": [
+        "زوج مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered element",
+      "Meanings": [
+        "عضو مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered field",
+      "Meanings": [
+        "هییت مرتب",
+        "میدان مرتب",
+        "هیات مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered group",
+      "Meanings": [
+        "گروه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered mapping",
+      "Meanings": [
+        "نگاشت مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered n tuple",
+      "Meanings": [
+        "n تایی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered n tuples",
+      "Meanings": [
+        "n تایی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered number",
+      "Meanings": [
+        "اعداد مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered numbers",
+      "Meanings": [
+        "اعداد مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered pair",
+      "Meanings": [
+        "جفت مرتب",
+        "زوج مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered partition",
+      "Meanings": [
+        "افراز مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered partitions",
+      "Meanings": [
+        "افراز‌های مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered product",
+      "Meanings": [
+        "حاصلضرب مرتب شده"
+      ]
+    },
+    {
+      "EnglishWord": "ordered quadruple",
+      "Meanings": [
+        "چارتایی مرتب",
+        "چهارتایی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered relation",
+      "Meanings": [
+        "رابطه ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered ring",
+      "Meanings": [
+        "حلقه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered rooted tree",
+      "Meanings": [
+        "درخت ریشه دار مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered sample",
+      "Meanings": [
+        "نمونه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered samples",
+      "Meanings": [
+        "نمونه‌های مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered set",
+      "Meanings": [
+        "دسته مرتب",
+        "مجموعه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered sets",
+      "Meanings": [
+        "مجموعه‌های مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered subset",
+      "Meanings": [
+        "زیرمجموعه مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered triple",
+      "Meanings": [
+        "سه تایی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordered union",
+      "Meanings": [
+        "اجتماع ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordering",
+      "Meanings": [
+        "مرتب کردن",
+        "ترتیب",
+        "ترتیبی",
+        "مرتب سازی",
+        "رابطه ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordering axiom",
+      "Meanings": [
+        "اصل موضوع ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "ordering cost",
+      "Meanings": [
+        "هزینه سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "ordering relation",
+      "Meanings": [
+        "رابطه ترتیبی",
+        "نسبت ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordering time",
+      "Meanings": [
+        "زمان سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "orderings",
+      "Meanings": [
+        "ترتیب ها"
+      ]
+    },
+    {
+      "EnglishWord": "orderless",
+      "Meanings": [
+        "بی ترتیب",
+        "بی نظم"
+      ]
+    },
+    {
+      "EnglishWord": "orderly",
+      "Meanings": [
+        "به طور مرتب",
+        "مرتبا"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal",
+      "Meanings": [
+        "ترتیبی",
+        "عدد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal measurement",
+      "Meanings": [
+        "اندازه گیری رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal nubmer",
+      "Meanings": [
+        "عدد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal number",
+      "Meanings": [
+        "عدد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal numbers",
+      "Meanings": [
+        "اعداد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal product",
+      "Meanings": [
+        "حاصلضرب ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal scale",
+      "Meanings": [
+        "مقیاس رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal sum",
+      "Meanings": [
+        "حاصل جمع ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinals arithmetics",
+      "Meanings": [
+        "حساب اعداد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinals product",
+      "Meanings": [
+        "ضرب اعداد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinals sum",
+      "Meanings": [
+        "حاصلجمع اعداد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary",
+      "Meanings": [
+        "عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary case cycloid curve",
+      "Meanings": [
+        "خم چرخنما حالت معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary depreciation",
+      "Meanings": [
+        "استهلاک عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary derivative",
+      "Meanings": [
+        "مشتق معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary differential equation of the first order",
+      "Meanings": [
+        "معادله دیفرانسیل معمولی مرتبه اول"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary differential operator",
+      "Meanings": [
+        "عملگر دیفرانسیل معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary discontinuity",
+      "Meanings": [
+        "ناپیوستگی معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary double point",
+      "Meanings": [
+        "نقطه مضاعف معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary fraction",
+      "Meanings": [
+        "کسر معمولی",
+        "کسر متعارفی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary interest",
+      "Meanings": [
+        "بهره ساده",
+        "بهره عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary point",
+      "Meanings": [
+        "نقطه معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary point of a curve",
+      "Meanings": [
+        "نقطه عادی یک منحنی",
+        "نقطه ساده خم",
+        "نقطه معمولی خم"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary point of an analytic set",
+      "Meanings": [
+        "نقطه ساده مجموعه تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary rooted tree",
+      "Meanings": [
+        "درخت ریشه دار معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary share",
+      "Meanings": [
+        "سهم معمولی",
+        "سهم عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinary singularity",
+      "Meanings": [
+        "تکینی معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinate",
+      "Meanings": [
+        "رست",
+        "عرض",
+        "عرض یک نقطه در صفحه مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "ordinate of a point",
+      "Meanings": [
+        "عرض نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "ordinate set",
+      "Meanings": [
+        "مجموعه عرضی",
+        "مجموعه عرض"
+      ]
+    },
+    {
+      "EnglishWord": "ordination",
+      "Meanings": [
+        "طبقه بندی",
+        "دسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "organic",
+      "Meanings": [
+        "آلی",
+        "حیاتی",
+        "مربوط به حیات"
+      ]
+    },
+    {
+      "EnglishWord": "organization",
+      "Meanings": [
+        "تشکیلات",
+        "موسسه",
+        "سازماندهی",
+        "سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "organization chart",
+      "Meanings": [
+        "نمودار سازمانی",
+        "نمودار سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "organization level",
+      "Meanings": [
+        "رده سازمانی",
+        "سطح سازمانی",
+        "طبقه سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization planning",
+      "Meanings": [
+        "طرحریزی سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization unit",
+      "Meanings": [
+        "واحد سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "organizational chart",
+      "Meanings": [
+        "نمودار سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational level",
+      "Meanings": [
+        "رده سازمانی",
+        "سطح سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational pyramid",
+      "Meanings": [
+        "هرم سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organizational structure",
+      "Meanings": [
+        "ساخت سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organize",
+      "Meanings": [
+        "سازمان دادن",
+        "مرتب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "organizing",
+      "Meanings": [
+        "تشکیل سازمان",
+        "سازماندهی"
+      ]
+    },
+    {
+      "EnglishWord": "orient",
+      "Meanings": [
+        "جهت یابی کردن",
+        "رسم شدن",
+        "جهت تعیین کردن",
+        "جهت انتخاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "orientable",
+      "Meanings": [
+        "جهت پذیر",
+        "سو پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "orientable surface",
+      "Meanings": [
+        "رویه جهت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "orientable topological manifold",
+      "Meanings": [
+        "خمینه توپولوژیک جهت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "orientable trajectory",
+      "Meanings": [
+        "مسیر جهت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "orientation",
+      "Meanings": [
+        "جهت"
+      ]
+    },
+    {
+      "EnglishWord": "orientation of a topological manifold",
+      "Meanings": [
+        "جهت دهی خمینه توپولوژیک"
+      ]
+    },
+    {
+      "EnglishWord": "orientation preserving",
+      "Meanings": [
+        "جهت نگهدار",
+        "حافظ جهت"
+      ]
+    },
+    {
+      "EnglishWord": "orientation preserving mapping",
+      "Meanings": [
+        "نگاشت جهت برگردان",
+        "نگاشت جهت نگهدار"
+      ]
+    },
+    {
+      "EnglishWord": "orientation reversing",
+      "Meanings": [
+        "جهت برگردان",
+        "حافظ جهت"
+      ]
+    },
+    {
+      "EnglishWord": "orientation reversing mapping",
+      "Meanings": [
+        "نگاشت جهت برگردان"
+      ]
+    },
+    {
+      "EnglishWord": "oriented",
+      "Meanings": [
+        "جهت دار",
+        "سو دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented atlas",
+      "Meanings": [
+        "اطلس جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented curve",
+      "Meanings": [
+        "خم جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented manifold",
+      "Meanings": [
+        "خمینه جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented plane",
+      "Meanings": [
+        "هامن جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented simplex",
+      "Meanings": [
+        "سادک جهتدار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented surface",
+      "Meanings": [
+        "رویه جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "oriented tangent line",
+      "Meanings": [
+        "خط مماس جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "orienting",
+      "Meanings": [
+        "جهتدهی",
+        "جهت دادن"
+      ]
+    },
+    {
+      "EnglishWord": "orifice",
+      "Meanings": [
+        "سوراخ",
+        "روزنه",
+        "دهانه",
+        "محل بازشدن",
+        "دریچه ورودی",
+        "مجرا",
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "origin",
+      "Meanings": [
+        "مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "origin of a ray",
+      "Meanings": [
+        "مبدا پرتو",
+        "مبداء یک شعاع",
+        "مبداء یک نیم خط"
+      ]
+    },
+    {
+      "EnglishWord": "origin of a reference",
+      "Meanings": [
+        "مبداء یک چارچوب"
+      ]
+    },
+    {
+      "EnglishWord": "origin of cartesian coordinates",
+      "Meanings": [
+        "مبداء دستگاه مختصات دکارتی"
+      ]
+    },
+    {
+      "EnglishWord": "origin of coordinates",
+      "Meanings": [
+        "مبداء مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "origin of vector",
+      "Meanings": [
+        "مبداء بردار"
+      ]
+    },
+    {
+      "EnglishWord": "origin orthocenter",
+      "Meanings": [
+        "پیشوندی به معنای راست و مستقیم",
+        "محل برخورد سه ارتفاع مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "original",
+      "Meanings": [
+        "نسخه اصلی",
+        "نمونه اصلی",
+        "اصلی",
+        "اولیه",
+        "آغازین",
+        "آغازی"
+      ]
+    },
+    {
+      "EnglishWord": "original assumption",
+      "Meanings": [
+        "فرض اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original axiom",
+      "Meanings": [
+        "اصل موضوع اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original diagram",
+      "Meanings": [
+        "نمودار اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "original matrix",
+      "Meanings": [
+        "ماتری اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original observations",
+      "Meanings": [
+        "مشاهدات اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original scores",
+      "Meanings": [
+        "نمره‌های اصلی",
+        "نمره‌های خام"
+      ]
+    },
+    {
+      "EnglishWord": "original set",
+      "Meanings": [
+        "مجموعه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original statement",
+      "Meanings": [
+        "گزاره اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "original tree",
+      "Meanings": [
+        "درخت اصلی",
+        "درخت اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "originally",
+      "Meanings": [
+        "در ابتدا",
+        "در آغاز"
+      ]
+    },
+    {
+      "EnglishWord": "orthic triangle",
+      "Meanings": [
+        "پادک",
+        "مثلث پادک"
+      ]
+    },
+    {
+      "EnglishWord": "ortho complement",
+      "Meanings": [
+        "متمم قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthocenter",
+      "Meanings": [
+        "نقطه تقاطع سه ارتفاع یک مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "orthodromie",
+      "Meanings": [
+        "ارتودرومی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal",
+      "Meanings": [
+        "متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal affinity",
+      "Meanings": [
+        "تبدیل آفین قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal axonometry",
+      "Meanings": [
+        "محور سنجی قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal basis",
+      "Meanings": [
+        "پایه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal circles",
+      "Meanings": [
+        "دوایر متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal complement",
+      "Meanings": [
+        "متمم متعامد",
+        "متمم قایم",
+        "مکمل عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal complement group",
+      "Meanings": [
+        "گروه مکمل متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal complement group projection",
+      "Meanings": [
+        "تصویر گروه مکمل متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal component",
+      "Meanings": [
+        "مولفه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal contacts",
+      "Meanings": [
+        "مقایسه‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal coordinate system",
+      "Meanings": [
+        "دستگاه مختصات متعامد",
+        "دستگاه مختصات قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal coordinates",
+      "Meanings": [
+        "مختصات متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal curves",
+      "Meanings": [
+        "خم‌های بر هم عمود"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal curvilinear coordiantes",
+      "Meanings": [
+        "مختصات خمیده خطی متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal curvilinear coordinates",
+      "Meanings": [
+        "مختصات خمیده خطی متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal cutting",
+      "Meanings": [
+        "بریدن متعامد",
+        "برشکاری متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal decomposition theorem",
+      "Meanings": [
+        "قضیه تجزیه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal expansion",
+      "Meanings": [
+        "بسط متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal functions",
+      "Meanings": [
+        "تابع‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal group",
+      "Meanings": [
+        "گروه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal latin squares",
+      "Meanings": [
+        "مربع‌های لاتین متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal linear transformation",
+      "Meanings": [
+        "تبدیل خطی متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal lines",
+      "Meanings": [
+        "خط‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal matrices",
+      "Meanings": [
+        "ماتریس‌های عمودی",
+        "ماتریس‌های قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal matrix",
+      "Meanings": [
+        "ماتریس متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal polynomial",
+      "Meanings": [
+        "چندجمله ای متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal polynomials",
+      "Meanings": [
+        "چندجمله ای‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal projection",
+      "Meanings": [
+        "تصویر متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal series of functions",
+      "Meanings": [
+        "سری متعامد تابع ها"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal set",
+      "Meanings": [
+        "مجموعه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal similarity",
+      "Meanings": [
+        "تشابه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal system",
+      "Meanings": [
+        "دستگاه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal system of curves on a surface",
+      "Meanings": [
+        "دستگاه منحنی‌های متعامد روی یک سطح"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal system of functions",
+      "Meanings": [
+        "دستگاه توابع متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal to",
+      "Meanings": [
+        "عمود بر"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal trajectories",
+      "Meanings": [
+        "مسیر‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal trajectory",
+      "Meanings": [
+        "مسیر قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal transformation",
+      "Meanings": [
+        "تبدیل عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal transformation group",
+      "Meanings": [
+        "گروه تبدیل متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal trihedron",
+      "Meanings": [
+        "کنج سه قایمه",
+        "سه وجهی سه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal trijectories",
+      "Meanings": [
+        "مسیر‌های عمودی",
+        "مسیر‌های قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal vector",
+      "Meanings": [
+        "بردار متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal vectors",
+      "Meanings": [
+        "بردار‌های عمود بر هم",
+        "بردار‌های متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonality",
+      "Meanings": [
+        "تعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonality condition",
+      "Meanings": [
+        "شرط متعامد بودن"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonality relation",
+      "Meanings": [
+        "رابطه تعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonality relations",
+      "Meanings": [
+        "روابط تعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonalization",
+      "Meanings": [
+        "تعامد سازی",
+        "عمود سازی",
+        "متعامد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonalization process",
+      "Meanings": [
+        "فرایند عمودسازی",
+        "فرایند متعامد سازی",
+        "پروسه متعامد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonalization theorem",
+      "Meanings": [
+        "قضیه عمود سازی",
+        "قضیه متعامد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "orthographic",
+      "Meanings": [
+        "دارای خطوط عمودی",
+        "دارای زوایای قایمه",
+        "قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthographic projection",
+      "Meanings": [
+        "تصویر قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal",
+      "Meanings": [
+        "متعامد یکه",
+        "راست هنجار",
+        "متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal basis",
+      "Meanings": [
+        "پایه متعامد یکه"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal coordinates",
+      "Meanings": [
+        "مختصات یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal functions",
+      "Meanings": [
+        "تابع‌های یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal plane",
+      "Meanings": [
+        "صفحه مختصات قایم"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal set",
+      "Meanings": [
+        "مجموعه متعامد یکه"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal system",
+      "Meanings": [
+        "دستگها متعامد بهنجار",
+        "دستگاه متعامد یکه",
+        "دستگاه یکامتعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormal vectors",
+      "Meanings": [
+        "بردار‌های یکا متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormality",
+      "Meanings": [
+        "یکامتعامد بودن"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormalization",
+      "Meanings": [
+        "یکا متعامد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormalize",
+      "Meanings": [
+        "متعامد و یکه کردن",
+        "یکامتعامد سازی",
+        "متعامد سازی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "orthonormalized eigenfunction",
+      "Meanings": [
+        "ویژه تابع یکامتعامد شده"
+      ]
+    },
+    {
+      "EnglishWord": "orthotropic",
+      "Meanings": [
+        "دارای محور اصلی کمابیش قایم"
+      ]
+    },
+    {
+      "EnglishWord": "oscillate",
+      "Meanings": [
+        "نوسان کردن"
+      ]
+    },
+    {
+      "EnglishWord": "oscillate boundedly",
+      "Meanings": [
+        "با دامنه محدود نوسان کردن",
+        "دارای نوسان محدود بودن"
+      ]
+    },
+    {
+      "EnglishWord": "oscillate unboundedly",
+      "Meanings": [
+        "با دامنه نامحدود نوسان کردن",
+        "دارای نوسان نامحدود بودن"
+      ]
+    },
+    {
+      "EnglishWord": "oscillating",
+      "Meanings": [
+        "نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillating series",
+      "Meanings": [
+        "سری نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillation",
+      "Meanings": [
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "oscillation of a function",
+      "Meanings": [
+        "نوسان تابع"
+      ]
+    },
+    {
+      "EnglishWord": "oscillation of a function at a point",
+      "Meanings": [
+        "نوسان تابع در یک نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "oscillator",
+      "Meanings": [
+        "نوسانساز",
+        "نوسانگر"
+      ]
+    },
+    {
+      "EnglishWord": "oscillatory",
+      "Meanings": [
+        "نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillatory function",
+      "Meanings": [
+        "تابع نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillatory motion",
+      "Meanings": [
+        "حرکت نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscillatory phenomenon",
+      "Meanings": [
+        "پدیده نوسانی"
+      ]
+    },
+    {
+      "EnglishWord": "oscilliation",
+      "Meanings": [
+        "حرکت نوسانی",
+        "ارزش",
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "oscillograph",
+      "Meanings": [
+        "نوسان نگار"
+      ]
+    },
+    {
+      "EnglishWord": "oscilloscope",
+      "Meanings": [
+        "نوسان نما"
+      ]
+    },
+    {
+      "EnglishWord": "osculate",
+      "Meanings": [
+        "بوسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "osculating",
+      "Meanings": [
+        "بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculating circle",
+      "Meanings": [
+        "دایره بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculating parabola",
+      "Meanings": [
+        "سهمی بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculating plane",
+      "Meanings": [
+        "صفحه بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculating sphere",
+      "Meanings": [
+        "کره بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculating sphere of a space curve at a point",
+      "Meanings": [
+        "کره بوسان یک منحنی فضایی در یک نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "osculation",
+      "Meanings": [
+        "بوسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "osculation circle",
+      "Meanings": [
+        "دایره بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculation plane",
+      "Meanings": [
+        "صفحه بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculation point",
+      "Meanings": [
+        "نقطه بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculator",
+      "Meanings": [
+        "بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "osculatory",
+      "Meanings": [
+        "بوسان"
+      ]
+    },
+    {
+      "EnglishWord": "ostrogradski theorem",
+      "Meanings": [
+        "قضیه انتگرادسکی"
+      ]
+    },
+    {
+      "EnglishWord": "other",
+      "Meanings": [
+        "آخر",
+        "دیگر",
+        "سایر"
+      ]
+    },
+    {
+      "EnglishWord": "other than",
+      "Meanings": [
+        "به غیر از",
+        "غیر از",
+        "متفاوت با",
+        "مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "other than itself",
+      "Meanings": [
+        "غیر از خودش"
+      ]
+    },
+    {
+      "EnglishWord": "otherwise",
+      "Meanings": [
+        "روش دوم",
+        "روش دیگر",
+        "در غیر این صورت",
+        "خلاف آن"
+      ]
+    },
+    {
+      "EnglishWord": "ounce",
+      "Meanings": [
+        "اونس",
+        "واحد وزن انگلیسی معادل یک شانزدهم"
+      ]
+    },
+    {
+      "EnglishWord": "out",
+      "Meanings": [
+        "خارج",
+        "بیرون",
+        "از"
+      ]
+    },
+    {
+      "EnglishWord": "out of bowl tooling",
+      "Meanings": [
+        "ابزاربندی برون کاسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "out of phase",
+      "Meanings": [
+        "خارج از فاز"
+      ]
+    },
+    {
+      "EnglishWord": "out of stock",
+      "Meanings": [
+        "غیر موجود"
+      ]
+    },
+    {
+      "EnglishWord": "outcome",
+      "Meanings": [
+        "برآمد",
+        "پیشامد ساده",
+        "رویداد",
+        "پی آمد",
+        "نتجیه",
+        "حاصل"
+      ]
+    },
+    {
+      "EnglishWord": "outcomes favourable to events",
+      "Meanings": [
+        "نتایج مساعد بر حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "outcomes of trials",
+      "Meanings": [
+        "نتایج آزمایش ها"
+      ]
+    },
+    {
+      "EnglishWord": "outdegree",
+      "Meanings": [
+        "درجه خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer",
+      "Meanings": [
+        "خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer automorphism",
+      "Meanings": [
+        "خوددیسگی بیرونی",
+        "خودریختی برونی"
+      ]
+    },
+    {
+      "EnglishWord": "outer composition",
+      "Meanings": [
+        "ترکیب خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer content",
+      "Meanings": [
+        "محتوای خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer harmonic measure",
+      "Meanings": [
+        "اندازه همساز برونی"
+      ]
+    },
+    {
+      "EnglishWord": "outer jordan content",
+      "Meanings": [
+        "محتوای ژردان خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer measure",
+      "Meanings": [
+        "اندازه برونی",
+        "اندازه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer operation",
+      "Meanings": [
+        "عمل خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer product",
+      "Meanings": [
+        "حاصل ضرب خارجی",
+        "حاصل ضرب برداری"
+      ]
+    },
+    {
+      "EnglishWord": "outer product of two vectors",
+      "Meanings": [
+        "حاصل ضرب خارجی دو بردار",
+        "حاصل ضرب برداری دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "outer region",
+      "Meanings": [
+        "ناحیه خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outer sum",
+      "Meanings": [
+        "مجموع خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outflow",
+      "Meanings": [
+        "جریان"
+      ]
+    },
+    {
+      "EnglishWord": "outgoing",
+      "Meanings": [
+        "خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "outlet",
+      "Meanings": [
+        "دریچه خروجی",
+        "مجرای خروجی",
+        "خروجی",
+        "دررو"
+      ]
+    },
+    {
+      "EnglishWord": "outlier",
+      "Meanings": [
+        "دور افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "outline",
+      "Meanings": [
+        "طرح",
+        "توضیح دادن",
+        "گرداگرد",
+        "شرح دادن",
+        "طرح کردن",
+        "پیرامون",
+        "ریوس مطالب",
+        "زمینه",
+        "مرز"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "عدد خروجی",
+        "خروجی",
+        "بازده",
+        "ستاده",
+        "برونداد",
+        "محصول",
+        "گرفته شده",
+        "حاصل",
+        "توان خروجی",
+        "ظرفیت",
+        "صادره",
+        "نتیجه",
+        "به دست آمده",
+        "صادرات"
+      ]
+    },
+    {
+      "EnglishWord": "output bit",
+      "Meanings": [
+        "بیت خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output data",
+      "Meanings": [
+        "داده‌های خروجی",
+        "اطلاعات خروجی",
+        "داده خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output report",
+      "Meanings": [
+        "گزارش خروجی",
+        "گزارش خارج شده از سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "outside",
+      "Meanings": [
+        "بیرون",
+        "بیرونی",
+        "خارج",
+        "خارج از…",
+        "بیرون از"
+      ]
+    },
+    {
+      "EnglishWord": "outside caliper",
+      "Meanings": [
+        "پرگار خارج",
+        "پرگار خارجی",
+        "اندازه گیر خارجی",
+        "اندازه گیر قسمت خارجی",
+        "قطرسنج خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "outward",
+      "Meanings": [
+        "برونسو",
+        "خارجی",
+        "به طرف خارج",
+        "ظاهری",
+        "بیرونی",
+        "برونگرا"
+      ]
+    },
+    {
+      "EnglishWord": "outward vector",
+      "Meanings": [
+        "بردار برونگرا"
+      ]
+    },
+    {
+      "EnglishWord": "oval",
+      "Meanings": [
+        "خاگی",
+        "تخم مرغی",
+        "بادامی"
+      ]
+    },
+    {
+      "EnglishWord": "oval of cassini",
+      "Meanings": [
+        "مرغانه کاسینی"
+      ]
+    },
+    {
+      "EnglishWord": "ovally",
+      "Meanings": [
+        "به شکل تخم مرغ"
+      ]
+    },
+    {
+      "EnglishWord": "ovaloid",
+      "Meanings": [
+        "تخم مرغی"
+      ]
+    },
+    {
+      "EnglishWord": "ovals of cassini",
+      "Meanings": [
+        "منحنی تخم مرغی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "over",
+      "Meanings": [
+        "روی",
+        "در",
+        "بالا",
+        "بالایی",
+        "رویی",
+        "زیل",
+        "به پایان رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "over a",
+      "Meanings": [
+        "در a",
+        "روی a"
+      ]
+    },
+    {
+      "EnglishWord": "over a set a",
+      "Meanings": [
+        "روی مجموعه a"
+      ]
+    },
+    {
+      "EnglishWord": "over all",
+      "Meanings": [
+        "کل",
+        "سطح",
+        "همه"
+      ]
+    },
+    {
+      "EnglishWord": "over come",
+      "Meanings": [
+        "بر طرف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "over critical damping",
+      "Meanings": [
+        "میرایی فوق بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "over flow",
+      "Meanings": [
+        "سرریز"
+      ]
+    },
+    {
+      "EnglishWord": "over loading",
+      "Meanings": [
+        "سربار گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "over relaxation",
+      "Meanings": [
+        "فوق رهایی"
+      ]
+    },
+    {
+      "EnglishWord": "over ring",
+      "Meanings": [
+        "حلقه فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "over shoot",
+      "Meanings": [
+        "جهش"
+      ]
+    },
+    {
+      "EnglishWord": "over step",
+      "Meanings": [
+        "بر پله"
+      ]
+    },
+    {
+      "EnglishWord": "over stimate",
+      "Meanings": [
+        "کران بالا"
+      ]
+    },
+    {
+      "EnglishWord": "over which",
+      "Meanings": [
+        "که در آن"
+      ]
+    },
+    {
+      "EnglishWord": "over write",
+      "Meanings": [
+        "پاک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "overal control",
+      "Meanings": [
+        "کنترل سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "overall",
+      "Meanings": [
+        "روی هم",
+        "جامع",
+        "سرتاسر",
+        "کل",
+        "همه سطح کل"
+      ]
+    },
+    {
+      "EnglishWord": "overall development plan",
+      "Meanings": [
+        "برنامه کلی توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "overcritical damping",
+      "Meanings": [
+        "میرایی فوق بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "overdamped",
+      "Meanings": [
+        "فوق میرایی",
+        "میرایی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "overdamped oscillation",
+      "Meanings": [
+        "نوسان فوق میرا"
+      ]
+    },
+    {
+      "EnglishWord": "overdamping",
+      "Meanings": [
+        "میرایی شدید"
+      ]
+    },
+    {
+      "EnglishWord": "overdelivery",
+      "Meanings": [
+        "اضافه تحویل",
+        "تحویل بیش از اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "overdetermined system",
+      "Meanings": [
+        "دستگاه فرامعین"
+      ]
+    },
+    {
+      "EnglishWord": "overestimate",
+      "Meanings": [
+        "فزون برآورد",
+        "تخمین اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "overfield",
+      "Meanings": [
+        "زبرهیات"
+      ]
+    },
+    {
+      "EnglishWord": "overflow",
+      "Meanings": [
+        "تجاوز از حد",
+        "هزینه عمومی",
+        "سرریز",
+        "هزینه غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "overhaul",
+      "Meanings": [
+        "پیاده کردن دستگاه",
+        "تعویض دوره ای",
+        "تعمیر دوره ای",
+        "تعمیر کلی",
+        "امتحان کردن",
+        "تعمیر کردن",
+        "تعمیرات اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "سرانه"
+      ]
+    },
+    {
+      "EnglishWord": "overhead cost",
+      "Meanings": [
+        "هزینه بالاسری",
+        "هزینه سربار"
+      ]
+    },
+    {
+      "EnglishWord": "overhead tool block",
+      "Meanings": [
+        "قلمگیر بالاسری",
+        "کشوی ابزار بالاسر"
+      ]
+    },
+    {
+      "EnglishWord": "overheating",
+      "Meanings": [
+        "حرارت دادن بیش از حد"
+      ]
+    },
+    {
+      "EnglishWord": "overlap",
+      "Meanings": [
+        "تداخل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping",
+      "Meanings": [
+        "پوشاندن",
+        "رویهم ریخته",
+        "روی هم افتادگی",
+        "همپوشی",
+        "تداخل",
+        "همپوشانی",
+        "سررفتن"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping circles",
+      "Meanings": [
+        "دوایر متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping intervals",
+      "Meanings": [
+        "بازه‌های متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping loop",
+      "Meanings": [
+        "حلقه روی هم افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping network",
+      "Meanings": [
+        "شبکه همپوش"
+      ]
+    },
+    {
+      "EnglishWord": "overlapping sets",
+      "Meanings": [
+        "مجموعه‌های متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "overly",
+      "Meanings": [
+        "کاملا"
+      ]
+    },
+    {
+      "EnglishWord": "override",
+      "Meanings": [
+        "پاک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "overspread",
+      "Meanings": [
+        "پوشاندن",
+        "گسترده",
+        "سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "overthwart",
+      "Meanings": [
+        "به طور متقاطع",
+        "متقاطع",
+        "در عرض",
+        "عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "overtime",
+      "Meanings": [
+        "اضافه کاری",
+        "ساعت فوق العاده",
+        "کار اضافی",
+        "اضافه کار"
+      ]
+    },
+    {
+      "EnglishWord": "overtime premium",
+      "Meanings": [
+        "فوق العاده اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "ovoid",
+      "Meanings": [
+        "خاکوار"
+      ]
+    },
+    {
+      "EnglishWord": "owelty",
+      "Meanings": [
+        "برابری"
+      ]
+    }
+  ]
+}

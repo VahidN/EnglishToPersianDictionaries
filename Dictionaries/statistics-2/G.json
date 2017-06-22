@@ -1,0 +1,778 @@
+﻿{
+  "Group": "G",
+  "Entries": 126,
+  "Words": [
+    {
+      "EnglishWord": "gage  gauge",
+      "Meanings": [
+        "پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "gain ratio",
+      "Meanings": [
+        "نسبت برد"
+      ]
+    },
+    {
+      "EnglishWord": "gallup poll",
+      "Meanings": [
+        "نظرسنجی گالوپ"
+      ]
+    },
+    {
+      "EnglishWord": "galois field",
+      "Meanings": [
+        "هییت گالوا"
+      ]
+    },
+    {
+      "EnglishWord": "galton difference problem",
+      "Meanings": [
+        "مسیله تفاضل گالتون"
+      ]
+    },
+    {
+      "EnglishWord": "galton-watson process",
+      "Meanings": [
+        "فرایند گالتون",
+        "واتسون"
+      ]
+    },
+    {
+      "EnglishWord": "game theory",
+      "Meanings": [
+        "نظریه بازیها"
+      ]
+    },
+    {
+      "EnglishWord": "games of chance",
+      "Meanings": [
+        "بازیهای شانسی"
+      ]
+    },
+    {
+      "EnglishWord": "gamete",
+      "Meanings": [
+        "یاخته جنسی"
+      ]
+    },
+    {
+      "EnglishWord": "gamma distribution",
+      "Meanings": [
+        "توزیع گاما"
+      ]
+    },
+    {
+      "EnglishWord": "gamma function",
+      "Meanings": [
+        "تابع گاما"
+      ]
+    },
+    {
+      "EnglishWord": "gammaization",
+      "Meanings": [
+        "گاماسازی"
+      ]
+    },
+    {
+      "EnglishWord": "gapping",
+      "Meanings": [
+        "رخنه‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "gart's independence test statistic",
+      "Meanings": [
+        "آماره آزمون استقلال گارت"
+      ]
+    },
+    {
+      "EnglishWord": "gastwirth's estimator",
+      "Meanings": [
+        "برآوردگر گست‌ویرث"
+      ]
+    },
+    {
+      "EnglishWord": "gateaux derivative",
+      "Meanings": [
+        "مشتق گاتو"
+      ]
+    },
+    {
+      "EnglishWord": "gauge theory",
+      "Meanings": [
+        "نظریه پیمانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "gauge transformation",
+      "Meanings": [
+        "تبدیل پیمانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "gauss quadrature",
+      "Meanings": [
+        "مربع‌بندی گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "gauss theorem",
+      "Meanings": [
+        "قضیه گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-helmert model",
+      "Meanings": [
+        "مدل گاوس",
+        "هلمر"
+      ]
+    },
+    {
+      "EnglishWord": "gaussian distribution",
+      "Meanings": [
+        "توزیع گاوسی"
+      ]
+    },
+    {
+      "EnglishWord": "gaussian process",
+      "Meanings": [
+        "فرایند گاوسی"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-jordan elimination",
+      "Meanings": [
+        "حذف گاوس",
+        "ژوردان"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-markov theorem",
+      "Meanings": [
+        "قضیه گاوس",
+        "مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-newton iteration",
+      "Meanings": [
+        "تکرار گاوس",
+        "نیوتون"
+      ]
+    },
+    {
+      "EnglishWord": "gauss's inequality",
+      "Meanings": [
+        "نابرابری گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "gauss's measure of precision",
+      "Meanings": [
+        "معیار دقت گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-seidel iteration",
+      "Meanings": [
+        "تکرار گاوس",
+        "زایدل"
+      ]
+    },
+    {
+      "EnglishWord": "gauss-winckler inequality",
+      "Meanings": [
+        "نابرابری گاوس",
+        "وینکلر"
+      ]
+    },
+    {
+      "EnglishWord": "geary statistic",
+      "Meanings": [
+        "آماره گی‌یری"
+      ]
+    },
+    {
+      "EnglishWord": "geary test",
+      "Meanings": [
+        "آزمون گی‌یری"
+      ]
+    },
+    {
+      "EnglishWord": "geary's ratio",
+      "Meanings": [
+        "نسبت گی‌یری"
+      ]
+    },
+    {
+      "EnglishWord": "gegenbauer distribution",
+      "Meanings": [
+        "توزیع گه‌گن‌باویر"
+      ]
+    },
+    {
+      "EnglishWord": "gehan-gilbert test",
+      "Meanings": [
+        "آزمون جی‌هان",
+        "گیلبرت"
+      ]
+    },
+    {
+      "EnglishWord": "general balance",
+      "Meanings": [
+        "تعادل کلی"
+      ]
+    },
+    {
+      "EnglishWord": "general exponentional families",
+      "Meanings": [
+        "خانواده‌های نمایی عام"
+      ]
+    },
+    {
+      "EnglishWord": "general linear hypothesis",
+      "Meanings": [
+        "فرض خطی عام"
+      ]
+    },
+    {
+      "EnglishWord": "general linear model",
+      "Meanings": [
+        "مدل خطی عام"
+      ]
+    },
+    {
+      "EnglishWord": "generalized additive model",
+      "Meanings": [
+        "مدل جمعی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized canonical variable",
+      "Meanings": [
+        "متغیر کانونی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized confidence interval",
+      "Meanings": [
+        "بازه اطمینان تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized final prediction error criteria",
+      "Meanings": [
+        "ملاکهای تعمیم‌یافته خطای پیشگویی نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "generalized function",
+      "Meanings": [
+        "تابع تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized gamma convolution",
+      "Meanings": [
+        "پیچش گامای تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق‌هندسی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized inverse gaussian distribution",
+      "Meanings": [
+        "توزیع گاوسی وارون تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized inverses",
+      "Meanings": [
+        "وارونهای تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized likelihood ratio test",
+      "Meanings": [
+        "آزمون نسبت درستنمایی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized linear model",
+      "Meanings": [
+        "مدل خطی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized maximum likelihood estimation",
+      "Meanings": [
+        "برآورد ماکسیمم درستنمایی تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized method of moment estimation",
+      "Meanings": [
+        "روش برآورد کردن گشتاوری تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized moments test",
+      "Meanings": [
+        "آزمون گشتاورهای تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized multinomial distribution",
+      "Meanings": [
+        "توزیع چندجمله‌ای تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized p-value",
+      "Meanings": [
+        "پی",
+        "مقدار تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized sequential probability ratio test",
+      "Meanings": [
+        "آزمون نسبت احتمال دنباله‌ای تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generalized variance",
+      "Meanings": [
+        "واریانس تعمیم‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "generating function",
+      "Meanings": [
+        "تابع مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generation of random variables",
+      "Meanings": [
+        "تولید متغیرهای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generic uniform laws of large numbers",
+      "Meanings": [
+        "قانونهای اعداد بزرگ یکنواخت عام"
+      ]
+    },
+    {
+      "EnglishWord": "genetic linkage",
+      "Meanings": [
+        "اتصال ژنتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "genetics",
+      "Meanings": [
+        "ژنتیک"
+      ]
+    },
+    {
+      "EnglishWord": "geometric distribution",
+      "Meanings": [
+        "توزیع هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric mean",
+      "Meanings": [
+        "میانگین هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric moving average",
+      "Meanings": [
+        "میانگین متحرک هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric probability theory",
+      "Meanings": [
+        "نظریه احتمال هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric progression",
+      "Meanings": [
+        "تصاعد هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric sequence",
+      "Meanings": [
+        "دنباله هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometric series",
+      "Meanings": [
+        "سری هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "geometry",
+      "Meanings": [
+        "هندسه"
+      ]
+    },
+    {
+      "EnglishWord": "geostatistics",
+      "Meanings": [
+        "زمین آمار"
+      ]
+    },
+    {
+      "EnglishWord": "ghosh-pratt identity",
+      "Meanings": [
+        "اتحاد گوش",
+        "پرت"
+      ]
+    },
+    {
+      "EnglishWord": "gibbs sampler algorithm",
+      "Meanings": [
+        "الگوریتم نمونه‌گیر گیبز"
+      ]
+    },
+    {
+      "EnglishWord": "gibbs sampling",
+      "Meanings": [
+        "نمونه گیری گیبز"
+      ]
+    },
+    {
+      "EnglishWord": "gini index",
+      "Meanings": [
+        "شاخص جینی"
+      ]
+    },
+    {
+      "EnglishWord": "gini's mean difference",
+      "Meanings": [
+        "میانگین تفاضلی جینی"
+      ]
+    },
+    {
+      "EnglishWord": "gini-simpson index",
+      "Meanings": [
+        "شاخص جینی",
+        "سیمپ‌سون"
+      ]
+    },
+    {
+      "EnglishWord": "girdle data",
+      "Meanings": [
+        "داده‌‌های تسمه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "girdle distribution",
+      "Meanings": [
+        "توزیع تسمه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "glahn and hooper correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی گلان و هوپر"
+      ]
+    },
+    {
+      "EnglishWord": "glivenko-cantelli theorem",
+      "Meanings": [
+        "قضیه گلی‌ونکو",
+        "کانتلی"
+      ]
+    },
+    {
+      "EnglishWord": "global",
+      "Meanings": [
+        "فراموضعی"
+      ]
+    },
+    {
+      "EnglishWord": "goldberg causal voting model",
+      "Meanings": [
+        "مدل رای‌دهی علی گولدبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "gomory cut",
+      "Meanings": [
+        "برش گوموری"
+      ]
+    },
+    {
+      "EnglishWord": "gompertz distribution",
+      "Meanings": [
+        "توزیع گومپرتز"
+      ]
+    },
+    {
+      "EnglishWord": "goodness-of-fit distribution",
+      "Meanings": [
+        "توزیع نیکویی برازش"
+      ]
+    },
+    {
+      "EnglishWord": "goodness-of-fit test",
+      "Meanings": [
+        "آزمون نیکویی برازش"
+      ]
+    },
+    {
+      "EnglishWord": "graduation",
+      "Meanings": [
+        "هموارسازی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "graeco-latin squares",
+      "Meanings": [
+        "مربعهای یونانی",
+        "لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "gram-charlier series",
+      "Meanings": [
+        "سریهای گرام",
+        "شارلیه"
+      ]
+    },
+    {
+      "EnglishWord": "gramian determinant",
+      "Meanings": [
+        "دترمینان گرامی"
+      ]
+    },
+    {
+      "EnglishWord": "gram-schmidt orthogonalization",
+      "Meanings": [
+        "متعامدسازی گرام",
+        "اشمیت"
+      ]
+    },
+    {
+      "EnglishWord": "gram-schmidt process",
+      "Meanings": [
+        "فرایند گرام",
+        "اشمیت"
+      ]
+    },
+    {
+      "EnglishWord": "grand mean",
+      "Meanings": [
+        "میانگین کل"
+      ]
+    },
+    {
+      "EnglishWord": "graph",
+      "Meanings": [
+        "گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph design",
+      "Meanings": [
+        "طرح گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph theoretical cluster analysis",
+      "Meanings": [
+        "تحلیل خوشه‌ای از دیدگاه نظریه گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graph theory",
+      "Meanings": [
+        "نظریه گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graphical markov model",
+      "Meanings": [
+        "مدل مارکوف گرافی"
+      ]
+    },
+    {
+      "EnglishWord": "graphical representation of data",
+      "Meanings": [
+        "نمایش نموداری داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "graphical solution",
+      "Meanings": [
+        "حل نموداری"
+      ]
+    },
+    {
+      "EnglishWord": "graphoid",
+      "Meanings": [
+        "گراف‌وار"
+      ]
+    },
+    {
+      "EnglishWord": "gray and williams measure",
+      "Meanings": [
+        "معیار گری و ویلیامز"
+      ]
+    },
+    {
+      "EnglishWord": "greenwood variance estimator",
+      "Meanings": [
+        "برآوردگر واریانس گرین‌وود"
+      ]
+    },
+    {
+      "EnglishWord": "greenwood's statistic",
+      "Meanings": [
+        "آماره گرین‌وود"
+      ]
+    },
+    {
+      "EnglishWord": "grid sampling",
+      "Meanings": [
+        "نمونه گیری توری"
+      ]
+    },
+    {
+      "EnglishWord": "gringorten's formula",
+      "Meanings": [
+        "فرمول گرینگورتن"
+      ]
+    },
+    {
+      "EnglishWord": "gross error",
+      "Meanings": [
+        "خطای ناخالص"
+      ]
+    },
+    {
+      "EnglishWord": "gross national product deflator",
+      "Meanings": [
+        "ضریب تعدیل تولید ناخالص ملی"
+      ]
+    },
+    {
+      "EnglishWord": "group",
+      "Meanings": [
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "group family",
+      "Meanings": [
+        "خانواده گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "group rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "group sequential test",
+      "Meanings": [
+        "آزمون دنباله‌ای گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "group testing",
+      "Meanings": [
+        "آزمون گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "group theory",
+      "Meanings": [
+        "نظریه گروه"
+      ]
+    },
+    {
+      "EnglishWord": "group-divisible design",
+      "Meanings": [
+        "طرح گروهی‌تقسیم‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "grouped data",
+      "Meanings": [
+        "داده‌های گروه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "grouped data rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای داده‌های گروه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "grouped data survival analysis",
+      "Meanings": [
+        "تحلیل بقا در داده‌های گروه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "grouping normal means",
+      "Meanings": [
+        "گروه‌بندی میانگینهای نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "growth curve",
+      "Meanings": [
+        "خم رشد"
+      ]
+    },
+    {
+      "EnglishWord": "grubb's estimator",
+      "Meanings": [
+        "برآوردگر گراب"
+      ]
+    },
+    {
+      "EnglishWord": "guessing model",
+      "Meanings": [
+        "مدل حدس زدن"
+      ]
+    },
+    {
+      "EnglishWord": "gumbel distribution",
+      "Meanings": [
+        "توزیع گامبل"
+      ]
+    },
+    {
+      "EnglishWord": "guttman scaling",
+      "Meanings": [
+        "مقیاس‌بندی گاتمن"
+      ]
+    }
+  ]
+}

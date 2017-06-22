@@ -1,0 +1,339 @@
+﻿{
+  "Group": "P",
+  "Entries": 46,
+  "Words": [
+    {
+      "EnglishWord": "pag",
+      "Meanings": [
+        "Property page file"
+      ]
+    },
+    {
+      "EnglishWord": "paint",
+      "Meanings": [
+        "نقاشی"
+      ]
+    },
+    {
+      "EnglishWord": "paintpicture",
+      "Meanings": [
+        "چاپ تصویر",
+        "یکی از متددهای شیء پرینتر که با استفاده از آن می‌توان محتویات یک فایل گرافیکی را چاپ کرد. دستور کلی این متد بصورت زیر است",
+        "Printer.PaintPicture  picture"
+      ]
+    },
+    {
+      "EnglishWord": "password",
+      "Meanings": [
+        "اسم رمز",
+        "خصیصه اسم رمز در شیء ADODC"
+      ]
+    },
+    {
+      "EnglishWord": "paste",
+      "Meanings": [
+        "چسباندن",
+        "برای این کار گزینه Paste را از منوی Edit انتخاب کنید یا Ctrl+V را فشار دهید"
+      ]
+    },
+    {
+      "EnglishWord": "path",
+      "Meanings": [
+        "مسیر",
+        "خاصیتی که آدرس یک دایرکتوری را مشخص می‌کند و به طور پیش فرض هنگام به کار بردن این شیء بدون هیچ خصیصه ای منظور Path می‌باشد",
+        "یکی از خصیصه‌های App که مسیری که برنامه در آن قرار دارد را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "path name",
+      "Meanings": [
+        "نام مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "pathname",
+      "Meanings": [
+        "نام مسیر",
+        "یکی از متغیرهای دستور Shell که مسیر فایل را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "pgx",
+      "Meanings": [
+        "Binary property page file"
+      ]
+    },
+    {
+      "EnglishWord": "pi",
+      "Meanings": [
+        "عدد پی",
+        "عدد"
+      ]
+    },
+    {
+      "EnglishWord": "pic",
+      "Meanings": [
+        "Pic ture",
+        "عکس",
+        "این لغت برای نامگذاری عکسها Picture استفاده می‌شود به صورت picName"
+      ]
+    },
+    {
+      "EnglishWord": "picture",
+      "Meanings": [
+        "عکس",
+        "یکی از خصیصه‌های PictureBox و Image که عکس درون خود را مشخص می‌کند و به طور پیش فرض هنگام به کار بردن این شیء بدون هیچ خصیصه ای منظور Picture می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "picturebox",
+      "Meanings": [
+        "عکس",
+        "یکی از شیء‌های VB که شکل یک جعبه عکس را بر روی فرم ایجاد می‌کند و تصاویر گرافیکی را نشان می‌دهد و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "pixel",
+      "Meanings": [
+        "پیکسل",
+        "نقطه",
+        "سلول تصویری",
+        "واحد کوچک تصویری به اندازه یک نقطه که با قرار گرفتن مجموع زیادی از آنها در کنار هم یک عکس یا صفحه تصویری تشکیل می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "planet source code",
+      "Meanings": [
+        "سایتی دارای سورس کدهای ویژوال بیسیک"
+      ]
+    },
+    {
+      "EnglishWord": "play",
+      "Meanings": [
+        "حرکت کردن",
+        "یکی از متددهای Animation Control برای حرکت و شروع فیلم",
+        "یکی از متددهای Microsoft Agent برای انجام یک انیمیشن",
+        "Agent.Play animationname",
+        "animationname نوع انیمیشن است. برای دیدن انواع این خصیصه به MSDN مراجعه کنید. عبارت Microsoft Agent"
+      ]
+    },
+    {
+      "EnglishWord": "pnl",
+      "Meanings": [
+        "D P a n e l"
+      ]
+    },
+    {
+      "EnglishWord": "point",
+      "Meanings": [
+        "نقطه",
+        "مقیاسی که 72 قسمت آن برابر یک اینچ است"
+      ]
+    },
+    {
+      "EnglishWord": "popupmenu",
+      "Meanings": [
+        "منوهای جهنده و حساس",
+        "دستوری که منویی را نمایش می‌دهد",
+        "popupmenu Mnu"
+      ]
+    },
+    {
+      "EnglishWord": "port",
+      "Meanings": [
+        "پورت"
+      ]
+    },
+    {
+      "EnglishWord": "portopen",
+      "Meanings": [
+        "متددی از Communications Control که مشخص می‌کند پورت ارتباط برقرار است یا نه"
+      ]
+    },
+    {
+      "EnglishWord": "position",
+      "Meanings": [
+        "محل قرارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "prg",
+      "Meanings": [
+        "Pr o g ress",
+        "پیشرفت کننده",
+        "این لغت برای نامگذاری نوارهای حرکت کننده ProgressBar استفاده می‌شود به صورت PrgName"
+      ]
+    },
+    {
+      "EnglishWord": "print",
+      "Meanings": [
+        "چاپ کردن",
+        "فرمانی که متن بعد از خود را بر روی فرم چاپ می‌کند",
+        "Print Text",
+        "اگر پس از یک دستور Print",
+        "دستور Print دیگری را صادر کنیم متن روی خط بعدی چاپ خواهد شد. اگر بخواهیم متن بلافاصله بعد از متن اول چاپ شود باید بعد از دستور Print اول از علامت; استفاده کنیم",
+        "یکی از متددهای شیء پرینتر برای چاپ متن",
+        "Printer.Print Text"
+      ]
+    },
+    {
+      "EnglishWord": "printer",
+      "Meanings": [
+        "چاپ کننده",
+        "شیءیی جهت چاپ متن",
+        "برای چاپ متن توسط شیی پرینتر ابتدا خواص CurrentX و CurrentY که محل قرار گرفتن کرسر می‌باشد را تنظیم و سپس با استفاده از متد Print متن مورد نظر را چاپ کنید و در پایان با استفاده از متد EndDoc صفحه چاپی را از پرینتر بیرون دهید",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "printquality",
+      "Meanings": [
+        "کیفیت چاپ",
+        "یکی از متددهای شیء پرینتر که کیفیت چاپ را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "private",
+      "Meanings": [
+        "خصوصی",
+        "دستورالعملی برای تعریف متغیرها و… محدود در فرم"
+      ]
+    },
+    {
+      "EnglishWord": "private const",
+      "Meanings": [
+        "دستوری برای تعریف متغیرهای ثابت در فرم"
+      ]
+    },
+    {
+      "EnglishWord": "private declare",
+      "Meanings": [
+        "دستوری برای تعریف API در فرمها",
+        "Private Declare Sub name Lib \"\" libname",
+        "یا",
+        "Private Declare Function name Lib \"\" libname",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "private sub",
+      "Meanings": [
+        "شروع دستور"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "طرز کار",
+        "نامهایی که ابتدای یک دستور می‌آیند مانند Sub"
+      ]
+    },
+    {
+      "EnglishWord": "progressbar",
+      "Meanings": [
+        "نوار حرکت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "project explorer window",
+      "Meanings": [
+        "پنجره ای که در آن لیستی از فرمها و مدولها و… قرار دارد و در حالت پیش فرض در سمت راست صفحه قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "project properties",
+      "Meanings": [
+        "یکی از گزینه‌های منوی Project که به تنظیمات برنامه می‌پردازد"
+      ]
+    },
+    {
+      "EnglishWord": "properties",
+      "Meanings": [
+        "مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "properties window",
+      "Meanings": [
+        "پنجره مشخصات",
+        "پنجره ای که در حالت پیش فرض در سمت راست قسمت وسط صفحه قرار دارد و شامل خصیصه‌های هر شیء می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "property get",
+      "Meanings": [
+        "دستوری برای اعلان یک کد",
+        "Public  Private  Friend ] Property Get name",
+        "End Property"
+      ]
+    },
+    {
+      "EnglishWord": "property let",
+      "Meanings": [
+        "دستوری برای اعلان یک کد",
+        "Property Let name  value",
+        "End Property"
+      ]
+    },
+    {
+      "EnglishWord": "property page",
+      "Meanings": [
+        "فایلهایی که مشخصات فرمها را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "property set",
+      "Meanings": [
+        "دستوری برای اعلان یک کد",
+        "Property Set name  reference",
+        "End Property"
+      ]
+    },
+    {
+      "EnglishWord": "propertybag",
+      "Meanings": [
+        "شیءای که متن را ذخیره یا باز می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "pset",
+      "Meanings": [
+        "دستوری برای چاپ نقطه",
+        "PSet x"
+      ]
+    },
+    {
+      "EnglishWord": "public",
+      "Meanings": [
+        "عمومی",
+        "دستورالعملی برای تعریف متغیرها و… در کل برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "public const",
+      "Meanings": [
+        "دستوری برای تعریف متغیرهای ثابت در پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "public declare",
+      "Meanings": [
+        "دستوری برای تعریف API در مدولها",
+        "Public Declare Sub name Lib \"\" libname",
+        "Public Declare Function name Lib \"\" libname",
+        "رجوع به"
+      ]
+    }
+  ]
+}

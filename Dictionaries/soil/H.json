@@ -1,0 +1,548 @@
+﻿{
+  "Group": "H",
+  "Entries": 90,
+  "Words": [
+    {
+      "EnglishWord": "h",
+      "Meanings": [
+        "اچ"
+      ]
+    },
+    {
+      "EnglishWord": "habitat",
+      "Meanings": [
+        "زیستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "halan",
+      "Meanings": [
+        "هالان"
+      ]
+    },
+    {
+      "EnglishWord": "half bog soil",
+      "Meanings": [
+        "خاک نیم مردابی"
+      ]
+    },
+    {
+      "EnglishWord": "halloysite",
+      "Meanings": [
+        "هالویی سیت"
+      ]
+    },
+    {
+      "EnglishWord": "halomorphic soil",
+      "Meanings": [
+        "خاک شور"
+      ]
+    },
+    {
+      "EnglishWord": "halophytic vegetation",
+      "Meanings": [
+        "گیاه نمک دوست"
+      ]
+    },
+    {
+      "EnglishWord": "hard setting soil",
+      "Meanings": [
+        "خاک سخت شونده"
+      ]
+    },
+    {
+      "EnglishWord": "hardness",
+      "Meanings": [
+        "سختی"
+      ]
+    },
+    {
+      "EnglishWord": "hardpan",
+      "Meanings": [
+        "سخت کفه"
+      ]
+    },
+    {
+      "EnglishWord": "hardsetting",
+      "Meanings": [
+        "سخت لایه ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "harrowing",
+      "Meanings": [
+        "هرس زنی"
+      ]
+    },
+    {
+      "EnglishWord": "hazardous wastes",
+      "Meanings": [
+        "ضایعات خطرناک"
+      ]
+    },
+    {
+      "EnglishWord": "headuct",
+      "Meanings": [
+        "آبشارک"
+      ]
+    },
+    {
+      "EnglishWord": "heaped",
+      "Meanings": [
+        "هیپد"
+      ]
+    },
+    {
+      "EnglishWord": "heat capacity",
+      "Meanings": [
+        "گنجایش گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat flux density",
+      "Meanings": [
+        "شدت شار گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat of immersion",
+      "Meanings": [
+        "گرمای غوطه‌وری"
+      ]
+    },
+    {
+      "EnglishWord": "heavy metals",
+      "Meanings": [
+        "فلزات سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "heavy soil",
+      "Meanings": [
+        "خاک سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "hematite",
+      "Meanings": [
+        "هماتیت"
+      ]
+    },
+    {
+      "EnglishWord": "hemic material",
+      "Meanings": [
+        "ماده همیک"
+      ]
+    },
+    {
+      "EnglishWord": "hemists",
+      "Meanings": [
+        "همیستها"
+      ]
+    },
+    {
+      "EnglishWord": "heterogenous",
+      "Meanings": [
+        "ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "heterotroph",
+      "Meanings": [
+        "ناخودپرور"
+      ]
+    },
+    {
+      "EnglishWord": "heterotrophic nitrification",
+      "Meanings": [
+        "نیترات سازی ناخود پروری"
+      ]
+    },
+    {
+      "EnglishWord": "hidden injury",
+      "Meanings": [
+        "آسیب پنهانی"
+      ]
+    },
+    {
+      "EnglishWord": "hill",
+      "Meanings": [
+        "تپه",
+        "خاک‌دهی"
+      ]
+    },
+    {
+      "EnglishWord": "hilly",
+      "Meanings": [
+        "پستی وبلندی خیلی زیادتپه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "histic epipedon",
+      "Meanings": [
+        "اپی پدون هیستیک"
+      ]
+    },
+    {
+      "EnglishWord": "histon",
+      "Meanings": [
+        "هیستون"
+      ]
+    },
+    {
+      "EnglishWord": "histonic",
+      "Meanings": [
+        "هیستونیک"
+      ]
+    },
+    {
+      "EnglishWord": "histosols",
+      "Meanings": [
+        "هیستوسولها"
+      ]
+    },
+    {
+      "EnglishWord": "hoe",
+      "Meanings": [
+        "وجین"
+      ]
+    },
+    {
+      "EnglishWord": "holozoic",
+      "Meanings": [
+        "بلعنده"
+      ]
+    },
+    {
+      "EnglishWord": "homogenous",
+      "Meanings": [
+        "همگن"
+      ]
+    },
+    {
+      "EnglishWord": "honeycomb frost",
+      "Meanings": [
+        "یخ‌زدگی کندوی"
+      ]
+    },
+    {
+      "EnglishWord": "horizon",
+      "Meanings": [
+        "افق"
+      ]
+    },
+    {
+      "EnglishWord": "host",
+      "Meanings": [
+        "میزبان"
+      ]
+    },
+    {
+      "EnglishWord": "hue",
+      "Meanings": [
+        "هیو"
+      ]
+    },
+    {
+      "EnglishWord": "human-induced salinization",
+      "Meanings": [
+        "شوری انسان ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "humic acid",
+      "Meanings": [
+        "هومیک اسید"
+      ]
+    },
+    {
+      "EnglishWord": "humic gley soil",
+      "Meanings": [
+        "خاک هومیک گلی"
+      ]
+    },
+    {
+      "EnglishWord": "humic layer",
+      "Meanings": [
+        "لایه هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humic mulch",
+      "Meanings": [
+        "خاکپوش هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humic substances",
+      "Meanings": [
+        "ترکیبات هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humicol",
+      "Meanings": [
+        "کلویید هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humification",
+      "Meanings": [
+        "هوموسی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "humin",
+      "Meanings": [
+        "هومین"
+      ]
+    },
+    {
+      "EnglishWord": "humiskel",
+      "Meanings": [
+        "اسکلت هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humods",
+      "Meanings": [
+        "هیومادها"
+      ]
+    },
+    {
+      "EnglishWord": "humox",
+      "Meanings": [
+        "هوماکس"
+      ]
+    },
+    {
+      "EnglishWord": "humults",
+      "Meanings": [
+        "هومالتها"
+      ]
+    },
+    {
+      "EnglishWord": "humus",
+      "Meanings": [
+        "هوموس"
+      ]
+    },
+    {
+      "EnglishWord": "humus form",
+      "Meanings": [
+        "هوموسی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "humus layer",
+      "Meanings": [
+        "لایه هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "humus skeleton",
+      "Meanings": [
+        "اسکلت هوموسی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrated lime",
+      "Meanings": [
+        "آهک آبدیده"
+      ]
+    },
+    {
+      "EnglishWord": "hydration",
+      "Meanings": [
+        "آبگیری"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic conductivity",
+      "Meanings": [
+        "هدایت هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic gradient",
+      "Meanings": [
+        "شیب هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic head",
+      "Meanings": [
+        "بار هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydric layer",
+      "Meanings": [
+        "لایه پرنم"
+      ]
+    },
+    {
+      "EnglishWord": "hydric soil",
+      "Meanings": [
+        "خاک پرنم"
+      ]
+    },
+    {
+      "EnglishWord": "hydrocarbons",
+      "Meanings": [
+        "هدروکربنها"
+      ]
+    },
+    {
+      "EnglishWord": "hydrodynamic dispersion",
+      "Meanings": [
+        "پخشیدگی هیدرودینامیکی",
+        "پراکندگی هیدرودینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrodynamic dispersion coefficient",
+      "Meanings": [
+        "ضریب پراکندگی هیدرودینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrogen bond",
+      "Meanings": [
+        "پیوند هیدروژنی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrogenic soil",
+      "Meanings": [
+        "خاک آب پیدایشی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrologic cycle",
+      "Meanings": [
+        "چرخه آب"
+      ]
+    },
+    {
+      "EnglishWord": "hydrology",
+      "Meanings": [
+        "آب شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrolysis",
+      "Meanings": [
+        "هیدرولیز"
+      ]
+    },
+    {
+      "EnglishWord": "hydromorphic soils",
+      "Meanings": [
+        "خاکهای هیدرومورف"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophilic",
+      "Meanings": [
+        "آبدوست"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophobic",
+      "Meanings": [
+        "آب گریز"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophobic soils",
+      "Meanings": [
+        "خاکهای آب گریز"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophyte",
+      "Meanings": [
+        "آب دوست"
+      ]
+    },
+    {
+      "EnglishWord": "hydroseeding",
+      "Meanings": [
+        "بذرکاری دوغابی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrous mica",
+      "Meanings": [
+        "میکای آبدار"
+      ]
+    },
+    {
+      "EnglishWord": "hydroxide",
+      "Meanings": [
+        "هیدروکسید"
+      ]
+    },
+    {
+      "EnglishWord": "hydroxy-interlayered",
+      "Meanings": [
+        "هیدروکسی میان لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "hygroscopic coefficient",
+      "Meanings": [
+        "ضریب هیگروسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "hygroscopic water",
+      "Meanings": [
+        "آب هیگروسکپی"
+      ]
+    },
+    {
+      "EnglishWord": "hymatomelanic acid",
+      "Meanings": [
+        "اسیدهماتوملانیک"
+      ]
+    },
+    {
+      "EnglishWord": "hyperaccumlator",
+      "Meanings": [
+        "بیش انباشته گر"
+      ]
+    },
+    {
+      "EnglishWord": "hyperthermic",
+      "Meanings": [
+        "هیپرترمیک"
+      ]
+    },
+    {
+      "EnglishWord": "hypha",
+      "Meanings": [
+        "ریسه"
+      ]
+    },
+    {
+      "EnglishWord": "hypo-coatings",
+      "Meanings": [
+        "پوسته زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "hypoxic",
+      "Meanings": [
+        "کم اکسیژنی"
+      ]
+    },
+    {
+      "EnglishWord": "hystersis",
+      "Meanings": [
+        "هیسترسیس"
+      ]
+    }
+  ]
+}

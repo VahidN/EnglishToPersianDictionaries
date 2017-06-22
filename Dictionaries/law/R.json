@@ -1,0 +1,2434 @@
+﻿{
+  "Group": "R",
+  "Entries": 317,
+  "Words": [
+    {
+      "EnglishWord": "raise an action",
+      "Meanings": [
+        "طرح کردن دعوی",
+        "اقامه کردن دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نرخ گذاشتن",
+        "ارزیابی کردن",
+        "درجه بندی کردن",
+        "طبقه بندی کردن",
+        "نرخ",
+        "میزان",
+        "تعرفه",
+        "عوارض"
+      ]
+    },
+    {
+      "EnglishWord": "rate of exchange    var. exchange rate",
+      "Meanings": [
+        "نرخ تبدیل ارز",
+        "نرخ تسعیر"
+      ]
+    },
+    {
+      "EnglishWord": "rate of interest    var. interest rate",
+      "Meanings": [
+        "نرخ بهره"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return",
+      "Meanings": [
+        "نرخ بازده"
+      ]
+    },
+    {
+      "EnglishWord": "ratify    n. ratification",
+      "Meanings": [
+        "تایید کردن",
+        "تصویب کردن",
+        "تصدیق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "ratio decidendi    lat.",
+      "Meanings": [
+        "دلیل تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "ratio legis    lat.",
+      "Meanings": [
+        "دلیل وضع قانون یا قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "re    lat.     var. in re",
+      "Meanings": [
+        "راجع به",
+        "مربوط به",
+        "در موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "reach a decision",
+      "Meanings": [
+        "تصمیم گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "reach an issue",
+      "Meanings": [
+        "به موضوعی رسیدگی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "real",
+      "Meanings": [
+        "واقعی",
+        "حقیقی",
+        "مربوط به مال یا ملک"
+      ]
+    },
+    {
+      "EnglishWord": "real action",
+      "Meanings": [
+        "دعوای مالکیت مستغلات"
+      ]
+    },
+    {
+      "EnglishWord": "real chattels    see also  chattel real fixtures",
+      "Meanings": [
+        "هر گونه علایق و منافع در املاک و مستغلات",
+        "به استثنای مالکیت عین"
+      ]
+    },
+    {
+      "EnglishWord": "real estate    see also  real property",
+      "Meanings": [
+        "مستغلات",
+        "اموال غیر منقول",
+        "ملک"
+      ]
+    },
+    {
+      "EnglishWord": "real party in interest",
+      "Meanings": [
+        "ذینفع واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real property    see also  real estate",
+      "Meanings": [
+        "مستغلات",
+        "اموال غیر منقول",
+        "ملک"
+      ]
+    },
+    {
+      "EnglishWord": "real right    see also  jus ad rem jus in re",
+      "Meanings": [
+        "حق عینی"
+      ]
+    },
+    {
+      "EnglishWord": "realization concept",
+      "Meanings": [
+        "سیستم نقدی در حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "realize    n. realization",
+      "Meanings": [
+        "تبدیل کردن به پول نقد",
+        "سود بردن از سرمایه گذاری",
+        "فروش رفتن به مبلغ معین",
+        "جامه عمل پوشاندن",
+        "به دست آوردن",
+        "دریافتن"
+      ]
+    },
+    {
+      "EnglishWord": "realize profit",
+      "Meanings": [
+        "سود واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "realtor",
+      "Meanings": [
+        "دلال معاملات املاک"
+      ]
+    },
+    {
+      "EnglishWord": "realty",
+      "Meanings": [
+        "مستغلات",
+        "اموال غیر منقول",
+        "ملک"
+      ]
+    },
+    {
+      "EnglishWord": "reason",
+      "Meanings": [
+        "استدلال کردن",
+        "استنتاج کردن",
+        "دلیل",
+        "شعور",
+        "عقل"
+      ]
+    },
+    {
+      "EnglishWord": "reason for award",
+      "Meanings": [
+        "دلایل حکم",
+        "اسباب موجه حکم"
+      ]
+    },
+    {
+      "EnglishWord": "reason wanting in",
+      "Meanings": [
+        "سفیه",
+        "ناقص العقل"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable",
+      "Meanings": [
+        "معقول",
+        "منطقی",
+        "عقلایی"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable and probable cause    see also  probable cause sufficient cause",
+      "Meanings": [
+        "علت متعارف و محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "reasoning",
+      "Meanings": [
+        "استدلال",
+        "استنتاج",
+        "استنباط"
+      ]
+    },
+    {
+      "EnglishWord": "reassign    n. reassignment",
+      "Meanings": [
+        "مجددا ارجاع کردن",
+        "به ماموریت جدید اعزام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rebate",
+      "Meanings": [
+        "تخفیف دادن",
+        "برگرداندن مقداری از بهای پرداختی",
+        "تخفیف",
+        "کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "rebus sic stantibus    lat.",
+      "Meanings": [
+        "در این اوضاع و احوال",
+        "در وضع حاضر شرط ضمنی در هر عهدنامه ای دایر بر اینکه عهدنامه تا موقعی معتبر است که اوضاع و احوال و شرایط موجود در زمان انعقاد آن",
+        "تغییر اساسی نکند"
+      ]
+    },
+    {
+      "EnglishWord": "rebut",
+      "Meanings": [
+        "رد کردن",
+        "مخالفت کردن",
+        "اعتراض کردن",
+        "تکذیب کردن",
+        "جواب یا لایحه متقابل در رد ادعای خواهان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "rebuttable presumption    see also  inconclusive presumption",
+      "Meanings": [
+        "اماره قابل رد",
+        "اماره غیر قاطع"
+      ]
+    },
+    {
+      "EnglishWord": "rebuttal",
+      "Meanings": [
+        "رد تکذیب",
+        "تکذیب ادعای خواهان",
+        "جواب یا لایحه متقابل در رد ادعای خواهان",
+        "معارض"
+      ]
+    },
+    {
+      "EnglishWord": "rebuttal evidence",
+      "Meanings": [
+        "ادله معارض"
+      ]
+    },
+    {
+      "EnglishWord": "rebuttal witness",
+      "Meanings": [
+        "شاهد معارض"
+      ]
+    },
+    {
+      "EnglishWord": "rebutter",
+      "Meanings": [
+        "پاسخ خوانده به جوابیه دوم خواهان"
+      ]
+    },
+    {
+      "EnglishWord": "recall",
+      "Meanings": [
+        "احضار کردن",
+        "فراخواندن",
+        "به خاطر آوردن",
+        "یادآوری کردن",
+        "پس گرفتن",
+        "معزول کردن از طریق مراجعه به آراء عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "recall a judgment    see also  reverse a judgment",
+      "Meanings": [
+        "باطل یا لغو یا نقص کردن حکم"
+      ]
+    },
+    {
+      "EnglishWord": "recant    n. recantation",
+      "Meanings": [
+        "اظهارات خود را تکذیب کردن یا رسما پس گرفتن",
+        "انکار کردن",
+        "ترک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "receipt",
+      "Meanings": [
+        "رسید",
+        "وصول",
+        "دریافت",
+        "اخذ"
+      ]
+    },
+    {
+      "EnglishWord": "receivable    s     see also  account receivable",
+      "Meanings": [
+        "دریافتنی",
+        "قابل وصول",
+        "قابل قبول",
+        "مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "receive",
+      "Meanings": [
+        "دریافت کردن",
+        "وصول کردن",
+        "پذیرفتن",
+        "خریدن یا نگاهداشتن مال مسروقه"
+      ]
+    },
+    {
+      "EnglishWord": "receiver",
+      "Meanings": [
+        "امین منصوب دادگاه",
+        "مدیر تصفیه",
+        "خریدار مال مسروقه",
+        "خزانه دار",
+        "گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "receivership",
+      "Meanings": [
+        "وضعیت شخص یا شخص ورشکسته ای که برایش مدیر تصفیه تعیین شده",
+        "جریان تعیین مدیر تصفیه"
+      ]
+    },
+    {
+      "EnglishWord": "receiving order    br.     see also  petition in bankruptcy bankruptcy petition",
+      "Meanings": [
+        "تقاضا یا اعلام ورشکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "recess",
+      "Meanings": [
+        "موقتا تعطیل",
+        "تنفس دادن",
+        "تعطیل موقت",
+        "فترت",
+        "تنفس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal",
+      "Meanings": [
+        "متقابل",
+        "معوض",
+        "دوجانبه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal contract    see also  bilateral contract synallagmatic contract",
+      "Meanings": [
+        "عقد معاوضی عقد ملزم طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocity",
+      "Meanings": [
+        "تقابل",
+        "معامله به مثل امتیازاتی که دو دولت متقابلا برای اتباع یکدیگر قایل می‌شوند",
+        "عمل متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "recital    s",
+      "Meanings": [
+        "مطالب مقدماتی سند یا لایحه",
+        "تعریف یا نقل موضوع سند در آغاز آن",
+        "تصدیق رسمیت",
+        "صحت یا اصالت",
+        "اعتراف",
+        "قدردانی"
+      ]
+    },
+    {
+      "EnglishWord": "recognition",
+      "Meanings": [
+        "شناسایی رسمی",
+        "تصدیق رسمیت",
+        "صحت یا اصالت",
+        "اعتراف",
+        "قدردانی"
+      ]
+    },
+    {
+      "EnglishWord": "recognizance",
+      "Meanings": [
+        "التزام نامه",
+        "تعهد نامه",
+        "وجه الضمان",
+        "وجه التزام"
+      ]
+    },
+    {
+      "EnglishWord": "recognizance release on own",
+      "Meanings": [
+        "آزاد کردن به قید ضمانت یا التزام شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "recognize",
+      "Meanings": [
+        "به رسمیت شناختن",
+        "معتبر ساختن",
+        "تشخیص دادن",
+        "تصدیق کردن",
+        "اعتراف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reconcile    n. reconciliation",
+      "Meanings": [
+        "تلفیق کردن",
+        "سازش دادن",
+        "هم آهنگ کردن",
+        "حل یا رفع کردن اختلاف",
+        "آشتی دادن"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation of accounts",
+      "Meanings": [
+        "تطبیق حسابها",
+        "رفع اختلاف از حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "reconduction",
+      "Meanings": [
+        "تجدید اجاره",
+        "تغییر محل سکونت"
+      ]
+    },
+    {
+      "EnglishWord": "reconsider    n. reconsideration",
+      "Meanings": [
+        "تجدید نظر کردن",
+        "رسیدگی مجدد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reconstruction",
+      "Meanings": [
+        "بازسازی",
+        "تجدید سازمان شرکت یا موسسه",
+        "اصلاحات سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "record",
+      "Meanings": [
+        "ثبت کردن",
+        "ضبط کردن",
+        "وارد دفتر کردن",
+        "ثبت",
+        "سابقه",
+        "پیشینه",
+        "پرونده",
+        "مدارک"
+      ]
+    },
+    {
+      "EnglishWord": "record of",
+      "Meanings": [
+        "ثبت شده",
+        "مستند"
+      ]
+    },
+    {
+      "EnglishWord": "record of the proceedings",
+      "Meanings": [
+        "سوابق رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "recorder",
+      "Meanings": [
+        "قاضی دادگاه صلح",
+        "مسوول ثبت اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "recoup    var. recoupe     n. recoupment     see also  counterclaim cross action cross-claim offset set-off",
+      "Meanings": [
+        "کسر کردن",
+        "نگاه داشتن یا کسر کردن بخشی از بدهی توسط بدهکار",
+        "جبران کردن",
+        "تلافی کردن",
+        "تهاتر کردن",
+        "تهاتر ادعا"
+      ]
+    },
+    {
+      "EnglishWord": "recourse",
+      "Meanings": [
+        "رجوع",
+        "مراجعه",
+        "توسل",
+        "حق رجوع به ظهر نویس یا ضامن"
+      ]
+    },
+    {
+      "EnglishWord": "recourse to seek    to arbitration / courts",
+      "Meanings": [
+        "متوسل شدن یا رجوع کردن به داوری یا دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "recourse with",
+      "Meanings": [
+        "با حق مراجعه"
+      ]
+    },
+    {
+      "EnglishWord": "recourse without    see also  sans recours",
+      "Meanings": [
+        "بدون حق مراجعه در مورد عدم پرداخت سفته یا برات"
+      ]
+    },
+    {
+      "EnglishWord": "recover",
+      "Meanings": [
+        "دریافت کردن خسارت",
+        "حاکم شناخته شدن",
+        "وصول کردن",
+        "جبران کردن",
+        "اعاده تصرف کردن",
+        "پس گرفتن",
+        "از نو به دست آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "recoverable",
+      "Meanings": [
+        "قابل وصول",
+        "قابل جبران",
+        "قابل استرداد"
+      ]
+    },
+    {
+      "EnglishWord": "recovery",
+      "Meanings": [
+        "جبران",
+        "جبران خسارت",
+        "دریافت خسارت",
+        "مبلغ حکم",
+        "اعاده تصرف",
+        "وصول",
+        "استرداد"
+      ]
+    },
+    {
+      "EnglishWord": "recovery action",
+      "Meanings": [
+        "دعوای خسارت",
+        "دعوای استرداد مال"
+      ]
+    },
+    {
+      "EnglishWord": "recovery to seek",
+      "Meanings": [
+        "مطالبه کردن خسارت"
+      ]
+    },
+    {
+      "EnglishWord": "rectify    n. rectification     see also  correct reform",
+      "Meanings": [
+        "اصلاح کردن",
+        "تصحیح کردن",
+        "ترمیم کردن",
+        "رفع کردن اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "recurring costs    var. recurrent costs     see also  avoidable costs direct costs prime costs variable costs",
+      "Meanings": [
+        "هزینه‌های معتبر",
+        "هزینه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "recusable obligations",
+      "Meanings": [
+        "تعهدات ناشی از اراده متعاملین"
+      ]
+    },
+    {
+      "EnglishWord": "recusatio judicis    lat.",
+      "Meanings": [
+        "جرح قاضی",
+        "ایراد به صلاحیت قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "recusation    var. recusal",
+      "Meanings": [
+        "جرح قاضی",
+        "جرح عضو هیات منصفه",
+        "سلب صلاحیت قاضی از خود به دلیل عدم بی طرفی یا ذینفع بودن"
+      ]
+    },
+    {
+      "EnglishWord": "redeem    n. redemption     see also  equity of redemption",
+      "Meanings": [
+        "باز خرید کردن",
+        "از رهن درآوردن",
+        "فک رهن کردن",
+        "مستهلک کردن وام",
+        "فروش سهام و اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "redeemable bond    see also  callable bonds",
+      "Meanings": [
+        "اوراق قرضه قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "redemption equity of    see also  redeem",
+      "Meanings": [
+        "حق فک رهن"
+      ]
+    },
+    {
+      "EnglishWord": "redemption of collateral",
+      "Meanings": [
+        "آزاد کردن وثیقه",
+        "فک رهن"
+      ]
+    },
+    {
+      "EnglishWord": "redhibition",
+      "Meanings": [
+        "خیار عیب"
+      ]
+    },
+    {
+      "EnglishWord": "redhibitory action",
+      "Meanings": [
+        "دعوای خیار عیب"
+      ]
+    },
+    {
+      "EnglishWord": "redress",
+      "Meanings": [
+        "جبران کردن",
+        "اصلاح کردن",
+        "ترمیم کردن",
+        "تصحیح کردن",
+        "غرامت پرداختن",
+        "جبران",
+        "غرامت"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy payment    br.     see also  severance pay",
+      "Meanings": [
+        "وجوه پرداختنی بابت انفصال از خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "re-exchange",
+      "Meanings": [
+        "مبلغی که دارنده برات ارزی نکول شده حق دارد از براتکش یا ظهرنویس آن دریافت نماید"
+      ]
+    },
+    {
+      "EnglishWord": "refer",
+      "Meanings": [
+        "ارجاع کردن",
+        "رجوع کردن",
+        "مراجعه کردن",
+        "اشاره کردن",
+        "عطف کردن",
+        "استناد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "refer to drawer",
+      "Meanings": [
+        "رجوع شود به صادر کننده چک\" اعلامیه یا یادداشت بانک در موارد غیر قابل پرداخت بودن چک"
+      ]
+    },
+    {
+      "EnglishWord": "referee",
+      "Meanings": [
+        "کارشناس منصوب دادگاه",
+        "داور"
+      ]
+    },
+    {
+      "EnglishWord": "referee in bankruptcy",
+      "Meanings": [
+        "مدیر تصفیه منصوب دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "reference",
+      "Meanings": [
+        "اشاره",
+        "رجوع مراجعه",
+        "ارجاع",
+        "عطف",
+        "مرجع",
+        "ماخذ",
+        "شرط ارجاع به داوری در قراردادها",
+        "ارجاع به داوری"
+      ]
+    },
+    {
+      "EnglishWord": "referendum",
+      "Meanings": [
+        "همه پرسی",
+        "رفراندوم",
+        "کسب تکلیف توسط نماینده سیاسی از دولت متبوع خود"
+      ]
+    },
+    {
+      "EnglishWord": "reform    n. reformation     see also  correct rectify",
+      "Meanings": [
+        "اصلاح کردن",
+        "تصحیح کردن",
+        "رفع کردن اشتباه",
+        "تهذیب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "refreshing the memory",
+      "Meanings": [
+        "روشن کردن ذهن مانند مراجعه شاهد به اسناد و مدارک در هنگام ادای شهادت"
+      ]
+    },
+    {
+      "EnglishWord": "refuse    n. refutation",
+      "Meanings": [
+        "تکذیب کردن",
+        "رد کردن",
+        "انکار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "refuse acceptance    see also  dishonor",
+      "Meanings": [
+        "نکول کردن برات",
+        "عدم قبولی برات"
+      ]
+    },
+    {
+      "EnglishWord": "register    n. registration",
+      "Meanings": [
+        "ثبت کردن",
+        "در دفتر وارد کردن",
+        "دفتر ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "registered stock    see also  personal stock",
+      "Meanings": [
+        "سهام با نام"
+      ]
+    },
+    {
+      "EnglishWord": "registrar",
+      "Meanings": [
+        "رییس یا مدیر دفتر ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "registrar of companies",
+      "Meanings": [
+        "رییس اداره ثبت شرکتها"
+      ]
+    },
+    {
+      "EnglishWord": "registry",
+      "Meanings": [
+        "دفتر ثبت",
+        "اداره ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "regulate    n. regulation",
+      "Meanings": [
+        "تنظیم کردن",
+        "نظم دادن",
+        "اداره کردن",
+        "کنترل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "regulation",
+      "Meanings": [
+        "مقررات",
+        "قواعد",
+        "آیین نامه"
+      ]
+    },
+    {
+      "EnglishWord": "regulatory rules",
+      "Meanings": [
+        "مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "rehabilitation    v. rehabilitate     see also  reinstate",
+      "Meanings": [
+        "اعاده حیثیت",
+        "اعاده اعتبار",
+        "اعاده وضع",
+        "ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "rehearing    see also  retrial",
+      "Meanings": [
+        "اعاده دادرسی",
+        "رسیدگی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reimburse    n. reimbursement",
+      "Meanings": [
+        "باز پرداختن",
+        "مسترد داشتن",
+        "جبران کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reinstate    n. reinstatement     see also  rehabilitation",
+      "Meanings": [
+        "اعاده کردن حیثیت یا اعتبار",
+        "بازگرداندن به سمت",
+        "شغل",
+        "مقام یا وضع سابق",
+        "تجدید کردن",
+        "انتصاب یا استخدام کردن مجدد شخص برکنار شده یا کارگر اخراج شده",
+        "درج کردن مطلب از قلم افتاده",
+        "بازگرداندن پرونده به وضع قبل از رد شدن اعاده دادرسی دعوی رد شده"
+      ]
+    },
+    {
+      "EnglishWord": "reinstatement of a case",
+      "Meanings": [
+        "بیمه اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "reinsurance",
+      "Meanings": [
+        "بازدفع پاسخ خوانده به جوابیه خواهان"
+      ]
+    },
+    {
+      "EnglishWord": "rejoinder",
+      "Meanings": [
+        "آزاد کردن",
+        "مبرا کردن",
+        "بری الذمه کردن",
+        "ترک کردن دعوی",
+        "اعراض کردن از حق",
+        "آزاد کردن از زندان",
+        "سند ابراء",
+        "سند ترک"
+      ]
+    },
+    {
+      "EnglishWord": "release    see also  remise",
+      "Meanings": [
+        "دعوی",
+        "آزادی",
+        "ترخیص",
+        "واگذاری",
+        "پرداخت دین",
+        "تجدید اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "release clause",
+      "Meanings": [
+        "شرط برایت",
+        "شرط ابراء"
+      ]
+    },
+    {
+      "EnglishWord": "release deed of",
+      "Meanings": [
+        "سند ابراء",
+        "سند ترک دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "release on bail    see also  enlarge on bail",
+      "Meanings": [
+        "آزاد کردن به قید ضمانت یا کفالت"
+      ]
+    },
+    {
+      "EnglishWord": "release on own recognizance",
+      "Meanings": [
+        "آزاد کردن به قید ضمانت یا التزام شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "relevant    see also  applicable pertinent",
+      "Meanings": [
+        "ذیربط",
+        "مربوط",
+        "مناسب"
+      ]
+    },
+    {
+      "EnglishWord": "relevant    var. relevancy",
+      "Meanings": [
+        "ارتباط",
+        "مناسبت"
+      ]
+    },
+    {
+      "EnglishWord": "relevant evidence",
+      "Meanings": [
+        "ادله ذیربط"
+      ]
+    },
+    {
+      "EnglishWord": "relief",
+      "Meanings": [
+        "خواسته",
+        "جبران خسارت",
+        "ابراء از تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "relief pendente lite    see also  interim relief",
+      "Meanings": [
+        "قرار موقت",
+        "اقدامات موقت تامینی"
+      ]
+    },
+    {
+      "EnglishWord": "relief sought    see also  remedy sought",
+      "Meanings": [
+        "خواسته دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "relinquish    n. relinquishment     see also  abandon",
+      "Meanings": [
+        "صرفنظر کردن",
+        "ترک کردن",
+        "اعراض کردن",
+        "واگذار کردن",
+        "حقی را از خود سلب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "relinquish a case",
+      "Meanings": [
+        "احاله یا ارجاع کردن دعوی به مرجع دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "relinquish citizenship",
+      "Meanings": [
+        "ترک کردن تابعیت"
+      ]
+    },
+    {
+      "EnglishWord": "rely on / upon    n. reliance     see also  invoke",
+      "Meanings": [
+        "استناد کردن",
+        "اتکا کردن",
+        "اعتماد کردن",
+        "اطمینان کردن"
+      ]
+    },
+    {
+      "EnglishWord": "remain in effect",
+      "Meanings": [
+        "به قوت خود باقی ماندن"
+      ]
+    },
+    {
+      "EnglishWord": "remainder    see also  reversion vested in interest",
+      "Meanings": [
+        "حق ما لم یجب",
+        "مابقی",
+        "مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "remainderman",
+      "Meanings": [
+        "صاحب حق ما لم یجب"
+      ]
+    },
+    {
+      "EnglishWord": "remand    see also  remit",
+      "Meanings": [
+        "اعاده پرونده به دادگاه نخستین",
+        "بازگرداندن زندانی به زندان پس از رسیدگی به علت بازداشت"
+      ]
+    },
+    {
+      "EnglishWord": "remedial",
+      "Meanings": [
+        "جبران کننده",
+        "اصلاحی",
+        "ترمیمی"
+      ]
+    },
+    {
+      "EnglishWord": "remedial action",
+      "Meanings": [
+        "دعوای خسارت",
+        "دعوای غرامت",
+        "اقدام اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "remedial law / statue",
+      "Meanings": [
+        "قانون اصلاحی"
+      ]
+    },
+    {
+      "EnglishWord": "remedies exhaustion of",
+      "Meanings": [
+        "توسل به تمام مراجع صالحه دادخواهی"
+      ]
+    },
+    {
+      "EnglishWord": "remedy",
+      "Meanings": [
+        "جبران کردن",
+        "اصلاح کردن",
+        "رفع کردن",
+        "ترمیم کردن",
+        "وسایل جبران خسارت",
+        "جلوگیری از تضییع حق",
+        "دادخواهی",
+        "اصلاح",
+        "رفع",
+        "ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "remedy sought    see also  relief sought",
+      "Meanings": [
+        "خواسته دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "remise    see also  release",
+      "Meanings": [
+        "صرفنظر کردن",
+        "مبرا نمودن",
+        "بخشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "remission    see also  remitter",
+      "Meanings": [
+        "عفو",
+        "اغماض",
+        "بخشودگی",
+        "معافیت",
+        "اسقاط دین",
+        "ابراء دین",
+        "قرار اعاده پرونده به دادگاه نخستین برای ادامه رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "remit    n. remitment remittance     see also  remand",
+      "Meanings": [
+        "بگرداندن پرونده به دادگاه نخستین برای ادامه رسیدگی",
+        "عفو کردن",
+        "بخشیدن",
+        "لغو کردن",
+        "فرستادن پول",
+        "برگرداندن چک"
+      ]
+    },
+    {
+      "EnglishWord": "remittance",
+      "Meanings": [
+        "وجه ارسالی",
+        "نقل و انتقال پول"
+      ]
+    },
+    {
+      "EnglishWord": "remittee",
+      "Meanings": [
+        "گیرنده وجه یا حواله"
+      ]
+    },
+    {
+      "EnglishWord": "remitter    see also  remission",
+      "Meanings": [
+        "فرستنده وجه",
+        "حواله کننده",
+        "اعاده پرونده به دادگاه نخستین برای ادامه رسیدگی",
+        "تایید اعتبار مالکیت بر مبنای اسناد معتبر پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "remitting bank",
+      "Meanings": [
+        "بانک فرستنده یا حواله دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "remote",
+      "Meanings": [
+        "بعید",
+        "دور",
+        "مستعد",
+        "غیر محتمل",
+        "جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "remote cause",
+      "Meanings": [
+        "سبب دور",
+        "علت بعید",
+        "علت غیر محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "remote damages",
+      "Meanings": [
+        "ضرر و زیان غیر مستقیم",
+        "خسارت غیر عادی",
+        "خسارت غیر محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "remoteness",
+      "Meanings": [
+        "رابطه بعید بین خلاف و زیان وارده یا بین علت و معلول"
+      ]
+    },
+    {
+      "EnglishWord": "removal from office",
+      "Meanings": [
+        "برکناری",
+        "عزل"
+      ]
+    },
+    {
+      "EnglishWord": "removal of causes",
+      "Meanings": [
+        "انتقال دعوی از دادگاهی به دادگاه دیگر قبل از خاتمه دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "render    n. rendition",
+      "Meanings": [
+        "صادر کردن",
+        "تسلیم کردن",
+        "تحویل دادن",
+        "واگذار کردن",
+        "انجام دادن",
+        "اتخاذ کردن",
+        "پرداختن",
+        "ترجمه کردن",
+        "باز گرداندن"
+      ]
+    },
+    {
+      "EnglishWord": "render an award / verdict",
+      "Meanings": [
+        "حکم دادن",
+        "رای دادن توسط هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "rendition of alien / fugitive",
+      "Meanings": [
+        "استرداد مجرم",
+        "متهم",
+        "فراری تبعه بیگانه به کشور درخواست کننده"
+      ]
+    },
+    {
+      "EnglishWord": "renewed bill",
+      "Meanings": [
+        "برات تمدید شده"
+      ]
+    },
+    {
+      "EnglishWord": "renounce",
+      "Meanings": [
+        "سلب کردن حق از خود",
+        "صرفنظر کردن یا اعراض کردن",
+        "رد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "renounce citizenship",
+      "Meanings": [
+        "ترک تابعیت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rent",
+      "Meanings": [
+        "اجاره کردن",
+        "اجاره دادن",
+        "اجاره",
+        "مال الاجاره"
+      ]
+    },
+    {
+      "EnglishWord": "renunciation",
+      "Meanings": [
+        "ترک",
+        "قطع علاقه",
+        "سند ترک دعوی",
+        "رد",
+        "انکار"
+      ]
+    },
+    {
+      "EnglishWord": "renunciation of citizenship",
+      "Meanings": [
+        "ترک تابعیت"
+      ]
+    },
+    {
+      "EnglishWord": "renvoi    lat.    doctrine of",
+      "Meanings": [
+        "نظریه احاله در حقوق بین الملل خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "reopening a case    or hearings",
+      "Meanings": [
+        "اعاده دارسی",
+        "رسیدگی مجدد",
+        "اجازه ارایه ادله و مدارک جدید"
+      ]
+    },
+    {
+      "EnglishWord": "reparation    n. repatriation",
+      "Meanings": [
+        "بازگشتن یا بازگرداندن به میهن اصلی",
+        "استرداد اسرای جنگی به کشور اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "reparation    s",
+      "Meanings": [
+        "غرامت جنگی",
+        "جبران خسارت",
+        "ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "repeal    see also  rescind revoke",
+      "Meanings": [
+        "لغو یا نسخ کردن قانون",
+        "الغاء",
+        "نسخ"
+      ]
+    },
+    {
+      "EnglishWord": "repleader",
+      "Meanings": [
+        "حق درخواست تجدید نظر",
+        "دستور دادگاه به طرفین دعوی برای تجدید دادخواست یا دفاعیه"
+      ]
+    },
+    {
+      "EnglishWord": "replenish    n. replenishment",
+      "Meanings": [
+        "ترمیم کردن موجودی حساب یا جنس"
+      ]
+    },
+    {
+      "EnglishWord": "replevin",
+      "Meanings": [
+        "دعوای اعاده تصرف",
+        "دعوای رفع تصرف عدوانی اموال منقول"
+      ]
+    },
+    {
+      "EnglishWord": "replevy",
+      "Meanings": [
+        "رد مال غصبی به صاحب اصلی آن به حکم دادگاه",
+        "آزاد کردن به قید ضمانت"
+      ]
+    },
+    {
+      "EnglishWord": "replication",
+      "Meanings": [
+        "جوابیه",
+        "پاسخ به دفاعیه"
+      ]
+    },
+    {
+      "EnglishWord": "reply",
+      "Meanings": [
+        "پاسخ دادن",
+        "جوابیه"
+      ]
+    },
+    {
+      "EnglishWord": "reply memorial",
+      "Meanings": [
+        "لایحه جوابیه"
+      ]
+    },
+    {
+      "EnglishWord": "reporter    see also  court reporter",
+      "Meanings": [
+        "تندنویس دادگاه",
+        "گزارشگر جریان دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "repossess    n. repossession",
+      "Meanings": [
+        "مجددا تصاحب کردن",
+        "پس گرفتن جنس از خریداری که بها یا اقساط آن را در موعد مقرر نپرداخته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "represent",
+      "Meanings": [
+        "نمایندگی داشتن",
+        "ارایه دادن",
+        "اعلام کردن",
+        "ادعا کردن",
+        "اظهار داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "re-present",
+      "Meanings": [
+        "ارایه مجدد چک برگشتی",
+        "برات نکولی",
+        "یا سفته واخواستی برای وصول"
+      ]
+    },
+    {
+      "EnglishWord": "representation",
+      "Meanings": [
+        "نمایندگی",
+        "ارایه",
+        "اعلم",
+        "ادعا",
+        "اظهار",
+        "ترتیب ورثه در استحقاق بر ارث"
+      ]
+    },
+    {
+      "EnglishWord": "representative",
+      "Meanings": [
+        "نماینده",
+        "قایم مقام",
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "representative case",
+      "Meanings": [
+        "پرونده نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "reprieve",
+      "Meanings": [
+        "مهلت دادن",
+        "به تعویق انداختن یا تعلیق مجازات"
+      ]
+    },
+    {
+      "EnglishWord": "reprimand",
+      "Meanings": [
+        "توبیخ کردن",
+        "مواخذه کردن",
+        "توبیخ",
+        "مواخذه"
+      ]
+    },
+    {
+      "EnglishWord": "reprisal",
+      "Meanings": [
+        "تلافی",
+        "انتقام",
+        "اقدامات تلافی جویانه دولتی علیه دولت دیگر برای جبران خسارت جز توسل به جنگ"
+      ]
+    },
+    {
+      "EnglishWord": "repudiate",
+      "Meanings": [
+        "رد و نفی کردن",
+        "انکار کردن",
+        "امتناع کردن",
+        "مردود شمردن",
+        "کان لم یکن تلقی کردن",
+        "نکول کردن",
+        "اعراض کردن از حق",
+        "انکار کردن دین",
+        "تعهد یا وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "repudiate a contract",
+      "Meanings": [
+        "لغو یا رد کردن قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "repudiate an award",
+      "Meanings": [
+        "عدم پذیرش حکم صادره از یک دیوان بین المللی توسط محکوم علیه"
+      ]
+    },
+    {
+      "EnglishWord": "repudiation",
+      "Meanings": [
+        "رد",
+        "تکذیب",
+        "انکار",
+        "امتناع",
+        "اعراض",
+        "عدم پذیرش حکم صادره از یک دیوان بین المللی توسط محکوم علیه"
+      ]
+    },
+    {
+      "EnglishWord": "repugnant condition    see also  insensible condition",
+      "Meanings": [
+        "شرطی که خلاف مقتضای ذات عقد باشد"
+      ]
+    },
+    {
+      "EnglishWord": "reputation",
+      "Meanings": [
+        "شهرت",
+        "اعتبار",
+        "آبرو"
+      ]
+    },
+    {
+      "EnglishWord": "repute",
+      "Meanings": [
+        "شمردن",
+        "فرض کرن",
+        "اشتهار",
+        "شهرت",
+        "اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "reputed",
+      "Meanings": [
+        "مشهور",
+        "معروف"
+      ]
+    },
+    {
+      "EnglishWord": "request",
+      "Meanings": [
+        "درخواست کردن",
+        "سوال کردن",
+        "مطالبه کردن",
+        "خواهش",
+        "درخواست",
+        "سوال"
+      ]
+    },
+    {
+      "EnglishWord": "request a respite / delay",
+      "Meanings": [
+        "مهلت خواستن",
+        "درخواست تمدید مهلت کردن",
+        "استمهال"
+      ]
+    },
+    {
+      "EnglishWord": "require",
+      "Meanings": [
+        "لازم داشتن",
+        "نیاز داشتن",
+        "مستلزم بودن",
+        "ایجاب کردن",
+        "خواستار شدن",
+        "مقرر داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "requirement",
+      "Meanings": [
+        "نیاز",
+        "الزام",
+        "شرط مقرر",
+        "لازمه",
+        "اقتضاء"
+      ]
+    },
+    {
+      "EnglishWord": "requisites",
+      "Meanings": [
+        "لوازم",
+        "ضروریات",
+        "مایحتاج"
+      ]
+    },
+    {
+      "EnglishWord": "requisition",
+      "Meanings": [
+        "مصادره یا ضبط مال توسط دولت",
+        "درخواست دولتی از دولتی دیگر برای استرداد مجرم فراری",
+        "درخواست کتبی",
+        "درخواست خرید"
+      ]
+    },
+    {
+      "EnglishWord": "res    lat.",
+      "Meanings": [
+        "چیز",
+        "شیء",
+        "مال مورد وصیت یا امانت"
+      ]
+    },
+    {
+      "EnglishWord": "res communes    lat.",
+      "Meanings": [
+        "مشترکت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "res derelicta    lat.     see also  vacantia bona",
+      "Meanings": [
+        "مال متروک"
+      ]
+    },
+    {
+      "EnglishWord": "res integra    lat.",
+      "Meanings": [
+        "امر غیر مختوم",
+        "ماهیت مرسله"
+      ]
+    },
+    {
+      "EnglishWord": "res inter alios acta    lat.",
+      "Meanings": [
+        "معاملات یا رویدادهایی که خوانده یا متهم در آنها دخالت نداشته یا به وی مربوط نبوده",
+        "مسموع نیست"
+      ]
+    },
+    {
+      "EnglishWord": "res inter alios acta alteri nocere non debet    lat.     see also  privity of contract",
+      "Meanings": [
+        "قرارداد بین دو نفر نمی‌تواند موجب اضرار شخص ثالث شود",
+        "اصل نسبی بودن قراردادها"
+      ]
+    },
+    {
+      "EnglishWord": "res ipsa loquitur    lat.",
+      "Meanings": [
+        "فرض تقصیر",
+        "«موضوع گویاست» اصلی که به موجب آن وقوع حادثه علی الظاهر دلالت بر تقصیر خوانده کند مگر خلاف آن ثابت شود"
+      ]
+    },
+    {
+      "EnglishWord": "res judicata",
+      "Meanings": [
+        "اعتبار قضیه محکوم بها",
+        "اعتبار امر مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "rescind    n. rescission     see also  repeal revoke",
+      "Meanings": [
+        "لغو کردن",
+        "فسخ کردن",
+        "باطل کردن",
+        "کان لم یکن کردن قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "rescissio    lat.",
+      "Meanings": [
+        "لغو",
+        "فسخ",
+        "ابطال"
+      ]
+    },
+    {
+      "EnglishWord": "rescissory action",
+      "Meanings": [
+        "دعوای ابطال یا فسخ قرارداد یا سند"
+      ]
+    },
+    {
+      "EnglishWord": "rescript",
+      "Meanings": [
+        "رای دادگاه پژوهش",
+        "رونوشت"
+      ]
+    },
+    {
+      "EnglishWord": "reservation",
+      "Meanings": [
+        "استثناء",
+        "شرط",
+        "قید تحدید تعهد",
+        "حفظ حق",
+        "قید احتیاط",
+        "تردید",
+        "حقی که واهب یا واگذار کننده به موجب شرطی در سند انتقال برای خود ایجاد و حفظ می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "reservation of cabotage",
+      "Meanings": [
+        "جلوگیری از حمل ونقل کالا با کشتیهای خارجی در آبهای ساحلی یک کشور",
+        "جلوگیری از سوار یا پیاده کردن مسافر یا بارگیری یا تخلیه بار توسط هواپیماهای بیگانه در فرودگاه‌های یک کشور"
+      ]
+    },
+    {
+      "EnglishWord": "reserve",
+      "Meanings": [
+        "ذخیره کردن",
+        "اندوختن",
+        "قید کردن",
+        "شرط کردن",
+        "برای خود محفوظ داشتن",
+        "استثناء کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reserve clause",
+      "Meanings": [
+        "شرط یا قید استثناء"
+      ]
+    },
+    {
+      "EnglishWord": "reserve fund",
+      "Meanings": [
+        "اندوخته احتیاطی",
+        "وجوه احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "reshipment    see also  transshipment",
+      "Meanings": [
+        "انتقال محموله از یک وسیله نقلیه به وسیله نقلیه دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "residence    see also  domicile",
+      "Meanings": [
+        "اقامت",
+        "اقامتگاه",
+        "محل سکونت"
+      ]
+    },
+    {
+      "EnglishWord": "residence permit",
+      "Meanings": [
+        "اجازه اقامت",
+        "پروانه اقامت"
+      ]
+    },
+    {
+      "EnglishWord": "resident",
+      "Meanings": [
+        "مقیم",
+        "ساکن",
+        "مستقر"
+      ]
+    },
+    {
+      "EnglishWord": "resident alien",
+      "Meanings": [
+        "بیگانه مقیم"
+      ]
+    },
+    {
+      "EnglishWord": "residual estate",
+      "Meanings": [
+        "مانده ماترک پس از تصفیه دیون و پرداخت هزینه ها"
+      ]
+    },
+    {
+      "EnglishWord": "residuary    var. residue",
+      "Meanings": [
+        "باقیمانده",
+        "مانده ماترک پس از پرداخت دیون و هزینه‌ها و سهم الارث طبق وصیت نامه"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "حل و فصل",
+        "فیصله",
+        "تصمیم",
+        "قطعنامه"
+      ]
+    },
+    {
+      "EnglishWord": "resolutory condition    see also  condition subsequent dissolving condition",
+      "Meanings": [
+        "شرط فاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "resolve",
+      "Meanings": [
+        "حل و فصل یا رفع کردن اختلاف",
+        "فیصله دادن",
+        "تصمیم گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "resort",
+      "Meanings": [
+        "مراجعه کردن",
+        "توسل جستن",
+        "مراجعه",
+        "توسل"
+      ]
+    },
+    {
+      "EnglishWord": "respite    see also  composition deed of arrangement scheme of arrangement",
+      "Meanings": [
+        "مهلت دادن",
+        "به بعد موکول کردن",
+        "مهلت",
+        "استمهال",
+        "تعلیق مجازات",
+        "قرارداد ارفاقی",
+        "تمدید مهلت پرداخت بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "respite to grant",
+      "Meanings": [
+        "مهلت دادن",
+        "با تمدید مهلت موافقت کردن",
+        "تعلیق مجازات"
+      ]
+    },
+    {
+      "EnglishWord": "respond    n. response",
+      "Meanings": [
+        "پاسخ دادن",
+        "واکنش نشان دادن",
+        "مسوول بودن",
+        "پاسخگو بودن"
+      ]
+    },
+    {
+      "EnglishWord": "respondeat ouster    lat.",
+      "Meanings": [
+        "قرار رد دفع یا ایرادات شکلی و الزام خوانده به دادن پاسخ به ماهیت دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "respondeat superior    lat.     see also  vicarious liability",
+      "Meanings": [
+        "مسیولیت کارفرما"
+      ]
+    },
+    {
+      "EnglishWord": "respondent",
+      "Meanings": [
+        "خوانده",
+        "مدعی علیه"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility",
+      "Meanings": [
+        "مسیولیت",
+        "تعهد",
+        "تصدی",
+        "ذمه",
+        "وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "responsible",
+      "Meanings": [
+        "مسوول",
+        "متعهد",
+        "متصدی"
+      ]
+    },
+    {
+      "EnglishWord": "responsive",
+      "Meanings": [
+        "جوابگو",
+        "حاوی پاسخ کامل",
+        "ذیربط"
+      ]
+    },
+    {
+      "EnglishWord": "responsive evidence",
+      "Meanings": [
+        "ادله و مدارک کامل یا کافی"
+      ]
+    },
+    {
+      "EnglishWord": "responsive pleading",
+      "Meanings": [
+        "دفاع ماهوی"
+      ]
+    },
+    {
+      "EnglishWord": "rest    one's case",
+      "Meanings": [
+        "اعلام پایان ارایه ادله و مدارک توسط یک طرف دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "restatement of law",
+      "Meanings": [
+        "کتب منتشره توسط American Law Institute به منظور تبیین و تحلیل قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "restitutio in integrum    lat.",
+      "Meanings": [
+        "اعاده به وضع سابق",
+        "باز گرداندن وضع پیشین زیان دیده"
+      ]
+    },
+    {
+      "EnglishWord": "restitution",
+      "Meanings": [
+        "اعاده مال به صاحب اصلی",
+        "غرامت",
+        "جبران خسارت",
+        "اعاده تصرف"
+      ]
+    },
+    {
+      "EnglishWord": "restitution to make",
+      "Meanings": [
+        "جبران کردن خسارت",
+        "پرداختن غرامت",
+        "بازگرداندن وضع پیشین زیان دیده",
+        "رد کردن مال به صاحب اصلی آن"
+      ]
+    },
+    {
+      "EnglishWord": "restrain    n. restraint",
+      "Meanings": [
+        "منع کردن",
+        "محدود کردن",
+        "توقیف کردن",
+        "تحت فشار قرار دادن",
+        "جلوگیری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "restraining order    see also  prohibitory injunction",
+      "Meanings": [
+        "قرار منع موقت"
+      ]
+    },
+    {
+      "EnglishWord": "restraint of trade",
+      "Meanings": [
+        "تحدید تجارت",
+        "تضییقات تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "restrict    n. restriction",
+      "Meanings": [
+        "محدود کردن",
+        "منحصر کردن",
+        "ممنوع کردن",
+        "مقید کردن"
+      ]
+    },
+    {
+      "EnglishWord": "restricted ownership    see also  qualified ownership",
+      "Meanings": [
+        "مالکیت محدود از قبیل حق عمری یا اشاعه"
+      ]
+    },
+    {
+      "EnglishWord": "restriction",
+      "Meanings": [
+        "محدودیت",
+        "ممنوعیت",
+        "منع",
+        "قید",
+        "انحصار"
+      ]
+    },
+    {
+      "EnglishWord": "restrictive",
+      "Meanings": [
+        "مضیق",
+        "محدود کننده",
+        "تحدیدی"
+      ]
+    },
+    {
+      "EnglishWord": "restrictive condition    see also  negative condition",
+      "Meanings": [
+        "شرط ترک فعل"
+      ]
+    },
+    {
+      "EnglishWord": "restrictive covenant",
+      "Meanings": [
+        "قید یا شرط محدودیت در سند مالکیت یا مشارکت یا استخدام"
+      ]
+    },
+    {
+      "EnglishWord": "restrictive interpretation    see also  narrow interpretation strict interpretation",
+      "Meanings": [
+        "تفسیر مضیق",
+        "تفسیر محدود"
+      ]
+    },
+    {
+      "EnglishWord": "resulting trust    see also  constructive trust implied trust presumptive trust",
+      "Meanings": [
+        "امانت قانونی",
+        "امانت حکمی"
+      ]
+    },
+    {
+      "EnglishWord": "retain    n. retention",
+      "Meanings": [
+        "وکیل گرفتن",
+        "نگاهداشتن",
+        "ابقا کردن",
+        "حفظ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "retain age",
+      "Meanings": [
+        "ودیعه",
+        "سپرده حسن انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "retainer",
+      "Meanings": [
+        "استخدام وکیل یا مشاور",
+        "حق الوکاله یا مشاوره ای که به وکیل یا مشاور دایم پرداخت می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "retaining fee    see also  retainer",
+      "Meanings": [
+        "حق الوکاله یا مشاوره ای که به وکیل یا مشاور دایم پرداخت می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "retaliate    n. retaliation     see also  lex talionis retorsion",
+      "Meanings": [
+        "معامله به مثل کردن",
+        "تلافی کردن",
+        "انتقام گرفتن",
+        "اقدام تلافی جویانه دولتی در قبال دولت دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "retaliatory act",
+      "Meanings": [
+        "اقدام تلافی جویانه",
+        "عمل متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "retention money",
+      "Meanings": [
+        "سپرده حسن انجام کار",
+        "وجه الضمان"
+      ]
+    },
+    {
+      "EnglishWord": "retorsion    see also  lex talionis retaliate",
+      "Meanings": [
+        "اقدام تلافی جویانه دولتها نسبت به اتباع دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "retour sans frais    var. retour sans protet    fr.",
+      "Meanings": [
+        "اعاده بدون اعتراض برات",
+        "تذکری است توسط ظهرنویس سفته یا برات ارزی دایر بر اینکه سفته یا برات در صورت عدم پرداخت",
+        "بدون اعتراض اعاده شود"
+      ]
+    },
+    {
+      "EnglishWord": "retract    n. retraction",
+      "Meanings": [
+        "پس گرفتن قول یا اتهام",
+        "لغو کردن",
+        "تکذیب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "retrial    v. retry     see also  rehearing",
+      "Meanings": [
+        "اعاده دادرسی",
+        "تجدید محاکمه"
+      ]
+    },
+    {
+      "EnglishWord": "retroactive law",
+      "Meanings": [
+        "قانون معطوف به ماسبق"
+      ]
+    },
+    {
+      "EnglishWord": "retrospective law",
+      "Meanings": [
+        "قانون معطوف به ماسبق"
+      ]
+    },
+    {
+      "EnglishWord": "return    s",
+      "Meanings": [
+        "برگشتن",
+        "مراجعه کردن",
+        "پس دادن",
+        "برگرداندن قرار یا احضاریه به دادگاه یا مقام مربوط",
+        "کالاهای مرجوعی",
+        "بازده سرمایه گذاری",
+        "اظهارنامه مالیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "return a verdict",
+      "Meanings": [
+        "اعلام رای یا تصمیم هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "revaluation",
+      "Meanings": [
+        "ارزش گذاری مجدد",
+        "ترقی نرخ برابری یک ارز نسبت به ارزهای دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "revenue",
+      "Meanings": [
+        "عایدی فروش",
+        "درآمد مالیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "reversal",
+      "Meanings": [
+        "نقض حکم دادگاه نخستین",
+        "عدول",
+        "لغو",
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "reverse a judgment / ruling    see also  recall a judgment",
+      "Meanings": [
+        "نقض یا لغو کردن حکم یا تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "reversion    var. reverter reversionary interest     see also  remainder vested in interest",
+      "Meanings": [
+        "حق انتفاع مجدد مالک اصلی در ملک",
+        "پس از انقضای مدت واگذاری در انتقال موقت ملک"
+      ]
+    },
+    {
+      "EnglishWord": "reversioner",
+      "Meanings": [
+        "دارنده حق انتفاع موجل"
+      ]
+    },
+    {
+      "EnglishWord": "revert",
+      "Meanings": [
+        "رجوع کردن",
+        "اعاده دادن",
+        "برگشتن",
+        "معکوس کردن",
+        "اعاده با مالک قبلی یا وارث وی"
+      ]
+    },
+    {
+      "EnglishWord": "review",
+      "Meanings": [
+        "بررسی کردن",
+        "مرور کردن",
+        "تجدید نظر کردن",
+        "اعاده دادرسی",
+        "بررسی",
+        "تجدیدنظر"
+      ]
+    },
+    {
+      "EnglishWord": "revise    n. revision",
+      "Meanings": [
+        "تجدیدنظر کردن",
+        "اصلاح کردن",
+        "ویراستن"
+      ]
+    },
+    {
+      "EnglishWord": "revival of a barred claim",
+      "Meanings": [
+        "تجدید یا احیای دعوای مشمول مرور زمان"
+      ]
+    },
+    {
+      "EnglishWord": "revival of action / judgment",
+      "Meanings": [
+        "تجدید یا احیای حق طرح دعوی یا اعتبار حکمی که بر اثر مرور زمان از اعتبار ساقط شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "revival of will",
+      "Meanings": [
+        "تجدید اعتبار وصیت نامه لغو شده"
+      ]
+    },
+    {
+      "EnglishWord": "revive    n. revival",
+      "Meanings": [
+        "احیاء کردن",
+        "رونق و رواج دوباره یافتن یا دادن"
+      ]
+    },
+    {
+      "EnglishWord": "revocable",
+      "Meanings": [
+        "قابل فسخ",
+        "قابل برگشت",
+        "قابل لغو"
+      ]
+    },
+    {
+      "EnglishWord": "revocable contract    see also  voidable contract",
+      "Meanings": [
+        "عقد جایز",
+        "عقد قابل فسخ"
+      ]
+    },
+    {
+      "EnglishWord": "revocable letter of credit",
+      "Meanings": [
+        "اعتبار اسنادی قابل فسخ یا قابل برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "revoke    n. revocation     see also  repeal rescind",
+      "Meanings": [
+        "فسخ کردن",
+        "باطل کردن",
+        "لغو کردن",
+        "رجوع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "revolving",
+      "Meanings": [
+        "در گردش",
+        "گردان"
+      ]
+    },
+    {
+      "EnglishWord": "revolving credit",
+      "Meanings": [
+        "اعتبار گردان"
+      ]
+    },
+    {
+      "EnglishWord": "revolving fund",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rider    see also  allonge",
+      "Meanings": [
+        "الحاقیه قانون یا سند",
+        "قضیه فرعی",
+        "ماده الحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "rig",
+      "Meanings": [
+        "احتکار کردن",
+        "حقه زدن",
+        "دکل"
+      ]
+    },
+    {
+      "EnglishWord": "rigged award    see also  agreed award fixed award informed award",
+      "Meanings": [
+        "حکم مرضی الطرفین",
+        "حکم سازشی"
+      ]
+    },
+    {
+      "EnglishWord": "rigging the market",
+      "Meanings": [
+        "احتکار در بازار",
+        "سفته بازی",
+        "معامله صوری سهام به منظور افزایش تصنعی بهای آنها"
+      ]
+    },
+    {
+      "EnglishWord": "right",
+      "Meanings": [
+        "حق",
+        "استحقاق",
+        "صحیح",
+        "درست"
+      ]
+    },
+    {
+      "EnglishWord": "right in action    see also  chose in action incorporeal property things in action",
+      "Meanings": [
+        "حق متنازع فیه",
+        "حق موضوع دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "right in perpetuity",
+      "Meanings": [
+        "حق عمری"
+      ]
+    },
+    {
+      "EnglishWord": "right of action",
+      "Meanings": [
+        "حق اقامه دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "right of counsel",
+      "Meanings": [
+        "حق استفاده از وکیل از جمله وکیل تسخیری"
+      ]
+    },
+    {
+      "EnglishWord": "right of eminent do domain",
+      "Meanings": [
+        "حق دولت برای تصاحب املاک خصوصی برای استفاده عامه"
+      ]
+    },
+    {
+      "EnglishWord": "right of way",
+      "Meanings": [
+        "حق العبور",
+        "حق تقدم"
+      ]
+    },
+    {
+      "EnglishWord": "rightful",
+      "Meanings": [
+        "ذیحق",
+        "مشروع",
+        "قانونی",
+        "صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "ripe claim",
+      "Meanings": [
+        "ادعایی که اسباب طرح آن فراهم شده و لذا قابل اقامه در دادگاه باشد"
+      ]
+    },
+    {
+      "EnglishWord": "risk    see also  imperil peril serious danger",
+      "Meanings": [
+        "به مخاطره انداختن",
+        "خطر",
+        "مخاطره",
+        "احتمال خسارت",
+        "مورد بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "risk assumption of    see also  volenti non fit injuria",
+      "Meanings": [
+        "اقدام به ضرر خود",
+        "قبول مخاطره اگر کسی دانسته قبول خطر کند",
+        "مستحق دریافت خسارت بابت زیان وارده نیست"
+      ]
+    },
+    {
+      "EnglishWord": "roll    see also  judgment roll",
+      "Meanings": [
+        "سوابق دادرسی",
+        "طومار",
+        "فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "roll over",
+      "Meanings": [
+        "تمدید مهلت پرداخت وام"
+      ]
+    },
+    {
+      "EnglishWord": "roving ambassador",
+      "Meanings": [
+        "سفیر سیار"
+      ]
+    },
+    {
+      "EnglishWord": "royalty",
+      "Meanings": [
+        "حق امتیاز",
+        "حق تالیف",
+        "حق اختراع",
+        "حق طبع",
+        "حق تصنیف"
+      ]
+    },
+    {
+      "EnglishWord": "rubric of a law",
+      "Meanings": [
+        "عنوان قانون"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قاعده",
+        "اصل حقوقی",
+        "حکومت",
+        "تسلط",
+        "غلبه"
+      ]
+    },
+    {
+      "EnglishWord": "rule nisi    see also  show cause order",
+      "Meanings": [
+        "قرار غیر قطعی قرار موقتی که اگر دلیل موجهی برای عدم اجرای آن ارایه نشود",
+        "قطعیت می‌یابد"
+      ]
+    },
+    {
+      "EnglishWord": "rule of law    see also  supremacy of law",
+      "Meanings": [
+        "اصل حاکمیت قانون",
+        "حکومت قانون"
+      ]
+    },
+    {
+      "EnglishWord": "rule-of-court clause",
+      "Meanings": [
+        "شرط انتخاب مرجع رسیدگی خاصی در قرارداد برای حل اختلاف مشروط بر اینکه قرارداد در همان مرجع به ثبت برسد"
+      ]
+    },
+    {
+      "EnglishWord": "rules of court",
+      "Meanings": [
+        "آیین دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "rules of evidence",
+      "Meanings": [
+        "اصول و قواعد حاکم بر ادله اثبات دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "ruling",
+      "Meanings": [
+        "حکم",
+        "تصمیم",
+        "رای",
+        "نظر"
+      ]
+    },
+    {
+      "EnglishWord": "rumor",
+      "Meanings": [
+        "شایعه"
+      ]
+    },
+    {
+      "EnglishWord": "running account",
+      "Meanings": [
+        "حساب جاری"
+      ]
+    },
+    {
+      "EnglishWord": "running days",
+      "Meanings": [
+        "روزهای متوالی",
+        "تمام روزها اعم از روزهای اداری و تعطیلات"
+      ]
+    }
+  ]
+}

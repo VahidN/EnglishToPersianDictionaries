@@ -1,0 +1,3614 @@
+﻿{
+  "Group": "R",
+  "Entries": 583,
+  "Words": [
+    {
+      "EnglishWord": "r squared",
+      "Meanings": [
+        "آر به توان دو"
+      ]
+    },
+    {
+      "EnglishWord": "r.c.d. regional cooperation of development",
+      "Meanings": [
+        "سازمان توسعه عمران منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "raider",
+      "Meanings": [
+        "متهاجم"
+      ]
+    },
+    {
+      "EnglishWord": "rail way",
+      "Meanings": [
+        "راه آهن"
+      ]
+    },
+    {
+      "EnglishWord": "rail way b/l",
+      "Meanings": [
+        "بارنامه حمل با قطار"
+      ]
+    },
+    {
+      "EnglishWord": "raise a loan",
+      "Meanings": [
+        "وام گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی",
+        "بی‌قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "random access",
+      "Meanings": [
+        "دسترسی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random diversification",
+      "Meanings": [
+        "متنوع ساختن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random error term",
+      "Meanings": [
+        "خطای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random fluctuation",
+      "Meanings": [
+        "نوسانات تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number table",
+      "Meanings": [
+        "جدول اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number tables",
+      "Meanings": [
+        "جداول اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sample",
+      "Meanings": [
+        "نمونه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sampling",
+      "Meanings": [
+        "نمونه تصادفی",
+        "نمونه گیری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random selection",
+      "Meanings": [
+        "انتخاب تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random variable",
+      "Meanings": [
+        "متغیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random walk or random walk model",
+      "Meanings": [
+        "گردش تصادفی مدل تغییرات تصادفی قیمت اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "دامنه",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "ranking approach",
+      "Meanings": [
+        "روش رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "ranking of projects",
+      "Meanings": [
+        "رده بندی پروژه ها"
+      ]
+    },
+    {
+      "EnglishWord": "ratained earnings",
+      "Meanings": [
+        "سودهای انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نرخ",
+        "نرخ نسبت ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "rate of exchange",
+      "Meanings": [
+        "نرخ ارز"
+      ]
+    },
+    {
+      "EnglishWord": "rate of interest",
+      "Meanings": [
+        "نرخ بهره",
+        "نرخ بهره نرخ سود تضمین شده",
+        "نرخ سود تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "rate of pay",
+      "Meanings": [
+        "نرخ دستمزد حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return",
+      "Meanings": [
+        "نرخ بازده"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on assets",
+      "Meanings": [
+        "نرخ بازده داریی"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on capital employed",
+      "Meanings": [
+        "نرخ بازده سرمایه بکار رفته"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on common stockholder s equity",
+      "Meanings": [
+        "نرخ بازده حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on investment",
+      "Meanings": [
+        "نرخ بازده سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on net sales",
+      "Meanings": [
+        "نرخ بازده فروش خالص"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on plant assets",
+      "Meanings": [
+        "نرخ بازده دارییهای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return on total assets",
+      "Meanings": [
+        "نرخ بازده مجموع دارییها"
+      ]
+    },
+    {
+      "EnglishWord": "rate of sale",
+      "Meanings": [
+        "نرخ فروش"
+      ]
+    },
+    {
+      "EnglishWord": "rate per direct labour",
+      "Meanings": [
+        "تسهیم سربار براساس نرخ سربار برای ساعت کار مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "rate per unit produced",
+      "Meanings": [
+        "تسهیم سربار براساس نرخ واحد محصول"
+      ]
+    },
+    {
+      "EnglishWord": "ratio",
+      "Meanings": [
+        "نسبت",
+        "نسبت نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "ratio analysis",
+      "Meanings": [
+        "تجزیه و تحلیل نسبتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio computation",
+      "Meanings": [
+        "نسبت یابی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio estimation",
+      "Meanings": [
+        "برآورد نرخ نسبت / نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio estimator",
+      "Meanings": [
+        "برآوردکننده نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "ratio examination",
+      "Meanings": [
+        "بررسی نسبت / نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "ratio scale",
+      "Meanings": [
+        "مقایس نسبی",
+        "مقیاس نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio serial",
+      "Meanings": [
+        "سریال نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "rational economic behavior",
+      "Meanings": [
+        "رفتار عقلایی معقول اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "raw and in process  rip  inventory account",
+      "Meanings": [
+        "حساب موجودی مواد خام و در جریان ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "raw material",
+      "Meanings": [
+        "ماده خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw materials",
+      "Meanings": [
+        "مواد اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "raw materials inventory",
+      "Meanings": [
+        "موجودی مواد خام اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "raw-materials",
+      "Meanings": [
+        "مواد خام"
+      ]
+    },
+    {
+      "EnglishWord": "re- evaluation",
+      "Meanings": [
+        "ارزیابی مجدد",
+        "ارزش گذاری مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "re- export",
+      "Meanings": [
+        "صادر کردن کالای وارداتی"
+      ]
+    },
+    {
+      "EnglishWord": "re- exportation",
+      "Meanings": [
+        "صدور مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "re planning",
+      "Meanings": [
+        "برنامه‌ریزی منابع تولید"
+      ]
+    },
+    {
+      "EnglishWord": "reacquired sharesreacquired stocks",
+      "Meanings": [
+        "سهام بازخرید شده"
+      ]
+    },
+    {
+      "EnglishWord": "reacquisition",
+      "Meanings": [
+        "بازخرید",
+        "تحصیل مجدد باز خرید"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "واکنش"
+      ]
+    },
+    {
+      "EnglishWord": "reading in management accounting",
+      "Meanings": [
+        "مجموعه مقالات حسابداری مدیریت خواندنیهای حسابداری مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "real after fax return",
+      "Meanings": [
+        "بازده واقعی پس از مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "real assets",
+      "Meanings": [
+        "داراییهای حقیقی",
+        "داریی‌های واقعی / فیزکی / مشهود"
+      ]
+    },
+    {
+      "EnglishWord": "real costs",
+      "Meanings": [
+        "هزینه‌های واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real estate",
+      "Meanings": [
+        "اموال غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "real estate investment trust  reit",
+      "Meanings": [
+        "صندوق سرمایه گذاری در املاک و مستغلات"
+      ]
+    },
+    {
+      "EnglishWord": "real interest rate",
+      "Meanings": [
+        "نرخ حقیقی سود تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "real investment",
+      "Meanings": [
+        "سرمایه گذاری واقعی سرمایه گذاری در دارایی‌های مشهود"
+      ]
+    },
+    {
+      "EnglishWord": "real rate of return",
+      "Meanings": [
+        "نرخ بازده واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real return",
+      "Meanings": [
+        "بازده واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real shareholders",
+      "Meanings": [
+        "سهامداران واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "real time",
+      "Meanings": [
+        "هوشیار و بهنگام"
+      ]
+    },
+    {
+      "EnglishWord": "real time system",
+      "Meanings": [
+        "سیستم بازده فوری"
+      ]
+    },
+    {
+      "EnglishWord": "realizable value",
+      "Meanings": [
+        "ارزش بازیافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "realizable value of accounts receivable",
+      "Meanings": [
+        "ارزش بازیافتی قابل تحقق حسابهای دریافتی"
+      ]
+    },
+    {
+      "EnglishWord": "realization",
+      "Meanings": [
+        "تحقق",
+        "تحققق درآمد قابلیت تبدیل به وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "realization concept",
+      "Meanings": [
+        "مفهوم تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "realized capital gain or loss",
+      "Meanings": [
+        "سود یا زیان تحقق یافته سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "realized gain",
+      "Meanings": [
+        "سود تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "realized gain and loss",
+      "Meanings": [
+        "سود و زیان تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "realized gross profit",
+      "Meanings": [
+        "سود ناخالص تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "realized loss",
+      "Meanings": [
+        "زمان تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "realized or realizable",
+      "Meanings": [
+        "تحقق یافته یا قابل تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "realized revenue",
+      "Meanings": [
+        "درآمد تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "realized value approach",
+      "Meanings": [
+        "روش ارزش تحقق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangement and relocation costs",
+      "Meanings": [
+        "مخارج تجدید آرایش و جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangment",
+      "Meanings": [
+        "تجدید آرایش"
+      ]
+    },
+    {
+      "EnglishWord": "reason",
+      "Meanings": [
+        "دلیل",
+        "برهان"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable assurance",
+      "Meanings": [
+        "اطمینان معقمل منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "reasonableness",
+      "Meanings": [
+        "معقول بودن"
+      ]
+    },
+    {
+      "EnglishWord": "reasonably possible",
+      "Meanings": [
+        "ممکن منطقی",
+        "ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "rebate",
+      "Meanings": [
+        "تخفیف"
+      ]
+    },
+    {
+      "EnglishWord": "receipt",
+      "Meanings": [
+        "قبض رسید",
+        "دریافت",
+        "رسید"
+      ]
+    },
+    {
+      "EnglishWord": "receipts",
+      "Meanings": [
+        "دریافتها"
+      ]
+    },
+    {
+      "EnglishWord": "receivable from affiliates",
+      "Meanings": [
+        "مطالبات از واحدهای فرعی وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "receivable turnover ratio",
+      "Meanings": [
+        "نسبت گردش مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "receivables",
+      "Meanings": [
+        "دریافتنی ها",
+        "دریافتنیها مطالبات",
+        "مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "receivables collection period",
+      "Meanings": [
+        "دوره وصول مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "receivables turnover",
+      "Meanings": [
+        "دفعات گردش مطالبات"
+      ]
+    },
+    {
+      "EnglishWord": "received",
+      "Meanings": [
+        "دریافت شده"
+      ]
+    },
+    {
+      "EnglishWord": "received for shipment b/l",
+      "Meanings": [
+        "بارنامه دریافت کالا برای حمل"
+      ]
+    },
+    {
+      "EnglishWord": "receiver",
+      "Meanings": [
+        "دریافت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "receiving report",
+      "Meanings": [
+        "گزارش دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "receiving reports",
+      "Meanings": [
+        "گزارش‌های دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "recession",
+      "Meanings": [
+        "رکود"
+      ]
+    },
+    {
+      "EnglishWord": "recessionary periods",
+      "Meanings": [
+        "دوره‌های رکود اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal account",
+      "Meanings": [
+        "حساب متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal accounts",
+      "Meanings": [
+        "حسابهای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal allocution method",
+      "Meanings": [
+        "روش تخصیص متقابل نام دیگر روش تخصیص ریاضی یا جبری"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal items",
+      "Meanings": [
+        "اقلام متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal method",
+      "Meanings": [
+        "روش متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal of the payback period",
+      "Meanings": [
+        "معکوس دوره بازیافت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal transfers",
+      "Meanings": [
+        "انتقالات دوجانبه"
+      ]
+    },
+    {
+      "EnglishWord": "reclassification",
+      "Meanings": [
+        "تغییر طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "reclassification entry",
+      "Meanings": [
+        "ثبت تجدید طبقه بندی اصطلاحات طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "recognition",
+      "Meanings": [
+        "شناخت شناسایی",
+        "شناسایی",
+        "شناخت"
+      ]
+    },
+    {
+      "EnglishWord": "recognition criteria",
+      "Meanings": [
+        "ضوابط شناخت"
+      ]
+    },
+    {
+      "EnglishWord": "recognition of income",
+      "Meanings": [
+        "شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "recognition of revenue",
+      "Meanings": [
+        "شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "recognition realization",
+      "Meanings": [
+        "شتاسایی درآمد تحقق درآمد فروش",
+        "شناخت درآمد تحقق درآمد فروش"
+      ]
+    },
+    {
+      "EnglishWord": "recognized",
+      "Meanings": [
+        "شناسایی شده"
+      ]
+    },
+    {
+      "EnglishWord": "recommend",
+      "Meanings": [
+        "سفارش",
+        "توصیه"
+      ]
+    },
+    {
+      "EnglishWord": "recommended",
+      "Meanings": [
+        "توصیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "recommended retail selling price",
+      "Meanings": [
+        "قیمت خرده فروشی توصیه شده",
+        "قیمت تعیین شده برای خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "reconcile",
+      "Meanings": [
+        "مغایرت گیری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation",
+      "Meanings": [
+        "اصلاح و تعدیلات",
+        "تطبیق",
+        "تطبیق دادن",
+        "مجددا به توافق رسیدن",
+        "مغایرت گیری"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation method",
+      "Meanings": [
+        "روش مغایرت"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation of consolidated net income to operating cash flows",
+      "Meanings": [
+        "مغایرت گیری تطبیق خالص تلفیقی با جریانهای نقدی حاصل از سود عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation of cost and financial accounts",
+      "Meanings": [
+        "تطبیق حسابهای صنعتی با حسابهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation of net worth",
+      "Meanings": [
+        "صورت مغایرات ارزش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "reconstruction",
+      "Meanings": [
+        "باز سازی"
+      ]
+    },
+    {
+      "EnglishWord": "record",
+      "Meanings": [
+        "ثبت",
+        "سابقه",
+        "ثبت سابقه مدرک",
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "record  evidencerecorded evidence",
+      "Meanings": [
+        "شواهد ثبتی کتبی"
+      ]
+    },
+    {
+      "EnglishWord": "record count",
+      "Meanings": [
+        "تعدادرکورد"
+      ]
+    },
+    {
+      "EnglishWord": "record format",
+      "Meanings": [
+        "فرم رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "recorded amount",
+      "Meanings": [
+        "مبلغ ثبت شده"
+      ]
+    },
+    {
+      "EnglishWord": "recordkeeping",
+      "Meanings": [
+        "دفترداری"
+      ]
+    },
+    {
+      "EnglishWord": "records",
+      "Meanings": [
+        "مدارک",
+        "دفاتر"
+      ]
+    },
+    {
+      "EnglishWord": "recource",
+      "Meanings": [
+        "حق رجوع"
+      ]
+    },
+    {
+      "EnglishWord": "recourse",
+      "Meanings": [
+        "مراجعه کارگزار"
+      ]
+    },
+    {
+      "EnglishWord": "recoverable amount",
+      "Meanings": [
+        "مبلغ قابل بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "recoverable units",
+      "Meanings": [
+        "مقدار قابل بهره برداری _ استخراج"
+      ]
+    },
+    {
+      "EnglishWord": "recovery",
+      "Meanings": [
+        "بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "recovery factor",
+      "Meanings": [
+        "فاکتور بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "recovery of fixed costs",
+      "Meanings": [
+        "بازیافت هزینه‌های ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "recovery years",
+      "Meanings": [
+        "سالهای بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "recruit",
+      "Meanings": [
+        "کارمند یابی",
+        "استخدام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "recurring",
+      "Meanings": [
+        "ماهیت مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "recurring losses",
+      "Meanings": [
+        "زیانهای مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "recycle",
+      "Meanings": [
+        "بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "red clause credit",
+      "Meanings": [
+        "اعتبار با شرط قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "redeemable bonds",
+      "Meanings": [
+        "اوراق قرضه قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "redeemable preferred stock",
+      "Meanings": [
+        "سهام ممتاز قابل بازخرید"
+      ]
+    },
+    {
+      "EnglishWord": "redelivery",
+      "Meanings": [
+        "تاریخ استرداد کشتی توسط مستاجر"
+      ]
+    },
+    {
+      "EnglishWord": "redemption fund",
+      "Meanings": [
+        "وجوه بازخرید اوراق قرضه"
+      ]
+    },
+    {
+      "EnglishWord": "redemption of shares",
+      "Meanings": [
+        "بازپرداخت سهام"
+      ]
+    },
+    {
+      "EnglishWord": "redistributed cost",
+      "Meanings": [
+        "هزینه تخصیص داده شده دوباره"
+      ]
+    },
+    {
+      "EnglishWord": "reduced profit method",
+      "Meanings": [
+        "روش تقلیل سود"
+      ]
+    },
+    {
+      "EnglishWord": "reducing balance method",
+      "Meanings": [
+        "روش مانده نزولی",
+        "روش مانده نزولی _ روش نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "reducing balance method of depreciation",
+      "Meanings": [
+        "استهلاک طبق روش اقساط نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of capital",
+      "Meanings": [
+        "کاهش سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "reexport",
+      "Meanings": [
+        "صادرات مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "re-export",
+      "Meanings": [
+        "صادرات مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "refer",
+      "Meanings": [
+        "ارجاع دادن"
+      ]
+    },
+    {
+      "EnglishWord": "refer to",
+      "Meanings": [
+        "ارجاع به"
+      ]
+    },
+    {
+      "EnglishWord": "reference",
+      "Meanings": [
+        "مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference file",
+      "Meanings": [
+        "فایل اصلی مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reference transaction",
+      "Meanings": [
+        "معامله/مبادله مورد اشاره مبادله اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "refinancing",
+      "Meanings": [
+        "تامین مالی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "refinery",
+      "Meanings": [
+        "پالایشگاه"
+      ]
+    },
+    {
+      "EnglishWord": "reflex",
+      "Meanings": [
+        "بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "reform",
+      "Meanings": [
+        "اصلاح",
+        "بهسازی"
+      ]
+    },
+    {
+      "EnglishWord": "refund",
+      "Meanings": [
+        "باز پرداخت",
+        "وباره تامین مالی کردن جایگزین کردن تامین مالی استرداد وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "refundable deposits",
+      "Meanings": [
+        "سپرده‌های قابل استرداد"
+      ]
+    },
+    {
+      "EnglishWord": "refunding",
+      "Meanings": [
+        "دوباره تامین مالی کردن جایگزین کردن تامین مالی"
+      ]
+    },
+    {
+      "EnglishWord": "refunding bonds",
+      "Meanings": [
+        "اوراق قرضه بانام"
+      ]
+    },
+    {
+      "EnglishWord": "refusal to accept the work",
+      "Meanings": [
+        "امتناع از تحویل گرفتن کار",
+        "خودداری از پذیرش کار"
+      ]
+    },
+    {
+      "EnglishWord": "refuse",
+      "Meanings": [
+        "رد کردن",
+        "نپذیرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "regional brokerage firm",
+      "Meanings": [
+        "موسس کارگزاری منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "regional competitive market-marker",
+      "Meanings": [
+        "بازار ساز رقابتی منطقه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "regional cooperation of development rcd regional cooperation of developmentrcd",
+      "Meanings": [
+        "سازمان توسعه عمران منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "register",
+      "Meanings": [
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "register book",
+      "Meanings": [
+        "دفتر ثبت کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "registered agent",
+      "Meanings": [
+        "بورس منطقه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "registered bonds",
+      "Meanings": [
+        "اوراق قرضه جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "registrar",
+      "Meanings": [
+        "دفتر ثبت سهام"
+      ]
+    },
+    {
+      "EnglishWord": "registration analysis",
+      "Meanings": [
+        "جزیه و تحلیل شرایط تقاضای پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "registration fees",
+      "Meanings": [
+        "هزینه‌های ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "registration statement",
+      "Meanings": [
+        "تقاضای پذیرش در",
+        "تقاضای پذیرش در بورس اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "regression",
+      "Meanings": [
+        "همگرایی",
+        "رگراسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression correlation analysis",
+      "Meanings": [
+        "تجزیه و تحلیل رگرسیون",
+        "همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "regression line",
+      "Meanings": [
+        "خط همگرایی",
+        "خط رگراسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression models",
+      "Meanings": [
+        "مدل‌های برگشت پذیر",
+        "مدل هایی برای تعمیم روندهای داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "regular dividend",
+      "Meanings": [
+        "سود سهام منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regularity audit",
+      "Meanings": [
+        "حسابرسی رعایت قوانین و مقررات موضوعه"
+      ]
+    },
+    {
+      "EnglishWord": "regulated economy",
+      "Meanings": [
+        "اقتصاد تحت کنترل اقتصاد تحت نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "regulated markets",
+      "Meanings": [
+        "بازارهای تحت نظارت کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "regulations",
+      "Meanings": [
+        "مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "regulatory agencies",
+      "Meanings": [
+        "مراجع/نهادهای نظارتی"
+      ]
+    },
+    {
+      "EnglishWord": "regulatory authorities",
+      "Meanings": [
+        "مراجع نهادهای نظارتی"
+      ]
+    },
+    {
+      "EnglishWord": "regulatory bodies",
+      "Meanings": [
+        "نهادهای ذیصلاح قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "reimburse",
+      "Meanings": [
+        "ادای دین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reimbursement",
+      "Meanings": [
+        "باز پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "reimbursing bank",
+      "Meanings": [
+        "بانک پرداخت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reinsurance",
+      "Meanings": [
+        "بیمه اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "re-insurance",
+      "Meanings": [
+        "بیمه اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "reinvestment assumption",
+      "Meanings": [
+        "فرض سرمایه گذراری مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reinvestment of fund",
+      "Meanings": [
+        "سرمایه گذاری مجدد وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "reinvestment rate risk",
+      "Meanings": [
+        "ریسک نرخ سرمایه‌گذاری مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reject",
+      "Meanings": [
+        "رد کردن",
+        "نپذیرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "related fields",
+      "Meanings": [
+        "زمینه‌های/ رشته‌های وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "related parties",
+      "Meanings": [
+        "اشخاص وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "related parties transactions",
+      "Meanings": [
+        "معاملات با اشخاص وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "related party",
+      "Meanings": [
+        "اشخاص شخص وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "related party transaction",
+      "Meanings": [
+        "معامله با اشخاص وابسته",
+        "معامله با اشخاص واسته"
+      ]
+    },
+    {
+      "EnglishWord": "related party transactions",
+      "Meanings": [
+        "معاملات اشخاص وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "related services",
+      "Meanings": [
+        "خدمات مرتبط وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "relation investing",
+      "Meanings": [
+        "سرمایه گذاری رابطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "relational",
+      "Meanings": [
+        "ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "relational data base management system",
+      "Meanings": [
+        "سیستم مدیریت پایگاه داده رابطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "relational structure",
+      "Meanings": [
+        "ساختار نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative market value",
+      "Meanings": [
+        "ارزش نسبی بازار"
+      ]
+    },
+    {
+      "EnglishWord": "relative precision",
+      "Meanings": [
+        "دقت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative prices",
+      "Meanings": [
+        "قیمت‌های نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative risk",
+      "Meanings": [
+        "ریسک نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative risk aversion",
+      "Meanings": [
+        "ریسک گریزی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative sales value method",
+      "Meanings": [
+        "روش ارزش نسبی فروش",
+        "روش ارزش نسبی فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "relative strength",
+      "Meanings": [
+        "قدرت نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "release of indemnity",
+      "Meanings": [
+        "رفع تضمین"
+      ]
+    },
+    {
+      "EnglishWord": "released dates",
+      "Meanings": [
+        "تاریخ‌های انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "released questions",
+      "Meanings": [
+        "سیوالات منتشر شده"
+      ]
+    },
+    {
+      "EnglishWord": "relevance",
+      "Meanings": [
+        "مربوط بودن",
+        "مربوط بودن تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "relevance of evidence",
+      "Meanings": [
+        "مربوط بودن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "relevancy",
+      "Meanings": [
+        "مربوط بودن"
+      ]
+    },
+    {
+      "EnglishWord": "relevant",
+      "Meanings": [
+        "مربوط بودن"
+      ]
+    },
+    {
+      "EnglishWord": "relevant cost",
+      "Meanings": [
+        "بهای تمام شده مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant costing",
+      "Meanings": [
+        "هزینه‌یابی مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant costs",
+      "Meanings": [
+        "مخارج مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant data",
+      "Meanings": [
+        "اطلاعات مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant information",
+      "Meanings": [
+        "اطلاعات مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant information accumulation",
+      "Meanings": [
+        "گردآوری اطلاعات مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant range",
+      "Meanings": [
+        "دامنه مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant range assumption",
+      "Meanings": [
+        "فرض دامنه مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant revenues",
+      "Meanings": [
+        "درآمدهای مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "relevant risk",
+      "Meanings": [
+        "مخاطره مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "reliability",
+      "Meanings": [
+        "قابلیت اتکاء",
+        "قابلیت اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "reliability factor",
+      "Meanings": [
+        "فاکتور قابلیت اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "reliability of evidence",
+      "Meanings": [
+        "قابل اتکاء بودن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "reliability of financial reporting",
+      "Meanings": [
+        "قابل اتکاء بودن گزارشگری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "reliability one sided and interval",
+      "Meanings": [
+        "قابلیت اعتماد یکطرفه و دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "reliability period",
+      "Meanings": [
+        "دوره قابلیت اتکا"
+      ]
+    },
+    {
+      "EnglishWord": "reliability strategy",
+      "Meanings": [
+        "استراتژی اتکا"
+      ]
+    },
+    {
+      "EnglishWord": "reliabity",
+      "Meanings": [
+        "قابلیت اتکا قابل اعتماد بودن"
+      ]
+    },
+    {
+      "EnglishWord": "reliable",
+      "Meanings": [
+        "قابل اعتماد",
+        "مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "reliable evidence",
+      "Meanings": [
+        "شواهد قابل اتکاء"
+      ]
+    },
+    {
+      "EnglishWord": "remaining service life",
+      "Meanings": [
+        "عمر مفید باقی‌مانده"
+      ]
+    },
+    {
+      "EnglishWord": "remaining useful lives",
+      "Meanings": [
+        "سنوات باقیمانده عمر مفید"
+      ]
+    },
+    {
+      "EnglishWord": "remanufacturing costs",
+      "Meanings": [
+        "مخارج/ هزینه‌های قبل از تولی"
+      ]
+    },
+    {
+      "EnglishWord": "remark",
+      "Meanings": [
+        "اظهار نمودن ملاحظات"
+      ]
+    },
+    {
+      "EnglishWord": "remarks",
+      "Meanings": [
+        "جزییات",
+        "توضیحات"
+      ]
+    },
+    {
+      "EnglishWord": "remittance advice",
+      "Meanings": [
+        "نامه همراه چک"
+      ]
+    },
+    {
+      "EnglishWord": "remote",
+      "Meanings": [
+        "بعید"
+      ]
+    },
+    {
+      "EnglishWord": "remote connection",
+      "Meanings": [
+        "ارتباط راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "remote likely",
+      "Meanings": [
+        "احتمالا بعید"
+      ]
+    },
+    {
+      "EnglishWord": "remoteness",
+      "Meanings": [
+        "عدم دسترسی مستقیم دورافتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "removal of the site installations",
+      "Meanings": [
+        "برچیدن کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "remove",
+      "Meanings": [
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "remuneration",
+      "Meanings": [
+        "حق الزحمه اجرت پاداش"
+      ]
+    },
+    {
+      "EnglishWord": "remuneration of labour",
+      "Meanings": [
+        "اجرت کار"
+      ]
+    },
+    {
+      "EnglishWord": "rendering of services",
+      "Meanings": [
+        "ارایه خدمات",
+        "انجام ارایه خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "renovation",
+      "Meanings": [
+        "نوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "rent",
+      "Meanings": [
+        "اجاره کردن",
+        "کرایه"
+      ]
+    },
+    {
+      "EnglishWord": "rent expense",
+      "Meanings": [
+        "هزینه اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "rent of office building",
+      "Meanings": [
+        "اجاره ساختمان اداری"
+      ]
+    },
+    {
+      "EnglishWord": "rent rebate",
+      "Meanings": [
+        "حق مسکن"
+      ]
+    },
+    {
+      "EnglishWord": "rent receivable",
+      "Meanings": [
+        "اجاره دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "rent revenue",
+      "Meanings": [
+        "درآمد اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "rent income",
+      "Meanings": [
+        "درآمد اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "rental",
+      "Meanings": [
+        "کرایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rental revenue",
+      "Meanings": [
+        "درآمد اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "reorder point",
+      "Meanings": [
+        "حد تجدید سفارش",
+        "نقطه تجدید سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "reorganization",
+      "Meanings": [
+        "تجدید سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "reorganization plan",
+      "Meanings": [
+        "طرح تجدید سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "repair",
+      "Meanings": [
+        "تعمیر",
+        "اصلاح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "repair and maintenance",
+      "Meanings": [
+        "تعمیر و نگهداشت"
+      ]
+    },
+    {
+      "EnglishWord": "repair and maintenance costs",
+      "Meanings": [
+        "مخارج تعمیر و نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "repairs",
+      "Meanings": [
+        "تعمیرات"
+      ]
+    },
+    {
+      "EnglishWord": "repairs and maintenance",
+      "Meanings": [
+        "تعمیرات و نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "repeal",
+      "Meanings": [
+        "لغو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reperformance",
+      "Meanings": [
+        "اجرای انجام مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reperformance checks",
+      "Meanings": [
+        "کنترلهای مربوط به اجرای مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "replacement",
+      "Meanings": [
+        "جایگزین",
+        "جایگزینی تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "replacement and betterment",
+      "Meanings": [
+        "تعویض و بهسازی نوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost",
+      "Meanings": [
+        "ارزش جایگزینی",
+        "مخارج جایگزینی تعویض هزینه تعویض یا جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost accounting",
+      "Meanings": [
+        "حسابداری بهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost information",
+      "Meanings": [
+        "اطلاعات بهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost method",
+      "Meanings": [
+        "روش ارزش جایگزینی",
+        "روش بهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement costs",
+      "Meanings": [
+        "ارزشهای جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement system of depreciation",
+      "Meanings": [
+        "روش استهلاک دارایی بکار افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "replacement value",
+      "Meanings": [
+        "ارزش جایگزنی",
+        "ارزش جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replenish  petty cash replenish",
+      "Meanings": [
+        "تجدید کردن تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "replicated database",
+      "Meanings": [
+        "پایگاه داده کپی شده"
+      ]
+    },
+    {
+      "EnglishWord": "reply",
+      "Meanings": [
+        "پاسخ جواب"
+      ]
+    },
+    {
+      "EnglishWord": "report",
+      "Meanings": [
+        "گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "report auditor s",
+      "Meanings": [
+        "گزارش حسابرسی مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "report deficiencies",
+      "Meanings": [
+        "نارسایی‌های گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "report form",
+      "Meanings": [
+        "شکل گزارشی"
+      ]
+    },
+    {
+      "EnglishWord": "report format",
+      "Meanings": [
+        "شکل ساختار گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "report on internal control",
+      "Meanings": [
+        "گزارش سیستم کنترل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "reportable",
+      "Meanings": [
+        "قابل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "reportable earnings",
+      "Meanings": [
+        "سود قابل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "reportable operating segment",
+      "Meanings": [
+        "بخش عملیاتی قابل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "reportable segment",
+      "Meanings": [
+        "بخش قابل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "reporting",
+      "Meanings": [
+        "گزارشگری"
+      ]
+    },
+    {
+      "EnglishWord": "reporting comprehensive income",
+      "Meanings": [
+        "گزارشگری سود جامع"
+      ]
+    },
+    {
+      "EnglishWord": "reporting conventions",
+      "Meanings": [
+        "قواعد گزارشگری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "reporting currency",
+      "Meanings": [
+        "واحد پول گزارشگری",
+        "واحد پولی گزارشگری"
+      ]
+    },
+    {
+      "EnglishWord": "reporting deadline",
+      "Meanings": [
+        "مهلت ارسال گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "reporting enterprise reporting entity",
+      "Meanings": [
+        "واحد تجاری گزارشگر"
+      ]
+    },
+    {
+      "EnglishWord": "reporting entity",
+      "Meanings": [
+        "واحد گزارشگر"
+      ]
+    },
+    {
+      "EnglishWord": "reporting requirements",
+      "Meanings": [
+        "الزامات گزارشگری"
+      ]
+    },
+    {
+      "EnglishWord": "repository",
+      "Meanings": [
+        "منبع ذخیره داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "representation letter",
+      "Meanings": [
+        "تاییدیه گواهینامه مدیران"
+      ]
+    },
+    {
+      "EnglishWord": "representational faithfulness",
+      "Meanings": [
+        "انعکاس واقعیت صداقت در ارایه",
+        "ارایه معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "representative",
+      "Meanings": [
+        "نماینده",
+        "کار گزار"
+      ]
+    },
+    {
+      "EnglishWord": "representative sample",
+      "Meanings": [
+        "نمونه معرف جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "reproduction",
+      "Meanings": [
+        "تولید مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "repurchase agreement",
+      "Meanings": [
+        "قرارداد باز خرید"
+      ]
+    },
+    {
+      "EnglishWord": "repurchase offer",
+      "Meanings": [
+        "پیشنهاد باز خرید"
+      ]
+    },
+    {
+      "EnglishWord": "repurchased sharesrepurchased stocks",
+      "Meanings": [
+        "سهام بازخرید شده"
+      ]
+    },
+    {
+      "EnglishWord": "request",
+      "Meanings": [
+        "درخواست کردن"
+      ]
+    },
+    {
+      "EnglishWord": "request for direct payment",
+      "Meanings": [
+        "درخواست پرداخت فوری مستقیم",
+        "درخواست پرداخت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "request for proposal",
+      "Meanings": [
+        "درخواست پیشنهاد"
+      ]
+    },
+    {
+      "EnglishWord": "request for quotation",
+      "Meanings": [
+        "استعلام بهاء"
+      ]
+    },
+    {
+      "EnglishWord": "requested",
+      "Meanings": [
+        "درخواست شده"
+      ]
+    },
+    {
+      "EnglishWord": "requesting authority for expenditure",
+      "Meanings": [
+        "درخواست اختیار برای انجام مخارج"
+      ]
+    },
+    {
+      "EnglishWord": "required",
+      "Meanings": [
+        "الزامی مطلوب است"
+      ]
+    },
+    {
+      "EnglishWord": "required rate of return  rrr",
+      "Meanings": [
+        "نرخ بازده مطلوب/ مورد مطالبه"
+      ]
+    },
+    {
+      "EnglishWord": "requirements",
+      "Meanings": [
+        "الزامات نیازها",
+        "کل تامین مالی مورد نیاز",
+        "نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "requisition",
+      "Meanings": [
+        "فرم درخواست کالا از انبار"
+      ]
+    },
+    {
+      "EnglishWord": "requisition statement",
+      "Meanings": [
+        "تقاضای پذیرش",
+        "صورت درخواست"
+      ]
+    },
+    {
+      "EnglishWord": "requisitioning for stores",
+      "Meanings": [
+        "درخواست سفارش اجناس انبار"
+      ]
+    },
+    {
+      "EnglishWord": "resale price method",
+      "Meanings": [
+        "روش قیمت فروش مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "research",
+      "Meanings": [
+        "تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research and development",
+      "Meanings": [
+        "تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research and development  r d",
+      "Meanings": [
+        "تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research and development cost",
+      "Meanings": [
+        "هزینه تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research and development costs",
+      "Meanings": [
+        "مخارج تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research and development expense budget",
+      "Meanings": [
+        "بودجه مخارج تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research and development r   d r   d",
+      "Meanings": [
+        "تحقیق و توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research approaches",
+      "Meanings": [
+        "روشهای تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research design",
+      "Meanings": [
+        "طرح تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research development",
+      "Meanings": [
+        "گسترش از طریق تحقیق توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "research findings",
+      "Meanings": [
+        "یافته‌های تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research limitations",
+      "Meanings": [
+        "محدودیتهای تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research method",
+      "Meanings": [
+        "روش تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research methodology",
+      "Meanings": [
+        "روش شناسی تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "research recommendations and electronic voting",
+      "Meanings": [
+        "پژوهش",
+        "توصیه‌ها و رای دهی الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "research staff",
+      "Meanings": [
+        "ستاد تحقیقاتی کارکنان واحد پژوهش اندوخته تعهدات قطعی نشده سنواتی"
+      ]
+    },
+    {
+      "EnglishWord": "reservation",
+      "Meanings": [
+        "ایراد",
+        "ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "reserve",
+      "Meanings": [
+        "ذخیره",
+        "ذخیره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reserve for inventory",
+      "Meanings": [
+        "ذخیره موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "reserve for uncollected taxes",
+      "Meanings": [
+        "ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "reserve recognition accounting",
+      "Meanings": [
+        "حسابداری شناخت ذخایر",
+        "مالیتهای وصول نشده حسابداری شناسایی ذخایر"
+      ]
+    },
+    {
+      "EnglishWord": "resident engineer",
+      "Meanings": [
+        "مهندس فنی مقیم",
+        "مهندس مقیم",
+        "ناظر مقیم"
+      ]
+    },
+    {
+      "EnglishWord": "residual beneficiaries",
+      "Meanings": [
+        "ذینفعان نهایی باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual dividend policy",
+      "Meanings": [
+        "سیاست سود سهام مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "residual equity",
+      "Meanings": [
+        "حقوق باقیمانده",
+        "حقوق مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "residual equity theory",
+      "Meanings": [
+        "تیوری حقوق باقی مانده/ نهایی/ مازاد",
+        "تیوری حقوق مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "residual income",
+      "Meanings": [
+        "سود اضافی",
+        "سود باقیمانده/ نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "residual interest",
+      "Meanings": [
+        "ارزش خالص باقیمانده",
+        "منافع باقیمانده / نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "residual owners",
+      "Meanings": [
+        "مالکان نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "residual salvage value",
+      "Meanings": [
+        "ارزش باقی مانده ارزش اقساط"
+      ]
+    },
+    {
+      "EnglishWord": "residual standard deviation",
+      "Meanings": [
+        "انحراف معیار باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual term",
+      "Meanings": [
+        "خطای باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual theory of dividends",
+      "Meanings": [
+        "تیوری سود سهام باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual value",
+      "Meanings": [
+        "ارزش اسقاط"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "تصمیم",
+        "قطعنامه",
+        "رای"
+      ]
+    },
+    {
+      "EnglishWord": "resource capacity",
+      "Meanings": [
+        "ظرفیت منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource capacity planning",
+      "Meanings": [
+        "برنامه‌ریزی ظرفیت منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource drivers",
+      "Meanings": [
+        "محرکهای منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource planning",
+      "Meanings": [
+        "برنامه‌ریزی منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource spending",
+      "Meanings": [
+        "مصرف منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource usage",
+      "Meanings": [
+        "مصرف منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resources",
+      "Meanings": [
+        "منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resources supplied",
+      "Meanings": [
+        "منابع تامین شده"
+      ]
+    },
+    {
+      "EnglishWord": "resources supplied in advance of usage",
+      "Meanings": [
+        "منابع تامین شده قبل از مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility",
+      "Meanings": [
+        "مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility accounting",
+      "Meanings": [
+        "حسابداری",
+        "حسابداری سنجش مسیولیت پاسخگویی"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility accounting system",
+      "Meanings": [
+        "سنجش مسیولیت سیستم حسابداری سنجش مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility center",
+      "Meanings": [
+        "مرکز مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility report",
+      "Meanings": [
+        "گزارش مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility reporting",
+      "Meanings": [
+        "گزارشگری مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "responsible party",
+      "Meanings": [
+        "طرف مسیول/ پاسخگو"
+      ]
+    },
+    {
+      "EnglishWord": "respresntative groups",
+      "Meanings": [
+        "گروه‌های نمایندگی"
+      ]
+    },
+    {
+      "EnglishWord": "restart",
+      "Meanings": [
+        "شروع مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "restate retroactively",
+      "Meanings": [
+        "تسری اثرات تغییر به گذشته و تنظیم و ارایه مجدد صورتهای مالی دوره‌های قبل"
+      ]
+    },
+    {
+      "EnglishWord": "restatement",
+      "Meanings": [
+        "ارایه مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "restatement of financial statement",
+      "Meanings": [
+        "تجدید ارایه صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "restatement of financial statements",
+      "Meanings": [
+        "همگن سازی صورت‌های مالی"
+      ]
+    },
+    {
+      "EnglishWord": "restoration",
+      "Meanings": [
+        "بازیافت استرداد ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "restricted",
+      "Meanings": [
+        "محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restricted cash",
+      "Meanings": [
+        "وجه نقد محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restricted fund",
+      "Meanings": [
+        "حساب مستقل وجوه محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restricted retained earning",
+      "Meanings": [
+        "سود انباشته محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restricted retained earnings",
+      "Meanings": [
+        "سود انباشته محدود شده"
+      ]
+    },
+    {
+      "EnglishWord": "restricted stock",
+      "Meanings": [
+        "سهم غیر قابل معامله"
+      ]
+    },
+    {
+      "EnglishWord": "restriction",
+      "Meanings": [
+        "محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "restriction on retained earnings",
+      "Meanings": [
+        "محدودیت در توزیع سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "restrictions and adjustments of retained earnings",
+      "Meanings": [
+        "محدودیتها و تعدیلات سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "restrictions to dividend payment",
+      "Meanings": [
+        "محدودیت در پرداخت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "restrictive covenants",
+      "Meanings": [
+        "شرایط محدود کننده"
+      ]
+    },
+    {
+      "EnglishWord": "restructuring charges",
+      "Meanings": [
+        "مخارج تجدید ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "result of operations",
+      "Meanings": [
+        "نتایج عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "results of operations",
+      "Meanings": [
+        "نتایج عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "retail credit",
+      "Meanings": [
+        "اعتبار خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retail inventory method",
+      "Meanings": [
+        "روش ارزشیابی موجودیها به بهای خرده فروشی",
+        "روش خرده فروشی موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "retail method",
+      "Meanings": [
+        "روش خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retail price",
+      "Meanings": [
+        "قیمت خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retail price index",
+      "Meanings": [
+        "شاخص قیمت خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retail prices",
+      "Meanings": [
+        "قیمتهای خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retail trade",
+      "Meanings": [
+        "خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retailer",
+      "Meanings": [
+        "خرده فروش"
+      ]
+    },
+    {
+      "EnglishWord": "retained earning",
+      "Meanings": [
+        "سود زیان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retained earnings",
+      "Meanings": [
+        "سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retained earnings appropriations",
+      "Meanings": [
+        "تخصیص سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retained earnings statement",
+      "Meanings": [
+        "صورت سود زیان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retained eqrnings",
+      "Meanings": [
+        "سود زیان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retention",
+      "Meanings": [
+        "سپرده حسن انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "retention money",
+      "Meanings": [
+        "کسور وجه الضمان سپرده حسن انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "retention money   performance withholding",
+      "Meanings": [
+        "سپرده حسن انجام کار"
+      ]
+    },
+    {
+      "EnglishWord": "retention period",
+      "Meanings": [
+        "دوره نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "retention ratio",
+      "Meanings": [
+        "نسبت اندوخته کردن سود"
+      ]
+    },
+    {
+      "EnglishWord": "retired pay",
+      "Meanings": [
+        "حقوق بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement",
+      "Meanings": [
+        "ابطال بازخرید سهام",
+        "بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement and disposal",
+      "Meanings": [
+        "کنارگذاری و واگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "retirement benefits",
+      "Meanings": [
+        "مزایای بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement curve",
+      "Meanings": [
+        "منحی بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement fund",
+      "Meanings": [
+        "صندوق بازنشستگی",
+        "وجوه بازشستگی",
+        "ندوق بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement of treasury stock",
+      "Meanings": [
+        "خزانه ابطال سهام"
+      ]
+    },
+    {
+      "EnglishWord": "retirement pension",
+      "Meanings": [
+        "هزینه وجوه بازنشستگی",
+        "صندوق بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement plan",
+      "Meanings": [
+        "طرح بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement relief",
+      "Meanings": [
+        "معافیت بازنشستگی"
+      ]
+    },
+    {
+      "EnglishWord": "retirement system of depraciation",
+      "Meanings": [
+        "روش _ طریق استهلاک دارایی از کار افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "retrieval expenditure",
+      "Meanings": [
+        "مخارج بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "retroactive",
+      "Meanings": [
+        "قابل عطف بماسبق"
+      ]
+    },
+    {
+      "EnglishWord": "retroactive approach",
+      "Meanings": [
+        "به دوره‌های گذشته روش عطف بماسبقروش/ رویکرد تسری",
+        "دوره‌های قبل عطف بماسبق روش تسری به"
+      ]
+    },
+    {
+      "EnglishWord": "retroactive basis",
+      "Meanings": [
+        "بر مبنای تسری به دوره‌های قبل"
+      ]
+    },
+    {
+      "EnglishWord": "retroactive effect type accounting change",
+      "Meanings": [
+        "تغییر حسابداری از نوع اثر انباشته تسری به دوره‌های قبل"
+      ]
+    },
+    {
+      "EnglishWord": "return",
+      "Meanings": [
+        "بازده",
+        "بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return generating process",
+      "Meanings": [
+        "فرآیند ایجاد بازده"
+      ]
+    },
+    {
+      "EnglishWord": "return of capital",
+      "Meanings": [
+        "بازگشت سرمایه",
+        "بدست سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "return on assets",
+      "Meanings": [
+        "بازده دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "return on capital",
+      "Meanings": [
+        "بازده سرمایه",
+        "بازگشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "return on equity",
+      "Meanings": [
+        "بازده ارزش ویژه",
+        "بازده مایملک صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "return on equity  roe",
+      "Meanings": [
+        "بازده ارزش ویژه بازده حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "return on investment",
+      "Meanings": [
+        "بازده سرمایه گذاری",
+        "برگشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "return on investment  roi",
+      "Meanings": [
+        "بازده سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "return on investment roi roi",
+      "Meanings": [
+        "نرخ بازده سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "return on net worth",
+      "Meanings": [
+        "بازده ارزش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "return on owners' equity",
+      "Meanings": [
+        "بازده حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "return on sales",
+      "Meanings": [
+        "بازده فروش"
+      ]
+    },
+    {
+      "EnglishWord": "return on total assets",
+      "Meanings": [
+        "بازده دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "return on total assets  roa",
+      "Meanings": [
+        "بازده مجموع داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "return on working capital",
+      "Meanings": [
+        "بازده سرمایه در گردش",
+        "بازده سرمایه جاری"
+      ]
+    },
+    {
+      "EnglishWord": "returnable deposits",
+      "Meanings": [
+        "سپرده‌های/ودایع قابل استرداد/ برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "returned goods",
+      "Meanings": [
+        "کالای برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "returns",
+      "Meanings": [
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "returns and allowances",
+      "Meanings": [
+        "برگشتیها و تخفیفات"
+      ]
+    },
+    {
+      "EnglishWord": "returns inward",
+      "Meanings": [
+        "برگشت از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "returns inward book",
+      "Meanings": [
+        "دفتر روزنامه برگشت از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "returns outward",
+      "Meanings": [
+        "برگشت از خرید"
+      ]
+    },
+    {
+      "EnglishWord": "returns outward book",
+      "Meanings": [
+        "دفتر روزنامه برگشت از خرید"
+      ]
+    },
+    {
+      "EnglishWord": "revaluation",
+      "Meanings": [
+        "تجدید ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "revaluation method of depreciation",
+      "Meanings": [
+        "استهلاک طبق روش تقویم دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "revaluation surplus",
+      "Meanings": [
+        "مازاد ناشی از تجدید ارزیابی",
+        "اندوخته تجدید ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "revaluation surplus account",
+      "Meanings": [
+        "حساب مازاد تجدید ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "revenue",
+      "Meanings": [
+        "در آمد عایدی",
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue bond",
+      "Meanings": [
+        "اوراق قرضه مبتنی بر درآمدهای خاص"
+      ]
+    },
+    {
+      "EnglishWord": "revenue center",
+      "Meanings": [
+        "مرکز درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue driver",
+      "Meanings": [
+        "عامل ایجاد درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue expenditure",
+      "Meanings": [
+        "مخارج هزینه جاری",
+        "مخارج جاری"
+      ]
+    },
+    {
+      "EnglishWord": "revenue from sales",
+      "Meanings": [
+        "درآمد حاصل از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "revenue generating activities",
+      "Meanings": [
+        "فعالیت‌های درآمدزا"
+      ]
+    },
+    {
+      "EnglishWord": "revenue offsets",
+      "Meanings": [
+        "اقلام خنثی کننده کاهنده درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue principle",
+      "Meanings": [
+        "اصل شناسایی درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue producing life",
+      "Meanings": [
+        "مدت زمان درآمدزایی"
+      ]
+    },
+    {
+      "EnglishWord": "revenue realization",
+      "Meanings": [
+        "اصل تحقق درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue realization principle",
+      "Meanings": [
+        "اصل تحقق درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue recognition",
+      "Meanings": [
+        "شناخت درآمد",
+        "شناسایی درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue recognition alternatives",
+      "Meanings": [
+        "روشهای مختلف شناسایی درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue recongnition",
+      "Meanings": [
+        "شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenue recoqnition principle",
+      "Meanings": [
+        "اصل شناخت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "revenues",
+      "Meanings": [
+        "درآمد",
+        "درآمدها"
+      ]
+    },
+    {
+      "EnglishWord": "revenues collected in advance",
+      "Meanings": [
+        "پیش دریافت درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "reversal cost method",
+      "Meanings": [
+        "روش هزینه یابی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reverse stock split",
+      "Meanings": [
+        "تجزیه معکوس سهام"
+      ]
+    },
+    {
+      "EnglishWord": "reversing entry",
+      "Meanings": [
+        "ثبت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "review",
+      "Meanings": [
+        "بررسی مرور",
+        "بررسی صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "review for subsequent events",
+      "Meanings": [
+        "بررسی رویدادهای بعد از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "review of financial statement",
+      "Meanings": [
+        "بررسی صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "review of historical financial statement",
+      "Meanings": [
+        "بررسی صورتهای مالی تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "review of working papers",
+      "Meanings": [
+        "برسی کالابرگهای حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "review services",
+      "Meanings": [
+        "خدمات بررسی صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "revised",
+      "Meanings": [
+        "بازنگری شده",
+        "اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "revised contract price",
+      "Meanings": [
+        "قیمت تجدیدنظر شده قرارداد",
+        "مبلغ تجدیدنظرشده پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "revised judgment about materiality",
+      "Meanings": [
+        "قضاوت دوباره درباره سطح اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "revision",
+      "Meanings": [
+        "تجدید نظر"
+      ]
+    },
+    {
+      "EnglishWord": "revocable l/c",
+      "Meanings": [
+        "اعتبار اسنادی برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "revoke",
+      "Meanings": [
+        "لغو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "revolution in corporate finance",
+      "Meanings": [
+        "انقلاب در مدیریت مالی شرکتهای سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "revolution in financial reporting",
+      "Meanings": [
+        "انقلاب در گزارشگری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "revolving fund",
+      "Meanings": [
+        "ساب مستقل اعتبارات جاری حساب تنخواه گردان وجوه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "revolving l/c",
+      "Meanings": [
+        "شاعتبار اسنادی گردان یا تدنی"
+      ]
+    },
+    {
+      "EnglishWord": "reward to variability ratio",
+      "Meanings": [
+        "نسبت بازده به ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "reward to variability ratio trynor ratio",
+      "Meanings": [
+        "نسبت بازده به ریسک نسبت ترینور"
+      ]
+    },
+    {
+      "EnglishWord": "rework",
+      "Meanings": [
+        "دوباره کاری",
+        "کار مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reworked unites",
+      "Meanings": [
+        "واحدهای دوباره کاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "rhetorical policy",
+      "Meanings": [
+        "خط مشی معانی بیان"
+      ]
+    },
+    {
+      "EnglishWord": "right",
+      "Meanings": [
+        "حق",
+        "حق و حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "right measure",
+      "Meanings": [
+        "اندازه صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "right on",
+      "Meanings": [
+        "با حق تقدم"
+      ]
+    },
+    {
+      "EnglishWord": "right side",
+      "Meanings": [
+        "سمت راست"
+      ]
+    },
+    {
+      "EnglishWord": "rights and obligation",
+      "Meanings": [
+        "حقوق مالکانه و تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "rights offering",
+      "Meanings": [
+        "عرضه گواهینامه حق تقدم خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "rigid uniformity",
+      "Meanings": [
+        "یکنواختی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "risiduals",
+      "Meanings": [
+        "واریانس اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "risk",
+      "Meanings": [
+        "خطر",
+        "احتمال زیان",
+        "ریسک احتمال متفاوت بودن نتیجه واقعی با نتیجه مورد انتظار",
+        "مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk adjusted return",
+      "Meanings": [
+        "بازده تعدیل شده ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk analysis",
+      "Meanings": [
+        "تجزیه و تحلیل ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk assessment",
+      "Meanings": [
+        "برآورد احتمال خطر",
+        "برآورد/ارزیابی ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk averse investor",
+      "Meanings": [
+        "سرمایه گذار ریسک پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "risk avertor",
+      "Meanings": [
+        "ریسک گریز"
+      ]
+    },
+    {
+      "EnglishWord": "risk focused approach",
+      "Meanings": [
+        "روش مبتنی بر ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk free borrowing",
+      "Meanings": [
+        "استقراض بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk free lending",
+      "Meanings": [
+        "وام دهی بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk free rate interest",
+      "Meanings": [
+        "نرخ بهره بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk group",
+      "Meanings": [
+        "گروههای مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk index",
+      "Meanings": [
+        "شاخص ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk indicators",
+      "Meanings": [
+        "شاخصهای ریسک نشانگرهای ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk indifferent",
+      "Meanings": [
+        "بی‌تفاوت به ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk loving investor",
+      "Meanings": [
+        "سرمایه گذار بی‌تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "risk of assessing control risk too high",
+      "Meanings": [
+        "ریسک برآورد ریسک کنترل در سطحی بسیار بالا"
+      ]
+    },
+    {
+      "EnglishWord": "risk of assessing control risk too low",
+      "Meanings": [
+        "یسک برآورد ریسک کنترل در سطحی بسیار پایین"
+      ]
+    },
+    {
+      "EnglishWord": "risk of incorrect acceptance",
+      "Meanings": [
+        "ریسک پذیرش نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "risk of incorrect acceptance beta risk",
+      "Meanings": [
+        "ریسک پذیرش نادرست نام دیگر ریسک بتا"
+      ]
+    },
+    {
+      "EnglishWord": "risk of incorrect rejection alpha risk",
+      "Meanings": [
+        "ریسک رد نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "risk of overauditing",
+      "Meanings": [
+        "احتمال خطر حسابرسی بیش از اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "risk of overreliance",
+      "Meanings": [
+        "ریسک اتکای بیشتر از واقع"
+      ]
+    },
+    {
+      "EnglishWord": "risk of underreliance",
+      "Meanings": [
+        "ریسک اتکای کمتر از واقع"
+      ]
+    },
+    {
+      "EnglishWord": "risk of unwarranted reliance",
+      "Meanings": [
+        "احتمال خطر اتکای توجیه ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "risk premium",
+      "Meanings": [
+        "صرف ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk return trade off",
+      "Meanings": [
+        "توازن بین ریسک و بازده"
+      ]
+    },
+    {
+      "EnglishWord": "risk seeking investor",
+      "Meanings": [
+        "سرمایه گذار ریسک پذیر/سرمایه گذار ریسک طلب"
+      ]
+    },
+    {
+      "EnglishWord": "risk structure",
+      "Meanings": [
+        "ساختار ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk structure of interest rates",
+      "Meanings": [
+        "ساختار ریسک نرخ‌های بهره"
+      ]
+    },
+    {
+      "EnglishWord": "risk tolerance",
+      "Meanings": [
+        "قدرت تحمل ریسک توان ریسک پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "riskless portfolio",
+      "Meanings": [
+        "مجموعه سرمایه گذاری بدون ریسک پرتفوی بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "riskless rate of interest",
+      "Meanings": [
+        "نرخ بدون مخاطره و سود تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "risks and rewards incedent to ownership",
+      "Meanings": [
+        "مخاطرات و مزایای مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "rival hypotheses",
+      "Meanings": [
+        "فرضیه‌های رقیب"
+      ]
+    },
+    {
+      "EnglishWord": "road",
+      "Meanings": [
+        "جاده"
+      ]
+    },
+    {
+      "EnglishWord": "role",
+      "Meanings": [
+        "نقش وظیفه"
+      ]
+    },
+    {
+      "EnglishWord": "rolling budget",
+      "Meanings": [
+        "بودجه چرخشی بودجه مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "rotation",
+      "Meanings": [
+        "جابه جایی",
+        "چرخش"
+      ]
+    },
+    {
+      "EnglishWord": "rotational tests",
+      "Meanings": [
+        "آزمون چرخه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rough-cut capacity planning",
+      "Meanings": [
+        "مجموعه برنامه‌ریزی تخمینی ظرفیت‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "round lot",
+      "Meanings": [
+        "معاملات صد سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "round off",
+      "Meanings": [
+        "سرراست کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rounding off",
+      "Meanings": [
+        "روند کردن",
+        "گردکردن اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "route",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "routine",
+      "Meanings": [
+        "تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "routings",
+      "Meanings": [
+        "روشها"
+      ]
+    },
+    {
+      "EnglishWord": "royalty",
+      "Meanings": [
+        "حق امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "royalty agreement",
+      "Meanings": [
+        "قرارداد حق الامتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "royalty free",
+      "Meanings": [
+        "حق امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قاعده",
+        "قانون"
+      ]
+    },
+    {
+      "EnglishWord": "rule of conduct",
+      "Meanings": [
+        "آیین رفتار حرفه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rules",
+      "Meanings": [
+        "قواعد"
+      ]
+    },
+    {
+      "EnglishWord": "rules of debit and credit",
+      "Meanings": [
+        "قواعد بدهکار و بستانکار"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "رانش",
+        "اجرا",
+        "چرخه عملیاتی",
+        "اداره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "run to run control",
+      "Meanings": [
+        "کنترل مرحله به مرحله",
+        "رانش به رانش"
+      ]
+    },
+    {
+      "EnglishWord": "runs test",
+      "Meanings": [
+        "آزمون تغییر قیمت"
+      ]
+    }
+  ]
+}

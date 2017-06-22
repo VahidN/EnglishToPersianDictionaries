@@ -1,0 +1,448 @@
+﻿{
+  "Group": "Q",
+  "Entries": 64,
+  "Words": [
+    {
+      "EnglishWord": "quadrant",
+      "Meanings": [
+        "ربع دایره",
+        "چارک",
+        "ربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic",
+      "Meanings": [
+        "مرتبه دوم",
+        "مربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic form",
+      "Meanings": [
+        "فرم درجه دوم",
+        "فرجه درجه دوم",
+        "صورت درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic loss",
+      "Meanings": [
+        "زیان درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic mean",
+      "Meanings": [
+        "میانگین درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic programming",
+      "Meanings": [
+        "برنامه ریزی کوادراتیک"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic regret",
+      "Meanings": [
+        "تاسف درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "qualification",
+      "Meanings": [
+        "خصوصیات",
+        "شرایط کیفی",
+        "شرایط لازم"
+      ]
+    },
+    {
+      "EnglishWord": "qualified",
+      "Meanings": [
+        "حایز شرایط",
+        "دارای شرایط",
+        "مشروط و مقید",
+        "واجدشرایط"
+      ]
+    },
+    {
+      "EnglishWord": "qualimetry",
+      "Meanings": [
+        "کیفیت سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative analysis",
+      "Meanings": [
+        "تجزیه و تحلیل کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative factor analysis",
+      "Meanings": [
+        "تحلیل کیفی عوامل"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative forecast",
+      "Meanings": [
+        "پیش بینی کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "quality",
+      "Meanings": [
+        "کیفیت",
+        "کیفیت و جنس",
+        "مرغوبیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality assurance",
+      "Meanings": [
+        "اطمینان کییفیت",
+        "اطمینان مرغوبیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality audit",
+      "Meanings": [
+        "ممیزی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality characteristic",
+      "Meanings": [
+        "مشخصه کیفیتی"
+      ]
+    },
+    {
+      "EnglishWord": "quality control",
+      "Meanings": [
+        "کنترل کیفیت",
+        "کنترل مرغوبیت",
+        "کنترل کیفی",
+        "کنترل چونی",
+        "کنترل جنس"
+      ]
+    },
+    {
+      "EnglishWord": "quality control circles",
+      "Meanings": [
+        "حلقه‌های کنترل کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality cost",
+      "Meanings": [
+        "هزینه کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality engineering",
+      "Meanings": [
+        "مهندسی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality goals",
+      "Meanings": [
+        "اهداف کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality history",
+      "Meanings": [
+        "سوابق کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality improvement",
+      "Meanings": [
+        "بهبود کیفیت",
+        "اصلاح کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality index",
+      "Meanings": [
+        "شاخص کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality information equipment",
+      "Meanings": [
+        "تجهیزات اطلاعاتی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality inspection",
+      "Meanings": [
+        "بازرسی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality loop",
+      "Meanings": [
+        "حلقه کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality management",
+      "Meanings": [
+        "مدیریت کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality measure",
+      "Meanings": [
+        "معیار کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality objectives",
+      "Meanings": [
+        "اهداف کیفیتی"
+      ]
+    },
+    {
+      "EnglishWord": "quality parameter",
+      "Meanings": [
+        "پارامتر کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality planning",
+      "Meanings": [
+        "برنامه ریزی کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality policy",
+      "Meanings": [
+        "سیاست کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality protection",
+      "Meanings": [
+        "تشخیص کیفیت",
+        "حمایت کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "quality report",
+      "Meanings": [
+        "گزارش کیفیتی"
+      ]
+    },
+    {
+      "EnglishWord": "quality spiral",
+      "Meanings": [
+        "مارپیچ کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality statistic",
+      "Meanings": [
+        "شاخص کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quanta",
+      "Meanings": [
+        "پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "quantified",
+      "Meanings": [
+        "کمی شده"
+      ]
+    },
+    {
+      "EnglishWord": "quantile",
+      "Meanings": [
+        "چندک",
+        "پارک"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative",
+      "Meanings": [
+        "کمی",
+        "مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative forecast",
+      "Meanings": [
+        "پیش بینی کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative method",
+      "Meanings": [
+        "روش مقداری",
+        "روش کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantity",
+      "Meanings": [
+        "کمیت",
+        "مقدار",
+        "اندازه",
+        "تعداد",
+        "چندی"
+      ]
+    },
+    {
+      "EnglishWord": "quantity discount",
+      "Meanings": [
+        "تخفیف در سفارش",
+        "تخفیف در خرید کلی",
+        "تخفیف در خرید‌های عمده",
+        "تخفیف کمیت"
+      ]
+    },
+    {
+      "EnglishWord": "quartile",
+      "Meanings": [
+        "چارک",
+        "چهاریک"
+      ]
+    },
+    {
+      "EnglishWord": "quartile coefficient",
+      "Meanings": [
+        "ضریب چارک"
+      ]
+    },
+    {
+      "EnglishWord": "quartile coefficient of variation",
+      "Meanings": [
+        "ضریب تغییرات چارکی"
+      ]
+    },
+    {
+      "EnglishWord": "quartile deviation",
+      "Meanings": [
+        "انحراف چارکی",
+        "انحراف چارک",
+        "انحراف ربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quench cracking",
+      "Meanings": [
+        "ترک برداشتن ناشی از کوینچ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quench hardening",
+      "Meanings": [
+        "سختکاری تبریدی",
+        "سخت کردن به کمک سریع سرد کردن",
+        "کوینچ کردن",
+        "سخت سرمایی",
+        "سختگردانی با سرد کردن سریع"
+      ]
+    },
+    {
+      "EnglishWord": "quench steel",
+      "Meanings": [
+        "فولاد تبرید شده"
+      ]
+    },
+    {
+      "EnglishWord": "quenching",
+      "Meanings": [
+        "کوینچ کردن",
+        "تبرید سریع",
+        "سرد کردن سریع فولاد حرارت دیده",
+        "سریع سرد کردن",
+        "آبدهی",
+        "سرمادهی"
+      ]
+    },
+    {
+      "EnglishWord": "quenching range",
+      "Meanings": [
+        "محدوده حرارتی سخت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "questionnaire sampling",
+      "Meanings": [
+        "نمونه برداری پرسشنامه ای",
+        "نمونه گیری پرسشنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "queue",
+      "Meanings": [
+        "صف",
+        "در صف گذاشتن",
+        "صف بستن"
+      ]
+    },
+    {
+      "EnglishWord": "queuing",
+      "Meanings": [
+        "صفبندی"
+      ]
+    },
+    {
+      "EnglishWord": "queuing model",
+      "Meanings": [
+        "مدل صف"
+      ]
+    },
+    {
+      "EnglishWord": "queuing theory",
+      "Meanings": [
+        "تیوری صف",
+        "نظریه صف",
+        "تیوری ردیف بندی",
+        "تیوری صف انتظار",
+        "تیوری صف بندی",
+        "نظریه صف انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "quick ratio",
+      "Meanings": [
+        "نسبت آنی",
+        "نسبت سریع",
+        "نسبت نقدینگی"
+      ]
+    },
+    {
+      "EnglishWord": "quill",
+      "Meanings": [
+        "ماسوره",
+        "محور مجوف",
+        "گلویه",
+        "گلویه بند",
+        "محور توخالی"
+      ]
+    },
+    {
+      "EnglishWord": "quit",
+      "Meanings": [
+        "ترک کردن",
+        "ترک خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "quotation",
+      "Meanings": [
+        "مظنه",
+        "تخمین هزینه",
+        "نرخ"
+      ]
+    }
+  ]
+}

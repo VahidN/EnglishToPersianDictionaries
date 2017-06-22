@@ -1,0 +1,1397 @@
+﻿{
+  "Group": "I",
+  "Entries": 229,
+  "Words": [
+    {
+      "EnglishWord": "i",
+      "Meanings": [
+        "نهمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "icing the tails",
+      "Meanings": [
+        "کوتاه‌سازی دمها"
+      ]
+    },
+    {
+      "EnglishWord": "ideal metric",
+      "Meanings": [
+        "متریک آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal power function",
+      "Meanings": [
+        "تابع توان ایده‌آل"
+      ]
+    },
+    {
+      "EnglishWord": "idempotent matrix",
+      "Meanings": [
+        "ماتریس خودتوان"
+      ]
+    },
+    {
+      "EnglishWord": "idempotent measure",
+      "Meanings": [
+        "اندازه خودتوان"
+      ]
+    },
+    {
+      "EnglishWord": "identifiability",
+      "Meanings": [
+        "شناسایی‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "identification",
+      "Meanings": [
+        "شناسایی 2. این‌همانی"
+      ]
+    },
+    {
+      "EnglishWord": "identification keys",
+      "Meanings": [
+        "کلیدهای شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "identification problems",
+      "Meanings": [
+        "مسیله‌های شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "identity",
+      "Meanings": [
+        "اتحاد 2. همانی"
+      ]
+    },
+    {
+      "EnglishWord": "identity function",
+      "Meanings": [
+        "تابع همانی"
+      ]
+    },
+    {
+      "EnglishWord": "identity mapping",
+      "Meanings": [
+        "نگاشت همانی"
+      ]
+    },
+    {
+      "EnglishWord": "identity matrix",
+      "Meanings": [
+        "ماتریس همانی"
+      ]
+    },
+    {
+      "EnglishWord": "i-divergence",
+      "Meanings": [
+        "آی I",
+        "واگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "idle period",
+      "Meanings": [
+        "دوره بیکاری"
+      ]
+    },
+    {
+      "EnglishWord": "if-then test",
+      "Meanings": [
+        "آزمون اگر",
+        "آن‌گاهی"
+      ]
+    },
+    {
+      "EnglishWord": "ill-calibrated",
+      "Meanings": [
+        "بدکالبیده"
+      ]
+    },
+    {
+      "EnglishWord": "ill-conditioned matrix",
+      "Meanings": [
+        "ماتریس بدشرطیده"
+      ]
+    },
+    {
+      "EnglishWord": "ill-conditioned system of equations",
+      "Meanings": [
+        "دستگاه معادلات بدشرطیده"
+      ]
+    },
+    {
+      "EnglishWord": "illusory association",
+      "Meanings": [
+        "پیوند پنداری"
+      ]
+    },
+    {
+      "EnglishWord": "illusory correlation",
+      "Meanings": [
+        "همبستگی پنداری"
+      ]
+    },
+    {
+      "EnglishWord": "image processing",
+      "Meanings": [
+        "پردازش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image restoration and reconstruction",
+      "Meanings": [
+        "بازپردازی و بازسازی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary observation",
+      "Meanings": [
+        "مشاهده انگاری"
+      ]
+    },
+    {
+      "EnglishWord": "imbalance",
+      "Meanings": [
+        "نامتعادل"
+      ]
+    },
+    {
+      "EnglishWord": "imbalance function",
+      "Meanings": [
+        "تابع نامتعادل"
+      ]
+    },
+    {
+      "EnglishWord": "immigration-emigration",
+      "Meanings": [
+        "برون‌کوچی",
+        "درون‌کوچی"
+      ]
+    },
+    {
+      "EnglishWord": "immigration-emigration processes",
+      "Meanings": [
+        "فرایندهای برون‌کوچی",
+        "درون‌کوچی"
+      ]
+    },
+    {
+      "EnglishWord": "importance of components",
+      "Meanings": [
+        "اهمیت مولفه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "importance sampling",
+      "Meanings": [
+        "نمونه‌گیری نقاط مهم"
+      ]
+    },
+    {
+      "EnglishWord": "impossible event",
+      "Meanings": [
+        "پیشامد ناممکن"
+      ]
+    },
+    {
+      "EnglishWord": "improper distribution",
+      "Meanings": [
+        "توزیع ناسره"
+      ]
+    },
+    {
+      "EnglishWord": "imputation",
+      "Meanings": [
+        "جانهی"
+      ]
+    },
+    {
+      "EnglishWord": "inadmissible decision rule",
+      "Meanings": [
+        "قاعده تصمیم ناپذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "inbred",
+      "Meanings": [
+        "درون‌زاد"
+      ]
+    },
+    {
+      "EnglishWord": "inbreeding",
+      "Meanings": [
+        "درون‌پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "incidence matrix",
+      "Meanings": [
+        "ماتریس وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion-exclusion method",
+      "Meanings": [
+        "روش شمول و طرد"
+      ]
+    },
+    {
+      "EnglishWord": "income distribution models",
+      "Meanings": [
+        "مدلهای توزیع درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "income inequality measure",
+      "Meanings": [
+        "معیار نابرابری درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "incompatible event",
+      "Meanings": [
+        "پیشامد ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete beta function",
+      "Meanings": [
+        "تابع بتای ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete block design",
+      "Meanings": [
+        "طرح بلوکهای ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete data",
+      "Meanings": [
+        "داده‌های ناتمام"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete gamma function",
+      "Meanings": [
+        "تابع گامای ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "inconsistent bias",
+      "Meanings": [
+        "اریبی ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "incursion",
+      "Meanings": [
+        "درون‌گشت"
+      ]
+    },
+    {
+      "EnglishWord": "independence",
+      "Meanings": [
+        "استقلال"
+      ]
+    },
+    {
+      "EnglishWord": "independence theorem",
+      "Meanings": [
+        "قضیه استقلال"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent classes",
+      "Meanings": [
+        "رده‌های مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent equations",
+      "Meanings": [
+        "معادله‌های مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent events",
+      "Meanings": [
+        "پیشامدهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent functions",
+      "Meanings": [
+        "تابعهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent random variables",
+      "Meanings": [
+        "متغیرهای تصادفی مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent variable",
+      "Meanings": [
+        "متغیر مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "index",
+      "Meanings": [
+        "شاخص",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "index numbers",
+      "Meanings": [
+        "اعداد شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "index of dispersion",
+      "Meanings": [
+        "شاخص پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "index of fit",
+      "Meanings": [
+        "شاخص برازش"
+      ]
+    },
+    {
+      "EnglishWord": "index of industrial production",
+      "Meanings": [
+        "شاخص تولید صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "index of precision",
+      "Meanings": [
+        "شاخص دقت"
+      ]
+    },
+    {
+      "EnglishWord": "index-removal method",
+      "Meanings": [
+        "روش حذف شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "indicator",
+      "Meanings": [
+        "نشانگر 2. نماگر",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "indicator function",
+      "Meanings": [
+        "تابع نشانگر"
+      ]
+    },
+    {
+      "EnglishWord": "indifference zone",
+      "Meanings": [
+        "ناحیه بی‌تفاوتی"
+      ]
+    },
+    {
+      "EnglishWord": "indirect censoring",
+      "Meanings": [
+        "سانسور غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect least squares",
+      "Meanings": [
+        "کمترین توانهای دوم غیرمستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "individual moving-average inequality",
+      "Meanings": [
+        "نابرابری میانگینهای متحرک تکی"
+      ]
+    },
+    {
+      "EnglishWord": "individual risk theory",
+      "Meanings": [
+        "نظریه مخاطره تکی"
+      ]
+    },
+    {
+      "EnglishWord": "induced order statistics",
+      "Meanings": [
+        "آماره‌های ترتیبی ایجاد شده"
+      ]
+    },
+    {
+      "EnglishWord": "inductive",
+      "Meanings": [
+        "استقرایی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive logic",
+      "Meanings": [
+        "منطق استقرایی"
+      ]
+    },
+    {
+      "EnglishWord": "inefficient statistic",
+      "Meanings": [
+        "آماره ناکارآ"
+      ]
+    },
+    {
+      "EnglishWord": "inequalities for expected sample sizes",
+      "Meanings": [
+        "نابرابریهای مربوط به اندازه‌های مورد انتظار نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "inequalities on distributions",
+      "Meanings": [
+        "نابرابریهای مربوط به توزیعها"
+      ]
+    },
+    {
+      "EnglishWord": "inequality",
+      "Meanings": [
+        "نامساوی, نابرابری",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "inertia matrix",
+      "Meanings": [
+        "ماتریس لختی"
+      ]
+    },
+    {
+      "EnglishWord": "infant mortality",
+      "Meanings": [
+        "مرگ و میر نوزادان"
+      ]
+    },
+    {
+      "EnglishWord": "inference",
+      "Meanings": [
+        "استنباط"
+      ]
+    },
+    {
+      "EnglishWord": "inference design based vs. model based",
+      "Meanings": [
+        "استنباط مبتنی بر طرح در مقابل استنباط مبتنی بر مدل"
+      ]
+    },
+    {
+      "EnglishWord": "inferior limit",
+      "Meanings": [
+        "حد زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "infimum",
+      "Meanings": [
+        "اینفیمم"
+      ]
+    },
+    {
+      "EnglishWord": "infinite divisibility",
+      "Meanings": [
+        "بینهایت بار تقسیم‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "inflated distribution",
+      "Meanings": [
+        "توزیع آماسیده"
+      ]
+    },
+    {
+      "EnglishWord": "inflation",
+      "Meanings": [
+        "تورم"
+      ]
+    },
+    {
+      "EnglishWord": "influence curve",
+      "Meanings": [
+        "منحنی تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "influence diagram",
+      "Meanings": [
+        "نمودار تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "influence function",
+      "Meanings": [
+        "تابع تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "influence surface",
+      "Meanings": [
+        "رویه تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "influencing factors",
+      "Meanings": [
+        "عاملهای نافذ"
+      ]
+    },
+    {
+      "EnglishWord": "influential data",
+      "Meanings": [
+        "داده‌های موثر"
+      ]
+    },
+    {
+      "EnglishWord": "injective function",
+      "Meanings": [
+        "تابع یک‌به‌یک"
+      ]
+    },
+    {
+      "EnglishWord": "inspection sampling",
+      "Meanings": [
+        "نمونه‌گیری برای بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "insurance",
+      "Meanings": [
+        "بیمه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "integer",
+      "Meanings": [
+        "عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer programming",
+      "Meanings": [
+        "برنامه‌ریزی با اعداد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integral",
+      "Meanings": [
+        "انتگرال, صحیح",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "integral equation",
+      "Meanings": [
+        "معادله انتگرالی"
+      ]
+    },
+    {
+      "EnglishWord": "integral of mse",
+      "Meanings": [
+        "انتگرال میانگین توان دوم خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "integral transform",
+      "Meanings": [
+        "تبدیل انتگرالی"
+      ]
+    },
+    {
+      "EnglishWord": "integrated moving average",
+      "Meanings": [
+        "میانگین متحرک جمع‌بسته"
+      ]
+    },
+    {
+      "EnglishWord": "integrating factor",
+      "Meanings": [
+        "عامل انتگرال‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "integration",
+      "Meanings": [
+        "انتگرال‌گیری",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "integration by change of variable",
+      "Meanings": [
+        "انتگرال‌گیری با تعویض متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "integration by parts",
+      "Meanings": [
+        "انتگرال‌گیری جزء به‌جزء"
+      ]
+    },
+    {
+      "EnglishWord": "integration by power series",
+      "Meanings": [
+        "انتگرال‌گیری با سری توانی"
+      ]
+    },
+    {
+      "EnglishWord": "integration by substitution",
+      "Meanings": [
+        "انتگرال‌گیری با تعویض متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "integration constant",
+      "Meanings": [
+        "ثابت انتگرال‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "integrator",
+      "Meanings": [
+        "انتگرال‌گیر"
+      ]
+    },
+    {
+      "EnglishWord": "integrodifferentiation",
+      "Meanings": [
+        "انتگرال",
+        "دیفرانسیل‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "intensity",
+      "Meanings": [
+        "شدت"
+      ]
+    },
+    {
+      "EnglishWord": "interaction",
+      "Meanings": [
+        "اثر متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "interaction model",
+      "Meanings": [
+        "مدل با اثر متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "interactive data analysis",
+      "Meanings": [
+        "تحلیل تعاملی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "interarrival",
+      "Meanings": [
+        "بین دو ورود"
+      ]
+    },
+    {
+      "EnglishWord": "interation",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "interblock information",
+      "Meanings": [
+        "اطلاع بین بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "intercept",
+      "Meanings": [
+        "عرض از مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "intercoder agreement",
+      "Meanings": [
+        "توافق بین کدگذاران"
+      ]
+    },
+    {
+      "EnglishWord": "interdecile range",
+      "Meanings": [
+        "دامنه بین دهکی"
+      ]
+    },
+    {
+      "EnglishWord": "interdependence analysis",
+      "Meanings": [
+        "تحلیل هم‌وابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "interdependent function",
+      "Meanings": [
+        "تابع هم‌وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "intereffect orthogonality",
+      "Meanings": [
+        "تعامد بین اثری"
+      ]
+    },
+    {
+      "EnglishWord": "interference",
+      "Meanings": [
+        "اختلال 2. تداخل"
+      ]
+    },
+    {
+      "EnglishWord": "interfractile range",
+      "Meanings": [
+        "دامنه بین کسرکی"
+      ]
+    },
+    {
+      "EnglishWord": "interim analysis",
+      "Meanings": [
+        "تحلیل موقتی"
+      ]
+    },
+    {
+      "EnglishWord": "internal additive consistency of estimators",
+      "Meanings": [
+        "سازگاری جمعی درونی برآوردگرها"
+      ]
+    },
+    {
+      "EnglishWord": "internal least squares",
+      "Meanings": [
+        "کمترین توانهای دوم درونی"
+      ]
+    },
+    {
+      "EnglishWord": "international foreign trade statistics",
+      "Meanings": [
+        "آمار تجارت خارجی بین‌المللی"
+      ]
+    },
+    {
+      "EnglishWord": "international standardization",
+      "Meanings": [
+        "استانداردسازی بین‌المللی"
+      ]
+    },
+    {
+      "EnglishWord": "interneighbor interval",
+      "Meanings": [
+        "بازه بین همسایه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "interpenetrating samples",
+      "Meanings": [
+        "نمونه‌های نافذ بر هم"
+      ]
+    },
+    {
+      "EnglishWord": "interpenetrating subsamples",
+      "Meanings": [
+        "زیرنمونه‌های نافذ بر هم"
+      ]
+    },
+    {
+      "EnglishWord": "interpercentile distance",
+      "Meanings": [
+        "فاصله بین صدکی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "درون‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation method",
+      "Meanings": [
+        "روش درون‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation theorem",
+      "Meanings": [
+        "قضیه درون‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "interquartile range",
+      "Meanings": [
+        "دامنه میان چارکی"
+      ]
+    },
+    {
+      "EnglishWord": "intersect",
+      "Meanings": [
+        "تقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "intersection",
+      "Meanings": [
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "intersection method",
+      "Meanings": [
+        "روش مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "intersection of events",
+      "Meanings": [
+        "اشتراک پیشامدها"
+      ]
+    },
+    {
+      "EnglishWord": "intersection of sets",
+      "Meanings": [
+        "اشتراک مجموعه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "intertemporal",
+      "Meanings": [
+        "بین زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "interval",
+      "Meanings": [
+        "فاصله",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "interval estimate",
+      "Meanings": [
+        "برآورد فاصله ای"
+      ]
+    },
+    {
+      "EnglishWord": "interval estimation",
+      "Meanings": [
+        "برآورد بازه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "interval function",
+      "Meanings": [
+        "تابع بازه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "intervention model analysis",
+      "Meanings": [
+        "تحلیل مدل مداخله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "interviewer bias",
+      "Meanings": [
+        "اریبی مصاحبه‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "interviewer variance",
+      "Meanings": [
+        "واریانس مصاحبه‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "intra-block effect",
+      "Meanings": [
+        "اثر درون‌بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "intrablock information",
+      "Meanings": [
+        "اطلاع درون‌بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "intraclass",
+      "Meanings": [
+        "درون‌رده"
+      ]
+    },
+    {
+      "EnglishWord": "intra-class correlation",
+      "Meanings": [
+        "همبستگی درون‌رده‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "intraclass correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی درون‌رده‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "invariance",
+      "Meanings": [
+        "ناوردایی"
+      ]
+    },
+    {
+      "EnglishWord": "invariance concepts in statistics",
+      "Meanings": [
+        "مفهومهای ناوردایی در آمار"
+      ]
+    },
+    {
+      "EnglishWord": "invariance of anharmonic ratio",
+      "Meanings": [
+        "ناوردایی نسبت ناهمساز"
+      ]
+    },
+    {
+      "EnglishWord": "invariance of cross ratio",
+      "Meanings": [
+        "ناوردایی نسبت ناهمساز"
+      ]
+    },
+    {
+      "EnglishWord": "invariance theorem",
+      "Meanings": [
+        "قضیه ناوردایی"
+      ]
+    },
+    {
+      "EnglishWord": "invariant",
+      "Meanings": [
+        "ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant delta function",
+      "Meanings": [
+        "تابع دلتای ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant distribution",
+      "Meanings": [
+        "توزیع ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant estimator",
+      "Meanings": [
+        "برآوردگر ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant measure",
+      "Meanings": [
+        "اندازه ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant metric",
+      "Meanings": [
+        "متریک ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant prior distribution",
+      "Meanings": [
+        "توزیع پیشین ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant property",
+      "Meanings": [
+        "ویژگی ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant statistics",
+      "Meanings": [
+        "آماره‌های ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "invariant subgroup",
+      "Meanings": [
+        "زیرگروه ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "inventory",
+      "Meanings": [
+        "فهرست موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "inventory control theory",
+      "Meanings": [
+        "نظریه تنظیم موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "inventory theory",
+      "Meanings": [
+        "نظریه موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "inverse",
+      "Meanings": [
+        "وارون",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "inverse distribution",
+      "Meanings": [
+        "توزیع وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse function",
+      "Meanings": [
+        "تابع وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse gaussian distribution",
+      "Meanings": [
+        "توزیع گاوسی وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق‌هندسی وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse matrix",
+      "Meanings": [
+        "ماتریس وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse probability",
+      "Meanings": [
+        "احتمال وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse rank",
+      "Meanings": [
+        "رتبه وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse regression",
+      "Meanings": [
+        "رگرسیون وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse sampling",
+      "Meanings": [
+        "نمونه‌گیری وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse sine transformation",
+      "Meanings": [
+        "تبدیل سینوسی وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse tanh transformation",
+      "Meanings": [
+        "تبدیل تانژانت هذلولوی وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inversion formula",
+      "Meanings": [
+        "فرمول وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverted",
+      "Meanings": [
+        "وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverted beta distribution",
+      "Meanings": [
+        "توزیع بتای وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverted dirichlet distribution",
+      "Meanings": [
+        "توزیع دیریکله وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverted gamma distribution",
+      "Meanings": [
+        "توزیع گامای وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "inverted wishart distribution",
+      "Meanings": [
+        "توزیع ویشارت وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "invertibility",
+      "Meanings": [
+        "وارون‌شوندگی"
+      ]
+    },
+    {
+      "EnglishWord": "irreducible",
+      "Meanings": [
+        "تحویل‌ناشدنی"
+      ]
+    },
+    {
+      "EnglishWord": "irreducible markov chain",
+      "Meanings": [
+        "زنجیر مارکوف نافروکاستنی"
+      ]
+    },
+    {
+      "EnglishWord": "irreducible symmetric hermitian space",
+      "Meanings": [
+        "فضای ارمیتی متقارن نافروکاستنی"
+      ]
+    },
+    {
+      "EnglishWord": "irrelevant",
+      "Meanings": [
+        "بی‌ربط"
+      ]
+    },
+    {
+      "EnglishWord": "irreversible process",
+      "Meanings": [
+        "فرایند برگشت‌ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "ising model",
+      "Meanings": [
+        "مدل آیزینگ"
+      ]
+    },
+    {
+      "EnglishWord": "isochron",
+      "Meanings": [
+        "هم‌دوره"
+      ]
+    },
+    {
+      "EnglishWord": "isokurtic arrays",
+      "Meanings": [
+        "آرایه‌های هم‌کشیده"
+      ]
+    },
+    {
+      "EnglishWord": "isometry",
+      "Meanings": [
+        "هم‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "isotonic",
+      "Meanings": [
+        "همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "isotonic inference",
+      "Meanings": [
+        "استنباط همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "isotonic regression",
+      "Meanings": [
+        "رگرسیون همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic",
+      "Meanings": [
+        "همسانگرد"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic distribution",
+      "Meanings": [
+        "توزیع همسانگرد"
+      ]
+    },
+    {
+      "EnglishWord": "isotropy",
+      "Meanings": [
+        "همسانگردی"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "سوال 2. فقره",
+        "کلمات مرتبط",
+        "prevailing item"
+      ]
+    },
+    {
+      "EnglishWord": "item analysis",
+      "Meanings": [
+        "تحلیل سوال"
+      ]
+    },
+    {
+      "EnglishWord": "item examine sampling",
+      "Meanings": [
+        "نمونه‌گیری با امتحان سوال"
+      ]
+    },
+    {
+      "EnglishWord": "item response theory",
+      "Meanings": [
+        "نظریه پاسخ سوال"
+      ]
+    },
+    {
+      "EnglishWord": "item sampling",
+      "Meanings": [
+        "نمونه‌گیری از سوال"
+      ]
+    },
+    {
+      "EnglishWord": "iterated",
+      "Meanings": [
+        "تکراری",
+        "مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "iterated exponential distribution",
+      "Meanings": [
+        "توزیع نمایی مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "iterated integral",
+      "Meanings": [
+        "انتگرال مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "iterated maximum likelihood estimate",
+      "Meanings": [
+        "برآورد ماکسیمم درستنمایی تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iteration",
+      "Meanings": [
+        "تکرار",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "iterative ellipsoidal trimming",
+      "Meanings": [
+        "پیرایش بیضی‌وار تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iterative method",
+      "Meanings": [
+        "روش تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iterative process",
+      "Meanings": [
+        "فرایند تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iterative proportional fitting",
+      "Meanings": [
+        "برازش متناسب تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iterative regression",
+      "Meanings": [
+        "رگرسیون تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "iteratively reweighted least squares",
+      "Meanings": [
+        "کمترین توانهای دوم بازموزون تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "ito processes",
+      "Meanings": [
+        "فرایندهای ایتو"
+      ]
+    }
+  ]
+}

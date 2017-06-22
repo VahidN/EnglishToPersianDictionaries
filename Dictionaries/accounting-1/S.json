@@ -1,0 +1,5649 @@
+﻿{
+  "Group": "S",
+  "Entries": 913,
+  "Words": [
+    {
+      "EnglishWord": "s.d.r. special drawing right",
+      "Meanings": [
+        "حق برداشت مخصوص",
+        "واحد پولی صندوق بین المللی پول است که ارزش آن معادل مجموعه ارزهای ذیل می‌باشد: دلار آمریکا 42%",
+        "مارک آلمان 19%",
+        "پوند انگلیس 12%",
+        "فرانک فرانسه 12% ین ژاپن 15%"
+      ]
+    },
+    {
+      "EnglishWord": "s.i.t.c. standard international trade classification",
+      "Meanings": [
+        "طبقه بندی استاندارد تجارت بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "s.k.d. semi knocked down",
+      "Meanings": [
+        "قطعات نیمه منفصله"
+      ]
+    },
+    {
+      "EnglishWord": "safeguarding of assets",
+      "Meanings": [
+        "نگهداری/ محافظت از داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "safety",
+      "Meanings": [
+        "امنیت",
+        "ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "safety stock",
+      "Meanings": [
+        "ذخیره احتیاطی",
+        "موجودی ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "salaried staff",
+      "Meanings": [
+        "کارمند حقوق بگیر"
+      ]
+    },
+    {
+      "EnglishWord": "salaries expense",
+      "Meanings": [
+        "هزینه حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salaries payable",
+      "Meanings": [
+        "حقوق پرداختی",
+        "حقوق پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "salary",
+      "Meanings": [
+        "حقوق",
+        "مزد",
+        "اجرت"
+      ]
+    },
+    {
+      "EnglishWord": "salary administration",
+      "Meanings": [
+        "مدیریت حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "salary band",
+      "Meanings": [
+        "توافق در مورد حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary bracket",
+      "Meanings": [
+        "طبقه حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary classes",
+      "Meanings": [
+        "طبقات حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary grade",
+      "Meanings": [
+        "رتبه حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "salary range",
+      "Meanings": [
+        "دامنه حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary roll",
+      "Meanings": [
+        "لیست حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary structure",
+      "Meanings": [
+        "ساختار حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "salary system",
+      "Meanings": [
+        "سیستم حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "sale",
+      "Meanings": [
+        "فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sale and leaseback",
+      "Meanings": [
+        "فروش و اجاره مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "sale leaseback",
+      "Meanings": [
+        "فروش و اجاره مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "sale price",
+      "Meanings": [
+        "قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales",
+      "Meanings": [
+        "فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales agency",
+      "Meanings": [
+        "نمایندگی فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales agent",
+      "Meanings": [
+        "عامل فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales and collection cycle",
+      "Meanings": [
+        "چرخه فروش و صولیهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "sales budget",
+      "Meanings": [
+        "بودجه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales commissions",
+      "Meanings": [
+        "کمیسیون فروش کارمزد فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales commitment",
+      "Meanings": [
+        "تعهدات فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales day book",
+      "Meanings": [
+        "دفتر روزنامه فروش",
+        "دفتر فروش روزانه"
+      ]
+    },
+    {
+      "EnglishWord": "sales department",
+      "Meanings": [
+        "دایره فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales discount",
+      "Meanings": [
+        "تخفیف فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales discounts",
+      "Meanings": [
+        "تخفیفات فروش",
+        "تخفیفهای نقدی فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales force",
+      "Meanings": [
+        "نیروی فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales forecast",
+      "Meanings": [
+        "پیش بینی فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales invoice",
+      "Meanings": [
+        "سیاهه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales journal",
+      "Meanings": [
+        "دفتر روزنامه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales ledger",
+      "Meanings": [
+        "دفتر معین بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "sales ledger control account",
+      "Meanings": [
+        "حساب کنترل بدهکاران"
+      ]
+    },
+    {
+      "EnglishWord": "sales manager",
+      "Meanings": [
+        "مدیر فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales mix",
+      "Meanings": [
+        "ترکیب فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales mix varaince",
+      "Meanings": [
+        "انحراف ترکیب فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales mix variance",
+      "Meanings": [
+        "انحراف ترکیب فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales on account",
+      "Meanings": [
+        "فروش نسیه"
+      ]
+    },
+    {
+      "EnglishWord": "sales on approval",
+      "Meanings": [
+        "فروش از طریق تایید یا تصویب"
+      ]
+    },
+    {
+      "EnglishWord": "sales on credit",
+      "Meanings": [
+        "فروش نسیه"
+      ]
+    },
+    {
+      "EnglishWord": "sales order",
+      "Meanings": [
+        "سفارش فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales plan",
+      "Meanings": [
+        "برنامه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales price",
+      "Meanings": [
+        "قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales price varaince",
+      "Meanings": [
+        "انحراف قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales price variance",
+      "Meanings": [
+        "انحراف قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales return",
+      "Meanings": [
+        "برگشت از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales return and allowance",
+      "Meanings": [
+        "برگشت از فروش و تخفیفات"
+      ]
+    },
+    {
+      "EnglishWord": "sales returns",
+      "Meanings": [
+        "برگشت از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales returns and allowances",
+      "Meanings": [
+        "برگشت از فروش و تخفیفات"
+      ]
+    },
+    {
+      "EnglishWord": "sales returns and allowances journal",
+      "Meanings": [
+        "دفتر روزنامه برگشت از فروش و تخفیفات"
+      ]
+    },
+    {
+      "EnglishWord": "sales returns and allowances",
+      "Meanings": [
+        "برگشت از فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales revenue",
+      "Meanings": [
+        "درآمد فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales rype lease",
+      "Meanings": [
+        "روش نسبت فروش به تولید"
+      ]
+    },
+    {
+      "EnglishWord": "sales slip",
+      "Meanings": [
+        "برگه فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales system",
+      "Meanings": [
+        "سیستم فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales tax payable",
+      "Meanings": [
+        "مالیات فروش پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "sales territories",
+      "Meanings": [
+        "مناطق فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales to production ratio method",
+      "Meanings": [
+        "روش درآمد و فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales value at split off allocation",
+      "Meanings": [
+        "تخصیص بر مبنای ارزش فروش در نقطه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "sales value at split off method",
+      "Meanings": [
+        "روش ارزش فروش در نقطه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "sales volume",
+      "Meanings": [
+        "حجم فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales volume variance",
+      "Meanings": [
+        "انحراف حجم فروش"
+      ]
+    },
+    {
+      "EnglishWord": "sales with recourse",
+      "Meanings": [
+        "روش با حق مراجعه",
+        "فروش با حق مراجعه کارگزار"
+      ]
+    },
+    {
+      "EnglishWord": "sales discounts",
+      "Meanings": [
+        "تخفیفات فروش"
+      ]
+    },
+    {
+      "EnglishWord": "salesman",
+      "Meanings": [
+        "فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "salespersons",
+      "Meanings": [
+        "فروشندگان شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "salvage charges",
+      "Meanings": [
+        "هزینه‌های نجات"
+      ]
+    },
+    {
+      "EnglishWord": "salvage value",
+      "Meanings": [
+        "ارزش اسقاط قراضه"
+      ]
+    },
+    {
+      "EnglishWord": "salvage value  scrap value",
+      "Meanings": [
+        "ارزش اسقاط"
+      ]
+    },
+    {
+      "EnglishWord": "sample",
+      "Meanings": [
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample characteristics",
+      "Meanings": [
+        "ویژگیهای نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample exam",
+      "Meanings": [
+        "آزمون نمونه نمونه آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "sample examinations",
+      "Meanings": [
+        "آزمون‌های نمونه نمونه امتحانات"
+      ]
+    },
+    {
+      "EnglishWord": "sample mean",
+      "Meanings": [
+        "میانگین نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample occurrence rate",
+      "Meanings": [
+        "نرخ رخداد نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample point estimate",
+      "Meanings": [
+        "برآوردهای یگانه"
+      ]
+    },
+    {
+      "EnglishWord": "sample size",
+      "Meanings": [
+        "اندازه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample standard deviation",
+      "Meanings": [
+        "نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sample variability",
+      "Meanings": [
+        "تغییر پذیری/پراکندگی نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample variance",
+      "Meanings": [
+        "واریانس نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling distribution",
+      "Meanings": [
+        "توزیع نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling error",
+      "Meanings": [
+        "خطای نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling errors",
+      "Meanings": [
+        "اشتباهات نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling interval",
+      "Meanings": [
+        "فاصله نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling plans",
+      "Meanings": [
+        "طرحهای نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling proportional to size",
+      "Meanings": [
+        "نمونه گیری متناسب با اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "sampling risk",
+      "Meanings": [
+        "ریسک نمونه گیری",
+        "احتمال خطر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling unit",
+      "Meanings": [
+        "واحد نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling with probability proportional to size  pps pps",
+      "Meanings": [
+        "نمونه گیری با ضریب احتمال متناسب با اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "samplinq plan",
+      "Meanings": [
+        "طرح نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "satisfactory compliance",
+      "Meanings": [
+        "رعایت قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "satisfactory profit",
+      "Meanings": [
+        "سود قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "saving and loans",
+      "Meanings": [
+        "موسسات"
+      ]
+    },
+    {
+      "EnglishWord": "saving deficit economic units",
+      "Meanings": [
+        "واحدهای اقتصادی دارای کمبود پس انداز"
+      ]
+    },
+    {
+      "EnglishWord": "saving surplus economic units",
+      "Meanings": [
+        "واحدهای اقتصادی دارای مازاد پس انداز واحدهای اقتصادی دارای پس انداز اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "savinginvestment",
+      "Meanings": [
+        "پس انداز",
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "savings",
+      "Meanings": [
+        "پس اندزارها صرفه جویی ها"
+      ]
+    },
+    {
+      "EnglishWord": "savings deposit",
+      "Meanings": [
+        "سپرده پس انداز"
+      ]
+    },
+    {
+      "EnglishWord": "scalable",
+      "Meanings": [
+        "مقیاس پذیری نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "scale and unit of measurement",
+      "Meanings": [
+        "مقیاس و واحد اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "scanner",
+      "Meanings": [
+        "دستگاه تصویر خوان کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "scanning",
+      "Meanings": [
+        "وارسی",
+        "مطالعه"
+      ]
+    },
+    {
+      "EnglishWord": "scapegoat",
+      "Meanings": [
+        "سپر بلا"
+      ]
+    },
+    {
+      "EnglishWord": "scarce resources",
+      "Meanings": [
+        "منابع کمیاب"
+      ]
+    },
+    {
+      "EnglishWord": "scarce resourses",
+      "Meanings": [
+        "منابع محدود"
+      ]
+    },
+    {
+      "EnglishWord": "scatter diagram",
+      "Meanings": [
+        "نمودار نقاط پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "scatter of the possible values",
+      "Meanings": [
+        "پراکندگی ارزشهای ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "scattergraph",
+      "Meanings": [
+        "نمودار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "scatterplot method",
+      "Meanings": [
+        "روش ترسیم نمودار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "schedule",
+      "Meanings": [
+        "برنامه زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "schedule of accounts payable",
+      "Meanings": [
+        "صورت ریز بستانکاران",
+        "جدول بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "schedule of accounts receivable",
+      "Meanings": [
+        "صورت ریز بستانکاران",
+        "جدول بستانکاران"
+      ]
+    },
+    {
+      "EnglishWord": "schedule of changes in working capital components",
+      "Meanings": [
+        "جدول تغییرات در اجزای تشکیل دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "schedule of prices",
+      "Meanings": [
+        "چداول فهرست قیمتها",
+        "جدول قیمتها"
+      ]
+    },
+    {
+      "EnglishWord": "schedule of work",
+      "Meanings": [
+        "برنامه کار"
+      ]
+    },
+    {
+      "EnglishWord": "school of thought",
+      "Meanings": [
+        "مکتب فکری"
+      ]
+    },
+    {
+      "EnglishWord": "science",
+      "Meanings": [
+        "علم"
+      ]
+    },
+    {
+      "EnglishWord": "scientific method",
+      "Meanings": [
+        "روش علمی"
+      ]
+    },
+    {
+      "EnglishWord": "scientific method of inquiry",
+      "Meanings": [
+        "روش علمی تحقیق کاوش به روش علمی"
+      ]
+    },
+    {
+      "EnglishWord": "scientific revolution in accounting",
+      "Meanings": [
+        "انقلاب علمی در حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "scope",
+      "Meanings": [
+        "دامنه رسیدگی",
+        "دامنه کاربرد",
+        "گستره"
+      ]
+    },
+    {
+      "EnglishWord": "scope limitation",
+      "Meanings": [
+        "محدودیت در دامنه رسیدگی",
+        "محدودیت رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "scope paragraph",
+      "Meanings": [
+        "بند دامنه رسیدگی",
+        "بند حدود رسیدگی حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "scrap",
+      "Meanings": [
+        "مواد قراضه ضایعات مواد"
+      ]
+    },
+    {
+      "EnglishWord": "scrap material",
+      "Meanings": [
+        "مواد قراضه ضایعات مواد"
+      ]
+    },
+    {
+      "EnglishWord": "screening clients",
+      "Meanings": [
+        "انتخاب صاحبکار"
+      ]
+    },
+    {
+      "EnglishWord": "scrip dividend",
+      "Meanings": [
+        "سود تعهد شده سهام",
+        "سود تعهد شده"
+      ]
+    },
+    {
+      "EnglishWord": "scrip issue",
+      "Meanings": [
+        "انتشار سود سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "search",
+      "Meanings": [
+        "جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal",
+      "Meanings": [
+        "فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal markets",
+      "Meanings": [
+        "بازارهای فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal variation",
+      "Meanings": [
+        "تغییرات فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "seasonality formulas",
+      "Meanings": [
+        "فرمول‌های فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "seat",
+      "Meanings": [
+        "عضو بورس"
+      ]
+    },
+    {
+      "EnglishWord": "sec independence rules",
+      "Meanings": [
+        "مقررات کمیسیون بورس و اوراق بهادر درخصوص استقلال حسابرسان"
+      ]
+    },
+    {
+      "EnglishWord": "second derivative",
+      "Meanings": [
+        "مشتق مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second quarter",
+      "Meanings": [
+        "سه ماهه دوم فصل دوم"
+      ]
+    },
+    {
+      "EnglishWord": "secondary audit objective",
+      "Meanings": [
+        "هدف ثانویه حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary distribution",
+      "Meanings": [
+        "توزیع ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary evidence",
+      "Meanings": [
+        "شواهد ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary market",
+      "Meanings": [
+        "بازار ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary offering",
+      "Meanings": [
+        "عرضه ثانویه اوراق بهادر"
+      ]
+    },
+    {
+      "EnglishWord": "secondary qualities",
+      "Meanings": [
+        "ویژگی‌های کیفی ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary reserve",
+      "Meanings": [
+        "اندوخته‌های پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "secret",
+      "Meanings": [
+        "سری",
+        "محرمانه"
+      ]
+    },
+    {
+      "EnglishWord": "secret formula",
+      "Meanings": [
+        "فرمول سری ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "secret or hidden reserves",
+      "Meanings": [
+        "اندوخته‌های مخفی یا پنهان"
+      ]
+    },
+    {
+      "EnglishWord": "secret reserves",
+      "Meanings": [
+        "اندوخته‌های مخفی"
+      ]
+    },
+    {
+      "EnglishWord": "secretariat",
+      "Meanings": [
+        "دبیرخانه"
+      ]
+    },
+    {
+      "EnglishWord": "section",
+      "Meanings": [
+        "بخش",
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "sector",
+      "Meanings": [
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "sector selection",
+      "Meanings": [
+        "انتخاب بخش مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "secured bonds",
+      "Meanings": [
+        "اوراق قرضه تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "secured creditors",
+      "Meanings": [
+        "بستانکار وثیقه دار"
+      ]
+    },
+    {
+      "EnglishWord": "secured loans",
+      "Meanings": [
+        "وامهای با وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "secures borrowing",
+      "Meanings": [
+        "استقراض مطمین تامین مالی ثضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "securities",
+      "Meanings": [
+        "اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "securities and exchange commission",
+      "Meanings": [
+        "کمیسیون اوراق بهادار و بورس"
+      ]
+    },
+    {
+      "EnglishWord": "securities and exchange commission  sec",
+      "Meanings": [
+        "کمیسیون بورس و اوراق بهدار"
+      ]
+    },
+    {
+      "EnglishWord": "securities available for sale",
+      "Meanings": [
+        "اوراق بهادار آماده برای فروش"
+      ]
+    },
+    {
+      "EnglishWord": "securities exchange",
+      "Meanings": [
+        "بورس اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "securities exchange act of 1934",
+      "Meanings": [
+        "قانون بورس اوراق بهدار سال"
+      ]
+    },
+    {
+      "EnglishWord": "securities investor protection corporation  sipc",
+      "Meanings": [
+        "شرکت حمایت از سرمایه بهادار SIPC"
+      ]
+    },
+    {
+      "EnglishWord": "securitizations",
+      "Meanings": [
+        "داراییهای تبدیل به اوراق بهادار شده"
+      ]
+    },
+    {
+      "EnglishWord": "security",
+      "Meanings": [
+        "ورقه بهادار ایمنی",
+        "وثیقه",
+        "تضمین",
+        "اطمینان",
+        "امنیت"
+      ]
+    },
+    {
+      "EnglishWord": "security analysis",
+      "Meanings": [
+        "تجزیه و تحلیل اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security analyst",
+      "Meanings": [
+        "تحلیل گر اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security brokers",
+      "Meanings": [
+        "کارگزاران بورس"
+      ]
+    },
+    {
+      "EnglishWord": "security dealers",
+      "Meanings": [
+        "معامله گران اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security market",
+      "Meanings": [
+        "بازار اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security market line",
+      "Meanings": [
+        "منحنی خط بورس اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security market line  sml",
+      "Meanings": [
+        "خط بازار اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "security selection",
+      "Meanings": [
+        "انتخاب اوراق بهادار گزینش سهم"
+      ]
+    },
+    {
+      "EnglishWord": "segment",
+      "Meanings": [
+        "قسمت بخشی از واحد اقتصادی",
+        "قسمت",
+        "بخش",
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "segment assets",
+      "Meanings": [
+        "داراییهای قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "segment expense",
+      "Meanings": [
+        "هزینه قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "segment information",
+      "Meanings": [
+        "اطلاعات مربوط به قسمتها/بخش"
+      ]
+    },
+    {
+      "EnglishWord": "segment margin",
+      "Meanings": [
+        "حاشیه فروش بخش تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "segment of an enterprise",
+      "Meanings": [
+        "قسمتی از یک واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "segment of the business",
+      "Meanings": [
+        "بخشی از واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "segment repoting",
+      "Meanings": [
+        "گزارشگری مالی درمورد قسمتهای مختلف یک واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "segment result",
+      "Meanings": [
+        "نتیجه عملیات قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "segment revenue",
+      "Meanings": [
+        "درآمد قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "segmental reporting",
+      "Meanings": [
+        "گزارشگری در مورد قسمتهای مختلف یک واحد تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "segregate",
+      "Meanings": [
+        "مجزا",
+        "تک",
+        "جدا"
+      ]
+    },
+    {
+      "EnglishWord": "segregated goods",
+      "Meanings": [
+        "کالاهای متمایز"
+      ]
+    },
+    {
+      "EnglishWord": "select",
+      "Meanings": [
+        "انتخاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "selected financial data",
+      "Meanings": [
+        "اطلاعات مالی منتخب"
+      ]
+    },
+    {
+      "EnglishWord": "selecting accounting principle",
+      "Meanings": [
+        "انتخاب اصول حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "selecting reportable segments",
+      "Meanings": [
+        "انتخاب بخشهای قابل گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "selection",
+      "Meanings": [
+        "انتخاب",
+        "گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selective control",
+      "Meanings": [
+        "کنترل انتخابی"
+      ]
+    },
+    {
+      "EnglishWord": "selectivity",
+      "Meanings": [
+        "قابلیت انتخاب"
+      ]
+    },
+    {
+      "EnglishWord": "self actualization",
+      "Meanings": [
+        "خودشکوفایی"
+      ]
+    },
+    {
+      "EnglishWord": "self checking number",
+      "Meanings": [
+        "عدد خودآزما"
+      ]
+    },
+    {
+      "EnglishWord": "self checking numbers",
+      "Meanings": [
+        "ارقام خود آزما"
+      ]
+    },
+    {
+      "EnglishWord": "self constructed assets",
+      "Meanings": [
+        "داراییهای"
+      ]
+    },
+    {
+      "EnglishWord": "self esteem",
+      "Meanings": [
+        "عزت نفس"
+      ]
+    },
+    {
+      "EnglishWord": "self evaluation",
+      "Meanings": [
+        "خود ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "self liquidating cycle",
+      "Meanings": [
+        "چرخه گردش وجوه نقد دوره تبدیل داراییهای جاری به وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "self regulation",
+      "Meanings": [
+        "نظارت برخود خود نظارتی"
+      ]
+    },
+    {
+      "EnglishWord": "self test problems",
+      "Meanings": [
+        "مسایل خود آزمایی"
+      ]
+    },
+    {
+      "EnglishWord": "self testquestions",
+      "Meanings": [
+        "سوالات خود آزمایی"
+      ]
+    },
+    {
+      "EnglishWord": "self-balancing",
+      "Meanings": [
+        "خود تراز"
+      ]
+    },
+    {
+      "EnglishWord": "sell",
+      "Meanings": [
+        "فروختن"
+      ]
+    },
+    {
+      "EnglishWord": "sell at best",
+      "Meanings": [
+        "فروش به بالا رفتن مطلوب‌ترین قیمت ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "sell or process further",
+      "Meanings": [
+        "فروش یا پردازش بیشتر"
+      ]
+    },
+    {
+      "EnglishWord": "seller",
+      "Meanings": [
+        "فروشنده",
+        "بایع"
+      ]
+    },
+    {
+      "EnglishWord": "seller lessee",
+      "Meanings": [
+        "فروشنده اجاره کننده"
+      ]
+    },
+    {
+      "EnglishWord": "selling and distribution cost budget",
+      "Meanings": [
+        "بودجه هزینه‌های فروش و توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "selling division",
+      "Meanings": [
+        "بخش/دایره فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "selling expenses",
+      "Meanings": [
+        "هزینه‌های فروش"
+      ]
+    },
+    {
+      "EnglishWord": "selling group",
+      "Meanings": [
+        "گروه فروشنده"
+      ]
+    },
+    {
+      "EnglishWord": "selling overhead",
+      "Meanings": [
+        "سربار فروش"
+      ]
+    },
+    {
+      "EnglishWord": "selling price",
+      "Meanings": [
+        "قیمت فروش"
+      ]
+    },
+    {
+      "EnglishWord": "selling season",
+      "Meanings": [
+        "فصل فروش"
+      ]
+    },
+    {
+      "EnglishWord": "semantic content",
+      "Meanings": [
+        "محتوای معنایی"
+      ]
+    },
+    {
+      "EnglishWord": "semantic interpretation",
+      "Meanings": [
+        "تفسیر محتوایی معنایی"
+      ]
+    },
+    {
+      "EnglishWord": "semantical level",
+      "Meanings": [
+        "در سطح معانی ارتباط با واقعیت‌های اقتصادی",
+        "مفهوم سود در سطح معانی ارتباط با واقعیتهای اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "semester",
+      "Meanings": [
+        "نیمسال تحصیلی"
+      ]
+    },
+    {
+      "EnglishWord": "semi finished goods",
+      "Meanings": [
+        "کالا‌های نیمه تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "semi- finished goods",
+      "Meanings": [
+        "کالاهای نیمه تمام"
+      ]
+    },
+    {
+      "EnglishWord": "semi fixed cost",
+      "Meanings": [
+        "اقلام نیمه ثابت بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "semi knocked down skd semi knocked downskd",
+      "Meanings": [
+        "قطعات نیمه منفصله"
+      ]
+    },
+    {
+      "EnglishWord": "semi strong efficiency",
+      "Meanings": [
+        "کارآیی نیمه قوی"
+      ]
+    },
+    {
+      "EnglishWord": "semi variable costs",
+      "Meanings": [
+        "هزینه‌های نیمه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "semiannual compounding",
+      "Meanings": [
+        "انباشت/محاسبه بهره بصورت هر شش ماه یکبار"
+      ]
+    },
+    {
+      "EnglishWord": "semifinished product",
+      "Meanings": [
+        "محصول نیمه ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "semistrong form market efficiency",
+      "Meanings": [
+        "شکل نیمه قوس کارآیی بازار"
+      ]
+    },
+    {
+      "EnglishWord": "semi-variable cost",
+      "Meanings": [
+        "هزینه نیمه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "semivariable costs",
+      "Meanings": [
+        "هزینه‌های مختلط یا نیمه متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "send",
+      "Meanings": [
+        "فرستادن"
+      ]
+    },
+    {
+      "EnglishWord": "sender",
+      "Meanings": [
+        "فرستنده"
+      ]
+    },
+    {
+      "EnglishWord": "senior claims",
+      "Meanings": [
+        "ادعاهای اولویت دار"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity",
+      "Meanings": [
+        "حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity analysis",
+      "Meanings": [
+        "تجزیه و تحلیل حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity anlysis",
+      "Meanings": [
+        "تجزیه و تحلیل حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "separable costs",
+      "Meanings": [
+        "هزینه‌های قابل تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "separate accounting entity",
+      "Meanings": [
+        "تفکیک شخصیت حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "separate entity assumption",
+      "Meanings": [
+        "فرض تفکیک شخصیت"
+      ]
+    },
+    {
+      "EnglishWord": "separate legal entity",
+      "Meanings": [
+        "شخصیت حقوقی جداگانه"
+      ]
+    },
+    {
+      "EnglishWord": "separate ratio estimator",
+      "Meanings": [
+        "برآورد کننده نسبت مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "separating mixed costs",
+      "Meanings": [
+        "تفکیک هزینه‌های مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "separation",
+      "Meanings": [
+        "جداسازی",
+        "تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "separation perspective",
+      "Meanings": [
+        "رویکرد/دیدگاه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "separation theorem",
+      "Meanings": [
+        "قضیه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "seprate entity",
+      "Meanings": [
+        "شخصیت جداگانه",
+        "تفکیک شخصیت"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "توالی",
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "sequence of working paper entries",
+      "Meanings": [
+        "توالی ثبتهای کاربرگها"
+      ]
+    },
+    {
+      "EnglishWord": "sequential allocation method",
+      "Meanings": [
+        "روش تخصیص متوالی یا مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential decisions",
+      "Meanings": [
+        "تصمیمات پی در پی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential or step method",
+      "Meanings": [
+        "روش متوالی یا مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential product flow",
+      "Meanings": [
+        "گردش جریان تسلسلی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "sequential samples",
+      "Meanings": [
+        "نمونه‌های تسلسلی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential sampling",
+      "Meanings": [
+        "نمونه گیری دنباله ای/ متوالی",
+        "نمونه گیری تسلسلی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential tracking",
+      "Meanings": [
+        "ردیابی متوالی یا مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "serial bond",
+      "Meanings": [
+        "اوراق قراضه سریال"
+      ]
+    },
+    {
+      "EnglishWord": "serial bonds",
+      "Meanings": [
+        "اوراق قرضه نوبتی سریال"
+      ]
+    },
+    {
+      "EnglishWord": "serial bonds or notes",
+      "Meanings": [
+        "اوراق قرضه یا اسناد سریال"
+      ]
+    },
+    {
+      "EnglishWord": "serial correlation",
+      "Meanings": [
+        "همبستگی پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "serial correlation in return",
+      "Meanings": [
+        "همبستگی متوالی پیاپی و مستمر بازده ها"
+      ]
+    },
+    {
+      "EnglishWord": "serial independence",
+      "Meanings": [
+        "استقلال پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "serve",
+      "Meanings": [
+        "خدمت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "service",
+      "Meanings": [
+        "خدمت",
+        "خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service center",
+      "Meanings": [
+        "مرکز خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service charge",
+      "Meanings": [
+        "کارمزد",
+        "هزینه انجام خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service company",
+      "Meanings": [
+        "شرکت خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service cost",
+      "Meanings": [
+        "هزینه خدمات",
+        "هزینه خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "service department",
+      "Meanings": [
+        "دایره خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service department costs allocation",
+      "Meanings": [
+        "تخصیص هزینه دوایر خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service enterprise",
+      "Meanings": [
+        "موسسه خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service hour method",
+      "Meanings": [
+        "روش ساعات کارکرد"
+      ]
+    },
+    {
+      "EnglishWord": "service industries",
+      "Meanings": [
+        "صنایع خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service life",
+      "Meanings": [
+        "عمر مفید _ خدمتی"
+      ]
+    },
+    {
+      "EnglishWord": "service period",
+      "Meanings": [
+        "دوره خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "service potential",
+      "Meanings": [
+        "ظرفیت استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "service revenue",
+      "Meanings": [
+        "درآمد خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service sector companies",
+      "Meanings": [
+        "فعالیت خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "service sustaining costs",
+      "Meanings": [
+        "مخارج حفظ و نگهداری خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service time",
+      "Meanings": [
+        "زمان/دوره انتفاع رسانی عمر مفید کارکرد دوره خدمات"
+      ]
+    },
+    {
+      "EnglishWord": "service transactions",
+      "Meanings": [
+        "مبادلات خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "serviceability",
+      "Meanings": [
+        "کاردهی قابلیت استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "setting accounting police",
+      "Meanings": [
+        "تدوین سیاستهای حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "settle",
+      "Meanings": [
+        "تسویه"
+      ]
+    },
+    {
+      "EnglishWord": "settle or settlement price",
+      "Meanings": [
+        "قیمت تصفیه"
+      ]
+    },
+    {
+      "EnglishWord": "settlement",
+      "Meanings": [
+        "واریز اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "settlement date",
+      "Meanings": [
+        "تاریخ حل و فصل/تصفیه",
+        "تاریخ تسویه"
+      ]
+    },
+    {
+      "EnglishWord": "settlement of account",
+      "Meanings": [
+        "تصفیه حساب"
+      ]
+    },
+    {
+      "EnglishWord": "settlement of debt",
+      "Meanings": [
+        "تسویه بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "setup costs",
+      "Meanings": [
+        "هزینه‌های تنظیم و راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "sever devaluation",
+      "Meanings": [
+        "کاهش شدید نرخ رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "severance and redundancy payments",
+      "Meanings": [
+        "پرداختهای مربوط به مزایای پایان خدمت کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "shadow price",
+      "Meanings": [
+        "قیمت سایه"
+      ]
+    },
+    {
+      "EnglishWord": "shadow prices",
+      "Meanings": [
+        "قیمتهای سایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "share",
+      "Meanings": [
+        "سهم",
+        "تسهیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "share certificate",
+      "Meanings": [
+        "گواهینامه مالکیت سهام ورقه سهم"
+      ]
+    },
+    {
+      "EnglishWord": "share premium",
+      "Meanings": [
+        "صرف سهام"
+      ]
+    },
+    {
+      "EnglishWord": "share the wealth agreement",
+      "Meanings": [
+        "توافق/قرار داد سهیم شدن در ثروت"
+      ]
+    },
+    {
+      "EnglishWord": "shared opinion",
+      "Meanings": [
+        "اظهار نظر مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "shared responsibility opinion",
+      "Meanings": [
+        "اظهار نظر مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "shareholder democracy",
+      "Meanings": [
+        "دموکراسی سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "shareholders activism",
+      "Meanings": [
+        "فعالیت گرایی سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "shareholders capital stock master file",
+      "Meanings": [
+        "پرونده اصلی تعداد سهام صاحبان سام"
+      ]
+    },
+    {
+      "EnglishWord": "shareholders equity",
+      "Meanings": [
+        "حقوق سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "sharing",
+      "Meanings": [
+        "به اشتراک درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "sharing of responsibility",
+      "Meanings": [
+        "مشارکت در مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "sharpe ratio",
+      "Meanings": [
+        "نسب شارپ"
+      ]
+    },
+    {
+      "EnglishWord": "shell system",
+      "Meanings": [
+        "سیستم پوسته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "نوبت کار",
+        "نوبتکاری",
+        "شیفت",
+        "جابه جا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "shift differential",
+      "Meanings": [
+        "تفوت مزد نوبت کاری"
+      ]
+    },
+    {
+      "EnglishWord": "shift premium",
+      "Meanings": [
+        "پاداش فوق العاده نوبت کاری"
+      ]
+    },
+    {
+      "EnglishWord": "shipment",
+      "Meanings": [
+        "حمل کالا"
+      ]
+    },
+    {
+      "EnglishWord": "shipment advice",
+      "Meanings": [
+        "برگه حمل"
+      ]
+    },
+    {
+      "EnglishWord": "shipments from home office",
+      "Meanings": [
+        "کالاهای دریافتی از مرکز کالاهای ارسالی از اداره مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "shipments to branch",
+      "Meanings": [
+        "کالاهای ارسالی به شعبه"
+      ]
+    },
+    {
+      "EnglishWord": "shipper",
+      "Meanings": [
+        "فرستنده کالا"
+      ]
+    },
+    {
+      "EnglishWord": "shipping",
+      "Meanings": [
+        "حمل",
+        "حمل و نقل"
+      ]
+    },
+    {
+      "EnglishWord": "shipping order",
+      "Meanings": [
+        "حواله فروش"
+      ]
+    },
+    {
+      "EnglishWord": "shipping unit",
+      "Meanings": [
+        "واحد محموله"
+      ]
+    },
+    {
+      "EnglishWord": "shirking",
+      "Meanings": [
+        "شانه خالی کردن از مسیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "shop floor",
+      "Meanings": [
+        "صحن کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "shop flow control",
+      "Meanings": [
+        "کنترل کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "shopping centre",
+      "Meanings": [
+        "مرکز بزرگ تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "shopping for principles",
+      "Meanings": [
+        "دنبال حسابرس مورد دلخواه گشتن دنبال اصول مناسب حسابداری گشتن"
+      ]
+    },
+    {
+      "EnglishWord": "shore sale",
+      "Meanings": [
+        "فروش استقراضی"
+      ]
+    },
+    {
+      "EnglishWord": "short bills",
+      "Meanings": [
+        "اسناد سریع الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "short cut method",
+      "Meanings": [
+        "روش انجام آزمون سریع"
+      ]
+    },
+    {
+      "EnglishWord": "short cycle",
+      "Meanings": [
+        "دوره کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short form auditors report",
+      "Meanings": [
+        "گزارش کوتاه حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "short presentation",
+      "Meanings": [
+        "ارایه کوتاه گزارش کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short run",
+      "Meanings": [
+        "کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short term auditors report",
+      "Meanings": [
+        "گزارش حسابرسی کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short term bank debt",
+      "Meanings": [
+        "بدهی کوتاه مدت بانکی"
+      ]
+    },
+    {
+      "EnglishWord": "short term financing",
+      "Meanings": [
+        "تامین مالی از محل منابع کوتاه مدت تامین مالی کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short term investment",
+      "Meanings": [
+        "سرمایه گذاری کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short term investments",
+      "Meanings": [
+        "سرمایه گذاریهای کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short term liquidity",
+      "Meanings": [
+        "نقدینگی کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short term notes payable",
+      "Meanings": [
+        "اسناد پرداختنی کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short -term prepayments",
+      "Meanings": [
+        "پیش پرداختهای کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short termism",
+      "Meanings": [
+        "کوتاه مدت گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "shortage",
+      "Meanings": [
+        "کسری",
+        "کمبود"
+      ]
+    },
+    {
+      "EnglishWord": "short-form audit report",
+      "Meanings": [
+        "گزارش کوتاه حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "short-term",
+      "Meanings": [
+        "کوتاه مدت"
+      ]
+    },
+    {
+      "EnglishWord": "short-term investment in marketable securities",
+      "Meanings": [
+        "سرمایه گذاری کوتاه مدت در اوراق قابل فروش در بازار"
+      ]
+    },
+    {
+      "EnglishWord": "short-term or temporary investements",
+      "Meanings": [
+        "سرمایه گذاریهای کوتاه مدت یا موقت"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage",
+      "Meanings": [
+        "کاهش فرایند محصول تولید بدلیل آبرفتگی تبخیر انقباض و…",
+        "آبرفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "shut down costs",
+      "Meanings": [
+        "مخارج توقف عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "shutdown of facilities",
+      "Meanings": [
+        "تعطیل تسهیلات"
+      ]
+    },
+    {
+      "EnglishWord": "sickness benefit",
+      "Meanings": [
+        "دستمزد ایام بیماری"
+      ]
+    },
+    {
+      "EnglishWord": "side effects",
+      "Meanings": [
+        "آثار جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "side-effect measures",
+      "Meanings": [
+        "معیارهای جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "sight bill",
+      "Meanings": [
+        "برات دیداری"
+      ]
+    },
+    {
+      "EnglishWord": "sight documentary credit",
+      "Meanings": [
+        "اعتبار اسنادی دیداری"
+      ]
+    },
+    {
+      "EnglishWord": "sight draft",
+      "Meanings": [
+        "برات دیداری"
+      ]
+    },
+    {
+      "EnglishWord": "sight partner",
+      "Meanings": [
+        "شریک غیر فعال"
+      ]
+    },
+    {
+      "EnglishWord": "sigmicant assumptions",
+      "Meanings": [
+        "مفروضات"
+      ]
+    },
+    {
+      "EnglishWord": "sign off",
+      "Meanings": [
+        "اتمام",
+        "تایید نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "signaling theory hypothesis",
+      "Meanings": [
+        "تیوری/فرضیه اطلاع رسانی"
+      ]
+    },
+    {
+      "EnglishWord": "signature",
+      "Meanings": [
+        "امضاء"
+      ]
+    },
+    {
+      "EnglishWord": "signature card",
+      "Meanings": [
+        "کارت امضا"
+      ]
+    },
+    {
+      "EnglishWord": "signed diffurence",
+      "Meanings": [
+        "تفاوت جبری"
+      ]
+    },
+    {
+      "EnglishWord": "significant",
+      "Meanings": [
+        "عمده قابل توجه معنی دار"
+      ]
+    },
+    {
+      "EnglishWord": "significant accounting policies",
+      "Meanings": [
+        "اهم رویه‌های حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "significant control",
+      "Meanings": [
+        "کنترل قابل ملاحظه"
+      ]
+    },
+    {
+      "EnglishWord": "significant figure",
+      "Meanings": [
+        "عدد اصلی",
+        "عدد مهم"
+      ]
+    },
+    {
+      "EnglishWord": "significant influence",
+      "Meanings": [
+        "نفوذ قابل توجه",
+        "نفوذ قابل ملاحظه"
+      ]
+    },
+    {
+      "EnglishWord": "significant noncash transactions",
+      "Meanings": [
+        "معاملات/مبادلات عمده غیر نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "significant variance",
+      "Meanings": [
+        "انحراف عمده/قابل توجه"
+      ]
+    },
+    {
+      "EnglishWord": "similar assets",
+      "Meanings": [
+        "داراییهای مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "simple average price",
+      "Meanings": [
+        "قیمت میانگین متوسط عددی"
+      ]
+    },
+    {
+      "EnglishWord": "simple capital structure",
+      "Meanings": [
+        "ساختار ساده سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "simple cash flow",
+      "Meanings": [
+        "الگوی ساده نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "simple interest",
+      "Meanings": [
+        "بهره ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple linear",
+      "Meanings": [
+        "خطی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple linear regression",
+      "Meanings": [
+        "رگرسیون خطی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple regression",
+      "Meanings": [
+        "رگرسیون ساده",
+        "همگرایی رگراسیون ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simplex method",
+      "Meanings": [
+        "روش سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "simplex tableau",
+      "Meanings": [
+        "جدول سیمپلکس"
+      ]
+    },
+    {
+      "EnglishWord": "simplicity",
+      "Meanings": [
+        "سادگی"
+      ]
+    },
+    {
+      "EnglishWord": "simulated transactions",
+      "Meanings": [
+        "رویدادهای مالی شبیه سازی شده"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous engineering",
+      "Meanings": [
+        "مهندسی همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "single entry system statement",
+      "Meanings": [
+        "سیستم یکطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "single rate method",
+      "Meanings": [
+        "روش تک نرخی"
+      ]
+    },
+    {
+      "EnglishWord": "single step format",
+      "Meanings": [
+        "شکل تک مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "single step income statement",
+      "Meanings": [
+        "صورت سود وزیان تک مرحله ای",
+        "صورت حساب سود وزیان یک مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "single-step income statement format",
+      "Meanings": [
+        "صورتحساب سود وزیان به شکل یک مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund",
+      "Meanings": [
+        "حساب مستقل بازپرداخت اوراق قرضه وجوه استهلاکی",
+        "وجوه استهلاکی"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund cash",
+      "Meanings": [
+        "وجوه استهلاکی تقدی"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund contributions",
+      "Meanings": [
+        "وجوه پرداختی به صندوقهای ایجاد شده برای مقاصد معین"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund factor",
+      "Meanings": [
+        "فاکتور اقساطی سالواره"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund investments",
+      "Meanings": [
+        "وجوه استهلاکی سرمایه گذاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "sinking fund method of depreciation",
+      "Meanings": [
+        "استهلاک به روش سرمایه گذاری وجوه استهلاکی"
+      ]
+    },
+    {
+      "EnglishWord": "site preparation",
+      "Meanings": [
+        "تدارک کارگاه تجیهز کارگاه",
+        "تجهیز کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "site supervision",
+      "Meanings": [
+        "سرپرستی کارگاه",
+        "مدیریت کارگاه",
+        "رییس کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "situation",
+      "Meanings": [
+        "موقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "size effect",
+      "Meanings": [
+        "اثر اندازه شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "size hypothesis",
+      "Meanings": [
+        "نظریه فرضیه اندازه شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "skewed distribution",
+      "Meanings": [
+        "توزیع «چوله»"
+      ]
+    },
+    {
+      "EnglishWord": "skewness",
+      "Meanings": [
+        "چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "slack variable",
+      "Meanings": [
+        "متغیر مجازی/مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "slack variables",
+      "Meanings": [
+        "متغیرهای کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "slam-dunk or phased approach",
+      "Meanings": [
+        "رویکرد ورود مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "slope",
+      "Meanings": [
+        "ضریب زاویه شیب",
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slope coefficient",
+      "Meanings": [
+        "ضریب زاویه شیب خط"
+      ]
+    },
+    {
+      "EnglishWord": "slow assets",
+      "Meanings": [
+        "داراییهای غیر جاری"
+      ]
+    },
+    {
+      "EnglishWord": "slow moving inventory",
+      "Meanings": [
+        "عامل ضریب زاویه",
+        "موجودی کم گردش/کم تحرک"
+      ]
+    },
+    {
+      "EnglishWord": "small firm effect",
+      "Meanings": [
+        "رسیدگی/پی جویی محدود"
+      ]
+    },
+    {
+      "EnglishWord": "small stock dividend",
+      "Meanings": [
+        "سود سهمی کم/اندک"
+      ]
+    },
+    {
+      "EnglishWord": "smoothing hypothesis",
+      "Meanings": [
+        "نظریه فرضیه هموار سازی سود"
+      ]
+    },
+    {
+      "EnglishWord": "snap shot",
+      "Meanings": [
+        "تصویر آنی"
+      ]
+    },
+    {
+      "EnglishWord": "snapshot",
+      "Meanings": [
+        "عکس تصویر فوری/لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "social",
+      "Meanings": [
+        "اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social audit",
+      "Meanings": [
+        "حسابرسی مسیولیتهای اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social balance sheet",
+      "Meanings": [
+        "ترازنامه اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social responsibilities",
+      "Meanings": [
+        "مسیولیتهای اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social sciences",
+      "Meanings": [
+        "علوم اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social security premium",
+      "Meanings": [
+        "حق بیمه سازمان تامین اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social security tax",
+      "Meanings": [
+        "مالیات تامین اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "socializing process",
+      "Meanings": [
+        "فرآیند واگذاری صنایع و واحدهای دولتی به عموم"
+      ]
+    },
+    {
+      "EnglishWord": "society of management of canada",
+      "Meanings": [
+        "انجمن حسابداران مدیریت کانادا"
+      ]
+    },
+    {
+      "EnglishWord": "socio economic factors",
+      "Meanings": [
+        "عوامل اجتماعی و اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "software",
+      "Meanings": [
+        "نرم افزار برنامه نرم افزاری",
+        "نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "software development",
+      "Meanings": [
+        "ایجاد برنامه‌های نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "software package",
+      "Meanings": [
+        "برنامه‌های نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "sole proprietorship",
+      "Meanings": [
+        "واحدهای تجاری انفرادی"
+      ]
+    },
+    {
+      "EnglishWord": "sole proprietorships",
+      "Meanings": [
+        "موسسات تک مالکی واحدهای تک مالکی"
+      ]
+    },
+    {
+      "EnglishWord": "solicitation",
+      "Meanings": [
+        "رایزنی روشهای جلب مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "solution",
+      "Meanings": [
+        "راه حل"
+      ]
+    },
+    {
+      "EnglishWord": "solution design",
+      "Meanings": [
+        "راه حل طراحی"
+      ]
+    },
+    {
+      "EnglishWord": "solutions manual",
+      "Meanings": [
+        "راهنمای حل مسایل"
+      ]
+    },
+    {
+      "EnglishWord": "solvency",
+      "Meanings": [
+        "قدرت پرداخت تعهدات",
+        "توانایی ایفای تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "solvency ratios",
+      "Meanings": [
+        "نسبتهای سنجش قدرت پرداخت تعهدات/بدهیها"
+      ]
+    },
+    {
+      "EnglishWord": "solvent dewaxing",
+      "Meanings": [
+        "موم زدایی با حلال"
+      ]
+    },
+    {
+      "EnglishWord": "solvent extraction",
+      "Meanings": [
+        "جداسازی با حلال"
+      ]
+    },
+    {
+      "EnglishWord": "sort",
+      "Meanings": [
+        "دسته بندی",
+        "ردیف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sorting",
+      "Meanings": [
+        "طبقه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "sound financial policy",
+      "Meanings": [
+        "سیاست مالی مناسب",
+        "سیاست صحیح مالی"
+      ]
+    },
+    {
+      "EnglishWord": "sound judgment",
+      "Meanings": [
+        "قضاوت صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "source documents",
+      "Meanings": [
+        "مسندات مرجع اسناد و مدارک اولیه",
+        "مدرک اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "source of cash",
+      "Meanings": [
+        "منبع وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "source of evidence",
+      "Meanings": [
+        "منبع شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "source planning",
+      "Meanings": [
+        "سیستمهای برنامه ریزی توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "sources",
+      "Meanings": [
+        "منابع"
+      ]
+    },
+    {
+      "EnglishWord": "sources and applications of fund",
+      "Meanings": [
+        "منابع و مصارف وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "sources and uses of funds",
+      "Meanings": [
+        "منابع و مصارف وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "sources of cash",
+      "Meanings": [
+        "منابع وجوه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "sources of equity",
+      "Meanings": [
+        "منابع تامین سرمایه منابع ارزش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "sources of financial information",
+      "Meanings": [
+        "منابع اطلاعات مالی"
+      ]
+    },
+    {
+      "EnglishWord": "sources of funds",
+      "Meanings": [
+        "منابع وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "sources of resources",
+      "Meanings": [
+        "ماخذ منابع محل تامین منابع",
+        "ماخذ منابع"
+      ]
+    },
+    {
+      "EnglishWord": "sources of u.s.gaap",
+      "Meanings": [
+        "منابع و ماخذ اصول پذیرفته شده حسابداری آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "sources of working capital",
+      "Meanings": [
+        "منابع سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "sourvillance",
+      "Meanings": [
+        "گواهی بازرسی",
+        "بازبینی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "spare parts",
+      "Meanings": [
+        "قطعات یدکی"
+      ]
+    },
+    {
+      "EnglishWord": "special assessment fund",
+      "Meanings": [
+        "حساب مستقل عوارض مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "special assessments",
+      "Meanings": [
+        "عوارض مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "special assignments",
+      "Meanings": [
+        "تکالیف مخصوص تسهیلات خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special circumstances",
+      "Meanings": [
+        "شرایط خاص ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "special committee on assurance services",
+      "Meanings": [
+        "کمیته ویژه خدمات اطمینان دهی"
+      ]
+    },
+    {
+      "EnglishWord": "special conditions for sub contracts",
+      "Meanings": [
+        "شرایط اختصاصی پیمانهای دست دوم"
+      ]
+    },
+    {
+      "EnglishWord": "special conditions of contract",
+      "Meanings": [
+        "شرایط خاص پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "special drawing right sdr special drawing rightsdr",
+      "Meanings": [
+        "حق برداشت مخصوص",
+        "واحد پولی صندوق بین المللی پول است که ارزش آن معادل مجموعه ارزهای ذیل می‌باشد: دلار آمریکا 42%",
+        "مارک آلمان 19%",
+        "پوند انگلیس 12%",
+        "فرانک فرانسه 12% ین ژاپن 15%"
+      ]
+    },
+    {
+      "EnglishWord": "special journal",
+      "Meanings": [
+        "دفتر روزنامه اختصاصی"
+      ]
+    },
+    {
+      "EnglishWord": "special offering or bid",
+      "Meanings": [
+        "پیشنهاد مناقصه مزایده خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special order decision",
+      "Meanings": [
+        "تصمیم گیری دربارهسفارش خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special production issues",
+      "Meanings": [
+        "مباحث / موضوعات خاص تولید"
+      ]
+    },
+    {
+      "EnglishWord": "special purpose funds",
+      "Meanings": [
+        "حسابهای مستقل خاص وجوه نگهداری شده برای اهداف خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special purpose report",
+      "Meanings": [
+        "گزارش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "special repair orders",
+      "Meanings": [
+        "دستور کارتعمیرات ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "special report",
+      "Meanings": [
+        "گزارش ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "special revenue fund",
+      "Meanings": [
+        "حساب مستقل درآمدهای اختصاصی"
+      ]
+    },
+    {
+      "EnglishWord": "special sales order",
+      "Meanings": [
+        "سفارش فروش خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special situations",
+      "Meanings": [
+        "حالات / وضعیتهای خاص موارد خاص"
+      ]
+    },
+    {
+      "EnglishWord": "special terms for sub contracts",
+      "Meanings": [
+        "شرایط خاص قراردادهای دست دوم"
+      ]
+    },
+    {
+      "EnglishWord": "special terms of contact",
+      "Meanings": [
+        "شرایط خاص قرارداد / پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "special topics",
+      "Meanings": [
+        "موضوعات خاص مباحث ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specialist",
+      "Meanings": [
+        "کارشناس متخصص",
+        "کارشناس",
+        "متخصص"
+      ]
+    },
+    {
+      "EnglishWord": "specialized accounting principles",
+      "Meanings": [
+        "اصول خاص حسابداری اصول حسابداری مختص صنایع خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specialized investment enterprise",
+      "Meanings": [
+        "شرکت تخصصی سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "specific authorization",
+      "Meanings": [
+        "تصویب خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific disclosure",
+      "Meanings": [
+        "افشای موارد خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific disclosures",
+      "Meanings": [
+        "افشای موارد خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific identification",
+      "Meanings": [
+        "شناسایی ویژه",
+        "شناسایس ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific identification  method specific identification",
+      "Meanings": [
+        "روش شناسایی ویژه در تعیین ارزش موجودی ها"
+      ]
+    },
+    {
+      "EnglishWord": "specific identification method",
+      "Meanings": [
+        "روش شناسایی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific performance method",
+      "Meanings": [
+        "روش عملکرد معین"
+      ]
+    },
+    {
+      "EnglishWord": "specific price indes",
+      "Meanings": [
+        "شاخص قیمت‌های خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific price index",
+      "Meanings": [
+        "شاخص قیمت خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific purpose financial statements",
+      "Meanings": [
+        "صورتهای مالی تهیه شده برای مقاصد خاص"
+      ]
+    },
+    {
+      "EnglishWord": "specific unit cost method",
+      "Meanings": [
+        "روش بهای تمام شده هر واحد شخص"
+      ]
+    },
+    {
+      "EnglishWord": "specification",
+      "Meanings": [
+        "تشخیص و تبین"
+      ]
+    },
+    {
+      "EnglishWord": "specification analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "specifications",
+      "Meanings": [
+        "ویژگیها",
+        "مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "specificity approach",
+      "Meanings": [
+        "رویکرد / دیدگاه / روش جزیی نگری"
+      ]
+    },
+    {
+      "EnglishWord": "speculation",
+      "Meanings": [
+        "سفته بازی"
+      ]
+    },
+    {
+      "EnglishWord": "speculative demand for money",
+      "Meanings": [
+        "تقاضای سوداگرانه برای پول"
+      ]
+    },
+    {
+      "EnglishWord": "speculative grade bonds",
+      "Meanings": [
+        "اوراق قرضه با ریسک بالا"
+      ]
+    },
+    {
+      "EnglishWord": "speculative motive",
+      "Meanings": [
+        "انگیزه سفته بازی"
+      ]
+    },
+    {
+      "EnglishWord": "speculator",
+      "Meanings": [
+        "سفته باز"
+      ]
+    },
+    {
+      "EnglishWord": "speed",
+      "Meanings": [
+        "سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "spending variance",
+      "Meanings": [
+        "انحراف هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "spin off",
+      "Meanings": [
+        "تقسیم سهام شرکت فرعی بین سهامداران شرکت اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "split off point",
+      "Meanings": [
+        "نقطه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "split rate",
+      "Meanings": [
+        "ضریب تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "split-off point",
+      "Meanings": [
+        "نقطه تفکیک محصول"
+      ]
+    },
+    {
+      "EnglishWord": "spoilage",
+      "Meanings": [
+        "ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "spoiled material",
+      "Meanings": [
+        "مواد ضایع فاسد شده"
+      ]
+    },
+    {
+      "EnglishWord": "spoiled units",
+      "Meanings": [
+        "واحدهای ضایع شده"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneous financing",
+      "Meanings": [
+        "تامین مالی بدون برنامه ریزی قبلی"
+      ]
+    },
+    {
+      "EnglishWord": "spot exchange transaction",
+      "Meanings": [
+        "معامله تحویل فوری ارز در یک روز"
+      ]
+    },
+    {
+      "EnglishWord": "spot market",
+      "Meanings": [
+        "بازار نقد بازار فوری"
+      ]
+    },
+    {
+      "EnglishWord": "spot price",
+      "Meanings": [
+        "قیمت روز"
+      ]
+    },
+    {
+      "EnglishWord": "spot rate",
+      "Meanings": [
+        "نرخ روز",
+        "نرخ نقدی ارز"
+      ]
+    },
+    {
+      "EnglishWord": "spot welding",
+      "Meanings": [
+        "جوش نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "spreadsheet",
+      "Meanings": [
+        "صفحه گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "stability",
+      "Meanings": [
+        "پایداری",
+        "استوار"
+      ]
+    },
+    {
+      "EnglishWord": "stable",
+      "Meanings": [
+        "باثبات"
+      ]
+    },
+    {
+      "EnglishWord": "staff",
+      "Meanings": [
+        "پرسنل",
+        "کادر اداری"
+      ]
+    },
+    {
+      "EnglishWord": "staff departments",
+      "Meanings": [
+        "دوایر ستادی"
+      ]
+    },
+    {
+      "EnglishWord": "staff functions",
+      "Meanings": [
+        "توابع ستادی"
+      ]
+    },
+    {
+      "EnglishWord": "staff management",
+      "Meanings": [
+        "مدیریت کارکنان مدیریت ستادی"
+      ]
+    },
+    {
+      "EnglishWord": "staff manager",
+      "Meanings": [
+        "رییس کارگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "staff managers",
+      "Meanings": [
+        "مدیران ستادی"
+      ]
+    },
+    {
+      "EnglishWord": "staffing",
+      "Meanings": [
+        "کارگزینی",
+        "بکار گماردن"
+      ]
+    },
+    {
+      "EnglishWord": "stage of completion",
+      "Meanings": [
+        "مرحله تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "stage payments",
+      "Meanings": [
+        "پرداختهای مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "stagflation",
+      "Meanings": [
+        "رکود اقتصادی توام با تورم"
+      ]
+    },
+    {
+      "EnglishWord": "stakeholders",
+      "Meanings": [
+        "ذینفعان",
+        "سایر گروههای ذینفع"
+      ]
+    },
+    {
+      "EnglishWord": "stale b/l",
+      "Meanings": [
+        "بارنامه دیر دریافت شده"
+      ]
+    },
+    {
+      "EnglishWord": "stamp",
+      "Meanings": [
+        "مهر",
+        "تمبر"
+      ]
+    },
+    {
+      "EnglishWord": "stamp duty",
+      "Meanings": [
+        "عوارض تمبر"
+      ]
+    },
+    {
+      "EnglishWord": "stand alone common cost allocation method",
+      "Meanings": [
+        "روش تخصیص مستقل هزینه ای مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "stand alone risk",
+      "Meanings": [
+        "ریسک منحصر بفرد ریسک مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "stand by equipment",
+      "Meanings": [
+        "تجهیزات آماده استفاده تجهیزات ذخیره تجهیزات آماده بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard   poor's 500 composite average",
+      "Meanings": [
+        "متوسط شاخص پانصد شرکت برتر"
+      ]
+    },
+    {
+      "EnglishWord": "standard bank confirmation form",
+      "Meanings": [
+        "شکل استاندارد تایییه بانک"
+      ]
+    },
+    {
+      "EnglishWord": "standard bill of materials",
+      "Meanings": [
+        "فرم استاندارد درخواست مواد"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost",
+      "Meanings": [
+        "هزینه استاندارد",
+        "قیمت استاندارد",
+        "هزینه معیار"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost card",
+      "Meanings": [
+        "کارت هزینه استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost records",
+      "Meanings": [
+        "کارتهای / سوابق هزینه استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost sheet",
+      "Meanings": [
+        "برگ هزینه استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost system",
+      "Meanings": [
+        "سیستم هزینه یابی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard cost system journal entries",
+      "Meanings": [
+        "ثبتهای دفتر روزنامه سیستم هزینه یابی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard costing",
+      "Meanings": [
+        "هزینه یابی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard costs",
+      "Meanings": [
+        "هزینه‌های استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard deviation",
+      "Meanings": [
+        "انحراف معیار",
+        "انحراف استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard deviation of the random error term",
+      "Meanings": [
+        "انحراف معیار خطای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "standard error",
+      "Meanings": [
+        "اشتباه معیار"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of alpha",
+      "Meanings": [
+        "خطای استاندارد ضریب آلفا"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of beta",
+      "Meanings": [
+        "خطای استاندارد ضریب بتا"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of the estimate",
+      "Meanings": [
+        "خطای استاندارد برآورد",
+        "اشتباه معیار برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "standard error of the estimated coefficient",
+      "Meanings": [
+        "خطای استاندارد ضریب برآوردی"
+      ]
+    },
+    {
+      "EnglishWord": "standard flow chart",
+      "Meanings": [
+        "نمودار استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard form",
+      "Meanings": [
+        "فرم استاندارد",
+        "شکل استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard hour",
+      "Meanings": [
+        "ساعت استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard hours allowed",
+      "Meanings": [
+        "ساعات مجاز استاندارد",
+        "ساعات استاندارد مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "standard industrial classification manual",
+      "Meanings": [
+        "راهنمای طبقه بندی استاندارد صنایع"
+      ]
+    },
+    {
+      "EnglishWord": "standard input",
+      "Meanings": [
+        "وروردی / داده استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard international trade classification sitc standard international trade classificationsitc",
+      "Meanings": [
+        "طبقه بندی استاندارد تجارت بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "standard of price",
+      "Meanings": [
+        "مقیاس قیمت به معنای واحد پول"
+      ]
+    },
+    {
+      "EnglishWord": "standard operating procedures",
+      "Meanings": [
+        "روشهای عملیاتی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard opinion",
+      "Meanings": [
+        "اظهار نظر استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard overhead application rate",
+      "Meanings": [
+        "نرخ استاندارد جذب سربار"
+      ]
+    },
+    {
+      "EnglishWord": "standard price",
+      "Meanings": [
+        "قیمت استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard quantity allowed",
+      "Meanings": [
+        "مقدار استاندارد مجاز",
+        "مقدار مجاز استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard quantity of materials allowed",
+      "Meanings": [
+        "مقدار استاندارد مواد مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "standard rate",
+      "Meanings": [
+        "نرخ معیار",
+        "نرخ متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "standard report",
+      "Meanings": [
+        "گزارش استاندارد",
+        "گزارش مقبول"
+      ]
+    },
+    {
+      "EnglishWord": "standard setting process",
+      "Meanings": [
+        "فرایند تدوین استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard time",
+      "Meanings": [
+        "زمان استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard unqualified audit report",
+      "Meanings": [
+        "گزارش حسابرسی مقبول استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standardized estimator",
+      "Meanings": [
+        "برآورد استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized unexpected earnings",
+      "Meanings": [
+        "سود استاندارد غیر مورد انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "standards for accreditation",
+      "Meanings": [
+        "استانداردهای اعتبار سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "standards revision",
+      "Meanings": [
+        "بازنگری در استانداردها تجدید نظر در استانداردها"
+      ]
+    },
+    {
+      "EnglishWord": "standby agreement",
+      "Meanings": [
+        "قرارداد تضمین فروش محصول"
+      ]
+    },
+    {
+      "EnglishWord": "start up costs",
+      "Meanings": [
+        "هزینه‌های بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "starting capital",
+      "Meanings": [
+        "سرمایه اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "start-up costs",
+      "Meanings": [
+        "مخارج راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "state of market",
+      "Meanings": [
+        "وضعیت بازار"
+      ]
+    },
+    {
+      "EnglishWord": "stated fraction",
+      "Meanings": [
+        "نسبت معین / تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "stated hypothesis",
+      "Meanings": [
+        "فرضیه بیان شده"
+      ]
+    },
+    {
+      "EnglishWord": "stated interest rate",
+      "Meanings": [
+        "نرخ بهره معین / تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "stated value",
+      "Meanings": [
+        "ارزش اعلام شده/ تعریف شده",
+        "ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "stated value method",
+      "Meanings": [
+        "روش ارزش اعلام شده/ تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "صورت",
+        "وضعیت",
+        "اظهار",
+        "حکم",
+        "بیان",
+        "صورتحساب"
+      ]
+    },
+    {
+      "EnglishWord": "statement of account",
+      "Meanings": [
+        "صورتحساب",
+        "صورت وضعیت حساب"
+      ]
+    },
+    {
+      "EnglishWord": "statement of capital",
+      "Meanings": [
+        "صورت حساب سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "statement of cash flows",
+      "Meanings": [
+        "صورت جریانهای نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "statement of changes in equity",
+      "Meanings": [
+        "صورت تغییرات در حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "statement of changes in financial position",
+      "Meanings": [
+        "صورت تغییرات در وضعیت مالی"
+      ]
+    },
+    {
+      "EnglishWord": "statement of changes in net assets",
+      "Meanings": [
+        "صورت تغییرات در خالص داراییها"
+      ]
+    },
+    {
+      "EnglishWord": "statement of changes in owner's equity",
+      "Meanings": [
+        "صورت تغییرات در حقوق مالکان"
+      ]
+    },
+    {
+      "EnglishWord": "statement of concepts",
+      "Meanings": [
+        "بیانیه مفاهیم"
+      ]
+    },
+    {
+      "EnglishWord": "statement of earnings",
+      "Meanings": [
+        "صورت عایدات / سود"
+      ]
+    },
+    {
+      "EnglishWord": "statement of financial accounting concepts  sfac",
+      "Meanings": [
+        "بیانیه مفاهیم حسابداری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "statement of financial position",
+      "Meanings": [
+        "صورت وضعیت مالی نام دیگر ترازنامه",
+        "صورت وضعیت مالی"
+      ]
+    },
+    {
+      "EnglishWord": "statement of owner's equity",
+      "Meanings": [
+        "صورت حقوق مالکانه",
+        "صورت حساب حقوق صاحب سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "statement of results of operations",
+      "Meanings": [
+        "صورت نتایج عملکرد صورت نتایج عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "statement of retained earning",
+      "Meanings": [
+        "صورت سود یا زیان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "statement of retained earnings",
+      "Meanings": [
+        "صورت سود زیان انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "statement of source and application of funds",
+      "Meanings": [
+        "صورت منابع و مصارف وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "statement of stockholder's equity",
+      "Meanings": [
+        "صورت حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "statement on management accounting standards  smas",
+      "Meanings": [
+        "بیانیه استانداردهای حسابداری مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "statements from incomplete records",
+      "Meanings": [
+        "تهیه و تنظیم صورتهای مالی از روی مدارک ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "statements from single entry record",
+      "Meanings": [
+        "تهیه و تنظیم صورتهای مالی از روی مدارک ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "statements on auditing standards",
+      "Meanings": [
+        "بیانیه‌های استانداردهای پذیرفته شده حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "statements on auditing standards  sass",
+      "Meanings": [
+        "بیانیه‌های استانداردهای حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "statements on standards for accounting and review service  ssars",
+      "Meanings": [
+        "بیانیه‌های ایستانداردهای خدمات حسابداری و بررسی صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "statements on standards for accounting and review services  ssars statements on standards for accounting and review services",
+      "Meanings": [
+        "بیانیه استانداردهای خدمات بررسی و حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "statements on standards of attestation engagements  ssaes",
+      "Meanings": [
+        "بیانیه‌های استانداردهای خدمات اعتباردهی"
+      ]
+    },
+    {
+      "EnglishWord": "states",
+      "Meanings": [
+        "وضعیتها حالات"
+      ]
+    },
+    {
+      "EnglishWord": "states of nature",
+      "Meanings": [
+        "وضعیتها حالات"
+      ]
+    },
+    {
+      "EnglishWord": "static analysis",
+      "Meanings": [
+        "تجزیه و تحلیل ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "static budget",
+      "Meanings": [
+        "بودجه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "station",
+      "Meanings": [
+        "ایستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "stationery",
+      "Meanings": [
+        "ملزومات اداری",
+        "نوشت افزار"
+      ]
+    },
+    {
+      "EnglishWord": "statistic",
+      "Meanings": [
+        "آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistical analysis",
+      "Meanings": [
+        "تجزیه و تحلیل اماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical correlation",
+      "Meanings": [
+        "همبستگی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical data",
+      "Meanings": [
+        "داده‌های آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical decision theory",
+      "Meanings": [
+        "تیوری تصمیم گیریهای آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical efficiency",
+      "Meanings": [
+        "کارآیی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical inferences",
+      "Meanings": [
+        "استنباطهای آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical process control  spc",
+      "Meanings": [
+        "کنترل آماری فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "statistical quality control procedures",
+      "Meanings": [
+        "روشهای کنترل کیفیت آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical sampling",
+      "Meanings": [
+        "نمونه گیری آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical sampling techniques",
+      "Meanings": [
+        "تکنیکهای نمونه گیری آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistics",
+      "Meanings": [
+        "آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statment on auditing standards",
+      "Meanings": [
+        "استانداردهای حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "status",
+      "Meanings": [
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "status quo",
+      "Meanings": [
+        "وضع موجود"
+      ]
+    },
+    {
+      "EnglishWord": "status report",
+      "Meanings": [
+        "گزارش وضعیت موجود در لحظه ای معین"
+      ]
+    },
+    {
+      "EnglishWord": "statutory",
+      "Meanings": [
+        "طبق قانون"
+      ]
+    },
+    {
+      "EnglishWord": "statutory audit",
+      "Meanings": [
+        "حسابرسی قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "statutory deductions",
+      "Meanings": [
+        "کسورات قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "steady state",
+      "Meanings": [
+        "حالت ثبات دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "steady state phase",
+      "Meanings": [
+        "مرحله ثبات / پایداری"
+      ]
+    },
+    {
+      "EnglishWord": "steamer",
+      "Meanings": [
+        "کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "steering committee",
+      "Meanings": [
+        "کمیت ناظر و هدایت کننده",
+        "کمیته هدایت"
+      ]
+    },
+    {
+      "EnglishWord": "step allocation method",
+      "Meanings": [
+        "روش تخصیص پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step by step acquisition",
+      "Meanings": [
+        "تحصیل گام به گام تحصیل تدریجی",
+        "تحصیل مرحله به مرحله تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "step by step run",
+      "Meanings": [
+        "اجرای مرحله به مرحله",
+        "قدم به قدم"
+      ]
+    },
+    {
+      "EnglishWord": "step cost function",
+      "Meanings": [
+        "تابع هزینه پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step costs",
+      "Meanings": [
+        "هزینه‌های پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step down allocation method",
+      "Meanings": [
+        "روش تخصیص پله ای نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "step fixed",
+      "Meanings": [
+        "ثابت پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step fixed cost",
+      "Meanings": [
+        "هزینه ثابت پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step method",
+      "Meanings": [
+        "روش پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step variable",
+      "Meanings": [
+        "هزینه متغیر پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "step variable cost",
+      "Meanings": [
+        "هزینه متغیر پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "stepped fixed costs",
+      "Meanings": [
+        "هزینه‌های ثابت پله ای"
+      ]
+    },
+    {
+      "EnglishWord": "steward",
+      "Meanings": [
+        "نماینده مباشر"
+      ]
+    },
+    {
+      "EnglishWord": "stewardship",
+      "Meanings": [
+        "مباشرت"
+      ]
+    },
+    {
+      "EnglishWord": "stewardship function",
+      "Meanings": [
+        "وظیفه مباشرتی / سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic process risk",
+      "Meanings": [
+        "ریسک فرایند تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stock",
+      "Meanings": [
+        "سهام",
+        "موجودی کالا",
+        "انبار",
+        "سهم",
+        "انباره",
+        "موجودی انبار"
+      ]
+    },
+    {
+      "EnglishWord": "stock adjustment",
+      "Meanings": [
+        "تعدیل و اصلاح موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "stock appreciation right",
+      "Meanings": [
+        "حقوق نقدی ناشی از تغییر ارزش سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock certificate book",
+      "Meanings": [
+        "دفتر گواهینامه سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock control",
+      "Meanings": [
+        "کنترل موجودی انبار"
+      ]
+    },
+    {
+      "EnglishWord": "stock dividend",
+      "Meanings": [
+        "سود سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "stock dividends",
+      "Meanings": [
+        "سود سهمی",
+        "سود تقسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "stock dividends to be distitrible",
+      "Meanings": [
+        "سود سهمی قابل توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "stock dividends distributable",
+      "Meanings": [
+        "سود فابل توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "stock exchange",
+      "Meanings": [
+        "بورس"
+      ]
+    },
+    {
+      "EnglishWord": "stock exchange quotation",
+      "Meanings": [
+        "قیمت‌های بورسی"
+      ]
+    },
+    {
+      "EnglishWord": "stock holder",
+      "Meanings": [
+        "سهامدار"
+      ]
+    },
+    {
+      "EnglishWord": "stock in hand",
+      "Meanings": [
+        "موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "stock issue costs",
+      "Meanings": [
+        "هزینه‌های صدور سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock levels",
+      "Meanings": [
+        "مقادیر موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "stock market",
+      "Meanings": [
+        "بازار بورس"
+      ]
+    },
+    {
+      "EnglishWord": "stock of wealth",
+      "Meanings": [
+        "ثروت انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "stock option",
+      "Meanings": [
+        "اختیار خرید سهام",
+        "خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock option plan",
+      "Meanings": [
+        "طرح اختیار خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock options",
+      "Meanings": [
+        "اختیار خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock premium",
+      "Meanings": [
+        "صرف سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock purchase",
+      "Meanings": [
+        "خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock purchase plan",
+      "Meanings": [
+        "طرح خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock registrar",
+      "Meanings": [
+        "کارگزار ثبت سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock report",
+      "Meanings": [
+        "گزارش وضعیت موجود در لحظه ای معین"
+      ]
+    },
+    {
+      "EnglishWord": "stock report static",
+      "Meanings": [
+        "گزارش وضعیت موجود ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "stock rights",
+      "Meanings": [
+        "حق تقدم خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock spilit",
+      "Meanings": [
+        "تجزیه سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock split",
+      "Meanings": [
+        "تجزیه سهام کم کردن ارزش اسمی سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock splits",
+      "Meanings": [
+        "تجزیه سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock taking",
+      "Meanings": [
+        "صورت برداری از موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "stock transfer agent",
+      "Meanings": [
+        "کارگزار انتقال سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock warrant",
+      "Meanings": [
+        "گواهینامه حق خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stock warrants",
+      "Meanings": [
+        "اجازه خرید سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockholders",
+      "Meanings": [
+        "سهامداران",
+        "صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockholder's equity",
+      "Meanings": [
+        "حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockholders equitystockholders equity",
+      "Meanings": [
+        "حقوق صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockholders ledger",
+      "Meanings": [
+        "دفتر ثبت سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockholders' meeting",
+      "Meanings": [
+        "مجمع صاحبان سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stockroom",
+      "Meanings": [
+        "انبار"
+      ]
+    },
+    {
+      "EnglishWord": "stocks and flows",
+      "Meanings": [
+        "منابع و جریانها"
+      ]
+    },
+    {
+      "EnglishWord": "stock-taking procedures",
+      "Meanings": [
+        "روشهای موجودی گیری"
+      ]
+    },
+    {
+      "EnglishWord": "stoner",
+      "Meanings": [
+        "انبار",
+        "انبار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "stoner keeping",
+      "Meanings": [
+        "اداره امور انبار"
+      ]
+    },
+    {
+      "EnglishWord": "stop a cheque",
+      "Meanings": [
+        "جلوگیری از پرداخت چک"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "انبار",
+        "انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "storage symbol",
+      "Meanings": [
+        "نشانه بایگانی در کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "store",
+      "Meanings": [
+        "انبار کردن",
+        "مغازه"
+      ]
+    },
+    {
+      "EnglishWord": "store keeper",
+      "Meanings": [
+        "انباردار"
+      ]
+    },
+    {
+      "EnglishWord": "store's requisition",
+      "Meanings": [
+        "حواله انبار"
+      ]
+    },
+    {
+      "EnglishWord": "storestoreroom",
+      "Meanings": [
+        "انبار"
+      ]
+    },
+    {
+      "EnglishWord": "storing",
+      "Meanings": [
+        "انبار نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "storingwarehousing",
+      "Meanings": [
+        "انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "straight line method",
+      "Meanings": [
+        "روش خط مستقیم استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "straight line method of depreciation",
+      "Meanings": [
+        "روش خط مستقیم استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "straight piecework plan",
+      "Meanings": [
+        "طرح پارچه کاری مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "straight salary",
+      "Meanings": [
+        "مزایای دستمزد براساس حقوق مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "straight-line depreciation",
+      "Meanings": [
+        "استهلاک به روش خط مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "straight-run gazoline",
+      "Meanings": [
+        "بنزین خام"
+      ]
+    },
+    {
+      "EnglishWord": "strategic",
+      "Meanings": [
+        "راهبردی"
+      ]
+    },
+    {
+      "EnglishWord": "strategic cost analysis",
+      "Meanings": [
+        "تحلیل استراتژیک بهای تمام شده"
+      ]
+    },
+    {
+      "EnglishWord": "strategic management",
+      "Meanings": [
+        "مدیریت استراتژیک"
+      ]
+    },
+    {
+      "EnglishWord": "stratified sampling",
+      "Meanings": [
+        "نمونه گیری طبقه بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratifiod random sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی طبقه یندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratum boundaries",
+      "Meanings": [
+        "حدود طبقات"
+      ]
+    },
+    {
+      "EnglishWord": "strike",
+      "Meanings": [
+        "اعتصاب"
+      ]
+    },
+    {
+      "EnglishWord": "stroage costs",
+      "Meanings": [
+        "مخارج انبارداری"
+      ]
+    },
+    {
+      "EnglishWord": "strong efficiency",
+      "Meanings": [
+        "کارآیی قوی"
+      ]
+    },
+    {
+      "EnglishWord": "structure of financial statements",
+      "Meanings": [
+        "ساختار صورتهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "structured query language",
+      "Meanings": [
+        "زبانهای استعلامی ساخت یافته"
+      ]
+    },
+    {
+      "EnglishWord": "student t-distribution",
+      "Meanings": [
+        "توزیع استیودنت _T"
+      ]
+    },
+    {
+      "EnglishWord": "study",
+      "Meanings": [
+        "مطالعه"
+      ]
+    },
+    {
+      "EnglishWord": "study and evaluation of internal controls",
+      "Meanings": [
+        "مطالعه و ارزیابی کنترلهای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "stuff",
+      "Meanings": [
+        "کالا",
+        "جنس",
+        "ماده"
+      ]
+    },
+    {
+      "EnglishWord": "sub-contract",
+      "Meanings": [
+        "پیمان دست دوم",
+        "پیمان فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subidiary ledger",
+      "Meanings": [
+        "دفتر معین"
+      ]
+    },
+    {
+      "EnglishWord": "subject of contract",
+      "Meanings": [
+        "موضوع پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "subjective information",
+      "Meanings": [
+        "اطلاعات ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "subjective measure",
+      "Meanings": [
+        "معیار نظری"
+      ]
+    },
+    {
+      "EnglishWord": "subjective probability",
+      "Meanings": [
+        "ضریب احتمال نظری"
+      ]
+    },
+    {
+      "EnglishWord": "submission of the tender",
+      "Meanings": [
+        "تسلیم پیشنهاد مناقصه"
+      ]
+    },
+    {
+      "EnglishWord": "submit",
+      "Meanings": [
+        "ارایه دادن",
+        "پیشنهاد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "subordinate",
+      "Meanings": [
+        "مریوس"
+      ]
+    },
+    {
+      "EnglishWord": "subordinations",
+      "Meanings": [
+        "اولویتها"
+      ]
+    },
+    {
+      "EnglishWord": "subscribed capital stock",
+      "Meanings": [
+        "سرمایه تعهد شده"
+      ]
+    },
+    {
+      "EnglishWord": "subscription",
+      "Meanings": [
+        "اشتراک",
+        "تعهد پرداخت",
+        "آبونمان اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "subscription basis",
+      "Meanings": [
+        "برمبنای تعهد پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "subscription contract",
+      "Meanings": [
+        "قرار داد پذیره نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "subscription receivable",
+      "Meanings": [
+        "سهام پذیره نویسی شده دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "subsequent events",
+      "Meanings": [
+        "رویدادهای بعد از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "subsequent events after balance sheet date",
+      "Meanings": [
+        "رویدادهای بعدازتاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "subsequent period",
+      "Meanings": [
+        "دوره بعد از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "subsequent periods",
+      "Meanings": [
+        "دوره‌های بعد"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary",
+      "Meanings": [
+        "واحد/شرکت فرعی",
+        "معین",
+        "فرعی",
+        "شرکت تابعه"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary co.",
+      "Meanings": [
+        "شرکت تابع"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary companies",
+      "Meanings": [
+        "شرکتهای فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary company",
+      "Meanings": [
+        "واحد شرکت فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary l/c",
+      "Meanings": [
+        "اعتبار اسنادی فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary ledger",
+      "Meanings": [
+        "دفتر معین"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary ledger subsidiary record",
+      "Meanings": [
+        "دفتر معین"
+      ]
+    },
+    {
+      "EnglishWord": "subsidies",
+      "Meanings": [
+        "سوبسید"
+      ]
+    },
+    {
+      "EnglishWord": "subsiquent period",
+      "Meanings": [
+        "دوره پس از تاریخ ترازنامه"
+      ]
+    },
+    {
+      "EnglishWord": "substance over form",
+      "Meanings": [
+        "رجحان محتوا بر شکل"
+      ]
+    },
+    {
+      "EnglishWord": "substance over from",
+      "Meanings": [
+        "رجحان محتوا بر شکل"
+      ]
+    },
+    {
+      "EnglishWord": "substantial completion",
+      "Meanings": [
+        "تکمیل عمده"
+      ]
+    },
+    {
+      "EnglishWord": "substantial doubt",
+      "Meanings": [
+        "تردید اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "substantially all test",
+      "Meanings": [
+        "آزمون اکثریت"
+      ]
+    },
+    {
+      "EnglishWord": "substantiate",
+      "Meanings": [
+        "اثبات کردن"
+      ]
+    },
+    {
+      "EnglishWord": "substantive agreement",
+      "Meanings": [
+        "موافقت اصولی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive analytical procedures",
+      "Meanings": [
+        "بررسیهای/روشهای تحلیل محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive approach",
+      "Meanings": [
+        "روش/ رویکرد محتوایی",
+        "رویکرد محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive audit tests",
+      "Meanings": [
+        "آزمونهای محتوای حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive error",
+      "Meanings": [
+        "اشتباه/خطای محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive evidence",
+      "Meanings": [
+        "شواهد محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive procedures",
+      "Meanings": [
+        "روشهای محتوایی",
+        "روش محتوا"
+      ]
+    },
+    {
+      "EnglishWord": "substantive strategy",
+      "Meanings": [
+        "راهبرد محتوایی"
+      ]
+    },
+    {
+      "EnglishWord": "substantive test",
+      "Meanings": [
+        "آزمون محتوا"
+      ]
+    },
+    {
+      "EnglishWord": "substantive tests",
+      "Meanings": [
+        "آزمونهای محتوا"
+      ]
+    },
+    {
+      "EnglishWord": "substantive tests of transactions",
+      "Meanings": [
+        "آزمون محتوای معاملات"
+      ]
+    },
+    {
+      "EnglishWord": "substitute good",
+      "Meanings": [
+        "کالای جانشین/جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "substitute goods",
+      "Meanings": [
+        "کالاهای جانشین",
+        "کالاهای بدل"
+      ]
+    },
+    {
+      "EnglishWord": "substitution",
+      "Meanings": [
+        "جانشین سازی"
+      ]
+    },
+    {
+      "EnglishWord": "substitution method",
+      "Meanings": [
+        "روش جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "subsystem",
+      "Meanings": [
+        "سیستم جزء سیستم فرعی",
+        "زیر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "successful auditor",
+      "Meanings": [
+        "حسابرس جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "successful efforts  se se",
+      "Meanings": [
+        "کوششهای موفق"
+      ]
+    },
+    {
+      "EnglishWord": "successful efforts concept",
+      "Meanings": [
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiency",
+      "Meanings": [
+        "کافی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiency of evidence",
+      "Meanings": [
+        "کفایت/کافی بودن شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient",
+      "Meanings": [
+        "کافی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient influence",
+      "Meanings": [
+        "واحد شرکت فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient reliable evidence",
+      "Meanings": [
+        "شواهد و مدارک کافی و قابل اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "suggestion",
+      "Meanings": [
+        "پیشنهاد"
+      ]
+    },
+    {
+      "EnglishWord": "sum",
+      "Meanings": [
+        "جمع",
+        "مجموع"
+      ]
+    },
+    {
+      "EnglishWord": "sum of the years digits",
+      "Meanings": [
+        "مجموع ارقام سنوات",
+        "مجموع سنوات"
+      ]
+    },
+    {
+      "EnglishWord": "summarize",
+      "Meanings": [
+        "خلاصه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "summarized financial statements",
+      "Meanings": [
+        "صورتهای مالی خلاصه شده"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "خلاصه/چکیده",
+        "خلاصه"
+      ]
+    },
+    {
+      "EnglishWord": "summary and conclusion",
+      "Meanings": [
+        "خلاصه و نتیجه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "summary indicators",
+      "Meanings": [
+        "شاخصهای خلاصه"
+      ]
+    },
+    {
+      "EnglishWord": "summary of operations",
+      "Meanings": [
+        "خلاصه عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "summary of significant accounting policies",
+      "Meanings": [
+        "خلاصه اهم رویه‌های حسابداری"
+      ]
+    },
+    {
+      "EnglishWord": "summation notation",
+      "Meanings": [
+        "نماد هم افزایی"
+      ]
+    },
+    {
+      "EnglishWord": "sum-of-the-years digit",
+      "Meanings": [
+        "مجموع ارقام سنوات"
+      ]
+    },
+    {
+      "EnglishWord": "sum-of-the-years digit method",
+      "Meanings": [
+        "روش مجموع ارقام سنوات"
+      ]
+    },
+    {
+      "EnglishWord": "sundries",
+      "Meanings": [
+        "اقلام متفرقه"
+      ]
+    },
+    {
+      "EnglishWord": "sundry",
+      "Meanings": [
+        "متفرقه"
+      ]
+    },
+    {
+      "EnglishWord": "sundry debtors",
+      "Meanings": [
+        "بدهکاران متفرقه"
+      ]
+    },
+    {
+      "EnglishWord": "sunk cost",
+      "Meanings": [
+        "هزینه از دست رفته هزینه غیر قابل بازیافت",
+        "اقلام مستغرق"
+      ]
+    },
+    {
+      "EnglishWord": "sunk costs",
+      "Meanings": [
+        "هزینه‌های از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "sunrise industry",
+      "Meanings": [
+        "صنعت روبه رشد"
+      ]
+    },
+    {
+      "EnglishWord": "sunset industry",
+      "Meanings": [
+        "صنعت روبه افول/زوال"
+      ]
+    },
+    {
+      "EnglishWord": "supercomputer",
+      "Meanings": [
+        "سوپر کامپیوتر",
+        "ابر کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "superior earnings",
+      "Meanings": [
+        "سود فوق العاده"
+      ]
+    },
+    {
+      "EnglishWord": "superior information",
+      "Meanings": [
+        "اطلاعات برتر"
+      ]
+    },
+    {
+      "EnglishWord": "supervision",
+      "Meanings": [
+        "سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "supervisor",
+      "Meanings": [
+        "ناظر",
+        "پیوست"
+      ]
+    },
+    {
+      "EnglishWord": "supervisory body",
+      "Meanings": [
+        "نهاد نظارتی",
+        "دستگاه نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "supervisory responsibilities",
+      "Meanings": [
+        "مسیولیتهای نظارتی/سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "supplemental appropriation",
+      "Meanings": [
+        "اعتبارات مصوب اضافی اعتبار مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplemental financial statements",
+      "Meanings": [
+        "صورتهای مالی مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplemental schedule",
+      "Meanings": [
+        "جدول مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary",
+      "Meanings": [
+        "متمم",
+        "مکمل",
+        "ضمیمه"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary data",
+      "Meanings": [
+        "اطلاعات مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary information",
+      "Meanings": [
+        "اطلاعات مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary statements",
+      "Meanings": [
+        "صورتهای مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "supplier",
+      "Meanings": [
+        "فروشنده کالا و مواد",
+        "فروشنده",
+        "عرضه کننده",
+        "تهیه کننده",
+        "تامین کننده"
+      ]
+    },
+    {
+      "EnglishWord": "supplier evaluation",
+      "Meanings": [
+        "ارزیابی تامین کنندگان"
+      ]
+    },
+    {
+      "EnglishWord": "suppliers of funds",
+      "Meanings": [
+        "تامین کنندگان وجوه"
+      ]
+    },
+    {
+      "EnglishWord": "supplies",
+      "Meanings": [
+        "ملزومات مصرفی",
+        "مواد مصرفی",
+        "ملزومات"
+      ]
+    },
+    {
+      "EnglishWord": "supplies expense",
+      "Meanings": [
+        "هزینه ملزومات"
+      ]
+    },
+    {
+      "EnglishWord": "supplies inventory",
+      "Meanings": [
+        "موجودی ملزومات مصرفی"
+      ]
+    },
+    {
+      "EnglishWord": "supply",
+      "Meanings": [
+        "عرضه",
+        "تامین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "supply and demand",
+      "Meanings": [
+        "عرضه و تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain",
+      "Meanings": [
+        "زنجیره تامین"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain management",
+      "Meanings": [
+        "مدیریت تامین کنندگان فروش",
+        "خرید",
+        "تدارکات",
+        "انبار"
+      ]
+    },
+    {
+      "EnglishWord": "supply chain management  scm",
+      "Meanings": [
+        "مدیریت زنجیره عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "supply to sell schedule",
+      "Meanings": [
+        "جدول تدارکات فروش"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "پشتیبانی"
+      ]
+    },
+    {
+      "EnglishWord": "support activities",
+      "Meanings": [
+        "فعالیت‌های حمایتی"
+      ]
+    },
+    {
+      "EnglishWord": "support department",
+      "Meanings": [
+        "دایره پشتیبانی نام دیگر دایره خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "support price",
+      "Meanings": [
+        "قیمت حمایتی"
+      ]
+    },
+    {
+      "EnglishWord": "supporting activities",
+      "Meanings": [
+        "فعالیتهای پشتیبانی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "supporting documents",
+      "Meanings": [
+        "اسناد و مدارک پشتوانه",
+        "مدارک مثبته"
+      ]
+    },
+    {
+      "EnglishWord": "supporting schedule",
+      "Meanings": [
+        "جدول پشتوانه"
+      ]
+    },
+    {
+      "EnglishWord": "supporting schedule working papers",
+      "Meanings": [
+        "کاربرگهای جدول پشتوانه"
+      ]
+    },
+    {
+      "EnglishWord": "surcharge",
+      "Meanings": [
+        "پرداختهای اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "surplus",
+      "Meanings": [
+        "مازاد",
+        "اندوخته"
+      ]
+    },
+    {
+      "EnglishWord": "surplus accounts",
+      "Meanings": [
+        "حسابهای مازاد سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "surplus receipts",
+      "Meanings": [
+        "مازاد دریافتها دریافتنیهای مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "surplus value",
+      "Meanings": [
+        "ارزش افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "surplus variable",
+      "Meanings": [
+        "متغیر مازاد"
+      ]
+    },
+    {
+      "EnglishWord": "surplusexcess",
+      "Meanings": [
+        "اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "surrogate",
+      "Meanings": [
+        "جایگزین متغیر جایگزین"
+      ]
+    },
+    {
+      "EnglishWord": "surtax",
+      "Meanings": [
+        "اضافه مالیات"
+      ]
+    },
+    {
+      "EnglishWord": "survey",
+      "Meanings": [
+        "بررسی کردن",
+        "زمینه یابی"
+      ]
+    },
+    {
+      "EnglishWord": "survey research",
+      "Meanings": [
+        "تحقیقات پیمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "surviving company",
+      "Meanings": [
+        "شرکت باقیمانده/واحد اقتصادی ذی حیات"
+      ]
+    },
+    {
+      "EnglishWord": "survivorship principle",
+      "Meanings": [
+        "اصل بقا"
+      ]
+    },
+    {
+      "EnglishWord": "suspense account",
+      "Meanings": [
+        "حساب معلق"
+      ]
+    },
+    {
+      "EnglishWord": "sustainable earnings",
+      "Meanings": [
+        "سود پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "sustainable growth rate",
+      "Meanings": [
+        "نرخ رشد پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "sustaninability reporting",
+      "Meanings": [
+        "گزارشگری ماندگار گزارشگری تداوم پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "sweetener",
+      "Meanings": [
+        "عامل جذب کننده سرک"
+      ]
+    },
+    {
+      "EnglishWord": "switchprogram switch",
+      "Meanings": [
+        "کلید برنامه ای",
+        "کلید نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نشانه",
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic flowchart",
+      "Meanings": [
+        "نمودار نشانه ای گردش کار"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric distribution",
+      "Meanings": [
+        "توزیع متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "synchronize",
+      "Meanings": [
+        "همزمان سازی"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous management",
+      "Meanings": [
+        "مدیریت همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous tracking",
+      "Meanings": [
+        "ردیابی همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "syndicate",
+      "Meanings": [
+        "سندیکا",
+        "فعالیتهای پشتیبانی – سندیکا",
+        "اتحادیه صنفی"
+      ]
+    },
+    {
+      "EnglishWord": "syntactical level",
+      "Meanings": [
+        "در سطح ساختاری قواعد و تعاریف"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "سیستم نظام",
+        "سیستم",
+        "نظام"
+      ]
+    },
+    {
+      "EnglishWord": "system analysis",
+      "Meanings": [
+        "تحلیل سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system analyst",
+      "Meanings": [
+        "تحلیلگر سیستم",
+        "سیستم آنالیست",
+        "تحلیل گر"
+      ]
+    },
+    {
+      "EnglishWord": "system and program amendment controls",
+      "Meanings": [
+        "کنترلهای اصلاح برنامه و سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system application products",
+      "Meanings": [
+        "تولید سیستم‌های نرم افزاری"
+      ]
+    },
+    {
+      "EnglishWord": "system audit",
+      "Meanings": [
+        "حسابرسی سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system based audit",
+      "Meanings": [
+        "حسابرسی مبتنی بر سیستم کنترلهای داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "system control objectives",
+      "Meanings": [
+        "اهداف کنترل سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system documents",
+      "Meanings": [
+        "مستندات سیستم",
+        "مدارک سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system engineering",
+      "Meanings": [
+        "مهندسی سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system flowchart",
+      "Meanings": [
+        "نمودار گردش کار سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "system management facilities",
+      "Meanings": [
+        "سیستم مدیریت کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "system of internal control",
+      "Meanings": [
+        "سیستم کنترل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "system programmer",
+      "Meanings": [
+        "برنامه نویس سیستم",
+        "برنامه نویسی که بازبان کنترل و سیستم عامل کار می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "system software",
+      "Meanings": [
+        "نرم افزار سیستم در کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "system testing controls",
+      "Meanings": [
+        "کنترلهای آزمون سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "system testing techniques",
+      "Meanings": [
+        "تکنیک‌های آزمون سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "systematic",
+      "Meanings": [
+        "منظم",
+        "نظام یافته"
+      ]
+    },
+    {
+      "EnglishWord": "systematic and rational allocation",
+      "Meanings": [
+        "تخصیص سیستماتیک/منظم",
+        "تخصیص سیستماتیک و معقول"
+      ]
+    },
+    {
+      "EnglishWord": "systematic risk",
+      "Meanings": [
+        "ریسک سیستماتیک نام دیگر ریسک غیر قابل حذف/نام دیگر ریسک بازار"
+      ]
+    },
+    {
+      "EnglishWord": "systematic sample selection",
+      "Meanings": [
+        "انتخاب نمونه به صورت سیستماتیک/منظم"
+      ]
+    },
+    {
+      "EnglishWord": "systematic sampling",
+      "Meanings": [
+        "نمونه گیری سیستماتیک/ منظم",
+        "نمونه گیری سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systematic uncertainty",
+      "Meanings": [
+        "ابهام/عدم قطعیت منظم ریسک سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systems administration",
+      "Meanings": [
+        "مدیریت سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "systems approach",
+      "Meanings": [
+        "رویکرد سیستمی"
+      ]
+    },
+    {
+      "EnglishWord": "systems control evaluation",
+      "Meanings": [
+        "ارزیابی کنترل سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems development",
+      "Meanings": [
+        "ایجاد و شکل گیری سیستمها توسعه سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems development control",
+      "Meanings": [
+        "کنترلهای مربوط به ایجاد/توسعه سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems evaluation",
+      "Meanings": [
+        "ارزیابی سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems implementation",
+      "Meanings": [
+        "اجرا و پیاده سازی سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems records",
+      "Meanings": [
+        "اسناد و مدارک سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "systems review",
+      "Meanings": [
+        "بررسی سیستمها"
+      ]
+    },
+    {
+      "EnglishWord": "sytactical level",
+      "Meanings": [
+        "مفهوم سود در سطح ساختار قواعد و تعاریف"
+      ]
+    }
+  ]
+}

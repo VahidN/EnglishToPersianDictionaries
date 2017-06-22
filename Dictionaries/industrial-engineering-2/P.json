@@ -1,0 +1,1087 @@
+﻿{
+  "Group": "P",
+  "Entries": 147,
+  "Words": [
+    {
+      "EnglishWord": "pallet",
+      "Meanings": [
+        "پالت"
+      ]
+    },
+    {
+      "EnglishWord": "palletizer",
+      "Meanings": [
+        "پالت پرکن"
+      ]
+    },
+    {
+      "EnglishWord": "palletizing",
+      "Meanings": [
+        "پالت گذاری. روی هم چیدن"
+      ]
+    },
+    {
+      "EnglishWord": "parallax",
+      "Meanings": [
+        "اختلاف در دید به دلیل زاویه نادرست چشم"
+      ]
+    },
+    {
+      "EnglishWord": "parallel",
+      "Meanings": [
+        "موازی",
+        "برابر"
+      ]
+    },
+    {
+      "EnglishWord": "pareto chart",
+      "Meanings": [
+        "نمودار پارتو",
+        "یک توزیع فراوانی هیستوگرام برای داده‌های وصفی است که بر اساس گروه بصورت نزولی دسته بندی شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "part",
+      "Meanings": [
+        "قطعه",
+        "بخش",
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "part per million  ppm",
+      "Meanings": [
+        "تعداد قطعه معیوب در یک میلیون قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "part to part variation",
+      "Meanings": [
+        "نوسانات قطعه به قطعه",
+        "نوساناتی که در نتیجه اندازه گیری قطعات مختلف بوجود می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "part variation  pv",
+      "Meanings": [
+        "نوسانات قطعه",
+        "مربوط به تجزیه و تحلیل سیستم اندازه گیری MSA. بیان کننده نوسانات قطعه به قطعه و زمان به زمان برای یک فرآیند با ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "partial factor productivity  pfp",
+      "Meanings": [
+        "بهره وری جزیی عوامل",
+        "بهره وری جزیی عوامل برای هرکدام از ورودی‌ها بطورجداگانه محاسبه می‌شود. جهت اینکار مقدار هر خروجی را به ترتیب بر هر کدام از ورودی‌ها تقسیم می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "partner",
+      "Meanings": [
+        "شریک",
+        "انباز",
+        "همتا"
+      ]
+    },
+    {
+      "EnglishWord": "parts list",
+      "Meanings": [
+        "لیست قطعات"
+      ]
+    },
+    {
+      "EnglishWord": "pattern",
+      "Meanings": [
+        "الگو",
+        "طرح",
+        "خصیصه",
+        "روند"
+      ]
+    },
+    {
+      "EnglishWord": "payback",
+      "Meanings": [
+        "برگشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "payback period",
+      "Meanings": [
+        "دوره بازگشت سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "pdca",
+      "Meanings": [
+        "چرخه دمینگ",
+        "برنامه Plan",
+        "اجرا Do",
+        "کنترل Check",
+        "اقدام Act"
+      ]
+    },
+    {
+      "EnglishWord": "pdsa",
+      "Meanings": [
+        "چرخه مطالعه و بررسی علمی",
+        "برنامه Plan",
+        "اجرا Do",
+        "مطالعه Study",
+        "اقدام Act"
+      ]
+    },
+    {
+      "EnglishWord": "peer group",
+      "Meanings": [
+        "گروه همتا"
+      ]
+    },
+    {
+      "EnglishWord": "pending challenge",
+      "Meanings": [
+        "بحث باز"
+      ]
+    },
+    {
+      "EnglishWord": "percent complete  pc",
+      "Meanings": [
+        "درصد تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "perfection",
+      "Meanings": [
+        "کمال",
+        "بی عیبی"
+      ]
+    },
+    {
+      "EnglishWord": "performance",
+      "Meanings": [
+        "انجام",
+        "اجرا",
+        "نشان دادن",
+        "ارایه کردن",
+        "عملکرد",
+        "کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "performance evaluation  pe",
+      "Meanings": [
+        "ارزیابی عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance measurement",
+      "Meanings": [
+        "اندازه گیری عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "performance measurement baseline  pmb",
+      "Meanings": [
+        "مبنای ارزیابی عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "period",
+      "Meanings": [
+        "دوره",
+        "سیکل",
+        "پریود"
+      ]
+    },
+    {
+      "EnglishWord": "period batch control  pbc",
+      "Meanings": [
+        "کنترل دوره ای انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "periodic order quantity  poq",
+      "Meanings": [
+        "مقدار سفارش دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "perishable",
+      "Meanings": [
+        "مستهلک شونده",
+        "فاسد شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "personal income  pi",
+      "Meanings": [
+        "درآمد شخصی",
+        "به مجموع درامدهای دریافت شده توسط افراد یک جامعه در یک سال را گویند",
+        "پرداخت‌های انتقالی+سود توزیع نشده",
+        "مالیات بردرآمد بیمه‌های اجتماعی",
+        "=درآمد شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "personal skills matrix  psm",
+      "Meanings": [
+        "ماتریس مهارت‌های فردی",
+        "ماتریسی که در یک طرف آن افراد و در طرف دیگر مهارت‌های مورد نیاز سازمان قرار می‌گیرد و نشان دهنده میزان و نوع مهارت‌های هر یک از افراد در سازمان می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "pessimistic",
+      "Meanings": [
+        "بدبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "phase",
+      "Meanings": [
+        "مرحله",
+        "فاز"
+      ]
+    },
+    {
+      "EnglishWord": "physical model",
+      "Meanings": [
+        "مدل فیزیکی",
+        "تصویری از سیستم که چگونگی انجام کار را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "piece part",
+      "Meanings": [
+        "قطعه",
+        "یک جزء از یک قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "pilot production  pp",
+      "Meanings": [
+        "تولید نمونه",
+        "تولید اولیه",
+        "مرحله ای قبل از شروع تولید انبوه جهت رساندن تولید به استانداردهای مورد نظر"
+      ]
+    },
+    {
+      "EnglishWord": "pin wrench",
+      "Meanings": [
+        "آچار سرسنجاقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "pipe wrench",
+      "Meanings": [
+        "آچار لوله بازکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "planned start date  ps",
+      "Meanings": [
+        "تاریخ شروع برنامه ریزی شده"
+      ]
+    },
+    {
+      "EnglishWord": "planned value  pv",
+      "Meanings": [
+        "ارزش برنامه ریزی شده",
+        "ارزش کار زمانبندی شده برنامه ریزی شده تا یک تاریخ خاص"
+      ]
+    },
+    {
+      "EnglishWord": "planning",
+      "Meanings": [
+        "برنامه ریزی",
+        "طرح ریزی",
+        "برنامه ریزی عبارتست از تعیین هدف و یافتن و ساختن راه وصول به آن"
+      ]
+    },
+    {
+      "EnglishWord": "planning   programming",
+      "Meanings": [
+        "طرح و برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "planning   programming budgeting system  ppbs",
+      "Meanings": [
+        "سیستم بودجه بندی طرح و برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "planning horizon",
+      "Meanings": [
+        "افق برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "plateform",
+      "Meanings": [
+        "کفی خودرو سازی"
+      ]
+    },
+    {
+      "EnglishWord": "poccc",
+      "Meanings": [
+        "وظایف مدیریت از دیدگاه Fayol",
+        "برنامه ریزیPlanning",
+        "سازماندهیOrgnizing",
+        "فرماندهیCommanding",
+        "هماهنگیCoordinating",
+        "کنترلControling"
+      ]
+    },
+    {
+      "EnglishWord": "poisson distribution",
+      "Meanings": [
+        "توزیع پوسان"
+      ]
+    },
+    {
+      "EnglishWord": "poka-yoke",
+      "Meanings": [
+        "پوکا یوکه",
+        "ضد اشتباه",
+        "تولید ضد اشتباه",
+        "فنونی که در آن گذر یک قطعه به گام بعدی را غیر ممکن می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "policy",
+      "Meanings": [
+        "سیاست",
+        "رویه",
+        "خط مشی",
+        "در مدیریت ژاپنی به معنی جهت گیریهای بلند مدت و میان مدت مدیریت و نیز اهداف سالانه است. در ضمن به اهداف و اقدامات لازم برای دستیابی به اهداف دلالت می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "policy making",
+      "Meanings": [
+        "سیاست گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "portal",
+      "Meanings": [
+        "مدخل عمده",
+        "ورودی اصلی",
+        "دریچه آغازین",
+        "دریچه آغازین یک پایگاه آغازگر عمده برای کاربرانی است که به وب متصل می‌شوند. کاربران علاقمند هستند که از این پایگاه به عنوان یک پایگاه تکیه‌گاه anchor site برای ورود به دیگر پایگاهها استفاده کنند. برای مثال",
+        "google و yahooنمونه هایی از دریچه‌های آغازین عمومی general portal هستند و informs. org یک مدخل تخصصی است"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio",
+      "Meanings": [
+        "سبد پروژه ها",
+        "مجموعه ای از پروژه‌ها و برنامه‌ها و سایر فعالیتها که به منظور تسهیل در امر مدیریت موثر آن فعالیت‌ها و برای رسیدن به اهداف استراتژیک سازمان گروه بندی شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "posdcorb",
+      "Meanings": [
+        "وظایف هفتگانه مدیریت",
+        "برنامه ریزیPlanning",
+        "سازماندهیOrgenizing",
+        "کارمندیابیStaffing",
+        "هدایتDirecting",
+        "هماهنگیCoordinating",
+        "گزارش دهیReporting",
+        "بودجه ریزیBudgeting"
+      ]
+    },
+    {
+      "EnglishWord": "post it",
+      "Meanings": [
+        "کاغذهای خود چسب"
+      ]
+    },
+    {
+      "EnglishWord": "post optimality",
+      "Meanings": [
+        "پس بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "pre delivery inspection  pdi",
+      "Meanings": [
+        "بازرسی قبل از تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "pre treatment  pt",
+      "Meanings": [
+        "پیش آماده سازی",
+        "عملیات مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "precedence",
+      "Meanings": [
+        "تقدم",
+        "برتری",
+        "اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "precedence diagram",
+      "Meanings": [
+        "نمودار تقدم تاخر"
+      ]
+    },
+    {
+      "EnglishWord": "precedence diagram method  pdm",
+      "Meanings": [
+        "روش تحلیل شبکه فعالیت‌ها که در آن فعالیت‌ها توسط نقاط ویا گره‌ها Node نشان داده می‌شوند و توسط بردار به یکدیگر متصل می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "precision",
+      "Meanings": [
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "predecessor",
+      "Meanings": [
+        "ماقبل",
+        "پیش نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "predictive maintenance  pdm",
+      "Meanings": [
+        "نگهداری و تعمیرات پیشگویانه",
+        "نگهداری و تعمیرات پیش نگر است که در آن وقوع خرابی در دستگاه با استفاده از تکنیک‌های روش‌های عیب یابی غیر مخرب و حد بالا و پایین شاخص‌های مورد نیاز هر تکنیک قابل پیش بینی است"
+      ]
+    },
+    {
+      "EnglishWord": "premum freight",
+      "Meanings": [
+        "کرایه اضافه حمل",
+        "هزینه‌های اضافی یا سایر هزینه‌های ایجاد شده برای تحویل توافق شده"
+      ]
+    },
+    {
+      "EnglishWord": "present value  pv",
+      "Meanings": [
+        "ارزش فعلی"
+      ]
+    },
+    {
+      "EnglishWord": "present worth pw",
+      "Meanings": [
+        "ارزش فعلی"
+      ]
+    },
+    {
+      "EnglishWord": "pressure break",
+      "Meanings": [
+        "ترمز فشار"
+      ]
+    },
+    {
+      "EnglishWord": "preventive maintenance  pm",
+      "Meanings": [
+        "نگهداری و تعمیرات پیشگیرانه",
+        "نگهداری و تعمیراتی که به منظور جلوگیری از توقف ناگهانی ماشین بر اساس تجزیه و تحلیل مسایل گذشته و برنامه ریزی قبلی انجام می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "primavera project planner  p3",
+      "Meanings": [
+        "نرم افزار مدیریت",
+        "زمانبندی و کنترل پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "priority",
+      "Meanings": [
+        "اولویت‌",
+        "حق تقدم‌"
+      ]
+    },
+    {
+      "EnglishWord": "prismatic",
+      "Meanings": [
+        "منشوری",
+        "خطی",
+        "انتقالی",
+        "شیاری"
+      ]
+    },
+    {
+      "EnglishWord": "probability",
+      "Meanings": [
+        "احتمال",
+        "شانس",
+        "عبارتست از تخمینی بصورت کسر یا نسبت بر اساس توزیع خاصی از داده‌های جمع آوری شده که بیان کننده شانس وقوع یک رویداد خاص است. دامنه احتمال از صفر رویداد غیر ممکن تا یک وقوع حتمی گسترده است. برای رسیدن به یک خروجی بایستی مجموعه ای از شرایط و علل به کار گرفته شود"
+      ]
+    },
+    {
+      "EnglishWord": "probability distribution",
+      "Meanings": [
+        "توزیع احتمال",
+        "مدلی ریاضی که مقادیر متغیر مورد نظر را به احتمال مشاهده آن مقادیر در جامعه مرتبط می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "فرآیند",
+        "پروسه",
+        "تغییر در مجموعه ای از ورودی‌ها به شکل مواد",
+        "فعالیت ها",
+        "روش‌ها و عملکرد‌ها به خروجی مورد نظر که در قالب محصول",
+        "اطلاعات",
+        "خدمات و یا بطور کلی نتایج ارایه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "process capability index",
+      "Meanings": [
+        "شاخص قابلیت فرآیند برای تولید محصول در محدوده مورد نظر مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "process capability ratio  pcr",
+      "Meanings": [
+        "نسبت کارایی فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process control",
+      "Meanings": [
+        "کنترل فرآیند",
+        "وضعیت عملکردی که در آن هدف اندازه گیری و معیارهای تصمیم گیری که بر تولید بلادرنگ اعمال می‌شود تعیین ثبات فرآیند و مولفه‌ها و مشخصه‌های طبیعی تغییرپذیری می‌باشد",
+        "نتایج اندازه گیری مشخص می‌کند که آیا فرآیند با ثبات و «تحت کنترل» است و یا \"خارج از کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "process failure mode and effects analysis  pfmea",
+      "Meanings": [
+        "آنالیز حالات بالقوه خرابی در فرآیند",
+        "عوامل بالقوه خرابی فرآیند ساخت و مونتاژ را که منجر به تولید محصول نامناسب می‌شود",
+        "شناسایی شده و لذا فرآیند ساخت و تولید محصول را با کاهش ریسک خرابی استحکام می‌بخشد"
+      ]
+    },
+    {
+      "EnglishWord": "process flow diagram  pfd",
+      "Meanings": [
+        "نمودار جریان فرآیند",
+        "نمودار جریان عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "process mapping",
+      "Meanings": [
+        "نقشه فرآیند",
+        "ترسیم فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "processing time",
+      "Meanings": [
+        "زمان فرآیند",
+        "زمانی که یک محصول طراحی و تولید می‌شود و نیز زمانی که فرآیند یک سفارش واقعا انجام میگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "processing village",
+      "Meanings": [
+        "دهکده‌های فرآیند",
+        "عملکرد دسته بندی ماشین‌ها یا فعالیت‌ها بر اساس نوع عملیاتی که انجام می‌گیرد. در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "product",
+      "Meanings": [
+        "محصول",
+        "فرآورده",
+        "تولید"
+      ]
+    },
+    {
+      "EnglishWord": "product control",
+      "Meanings": [
+        "کنترل محصول",
+        "وضعیت عملکردی که هدف اندازه گیری و معیارهای تصمیم گیری در آن ارزیابی تعیین مولفه‌ها و مشخصه‌های مورد نیاز برای انطباق با یک ویژگی خاص می‌باشد",
+        "نتایح اندازه گیری می‌تواند «در محدوده» و یا «خارج از محدوده» باشد"
+      ]
+    },
+    {
+      "EnglishWord": "product data exchange standard  pdes",
+      "Meanings": [
+        "استاندارد مبادله داده‌های محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product family",
+      "Meanings": [
+        "خانواده محصول",
+        "گستره ای از محصولات مرتبط به هم که می‌توانند با تعویض پذیری متقابل در یک سلول تولیدی",
+        "تولید شوند"
+      ]
+    },
+    {
+      "EnglishWord": "product scope",
+      "Meanings": [
+        "حیطه تولید",
+        "خصیصه و عملکردهایی که ویژگی‌های خاص یک محصول یا خدمت را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "محصول",
+        "تولید",
+        "فرآوری",
+        "ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "production activity control  pac",
+      "Meanings": [
+        "کنترل فعالیت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production management system  pms",
+      "Meanings": [
+        "سیستم مدیریت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production planning",
+      "Meanings": [
+        "برنامه ریزی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production planning  pp",
+      "Meanings": [
+        "برنامه ریزی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "productivity",
+      "Meanings": [
+        "بهره وری",
+        "فرآورش",
+        "سودمندی"
+      ]
+    },
+    {
+      "EnglishWord": "professional responsibility  pp",
+      "Meanings": [
+        "مسیولیت حرفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "profit",
+      "Meanings": [
+        "سود",
+        "منفعت",
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "profitability",
+      "Meanings": [
+        "سودبخشی‌",
+        "سود آوری"
+      ]
+    },
+    {
+      "EnglishWord": "proforma",
+      "Meanings": [
+        "پیش فاکتور"
+      ]
+    },
+    {
+      "EnglishWord": "program evaluation   review technique  pert",
+      "Meanings": [
+        "روش ارزیابی و بازنگری برنامه",
+        "تکنیکی است که در آن پروژه به صورت شبکه ای از وقایع و وظایف",
+        "سازماندهی می‌شود که برای نشان دادن وقایع",
+        "فعالیت‌ها و ارتباط آنها از گره و پیکان استفاده می‌شود و زمان فعالیت‌ها در آن بر اساس توزیع زمانی و حداقل و حداکثر و محتمل‌ترین مدت زمان محاسبه می‌گردد. برخلاف CPM که فقط از محتملترین زمان استفاده می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "programmable logic controller  plc",
+      "Meanings": [
+        "کنترل کننده قابل برنامه ریزی منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "programmable universal machine for assembly  puma",
+      "Meanings": [
+        "ماشین چندکاره قابل برنامه ریزی برای مونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "programming",
+      "Meanings": [
+        "برنامه نویسی",
+        "برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "project",
+      "Meanings": [
+        "پروژه",
+        "طرح",
+        "مجموعه تلاش‌های موقتی برای تحقق یک تعهد و تقبل در ایجاد یک محصول یل ارایه خدمات مشخص",
+        "مجموعه ای از اقدامات و عملیات پیچیده و منحصر به فرد",
+        "متشکل از فعالیت‌های منطقی و مرتبط به یکدیگر زیر نظر یک مدیریت و سازمان اجرایی مشخص",
+        "برای تامین هدف یا هدف‌های مشخص که در چهارچوب برنامه زمانی و بودجه از پیش تعیین شده ای اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "project charter",
+      "Meanings": [
+        "منشور پروژه",
+        "منشور پروژه سندی است که یک پروژه را رسما تعریف نموده و ذینفعان با امضای آن ضمن تایید مفاد التزام خود را در اجرای آن اعلام می‌نمایند",
+        "منشور پروژه شامل موارد ذیل است",
+        "شرح مختصری از مشخصات پروژه",
+        "سابقه و دلایلی که سبب تعریف پروژه شده است",
+        "محدوده پروژه",
+        "اهداف پروژه",
+        "نتایج حاصل از اجرای پروژه",
+        "ریسکهای پروژه",
+        "اختیارات پروژه",
+        "ذینفعان پروژه",
+        "مدیر پروژه",
+        "مشتری پروژه",
+        "حامیان پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project communication management",
+      "Meanings": [
+        "مدیریت ارتباطات",
+        "مدیریت جهت امور اطلاعاتی و داده ای چون شناسایی",
+        "تولید",
+        "جمع آوری",
+        "توزیع و مستند سازی داده‌ها و اطلاعات پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project communications management",
+      "Meanings": [
+        "مدیریت ارتباطات پروژه",
+        "A subset of project management that includes the processes required to ensure timely and appropriate generation, collection and dissemination, storage and ultimate disposition of project information. It consists of communications planning, information distribution, performance reporting, and administrative closure"
+      ]
+    },
+    {
+      "EnglishWord": "project control",
+      "Meanings": [
+        "کنترل پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project control work breakdown structure  pcwbs",
+      "Meanings": [
+        "ساختار شکست کار کنترل پروژه",
+        "عبارتست از تجزیه سلسله مراتبی سطح به سطح یک پروژه به اقلام قابل تحویل"
+      ]
+    },
+    {
+      "EnglishWord": "project cost base  pcb",
+      "Meanings": [
+        "مبنای هزینه پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project cost management",
+      "Meanings": [
+        "مدیریت هزینه در پروژه",
+        "مدیریت جهت اطمینان از پیشرفت پروژه طبق بودجه پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "project human resource management",
+      "Meanings": [
+        "مدیریت منابع انسانی در پروژه",
+        "مدیریت جهت افزایش بهره وری در کار و زمان نیروی انسانی و تامین و کنترل مهارت‌ها و نیروی انسانی مورد نیاز در پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project integrated management",
+      "Meanings": [
+        "مدیریت یکپارچگی",
+        "مدیریت جهت همسوسازی عناصر پروژه جهت انطباق هرچه بیشتر آنها"
+      ]
+    },
+    {
+      "EnglishWord": "project life cycle",
+      "Meanings": [
+        "چرخه حیات پروژه",
+        "مجموعه ای از مرحله‌های متوالی و معمول پروژه که نام و تعداد آنها بسته به نیازمندی‌های سازمان و یا سازمانی که درگیر پروژه است",
+        "تعیین می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "project management  pm",
+      "Meanings": [
+        "مدیریت پروژه",
+        "فرآیند هدایت فعالیت‌های یک پروژه با حداقل هزینه بودجه مشخص و در چهار چوب مدت زمان مشخص. به نه محدوده تقسیم می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "project management body of knowledge  pmbok",
+      "Meanings": [
+        "مدیریت پروژه به عنوان بدنه دانش",
+        "نام موسسه و مجله ای معروف در زمینه کنترل و مدیریت پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project management competency development  pmcd",
+      "Meanings": [
+        "ارتقاء صلاحیت‌های مدیریت پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project management information system  pmis",
+      "Meanings": [
+        "سیستم اطلاعاتی مدیریت پروژه",
+        "سیستم اطلاعاتی شامل ابزار و تکنیک هایی که به منظور جمع آوری",
+        "یکپارچه سازی و انتشار خروجی فرآیندهای مدیریت پروژه به کار می‌رود",
+        "که به منظور پشتیبانی از همه حوزه‌های پروژه از فرآیندهای آغازین تا اختتامی بکار گرفته می‌شود و می‌تواند بصورت دستی یا اتوماتیک باشد"
+      ]
+    },
+    {
+      "EnglishWord": "project management institute  pmi",
+      "Meanings": [
+        "انجمن مدیریت پروژه آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "project management office  pmo",
+      "Meanings": [
+        "دفتر مدیریت پروژه",
+        "عبارتست از یک واحد سازمانی که وظیفه تمرکز بر پروژه‌های مربوط به خود و هماهنگی آنها را بر عهده دارد. یا دفتر مدیریت برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "project management plan  pmp",
+      "Meanings": [
+        "برنامه مدیریت پروژه",
+        "سندی رسمی و تایید شده که تعیین می‌کند که پروژه چگونه اجرا شود",
+        "چگونه بازرسی و کنترل شود"
+      ]
+    },
+    {
+      "EnglishWord": "project management professional  pmp",
+      "Meanings": [
+        "مدیر حرفه ای پروژه",
+        "کسی که گواهینامه مدیریت پروژه از دریافت کرده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "project management system  pms",
+      "Meanings": [
+        "سیستم مدیریت پروژه",
+        "عبارتست از ابزارها",
+        "روش ها",
+        "متدولوژی ها",
+        "منابع و رویه هایی که در مدیریت پروژه به کار گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "project manager  pm",
+      "Meanings": [
+        "مدیر پروژه",
+        "فردی با اختیار و مسیول در قبال ارایه الزامات مستند شده پروژه در مدت زمان تعیین شده و با هزینه مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "project master schedule  pms",
+      "Meanings": [
+        "زمانبندی کلان پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project network diagram",
+      "Meanings": [
+        "نمودار شبکه ای پروژه",
+        "هر گونه نمودار شماتیک از روابط منطقی فعالیت‌های پروژه را گویند که معمولا برای نشان دادن نحوه رخداد فعالیت‌ها از چپ به راست نمایش داده می‌شود که از معمول‌ترین آنها می‌توان به نمودار PERT اشاره کرد"
+      ]
+    },
+    {
+      "EnglishWord": "project plan",
+      "Meanings": [
+        "طرح پروژه",
+        "A formal, approved document used to guide both project execution and project control. The primary uses of the project plan are to document planning assumptions and decisions, facilitate communication among stakeholders, and document approved scope, cost, and schedule baselines. A project plan may be summarized or detailed"
+      ]
+    },
+    {
+      "EnglishWord": "project procurement management",
+      "Meanings": [
+        "مدیریت کالا و مواد",
+        "مدیریت جهت حصول اطمینان از دریافت به موقع کالا و مواد و تجهیزات مورد نیاز پروژه و سرویس‌های لازم در حین انجام پروژه",
+        "A subset of project management that includes the processes required to acquire goods and services to attain project scope from outside the performing organization. It consists of procurement planning, solicitation planning, solicitation, source selection, contract administration, and contract"
+      ]
+    },
+    {
+      "EnglishWord": "project quality management",
+      "Meanings": [
+        "مدیریت کیفیت پروژه",
+        "مدیریت جهت اطمینان از کیفیت اجرای پروژه و اجرای رضایت بخش در جهت ایفای تعهدات"
+      ]
+    },
+    {
+      "EnglishWord": "project risk management",
+      "Meanings": [
+        "مدیریت ریسک",
+        "مدیریت جهت تشخیص",
+        "بررسی",
+        "تحلیل و ارایه نتیجه در مورد ریسک‌های پروژه",
+        "Risk management is the systematic process of identifying, analyzing, and responding to project risk. It includes maximizing the probability and consequences of positive events and minimizing the probability and consequences of events adverse to project objectives. It includes the processes of risk management planning, risk identification, qualitative risk analysis, quantitative risk analysis, risk response planning, and risk monitoring and control"
+      ]
+    },
+    {
+      "EnglishWord": "project schedule",
+      "Meanings": [
+        "زمانبندی پروژه",
+        "The planned dates for performing activities and the planned dates for meeting milestones"
+      ]
+    },
+    {
+      "EnglishWord": "project scope",
+      "Meanings": [
+        "حیطه پروژه",
+        "محدوده پروژه",
+        "مجموعه فعالیتهایی که برای ارایه محصول یا خدمتی با ویژگی‌ها و عملکرد‌های خاص",
+        "بایستی صورت پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "project scope management",
+      "Meanings": [
+        "مدیریت محدوده",
+        "مدیریت جهت اطمینان از توجه به فعالیت‌های پروژه به صورت جامع و مانع بطوری که هدف پروژه بطور کامل قابل حصول باشد",
+        "A subset of project management that includes the processes required to ensure that\u000bthe project includes all of the work required, and only the work required, to complete the project successfully. It consists of initiation, scope planning, scope definition, scope verification, and scope change control"
+      ]
+    },
+    {
+      "EnglishWord": "project time management",
+      "Meanings": [
+        "مدیریت زمان پروژه",
+        "مدیریت جهت پیشبرد پروژه طبق زمان پیش بینی شده",
+        "A subset of project management that includes the processes required to ensure timely"
+      ]
+    },
+    {
+      "EnglishWord": "projected available balance  pab",
+      "Meanings": [
+        "تراز پیش بینی موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "projectized organization",
+      "Meanings": [
+        "سازمان با ساختار پروژه ای",
+        "Any organizational structure in which the project manager has full authority to assign priorities and to direct the work of individuals assigned to the project"
+      ]
+    },
+    {
+      "EnglishWord": "proof",
+      "Meanings": [
+        "برهان",
+        "دلیل",
+        "اثبات"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "مشخصه",
+        "خاصیت",
+        "استعداد"
+      ]
+    },
+    {
+      "EnglishWord": "proximity",
+      "Meanings": [
+        "نزدیکی",
+        "تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "pull",
+      "Meanings": [
+        "بیرون کشیدن",
+        "خارج کردن",
+        "سیستمی مبتنی بر درخواستهای تولید و تحویل از پایین جریان برای انجام گرفتن فعالیت‌های بالای جریان. در این سیستم تامین کننده بالای جریان چیزی را تولید نمی‌کند مگر اینکه از سوی خریدار پایین جریان علایمی دال بر نیاز بدان دریافت شده باشد. این سیستم در تقابل با بیرون راندن است"
+      ]
+    },
+    {
+      "EnglishWord": "punch",
+      "Meanings": [
+        "سنبه",
+        "منگنه",
+        "پانچ",
+        "سنبه زدن",
+        "قالب زدن",
+        "سوراخ کردن",
+        "پانچ کردن",
+        "منگنه کردن",
+        "مهر زدن"
+      ]
+    },
+    {
+      "EnglishWord": "purchase order  po",
+      "Meanings": [
+        "دستور خرید",
+        "سفارش خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing",
+      "Meanings": [
+        "خرید",
+        "ابتیاع",
+        "خریداری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "purchesed parts list  ppl",
+      "Meanings": [
+        "لیست تجهیزات خریداری شده"
+      ]
+    },
+    {
+      "EnglishWord": "purity",
+      "Meanings": [
+        "خلوص",
+        "پاکی",
+        "صافی",
+        "نبود زواید اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "purpose",
+      "Meanings": [
+        "هدف",
+        "قصد",
+        "منظور"
+      ]
+    },
+    {
+      "EnglishWord": "purpose-built",
+      "Meanings": [
+        "هدفگرا",
+        "هدفمند",
+        "ساخته شده برای رسیدن به هدفی خاص"
+      ]
+    },
+    {
+      "EnglishWord": "p-value",
+      "Meanings": [
+        "کمترین مقدار خطای نوع اول آلفا که منجر به رد شدن فرض صفر می‌شود"
+      ]
+    }
+  ]
+}

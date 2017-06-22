@@ -1,0 +1,812 @@
+﻿{
+  "Group": "W",
+  "Entries": 112,
+  "Words": [
+    {
+      "EnglishWord": "wage",
+      "Meanings": [
+        "دستمزد",
+        "اجرت",
+        "مزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage policy",
+      "Meanings": [
+        "سیاسیت دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage scale",
+      "Meanings": [
+        "اشل دستمزد",
+        "پایه دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wage system",
+      "Meanings": [
+        "سیستم دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "wager",
+      "Meanings": [
+        "روزدمزد"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line",
+      "Meanings": [
+        "خط انتظار",
+        "صف",
+        "در صف گذاشتن",
+        "صف بستن"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line analysis",
+      "Meanings": [
+        "تحلیل خط انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "waiting line model",
+      "Meanings": [
+        "مدل خط انتظار",
+        "مدل صف"
+      ]
+    },
+    {
+      "EnglishWord": "waiting time",
+      "Meanings": [
+        "زمان انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "walking beam",
+      "Meanings": [
+        "شمش سیار"
+      ]
+    },
+    {
+      "EnglishWord": "walkthrough method",
+      "Meanings": [
+        "روش گامی"
+      ]
+    },
+    {
+      "EnglishWord": "wall thickness",
+      "Meanings": [
+        "ضخامت دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "ware",
+      "Meanings": [
+        "جنس",
+        "کالا"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse",
+      "Meanings": [
+        "انبار",
+        "انبار کالا",
+        "مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "warehouseman",
+      "Meanings": [
+        "انبار دار"
+      ]
+    },
+    {
+      "EnglishWord": "warehousing",
+      "Meanings": [
+        "انبارداری",
+        "نگهداری در انبار"
+      ]
+    },
+    {
+      "EnglishWord": "warning lines",
+      "Meanings": [
+        "خطوط هشدار",
+        "خطوط اعلام"
+      ]
+    },
+    {
+      "EnglishWord": "warpage",
+      "Meanings": [
+        "پیچیدگی",
+        "تاب برداشتگی",
+        "اعوجاج",
+        "تاب برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "warrant",
+      "Meanings": [
+        "تعهد کردن",
+        "صمانت کردن",
+        "تضمین کردن",
+        "رسید انبار",
+        "مجوز",
+        "مجوز دادن"
+      ]
+    },
+    {
+      "EnglishWord": "warranty",
+      "Meanings": [
+        "اجاره",
+        "التزام",
+        "تجویز",
+        "تعهدنامه",
+        "تضمین",
+        "ضمانتنامه کالا"
+      ]
+    },
+    {
+      "EnglishWord": "warranty of quality",
+      "Meanings": [
+        "تضمین کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "waste",
+      "Meanings": [
+        "ضایعات",
+        "باطله",
+        "بی مصرف"
+      ]
+    },
+    {
+      "EnglishWord": "water-gas",
+      "Meanings": [
+        "گاز",
+        "آب",
+        "شعله گاز",
+        "مایع"
+      ]
+    },
+    {
+      "EnglishWord": "water-hardening steel",
+      "Meanings": [
+        "فولاد سخت شونده در آب"
+      ]
+    },
+    {
+      "EnglishWord": "water-injection plasma",
+      "Meanings": [
+        "پلاسما با تزریق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water-quench",
+      "Meanings": [
+        "سرد کردن در آب",
+        "کونیچ کردن در آب"
+      ]
+    },
+    {
+      "EnglishWord": "water-shield plasma",
+      "Meanings": [
+        "پلاسما با لایه پوششی آب"
+      ]
+    },
+    {
+      "EnglishWord": "wave soldering",
+      "Meanings": [
+        "لحیم کاری نرم با امواج",
+        "لحیم کاری",
+        "لحیم کاری موجی"
+      ]
+    },
+    {
+      "EnglishWord": "waviness",
+      "Meanings": [
+        "موجی بودن",
+        "تموجی بودن",
+        "موجدار بودن",
+        "تموج"
+      ]
+    },
+    {
+      "EnglishWord": "way bill",
+      "Meanings": [
+        "بارنامه",
+        "بارنامه زمینی",
+        "صورت بار"
+      ]
+    },
+    {
+      "EnglishWord": "wear",
+      "Meanings": [
+        "سایش",
+        "ساییدگی",
+        "فرسایش",
+        "خورده شدن",
+        "ساییده شدن",
+        "فرسودن",
+        "مستهلک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wear and tear",
+      "Meanings": [
+        "ریخت و ریز",
+        "استهلاک",
+        "سایش و فرسایش",
+        "ساییدگی و فرسودگی",
+        "استهلاک عادی",
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "wear-out",
+      "Meanings": [
+        "فرسایش",
+        "خورده شدن",
+        "ساییده شدن",
+        "فرسوده شدن"
+      ]
+    },
+    {
+      "EnglishWord": "wear-resistance",
+      "Meanings": [
+        "دیرسایی",
+        "مقاومت در برابر سایش",
+        "پایداری در برابر سایش",
+        "سختسایی"
+      ]
+    },
+    {
+      "EnglishWord": "web",
+      "Meanings": [
+        "جان",
+        "تغیه",
+        "جان مته"
+      ]
+    },
+    {
+      "EnglishWord": "wedge",
+      "Meanings": [
+        "گوه",
+        "بیرون انداز",
+        "لبه",
+        "گاوه"
+      ]
+    },
+    {
+      "EnglishWord": "wedge clamp",
+      "Meanings": [
+        "گیره شیبدار",
+        "گیره گوه ای"
+      ]
+    },
+    {
+      "EnglishWord": "weibull distribution",
+      "Meanings": [
+        "توزیع وایبال"
+      ]
+    },
+    {
+      "EnglishWord": "weighted arithmetic mean",
+      "Meanings": [
+        "میانگین حسابی وزنی",
+        "میانگین حسابی وزن دار",
+        "میانگین موزون حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "weighted average",
+      "Meanings": [
+        "میانگین موزون",
+        "میانگین وزنی",
+        "میانگین وزین",
+        "میانگین وزن دار"
+      ]
+    },
+    {
+      "EnglishWord": "weighted moving average",
+      "Meanings": [
+        "معدل متحرک موزون"
+      ]
+    },
+    {
+      "EnglishWord": "weld backing",
+      "Meanings": [
+        "جوش پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "weld nugget",
+      "Meanings": [
+        "دکمه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "welding",
+      "Meanings": [
+        "جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "welding head",
+      "Meanings": [
+        "کله جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "welding unit",
+      "Meanings": [
+        "دستگاه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "wetting",
+      "Meanings": [
+        "اندود",
+        "مرطوب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "wheel",
+      "Meanings": [
+        "چرخ",
+        "نقاله چرخی"
+      ]
+    },
+    {
+      "EnglishWord": "wheel dressing tool",
+      "Meanings": [
+        "سنگ تیز کن",
+        "ابزار سنگ تیزکن"
+      ]
+    },
+    {
+      "EnglishWord": "wheel lathe",
+      "Meanings": [
+        "چرخ تراش",
+        "دستگاه چرخ تراش",
+        "ماشین گرد تراش چرخ"
+      ]
+    },
+    {
+      "EnglishWord": "white cast iron",
+      "Meanings": [
+        "چدن سفید"
+      ]
+    },
+    {
+      "EnglishWord": "wholesale",
+      "Meanings": [
+        "کلی فروشی",
+        "عمده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "widen",
+      "Meanings": [
+        "پهن کردن",
+        "گستراندن"
+      ]
+    },
+    {
+      "EnglishWord": "width",
+      "Meanings": [
+        "پهنا",
+        "عرض"
+      ]
+    },
+    {
+      "EnglishWord": "widthwise",
+      "Meanings": [
+        "عرض گون"
+      ]
+    },
+    {
+      "EnglishWord": "wiggler indicator",
+      "Meanings": [
+        "سنجه جنبان"
+      ]
+    },
+    {
+      "EnglishWord": "wiper",
+      "Meanings": [
+        "بادامک",
+        "جاروبک",
+        "برف پاک کن"
+      ]
+    },
+    {
+      "EnglishWord": "wiper blade",
+      "Meanings": [
+        "تیغه جاروب کن"
+      ]
+    },
+    {
+      "EnglishWord": "wire",
+      "Meanings": [
+        "سیم",
+        "مفتول",
+        "کابل"
+      ]
+    },
+    {
+      "EnglishWord": "wire drawing",
+      "Meanings": [
+        "مفتول کشی",
+        "کشش سیمی"
+      ]
+    },
+    {
+      "EnglishWord": "wire frame modeling",
+      "Meanings": [
+        "مدلسازی شبکه توری",
+        "مدل قاب سیمی"
+      ]
+    },
+    {
+      "EnglishWord": "wire rope",
+      "Meanings": [
+        "سیم بکسل",
+        "سیم رشته ای",
+        "کابل فولادی"
+      ]
+    },
+    {
+      "EnglishWord": "wire spray gun",
+      "Meanings": [
+        "پیستوله سیمپاش"
+      ]
+    },
+    {
+      "EnglishWord": "wire-mesh conveyor",
+      "Meanings": [
+        "نقاله توری"
+      ]
+    },
+    {
+      "EnglishWord": "wood turning",
+      "Meanings": [
+        "خراطی"
+      ]
+    },
+    {
+      "EnglishWord": "woodruff key",
+      "Meanings": [
+        "خار هلالی",
+        "خار محور",
+        "خار میل لنگ",
+        "جاخار نیم استوانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "work breakdown schedule",
+      "Meanings": [
+        "جدول زمانی تقسیم کار"
+      ]
+    },
+    {
+      "EnglishWord": "work head",
+      "Meanings": [
+        "کارگیر"
+      ]
+    },
+    {
+      "EnglishWord": "work in process",
+      "Meanings": [
+        "محصول نیمه تمام",
+        "کالای در جریان ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "work measurement",
+      "Meanings": [
+        "اندازه گیری کار",
+        "کارسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "work package",
+      "Meanings": [
+        "گروه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work priority system",
+      "Meanings": [
+        "سیستم کار با اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "work program",
+      "Meanings": [
+        "برنامه کار"
+      ]
+    },
+    {
+      "EnglishWord": "work progress",
+      "Meanings": [
+        "جریان کار"
+      ]
+    },
+    {
+      "EnglishWord": "work sampling",
+      "Meanings": [
+        "نمونه برداری از کار"
+      ]
+    },
+    {
+      "EnglishWord": "work simplification",
+      "Meanings": [
+        "ساده کردن کار"
+      ]
+    },
+    {
+      "EnglishWord": "work situation",
+      "Meanings": [
+        "موقعیت کار",
+        "محیط کار",
+        "وضعیت کار"
+      ]
+    },
+    {
+      "EnglishWord": "work station",
+      "Meanings": [
+        "ایستگاه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work stoppage",
+      "Meanings": [
+        "توقف کار",
+        "متوقف شدن کار"
+      ]
+    },
+    {
+      "EnglishWord": "work study",
+      "Meanings": [
+        "کارسنجی",
+        "مطالعه کار",
+        "بررسی کار"
+      ]
+    },
+    {
+      "EnglishWord": "work unit",
+      "Meanings": [
+        "واحد کار"
+      ]
+    },
+    {
+      "EnglishWord": "work volume",
+      "Meanings": [
+        "فضای کاری"
+      ]
+    },
+    {
+      "EnglishWord": "work zone",
+      "Meanings": [
+        "منطقه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "workflow chart",
+      "Meanings": [
+        "نمودار جریان کار",
+        "نمودار مراحل کار"
+      ]
+    },
+    {
+      "EnglishWord": "workhandling",
+      "Meanings": [
+        "جابه جا کردن قطعه کار"
+      ]
+    },
+    {
+      "EnglishWord": "workhardening",
+      "Meanings": [
+        "کارسختی",
+        "سختی سرد کاری",
+        "سردکاری",
+        "سختگردانی کاری",
+        "سخت شدن در اثر کار"
+      ]
+    },
+    {
+      "EnglishWord": "working capital",
+      "Meanings": [
+        "سرمایه در گردش",
+        "سرمایه جاری",
+        "سرمایه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "working day",
+      "Meanings": [
+        "روزکاری",
+        "روز غیر تعطیل",
+        "روز فعالیت",
+        "روزکار"
+      ]
+    },
+    {
+      "EnglishWord": "working fund",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "working life",
+      "Meanings": [
+        "دوام",
+        "دوره فعالیت",
+        "دوره کارکرد",
+        "عمر کارکرد"
+      ]
+    },
+    {
+      "EnglishWord": "working procedure",
+      "Meanings": [
+        "روش کار",
+        "رویه کار"
+      ]
+    },
+    {
+      "EnglishWord": "working-hours method",
+      "Meanings": [
+        "روش ساعات کارکرد",
+        "روش میزان ساعات کارکرد"
+      ]
+    },
+    {
+      "EnglishWord": "workmanship",
+      "Meanings": [
+        "استادی",
+        "طرز کار",
+        "مهارت"
+      ]
+    },
+    {
+      "EnglishWord": "workpiece",
+      "Meanings": [
+        "قطعه کار",
+        "قطعه جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "workplace",
+      "Meanings": [
+        "محل کار",
+        "منقطه کار",
+        "منطقه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "works",
+      "Meanings": [
+        "کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "worksheet",
+      "Meanings": [
+        "کاربرگ",
+        "برگه کار",
+        "ورقه کار"
+      ]
+    },
+    {
+      "EnglishWord": "work-shop",
+      "Meanings": [
+        "کارگاه",
+        "کارخانه کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "worm",
+      "Meanings": [
+        "پیچ حلزون",
+        "لوله مارپیچی حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "worm and rack transmission",
+      "Meanings": [
+        "C?E?C? I?IC?? OC?? C? ? ?C????"
+      ]
+    },
+    {
+      "EnglishWord": "worm gear",
+      "Meanings": [
+        "چرخ دنده حلزونی",
+        "چرخ دنده بی انتها",
+        "چرخ دنده ماردون",
+        "دنده حلزونی",
+        "دنده مارپیچی"
+      ]
+    },
+    {
+      "EnglishWord": "wormwheel",
+      "Meanings": [
+        "چرخ دنده مارپیچی",
+        "چرخ حلزون",
+        "چرخ حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "worught iron",
+      "Meanings": [
+        "آهن جوش",
+        "آهن چکشخوار",
+        "آهن کار شده",
+        "آهن خام",
+        "آهن ورزیده",
+        "نرماهن"
+      ]
+    },
+    {
+      "EnglishWord": "wrench",
+      "Meanings": [
+        "آچار",
+        "پیچاندن"
+      ]
+    },
+    {
+      "EnglishWord": "wrench spanner",
+      "Meanings": [
+        "آچار گلویی"
+      ]
+    },
+    {
+      "EnglishWord": "wring fit",
+      "Meanings": [
+        "انطابق چسیده"
+      ]
+    },
+    {
+      "EnglishWord": "wrist",
+      "Meanings": [
+        "مچ"
+      ]
+    },
+    {
+      "EnglishWord": "wrist pin",
+      "Meanings": [
+        "گژن پین",
+        "انگشتی",
+        "انگشتی پیستون"
+      ]
+    },
+    {
+      "EnglishWord": "write down",
+      "Meanings": [
+        "پایین آوردن ارزش دفتری"
+      ]
+    },
+    {
+      "EnglishWord": "wrought",
+      "Meanings": [
+        "ساختار فرم داده شده",
+        "نوردی"
+      ]
+    },
+    {
+      "EnglishWord": "wrought alloy",
+      "Meanings": [
+        "آلیاژ سرد کاری",
+        "آلیاژ خمیری",
+        "آلیاژ کار شده",
+        "آلیاژ غیر ریختنی"
+      ]
+    },
+    {
+      "EnglishWord": "wrought steel",
+      "Meanings": [
+        "فولاد نوردی"
+      ]
+    }
+  ]
+}

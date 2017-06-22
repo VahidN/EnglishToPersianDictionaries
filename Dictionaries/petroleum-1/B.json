@@ -1,0 +1,2730 @@
+﻿{
+  "Group": "B",
+  "Entries": 452,
+  "Words": [
+    {
+      "EnglishWord": "b",
+      "Meanings": [
+        "خشاب انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "back brake  post brake",
+      "Meanings": [
+        "برای قرقره کابل"
+      ]
+    },
+    {
+      "EnglishWord": "back- crank pumping",
+      "Meanings": [
+        "تلمبه زنی مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "back fill",
+      "Meanings": [
+        "پشت ریز"
+      ]
+    },
+    {
+      "EnglishWord": "back off  unscrewing",
+      "Meanings": [
+        "آزاد سازی"
+      ]
+    },
+    {
+      "EnglishWord": "back off toll  bumper sub  bumper qar",
+      "Meanings": [
+        "ابزار پس گردانی"
+      ]
+    },
+    {
+      "EnglishWord": "back pressure valve",
+      "Meanings": [
+        "شیر پس فشار"
+      ]
+    },
+    {
+      "EnglishWord": "back side pumping op a well",
+      "Meanings": [
+        "تلمبه زنی جانبی چاه"
+      ]
+    },
+    {
+      "EnglishWord": "back- up line",
+      "Meanings": [
+        "کابل لوله گیر"
+      ]
+    },
+    {
+      "EnglishWord": "back v off  unscrew v  break v ont  break v off",
+      "Meanings": [
+        "باز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "backlash",
+      "Meanings": [
+        "جای بازی"
+      ]
+    },
+    {
+      "EnglishWord": "backlash  back pressure bp",
+      "Meanings": [
+        "فشار مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "back-up",
+      "Meanings": [
+        "گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "back-up tongs  backups",
+      "Meanings": [
+        "آچار لوله گیر"
+      ]
+    },
+    {
+      "EnglishWord": "baffle collar  comenting collar  cementer",
+      "Meanings": [
+        "طوقه سپری"
+      ]
+    },
+    {
+      "EnglishWord": "baffle plate",
+      "Meanings": [
+        "صفحه منحرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "bag auger  sack borer",
+      "Meanings": [
+        "مته کیسه‌یی"
+      ]
+    },
+    {
+      "EnglishWord": "bail of the bailer",
+      "Meanings": [
+        "دسته لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bail v  bail v out  bail v down  bail v dry",
+      "Meanings": [
+        "تمیز کاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bailer  bailingscoop",
+      "Meanings": [
+        "دلوچه لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailer boring",
+      "Meanings": [
+        "حفاری با لوله تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "bailer clamp",
+      "Meanings": [
+        "گیره لوله تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "bailer sample",
+      "Meanings": [
+        "نمونه لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailer valve",
+      "Meanings": [
+        "دریچه لای‌کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailing",
+      "Meanings": [
+        "لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailing drum  sandline reel  sand reel sandline spool",
+      "Meanings": [
+        "کابل تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "bailing line  sand line  bailing rope  sand pump line",
+      "Meanings": [
+        "کابل لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailing plant",
+      "Meanings": [
+        "تاسیسات تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "bailing production",
+      "Meanings": [
+        "تولید با لوله تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "bailing tank  bailing tube",
+      "Meanings": [
+        "مخزن لای کشی"
+      ]
+    },
+    {
+      "EnglishWord": "bailing well",
+      "Meanings": [
+        "چاه در دست تمیزکاری"
+      ]
+    },
+    {
+      "EnglishWord": "balance rope",
+      "Meanings": [
+        "کابل تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balance weight  counter weight  counterbalance",
+      "Meanings": [
+        "وزنه تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced hoisting",
+      "Meanings": [
+        "بالا کشی به کمک پارسنگ"
+      ]
+    },
+    {
+      "EnglishWord": "balanced hole",
+      "Meanings": [
+        "چاه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "balanced load",
+      "Meanings": [
+        "بار متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced valve",
+      "Meanings": [
+        "سوپاپ تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "ball breaker",
+      "Meanings": [
+        "عمق سنج ساچمه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ball check valve",
+      "Meanings": [
+        "شیر یک طرفه ساچمه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ball cock",
+      "Meanings": [
+        "شیر شناور کروی"
+      ]
+    },
+    {
+      "EnglishWord": "ball joint drive",
+      "Meanings": [
+        "رانش به وسیله‌اتصال سیبکی"
+      ]
+    },
+    {
+      "EnglishWord": "ball shaped head",
+      "Meanings": [
+        "سر کروی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "ball valve  globe valve",
+      "Meanings": [
+        "شیر فلکه ساچمه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ball-and-ring method",
+      "Meanings": [
+        "روش ساچمه و حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "ball-and-socket joint  ball head  ball qoint",
+      "Meanings": [
+        "مفصل زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "ballast capacity",
+      "Meanings": [
+        "ظرفیت پارسنگ گیری"
+      ]
+    },
+    {
+      "EnglishWord": "ballast cell",
+      "Meanings": [
+        "محفظه بار موازنه"
+      ]
+    },
+    {
+      "EnglishWord": "ballast room",
+      "Meanings": [
+        "اتاق موازنه"
+      ]
+    },
+    {
+      "EnglishWord": "ballast tank",
+      "Meanings": [
+        "مخزن آب موازنه"
+      ]
+    },
+    {
+      "EnglishWord": "ballast v into place",
+      "Meanings": [
+        "متوارن کردن در محل"
+      ]
+    },
+    {
+      "EnglishWord": "ballast water",
+      "Meanings": [
+        "آب موازنه"
+      ]
+    },
+    {
+      "EnglishWord": "ballasted flanged base",
+      "Meanings": [
+        "پایه متوازن شده"
+      ]
+    },
+    {
+      "EnglishWord": "ballasting operation",
+      "Meanings": [
+        "توازن بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "balling up of the bit",
+      "Meanings": [
+        "گلی شدن مته"
+      ]
+    },
+    {
+      "EnglishWord": "band brake",
+      "Meanings": [
+        "ترمز تسمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "band wheel",
+      "Meanings": [
+        "چرخ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "band wheel belt",
+      "Meanings": [
+        "تسمه چرخ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "band wheel shaft",
+      "Meanings": [
+        "محور چرخ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "banded",
+      "Meanings": [
+        "نواری"
+      ]
+    },
+    {
+      "EnglishWord": "banded limestone",
+      "Meanings": [
+        "سنگ آهک نواری"
+      ]
+    },
+    {
+      "EnglishWord": "banded vein",
+      "Meanings": [
+        "رگه راه راه"
+      ]
+    },
+    {
+      "EnglishWord": "banding",
+      "Meanings": [
+        "لایه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "bank of ice",
+      "Meanings": [
+        "توده یخ"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "واحد فشار"
+      ]
+    },
+    {
+      "EnglishWord": "bar  rod",
+      "Meanings": [
+        "میله"
+      ]
+    },
+    {
+      "EnglishWord": "barbey ixometer",
+      "Meanings": [
+        "جریان سنج باربی"
+      ]
+    },
+    {
+      "EnglishWord": "barefeet  barefooted  uncased",
+      "Meanings": [
+        "تکمیل چاه باز",
+        "لخت",
+        "بی جداره"
+      ]
+    },
+    {
+      "EnglishWord": "barefooed well    barefoot hole  uncased",
+      "Meanings": [
+        "چاه بی جداره"
+      ]
+    },
+    {
+      "EnglishWord": "barge",
+      "Meanings": [
+        "دوبه"
+      ]
+    },
+    {
+      "EnglishWord": "barge for subsea pipe connections",
+      "Meanings": [
+        "دوبه اتصال لوله در زیر آب"
+      ]
+    },
+    {
+      "EnglishWord": "barograph  barometrograph",
+      "Meanings": [
+        "هواسنج ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "barometric pressure",
+      "Meanings": [
+        "گیرنده فشار جو"
+      ]
+    },
+    {
+      "EnglishWord": "barrel  bbl  b  brl",
+      "Meanings": [
+        "بشکه"
+      ]
+    },
+    {
+      "EnglishWord": "barrel of capstan",
+      "Meanings": [
+        "غلتک دستگاه بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "barrel of winch  winch barrel",
+      "Meanings": [
+        "غلتک تناب کش"
+      ]
+    },
+    {
+      "EnglishWord": "barrels of water per day",
+      "Meanings": [
+        "تعداد بشکه آب در روز"
+      ]
+    },
+    {
+      "EnglishWord": "barrels per calender day  bpcd",
+      "Meanings": [
+        "تعداد بشکه در ۲۴ ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "barrels per stream day  bpsd",
+      "Meanings": [
+        "تعداد بشکه در هر روز بهره برداری"
+      ]
+    },
+    {
+      "EnglishWord": "barrels per ton",
+      "Meanings": [
+        "تعداد بشکه در تن"
+      ]
+    },
+    {
+      "EnglishWord": "barren field  feld field",
+      "Meanings": [
+        "میدان خشک"
+      ]
+    },
+    {
+      "EnglishWord": "barren ground",
+      "Meanings": [
+        "زمین بی ثمر"
+      ]
+    },
+    {
+      "EnglishWord": "barren intercalation",
+      "Meanings": [
+        "میان لایه بی ثمر"
+      ]
+    },
+    {
+      "EnglishWord": "barytes  barite",
+      "Meanings": [
+        "باریت گل افزایه"
+      ]
+    },
+    {
+      "EnglishWord": "basal waters",
+      "Meanings": [
+        "آب زیر نفت"
+      ]
+    },
+    {
+      "EnglishWord": "base",
+      "Meanings": [
+        "سکوی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "base level",
+      "Meanings": [
+        "سطح تراز"
+      ]
+    },
+    {
+      "EnglishWord": "base line",
+      "Meanings": [
+        "خط تراز"
+      ]
+    },
+    {
+      "EnglishWord": "base line of sands",
+      "Meanings": [
+        "خط مبنای ماسه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "base of otl",
+      "Meanings": [
+        "مایه نفت"
+      ]
+    },
+    {
+      "EnglishWord": "base of the derrick",
+      "Meanings": [
+        "پی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "base plate of the derrick",
+      "Meanings": [
+        "صفحه پی دکل"
+      ]
+    },
+    {
+      "EnglishWord": "basement rock",
+      "Meanings": [
+        "پی سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "basic rock",
+      "Meanings": [
+        "سنگ قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "basin",
+      "Meanings": [
+        "آبگیر"
+      ]
+    },
+    {
+      "EnglishWord": "basket bit",
+      "Meanings": [
+        "مته سبدی"
+      ]
+    },
+    {
+      "EnglishWord": "basket sub  basket rube",
+      "Meanings": [
+        "لوله رسوب گیر"
+      ]
+    },
+    {
+      "EnglishWord": "basket- type core barrel",
+      "Meanings": [
+        "استوانه مغزه گیری سبدی"
+      ]
+    },
+    {
+      "EnglishWord": "bastard  massive rock",
+      "Meanings": [
+        "سنگ متراکم"
+      ]
+    },
+    {
+      "EnglishWord": "batch treating",
+      "Meanings": [
+        "عملیات مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "batching oil  batch oil",
+      "Meanings": [
+        "روغن ریسمان"
+      ]
+    },
+    {
+      "EnglishWord": "batching pig",
+      "Meanings": [
+        "موشک جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "batching plug",
+      "Meanings": [
+        "مجرابند جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "bathroclase  bott0m joint",
+      "Meanings": [
+        "شکاف افقی"
+      ]
+    },
+    {
+      "EnglishWord": "bathyal deposits",
+      "Meanings": [
+        "نهشت‌های ژرفایی"
+      ]
+    },
+    {
+      "EnglishWord": "bathymeter",
+      "Meanings": [
+        "عمق یاب"
+      ]
+    },
+    {
+      "EnglishWord": "bathymetric chart",
+      "Meanings": [
+        "نقشه ژرفا سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "bathymetric survey",
+      "Meanings": [
+        "بررسی ژرفا سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "bathymetry",
+      "Meanings": [
+        "ژرفا سنحی"
+      ]
+    },
+    {
+      "EnglishWord": "bathypelagic",
+      "Meanings": [
+        "پهنه",
+        "ژرفایی"
+      ]
+    },
+    {
+      "EnglishWord": "bathyscaphe",
+      "Meanings": [
+        "کشتی زیرآبی"
+      ]
+    },
+    {
+      "EnglishWord": "baume scale  baume hydrometric scale",
+      "Meanings": [
+        "مقیاس بومه"
+      ]
+    },
+    {
+      "EnglishWord": "bbls/d  barrels per day",
+      "Meanings": [
+        "تعداد بشکه در روز"
+      ]
+    },
+    {
+      "EnglishWord": "beam hanger",
+      "Meanings": [
+        "رگه دانه تسبیحی",
+        "لوله آویز"
+      ]
+    },
+    {
+      "EnglishWord": "beam pump  beam- pumping unit  walking- beam pump",
+      "Meanings": [
+        "تلمبه شاهینی"
+      ]
+    },
+    {
+      "EnglishWord": "beam- pumping production",
+      "Meanings": [
+        "تولید به وسیله تلمبه شاهینی"
+      ]
+    },
+    {
+      "EnglishWord": "beam well",
+      "Meanings": [
+        "چاه شاهینی"
+      ]
+    },
+    {
+      "EnglishWord": "bean",
+      "Meanings": [
+        "کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "bean v  choke v  pinch v  throttle",
+      "Meanings": [
+        "کاهش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "bearer  supporting pillar",
+      "Meanings": [
+        "ستون حمال"
+      ]
+    },
+    {
+      "EnglishWord": "bearing capacity",
+      "Meanings": [
+        "قدرت تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "bearing load",
+      "Meanings": [
+        "بار قابل تحمل"
+      ]
+    },
+    {
+      "EnglishWord": "bearing plate",
+      "Meanings": [
+        "سکوی حمال"
+      ]
+    },
+    {
+      "EnglishWord": "beaufort scale",
+      "Meanings": [
+        "مقیاس بوفورت"
+      ]
+    },
+    {
+      "EnglishWord": "bed  layer  stratum",
+      "Meanings": [
+        "لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bed opening",
+      "Meanings": [
+        "دهانه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bed outcrop  bed outcropping",
+      "Meanings": [
+        "بیرون زدگی لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bed- plate of capstan",
+      "Meanings": [
+        "صفحه قرار چرخ لنگر"
+      ]
+    },
+    {
+      "EnglishWord": "bed rock  underlying rock  solid rock",
+      "Meanings": [
+        "سنگ پایه"
+      ]
+    },
+    {
+      "EnglishWord": "bed succession  succession of strata",
+      "Meanings": [
+        "توالی لایه ها"
+      ]
+    },
+    {
+      "EnglishWord": "bed undulation",
+      "Meanings": [
+        "تموج لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bedded  layered  stratified",
+      "Meanings": [
+        "لایه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bedded deposoit  stratified deposit",
+      "Meanings": [
+        "نهشت لایه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bedded rock  layered rock  stratified rock  sedimentary rock",
+      "Meanings": [
+        "سنگ لایه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bedded structure  layered structure  stratified structure",
+      "Meanings": [
+        "ساختار لایه لایه"
+      ]
+    },
+    {
+      "EnglishWord": "bedding  stratification",
+      "Meanings": [
+        "لایه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "bedding fault  bedding- plane fault",
+      "Meanings": [
+        "گسل موازی سطح لایه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "bedding plane  plane of bedding",
+      "Meanings": [
+        "سطح لایه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "beds of passage  transition beds",
+      "Meanings": [
+        "لایه‌های حد وسط"
+      ]
+    },
+    {
+      "EnglishWord": "behavior of the layer  layer behavior",
+      "Meanings": [
+        "رفتارلایه"
+      ]
+    },
+    {
+      "EnglishWord": "behavior of the rock  rock behavior",
+      "Meanings": [
+        "رفتار سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "behavior of the well  well behavior",
+      "Meanings": [
+        "رفتار چاه"
+      ]
+    },
+    {
+      "EnglishWord": "belching well",
+      "Meanings": [
+        "چاه فورانی متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "bell guide  bowl",
+      "Meanings": [
+        "دستگاه ابزارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "bell- shaped valve",
+      "Meanings": [
+        "شیر ناقوس"
+      ]
+    },
+    {
+      "EnglishWord": "bell valve",
+      "Meanings": [
+        "شیر ناقوسی"
+      ]
+    },
+    {
+      "EnglishWord": "bellows",
+      "Meanings": [
+        "فانوس"
+      ]
+    },
+    {
+      "EnglishWord": "bellows valve",
+      "Meanings": [
+        "شیر فانوس"
+      ]
+    },
+    {
+      "EnglishWord": "belly band  belly bust",
+      "Meanings": [
+        "کمربند ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "belt drive  belt gearing  belt driving  belting",
+      "Meanings": [
+        "انتقال نیرو با تسمه"
+      ]
+    },
+    {
+      "EnglishWord": "belt driven pump",
+      "Meanings": [
+        "تلمبه تسمه گرد"
+      ]
+    },
+    {
+      "EnglishWord": "belt of folded strata  bow area",
+      "Meanings": [
+        "ناحیه چین خورده"
+      ]
+    },
+    {
+      "EnglishWord": "bench- mark",
+      "Meanings": [
+        "نشانه مبداء"
+      ]
+    },
+    {
+      "EnglishWord": "bend  bending",
+      "Meanings": [
+        "خم"
+      ]
+    },
+    {
+      "EnglishWord": "bend  bow",
+      "Meanings": [
+        "قوس"
+      ]
+    },
+    {
+      "EnglishWord": "bend of ground",
+      "Meanings": [
+        "خم زمین"
+      ]
+    },
+    {
+      "EnglishWord": "bending coefficient",
+      "Meanings": [
+        "ضریب خمش"
+      ]
+    },
+    {
+      "EnglishWord": "bending strain  bending stress",
+      "Meanings": [
+        "کرنش خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bending strength",
+      "Meanings": [
+        "مقاومت خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "bends",
+      "Meanings": [
+        "بیماری افت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "bentonite",
+      "Meanings": [
+        "بنتونیت"
+      ]
+    },
+    {
+      "EnglishWord": "bentonitic clay",
+      "Meanings": [
+        "رس بنتونیتی"
+      ]
+    },
+    {
+      "EnglishWord": "benzene",
+      "Meanings": [
+        "بنزن"
+      ]
+    },
+    {
+      "EnglishWord": "benzene ring",
+      "Meanings": [
+        "حلقه بنزن"
+      ]
+    },
+    {
+      "EnglishWord": "beveling",
+      "Meanings": [
+        "اریب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "big hole",
+      "Meanings": [
+        "چاه دهانه گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "bimetallic thermometer  bimetallic strip",
+      "Meanings": [
+        "دماسنج دوفلزی"
+      ]
+    },
+    {
+      "EnglishWord": "binder  binding agent  binding material",
+      "Meanings": [
+        "ملاط"
+      ]
+    },
+    {
+      "EnglishWord": "bioclastic rock",
+      "Meanings": [
+        "سنگ زیست آواری"
+      ]
+    },
+    {
+      "EnglishWord": "biofacies",
+      "Meanings": [
+        "رخساره زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biogenic rocks",
+      "Meanings": [
+        "سنگ‌های زیست زاده"
+      ]
+    },
+    {
+      "EnglishWord": "bit  drill bit  tool",
+      "Meanings": [
+        "مته حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bit blade  cutting edge of the bit  blade of the bit  bit edge",
+      "Meanings": [
+        "تیغه مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit breaker",
+      "Meanings": [
+        "مته بازکن"
+      ]
+    },
+    {
+      "EnglishWord": "bit change  change of the bit",
+      "Meanings": [
+        "تعویض مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit clearance  clearance of the bit",
+      "Meanings": [
+        "جای بازی مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit cooling  cooling of the bit",
+      "Meanings": [
+        "خنک کردن مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit deflection  deflection of the bit",
+      "Meanings": [
+        "انحراف مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit dressing machine  bit dresser",
+      "Meanings": [
+        "مته تیزکن"
+      ]
+    },
+    {
+      "EnglishWord": "bit face angle  face angle of the bit",
+      "Meanings": [
+        "زاویه برش مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit gage  drill tool gage  drill bit gage",
+      "Meanings": [
+        "شابلون مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit head  head of the bit",
+      "Meanings": [
+        "سر مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit hook",
+      "Meanings": [
+        "قلاب مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit hydraulics",
+      "Meanings": [
+        "هیدرولیک مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit leg  leg of the bit",
+      "Meanings": [
+        "سه پایه مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit life  life of the bit",
+      "Meanings": [
+        "عمر مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit neck  neck of the bit",
+      "Meanings": [
+        "گردن مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit penetration  penetration of the bit",
+      "Meanings": [
+        "نفوذ مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit pin  pin of the bit",
+      "Meanings": [
+        "خار مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit sample  bore specimen",
+      "Meanings": [
+        "نمونه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bit shank  shank of the bit",
+      "Meanings": [
+        "دسته مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit shoulder  shoulder of the bit",
+      "Meanings": [
+        "شانه مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit size  size of the bit",
+      "Meanings": [
+        "قطر مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit sticking  sticking of the bit  sticking of the tool",
+      "Meanings": [
+        "چسبیدن مته"
+      ]
+    },
+    {
+      "EnglishWord": "bit sub",
+      "Meanings": [
+        "اتصال دو سر ماده"
+      ]
+    },
+    {
+      "EnglishWord": "bit wing  wing of the bit",
+      "Meanings": [
+        "بال مته"
+      ]
+    },
+    {
+      "EnglishWord": "bituminous limestone",
+      "Meanings": [
+        "سنگ آهک قیری"
+      ]
+    },
+    {
+      "EnglishWord": "bituminous rock",
+      "Meanings": [
+        "سنگ قیری"
+      ]
+    },
+    {
+      "EnglishWord": "bituminous sand",
+      "Meanings": [
+        "ماسه قیری"
+      ]
+    },
+    {
+      "EnglishWord": "bituminous shale  oil shale",
+      "Meanings": [
+        "پلمه سنگ قیری"
+      ]
+    },
+    {
+      "EnglishWord": "black oil",
+      "Meanings": [
+        "نفت سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "black products",
+      "Meanings": [
+        "فرآورده‌های سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "blade bit  drag bit",
+      "Meanings": [
+        "مته دندانه دار"
+      ]
+    },
+    {
+      "EnglishWord": "blade mixer",
+      "Meanings": [
+        "همزن تیغه ای"
+      ]
+    },
+    {
+      "EnglishWord": "blank bit",
+      "Meanings": [
+        "صافه مته"
+      ]
+    },
+    {
+      "EnglishWord": "blank flange  blind flange",
+      "Meanings": [
+        "فلنج کور"
+      ]
+    },
+    {
+      "EnglishWord": "blank liner",
+      "Meanings": [
+        "لوله آستری مشبک نشده"
+      ]
+    },
+    {
+      "EnglishWord": "blank pipe",
+      "Meanings": [
+        "لوله مشبک نشده"
+      ]
+    },
+    {
+      "EnglishWord": "blank ram  blind ram",
+      "Meanings": [
+        "پیستون کور"
+      ]
+    },
+    {
+      "EnglishWord": "blast",
+      "Meanings": [
+        "انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blast firing  blast ing",
+      "Meanings": [
+        "چکاندن"
+      ]
+    },
+    {
+      "EnglishWord": "blast furnace cement",
+      "Meanings": [
+        "سیمان کوره بلند"
+      ]
+    },
+    {
+      "EnglishWord": "blast hole  blasting hole",
+      "Meanings": [
+        "سوراخ انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blast- hole diamond drilling",
+      "Meanings": [
+        "کندن سوراخ خرج با مته الماس"
+      ]
+    },
+    {
+      "EnglishWord": "blast- hole drilling",
+      "Meanings": [
+        "کندن سوراخ خرج"
+      ]
+    },
+    {
+      "EnglishWord": "blast v",
+      "Meanings": [
+        "منفجر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "blasted rock",
+      "Meanings": [
+        "سنگ منفجر شده"
+      ]
+    },
+    {
+      "EnglishWord": "blaster",
+      "Meanings": [
+        "دستگاه انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blaster fuse  blasting fuse  slow match",
+      "Meanings": [
+        "فیتیله انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blaster oil  blasting oil",
+      "Meanings": [
+        "نیتروگلیسیرین"
+      ]
+    },
+    {
+      "EnglishWord": "blasting agent  explosive  blasting material",
+      "Meanings": [
+        "ماده منفجره"
+      ]
+    },
+    {
+      "EnglishWord": "blasting cable",
+      "Meanings": [
+        "کابل انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blasting cap",
+      "Meanings": [
+        "کپسول انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blasting cap  igniter",
+      "Meanings": [
+        "فندک انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blasting charge",
+      "Meanings": [
+        "خرج"
+      ]
+    },
+    {
+      "EnglishWord": "blasting cone  explosion cone  explosin crater",
+      "Meanings": [
+        "گود انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blasting method",
+      "Meanings": [
+        "روش انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "blasting powder",
+      "Meanings": [
+        "باروت"
+      ]
+    },
+    {
+      "EnglishWord": "blee v  bleed v off pressure  bleed v pressure",
+      "Meanings": [
+        "گرفتن فشار"
+      ]
+    },
+    {
+      "EnglishWord": "bleeder  prssure release valve bleeder valva",
+      "Meanings": [
+        "شیر فشارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "bleeding core  weeping core",
+      "Meanings": [
+        "مغزه نفت ریز"
+      ]
+    },
+    {
+      "EnglishWord": "blind area  blind zone",
+      "Meanings": [
+        "منطقه کور"
+      ]
+    },
+    {
+      "EnglishWord": "blind drilling",
+      "Meanings": [
+        "حفاری کور"
+      ]
+    },
+    {
+      "EnglishWord": "bling hole",
+      "Meanings": [
+        "چاه کور"
+      ]
+    },
+    {
+      "EnglishWord": "blistering",
+      "Meanings": [
+        "تاول زدگی"
+      ]
+    },
+    {
+      "EnglishWord": "block  pulley block",
+      "Meanings": [
+        "جعبه قرقره"
+      ]
+    },
+    {
+      "EnglishWord": "block and tackle  chain block",
+      "Meanings": [
+        "قرقره و زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "block line  drilling cable  drilling line",
+      "Meanings": [
+        "کابل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "block mountain",
+      "Meanings": [
+        "کوه گسلی"
+      ]
+    },
+    {
+      "EnglishWord": "block v hole",
+      "Meanings": [
+        "بستن چاه با انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "bloom of oil  petroleum bloom",
+      "Meanings": [
+        "جلای نفت"
+      ]
+    },
+    {
+      "EnglishWord": "bloomless oil",
+      "Meanings": [
+        "نفت بی جلا"
+      ]
+    },
+    {
+      "EnglishWord": "blow down valve",
+      "Meanings": [
+        "شیر تخلیه"
+      ]
+    },
+    {
+      "EnglishWord": "blow out  flowing  gush  gushing",
+      "Meanings": [
+        "نفت دمیده"
+      ]
+    },
+    {
+      "EnglishWord": "blow out  flowing  gush gushing",
+      "Meanings": [
+        "فوران"
+      ]
+    },
+    {
+      "EnglishWord": "blowdown silencer",
+      "Meanings": [
+        "صدا خفه کن",
+        "دمیدن"
+      ]
+    },
+    {
+      "EnglishWord": "blower  ventilator",
+      "Meanings": [
+        "هواکش"
+      ]
+    },
+    {
+      "EnglishWord": "blowing fan  pressure fan",
+      "Meanings": [
+        "بادبزن"
+      ]
+    },
+    {
+      "EnglishWord": "blowing in wild  uncontrolled blowout  wildcat blowing",
+      "Meanings": [
+        "فوران مهارنشده"
+      ]
+    },
+    {
+      "EnglishWord": "blowing out well  blowing well  blowout well  flowing well  spouter  spouting well",
+      "Meanings": [
+        "چاه سرکش"
+      ]
+    },
+    {
+      "EnglishWord": "blowout preventer  bop  preventer",
+      "Meanings": [
+        "شیر فوران گیر"
+      ]
+    },
+    {
+      "EnglishWord": "blowout preventer stack  bop stack",
+      "Meanings": [
+        "مجموع شیر فوران گیر"
+      ]
+    },
+    {
+      "EnglishWord": "blowout prevention",
+      "Meanings": [
+        "جلوگیری از فوران"
+      ]
+    },
+    {
+      "EnglishWord": "blowout simulator",
+      "Meanings": [
+        "بدل نمای فوران"
+      ]
+    },
+    {
+      "EnglishWord": "blunting  dulling",
+      "Meanings": [
+        "کند شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "body",
+      "Meanings": [
+        "قوام"
+      ]
+    },
+    {
+      "EnglishWord": "body of an oil",
+      "Meanings": [
+        "قوام نفت"
+      ]
+    },
+    {
+      "EnglishWord": "bog hole drilling",
+      "Meanings": [
+        "حفاری چاه دهانه گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "bog inch",
+      "Meanings": [
+        "حفاری چاه دهانه گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "boiler",
+      "Meanings": [
+        "دیگ بخار"
+      ]
+    },
+    {
+      "EnglishWord": "boiler feeder  boiler feeding pump",
+      "Meanings": [
+        "تلمبه تغذیه دیگ بخار"
+      ]
+    },
+    {
+      "EnglishWord": "boiler house  boiler room",
+      "Meanings": [
+        "موتور خانه"
+      ]
+    },
+    {
+      "EnglishWord": "boiling point",
+      "Meanings": [
+        "نقطه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "boll weevil",
+      "Meanings": [
+        "لوله گیر مخصوص اتصال جداره",
+        "کارگر ساده حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bonanza",
+      "Meanings": [
+        "رگه سرشار"
+      ]
+    },
+    {
+      "EnglishWord": "boom  jib",
+      "Meanings": [
+        "بازوی متحرک جرثقیل"
+      ]
+    },
+    {
+      "EnglishWord": "boom car",
+      "Meanings": [
+        "تراکتور لوله کش"
+      ]
+    },
+    {
+      "EnglishWord": "boomer",
+      "Meanings": [
+        "کارگر نفت کش سیار"
+      ]
+    },
+    {
+      "EnglishWord": "boomer  aoad binder",
+      "Meanings": [
+        "آچار زنجیر کش"
+      ]
+    },
+    {
+      "EnglishWord": "boomer  sonar",
+      "Meanings": [
+        "مولد صوت"
+      ]
+    },
+    {
+      "EnglishWord": "boost feed",
+      "Meanings": [
+        "تغذیه با فشار"
+      ]
+    },
+    {
+      "EnglishWord": "booster  booster compressor",
+      "Meanings": [
+        "فشار افزا"
+      ]
+    },
+    {
+      "EnglishWord": "booster fan",
+      "Meanings": [
+        "هواکش کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "booster intermediate station  booster station",
+      "Meanings": [
+        "تلمبه خانه افزایش فشار"
+      ]
+    },
+    {
+      "EnglishWord": "booster pump",
+      "Meanings": [
+        "تلمبه خانه افزایش فشار"
+      ]
+    },
+    {
+      "EnglishWord": "boosting",
+      "Meanings": [
+        "فشار افزایی"
+      ]
+    },
+    {
+      "EnglishWord": "bootjack",
+      "Meanings": [
+        "چنگک مانده گیری"
+      ]
+    },
+    {
+      "EnglishWord": "bop hydraulic fluid",
+      "Meanings": [
+        "روغن شیر فوران گیر"
+      ]
+    },
+    {
+      "EnglishWord": "bop transport system",
+      "Meanings": [
+        "وسیله انتقال شیر فوران گیر"
+      ]
+    },
+    {
+      "EnglishWord": "border zone",
+      "Meanings": [
+        "منطقه مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "bore - hole cementing  well cementing",
+      "Meanings": [
+        "سیمان کاری چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore - hole conditions",
+      "Meanings": [
+        "وضعیت چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore - hole pump  deep well pump",
+      "Meanings": [
+        "تلمبه چاه عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "bore frame  drilling frame",
+      "Meanings": [
+        "خرک حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bore hole  drill hole  hole  well bore",
+      "Meanings": [
+        "چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore hole bottom",
+      "Meanings": [
+        "ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore- hole diameter  diameter of the hole  hole size  size of the hole",
+      "Meanings": [
+        "قطر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore -hole flushing",
+      "Meanings": [
+        "تمیز کردن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore -hole logging  bore - hole survey",
+      "Meanings": [
+        "نمودار گیری از چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore of a pipe internal diameter of a pipe  id of pipe",
+      "Meanings": [
+        "دهانه لوله"
+      ]
+    },
+    {
+      "EnglishWord": "bore rod  boring bar  borin rod",
+      "Meanings": [
+        "میل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bore v  drill v",
+      "Meanings": [
+        "حفر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bore-hole deformation meter",
+      "Meanings": [
+        "اعوجاج سنج دیواره چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore-hole gravimeter  bore- hole gravity meter",
+      "Meanings": [
+        "گرانی سنج چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bore-hole spacing  drill pattern  drilling pattern  pattern of spacing  well spacing  pattern of well spacing   spacing of the wells  well arrangement",
+      "Meanings": [
+        "فاصله بندی چاه ها"
+      ]
+    },
+    {
+      "EnglishWord": "bore-hole wall of the well  well wall",
+      "Meanings": [
+        "دیواره چاه"
+      ]
+    },
+    {
+      "EnglishWord": "borer  bore- bit  dirll bit  drilling bit  drill",
+      "Meanings": [
+        "مته حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "borer  driller  well borer  drillman  drill runner",
+      "Meanings": [
+        "حفار"
+      ]
+    },
+    {
+      "EnglishWord": "borer bit",
+      "Meanings": [
+        "مته حفاری ضربه یی"
+      ]
+    },
+    {
+      "EnglishWord": "borev a wall  drill v awell  put v down a well  sink v a well",
+      "Meanings": [
+        "چاه زدن"
+      ]
+    },
+    {
+      "EnglishWord": "boring  drilling  hole drilling",
+      "Meanings": [
+        "حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring by means of arod boring by means of rods  boring by percussion with rods",
+      "Meanings": [
+        "حفاری میله کوبی"
+      ]
+    },
+    {
+      "EnglishWord": "boring by percussion  hammer drilling  percussion drilling  percussion boring",
+      "Meanings": [
+        "حفاری ضربه یی"
+      ]
+    },
+    {
+      "EnglishWord": "boring by percussion with rope churn drilling  rope drilling",
+      "Meanings": [
+        "حفاری کابلی ضربه یی"
+      ]
+    },
+    {
+      "EnglishWord": "boring by rotation  drilling by rotation  rotary boring  rotary drilling",
+      "Meanings": [
+        "حفاری دورانی"
+      ]
+    },
+    {
+      "EnglishWord": "boring by shot drills  chilled - shot drilling  shot drilling  shot boring  calyx drilling",
+      "Meanings": [
+        "حفاری بامته ساچمه یی"
+      ]
+    },
+    {
+      "EnglishWord": "boring crown",
+      "Meanings": [
+        "مته تاجی"
+      ]
+    },
+    {
+      "EnglishWord": "boring head  drilling head  drill head",
+      "Meanings": [
+        "نظام مته"
+      ]
+    },
+    {
+      "EnglishWord": "boring machine  drilling machine",
+      "Meanings": [
+        "ماشین حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring mast  drilling mast",
+      "Meanings": [
+        "دکل اهرمی حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring master  drilling foreman  driller  master borer",
+      "Meanings": [
+        "سرحفار"
+      ]
+    },
+    {
+      "EnglishWord": "boring mud  drilling fluid  drilling mud  mud- laden fluid  slush",
+      "Meanings": [
+        "گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring record sheet  boring report",
+      "Meanings": [
+        "گزارش حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring rig  drilling rig  drill rig  well rig",
+      "Meanings": [
+        "دستگاه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring sample  boring test sample",
+      "Meanings": [
+        "نمونه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring shoe  shoe",
+      "Meanings": [
+        "کفشک حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring tackle",
+      "Meanings": [
+        "ادوات حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring test  drill test",
+      "Meanings": [
+        "آزمایش حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring toll  drilling tool",
+      "Meanings": [
+        "ابزار حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring tower  drilling tower  derrick  drilling derrrick",
+      "Meanings": [
+        "دکل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring trestle",
+      "Meanings": [
+        "خرک حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring tripod  dripod",
+      "Meanings": [
+        "سه پایه حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "boring unit  drill unit  drilling unit",
+      "Meanings": [
+        "واحد حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bottle necking",
+      "Meanings": [
+        "تنگ شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "bottled gas",
+      "Meanings": [
+        "گاز مایع"
+      ]
+    },
+    {
+      "EnglishWord": "bottom",
+      "Meanings": [
+        "زیر",
+        "به ته رساندن"
+      ]
+    },
+    {
+      "EnglishWord": "bottom bench",
+      "Meanings": [
+        "رگه زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom cementing plug",
+      "Meanings": [
+        "مجرابند سیمان کاری زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom differentisl pressure  bottom- hole differential pressure",
+      "Meanings": [
+        "اختلاف فشار ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom flange",
+      "Meanings": [
+        "فلنج کف"
+      ]
+    },
+    {
+      "EnglishWord": "bottom hold down",
+      "Meanings": [
+        "مهار تلمبه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole apparatus  bottom- hole device",
+      "Meanings": [
+        "دستگاه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole area",
+      "Meanings": [
+        "ناحیه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole bumper",
+      "Meanings": [
+        "ضربه گیر ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole choke  bottom- hole flow bean",
+      "Meanings": [
+        "جریان کاه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole flow rate",
+      "Meanings": [
+        "سرعت جریان ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole flowmeter",
+      "Meanings": [
+        "فشار جریان ته چاه",
+        "جریان سنج ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole inclinometer",
+      "Meanings": [
+        "شیب سنج ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole jet cutter",
+      "Meanings": [
+        "لوله بر جتی ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole packer",
+      "Meanings": [
+        "توپک ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole pressure  bhp",
+      "Meanings": [
+        "فشار ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole pressure gage",
+      "Meanings": [
+        "فشارسنج ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole pressure recorder  down hole pressure recorder",
+      "Meanings": [
+        "فشار نگار ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole pump  sudsurface pump",
+      "Meanings": [
+        "تلمبه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole sample",
+      "Meanings": [
+        "مغزه ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole sample catcher  bottom- hole sample taker  bottom- hole sampler  bottom sampler",
+      "Meanings": [
+        "نمونه گیر ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole temperature  bht",
+      "Meanings": [
+        "دمای ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom- hole thermometer",
+      "Meanings": [
+        "دماسنج ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom layer",
+      "Meanings": [
+        "لایه زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom layer fold",
+      "Meanings": [
+        "چین زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom level",
+      "Meanings": [
+        "سطح زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom plug",
+      "Meanings": [
+        "مجرابند ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom pressure test",
+      "Meanings": [
+        "آزمایش فشار ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottom sediments  b.s.",
+      "Meanings": [
+        "رسوبات ته مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "bottom sediments and water  botom settlings and water  b.s.w",
+      "Meanings": [
+        "آب و رسوب ته مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "bottom slice",
+      "Meanings": [
+        "برش زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom sludge",
+      "Meanings": [
+        "لجن ته مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "bottom swelling",
+      "Meanings": [
+        "تورم کف"
+      ]
+    },
+    {
+      "EnglishWord": "bottom time",
+      "Meanings": [
+        "زمان غوص"
+      ]
+    },
+    {
+      "EnglishWord": "bottom water  ground water",
+      "Meanings": [
+        "آب زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom water drive",
+      "Meanings": [
+        "رانش به وسیله آب زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom water drive field",
+      "Meanings": [
+        "میدان دارای رانش آب زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "bottom-hole cementation",
+      "Meanings": [
+        "سیمان کاری ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bottoms up",
+      "Meanings": [
+        "بالا آمدن گل از ته چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bouguer correction",
+      "Meanings": [
+        "روش تصحیح بوگه"
+      ]
+    },
+    {
+      "EnglishWord": "boulder  bowlder",
+      "Meanings": [
+        "قلوه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "boundary layer",
+      "Meanings": [
+        "لایه مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary saturation",
+      "Meanings": [
+        "اشباع مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "bowl overshot  casing bowl",
+      "Meanings": [
+        "کاسه لوله گیر"
+      ]
+    },
+    {
+      "EnglishWord": "box",
+      "Meanings": [
+        "اتصال ماده گیر"
+      ]
+    },
+    {
+      "EnglishWord": "box  bushing",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "box auger",
+      "Meanings": [
+        "مته صندوقی"
+      ]
+    },
+    {
+      "EnglishWord": "box bill",
+      "Meanings": [
+        "انبرک ساقه یاب"
+      ]
+    },
+    {
+      "EnglishWord": "box fold",
+      "Meanings": [
+        "چین صندوقی"
+      ]
+    },
+    {
+      "EnglishWord": "box to box reducer",
+      "Meanings": [
+        "تبدیل دو سر ماده"
+      ]
+    },
+    {
+      "EnglishWord": "brace  cross bar  stay rod",
+      "Meanings": [
+        "بست پایه"
+      ]
+    },
+    {
+      "EnglishWord": "brace  sway brace  derrick brace",
+      "Meanings": [
+        "بست پایه دکل"
+      ]
+    },
+    {
+      "EnglishWord": "brace v  stay v",
+      "Meanings": [
+        "مهار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "brachysyncline",
+      "Meanings": [
+        "تاقدیس خپل"
+      ]
+    },
+    {
+      "EnglishWord": "bracing bay",
+      "Meanings": [
+        "فاصله بین پایه‌های حمال"
+      ]
+    },
+    {
+      "EnglishWord": "bracing node",
+      "Meanings": [
+        "نقطه بست گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "bracing system",
+      "Meanings": [
+        "سیستم قید بندی"
+      ]
+    },
+    {
+      "EnglishWord": "brackish water facies",
+      "Meanings": [
+        "شوراب",
+        "رخساره شوراب"
+      ]
+    },
+    {
+      "EnglishWord": "bradenhead  casing head",
+      "Meanings": [
+        "سرلوله جداری"
+      ]
+    },
+    {
+      "EnglishWord": "bradenhead gas  casing head gas",
+      "Meanings": [
+        "گاز سر لوله جداری"
+      ]
+    },
+    {
+      "EnglishWord": "bradyseisms",
+      "Meanings": [
+        "زمین لرزک"
+      ]
+    },
+    {
+      "EnglishWord": "branched- chain hydrocarbon  branched",
+      "Meanings": [
+        "هیدروکربور زنجیری شاخه دار"
+      ]
+    },
+    {
+      "EnglishWord": "branched vein  branch vein",
+      "Meanings": [
+        "رگه شاخه شاخه"
+      ]
+    },
+    {
+      "EnglishWord": "brazilian bort",
+      "Meanings": [
+        "الماس برزیلی"
+      ]
+    },
+    {
+      "EnglishWord": "break",
+      "Meanings": [
+        "شکست"
+      ]
+    },
+    {
+      "EnglishWord": "break  breaking",
+      "Meanings": [
+        "گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "break- out cathead",
+      "Meanings": [
+        "طبلک بازکردن لوله"
+      ]
+    },
+    {
+      "EnglishWord": "break- out tongs  lead tongs",
+      "Meanings": [
+        "آچارلوله بازکن"
+      ]
+    },
+    {
+      "EnglishWord": "break- thrust",
+      "Meanings": [
+        "روراندگی تاقدیسی"
+      ]
+    },
+    {
+      "EnglishWord": "break v down",
+      "Meanings": [
+        "جدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "break v in  break v into  intrude v  invade v",
+      "Meanings": [
+        "هجوم آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "break v out the drill pipes  break v the drill pipes down",
+      "Meanings": [
+        "باز کردن لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown time",
+      "Meanings": [
+        "مدت مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "breaking  cleaving",
+      "Meanings": [
+        "شکافتگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaking limit",
+      "Meanings": [
+        "حد گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaking load  breaking weigh",
+      "Meanings": [
+        "بار گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaking straking weigh",
+      "Meanings": [
+        "تنش گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "breaking strength",
+      "Meanings": [
+        "مقاومت گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "breakthrough",
+      "Meanings": [
+        "هجوم آب"
+      ]
+    },
+    {
+      "EnglishWord": "breakwater wall",
+      "Meanings": [
+        "دیوار موج شکن"
+      ]
+    },
+    {
+      "EnglishWord": "breather  vent valve",
+      "Meanings": [
+        "نفس کش"
+      ]
+    },
+    {
+      "EnglishWord": "breccia",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "bredenhead cap for the casing head",
+      "Meanings": [
+        "در پوش سر لوله جداری"
+      ]
+    },
+    {
+      "EnglishWord": "bridge",
+      "Meanings": [
+        "مانع",
+        "ریزش پلی"
+      ]
+    },
+    {
+      "EnglishWord": "bridge plug",
+      "Meanings": [
+        "مسدود کن موقت"
+      ]
+    },
+    {
+      "EnglishWord": "brine",
+      "Meanings": [
+        "آب نمک"
+      ]
+    },
+    {
+      "EnglishWord": "bring v in  bring v into production  buck v  put v on a well",
+      "Meanings": [
+        "راه انداختن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "bring v up the drillings",
+      "Meanings": [
+        "متوقف کردن حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bringing in  bringing into production  of a well",
+      "Meanings": [
+        "راه اندازی چاه"
+      ]
+    },
+    {
+      "EnglishWord": "brittle fracture",
+      "Meanings": [
+        "شکاف شکننده"
+      ]
+    },
+    {
+      "EnglishWord": "brittle rock",
+      "Meanings": [
+        "سنگ ترد"
+      ]
+    },
+    {
+      "EnglishWord": "broken circulation",
+      "Meanings": [
+        "قطع جریان"
+      ]
+    },
+    {
+      "EnglishWord": "broken fold  flexure fold  disrupted fold  faulted fold",
+      "Meanings": [
+        "چین گسلش یافته"
+      ]
+    },
+    {
+      "EnglishWord": "bromine number  bromine value",
+      "Meanings": [
+        "عدد برم"
+      ]
+    },
+    {
+      "EnglishWord": "bsrrels per annum  brl/a",
+      "Meanings": [
+        "تعداد بشکه در سال"
+      ]
+    },
+    {
+      "EnglishWord": "bsrren sand  dry sand",
+      "Meanings": [
+        "ماسه خشک"
+      ]
+    },
+    {
+      "EnglishWord": "bubble head slang   diver",
+      "Meanings": [
+        "غواص"
+      ]
+    },
+    {
+      "EnglishWord": "bubble point",
+      "Meanings": [
+        "نقطه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "bubble- point pressure  saturation pressure",
+      "Meanings": [
+        "فشار نقطه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "buffer tank",
+      "Meanings": [
+        "مخزن تنظیم"
+      ]
+    },
+    {
+      "EnglishWord": "build- up v pressure",
+      "Meanings": [
+        "بالا بردن فشار"
+      ]
+    },
+    {
+      "EnglishWord": "bulk mud",
+      "Meanings": [
+        "گل فله"
+      ]
+    },
+    {
+      "EnglishWord": "bulk reservoir volume",
+      "Meanings": [
+        "حجم کل مخزن"
+      ]
+    },
+    {
+      "EnglishWord": "bull nose",
+      "Meanings": [
+        "توپک انتهای لوله"
+      ]
+    },
+    {
+      "EnglishWord": "bull plug",
+      "Meanings": [
+        "در پوش سرگرد"
+      ]
+    },
+    {
+      "EnglishWord": "bull plug adapter",
+      "Meanings": [
+        "تبدیل فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "bull pump",
+      "Meanings": [
+        "تلمبه ساقه یی"
+      ]
+    },
+    {
+      "EnglishWord": "bull quartz",
+      "Meanings": [
+        "کوآرتز دودی"
+      ]
+    },
+    {
+      "EnglishWord": "bull rod  deill pipe  drilling pipe  drill rod  drill stem",
+      "Meanings": [
+        "لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "bull rope",
+      "Meanings": [
+        "کابل چرخ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "bull wheel",
+      "Meanings": [
+        "چرخ لوله گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "bull- wheel brake band",
+      "Meanings": [
+        "تسمه ترمز چرخ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "bull- wheel post brace",
+      "Meanings": [
+        "بست چرخ لوله گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "bullet perforating  gun perforating",
+      "Meanings": [
+        "مشبک کاری گلوله یی"
+      ]
+    },
+    {
+      "EnglishWord": "bullet perforator  gun perforator",
+      "Meanings": [
+        "تفنگ مشبک کاری"
+      ]
+    },
+    {
+      "EnglishWord": "bunkering",
+      "Meanings": [
+        "سیلو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "buoyancy chamber",
+      "Meanings": [
+        "مخزن توازن"
+      ]
+    },
+    {
+      "EnglishWord": "buoyancy compartment",
+      "Meanings": [
+        "محفظه توازن"
+      ]
+    },
+    {
+      "EnglishWord": "buoyancy control room",
+      "Meanings": [
+        "اتاق فرمان توازن"
+      ]
+    },
+    {
+      "EnglishWord": "burn v a bit",
+      "Meanings": [
+        "حفاری سریع"
+      ]
+    },
+    {
+      "EnglishWord": "bury barge",
+      "Meanings": [
+        "سنگ بی ثمر",
+        "دوبه لوله خاک کنی"
+      ]
+    },
+    {
+      "EnglishWord": "butt",
+      "Meanings": [
+        "جفت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "butt welded casing",
+      "Meanings": [
+        "لوله جداری درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "butt welded pipe",
+      "Meanings": [
+        "لوله درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "button bit  carbide insert bit  carbide type bit  tungsten caebide bit",
+      "Meanings": [
+        "مته کاربید"
+      ]
+    },
+    {
+      "EnglishWord": "by- pass  noun",
+      "Meanings": [
+        "کنار گذر"
+      ]
+    },
+    {
+      "EnglishWord": "by- pass filter",
+      "Meanings": [
+        "صافی کنار گذر"
+      ]
+    },
+    {
+      "EnglishWord": "by- pass line",
+      "Meanings": [
+        "خط لوله کنار گذار",
+        "شیر فرعی"
+      ]
+    }
+  ]
+}

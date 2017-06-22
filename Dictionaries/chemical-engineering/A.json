@@ -1,0 +1,765 @@
+﻿{
+  "Group": "A",
+  "Entries": 124,
+  "Words": [
+    {
+      "EnglishWord": "a axis",
+      "Meanings": [
+        "محور x"
+      ]
+    },
+    {
+      "EnglishWord": "abnormal time",
+      "Meanings": [
+        "زمان انحراف از حالت عادی"
+      ]
+    },
+    {
+      "EnglishWord": "abrasion test",
+      "Meanings": [
+        "تست فرسایش"
+      ]
+    },
+    {
+      "EnglishWord": "abrasive blasting",
+      "Meanings": [
+        "پرداخت کاری بوسیله باد"
+      ]
+    },
+    {
+      "EnglishWord": "abrasive cone",
+      "Meanings": [
+        "سمباده مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "abrasive disk",
+      "Meanings": [
+        "سمباده دیسکی"
+      ]
+    },
+    {
+      "EnglishWord": "abrasive jet cleaning",
+      "Meanings": [
+        "تمیزکاری با جت آب یا هوا"
+      ]
+    },
+    {
+      "EnglishWord": "absolute expansion",
+      "Meanings": [
+        "انبساط مطلق برای اندازه گیری انبساط واقعی جسم"
+      ]
+    },
+    {
+      "EnglishWord": "absolute manometer",
+      "Meanings": [
+        "مانومتر مطلق برای اندازه گیری فشار مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute pressure gage",
+      "Meanings": [
+        "فشار سنج مطلق برای اندازه گیری فشار خلا یا نزدیک به آن بکار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "absolute weighing",
+      "Meanings": [
+        "وزن مطلق اندازه گیری جرم نمونه و بیان آن بر اساس نماد علمی بر حسب کیلوگرم"
+      ]
+    },
+    {
+      "EnglishWord": "absorber",
+      "Meanings": [
+        "جاذب",
+        "بخشی از قسمت کم فشار سیستم جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorber capacity",
+      "Meanings": [
+        "ظرفیت جاذب ماکزیمم حجم جذب بدون تغییر شرایط عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "absorber plate",
+      "Meanings": [
+        "صفحات خورشیدی",
+        "صفحه جاذب نور خورشید"
+      ]
+    },
+    {
+      "EnglishWord": "absorption cycle",
+      "Meanings": [
+        "چرخه جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption hygrometer",
+      "Meanings": [
+        "رطوبت سنج جذبی"
+      ]
+    },
+    {
+      "EnglishWord": "absorption meter",
+      "Meanings": [
+        "وسیله ای برای اندازه گیری نور منتقل شده از ماده شفاف با استفاده از فتو سل یا آشکارسازهای دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "absorption number",
+      "Meanings": [
+        "عدد جذب یک گروه بدون بعد در جذب گاز در ستون دیواره مرطوب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption plant",
+      "Meanings": [
+        "دستگاه جذب تاسیساتی برای جمع آوری قسمت قابل میعان گاز طبیعی یا پالایشی"
+      ]
+    },
+    {
+      "EnglishWord": "absorption process",
+      "Meanings": [
+        "فرایند جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption refrigeration",
+      "Meanings": [
+        "تبرید جذبی"
+      ]
+    },
+    {
+      "EnglishWord": "absorption system",
+      "Meanings": [
+        "سیستم جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption-emission pyrometer",
+      "Meanings": [
+        "دماسنج تشعشع منتشره"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated aging",
+      "Meanings": [
+        "زوال تسریع شده آزمایشی بر روی محصول به منظور تعیین ذخیره طولانی مدت آن"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated corrosion",
+      "Meanings": [
+        "خوردگی فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated life test",
+      "Meanings": [
+        "تست عمر تسری شده آزمایش برای تخمین عمر عملکرد دستگاه یا سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated weathering",
+      "Meanings": [
+        "هوازدگی تسریع شده ازمایشی برای تعیین مقاومت رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration tolerance",
+      "Meanings": [
+        "دامنه تغییرات شتاب",
+        "حدود قابل تحمل افزایش سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "accelerogram",
+      "Meanings": [
+        "نمودار شتاب بوسیله شتاب نگار"
+      ]
+    },
+    {
+      "EnglishWord": "accelerograph",
+      "Meanings": [
+        "شتاب نگار مخصوصا در مورد زلزله"
+      ]
+    },
+    {
+      "EnglishWord": "accommodation",
+      "Meanings": [
+        "محل زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "accustomization",
+      "Meanings": [
+        "فرایند یادگیری تکنیکهای زندگی در محیط جدید"
+      ]
+    },
+    {
+      "EnglishWord": "acetate process",
+      "Meanings": [
+        "فرایند استات استیل دار کردن سلولز با اسید استیک یا اینیدرید اسید با کاتالیست اسید سولفوریک برای ساخت رزین استات سلولزی"
+      ]
+    },
+    {
+      "EnglishWord": "acetone-benzol process",
+      "Meanings": [
+        "فرایند موم زدایی در پالایش نفت با بنزن و استون"
+      ]
+    },
+    {
+      "EnglishWord": "acid blowcase",
+      "Meanings": [
+        "ظرف مقاوم به فشار وخوردگی اسید که بوسیله هوای فشرده به همزن فشار می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "acid cleaning",
+      "Meanings": [
+        "شستشوی اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "acid conductor",
+      "Meanings": [
+        "هدایتگر اسید لوله ای که برای تقویت اسید هیدرولیزی با گرمایش یا تبخیر آب یا تقطیر آب تحت خلا جزیی استفاده میشود"
+      ]
+    },
+    {
+      "EnglishWord": "acid polishing",
+      "Meanings": [
+        "صیقلی کردن سطح با اسید"
+      ]
+    },
+    {
+      "EnglishWord": "acid soot",
+      "Meanings": [
+        "دوده اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "acid treatment",
+      "Meanings": [
+        "عمل آوری اسید فرایند پالایش در فراورده‌های نفتی با اسید سولفوریک"
+      ]
+    },
+    {
+      "EnglishWord": "acid-water pollution",
+      "Meanings": [
+        "آلودگی آب اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic detection",
+      "Meanings": [
+        "آشکارسازی صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic heat engine",
+      "Meanings": [
+        "موتور گرمایی صوتی وسیله ای که ابتدا انرژی گرمایی را به صوتی و آنرا به توان برقی تبدیل کند بدون بخشهای مکانیکی متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic hologram",
+      "Meanings": [
+        "تصویر سه بعدی صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic ocean-current meter",
+      "Meanings": [
+        "جریان سنج آبهای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic radar",
+      "Meanings": [
+        "رادار صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic radiometer",
+      "Meanings": [
+        "شعاع سنج صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic signature",
+      "Meanings": [
+        "اثر صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic spectrograph",
+      "Meanings": [
+        "طیف نگار صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic theodolite",
+      "Meanings": [
+        "زاویه سنج صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic well logging",
+      "Meanings": [
+        "واقعه نگاری صوتی چاه"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic-wave-based sensor",
+      "Meanings": [
+        "حسگر موج صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "acquisition and tracking radar",
+      "Meanings": [
+        "رادار کشف و ردیابی"
+      ]
+    },
+    {
+      "EnglishWord": "activated sludge",
+      "Meanings": [
+        "لجن فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active detection system",
+      "Meanings": [
+        "سیستم آشکارسازی عامل"
+      ]
+    },
+    {
+      "EnglishWord": "active infrared detection system",
+      "Meanings": [
+        "سیستم آشکارسازی مادون قرمز موثر"
+      ]
+    },
+    {
+      "EnglishWord": "active sludge",
+      "Meanings": [
+        "لجن فعال"
+      ]
+    },
+    {
+      "EnglishWord": "active solar system",
+      "Meanings": [
+        "سیستم گرمایش و سرمایش خورشیدی"
+      ]
+    },
+    {
+      "EnglishWord": "active system",
+      "Meanings": [
+        "سیستم فعال مثلا فرستنده"
+      ]
+    },
+    {
+      "EnglishWord": "ada mud",
+      "Meanings": [
+        "افزودنیهای گل حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "adam s catalyst",
+      "Meanings": [
+        "اکسید پلاتین IV نازک که از ترکیب هگزاکلرو پلاتینIV با NaNO3 بوجود می‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive structure",
+      "Meanings": [
+        "ساختار تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "adhesional work",
+      "Meanings": [
+        "کار کششی"
+      ]
+    },
+    {
+      "EnglishWord": "adhesive bond",
+      "Meanings": [
+        "پیوند داتیو"
+      ]
+    },
+    {
+      "EnglishWord": "adhesive bonding",
+      "Meanings": [
+        "اتصال چسبی"
+      ]
+    },
+    {
+      "EnglishWord": "adhesive strength",
+      "Meanings": [
+        "مقاومت چسبندگی"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic compression",
+      "Meanings": [
+        "تراکم بی دررو"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic cooling",
+      "Meanings": [
+        "سرمایش بی دررو"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic engine",
+      "Meanings": [
+        "موتور آدیاباتیک"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic envelope",
+      "Meanings": [
+        "محفظه آدیاباتیک"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic expansion",
+      "Meanings": [
+        "انبساط بی دررو"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic extrusion",
+      "Meanings": [
+        "شکل دهی بی دررو"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic reaction",
+      "Meanings": [
+        "واکنش آدیاباتیک"
+      ]
+    },
+    {
+      "EnglishWord": "adiabatic vaporization",
+      "Meanings": [
+        "تبخیر آدیاباتیک"
+      ]
+    },
+    {
+      "EnglishWord": "adjustable parallels",
+      "Meanings": [
+        "پیچ‌های تنظیمی موازی"
+      ]
+    },
+    {
+      "EnglishWord": "adjustable square",
+      "Meanings": [
+        "گونیا قابل تنظیم به شکل L یا T"
+      ]
+    },
+    {
+      "EnglishWord": "adjutage",
+      "Meanings": [
+        "لوله متصل به مخزن مایع در اریفیس"
+      ]
+    },
+    {
+      "EnglishWord": "adsorbent",
+      "Meanings": [
+        "جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "adsorbtion",
+      "Meanings": [
+        "جذب بوسیله جامد"
+      ]
+    },
+    {
+      "EnglishWord": "adsorption system",
+      "Meanings": [
+        "سیستم جذب برای رطوبت زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "advent",
+      "Meanings": [
+        "پیدایش"
+      ]
+    },
+    {
+      "EnglishWord": "adversely",
+      "Meanings": [
+        "به طور مخالف"
+      ]
+    },
+    {
+      "EnglishWord": "aerated flow",
+      "Meanings": [
+        "جریان مایع که گاز به خوبی در آن پخش شده"
+      ]
+    },
+    {
+      "EnglishWord": "aeration",
+      "Meanings": [
+        "هوازی",
+        "هوادهی"
+      ]
+    },
+    {
+      "EnglishWord": "aeration tank",
+      "Meanings": [
+        "تانک هوادهی"
+      ]
+    },
+    {
+      "EnglishWord": "aerial photoreconnaissance",
+      "Meanings": [
+        "عکسبرداری هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "aerobic digestion",
+      "Meanings": [
+        "هضم هوازی"
+      ]
+    },
+    {
+      "EnglishWord": "aerobic lagoon",
+      "Meanings": [
+        "لاگون هوازی",
+        "استخر هوازی"
+      ]
+    },
+    {
+      "EnglishWord": "aerobic pond",
+      "Meanings": [
+        "استخر هوازی"
+      ]
+    },
+    {
+      "EnglishWord": "aerochlorination",
+      "Meanings": [
+        "هوادهی با کلرین"
+      ]
+    },
+    {
+      "EnglishWord": "aeroelasticity",
+      "Meanings": [
+        "شاخه ای از علم بین ایرودینامیک و ساختارهای انعطاف پذیر",
+        "خرابی اجسام الستیکی بر اثر نیروهای ایرودینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "aerosol generator",
+      "Meanings": [
+        "دستگاه تولید اورسل مخلوط گاز وهوا"
+      ]
+    },
+    {
+      "EnglishWord": "aerospace engineering",
+      "Meanings": [
+        "مهندسی هوا فضا"
+      ]
+    },
+    {
+      "EnglishWord": "aftercondenser",
+      "Meanings": [
+        "کندانسور مرحله دوم بعد از افشانک دو مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "aftercooling",
+      "Meanings": [
+        "گاز فشرده سرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "afterfilter",
+      "Meanings": [
+        "صافی نهایی در سیستم شرطی سازی هوا"
+      ]
+    },
+    {
+      "EnglishWord": "aggressive carbon dioxide",
+      "Meanings": [
+        "دی اکسید کربن تهاجمی بری رسوب دادن یونهای کلسیم به صورت کربنات کلسیم"
+      ]
+    },
+    {
+      "EnglishWord": "air bind",
+      "Meanings": [
+        "هوای محصور"
+      ]
+    },
+    {
+      "EnglishWord": "air bleeder",
+      "Meanings": [
+        "شیر اطمینان هوا"
+      ]
+    },
+    {
+      "EnglishWord": "air cell",
+      "Meanings": [
+        "سلولی که در آن الکترود مثبت به دلیل کاهش اکسیژن غیر قطبی میشود"
+      ]
+    },
+    {
+      "EnglishWord": "air change",
+      "Meanings": [
+        "هوای مبادله شده"
+      ]
+    },
+    {
+      "EnglishWord": "air condenser",
+      "Meanings": [
+        "کندانسور هوا",
+        "وسیله ای که آب و روغن را از جریان هوا حذف میکند"
+      ]
+    },
+    {
+      "EnglishWord": "air conditioning",
+      "Meanings": [
+        "جهت دهی شرطی سازی هوا",
+        "تهویه مطبوع"
+      ]
+    },
+    {
+      "EnglishWord": "airblasting",
+      "Meanings": [
+        "دمیدن هوا"
+      ]
+    },
+    {
+      "EnglishWord": "airco-hoover sweetening",
+      "Meanings": [
+        "شیرین سازی بنزین گوگرد زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "air-to-closed",
+      "Meanings": [
+        "بسته بودن یا شدن بوسیله هوا"
+      ]
+    },
+    {
+      "EnglishWord": "air-to-open",
+      "Meanings": [
+        "باز بودن یا شدن بوسیله هوا"
+      ]
+    },
+    {
+      "EnglishWord": "allowable tolerance",
+      "Meanings": [
+        "تاب مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "ammeter",
+      "Meanings": [
+        "آمپرسنج"
+      ]
+    },
+    {
+      "EnglishWord": "amyl acetate",
+      "Meanings": [
+        "استات مایع بیرنگ C7H14O2 از آمیل الکل کهبوی میوه خوشایندی دارد ودر ساخت اسانس میوه ای و همینطور بعنوان حلال بکار میرود"
+      ]
+    },
+    {
+      "EnglishWord": "anaerobic digester",
+      "Meanings": [
+        "هضم کننده بی هوازی یا غیر هوازی"
+      ]
+    },
+    {
+      "EnglishWord": "anodic site",
+      "Meanings": [
+        "جایگاه آندی"
+      ]
+    },
+    {
+      "EnglishWord": "anticipate",
+      "Meanings": [
+        "پیش بینی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "antiseptic",
+      "Meanings": [
+        "گندزدا",
+        "ضدعفونی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "api",
+      "Meanings": [
+        "شرکت نفت آمریکایی"
+      ]
+    },
+    {
+      "EnglishWord": "apparatus",
+      "Meanings": [
+        "دستگاه",
+        "ابزار",
+        "تشکیلات"
+      ]
+    },
+    {
+      "EnglishWord": "appertain",
+      "Meanings": [
+        "آشکار شدن"
+      ]
+    },
+    {
+      "EnglishWord": "appreciation",
+      "Meanings": [
+        "تصدیق"
+      ]
+    },
+    {
+      "EnglishWord": "aspiration",
+      "Meanings": [
+        "جدا سازی بر اساس اختلاف دانسیته"
+      ]
+    },
+    {
+      "EnglishWord": "assess",
+      "Meanings": [
+        "امتحان کردن"
+      ]
+    },
+    {
+      "EnglishWord": "atmolysis",
+      "Meanings": [
+        "نفوذ بخار آب به درون یک مخلوط گازی",
+        "تماس گاز به گاز"
+      ]
+    },
+    {
+      "EnglishWord": "atomisation",
+      "Meanings": [
+        "پودرسازی"
+      ]
+    },
+    {
+      "EnglishWord": "atomylys",
+      "Meanings": [
+        "تماس گاز به گاز"
+      ]
+    },
+    {
+      "EnglishWord": "axe",
+      "Meanings": [
+        "تبر",
+        "کاهش هزینه",
+        "قطع کردن",
+        "اخراج کردن"
+      ]
+    }
+  ]
+}

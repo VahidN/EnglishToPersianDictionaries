@@ -1,0 +1,5312 @@
+﻿{
+  "Group": "N",
+  "Entries": 824,
+  "Words": [
+    {
+      "EnglishWord": "n",
+      "Meanings": [
+        "علامت مجموعه اعداد طبیعی",
+        "چهاردهمین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "n adic extension",
+      "Meanings": [
+        "گسترش n عملوندی"
+      ]
+    },
+    {
+      "EnglishWord": "n ary",
+      "Meanings": [
+        "n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n ary composition",
+      "Meanings": [
+        "ترکیب n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n ary forms",
+      "Meanings": [
+        "صورت‌های n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n ary operation",
+      "Meanings": [
+        "عمل n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n ary relation",
+      "Meanings": [
+        "رابطه n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n ball",
+      "Meanings": [
+        "گوی n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n bit sequence",
+      "Meanings": [
+        "دنباله n بیتی"
+      ]
+    },
+    {
+      "EnglishWord": "n cell",
+      "Meanings": [
+        "n",
+        "حجره"
+      ]
+    },
+    {
+      "EnglishWord": "n closed interval",
+      "Meanings": [
+        "بازه بسته n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n colorable",
+      "Meanings": [
+        "n",
+        "رنگ پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "n connected graph",
+      "Meanings": [
+        "گراف n",
+        "همبند"
+      ]
+    },
+    {
+      "EnglishWord": "n cycle",
+      "Meanings": [
+        "دور n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional",
+      "Meanings": [
+        "n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional closed interval",
+      "Meanings": [
+        "فاصله بسته n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional euclidean geometry",
+      "Meanings": [
+        "هندسه اقلیدسی n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional euclidean space",
+      "Meanings": [
+        "فضای n بعدی اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional measure",
+      "Meanings": [
+        "اندازه n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional open interval",
+      "Meanings": [
+        "فاصله باز n بعدی",
+        "بازه باز n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional point",
+      "Meanings": [
+        "نقطه n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional random vector",
+      "Meanings": [
+        "بردار n بعدی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional region",
+      "Meanings": [
+        "ناحیه n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional space",
+      "Meanings": [
+        "فضای n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional space of coordinates",
+      "Meanings": [
+        "فضای n بعدی مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "n dimensional vector",
+      "Meanings": [
+        "بردار n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n element product",
+      "Meanings": [
+        "حاصلضرب n عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "n factorial",
+      "Meanings": [
+        "n فاکتوریل",
+        "n عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "n fold integral",
+      "Meanings": [
+        "انتگرال n گونا"
+      ]
+    },
+    {
+      "EnglishWord": "n fold of a",
+      "Meanings": [
+        "n لایی a"
+      ]
+    },
+    {
+      "EnglishWord": "n gon",
+      "Meanings": [
+        "n ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "n inclusive",
+      "Meanings": [
+        "خود n",
+        "شامل n"
+      ]
+    },
+    {
+      "EnglishWord": "n measure",
+      "Meanings": [
+        "اندازه n"
+      ]
+    },
+    {
+      "EnglishWord": "n measure zero",
+      "Meanings": [
+        "صفر اندازه n"
+      ]
+    },
+    {
+      "EnglishWord": "n person game",
+      "Meanings": [
+        "بازی n نفره"
+      ]
+    },
+    {
+      "EnglishWord": "n space",
+      "Meanings": [
+        "فضای n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n sphere",
+      "Meanings": [
+        "کره n بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "n square matrice",
+      "Meanings": [
+        "ماتریس مربعی از مرتبه n"
+      ]
+    },
+    {
+      "EnglishWord": "n square matrix",
+      "Meanings": [
+        "ماتریس مربعی مرتبه n"
+      ]
+    },
+    {
+      "EnglishWord": "n times differentiable function",
+      "Meanings": [
+        "تابع n بار مشتق پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "n tuple",
+      "Meanings": [
+        "n گانه",
+        "n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n tuple ordered",
+      "Meanings": [
+        "n تایی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "n tuple point",
+      "Meanings": [
+        "نقطه مکرر از درجه n"
+      ]
+    },
+    {
+      "EnglishWord": "n tuples",
+      "Meanings": [
+        "n تایی"
+      ]
+    },
+    {
+      "EnglishWord": "n vector",
+      "Meanings": [
+        "n برداره"
+      ]
+    },
+    {
+      "EnglishWord": "n web",
+      "Meanings": [
+        "n",
+        "بافته"
+      ]
+    },
+    {
+      "EnglishWord": "nabla",
+      "Meanings": [
+        "نابلا"
+      ]
+    },
+    {
+      "EnglishWord": "nabla operator",
+      "Meanings": [
+        "عملگر نابلا"
+      ]
+    },
+    {
+      "EnglishWord": "nadir",
+      "Meanings": [
+        "سمت القدم",
+        "حضیض"
+      ]
+    },
+    {
+      "EnglishWord": "naive set theory",
+      "Meanings": [
+        "نظریه طبیعی مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "namely",
+      "Meanings": [
+        "یعنی",
+        "به این ترتیب که"
+      ]
+    },
+    {
+      "EnglishWord": "nano",
+      "Meanings": [
+        "پیشوندی به معنی"
+      ]
+    },
+    {
+      "EnglishWord": "nanstandard natural number",
+      "Meanings": [
+        "عدد طبیعی نااستاندارد",
+        "عدد طبیعی غیر استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "nap",
+      "Meanings": [
+        "سفره"
+      ]
+    },
+    {
+      "EnglishWord": "naperian logarithm",
+      "Meanings": [
+        "لگاریتم نپری"
+      ]
+    },
+    {
+      "EnglishWord": "napier",
+      "Meanings": [
+        "نپر"
+      ]
+    },
+    {
+      "EnglishWord": "napier number",
+      "Meanings": [
+        "عدد نپر"
+      ]
+    },
+    {
+      "EnglishWord": "napier rule",
+      "Meanings": [
+        "قاعده نپر"
+      ]
+    },
+    {
+      "EnglishWord": "napierian",
+      "Meanings": [
+        "نپری"
+      ]
+    },
+    {
+      "EnglishWord": "napierian logarithm",
+      "Meanings": [
+        "لگاریتم طبیعی",
+        "لگاریتم نپری"
+      ]
+    },
+    {
+      "EnglishWord": "napierian logarithm base",
+      "Meanings": [
+        "مبداء لگاریتم نپری",
+        "مبنای لگاریتم نپری"
+      ]
+    },
+    {
+      "EnglishWord": "napier's analogies",
+      "Meanings": [
+        "فرمول نپر",
+        "فرمولی برای حل مثلث‌های کروی"
+      ]
+    },
+    {
+      "EnglishWord": "napier's rules",
+      "Meanings": [
+        "قوانین نپر"
+      ]
+    },
+    {
+      "EnglishWord": "napking",
+      "Meanings": [
+        "دستمال سفره"
+      ]
+    },
+    {
+      "EnglishWord": "napking ring",
+      "Meanings": [
+        "حلقه دستمال سفره"
+      ]
+    },
+    {
+      "EnglishWord": "nappe",
+      "Meanings": [
+        "دامنه",
+        "پارچه",
+        "هر یک از دو مخروطی که در راس مشترک اند"
+      ]
+    },
+    {
+      "EnglishWord": "narrow",
+      "Meanings": [
+        "دقیق",
+        "باریک",
+        "کم عرض",
+        "باریک کردن",
+        "کم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "narrow down",
+      "Meanings": [
+        "کم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "national income",
+      "Meanings": [
+        "درآمد ملی"
+      ]
+    },
+    {
+      "EnglishWord": "nationality",
+      "Meanings": [
+        "ملیت"
+      ]
+    },
+    {
+      "EnglishWord": "natural",
+      "Meanings": [
+        "ملیت"
+      ]
+    },
+    {
+      "EnglishWord": "natural basis",
+      "Meanings": [
+        "پایه طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural boundary",
+      "Meanings": [
+        "مرز طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural contingencies",
+      "Meanings": [
+        "ممکنات طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural cubic spline",
+      "Meanings": [
+        "اسپلاین درجه سه طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural domain",
+      "Meanings": [
+        "قلمرو طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural equation of a curve",
+      "Meanings": [
+        "معادله طبیعی خم"
+      ]
+    },
+    {
+      "EnglishWord": "natural equations of a surface",
+      "Meanings": [
+        "معادله‌های طبیعی رویه"
+      ]
+    },
+    {
+      "EnglishWord": "natural frequency",
+      "Meanings": [
+        "بسامد طبیعی",
+        "فرکانس طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural geometry",
+      "Meanings": [
+        "هندسه طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural homomorphism",
+      "Meanings": [
+        "همومورفیسم طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural injection",
+      "Meanings": [
+        "یک سویی طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural logarithm",
+      "Meanings": [
+        "لگاریتم معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "natural mapping",
+      "Meanings": [
+        "نگاشت طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural model",
+      "Meanings": [
+        "مدل طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural number",
+      "Meanings": [
+        "عدد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural numbers",
+      "Meanings": [
+        "اعداد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural order",
+      "Meanings": [
+        "ترتیب طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural process",
+      "Meanings": [
+        "پویش طبیعی",
+        "فرایند طبیعی",
+        "فرایند عادی"
+      ]
+    },
+    {
+      "EnglishWord": "natural rubber",
+      "Meanings": [
+        "کایوچو",
+        "لاستیک طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural series powers",
+      "Meanings": [
+        "مرتبه‌های طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural sine",
+      "Meanings": [
+        "جیب راست"
+      ]
+    },
+    {
+      "EnglishWord": "natural surjection",
+      "Meanings": [
+        "دوسویی طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural transformation",
+      "Meanings": [
+        "تبدیل‌های طبعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural transformations",
+      "Meanings": [
+        "تبدیل‌های طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural weighting",
+      "Meanings": [
+        "وزن دادن طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "nature",
+      "Meanings": [
+        "خصوصیات",
+        "ماهیت",
+        "طبیعت",
+        "سرشت"
+      ]
+    },
+    {
+      "EnglishWord": "naught",
+      "Meanings": [
+        "صفر",
+        "هیچ",
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "nautical mile",
+      "Meanings": [
+        "میل دریایی",
+        "واحد طول انگلیسی برابر 6080 فوت یا 1853. 2 متر"
+      ]
+    },
+    {
+      "EnglishWord": "near",
+      "Meanings": [
+        "نزدیک",
+        "تقریبا",
+        "در مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "nearly complete",
+      "Meanings": [
+        "تقریبا کامل"
+      ]
+    },
+    {
+      "EnglishWord": "necessarily",
+      "Meanings": [
+        "ببایستگی",
+        "لزوما",
+        "الزاما"
+      ]
+    },
+    {
+      "EnglishWord": "necessary",
+      "Meanings": [
+        "لازم"
+      ]
+    },
+    {
+      "EnglishWord": "necessary and sufficient",
+      "Meanings": [
+        "لازم و کافی"
+      ]
+    },
+    {
+      "EnglishWord": "necessary and sufficient condition",
+      "Meanings": [
+        "شرط لازم و کافی"
+      ]
+    },
+    {
+      "EnglishWord": "necessary condition",
+      "Meanings": [
+        "شرط لازم"
+      ]
+    },
+    {
+      "EnglishWord": "necessary condition for convergence",
+      "Meanings": [
+        "شرط لازم برای همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "necessary condition of law of large numbers",
+      "Meanings": [
+        "شرط لازم قانون اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "necessary premisses",
+      "Meanings": [
+        "مقدمات ضروری"
+      ]
+    },
+    {
+      "EnglishWord": "necessity",
+      "Meanings": [
+        "لزوم",
+        "بایستگی",
+        "ضرورت"
+      ]
+    },
+    {
+      "EnglishWord": "neck",
+      "Meanings": [
+        "گردنه",
+        "گلوگاه",
+        "گردن",
+        "گلویی"
+      ]
+    },
+    {
+      "EnglishWord": "necking",
+      "Meanings": [
+        "باریکسازی",
+        "ایجاد گردونه",
+        "گلودادن",
+        "بغلتراشی"
+      ]
+    },
+    {
+      "EnglishWord": "needed",
+      "Meanings": [
+        "مورد نظر",
+        "مورد توجه",
+        "مدنظر",
+        "مطلوب"
+      ]
+    },
+    {
+      "EnglishWord": "needle",
+      "Meanings": [
+        "خار",
+        "شاخص",
+        "عقربه",
+        "سوزن",
+        "سوزنی"
+      ]
+    },
+    {
+      "EnglishWord": "needle problem",
+      "Meanings": [
+        "مساله سوزن بافون",
+        "مساله سوزن"
+      ]
+    },
+    {
+      "EnglishWord": "needn't change",
+      "Meanings": [
+        "نیازی به تغییر ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "negate",
+      "Meanings": [
+        "نفی کردن",
+        "نقیض گزاره ی… را به دست آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "negation",
+      "Meanings": [
+        "خنثی سازی",
+        "تناقض",
+        "نفی",
+        "قرینه یک بردار",
+        "نقیض"
+      ]
+    },
+    {
+      "EnglishWord": "negation of a proposition",
+      "Meanings": [
+        "نقیض گزاره"
+      ]
+    },
+    {
+      "EnglishWord": "negation of a statement",
+      "Meanings": [
+        "نفی یک گزاره"
+      ]
+    },
+    {
+      "EnglishWord": "negative",
+      "Meanings": [
+        "منفی",
+        "قرینه"
+      ]
+    },
+    {
+      "EnglishWord": "negative angle",
+      "Meanings": [
+        "زاویه منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative binomial",
+      "Meanings": [
+        "بینم منفی",
+        "دوجمله ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative binomial distribution",
+      "Meanings": [
+        "توزیع بینم منفی",
+        "توزیع دوجمله ای",
+        "پخش دوجمله ای منفی",
+        "توزیع دوجمله ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative curvature",
+      "Meanings": [
+        "خمیدگی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative cut",
+      "Meanings": [
+        "بریدگی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative definite",
+      "Meanings": [
+        "معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative definite form",
+      "Meanings": [
+        "فرم معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative definite matrix",
+      "Meanings": [
+        "ماتری معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative dependency of events",
+      "Meanings": [
+        "وابستگی منفی حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "negative direction",
+      "Meanings": [
+        "سوی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative exponent",
+      "Meanings": [
+        "نماینده منفی",
+        "توان منفی",
+        "نمای منفی",
+        "قوه منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative feedback",
+      "Meanings": [
+        "واخوراند منفی",
+        "پس خور منفی",
+        "عکس العمل معکوس",
+        "ضدواکنش",
+        "عکل العمل منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative infinity",
+      "Meanings": [
+        "منهای بی نهایت"
+      ]
+    },
+    {
+      "EnglishWord": "negative integer",
+      "Meanings": [
+        "عدد صحیح منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative integer part",
+      "Meanings": [
+        "قسمت عدد صحیح منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative multinomial",
+      "Meanings": [
+        "چندجمله ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative multinomial distribution",
+      "Meanings": [
+        "توزیع بسجمله ای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative number",
+      "Meanings": [
+        "عدد منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative numbers",
+      "Meanings": [
+        "اعداد منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative of a rational integer",
+      "Meanings": [
+        "قرینه یک عدد صحیح گویا"
+      ]
+    },
+    {
+      "EnglishWord": "negative orientation",
+      "Meanings": [
+        "جهت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative part",
+      "Meanings": [
+        "قسمت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative part of a function",
+      "Meanings": [
+        "جزء منفی تابع"
+      ]
+    },
+    {
+      "EnglishWord": "negative part of a random variable",
+      "Meanings": [
+        "بخش منفی یک متغیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative particular proposition",
+      "Meanings": [
+        "قضیه سالیه جزییه"
+      ]
+    },
+    {
+      "EnglishWord": "negative power",
+      "Meanings": [
+        "توان منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative proposition",
+      "Meanings": [
+        "گزاره سالب"
+      ]
+    },
+    {
+      "EnglishWord": "negative quantity",
+      "Meanings": [
+        "کمیت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative rational number",
+      "Meanings": [
+        "عدد گویای منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative root",
+      "Meanings": [
+        "ریشه منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative semi definite matrix",
+      "Meanings": [
+        "ماتریس نیمه معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative semidefinite",
+      "Meanings": [
+        "نیمه معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative semidefinite matrix",
+      "Meanings": [
+        "ماتریس نیمه معین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative sense",
+      "Meanings": [
+        "جهت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative sentence",
+      "Meanings": [
+        "گزاره سالب"
+      ]
+    },
+    {
+      "EnglishWord": "negative sign",
+      "Meanings": [
+        "علامت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative skewness",
+      "Meanings": [
+        "چاولگی منفی",
+        "چوله منفی",
+        "اریب منفی",
+        "کجی منفی",
+        "ناهنجاری منفی",
+        "کشیدگی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative statement",
+      "Meanings": [
+        "گزاره سالب"
+      ]
+    },
+    {
+      "EnglishWord": "negative term",
+      "Meanings": [
+        "حد منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative universal proposition",
+      "Meanings": [
+        "قضیه سالبه کلیه"
+      ]
+    },
+    {
+      "EnglishWord": "negative variation",
+      "Meanings": [
+        "تغییر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative variation function",
+      "Meanings": [
+        "تابع تغییرات منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative variation of a mapping",
+      "Meanings": [
+        "وردش منفی نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "negatively",
+      "Meanings": [
+        "به طور منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negatively oriented",
+      "Meanings": [
+        "با جهت منفی",
+        "جهت دار با جهت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negatively oriented path",
+      "Meanings": [
+        "مسیر با جهت منفی",
+        "گذر جهت دار با جهت منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negatively skewed",
+      "Meanings": [
+        "کجی منفی"
+      ]
+    },
+    {
+      "EnglishWord": "negativeness",
+      "Meanings": [
+        "منفیت",
+        "کیفیت منفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "negativity",
+      "Meanings": [
+        "منفیت",
+        "کیفیت منفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "neglect",
+      "Meanings": [
+        "اغماض کردن",
+        "صرفنظر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "negligible",
+      "Meanings": [
+        "قابل اغماض",
+        "جزیی",
+        "ناچیز",
+        "قابل صرفنظر"
+      ]
+    },
+    {
+      "EnglishWord": "negotiable bonds",
+      "Meanings": [
+        "اوراق بهادار"
+      ]
+    },
+    {
+      "EnglishWord": "neighborhood",
+      "Meanings": [
+        "نبش",
+        "بر",
+        "همسایگی"
+      ]
+    },
+    {
+      "EnglishWord": "neighborhood of a point",
+      "Meanings": [
+        "همسایگی نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "neighborhood system",
+      "Meanings": [
+        "دستگاه همسایگی ها"
+      ]
+    },
+    {
+      "EnglishWord": "neighbourhoods",
+      "Meanings": [
+        "دستگاه اصلی همسایگی ها",
+        "دستگاه اصلی از همسایگی ها"
+      ]
+    },
+    {
+      "EnglishWord": "neper",
+      "Meanings": [
+        "واحد لگاریتمی اندازه گیری شدت صوت"
+      ]
+    },
+    {
+      "EnglishWord": "nephroid",
+      "Meanings": [
+        "کلیه گون"
+      ]
+    },
+    {
+      "EnglishWord": "nested",
+      "Meanings": [
+        "آشیانی",
+        "تو در تو",
+        "متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "nested cell",
+      "Meanings": [
+        "حجره آشیانی",
+        "فاصله‌های آشیانی"
+      ]
+    },
+    {
+      "EnglishWord": "nested intervals",
+      "Meanings": [
+        "بازه‌های تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "nested multiplication",
+      "Meanings": [
+        "ضرب تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "nested sequence",
+      "Meanings": [
+        "دنباله تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "nested sets",
+      "Meanings": [
+        "مجموعه‌های تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "nested squares",
+      "Meanings": [
+        "مربعات تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "nesting",
+      "Meanings": [
+        "تو در تو",
+        "متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "net",
+      "Meanings": [
+        "بدون ظرف",
+        "ویژه",
+        "دقیق",
+        "تور",
+        "شبکه",
+        "روشن",
+        "خالص",
+        "ناب"
+      ]
+    },
+    {
+      "EnglishWord": "net asset",
+      "Meanings": [
+        "دارایی خالص",
+        "دارایی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net benefit",
+      "Meanings": [
+        "سود خالص",
+        "فایده خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net cash flow",
+      "Meanings": [
+        "جریان نقدی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net income",
+      "Meanings": [
+        "درآمد خالص",
+        "درآمد ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net inventory value",
+      "Meanings": [
+        "مقدار موجودی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net operating income",
+      "Meanings": [
+        "روش درآمد عملیاتی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net present value",
+      "Meanings": [
+        "ارزش کنونی",
+        "ارزش خالص کنونی",
+        "ارزش فعلی خالص",
+        "ارزش خالص حال"
+      ]
+    },
+    {
+      "EnglishWord": "net present worth",
+      "Meanings": [
+        "ارزش ویژه کنونی",
+        "ارزش کنونی خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net price",
+      "Meanings": [
+        "بهای خالص"
+      ]
+    },
+    {
+      "EnglishWord": "net profit",
+      "Meanings": [
+        "سود خالص",
+        "سود ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "net return",
+      "Meanings": [
+        "بازده خالص",
+        "برگشتی ناب"
+      ]
+    },
+    {
+      "EnglishWord": "net worth",
+      "Meanings": [
+        "ارزش ویژه",
+        "ارزش خالص"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network analysis",
+      "Meanings": [
+        "تحلیل شبکه",
+        "تحلیل شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "network capital",
+      "Meanings": [
+        "سرمایه در گردش"
+      ]
+    },
+    {
+      "EnglishWord": "network logic",
+      "Meanings": [
+        "منطق شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network of circles",
+      "Meanings": [
+        "شبکه دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "network planning",
+      "Meanings": [
+        "برنامه ریزی شبکه ای"
+      ]
+    },
+    {
+      "EnglishWord": "network theory",
+      "Meanings": [
+        "نظریه شبکه ها"
+      ]
+    },
+    {
+      "EnglishWord": "networking convention",
+      "Meanings": [
+        "قاعده شبکه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "networks of queue",
+      "Meanings": [
+        "شبکه‌های صف"
+      ]
+    },
+    {
+      "EnglishWord": "neumann boundary condition",
+      "Meanings": [
+        "شرط مرزی نویمان"
+      ]
+    },
+    {
+      "EnglishWord": "neumann function",
+      "Meanings": [
+        "تابع نویمان"
+      ]
+    },
+    {
+      "EnglishWord": "neumann law",
+      "Meanings": [
+        "قانون نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann line",
+      "Meanings": [
+        "خط نویمان"
+      ]
+    },
+    {
+      "EnglishWord": "neumann problem",
+      "Meanings": [
+        "مساله نویمن",
+        "مساله نویمان"
+      ]
+    },
+    {
+      "EnglishWord": "neumann series",
+      "Meanings": [
+        "سری نویمان"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's formula",
+      "Meanings": [
+        "فرمول نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's function",
+      "Meanings": [
+        "تابع نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's polynomial",
+      "Meanings": [
+        "چندجمله ای نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's problem",
+      "Meanings": [
+        "مساله نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's series",
+      "Meanings": [
+        "سری نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neumann's triangle",
+      "Meanings": [
+        "مثلث نویمن"
+      ]
+    },
+    {
+      "EnglishWord": "neuter element",
+      "Meanings": [
+        "عنصر خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "neutral",
+      "Meanings": [
+        "خنثی",
+        "بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "neutral element",
+      "Meanings": [
+        "عنصر خنثی",
+        "عضو خنثی",
+        "عضو بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "neutral equilibrium",
+      "Meanings": [
+        "تعادل بی تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "neutral flame",
+      "Meanings": [
+        "شعله خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "neutral geometry",
+      "Meanings": [
+        "هندسه خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "neutral surface",
+      "Meanings": [
+        "رویه خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "nevanlinna first fundamental theorem",
+      "Meanings": [
+        "اولین قضیه اصلی نوانلینا"
+      ]
+    },
+    {
+      "EnglishWord": "nevanlinna theory",
+      "Meanings": [
+        "نظریه نوانلینا"
+      ]
+    },
+    {
+      "EnglishWord": "never ending",
+      "Meanings": [
+        "بی پایان",
+        "لایتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "neverthless",
+      "Meanings": [
+        "با وجود این",
+        "معهذا"
+      ]
+    },
+    {
+      "EnglishWord": "new activity",
+      "Meanings": [
+        "یک فعالیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new activity adding",
+      "Meanings": [
+        "افزون فعالیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new constraint",
+      "Meanings": [
+        "یک محدودیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new constraint activity",
+      "Meanings": [
+        "افزون محدودیت جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new coordinate system",
+      "Meanings": [
+        "دستگاه مختصات نوین",
+        "دستگاه همارای نوین"
+      ]
+    },
+    {
+      "EnglishWord": "newton",
+      "Meanings": [
+        "نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton cotes quadrature formulas",
+      "Meanings": [
+        "روابط انتگرال نیوتن",
+        "کتنر"
+      ]
+    },
+    {
+      "EnglishWord": "newton diagram",
+      "Meanings": [
+        "نمودار نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton divided difference formula",
+      "Meanings": [
+        "فرمول تقاضای تقسیم شده نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton identities",
+      "Meanings": [
+        "اتحاد‌های نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton law of gravitation",
+      "Meanings": [
+        "قانون گرانش نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton method",
+      "Meanings": [
+        "روش نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton three laws of motion",
+      "Meanings": [
+        "سه قانون حرکت نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newtonian capacity",
+      "Meanings": [
+        "گنجایش نیوتنی"
+      ]
+    },
+    {
+      "EnglishWord": "newton's identities",
+      "Meanings": [
+        "اتحاد‌های نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton's identity",
+      "Meanings": [
+        "اتحاد نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "newton's law of cooling",
+      "Meanings": [
+        "قانون تبرید"
+      ]
+    },
+    {
+      "EnglishWord": "newton's law of gravitation",
+      "Meanings": [
+        "قانون جاذبه عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "newton's principle",
+      "Meanings": [
+        "اصل موضوع نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "next",
+      "Meanings": [
+        "در مرحله بعد",
+        "بعد از",
+        "پس از آن",
+        "متعاقب",
+        "بعد"
+      ]
+    },
+    {
+      "EnglishWord": "next branch",
+      "Meanings": [
+        "شاخه دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "next in first out",
+      "Meanings": [
+        "روش اولین صادره از وارده آتی"
+      ]
+    },
+    {
+      "EnglishWord": "next state",
+      "Meanings": [
+        "حالت بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "next state function",
+      "Meanings": [
+        "تابع حالت بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "next to each other",
+      "Meanings": [
+        "با هم",
+        "کنار یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "next to last",
+      "Meanings": [
+        "قبل از آخرین"
+      ]
+    },
+    {
+      "EnglishWord": "next to last step",
+      "Meanings": [
+        "قبل از آخرین مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "next to last vertex",
+      "Meanings": [
+        "راس قبل از آخر"
+      ]
+    },
+    {
+      "EnglishWord": "next we show that",
+      "Meanings": [
+        "حال نشان می‌دهیم که"
+      ]
+    },
+    {
+      "EnglishWord": "neyman's theorem",
+      "Meanings": [
+        "قضیه نیمن"
+      ]
+    },
+    {
+      "EnglishWord": "nickel silver",
+      "Meanings": [
+        "ورشو"
+      ]
+    },
+    {
+      "EnglishWord": "nil",
+      "Meanings": [
+        "پوچ",
+        "تهی"
+      ]
+    },
+    {
+      "EnglishWord": "nil ideal",
+      "Meanings": [
+        "پوچ آرمان"
+      ]
+    },
+    {
+      "EnglishWord": "nilalgebra",
+      "Meanings": [
+        "پوچ جبر"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotence",
+      "Meanings": [
+        "پوچتوانی"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent",
+      "Meanings": [
+        "پوچ توان",
+        "صفر توان"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent element",
+      "Meanings": [
+        "عنصر پوچتوان"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent group",
+      "Meanings": [
+        "گروه پوچتوان"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent linear transformation",
+      "Meanings": [
+        "تبدیل خطی پوچ توان"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent matrix",
+      "Meanings": [
+        "ماتریس پوچ توان"
+      ]
+    },
+    {
+      "EnglishWord": "nilradical of a ring",
+      "Meanings": [
+        "پوچ",
+        "رادیکال حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "nine",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "EnglishWord": "nine points circle",
+      "Meanings": [
+        "دایره نه نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "no at all",
+      "Meanings": [
+        "هیچ"
+      ]
+    },
+    {
+      "EnglishWord": "no class theory",
+      "Meanings": [
+        "نظریه بی طبقه"
+      ]
+    },
+    {
+      "EnglishWord": "nobound element",
+      "Meanings": [
+        "عضو غیر کران"
+      ]
+    },
+    {
+      "EnglishWord": "nodal",
+      "Meanings": [
+        "گره ای"
+      ]
+    },
+    {
+      "EnglishWord": "nodal line",
+      "Meanings": [
+        "خط گرهی"
+      ]
+    },
+    {
+      "EnglishWord": "nodal surface",
+      "Meanings": [
+        "رویه گرهی"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره",
+        "نقطه دوگانه معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "node network",
+      "Meanings": [
+        "شبکه گرهی"
+      ]
+    },
+    {
+      "EnglishWord": "node of a curve",
+      "Meanings": [
+        "گره منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "node of a linear graph",
+      "Meanings": [
+        "راس گراف خطی"
+      ]
+    },
+    {
+      "EnglishWord": "node point",
+      "Meanings": [
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "noether",
+      "Meanings": [
+        "نویتر"
+      ]
+    },
+    {
+      "EnglishWord": "noetherian",
+      "Meanings": [
+        "نویتری",
+        "نوتری"
+      ]
+    },
+    {
+      "EnglishWord": "noetherian domain",
+      "Meanings": [
+        "حوزه نویتری"
+      ]
+    },
+    {
+      "EnglishWord": "noetherian module",
+      "Meanings": [
+        "مدول نویتری"
+      ]
+    },
+    {
+      "EnglishWord": "noetherian ring",
+      "Meanings": [
+        "حلقه نویتری"
+      ]
+    },
+    {
+      "EnglishWord": "noise",
+      "Meanings": [
+        "سروصدا",
+        "غوغا",
+        "نوفه",
+        "اغتشاش",
+        "صدای نامطلوب",
+        "اختلال در کانال ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "nomial definition",
+      "Meanings": [
+        "تعریف اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nomial measurement",
+      "Meanings": [
+        "اندازه گیری اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nomial scale",
+      "Meanings": [
+        "مقیاس اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal",
+      "Meanings": [
+        "اسمی",
+        "صوری"
+      ]
+    },
+    {
+      "EnglishWord": "nominal definition",
+      "Meanings": [
+        "تعریف صوری"
+      ]
+    },
+    {
+      "EnglishWord": "nominal dimension",
+      "Meanings": [
+        "اندازه اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal price",
+      "Meanings": [
+        "قیمت اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nominal rate of interest",
+      "Meanings": [
+        "نرخ اسمی بهره"
+      ]
+    },
+    {
+      "EnglishWord": "nominal value",
+      "Meanings": [
+        "مبلغ اسمی",
+        "ارزش اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "nomogram",
+      "Meanings": [
+        "نوموگرام",
+        "فرمول نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "non abelian",
+      "Meanings": [
+        "ناآبلی"
+      ]
+    },
+    {
+      "EnglishWord": "non abelian group",
+      "Meanings": [
+        "گروه ناآبلی"
+      ]
+    },
+    {
+      "EnglishWord": "non additive model",
+      "Meanings": [
+        "مدل جمع ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non archimedean",
+      "Meanings": [
+        "ناارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non archimedean ordered field",
+      "Meanings": [
+        "هییت مرتب ناارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non archimedean valuation",
+      "Meanings": [
+        "ارزه ناارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non associative",
+      "Meanings": [
+        "غیر شرکت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non associativity",
+      "Meanings": [
+        "ناانجمنی"
+      ]
+    },
+    {
+      "EnglishWord": "non asymptotic",
+      "Meanings": [
+        "غیر مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "non central distributions",
+      "Meanings": [
+        "توزیع‌های غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non central f distribution",
+      "Meanings": [
+        "توزیع f غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non central intervals",
+      "Meanings": [
+        "فواصل غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non central quadratics",
+      "Meanings": [
+        "سطح درجه دوم متقارن غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non central t2 distribution",
+      "Meanings": [
+        "توزیع t2 غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non central t2 variate",
+      "Meanings": [
+        "متغیر t2 غیر مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "non collinear points",
+      "Meanings": [
+        "نقاط غیر واقع بر یک خط راست"
+      ]
+    },
+    {
+      "EnglishWord": "non commutative",
+      "Meanings": [
+        "غیر جابجایی",
+        "ناجابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "non commutative matrices",
+      "Meanings": [
+        "ماتریس‌های غیر جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "non commutativity",
+      "Meanings": [
+        "ویژگی ناجابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "non comparable",
+      "Meanings": [
+        "غیر قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "non comparable set",
+      "Meanings": [
+        "مجموعه غیر قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "non conservative",
+      "Meanings": [
+        "غیر ابقایی"
+      ]
+    },
+    {
+      "EnglishWord": "non constant",
+      "Meanings": [
+        "ناثابت",
+        "غیر ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "non constructive method",
+      "Meanings": [
+        "روش غیر سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "non correlated",
+      "Meanings": [
+        "ناهمبسته"
+      ]
+    },
+    {
+      "EnglishWord": "non decimal fraction",
+      "Meanings": [
+        "کسر غیر اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "non decreasing",
+      "Meanings": [
+        "غیر نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "non decreasing function",
+      "Meanings": [
+        "تابع غیر کاهشی",
+        "تابع ناکاهشی",
+        "تابع افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "non decreasing sequence",
+      "Meanings": [
+        "دنباله ناکاهشی",
+        "دنباله افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "non degenerate",
+      "Meanings": [
+        "زوال ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non degenerate bilinear form",
+      "Meanings": [
+        "فرم دو خطی ناتبهگون"
+      ]
+    },
+    {
+      "EnglishWord": "non degenerate conic",
+      "Meanings": [
+        "مخروط ناتبهگون",
+        "مخروط سره"
+      ]
+    },
+    {
+      "EnglishWord": "non degenerated",
+      "Meanings": [
+        "زوال ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non deleted",
+      "Meanings": [
+        "نابسوده"
+      ]
+    },
+    {
+      "EnglishWord": "non denumerable",
+      "Meanings": [
+        "شمارش ناپذیر",
+        "ناشمارا",
+        "غیر قابل شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "non denumerable set",
+      "Meanings": [
+        "مجموعه ناشمارا",
+        "مجموعه شمارش ناپذیر",
+        "مجموعه غیر قابل شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "non desarguesian geometry",
+      "Meanings": [
+        "هندسه نادزارگی"
+      ]
+    },
+    {
+      "EnglishWord": "non destructive test",
+      "Meanings": [
+        "آزمایش غیر تخریبی",
+        "آزمایش غیر مخرب"
+      ]
+    },
+    {
+      "EnglishWord": "non deterministic",
+      "Meanings": [
+        "نامتقن",
+        "غیرقطعی",
+        "نامعین"
+      ]
+    },
+    {
+      "EnglishWord": "non empty",
+      "Meanings": [
+        "ناتهی",
+        "غیر تهی"
+      ]
+    },
+    {
+      "EnglishWord": "non empty set",
+      "Meanings": [
+        "مجموعه ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "non enumerable",
+      "Meanings": [
+        "شمارش ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non enumerable set",
+      "Meanings": [
+        "مجموعه شمارش ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non essential",
+      "Meanings": [
+        "ناگوهری",
+        "غیر ضروری",
+        "غیر اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "non euclidean",
+      "Meanings": [
+        "نااقلیدسی",
+        "غیر اقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non euclidean geometry",
+      "Meanings": [
+        "هندسه نااقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non euclidean space",
+      "Meanings": [
+        "فضای نااقلیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non existent",
+      "Meanings": [
+        "ناموجود"
+      ]
+    },
+    {
+      "EnglishWord": "non existent demand",
+      "Meanings": [
+        "تقاضای ناموجود"
+      ]
+    },
+    {
+      "EnglishWord": "non heat treatable",
+      "Meanings": [
+        "عملیات حرارتی ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non homogeneous",
+      "Meanings": [
+        "ناهمگن",
+        "غیرهمگون",
+        "غیر همگن"
+      ]
+    },
+    {
+      "EnglishWord": "non homogeneous equation",
+      "Meanings": [
+        "معادله غیر همگن"
+      ]
+    },
+    {
+      "EnglishWord": "non homogeneous system",
+      "Meanings": [
+        "دستگاه غیر همگن"
+      ]
+    },
+    {
+      "EnglishWord": "non increasing",
+      "Meanings": [
+        "غیر صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "non increasing function",
+      "Meanings": [
+        "تابع غیر افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "non increasing monotonic function",
+      "Meanings": [
+        "تابع یکنوای غیر افزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "non increasing sequence",
+      "Meanings": [
+        "دنباله ناافزایشی",
+        "دنباله کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "non irreducible element",
+      "Meanings": [
+        "عضو تحویل ناپذیر الحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "non isolated",
+      "Meanings": [
+        "ناتنها",
+        "غیر منفرد",
+        "غیر تنها"
+      ]
+    },
+    {
+      "EnglishWord": "non isomorphic",
+      "Meanings": [
+        "غیر یکسان",
+        "غیر ایزومرف",
+        "نایکسان"
+      ]
+    },
+    {
+      "EnglishWord": "non itegrability",
+      "Meanings": [
+        "انتگرال ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "non linear",
+      "Meanings": [
+        "غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non linear dependence",
+      "Meanings": [
+        "بستگی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non linear model",
+      "Meanings": [
+        "مدل غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non linear programming",
+      "Meanings": [
+        "برنامه ریزی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non linear system",
+      "Meanings": [
+        "دستگاه غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non literalistic",
+      "Meanings": [
+        "ناجازم"
+      ]
+    },
+    {
+      "EnglishWord": "non mathematical",
+      "Meanings": [
+        "غیر ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "non meager",
+      "Meanings": [
+        "چاق"
+      ]
+    },
+    {
+      "EnglishWord": "non measurable",
+      "Meanings": [
+        "سنج ناپذیر",
+        "اندازه ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non measurable set",
+      "Meanings": [
+        "مجموعه سنج ناپذیر",
+        "مجموعه اندازه ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non metric",
+      "Meanings": [
+        "غیر طولی"
+      ]
+    },
+    {
+      "EnglishWord": "non metric geometry",
+      "Meanings": [
+        "هندسه غیر طولی"
+      ]
+    },
+    {
+      "EnglishWord": "non negative",
+      "Meanings": [
+        "نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "non negative form",
+      "Meanings": [
+        "فرم غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "non negative function",
+      "Meanings": [
+        "تابع نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "non negative matrix",
+      "Meanings": [
+        "ماتریس غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "non nul",
+      "Meanings": [
+        "ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "non ordinary fraction",
+      "Meanings": [
+        "کسر غیر معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "non orientable surface",
+      "Meanings": [
+        "رویه جهت ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non oriented plane",
+      "Meanings": [
+        "هامن بدون جهت"
+      ]
+    },
+    {
+      "EnglishWord": "non overlapping",
+      "Meanings": [
+        "بدون عضو مشترک",
+        "غیر قابل پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "non parallel",
+      "Meanings": [
+        "ناموازی",
+        "غیرموازی"
+      ]
+    },
+    {
+      "EnglishWord": "non parametric methods",
+      "Meanings": [
+        "روش‌های غیر پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "non parametric statistics",
+      "Meanings": [
+        "آمار غیر پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "non parametric test",
+      "Meanings": [
+        "آزمایش غیر پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "non periodic",
+      "Meanings": [
+        "غیر متناوب",
+        "غیر تناوبی",
+        "نامتناوب"
+      ]
+    },
+    {
+      "EnglishWord": "non periodic head",
+      "Meanings": [
+        "دوره غیر گردش"
+      ]
+    },
+    {
+      "EnglishWord": "non positional",
+      "Meanings": [
+        "غیر موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "non positional notation",
+      "Meanings": [
+        "دستگاه عدد نویسی غیر موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "non positive numbers",
+      "Meanings": [
+        "اعداد غیر مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "non radiative",
+      "Meanings": [
+        "غیر تشعشعی"
+      ]
+    },
+    {
+      "EnglishWord": "non random",
+      "Meanings": [
+        "غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "non random sample",
+      "Meanings": [
+        "نمونه غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "non random type surveying",
+      "Meanings": [
+        "آمارگیری از نوع غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "non randomize",
+      "Meanings": [
+        "ناتصادفی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "non randomized",
+      "Meanings": [
+        "ناتصادفی شده",
+        "نابختین"
+      ]
+    },
+    {
+      "EnglishWord": "non real",
+      "Meanings": [
+        "غیر حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "non real roots",
+      "Meanings": [
+        "ریشه‌های غیر حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "non realization",
+      "Meanings": [
+        "عدم تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "non rectifiable curve",
+      "Meanings": [
+        "خم غیر قابل اصلاح"
+      ]
+    },
+    {
+      "EnglishWord": "non rectilinear function",
+      "Meanings": [
+        "تابع غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "non reflexive",
+      "Meanings": [
+        "غیر منعکس"
+      ]
+    },
+    {
+      "EnglishWord": "non reflexive relation",
+      "Meanings": [
+        "رابطه انعکاس ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "non regular",
+      "Meanings": [
+        "بی قاعده",
+        "نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "non removable",
+      "Meanings": [
+        "غیر قابل حذف",
+        "نابرداشتنی"
+      ]
+    },
+    {
+      "EnglishWord": "non residue",
+      "Meanings": [
+        "نامانده"
+      ]
+    },
+    {
+      "EnglishWord": "non reversing",
+      "Meanings": [
+        "یکطرفه",
+        "معکوس نشو"
+      ]
+    },
+    {
+      "EnglishWord": "non sampling error",
+      "Meanings": [
+        "اشتباه غیر نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "non simple closed curve",
+      "Meanings": [
+        "منحنی بسته غیر ساده"
+      ]
+    },
+    {
+      "EnglishWord": "non simultaneous",
+      "Meanings": [
+        "غیر هم جنس"
+      ]
+    },
+    {
+      "EnglishWord": "non singular",
+      "Meanings": [
+        "ناتکین",
+        "غیر تکین"
+      ]
+    },
+    {
+      "EnglishWord": "non singular matrix",
+      "Meanings": [
+        "ماتریس غیر تکین"
+      ]
+    },
+    {
+      "EnglishWord": "non singular transformation",
+      "Meanings": [
+        "تبدیل غیر تکین"
+      ]
+    },
+    {
+      "EnglishWord": "non symmetrical",
+      "Meanings": [
+        "غیر متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "non terminating",
+      "Meanings": [
+        "بدون پایان",
+        "بدون انتها",
+        "بی پایان"
+      ]
+    },
+    {
+      "EnglishWord": "non terminating decimal",
+      "Meanings": [
+        "عدد دهدهی بی پایان"
+      ]
+    },
+    {
+      "EnglishWord": "non transitive",
+      "Meanings": [
+        "غیر متعدی"
+      ]
+    },
+    {
+      "EnglishWord": "non trivial",
+      "Meanings": [
+        "غیر بدیهی",
+        "غیر مبتذل",
+        "نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "non trivial solution",
+      "Meanings": [
+        "جواب غیر بدیهی",
+        "جواب غیر صفر مبتذل"
+      ]
+    },
+    {
+      "EnglishWord": "non uniformity",
+      "Meanings": [
+        "ناهمشکلی",
+        "غیر یکنواختی",
+        "ناهمگونی"
+      ]
+    },
+    {
+      "EnglishWord": "non void",
+      "Meanings": [
+        "غیر تهی",
+        "ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "non zero",
+      "Meanings": [
+        "مخالف صفر",
+        "غیر صفر"
+      ]
+    },
+    {
+      "EnglishWord": "non zero sum game",
+      "Meanings": [
+        "بازی بدون مجموع صفر",
+        "بازی مجموع غیر صفر"
+      ]
+    },
+    {
+      "EnglishWord": "nonabelian group",
+      "Meanings": [
+        "گروه غیر آبلی"
+      ]
+    },
+    {
+      "EnglishWord": "nonadjecent exterme point methods",
+      "Meanings": [
+        "روش‌های نقاط راسی نامجاور"
+      ]
+    },
+    {
+      "EnglishWord": "nonagon",
+      "Meanings": [
+        "نه ضعلی"
+      ]
+    },
+    {
+      "EnglishWord": "nonassociative",
+      "Meanings": [
+        "شرکت ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonassociative algebra",
+      "Meanings": [
+        "جبر شرکت ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonassociative ring",
+      "Meanings": [
+        "حلقه شرکت ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonatomic boolean algebra",
+      "Meanings": [
+        "جبر بولی نااتمی"
+      ]
+    },
+    {
+      "EnglishWord": "nonatomic measure space",
+      "Meanings": [
+        "فضای اندازه نااتمی"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic",
+      "Meanings": [
+        "غیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic definition",
+      "Meanings": [
+        "تعریف تابع هدف"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic matrix",
+      "Meanings": [
+        "ماترسی غیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic variable",
+      "Meanings": [
+        "متغیر غیر پایه",
+        "متغیر غیر اساسی",
+        "متغیر غیر پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "nonbasic variables",
+      "Meanings": [
+        "متغیر‌های غیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "nonbinding constraint",
+      "Meanings": [
+        "محدودیت‌های نامقید"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral",
+      "Meanings": [
+        "غیر علی",
+        "غیر مرکزی",
+        "نامتمرکز شده",
+        "غیر متمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral chi square distribution",
+      "Meanings": [
+        "توزیع مربع خی نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral distribution",
+      "Meanings": [
+        "توزیع نامرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "noncentral quadrics",
+      "Meanings": [
+        "رویه‌های درجه دوی بی مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "noncommutative",
+      "Meanings": [
+        "تعویض ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "noncommutative ring",
+      "Meanings": [
+        "حلقه جابجا ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "noncomparable",
+      "Meanings": [
+        "غیر قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "noncomparable elements",
+      "Meanings": [
+        "عضو‌های غر قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "noncomparable pair of element",
+      "Meanings": [
+        "دو عنصر غیر قابل مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "nonconstant",
+      "Meanings": [
+        "ناپایا"
+      ]
+    },
+    {
+      "EnglishWord": "nonconstant polynomial",
+      "Meanings": [
+        "چندجمله ای ناپایا"
+      ]
+    },
+    {
+      "EnglishWord": "nonconstructive proof",
+      "Meanings": [
+        "اثبات غیر سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "nonconvex",
+      "Meanings": [
+        "نامحدب"
+      ]
+    },
+    {
+      "EnglishWord": "noncoverage",
+      "Meanings": [
+        "ناپوشا"
+      ]
+    },
+    {
+      "EnglishWord": "nondecreasing",
+      "Meanings": [
+        "ناکاهشی",
+        "ناکاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "nondecreasing function",
+      "Meanings": [
+        "تابع نانزولی",
+        "تابع یکنوای صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "nondefective",
+      "Meanings": [
+        "سالم"
+      ]
+    },
+    {
+      "EnglishWord": "nondefective unit",
+      "Meanings": [
+        "واحد غیر معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "nondegeneracy",
+      "Meanings": [
+        "ناتباهیده",
+        "ناتباهیدگی",
+        "ناتباهی"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate",
+      "Meanings": [
+        "ناتباهیده",
+        "ناتبهگون",
+        "ناتباهنده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate basic feasible solution",
+      "Meanings": [
+        "جواب شدنی پایه ناتباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate bounded variables",
+      "Meanings": [
+        "متغیر‌های کران دار ناتباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate divisor",
+      "Meanings": [
+        "مقسوم علیه ناتباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate iteration pivot",
+      "Meanings": [
+        "محور گیری تکرار ناتباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegenerate quadratic form",
+      "Meanings": [
+        "صورت درجه دوم نا تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "nondegerate linear equation",
+      "Meanings": [
+        "معادله خطی غیر تبهگون"
+      ]
+    },
+    {
+      "EnglishWord": "nondeleted limit",
+      "Meanings": [
+        "حد ناسوده"
+      ]
+    },
+    {
+      "EnglishWord": "nondense set",
+      "Meanings": [
+        "مجموعه هیچ جا چگال",
+        "مجموعه ناچگال"
+      ]
+    },
+    {
+      "EnglishWord": "nondenumerable",
+      "Meanings": [
+        "ناشمردنی",
+        "شمارش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nondenumerable set",
+      "Meanings": [
+        "مجموعه ناشمارا"
+      ]
+    },
+    {
+      "EnglishWord": "nonderogatory matrix",
+      "Meanings": [
+        "ماتریس غیر تخفیف ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nondiagonal element",
+      "Meanings": [
+        "عضو غیر قطر"
+      ]
+    },
+    {
+      "EnglishWord": "nondimensional parameter",
+      "Meanings": [
+        "پارامتر غیر بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "nondirected graph",
+      "Meanings": [
+        "گراف غیر جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "nondistributive",
+      "Meanings": [
+        "پخش ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "none",
+      "Meanings": [
+        "هیچ یک"
+      ]
+    },
+    {
+      "EnglishWord": "none theless",
+      "Meanings": [
+        "با این حال",
+        "با وجود این"
+      ]
+    },
+    {
+      "EnglishWord": "nonempty",
+      "Meanings": [
+        "ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonempty finite set",
+      "Meanings": [
+        "مجموعه باپایان ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonempty set",
+      "Meanings": [
+        "مجموعه ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonempty subset",
+      "Meanings": [
+        "زیرمجموعه ناتهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonequivalent",
+      "Meanings": [
+        "نا هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "nonequivalent proposition",
+      "Meanings": [
+        "گزاره نا هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "nonetheles",
+      "Meanings": [
+        "در هر صورت",
+        "به هر حال"
+      ]
+    },
+    {
+      "EnglishWord": "nonexistence",
+      "Meanings": [
+        "عدم وجود"
+      ]
+    },
+    {
+      "EnglishWord": "nongenerative",
+      "Meanings": [
+        "غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "nonhomogeneous",
+      "Meanings": [
+        "ناهمگن",
+        "غیر هموژن",
+        "غیر همگن"
+      ]
+    },
+    {
+      "EnglishWord": "nonhomogeneous difference equation decreasing function",
+      "Meanings": [
+        "تابع ناصعودی",
+        "تابع یکنوای نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "nonhomogeneous system",
+      "Meanings": [
+        "دستگاه غیر همگن"
+      ]
+    },
+    {
+      "EnglishWord": "nonillion",
+      "Meanings": [
+        "نانیلیون",
+        "عدد 1030 در دستگاه آمریکایی و 1054 در دستگاه انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "nonincreasing",
+      "Meanings": [
+        "ناافزایشی"
+      ]
+    },
+    {
+      "EnglishWord": "nonincreasing function",
+      "Meanings": [
+        "تابع ناصعودی",
+        "تابع یکنوای نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "nonintegrable function",
+      "Meanings": [
+        "تابع انتگرال ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "noninvertible matrix",
+      "Meanings": [
+        "ماتریس وارون ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonisomorphic",
+      "Meanings": [
+        "نایکسان"
+      ]
+    },
+    {
+      "EnglishWord": "nonlabeled term",
+      "Meanings": [
+        "جمله بدون برچسب",
+        "جمله برچسب گذاری نشده"
+      ]
+    },
+    {
+      "EnglishWord": "nonleaf",
+      "Meanings": [
+        "غیر برگ"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear",
+      "Meanings": [
+        "غیر خطی",
+        "ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear correlation",
+      "Meanings": [
+        "همبستگی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear equation",
+      "Meanings": [
+        "معادله ناخطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear fit",
+      "Meanings": [
+        "برازش غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonlinear programming",
+      "Meanings": [
+        "برنامه ریزی غیر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nonmeasurable",
+      "Meanings": [
+        "غیر قابل اندازه گیری",
+        "اندازه ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonmeasurable function",
+      "Meanings": [
+        "تابع اندازه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonmodular",
+      "Meanings": [
+        "غیر پیمانه ای",
+        "ناپیمانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative",
+      "Meanings": [
+        "نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative function",
+      "Meanings": [
+        "تابع غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative ingteger",
+      "Meanings": [
+        "عدد صحیح نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative integers",
+      "Meanings": [
+        "اعداد صحیح نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative linear transformation",
+      "Meanings": [
+        "تبدیل خطی نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative number",
+      "Meanings": [
+        "عدد نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative numbers",
+      "Meanings": [
+        "اعداد غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative property",
+      "Meanings": [
+        "خاصیت نامنفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative semidefinite matrix",
+      "Meanings": [
+        "ماتریس نیمه معین نا منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegative series",
+      "Meanings": [
+        "سری نامنفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonnegativity constraint",
+      "Meanings": [
+        "محدودیت نامنفی",
+        "محدودیت غیر منفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonorientability",
+      "Meanings": [
+        "جهت ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonoverlapping",
+      "Meanings": [
+        "بدون عضو مشترک",
+        "غیر قابل پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "nonoverlapping intervals",
+      "Meanings": [
+        "بازه‌های نا متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric",
+      "Meanings": [
+        "ناپارامتری",
+        "غیر پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric statistics",
+      "Meanings": [
+        "آمار نا پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nonperiodic cubic spline",
+      "Meanings": [
+        "اسپلاین درجه سه نامتناوب"
+      ]
+    },
+    {
+      "EnglishWord": "nonperiodic head",
+      "Meanings": [
+        "دوره غیر گردش"
+      ]
+    },
+    {
+      "EnglishWord": "nonpermanent die",
+      "Meanings": [
+        "قالب غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "nonplanar",
+      "Meanings": [
+        "غیر مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "nonplanar graph",
+      "Meanings": [
+        "گراف غیر مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "nonpositive",
+      "Meanings": [
+        "نامثبت",
+        "غیر مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "nonpositive definitive matrix",
+      "Meanings": [
+        "ماتریس معین نامثبت"
+      ]
+    },
+    {
+      "EnglishWord": "nonprime",
+      "Meanings": [
+        "غیر اول"
+      ]
+    },
+    {
+      "EnglishWord": "nonprobability sample",
+      "Meanings": [
+        "نمونه غیر احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "nonproductive experiment",
+      "Meanings": [
+        "آزمایش غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonproductive labor",
+      "Meanings": [
+        "کار غیر تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrandom experiment",
+      "Meanings": [
+        "آزمایش غیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrandomized decision function",
+      "Meanings": [
+        "تابع تصمیم تصادفی نشده"
+      ]
+    },
+    {
+      "EnglishWord": "nonreal",
+      "Meanings": [
+        "ناحقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "nonreal root",
+      "Meanings": [
+        "ریشه غیر حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrectangular coordinate system",
+      "Meanings": [
+        "دستگاه مختصات غیر قایم"
+      ]
+    },
+    {
+      "EnglishWord": "nonrectifiable",
+      "Meanings": [
+        "با طول نامتناهی",
+        "با درازای نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrectifiable curve",
+      "Meanings": [
+        "منحنی با طول متناهی",
+        "خم با درازای نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrecurrent markov chain",
+      "Meanings": [
+        "زنجیر مارکوف نا باز گشتی"
+      ]
+    },
+    {
+      "EnglishWord": "nonremovable discontinuity",
+      "Meanings": [
+        "نابرداشتنی ناپیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "nonrepeating decimal",
+      "Meanings": [
+        "اعشاری نامکرر"
+      ]
+    },
+    {
+      "EnglishWord": "nonresidue",
+      "Meanings": [
+        "ناباقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "nonresponse",
+      "Meanings": [
+        "بی پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "nonresponse questionnaire",
+      "Meanings": [
+        "پرسشنامه بدون جواب"
+      ]
+    },
+    {
+      "EnglishWord": "nonsense correlation",
+      "Meanings": [
+        "همبستگی نامعقول",
+        "همبستگی بی معنی"
+      ]
+    },
+    {
+      "EnglishWord": "nonsimilar binary tree",
+      "Meanings": [
+        "درخت دودویی غیر متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "nonsimple path",
+      "Meanings": [
+        "مسیر غیر ساده"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular",
+      "Meanings": [
+        "نا استثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular linear transformation",
+      "Meanings": [
+        "تبدیل خطی ناتکین"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular matrix",
+      "Meanings": [
+        "ماتریس عادی",
+        "ماتریس ناتکین",
+        "ماتریس منظم",
+        "ماتریس انعکاس پذیر",
+        "ماتریس منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular point of a variety",
+      "Meanings": [
+        "نقطه ساده چندگونا",
+        "نقطه ناتکین چندگونا"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular transformation",
+      "Meanings": [
+        "تبدیل ناویژه",
+        "تبدیل نااستثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular trianglular matrix",
+      "Meanings": [
+        "ماتریس مثلث ناویژه"
+      ]
+    },
+    {
+      "EnglishWord": "nonsingular variety",
+      "Meanings": [
+        "چندگونای هموار",
+        "چندگونای ناتکین"
+      ]
+    },
+    {
+      "EnglishWord": "nonsquare matrix",
+      "Meanings": [
+        "ماتریس غیر مربع"
+      ]
+    },
+    {
+      "EnglishWord": "nonstandard natural number",
+      "Meanings": [
+        "عدد طبیعی نا استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "nonstandard real number",
+      "Meanings": [
+        "عدد حقیقی نااستاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "nonstationary",
+      "Meanings": [
+        "ناایستا"
+      ]
+    },
+    {
+      "EnglishWord": "nonstationary oscillation",
+      "Meanings": [
+        "نوسان نا مانا"
+      ]
+    },
+    {
+      "EnglishWord": "nonstrictly determined matrix",
+      "Meanings": [
+        "ماتریس کاملا غیر معین"
+      ]
+    },
+    {
+      "EnglishWord": "nonsymmetric relation",
+      "Meanings": [
+        "رابطه نا متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "nonterminal",
+      "Meanings": [
+        "ناپایانه",
+        "غیر انتهایی"
+      ]
+    },
+    {
+      "EnglishWord": "nonterminating",
+      "Meanings": [
+        "نامختوم",
+        "بی انتها",
+        "بی پایان"
+      ]
+    },
+    {
+      "EnglishWord": "nonterminating decimal",
+      "Meanings": [
+        "عدد دهدهی نا مختوم"
+      ]
+    },
+    {
+      "EnglishWord": "nontransitive relation",
+      "Meanings": [
+        "رابطه نا ترایا"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial",
+      "Meanings": [
+        "نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial factorization",
+      "Meanings": [
+        "تجزیه نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial solution",
+      "Meanings": [
+        "جواب ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial subgroup",
+      "Meanings": [
+        "زیرگروه نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial subset",
+      "Meanings": [
+        "زیرمجموعه سره",
+        "زیرمجموعه نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonunit",
+      "Meanings": [
+        "غیر یکه",
+        "نایکه"
+      ]
+    },
+    {
+      "EnglishWord": "nonweighted 2 tree",
+      "Meanings": [
+        "درخت غیر وزندار"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero",
+      "Meanings": [
+        "نا صفر"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero column vector",
+      "Meanings": [
+        "بردار ستونی ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero determinant",
+      "Meanings": [
+        "دترمینان غیر صفر",
+        "دترمینان ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero entry",
+      "Meanings": [
+        "درایه غیر صفر"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero vector",
+      "Meanings": [
+        "بردار ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "نرم"
+      ]
+    },
+    {
+      "EnglishWord": "norm of a functional",
+      "Meanings": [
+        "نرم تابعک"
+      ]
+    },
+    {
+      "EnglishWord": "norm of a matrix",
+      "Meanings": [
+        "نرم ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "norm of a vector",
+      "Meanings": [
+        "نرم بردار",
+        "طول بردار",
+        "قدر مطلق بردار",
+        "مقدار عددی بردار"
+      ]
+    },
+    {
+      "EnglishWord": "norm of vector nonbasic",
+      "Meanings": [
+        "نرم یک بردار"
+      ]
+    },
+    {
+      "EnglishWord": "norma",
+      "Meanings": [
+        "استاندارد",
+        "قاعده",
+        "مدل"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "بهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal acceleration",
+      "Meanings": [
+        "شتاب قایم",
+        "شتاب عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "normal allowance",
+      "Meanings": [
+        "زمان بیکاری مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "normal approximation to",
+      "Meanings": [
+        "تقریب نرمال برای"
+      ]
+    },
+    {
+      "EnglishWord": "normal asymptotic distribution for binomial",
+      "Meanings": [
+        "توزیع مجانبی نرمال برای دوجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "normal axis",
+      "Meanings": [
+        "محور قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal basis",
+      "Meanings": [
+        "پایه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal bi variate distribution",
+      "Meanings": [
+        "توزیع دو متغیری طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "normal chain",
+      "Meanings": [
+        "زنجیر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal closure",
+      "Meanings": [
+        "بسته نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal component",
+      "Meanings": [
+        "مولفه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal continued fraction",
+      "Meanings": [
+        "کسر مسلسل نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal coordinates",
+      "Meanings": [
+        "مختصات نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal cruve",
+      "Meanings": [
+        "منحنی طبیعی",
+        "منحنی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal curvature",
+      "Meanings": [
+        "خمیدگی قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal curvature of a surface",
+      "Meanings": [
+        "انحنای نرمال سطح"
+      ]
+    },
+    {
+      "EnglishWord": "normal density function",
+      "Meanings": [
+        "تابع چگالی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal derivation",
+      "Meanings": [
+        "انحراف نرمال",
+        "انحراف طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "normal derivative",
+      "Meanings": [
+        "مشتق نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution",
+      "Meanings": [
+        "توزیع نرمال",
+        "توزیع گاوسی"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution curve",
+      "Meanings": [
+        "منحنی توزیع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution function",
+      "Meanings": [
+        "تابع توزیع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution in plane",
+      "Meanings": [
+        "توزیع نرمال در سطح",
+        "توزیع نرمال دو متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "normal distribution law",
+      "Meanings": [
+        "قانون توزیع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal divisor",
+      "Meanings": [
+        "مقسوم علیه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal equation",
+      "Meanings": [
+        "معادله نرمال",
+        "معادله متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "normal equation of a straight line",
+      "Meanings": [
+        "معادله متعارف خط راست"
+      ]
+    },
+    {
+      "EnglishWord": "normal equations",
+      "Meanings": [
+        "معادلات نرمال",
+        "معادله‌های نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal extension",
+      "Meanings": [
+        "توسیع بهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal family",
+      "Meanings": [
+        "خانواده نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal force",
+      "Meanings": [
+        "نیروی قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal form",
+      "Meanings": [
+        "صورت متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "normal form of an equation",
+      "Meanings": [
+        "صورت متعارف یک معادله"
+      ]
+    },
+    {
+      "EnglishWord": "normal form of differential equations",
+      "Meanings": [
+        "صورت نرمال معادله‌های دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "normal function",
+      "Meanings": [
+        "تابع نرمال شده",
+        "تابع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal function of ordinal numbers",
+      "Meanings": [
+        "تابع نرمال عدد‌های ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "normal inspection",
+      "Meanings": [
+        "بازرسی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal line",
+      "Meanings": [
+        "خط نرمال قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal linear transformation",
+      "Meanings": [
+        "تبدیل خطی بهنجار"
+      ]
+    },
+    {
+      "EnglishWord": "normal matrix",
+      "Meanings": [
+        "ماتریس نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal operator",
+      "Meanings": [
+        "عملگر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal order",
+      "Meanings": [
+        "ترتیب طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "normal plane",
+      "Meanings": [
+        "صفحه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal population",
+      "Meanings": [
+        "جامعه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal probability curve",
+      "Meanings": [
+        "خم احتمال نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal probability density function",
+      "Meanings": [
+        "تابع چگالی احتمال نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal probability plot",
+      "Meanings": [
+        "رسم احتمال نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal projection",
+      "Meanings": [
+        "تصویر قایم",
+        "تصویر متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "normal random variable",
+      "Meanings": [
+        "کمیت تصادفی نرمال",
+        "متغیر تصادفی نرمال شده",
+        "متغیر تصادفی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal reaction",
+      "Meanings": [
+        "عکس العمل طبیعی",
+        "عکس العمل عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal region",
+      "Meanings": [
+        "ناحیه نرمال قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal section",
+      "Meanings": [
+        "مقطع قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal space",
+      "Meanings": [
+        "فضای نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal stock",
+      "Meanings": [
+        "موجودی طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "normal stress",
+      "Meanings": [
+        "تلاش قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal subgroup",
+      "Meanings": [
+        "زیرگروه نرمال",
+        "زیرگروه ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "normal time",
+      "Meanings": [
+        "زمان عادی",
+        "زمان معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "normal to a curve",
+      "Meanings": [
+        "قایم بر خم",
+        "قایم بر منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "normal to a plane",
+      "Meanings": [
+        "قایم بر صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "normal to a surface",
+      "Meanings": [
+        "قایم بر رویه",
+        "قایم بر یک سطح"
+      ]
+    },
+    {
+      "EnglishWord": "normal to hyperplane",
+      "Meanings": [
+        "عمود بر ابرصفحه",
+        "نرمال به ابرصفحه"
+      ]
+    },
+    {
+      "EnglishWord": "normal transformation",
+      "Meanings": [
+        "تبدیل نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal unit vector",
+      "Meanings": [
+        "بردار یکه قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal variative",
+      "Meanings": [
+        "متغیر نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal vector",
+      "Meanings": [
+        "بردار عمودی",
+        "بردار قایم"
+      ]
+    },
+    {
+      "EnglishWord": "normal vector bundle",
+      "Meanings": [
+        "کلاف برداری نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normalisation",
+      "Meanings": [
+        "نرمال ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "normality",
+      "Meanings": [
+        "نرمال بودن",
+        "هنجار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "normality condition",
+      "Meanings": [
+        "شرط نرمال بودن"
+      ]
+    },
+    {
+      "EnglishWord": "normalization",
+      "Meanings": [
+        "نرمال سازی"
+      ]
+    },
+    {
+      "EnglishWord": "normalize",
+      "Meanings": [
+        "بهنجار کردن",
+        "هنجاری کردن",
+        "به دست آوردن بردار یکه",
+        "به بردار یکه تبدیل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "normalized",
+      "Meanings": [
+        "هنجار یافته",
+        "نرمال شده",
+        "هنجار شده"
+      ]
+    },
+    {
+      "EnglishWord": "normalized deviation",
+      "Meanings": [
+        "انحراف نرمال شده"
+      ]
+    },
+    {
+      "EnglishWord": "normalized equation of line",
+      "Meanings": [
+        "معادله نرمال خط"
+      ]
+    },
+    {
+      "EnglishWord": "normalized function random variable",
+      "Meanings": [
+        "متغیر تصادفی نرمال شده",
+        "متغیر تصادفی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normalized random variable",
+      "Meanings": [
+        "متغیر تصادفی نرمال شده"
+      ]
+    },
+    {
+      "EnglishWord": "normalizer",
+      "Meanings": [
+        "بهنجارساز"
+      ]
+    },
+    {
+      "EnglishWord": "normalizer of a subgroup",
+      "Meanings": [
+        "هنجارگر یک زیرگروه"
+      ]
+    },
+    {
+      "EnglishWord": "normalizer of a subset of a group",
+      "Meanings": [
+        "نرمالگر زیرمجموعه گروه"
+      ]
+    },
+    {
+      "EnglishWord": "normalizing",
+      "Meanings": [
+        "یکه سازی",
+        "طبیعی کردن",
+        "عادی کردن",
+        "نرم کردن",
+        "عادی سازی",
+        "بهنجار کردن",
+        "یکنواخت کردن",
+        "نرمالسازی"
+      ]
+    },
+    {
+      "EnglishWord": "normalizing transformation",
+      "Meanings": [
+        "تبدیل نرمالساز"
+      ]
+    },
+    {
+      "EnglishWord": "normalze",
+      "Meanings": [
+        "بدست آوردن بردار یکه"
+      ]
+    },
+    {
+      "EnglishWord": "normative supply function",
+      "Meanings": [
+        "تابع ارزشی عرضه"
+      ]
+    },
+    {
+      "EnglishWord": "normed",
+      "Meanings": [
+        "نرم دار",
+        "هنج دار",
+        "دارای نرم"
+      ]
+    },
+    {
+      "EnglishWord": "normed linear space",
+      "Meanings": [
+        "فضای خطی نرمدار"
+      ]
+    },
+    {
+      "EnglishWord": "normed ring",
+      "Meanings": [
+        "حلقه نرمدار"
+      ]
+    },
+    {
+      "EnglishWord": "normed space",
+      "Meanings": [
+        "فضای نرمدار"
+      ]
+    },
+    {
+      "EnglishWord": "normed subgroup",
+      "Meanings": [
+        "زیرگروه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normed vector lattice",
+      "Meanings": [
+        "مشبکه برداری نرم دار"
+      ]
+    },
+    {
+      "EnglishWord": "normed vector space",
+      "Meanings": [
+        "فضای برداری نرم دار",
+        "فضای برداری هنج دار"
+      ]
+    },
+    {
+      "EnglishWord": "north pole",
+      "Meanings": [
+        "قطب شمال"
+      ]
+    },
+    {
+      "EnglishWord": "northwest corner method",
+      "Meanings": [
+        "روش گوشه چپ بالایی"
+      ]
+    },
+    {
+      "EnglishWord": "northwest corner rule",
+      "Meanings": [
+        "قانون گوشه شمال غربی",
+        "قاعده گوشه شمال غربی"
+      ]
+    },
+    {
+      "EnglishWord": "not",
+      "Meanings": [
+        "چنین نیست که",
+        "نه"
+      ]
+    },
+    {
+      "EnglishWord": "not equal to",
+      "Meanings": [
+        "نامساوی با",
+        "مخالف با"
+      ]
+    },
+    {
+      "EnglishWord": "not function",
+      "Meanings": [
+        "تابع نفی"
+      ]
+    },
+    {
+      "EnglishWord": "not mutually exclusive event",
+      "Meanings": [
+        "پیشامد پیوستنی",
+        "پیشامد متداخل"
+      ]
+    },
+    {
+      "EnglishWord": "not p",
+      "Meanings": [
+        "چنین نیست که p",
+        "نه p"
+      ]
+    },
+    {
+      "EnglishWord": "not stop",
+      "Meanings": [
+        "ادامه یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "notable",
+      "Meanings": [
+        "نشان دادن",
+        "نمایش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "notation",
+      "Meanings": [
+        "مفهوم",
+        "نمایش",
+        "علامت",
+        "نشانگذاری",
+        "علامتگذاری",
+        "نشانه گذاری",
+        "نمادسازی",
+        "نشانه طبقه بندی",
+        "نشانه رده بندی",
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "notation of probability",
+      "Meanings": [
+        "مفهوم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "notch",
+      "Meanings": [
+        "شکاف",
+        "شکاف دادن",
+        "گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "notching",
+      "Meanings": [
+        "گوشه بری",
+        "گوشه زنی",
+        "بریدن لبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "note",
+      "Meanings": [
+        "نت موسیقی",
+        "توجه کردن",
+        "توجه"
+      ]
+    },
+    {
+      "EnglishWord": "note receivable",
+      "Meanings": [
+        "سفته وصولی",
+        "سند وصولی",
+        "سند دریافتنی",
+        "سفته دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "note that",
+      "Meanings": [
+        "توجه دارید که",
+        "متذکر شدن",
+        "یادآور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "notes payable",
+      "Meanings": [
+        "اسناد پرداختنی",
+        "سفته‌های پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "notes receivable",
+      "Meanings": [
+        "اسناد دریافتنی",
+        "حساب اسناد دریافتنی"
+      ]
+    },
+    {
+      "EnglishWord": "nothing",
+      "Meanings": [
+        "هیچ",
+        "صفر"
+      ]
+    },
+    {
+      "EnglishWord": "notion",
+      "Meanings": [
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "nought",
+      "Meanings": [
+        "هیچ",
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "nowhere dense",
+      "Meanings": [
+        "هیچ جا چگال"
+      ]
+    },
+    {
+      "EnglishWord": "nowhere dense set",
+      "Meanings": [
+        "مجموعه هیچ جا چگال",
+        "مجموعه ناچگال"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle",
+      "Meanings": [
+        "پخش کن",
+        "مغزی",
+        "فواره",
+        "قسمت خروج",
+        "مجرای خروج"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle tip",
+      "Meanings": [
+        "نوک تزریق کننده"
+      ]
+    },
+    {
+      "EnglishWord": "np chart",
+      "Meanings": [
+        "نمودار تعداد ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "nth",
+      "Meanings": [
+        "n ام",
+        "n امین"
+      ]
+    },
+    {
+      "EnglishWord": "nth coordinate",
+      "Meanings": [
+        "مختص n ام",
+        "مولفه n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth derivative",
+      "Meanings": [
+        "مشتق مرتبه n ام",
+        "مشتق n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth factor",
+      "Meanings": [
+        "عامل n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth iterate",
+      "Meanings": [
+        "تکرار n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth order differential equation",
+      "Meanings": [
+        "معادله دیفرانیسل مرتبه n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth partial product",
+      "Meanings": [
+        "حاصل ضرب جزیی n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth partial sum",
+      "Meanings": [
+        "مجموع جزیی n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth power",
+      "Meanings": [
+        "توان n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth root",
+      "Meanings": [
+        "ریشه nم"
+      ]
+    },
+    {
+      "EnglishWord": "nth root function",
+      "Meanings": [
+        "تابع ریشه n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth root of unity",
+      "Meanings": [
+        "ریشه n ام واحد",
+        "ریشه n ام یک"
+      ]
+    },
+    {
+      "EnglishWord": "nth term",
+      "Meanings": [
+        "جمله n ام"
+      ]
+    },
+    {
+      "EnglishWord": "nth variation",
+      "Meanings": [
+        "n امین وردش"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear",
+      "Meanings": [
+        "هسته",
+        "هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear class",
+      "Meanings": [
+        "رده هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear fission",
+      "Meanings": [
+        "انشقاق هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear operator",
+      "Meanings": [
+        "عملگر هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear reaction",
+      "Meanings": [
+        "فعل و انفعال هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuclear space",
+      "Meanings": [
+        "فضای هسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "nuisance parameter",
+      "Meanings": [
+        "پارامتر مزاحم"
+      ]
+    },
+    {
+      "EnglishWord": "null",
+      "Meanings": [
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "null circle",
+      "Meanings": [
+        "دایره صفر",
+        "دایره ای با شعاع صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null class",
+      "Meanings": [
+        "مجموعه خالی"
+      ]
+    },
+    {
+      "EnglishWord": "null element",
+      "Meanings": [
+        "عامل صفر",
+        "عنصر صفر",
+        "عنصر پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "null event",
+      "Meanings": [
+        "پیشامد پوچ",
+        "پیشامد تهی",
+        "پیشامد نشدنی",
+        "حادثه خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "null function",
+      "Meanings": [
+        "صفر تابع",
+        "تابع صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null graph",
+      "Meanings": [
+        "گراف تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null group",
+      "Meanings": [
+        "گروه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null hypothesis",
+      "Meanings": [
+        "فرض صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null matrix",
+      "Meanings": [
+        "ماتریس پوچ",
+        "ماتریس صفر",
+        "ماتریس تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null quantifier",
+      "Meanings": [
+        "کم صفر",
+        "سور صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null recurrent",
+      "Meanings": [
+        "برگشت پذیر تهی",
+        "بازگشتی",
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "null sequence",
+      "Meanings": [
+        "صفر دنباله",
+        "هیچ رشته",
+        "دنباله صفر",
+        "دنباله ای که حد آن صفر است"
+      ]
+    },
+    {
+      "EnglishWord": "null set",
+      "Meanings": [
+        "مجموعه خالی",
+        "مجموعه تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null sets",
+      "Meanings": [
+        "مجموعه‌های خالی",
+        "مجموعه‌های تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null space",
+      "Meanings": [
+        "صفر فضا",
+        "فضای پوچ هسته"
+      ]
+    },
+    {
+      "EnglishWord": "null string",
+      "Meanings": [
+        "رشته پوچ",
+        "رشته تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null tree",
+      "Meanings": [
+        "درخت پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "null vector",
+      "Meanings": [
+        "بردار صفر"
+      ]
+    },
+    {
+      "EnglishWord": "nullary operation",
+      "Meanings": [
+        "عمل هیچتایی"
+      ]
+    },
+    {
+      "EnglishWord": "nullity",
+      "Meanings": [
+        "درجه پوچی",
+        "بعد فضای پوچ",
+        "پوچی"
+      ]
+    },
+    {
+      "EnglishWord": "nullity of a linear mapping",
+      "Meanings": [
+        "بعد هسته نگاشت خطی"
+      ]
+    },
+    {
+      "EnglishWord": "nullity plus rank theorem",
+      "Meanings": [
+        "قضیه پوچی بعلاوه رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "تعداد",
+        "نمایش هندسی عدد مختلط",
+        "عدد",
+        "شمار",
+        "شماره",
+        "شماره گذاری کردن",
+        "نمایش هندسی یک عدد مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "number axis",
+      "Meanings": [
+        "محور اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number field",
+      "Meanings": [
+        "میدان عددی",
+        "میدان اعداد",
+        "هییت اعداد",
+        "هیات اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number line",
+      "Meanings": [
+        "خط اعداد",
+        "محور حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "number of basic feasible solutions",
+      "Meanings": [
+        "تعداد جواب‌های شدنی پایه"
+      ]
+    },
+    {
+      "EnglishWord": "number of basis",
+      "Meanings": [
+        "تعداد پایه"
+      ]
+    },
+    {
+      "EnglishWord": "number of bounded variables",
+      "Meanings": [
+        "متغری‌های کران دار تعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number of renewals",
+      "Meanings": [
+        "تعداد تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "number of solutions",
+      "Meanings": [
+        "تعداد جواب های"
+      ]
+    },
+    {
+      "EnglishWord": "number of teeth",
+      "Meanings": [
+        "تعداد دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "number scale",
+      "Meanings": [
+        "محور اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number sieve",
+      "Meanings": [
+        "غربال اعداد",
+        "غربال اراتستن"
+      ]
+    },
+    {
+      "EnglishWord": "number system",
+      "Meanings": [
+        "دستگاه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number theoretic",
+      "Meanings": [
+        "نظریه اعداد",
+        "منسوب به نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "number theoretic functions",
+      "Meanings": [
+        "توابع حسابی",
+        "توابعی که مجموعه اعداد طبیعی را به توی خودش تصویر می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "number theory",
+      "Meanings": [
+        "تیوری اعداد",
+        "نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numberable",
+      "Meanings": [
+        "قابل شمارش",
+        "شمارش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "numberal",
+      "Meanings": [
+        "عددی",
+        "عدد"
+      ]
+    },
+    {
+      "EnglishWord": "numberal system",
+      "Meanings": [
+        "دستگاه شمارش",
+        "دستگاه عددنویسی",
+        "دستگاه شمار"
+      ]
+    },
+    {
+      "EnglishWord": "numberate",
+      "Meanings": [
+        "شمردن",
+        "حساب کردن",
+        "به شمار آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "numberation",
+      "Meanings": [
+        "شمار",
+        "شمارش",
+        "احتساب"
+      ]
+    },
+    {
+      "EnglishWord": "numberator",
+      "Meanings": [
+        "صورت کسر"
+      ]
+    },
+    {
+      "EnglishWord": "numberical",
+      "Meanings": [
+        "عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical analysis",
+      "Meanings": [
+        "آنالیز عددی",
+        "تجزیه و تحلیل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical coefficients",
+      "Meanings": [
+        "ضرایب عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical determinant",
+      "Meanings": [
+        "دترمینان عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical methods",
+      "Meanings": [
+        "روش‌های عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical scale",
+      "Meanings": [
+        "مقیاس عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical sequence",
+      "Meanings": [
+        "دنباله عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberical value",
+      "Meanings": [
+        "مقدار عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numberically",
+      "Meanings": [
+        "به طور عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numbering",
+      "Meanings": [
+        "شماره گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "numbering of favourable cases",
+      "Meanings": [
+        "تعداد حالات مساوی"
+      ]
+    },
+    {
+      "EnglishWord": "numbering scale",
+      "Meanings": [
+        "سیستم عددنویسی",
+        "پایه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numbering scale with base n",
+      "Meanings": [
+        "عدد نویسی به"
+      ]
+    },
+    {
+      "EnglishWord": "numbering system",
+      "Meanings": [
+        "دستگاه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numbering theoretic",
+      "Meanings": [
+        "نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numbering theoretical functions",
+      "Meanings": [
+        "توابع نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numbering theory",
+      "Meanings": [
+        "نظریه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numbering with common factors",
+      "Meanings": [
+        "عدد‌های مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "numberless",
+      "Meanings": [
+        "بی شمار"
+      ]
+    },
+    {
+      "EnglishWord": "numbers of times",
+      "Meanings": [
+        "تعداد دفعات"
+      ]
+    },
+    {
+      "EnglishWord": "numeral",
+      "Meanings": [
+        "عددی",
+        "رقم",
+        "پیکر"
+      ]
+    },
+    {
+      "EnglishWord": "numeral system",
+      "Meanings": [
+        "سیستم عدد نویسی",
+        "پایه اعداد"
+      ]
+    },
+    {
+      "EnglishWord": "numeration",
+      "Meanings": [
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "numeration system",
+      "Meanings": [
+        "دستگاه شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "numerator",
+      "Meanings": [
+        "صورت کسر",
+        "برخه شمار"
+      ]
+    },
+    {
+      "EnglishWord": "numerator function",
+      "Meanings": [
+        "تابع صورت کسر",
+        "تابع صورت"
+      ]
+    },
+    {
+      "EnglishWord": "numerator of a fraction",
+      "Meanings": [
+        "صورت کسر"
+      ]
+    },
+    {
+      "EnglishWord": "numeric function",
+      "Meanings": [
+        "تابع عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical",
+      "Meanings": [
+        "عددی",
+        "شماری"
+      ]
+    },
+    {
+      "EnglishWord": "numerical analysis",
+      "Meanings": [
+        "آنالیز عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical approach",
+      "Meanings": [
+        "نگرش عددی",
+        "روش عد"
+      ]
+    },
+    {
+      "EnglishWord": "numerical arrangement",
+      "Meanings": [
+        "ترتیب شماره ای"
+      ]
+    },
+    {
+      "EnglishWord": "numerical calculus",
+      "Meanings": [
+        "حساب عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical characteristic",
+      "Meanings": [
+        "مشخصه عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical check",
+      "Meanings": [
+        "تحقیق عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical component",
+      "Meanings": [
+        "مولفه عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical computation",
+      "Meanings": [
+        "محاسبه عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical control",
+      "Meanings": [
+        "کنترل عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical differentiation",
+      "Meanings": [
+        "مشتق گیری عددی",
+        "دیفرانسیل گیری عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical instability",
+      "Meanings": [
+        "ناپایداری عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical integration",
+      "Meanings": [
+        "انتگرالگیری عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical line",
+      "Meanings": [
+        "خط عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical methods",
+      "Meanings": [
+        "روش‌های عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical range",
+      "Meanings": [
+        "برد عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical sequence",
+      "Meanings": [
+        "گزاره خبری",
+        "دنباله عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical series",
+      "Meanings": [
+        "سری عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical solution",
+      "Meanings": [
+        "حل عددی",
+        "جواب عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical solution of algebraic equation",
+      "Meanings": [
+        "حل عددی معادله‌های جبری"
+      ]
+    },
+    {
+      "EnglishWord": "numerical solution of algebraic equations",
+      "Meanings": [
+        "حل عددی معادله‌های جبری"
+      ]
+    },
+    {
+      "EnglishWord": "numerical tables",
+      "Meanings": [
+        "حداول عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical value",
+      "Meanings": [
+        "مقدار عددی"
+      ]
+    },
+    {
+      "EnglishWord": "numerical value of a vector",
+      "Meanings": [
+        "مقدار عددی یک بردار"
+      ]
+    },
+    {
+      "EnglishWord": "numering",
+      "Meanings": [
+        "نمره گذاری",
+        "عددنویسی"
+      ]
+    },
+    {
+      "EnglishWord": "numerous",
+      "Meanings": [
+        "متعدد",
+        "زیاد",
+        "بی شمار"
+      ]
+    },
+    {
+      "EnglishWord": "nut",
+      "Meanings": [
+        "مهره ضامن",
+        "مهره",
+        "مهره شاتون"
+      ]
+    },
+    {
+      "EnglishWord": "nutation",
+      "Meanings": [
+        "رقص محوری",
+        "ناوش"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+﻿{
+  "Group": "P",
+  "Entries": 129,
+  "Words": [
+    {
+      "EnglishWord": "package",
+      "Meanings": [
+        "ﺑﺴﺘﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "packaging",
+      "Meanings": [
+        "ﺑﺴﺘﻪ ﺑﻨﺪﯼ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "paper",
+      "Meanings": [
+        "اوراق ﺑﻬﺎدار"
+      ]
+    },
+    {
+      "EnglishWord": "parasite",
+      "Meanings": [
+        "ﻋﻮاﻣﻞ اﯾﺠﺎد اﺧﺘﻼل"
+      ]
+    },
+    {
+      "EnglishWord": "paretopsony",
+      "Meanings": [
+        "ﻣﻮﻗﻌﻴﺖ ﭘﺎرﻩ ﺗﻮﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pareto's principle",
+      "Meanings": [
+        "اﺻﻞ ﭘﺎرﻩ ﺗﻮ"
+      ]
+    },
+    {
+      "EnglishWord": "participative management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﻣﺸﺎرﮐﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "participative project management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﭘﺮوژﻩ ﻣﺸﺎرﮐﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "partner ship",
+      "Meanings": [
+        "ﺷﺮﮐﺖ ﺗﻀﺎﻣﻨﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pash goal model",
+      "Meanings": [
+        "ﻣﺪل ﻣﺴﻴﺮ هدف"
+      ]
+    },
+    {
+      "EnglishWord": "passive",
+      "Meanings": [
+        "ﻣﻨﻔﻌﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "path - goal model",
+      "Meanings": [
+        "ﻣﺪل ﻣﺴﻴﺮ هدف"
+      ]
+    },
+    {
+      "EnglishWord": "patterned",
+      "Meanings": [
+        "اﻟﮕﻮ"
+      ]
+    },
+    {
+      "EnglishWord": "pay back period",
+      "Meanings": [
+        "دورﻩ ﺑﺮﮔﺸﺖ ﺳﺮﻣﺎﯾﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "pay roll",
+      "Meanings": [
+        "ﻓﻬﺮﺳﺖ ﺣﻘﻮق ﮐﺎرﮐﻨﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "payback period",
+      "Meanings": [
+        "دورﻩ ﺑﺎزﭘﺮداﺧﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "payment",
+      "Meanings": [
+        "ﭘﺮداﺧﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "payoff",
+      "Meanings": [
+        "ﺑﺎزدﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "payoff matrix",
+      "Meanings": [
+        "ﻣﺎﺗﺮﯾﺲ ﺑﺎزدﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "payroll",
+      "Meanings": [
+        "ﻟﻴﺴﺖ ﺣﻘﻮﻗﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "peak",
+      "Meanings": [
+        "ﻗﻠﻪ ﻧﻤﻮدار"
+      ]
+    },
+    {
+      "EnglishWord": "peers",
+      "Meanings": [
+        "همکاران"
+      ]
+    },
+    {
+      "EnglishWord": "penetrate",
+      "Meanings": [
+        "ﻧﻔﻮذ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "pension",
+      "Meanings": [
+        "ﺣﻘﻮق ﺑﺎزﻧﺸﺴﺘﮕﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "people skills",
+      "Meanings": [
+        "ﻣﻬﺎرت هﺎﯼ اﺟﺘﻤﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "per capita income",
+      "Meanings": [
+        "درﺁﻣﺪ ﺳﺮاﻧﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "perception",
+      "Meanings": [
+        "ادراﮎ"
+      ]
+    },
+    {
+      "EnglishWord": "percntage",
+      "Meanings": [
+        "درﺻﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "performance",
+      "Meanings": [
+        "ﻋﻤﻠﮑﺮد"
+      ]
+    },
+    {
+      "EnglishWord": "performance appraisal",
+      "Meanings": [
+        "ارزﯾﺎﺑﯽ ﻋﻤﻠﮑﺮد"
+      ]
+    },
+    {
+      "EnglishWord": "performance gaps",
+      "Meanings": [
+        "ﺷﮑﺎف ﻋﻤﻠﮑﺮد"
+      ]
+    },
+    {
+      "EnglishWord": "permanent plans",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ هﺎﯼ داﺋﻤﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "permission",
+      "Meanings": [
+        "اﺟﺎزﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "personal income",
+      "Meanings": [
+        "درﺁﻣﺪ ﺷﺨﺼﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "personal selling",
+      "Meanings": [
+        "ﻓﺮوش ﺷﺨﺼﯽ",
+        "ﻓﺮوش ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "personality",
+      "Meanings": [
+        "ﺷﺨﺼﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "personnel",
+      "Meanings": [
+        "ﮐﺎرﮐﻨﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "personnel loyalty",
+      "Meanings": [
+        "وﻓﺎدارﯼ ﮐﺎرﮐﻨﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "persuasive advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت ﻣﺘﻘﺎﻋﺪ ﮐﻨﻨﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "petty cash",
+      "Meanings": [
+        "ﺗﻦ ﺧﻮاﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "physical structure",
+      "Meanings": [
+        "ﺳﺎﺧﺖ ﻓﻴﺰﯾﮑﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "physiological needs",
+      "Meanings": [
+        "ﻧﻴﺎزهاﯼ ﺟﺴﻤﺎﻧﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pipeline transportation",
+      "Meanings": [
+        "ﺣﻤﻞ و ﻧﻘﻞ ﮐﺎﻧﺎﻟﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "placement",
+      "Meanings": [
+        "ﻣﮑﺎﻧﻴﺎﺑﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "plan",
+      "Meanings": [
+        "ﻃﺮح"
+      ]
+    },
+    {
+      "EnglishWord": "planned change",
+      "Meanings": [
+        "ﺗﻐﻴﻴﺮ ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ ﺷﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "planning",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "planning phase",
+      "Meanings": [
+        "ﻓﺎز ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "planning premses",
+      "Meanings": [
+        "ﻣﻔﺮوﺿﺎت ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "plant engineering",
+      "Meanings": [
+        "ﻣﻬﻨﺪﺳﯽ ﮐﺎرﺧﺎﻧﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "policy",
+      "Meanings": [
+        "ﺳﻴﺎﺳﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "political risk",
+      "Meanings": [
+        "رﯾﺴﮏ ﺳﻴﺎﺳﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "political variables",
+      "Meanings": [
+        "ﻣﺘﻐﻴﺮهاﯼ ﺳﻴﺎﺳﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "population",
+      "Meanings": [
+        "ﺟﻤﻌﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "port folio planing",
+      "Meanings": [
+        "ﻣﺴﻴﺮ ﺳﺮﻣﺎﯾﻪ ﮔﺬارﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio framework",
+      "Meanings": [
+        "ﭼﺎرﭼﻮب ﭘﺮﺗﻔﻮ"
+      ]
+    },
+    {
+      "EnglishWord": "position describtion",
+      "Meanings": [
+        "ﺷﺮح ﺷﻐﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "position power",
+      "Meanings": [
+        "ﻗﺪرت ﭘﺴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "positive reinforcement",
+      "Meanings": [
+        "ﺗﻘﻮﯾﺖ ﻣﺜﺒﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "poster",
+      "Meanings": [
+        "ﭘﻮﺳﺘﺮ"
+      ]
+    },
+    {
+      "EnglishWord": "potential",
+      "Meanings": [
+        "ﺑﺎﻟﻘﻮﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "power",
+      "Meanings": [
+        "ﻗﺪرت"
+      ]
+    },
+    {
+      "EnglishWord": "predict",
+      "Meanings": [
+        "ﭘﻴﺶ ﺑﻴﻨﯽ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "prepare",
+      "Meanings": [
+        "ﻓﺮاهم ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "prepayment",
+      "Meanings": [
+        "ﭘﻴﺶ ﭘﺮداﺧﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "present worth",
+      "Meanings": [
+        "ارزش ﻓﻌﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pressare",
+      "Meanings": [
+        "ﺗﻘﺎﺿﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "pretest",
+      "Meanings": [
+        "ﭘﻴﺶ ﺁزﻣﻮن"
+      ]
+    },
+    {
+      "EnglishWord": "preventive control",
+      "Meanings": [
+        "ﮐﻨﺘﺮل هاﯼ ﭘﻴﺶ ﮔﻴﺮاﻧﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "price",
+      "Meanings": [
+        "ﺑﻬﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "price ceiling",
+      "Meanings": [
+        "ﺷﻘﻒ ﻗﻴﻤﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "price floor",
+      "Meanings": [
+        "ﮐﻒ ﻗﻴﻤﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "price leader",
+      "Meanings": [
+        "ﺳﻘﻒ ﻗﻴﻤﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "price tag",
+      "Meanings": [
+        "اﺗﻴﮑﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "price wars",
+      "Meanings": [
+        "ﺟﻨﮓ ﻗﻴﻤﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "primary product",
+      "Meanings": [
+        "ﻣﺤﺼﻮل اوﻟﻴﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "primary relations",
+      "Meanings": [
+        "رواﺑﻂ اﺻﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "priority",
+      "Meanings": [
+        "اوﻟﻮﯾﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "private",
+      "Meanings": [
+        "ﺧﺼﻮﺻﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "probe",
+      "Meanings": [
+        "ﺗﺤﻘﻴﻖ"
+      ]
+    },
+    {
+      "EnglishWord": "problem",
+      "Meanings": [
+        "ﻣﺴﺎﻟﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "روﯾﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "ﻓﺮآﯾﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "process control",
+      "Meanings": [
+        "ﻧﻈﺎم ﮐﻨﺘﺮل ﻓﺮآﯾﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "process path",
+      "Meanings": [
+        "ﻣﺴﻴﺮ ﻓﺮآﯾﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "process style",
+      "Meanings": [
+        "ﺳﺒﮏ ﻓﺮاﮔﺮدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "process theories",
+      "Meanings": [
+        "ﻧﻈﺮﯾﻪ هاﯼ ﻓﺮآﯾﻨﺪﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "product",
+      "Meanings": [
+        "ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "product advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت ﻣﺤﺼﻮل"
+      ]
+    },
+    {
+      "EnglishWord": "product development",
+      "Meanings": [
+        "ﺗﻮﺳﻌﻪ ﻣﺤﺼﻮل",
+        "ﮔﺴﺘﺮش ﻣﺤﺼﻮل"
+      ]
+    },
+    {
+      "EnglishWord": "product development strategy",
+      "Meanings": [
+        "اﺳﺘﺮاﺗﮋﯼ ﮔﺴﺘﺮش ﻣﺤﺼﻮل"
+      ]
+    },
+    {
+      "EnglishWord": "product item",
+      "Meanings": [
+        "اﻗﻼم ﺗﻮﻟﻴﺪﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "product life cycle plc",
+      "Meanings": [
+        "ﭼﺮﺧﻪ ﺣﻴﺎت ﻣﺤﺼﻮل"
+      ]
+    },
+    {
+      "EnglishWord": "product line",
+      "Meanings": [
+        "ﺧﻂ ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "product line length",
+      "Meanings": [
+        "ﻃﻮل ﺧﻂ ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "product manager",
+      "Meanings": [
+        "ﻣﺪﯾﺮﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "product strategy",
+      "Meanings": [
+        "اﺳﺘﺮاﺘﮋﯼ ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "production line",
+      "Meanings": [
+        "ﺧﻂ ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "production management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﺗﻮﻟﻴﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "production organization",
+      "Meanings": [
+        "ﺳﺎزﻣﺎن ﺗﻮﻟﻴﺪﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "productivity",
+      "Meanings": [
+        "ﺑﻬﺮﻩ ورﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "profession",
+      "Meanings": [
+        "ﺣﺮﻓﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "profile",
+      "Meanings": [
+        "ﭘﺮوﻧﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "profit",
+      "Meanings": [
+        "ﺳﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "profit planning",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ رﯾﺰ ﺳﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "profit potential",
+      "Meanings": [
+        "ﺳﻮد ﺑﺎﻟﻘﻮﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "profitability",
+      "Meanings": [
+        "ﺳﻮدﺁورﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "program",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "project",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ هﺪﻓﻤﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "project objectives",
+      "Meanings": [
+        "اهداف ﭘﺮوژﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "project priorities",
+      "Meanings": [
+        "اوﻟﻮﯾﺖ هاﯼ ﭘﺮوژﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "projection",
+      "Meanings": [
+        "ﻓﺮاﻓﮑﻨﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "promissory note",
+      "Meanings": [
+        "ﺳﻔﺘﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "promotion",
+      "Meanings": [
+        "ارﺗﻘﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "prospect",
+      "Meanings": [
+        "ﺧﺮﯾﺪار ﺑﺎﻗﻮﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "protocols",
+      "Meanings": [
+        "ﺁﯾﻴﻦ ﻧﺎﻣﻪ ها"
+      ]
+    },
+    {
+      "EnglishWord": "prototype",
+      "Meanings": [
+        "ﻧﻤﻮﻧﻪ اوﻟﻴﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "public",
+      "Meanings": [
+        "ﻋﻤﻮﻣﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "public relations",
+      "Meanings": [
+        "رواﺑﻂ ﻋﻤﻮﻣﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pull strategy",
+      "Meanings": [
+        "اﺳﺘﺮاﺗﮋﯼ ﮐﺸﺸﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pulsing",
+      "Meanings": [
+        "دﺳﺘﻪ ﺑﻨﺪﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "punishment",
+      "Meanings": [
+        "ﺗﻨﺒﻴﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "purchase",
+      "Meanings": [
+        "ﺧﺮﯾﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "purchasing officer",
+      "Meanings": [
+        "ﻣﺴﺌﻮل ﺧﺮﯾﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "pure competition",
+      "Meanings": [
+        "رﻗﺎﺑﺖ ﮐﺎﻣﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "push strategy",
+      "Meanings": [
+        "اﺳﺘﺮاﺗﮋﯼ ﻓﺸﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "pv",
+      "Meanings": [
+        "ارزش ﻓﻌﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "pyramid selling",
+      "Meanings": [
+        "ﻓﺮوش هرﻣﯽ"
+      ]
+    }
+  ]
+}

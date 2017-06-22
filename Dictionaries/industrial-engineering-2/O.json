@@ -1,0 +1,308 @@
+﻿{
+  "Group": "O",
+  "Entries": 44,
+  "Words": [
+    {
+      "EnglishWord": "objective",
+      "Meanings": [
+        "مقصد",
+        "هدف",
+        "آرمان"
+      ]
+    },
+    {
+      "EnglishWord": "objective function",
+      "Meanings": [
+        "تابع هدف",
+        "تابعب که بیان کننده هدف مورد انتظار به صورت کمی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "objective test",
+      "Meanings": [
+        "آزمون‌های عینی",
+        "آزمون هایی تربیتی که در آن پرسش‌ها طوری ارایه می‌شود که برای آنها فقط یک پاسخ درست وجود داشته باشد",
+        "و تفسیر شخصی آزماینده از فرایند نمره گذاری حذف شود"
+      ]
+    },
+    {
+      "EnglishWord": "off the shelf",
+      "Meanings": [
+        "تولید انبوه",
+        "استاندارد",
+        "غیر سفارشی"
+      ]
+    },
+    {
+      "EnglishWord": "off-line qc",
+      "Meanings": [
+        "کنترل کیفیت خارج از خط"
+      ]
+    },
+    {
+      "EnglishWord": "oil-hardening",
+      "Meanings": [
+        "آبدیده",
+        "فولاد یا فلز سخت شده توسط روغن یا آب"
+      ]
+    },
+    {
+      "EnglishWord": "on demand",
+      "Meanings": [
+        "به محض مطالبه",
+        "بر حسب تقاضا"
+      ]
+    },
+    {
+      "EnglishWord": "on order",
+      "Meanings": [
+        "سفارش در راه"
+      ]
+    },
+    {
+      "EnglishWord": "onion factor",
+      "Meanings": [
+        "عامل پیاز فرآیند تو در تو"
+      ]
+    },
+    {
+      "EnglishWord": "online",
+      "Meanings": [
+        "اینترنتی",
+        "لحظه ای",
+        "آنی",
+        "درون خطی"
+      ]
+    },
+    {
+      "EnglishWord": "on-line qc",
+      "Meanings": [
+        "کنترل کیفیت حین تولید"
+      ]
+    },
+    {
+      "EnglishWord": "on-line statistical process control",
+      "Meanings": [
+        "کنترل فرآیند آماری حین تولید"
+      ]
+    },
+    {
+      "EnglishWord": "on-the-job training  ojt",
+      "Meanings": [
+        "آموزش حین خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "ontology",
+      "Meanings": [
+        "هستی شناسی",
+        "مشخص کردن رسمی و صریح نحوه معرفی اشیاء",
+        "مفاهیم و سایر موجودیت‌ها که فرض می‌شود در زمینه ای وجود داشته و مطالعه روابطی که بین آنها وجود دارد"
+      ]
+    },
+    {
+      "EnglishWord": "open system",
+      "Meanings": [
+        "سیستم باز",
+        "سیستمی که با محیط اطراف خود تعامل داشته و تبادل انرژی و مواد برقرار می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "operating-characteristic  oc",
+      "Meanings": [
+        "مشخصه عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "operating-characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه عملکرد",
+        "منحنی که در آن میزان تغییرات در خطای نوع دوم نسبت به تغییر در میانگین دو نمونه نشان داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "operation",
+      "Meanings": [
+        "عمل",
+        "عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "operation process chart  opc",
+      "Meanings": [
+        "نمودار فرآیند عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operation research  or",
+      "Meanings": [
+        "تحقیق در عملیات",
+        "پژوهش عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity",
+      "Meanings": [
+        "فرصت",
+        "مجال",
+        "شانس",
+        "در مقابل تهدید threat"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity loss",
+      "Meanings": [
+        "زیان فرصت",
+        "از دست دادن فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "optimistic",
+      "Meanings": [
+        "خوش بینانه"
+      ]
+    },
+    {
+      "EnglishWord": "optimized production technology  opt",
+      "Meanings": [
+        "تکنولوژی تولید بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "سفارش",
+        "دستور",
+        "مرتب کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "order expediting  oe",
+      "Meanings": [
+        "تسریع در سفارش دهی"
+      ]
+    },
+    {
+      "EnglishWord": "order management  om",
+      "Meanings": [
+        "مدیریت سفارشات"
+      ]
+    },
+    {
+      "EnglishWord": "ordering cost",
+      "Meanings": [
+        "هزینه سفارش دهی"
+      ]
+    },
+    {
+      "EnglishWord": "organization",
+      "Meanings": [
+        "سازمان",
+        "تشکیلات",
+        "سازماندهی"
+      ]
+    },
+    {
+      "EnglishWord": "organization breakdown structure  obs",
+      "Meanings": [
+        "ساختار شکست سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization chart",
+      "Meanings": [
+        "نمودار سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "organization structure",
+      "Meanings": [
+        "ساختار سازمانی",
+        "دارای سه بعد می‌باشد که عبارتند از",
+        "و"
+      ]
+    },
+    {
+      "EnglishWord": "organizational breakdown structure  obs",
+      "Meanings": [
+        "ساختار شکست سازمانی",
+        "depiction of the project organization arranged so as to relate work packages to organizational units"
+      ]
+    },
+    {
+      "EnglishWord": "organizational project management maturity model  opm3",
+      "Meanings": [
+        "مدل بلوغ سازمانی مدیریت پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "out of control",
+      "Meanings": [
+        "خارج از کنترل",
+        "حالتی از فرآیند که در آن حالت نوسانات بادلیل و قابل تشخیص در فرآیند بوجود می‌آید. فرآیندی که خارج از کنترل باشد از نظر آماری بی ثبات است"
+      ]
+    },
+    {
+      "EnglishWord": "outcome",
+      "Meanings": [
+        "خروجی",
+        "برآمد"
+      ]
+    },
+    {
+      "EnglishWord": "outsourcing",
+      "Meanings": [
+        "برونسپاری",
+        "منبع یابی از خارج شرکت یا سازمان",
+        "خرید یک محصول یا خدمات از یک شرکت بیرونی",
+        "بجای تولید یا انجام آن درون سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "outward",
+      "Meanings": [
+        "تمرکز بر خارج"
+      ]
+    },
+    {
+      "EnglishWord": "over time",
+      "Meanings": [
+        "اضافه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "overal goal",
+      "Meanings": [
+        "آرمان کلی",
+        "آرمان فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "overall equipment effectiveness  oee",
+      "Meanings": [
+        "میزان اثر بخشی تجهیزات"
+      ]
+    },
+    {
+      "EnglishWord": "overhaul maintenance  om",
+      "Meanings": [
+        "تعمیرات اساسی",
+        "در این نوع تعمیرات کار دمونتاژ",
+        "تعمیر و مونتاژ مجدد انجام می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "سرجمع",
+        "بالاسری"
+      ]
+    },
+    {
+      "EnglishWord": "overrun",
+      "Meanings": [
+        "افزایش هزینه"
+      ]
+    }
+  ]
+}

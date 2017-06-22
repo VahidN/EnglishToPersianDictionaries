@@ -1,0 +1,47 @@
+﻿{
+  "Group": "X",
+  "Entries": 6,
+  "Words": [
+    {
+      "EnglishWord": "x component",
+      "Meanings": [
+        "مولفه x",
+        "مختص x"
+      ]
+    },
+    {
+      "EnglishWord": "x intercept",
+      "Meanings": [
+        "طول از مبدا",
+        "خفت از مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "xaxis",
+      "Meanings": [
+        "محور x ها",
+        "محور طول در دستگاه مختصات دکارتی"
+      ]
+    },
+    {
+      "EnglishWord": "x-axis",
+      "Meanings": [
+        "محور x ها",
+        "محور طول در دستگاه مختصات دکارتی"
+      ]
+    },
+    {
+      "EnglishWord": "xy plane",
+      "Meanings": [
+        "صفحه xy"
+      ]
+    },
+    {
+      "EnglishWord": "xz plane",
+      "Meanings": [
+        "صفحه xz",
+        "هامن xz"
+      ]
+    }
+  ]
+}

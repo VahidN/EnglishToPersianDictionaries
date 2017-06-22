@@ -1,0 +1,579 @@
+﻿{
+  "Group": "N",
+  "Entries": 90,
+  "Words": [
+    {
+      "EnglishWord": "n2p",
+      "Meanings": [
+        "Net to Phone"
+      ]
+    },
+    {
+      "EnglishWord": "naghoos",
+      "Meanings": [
+        "انتشارات ناقوس",
+        "منتشر کننده کتابهای آموزش کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "naghsh",
+      "Meanings": [
+        "نرم افزار معروف نقش"
+      ]
+    },
+    {
+      "EnglishWord": "name",
+      "Meanings": [
+        "نام"
+      ]
+    },
+    {
+      "EnglishWord": "nano",
+      "Meanings": [
+        "نانو = یک بیلیونم علامت اختصاری = n"
+      ]
+    },
+    {
+      "EnglishWord": "nanocomputer",
+      "Meanings": [
+        "کامپیوترهایی که توانایی پردازش در یک میلیاردم ثانیه را دارند"
+      ]
+    },
+    {
+      "EnglishWord": "nanosecond",
+      "Meanings": [
+        "نانوثانیه",
+        "میلیاردم ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "napster",
+      "Meanings": [
+        "نرم افزاری برای دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "nation",
+      "Meanings": [
+        "ملت",
+        "ملیت"
+      ]
+    },
+    {
+      "EnglishWord": "national",
+      "Meanings": [
+        "کمپانی ساخت وسایل برقی"
+      ]
+    },
+    {
+      "EnglishWord": "nba",
+      "Meanings": [
+        "بازی بسکتبال"
+      ]
+    },
+    {
+      "EnglishWord": "nc",
+      "Meanings": [
+        "Norton commander",
+        "نرم افزاری برای نمایش فایلها و انجام عملیات بر روی آنها"
+      ]
+    },
+    {
+      "EnglishWord": "need for speed",
+      "Meanings": [
+        "یکی از بازیهای معروف ماشین سواری"
+      ]
+    },
+    {
+      "EnglishWord": "neo",
+      "Meanings": [
+        "پیشوندی به معنای جدید"
+      ]
+    },
+    {
+      "EnglishWord": "nero burning rom",
+      "Meanings": [
+        "یکی از قویترین برنامه‌ها برای کپی CD و یا تصویربرداری از آن"
+      ]
+    },
+    {
+      "EnglishWord": "nero image drive",
+      "Meanings": [
+        "بوسیله این برنامه می‌توانید تصویرهایی را که به وسیله برنامه Nero از دیسکها گرفتید ایجاد کنید"
+      ]
+    },
+    {
+      "EnglishWord": "net",
+      "Meanings": [
+        "یکی از حوزه‌های اینترنی مخفف Netwok"
+      ]
+    },
+    {
+      "EnglishWord": "net talk",
+      "Meanings": [
+        "برنامه ای برای چت"
+      ]
+    },
+    {
+      "EnglishWord": "net vampire",
+      "Meanings": [
+        "نرم افزاری برای افزایش سرعت دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "net zip",
+      "Meanings": [
+        "نرم افزاری برای دانلود فایلهای Zip و"
+      ]
+    },
+    {
+      "EnglishWord": "net2phone",
+      "Meanings": [
+        "برنامه ای برای تلفن زدن با مودم به یک شخص"
+      ]
+    },
+    {
+      "EnglishWord": "netants",
+      "Meanings": [
+        "نرم افزاری برای دانلود"
+      ]
+    },
+    {
+      "EnglishWord": "netcaptor",
+      "Meanings": [
+        "یکی از مرورگرهای نه چندان قوی"
+      ]
+    },
+    {
+      "EnglishWord": "netscape communicator",
+      "Meanings": [
+        "یک نوع مرورگر وب قوی و سرعت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "netstat",
+      "Meanings": [
+        "عملی که اگر آن را در داس بنویسیم IP را به ما نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "netware",
+      "Meanings": [
+        "نرم افزاری برای شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "network connection refused by the server",
+      "Meanings": [
+        "سرور وب مشغول است"
+      ]
+    },
+    {
+      "EnglishWord": "network modem speed",
+      "Meanings": [
+        "نرم افزاری برای بالا بردن سرعت مودم"
+      ]
+    },
+    {
+      "EnglishWord": "network neighborhood",
+      "Meanings": [
+        "فولدری در وینوز مورد استقاده در شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "neutral",
+      "Meanings": [
+        "بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "new",
+      "Meanings": [
+        "جدید"
+      ]
+    },
+    {
+      "EnglishWord": "new for unix",
+      "Meanings": [
+        "برنامه ای اضافی برای سیستم عامل unix"
+      ]
+    },
+    {
+      "EnglishWord": "news",
+      "Meanings": [
+        "خبر"
+      ]
+    },
+    {
+      "EnglishWord": "newsgroup",
+      "Meanings": [
+        "گروهی که درباره موضوعات اینترنتی بحث می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "newspaper",
+      "Meanings": [
+        "روزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "next",
+      "Meanings": [
+        "بعد"
+      ]
+    },
+    {
+      "EnglishWord": "nextel",
+      "Meanings": [
+        "کمپانی تولید کننده لوازم دیجیتالی"
+      ]
+    },
+    {
+      "EnglishWord": "nhf",
+      "Meanings": [
+        "فایلهای برنامه نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nhl",
+      "Meanings": [
+        "بازی هاکی"
+      ]
+    },
+    {
+      "EnglishWord": "nikon",
+      "Meanings": [
+        "کمپانی سازنده دوربین"
+      ]
+    },
+    {
+      "EnglishWord": "nil",
+      "Meanings": [
+        "صفر",
+        "خالی",
+        "هیچ"
+      ]
+    },
+    {
+      "EnglishWord": "nine",
+      "Meanings": [
+        "نه"
+      ]
+    },
+    {
+      "EnglishWord": "nintendo",
+      "Meanings": [
+        "یکی از بازیهای ساخته شده بر اساس برنامه تلویزیونی"
+      ]
+    },
+    {
+      "EnglishWord": "nntp",
+      "Meanings": [
+        "Network News Transfer Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "node",
+      "Meanings": [
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "nojum",
+      "Meanings": [
+        "سایت ماهنامه نجوم"
+      ]
+    },
+    {
+      "EnglishWord": "nokia",
+      "Meanings": [
+        "کمپانی سازنده موبایل و لوازه تلفنی ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "none",
+      "Meanings": [
+        "خالی",
+        "هیچ"
+      ]
+    },
+    {
+      "EnglishWord": "nonvolatile",
+      "Meanings": [
+        "غیر فرار"
+      ]
+    },
+    {
+      "EnglishWord": "noor mail",
+      "Meanings": [
+        "برنامه ای برای فرستادن نامه به یکدیگر"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "قاعده",
+        "وسط",
+        "معدل"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "عادی",
+        "معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "norton antivirus",
+      "Meanings": [
+        "یکی از قویترین و معروفترین ویروس کشها مورد استفاده در اینترنت و شناسایی ویروسهای درون حافظه خود"
+      ]
+    },
+    {
+      "EnglishWord": "norton multi zipper",
+      "Meanings": [
+        "نرم افزاری برای فشرده کردن فایلها"
+      ]
+    },
+    {
+      "EnglishWord": "not",
+      "Meanings": [
+        "منفی کننده"
+      ]
+    },
+    {
+      "EnglishWord": "not enough memory",
+      "Meanings": [
+        "این پیام خطا هنگامی ظاهر می‌شود که قصد اجرای برنامه‌ای را دارید",
+        "ولی سیستم شما دارای حافظه آزاد کمی است‌. برخی راه حل‌ها عبارتند از",
+        "برنامه‌های در حال اجرا را ببندید و آخرین برنامه را دوباره اجرا کنید. هر چه برنامه‌های درحال اجرای بیشتری داشته باشید",
+        "حافظه آزاد کمتری برای اجرای برنامه‌های جدید خواهید داشت‌",
+        "تمامی برنامه‌ها را ببندید",
+        "از ویندوز خارج گردید و کامپیوتر را دوباره بالا بیاورید. بعضی اوقات برنامه‌های تحت ویندوز",
+        "تمامی حافظه مورد استفاده خود را به هنگام بسته شدن آزاد نمی‌کنند. این نشت حافظه می‌تواند با گذشت زمان",
+        "به مقدار قابل توجهی برسد ومنابع سیستم شما را از بین ببرد. خروج و اجرای دوباره ویندوز",
+        "این حافظه دزدیده شده را آزاد می‌کند",
+        "فضای خالی بیشتری روی دیسک سخت خود فراهم کنید. برای این کار می‌توانید صندوق بازیافت را خالی کرده و یا پرونده‌های بی استفاده را حذف کنید. از آنجا که ویندوز از فضای خالی روی دیسک سخت‌",
+        "به عنوان حافظه مجازی استفاده می‌کند",
+        "کمبود این فضا می‌تواند باعث بروز مشکل کمبود حافظه شود",
+        "امکان دارد که شما یک برنامه تحت DOS را که به حافظه زیادی نیاز دارد",
+        "اجرا کرده باشید"
+      ]
+    },
+    {
+      "EnglishWord": "not implemented",
+      "Meanings": [
+        "سرور وب نمی‌تواند از ویژگی درخواست شده پشتیبانی کند"
+      ]
+    },
+    {
+      "EnglishWord": "notation",
+      "Meanings": [
+        "ثبت",
+        "نشان گذاری",
+        "علامت گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "note",
+      "Meanings": [
+        "یادداشت"
+      ]
+    },
+    {
+      "EnglishWord": "notepad",
+      "Meanings": [
+        "برنامه ای ساده برای تایپ متن",
+        "برای اجرای آن به Start Menu&gt; Programs&gt; Accessories&gt; Notepad بروید"
+      ]
+    },
+    {
+      "EnglishWord": "notice",
+      "Meanings": [
+        "اعلامیه",
+        "آگهی"
+      ]
+    },
+    {
+      "EnglishWord": "notification",
+      "Meanings": [
+        "اخطار",
+        "تذکر"
+      ]
+    },
+    {
+      "EnglishWord": "notion",
+      "Meanings": [
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "novell",
+      "Meanings": [
+        "نوعی سیستم عامل که بیشتر برای شبکه به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "now",
+      "Meanings": [
+        "دستوری در برنامه نویسی که زمان را به ما نشان می‌دهد",
+        "فایلهای متنی"
+      ]
+    },
+    {
+      "EnglishWord": "nra",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrb",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrc",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrd",
+      "Meanings": [
+        "فایلهای DVD نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nre",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrg",
+      "Meanings": [
+        "فایلهای نرم افزار Nero Image Drive"
+      ]
+    },
+    {
+      "EnglishWord": "nrh",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nri",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrm",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nru",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrv",
+      "Meanings": [
+        "فایلهای نرم افزار نرو"
+      ]
+    },
+    {
+      "EnglishWord": "nrw",
+      "Meanings": [
+        "فایلهای نرم افزار Nero WMA"
+      ]
+    },
+    {
+      "EnglishWord": "nt",
+      "Meanings": [
+        "Not testified"
+      ]
+    },
+    {
+      "EnglishWord": "ntp",
+      "Meanings": [
+        "Network Time Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "nu",
+      "Meanings": [
+        "Norton utility",
+        "نرم افزاری برای کار بر روی فایلها",
+        "حرف سیزدهم یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "nul",
+      "Meanings": [
+        "تهی"
+      ]
+    },
+    {
+      "EnglishWord": "null",
+      "Meanings": [
+        "خالی"
+      ]
+    },
+    {
+      "EnglishWord": "num lock",
+      "Meanings": [
+        "کلید قفل کننده اعداد ماشین حساب"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "عدد",
+        "شماره"
+      ]
+    },
+    {
+      "EnglishWord": "numbering",
+      "Meanings": [
+        "شماره گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "numeration",
+      "Meanings": [
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "numerical",
+      "Meanings": [
+        "عددی",
+        "شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "nvidia",
+      "Meanings": [
+        "کمپانی سازنده کارتهای گرافیک"
+      ]
+    },
+    {
+      "EnglishWord": "nym",
+      "Meanings": [
+        "یکی از سرویس دهندگانی که خصوصیات کاربر را از دید مخفی می‌کند"
+      ]
+    }
+  ]
+}

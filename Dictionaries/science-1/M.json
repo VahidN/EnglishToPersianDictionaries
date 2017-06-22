@@ -1,0 +1,599 @@
+﻿{
+  "Group": "M",
+  "Entries": 83,
+  "Words": [
+    {
+      "EnglishWord": "m",
+      "Meanings": [
+        "صفر چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "mach cone",
+      "Meanings": [
+        "مخروط ماخ"
+      ]
+    },
+    {
+      "EnglishWord": "maclaurian's formula",
+      "Meanings": [
+        "رابطه ماکلورن",
+        "دستور ماکلورن",
+        "دیسوله ماکلورن"
+      ]
+    },
+    {
+      "EnglishWord": "maclaurian's series",
+      "Meanings": [
+        "سری ماکلورن"
+      ]
+    },
+    {
+      "EnglishWord": "magic",
+      "Meanings": [
+        "جادویی",
+        "سحرآمیز",
+        "شگفت انگیز"
+      ]
+    },
+    {
+      "EnglishWord": "magic square",
+      "Meanings": [
+        "مربع جادویی",
+        "مربع وفقی",
+        "مربع توافقی",
+        "مربع شگفت انگیز"
+      ]
+    },
+    {
+      "EnglishWord": "magnification",
+      "Meanings": [
+        "انبساط",
+        "بسط دادن",
+        "بزرگ نمایی",
+        "بزرگ سازی"
+      ]
+    },
+    {
+      "EnglishWord": "magnify",
+      "Meanings": [
+        "درشت کردن",
+        "بزرگ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "magnitude",
+      "Meanings": [
+        "بزرگی",
+        "حجم",
+        "اندازه",
+        "کمیت",
+        "قدر",
+        "عظمت مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "main",
+      "Meanings": [
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main diagonal",
+      "Meanings": [
+        "قطر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main effect",
+      "Meanings": [
+        "اثر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "major",
+      "Meanings": [
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "mapping",
+      "Meanings": [
+        "نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "marginal density",
+      "Meanings": [
+        "چگالی حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "marginal frequencies",
+      "Meanings": [
+        "فراوانی‌های حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "markov",
+      "Meanings": [
+        "مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "markov process",
+      "Meanings": [
+        "فرآیند مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "marriage theorem",
+      "Meanings": [
+        "قضیه ازدواج"
+      ]
+    },
+    {
+      "EnglishWord": "mascheroni",
+      "Meanings": [
+        "ماشیرونی",
+        "تا 1800 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "matching",
+      "Meanings": [
+        "تطابق"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical complete induction",
+      "Meanings": [
+        "استقرای کامل ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical expectation",
+      "Meanings": [
+        "امید ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical functions",
+      "Meanings": [
+        "توابع ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical induction",
+      "Meanings": [
+        "استقرای ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematics",
+      "Meanings": [
+        "ریاضیات",
+        "علم ریاضیات",
+        "مطالعه استنتاجی شکل",
+        "کمیت و استقلال",
+        "علم ریاضیات به دو دسته عمده تقسیم می‌شود",
+        "ریاضیات کاربردی applied mathematics که از مطالعه پدیده‌های فیزیکی ناشی می‌شود",
+        "ریاضیات محض pure mathemathics که از مطالعه ساختمان‌های ریاضی ناشی می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "matrix",
+      "Meanings": [
+        "ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "matrix concatenation",
+      "Meanings": [
+        "ترکیب ماتریس‌ها",
+        "فرآیند ضرب کردن ماتریس‌ها در هم جهت ترکیب اثر آنها در یک ماتریس واحد. ترتیب ضرب ماتریس‌ها باید مشابه ترتیب اثر آنها باشد در غیراین صورت نتایج دلخواه حاصل نخواهد شد"
+      ]
+    },
+    {
+      "EnglishWord": "maximal",
+      "Meanings": [
+        "ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal element",
+      "Meanings": [
+        "عنصر ماکزیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal ideal",
+      "Meanings": [
+        "ایده آل ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximum column sum norm",
+      "Meanings": [
+        "نرم مکزیمم جمع ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum row sum norm",
+      "Meanings": [
+        "نرم ماکزیمم جمع سطری"
+      ]
+    },
+    {
+      "EnglishWord": "mean axis of ellipse",
+      "Meanings": [
+        "قطر میانی بیضی",
+        "محور متوسط بیضی گون",
+        "قطر اوسط بیضی وار"
+      ]
+    },
+    {
+      "EnglishWord": "mean deviation",
+      "Meanings": [
+        "انحراف از میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "medial traingle",
+      "Meanings": [
+        "مثلث میانک"
+      ]
+    },
+    {
+      "EnglishWord": "merging",
+      "Meanings": [
+        "ادغام"
+      ]
+    },
+    {
+      "EnglishWord": "metabelian",
+      "Meanings": [
+        "فراآبلی"
+      ]
+    },
+    {
+      "EnglishWord": "metamathmatics",
+      "Meanings": [
+        "ماوراء ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "metaphysicians",
+      "Meanings": [
+        "حکمای مابعدالطبیعه"
+      ]
+    },
+    {
+      "EnglishWord": "method",
+      "Meanings": [
+        "روش",
+        "راه"
+      ]
+    },
+    {
+      "EnglishWord": "method of reasoning",
+      "Meanings": [
+        "برهان خلف"
+      ]
+    },
+    {
+      "EnglishWord": "metric",
+      "Meanings": [
+        "متریک"
+      ]
+    },
+    {
+      "EnglishWord": "metric space",
+      "Meanings": [
+        "فضای متریک",
+        "فضای متری"
+      ]
+    },
+    {
+      "EnglishWord": "metrizable",
+      "Meanings": [
+        "متریک‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "mid range",
+      "Meanings": [
+        "میان‌برد"
+      ]
+    },
+    {
+      "EnglishWord": "minimal element",
+      "Meanings": [
+        "عنصر مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimax criterion",
+      "Meanings": [
+        "ملاک مینیماکس"
+      ]
+    },
+    {
+      "EnglishWord": "minkowski inequality",
+      "Meanings": [
+        "نامساوی مینکوفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "minuend",
+      "Meanings": [
+        "مفروق منه",
+        "مفروق",
+        "کاهش یاب",
+        "کم شده از"
+      ]
+    },
+    {
+      "EnglishWord": "minus",
+      "Meanings": [
+        "منها",
+        "تفریق"
+      ]
+    },
+    {
+      "EnglishWord": "mixed",
+      "Meanings": [
+        "آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixed strategy",
+      "Meanings": [
+        "استراتژی آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mobius transformation",
+      "Meanings": [
+        "تبدیل موبیوس"
+      ]
+    },
+    {
+      "EnglishWord": "model",
+      "Meanings": [
+        "الگو"
+      ]
+    },
+    {
+      "EnglishWord": "module",
+      "Meanings": [
+        "پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "modulo",
+      "Meanings": [
+        "پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "modus ponens",
+      "Meanings": [
+        "قیاس استثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "modus tollens",
+      "Meanings": [
+        "قیاس دفع"
+      ]
+    },
+    {
+      "EnglishWord": "mohammad reza majidee",
+      "Meanings": [
+        "این فرهنگ لغت تخصصی ریاضیات توسط محمدرضا مجیدی",
+        "دانشجوی ریاضیات کاربردی دانشگاه اراک جمع‌آوری و تدوین شده است",
+        "کپی‌برداری از این اثر به منظور ترویج علم ریاضیات در ایران و جهان",
+        "آزاد بوده و نیازی به کسب مجوز از مولف ندارد",
+        "این اثر به تدریج کامل خواهد شد. اگر قصد همکاری و یا ارایه نظر",
+        "پیشنهاد و یا انتقاد دارید با آدرس‌های پست‌الکترونیک زیر می‌توانید با مولف ارتباط برقرار کنید",
+        "engmmajidee@yahoo.com",
+        "engmmajidee@gmail.com",
+        "همچنین برای دریافت آخرین ویرایش این فرهنگ لغت می‌توانید به وبلاگ «یادداشت‌های یک دانشجوی ریاضی» مراجعه فرمایید",
+        "منابع این فرهنگ لغت",
+        "نظریه گراف",
+        "دکتر پرویز رشیدیان عضو هییت علمی دانشگاه کردستان",
+        "چاپ اول",
+        "شابک",
+        "نظریه مجموعه‌ها و کاربردهای آن",
+        "شووینگ تی. لین ویو",
+        "فنگ. لین",
+        "ترجمه عمید رسولیان",
+        "مرکز نشر دانشگاهی",
+        "تهران",
+        "چاپ دهم",
+        "واژگان ریاضی انگلیسی",
+        "فارسی",
+        "انگلیسی",
+        "گردآوری و تدوین: مهندس محمد باقری",
+        "ویرایش دوم",
+        "چاپ سوم",
+        "انتشارات فرهنگان",
+        "نظریه گالوا",
+        "هارولد ام. ادواردز",
+        "مترجمان: دکتر عبدالجواد طاهری‌زاده و دکتر باقر نشوادیان‌بخش",
+        "انتشارات دانشگاه اراک",
+        "چاپ اول آذر",
+        "مبانی جبرمجرد همراه با آزمایشگاه‌های کامپیوتری",
+        "دکتر بیژن طایری استادیار دانشکده علوم ریاضی دانشگاه صنعتی اصفهان",
+        "مرکز نشر دانشگاه صنعتی اصفهان",
+        "چاپ اول تابستان",
+        "جبر خطی",
+        "دکتر علیرضا ذکایی و مهندس محسن طورانی",
+        "انتشارات دانشگاه صنعتی خواجه نصیرالدین طوسی",
+        "چاپ اول مرداد",
+        "شابک: ندارد",
+        "برنامه‌ریزی خطی",
+        "مختار اس. بازارا",
+        "جان جی. جارویس",
+        "حنیف دی شرالی",
+        "ترجمه دکتر اسماعیل خرم عضو هییت علمی دانشگاه صنعتی امیرکبیر",
+        "نشر کتاب دانشگاهی",
+        "چاپ پنجم بهار",
+        "آمار ریاضی",
+        "شلدون راس",
+        "طراحی دیجیتال مدار منطقی",
+        "موریس مایو",
+        "ترجمه دکتر قدرت سپیدنام",
+        "انتشارات خراسان",
+        "ویرایش چهارم",
+        "چاپ چهارم پاییز",
+        "Q"
+      ]
+    },
+    {
+      "EnglishWord": "moment",
+      "Meanings": [
+        "گشتاور"
+      ]
+    },
+    {
+      "EnglishWord": "moment generating",
+      "Meanings": [
+        "مولد گشتاور"
+      ]
+    },
+    {
+      "EnglishWord": "moment generating function",
+      "Meanings": [
+        "تابع مولد گشتاور"
+      ]
+    },
+    {
+      "EnglishWord": "monic",
+      "Meanings": [
+        "تکین"
+      ]
+    },
+    {
+      "EnglishWord": "monomial",
+      "Meanings": [
+        "تک جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "moosa",
+      "Meanings": [
+        "بنوموسی قرن سوم هجری",
+        "سه برادر به نامهای محمد",
+        "احمد وحسن فرزندان موسی ابن شاکر یکی از منجمین دربار مامون که به بنو موسی معروفند از دانشمندان مشهور آن دوره محسوب می‌شوند که علاوه بر ترجمه آثار یونانی خود نیز صاحبنظر بوده اند. قسمت اعظم ثروت خود را وقف تهیه و ترجمه آثار نموده اند",
+        "بسیاری از مترجمین مانند: حسین ابن اسحاق",
+        "هلال ابن هلال حمصی",
+        "وثابت ابن قره برای آنها کار می‌کرده اند"
+      ]
+    },
+    {
+      "EnglishWord": "more powerful critical region",
+      "Meanings": [
+        "ناحیه بحرانی تواناتر"
+      ]
+    },
+    {
+      "EnglishWord": "motion",
+      "Meanings": [
+        "حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "motivated by",
+      "Meanings": [
+        "به دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "multi stage test",
+      "Meanings": [
+        "آزمون چندمرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multiple",
+      "Meanings": [
+        "چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple comparisons tests",
+      "Meanings": [
+        "آزمون‌های مقایسه‌های چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiplicant",
+      "Meanings": [
+        "مضرب"
+      ]
+    },
+    {
+      "EnglishWord": "multiplication",
+      "Meanings": [
+        "ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "multiplication table",
+      "Meanings": [
+        "جدول ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "multiplicative group",
+      "Meanings": [
+        "گروه ضربی"
+      ]
+    },
+    {
+      "EnglishWord": "multiplicity",
+      "Meanings": [
+        "چندپارگی"
+      ]
+    },
+    {
+      "EnglishWord": "multiplier",
+      "Meanings": [
+        "ضرب کننده",
+        "مضروب فیه"
+      ]
+    },
+    {
+      "EnglishWord": "multiply",
+      "Meanings": [
+        "ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "multistage test",
+      "Meanings": [
+        "آزمون چندمرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate",
+      "Meanings": [
+        "چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate distribution",
+      "Meanings": [
+        "توزیع چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate regression",
+      "Meanings": [
+        "رگرسیون چندمتغیره"
+      ]
+    }
+  ]
+}

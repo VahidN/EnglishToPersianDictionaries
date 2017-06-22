@@ -1,0 +1,1238 @@
+﻿{
+  "Group": "A",
+  "Entries": 204,
+  "Words": [
+    {
+      "EnglishWord": "a posteriori probability",
+      "Meanings": [
+        "احتمال پسین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori distribution  prior distribution",
+      "Meanings": [
+        "توزیع پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori estimate",
+      "Meanings": [
+        "برآورد پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "a priori probability  prior probability",
+      "Meanings": [
+        "احتمال پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "abac",
+      "Meanings": [
+        "اباک"
+      ]
+    },
+    {
+      "EnglishWord": "abacus",
+      "Meanings": [
+        "چتکه",
+        "چرتکه"
+      ]
+    },
+    {
+      "EnglishWord": "abel's formula",
+      "Meanings": [
+        "فرمول آبل"
+      ]
+    },
+    {
+      "EnglishWord": "abnormal curve",
+      "Meanings": [
+        "خم نانرمال"
+      ]
+    },
+    {
+      "EnglishWord": "absolute",
+      "Meanings": [
+        "مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute asymptotic efficiency",
+      "Meanings": [
+        "کارآیی مجانبی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute convergence",
+      "Meanings": [
+        "همگرایی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute deviation",
+      "Meanings": [
+        "انحراف مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute error",
+      "Meanings": [
+        "خطای مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute frequency",
+      "Meanings": [
+        "فراوانی مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolute moment",
+      "Meanings": [
+        "گشتاور مطلق"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely convex set",
+      "Meanings": [
+        "مجموعه مطلقا کوژ"
+      ]
+    },
+    {
+      "EnglishWord": "absolutely unbiased estimator",
+      "Meanings": [
+        "برآوردگر مطلقا نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbency",
+      "Meanings": [
+        "جاذبیت"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing",
+      "Meanings": [
+        "جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing markov chain",
+      "Meanings": [
+        "زنجیر مارکوف جاذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption law",
+      "Meanings": [
+        "قانون جذب"
+      ]
+    },
+    {
+      "EnglishWord": "absorption probability",
+      "Meanings": [
+        "احتمال جذب"
+      ]
+    },
+    {
+      "EnglishWord": "abstract integral",
+      "Meanings": [
+        "انتگرال مجرد"
+      ]
+    },
+    {
+      "EnglishWord": "accelerated life testing",
+      "Meanings": [
+        "آزمون عمر شتابیده"
+      ]
+    },
+    {
+      "EnglishWord": "acceptable quality level",
+      "Meanings": [
+        "سطح کیفیت پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance error",
+      "Meanings": [
+        "خطای پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance number",
+      "Meanings": [
+        "عدد پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance process level",
+      "Meanings": [
+        "سطح پذیرش فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance process zone",
+      "Meanings": [
+        "منطقه پذیرش فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance region",
+      "Meanings": [
+        "ناحیه پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance sampling",
+      "Meanings": [
+        "نمونه گیری پذیرشی"
+      ]
+    },
+    {
+      "EnglishWord": "accumulative error",
+      "Meanings": [
+        "خطای تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy",
+      "Meanings": [
+        "درستی"
+      ]
+    },
+    {
+      "EnglishWord": "actuarial statistics actuary",
+      "Meanings": [
+        "بیمه‌آمار"
+      ]
+    },
+    {
+      "EnglishWord": "actuary",
+      "Meanings": [
+        "بیمه‌آمارشناس"
+      ]
+    },
+    {
+      "EnglishWord": "acyclic graph",
+      "Meanings": [
+        "گراف بی‌دور"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive",
+      "Meanings": [
+        "تطبیق‌پذیر",
+        "سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive method",
+      "Meanings": [
+        "روش سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive sampling",
+      "Meanings": [
+        "نمونه گیری تطبیق‌پذیر",
+        "نمونه گیری سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive sequential procedure",
+      "Meanings": [
+        "شیوه دنباله‌ای سازوار"
+      ]
+    },
+    {
+      "EnglishWord": "addend",
+      "Meanings": [
+        "جمع وند"
+      ]
+    },
+    {
+      "EnglishWord": "addition theorem",
+      "Meanings": [
+        "قضیه جمع"
+      ]
+    },
+    {
+      "EnglishWord": "additive function",
+      "Meanings": [
+        "تابع جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive measure",
+      "Meanings": [
+        "اندازه جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additive risk model",
+      "Meanings": [
+        "مدل مخاطره جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "additivity",
+      "Meanings": [
+        "جمعی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "admissibility",
+      "Meanings": [
+        "قابلیت قبول"
+      ]
+    },
+    {
+      "EnglishWord": "admissible decision function",
+      "Meanings": [
+        "تابع تصمیم پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible estimator",
+      "Meanings": [
+        "برآوردگر پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible function",
+      "Meanings": [
+        "تابع پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible hypothesis",
+      "Meanings": [
+        "فرض پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible lattice",
+      "Meanings": [
+        "مشبکه پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "admissible sequence",
+      "Meanings": [
+        "دنباله پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "affluence and poverty indexes",
+      "Meanings": [
+        "شاخصهای غنا و فقر"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate",
+      "Meanings": [
+        "انبوهه",
+        "کل"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate index numbers",
+      "Meanings": [
+        "اعداد شاخص کل"
+      ]
+    },
+    {
+      "EnglishWord": "aggregation",
+      "Meanings": [
+        "انبوهش"
+      ]
+    },
+    {
+      "EnglishWord": "aggregative model",
+      "Meanings": [
+        "مدل انبوهشی"
+      ]
+    },
+    {
+      "EnglishWord": "agreement",
+      "Meanings": [
+        "توافق"
+      ]
+    },
+    {
+      "EnglishWord": "aitchison distribution",
+      "Meanings": [
+        "توزیع ایتچیسون"
+      ]
+    },
+    {
+      "EnglishWord": "aitken equation",
+      "Meanings": [
+        "معادله ایتکن"
+      ]
+    },
+    {
+      "EnglishWord": "akaike's criterion",
+      "Meanings": [
+        "ملاک آکاییکه",
+        "ملاک اکاییک"
+      ]
+    },
+    {
+      "EnglishWord": "aleatory",
+      "Meanings": [
+        "کتره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "aleatory variable",
+      "Meanings": [
+        "متغیر کتره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "algebra",
+      "Meanings": [
+        "جبر"
+      ]
+    },
+    {
+      "EnglishWord": "algebra of events",
+      "Meanings": [
+        "جبر پیشامدها"
+      ]
+    },
+    {
+      "EnglishWord": "algorithm",
+      "Meanings": [
+        "الگوریتم"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic independence",
+      "Meanings": [
+        "استقلال الگوریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "algorithmic information theory",
+      "Meanings": [
+        "نظریه الگوریتمی اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "alias group",
+      "Meanings": [
+        "گروه هم‌اثر"
+      ]
+    },
+    {
+      "EnglishWord": "alias matrix",
+      "Meanings": [
+        "ماتریس هم‌اثر"
+      ]
+    },
+    {
+      "EnglishWord": "aliasing",
+      "Meanings": [
+        "هم‌اثرسازی"
+      ]
+    },
+    {
+      "EnglishWord": "align",
+      "Meanings": [
+        "تراز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "allele",
+      "Meanings": [
+        "ژن همردیف"
+      ]
+    },
+    {
+      "EnglishWord": "allocation",
+      "Meanings": [
+        "انتساب",
+        "تخصیص"
+      ]
+    },
+    {
+      "EnglishWord": "allokurtic curve",
+      "Meanings": [
+        "خم قناس"
+      ]
+    },
+    {
+      "EnglishWord": "allometry",
+      "Meanings": [
+        "وردسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "all-or-none compliance",
+      "Meanings": [
+        "رعایت همه یا هیچ یک از مقررات"
+      ]
+    },
+    {
+      "EnglishWord": "allowable",
+      "Meanings": [
+        "مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "almost certain convergence",
+      "Meanings": [
+        "همگرایی تقریبا مطمین"
+      ]
+    },
+    {
+      "EnglishWord": "almost everywhere convergent sequence",
+      "Meanings": [
+        "دنباله تقریبا همه‌جا همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "almost invariant test",
+      "Meanings": [
+        "آزمون تقریبا ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "almost periodic function",
+      "Meanings": [
+        "تابع تقریبا دوره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "almost uniform convergence",
+      "Meanings": [
+        "همگرایی تقریبا یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "alternative hypothesis",
+      "Meanings": [
+        "فرض مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "amenability",
+      "Meanings": [
+        "میانگین‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of covariance",
+      "Meanings": [
+        "تحلیل کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of deviance",
+      "Meanings": [
+        "تحلیل انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary information",
+      "Meanings": [
+        "اطلاع کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "ancillary statistic",
+      "Meanings": [
+        "آماره فرعی",
+        "آماره کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "anderson-darling test",
+      "Meanings": [
+        "آزمون اندرسون",
+        "دارلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "andrews function plot",
+      "Meanings": [
+        "نمودار تابعی اندروز"
+      ]
+    },
+    {
+      "EnglishWord": "angle",
+      "Meanings": [
+        "زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "angular transformation",
+      "Meanings": [
+        "تبدیل زاویه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "annealing",
+      "Meanings": [
+        "نوردیدن"
+      ]
+    },
+    {
+      "EnglishWord": "antithetic variate",
+      "Meanings": [
+        "متغیر متضاد"
+      ]
+    },
+    {
+      "EnglishWord": "application",
+      "Meanings": [
+        "کاربرد"
+      ]
+    },
+    {
+      "EnglishWord": "applied probability",
+      "Meanings": [
+        "احتمال کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "applied statistics",
+      "Meanings": [
+        "آمار کاربردی"
+      ]
+    },
+    {
+      "EnglishWord": "approach",
+      "Meanings": [
+        "رهیافت"
+      ]
+    },
+    {
+      "EnglishWord": "approgression",
+      "Meanings": [
+        "رگرسیون تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximate eigenvalue",
+      "Meanings": [
+        "ویژه‌مقدار تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate solution",
+      "Meanings": [
+        "جواب تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximate value",
+      "Meanings": [
+        "مقدار تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "approximation",
+      "Meanings": [
+        "تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation formula",
+      "Meanings": [
+        "فرمول تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation from above",
+      "Meanings": [
+        "تقریب اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "approximation from below",
+      "Meanings": [
+        "تقریب نقصانی"
+      ]
+    },
+    {
+      "EnglishWord": "approximation theory",
+      "Meanings": [
+        "نظریه تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to distribution",
+      "Meanings": [
+        "تقریب توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to function",
+      "Meanings": [
+        "تقریب تابع"
+      ]
+    },
+    {
+      "EnglishWord": "approximation to mathematical functions",
+      "Meanings": [
+        "تقریب تابعهای ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "approximative",
+      "Meanings": [
+        "تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary constant",
+      "Meanings": [
+        "ثابت دلخواه"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary origin",
+      "Meanings": [
+        "مبدا دلخواه"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary scale",
+      "Meanings": [
+        "مقیاس دلخواه"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine",
+      "Meanings": [
+        "آرکسینوس"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine distribution",
+      "Meanings": [
+        "توزیع آرک‌سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "arc-sine transformation",
+      "Meanings": [
+        "تبدیل آرک‌سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "area",
+      "Meanings": [
+        "مساحت"
+      ]
+    },
+    {
+      "EnglishWord": "area  level",
+      "Meanings": [
+        "سطح"
+      ]
+    },
+    {
+      "EnglishWord": "area sampling",
+      "Meanings": [
+        "نمونه گیری در سطح"
+      ]
+    },
+    {
+      "EnglishWord": "arfwedson distribution",
+      "Meanings": [
+        "توزیع آرف‌ودسون"
+      ]
+    },
+    {
+      "EnglishWord": "argument",
+      "Meanings": [
+        "شناسه"
+      ]
+    },
+    {
+      "EnglishWord": "argument of a function",
+      "Meanings": [
+        "شناسه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic",
+      "Meanings": [
+        "حساب"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic mean",
+      "Meanings": [
+        "میانگین حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic progression",
+      "Meanings": [
+        "تصاعد حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arithmetic triangle",
+      "Meanings": [
+        "مثلث حسابی"
+      ]
+    },
+    {
+      "EnglishWord": "arrangement",
+      "Meanings": [
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "array mean",
+      "Meanings": [
+        "میانگین آرایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ars conjectandi",
+      "Meanings": [
+        "فن حدس"
+      ]
+    },
+    {
+      "EnglishWord": "artificial intelligence",
+      "Meanings": [
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "ascending chain",
+      "Meanings": [
+        "زنجیر فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "ascending chain condition",
+      "Meanings": [
+        "شرط زنجیر فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "ascending error",
+      "Meanings": [
+        "خطای فزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "assessment",
+      "Meanings": [
+        "ارزیابی"
+      ]
+    },
+    {
+      "EnglishWord": "assessment of probabilities",
+      "Meanings": [
+        "ارزیابی احتمالها"
+      ]
+    },
+    {
+      "EnglishWord": "assignable cause",
+      "Meanings": [
+        "علت اسنادپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "association",
+      "Meanings": [
+        "پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "association coefficient",
+      "Meanings": [
+        "ضریب پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric",
+      "Meanings": [
+        "نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetric population",
+      "Meanings": [
+        "جامعه نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetry",
+      "Meanings": [
+        "نامتقارنی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic behaviour",
+      "Meanings": [
+        "رفتار مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic convergence",
+      "Meanings": [
+        "همگرایی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic efficiency",
+      "Meanings": [
+        "کارآیی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic expansion",
+      "Meanings": [
+        "بسط مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic formula",
+      "Meanings": [
+        "فرمول مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic method",
+      "Meanings": [
+        "روش مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic normality",
+      "Meanings": [
+        "نرمال بودن مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic point",
+      "Meanings": [
+        "نقطه مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic property",
+      "Meanings": [
+        "ویژگی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic relative efficiency",
+      "Meanings": [
+        "کارآیی نسبی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic relative efficiency of estimator",
+      "Meanings": [
+        "کارآیی نسبی مجانبی برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic representation",
+      "Meanings": [
+        "نمایش مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic series",
+      "Meanings": [
+        "سری مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic sufficiency",
+      "Meanings": [
+        "بسندگی مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotic variance",
+      "Meanings": [
+        "واریانس مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically efficient estimator",
+      "Meanings": [
+        "برآوردگر مجانبا کارآ"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotically unbiased estimator",
+      "Meanings": [
+        "برآوردگر مجانبا نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "asymptotics",
+      "Meanings": [
+        "مجانبیات"
+      ]
+    },
+    {
+      "EnglishWord": "atmospheric statistics",
+      "Meanings": [
+        "آمار جوی"
+      ]
+    },
+    {
+      "EnglishWord": "attraction",
+      "Meanings": [
+        "ربایش"
+      ]
+    },
+    {
+      "EnglishWord": "attribute",
+      "Meanings": [
+        "صفت کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "auditing",
+      "Meanings": [
+        "حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "augmented matrix",
+      "Meanings": [
+        "ماتریس افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "autocorrelation",
+      "Meanings": [
+        "خودهمبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "autocorrelation function",
+      "Meanings": [
+        "تابع خودهمبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "autocovariance",
+      "Meanings": [
+        "اتوکوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "automatic interaction detection technique",
+      "Meanings": [
+        "فن خودکار آشکارسازی اثر متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive",
+      "Meanings": [
+        "اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive integrated moving average model",
+      "Meanings": [
+        "مدل میانگین متحرک جمع‌بسته اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive model",
+      "Meanings": [
+        "مدل اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive process",
+      "Meanings": [
+        "فرایند اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "autoregressive-moving average model",
+      "Meanings": [
+        "مدل میانگین متحرک اتورگرسیو"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary equation",
+      "Meanings": [
+        "معادله کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary sample",
+      "Meanings": [
+        "نمونه کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary variable  covariate  slack variable",
+      "Meanings": [
+        "متغیر کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "availability",
+      "Meanings": [
+        "آمادگی"
+      ]
+    },
+    {
+      "EnglishWord": "average",
+      "Meanings": [
+        "متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average critical value method",
+      "Meanings": [
+        "روش مقدار بحرانی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average curvature",
+      "Meanings": [
+        "خمیدگی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average density",
+      "Meanings": [
+        "چگالی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average extra defective limit",
+      "Meanings": [
+        "حد متوسط اقلام معیوب اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "average life",
+      "Meanings": [
+        "متوسط عمر"
+      ]
+    },
+    {
+      "EnglishWord": "average outgoing quality",
+      "Meanings": [
+        "متوسط کیفیت خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "average outgoing quality limit",
+      "Meanings": [
+        "حد متوسط کیفیت خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "average run length",
+      "Meanings": [
+        "متوسط مدت اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "average sample number",
+      "Meanings": [
+        "متوسط تعداد نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "averaged shifted",
+      "Meanings": [
+        "میانگین انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "averaged shifted histogram",
+      "Meanings": [
+        "بافت‌نگار میانگین انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "averaging",
+      "Meanings": [
+        "متوسط‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "axial distribution",
+      "Meanings": [
+        "توزیع محوری"
+      ]
+    },
+    {
+      "EnglishWord": "axial symmetry",
+      "Meanings": [
+        "تقارن محوری"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatic set theory",
+      "Meanings": [
+        "نظریه اصل موضوعی مجموعه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatizable theory",
+      "Meanings": [
+        "نظریه اصل موضوع‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "axiomatization",
+      "Meanings": [
+        "اصل موضوعی‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "axioms",
+      "Meanings": [
+        "اصول موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "axioms of probability",
+      "Meanings": [
+        "اصول موضوع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "axis",
+      "Meanings": [
+        "محور"
+      ]
+    }
+  ]
+}

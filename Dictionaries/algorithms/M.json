@@ -1,0 +1,357 @@
+﻿{
+  "Group": "M",
+  "Entries": 58,
+  "Words": [
+    {
+      "EnglishWord": "m",
+      "Meanings": [
+        "سیزدهمین حرف از الفبای انگلیسی",
+        "علامت اختصاری مگا میلیون = 2 به توان"
+      ]
+    },
+    {
+      "EnglishWord": "main diagonal",
+      "Meanings": [
+        "قطر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "major diagonal",
+      "Meanings": [
+        "قطر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "manhatton distance",
+      "Meanings": [
+        "فاصله منهتنی"
+      ]
+    },
+    {
+      "EnglishWord": "many-one reduction",
+      "Meanings": [
+        "کاهش چند به یک"
+      ]
+    },
+    {
+      "EnglishWord": "mapping",
+      "Meanings": [
+        "نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "markov chain",
+      "Meanings": [
+        "زنجیره مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "master method",
+      "Meanings": [
+        "قضیه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "matched edge",
+      "Meanings": [
+        "یال تطابق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "matched vertex",
+      "Meanings": [
+        "راس تطابق یافته"
+      ]
+    },
+    {
+      "EnglishWord": "matching",
+      "Meanings": [
+        "تطابق"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical",
+      "Meanings": [
+        "ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical induction",
+      "Meanings": [
+        "استقرا ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix",
+      "Meanings": [
+        "ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "max",
+      "Meanings": [
+        "بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximal",
+      "Meanings": [
+        "ماکزیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal independent set",
+      "Meanings": [
+        "مجموعه مستقل بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximally connected component",
+      "Meanings": [
+        "مولفه ماکزیمال همبند"
+      ]
+    },
+    {
+      "EnglishWord": "maximum bipartite matching",
+      "Meanings": [
+        "تطابق دوبخشی بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximum flow problem",
+      "Meanings": [
+        "مسیله شاره بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "mealy machine",
+      "Meanings": [
+        "ماشین میلی"
+      ]
+    },
+    {
+      "EnglishWord": "mean",
+      "Meanings": [
+        "میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "median",
+      "Meanings": [
+        "میانه"
+      ]
+    },
+    {
+      "EnglishWord": "memoization",
+      "Meanings": [
+        "به خاطر سپاری"
+      ]
+    },
+    {
+      "EnglishWord": "merge",
+      "Meanings": [
+        "ادغام"
+      ]
+    },
+    {
+      "EnglishWord": "merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی"
+      ]
+    },
+    {
+      "EnglishWord": "meromorphic function",
+      "Meanings": [
+        "تابع مرومورفیک"
+      ]
+    },
+    {
+      "EnglishWord": "min",
+      "Meanings": [
+        "کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimal",
+      "Meanings": [
+        "مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimal antichain decomposition",
+      "Meanings": [
+        "تجزیه پاد زنجیری مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimum bounding box",
+      "Meanings": [
+        "کوچکترین مستطیل در بر گیرنده"
+      ]
+    },
+    {
+      "EnglishWord": "minimum code spanning tree",
+      "Meanings": [
+        "درخت فراگیر با کمترین کد"
+      ]
+    },
+    {
+      "EnglishWord": "minimum cost spanning tree",
+      "Meanings": [
+        "درخت فراگیر با کمترین هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum cut",
+      "Meanings": [
+        "برش کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum spanning tree",
+      "Meanings": [
+        "درخت فراگیر کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum vertex cut",
+      "Meanings": [
+        "برش راسی کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "mode",
+      "Meanings": [
+        "مد"
+      ]
+    },
+    {
+      "EnglishWord": "model",
+      "Meanings": [
+        "مدل"
+      ]
+    },
+    {
+      "EnglishWord": "model checking",
+      "Meanings": [
+        "بررسی مدل"
+      ]
+    },
+    {
+      "EnglishWord": "model of computation",
+      "Meanings": [
+        "مدل محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "moderate",
+      "Meanings": [
+        "ملایم"
+      ]
+    },
+    {
+      "EnglishWord": "moderately exponential",
+      "Meanings": [
+        "نمایی ملایم"
+      ]
+    },
+    {
+      "EnglishWord": "monotonical",
+      "Meanings": [
+        "یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "monotonically decreasing",
+      "Meanings": [
+        "نزولی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "monotonically increasing",
+      "Meanings": [
+        "صعودی یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "moore machine",
+      "Meanings": [
+        "ماشین مور"
+      ]
+    },
+    {
+      "EnglishWord": "most significant digit",
+      "Meanings": [
+        "معنی دار‌ترین رقم",
+        "با ارزش‌ترین رقم معنا دار"
+      ]
+    },
+    {
+      "EnglishWord": "move",
+      "Meanings": [
+        "حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "multi",
+      "Meanings": [
+        "چند"
+      ]
+    },
+    {
+      "EnglishWord": "multi commodity flow",
+      "Meanings": [
+        "شاره چند کالایی"
+      ]
+    },
+    {
+      "EnglishWord": "multi set",
+      "Meanings": [
+        "مجموعه چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multi way decision",
+      "Meanings": [
+        "تصمیم چند راهه"
+      ]
+    },
+    {
+      "EnglishWord": "multi way merge",
+      "Meanings": [
+        "ادغام چند راهی"
+      ]
+    },
+    {
+      "EnglishWord": "multigraph",
+      "Meanings": [
+        "گراف چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple",
+      "Meanings": [
+        "چندگانه",
+        "متعدد"
+      ]
+    },
+    {
+      "EnglishWord": "multiple queue",
+      "Meanings": [
+        "صف چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple stack",
+      "Meanings": [
+        "پشته چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate",
+      "Meanings": [
+        "چندمتغیره"
+      ]
+    }
+  ]
+}

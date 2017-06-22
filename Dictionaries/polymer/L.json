@@ -1,0 +1,807 @@
+﻿{
+  "Group": "L",
+  "Entries": 126,
+  "Words": [
+    {
+      "EnglishWord": "labile bond",
+      "Meanings": [
+        "پیوند شکست پذیر",
+        "پیوند تغییر پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "lace",
+      "Meanings": [
+        "نوار رشته ای باریک",
+        "نوار باریک"
+      ]
+    },
+    {
+      "EnglishWord": "lacquer",
+      "Meanings": [
+        "لاک",
+        "محلول رزین"
+      ]
+    },
+    {
+      "EnglishWord": "ladder",
+      "Meanings": [
+        "نردبان"
+      ]
+    },
+    {
+      "EnglishWord": "lake",
+      "Meanings": [
+        "رزدانه"
+      ]
+    },
+    {
+      "EnglishWord": "lake dyes",
+      "Meanings": [
+        "رزانه‏های رزدانه ای",
+        "لاک رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "lamella",
+      "Meanings": [
+        "لایه",
+        "ورقه"
+      ]
+    },
+    {
+      "EnglishWord": "laminar",
+      "Meanings": [
+        "آرام",
+        "لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "laminar flow",
+      "Meanings": [
+        "جریان آرام",
+        "جریان لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "laminate",
+      "Meanings": [
+        "چند لایه",
+        "سازه‌های لای گذاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "laminated composite",
+      "Meanings": [
+        "کامپوزیت چند لایه"
+      ]
+    },
+    {
+      "EnglishWord": "laminated plastics",
+      "Meanings": [
+        "پلاستیکهای چندلایی",
+        "موادی شامل لایه هایی از رزین پیش آغشته یا پوشش شده با پر کننده که بوسیله گرما و فشار بهم چسبیده می‌شوند و به شکل جسمی یک تکه در‏ می‏آیند"
+      ]
+    },
+    {
+      "EnglishWord": "laminated wood",
+      "Meanings": [
+        "چوب لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "laminating resin",
+      "Meanings": [
+        "رزین لایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "lamination",
+      "Meanings": [
+        "چندلایه سازی",
+        "چند لایه کردن",
+        "ساخت چند لایه"
+      ]
+    },
+    {
+      "EnglishWord": "land",
+      "Meanings": [
+        "محل فرود"
+      ]
+    },
+    {
+      "EnglishWord": "land length",
+      "Meanings": [
+        "طول ناحیه تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "langley",
+      "Meanings": [
+        "لانگلی واحد سنجش انرژی آفتاب بر واحد سطح که معادل یک گرم کالری بر سانتیمتر مربع است"
+      ]
+    },
+    {
+      "EnglishWord": "lap joint",
+      "Meanings": [
+        "اتصال نیم و نیم"
+      ]
+    },
+    {
+      "EnglishWord": "laser diode",
+      "Meanings": [
+        "دیود لیزری"
+      ]
+    },
+    {
+      "EnglishWord": "laser induced grating",
+      "Meanings": [
+        "شبکه لیزر القایی"
+      ]
+    },
+    {
+      "EnglishWord": "laser particle size analysis",
+      "Meanings": [
+        "تحلیل لیزری اندازه ذرات"
+      ]
+    },
+    {
+      "EnglishWord": "laser raman spectroscopy",
+      "Meanings": [
+        "طیف بینی رامان لیزری"
+      ]
+    },
+    {
+      "EnglishWord": "latent heat",
+      "Meanings": [
+        "گرمای نهان"
+      ]
+    },
+    {
+      "EnglishWord": "lateral contraction ratio",
+      "Meanings": [
+        "نسبت انقباض عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral strain ratio",
+      "Meanings": [
+        "نسبت کرنش عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "latex",
+      "Meanings": [
+        "لاتکس",
+        "شیرابه",
+        "نوعی پراکنش پایدار از یک ماده پلیمری در یک محیط آبی است. قطر ذرات پراکنده که غالبا کروی هستند در حدود 30 تا 500 نانومتر است. لاتکس ممکن است طبیعی یا مصنوعی باشد. مثلا شیر نوعی لاتکس است که ذرات کروی پروتیین در آب پراکنده اند"
+      ]
+    },
+    {
+      "EnglishWord": "latex blending",
+      "Meanings": [
+        "آمیخته کاری لاتکس"
+      ]
+    },
+    {
+      "EnglishWord": "lattice",
+      "Meanings": [
+        "شبکه بلور",
+        "شبکه",
+        "شبکه تبلور"
+      ]
+    },
+    {
+      "EnglishWord": "lattice energy",
+      "Meanings": [
+        "انرژی شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "lavender oil",
+      "Meanings": [
+        "روغن اسطو خودوس"
+      ]
+    },
+    {
+      "EnglishWord": "lay flat tube",
+      "Meanings": [
+        "لوله ساخته شده از نوار"
+      ]
+    },
+    {
+      "EnglishWord": "lay up",
+      "Meanings": [
+        "لایه گذاری",
+        "خواباندن مواد تقویت کننده بر روی قالب و کاربرد رزین بر روی آنها بوسیله دست یا دستگاه پاشش"
+      ]
+    },
+    {
+      "EnglishWord": "leaching",
+      "Meanings": [
+        "عصاره گیری",
+        "استخراج از جامد"
+      ]
+    },
+    {
+      "EnglishWord": "lead emission",
+      "Meanings": [
+        "انتشار سرب"
+      ]
+    },
+    {
+      "EnglishWord": "lead rubber bearing",
+      "Meanings": [
+        "یاتاقان سرب",
+        "لاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "leaf spring",
+      "Meanings": [
+        "فنر شمشی تخت",
+        "فنر برگ",
+        "شاه فنر"
+      ]
+    },
+    {
+      "EnglishWord": "leak",
+      "Meanings": [
+        "نشت"
+      ]
+    },
+    {
+      "EnglishWord": "leak proof",
+      "Meanings": [
+        "غیرقابل نفوذ بودن"
+      ]
+    },
+    {
+      "EnglishWord": "leakage",
+      "Meanings": [
+        "نشتی"
+      ]
+    },
+    {
+      "EnglishWord": "leakage flow",
+      "Meanings": [
+        "جریان نشتی"
+      ]
+    },
+    {
+      "EnglishWord": "least squares method",
+      "Meanings": [
+        "روش حداقل مربعات"
+      ]
+    },
+    {
+      "EnglishWord": "leather like",
+      "Meanings": [
+        "چرم نما",
+        "چرم گون"
+      ]
+    },
+    {
+      "EnglishWord": "leno",
+      "Meanings": [
+        "تور"
+      ]
+    },
+    {
+      "EnglishWord": "lens",
+      "Meanings": [
+        "عدسی"
+      ]
+    },
+    {
+      "EnglishWord": "lethal concentration median",
+      "Meanings": [
+        "غلظت متوسط کشنده"
+      ]
+    },
+    {
+      "EnglishWord": "lethal dose median",
+      "Meanings": [
+        "مقدار متوسط کشنده"
+      ]
+    },
+    {
+      "EnglishWord": "level gauge",
+      "Meanings": [
+        "سطح نما"
+      ]
+    },
+    {
+      "EnglishWord": "leveling additive",
+      "Meanings": [
+        "افزودنی تراز کننده",
+        "ماده افزودنی را گویند که با افزودن به ترکیب رنگها و پوششها سیالیت و حرکت قشر لایه را به صورت هم تراز و یکنواخت در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "levelling",
+      "Meanings": [
+        "ترازبندی"
+      ]
+    },
+    {
+      "EnglishWord": "ligand",
+      "Meanings": [
+        "لیگاند",
+        "به مولکول",
+        "یون",
+        "رادیکال یا هر گروهی که در یک کمپلکس گروه چنداتمی به اتم مرکزی پیوند داشته باشد",
+        "لیگاند گفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "ligature",
+      "Meanings": [
+        "زخم بند"
+      ]
+    },
+    {
+      "EnglishWord": "light cure",
+      "Meanings": [
+        "نور پخت"
+      ]
+    },
+    {
+      "EnglishWord": "light emitting diod",
+      "Meanings": [
+        "دیود نور گسیل نشر کننده نور"
+      ]
+    },
+    {
+      "EnglishWord": "light fastness",
+      "Meanings": [
+        "ثبات نوری"
+      ]
+    },
+    {
+      "EnglishWord": "light scattering",
+      "Meanings": [
+        "پراکندگی نور"
+      ]
+    },
+    {
+      "EnglishWord": "light shield",
+      "Meanings": [
+        "حفاظ نوری",
+        "سپر نوری"
+      ]
+    },
+    {
+      "EnglishWord": "light source",
+      "Meanings": [
+        "چشمه نور",
+        "منبع نور"
+      ]
+    },
+    {
+      "EnglishWord": "light stability",
+      "Meanings": [
+        "پایداری نوری"
+      ]
+    },
+    {
+      "EnglishWord": "light station",
+      "Meanings": [
+        "نورگاه خورشیدی"
+      ]
+    },
+    {
+      "EnglishWord": "light weight polymer concrete",
+      "Meanings": [
+        "بتن پلیمری سبک"
+      ]
+    },
+    {
+      "EnglishWord": "lightness",
+      "Meanings": [
+        "روشنی"
+      ]
+    },
+    {
+      "EnglishWord": "lignin",
+      "Meanings": [
+        "لیگنین از اجزای متشکله غلاف الیاف سلولزی",
+        "ماده پلیمری که دیواره گیاه را می‌سازد",
+        "بخش غیر سلولزی چوب است و حدود 25% چوب را تشکیل می‌دهد. لیگنین ساختار شیمیایی پیچیده‌ای داردو نوعی ترکیب آروماتیک به حساب می‌‌‌آید"
+      ]
+    },
+    {
+      "EnglishWord": "lignite",
+      "Meanings": [
+        "زغال سنگ چوب نما"
+      ]
+    },
+    {
+      "EnglishWord": "limiting oxygen index",
+      "Meanings": [
+        "شاخص اکسیژن حدی"
+      ]
+    },
+    {
+      "EnglishWord": "linear",
+      "Meanings": [
+        "خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear elastic fracture mechanics",
+      "Meanings": [
+        "مکانیک شکست کشسان خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear low density polyethylene",
+      "Meanings": [
+        "پلی اتیلن کم چگال خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear optics",
+      "Meanings": [
+        "اپتیک خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear polymer",
+      "Meanings": [
+        "پلیمر خطی"
+      ]
+    },
+    {
+      "EnglishWord": "linear shaft velocity",
+      "Meanings": [
+        "سرعت خطی محور"
+      ]
+    },
+    {
+      "EnglishWord": "linearity",
+      "Meanings": [
+        "خطی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "lining thickness",
+      "Meanings": [
+        "ضخامت روکش"
+      ]
+    },
+    {
+      "EnglishWord": "linkage",
+      "Meanings": [
+        "اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "linning",
+      "Meanings": [
+        "لایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "linseed oil",
+      "Meanings": [
+        "روغن بزرک"
+      ]
+    },
+    {
+      "EnglishWord": "lipophilic",
+      "Meanings": [
+        "چربی دوست"
+      ]
+    },
+    {
+      "EnglishWord": "liquefy",
+      "Meanings": [
+        "ذوب کردن",
+        "گداختن‌",
+        "تبدیل به مایع کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "liquefying",
+      "Meanings": [
+        "ذوب کردن",
+        "گداختن‌",
+        "تبدیل به مایع کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "liquid crystal polymer",
+      "Meanings": [
+        "پلیمر بلور مایع"
+      ]
+    },
+    {
+      "EnglishWord": "liquid lattice model",
+      "Meanings": [
+        "مدل شبکه مایع"
+      ]
+    },
+    {
+      "EnglishWord": "liquid membrane electrode",
+      "Meanings": [
+        "الکترود مایع غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "lithography",
+      "Meanings": [
+        "لیتوگرافی",
+        "چاپ سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "living character",
+      "Meanings": [
+        "خصلت زنده",
+        "ویژگی زنده"
+      ]
+    },
+    {
+      "EnglishWord": "living polymer",
+      "Meanings": [
+        "پلیمر زنده"
+      ]
+    },
+    {
+      "EnglishWord": "lixiviation",
+      "Meanings": [
+        "آب شویی"
+      ]
+    },
+    {
+      "EnglishWord": "load",
+      "Meanings": [
+        "بار",
+        "نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "load cell",
+      "Meanings": [
+        "سلول بار"
+      ]
+    },
+    {
+      "EnglishWord": "load reversal",
+      "Meanings": [
+        "بازگشت بار"
+      ]
+    },
+    {
+      "EnglishWord": "load transfer length",
+      "Meanings": [
+        "طول انتقال بار"
+      ]
+    },
+    {
+      "EnglishWord": "loading",
+      "Meanings": [
+        "بارگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "local area network",
+      "Meanings": [
+        "شبکه اطلاع رسانی محل"
+      ]
+    },
+    {
+      "EnglishWord": "local composition",
+      "Meanings": [
+        "ترکیب بندی موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "local minimum",
+      "Meanings": [
+        "کمینه موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "localised residual stress",
+      "Meanings": [
+        "تنش باقیمانده موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "long chain polymer",
+      "Meanings": [
+        "پلیمر بلند زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "long chopped fibers",
+      "Meanings": [
+        "الیاف بریده شده بلند"
+      ]
+    },
+    {
+      "EnglishWord": "long fiber reinforced composite",
+      "Meanings": [
+        "کامپوزیت تقویت شده با الیاف بلند"
+      ]
+    },
+    {
+      "EnglishWord": "long fiber reinforced plastic",
+      "Meanings": [
+        "پلاستیک تقویت شده با الیاف بلند"
+      ]
+    },
+    {
+      "EnglishWord": "long oil",
+      "Meanings": [
+        "پر روغن"
+      ]
+    },
+    {
+      "EnglishWord": "long term",
+      "Meanings": [
+        "بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "longevity",
+      "Meanings": [
+        "دیرپایی"
+      ]
+    },
+    {
+      "EnglishWord": "loose chain end",
+      "Meanings": [
+        "انتهای آزاد زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "loss angle",
+      "Meanings": [
+        "زاویه افت"
+      ]
+    },
+    {
+      "EnglishWord": "loss factor",
+      "Meanings": [
+        "عامل اتلاف"
+      ]
+    },
+    {
+      "EnglishWord": "loss modulus",
+      "Meanings": [
+        "مدول اتلاف",
+        "مدول بخش ویسکوز مواد ویسکوالاستیک را مدول اتلاف E\" گویند که گویای میزان اتلاف انرژی توسط ماده است"
+      ]
+    },
+    {
+      "EnglishWord": "louver",
+      "Meanings": [
+        "بادگیر"
+      ]
+    },
+    {
+      "EnglishWord": "low conversion region",
+      "Meanings": [
+        "ناحیه تبدیل کم"
+      ]
+    },
+    {
+      "EnglishWord": "low density polyethylene",
+      "Meanings": [
+        "پلی اتیلن کم چگال"
+      ]
+    },
+    {
+      "EnglishWord": "low impact polystyrene",
+      "Meanings": [
+        "پلی استایرن کم ضربه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "low leached",
+      "Meanings": [
+        "کم استخراج شده"
+      ]
+    },
+    {
+      "EnglishWord": "low loss",
+      "Meanings": [
+        "اتلاف کم"
+      ]
+    },
+    {
+      "EnglishWord": "low nuclearity cluster",
+      "Meanings": [
+        "خوشه کم هسته"
+      ]
+    },
+    {
+      "EnglishWord": "low pressure",
+      "Meanings": [
+        "کم فشار",
+        "فشار پایین"
+      ]
+    },
+    {
+      "EnglishWord": "low pressure laminates",
+      "Meanings": [
+        "چندلایی‌های فشار پایین",
+        "چند لایی‌های قالب گیری و پخت شده در محدوده فشار از 400PSI به پایین تا فشاری که از حداقل تماس لای‌ها حاصل می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "low profile agent",
+      "Meanings": [
+        "عامل کم جمع شو"
+      ]
+    },
+    {
+      "EnglishWord": "low rebound",
+      "Meanings": [
+        "بازجهش کم"
+      ]
+    },
+    {
+      "EnglishWord": "low semigloss",
+      "Meanings": [
+        "فرونیم براق"
+      ]
+    },
+    {
+      "EnglishWord": "low temperature flexibility",
+      "Meanings": [
+        "انعطاف پذیری در دمای پایین"
+      ]
+    },
+    {
+      "EnglishWord": "lubricant",
+      "Meanings": [
+        "روان کننده"
+      ]
+    },
+    {
+      "EnglishWord": "luminescent pigment",
+      "Meanings": [
+        "رنگدانه نورتاب",
+        "رنگدانه ای که در دمای پایین نه در اثر گرمادهی بواسطه واکنش‌های شیمیایی",
+        "مالش و یا جریان الکتریکی و مغناطیسی نور تابش می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "luster",
+      "Meanings": [
+        "جلا",
+        "درخشندگی"
+      ]
+    },
+    {
+      "EnglishWord": "lustering",
+      "Meanings": [
+        "جلادهی"
+      ]
+    },
+    {
+      "EnglishWord": "lusterless paint",
+      "Meanings": [
+        "پوشرنگ بی جلا",
+        "رنگ بدون جلا"
+      ]
+    },
+    {
+      "EnglishWord": "lyotropic",
+      "Meanings": [
+        "مایع گرا"
+      ]
+    },
+    {
+      "EnglishWord": "lysis",
+      "Meanings": [
+        "تجزیه",
+        "کافت"
+      ]
+    }
+  ]
+}

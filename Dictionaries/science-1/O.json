@@ -1,0 +1,269 @@
+﻿{
+  "Group": "O",
+  "Entries": 43,
+  "Words": [
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شی"
+      ]
+    },
+    {
+      "EnglishWord": "oblique triangle",
+      "Meanings": [
+        "مثلث مایل"
+      ]
+    },
+    {
+      "EnglishWord": "oblong",
+      "Meanings": [
+        "مستطیل"
+      ]
+    },
+    {
+      "EnglishWord": "occupancy theory",
+      "Meanings": [
+        "نظریه اشغال"
+      ]
+    },
+    {
+      "EnglishWord": "one hot",
+      "Meanings": [
+        "یک بارز"
+      ]
+    },
+    {
+      "EnglishWord": "one one",
+      "Meanings": [
+        "یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one point compactification",
+      "Meanings": [
+        "فشرده ساخته یک‌نقطه‌ای",
+        "فشرده‌ساخت تک‌نقطه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "one sample sign test",
+      "Meanings": [
+        "آزمون علامت یک‌نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "one to one",
+      "Meanings": [
+        "یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one to one function",
+      "Meanings": [
+        "تابع یک به یک"
+      ]
+    },
+    {
+      "EnglishWord": "one way analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس یک‌طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "onto",
+      "Meanings": [
+        "پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "onto function",
+      "Meanings": [
+        "تابع پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "open ball",
+      "Meanings": [
+        "گوی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open neighborhood",
+      "Meanings": [
+        "همسایگی باز"
+      ]
+    },
+    {
+      "EnglishWord": "open set",
+      "Meanings": [
+        "مجموعه باز"
+      ]
+    },
+    {
+      "EnglishWord": "operand",
+      "Meanings": [
+        "عمل‌وند"
+      ]
+    },
+    {
+      "EnglishWord": "operation characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه عمل"
+      ]
+    },
+    {
+      "EnglishWord": "operations",
+      "Meanings": [
+        "اعمال"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "عملگر"
+      ]
+    },
+    {
+      "EnglishWord": "operator norm",
+      "Meanings": [
+        "نرم عملگری"
+      ]
+    },
+    {
+      "EnglishWord": "operator norm induced by",
+      "Meanings": [
+        "نرم عملگری القاشده توسط"
+      ]
+    },
+    {
+      "EnglishWord": "operator theory",
+      "Meanings": [
+        "نظریه عملگرها"
+      ]
+    },
+    {
+      "EnglishWord": "opportunity loss",
+      "Meanings": [
+        "زیان فرصت"
+      ]
+    },
+    {
+      "EnglishWord": "optimal assignment",
+      "Meanings": [
+        "تخصیص اپتیمال"
+      ]
+    },
+    {
+      "EnglishWord": "orbit",
+      "Meanings": [
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "مرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "order isomorphism",
+      "Meanings": [
+        "هم‌ریختی ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "order statistics",
+      "Meanings": [
+        "آماره‌های ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordered pair",
+      "Meanings": [
+        "جفت مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "orderel pair",
+      "Meanings": [
+        "زوج مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal number",
+      "Meanings": [
+        "عدد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "ordinal sum",
+      "Meanings": [
+        "مجموع تزتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "orient",
+      "Meanings": [
+        "جهت تعیین‌کردن",
+        "جهت انتخاب‌کردن",
+        "رهبری‌کردن",
+        "جهت‌یابی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "origin of vector",
+      "Meanings": [
+        "مبدا بردار"
+      ]
+    },
+    {
+      "EnglishWord": "orthic traingle",
+      "Meanings": [
+        "پادک"
+      ]
+    },
+    {
+      "EnglishWord": "orthogonal",
+      "Meanings": [
+        "متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "oscillation",
+      "Meanings": [
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "out degree",
+      "Meanings": [
+        "درجه خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "out neighbours",
+      "Meanings": [
+        "برون",
+        "همسایگی"
+      ]
+    },
+    {
+      "EnglishWord": "outcome",
+      "Meanings": [
+        "برآمد"
+      ]
+    },
+    {
+      "EnglishWord": "outdegree",
+      "Meanings": [
+        "درجه خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "خروجی"
+      ]
+    }
+  ]
+}

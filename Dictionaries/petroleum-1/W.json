@@ -1,0 +1,708 @@
+﻿{
+  "Group": "W",
+  "Entries": 117,
+  "Words": [
+    {
+      "EnglishWord": "waiting on cement",
+      "Meanings": [
+        "منتظر گرفتن سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "waiting on service rig",
+      "Meanings": [
+        "دکل منتظر تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "walking - beam counterweight",
+      "Meanings": [
+        "پارسنگ شاهین حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "walking - beam saddle",
+      "Meanings": [
+        "زین شاهین حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "wall chase",
+      "Meanings": [
+        "جالوله یی دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "wall hook",
+      "Meanings": [
+        "قلاب وسط کش"
+      ]
+    },
+    {
+      "EnglishWord": "wall scraper",
+      "Meanings": [
+        "دیواره تراش"
+      ]
+    },
+    {
+      "EnglishWord": "warping sown of stratum",
+      "Meanings": [
+        "فروخمش لایه"
+      ]
+    },
+    {
+      "EnglishWord": "wash",
+      "Meanings": [
+        "نفت شویی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "wash boring",
+      "Meanings": [
+        "حفاری جتی"
+      ]
+    },
+    {
+      "EnglishWord": "wash cuttings",
+      "Meanings": [
+        "تراشه‌های شسته"
+      ]
+    },
+    {
+      "EnglishWord": "wash v over",
+      "Meanings": [
+        "دور شویی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "washed out hole",
+      "Meanings": [
+        "چاه گشاد شده"
+      ]
+    },
+    {
+      "EnglishWord": "washover",
+      "Meanings": [
+        "دور شویی"
+      ]
+    },
+    {
+      "EnglishWord": "washover cutter",
+      "Meanings": [
+        "برنده دور شویی"
+      ]
+    },
+    {
+      "EnglishWord": "washover shoe",
+      "Meanings": [
+        "کفشک دورشویی"
+      ]
+    },
+    {
+      "EnglishWord": "washover steing",
+      "Meanings": [
+        "رشته لوله دور شویی"
+      ]
+    },
+    {
+      "EnglishWord": "water - base mud",
+      "Meanings": [
+        "گل آبی"
+      ]
+    },
+    {
+      "EnglishWord": "water - base oil emulsion mud",
+      "Meanings": [
+        "گل آب مایه با امولسیون روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "water - drive field",
+      "Meanings": [
+        "مخزن آب رانشی"
+      ]
+    },
+    {
+      "EnglishWord": "water - free well",
+      "Meanings": [
+        "چاه بی آب"
+      ]
+    },
+    {
+      "EnglishWord": "water - in oil emulsion",
+      "Meanings": [
+        "امولسیون آب در نفت"
+      ]
+    },
+    {
+      "EnglishWord": "water - oil contact line",
+      "Meanings": [
+        "خط تماس آب و نفت"
+      ]
+    },
+    {
+      "EnglishWord": "water - oil displacement",
+      "Meanings": [
+        "جا به جایی نفت به وسیله آب"
+      ]
+    },
+    {
+      "EnglishWord": "water - oil ratio",
+      "Meanings": [
+        "نسبت آب به نفت"
+      ]
+    },
+    {
+      "EnglishWord": "water ballasting",
+      "Meanings": [
+        "تعادل آبی"
+      ]
+    },
+    {
+      "EnglishWord": "water cone",
+      "Meanings": [
+        "مخروط آب"
+      ]
+    },
+    {
+      "EnglishWord": "water cushion",
+      "Meanings": [
+        "آب ضربه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "water cut oil",
+      "Meanings": [
+        "نفت آبدار"
+      ]
+    },
+    {
+      "EnglishWord": "water depth",
+      "Meanings": [
+        "عمق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water disposal well",
+      "Meanings": [
+        "چاه تزریق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water drive",
+      "Meanings": [
+        "آب رانی"
+      ]
+    },
+    {
+      "EnglishWord": "water flood",
+      "Meanings": [
+        "تزریق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water- flood plant",
+      "Meanings": [
+        "دستگاه اب خوراند"
+      ]
+    },
+    {
+      "EnglishWord": "water- flooding method",
+      "Meanings": [
+        "استخراج به روش تزریق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water impermeability",
+      "Meanings": [
+        "نفوذناپذیری در مقابل آب"
+      ]
+    },
+    {
+      "EnglishWord": "water inflow",
+      "Meanings": [
+        "درون ریزی آب"
+      ]
+    },
+    {
+      "EnglishWord": "water injection",
+      "Meanings": [
+        "تلمبه تزریق آب"
+      ]
+    },
+    {
+      "EnglishWord": "water level",
+      "Meanings": [
+        "سطح آب زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "water loss",
+      "Meanings": [
+        "آب روی"
+      ]
+    },
+    {
+      "EnglishWord": "water non wet",
+      "Meanings": [
+        "آب گریز"
+      ]
+    },
+    {
+      "EnglishWord": "water permeability",
+      "Meanings": [
+        "نفوذپذیری در مقابل آب"
+      ]
+    },
+    {
+      "EnglishWord": "water producer",
+      "Meanings": [
+        "چاه آب ده"
+      ]
+    },
+    {
+      "EnglishWord": "water saturation",
+      "Meanings": [
+        "اشباع از آب"
+      ]
+    },
+    {
+      "EnglishWord": "water seepage",
+      "Meanings": [
+        "رخنه آب"
+      ]
+    },
+    {
+      "EnglishWord": "water separator",
+      "Meanings": [
+        "آب گیر"
+      ]
+    },
+    {
+      "EnglishWord": "water shut - off",
+      "Meanings": [
+        "آب بست"
+      ]
+    },
+    {
+      "EnglishWord": "water slug",
+      "Meanings": [
+        "آب بند"
+      ]
+    },
+    {
+      "EnglishWord": "water string",
+      "Meanings": [
+        "رشته جداره آب بست"
+      ]
+    },
+    {
+      "EnglishWord": "water table",
+      "Meanings": [
+        "سکوچه سرد کل"
+      ]
+    },
+    {
+      "EnglishWord": "water table opening",
+      "Meanings": [
+        "دهنه سکوچه سردکل"
+      ]
+    },
+    {
+      "EnglishWord": "water well",
+      "Meanings": [
+        "چاه آب"
+      ]
+    },
+    {
+      "EnglishWord": "water witch",
+      "Meanings": [
+        "آب یاب"
+      ]
+    },
+    {
+      "EnglishWord": "watercourse",
+      "Meanings": [
+        "مجرای گل"
+      ]
+    },
+    {
+      "EnglishWord": "waterproof",
+      "Meanings": [
+        "ضد آب"
+      ]
+    },
+    {
+      "EnglishWord": "wave recorder",
+      "Meanings": [
+        "موج ضبط کن"
+      ]
+    },
+    {
+      "EnglishWord": "wave resistance",
+      "Meanings": [
+        "مقاومت در مقابل امواج"
+      ]
+    },
+    {
+      "EnglishWord": "weather window",
+      "Meanings": [
+        "فرصت هواشناختی"
+      ]
+    },
+    {
+      "EnglishWord": "weded casing",
+      "Meanings": [
+        "جداره درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "wedge effect",
+      "Meanings": [
+        "اثر گوه"
+      ]
+    },
+    {
+      "EnglishWord": "weighted cement",
+      "Meanings": [
+        "سیمان سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "weighted drilling fluid",
+      "Meanings": [
+        "سیال حفاری سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "welded gas tube",
+      "Meanings": [
+        "لوله گاز درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "welded pipe",
+      "Meanings": [
+        "لوله درزجوش"
+      ]
+    },
+    {
+      "EnglishWord": "well - building properties",
+      "Meanings": [
+        "خواص دیواره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "well - flow test",
+      "Meanings": [
+        "آزمایش جریان چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well axis",
+      "Meanings": [
+        "محور چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well control assembly",
+      "Meanings": [
+        "تجهیزات فرمان چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well density",
+      "Meanings": [
+        "پراکندگی چاه ها"
+      ]
+    },
+    {
+      "EnglishWord": "well depletion",
+      "Meanings": [
+        "تهی شدن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well diagram",
+      "Meanings": [
+        "نقشه چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well flooding",
+      "Meanings": [
+        "تزریق آب به چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well flowing under back pressure control",
+      "Meanings": [
+        "چاه بهره ده با تنظیم پس فشار"
+      ]
+    },
+    {
+      "EnglishWord": "well gone to water",
+      "Meanings": [
+        "چاه آب افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "well head",
+      "Meanings": [
+        "سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head adapter",
+      "Meanings": [
+        "تبدیل شیرآلات سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head assembly",
+      "Meanings": [
+        "مجموعه سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head cellar",
+      "Meanings": [
+        "سرداب سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head destruction",
+      "Meanings": [
+        "انهدام سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head gas",
+      "Meanings": [
+        "گاز سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well head pressure",
+      "Meanings": [
+        "فشار سر جداره"
+      ]
+    },
+    {
+      "EnglishWord": "well head recovery",
+      "Meanings": [
+        "جایگزینی شیرآلات سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well log",
+      "Meanings": [
+        "نیمرخ چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well logging",
+      "Meanings": [
+        "نمودار گیری از چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well perforation",
+      "Meanings": [
+        "مشبک کاری چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well sample",
+      "Meanings": [
+        "نمونه چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well sampling",
+      "Meanings": [
+        "نمونه گیری از چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well scrreen",
+      "Meanings": [
+        "صافی چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well stimulation",
+      "Meanings": [
+        "چاه انگیزی"
+      ]
+    },
+    {
+      "EnglishWord": "well swabbing",
+      "Meanings": [
+        "سنبه کاری چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well test",
+      "Meanings": [
+        "آزمایش چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well treatment",
+      "Meanings": [
+        "چاره کاری چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well workover",
+      "Meanings": [
+        "تعمیر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "well yield",
+      "Meanings": [
+        "ضریب بهره چاه"
+      ]
+    },
+    {
+      "EnglishWord": "wet boring",
+      "Meanings": [
+        "حفاری تر"
+      ]
+    },
+    {
+      "EnglishWord": "wetting fluid",
+      "Meanings": [
+        "سیال‌تر کننده"
+      ]
+    },
+    {
+      "EnglishWord": "wetting hysteresis",
+      "Meanings": [
+        "پس ماند خیس"
+      ]
+    },
+    {
+      "EnglishWord": "whipstock",
+      "Meanings": [
+        "گوه انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "wind bracing",
+      "Meanings": [
+        "ضد بادبندی"
+      ]
+    },
+    {
+      "EnglishWord": "wind load capacity",
+      "Meanings": [
+        "قدرت تحمل باد"
+      ]
+    },
+    {
+      "EnglishWord": "windlass",
+      "Meanings": [
+        "چرخ لنگرکش"
+      ]
+    },
+    {
+      "EnglishWord": "wing auger",
+      "Meanings": [
+        "مته بال دار"
+      ]
+    },
+    {
+      "EnglishWord": "wire line",
+      "Meanings": [
+        "کابل فولادی"
+      ]
+    },
+    {
+      "EnglishWord": "wire line coring",
+      "Meanings": [
+        "مغزه گیری با کابل"
+      ]
+    },
+    {
+      "EnglishWord": "wire line cutter",
+      "Meanings": [
+        "کابل بر"
+      ]
+    },
+    {
+      "EnglishWord": "wire line guide",
+      "Meanings": [
+        "راهنمای کابل"
+      ]
+    },
+    {
+      "EnglishWord": "wire line pumping",
+      "Meanings": [
+        "تلمبه زنی کابلی"
+      ]
+    },
+    {
+      "EnglishWord": "wire wrapped screen",
+      "Meanings": [
+        "آستره سیم پیچ شده"
+      ]
+    },
+    {
+      "EnglishWord": "wood fiber",
+      "Meanings": [
+        "الیاف چوب"
+      ]
+    },
+    {
+      "EnglishWord": "work barge",
+      "Meanings": [
+        "دوبه همه کاره"
+      ]
+    },
+    {
+      "EnglishWord": "work v over a well",
+      "Meanings": [
+        "تعمیر کردن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "working gage",
+      "Meanings": [
+        "رزوه سنج کارگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "workover barge",
+      "Meanings": [
+        "دوبه تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "workover equipment",
+      "Meanings": [
+        "وسایل تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "workover job",
+      "Meanings": [
+        "کار تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "wrapping machine",
+      "Meanings": [
+        "ماشین لوله پوش"
+      ]
+    },
+    {
+      "EnglishWord": "wrapping material",
+      "Meanings": [
+        "مصالح لوله پوشی"
+      ]
+    }
+  ]
+}

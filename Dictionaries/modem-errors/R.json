@@ -1,0 +1,40 @@
+﻿{
+  "Group": "R",
+  "Entries": 5,
+  "Words": [
+    {
+      "EnglishWord": "radius",
+      "Meanings": [
+        "Remote Authentication Dial",
+        "In User Device"
+      ]
+    },
+    {
+      "EnglishWord": "remote access",
+      "Meanings": [
+        "دستیابی از راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "require encrypted password",
+      "Meanings": [
+        "پسورد رمز گذاری شده مورد نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "response",
+      "Meanings": [
+        "دریافت",
+        "جواب",
+        "واکنش"
+      ]
+    },
+    {
+      "EnglishWord": "rras",
+      "Meanings": [
+        "Routing and Remote Access Service",
+        "خدمات دستیابی راه دور و مسیر یابی"
+      ]
+    }
+  ]
+}

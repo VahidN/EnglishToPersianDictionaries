@@ -1,0 +1,593 @@
+﻿{
+  "Group": "M",
+  "Entries": 82,
+  "Words": [
+    {
+      "EnglishWord": "machine ancillary time",
+      "Meanings": [
+        "زمان غیرمفید ماشین",
+        "زمان غیرفعال ماشین",
+        "مدت زمانی که ماشین بطور موقت برای تعمیرات",
+        "تنظیم یا سرویس",
+        "خارج از عملیات تولیدی قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "machine vision",
+      "Meanings": [
+        "دید ماشینی",
+        "نگرش ماشینی",
+        "بینایی ماشین",
+        "استفاده از حس گرها برای دریافت سیگنال هایی که تشکیل دهنده تصویر یک شی هستند که توسط کامپیوتر و یا سایر وسایل پردازش سیگنال برای تفسیر و تحلیل سیگنال‌های دریافت شده از قطعه مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "machinery failure mode and effect analysis  mfmea",
+      "Meanings": [
+        "آنالیز حالات بالقوه خرابی و آثار آن در ماشین آلات و ابزارهای تولیدی",
+        "روشی استاندارد برای ارزیابی دستگاه و ابزار در طی فاز طراحی به منظور بهبود ایمنی کاربر",
+        "افزایش کارایی و توانایی ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "maintenance",
+      "Meanings": [
+        "نت",
+        "نگهداری و تعمیر",
+        "حفظ کردن",
+        "پشتیبانی",
+        "نت: عبارتست از کلیه فعالیت هایی که به منظور حفظ و نگهداری تجهیزات در حد استاندارد و با هزینه قابل قبول انجام می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "major defect",
+      "Meanings": [
+        "عیب عمده"
+      ]
+    },
+    {
+      "EnglishWord": "make to order  mto",
+      "Meanings": [
+        "ساخت طبق سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "make to stock  mts",
+      "Meanings": [
+        "ساخت برای انبار"
+      ]
+    },
+    {
+      "EnglishWord": "management",
+      "Meanings": [
+        "مدیریت",
+        "عبارتست از مجموعه فعالیت‌های هماهنگ شده برای هدایت و کنترل یک سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "management behavior feedback system  mbfs",
+      "Meanings": [
+        "سیستم رفتار و بازخور مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "management by objective  mbo",
+      "Meanings": [
+        "مدیریت بر مبنای هدف",
+        "فرایند مشخص کردن اهداف هر زیرواحد در یک سازمان و برنامه ریزی برای نیل به این اهداف. مدیران در تمام سطوح در امر تنظیم اهداف مشارکت نموده و سپس سعی در رسیدن به این اهداف می‌نمایند"
+      ]
+    },
+    {
+      "EnglishWord": "management by walking around  mbwa",
+      "Meanings": [
+        "سیستم مدیریت با سرکشی به همه نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "management by wandering around  mbwa",
+      "Meanings": [
+        "سیستم مدیریت با سرکشی به همه نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "management contracting  mc",
+      "Meanings": [
+        "پیمانکاری مدیریت",
+        "مدیریت پیمان MC شخصیتی است حقوقی که به نمایندگی از طرف مجری طرح",
+        "مسوولیت مدیریت",
+        "کنترل و هماهنگی پروژه‌ها و مراحل اجرایی را به عهده دارد. مدیریت طرح وظایف خود را در چارچوب روشها",
+        "ضوابط و دستورالعملهایی که به تایید مجری رسیده است انجام داده و با اعمال مدیریت مستقیم و روزانه بر سایر عوامل اجرایی در مقابل مجری مسیولیت صحت انجام کیفی و کمی کار را طبق مشخصات",
+        "برآوردها و برنامه‌های اولیه و تغییرات احتمالی آن با ارایه گزارشات مستمر بعهده دارد"
+      ]
+    },
+    {
+      "EnglishWord": "management information system  mis",
+      "Meanings": [
+        "سیستم اطلاعات مدیریت",
+        "سیستم اطلاعاتی که در رده مدیران میانی سازمان عمل می‌کند و بر اساس مسیله خاصی طراحی و ساختار یافته است. بر خلاف که برای مسایل غیر ساخت یافته طراحی می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "management reserve  mr",
+      "Meanings": [
+        "ذخیره مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "management system",
+      "Meanings": [
+        "سیستم مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "manager",
+      "Meanings": [
+        "مدیر"
+      ]
+    },
+    {
+      "EnglishWord": "managership",
+      "Meanings": [
+        "مدیریت",
+        "ریاست"
+      ]
+    },
+    {
+      "EnglishWord": "mandatory",
+      "Meanings": [
+        "اجباری",
+        "الزامی"
+      ]
+    },
+    {
+      "EnglishWord": "manipulator",
+      "Meanings": [
+        "بازوی مکانیکی",
+        "ماشینی است که شباهت کاری آن مانند بازوی انسان است و در جابجا کردن جسم و یا قطعه ای در فضا از یک نقطه به نقطه ای دیگر به کار گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "manpower",
+      "Meanings": [
+        "نیروی انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "manufacturing",
+      "Meanings": [
+        "ساخت",
+        "تولید"
+      ]
+    },
+    {
+      "EnglishWord": "manufacturing cost",
+      "Meanings": [
+        "هزینه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "manufacturing resource planning  mrp ii",
+      "Meanings": [
+        "برنامه ریزی منابع تولیدی",
+        "بسطی از MRP است با این هدف که ابزارهای برنامه ریزی ظرفیت را شامل گردد و این ابزارها یک فصل مشترک مالی است تا بتوان برنامه ریزی عملیات را به اصطلاح‌های مالی برگرداند و نیز یک ابزار شبیه سازی است تا بتوان برنامه‌های دیگر تولید را ارزیابی کرد"
+      ]
+    },
+    {
+      "EnglishWord": "marginal",
+      "Meanings": [
+        "حاشیه ای",
+        "مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "marginal profit",
+      "Meanings": [
+        "سود حاشیه ای"
+      ]
+    },
+    {
+      "EnglishWord": "market",
+      "Meanings": [
+        "بازار",
+        "محل فروختن",
+        "محلی برای مبادلات بالقوه"
+      ]
+    },
+    {
+      "EnglishWord": "market in",
+      "Meanings": [
+        "تولید کالا و خدمات با توجه به نیازهای مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "market value",
+      "Meanings": [
+        "ارزش بازاری",
+        "بالاترین قیمت مورد توافق فروشنده و خریدار در یک بازار آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "marketing",
+      "Meanings": [
+        "بازاریابی",
+        "عبارتست از فرآیند برنامه ریزی و اجرایی کردن مفاهیم قیمت گذاری",
+        "ارتقا و توزیع افکار و عقاید",
+        "محصولات و خدمات بگونه ای که از طریق مبادله آنها سازمان‌ها و افراد به اهدافشان دسترسی پیدا کنند"
+      ]
+    },
+    {
+      "EnglishWord": "marketing information system",
+      "Meanings": [
+        "سیستم اطلاعاتی بازار"
+      ]
+    },
+    {
+      "EnglishWord": "marketing mix",
+      "Meanings": [
+        "آمیزه بازاریابی",
+        "عواملی که می‌تواند روی تقاضای مشتریان برای خرید کالا تاثیر بگذارد و عموما با چهار P مشخص می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "mass",
+      "Meanings": [
+        "انبوه",
+        "توده"
+      ]
+    },
+    {
+      "EnglishWord": "mass production",
+      "Meanings": [
+        "تولید انبوه",
+        "بس فرآوری"
+      ]
+    },
+    {
+      "EnglishWord": "master of business administration  mba",
+      "Meanings": [
+        "مدیر تجاری",
+        "شخصی که در مدیریت تجاری",
+        "به درجه استادی رسیده است"
+      ]
+    },
+    {
+      "EnglishWord": "master production schedule  mps",
+      "Meanings": [
+        "سر برنامه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "master schedule",
+      "Meanings": [
+        "سربرنامه تولید",
+        "یرنامه زمانبندی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "master schedule  ms",
+      "Meanings": [
+        "سربرنامه تولید",
+        "برنامه زمانبندی کلان"
+      ]
+    },
+    {
+      "EnglishWord": "master standard",
+      "Meanings": [
+        "استاندارد اصلی",
+        "استانداردی که به عنوان یک مرجع در فرآیند کالیبراسیون مورد استفاده قرار می‌گیرد. همچنین می‌توان آنرا به استانداردهای مرجع و یا استانداردهای کالیبراسیون نیز اطلاق کرد"
+      ]
+    },
+    {
+      "EnglishWord": "material",
+      "Meanings": [
+        "ماده",
+        "جنس"
+      ]
+    },
+    {
+      "EnglishWord": "material requirement planning  mrp",
+      "Meanings": [
+        "برنامه ریزی احتیاجات مواد",
+        "یک سیستم رایانه ای برای تعیین زمان و مقار نیاز به مواد که در عملیات تولید مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "matrix organization",
+      "Meanings": [
+        "سازمان با ساختار ماتریسی",
+        "Any organizational structure in which the project manager shares responsibility with the functional managers for assigning priorities and for directing the work of individuals assigned to the project"
+      ]
+    },
+    {
+      "EnglishWord": "mean down time  mdt",
+      "Meanings": [
+        "متوسط زمان توقف",
+        "عبارتست از کل زمان توقف تجهیز بر اثر خرابی تقسیم بر تعداد خرابی"
+      ]
+    },
+    {
+      "EnglishWord": "mean square of treatment  mstr",
+      "Meanings": [
+        "میانگین مربعات تیمارها"
+      ]
+    },
+    {
+      "EnglishWord": "mean squared error  mse",
+      "Meanings": [
+        "میانگین مربعات خطا"
+      ]
+    },
+    {
+      "EnglishWord": "mean time between  failures   mtbf",
+      "Meanings": [
+        "زمان متوسط بین دو خرابی متوالی",
+        "عبارتست از زمان در دسترس منهای زمان تعمیر تقسیم بر تعداد خرابی ها"
+      ]
+    },
+    {
+      "EnglishWord": "mean time to repair  mttr",
+      "Meanings": [
+        "زمان متوسط تعمیر",
+        "عبارتست از کل زمان صرف شده برای تعمیر تقسیم بر تعداد تعمیرات انجام شده"
+      ]
+    },
+    {
+      "EnglishWord": "measurand",
+      "Meanings": [
+        "مولفه مورد اندازه گیری",
+        "کمیتی خاص یا موضوعی که بایستی تحت شرایط خاصی اندازه گیری شود",
+        "یک مجموعه تعریف شده از خصوصیات مربوط به یک عملکرد اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "measurement",
+      "Meanings": [
+        "اندازه گیری",
+        "سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "measurement and test equipment  m te",
+      "Meanings": [
+        "تجهیزات تست و اندازه گیری",
+        "شامل تمامی ابزارآلات اندازه گیری",
+        "استانداردهای اندازه گیری",
+        "مواد مرجع و اپراتورهای مشخص که برای انجام یک اندازه گیری ضروری هستند"
+      ]
+    },
+    {
+      "EnglishWord": "measurement system",
+      "Meanings": [
+        "سیستم اندازه گیری",
+        "به مجموعه عملیات ها",
+        "رویه ها",
+        "ابزارآلات دقیق و سایر تجهیزات",
+        "نرم افزارها و پرسنل که برای نسبت دادن یک کمیت به یکی از خصوصیات قطعه درگیر هستند",
+        "سیستم اندازه گیری گفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "measurement system analysis  msa",
+      "Meanings": [
+        "تجزیه و تحلیل سیستم اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical",
+      "Meanings": [
+        "مکانیکی",
+        "ماشینی",
+        "اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical assembly",
+      "Meanings": [
+        "مونتاژ مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "membership function",
+      "Meanings": [
+        "تابع عضویت",
+        "تابعی که تعیین کننده میزان ودرجه عضویت یک عدد فازی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "merge event",
+      "Meanings": [
+        "رویداد پوششی"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft project  msp",
+      "Meanings": [
+        "نرم افزار کنترل پروژه محصول شرکت مایکروسافت که برای کنترل و مدیریت زمانبندی پروژه به کار می‌رود"
+      ]
+    },
+    {
+      "EnglishWord": "milestone",
+      "Meanings": [
+        "فرسخ شمار",
+        "سنگ‌های مسافت نما",
+        "مرحله برجسته ای در یک پروژه",
+        "برهه",
+        "A significant event in the project, usually completion of a major deliverable"
+      ]
+    },
+    {
+      "EnglishWord": "milestone schedule",
+      "Meanings": [
+        "زمانبندی مایلستون ها",
+        "A summary",
+        "level schedule that identifies the major milestones. See also master schedule"
+      ]
+    },
+    {
+      "EnglishWord": "mind mapping",
+      "Meanings": [
+        "نگاشت ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "minimum attractive rate of return  marr",
+      "Meanings": [
+        "حداقل نرخ جذب کننده",
+        "حداقل نرخ باز گشت سرمایه برای یک طرح که سرمایه گذار حاضر است در ازای آن نرخ سرمایه گذاری کند. این نرخ معمولا بیشتر از نرخ بهره است"
+      ]
+    },
+    {
+      "EnglishWord": "minutes of meeting  mom",
+      "Meanings": [
+        "صورتجلسه"
+      ]
+    },
+    {
+      "EnglishWord": "mission",
+      "Meanings": [
+        "ماموریت",
+        "مقصد اصلی و منحصر به فردی است که نوع",
+        "قلمرو عملیات",
+        "محصول و بازار سازمان را از سایر سازمانها متمایز می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "mixed integer programming  mip",
+      "Meanings": [
+        "برنامه مختلط عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "mobilization payment",
+      "Meanings": [
+        "پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "mode",
+      "Meanings": [
+        "میانه"
+      ]
+    },
+    {
+      "EnglishWord": "modular",
+      "Meanings": [
+        "پیمانه ای",
+        "مدولار"
+      ]
+    },
+    {
+      "EnglishWord": "modular concept",
+      "Meanings": [
+        "مفهوم مدولار",
+        "در چهرچوب این مفهوم",
+        "یک سیستم از بالا به پایین به زیر سیستم‌های کوچک و نسبتا مستقل تفکیک می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "modular organization",
+      "Meanings": [
+        "سازمان مدولار",
+        "سازمان پارندی",
+        "سازمانی که فعالیت‌های غیر استراتژیک را در زنجیره ارزشی مشخص و آنها را به واحدهای خارجی محول می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "monitoring",
+      "Meanings": [
+        "بررسی",
+        "پیگیری",
+        "پایش",
+        "The capture, analysis, and reporting of project performance, usually as compared to plan"
+      ]
+    },
+    {
+      "EnglishWord": "monte carlo analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مونتکارلو",
+        "روشی که در آن پروژه بارها و بارها شبیه سازی می‌شود تا از این طریق توزیع احتمالی پیشامدهای مختلف تعیین گردد"
+      ]
+    },
+    {
+      "EnglishWord": "monument",
+      "Meanings": [
+        "یادواره",
+        "هر طراحی",
+        "زمانبندی یا هر نوع تکنولوژی تولید با مقیاسی از نیازمندی که ایجاب کند طراحی ها",
+        "سفارش‌ها و محصولات در صف انجام فرآیند منتظر بمانند. در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "moral",
+      "Meanings": [
+        "اخلاقی",
+        "مربوط به اخلاق"
+      ]
+    },
+    {
+      "EnglishWord": "most likely",
+      "Meanings": [
+        "محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "motivation",
+      "Meanings": [
+        "انگیزش",
+        "محرک"
+      ]
+    },
+    {
+      "EnglishWord": "mounting",
+      "Meanings": [
+        "سوار کردن",
+        "مونتاژ کردن",
+        "نصب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "muda",
+      "Meanings": [
+        "مودا",
+        "اتلاف",
+        "هر فعالیتی که منابع را مصرف کند ولی هیچ ارزشی به وجود نیاورد",
+        "تولید اضافی",
+        "انتظار",
+        "فرآیش اضافی به خاطر طراحی ضعیف ابزار یا قطعه",
+        "موجودی بیش از حد لازم",
+        "جابجایی غیر ضروری",
+        "قطعات معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "multidisciplinary",
+      "Meanings": [
+        "چند تخصصی"
+      ]
+    },
+    {
+      "EnglishWord": "multiple sampling",
+      "Meanings": [
+        "نمونه گیر چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "mulually",
+      "Meanings": [
+        "ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "must finish on  mfo",
+      "Meanings": [
+        "باید در تاریخ مشخصی به اتمام برسد"
+      ]
+    },
+    {
+      "EnglishWord": "must start on  mso",
+      "Meanings": [
+        "باید در تاریخ مشخصی شروع شود"
+      ]
+    }
+  ]
+}

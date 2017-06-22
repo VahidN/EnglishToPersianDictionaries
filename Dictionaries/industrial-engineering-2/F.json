@@ -1,0 +1,547 @@
+﻿{
+  "Group": "F",
+  "Entries": 76,
+  "Words": [
+    {
+      "EnglishWord": "f ratio",
+      "Meanings": [
+        "نسبت F",
+        "آماره ای است که نشان دهنده نسبت خطای میانگین مربعات بین گروهی بر روی خطای میانگین مربعات درون گروهی می‌باشد که برای مجموعه ای از داده هایی که برای ارزیابی احتمال رخداد تصادفی در یک سطح اطمینان مشخص جمع آوری شده",
+        "محاسبه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "face value",
+      "Meanings": [
+        "ارزش رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "facilities",
+      "Meanings": [
+        "تسهیلات",
+        "امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "facility",
+      "Meanings": [
+        "امکان",
+        "وسیله",
+        "سهولت"
+      ]
+    },
+    {
+      "EnglishWord": "facility planning",
+      "Meanings": [
+        "طرحریزی تسهیلات",
+        "طرحریزی کارخانه اصطلاحا"
+      ]
+    },
+    {
+      "EnglishWord": "factorial design",
+      "Meanings": [
+        "طرح عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factoring out",
+      "Meanings": [
+        "فاکتور گیری"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "شکست",
+        "خرابی",
+        "عیب",
+        "عدم موفقیت"
+      ]
+    },
+    {
+      "EnglishWord": "failure mode and effect analysis   fmea",
+      "Meanings": [
+        "آنالیز حالات بالقوه خرابی",
+        "روشی سیستماتیک برای شناسایی و پیشگیری از وقوع مشکل در محصول و فرآیند آن"
+      ]
+    },
+    {
+      "EnglishWord": "failure rate",
+      "Meanings": [
+        "نرخ شکست",
+        "نرخ خرابی"
+      ]
+    },
+    {
+      "EnglishWord": "far-term efforts",
+      "Meanings": [
+        "کارهای دورتر"
+      ]
+    },
+    {
+      "EnglishWord": "fast",
+      "Meanings": [
+        "یک روش نموداری است که روابط بیرونی و درونی تمام عملکردها را به صورت گرافیکی نشان می‌دهد. روشی برای تحلیل و سازماندهی و ثبت عملکردهای یک سیستم",
+        "محصول",
+        "فرآیند",
+        "خدمت و یا رویه است"
+      ]
+    },
+    {
+      "EnglishWord": "fast tracking",
+      "Meanings": [
+        "فشرده سازی زمان پروژه",
+        "فشرده سازی زمان پروژه از طریق انجام موازی فعالیت هایی که در عمل بایستی بصورت متوالی انجام پذیرند. این کار عمدتا باعث ایجاد دوباره کاری در پروژه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue",
+      "Meanings": [
+        "خستگی",
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "عیب",
+        "نقص",
+        "نادرستی"
+      ]
+    },
+    {
+      "EnglishWord": "fault tree analysis  fta",
+      "Meanings": [
+        "تجزیه و تحلیل درخت عیوب"
+      ]
+    },
+    {
+      "EnglishWord": "fault tree diagram  ftd",
+      "Meanings": [
+        "دیاگرام درختی عیوب"
+      ]
+    },
+    {
+      "EnglishWord": "faultfinder",
+      "Meanings": [
+        "عیب یاب"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "مطالعه امکان سنجی",
+        "مرحله اولیه در اغلب پروژه‌ها که در آن مطالعات مربوط به توجیه فنی و نیز اقتصادی پروژه صورت می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "feature",
+      "Meanings": [
+        "خصیصه",
+        "ویژگی",
+        "مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "بازخورد",
+        "کنترل گذشته نگر"
+      ]
+    },
+    {
+      "EnglishWord": "feedforward",
+      "Meanings": [
+        "کنترل آینده گر",
+        "پیش نگر",
+        "کنترل هدایت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "finance",
+      "Meanings": [
+        "سرمایه گذاری",
+        "مالی",
+        "مربوط به امور مالی",
+        "مالیه",
+        "امور مالی"
+      ]
+    },
+    {
+      "EnglishWord": "finish",
+      "Meanings": [
+        "پایان",
+        "اتمام",
+        "تمام کردن",
+        "به پایان رساندن",
+        "پرداخت کاری کردن",
+        "پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "finish date",
+      "Meanings": [
+        "زمان اتمام",
+        "A point in time associated with an activity's completion. Usually qualified by one of the following: \u000bactual, planned, estimated, scheduled, early, late, baseline, target, or current"
+      ]
+    },
+    {
+      "EnglishWord": "finish no earlier than  fnet",
+      "Meanings": [
+        "زودتر از تاریخ مشخصی تمام نشود"
+      ]
+    },
+    {
+      "EnglishWord": "finish no later than  fnlt",
+      "Meanings": [
+        "دیرتر از تاریخ مشخصی به اتمام نرسد"
+      ]
+    },
+    {
+      "EnglishWord": "finish to finish  ff",
+      "Meanings": [
+        "رابطه پایان به پایان فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "finish to start  fs",
+      "Meanings": [
+        "رابطه پایان به شروع فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "finished products inventories",
+      "Meanings": [
+        "موجودی محصولات ساخته شده"
+      ]
+    },
+    {
+      "EnglishWord": "finite element analysis  fea",
+      "Meanings": [
+        "آنالیز اجزای محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite element analysis  fet",
+      "Meanings": [
+        "آنالیز اجزای محدود"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "شرکت",
+        "موسسه"
+      ]
+    },
+    {
+      "EnglishWord": "first in first out  fifo",
+      "Meanings": [
+        "اولین ورودی اولین خروجی",
+        "روشی برای تعیین توالی فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "first normal form  1nf",
+      "Meanings": [
+        "شکل اول نرمال",
+        "این شکل از نرمال سازی در مورد حذف تمام گروه‌های تکراری داده در پایگاه داده ای می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "fish bone diagram",
+      "Meanings": [
+        "نمودار استخوان ماهی",
+        "نمودار علت و معلول",
+        "نموداری که در آن معلول در انتهای یک خط قرار گرفته و علل بوجود آورنده آن معلول توسط خط هایی همچون استخوان ماهی به آن وصل می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "five force analysis",
+      "Meanings": [
+        "تجزیه و تحلیل پنج نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "five s",
+      "Meanings": [
+        "پنج S",
+        "پنج اصطلاح که با حرف s شروع می‌شوند و هدف از کاربرد آن ایجاد محیط کاری مناسب برای کنترل دیداری است",
+        "سازمان یافتگی و نظم و انضباط Seiri/",
+        "سر و سامان دادن و مرتب کردن Seiton/",
+        "سوا کردن و دور ریختن چیزهای غیر ضروری Seiso /",
+        "سپیدی و پاکیزگی Seiketsu/",
+        "نظم و انضباط Shitsuke/"
+      ]
+    },
+    {
+      "EnglishWord": "five whys",
+      "Meanings": [
+        "چراهای پنجگانه",
+        "عملکرد تاایچی اوهنو مبنی بر پنج بار چرا گفتن به موقع مواجهه با مشکل است و هدف از آن شناسایی علت ریشه ای مشکل است بطوریکه چاره موثری اندیشیده و به اجرا گذارده شود"
+      ]
+    },
+    {
+      "EnglishWord": "fixed price contract",
+      "Meanings": [
+        "قرارداد قیمت ثابت",
+        "در این نوع قرار داد",
+        "یک هزینه کلی برای یک محصول که مشخصات آن تعیین شده است وجود دارد. . ساده‌ترین شکل یک قرارداد قیمت ثابت",
+        "یک درخواست خرید برای یک آیتم خاص جهت تحویل در زمان خاصی در قیمت خاصی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "fixture",
+      "Meanings": [
+        "قید",
+        "فیکسچر",
+        "وسیله ای برای ثابت نگاه داشتن قطعه در موقعیت معین و درست نسبت به ابزار"
+      ]
+    },
+    {
+      "EnglishWord": "flexible assembly system  fas",
+      "Meanings": [
+        "سیستم‌های مونتاژ انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible manufacturing cell  fmc",
+      "Meanings": [
+        "سلول تولیدی انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible manufacturing system  fms",
+      "Meanings": [
+        "سیستم تولید انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible transfer line  ftl",
+      "Meanings": [
+        "خط انتقال انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "شناوری",
+        "شناور بودن",
+        "مقدار زمانی که هر فعالیت می‌تواند از زودترین زمان شروع خود به تاخیر بیفتد بدون آنکه بر زمان اتمام پروژه تاثیری بگذارد"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "حرکت",
+        "جریان",
+        "انجام وظایف به طور پیش رونده در طول جریان ارزش بگونه ای که یک محصول بدون توقف",
+        "بدون ضایعات و بدون پسروی از طراحی به بازار",
+        "از سفارش به تحویل و از مواد خام به دست خریدار برسد"
+      ]
+    },
+    {
+      "EnglishWord": "flow diagram",
+      "Meanings": [
+        "دیاگرام جریان",
+        "دیاگرامی که جریان اطلاعات",
+        "مواد و غیره در یک فرآیند را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "flow process chart  fpc",
+      "Meanings": [
+        "نمودار فرآیند جریان"
+      ]
+    },
+    {
+      "EnglishWord": "foreman",
+      "Meanings": [
+        "سر کارگر",
+        "سرپرست کارگاه"
+      ]
+    },
+    {
+      "EnglishWord": "forge",
+      "Meanings": [
+        "فورج",
+        "آهنگری",
+        "تغییر شکل قطعه با کوبیدن آن"
+      ]
+    },
+    {
+      "EnglishWord": "formalization",
+      "Meanings": [
+        "رسمیت",
+        "عبارتست از میزان استاندارد بودن رویه ها",
+        "فعالیت‌ها و رفتار سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "forward",
+      "Meanings": [
+        "پیش روانه",
+        "پیش رو"
+      ]
+    },
+    {
+      "EnglishWord": "fraction",
+      "Meanings": [
+        "کسر",
+        "شکست",
+        "عیب"
+      ]
+    },
+    {
+      "EnglishWord": "fraction defective",
+      "Meanings": [
+        "معیوب",
+        "عیب دار"
+      ]
+    },
+    {
+      "EnglishWord": "fraction nonconformance",
+      "Meanings": [
+        "معیوب",
+        "عیب دار"
+      ]
+    },
+    {
+      "EnglishWord": "fractional factorial design",
+      "Meanings": [
+        "طرح عاملی کسری",
+        "در این طرح فقط کسری از حالات ممکن تحت ازمایش قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "free float",
+      "Meanings": [
+        "شناوری آزاد",
+        "مقدار زمانی که یک فعالیت می‌تواند به تاخیر بیافتد بدون آنکه بر زمان سایر فعالیت‌ها تاثیر بگذارد"
+      ]
+    },
+    {
+      "EnglishWord": "free on board",
+      "Meanings": [
+        "بدون هزینه حمل تا روی وسیله نقلیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "free on board  fob",
+      "Meanings": [
+        "تحویل کالا برروی کشتی",
+        "به این معنی که فروشنده بهای حمل و نقل را تا مکانی خاص پرداخت می‌نماید و مسیولیت آن از آن پس بر عهده خریدار می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "بسامد",
+        "فرکانس",
+        "فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency distribution",
+      "Meanings": [
+        "توزیع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "full factorial design",
+      "Meanings": [
+        "طرح عاملی کامل",
+        "در این طرح تمام حالت‌های ممکن مورد آزمایش قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "functional",
+      "Meanings": [
+        "وظیفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "functional breakdown structure  fbs",
+      "Meanings": [
+        "ساختار شکست وظیفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "functional manager",
+      "Meanings": [
+        "مدیر وظیفه ای",
+        "manager responsible for activities in a specialized department or function e.g., engineering, manufacturing, marketing"
+      ]
+    },
+    {
+      "EnglishWord": "functional organization",
+      "Meanings": [
+        "سازمان با ساختار وظیفه ای",
+        "An organization structure in which staff are grouped hierarchically by specialty e.g., production, marketing, engineering, and accounting at the top level; with engineering, further divided into mechanical, electrical, and others"
+      ]
+    },
+    {
+      "EnglishWord": "functional work breakdown structure  fwbs",
+      "Meanings": [
+        "ساختار عملیاتی تقسیم کار پروژه",
+        "عبارتست از تجزیه سلسه مراتبی و سطح به سطح عملیات یک پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "fund",
+      "Meanings": [
+        "سرمایه",
+        "وجوه سرمایه",
+        "سرمایه گذاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "future value  fv",
+      "Meanings": [
+        "ارزش آتی"
+      ]
+    },
+    {
+      "EnglishWord": "future worth  fw",
+      "Meanings": [
+        "ارزش آتی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzification",
+      "Meanings": [
+        "فازی کردن",
+        "فرآیند تبدیل اعداد و داده‌های مسیله به فرمت اعداد یا عبارات کلامی در فازی"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy",
+      "Meanings": [
+        "شرایط عدم قطعیت",
+        "ابهام"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy logic",
+      "Meanings": [
+        "منطق فازی",
+        "منطقی که در آن بر خلاف منطق‌های کلاسیک عوامل متغیر از قبیل زمان و احتمال را در قالب اعداد بیان می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy set theory  fst",
+      "Meanings": [
+        "نظریه مجموعه فازی",
+        "که اولین بار توسط پرفسور لطفی زاده برای بیان و مدلسازی ابهامات با استفاده از معانی مختلف و متغیرهای کلامی مطرح گردید"
+      ]
+    },
+    {
+      "EnglishWord": "fuzzy theory",
+      "Meanings": [
+        "نظریه فازی",
+        "که اولین بار توسط پرفسور لطفی زاده برای بیان و مدلسازی ابهامات با استفاده از معانی مختلف و متغیرهای کلامی مطرح گردید"
+      ]
+    }
+  ]
+}

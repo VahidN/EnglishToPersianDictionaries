@@ -1,0 +1,784 @@
+﻿{
+  "Group": "C",
+  "Entries": 124,
+  "Words": [
+    {
+      "EnglishWord": "c",
+      "Meanings": [
+        "Celsius Temperature Or Compass"
+      ]
+    },
+    {
+      "EnglishWord": "c of a",
+      "Meanings": [
+        "Certificate of Airworthiness"
+      ]
+    },
+    {
+      "EnglishWord": "c of e",
+      "Meanings": [
+        "Certificate of Experience"
+      ]
+    },
+    {
+      "EnglishWord": "c of g",
+      "Meanings": [
+        "Centre of Gravity"
+      ]
+    },
+    {
+      "EnglishWord": "c of p",
+      "Meanings": [
+        "Centre of Pressure"
+      ]
+    },
+    {
+      "EnglishWord": "c/l",
+      "Meanings": [
+        "Centre"
+      ]
+    },
+    {
+      "EnglishWord": "c/s",
+      "Meanings": [
+        "Call Sign"
+      ]
+    },
+    {
+      "EnglishWord": "caa",
+      "Meanings": [
+        "Civil Aviation Authority"
+      ]
+    },
+    {
+      "EnglishWord": "caafu",
+      "Meanings": [
+        "Civil Aviation Authority Flying Unit"
+      ]
+    },
+    {
+      "EnglishWord": "call up",
+      "Meanings": [
+        "ارسال گزارش",
+        "تذکر",
+        "جمع آوری"
+      ]
+    },
+    {
+      "EnglishWord": "callsign",
+      "Meanings": [
+        "علامت رادیویی",
+        "علامت شناسایی هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "camber",
+      "Meanings": [
+        "شیب ملایم",
+        "گرده ماهی"
+      ]
+    },
+    {
+      "EnglishWord": "cancellation message",
+      "Meanings": [
+        "پیام ابطال"
+      ]
+    },
+    {
+      "EnglishWord": "canp",
+      "Meanings": [
+        "Civil Aviation Notification Procedure"
+      ]
+    },
+    {
+      "EnglishWord": "cap",
+      "Meanings": [
+        "Civil Air Publication"
+      ]
+    },
+    {
+      "EnglishWord": "capacitate",
+      "Meanings": [
+        "صلاحیت دار کردن",
+        "قابل و یا لایق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "capacitor",
+      "Meanings": [
+        "خازن",
+        "انباره"
+      ]
+    },
+    {
+      "EnglishWord": "capacity to pay",
+      "Meanings": [
+        "توانایی پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "cardinal",
+      "Meanings": [
+        "اصلی",
+        "مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "carriage returns",
+      "Meanings": [
+        "برگردان سطر",
+        "سرسطر"
+      ]
+    },
+    {
+      "EnglishWord": "cas",
+      "Meanings": [
+        "Calibrated Airspeed"
+      ]
+    },
+    {
+      "EnglishWord": "casevac",
+      "Meanings": [
+        "Casualty Evacuation"
+      ]
+    },
+    {
+      "EnglishWord": "catastroph",
+      "Meanings": [
+        "فاجعه",
+        "مصیبت"
+      ]
+    },
+    {
+      "EnglishWord": "catelogue",
+      "Meanings": [
+        "بروشور نشریات"
+      ]
+    },
+    {
+      "EnglishWord": "cater for",
+      "Meanings": [
+        "رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "cavu",
+      "Meanings": [
+        "Ceiling And Visibility Unlimited"
+      ]
+    },
+    {
+      "EnglishWord": "cbr",
+      "Meanings": [
+        "california bearing ratio"
+      ]
+    },
+    {
+      "EnglishWord": "ccf",
+      "Meanings": [
+        "Combined Cadet Force"
+      ]
+    },
+    {
+      "EnglishWord": "cdi",
+      "Meanings": [
+        "Course Deviation Indicator"
+      ]
+    },
+    {
+      "EnglishWord": "cdu",
+      "Meanings": [
+        "Control Display Unit"
+      ]
+    },
+    {
+      "EnglishWord": "ceiling",
+      "Meanings": [
+        "سقف ابر"
+      ]
+    },
+    {
+      "EnglishWord": "central registry",
+      "Meanings": [
+        "دبیرخانه"
+      ]
+    },
+    {
+      "EnglishWord": "centre line",
+      "Meanings": [
+        "خط مرکزی باند"
+      ]
+    },
+    {
+      "EnglishWord": "cfi",
+      "Meanings": [
+        "Chief Flying Instructor"
+      ]
+    },
+    {
+      "EnglishWord": "cfs",
+      "Meanings": [
+        "Central Flying School RAF"
+      ]
+    },
+    {
+      "EnglishWord": "ch",
+      "Meanings": [
+        "Compass Heading"
+      ]
+    },
+    {
+      "EnglishWord": "chairman",
+      "Meanings": [
+        "رییس",
+        "صدر"
+      ]
+    },
+    {
+      "EnglishWord": "change over point",
+      "Meanings": [
+        "نقطه ای بر فراز آن از دستگاه ناوبری بعدی استفاده می‌گردد"
+      ]
+    },
+    {
+      "EnglishWord": "channel",
+      "Meanings": [
+        "کانال"
+      ]
+    },
+    {
+      "EnglishWord": "channel light",
+      "Meanings": [
+        "چراغ باند آبی"
+      ]
+    },
+    {
+      "EnglishWord": "chapter",
+      "Meanings": [
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "characteristics",
+      "Meanings": [
+        "خصوصیات"
+      ]
+    },
+    {
+      "EnglishWord": "check",
+      "Meanings": [
+        "وارسی"
+      ]
+    },
+    {
+      "EnglishWord": "chirp",
+      "Meanings": [
+        "Confidential Human factors Incident Reporting system"
+      ]
+    },
+    {
+      "EnglishWord": "cht",
+      "Meanings": [
+        "Cylinder Head Temperature"
+      ]
+    },
+    {
+      "EnglishWord": "cintiguous",
+      "Meanings": [
+        "مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "civil aeronautics bpard",
+      "Meanings": [
+        "هییت تعیین مقررات حمل و نقل هوایی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "clear airspace",
+      "Meanings": [
+        "فضای خالی"
+      ]
+    },
+    {
+      "EnglishWord": "clearance",
+      "Meanings": [
+        "اجازه"
+      ]
+    },
+    {
+      "EnglishWord": "clearance expiry time",
+      "Meanings": [
+        "زمان انقضای اجازه"
+      ]
+    },
+    {
+      "EnglishWord": "clearance limit",
+      "Meanings": [
+        "حد مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "clearance message",
+      "Meanings": [
+        "پیام مربوط به اجازه پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "clearway",
+      "Meanings": [
+        "ناحیه افزایش ارتفاع اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "climax",
+      "Meanings": [
+        "اوج",
+        "قله",
+        "به اوج رسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "climb",
+      "Meanings": [
+        "افزایش ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "climb out area",
+      "Meanings": [
+        "ناحیه افزایش ارتفاع"
+      ]
+    },
+    {
+      "EnglishWord": "closure of discution",
+      "Meanings": [
+        "کفایت مذاکرات بمنظور تصمیم فوری"
+      ]
+    },
+    {
+      "EnglishWord": "cluster",
+      "Meanings": [
+        "دسته",
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "clutter",
+      "Meanings": [
+        "برگشتی ناخواسته"
+      ]
+    },
+    {
+      "EnglishWord": "coincidence",
+      "Meanings": [
+        "انطباق",
+        "همرویداد"
+      ]
+    },
+    {
+      "EnglishWord": "com m  s",
+      "Meanings": [
+        "Communication S"
+      ]
+    },
+    {
+      "EnglishWord": "commensurate",
+      "Meanings": [
+        "متناسب با",
+        "همراه با"
+      ]
+    },
+    {
+      "EnglishWord": "commision",
+      "Meanings": [
+        "تایید کارآیی"
+      ]
+    },
+    {
+      "EnglishWord": "common concent",
+      "Meanings": [
+        "رضایت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "communication",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "communication congestion",
+      "Meanings": [
+        "تراکم ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "communication loading factor",
+      "Meanings": [
+        "عامل افزاینده بار مکالماتی"
+      ]
+    },
+    {
+      "EnglishWord": "compacted snow",
+      "Meanings": [
+        "برف فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "compass rose",
+      "Meanings": [
+        "صفحه ایکه 360 مدرج شده است مثل صفحه رادار"
+      ]
+    },
+    {
+      "EnglishWord": "compensate",
+      "Meanings": [
+        "جبران",
+        "جبران کردن"
+      ]
+    },
+    {
+      "EnglishWord": "compulation",
+      "Meanings": [
+        "محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "computer data generation",
+      "Meanings": [
+        "تولید داده‌های کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "confer=c.f.=compare",
+      "Meanings": [
+        "مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "configuration",
+      "Meanings": [
+        "وضعیت",
+        "پیکر بندی"
+      ]
+    },
+    {
+      "EnglishWord": "connexion=connection",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "consecutive",
+      "Meanings": [
+        "متوالی",
+        "پی در پی",
+        "نتیجه ای"
+      ]
+    },
+    {
+      "EnglishWord": "consequence",
+      "Meanings": [
+        "نتیجه",
+        "پی آمد"
+      ]
+    },
+    {
+      "EnglishWord": "conspicuity",
+      "Meanings": [
+        "انگشت نمافمشخص",
+        "پدیدار شده"
+      ]
+    },
+    {
+      "EnglishWord": "construe",
+      "Meanings": [
+        "تعبیر",
+        "تفسیر"
+      ]
+    },
+    {
+      "EnglishWord": "contaminant",
+      "Meanings": [
+        "آلودگر"
+      ]
+    },
+    {
+      "EnglishWord": "contaminate",
+      "Meanings": [
+        "آلودن"
+      ]
+    },
+    {
+      "EnglishWord": "contend",
+      "Meanings": [
+        "مخالفت کردن",
+        "ستیزه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "contents",
+      "Meanings": [
+        "مندرجات"
+      ]
+    },
+    {
+      "EnglishWord": "contents of flight plan",
+      "Meanings": [
+        "مندرجات طرح پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "context",
+      "Meanings": [
+        "مطالب",
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "contigency",
+      "Meanings": [
+        "رویداد",
+        "پیش آمد",
+        "واقعه"
+      ]
+    },
+    {
+      "EnglishWord": "contour",
+      "Meanings": [
+        "محیط مریی مانند ساحل",
+        "کوه و غیره"
+      ]
+    },
+    {
+      "EnglishWord": "control area",
+      "Meanings": [
+        "ناحیه کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controlled aerodrome",
+      "Meanings": [
+        "فرودگاه کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "controlled airspace",
+      "Meanings": [
+        "فضای کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "controlled airspace instrument restricted",
+      "Meanings": [
+        "فضای کنترل شده محدود به پرواز کور"
+      ]
+    },
+    {
+      "EnglishWord": "controlled airspace instrument/visual",
+      "Meanings": [
+        "فضای کنترل شده برای پرواز کور و با دید"
+      ]
+    },
+    {
+      "EnglishWord": "controlled airspace visual exempted",
+      "Meanings": [
+        "فضای کنترل شده پرواز بادید معاف از کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controlled flight",
+      "Meanings": [
+        "پرواز کنترل شده"
+      ]
+    },
+    {
+      "EnglishWord": "controlled vfr flight",
+      "Meanings": [
+        "پرواز کنترل شده با دید"
+      ]
+    },
+    {
+      "EnglishWord": "convay",
+      "Meanings": [
+        "رساندن",
+        "حمل و نقل کردن",
+        "موافقت"
+      ]
+    },
+    {
+      "EnglishWord": "convention",
+      "Meanings": [
+        "پیمان"
+      ]
+    },
+    {
+      "EnglishWord": "coordination",
+      "Meanings": [
+        "هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "coordination message",
+      "Meanings": [
+        "پیام هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "corredpondence",
+      "Meanings": [
+        "مکاتبات",
+        "ارتباط",
+        "مطابقت"
+      ]
+    },
+    {
+      "EnglishWord": "correlation",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "corridor",
+      "Meanings": [
+        "کریدور",
+        "راه"
+      ]
+    },
+    {
+      "EnglishWord": "corrigenda",
+      "Meanings": [
+        "غلط نامه"
+      ]
+    },
+    {
+      "EnglishWord": "cpl",
+      "Meanings": [
+        "Commercial Pilot's Licence"
+      ]
+    },
+    {
+      "EnglishWord": "cr or c/r",
+      "Meanings": [
+        "Counter"
+      ]
+    },
+    {
+      "EnglishWord": "craft",
+      "Meanings": [
+        "وسیله نقلیه"
+      ]
+    },
+    {
+      "EnglishWord": "critersion",
+      "Meanings": [
+        "ملاک",
+        "میزان",
+        "ضابطه"
+      ]
+    },
+    {
+      "EnglishWord": "crm",
+      "Meanings": [
+        "Cockpit Resources Management"
+      ]
+    },
+    {
+      "EnglishWord": "crp",
+      "Meanings": [
+        "Compulsory Reporting Point"
+      ]
+    },
+    {
+      "EnglishWord": "crt",
+      "Meanings": [
+        "Cathode Ray Tube Like A Television"
+      ]
+    },
+    {
+      "EnglishWord": "cruise climb",
+      "Meanings": [
+        "افزای ارتفاع در پرواز افقی"
+      ]
+    },
+    {
+      "EnglishWord": "cruising level",
+      "Meanings": [
+        "سطح پرواز اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "cruising speed",
+      "Meanings": [
+        "سرعت در پرواز افقی"
+      ]
+    },
+    {
+      "EnglishWord": "cs",
+      "Meanings": [
+        "Constant"
+      ]
+    },
+    {
+      "EnglishWord": "cta",
+      "Meanings": [
+        "Control Area"
+      ]
+    },
+    {
+      "EnglishWord": "ctr",
+      "Meanings": [
+        "Control Zone"
+      ]
+    },
+    {
+      "EnglishWord": "current",
+      "Meanings": [
+        "موجود"
+      ]
+    },
+    {
+      "EnglishWord": "currently",
+      "Meanings": [
+        "در همان حال"
+      ]
+    },
+    {
+      "EnglishWord": "cursor",
+      "Meanings": [
+        "خطی که قطر صفحه رادار را تشکیل میدهد که بکمک آن می‌توان QDR و QDM هواپیما را تعیین نمود. در راههای جدید این خط الکترونیکی بوده و براحتی قابل جابجایی است"
+      ]
+    },
+    {
+      "EnglishWord": "cvr",
+      "Meanings": [
+        "Cockpit Voice Recorder"
+      ]
+    },
+    {
+      "EnglishWord": "cw",
+      "Meanings": [
+        "Carrier Wave Or Continuous Wave"
+      ]
+    },
+    {
+      "EnglishWord": "cwr",
+      "Meanings": [
+        "Colour Weather Radar"
+      ]
+    },
+    {
+      "EnglishWord": "cz",
+      "Meanings": [
+        "Control Zone USA"
+      ]
+    },
+    {
+      "EnglishWord": "czi",
+      "Meanings": [
+        "Compressor Zone Inspection"
+      ]
+    }
+  ]
+}

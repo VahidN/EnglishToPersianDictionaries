@@ -1,0 +1,796 @@
+﻿{
+  "Group": "L",
+  "Entries": 131,
+  "Words": [
+    {
+      "EnglishWord": "labyrinth joint",
+      "Meanings": [
+        "درز بند حلزونی"
+      ]
+    },
+    {
+      "EnglishWord": "ladder vein",
+      "Meanings": [
+        "رگه نردبانی"
+      ]
+    },
+    {
+      "EnglishWord": "laminar flow",
+      "Meanings": [
+        "جریان آرام"
+      ]
+    },
+    {
+      "EnglishWord": "landing spool",
+      "Meanings": [
+        "گوه نشاندن",
+        "قرقره نصب"
+      ]
+    },
+    {
+      "EnglishWord": "lanuching ramp",
+      "Meanings": [
+        "سکوی به آب اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "lap joint",
+      "Meanings": [
+        "مفصل روی هم"
+      ]
+    },
+    {
+      "EnglishWord": "lap welded pipe",
+      "Meanings": [
+        "لوله لبه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "latching the tongs",
+      "Meanings": [
+        "قفل کردن آچار لوله"
+      ]
+    },
+    {
+      "EnglishWord": "lateral core",
+      "Meanings": [
+        "مغزه جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral core  side - wall sample",
+      "Meanings": [
+        "دستگاه مغزه گیری از دیواره"
+      ]
+    },
+    {
+      "EnglishWord": "lateral coring",
+      "Meanings": [
+        "مغزه گیری جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral coring gun",
+      "Meanings": [
+        "تفنگ مغزه گیر جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral curve blind zone",
+      "Meanings": [
+        "منطقه کور منحنی جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral curve reflection peak",
+      "Meanings": [
+        "اوج انعکاس در منحنی جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral device departure curves",
+      "Meanings": [
+        "منحنی‌های انحراف گمانه‌های جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral device spacing",
+      "Meanings": [
+        "فاصله بندی گمانه جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral logging departure curve chart",
+      "Meanings": [
+        "نگاشت منحنی‌های انحراف در نمودار گیری جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral migration",
+      "Meanings": [
+        "مهارت جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral permeability",
+      "Meanings": [
+        "نفوذپذیری جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lateral stability",
+      "Meanings": [
+        "ثبات جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "lattice mast",
+      "Meanings": [
+        "دکل شبکه یی"
+      ]
+    },
+    {
+      "EnglishWord": "lay barge",
+      "Meanings": [
+        "دوبه لوله گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "lay v down the drill pipes",
+      "Meanings": [
+        "پیاده کردن لوله‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "leak detector",
+      "Meanings": [
+        "نشت یاب"
+      ]
+    },
+    {
+      "EnglishWord": "leakage indicator",
+      "Meanings": [
+        "نشت نما"
+      ]
+    },
+    {
+      "EnglishWord": "lean gas",
+      "Meanings": [
+        "گاز کم مایه"
+      ]
+    },
+    {
+      "EnglishWord": "lean sand",
+      "Meanings": [
+        "ماسه کم مایه"
+      ]
+    },
+    {
+      "EnglishWord": "left - hand drill pipe",
+      "Meanings": [
+        "لوله حفاری چپ گرد"
+      ]
+    },
+    {
+      "EnglishWord": "left- hand string",
+      "Meanings": [
+        "رشته لوله حفاری چپ گرد"
+      ]
+    },
+    {
+      "EnglishWord": "leg",
+      "Meanings": [
+        "پایه"
+      ]
+    },
+    {
+      "EnglishWord": "leg base anchorage of the derrick",
+      "Meanings": [
+        "لنگر بندی پی پایه دکل"
+      ]
+    },
+    {
+      "EnglishWord": "leg guide",
+      "Meanings": [
+        "سیستم هدایت پایه"
+      ]
+    },
+    {
+      "EnglishWord": "leg length",
+      "Meanings": [
+        "طول پایه"
+      ]
+    },
+    {
+      "EnglishWord": "leg raising speed",
+      "Meanings": [
+        "سرعت بالا آوردن پایه"
+      ]
+    },
+    {
+      "EnglishWord": "leg well",
+      "Meanings": [
+        "چاه جا پایه"
+      ]
+    },
+    {
+      "EnglishWord": "lenticular field",
+      "Meanings": [
+        "میدان عدسی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "lenticular reservoir",
+      "Meanings": [
+        "مخزن عدسی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "lenticular vein",
+      "Meanings": [
+        "رگه عدسی شکل"
+      ]
+    },
+    {
+      "EnglishWord": "level contorl apparatus",
+      "Meanings": [
+        "دستگاه تنظیم سطح"
+      ]
+    },
+    {
+      "EnglishWord": "level gage",
+      "Meanings": [
+        "لوله ترازنما"
+      ]
+    },
+    {
+      "EnglishWord": "level indicator recorder",
+      "Meanings": [
+        "سطح نگار"
+      ]
+    },
+    {
+      "EnglishWord": "liberated gas",
+      "Meanings": [
+        "گاز آزاد شده"
+      ]
+    },
+    {
+      "EnglishWord": "lie key",
+      "Meanings": [
+        "آویز میله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "life of a well",
+      "Meanings": [
+        "طول عمر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "lifting cap",
+      "Meanings": [
+        "سرک بلند کنی"
+      ]
+    },
+    {
+      "EnglishWord": "lifting speed of a derrick crane",
+      "Meanings": [
+        "سرعت بالابری جرثقیل دکل"
+      ]
+    },
+    {
+      "EnglishWord": "lifting sub",
+      "Meanings": [
+        "سربند بالاکشی"
+      ]
+    },
+    {
+      "EnglishWord": "lignin",
+      "Meanings": [
+        "لینیین"
+      ]
+    },
+    {
+      "EnglishWord": "lignite",
+      "Meanings": [
+        "لینییت"
+      ]
+    },
+    {
+      "EnglishWord": "liguefied petroleum gas",
+      "Meanings": [
+        "گاز نفتی مایع شده"
+      ]
+    },
+    {
+      "EnglishWord": "limb",
+      "Meanings": [
+        "پهلو"
+      ]
+    },
+    {
+      "EnglishWord": "lime- base mud",
+      "Meanings": [
+        "گل آهک مایه"
+      ]
+    },
+    {
+      "EnglishWord": "limestone",
+      "Meanings": [
+        "سنگ آهک"
+      ]
+    },
+    {
+      "EnglishWord": "limestone lateral sonde",
+      "Meanings": [
+        "گمانه جانبی برای سنگ آهک"
+      ]
+    },
+    {
+      "EnglishWord": "limited field",
+      "Meanings": [
+        "میدان محدود"
+      ]
+    },
+    {
+      "EnglishWord": "line",
+      "Meanings": [
+        "لوله"
+      ]
+    },
+    {
+      "EnglishWord": "line of dip",
+      "Meanings": [
+        "خط شیب"
+      ]
+    },
+    {
+      "EnglishWord": "line pipe",
+      "Meanings": [
+        "لوله خط"
+      ]
+    },
+    {
+      "EnglishWord": "line pressure",
+      "Meanings": [
+        "فشار خط لوله"
+      ]
+    },
+    {
+      "EnglishWord": "linear flow",
+      "Meanings": [
+        "جریان خطی"
+      ]
+    },
+    {
+      "EnglishWord": "liner",
+      "Meanings": [
+        "آستره",
+        "آستری"
+      ]
+    },
+    {
+      "EnglishWord": "liner cleaner",
+      "Meanings": [
+        "آستره تمیز کن"
+      ]
+    },
+    {
+      "EnglishWord": "liner for casing string",
+      "Meanings": [
+        "آستری رشته جداره"
+      ]
+    },
+    {
+      "EnglishWord": "liner hanger",
+      "Meanings": [
+        "آویز آستره"
+      ]
+    },
+    {
+      "EnglishWord": "liner puller",
+      "Meanings": [
+        "آستری کش"
+      ]
+    },
+    {
+      "EnglishWord": "liner shaft",
+      "Meanings": [
+        "محور اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "lines of current flow",
+      "Meanings": [
+        "خطوط جریان"
+      ]
+    },
+    {
+      "EnglishWord": "lip of drill",
+      "Meanings": [
+        "لبه مته"
+      ]
+    },
+    {
+      "EnglishWord": "liquefied natural gas",
+      "Meanings": [
+        "گاز طبیعی مایع شده"
+      ]
+    },
+    {
+      "EnglishWord": "liquid containing gas in solution",
+      "Meanings": [
+        "مایع محتوی گاز محلول"
+      ]
+    },
+    {
+      "EnglishWord": "liquid flowmeter",
+      "Meanings": [
+        "جریان سنج مایعات"
+      ]
+    },
+    {
+      "EnglishWord": "liquid hydrocarbon",
+      "Meanings": [
+        "هیدروکربور مایع"
+      ]
+    },
+    {
+      "EnglishWord": "liquid level controller",
+      "Meanings": [
+        "دستگاه تنظیم سطح مایع"
+      ]
+    },
+    {
+      "EnglishWord": "liquid level gage",
+      "Meanings": [
+        "ترازنمای مایع"
+      ]
+    },
+    {
+      "EnglishWord": "liquid mud",
+      "Meanings": [
+        "گل مایع"
+      ]
+    },
+    {
+      "EnglishWord": "lithofacies",
+      "Meanings": [
+        "رخساره سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "lithological profile",
+      "Meanings": [
+        "نمای قایم سنگ شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "live oil",
+      "Meanings": [
+        "نفت گازدار"
+      ]
+    },
+    {
+      "EnglishWord": "load binder",
+      "Meanings": [
+        "زنجیر باربند"
+      ]
+    },
+    {
+      "EnglishWord": "load carrying capacity",
+      "Meanings": [
+        "ظرفیت حمل بار"
+      ]
+    },
+    {
+      "EnglishWord": "load cell",
+      "Meanings": [
+        "بارسنج"
+      ]
+    },
+    {
+      "EnglishWord": "load on top",
+      "Meanings": [
+        "سیستم بارگیری روی نفت باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "loaded mud",
+      "Meanings": [
+        "گل سنگین شده"
+      ]
+    },
+    {
+      "EnglishWord": "loading derrick",
+      "Meanings": [
+        "دکل بارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "loading point",
+      "Meanings": [
+        "نقطه بارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "loading pump",
+      "Meanings": [
+        "تلمبه بارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "loam",
+      "Meanings": [
+        "لوم"
+      ]
+    },
+    {
+      "EnglishWord": "lobate core",
+      "Meanings": [
+        "هسته چند عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "lobate vessel",
+      "Meanings": [
+        "محفظه چند عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "lobate wall",
+      "Meanings": [
+        "دیواره چند عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "located washing",
+      "Meanings": [
+        "شستشوی موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "log",
+      "Meanings": [
+        "نمودار گرفتن",
+        "نمودار اسم",
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "log analysis",
+      "Meanings": [
+        "تحلیل نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "log interpretation",
+      "Meanings": [
+        "تفسیر نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "log marker",
+      "Meanings": [
+        "مبدا نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "logging",
+      "Meanings": [
+        "نمودار گیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging cab",
+      "Meanings": [
+        "کامیون نمودار گیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging cable",
+      "Meanings": [
+        "کابل نمودارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging motion arrestor",
+      "Meanings": [
+        "تکان گیر نمودار گیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging oscillograph",
+      "Meanings": [
+        "نوسان نگار نمودار گیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging recorder",
+      "Meanings": [
+        "ثبات نمودارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging unit",
+      "Meanings": [
+        "واحد نمودارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "logging well",
+      "Meanings": [
+        "چاه نمودارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "long lateral device",
+      "Meanings": [
+        "گمانه جانبی طویل"
+      ]
+    },
+    {
+      "EnglishWord": "long normal sonde",
+      "Meanings": [
+        "گمانه عادی طویل"
+      ]
+    },
+    {
+      "EnglishWord": "long thread casing",
+      "Meanings": [
+        "جداره دنده گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "long threads",
+      "Meanings": [
+        "رزوه دراز"
+      ]
+    },
+    {
+      "EnglishWord": "longitudinal fault",
+      "Meanings": [
+        "گسل طولی"
+      ]
+    },
+    {
+      "EnglishWord": "longitudinal profile",
+      "Meanings": [
+        "مقطع طولی"
+      ]
+    },
+    {
+      "EnglishWord": "loop",
+      "Meanings": [
+        "خط لوله فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "loop oscillograph",
+      "Meanings": [
+        "نوسان نگار حلقه نما"
+      ]
+    },
+    {
+      "EnglishWord": "loose coupling",
+      "Meanings": [
+        "اتصال هرزگرد"
+      ]
+    },
+    {
+      "EnglishWord": "loss of circulation",
+      "Meanings": [
+        "هرز روی گل"
+      ]
+    },
+    {
+      "EnglishWord": "loss-of- circulation zone",
+      "Meanings": [
+        "منطقه هرز روی گل"
+      ]
+    },
+    {
+      "EnglishWord": "loss-of- circulation zone location",
+      "Meanings": [
+        "تعیین محل منطقه هرز روی گل"
+      ]
+    },
+    {
+      "EnglishWord": "lost circulation alarm",
+      "Meanings": [
+        "آژیر هرز روی گل"
+      ]
+    },
+    {
+      "EnglishWord": "lost circulation detector",
+      "Meanings": [
+        "آشکار گر هرز روی گل"
+      ]
+    },
+    {
+      "EnglishWord": "lost hole",
+      "Meanings": [
+        "چاه از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "lost oil",
+      "Meanings": [
+        "نفت از دست رفته"
+      ]
+    },
+    {
+      "EnglishWord": "low angle fault",
+      "Meanings": [
+        "گسل کم زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "low resistivity bed",
+      "Meanings": [
+        "لایه کم مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "low solid content mud",
+      "Meanings": [
+        "گل کم مایع"
+      ]
+    },
+    {
+      "EnglishWord": "low water loss",
+      "Meanings": [
+        "آب روی کم"
+      ]
+    },
+    {
+      "EnglishWord": "lower cretaceous",
+      "Meanings": [
+        "کرتاسه زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "lower jurassic",
+      "Meanings": [
+        "ژوراسیک زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "lower permian",
+      "Meanings": [
+        "پرمین زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "lower triassic",
+      "Meanings": [
+        "تریاس زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "lower v the drill pipes",
+      "Meanings": [
+        "پایین دادن لوله‌های حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "lowering of the casing",
+      "Meanings": [
+        "پایین دادن جداره"
+      ]
+    },
+    {
+      "EnglishWord": "lubricating ring",
+      "Meanings": [
+        "حلقه روغن کاری"
+      ]
+    },
+    {
+      "EnglishWord": "lubrication pipe",
+      "Meanings": [
+        "لوله روغن کاری"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,464 @@
+﻿{
+  "Group": "T",
+  "Entries": 76,
+  "Words": [
+    {
+      "EnglishWord": "t",
+      "Meanings": [
+        "تی"
+      ]
+    },
+    {
+      "EnglishWord": "t value",
+      "Meanings": [
+        "فرسایش مجازخاک"
+      ]
+    },
+    {
+      "EnglishWord": "tactoid",
+      "Meanings": [
+        "تاکتویید"
+      ]
+    },
+    {
+      "EnglishWord": "talc",
+      "Meanings": [
+        "تالک"
+      ]
+    },
+    {
+      "EnglishWord": "talud",
+      "Meanings": [
+        "دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "talus",
+      "Meanings": [
+        "کوهرفت"
+      ]
+    },
+    {
+      "EnglishWord": "taxadjunct",
+      "Meanings": [
+        "شبه‌سری"
+      ]
+    },
+    {
+      "EnglishWord": "taxon",
+      "Meanings": [
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "taxonomic unit",
+      "Meanings": [
+        "واحدرده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "tdr",
+      "Meanings": [
+        "بازتاب سنج انعکاسی",
+        "بازتاب سنجی زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "tensile strength",
+      "Meanings": [
+        "مقاومت کششی"
+      ]
+    },
+    {
+      "EnglishWord": "tensiometer",
+      "Meanings": [
+        "مکش سنج"
+      ]
+    },
+    {
+      "EnglishWord": "tephra",
+      "Meanings": [
+        "تفرا"
+      ]
+    },
+    {
+      "EnglishWord": "terminal moraine",
+      "Meanings": [
+        "پایانه یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "terrace",
+      "Meanings": [
+        "تراس"
+      ]
+    },
+    {
+      "EnglishWord": "terric layer",
+      "Meanings": [
+        "لایه تریک"
+      ]
+    },
+    {
+      "EnglishWord": "tertiary waste treatment",
+      "Meanings": [
+        "تصفیه نهایی ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "textural classification",
+      "Meanings": [
+        "طبقه‌بندی بافتی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal analysis",
+      "Meanings": [
+        "گرماسنجی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal conductivity",
+      "Meanings": [
+        "هدایت گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal properties",
+      "Meanings": [
+        "ویژگیهای گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermic",
+      "Meanings": [
+        "ترمیک"
+      ]
+    },
+    {
+      "EnglishWord": "thermogenic soils",
+      "Meanings": [
+        "خاکهای گرمازاد"
+      ]
+    },
+    {
+      "EnglishWord": "thermophilic organisms",
+      "Meanings": [
+        "جانداران گرمادوست"
+      ]
+    },
+    {
+      "EnglishWord": "thermosequence",
+      "Meanings": [
+        "خاک‌ردیف گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "threshold moisture content",
+      "Meanings": [
+        "رطوبت آستانه"
+      ]
+    },
+    {
+      "EnglishWord": "throughfall",
+      "Meanings": [
+        "میان بارش"
+      ]
+    },
+    {
+      "EnglishWord": "throw",
+      "Meanings": [
+        "پرتاب"
+      ]
+    },
+    {
+      "EnglishWord": "tidal flat",
+      "Meanings": [
+        "هور"
+      ]
+    },
+    {
+      "EnglishWord": "tie ridge",
+      "Meanings": [
+        "پشته بسته"
+      ]
+    },
+    {
+      "EnglishWord": "tight soil",
+      "Meanings": [
+        "خاک فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "tile drain",
+      "Meanings": [
+        "تنبوشه"
+      ]
+    },
+    {
+      "EnglishWord": "till",
+      "Meanings": [
+        "خاک‌ورزی",
+        "یخرفت"
+      ]
+    },
+    {
+      "EnglishWord": "till plain",
+      "Meanings": [
+        "دشت یخرفت"
+      ]
+    },
+    {
+      "EnglishWord": "tillage",
+      "Meanings": [
+        "خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage action",
+      "Meanings": [
+        "عمل خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage deep",
+      "Meanings": [
+        "خاک‌ورزی عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "tillage equipments",
+      "Meanings": [
+        "ابزارهای خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage erosion",
+      "Meanings": [
+        "فرسایش خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage moldboard plowing",
+      "Meanings": [
+        "شخم باگاوآهن"
+      ]
+    },
+    {
+      "EnglishWord": "tillage objective",
+      "Meanings": [
+        "هدف خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage operation",
+      "Meanings": [
+        "عملیات خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage requirements",
+      "Meanings": [
+        "نیازهای خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "tillage residue management system",
+      "Meanings": [
+        "شخم بامدیریت بقا"
+      ]
+    },
+    {
+      "EnglishWord": "tilth",
+      "Meanings": [
+        "ورزخاک"
+      ]
+    },
+    {
+      "EnglishWord": "time-domain reflectometry",
+      "Meanings": [
+        "بازتاب سنجی زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "todorokite",
+      "Meanings": [
+        "تودوروکیت"
+      ]
+    },
+    {
+      "EnglishWord": "toeslope",
+      "Meanings": [
+        "پنجه شیب"
+      ]
+    },
+    {
+      "EnglishWord": "top dressing",
+      "Meanings": [
+        "کودسرک دادن"
+      ]
+    },
+    {
+      "EnglishWord": "toposaic",
+      "Meanings": [
+        "نقشه عکسی توپوگرافی"
+      ]
+    },
+    {
+      "EnglishWord": "toposequence",
+      "Meanings": [
+        "خاک ردیف پستی بلندی"
+      ]
+    },
+    {
+      "EnglishWord": "topsoil",
+      "Meanings": [
+        "خاک سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "torrands",
+      "Meanings": [
+        "تورندها"
+      ]
+    },
+    {
+      "EnglishWord": "torrerts",
+      "Meanings": [
+        "توررت‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "torric",
+      "Meanings": [
+        "توریک"
+      ]
+    },
+    {
+      "EnglishWord": "torrox",
+      "Meanings": [
+        "توراکس"
+      ]
+    },
+    {
+      "EnglishWord": "tortuosity",
+      "Meanings": [
+        "اعوجاج"
+      ]
+    },
+    {
+      "EnglishWord": "tortuosity factor",
+      "Meanings": [
+        "ضریب پیچ خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "total potential",
+      "Meanings": [
+        "پتانسل کل"
+      ]
+    },
+    {
+      "EnglishWord": "total potential of soil water",
+      "Meanings": [
+        "پتانسل کل آب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "total pressure",
+      "Meanings": [
+        "فشارکل"
+      ]
+    },
+    {
+      "EnglishWord": "toxicity",
+      "Meanings": [
+        "سمیت"
+      ]
+    },
+    {
+      "EnglishWord": "trace elements",
+      "Meanings": [
+        "عناصرکمیاب"
+      ]
+    },
+    {
+      "EnglishWord": "traffic pan",
+      "Meanings": [
+        "کفه کوبیده"
+      ]
+    },
+    {
+      "EnglishWord": "transitional soil",
+      "Meanings": [
+        "خاک بینابینی"
+      ]
+    },
+    {
+      "EnglishWord": "transported soil",
+      "Meanings": [
+        "خاک انتقالی"
+      ]
+    },
+    {
+      "EnglishWord": "trash farming",
+      "Meanings": [
+        "کشت کاه وکلشی"
+      ]
+    },
+    {
+      "EnglishWord": "tree-tip mound",
+      "Meanings": [
+        "پشته بن‌درختی"
+      ]
+    },
+    {
+      "EnglishWord": "tree-tip pit",
+      "Meanings": [
+        "گودی بن‌درختی"
+      ]
+    },
+    {
+      "EnglishWord": "triaxial shear test",
+      "Meanings": [
+        "آزمون برش سه محوری"
+      ]
+    },
+    {
+      "EnglishWord": "trioctahedral",
+      "Meanings": [
+        "هشت وجهی سه جایی"
+      ]
+    },
+    {
+      "EnglishWord": "tropepts",
+      "Meanings": [
+        "تروپپتها"
+      ]
+    },
+    {
+      "EnglishWord": "truncated",
+      "Meanings": [
+        "نوک تخت"
+      ]
+    },
+    {
+      "EnglishWord": "tuff",
+      "Meanings": [
+        "خاکسترآتشفشان"
+      ]
+    },
+    {
+      "EnglishWord": "tundra",
+      "Meanings": [
+        "توندرا"
+      ]
+    },
+    {
+      "EnglishWord": "tundra soils",
+      "Meanings": [
+        "خاکهای توندرا"
+      ]
+    }
+  ]
+}

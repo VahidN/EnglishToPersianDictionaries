@@ -1,0 +1,330 @@
+﻿{
+  "Group": "I",
+  "Entries": 43,
+  "Words": [
+    {
+      "EnglishWord": "if",
+      "Meanings": [
+        "اگر"
+      ]
+    },
+    {
+      "EnglishWord": "if/then/else/end if",
+      "Meanings": [
+        "دستور شرطی",
+        "این دستور هم مانند If/Then/End If می‌باشد با این تفاوت که اگر دستور مورد نظر اجرا نشد دستور بعدی اجرا شود و به صورت زیر است",
+        "If Code1 Then",
+        "Code",
+        "Else",
+        "End If",
+        "در این دستور اگر دستور Code1 با موافقت انجام شد یعنی True بود دستور Code2 اجرا می‌شود و اگر این طور نبود یعنی False بود دستور Code3 انجام می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "if/then/elseif/else/end if",
+      "Meanings": [
+        "دستور شرطی",
+        "این دستور هم مانند If/Then/Else/End If می‌باشد با این تفاوت کهما محدودیتهای دیگری هم برای کدمان انجام می‌دهیم و به صورت زیر است",
+        "If Code1 Then",
+        "Code",
+        "ElseIf",
+        "Else",
+        "Code n",
+        "End If"
+      ]
+    },
+    {
+      "EnglishWord": "if/then/end if",
+      "Meanings": [
+        "دستور شرطی",
+        "یکی از مهمترین دستورات ویژوال بیسیک که هنگامی استفاده می‌شود که در برنامه ما محدودیتهایی باشد. دستور آن به صورت زیر است",
+        "If Code1 Then",
+        "Code",
+        "End If",
+        "در این دستور اگر دستور Code1 با موافقت انجام شد یعنی True بود دستور Code2 اجرا می‌شود",
+        "این دستور را می‌توانیم به این صورت هم نشان دهیم",
+        "If Code1 Then Code",
+        "یعنی اگر دستور به صورت خطی باشد نیازی به End If نمی‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "iif",
+      "Meanings": [
+        "دستور شرطی",
+        "دستوری شرطی مانند If/Then که به صورت زیر است",
+        "IIf Expression"
+      ]
+    },
+    {
+      "EnglishWord": "ils",
+      "Meanings": [
+        "I mage L i s t",
+        "لیست تصویر",
+        "این لغت برای نامگذاری شیء ImageList استفاده می‌شود به صورت ilsName"
+      ]
+    },
+    {
+      "EnglishWord": "image",
+      "Meanings": [
+        "تصویر",
+        "یکی از شیء‌های VB که شکل یک جعبه تصویر را بر روی فرم ایجاد می‌کند و تصاویر گرافیکی و طرح بیتی و آیکونها را نشان می‌دهد و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "imagecombo control",
+      "Meanings": [
+        "کترلی برای قرار دادن عکس درون جعبه کومبو"
+      ]
+    },
+    {
+      "EnglishWord": "imagelist",
+      "Meanings": [
+        "لیست تصویر",
+        "یکی از ابزارهای کامپوننت Microsft Windows Common Controls که ابزاری جهت وارد کردن عکسهای کوچک مختلف درون حافظه می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "imagelist control",
+      "Meanings": [
+        "لیست تصویر",
+        "یکی از ابزارهای کامپوننت Microsft Windows Common Controls که ابزاری جهت وارد کردن عکسهای کوچک مختلف درون حافظه می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "img",
+      "Meanings": [
+        "Im a g e",
+        "تصویر",
+        "این لغت برای نامگذاری شیء Image استفاده می‌شود به صورت ImgName"
+      ]
+    },
+    {
+      "EnglishWord": "immediate window",
+      "Meanings": [
+        "یکی از گزینه‌های منوی View",
+        "با انتخاب آن پنجره ای در پایین صفحه نمایش می‌گردد که عملیات برنامه را به ما نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "inch",
+      "Meanings": [
+        "اینچ",
+        "مقیاسی که برابر 2. 54 سانتیمتر می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "index",
+      "Meanings": [
+        "اندیس",
+        "خاصیتی که شماره یک شیء را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "inequality",
+      "Meanings": [
+        "نابرابری",
+        "برای نامساوی کردن دو عبارت از علامت &lt; &gt; استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "inet",
+      "Meanings": [
+        "I nternational net working conference",
+        "کنفرانس بین المللی شبکه",
+        "کامپونتی برای اتصال به شبکه و دریافت فایل و"
+      ]
+    },
+    {
+      "EnglishWord": "ini",
+      "Meanings": [
+        "Ini tialize",
+        "Ini tialization",
+        "قالب بندی شده",
+        "نوع خاصی از فایلهای متنی برای ذخیره تنظیمات برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "inputbox",
+      "Meanings": [
+        "جعبه ورودی",
+        "جعبه ای که به منظور وارد کردن یک عدد یا متن به کاربر نشان داده می‌شود",
+        "InputBox Promt"
+      ]
+    },
+    {
+      "EnglishWord": "insert file",
+      "Meanings": [
+        "وارد کردن یک فایل",
+        "برای داخل کردن یک متن از یک فایل به درون پنجره کدها گزینه Insert File را از منوی Edit انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "instr",
+      "Meanings": [
+        "InStr [ start"
+      ]
+    },
+    {
+      "EnglishWord": "instrrev",
+      "Meanings": [
+        "InStrRev [ start"
+      ]
+    },
+    {
+      "EnglishWord": "int",
+      "Meanings": [
+        "Int eger",
+        "عدد صحیح",
+        "تابعی که برای تبدیل یک عدد اعشاری به صحیح استفاده می‌شود. برای استفاده از آن چنین عمل می‌کنیم",
+        "Int Num",
+        "مثلا: Int 2. 1 ="
+      ]
+    },
+    {
+      "EnglishWord": "integer",
+      "Meanings": [
+        "عدد صحیح",
+        "نوعی از متغیرها که عدد صحیح می‌باشد و مقدار آن برابر دو بایت است و عددی بین",
+        "تا 32768 می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "integer division operator",
+      "Meanings": [
+        "تقسیم اعداد صحیح",
+        "برای انجام این عمل از علامت \\ استفاده می‌کنیم. مانند",
+        "result = number1\\number"
+      ]
+    },
+    {
+      "EnglishWord": "interval",
+      "Meanings": [
+        "فاصله",
+        "خصیصه از شیء Timer که سرعت آن را معین می‌کند و هر چه کمتر باشد سرعت آن بیشتر است"
+      ]
+    },
+    {
+      "EnglishWord": "inverse cosecant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse cosine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse cotangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic cosecant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic cosine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic cotangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic secant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic sine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic sinus",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse hyperbolic tangent",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse secant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse sine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "inverse sinus",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "ip",
+      "Meanings": [
+        "I nternet P rotocol",
+        "نام سایتها به صورت یک عدد چهار قسمتی"
+      ]
+    },
+    {
+      "EnglishWord": "is",
+      "Meanings": [
+        "عملگری که برابر عمل مساوی است"
+      ]
+    },
+    {
+      "EnglishWord": "isnumeric",
+      "Meanings": [
+        "دستوری که اگر نشان می‌دهد آیا عبارت قابل تبدیل به عدد است یا خیر؟",
+        "IsNumeric Expression",
+        "در Expression عبارت مورد نظر را بنویسید"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "آیتم",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . Item key",
+        "به جای Object نام شیء و به جای Key شماره لغت را در پرانتز می‌نویسیم در این صورت لغت مورد نظر نشان داده می‌شود. اگر در ادامه آن یک مساوی قرار دهیم و بعد از آن یک لغت بنویسیم لغت مورد نظر برابر با آن لغت می‌شود",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "items",
+      "Meanings": [
+        "آیتمها",
+        "یکی از متددهای شیء دیکشنری که به صورت زیر می‌باشد",
+        "object . Items",
+        "به جای Object نام شیء را می‌نویسیم در این صورت لغات دیکشنری را به ما پس می‌دهد. مانند",
+        "Dim a"
+      ]
+    }
+  ]
+}

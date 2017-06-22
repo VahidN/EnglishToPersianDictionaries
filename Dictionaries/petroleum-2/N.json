@@ -1,0 +1,603 @@
+﻿{
+  "Group": "N",
+  "Entries": 83,
+  "Words": [
+    {
+      "EnglishWord": "n",
+      "Meanings": [
+        "from Neutron Log",
+        "محاسبه شده و بدست آمده از لاگ نوترون",
+        "NEUTRON LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "n.s",
+      "Meanings": [
+        "No Sample, also write as : N",
+        "SPL",
+        "فاصله ای از چاه که به هر دلیلی فاقد نمونە حفاری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "n/u",
+      "Meanings": [
+        "Nipple Up, also write as : NU"
+      ]
+    },
+    {
+      "EnglishWord": "na",
+      "Meanings": [
+        "Not Available, also refer to as : N/A",
+        "غیر قابل دسترس",
+        "موجود نمی‌باشد",
+        "همچنین بصورت N/A نیز نوشته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "nat",
+      "Meanings": [
+        "natural"
+      ]
+    },
+    {
+      "EnglishWord": "natural",
+      "Meanings": [
+        "nat"
+      ]
+    },
+    {
+      "EnglishWord": "natural clays",
+      "Meanings": [
+        "Clays that are encountered when drilling various formations; they may or may not be incorporated purposely into the mud system"
+      ]
+    },
+    {
+      "EnglishWord": "natural gas",
+      "Meanings": [
+        "A mixture of hydrocarbons and varying quantities of nonhydrocarbons that exist either in the gaseous phase or in solution with crude oil in natural underground reservoirs"
+      ]
+    },
+    {
+      "EnglishWord": "natural gas liquids",
+      "Meanings": [
+        "Those portions of reservoir gas which are liquefied at the surface in field facilities or gas processing plants"
+      ]
+    },
+    {
+      "EnglishWord": "nb",
+      "Meanings": [
+        "new Bit",
+        "مته جدید"
+      ]
+    },
+    {
+      "EnglishWord": "nbs",
+      "Meanings": [
+        "near Bit stabiliser, also write with capital letters as : NBS",
+        "استابیلایزر نصب شده نزدیک مته"
+      ]
+    },
+    {
+      "EnglishWord": "nchty",
+      "Meanings": [
+        "non",
+        "cherty"
+      ]
+    },
+    {
+      "EnglishWord": "ncl",
+      "Meanings": [
+        "NEUTRON COLLAR LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ne",
+      "Meanings": [
+        "NEUTRON, Log Curve name",
+        "northeast, mostly write with capital letters as : NE"
+      ]
+    },
+    {
+      "EnglishWord": "near",
+      "Meanings": [
+        "nr",
+        "نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "near bit stabiliser",
+      "Meanings": [
+        "A tool placed near the Bit and often above it in the Drilling Assembly and used to change the deviation angle in a Well by controlling the location of the contact point between the Hole and Drill Collars. Conversely, stabilizers are used to maintain correct Hole angle. 2. A vessel in which hydrocarbon vapors are separated from liquids",
+        "NB",
+        "استابیلایزر نصب شده دربالای مته",
+        "جهت اطلاعات بیشتر به لغت استابیلایزر مراجعه فرمایید"
+      ]
+    },
+    {
+      "EnglishWord": "neat cement",
+      "Meanings": [
+        "A cement with no additives other than water"
+      ]
+    },
+    {
+      "EnglishWord": "nec",
+      "Meanings": [
+        "NEUTRON COMPENSATED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "necd",
+      "Meanings": [
+        "NEUTRON COMPENSATED",
+        "DUAL SPACED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "necking",
+      "Meanings": [
+        "The tendency of a metal bar or pipe to taper to a reduced diameter at some point when subjected to excessive longitudinal stress. See also : Bottleneck"
+      ]
+    },
+    {
+      "EnglishWord": "necl",
+      "Meanings": [
+        "NEUTRON",
+        "CHLORINILOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ned",
+      "Meanings": [
+        "NEUTRON",
+        "DUAL SPACED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nee",
+      "Meanings": [
+        "NEUTRON",
+        "EPITHERMAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "needle valve",
+      "Meanings": [
+        "A globe valve that contains a sharp, pointed, needle",
+        "like plug that is driven into and out of a cone",
+        "shaped seat to control accurately a relatively small rate of fluid flow. In a fuel injector, the fuel pressure forces the needle valve off its seat to allow injection"
+      ]
+    },
+    {
+      "EnglishWord": "nees",
+      "Meanings": [
+        "NEUTRON",
+        "EPITHERMAL",
+        "SIDEWALL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nem",
+      "Meanings": [
+        "NEUTRON",
+        "MULTISPACED, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "net pay thickness",
+      "Meanings": [
+        "H"
+      ]
+    },
+    {
+      "EnglishWord": "neut",
+      "Meanings": [
+        "NEUTRON, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "neutral",
+      "Meanings": [
+        "Position of the rig's weight indicator where Hook load is zero"
+      ]
+    },
+    {
+      "EnglishWord": "neutron log",
+      "Meanings": [
+        "N",
+        "لاگ نوترون"
+      ]
+    },
+    {
+      "EnglishWord": "new bit",
+      "Meanings": [
+        "NB",
+        "مته جدید",
+        "مته ای که بتازگی درون چاه شده است"
+      ]
+    },
+    {
+      "EnglishWord": "nfd",
+      "Meanings": [
+        "NEUTRON FORMATION DENSITY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "ngs",
+      "Meanings": [
+        "Natural Gamma Ray Spectra",
+        "طیف گاما ری طبیعی",
+        "یکی از لاگ‌های مربوط به وایر لاین است"
+      ]
+    },
+    {
+      "EnglishWord": "ngt",
+      "Meanings": [
+        "NATURAL GAMMA",
+        "RAY/SPECTROSCOPY/SPECTROMETRY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "night drilling supervisor",
+      "Meanings": [
+        "NSV",
+        "سوپروایزر یا ناظر حفاری شیفت شب یا کمپانی من شب"
+      ]
+    },
+    {
+      "EnglishWord": "nil",
+      "Meanings": [
+        "A rock without porosity, e.g. I",
+        "A according to Archie Classification",
+        "فاقد تخلخل",
+        "بدون تخلخل قابل رویت"
+      ]
+    },
+    {
+      "EnglishWord": "nipple",
+      "Meanings": [
+        "A short, threaded tubular coupling used for making connections between pipe joints and other tools"
+      ]
+    },
+    {
+      "EnglishWord": "nipple up",
+      "Meanings": [
+        "N/U, also write as : NU",
+        "To bolt together various valves or fittings, as to Nipple Up the Blow",
+        "Out Preventors or the Christmas Tree",
+        "In drilling, to assemble the blowout preventer stack on the Wellhead at the surface"
+      ]
+    },
+    {
+      "EnglishWord": "nitro shooting",
+      "Meanings": [
+        "A Formation",
+        "stimulation process first used about a hundred years ago in Pennsylvania. Nitroglycerine is placed in a well and exploded to fracture the rock. Sand and gravel or cement is usually placed above the explosive charge to improve the efficiency of the shot. Nitro shooting has been largely replaced by Formation fracturing"
+      ]
+    },
+    {
+      "EnglishWord": "nl",
+      "Meanings": [
+        "north line"
+      ]
+    },
+    {
+      "EnglishWord": "nll",
+      "Meanings": [
+        "NEUTRON LIFETIME, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nl-ng",
+      "Meanings": [
+        "بدون هرز روی",
+        "بدون وارد شدن سیال به چاه",
+        "به وضعیت ساکن چاه اطلاق می‌شود",
+        "No Loss, No Gain, mostly write with capital letters as : NL",
+        "NG"
+      ]
+    },
+    {
+      "EnglishWord": "nmi",
+      "Meanings": [
+        "MAGNETIC RESONANCE IMAGING LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nml",
+      "Meanings": [
+        "NUCLEAR MAGNETISM, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nmr",
+      "Meanings": [
+        "NUCLEAR MAGNETIC RESONANCE LOG, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "no loss no gain",
+      "Meanings": [
+        "NL",
+        "NG",
+        "بدون هرز روی",
+        "بدون وارد شدن سیال به چاه",
+        "به وضعیت ساکن چاه اطلاق می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "no sample",
+      "Meanings": [
+        "N.S, also write as : N",
+        "SPL",
+        "N",
+        "SPL, also write mostly as : N.S",
+        "فاصله ای از چاه که به هر دلیلی فاقد نمونە حفاری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "no show",
+      "Meanings": [
+        "NS, also refer to as : NSO or N",
+        "S",
+        "بدون نشانه‌های نفتی",
+        "در مورد نمونه‌های حفاری یا حتی گل حفاری نیز بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "no trouble",
+      "Meanings": [
+        "NT, actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "بدون مشکل",
+        "عملیات انجام شده بدون هیچ مسیله ای",
+        "معمولا اختصار این لغت در مورد عملیاتی بکار میرود که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "no-go",
+      "Meanings": [
+        "A gauge run downhole to verify dimensions"
+      ]
+    },
+    {
+      "EnglishWord": "no-go nipple",
+      "Meanings": [
+        "A special nipple made up in the tubing, casing, or drill pipe string the configuration of which is such that a tool contacting it can pass through only if the tool is in the proper position or configuration"
+      ]
+    },
+    {
+      "EnglishWord": "non-associated gas",
+      "Meanings": [
+        "Natural gas which is in reservoirs that do not contain significant quantities of crude oil"
+      ]
+    },
+    {
+      "EnglishWord": "noncalc",
+      "Meanings": [
+        "noncalcareous",
+        "بدون آهک",
+        "سنگ یا نمونه حفاری که فاقد آهک است"
+      ]
+    },
+    {
+      "EnglishWord": "noncalcareous",
+      "Meanings": [
+        "non calc",
+        "فاقد آهک",
+        "سنگ یا نمونه حفاری که فاقد آهک است"
+      ]
+    },
+    {
+      "EnglishWord": "non-cherty",
+      "Meanings": [
+        "nchty"
+      ]
+    },
+    {
+      "EnglishWord": "nonconductive mud",
+      "Meanings": [
+        "Any drilling fluid, usually oil",
+        "base or invert",
+        "emulsion muds, the continuous phase of which does not conduct electricity, e.g. : Oil"
+      ]
+    },
+    {
+      "EnglishWord": "nonoolitic",
+      "Meanings": [
+        "noolc",
+        "بدون االیت",
+        "سنگ یا نمونه حفاری که فاقد دانه‌های االیت است"
+      ]
+    },
+    {
+      "EnglishWord": "noolc",
+      "Meanings": [
+        "nonoolitic",
+        "بدون االیت",
+        "سنگ یا نمونه حفاری که فاقد دانه‌های االیت است"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "nrm",
+        "معمولی",
+        "وضعیت یا حالت عادی"
+      ]
+    },
+    {
+      "EnglishWord": "normal circulation",
+      "Meanings": [
+        "The smooth, uninterrupted circulation of drilling fluid down the drill stem, out the bit, up the annular space between the pipe and the hole, and back to the surface. Compare also with : Reverse Circulation"
+      ]
+    },
+    {
+      "EnglishWord": "normal formation pressure",
+      "Meanings": [
+        "Formation fluid pressure equivalent to about 0.465 pounds per square foot of depth from the surface. If the formation pressure is 4,650 pounds per square inch at 10,000 feet, it is considered normal"
+      ]
+    },
+    {
+      "EnglishWord": "normal pressure gradient",
+      "Meanings": [
+        "The normal pressure divided by true vertical depth"
+      ]
+    },
+    {
+      "EnglishWord": "north line",
+      "Meanings": [
+        "NL"
+      ]
+    },
+    {
+      "EnglishWord": "northeast",
+      "Meanings": [
+        "NE",
+        "شمال شرقی"
+      ]
+    },
+    {
+      "EnglishWord": "northwest",
+      "Meanings": [
+        "NW",
+        "شمال غربی"
+      ]
+    },
+    {
+      "EnglishWord": "not available",
+      "Meanings": [
+        "NA, also refer to as : N/A",
+        "غیر قابل دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "nozzle",
+      "Meanings": [
+        "A passageway through Jet Bits that causes the drilling fluid to be ejected from the bit at high velocity. The jet of mud clears the bottom of the hole. Nozzles come in different sizes that can be interchanged on the bit to adjust the velocity with which the mud exits the Bit",
+        ". The part of the fuel system of an engine that has small holes in it to permit fuel to enter the cylinder. Properly known as a Fuel",
+        "injection Nozzle, but also called : a Spray Valve. The Needle Valve is directly above the Nozzle"
+      ]
+    },
+    {
+      "EnglishWord": "npl",
+      "Meanings": [
+        "PULSED NEUTRON",
+        "LIFETIME, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "npld",
+      "Meanings": [
+        "PULSED NEUTRON",
+        "LIFETIME",
+        "DUAL, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nptd",
+      "Meanings": [
+        "PULSED NEUTRON",
+        "THERMAN DECAY, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "nr",
+      "Meanings": [
+        "near",
+        "نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "nrm",
+      "Meanings": [
+        "normal",
+        "معمولی",
+        "وضعیت یا حالت عادی"
+      ]
+    },
+    {
+      "EnglishWord": "ns",
+      "Meanings": [
+        "No Show, also refer to as : N",
+        "S or N/S or NSO",
+        "بدون نشانه‌های نفتی",
+        "در مورد نمونه‌های حفاری یا حتی گل حفاری نیز بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "n-s",
+      "Meanings": [
+        "No Show, also write as : N/S or NS or NSO",
+        "بدون نشانه‌های نفتی",
+        "در مورد نمونه‌های حفاری یا حتی گل حفاری نیز بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "nso",
+      "Meanings": [
+        "No Show, also write as : NS or N",
+        "S or N/S",
+        "بدون نشانه‌های نفتی",
+        "در مورد نمونه‌های حفاری یا حتی گل حفاری نیز بکار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "n-spl",
+      "Meanings": [
+        "No Sample, also commonly write as : N.S",
+        "فاصله ای از چاه که به هر دلیلی فاقد نمونە حفاری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "nsv",
+      "Meanings": [
+        "Night Drilling Supervisor, mostly write with capital letters as : NSV",
+        "کمپانی من شب"
+      ]
+    },
+    {
+      "EnglishWord": "nt",
+      "Meanings": [
+        "No Trouble, This is compulsory to be filled in the case of no problem or trouble, Operations' abbreviation which usually Companymans write in their daily drilling reports",
+        "No Trouble, NT , actions or job's abbreviations which Companymans write in their daily drilling reports",
+        "بدون مشکلی خاص",
+        "اختصار در مورد عملیاتی است که در حال انجام است و در گزارش‌ها مورد استفاده قرار می‌گیرد و معمولا با حروف بزرگ نوشته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "nucr",
+      "Meanings": [
+        "NUCLEAR/OLD GAMMA RAY NEUTRON, Log Curve name"
+      ]
+    },
+    {
+      "EnglishWord": "num",
+      "Meanings": [
+        "numerous",
+        "بیشمار",
+        "فراوان"
+      ]
+    },
+    {
+      "EnglishWord": "numerous",
+      "Meanings": [
+        "num",
+        "بیشمار",
+        "فراوان",
+        "بسیار زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "numr",
+      "Meanings": [
+        "NUMAR MAGNETIC RESONANCE LOG"
+      ]
+    },
+    {
+      "EnglishWord": "nw",
+      "Meanings": [
+        "northwest",
+        "شمال غربی"
+      ]
+    }
+  ]
+}

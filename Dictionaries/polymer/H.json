@@ -1,0 +1,923 @@
+﻿{
+  "Group": "H",
+  "Entries": 144,
+  "Words": [
+    {
+      "EnglishWord": "h bond",
+      "Meanings": [
+        "پیوند هیدروژنی"
+      ]
+    },
+    {
+      "EnglishWord": "half life",
+      "Meanings": [
+        "نیم عمر"
+      ]
+    },
+    {
+      "EnglishWord": "halogenation",
+      "Meanings": [
+        "هالوژن دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hand lay up",
+      "Meanings": [
+        "لایه گذاری دستی",
+        "چیدمان دستی"
+      ]
+    },
+    {
+      "EnglishWord": "handle properties",
+      "Meanings": [
+        "خواص زیردست نساجی"
+      ]
+    },
+    {
+      "EnglishWord": "handling",
+      "Meanings": [
+        "زیردست"
+      ]
+    },
+    {
+      "EnglishWord": "hard clay",
+      "Meanings": [
+        "خک رس سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard dry film",
+      "Meanings": [
+        "فیلم خشک کامل"
+      ]
+    },
+    {
+      "EnglishWord": "hard segment",
+      "Meanings": [
+        "قطعه سخت",
+        "قسمت سخت",
+        "جزء سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hardener",
+      "Meanings": [
+        "سخت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "hardner",
+      "Meanings": [
+        "سخت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "hardness",
+      "Meanings": [
+        "سختی"
+      ]
+    },
+    {
+      "EnglishWord": "hardness tester",
+      "Meanings": [
+        "سختی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "hardwood",
+      "Meanings": [
+        "پهن برگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic content",
+      "Meanings": [
+        "محتوای هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "harmonic generation",
+      "Meanings": [
+        "تولید هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "haul off rate",
+      "Meanings": [
+        "میزان کشیدن در روزن رانی"
+      ]
+    },
+    {
+      "EnglishWord": "hazardous air pollutants",
+      "Meanings": [
+        "مواد خطرناک آلاینده هوا",
+        "گروهی از مواد شیمیایی را گویند که موجب آلودگی هوا شده و البته سرطان زا بودن آنها تا حد زیادی قطعی گشته است. بالغ بر 189 ماده در گروه HAPها قرار گرفته اند که معروف‌ترین آنها عبارتند از: استالدهید",
+        "آکریلیک اسید",
+        "آنیلین",
+        "کلر",
+        "اتیل بنزن",
+        "و متانول"
+      ]
+    },
+    {
+      "EnglishWord": "haze",
+      "Meanings": [
+        "مه گونی"
+      ]
+    },
+    {
+      "EnglishWord": "haziness",
+      "Meanings": [
+        "شیرگون شدن"
+      ]
+    },
+    {
+      "EnglishWord": "healthy marble",
+      "Meanings": [
+        "سنگ مرمر سالم"
+      ]
+    },
+    {
+      "EnglishWord": "heat bodied oil",
+      "Meanings": [
+        "روغن گرماپرورد",
+        "روغن گرمادیده"
+      ]
+    },
+    {
+      "EnglishWord": "heat build up",
+      "Meanings": [
+        "گرمااندوزی"
+      ]
+    },
+    {
+      "EnglishWord": "heat capacity",
+      "Meanings": [
+        "ظرفیت گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat contact",
+      "Meanings": [
+        "تماس گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat convertible resin",
+      "Meanings": [
+        "رزینهای تغییر پذیر با حرارت",
+        "رزین گرماسختی که بوسیله حرارت تبدیل به توده غیر قابل حل و مذاب می‏شود"
+      ]
+    },
+    {
+      "EnglishWord": "heat deflection temperature",
+      "Meanings": [
+        "دمای انحراف گرمایی",
+        "دمای خمیدگی حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "heat distortion temperature",
+      "Meanings": [
+        "دمای واپیچی گرمایی",
+        "دمای تغییر شکل حرارتی",
+        "دمای پیچش یا خمش",
+        "دمایی که در آن میله نمونه یا قطعه تحت بار مشخص به مقدار معینی خمیده شود‏ قطعه در حمام روغنی که به طور منظم دمای آن بالا رود قرار می‏گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "heat flux",
+      "Meanings": [
+        "شار گرما"
+      ]
+    },
+    {
+      "EnglishWord": "heat of ablation",
+      "Meanings": [
+        "گرمای فداشدن"
+      ]
+    },
+    {
+      "EnglishWord": "heat oxidation",
+      "Meanings": [
+        "گرمااکسایش",
+        "اکسایش با گرما"
+      ]
+    },
+    {
+      "EnglishWord": "heat pressure laminate",
+      "Meanings": [
+        "چندلایی حرارتی و فشاری",
+        "چند لایی که در قالب تحت فشار و حرارت پخت شده باشد که البته فشار آن کمتر از 1000PSI نمی‏باشد"
+      ]
+    },
+    {
+      "EnglishWord": "heat pulse",
+      "Meanings": [
+        "تکانه گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat resistance",
+      "Meanings": [
+        "مقاومت گرمایی",
+        "مقاومت در برابر گرما"
+      ]
+    },
+    {
+      "EnglishWord": "heat resistant paint",
+      "Meanings": [
+        "پوشرنگ مقاوم به گرما",
+        "رنگ مقاوم به گرما"
+      ]
+    },
+    {
+      "EnglishWord": "heat sealed",
+      "Meanings": [
+        "گرما درز گرفته",
+        "گرمابندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "heat setting",
+      "Meanings": [
+        "تثبیت گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat shield",
+      "Meanings": [
+        "سپر حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "heat sink",
+      "Meanings": [
+        "چاه گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat stability",
+      "Meanings": [
+        "پایداری حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "heat stabilizer",
+      "Meanings": [
+        "گرما پایدار کننده",
+        "پایدار کننده گرمایی",
+        "گرماپایدار",
+        "پایدار گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heat transfer",
+      "Meanings": [
+        "انتقال گرما"
+      ]
+    },
+    {
+      "EnglishWord": "heated orifice",
+      "Meanings": [
+        "منفذ گرم شده"
+      ]
+    },
+    {
+      "EnglishWord": "heating bath",
+      "Meanings": [
+        "حمام گرم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "heating rate",
+      "Meanings": [
+        "سرعت گرمادهی"
+      ]
+    },
+    {
+      "EnglishWord": "helical structure",
+      "Meanings": [
+        "ساختار مارپیچی"
+      ]
+    },
+    {
+      "EnglishWord": "helix",
+      "Meanings": [
+        "مارپیچ"
+      ]
+    },
+    {
+      "EnglishWord": "help of glossary",
+      "Meanings": [
+        "این مجموعه توسط سید محمد دواچی دانشجوی رشته مهندسی پلیمر گردآوری شده است. منابع اصلی این لغتنامه واژه‏نامه پلیمر مربوط به انجمن پلیمر ایران و فرهنگستان زبان و ادب فارسی است در ضمن در این مجموع سعی شده است تا از لغاتی که در صنعت استفاده می‏شود نیز بهره برده شود",
+        "کلماتی که دارای خط فاصله",
+        "هستند اگر جستجو جوابی نداد بدون خط فاصله نیز مجددا جستجو کنید",
+        "اگر فکر می‏کنید کلمه‏ای باید اضافه شود و یا به ایرادی برخورد کردید نظرات خود را به ایمیل mohdvi@gmail. com ارسال کنید",
+        "‏پیشاپیش از نظرات شما در جهت بهبود این مجموعه تشکر می‏کنم"
+      ]
+    },
+    {
+      "EnglishWord": "hemocompatibility",
+      "Meanings": [
+        "خون سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "heteroatom",
+      "Meanings": [
+        "ناجور اتم"
+      ]
+    },
+    {
+      "EnglishWord": "heterocyclic polymer",
+      "Meanings": [
+        "پلیمر ناجور حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "heterogen",
+      "Meanings": [
+        "ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneity",
+      "Meanings": [
+        "ناهمگنی",
+        "چندفازی"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneous",
+      "Meanings": [
+        "ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneous reaction",
+      "Meanings": [
+        "واکنش ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "heterotactic",
+      "Meanings": [
+        "ناجور آرایش"
+      ]
+    },
+    {
+      "EnglishWord": "hevea",
+      "Meanings": [
+        "درخت هه وه آ کایوچو"
+      ]
+    },
+    {
+      "EnglishWord": "high density polyethylene",
+      "Meanings": [
+        "پلی اتیلن پرچگال"
+      ]
+    },
+    {
+      "EnglishWord": "high gloss",
+      "Meanings": [
+        "فرابراق"
+      ]
+    },
+    {
+      "EnglishWord": "high impact polystyrene",
+      "Meanings": [
+        "پلی استایرن مقاوم در برابر ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "high nuclearity cluster",
+      "Meanings": [
+        "خوشه پر هسته"
+      ]
+    },
+    {
+      "EnglishWord": "high performance",
+      "Meanings": [
+        "کارایی بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high performance composite",
+      "Meanings": [
+        "کامپوزیت کارآمد"
+      ]
+    },
+    {
+      "EnglishWord": "high performance polymer",
+      "Meanings": [
+        "پلیمر کارآمد"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure",
+      "Meanings": [
+        "پرفشار",
+        "فشار بالا"
+      ]
+    },
+    {
+      "EnglishWord": "high resolution",
+      "Meanings": [
+        "قدرت تفکیک زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high semigloss",
+      "Meanings": [
+        "فرانیم براق"
+      ]
+    },
+    {
+      "EnglishWord": "high stiffness",
+      "Meanings": [
+        "سفتی زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high strength",
+      "Meanings": [
+        "استحکام زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high stress crystallization",
+      "Meanings": [
+        "تبلور در تنش زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high styrene rubber",
+      "Meanings": [
+        "لاستیک پراستایرن با استایرن زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "high wash fastness",
+      "Meanings": [
+        "ثبات شویشی بالا زیاد"
+      ]
+    },
+    {
+      "EnglishWord": "highly oriented grids",
+      "Meanings": [
+        "میله‌های بسیار آرایش یافته"
+      ]
+    },
+    {
+      "EnglishWord": "hindered amine",
+      "Meanings": [
+        "آمین ممانعت شده"
+      ]
+    },
+    {
+      "EnglishWord": "histogram",
+      "Meanings": [
+        "هیستوگرام"
+      ]
+    },
+    {
+      "EnglishWord": "hobbing",
+      "Meanings": [
+        "کنده کاری"
+      ]
+    },
+    {
+      "EnglishWord": "hold up",
+      "Meanings": [
+        "انباشتگی",
+        "ماندگی"
+      ]
+    },
+    {
+      "EnglishWord": "holding pressure",
+      "Meanings": [
+        "فشار پس از تزریق"
+      ]
+    },
+    {
+      "EnglishWord": "holding time",
+      "Meanings": [
+        "زمان گنجایش"
+      ]
+    },
+    {
+      "EnglishWord": "hole",
+      "Meanings": [
+        "سوراخ"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous",
+      "Meanings": [
+        "همگن"
+      ]
+    },
+    {
+      "EnglishWord": "homogenity",
+      "Meanings": [
+        "یکنواختی",
+        "همگنی"
+      ]
+    },
+    {
+      "EnglishWord": "homopolymerization",
+      "Meanings": [
+        "جور پلیمر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "homotropic",
+      "Meanings": [
+        "همگرا",
+        "هوموتروپیک"
+      ]
+    },
+    {
+      "EnglishWord": "honeycomb",
+      "Meanings": [
+        "لانه زنبوری",
+        "محصول تولید شده از ورقه‌های پیش آغشته رزینی که دارای سلولهای شش وجهی می‏باشند"
+      ]
+    },
+    {
+      "EnglishWord": "hood",
+      "Meanings": [
+        "هود آزمایشگاها",
+        "کاپوت خودرو"
+      ]
+    },
+    {
+      "EnglishWord": "hookean behaviour",
+      "Meanings": [
+        "رفتار هوکی"
+      ]
+    },
+    {
+      "EnglishWord": "hookean modulus",
+      "Meanings": [
+        "مدول هوک"
+      ]
+    },
+    {
+      "EnglishWord": "hoop strain",
+      "Meanings": [
+        "کرنش پیرامونی محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "hoop stress",
+      "Meanings": [
+        "تنش پیرامونی محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "hopper",
+      "Meanings": [
+        "قیف تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "hopping",
+      "Meanings": [
+        "جهش بار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal period",
+      "Meanings": [
+        "دوره زمان افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal stabilizer",
+      "Meanings": [
+        "سکان افقی در هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal stiffness",
+      "Meanings": [
+        "سفتی افقی"
+      ]
+    },
+    {
+      "EnglishWord": "hose",
+      "Meanings": [
+        "شیلنگ",
+        "لوله لاستیکی یا پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hot det test",
+      "Meanings": [
+        "آزمون تثبیت داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot dip galvanizing",
+      "Meanings": [
+        "غوطه ور کردن قطعه در حمامی از روی مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "hot draw",
+      "Meanings": [
+        "گرم‏کشی",
+        "کشیدن در حالت گرم",
+        "کشیدن گرم"
+      ]
+    },
+    {
+      "EnglishWord": "hot embossing",
+      "Meanings": [
+        "گرم کوبی"
+      ]
+    },
+    {
+      "EnglishWord": "hot emulsion",
+      "Meanings": [
+        "امولسیون داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot gas welding",
+      "Meanings": [
+        "جوشکاری با گاز داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot melt adhesive",
+      "Meanings": [
+        "چسب گرما ذوب",
+        "چسب ذوبی"
+      ]
+    },
+    {
+      "EnglishWord": "hot plate",
+      "Meanings": [
+        "صفحه داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot plate welding",
+      "Meanings": [
+        "جوشکاری با صفحه داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot pot",
+      "Meanings": [
+        "ظرف گرم",
+        "ظرفی که فعال کننده با رزین یا پوشش ژلی قبل از پاشش در آن مخلوط می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "hot press",
+      "Meanings": [
+        "پرس داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot rubber",
+      "Meanings": [
+        "لاستیک داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot runner",
+      "Meanings": [
+        "راهگاه داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot runner modulus",
+      "Meanings": [
+        "قالبهای با راهگاه داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot setting adhesive",
+      "Meanings": [
+        "چسب گرماگیر"
+      ]
+    },
+    {
+      "EnglishWord": "hot shoe molding",
+      "Meanings": [
+        "جوشکاری با جوشن داغ"
+      ]
+    },
+    {
+      "EnglishWord": "hot spot",
+      "Meanings": [
+        "نقاط خطر آفرین"
+      ]
+    },
+    {
+      "EnglishWord": "hot stage",
+      "Meanings": [
+        "صفحه داغ در مشاهده میکروسکوپی ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "hot strength",
+      "Meanings": [
+        "استحکام گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "hotmelt",
+      "Meanings": [
+        "گرماذوب",
+        "به آمیزه‌های گرمانرمی گفته می‌شود که در حالت طبیعی ور در دمای معمولی جامدند اما بر اثر گرما به حالت سیال در می‌آیند. از این ترکیبات به عنوان چسبها و پوششها استفاده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "hue",
+      "Meanings": [
+        "فام"
+      ]
+    },
+    {
+      "EnglishWord": "humidity",
+      "Meanings": [
+        "رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid",
+      "Meanings": [
+        "هیبرید",
+        "دورگه",
+        "ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid polymer",
+      "Meanings": [
+        "پلیمر هیبرید"
+      ]
+    },
+    {
+      "EnglishWord": "hydration",
+      "Meanings": [
+        "آبدار شدن کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic mount",
+      "Meanings": [
+        "دسته هیدرولیکی",
+        "تعبیه هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydroburst",
+      "Meanings": [
+        "آب ترکیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrochlorination",
+      "Meanings": [
+        "هیدروکلرید دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hydrogel",
+      "Meanings": [
+        "هیدروژل"
+      ]
+    },
+    {
+      "EnglishWord": "hydrohalogenation",
+      "Meanings": [
+        "هیدروهالوژن دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hydrolysis",
+      "Meanings": [
+        "آبکافت هیدرولیز",
+        "آب شکافت",
+        "تجزیه بوسیله آب"
+      ]
+    },
+    {
+      "EnglishWord": "hydrolytic cleavage",
+      "Meanings": [
+        "گسستگی گسیختگی آبکافتی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrolyzed",
+      "Meanings": [
+        "آبکافته",
+        "آب شکافته"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophilic",
+      "Meanings": [
+        "آبدوست"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophilicity",
+      "Meanings": [
+        "قدرت آبدوستی",
+        "خصلت آبخواهی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophobic",
+      "Meanings": [
+        "آبگریز"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophobicity",
+      "Meanings": [
+        "قدرت آبگریزی",
+        "خصلت آبگریزی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrosilylation",
+      "Meanings": [
+        "هیدروسیلیل دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hydrostatic design basis",
+      "Meanings": [
+        "مبنای طراحی هیدرواستاتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrotesting",
+      "Meanings": [
+        "آزمون با آب",
+        "آب آزمونی"
+      ]
+    },
+    {
+      "EnglishWord": "hydroxylation",
+      "Meanings": [
+        "هیدروکسیل دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "hygrometer",
+      "Meanings": [
+        "نم سنج"
+      ]
+    },
+    {
+      "EnglishWord": "hygroscopic",
+      "Meanings": [
+        "نمگیر",
+        "رطوبت نما",
+        "قابلیت جذب رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "hypalon",
+      "Meanings": [
+        "هیپالون نام تجاری پلی اتیلن کلروسولفوندار"
+      ]
+    },
+    {
+      "EnglishWord": "hysteresis",
+      "Meanings": [
+        "پسماند"
+      ]
+    },
+    {
+      "EnglishWord": "hysteresis curve",
+      "Meanings": [
+        "منحنی پسماند"
+      ]
+    },
+    {
+      "EnglishWord": "hysteresis loop",
+      "Meanings": [
+        "حلقه پسماند"
+      ]
+    },
+    {
+      "EnglishWord": "hystersis",
+      "Meanings": [
+        "پس ماند",
+        "ماندگاری",
+        "تغییر غیر قابل برگشت"
+      ]
+    }
+  ]
+}

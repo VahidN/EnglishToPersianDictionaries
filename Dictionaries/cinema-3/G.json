@@ -1,0 +1,683 @@
+﻿{
+  "Group": "G",
+  "Entries": 103,
+  "Words": [
+    {
+      "EnglishWord": "gaffer",
+      "Meanings": [
+        "دستیار اول نورپرداز",
+        "سرپرست متصدیان نورافکن‌",
+        "کنترل و توزیع برق در طرح نور",
+        "متصدی برق‌",
+        "مدیر نورپردازی‌",
+        "مسوول برق‌"
+      ]
+    },
+    {
+      "EnglishWord": "gaffer electrician",
+      "Meanings": [
+        "برقکار"
+      ]
+    },
+    {
+      "EnglishWord": "gaffer grip",
+      "Meanings": [
+        "گیرنده برقکار"
+      ]
+    },
+    {
+      "EnglishWord": "gaffer tape",
+      "Meanings": [
+        "نوار چسب برقی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gag",
+      "Meanings": [
+        "تکه‌های مستقل‌",
+        "شوخی‌",
+        "لطیفه‌",
+        "مضمون کمیک‌"
+      ]
+    },
+    {
+      "EnglishWord": "gage",
+      "Meanings": [
+        "قطع فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "gag-man",
+      "Meanings": [
+        "لطیفه نویس‌"
+      ]
+    },
+    {
+      "EnglishWord": "gain",
+      "Meanings": [
+        "بهره‌"
+      ]
+    },
+    {
+      "EnglishWord": "gamma",
+      "Meanings": [
+        "درجه سیاهی و سفیدی عکس‌"
+      ]
+    },
+    {
+      "EnglishWord": "gang synchronizer",
+      "Meanings": [
+        "شیار همگاه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "gangster film",
+      "Meanings": [
+        "فیلم گانگستری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gas arc lamp",
+      "Meanings": [
+        "لامپ قوسی گازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gate",
+      "Meanings": [
+        "دریچه‌",
+        "دریچه فیلم‌",
+        "دریچه متحرک‌",
+        "دریچه نوری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gate mask",
+      "Meanings": [
+        "نقاب دریچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gate plate",
+      "Meanings": [
+        "صفحه دریچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gate pressure",
+      "Meanings": [
+        "فشار دریچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gator grip",
+      "Meanings": [
+        "گیرنده تمساحی‌",
+        "گیرنده سوسماری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gauge",
+      "Meanings": [
+        "اندازه‌",
+        "اندازه فیلم‌",
+        "قطع‌",
+        "قطع فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "gauge film",
+      "Meanings": [
+        "اندازه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "gaussian distribution",
+      "Meanings": [
+        "توزیع گوسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gauze",
+      "Meanings": [
+        "توری‌"
+      ]
+    },
+    {
+      "EnglishWord": "geared",
+      "Meanings": [
+        "سه پایه دنده‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "geared head",
+      "Meanings": [
+        "کلگی دنده‌ای‌",
+        "کلگی دنده‌ای برای سه پایه دوربین فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "ژلاتین / صافی ژلاتینی نور"
+      ]
+    },
+    {
+      "EnglishWord": "gelatin",
+      "Meanings": [
+        "پرده رنگی‌",
+        "ژلاتین‌"
+      ]
+    },
+    {
+      "EnglishWord": "gelatin emulsion",
+      "Meanings": [
+        "امولسیون چند لایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gelatin filter",
+      "Meanings": [
+        "صافی ژلاتینی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gemini",
+      "Meanings": [
+        "جمینی‌"
+      ]
+    },
+    {
+      "EnglishWord": "general line",
+      "Meanings": [
+        "مشی عمومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "general shot",
+      "Meanings": [
+        "نمای عمومی‌"
+      ]
+    },
+    {
+      "EnglishWord": "general studio lighting",
+      "Meanings": [
+        "نور عمومی استودیو"
+      ]
+    },
+    {
+      "EnglishWord": "generation",
+      "Meanings": [
+        "تکثیر",
+        "نسخه برداری‌",
+        "نسل‌"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "مولد برق‌",
+        "ژنراتور"
+      ]
+    },
+    {
+      "EnglishWord": "genre",
+      "Meanings": [
+        "نوع‌",
+        "ژانر نوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "geometric distortion",
+      "Meanings": [
+        "تغییر شکل هندسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "geometrical optic",
+      "Meanings": [
+        "نور هندسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "geometrical optics",
+      "Meanings": [
+        "مبحث نور هندسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "geometry of film",
+      "Meanings": [
+        "هندسه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "geste",
+      "Meanings": [
+        "حرکات دست و سر واژه فرانسوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "ghost",
+      "Meanings": [
+        "سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "ghost image",
+      "Meanings": [
+        "سایه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "ghost shot",
+      "Meanings": [
+        "نمای شبح‌"
+      ]
+    },
+    {
+      "EnglishWord": "ghost travel",
+      "Meanings": [
+        "حرکت سایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "ghosting",
+      "Meanings": [
+        "سایه دار شدن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "gibbing",
+      "Meanings": [
+        "حرکت افقی ستونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gid",
+      "Meanings": [
+        "شبکه میله‌های سقفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gimbal",
+      "Meanings": [
+        "پایه تراز نگهدارنده‌"
+      ]
+    },
+    {
+      "EnglishWord": "gimbal head",
+      "Meanings": [
+        "کلگی دوطوقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gimmick",
+      "Meanings": [
+        "تدبیر"
+      ]
+    },
+    {
+      "EnglishWord": "glare",
+      "Meanings": [
+        "انعکاس زیاده از حد نور",
+        "نور خیره کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "glass filter",
+      "Meanings": [
+        "صافی شیشه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "glass shot",
+      "Meanings": [
+        "تصویر شیشه‌ای‌",
+        "نمای شیشه‌ای‌",
+        "نمای شیشه‌ای در جلوه‌های ویژه‌"
+      ]
+    },
+    {
+      "EnglishWord": "glossary of filmographic terms",
+      "Meanings": [
+        "فرهنگ فیلم نگاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gobo",
+      "Meanings": [
+        "قطعه سیاهی جهت حذف نور اضافی‌",
+        "نور گیر",
+        "نورگیر دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "goose control",
+      "Meanings": [
+        "کنترل خودکار فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "governed control",
+      "Meanings": [
+        "کنترل خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "governed speed motor",
+      "Meanings": [
+        "موتور دارای سرعت خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "grab",
+      "Meanings": [
+        "حرکت دادن دوربین به این طرف و آن طرف / گردونه‌"
+      ]
+    },
+    {
+      "EnglishWord": "gradation",
+      "Meanings": [
+        "تغییر تدریجی خوب‌",
+        "دامنه رنگمایه پذیری قشر حساس به نور فیلم ظاهر شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "grader",
+      "Meanings": [
+        "متصدی چاپ‌"
+      ]
+    },
+    {
+      "EnglishWord": "grading",
+      "Meanings": [
+        "درجه بندی کردن‌",
+        "قطع تدریجی‌",
+        "نمره بندی‌",
+        "نوربندی‌",
+        "نوربندی اتالوناژ"
+      ]
+    },
+    {
+      "EnglishWord": "graduated filter",
+      "Meanings": [
+        "صافی دو بخشی برای عدسی دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "graduated filter  grad",
+      "Meanings": [
+        "صافی مدرج‌"
+      ]
+    },
+    {
+      "EnglishWord": "grain",
+      "Meanings": [
+        "بافت‌",
+        "برفک‌",
+        "دانه‌",
+        "دانه امولسیون‌",
+        "دانه نقره‌",
+        "دانه‌های ریز",
+        "ریز و درشت بودن دانه‌های تشکیل دهنده تصویر یا بافت‌",
+        "سطح فیلم‌",
+        "فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "graininess",
+      "Meanings": [
+        "آجیدگی‌",
+        "دانه دانه بودن‌"
+      ]
+    },
+    {
+      "EnglishWord": "grainy",
+      "Meanings": [
+        "آجیده / درشت آج‌",
+        "تصویر دانه دار",
+        "دانه دانه‌",
+        "دانه درشت‌",
+        "دانه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "grainy effect",
+      "Meanings": [
+        "جلوه دانه دانه شدن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "gram operator",
+      "Meanings": [
+        "متصدی پخش صفحه‌"
+      ]
+    },
+    {
+      "EnglishWord": "graphic",
+      "Meanings": [
+        "نگاره‌"
+      ]
+    },
+    {
+      "EnglishWord": "graphic equalizer",
+      "Meanings": [
+        "برابر ساز ترسیمی‌",
+        "تصحیح کننده گرافیکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gray card",
+      "Meanings": [
+        "کارت خاکستری‌"
+      ]
+    },
+    {
+      "EnglishWord": "gray scale",
+      "Meanings": [
+        "مقیاس خاکستری‌"
+      ]
+    },
+    {
+      "EnglishWord": "grease paint",
+      "Meanings": [
+        "فن‌"
+      ]
+    },
+    {
+      "EnglishWord": "grease proof paper",
+      "Meanings": [
+        "کاغذ کالک‌"
+      ]
+    },
+    {
+      "EnglishWord": "green film",
+      "Meanings": [
+        "فیلم‌تر"
+      ]
+    },
+    {
+      "EnglishWord": "green filter",
+      "Meanings": [
+        "فیلتر سبز"
+      ]
+    },
+    {
+      "EnglishWord": "green light",
+      "Meanings": [
+        "چراغ سبز"
+      ]
+    },
+    {
+      "EnglishWord": "green print",
+      "Meanings": [
+        "فیلم نو",
+        "نسخه سبز"
+      ]
+    },
+    {
+      "EnglishWord": "grey back",
+      "Meanings": [
+        "پشت خاکستری‌"
+      ]
+    },
+    {
+      "EnglishWord": "grey base",
+      "Meanings": [
+        "فیلمپایه خاکستری‌"
+      ]
+    },
+    {
+      "EnglishWord": "grid method",
+      "Meanings": [
+        "روش چهارخانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "grimage",
+      "Meanings": [
+        "گریم کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "grip",
+      "Meanings": [
+        "دستیار صحنه‌",
+        "کارگر صحنه / گیره / مقره‌",
+        "کارگر فنی‌",
+        "متصدی حرکت دوربین‌",
+        "مکانیک صحنه‌"
+      ]
+    },
+    {
+      "EnglishWord": "groove",
+      "Meanings": [
+        "شیار"
+      ]
+    },
+    {
+      "EnglishWord": "gros plan",
+      "Meanings": [
+        "نمای درشت‌",
+        "پلان درشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "ground glass",
+      "Meanings": [
+        "شیشه تخت‌",
+        "شیشه ساییده شده‌",
+        "شیشه مات‌"
+      ]
+    },
+    {
+      "EnglishWord": "ground-row",
+      "Meanings": [
+        "ردیف چراغهای پای دکور"
+      ]
+    },
+    {
+      "EnglishWord": "group fader",
+      "Meanings": [
+        "فیدر گروه‌"
+      ]
+    },
+    {
+      "EnglishWord": "group shot",
+      "Meanings": [
+        "نمای گروهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "growns by...",
+      "Meanings": [
+        "لباس از… خیاط زنانه دوز"
+      ]
+    },
+    {
+      "EnglishWord": "guard band",
+      "Meanings": [
+        "باند محافظ‌"
+      ]
+    },
+    {
+      "EnglishWord": "guest producer",
+      "Meanings": [
+        "تهیه کننده مهمان‌"
+      ]
+    },
+    {
+      "EnglishWord": "guided edge",
+      "Meanings": [
+        "حاشیه کنترل شده‌",
+        "لبه راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guided rail",
+      "Meanings": [
+        "قسمتی از دستگاه سوراخ زنی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "guided rod",
+      "Meanings": [
+        "میله راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "guided roller",
+      "Meanings": [
+        "غلتک راهنما",
+        "قسمتی از دستگاه تصویرافکن‌"
+      ]
+    },
+    {
+      "EnglishWord": "guided tape",
+      "Meanings": [
+        "صدای شاهد"
+      ]
+    },
+    {
+      "EnglishWord": "guided track",
+      "Meanings": [
+        "ریل تراولینگ / نوار راهنما",
+        "صدای راهنما",
+        "صدای شاهد"
+      ]
+    },
+    {
+      "EnglishWord": "guided wheel",
+      "Meanings": [
+        "چرخ راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "gun camera",
+      "Meanings": [
+        "دوربین تفنگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gyro head",
+      "Meanings": [
+        "جرثقیل‌",
+        "سرسه پایه ژیروسکوپی‌",
+        "کلگی ژیروسکوپی برای سه پایه دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "gyro stabilizer",
+      "Meanings": [
+        "تثبیت کننده ژیروسکوپی‌"
+      ]
+    },
+    {
+      "EnglishWord": "gyro tripod",
+      "Meanings": [
+        "سه پایه ژیروسکوپی برای دوربین‌"
+      ]
+    }
+  ]
+}

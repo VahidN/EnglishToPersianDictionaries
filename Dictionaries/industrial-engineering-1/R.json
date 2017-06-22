@@ -1,0 +1,2597 @@
+﻿{
+  "Group": "R",
+  "Entries": 355,
+  "Words": [
+    {
+      "EnglishWord": "race",
+      "Meanings": [
+        "کاسه ساچمه",
+        "پوسته یاتاقان",
+        "ساچمه رو",
+        "کاسه بلبرینگ"
+      ]
+    },
+    {
+      "EnglishWord": "racer",
+      "Meanings": [
+        "طوقه بلبرینگ"
+      ]
+    },
+    {
+      "EnglishWord": "raceway",
+      "Meanings": [
+        "جداره یاتاقان",
+        "کابل",
+        "کانال",
+        "لوله کابل"
+      ]
+    },
+    {
+      "EnglishWord": "rack",
+      "Meanings": [
+        "طبقه",
+        "قفسه",
+        "دندانه شانه ای",
+        "دنده شانه ای",
+        "شانه",
+        "دنده یکطرفه صفحه ای",
+        "میله دنده دار",
+        "میله مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "rack and pinion",
+      "Meanings": [
+        "چرخ و میله دنده",
+        "چرخ و دنده شانه ای",
+        "دنده شانه ای و پینیون",
+        "چرخ و صفحه دنده"
+      ]
+    },
+    {
+      "EnglishWord": "radial drill",
+      "Meanings": [
+        "ماشین مته شعاعی",
+        "مته رادیال",
+        "مته بازویی",
+        "ماشین مته رادیال"
+      ]
+    },
+    {
+      "EnglishWord": "radial drill press",
+      "Meanings": [
+        "ماشین مته گردان"
+      ]
+    },
+    {
+      "EnglishWord": "radiation",
+      "Meanings": [
+        "تشعشع",
+        "تابش",
+        "پرتو افکنی"
+      ]
+    },
+    {
+      "EnglishWord": "radiation hardening",
+      "Meanings": [
+        "سخت گردانی تابشی",
+        "سخت گردانی تشعشعی"
+      ]
+    },
+    {
+      "EnglishWord": "radius gage",
+      "Meanings": [
+        "قوس سنج",
+        "شابلون قوس",
+        "انحنا سنج",
+        "سنجه انحنا"
+      ]
+    },
+    {
+      "EnglishWord": "railroad car",
+      "Meanings": [
+        "واگن ریلی"
+      ]
+    },
+    {
+      "EnglishWord": "raise",
+      "Meanings": [
+        "برجستگی",
+        "بلندی",
+        "بالا بردن",
+        "بلند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rake angel",
+      "Meanings": [
+        "زاویه گام مته",
+        "زاویه تراشه"
+      ]
+    },
+    {
+      "EnglishWord": "raker set",
+      "Meanings": [
+        "چپ و راست دو در میان"
+      ]
+    },
+    {
+      "EnglishWord": "ram",
+      "Meanings": [
+        "ضربه زدن",
+        "کوبه",
+        "رام",
+        "اهرم",
+        "پتک",
+        "سنبه",
+        "کوبه پرس",
+        "چکش",
+        "کوبیدن",
+        "بازوی جلوبر",
+        "پایه"
+      ]
+    },
+    {
+      "EnglishWord": "ram travel",
+      "Meanings": [
+        "کورس ضربه زدن"
+      ]
+    },
+    {
+      "EnglishWord": "ram turret lathe",
+      "Meanings": [
+        "سری تراش سنبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ramp",
+      "Meanings": [
+        "راهرو شیبدار",
+        "نرده",
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "ram-type milling machine",
+      "Meanings": [
+        "ماشین فرز سنبه ای",
+        "ماشنی فرز بازودار"
+      ]
+    },
+    {
+      "EnglishWord": "ram-type turret lathe",
+      "Meanings": [
+        "سری تراش سنبه ای",
+        "ماشین گرد تراش پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی",
+        "اتفاقی",
+        "بی ترتیب",
+        "بی نظم",
+        "پیشامد",
+        "تصادف"
+      ]
+    },
+    {
+      "EnglishWord": "random access memory  ram",
+      "Meanings": [
+        "حافظه با دسترسی درهم",
+        "حافظه با دسترسی اتفاقی",
+        "حافظه با دسترسی بی ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "random causes of variation",
+      "Meanings": [
+        "علل تصادفی تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "random digits table",
+      "Meanings": [
+        "جدول اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random error",
+      "Meanings": [
+        "اشتباه تصادفی",
+        "خطای اتفاقی",
+        "خطای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number",
+      "Meanings": [
+        "عدد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number generation",
+      "Meanings": [
+        "تولید اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number generator",
+      "Meanings": [
+        "تولیدکننده اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random process",
+      "Meanings": [
+        "فرایند تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random prospect",
+      "Meanings": [
+        "نمود تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sample",
+      "Meanings": [
+        "نمونه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی",
+        "نمونه برداری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random value",
+      "Meanings": [
+        "مقدار تصادفی",
+        "مقدار اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "random variable",
+      "Meanings": [
+        "متغیر تصادفی",
+        "کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random variable generation",
+      "Meanings": [
+        "تولید متغیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random walk",
+      "Meanings": [
+        "قدم زدن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random walk model",
+      "Meanings": [
+        "مدل قدم زدن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "دامنه",
+        "برد",
+        "دسته",
+        "ردیف",
+        "رشته",
+        "دامنه تغییر",
+        "سلسله",
+        "گروه",
+        "حدود",
+        "محدوده",
+        "حوزه مقادیر",
+        "طیف",
+        "میدان تغییرات",
+        "رتبه",
+        "مرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "range method",
+      "Meanings": [
+        "روش دامنه تغییرات روشهای کمی نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "rank",
+      "Meanings": [
+        "رتبه",
+        "مرتبه",
+        "درجه",
+        "پایه",
+        "ردیف",
+        "رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "rank correlation",
+      "Meanings": [
+        "همبستگی درجه ای",
+        "همبستگی رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank- difference correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی تفاوت",
+        "رتبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ranking",
+      "Meanings": [
+        "رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "ranking method",
+      "Meanings": [
+        "روش اولویت",
+        "روش دسته بندی",
+        "روش اعطای رتبه",
+        "روش درجه بندی",
+        "روش رتبه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "ranking system",
+      "Meanings": [
+        "روش رتبه بندی ترتیبی",
+        "سیستم رتبه ای",
+        "سیستم رتبه دادن"
+      ]
+    },
+    {
+      "EnglishWord": "rap allowance",
+      "Meanings": [
+        "ضریب لقی"
+      ]
+    },
+    {
+      "EnglishWord": "rapping bar",
+      "Meanings": [
+        "میله لق کن"
+      ]
+    },
+    {
+      "EnglishWord": "rasp cut file",
+      "Meanings": [
+        "سوهان درشت"
+      ]
+    },
+    {
+      "EnglishWord": "ratchet",
+      "Meanings": [
+        "جغجغه"
+      ]
+    },
+    {
+      "EnglishWord": "ratchet gearing",
+      "Meanings": [
+        "چرخ دنده ضامن دار"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "rate of exchange",
+      "Meanings": [
+        "نرخ تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "rate of interest",
+      "Meanings": [
+        "نرخ بهره"
+      ]
+    },
+    {
+      "EnglishWord": "rate of return",
+      "Meanings": [
+        "نرخ برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "rating",
+      "Meanings": [
+        "ضریب عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "rating system",
+      "Meanings": [
+        "سیسیتم ارزشیابی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio estimate",
+      "Meanings": [
+        "براورد نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "ration",
+      "Meanings": [
+        "دریدن"
+      ]
+    },
+    {
+      "EnglishWord": "ration scale",
+      "Meanings": [
+        "مقیاس نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "raw data",
+      "Meanings": [
+        "داده‌های خام"
+      ]
+    },
+    {
+      "EnglishWord": "raw material",
+      "Meanings": [
+        "مواد خام"
+      ]
+    },
+    {
+      "EnglishWord": "ray",
+      "Meanings": [
+        "اشعه"
+      ]
+    },
+    {
+      "EnglishWord": "r-chart",
+      "Meanings": [
+        "نمودار دامنه تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "reach",
+      "Meanings": [
+        "دسترس"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "واکنش"
+      ]
+    },
+    {
+      "EnglishWord": "reactive",
+      "Meanings": [
+        "واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "read only memory",
+      "Meanings": [
+        "حافظه فقط خواندنی"
+      ]
+    },
+    {
+      "EnglishWord": "read out",
+      "Meanings": [
+        "بازخوانی"
+      ]
+    },
+    {
+      "EnglishWord": "real assets",
+      "Meanings": [
+        "دارایی غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "real estate",
+      "Meanings": [
+        "دارایی غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "real rate of return",
+      "Meanings": [
+        "نرخ بازده حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "real wage",
+      "Meanings": [
+        "مزد واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "realization time",
+      "Meanings": [
+        "زمان ادراک"
+      ]
+    },
+    {
+      "EnglishWord": "realized value",
+      "Meanings": [
+        "ارزش بازیافتی"
+      ]
+    },
+    {
+      "EnglishWord": "reallocation",
+      "Meanings": [
+        "اختصاص مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reallotment",
+      "Meanings": [
+        "اختصاص مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "ream",
+      "Meanings": [
+        "قلاویز"
+      ]
+    },
+    {
+      "EnglishWord": "reaming",
+      "Meanings": [
+        "برقو کاری"
+      ]
+    },
+    {
+      "EnglishWord": "reassemble",
+      "Meanings": [
+        "بازهمگذاردن"
+      ]
+    },
+    {
+      "EnglishWord": "rebate",
+      "Meanings": [
+        "تخفیف"
+      ]
+    },
+    {
+      "EnglishWord": "receipt",
+      "Meanings": [
+        "رسید"
+      ]
+    },
+    {
+      "EnglishWord": "receiver gauge",
+      "Meanings": [
+        "شابلون چند کاره"
+      ]
+    },
+    {
+      "EnglishWord": "receiving inspection",
+      "Meanings": [
+        "بازرسی دریافت"
+      ]
+    },
+    {
+      "EnglishWord": "receiving report",
+      "Meanings": [
+        "گزارش تحویل کالا"
+      ]
+    },
+    {
+      "EnglishWord": "recentralization",
+      "Meanings": [
+        "تمرکز مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "recessing",
+      "Meanings": [
+        "شیار در آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "recession",
+      "Meanings": [
+        "رکود"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal",
+      "Meanings": [
+        "دوجانبه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal agreement",
+      "Meanings": [
+        "قرارداد دو جانبه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal method allocation",
+      "Meanings": [
+        "روش سر شکن کردن دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocating fork hopper feeder",
+      "Meanings": [
+        "تنظیم کننده چگالی رفت و برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocating screw press",
+      "Meanings": [
+        "پرس با حرکت رفت و برگشتی پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "reclining",
+      "Meanings": [
+        "خم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "recognize",
+      "Meanings": [
+        "تشخیص دادن"
+      ]
+    },
+    {
+      "EnglishWord": "reconciliation statement",
+      "Meanings": [
+        "صورت مغایرات"
+      ]
+    },
+    {
+      "EnglishWord": "record",
+      "Meanings": [
+        "رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "recording",
+      "Meanings": [
+        "ثبت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "records management",
+      "Meanings": [
+        "مدیریت اسناد"
+      ]
+    },
+    {
+      "EnglishWord": "recovery",
+      "Meanings": [
+        "بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "recruit",
+      "Meanings": [
+        "کارمند"
+      ]
+    },
+    {
+      "EnglishWord": "recrystallization",
+      "Meanings": [
+        "تبلور مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular array",
+      "Meanings": [
+        "آرایش مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular game",
+      "Meanings": [
+        "بازی مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular slot",
+      "Meanings": [
+        "شیار مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier",
+      "Meanings": [
+        "یکسو کننده",
+        "یکسو ساز"
+      ]
+    },
+    {
+      "EnglishWord": "rectifying inspection",
+      "Meanings": [
+        "بازرسی غربالی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear distance",
+      "Meanings": [
+        "مسافت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "recycling",
+      "Meanings": [
+        "بازگردانی",
+        "بازیابی",
+        "واگردانی",
+        "دوباره سازی"
+      ]
+    },
+    {
+      "EnglishWord": "redemption",
+      "Meanings": [
+        "بازخرید",
+        "از گرو درآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "reduced inspection",
+      "Meanings": [
+        "بازرسی کاهش یافته"
+      ]
+    },
+    {
+      "EnglishWord": "reduced matrix method",
+      "Meanings": [
+        "روش کاهش عناصر ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "reducing flame",
+      "Meanings": [
+        "شعله احیا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "reducing gear",
+      "Meanings": [
+        "چرخ دنده مقلل",
+        "چرخ کاهنده",
+        "چرخ دنده تبدیل",
+        "دنده کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "reducing-charge method",
+      "Meanings": [
+        "روش نزولی",
+        "روش کاهش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reduction",
+      "Meanings": [
+        "تحویل",
+        "کاهش",
+        "احیا",
+        "کاستن",
+        "تخفیف",
+        "کسور",
+        "کسورات"
+      ]
+    },
+    {
+      "EnglishWord": "redundant",
+      "Meanings": [
+        "زاید",
+        "اضافه",
+        "زیادی",
+        "غیر ضروری",
+        "مازاد بر احتیاج"
+      ]
+    },
+    {
+      "EnglishWord": "redundant constraint",
+      "Meanings": [
+        "قید زیاد",
+        "محدودیت اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "redundant system",
+      "Meanings": [
+        "سیستم مازاد",
+        "سیستم بدک"
+      ]
+    },
+    {
+      "EnglishWord": "reel",
+      "Meanings": [
+        "قرقره",
+        "حلقه نوار",
+        "حقله یدک"
+      ]
+    },
+    {
+      "EnglishWord": "reference",
+      "Meanings": [
+        "عطف",
+        "رجوع",
+        "مرجع",
+        "مدرک",
+        "اشاره",
+        "مراجعه",
+        "معیار",
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "referent power",
+      "Meanings": [
+        "قدرت مرجعیت"
+      ]
+    },
+    {
+      "EnglishWord": "reflection",
+      "Meanings": [
+        "انعکاس",
+        "بازگشت",
+        "بازتابش"
+      ]
+    },
+    {
+      "EnglishWord": "reflex",
+      "Meanings": [
+        "بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "reform",
+      "Meanings": [
+        "اصلاح",
+        "بهبود",
+        "نوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "refractoriness",
+      "Meanings": [
+        "درجه نسوزندگی",
+        "نسوزی",
+        "آتشخواری",
+        "دیرگدازی"
+      ]
+    },
+    {
+      "EnglishWord": "refrigeration",
+      "Meanings": [
+        "سرمایش",
+        "انجماد",
+        "تبرید",
+        "سردسازی"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "حوزه",
+        "منطقه",
+        "ناحیه",
+        "بخش",
+        "حوزه عمل",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "region selection",
+      "Meanings": [
+        "انتخاب منطقه",
+        "منطقه گزینی"
+      ]
+    },
+    {
+      "EnglishWord": "regionalism",
+      "Meanings": [
+        "توسعه و عمران منطقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "registration",
+      "Meanings": [
+        "ثبت"
+      ]
+    },
+    {
+      "EnglishWord": "registration fee",
+      "Meanings": [
+        "حق ثبت سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "regression",
+      "Meanings": [
+        "رگرسیون",
+        "برگشت",
+        "سیر قهقرایی",
+        "همگرایی",
+        "وایازی",
+        "پسروی",
+        "پسگرایی",
+        "سیر برگشت",
+        "گرایش",
+        "بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "regression analysis",
+      "Meanings": [
+        "محاسبه تحلیلی برگشت",
+        "تحلیل پسگرایی",
+        "تحلیل رگرسیون",
+        "تحلیل مسیر برگشت",
+        "تحلیل رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression coefficient",
+      "Meanings": [
+        "ضریب رگرسیون",
+        "ضریب برگشت",
+        "ضریب پسگرایی",
+        "ضریب رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression equation",
+      "Meanings": [
+        "معادله رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression line",
+      "Meanings": [
+        "خط رگرسیون",
+        "خط پسگرایی",
+        "مسیر پسگرایی",
+        "خط همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "regret function",
+      "Meanings": [
+        "تابع تاسف"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "منظم",
+        "با قاعده",
+        "مداوم",
+        "مرتب",
+        "معین",
+        "یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "regulating wheel",
+      "Meanings": [
+        "چرخ تنظیم",
+        "چرخ تنظیم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "regulation",
+      "Meanings": [
+        "تعدیل",
+        "تنظیم",
+        "دستور",
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "regulator",
+      "Meanings": [
+        "تنظیم کننده",
+        "رگولاتور",
+        "شیر تنظیم",
+        "آلت تعدیل"
+      ]
+    },
+    {
+      "EnglishWord": "reheating",
+      "Meanings": [
+        "حرارت دادن مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reject",
+      "Meanings": [
+        "رد کردن",
+        "رد",
+        "حذف",
+        "قبول نکردن",
+        "نپذیرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "reject gate",
+      "Meanings": [
+        "دریچه خروج",
+        "درب مردودیها"
+      ]
+    },
+    {
+      "EnglishWord": "rejectable quality level",
+      "Meanings": [
+        "سطح کیفیت قابل رد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rejection",
+      "Meanings": [
+        "دفع",
+        "رد کردن",
+        "حذف",
+        "رد",
+        "طرد",
+        "عدم پذیرش",
+        "عدم قبول",
+        "دور افکندن",
+        "پس دادن",
+        "پس زدن 134 دور انداختن",
+        "وازنی"
+      ]
+    },
+    {
+      "EnglishWord": "rejection number",
+      "Meanings": [
+        "عدد ردی"
+      ]
+    },
+    {
+      "EnglishWord": "rejection region",
+      "Meanings": [
+        "ناحیه رد"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "رابط",
+        "بستگی",
+        "ارتباط",
+        "نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "relative cumulative frequency",
+      "Meanings": [
+        "فراوانی تجمعی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative dispersion",
+      "Meanings": [
+        "پراکندگی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative efficiency",
+      "Meanings": [
+        "کارایی نسبی",
+        "بازده نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative frequency",
+      "Meanings": [
+        "تواتر نسبی",
+        "فراوانی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative frequency histogram",
+      "Meanings": [
+        "هیستوگرام تواتر نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative minimum",
+      "Meanings": [
+        "حداقل موضعی",
+        "حداقل نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative skewness",
+      "Meanings": [
+        "چاولگی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative standard deviation",
+      "Meanings": [
+        "انحراف استاندارد نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation",
+      "Meanings": [
+        "آزاد سازی تنش",
+        "افت تنش",
+        "زدایی"
+      ]
+    },
+    {
+      "EnglishWord": "relaxed inspection",
+      "Meanings": [
+        "بازرسی با نرمش بیشتر"
+      ]
+    },
+    {
+      "EnglishWord": "releasing",
+      "Meanings": [
+        "رها کردن",
+        "آزاد کردن",
+        "آزاد شونده",
+        "بدون اتصال",
+        "مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "reliability",
+      "Meanings": [
+        "قابلیت اعتماد",
+        "قابلیت اطمینان",
+        "اعتبار",
+        "ثبات",
+        "اعتماد",
+        "پایایی",
+        "اعتماد پذیری",
+        "قابلیت دوام",
+        "اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "reliable",
+      "Meanings": [
+        "قابل اعتماد",
+        "معتبر"
+      ]
+    },
+    {
+      "EnglishWord": "relief",
+      "Meanings": [
+        "رهایی",
+        "خلاص کردن",
+        "کاستن فشار",
+        "آزادی",
+        "تیز کردن ابزار",
+        "رفع تنش",
+        "خلاصی"
+      ]
+    },
+    {
+      "EnglishWord": "relief valve",
+      "Meanings": [
+        "شیر فشار شکن",
+        "سوپاپ اطمینان",
+        "شیر اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "relieving attachment",
+      "Meanings": [
+        "الحاقی آزاد کن",
+        "متعلقات رهاسازی",
+        "دستگاه الحاقی خلاص کن"
+      ]
+    },
+    {
+      "EnglishWord": "relocate",
+      "Meanings": [
+        "جابه جا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "remaining duration",
+      "Meanings": [
+        "مدت باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "removable clamp",
+      "Meanings": [
+        "گیره با درب لولایی"
+      ]
+    },
+    {
+      "EnglishWord": "removable plate mold",
+      "Meanings": [
+        "قالب با صفحات متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "removable plunger mold",
+      "Meanings": [
+        "قالب با سنبه متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "remove",
+      "Meanings": [
+        "زدودن",
+        "برداشتن",
+        "بردن",
+        "خارج کردن",
+        "رفع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "renewal function",
+      "Meanings": [
+        "تابع تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "rent",
+      "Meanings": [
+        "اجاره",
+        "کرایه",
+        "بهره زمین",
+        "بهره مالکانه",
+        "ترک",
+        "شکاف",
+        "اجاره بها",
+        "شکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "reorder interval",
+      "Meanings": [
+        "زمان بین دو سفارش",
+        "فاصله زمانی بین دو سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "reorder interval system",
+      "Meanings": [
+        "سیستم سفارش مدت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "reorder level",
+      "Meanings": [
+        "سطح سفارش مجدد",
+        "سطح سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "reorder level system",
+      "Meanings": [
+        "سیستم سفارش مقدار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "reorder point",
+      "Meanings": [
+        "نقطه سفارش مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reorganization",
+      "Meanings": [
+        "تجدید نظر",
+        "تجدید سازمان",
+        "سازماندهی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reorientation",
+      "Meanings": [
+        "جهت دهی مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "repair",
+      "Meanings": [
+        "ترمیم",
+        "تعمیر",
+        "تعمیر کردن",
+        "درست کردن",
+        "مرمت",
+        "نوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "repair center",
+      "Meanings": [
+        "تعمیرگاه"
+      ]
+    },
+    {
+      "EnglishWord": "repair cycle",
+      "Meanings": [
+        "دوره تعمیر",
+        "سیکل تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "repair shop",
+      "Meanings": [
+        "تعمیرگاه"
+      ]
+    },
+    {
+      "EnglishWord": "replace",
+      "Meanings": [
+        "جایگزین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "replacement",
+      "Meanings": [
+        "تعویض",
+        "جایگذاری",
+        "جانشین",
+        "عوض",
+        "جایگزینی",
+        "یدکی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost accounting",
+      "Meanings": [
+        "حسابداری ارزش جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement cost method",
+      "Meanings": [
+        "روش قیمت جایگزینی",
+        "روش ارزش جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "replacement model",
+      "Meanings": [
+        "مدل جایگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "replacement policy",
+      "Meanings": [
+        "مشی تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "replacement time",
+      "Meanings": [
+        "مهلت تدارک مجدد",
+        "مهلت تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "replenishment level",
+      "Meanings": [
+        "سطح حداکثر موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "replica",
+      "Meanings": [
+        "برگردان",
+        "رونوشت",
+        "کپی"
+      ]
+    },
+    {
+      "EnglishWord": "report",
+      "Meanings": [
+        "گزارش",
+        "گزارش دادن",
+        "گزارش کار"
+      ]
+    },
+    {
+      "EnglishWord": "representative",
+      "Meanings": [
+        "نماینده",
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "representative sample",
+      "Meanings": [
+        "نمونه معرف"
+      ]
+    },
+    {
+      "EnglishWord": "reputation",
+      "Meanings": [
+        "اعتبار",
+        "شهرت"
+      ]
+    },
+    {
+      "EnglishWord": "request",
+      "Meanings": [
+        "تقاضا",
+        "درخواست",
+        "سفارش جنس"
+      ]
+    },
+    {
+      "EnglishWord": "requirement",
+      "Meanings": [
+        "نیازمندی",
+        "احتیاج",
+        "لازم",
+        "شرایط لازم",
+        "مقررات",
+        "موازین"
+      ]
+    },
+    {
+      "EnglishWord": "research and development  r d",
+      "Meanings": [
+        "تحقیق و توسعه",
+        "پژوهش و تکامل"
+      ]
+    },
+    {
+      "EnglishWord": "reserve accounts",
+      "Meanings": [
+        "حساب‌های ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "reserve for bad debts",
+      "Meanings": [
+        "اندوخته مطالبات مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "reserve for depreciation",
+      "Meanings": [
+        "حساب اندوخته استهلاک",
+        "ذخیره استهلاک"
+      ]
+    },
+    {
+      "EnglishWord": "reserve ratio",
+      "Meanings": [
+        "نسبت ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "reset",
+      "Meanings": [
+        "تنظیم مجدد",
+        "ساکت",
+        "سکون"
+      ]
+    },
+    {
+      "EnglishWord": "residual entry",
+      "Meanings": [
+        "ارزش دفتری مستهلک شده"
+      ]
+    },
+    {
+      "EnglishWord": "residual flush",
+      "Meanings": [
+        "قی پس مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual stress",
+      "Meanings": [
+        "تنش باقیمانده",
+        "تنش پس مانده",
+        "باز مانده",
+        "تنش مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual value",
+      "Meanings": [
+        "ارزش باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "resignation",
+      "Meanings": [
+        "استعفا"
+      ]
+    },
+    {
+      "EnglishWord": "resin",
+      "Meanings": [
+        "رزین",
+        "صمغ",
+        "پسب پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance brazing",
+      "Meanings": [
+        "برنجکاری مقاومتی",
+        "لحیم کاری سخت مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance butt seam welding",
+      "Meanings": [
+        "جوشکاری لب به لب درز لوله",
+        "درز جوش لب به لب مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance pressure welding",
+      "Meanings": [
+        "جوش فشاری مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance soldering",
+      "Meanings": [
+        "لحیم کاری مقاومتی",
+        "لحیم کاری نرم مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistance spot welding",
+      "Meanings": [
+        "نقطه جوش مقاومتی",
+        "جوشکاری مقاومتی نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "resistivity",
+      "Meanings": [
+        "مقاومت مخصوص",
+        "واحد مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "دقت",
+        "تفکیک پذیری",
+        "تجزیه",
+        "جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "resource",
+      "Meanings": [
+        "منبع",
+        "امکان",
+        "دارایی"
+      ]
+    },
+    {
+      "EnglishWord": "resource allocation",
+      "Meanings": [
+        "تخصیص منابع",
+        "تخصیص منبع"
+      ]
+    },
+    {
+      "EnglishWord": "resource improvement coefficient",
+      "Meanings": [
+        "ضریب اصلاح منبع"
+      ]
+    },
+    {
+      "EnglishWord": "resource leveling",
+      "Meanings": [
+        "تسطیح منابع"
+      ]
+    },
+    {
+      "EnglishWord": "resource rate",
+      "Meanings": [
+        "نرخ بهره وری منبع"
+      ]
+    },
+    {
+      "EnglishWord": "resource utilization rate",
+      "Meanings": [
+        "نرخ بهره وری از منبع"
+      ]
+    },
+    {
+      "EnglishWord": "respect",
+      "Meanings": [
+        "نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "respectively",
+      "Meanings": [
+        "به ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility",
+      "Meanings": [
+        "مسیولیت",
+        "تکلیف"
+      ]
+    },
+    {
+      "EnglishWord": "restoring",
+      "Meanings": [
+        "بازیابی",
+        "برگشت دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "restraint",
+      "Meanings": [
+        "محدودیت",
+        "مهار",
+        "بازدارنده",
+        "اجبار",
+        "فاکتور ممانعت",
+        "قید"
+      ]
+    },
+    {
+      "EnglishWord": "restricted runner",
+      "Meanings": [
+        "سیستم راهگاه محدود شونده"
+      ]
+    },
+    {
+      "EnglishWord": "restriction",
+      "Meanings": [
+        "محدودیت",
+        "قید"
+      ]
+    },
+    {
+      "EnglishWord": "resubmitted lot",
+      "Meanings": [
+        "انباشته برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "result",
+      "Meanings": [
+        "نتیجه",
+        "یافته",
+        "برآیند"
+      ]
+    },
+    {
+      "EnglishWord": "retail method",
+      "Meanings": [
+        "روش خرده فروشی"
+      ]
+    },
+    {
+      "EnglishWord": "retained earning",
+      "Meanings": [
+        "سود تقسیم نشده",
+        "سود انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "retained-slag practice",
+      "Meanings": [
+        "باقی گذاردن سرباره"
+      ]
+    },
+    {
+      "EnglishWord": "retainer plate",
+      "Meanings": [
+        "صفحه حامل سنبه با محفظه"
+      ]
+    },
+    {
+      "EnglishWord": "retaining plug",
+      "Meanings": [
+        "توپی نگاهدارنده"
+      ]
+    },
+    {
+      "EnglishWord": "retention period",
+      "Meanings": [
+        "دوره نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "retired",
+      "Meanings": [
+        "بازنشسته"
+      ]
+    },
+    {
+      "EnglishWord": "retrieve",
+      "Meanings": [
+        "بازیابی",
+        "بازیافتن"
+      ]
+    },
+    {
+      "EnglishWord": "return",
+      "Meanings": [
+        "بازده",
+        "برگشتی",
+        "برگرد",
+        "برگشت",
+        "حاصل",
+        "بازگشت",
+        "کالای برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "return on equity",
+      "Meanings": [
+        "بازده حقوق صاحبان سهام",
+        "بازده اصل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "return on investment",
+      "Meanings": [
+        "بازده روی سرمایه گذاری",
+        "بازده سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "return ratio",
+      "Meanings": [
+        "نسبت بازده"
+      ]
+    },
+    {
+      "EnglishWord": "revenue",
+      "Meanings": [
+        "درآمد",
+        "دخل",
+        "بهره وری",
+        "عواید دولتی",
+        "عایدی"
+      ]
+    },
+    {
+      "EnglishWord": "revenue account",
+      "Meanings": [
+        "حساب دخل",
+        "حساب درآمد",
+        "حساب دریافتی",
+        "حساب یخل و خرج"
+      ]
+    },
+    {
+      "EnglishWord": "reverberatory furnace",
+      "Meanings": [
+        "کوره انعکاسی",
+        "کوره شعله ای",
+        "کوره بازتابی",
+        "کوره زیمنس",
+        "مارتن",
+        "کوره تابشی"
+      ]
+    },
+    {
+      "EnglishWord": "reversal",
+      "Meanings": [
+        "معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reversal cost method",
+      "Meanings": [
+        "روش هزینه یابی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reversible embrittlement",
+      "Meanings": [
+        "تردی برگشت پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "review",
+      "Meanings": [
+        "بازدید",
+        "بازنگری",
+        "بررسی",
+        "مرور",
+        "مطالعه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "revised simplex method",
+      "Meanings": [
+        "روش سیمپلکس تجدید نظر شده",
+        "روش سیمپلکس اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "revision",
+      "Meanings": [
+        "تجدید نظر",
+        "بازبینی",
+        "رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "revolving fund",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "reward",
+      "Meanings": [
+        "پاداش",
+        "تشویق",
+        "تنبیه",
+        "جایزه"
+      ]
+    },
+    {
+      "EnglishWord": "rib",
+      "Meanings": [
+        "دنده",
+        "ایغه",
+        "آج",
+        "پره",
+        "رگه",
+        "شیار"
+      ]
+    },
+    {
+      "EnglishWord": "ridge",
+      "Meanings": [
+        "برآمدگی",
+        "زایده",
+        "نخ"
+      ]
+    },
+    {
+      "EnglishWord": "right-hand facing tool",
+      "Meanings": [
+        "قلم پیشانی تراش راستبر",
+        "ابزار پیشانی تراش راستبر"
+      ]
+    },
+    {
+      "EnglishWord": "right-hand thread",
+      "Meanings": [
+        "پیچ راستگرد",
+        "روزه راستگرد",
+        "روزه راست پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "right-hand tool",
+      "Meanings": [
+        "قلم راستبر",
+        "ابزار راستبر"
+      ]
+    },
+    {
+      "EnglishWord": "right-hand turning tool",
+      "Meanings": [
+        "تیغچه راستبر",
+        "قلم تراش راستبر",
+        "ابزار گرد تراش راستبر"
+      ]
+    },
+    {
+      "EnglishWord": "rigidity",
+      "Meanings": [
+        "استحکام",
+        "سختی",
+        "صلیب",
+        "سختپایی",
+        "عدم انعطاف",
+        "عدم نرمش",
+        "محکمی",
+        "مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "rim",
+      "Meanings": [
+        "طوقه",
+        "لبه",
+        "حاشیه",
+        "حاشیه دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rimmed steel",
+      "Meanings": [
+        "فولاد خام",
+        "فولاد نیمه آرام",
+        "فولاد جوشان"
+      ]
+    },
+    {
+      "EnglishWord": "rimming",
+      "Meanings": [
+        "اکسید زدایی سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "rimming steel",
+      "Meanings": [
+        "فولاد خام",
+        "فولاد نیمه آرام",
+        "فولاد جوشان"
+      ]
+    },
+    {
+      "EnglishWord": "ring gage",
+      "Meanings": [
+        "شابلون حلقوی",
+        "شابلون رینگی",
+        "اندازه گیر حلقوی",
+        "گیج حلقوی",
+        "سنجه حلقه ای",
+        "سنجه حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "ring jig",
+      "Meanings": [
+        "الگوی کار حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "ring network",
+      "Meanings": [
+        "شبکه حلقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "ring thread gage",
+      "Meanings": [
+        "شابلون پیچ حلقوی",
+        "سنجه توپی پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "rise per teeth",
+      "Meanings": [
+        "اختلاف ارتفاع دو دندانه",
+        "برجستگی در هر دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "riser",
+      "Meanings": [
+        "بالا برنده",
+        "تغذیه کننده"
+      ]
+    },
+    {
+      "EnglishWord": "risk",
+      "Meanings": [
+        "خطر",
+        "مخاطره",
+        "احتمال خسارت",
+        "احتمال زیان",
+        "مورد بیمه",
+        "احتمال خطر",
+        "ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk analysis",
+      "Meanings": [
+        "تحلیل مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk avoider",
+      "Meanings": [
+        "ریسک ناطلب",
+        "ریسک ناپذیر",
+        "محافظه کار"
+      ]
+    },
+    {
+      "EnglishWord": "risk function",
+      "Meanings": [
+        "تابع مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk premium",
+      "Meanings": [
+        "حق مقابله با خطر",
+        "صرف ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk ratio",
+      "Meanings": [
+        "نسبت ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risk-free rate",
+      "Meanings": [
+        "نرخ بهره بدون ریسک"
+      ]
+    },
+    {
+      "EnglishWord": "risktaker",
+      "Meanings": [
+        "ریسکپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rivalry",
+      "Meanings": [
+        "رقابت"
+      ]
+    },
+    {
+      "EnglishWord": "rivet",
+      "Meanings": [
+        "پرچ",
+        "پرچ کردن",
+        "میخ پرچ"
+      ]
+    },
+    {
+      "EnglishWord": "rivet head",
+      "Meanings": [
+        "کله پرچ",
+        "سرپرچ",
+        "سرمیخ پرچ"
+      ]
+    },
+    {
+      "EnglishWord": "riveting",
+      "Meanings": [
+        "پرچکاری"
+      ]
+    },
+    {
+      "EnglishWord": "road transport",
+      "Meanings": [
+        "حمل و نقل جاده ای"
+      ]
+    },
+    {
+      "EnglishWord": "robot",
+      "Meanings": [
+        "ربات",
+        "آدم مصنوعی",
+        "آدم مکانیکی",
+        "آدم آهنی",
+        "آدمک آهنی",
+        "دستگاه خودکار",
+        "ربوت",
+        "آدم ماشینی"
+      ]
+    },
+    {
+      "EnglishWord": "rockwell hardness test",
+      "Meanings": [
+        "آزمایش سختی راکول",
+        "آزمایش راکول",
+        "ضریب سختی راکول"
+      ]
+    },
+    {
+      "EnglishWord": "rod",
+      "Meanings": [
+        "میله",
+        "مفتول",
+        "میل",
+        "شاخص",
+        "میل گرد",
+        "میله مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "rod rolling",
+      "Meanings": [
+        "نورد میله",
+        "مفتول سازی",
+        "نورد کردن مفتول"
+      ]
+    },
+    {
+      "EnglishWord": "role-playing",
+      "Meanings": [
+        "ایفای نقش",
+        "نقش بازی کردن",
+        "آزمایش و تمرین"
+      ]
+    },
+    {
+      "EnglishWord": "roll",
+      "Meanings": [
+        "غلتک کاری کردن",
+        "نورد کردن",
+        "غلتک",
+        "نورد",
+        "نوردیدن نورد کاری"
+      ]
+    },
+    {
+      "EnglishWord": "roll barrel",
+      "Meanings": [
+        "استوانه غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "roll bearing",
+      "Meanings": [
+        "یاتاقان غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roll bending",
+      "Meanings": [
+        "خمکن غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roll burnishing",
+      "Meanings": [
+        "جلا دادن غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roll forging",
+      "Meanings": [
+        "آهنگری نوردی",
+        "فرجینگ غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roll forming",
+      "Meanings": [
+        "شکل دهی با غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "roll straightening",
+      "Meanings": [
+        "صافکاری غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roll welding",
+      "Meanings": [
+        "جوشکاری با نورد",
+        "جوشکاری گردان",
+        "جوشکاری غلتکی"
+      ]
+    },
+    {
+      "EnglishWord": "roller conveyor",
+      "Meanings": [
+        "نقاله غلتکی",
+        "نقاله قرقره ای"
+      ]
+    },
+    {
+      "EnglishWord": "rolling",
+      "Meanings": [
+        "غلتک کاری",
+        "نورد کاری",
+        "نورد",
+        "غلتک زنی",
+        "عملیات نورد",
+        "غلتزنی"
+      ]
+    },
+    {
+      "EnglishWord": "rolling mill",
+      "Meanings": [
+        "کارگاه نورد",
+        "کارخانه نورد",
+        "دستگاه نورد",
+        "ماشین نورد",
+        "نورد ورق"
+      ]
+    },
+    {
+      "EnglishWord": "rolling table",
+      "Meanings": [
+        "میز قرقره دار",
+        "دستگاه نورد",
+        "کارگاه نورد"
+      ]
+    },
+    {
+      "EnglishWord": "rollover jig",
+      "Meanings": [
+        "الگوی کار برگردانی"
+      ]
+    },
+    {
+      "EnglishWord": "rolls",
+      "Meanings": [
+        "جفت غلتک",
+        "وردنه",
+        "سنگ شکن غلتکی",
+        "مانشی کلوخه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "root",
+      "Meanings": [
+        "ریشه",
+        "پهنای ته دندانه",
+        "بن"
+      ]
+    },
+    {
+      "EnglishWord": "root bend",
+      "Meanings": [
+        "خمش ریشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "root circle",
+      "Meanings": [
+        "دایره پایه",
+        "دایره ریشه",
+        "دایره بن دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "root diameter",
+      "Meanings": [
+        "قطر پایه",
+        "قطر مغذی",
+        "قطر هسته"
+      ]
+    },
+    {
+      "EnglishWord": "root-mean square",
+      "Meanings": [
+        "جذر میانگین مجذورات",
+        "جذر میانگین مربعات"
+      ]
+    },
+    {
+      "EnglishWord": "rosette",
+      "Meanings": [
+        "رزگون",
+        "انشعاب",
+        "خوشه ای",
+        "گلبرگ گونه"
+      ]
+    },
+    {
+      "EnglishWord": "rosette graphite cast iron",
+      "Meanings": [
+        "چدن با گرافیت شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rosette pattern",
+      "Meanings": [
+        "توزیع گل رزی"
+      ]
+    },
+    {
+      "EnglishWord": "rotary",
+      "Meanings": [
+        "گردنده",
+        "دوار",
+        "چرخشی",
+        "دورانی",
+        "گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary grinder",
+      "Meanings": [
+        "سنگ سمباده"
+      ]
+    },
+    {
+      "EnglishWord": "rotary piercer",
+      "Meanings": [
+        "سنبه سوراخکن گردان",
+        "شکافننده گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary shaft preparing tool",
+      "Meanings": [
+        "ابزار گردان آماده سازی محور"
+      ]
+    },
+    {
+      "EnglishWord": "rotary shear",
+      "Meanings": [
+        "قیچی گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary-head milling machine",
+      "Meanings": [
+        "ماشین فرز با کله گی چرخان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary-indexing fixture",
+      "Meanings": [
+        "بست گردان تقسیم شو",
+        "کارگیر گردان شاخص دار"
+      ]
+    },
+    {
+      "EnglishWord": "rotor-type broach",
+      "Meanings": [
+        "سوزن خانکشی دوار",
+        "خانکشی با دندانه آرمیچری"
+      ]
+    },
+    {
+      "EnglishWord": "rouge",
+      "Meanings": [
+        "گرد صیقل"
+      ]
+    },
+    {
+      "EnglishWord": "rough file",
+      "Meanings": [
+        "سوهان زبر",
+        "سوهان خشن"
+      ]
+    },
+    {
+      "EnglishWord": "roughing cut",
+      "Meanings": [
+        "برش خشن",
+        "زبربری",
+        "خشنتراشی"
+      ]
+    },
+    {
+      "EnglishWord": "roughing mill",
+      "Meanings": [
+        "دستگاه پیش نورد"
+      ]
+    },
+    {
+      "EnglishWord": "roughing tool",
+      "Meanings": [
+        "ابزار برای مرحله اول شکل دادن",
+        "ابزار خشنکاری"
+      ]
+    },
+    {
+      "EnglishWord": "roughness",
+      "Meanings": [
+        "زبری",
+        "ناهمواری",
+        "ناصافی"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "گرد کردن",
+        "گردد",
+        "میل گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round ejector pin",
+      "Meanings": [
+        "پی پران گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round file",
+      "Meanings": [
+        "سوهان گرد",
+        "سوهان دم موشی"
+      ]
+    },
+    {
+      "EnglishWord": "round nose chisel",
+      "Meanings": [
+        "قلم نوک گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round off",
+      "Meanings": [
+        "گرد کردن",
+        "روند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "round runner",
+      "Meanings": [
+        "راهگاه با مقطع گرد"
+      ]
+    },
+    {
+      "EnglishWord": "round-nose turning tool",
+      "Meanings": [
+        "قلم تراش لب گرد",
+        "ابزار گرد تراش بله گرد"
+      ]
+    },
+    {
+      "EnglishWord": "route sheet",
+      "Meanings": [
+        "ورقه مسیر کار",
+        "برگه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "routing",
+      "Meanings": [
+        "گاه در آری",
+        "راه درآری"
+      ]
+    },
+    {
+      "EnglishWord": "routing sheet",
+      "Meanings": [
+        "ورقه تعیین مسیر کار"
+      ]
+    },
+    {
+      "EnglishWord": "row",
+      "Meanings": [
+        "سطر",
+        "ردیف",
+        "سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row rank",
+      "Meanings": [
+        "رتبه سطری",
+        "مرتبه سطری"
+      ]
+    },
+    {
+      "EnglishWord": "row vector",
+      "Meanings": [
+        "بردار سطری"
+      ]
+    },
+    {
+      "EnglishWord": "royalty",
+      "Meanings": [
+        "حق امتیاز",
+        "حق تالیف",
+        "پورسانت",
+        "رویالیتی",
+        "حق اختراع"
+      ]
+    },
+    {
+      "EnglishWord": "rubber",
+      "Meanings": [
+        "لاستیک",
+        "کایوچو"
+      ]
+    },
+    {
+      "EnglishWord": "rugged",
+      "Meanings": [
+        "خشن",
+        "مستحکم",
+        "مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قاعده",
+        "قانون",
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "rule depth gage",
+      "Meanings": [
+        "عمق سنج خط کش دار",
+        "خط کش عمق سنج"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "اجرا",
+        "چرخه عملیاتی",
+        "تعداد مرتبه",
+        "رانش",
+        "تغذیه",
+        "راهگاه سازی",
+        "ریختن",
+        "ریخته گری",
+        "اجرا کردن",
+        "راندن",
+        "ریزشگاه",
+        "کارکرد ماشین",
+        "گردش",
+        "لوله",
+        "سیلان رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "runner",
+      "Meanings": [
+        "پای راهگاه",
+        "مجرای اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "runnerless molding",
+      "Meanings": [
+        "قالبگیری بدون راهگاه"
+      ]
+    },
+    {
+      "EnglishWord": "running fit",
+      "Meanings": [
+        "انطباق رونده",
+        "خوراندن رونده",
+        "انطباق روان"
+      ]
+    },
+    {
+      "EnglishWord": "running time",
+      "Meanings": [
+        "زمان کارکرد"
+      ]
+    },
+    {
+      "EnglishWord": "run-time",
+      "Meanings": [
+        "زمان اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "run-to-run control",
+      "Meanings": [
+        "کنترل قدم به قدم",
+        "کنترل مرحله به مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "rupture strength",
+      "Meanings": [
+        "بارکششی",
+        "استحکام پارگی",
+        "استحکام شکست",
+        "تاو گسیختگی",
+        "مقاوم در برابر پارگی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+﻿{
+  "Group": "R",
+  "Entries": 71,
+  "Words": [
+    {
+      "EnglishWord": "r",
+      "Meanings": [
+        "هجدهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "r.e.language",
+      "Meanings": [
+        "زبان بازگشتی شمارش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "radix sort",
+      "Meanings": [
+        "مرتب ساز مبنایی"
+      ]
+    },
+    {
+      "EnglishWord": "ragge",
+      "Meanings": [
+        "ناهموار"
+      ]
+    },
+    {
+      "EnglishWord": "ragged matrix",
+      "Meanings": [
+        "ماتریس ناهموار"
+      ]
+    },
+    {
+      "EnglishWord": "random",
+      "Meanings": [
+        "تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random access",
+      "Meanings": [
+        "دسترسی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random access machine",
+      "Meanings": [
+        "ماشین با دسترسی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random numbers",
+      "Meanings": [
+        "اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random numbers generator",
+      "Meanings": [
+        "مولد اعداد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomization",
+      "Meanings": [
+        "تصادفی سازی"
+      ]
+    },
+    {
+      "EnglishWord": "randomized algorithm",
+      "Meanings": [
+        "الگوریتم تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomized complexity",
+      "Meanings": [
+        "پیچیدگی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomized rounding",
+      "Meanings": [
+        "گرد کردن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "برد"
+      ]
+    },
+    {
+      "EnglishWord": "range sort",
+      "Meanings": [
+        "مرتب ساز بازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank",
+      "Meanings": [
+        "مرتبه"
+      ]
+    },
+    {
+      "EnglishWord": "reachable",
+      "Meanings": [
+        "قابل دستیابی"
+      ]
+    },
+    {
+      "EnglishWord": "reachable graph",
+      "Meanings": [
+        "گراف دسترسی"
+      ]
+    },
+    {
+      "EnglishWord": "rear",
+      "Meanings": [
+        "انتها"
+      ]
+    },
+    {
+      "EnglishWord": "rebalance",
+      "Meanings": [
+        "تجدید توازن"
+      ]
+    },
+    {
+      "EnglishWord": "recognizer",
+      "Meanings": [
+        "تشخیص دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular matrix",
+      "Meanings": [
+        "ماتریس مستطیل شکل"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear",
+      "Meanings": [
+        "افقی",
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear distance",
+      "Meanings": [
+        "فاصله افقی",
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear steiner tree",
+      "Meanings": [
+        "درخت اشتاینر افقی",
+        "عمودی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence",
+      "Meanings": [
+        "بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence equations",
+      "Meanings": [
+        "معادلات بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence relation",
+      "Meanings": [
+        "رابطه بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrences",
+      "Meanings": [
+        "بازگشتی ها"
+      ]
+    },
+    {
+      "EnglishWord": "recursion",
+      "Meanings": [
+        "بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "recursion termination",
+      "Meanings": [
+        "خاتمه بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "recursion tree",
+      "Meanings": [
+        "درخت بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "recursive",
+      "Meanings": [
+        "بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive algorithm",
+      "Meanings": [
+        "الگوریتم بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive data structure",
+      "Meanings": [
+        "داده ساختار بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive function",
+      "Meanings": [
+        "تابع بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive language",
+      "Meanings": [
+        "زبان بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursively enumerable language",
+      "Meanings": [
+        "زبان بازگشتی شمارش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "recurtion tree",
+      "Meanings": [
+        "درخت بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "red-black tree",
+      "Meanings": [
+        "درخت قرمز",
+        "سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "reduced basis",
+      "Meanings": [
+        "پایه ساده شده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced digraph",
+      "Meanings": [
+        "گراف جهت دار ساده شده"
+      ]
+    },
+    {
+      "EnglishWord": "reduction",
+      "Meanings": [
+        "کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "reflexive",
+      "Meanings": [
+        "بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular decomposition",
+      "Meanings": [
+        "تجزیه منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular expression",
+      "Meanings": [
+        "عبارت منظم"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relational structure",
+      "Meanings": [
+        "ساختار رابطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "relative performance guarantee",
+      "Meanings": [
+        "ضمانت کارایی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation",
+      "Meanings": [
+        "ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "rescalable",
+      "Meanings": [
+        "باز مقیاس پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "reside",
+      "Meanings": [
+        "مقیم بودن",
+        "ذخیره شدن"
+      ]
+    },
+    {
+      "EnglishWord": "resident queue",
+      "Meanings": [
+        "صف ماندگار"
+      ]
+    },
+    {
+      "EnglishWord": "restrict",
+      "Meanings": [
+        "محدود کردن"
+      ]
+    },
+    {
+      "EnglishWord": "restricted universe sort",
+      "Meanings": [
+        "مرتب ساز جهان محدود"
+      ]
+    },
+    {
+      "EnglishWord": "reusable",
+      "Meanings": [
+        "قابل استفاده مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "reverse",
+      "Meanings": [
+        "معکوس",
+        "وارونه"
+      ]
+    },
+    {
+      "EnglishWord": "reverse adjacency list",
+      "Meanings": [
+        "لیست مجاورتی معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "rho-approximation algorithm",
+      "Meanings": [
+        "الگوریتم rho تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "rice's method",
+      "Meanings": [
+        "روش رایس"
+      ]
+    },
+    {
+      "EnglishWord": "right child",
+      "Meanings": [
+        "فرزند راست"
+      ]
+    },
+    {
+      "EnglishWord": "rightmost node",
+      "Meanings": [
+        "راست‌ترین گره"
+      ]
+    },
+    {
+      "EnglishWord": "rightmost path",
+      "Meanings": [
+        "سمت راست‌ترین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "root",
+      "Meanings": [
+        "ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rough graph",
+      "Meanings": [
+        "گراف تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "routing",
+      "Meanings": [
+        "مسیر یابی"
+      ]
+    },
+    {
+      "EnglishWord": "routing problem",
+      "Meanings": [
+        "مسیله مسیر یابی"
+      ]
+    },
+    {
+      "EnglishWord": "run time",
+      "Meanings": [
+        "زمان اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "run time error",
+      "Meanings": [
+        "خطای زمان اجرا"
+      ]
+    }
+  ]
+}

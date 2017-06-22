@@ -1,0 +1,528 @@
+﻿{
+  "Group": "P",
+  "Entries": 86,
+  "Words": [
+    {
+      "EnglishWord": "p",
+      "Meanings": [
+        "شانزدهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "padding argument",
+      "Meanings": [
+        "استدلال لایه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "parametric searching",
+      "Meanings": [
+        "جستجوی پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "parent",
+      "Meanings": [
+        "پدر",
+        "والد"
+      ]
+    },
+    {
+      "EnglishWord": "partial",
+      "Meanings": [
+        "جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial function",
+      "Meanings": [
+        "تابع جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial match",
+      "Meanings": [
+        "تطابق جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial order",
+      "Meanings": [
+        "ترتیب جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partial recursive function",
+      "Meanings": [
+        "تابع بازگشتی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "partially decidable problem",
+      "Meanings": [
+        "مسیله جزیا تصمیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "partially dynamic graph",
+      "Meanings": [
+        "گراف جزیی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "partially dynamic graph problem",
+      "Meanings": [
+        "مسیله گراف جزیی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "partially ordered set",
+      "Meanings": [
+        "مجموعه جزیی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "partially presistent data structure",
+      "Meanings": [
+        "داده ساختار جزیی ماندگار"
+      ]
+    },
+    {
+      "EnglishWord": "path",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "path length",
+      "Meanings": [
+        "طول مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "perfect matching",
+      "Meanings": [
+        "تطابق کامل"
+      ]
+    },
+    {
+      "EnglishWord": "performance guarantee",
+      "Meanings": [
+        "ضمانت کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "performance ratio",
+      "Meanings": [
+        "نسبت کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "perimeter",
+      "Meanings": [
+        "محیط"
+      ]
+    },
+    {
+      "EnglishWord": "permutation",
+      "Meanings": [
+        "جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "permutation generator",
+      "Meanings": [
+        "مولد جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "persistent data structure",
+      "Meanings": [
+        "داده ساختار ماندگار"
+      ]
+    },
+    {
+      "EnglishWord": "phase",
+      "Meanings": [
+        "مرحله",
+        "فاز"
+      ]
+    },
+    {
+      "EnglishWord": "pigeonhole principle",
+      "Meanings": [
+        "اصل لانه کبوتری"
+      ]
+    },
+    {
+      "EnglishWord": "pivot",
+      "Meanings": [
+        "محور"
+      ]
+    },
+    {
+      "EnglishWord": "planar graph",
+      "Meanings": [
+        "گراف مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "planar straight-line graph",
+      "Meanings": [
+        "گراف مسطح با خطوط مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "planarity",
+      "Meanings": [
+        "مسطح بودن"
+      ]
+    },
+    {
+      "EnglishWord": "planarization",
+      "Meanings": [
+        "مسطح سازی"
+      ]
+    },
+    {
+      "EnglishWord": "point",
+      "Meanings": [
+        "نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "pointer",
+      "Meanings": [
+        "اشاره گر"
+      ]
+    },
+    {
+      "EnglishWord": "pointer machine",
+      "Meanings": [
+        "ماشین اشاره گر"
+      ]
+    },
+    {
+      "EnglishWord": "poissonization",
+      "Meanings": [
+        "پوآسنی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "polygon",
+      "Meanings": [
+        "چند ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "polyhedron",
+      "Meanings": [
+        "چند وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "polylogarithmic",
+      "Meanings": [
+        "چند لگاریتمی"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial",
+      "Meanings": [
+        "چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial approximation scheme",
+      "Meanings": [
+        "شمای تقریب چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial hierarchy",
+      "Meanings": [
+        "سلسله مراتب چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial time",
+      "Meanings": [
+        "زمان چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial-time algorithm",
+      "Meanings": [
+        "الگوریتم زمان چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial-time approximation scheme",
+      "Meanings": [
+        "شمای تقریب زمان چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial-time church-turing thesis",
+      "Meanings": [
+        "تز چرچ",
+        "تورینگ زمان چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polynomial-time reduction",
+      "Meanings": [
+        "کاهش زمان چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polyphase merge",
+      "Meanings": [
+        "ادغام چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "polyphase merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "pop",
+      "Meanings": [
+        "برداشتن داده از بالای پشته",
+        "بازیابی داده از بالای پشته"
+      ]
+    },
+    {
+      "EnglishWord": "poset",
+      "Meanings": [
+        "مجموعه جزیی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "postfix",
+      "Meanings": [
+        "پسوندی"
+      ]
+    },
+    {
+      "EnglishWord": "postfix notation",
+      "Meanings": [
+        "نماد پسوندی"
+      ]
+    },
+    {
+      "EnglishWord": "postman's sort",
+      "Meanings": [
+        "مرتب ساز پستچی"
+      ]
+    },
+    {
+      "EnglishWord": "post's correspondence",
+      "Meanings": [
+        "تناظر پست"
+      ]
+    },
+    {
+      "EnglishWord": "post's correspondence problem",
+      "Meanings": [
+        "مسیله تناظر پست"
+      ]
+    },
+    {
+      "EnglishWord": "potential",
+      "Meanings": [
+        "پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential function",
+      "Meanings": [
+        "تابع پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "prefix",
+      "Meanings": [
+        "پیشوندی"
+      ]
+    },
+    {
+      "EnglishWord": "primitive",
+      "Meanings": [
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "primitive recursive",
+      "Meanings": [
+        "بازگشتی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "prim's algorithm",
+      "Meanings": [
+        "الگوریتم پریم"
+      ]
+    },
+    {
+      "EnglishWord": "principle",
+      "Meanings": [
+        "اصل",
+        "قاعده کلی"
+      ]
+    },
+    {
+      "EnglishWord": "priority",
+      "Meanings": [
+        "اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "priority queue",
+      "Meanings": [
+        "صف اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "prisoner's dilemma",
+      "Meanings": [
+        "معمای اسیران"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic algorithm",
+      "Meanings": [
+        "الگوریتم احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic turing machine",
+      "Meanings": [
+        "ماشین تورینگ احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistically checkable proof",
+      "Meanings": [
+        "اثبات بررسی پذیری احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probability",
+      "Meanings": [
+        "احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probable",
+      "Meanings": [
+        "احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "رویه"
+      ]
+    },
+    {
+      "EnglishWord": "process algebra",
+      "Meanings": [
+        "جبر پردازه ها"
+      ]
+    },
+    {
+      "EnglishWord": "proper",
+      "Meanings": [
+        "سره"
+      ]
+    },
+    {
+      "EnglishWord": "proper coloring",
+      "Meanings": [
+        "رنگ آمیزی مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "proper subset",
+      "Meanings": [
+        "زیر مجموعه سره"
+      ]
+    },
+    {
+      "EnglishWord": "prune and search",
+      "Meanings": [
+        "هرس و جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo",
+      "Meanings": [
+        "شبه"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo code",
+      "Meanings": [
+        "شبه کد"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo random number generator",
+      "Meanings": [
+        "مولد اعداد شبه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "pseudorandom number",
+      "Meanings": [
+        "اعداد شبه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "pth order fibonacci numbers",
+      "Meanings": [
+        "اعداد فیبوناچی مرتبه P ام"
+      ]
+    },
+    {
+      "EnglishWord": "pure",
+      "Meanings": [
+        "محض"
+      ]
+    },
+    {
+      "EnglishWord": "purely function language",
+      "Meanings": [
+        "زبان کاملا تابعی"
+      ]
+    },
+    {
+      "EnglishWord": "push",
+      "Meanings": [
+        "قرار دادن داده در بالای پشته",
+        "ذخیره داده در بالای پشته"
+      ]
+    },
+    {
+      "EnglishWord": "pushdown automaton",
+      "Meanings": [
+        "اتوماتون پشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "pushdown transducer",
+      "Meanings": [
+        "مبدل پشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "p-way merge sort",
+      "Meanings": [
+        "مرتب ساز ادغامی P راهی"
+      ]
+    }
+  ]
+}

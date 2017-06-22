@@ -1,0 +1,37 @@
+﻿{
+  "Group": "Y",
+  "Entries": 4,
+  "Words": [
+    {
+      "EnglishWord": "yield",
+      "Meanings": [
+        "بازده",
+        "محصول",
+        "حاصل",
+        "بهره دهی",
+        "باردهی فلزی",
+        "بار"
+      ]
+    },
+    {
+      "EnglishWord": "yield of capital",
+      "Meanings": [
+        "بازده سرمایه",
+        "حاصل سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "yield ratio",
+      "Meanings": [
+        "نسبت بازدهی"
+      ]
+    },
+    {
+      "EnglishWord": "yield strength",
+      "Meanings": [
+        "استحکام تسلیم",
+        "تاو تسلیم"
+      ]
+    }
+  ]
+}

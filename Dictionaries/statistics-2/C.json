@@ -1,0 +1,2548 @@
+﻿{
+  "Group": "C",
+  "Entries": 421,
+  "Words": [
+    {
+      "EnglishWord": "calculus",
+      "Meanings": [
+        "حسابان"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of differences",
+      "Meanings": [
+        "حساب تفاضلها"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of errors",
+      "Meanings": [
+        "حساب خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of finite differences",
+      "Meanings": [
+        "حساب تفاضلهای متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of residues",
+      "Meanings": [
+        "حساب مانده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of variations",
+      "Meanings": [
+        "حساب تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "cancellation law",
+      "Meanings": [
+        "قانون حذف"
+      ]
+    },
+    {
+      "EnglishWord": "cancellation rule",
+      "Meanings": [
+        "قاعده حذف"
+      ]
+    },
+    {
+      "EnglishWord": "canonical",
+      "Meanings": [
+        "کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical analysis",
+      "Meanings": [
+        "تحلیل کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical correlation",
+      "Meanings": [
+        "همبستگی کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical correspondence analysis",
+      "Meanings": [
+        "تحلیل تناظر کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical decomposition",
+      "Meanings": [
+        "تجزیه کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical equation",
+      "Meanings": [
+        "معادله کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical form",
+      "Meanings": [
+        "صورت کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical function",
+      "Meanings": [
+        "تابع کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical scores",
+      "Meanings": [
+        "نمره‌های کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "capability",
+      "Meanings": [
+        "قابلیت"
+      ]
+    },
+    {
+      "EnglishWord": "carrier of a function",
+      "Meanings": [
+        "محمل تابع"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy condensation test",
+      "Meanings": [
+        "آزمون چگالش کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy condition",
+      "Meanings": [
+        "شرط کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy criterion",
+      "Meanings": [
+        "ملاک کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy distribution",
+      "Meanings": [
+        "توزیع کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy inequality",
+      "Meanings": [
+        "نابرابری کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy integral",
+      "Meanings": [
+        "انتگرال کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy process",
+      "Meanings": [
+        "فرایند کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy sequence",
+      "Meanings": [
+        "دنباله کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy theorem",
+      "Meanings": [
+        "قضیه کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy's method interpolation",
+      "Meanings": [
+        "روش درون‌یابی کوشی"
+      ]
+    },
+    {
+      "EnglishWord": "cauchy-schwarz inequality",
+      "Meanings": [
+        "نابرابری کوشی",
+        "شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "cell frequency",
+      "Meanings": [
+        "فراوانی خانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "censored data",
+      "Meanings": [
+        "داده‌‌های سانسور شده"
+      ]
+    },
+    {
+      "EnglishWord": "census",
+      "Meanings": [
+        "سرشماری"
+      ]
+    },
+    {
+      "EnglishWord": "centered studentized maximal distribution",
+      "Meanings": [
+        "توزیع ماکسیمال استیودنتیده مرکزی شده"
+      ]
+    },
+    {
+      "EnglishWord": "central difference",
+      "Meanings": [
+        "تفاضل مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central limit theorem",
+      "Meanings": [
+        "قضیه حدی مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central moment",
+      "Meanings": [
+        "گشتاور مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central quadric",
+      "Meanings": [
+        "رویه درجه دوم مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central statistic",
+      "Meanings": [
+        "آماره مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central symmetry",
+      "Meanings": [
+        "تقارن مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "central tendency",
+      "Meanings": [
+        "گرایش به مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "certain event  sure event",
+      "Meanings": [
+        "پیشامد حتمی"
+      ]
+    },
+    {
+      "EnglishWord": "certainty",
+      "Meanings": [
+        "حتمیت"
+      ]
+    },
+    {
+      "EnglishWord": "chain",
+      "Meanings": [
+        "زنجیر"
+      ]
+    },
+    {
+      "EnglishWord": "chain binomial model",
+      "Meanings": [
+        "مدل دوجمله‌ای زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "chain rule",
+      "Meanings": [
+        "قاعده زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "chain sampling",
+      "Meanings": [
+        "نمونه گیری زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "chakrabarti's measure of design imbalance",
+      "Meanings": [
+        "معیار چاکرابارتی عدم تعادل طرح"
+      ]
+    },
+    {
+      "EnglishWord": "chance",
+      "Meanings": [
+        "شانس"
+      ]
+    },
+    {
+      "EnglishWord": "change of variable",
+      "Meanings": [
+        "تعویض متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "change-in-ratio",
+      "Meanings": [
+        "تغییر در نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "chapman-kolmogorov equation",
+      "Meanings": [
+        "معادله چپمن",
+        "کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic class",
+      "Meanings": [
+        "رده مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic equation",
+      "Meanings": [
+        "معادله مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic function",
+      "Meanings": [
+        "تابع مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic number",
+      "Meanings": [
+        "عدد مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic polynomial",
+      "Meanings": [
+        "چندجمله‌ای مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "characteristic root  eigenvalue",
+      "Meanings": [
+        "ویژه‌مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "charlier's series",
+      "Meanings": [
+        "سری شارلیه"
+      ]
+    },
+    {
+      "EnglishWord": "chebyshev's inequality",
+      "Meanings": [
+        "نابرابری چبیشوف"
+      ]
+    },
+    {
+      "EnglishWord": "chernoff efficiency",
+      "Meanings": [
+        "کارآیی چرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "chernoff inequality",
+      "Meanings": [
+        "نابرابری چرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "chernoff theorem",
+      "Meanings": [
+        "قضیه چرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "chi distribution",
+      "Meanings": [
+        "توزیع خی"
+      ]
+    },
+    {
+      "EnglishWord": "chi-bar-square distribution",
+      "Meanings": [
+        "توزیع خی‌باردو"
+      ]
+    },
+    {
+      "EnglishWord": "chi-square distribution",
+      "Meanings": [
+        "توزیع خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "chi-square statistic",
+      "Meanings": [
+        "آماره خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "chi-square test",
+      "Meanings": [
+        "آزمون خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "chi-square test of goodness of fit",
+      "Meanings": [
+        "آزمون نیکویی برازش خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "chi-squared approximation",
+      "Meanings": [
+        "تقریب خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "circle",
+      "Meanings": [
+        "دایره"
+      ]
+    },
+    {
+      "EnglishWord": "circle of convergence",
+      "Meanings": [
+        "دایره همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "circular coverage function",
+      "Meanings": [
+        "تابع پوشش دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "circular distribution",
+      "Meanings": [
+        "توزیع دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "circular normal distribution",
+      "Meanings": [
+        "توزیع نرمال دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "circular probable error",
+      "Meanings": [
+        "خطای محتمل دایره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "class",
+      "Meanings": [
+        "رده"
+      ]
+    },
+    {
+      "EnglishWord": "class frequency",
+      "Meanings": [
+        "فراوانی رده"
+      ]
+    },
+    {
+      "EnglishWord": "class interval",
+      "Meanings": [
+        "بازه رده"
+      ]
+    },
+    {
+      "EnglishWord": "class mark",
+      "Meanings": [
+        "نشانه رده"
+      ]
+    },
+    {
+      "EnglishWord": "class-conditional probability",
+      "Meanings": [
+        "احتمال رده‌شرطیده"
+      ]
+    },
+    {
+      "EnglishWord": "classical risk theory",
+      "Meanings": [
+        "نظریه کلاسیک مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "classical statistical mechanics",
+      "Meanings": [
+        "مکانیک آماری کلاسیک"
+      ]
+    },
+    {
+      "EnglishWord": "classical theory of calculus of variations",
+      "Meanings": [
+        "نظریه کلاسیک حساب تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "classification",
+      "Meanings": [
+        "رده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "classification problem",
+      "Meanings": [
+        "مسیله رده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "classification theorem",
+      "Meanings": [
+        "قضیه رده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "classificatory procedure",
+      "Meanings": [
+        "شیوه رده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "classified data",
+      "Meanings": [
+        "داده‌‌های رده‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "clean-up method",
+      "Meanings": [
+        "روش پاکیزه‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "cliff-ord test",
+      "Meanings": [
+        "آزمون کلیف",
+        "ارد"
+      ]
+    },
+    {
+      "EnglishWord": "clinical trial",
+      "Meanings": [
+        "آزمایه بالینی"
+      ]
+    },
+    {
+      "EnglishWord": "clique",
+      "Meanings": [
+        "دسته"
+      ]
+    },
+    {
+      "EnglishWord": "clisy",
+      "Meanings": [
+        "معیار چولگی شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "clopper-pearson confidence interval",
+      "Meanings": [
+        "بازه اطمینان کلوپر",
+        "پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "closeness of estimators",
+      "Meanings": [
+        "نزدیکی برآوردگرها"
+      ]
+    },
+    {
+      "EnglishWord": "clumping  aggregation",
+      "Meanings": [
+        "تجمع"
+      ]
+    },
+    {
+      "EnglishWord": "cluster",
+      "Meanings": [
+        "خوشه"
+      ]
+    },
+    {
+      "EnglishWord": "cluster analysis",
+      "Meanings": [
+        "تحلیل خوشه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "cluster sampling",
+      "Meanings": [
+        "نمونه گیری خوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "clustering",
+      "Meanings": [
+        "خوشه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "clustering technique",
+      "Meanings": [
+        "فن خوشه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "coarse data",
+      "Meanings": [
+        "داده‌‌های زمخت"
+      ]
+    },
+    {
+      "EnglishWord": "cochran-orcutt iterative procedure",
+      "Meanings": [
+        "شیوه تکراری کوکران",
+        "اورکات"
+      ]
+    },
+    {
+      "EnglishWord": "cochran's  test  statistic",
+      "Meanings": [
+        "آماره آزمون کوکران"
+      ]
+    },
+    {
+      "EnglishWord": "cochran's c 0 statistic",
+      "Meanings": [
+        "آماره C_0 کوکران"
+      ]
+    },
+    {
+      "EnglishWord": "cochran's q-statistic",
+      "Meanings": [
+        "آماره Qی کوکران"
+      ]
+    },
+    {
+      "EnglishWord": "code control method",
+      "Meanings": [
+        "روش کنترل کد"
+      ]
+    },
+    {
+      "EnglishWord": "coded data",
+      "Meanings": [
+        "داده‌های کد شده"
+      ]
+    },
+    {
+      "EnglishWord": "coding",
+      "Meanings": [
+        "کدگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "coding theorem",
+      "Meanings": [
+        "قضیه کدگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "coding theory",
+      "Meanings": [
+        "نظریه کدگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient",
+      "Meanings": [
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of alienation",
+      "Meanings": [
+        "ضریب بیگانگی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of concentration",
+      "Meanings": [
+        "ضریب تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of concordance",
+      "Meanings": [
+        "ضریب هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of correlation",
+      "Meanings": [
+        "ضریب همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of determination",
+      "Meanings": [
+        "ضریب تعیین"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of monotonicity",
+      "Meanings": [
+        "ضریب یکنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of polytonicity",
+      "Meanings": [
+        "ضریب چندنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of proportional similarity",
+      "Meanings": [
+        "ضریب تشابه متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of quartile deviation",
+      "Meanings": [
+        "ضریب انحراف چارکی"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of reversion",
+      "Meanings": [
+        "ضریب برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of truncation",
+      "Meanings": [
+        "ضریب برش"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of uncertainty",
+      "Meanings": [
+        "ضریب عدم حتمیت"
+      ]
+    },
+    {
+      "EnglishWord": "coefficient of variation",
+      "Meanings": [
+        "ضریب تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "cogradient estimator",
+      "Meanings": [
+        "برآوردگر هم‌تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "coherence",
+      "Meanings": [
+        "انسجام"
+      ]
+    },
+    {
+      "EnglishWord": "coherent",
+      "Meanings": [
+        "منسجم"
+      ]
+    },
+    {
+      "EnglishWord": "coherent structure theory",
+      "Meanings": [
+        "نظریه ساختار منسجم"
+      ]
+    },
+    {
+      "EnglishWord": "coherent systems",
+      "Meanings": [
+        "دستگاههای منسجم"
+      ]
+    },
+    {
+      "EnglishWord": "cohesion",
+      "Meanings": [
+        "چسبندگی"
+      ]
+    },
+    {
+      "EnglishWord": "cohort",
+      "Meanings": [
+        "هم‌گروه"
+      ]
+    },
+    {
+      "EnglishWord": "cohort analysis",
+      "Meanings": [
+        "تحلیل هم‌گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "co-integrated",
+      "Meanings": [
+        "هم‌جمع‌بسته"
+      ]
+    },
+    {
+      "EnglishWord": "co-integrating",
+      "Meanings": [
+        "هم‌جمعنده"
+      ]
+    },
+    {
+      "EnglishWord": "co-integration",
+      "Meanings": [
+        "هم‌جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "collection",
+      "Meanings": [
+        "گردآوری",
+        "گردایه"
+      ]
+    },
+    {
+      "EnglishWord": "collective risk theory",
+      "Meanings": [
+        "نظریه مخاطره دسته‌جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "collinearity",
+      "Meanings": [
+        "همخطی"
+      ]
+    },
+    {
+      "EnglishWord": "colton's model",
+      "Meanings": [
+        "مدل کالتون"
+      ]
+    },
+    {
+      "EnglishWord": "column rank",
+      "Meanings": [
+        "رتبه ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "column space",
+      "Meanings": [
+        "فضای ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "column vector",
+      "Meanings": [
+        "بردار ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "combination",
+      "Meanings": [
+        "ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "combination of data",
+      "Meanings": [
+        "ترکیب داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "combination of forecasts",
+      "Meanings": [
+        "ترکیب پیش‌بینیها"
+      ]
+    },
+    {
+      "EnglishWord": "combination with repetition",
+      "Meanings": [
+        "ترکیب با تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "combinational circuit",
+      "Meanings": [
+        "مدار ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "combinatorial analysis",
+      "Meanings": [
+        "آنالیز ترکیبیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "combinatorial theory",
+      "Meanings": [
+        "نظریه ترکیبیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "combinatorics",
+      "Meanings": [
+        "ترکیبیات"
+      ]
+    },
+    {
+      "EnglishWord": "combining tests and p-values",
+      "Meanings": [
+        "ترکیب آزمونها و P",
+        "مقدارها"
+      ]
+    },
+    {
+      "EnglishWord": "committee",
+      "Meanings": [
+        "کمیته"
+      ]
+    },
+    {
+      "EnglishWord": "common difference",
+      "Meanings": [
+        "تفاضل مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "common factors",
+      "Meanings": [
+        "عاملهای مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "commonality",
+      "Meanings": [
+        "مشترکات"
+      ]
+    },
+    {
+      "EnglishWord": "commonality analysis",
+      "Meanings": [
+        "تحلیل مشترکات"
+      ]
+    },
+    {
+      "EnglishWord": "communality",
+      "Meanings": [
+        "همه‌داشت"
+      ]
+    },
+    {
+      "EnglishWord": "comonotone",
+      "Meanings": [
+        "هم‌یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "comonotonicity",
+      "Meanings": [
+        "هم‌یکنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "compact derivative",
+      "Meanings": [
+        "مشتق فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "comparison",
+      "Meanings": [
+        "مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison test",
+      "Meanings": [
+        "آزمون مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison theorem",
+      "Meanings": [
+        "قضیه مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison with a control",
+      "Meanings": [
+        "مقایسه با شاهد"
+      ]
+    },
+    {
+      "EnglishWord": "compartment",
+      "Meanings": [
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "complementary event",
+      "Meanings": [
+        "پیشامد مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complementary set",
+      "Meanings": [
+        "مجموعه مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complementary subspace",
+      "Meanings": [
+        "زیرفضای مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complementation law",
+      "Meanings": [
+        "قانون تکمیل"
+      ]
+    },
+    {
+      "EnglishWord": "complemented lattice",
+      "Meanings": [
+        "مشبکه تکمیل شده"
+      ]
+    },
+    {
+      "EnglishWord": "complete additivity",
+      "Meanings": [
+        "جمعی بودن کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete block design",
+      "Meanings": [
+        "طرح بلوکهای کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete lattice",
+      "Meanings": [
+        "مشبکه کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete metric space",
+      "Meanings": [
+        "فضای متریک کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete solution",
+      "Meanings": [
+        "جواب کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete statistic",
+      "Meanings": [
+        "آماره کامل"
+      ]
+    },
+    {
+      "EnglishWord": "completely additive measure",
+      "Meanings": [
+        "اندازه کاملا جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "completely normal space",
+      "Meanings": [
+        "فضای کاملا نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "completeness",
+      "Meanings": [
+        "کامل بودن"
+      ]
+    },
+    {
+      "EnglishWord": "complex conjugate",
+      "Meanings": [
+        "مزدوج مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "complex coordinates",
+      "Meanings": [
+        "مختصات مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "complex function",
+      "Meanings": [
+        "تابع مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "complex hilbert space",
+      "Meanings": [
+        "فضای هیلبرت مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "complex variable",
+      "Meanings": [
+        "متغیر مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "complexity",
+      "Meanings": [
+        "پیچیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "compliance",
+      "Meanings": [
+        "تمکین"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "مولفه"
+      ]
+    },
+    {
+      "EnglishWord": "component analysis",
+      "Meanings": [
+        "تحلیل مولفه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "component of a matrix",
+      "Meanings": [
+        "مولفه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "component of a vector",
+      "Meanings": [
+        "مولفه بردار"
+      ]
+    },
+    {
+      "EnglishWord": "components of variance  variance components",
+      "Meanings": [
+        "مولفه‌های واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "composite design",
+      "Meanings": [
+        "طرح مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "composite function",
+      "Meanings": [
+        "تابع مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "composite hypothesis",
+      "Meanings": [
+        "فرض مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compositional data",
+      "Meanings": [
+        "داده‌‌های ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "compound distribution",
+      "Meanings": [
+        "توزیع مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound matrix",
+      "Meanings": [
+        "ماتریس مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "compound measure",
+      "Meanings": [
+        "اندازه مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "computable function",
+      "Meanings": [
+        "تابع محاسبه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "computation",
+      "Meanings": [
+        "محاسبه"
+      ]
+    },
+    {
+      "EnglishWord": "computational linear algebra",
+      "Meanings": [
+        "جبر خطی محاسباتی"
+      ]
+    },
+    {
+      "EnglishWord": "computer",
+      "Meanings": [
+        "رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer aided graphical representation",
+      "Meanings": [
+        "نمایش نموداری رایانه‌یار"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted telephone survey",
+      "Meanings": [
+        "آمارگیری تلفنی رایانه‌یار"
+      ]
+    },
+    {
+      "EnglishWord": "computer generated random variable",
+      "Meanings": [
+        "متغیر تصادفی تولید شده رایانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "computer generation",
+      "Meanings": [
+        "تولید رایانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "computer generation of random variable",
+      "Meanings": [
+        "تولید رایانه‌ای متغیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "computer-intensive statistical method",
+      "Meanings": [
+        "روش آماری رایانه‌بر"
+      ]
+    },
+    {
+      "EnglishWord": "concave downward",
+      "Meanings": [
+        "کاو به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "concave function",
+      "Meanings": [
+        "تابع کاو"
+      ]
+    },
+    {
+      "EnglishWord": "concave upward",
+      "Meanings": [
+        "کاو به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "concavity",
+      "Meanings": [
+        "کاوی"
+      ]
+    },
+    {
+      "EnglishWord": "concentration curve",
+      "Meanings": [
+        "خم تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "concentration index",
+      "Meanings": [
+        "شاخص تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "concentration ratio",
+      "Meanings": [
+        "نسبت تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "concomitant variable",
+      "Meanings": [
+        "متغیر همراه"
+      ]
+    },
+    {
+      "EnglishWord": "concordance",
+      "Meanings": [
+        "هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "concordant",
+      "Meanings": [
+        "هماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "condition",
+      "Meanings": [
+        "شرط"
+      ]
+    },
+    {
+      "EnglishWord": "conditional convergence",
+      "Meanings": [
+        "همگرایی شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional distribution",
+      "Meanings": [
+        "توزیع شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional expectation",
+      "Meanings": [
+        "امید ریاضی شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional frequency",
+      "Meanings": [
+        "فراوانی شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional independence",
+      "Meanings": [
+        "استقلال شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional inequality",
+      "Meanings": [
+        "نابرابری شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional inference",
+      "Meanings": [
+        "استنباط شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional inverse of a matrix",
+      "Meanings": [
+        "وارون شرطی ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "conditional mean",
+      "Meanings": [
+        "میانگین شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional observation",
+      "Meanings": [
+        "مشاهده شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditional probability",
+      "Meanings": [
+        "احتمال شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "conditionality",
+      "Meanings": [
+        "شرط‌مندی"
+      ]
+    },
+    {
+      "EnglishWord": "conditionality principle",
+      "Meanings": [
+        "اصل شرط‌مندی"
+      ]
+    },
+    {
+      "EnglishWord": "conditionally convergent series",
+      "Meanings": [
+        "سری شرطی‌همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "conditioning diagnostics",
+      "Meanings": [
+        "مباحث تشخیصی شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "confidence",
+      "Meanings": [
+        "اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence band",
+      "Meanings": [
+        "نوار اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence belt",
+      "Meanings": [
+        "کمربند اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence coefficient",
+      "Meanings": [
+        "ضریب اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence interval",
+      "Meanings": [
+        "بازه اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence interval for variance component",
+      "Meanings": [
+        "بازه اطمینان برای مولفه واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "confidence level",
+      "Meanings": [
+        "سطح اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence limits",
+      "Meanings": [
+        "حدهای اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidence region",
+      "Meanings": [
+        "ناحیه اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "confidentiality",
+      "Meanings": [
+        "محرمانه بودن"
+      ]
+    },
+    {
+      "EnglishWord": "configural polysampling",
+      "Meanings": [
+        "چندنمونه‌گیری پیکری"
+      ]
+    },
+    {
+      "EnglishWord": "configuration",
+      "Meanings": [
+        "پیکربندی"
+      ]
+    },
+    {
+      "EnglishWord": "confirmatory data analysis",
+      "Meanings": [
+        "تحلیل تاییدی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "confluence",
+      "Meanings": [
+        "همشار"
+      ]
+    },
+    {
+      "EnglishWord": "confluence analysis",
+      "Meanings": [
+        "تحلیل همشار"
+      ]
+    },
+    {
+      "EnglishWord": "confluent hypergeometric function",
+      "Meanings": [
+        "تابع فوق‌هندسی همشار"
+      ]
+    },
+    {
+      "EnglishWord": "conformity principles",
+      "Meanings": [
+        "اصول همگونی"
+      ]
+    },
+    {
+      "EnglishWord": "confounding",
+      "Meanings": [
+        "اختلاط"
+      ]
+    },
+    {
+      "EnglishWord": "confusion matrix",
+      "Meanings": [
+        "ماتریس درهم‌ریختگی"
+      ]
+    },
+    {
+      "EnglishWord": "congestion theory",
+      "Meanings": [
+        "نظریه تراکم"
+      ]
+    },
+    {
+      "EnglishWord": "conjecture",
+      "Meanings": [
+        "حدس"
+      ]
+    },
+    {
+      "EnglishWord": "conjoint",
+      "Meanings": [
+        "هم‌پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "conjoint analysis",
+      "Meanings": [
+        "تحلیل هم‌پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "conjugate family of distribution",
+      "Meanings": [
+        "خانواده مزدوج توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "conjugate ranking",
+      "Meanings": [
+        "رتبه‌بندی مزدوج"
+      ]
+    },
+    {
+      "EnglishWord": "conjunctive normal form",
+      "Meanings": [
+        "صورت نرمال عطفی"
+      ]
+    },
+    {
+      "EnglishWord": "connected",
+      "Meanings": [
+        "همبند"
+      ]
+    },
+    {
+      "EnglishWord": "consensual matrix",
+      "Meanings": [
+        "ماتریس هم‌رایی"
+      ]
+    },
+    {
+      "EnglishWord": "consent design",
+      "Meanings": [
+        "طرح رضایت"
+      ]
+    },
+    {
+      "EnglishWord": "conservative confidence procedure",
+      "Meanings": [
+        "شیوه اطمینان محافظه‌کار"
+      ]
+    },
+    {
+      "EnglishWord": "conservative process",
+      "Meanings": [
+        "فرایند محافظه‌کار"
+      ]
+    },
+    {
+      "EnglishWord": "conservative test",
+      "Meanings": [
+        "آزمون محافظه‌کار"
+      ]
+    },
+    {
+      "EnglishWord": "consistency",
+      "Meanings": [
+        "سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "consistency condition",
+      "Meanings": [
+        "شرط سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "consistency proof",
+      "Meanings": [
+        "برهان سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "consistent",
+      "Meanings": [
+        "سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "consistent equations",
+      "Meanings": [
+        "معادله‌های سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "consistent estimate",
+      "Meanings": [
+        "برآورد سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "consistent estimator",
+      "Meanings": [
+        "برآوردگر سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "consistent test",
+      "Meanings": [
+        "آزمون سازگار"
+      ]
+    },
+    {
+      "EnglishWord": "consonance",
+      "Meanings": [
+        "هماوایی"
+      ]
+    },
+    {
+      "EnglishWord": "consonance interval",
+      "Meanings": [
+        "بازه هماوایی"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constrained randomization  restricted randomization",
+      "Meanings": [
+        "تصادفیدن مقید"
+      ]
+    },
+    {
+      "EnglishWord": "constraint  restriction",
+      "Meanings": [
+        "قید"
+      ]
+    },
+    {
+      "EnglishWord": "consumer price index",
+      "Meanings": [
+        "شاخص بهای مصرف‌کننده"
+      ]
+    },
+    {
+      "EnglishWord": "consumer's risk",
+      "Meanings": [
+        "مخاطره مصرف‌کننده"
+      ]
+    },
+    {
+      "EnglishWord": "contagious distributions",
+      "Meanings": [
+        "توزیعهای واگیر"
+      ]
+    },
+    {
+      "EnglishWord": "contiguity",
+      "Meanings": [
+        "مجاورت"
+      ]
+    },
+    {
+      "EnglishWord": "contingency table",
+      "Meanings": [
+        "جدول پیشایندی"
+      ]
+    },
+    {
+      "EnglishWord": "continuity",
+      "Meanings": [
+        "پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "continuity equation",
+      "Meanings": [
+        "معادله پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "continuity principle",
+      "Meanings": [
+        "اصل پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "continuity theorem",
+      "Meanings": [
+        "قضیه پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "continuous distribution",
+      "Meanings": [
+        "توزیع پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous function",
+      "Meanings": [
+        "تابع پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous random variable",
+      "Meanings": [
+        "متغیر تصادفی پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous sampling plans",
+      "Meanings": [
+        "طرحهای نمونه‌گیری مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "contour",
+      "Meanings": [
+        "تراز"
+      ]
+    },
+    {
+      "EnglishWord": "contour of constent density",
+      "Meanings": [
+        "تراز ثابت‌چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "contrast",
+      "Meanings": [
+        "مقایسه مقید"
+      ]
+    },
+    {
+      "EnglishWord": "contrast analysis",
+      "Meanings": [
+        "تحلیل مقایسه‌های مقید"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "شاهد",
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control chart",
+      "Meanings": [
+        "نمودار کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control function",
+      "Meanings": [
+        "تابع کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control theory",
+      "Meanings": [
+        "نظریه کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "convergence",
+      "Meanings": [
+        "همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "convergence criterion",
+      "Meanings": [
+        "ملاک همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "convergence domain",
+      "Meanings": [
+        "حوزه همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "convergence in distribution  convergence in law",
+      "Meanings": [
+        "همگرایی در توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "convergence in measure",
+      "Meanings": [
+        "همگرایی در اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "convergence in probability",
+      "Meanings": [
+        "همگرایی در احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "convergence in rth mean",
+      "Meanings": [
+        "همگرایی در میانگین rام"
+      ]
+    },
+    {
+      "EnglishWord": "convergence in the mean of order p",
+      "Meanings": [
+        "همگرایی در میانگین مرتبه p"
+      ]
+    },
+    {
+      "EnglishWord": "convergence of a sequence",
+      "Meanings": [
+        "همگرایی دنباله"
+      ]
+    },
+    {
+      "EnglishWord": "convergence of a series",
+      "Meanings": [
+        "همگرایی سری"
+      ]
+    },
+    {
+      "EnglishWord": "convergence of distributions",
+      "Meanings": [
+        "همگرایی توزیعها"
+      ]
+    },
+    {
+      "EnglishWord": "convergence of sequence of random variables",
+      "Meanings": [
+        "همگرایی دنباله متغیرهای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "convex",
+      "Meanings": [
+        "محدب",
+        "کوژ"
+      ]
+    },
+    {
+      "EnglishWord": "convex function",
+      "Meanings": [
+        "تابع کوژ"
+      ]
+    },
+    {
+      "EnglishWord": "convex linear combination",
+      "Meanings": [
+        "ترکیب خطی کوژ"
+      ]
+    },
+    {
+      "EnglishWord": "convexity",
+      "Meanings": [
+        "کوژی"
+      ]
+    },
+    {
+      "EnglishWord": "convolution",
+      "Meanings": [
+        "پیچش"
+      ]
+    },
+    {
+      "EnglishWord": "coordinates",
+      "Meanings": [
+        "مختصات"
+      ]
+    },
+    {
+      "EnglishWord": "cophenetic matrix",
+      "Meanings": [
+        "ماتریس کوفنه‌تیک"
+      ]
+    },
+    {
+      "EnglishWord": "copula",
+      "Meanings": [
+        "مفصل"
+      ]
+    },
+    {
+      "EnglishWord": "cornfield's lemma",
+      "Meanings": [
+        "لم کورن‌فیلد"
+      ]
+    },
+    {
+      "EnglishWord": "cornish-fisher and edgeworth expansions",
+      "Meanings": [
+        "بسطهای کورنیش",
+        "فیشر و اج‌وورث"
+      ]
+    },
+    {
+      "EnglishWord": "correction for grouping",
+      "Meanings": [
+        "تصحیح گروه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "correction of continuity",
+      "Meanings": [
+        "تصحیح پیوستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlated",
+      "Meanings": [
+        "همبسته"
+      ]
+    },
+    {
+      "EnglishWord": "correlation",
+      "Meanings": [
+        "همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation curve",
+      "Meanings": [
+        "خم همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation measurement",
+      "Meanings": [
+        "اندازه‌گیری همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlation ratio",
+      "Meanings": [
+        "نسبت همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "correlogram",
+      "Meanings": [
+        "همبستگی‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "correspondence analysis",
+      "Meanings": [
+        "تحلیل تناظر"
+      ]
+    },
+    {
+      "EnglishWord": "count",
+      "Meanings": [
+        "شمار"
+      ]
+    },
+    {
+      "EnglishWord": "count data",
+      "Meanings": [
+        "داده‌‌های شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "countability",
+      "Meanings": [
+        "شمارش‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "countability axiom",
+      "Meanings": [
+        "اصل موضوع شمارش‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "countable",
+      "Meanings": [
+        "شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "countable additivity",
+      "Meanings": [
+        "شماراجمعی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "countable set",
+      "Meanings": [
+        "مجموعه شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "counter",
+      "Meanings": [
+        "شمارنده"
+      ]
+    },
+    {
+      "EnglishWord": "counting process",
+      "Meanings": [
+        "فرایند شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "covariance",
+      "Meanings": [
+        "کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "coverage",
+      "Meanings": [
+        "پوشانش"
+      ]
+    },
+    {
+      "EnglishWord": "coverage problem",
+      "Meanings": [
+        "مسیله پوشانش"
+      ]
+    },
+    {
+      "EnglishWord": "coverage process",
+      "Meanings": [
+        "فرایند پوشانش"
+      ]
+    },
+    {
+      "EnglishWord": "covering",
+      "Meanings": [
+        "پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "cover's consistent estimate of proportion",
+      "Meanings": [
+        "برآورد سازگار کاور برای نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "cox's regression model",
+      "Meanings": [
+        "مدل رگرسیونی کاکس"
+      ]
+    },
+    {
+      "EnglishWord": "cox's test of randomness",
+      "Meanings": [
+        "آزمون کاکس برای تصادفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "cramer rule",
+      "Meanings": [
+        "قاعده کرامر"
+      ]
+    },
+    {
+      "EnglishWord": "cramer-rao inequality",
+      "Meanings": [
+        "نابرابری کرامر",
+        "رایو"
+      ]
+    },
+    {
+      "EnglishWord": "cramer-rao lower bound",
+      "Meanings": [
+        "کران پایین کرامر",
+        "رایو"
+      ]
+    },
+    {
+      "EnglishWord": "cramer's series",
+      "Meanings": [
+        "سری کرامر"
+      ]
+    },
+    {
+      "EnglishWord": "cramer-von mises statistic",
+      "Meanings": [
+        "آماره کرامر",
+        "فون میزس"
+      ]
+    },
+    {
+      "EnglishWord": "crause and lemmer dispersion test",
+      "Meanings": [
+        "آزمون پراکندگی کراوز و له‌مر"
+      ]
+    },
+    {
+      "EnglishWord": "credal probability",
+      "Meanings": [
+        "احتمال باوری"
+      ]
+    },
+    {
+      "EnglishWord": "credibility",
+      "Meanings": [
+        "باورمندی"
+      ]
+    },
+    {
+      "EnglishWord": "cressie-read statistic",
+      "Meanings": [
+        "آماره کرسی",
+        "رید"
+      ]
+    },
+    {
+      "EnglishWord": "crisscross design",
+      "Meanings": [
+        "طرح چلیپایی"
+      ]
+    },
+    {
+      "EnglishWord": "criterion",
+      "Meanings": [
+        "ملاک"
+      ]
+    },
+    {
+      "EnglishWord": "critical",
+      "Meanings": [
+        "بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical determinant",
+      "Meanings": [
+        "دترمینان بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical path",
+      "Meanings": [
+        "مسیر بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical point",
+      "Meanings": [
+        "نقطه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical ratio",
+      "Meanings": [
+        "نسبت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical region",
+      "Meanings": [
+        "ناحیه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical value",
+      "Meanings": [
+        "مقدار بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "criticality",
+      "Meanings": [
+        "وضع بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "criticality theorem",
+      "Meanings": [
+        "قضیه وضع بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "cromwell's rule",
+      "Meanings": [
+        "قاعده کرام‌ول"
+      ]
+    },
+    {
+      "EnglishWord": "cronbach alpha",
+      "Meanings": [
+        "آلفا alpha ی کرونباخ"
+      ]
+    },
+    {
+      "EnglishWord": "cross dating",
+      "Meanings": [
+        "سالیابی تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "cross validation",
+      "Meanings": [
+        "اعتبارسنجی متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "crossed-error",
+      "Meanings": [
+        "خطای متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crossing",
+      "Meanings": [
+        "گذر"
+      ]
+    },
+    {
+      "EnglishWord": "crossing  intersect",
+      "Meanings": [
+        "تقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crossing in design",
+      "Meanings": [
+        "تقاطع در طرح"
+      ]
+    },
+    {
+      "EnglishWord": "crossover",
+      "Meanings": [
+        "تعویضی",
+        "متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crossover design",
+      "Meanings": [
+        "طرح متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "crossover trial",
+      "Meanings": [
+        "آزمایه متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross-product ratio",
+      "Meanings": [
+        "نسبت حاصلضرب متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross-sectional data",
+      "Meanings": [
+        "داده‌‌های مقطعی"
+      ]
+    },
+    {
+      "EnglishWord": "crude moment",
+      "Meanings": [
+        "گشتاور خام"
+      ]
+    },
+    {
+      "EnglishWord": "crude sum of squares",
+      "Meanings": [
+        "مجموع توانهای دوم خام"
+      ]
+    },
+    {
+      "EnglishWord": "crystallography",
+      "Meanings": [
+        "بلورنگاری"
+      ]
+    },
+    {
+      "EnglishWord": "cube",
+      "Meanings": [
+        "مکعب"
+      ]
+    },
+    {
+      "EnglishWord": "cube law",
+      "Meanings": [
+        "قانون مکعبی"
+      ]
+    },
+    {
+      "EnglishWord": "cube-root",
+      "Meanings": [
+        "ریشه سوم"
+      ]
+    },
+    {
+      "EnglishWord": "cube-root test of homogeneity",
+      "Meanings": [
+        "آزمون ریشه سوم برای همگنی"
+      ]
+    },
+    {
+      "EnglishWord": "cubic curve",
+      "Meanings": [
+        "خم درجه سوم"
+      ]
+    },
+    {
+      "EnglishWord": "cubic effect",
+      "Meanings": [
+        "اثر درجه سوم"
+      ]
+    },
+    {
+      "EnglishWord": "cubic equation",
+      "Meanings": [
+        "معادله درجه سوم"
+      ]
+    },
+    {
+      "EnglishWord": "cumulant",
+      "Meanings": [
+        "انباشتک"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative damage model",
+      "Meanings": [
+        "مدل صدمه تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative distribution",
+      "Meanings": [
+        "توزیع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative distribution function",
+      "Meanings": [
+        "تابع توزیع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative frequency curve",
+      "Meanings": [
+        "خم فراوانی تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative frequency function",
+      "Meanings": [
+        "تابع فراوانی تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative function",
+      "Meanings": [
+        "تابع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative normal distribution",
+      "Meanings": [
+        "توزیع نرمال تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative probability function",
+      "Meanings": [
+        "تابع احتمال تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cumulative sum control chart",
+      "Meanings": [
+        "نمودار کنترل مجموع تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "cup-shaped hazard function",
+      "Meanings": [
+        "تابع خطر cup شکل"
+      ]
+    },
+    {
+      "EnglishWord": "current population survey",
+      "Meanings": [
+        "آمارگیری جمعیت جاری"
+      ]
+    },
+    {
+      "EnglishWord": "curse of dimensionality",
+      "Meanings": [
+        "مشقت بعدچندی"
+      ]
+    },
+    {
+      "EnglishWord": "curtailed",
+      "Meanings": [
+        "کوتاه شده"
+      ]
+    },
+    {
+      "EnglishWord": "curtailment",
+      "Meanings": [
+        "کوتاه‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "curvature",
+      "Meanings": [
+        "خمیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "curve",
+      "Meanings": [
+        "خم",
+        "منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "curve fitting",
+      "Meanings": [
+        "خم‌برازانی"
+      ]
+    },
+    {
+      "EnglishWord": "curved exponential family",
+      "Meanings": [
+        "خانواده نمایی خمیده"
+      ]
+    },
+    {
+      "EnglishWord": "cut-off sampling",
+      "Meanings": [
+        "نمونه گیری برینشی"
+      ]
+    },
+    {
+      "EnglishWord": "cut-set",
+      "Meanings": [
+        "مجموعه گسلش"
+      ]
+    },
+    {
+      "EnglishWord": "cybernetics",
+      "Meanings": [
+        "علم سیبرنتیک"
+      ]
+    },
+    {
+      "EnglishWord": "cycles",
+      "Meanings": [
+        "چرخه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic",
+      "Meanings": [
+        "دوری"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic design",
+      "Meanings": [
+        "طرح دوری"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic sampling",
+      "Meanings": [
+        "نمونه گیری دوری"
+      ]
+    },
+    {
+      "EnglishWord": "cylinder",
+      "Meanings": [
+        "استوانه"
+      ]
+    }
+  ]
+}

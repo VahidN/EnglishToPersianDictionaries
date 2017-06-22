@@ -1,0 +1,5329 @@
+﻿{
+  "Group": "D",
+  "Entries": 759,
+  "Words": [
+    {
+      "EnglishWord": "d'agostino test of normality",
+      "Meanings": [
+        "آزمون داگوستینو برای نرمال‌بودن"
+      ]
+    },
+    {
+      "EnglishWord": "d'alambert's ratio",
+      "Meanings": [
+        "نسبت دالامبر"
+      ]
+    },
+    {
+      "EnglishWord": "dam theory",
+      "Meanings": [
+        "نظریه سد"
+      ]
+    },
+    {
+      "EnglishWord": "damage function",
+      "Meanings": [
+        "تابع صدمه"
+      ]
+    },
+    {
+      "EnglishWord": "damage model",
+      "Meanings": [
+        "مدل صدمه"
+      ]
+    },
+    {
+      "EnglishWord": "damped",
+      "Meanings": [
+        "میرا",
+        "مستهلک شونده"
+      ]
+    },
+    {
+      "EnglishWord": "damped motion",
+      "Meanings": [
+        "حرکت میرا",
+        "حرکت مستهلک شونده"
+      ]
+    },
+    {
+      "EnglishWord": "damped vibration",
+      "Meanings": [
+        "نوسان میرا",
+        "ارتعاش میرا"
+      ]
+    },
+    {
+      "EnglishWord": "damping",
+      "Meanings": [
+        "میرا",
+        "میراننده",
+        "میرایی"
+      ]
+    },
+    {
+      "EnglishWord": "damping factor",
+      "Meanings": [
+        "عامل میراننده",
+        "ضریب میرایی"
+      ]
+    },
+    {
+      "EnglishWord": "damping motion",
+      "Meanings": [
+        "حرکت میرا"
+      ]
+    },
+    {
+      "EnglishWord": "dandekar  v.m.  continuity correction",
+      "Meanings": [
+        "تصحیح پیوستگی دنده‌کار وی. ام"
+      ]
+    },
+    {
+      "EnglishWord": "dandelin spheres",
+      "Meanings": [
+        "کره‌های دندلین"
+      ]
+    },
+    {
+      "EnglishWord": "daniell-kolmogorov theorem",
+      "Meanings": [
+        "قضیه دانی‌یل",
+        "کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "daniels' formula for normal extermes",
+      "Meanings": [
+        "فرمول دانی‌یلز برای کرانگین‌های نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "darmois-koopman family",
+      "Meanings": [
+        "خانواده دارموآ",
+        "کوپمن"
+      ]
+    },
+    {
+      "EnglishWord": "darmois-skitovich theorem",
+      "Meanings": [
+        "قضیه دارموآ",
+        "اسکیتوویچ"
+      ]
+    },
+    {
+      "EnglishWord": "dash",
+      "Meanings": [
+        "خط تیره",
+        "خط فاصله",
+        "کشه"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده",
+        "معلومات مساله",
+        "این کلمه صورت جمع کلمه datum است"
+      ]
+    },
+    {
+      "EnglishWord": "data adjusting",
+      "Meanings": [
+        "تعدیل داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data augmentation",
+      "Meanings": [
+        "داده‌افزایی"
+      ]
+    },
+    {
+      "EnglishWord": "data collection",
+      "Meanings": [
+        "گردآوری داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data driven",
+      "Meanings": [
+        "داده رهنمون"
+      ]
+    },
+    {
+      "EnglishWord": "data exploration",
+      "Meanings": [
+        "کاوشگری داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data grouped",
+      "Meanings": [
+        "داده‌های گروه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "data imputation",
+      "Meanings": [
+        "جانهی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data mining",
+      "Meanings": [
+        "داده کاوی"
+      ]
+    },
+    {
+      "EnglishWord": "data processing",
+      "Meanings": [
+        "پردازش داده ها",
+        "داده پردازی",
+        "داده آمایی"
+      ]
+    },
+    {
+      "EnglishWord": "data reduction",
+      "Meanings": [
+        "فروکاهی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "data table",
+      "Meanings": [
+        "جدول داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data-instigated hypotheses",
+      "Meanings": [
+        "فرض‌های داده برانگیخته"
+      ]
+    },
+    {
+      "EnglishWord": "dating",
+      "Meanings": [
+        "تاریخ‌گذاری",
+        "سال‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "datum",
+      "Meanings": [
+        "داده‌ها",
+        "معلومات مساله",
+        "این کلمه",
+        "صورت مفرد کلمه data است"
+      ]
+    },
+    {
+      "EnglishWord": "david hilbert",
+      "Meanings": [
+        "دیوید هیلبرت",
+        "ریاضیدان آلمانی",
+        ". او به پیشبرد نظریه اعداد کمک کرد. از معادلات انتگرال برای حل مسایل فیزیک استفاده کرد"
+      ]
+    },
+    {
+      "EnglishWord": "david pearson and hartley's test for outliers",
+      "Meanings": [
+        "آزمون دیوید",
+        "پی‌یرسون",
+        "و هارتلی برای نقاط دورافتاده دامنه استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "david pearson and hartley's test for outliers  studentized range",
+      "Meanings": [
+        "آزمون دیوید",
+        "پی‌یرسون",
+        "و هارتلی برای نقاط دورافتاده دامنه استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre formula",
+      "Meanings": [
+        "فرمول دموآور"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre laplace integral theorm",
+      "Meanings": [
+        "قضیه انتگرال دوموآور لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre laplace local theorem",
+      "Meanings": [
+        "قضیه دوموآور لاپلاس برای محاسبه تقریبی احتمال‌های آزمایش‌های تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre number",
+      "Meanings": [
+        "عدد دموآور"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre theorem",
+      "Meanings": [
+        "قضیه دوموآور",
+        "دستور دوموآور"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre-laplace theorem",
+      "Meanings": [
+        "قضیه دموآور",
+        "لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "de moivre's formula",
+      "Meanings": [
+        "فرمول دوموآور",
+        "دستور دوموآور"
+      ]
+    },
+    {
+      "EnglishWord": "de morgan law",
+      "Meanings": [
+        "قانون دمورگان"
+      ]
+    },
+    {
+      "EnglishWord": "de morgan's laws",
+      "Meanings": [
+        "قوانین دومورگان"
+      ]
+    },
+    {
+      "EnglishWord": "de morgan's rules",
+      "Meanings": [
+        "قواعد دومورگان"
+      ]
+    },
+    {
+      "EnglishWord": "de morgan's theorems",
+      "Meanings": [
+        "قضایای دومورگان"
+      ]
+    },
+    {
+      "EnglishWord": "dead angle",
+      "Meanings": [
+        "زاویه خفا"
+      ]
+    },
+    {
+      "EnglishWord": "death process",
+      "Meanings": [
+        "فرآیند مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "debye energy function",
+      "Meanings": [
+        "تابع انرژی دبای"
+      ]
+    },
+    {
+      "EnglishWord": "deca",
+      "Meanings": [
+        "ده",
+        "ده برابر"
+      ]
+    },
+    {
+      "EnglishWord": "decade",
+      "Meanings": [
+        "دهه"
+      ]
+    },
+    {
+      "EnglishWord": "decagon",
+      "Meanings": [
+        "ده ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "decagonal",
+      "Meanings": [
+        "ده ضلعی",
+        "دارای ده ضلع",
+        "ده ضلعی گون"
+      ]
+    },
+    {
+      "EnglishWord": "decahedral",
+      "Meanings": [
+        "ده وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "decapitated distribution",
+      "Meanings": [
+        "توزیع سربریده"
+      ]
+    },
+    {
+      "EnglishWord": "decay",
+      "Meanings": [
+        "تباهی",
+        "تباه شدن",
+        "تحلیل رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "decay constant",
+      "Meanings": [
+        "ثابت تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "decelerated",
+      "Meanings": [
+        "کند شونده",
+        "مبطیه"
+      ]
+    },
+    {
+      "EnglishWord": "deceleration",
+      "Meanings": [
+        "کندی",
+        "کند شوندگی",
+        "شتاب منفی"
+      ]
+    },
+    {
+      "EnglishWord": "decent",
+      "Meanings": [
+        "نزول"
+      ]
+    },
+    {
+      "EnglishWord": "decile",
+      "Meanings": [
+        "دهک"
+      ]
+    },
+    {
+      "EnglishWord": "decillion",
+      "Meanings": [
+        "دسیلیون",
+        "این عدد در آمریکا برابر با 10به توان33 و در انگلستان برابر با 10به توان60 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "decimal",
+      "Meanings": [
+        "اعشاری",
+        "دهدهی",
+        "عدد اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal approximation",
+      "Meanings": [
+        "تقریب اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal expansion",
+      "Meanings": [
+        "بسط اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal fraction",
+      "Meanings": [
+        "کسر اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal logarithm",
+      "Meanings": [
+        "لگاریتم اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal notation",
+      "Meanings": [
+        "مرتبه‌های وضعی"
+      ]
+    },
+    {
+      "EnglishWord": "decimal number",
+      "Meanings": [
+        "عدد اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal place",
+      "Meanings": [
+        "مرتبه اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal point",
+      "Meanings": [
+        "ممیز"
+      ]
+    },
+    {
+      "EnglishWord": "decimal representation",
+      "Meanings": [
+        "نمایش اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "decimal system",
+      "Meanings": [
+        "دستگاه اعشاری",
+        "دستگاه دهگانی",
+        "پایه ده"
+      ]
+    },
+    {
+      "EnglishWord": "decimalize",
+      "Meanings": [
+        "اعشاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decipher",
+      "Meanings": [
+        "کشف رمز نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "تصمیم",
+        "داوری"
+      ]
+    },
+    {
+      "EnglishWord": "decision analysis",
+      "Meanings": [
+        "تحلیل تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision function",
+      "Meanings": [
+        "تابع تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision making",
+      "Meanings": [
+        "تصمیم‌گیری",
+        "اخذ تصمیم",
+        "نظریه تصمیم‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision problem",
+      "Meanings": [
+        "مساله قطع منطق",
+        "مساله صدق منطق",
+        "مساله تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision procedure",
+      "Meanings": [
+        "روند تصمیم‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "decision rule",
+      "Meanings": [
+        "قاعده تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision space",
+      "Meanings": [
+        "فضای تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision theory",
+      "Meanings": [
+        "نظریه تصمیم‌گیری",
+        "نظریه تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "deck",
+      "Meanings": [
+        "دست ورق گنجفه"
+      ]
+    },
+    {
+      "EnglishWord": "declarative sentence",
+      "Meanings": [
+        "گزاره منطق"
+      ]
+    },
+    {
+      "EnglishWord": "declination",
+      "Meanings": [
+        "تمایل",
+        "میل",
+        "شیب",
+        "انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "decline",
+      "Meanings": [
+        "کاهش",
+        "تنزل",
+        "نقصان",
+        "سرازیر شدن",
+        "شیب پیدا کردن",
+        "شیب دادن"
+      ]
+    },
+    {
+      "EnglishWord": "decode",
+      "Meanings": [
+        "کشف رمز کردن",
+        "از حالت رمز خارج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "decomposable",
+      "Meanings": [
+        "تجزیه پذیر",
+        "قابل تجزیه",
+        "وانهش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decompose",
+      "Meanings": [
+        "تجزیه کردن",
+        "تجزیه شدن",
+        "وانهادن"
+      ]
+    },
+    {
+      "EnglishWord": "decomposible operator",
+      "Meanings": [
+        "عمل‌گر تجزیه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition",
+      "Meanings": [
+        "تجزیه",
+        "تلاشی",
+        "وانهش",
+        "نام دیگر روش قرض‌گیری در عمل تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition into prime factors",
+      "Meanings": [
+        "تجزیه به عوامل اول"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition of a fraction",
+      "Meanings": [
+        "تجزیه کسر"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition of event into particular events",
+      "Meanings": [
+        "تجزیه حادثه به حوادث خاص"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition of vector",
+      "Meanings": [
+        "تجزیه بردار"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition theorem",
+      "Meanings": [
+        "قضیه تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "decrease",
+      "Meanings": [
+        "نزول کردن",
+        "کاهش یافتن",
+        "تنزل کردن",
+        "کاستن",
+        "کاهش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing",
+      "Meanings": [
+        "نزولی",
+        "کاهشی",
+        "کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing function",
+      "Meanings": [
+        "تابع نزولی",
+        "تابع کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing mapping",
+      "Meanings": [
+        "نگاشت نزولی",
+        "نگاشت کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasing sequence",
+      "Meanings": [
+        "دنباله نزولی",
+        "دنباله کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "decreasingly",
+      "Meanings": [
+        "به طور نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "decrement",
+      "Meanings": [
+        "نزول",
+        "کاهش",
+        "نقصان",
+        "تنزل"
+      ]
+    },
+    {
+      "EnglishWord": "decuple",
+      "Meanings": [
+        "ده برابر",
+        "ده برابر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dedekind",
+      "Meanings": [
+        "ددکیند",
+        "تا 1916 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "dedekind cut",
+      "Meanings": [
+        "برش ددکیند"
+      ]
+    },
+    {
+      "EnglishWord": "dedekind domain",
+      "Meanings": [
+        "حلقه ددکیند"
+      ]
+    },
+    {
+      "EnglishWord": "dedekind's theorem",
+      "Meanings": [
+        "قضیه ددکیند"
+      ]
+    },
+    {
+      "EnglishWord": "deduce",
+      "Meanings": [
+        "استنتاج کردن",
+        "به دست آوردن",
+        "نتیجه گرفتن",
+        "منتج کردن",
+        "برانگیختن"
+      ]
+    },
+    {
+      "EnglishWord": "deduct",
+      "Meanings": [
+        "کسر کردن",
+        "کاستن",
+        "کم کردن",
+        "استنتاج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deduction",
+      "Meanings": [
+        "استنتاج",
+        "قیاس",
+        "استنباط",
+        "استدلال",
+        "انگیزش"
+      ]
+    },
+    {
+      "EnglishWord": "deduction par analogic",
+      "Meanings": [
+        "استنتاج تمثیلی"
+      ]
+    },
+    {
+      "EnglishWord": "deduction theorem",
+      "Meanings": [
+        "قضیه استنتاج منطق"
+      ]
+    },
+    {
+      "EnglishWord": "deductive",
+      "Meanings": [
+        "استنتاجی",
+        "قیاسی",
+        "برانگیزشی"
+      ]
+    },
+    {
+      "EnglishWord": "deductive argument",
+      "Meanings": [
+        "استدلال استنتاجی",
+        "استدلال قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "deductive completeness",
+      "Meanings": [
+        "تمامیت قیاسی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "deductive method",
+      "Meanings": [
+        "روش قیاسی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "deductive reasoning",
+      "Meanings": [
+        "استدلال قیاسی",
+        "استدلال استنتاجی"
+      ]
+    },
+    {
+      "EnglishWord": "deductive science",
+      "Meanings": [
+        "علم قیاسی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "deductive system",
+      "Meanings": [
+        "دستگاه قیاسی منطق",
+        "دستگاه استنتاجی"
+      ]
+    },
+    {
+      "EnglishWord": "deductive theory",
+      "Meanings": [
+        "تیوری قیاسی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "deep",
+      "Meanings": [
+        "ژرف",
+        "عمیق",
+        "گود"
+      ]
+    },
+    {
+      "EnglishWord": "defect",
+      "Meanings": [
+        "نقص",
+        "عیب",
+        "فساد",
+        "نقصان",
+        "کاستی",
+        "معیوب ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "defective",
+      "Meanings": [
+        "ناقص",
+        "ناتمام",
+        "معیوب"
+      ]
+    },
+    {
+      "EnglishWord": "defective equation",
+      "Meanings": [
+        "معادله ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "defective number",
+      "Meanings": [
+        "عدد ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "defectives chart limits",
+      "Meanings": [
+        "حدود معیوب‌ها در کارت"
+      ]
+    },
+    {
+      "EnglishWord": "deficiency",
+      "Meanings": [
+        "ناکارآیی"
+      ]
+    },
+    {
+      "EnglishWord": "deficient",
+      "Meanings": [
+        "ناقص عدد"
+      ]
+    },
+    {
+      "EnglishWord": "deficient number",
+      "Meanings": [
+        "عدد ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "define",
+      "Meanings": [
+        "تعریف کردن",
+        "بیان کردن",
+        "شناساندن"
+      ]
+    },
+    {
+      "EnglishWord": "defined",
+      "Meanings": [
+        "تعریف شده",
+        "معین"
+      ]
+    },
+    {
+      "EnglishWord": "defined everywhere",
+      "Meanings": [
+        "حد معرف منطق",
+        "همه جا تعریف شده"
+      ]
+    },
+    {
+      "EnglishWord": "definiendum",
+      "Meanings": [
+        "معرف منطق"
+      ]
+    },
+    {
+      "EnglishWord": "definiens",
+      "Meanings": [
+        "معرف منطق",
+        "معرف ها"
+      ]
+    },
+    {
+      "EnglishWord": "defining relation",
+      "Meanings": [
+        "رابطه تعریف کننده",
+        "رابطه معرف"
+      ]
+    },
+    {
+      "EnglishWord": "definite",
+      "Meanings": [
+        "معین",
+        "مشخص",
+        "معلوم",
+        "قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "definite description",
+      "Meanings": [
+        "شرح مشخص منطق",
+        "توصیف رسا",
+        "توصیف مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "definite integral",
+      "Meanings": [
+        "انتگرال معین"
+      ]
+    },
+    {
+      "EnglishWord": "definite integration",
+      "Meanings": [
+        "انتگرال گیری معین"
+      ]
+    },
+    {
+      "EnglishWord": "definiteness",
+      "Meanings": [
+        "معین بودن",
+        "صراحت",
+        "قاطعیت",
+        "تصریح"
+      ]
+    },
+    {
+      "EnglishWord": "definition",
+      "Meanings": [
+        "تعریف",
+        "تعیین",
+        "شناسانش"
+      ]
+    },
+    {
+      "EnglishWord": "definition by abstraction",
+      "Meanings": [
+        "تعریف به تجرید",
+        "تعریف به وسیله تجرید"
+      ]
+    },
+    {
+      "EnglishWord": "definition by induction",
+      "Meanings": [
+        "تعریف به استقراء",
+        "تعریف به وسیله استقراء"
+      ]
+    },
+    {
+      "EnglishWord": "definition by recurrence",
+      "Meanings": [
+        "تعریف برگشتی",
+        "تعریف تراجعی",
+        "تعریف به استقراء"
+      ]
+    },
+    {
+      "EnglishWord": "definition of concept",
+      "Meanings": [
+        "تعریف مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "definition of distribution function",
+      "Meanings": [
+        "تعریف تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "definition of event",
+      "Meanings": [
+        "تعریف حادثه",
+        "تعریف پیشامد"
+      ]
+    },
+    {
+      "EnglishWord": "definition of notion",
+      "Meanings": [
+        "تعریف مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "definition of operations of events",
+      "Meanings": [
+        "تعریف عملیات روی حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "definition of probability density function",
+      "Meanings": [
+        "تعریف تابع چگالی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "deflated distribution",
+      "Meanings": [
+        "توزیع کاهیده"
+      ]
+    },
+    {
+      "EnglishWord": "deflation",
+      "Meanings": [
+        "انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "deflect",
+      "Meanings": [
+        "کج شدن",
+        "منحرف شدن",
+        "منحرف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deflection",
+      "Meanings": [
+        "انحراف",
+        "انحنا"
+      ]
+    },
+    {
+      "EnglishWord": "deformability",
+      "Meanings": [
+        "دگردیس پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "deformable",
+      "Meanings": [
+        "دگردیس پذیر",
+        "تغییر پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "deformation",
+      "Meanings": [
+        "دگردیسی",
+        "تغییر شکل"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate",
+      "Meanings": [
+        "تبهگون",
+        "تباهیده",
+        "سوده",
+        "تبه شده",
+        "منحط",
+        "ثابت متغیر تصادفی",
+        "نابود کردن",
+        "منحط شدن",
+        "رو به زوال گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate closed interval",
+      "Meanings": [
+        "بازه بسته تبه شده",
+        "فاصله بسته زوال یافته"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate conic",
+      "Meanings": [
+        "مقطع مخروطی منحط",
+        "مخروط ناسره",
+        "مخروطی ناسره",
+        "مخروطی تبه گون"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate distribution",
+      "Meanings": [
+        "توزیع تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate eigenvalue",
+      "Meanings": [
+        "مقدارویژه تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate matrix",
+      "Meanings": [
+        "ماتریس مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate saddle point",
+      "Meanings": [
+        "نقطه زینی تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate series",
+      "Meanings": [
+        "سری تباهیده"
+      ]
+    },
+    {
+      "EnglishWord": "degenerated",
+      "Meanings": [
+        "زوال یافته",
+        "منحط",
+        "غیراصیل"
+      ]
+    },
+    {
+      "EnglishWord": "degenerated dilatation",
+      "Meanings": [
+        "انبساط ضایع شده"
+      ]
+    },
+    {
+      "EnglishWord": "degree",
+      "Meanings": [
+        "درجه",
+        "رتبه",
+        "مرتبه",
+        "زینه اندازه زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "degree mod. 2",
+      "Meanings": [
+        "درجه به پیمانه"
+      ]
+    },
+    {
+      "EnglishWord": "degree of a curve",
+      "Meanings": [
+        "درجه یک منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of a differential equation",
+      "Meanings": [
+        "مرتبه یک معادله دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "degree of belief",
+      "Meanings": [
+        "درجه اعتقاد",
+        "درجه باور"
+      ]
+    },
+    {
+      "EnglishWord": "degree of censore",
+      "Meanings": [
+        "درجه سانسور"
+      ]
+    },
+    {
+      "EnglishWord": "degree of certainty",
+      "Meanings": [
+        "درجه اعتماد",
+        "درجه اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "degree of certainty of proposition",
+      "Meanings": [
+        "درجه اعتماد گزاره"
+      ]
+    },
+    {
+      "EnglishWord": "degree of confirmation",
+      "Meanings": [
+        "درجه تایید"
+      ]
+    },
+    {
+      "EnglishWord": "degree of contact",
+      "Meanings": [
+        "درجه تماس",
+        "درجه سایش"
+      ]
+    },
+    {
+      "EnglishWord": "degree of freedom",
+      "Meanings": [
+        "درجه آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "degree of permutation",
+      "Meanings": [
+        "درجه تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "degree of proposition likehood",
+      "Meanings": [
+        "درجه درستنمایی گزاره"
+      ]
+    },
+    {
+      "EnglishWord": "degree transcendental",
+      "Meanings": [
+        "درجه متعالی"
+      ]
+    },
+    {
+      "EnglishWord": "degression",
+      "Meanings": [
+        "نزول"
+      ]
+    },
+    {
+      "EnglishWord": "degressive",
+      "Meanings": [
+        "نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "del",
+      "Meanings": [
+        "دل عملگر"
+      ]
+    },
+    {
+      "EnglishWord": "delay",
+      "Meanings": [
+        "درنگ",
+        "تاخیر",
+        "به تاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "delete",
+      "Meanings": [
+        "حذف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "deleted",
+      "Meanings": [
+        "حذف شده",
+        "محذوف",
+        "سفته"
+      ]
+    },
+    {
+      "EnglishWord": "deleted neighborhood",
+      "Meanings": [
+        "همسایگی محذوف",
+        "همسایگی سفته"
+      ]
+    },
+    {
+      "EnglishWord": "deletion",
+      "Meanings": [
+        "حذف"
+      ]
+    },
+    {
+      "EnglishWord": "delimit",
+      "Meanings": [
+        "محدود کردن",
+        "تعیین حدود"
+      ]
+    },
+    {
+      "EnglishWord": "delineation",
+      "Meanings": [
+        "طرح",
+        "توصیف",
+        "تصویر",
+        "نمایش"
+      ]
+    },
+    {
+      "EnglishWord": "delta function",
+      "Meanings": [
+        "تابع دلتا"
+      ]
+    },
+    {
+      "EnglishWord": "delta method",
+      "Meanings": [
+        "روش دلتا"
+      ]
+    },
+    {
+      "EnglishWord": "deltohedron",
+      "Meanings": [
+        "دوازده وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "deltoid",
+      "Meanings": [
+        "سه گوش",
+        "دلتا مانند"
+      ]
+    },
+    {
+      "EnglishWord": "deltoideus",
+      "Meanings": [
+        "دلتا مانند",
+        "سه گوش"
+      ]
+    },
+    {
+      "EnglishWord": "demarcate",
+      "Meanings": [
+        "تعیین حدود کردن",
+        "حد فاصل تعیین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "demography",
+      "Meanings": [
+        "مردم نگاری",
+        "جمعیت‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "demonstrate",
+      "Meanings": [
+        "ثابت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "demonstration",
+      "Meanings": [
+        "برهان",
+        "اثبات",
+        "بازنمود",
+        "نمایش",
+        "تظاهر"
+      ]
+    },
+    {
+      "EnglishWord": "demonstration by contradiction",
+      "Meanings": [
+        "برهان خلف"
+      ]
+    },
+    {
+      "EnglishWord": "demonstrative",
+      "Meanings": [
+        "برهانی",
+        "اثباتی"
+      ]
+    },
+    {
+      "EnglishWord": "demonstrative syllogism",
+      "Meanings": [
+        "قیاس برهانی"
+      ]
+    },
+    {
+      "EnglishWord": "dendrite",
+      "Meanings": [
+        "درخت‌واره"
+      ]
+    },
+    {
+      "EnglishWord": "dendrochronology",
+      "Meanings": [
+        "گاه‌شناسی درخت‌واره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "dendrogram",
+      "Meanings": [
+        "درخت‌واره‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "denial",
+      "Meanings": [
+        "خلف",
+        "رد",
+        "انکار",
+        "ضد یک حکم",
+        "نفی",
+        "تکذیب",
+        "نقیض",
+        "سالبه کردن یک حکم منطق"
+      ]
+    },
+    {
+      "EnglishWord": "denial of the antecedent",
+      "Meanings": [
+        "رد مقدم منطق"
+      ]
+    },
+    {
+      "EnglishWord": "denominate",
+      "Meanings": [
+        "مقید عدد"
+      ]
+    },
+    {
+      "EnglishWord": "denomination",
+      "Meanings": [
+        "قید"
+      ]
+    },
+    {
+      "EnglishWord": "denominator",
+      "Meanings": [
+        "مخرج کسر",
+        "مخرج",
+        "برخه نام",
+        "نامان"
+      ]
+    },
+    {
+      "EnglishWord": "denominator of a progression",
+      "Meanings": [
+        "قدر نسبت تصاعد"
+      ]
+    },
+    {
+      "EnglishWord": "denote",
+      "Meanings": [
+        "نشان دادن",
+        "نمایش دادن",
+        "علامت گذاری",
+        "نشان کردن",
+        "نمایاندن",
+        "علامت گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "dense",
+      "Meanings": [
+        "چگال",
+        "متراکم",
+        "سنگین",
+        "فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "dense set",
+      "Meanings": [
+        "مجموعه متراکم",
+        "مجموعه چگال",
+        "مجموعه فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "dense subset",
+      "Meanings": [
+        "زیر مجموعه چگال",
+        "زیر مجموعه متراکم"
+      ]
+    },
+    {
+      "EnglishWord": "density",
+      "Meanings": [
+        "چگالی",
+        "تراکم",
+        "فشردگی"
+      ]
+    },
+    {
+      "EnglishWord": "density estimation",
+      "Meanings": [
+        "برآورد چگالی",
+        "تخمین چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "density function",
+      "Meanings": [
+        "تابع فراوانی",
+        "تابع چگالی",
+        "تابع دانسیته"
+      ]
+    },
+    {
+      "EnglishWord": "density function of multidimensional random variable",
+      "Meanings": [
+        "تابع چگالی کمیت تصادفی چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "density function of random variable",
+      "Meanings": [
+        "تابع چگالی کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "density of probability distribution",
+      "Meanings": [
+        "چگالی بخش احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "density plot",
+      "Meanings": [
+        "نمودار چگال"
+      ]
+    },
+    {
+      "EnglishWord": "density property",
+      "Meanings": [
+        "خاصیت چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "denticulate",
+      "Meanings": [
+        "دندانه دار",
+        "کنگره دار",
+        "مضرس"
+      ]
+    },
+    {
+      "EnglishWord": "denumerable",
+      "Meanings": [
+        "شمارای نامتناهی",
+        "شمارا",
+        "قابل شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "denumerable set",
+      "Meanings": [
+        "مجموعه شمارا",
+        "مجموعه قابل شمارش",
+        "مجموعه شمارای نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "denumerably infinite",
+      "Meanings": [
+        "شمارا"
+      ]
+    },
+    {
+      "EnglishWord": "denumerate",
+      "Meanings": [
+        "شمردن"
+      ]
+    },
+    {
+      "EnglishWord": "denumeration",
+      "Meanings": [
+        "شمارش"
+      ]
+    },
+    {
+      "EnglishWord": "departure",
+      "Meanings": [
+        "فاصله مداری"
+      ]
+    },
+    {
+      "EnglishWord": "depend",
+      "Meanings": [
+        "وابسته بودن",
+        "بستگی داشتن",
+        "مربوط بودن",
+        "مستقل نبودن"
+      ]
+    },
+    {
+      "EnglishWord": "dependence",
+      "Meanings": [
+        "وابستگی",
+        "تبعیت",
+        "ارتباط",
+        "بستگی",
+        "عدم استقلال"
+      ]
+    },
+    {
+      "EnglishWord": "dependence intensity",
+      "Meanings": [
+        "شدت وابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "dependence measure of intensity",
+      "Meanings": [
+        "اندازه شدت وابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "dependence of events",
+      "Meanings": [
+        "وابستگی حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "dependency",
+      "Meanings": [
+        "بستگی",
+        "ارتباط",
+        "وابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "dependent",
+      "Meanings": [
+        "وابسته",
+        "مربوط",
+        "غیر مستقل",
+        "نامستقل",
+        "بسته",
+        "آویخته",
+        "تابع"
+      ]
+    },
+    {
+      "EnglishWord": "dependent differentiation",
+      "Meanings": [
+        "مشتق گیری وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent event",
+      "Meanings": [
+        "پیشامد وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent events",
+      "Meanings": [
+        "پیشامدهای وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent function",
+      "Meanings": [
+        "تابع وابسته",
+        "تابع غیرمستقل"
+      ]
+    },
+    {
+      "EnglishWord": "dependent observation",
+      "Meanings": [
+        "مشاهده وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent set",
+      "Meanings": [
+        "مجموعه وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "dependent variable",
+      "Meanings": [
+        "متغیر وابسته",
+        "متغیر غیر مستقل",
+        "متغیر تابع"
+      ]
+    },
+    {
+      "EnglishWord": "depict",
+      "Meanings": [
+        "رسم کردن",
+        "نقش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "depressed",
+      "Meanings": [
+        "تنزل یافته"
+      ]
+    },
+    {
+      "EnglishWord": "depressed equation",
+      "Meanings": [
+        "معادله تنزل یافته",
+        "معادله کاسته"
+      ]
+    },
+    {
+      "EnglishWord": "depression",
+      "Meanings": [
+        "تنزل",
+        "انخفاض زاویه",
+        "فروبار زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "depth",
+      "Meanings": [
+        "عمق",
+        "ژرفا",
+        "گودی"
+      ]
+    },
+    {
+      "EnglishWord": "derange",
+      "Meanings": [
+        "پریشیدن",
+        "به هم زدن ترتیب",
+        "بر هم زدن"
+      ]
+    },
+    {
+      "EnglishWord": "derangement",
+      "Meanings": [
+        "بی ترتیبی",
+        "در هم ریختگی",
+        "پریش"
+      ]
+    },
+    {
+      "EnglishWord": "derivable",
+      "Meanings": [
+        "مشتق پذیر",
+        "دارای مشتق",
+        "قابل اشتقاق",
+        "قابل مشتق گیری",
+        "مشتق دار",
+        "جدامد دار"
+      ]
+    },
+    {
+      "EnglishWord": "derivation",
+      "Meanings": [
+        "مشتق گیری",
+        "اشتقاق",
+        "استخراج",
+        "جدامد گیری"
+      ]
+    },
+    {
+      "EnglishWord": "derivation of ring",
+      "Meanings": [
+        "مشتق حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "derivative",
+      "Meanings": [
+        "مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of a form",
+      "Meanings": [
+        "مشتق یک شکل",
+        "مشتق یک فرم"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of determinant",
+      "Meanings": [
+        "مشتق دترمینان",
+        "مشتق معین"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of function",
+      "Meanings": [
+        "مشتق تابع"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of linear form",
+      "Meanings": [
+        "مشتق فرم درجه اول"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of matrix",
+      "Meanings": [
+        "مشتق ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "derivative of quadratic form",
+      "Meanings": [
+        "مشتق فرم درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "derivative set",
+      "Meanings": [
+        "مجموعه مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derivative with respect to x",
+      "Meanings": [
+        "مشتق نسبت به x"
+      ]
+    },
+    {
+      "EnglishWord": "derive",
+      "Meanings": [
+        "مشتق گیری",
+        "به دست آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "derived",
+      "Meanings": [
+        "مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derived function",
+      "Meanings": [
+        "تابع مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derived group",
+      "Meanings": [
+        "گروه جدامد"
+      ]
+    },
+    {
+      "EnglishWord": "derived rule",
+      "Meanings": [
+        "قاعده مشتق منطق"
+      ]
+    },
+    {
+      "EnglishWord": "derived series",
+      "Meanings": [
+        "سری مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derived set",
+      "Meanings": [
+        "مجموعه مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derived subgroup",
+      "Meanings": [
+        "زیرگروه مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "derogatory",
+      "Meanings": [
+        "کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "descarte's rule of signs",
+      "Meanings": [
+        "قانون علایم دکارت"
+      ]
+    },
+    {
+      "EnglishWord": "descend",
+      "Meanings": [
+        "نزول کردن",
+        "کاهش یافتن"
+      ]
+    },
+    {
+      "EnglishWord": "descendant",
+      "Meanings": [
+        "نزولی",
+        "پایین رو",
+        "نازل"
+      ]
+    },
+    {
+      "EnglishWord": "descendant curve",
+      "Meanings": [
+        "خم نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "descendant function",
+      "Meanings": [
+        "تابع نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "descending",
+      "Meanings": [
+        "کاهنده",
+        "کاهشی",
+        "نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "descending order",
+      "Meanings": [
+        "ترتیب نزولی",
+        "ترتیب کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "descending powers",
+      "Meanings": [
+        "قوای نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "describe",
+      "Meanings": [
+        "توصیف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "description",
+      "Meanings": [
+        "شرح",
+        "توصیف",
+        "وصف",
+        "تقریر"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive",
+      "Meanings": [
+        "توصیفی",
+        "ترسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive geometry",
+      "Meanings": [
+        "هندسه ترسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive statistic",
+      "Meanings": [
+        "آماره توصیفی",
+        "شاخص توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive statistics",
+      "Meanings": [
+        "آمار توصیفی"
+      ]
+    },
+    {
+      "EnglishWord": "design",
+      "Meanings": [
+        "رسم کردن",
+        "طرح کردن",
+        "نگاریدن",
+        "طراحی",
+        "طرح",
+        "رسم"
+      ]
+    },
+    {
+      "EnglishWord": "design matrix",
+      "Meanings": [
+        "ماتریس طرح"
+      ]
+    },
+    {
+      "EnglishWord": "design of experiment",
+      "Meanings": [
+        "طرح آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "design of sampling",
+      "Meanings": [
+        "طرح آمارگیری نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "design of survey",
+      "Meanings": [
+        "طرح آمارگیری نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "designate",
+      "Meanings": [
+        "نمایش دادن",
+        "نشان دادن",
+        "مشخص کردن",
+        "تخصیص دادن"
+      ]
+    },
+    {
+      "EnglishWord": "destructive dilemmas",
+      "Meanings": [
+        "قیاس ذوالوجهین منفی"
+      ]
+    },
+    {
+      "EnglishWord": "detached",
+      "Meanings": [
+        "منفصل",
+        "جدا",
+        "جداگانه"
+      ]
+    },
+    {
+      "EnglishWord": "detachment",
+      "Meanings": [
+        "انفصال"
+      ]
+    },
+    {
+      "EnglishWord": "determinaning relation",
+      "Meanings": [
+        "رابطه تعیین کننده"
+      ]
+    },
+    {
+      "EnglishWord": "determinant",
+      "Meanings": [
+        "دترمینان",
+        "مبین",
+        "معین",
+        "نمایانگر",
+        "سامانده",
+        "جداگر"
+      ]
+    },
+    {
+      "EnglishWord": "determinant of an endomorphism",
+      "Meanings": [
+        "دترمینان یک درسانی"
+      ]
+    },
+    {
+      "EnglishWord": "determinantal",
+      "Meanings": [
+        "دترمینانی"
+      ]
+    },
+    {
+      "EnglishWord": "determinate",
+      "Meanings": [
+        "معین",
+        "مشخص",
+        "تعیین حدود کردن"
+      ]
+    },
+    {
+      "EnglishWord": "determination",
+      "Meanings": [
+        "سامان",
+        "دترمیناسیون"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic",
+      "Meanings": [
+        "جبری فلسفه",
+        "تعینی آمار",
+        "معین",
+        "قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic system",
+      "Meanings": [
+        "دستگاه معین"
+      ]
+    },
+    {
+      "EnglishWord": "detract",
+      "Meanings": [
+        "کم کردن",
+        "کاستن"
+      ]
+    },
+    {
+      "EnglishWord": "detraction",
+      "Meanings": [
+        "کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "detractive",
+      "Meanings": [
+        "کاهشی"
+      ]
+    },
+    {
+      "EnglishWord": "develop",
+      "Meanings": [
+        "بسط دادن",
+        "توسعه دادن",
+        "گستردن"
+      ]
+    },
+    {
+      "EnglishWord": "developable",
+      "Meanings": [
+        "گستردن هندسه",
+        "قابل گسترش",
+        "گسترش پذیر",
+        "قابل بسط",
+        "قابل توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "developable surface",
+      "Meanings": [
+        "سطح گسترش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "development",
+      "Meanings": [
+        "گسترش",
+        "بسط",
+        "توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "development of determinant",
+      "Meanings": [
+        "بسط دترمینان"
+      ]
+    },
+    {
+      "EnglishWord": "deviate",
+      "Meanings": [
+        "منحرف شدن",
+        "انحراف ورزیدن",
+        "کیبیدن",
+        "منحرف"
+      ]
+    },
+    {
+      "EnglishWord": "deviation",
+      "Meanings": [
+        "انحراف",
+        "کیبش"
+      ]
+    },
+    {
+      "EnglishWord": "deviation angle",
+      "Meanings": [
+        "زاویه انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "deviation of random variable",
+      "Meanings": [
+        "انحراف کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "deviation score",
+      "Meanings": [
+        "نمره انحرافی"
+      ]
+    },
+    {
+      "EnglishWord": "dextrose",
+      "Meanings": [
+        "راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "dextrosum",
+      "Meanings": [
+        "راستگرد"
+      ]
+    },
+    {
+      "EnglishWord": "diagon",
+      "Meanings": [
+        "قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diagonable",
+      "Meanings": [
+        "قابل تبدیل به یک ماتریس قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal",
+      "Meanings": [
+        "قطری",
+        "قطر",
+        "قطر نسبت",
+        "قطر در کثیرالاضلاع",
+        "مورب",
+        "تراگوش",
+        "تراگوشی"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal element",
+      "Meanings": [
+        "عنصر قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal form",
+      "Meanings": [
+        "شکل قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal matrix",
+      "Meanings": [
+        "ماتریس قطری",
+        "ماتریس قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal of the product",
+      "Meanings": [
+        "قطر حاصلضرب"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal point",
+      "Meanings": [
+        "نقطه تقاطع قطرها"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal process",
+      "Meanings": [
+        "طریقه قطری",
+        "روش قطری",
+        "فرابرد قطری",
+        "فرابرد تراگری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal sum",
+      "Meanings": [
+        "حاصلجمع قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalizable",
+      "Meanings": [
+        "قطری شدنی",
+        "قطری پذیر",
+        "تراگوشی شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalizable matrix",
+      "Meanings": [
+        "ماتریس قطری شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalization",
+      "Meanings": [
+        "قطری کردن",
+        "تبدیل به یک ماتریس قطری",
+        "قطری ساختن",
+        "به شکل قطری درآوردن",
+        "تراگوشی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalize",
+      "Meanings": [
+        "به صورت قطری درآوردن",
+        "قطری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalized",
+      "Meanings": [
+        "قطری شده"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalizing matrix",
+      "Meanings": [
+        "ماتریس قطری کننده"
+      ]
+    },
+    {
+      "EnglishWord": "diagram",
+      "Meanings": [
+        "نمودار",
+        "تصویر",
+        "دیاگرام",
+        "وانگار",
+        "نما",
+        "نگاره"
+      ]
+    },
+    {
+      "EnglishWord": "diagram chasing",
+      "Meanings": [
+        "تعقیب نموداری"
+      ]
+    },
+    {
+      "EnglishWord": "diagraph",
+      "Meanings": [
+        "گراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "dial",
+      "Meanings": [
+        "صفحه مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "dialectical syllogism",
+      "Meanings": [
+        "قیاس جدلی"
+      ]
+    },
+    {
+      "EnglishWord": "dialytic",
+      "Meanings": [
+        "تفکیکی"
+      ]
+    },
+    {
+      "EnglishWord": "diameter",
+      "Meanings": [
+        "قطر",
+        "قطر دایره یا منحنی",
+        "میان‌بر",
+        "تراما",
+        "ترامون"
+      ]
+    },
+    {
+      "EnglishWord": "diametral",
+      "Meanings": [
+        "قطری",
+        "واقع در طول قطر",
+        "وابسته به قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diametrical",
+      "Meanings": [
+        "متقاطع",
+        "قطری"
+      ]
+    },
+    {
+      "EnglishWord": "diametrically",
+      "Meanings": [
+        "در جهت قطر",
+        "در طول قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diametrically opposite",
+      "Meanings": [
+        "متقاطر",
+        "قطرا متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "diamond",
+      "Meanings": [
+        "لوزی"
+      ]
+    },
+    {
+      "EnglishWord": "diasgonal relation",
+      "Meanings": [
+        "رابطه قطری"
+      ]
+    },
+    {
+      "EnglishWord": "dichotomic",
+      "Meanings": [
+        "دو ارزشی",
+        "ثنایی"
+      ]
+    },
+    {
+      "EnglishWord": "dichotomous",
+      "Meanings": [
+        "دوحالتی",
+        "دو ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "dichotomy",
+      "Meanings": [
+        "تقسیم به دو بخش",
+        "انشعاب به دو شعبه",
+        "طبقه بندی به دو دسته",
+        "تقسیم دو ارزشی",
+        "طبقه بندی دو ارزشی",
+        "دو ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "dictionary order topology",
+      "Meanings": [
+        "توپولوژی ترتیب قاموسی"
+      ]
+    },
+    {
+      "EnglishWord": "dictum de omni et nullo",
+      "Meanings": [
+        "احکام همه و هیچ منطق"
+      ]
+    },
+    {
+      "EnglishWord": "dicyclic group",
+      "Meanings": [
+        "گروه دو گردشی"
+      ]
+    },
+    {
+      "EnglishWord": "diffential automorphism",
+      "Meanings": [
+        "اتومورفیسم دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "diffeomorphic",
+      "Meanings": [
+        "وابر ریخت"
+      ]
+    },
+    {
+      "EnglishWord": "diffeomorphism",
+      "Meanings": [
+        "وابر ریختی",
+        "وابر سانی",
+        "دیفرانسیل ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "difference",
+      "Meanings": [
+        "تفاضل",
+        "اختلاف",
+        "تفاوت",
+        "تفریق",
+        "مانده",
+        "وابرد",
+        "تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference equation",
+      "Meanings": [
+        "معادله دیفرانسیل",
+        "معادله تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference group",
+      "Meanings": [
+        "گروه تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "difference method",
+      "Meanings": [
+        "روش تفاوت نمره ها"
+      ]
+    },
+    {
+      "EnglishWord": "difference module",
+      "Meanings": [
+        "مدول تفاضل",
+        "گروه تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "difference of cardinal numbers",
+      "Meanings": [
+        "تفاضل اعداد اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference of events",
+      "Meanings": [
+        "تفاضل حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "difference of ordinals",
+      "Meanings": [
+        "تفاضل اعداد ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "difference of relations",
+      "Meanings": [
+        "تفاضل روابط",
+        "تفاوت روابط"
+      ]
+    },
+    {
+      "EnglishWord": "difference of sets",
+      "Meanings": [
+        "تفاضل مجموعه ها",
+        "تفاوت مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "difference of two events",
+      "Meanings": [
+        "تفاضل دو حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "difference of zero",
+      "Meanings": [
+        "تفاضل صفر"
+      ]
+    },
+    {
+      "EnglishWord": "difference operator",
+      "Meanings": [
+        "عامل تفاضلگر",
+        "عملگر تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference property",
+      "Meanings": [
+        "خاصیت تفاضل",
+        "خاصیت تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference quotient",
+      "Meanings": [
+        "خارج قسمت تفاضلی"
+      ]
+    },
+    {
+      "EnglishWord": "difference region",
+      "Meanings": [
+        "ناحیه بی اعتماده"
+      ]
+    },
+    {
+      "EnglishWord": "difference score",
+      "Meanings": [
+        "نمره تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "difference set",
+      "Meanings": [
+        "مجموعه تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "differencing",
+      "Meanings": [
+        "تفاضل گیری",
+        "دیفرانسیل گیری"
+      ]
+    },
+    {
+      "EnglishWord": "different",
+      "Meanings": [
+        "مختلف",
+        "متفاوت",
+        "وابر",
+        "نابرابر"
+      ]
+    },
+    {
+      "EnglishWord": "different numbers",
+      "Meanings": [
+        "اعداد متفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "differentiable",
+      "Meanings": [
+        "مشتق پذیر",
+        "دیفرانسیل پذیر",
+        "دارای دیفرانسیل",
+        "اشتقاق پذیر",
+        "قابل دیفرانسیل گیری",
+        "دارای مشتق",
+        "دیفرانسیل دار",
+        "مشتق دار"
+      ]
+    },
+    {
+      "EnglishWord": "differentiable chain",
+      "Meanings": [
+        "زنجیر دیفرانسیل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "differentiable function",
+      "Meanings": [
+        "تابع دیفرانسیل پذیر",
+        "تابع مشتق پذیر",
+        "تابع دیفرانسیل دار"
+      ]
+    },
+    {
+      "EnglishWord": "differentiable simplex",
+      "Meanings": [
+        "سادک مشتق پذیر",
+        "سادک دیفرانسیل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "differential",
+      "Meanings": [
+        "دیفرانسیل",
+        "وابرد",
+        "فاضله",
+        "خرده",
+        "مشتق گیری"
+      ]
+    },
+    {
+      "EnglishWord": "differential and integral calculus",
+      "Meanings": [
+        "حساب دیفرانسیل و انتگرال",
+        "حساب فاضله و جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "differential calculus",
+      "Meanings": [
+        "حساب دیفرانسیل",
+        "حساب تفاضلی",
+        "حساب فاضله",
+        "حساب فاضل"
+      ]
+    },
+    {
+      "EnglishWord": "differential coefficient",
+      "Meanings": [
+        "ضریب دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "differential element",
+      "Meanings": [
+        "عنصر دیفرانسیل",
+        "عنصر بی نهایت کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل",
+        "معادله فاضله"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation of high degree",
+      "Meanings": [
+        "معادله دیفرانسیل درجه بالا",
+        "معادله فاضله درجه عالی"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation of high order",
+      "Meanings": [
+        "معادله دیفرانسیل مرتبه بالا",
+        "معادله فاضله رتبه عالی"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation with constant coefficients",
+      "Meanings": [
+        "معادله دیفرانسیل با ضرایب ثابت",
+        "معادله فاضله با ضرایب ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation with nonseparated variables",
+      "Meanings": [
+        "معادله دیفرانسیل با متغیرهای جدانشده",
+        "معادله فاضله با متغیرهای جدانشده"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation with second side",
+      "Meanings": [
+        "معادله دیفرانسیل با طرف دوم",
+        "معادله فاضله با طرف ثانی"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation with separated variables",
+      "Meanings": [
+        "معادله دیفرانسیل با متغیرهای جداشده"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation with variable coefficients",
+      "Meanings": [
+        "معادله دیفرانسیل با ضرایب متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "differential equation without second side",
+      "Meanings": [
+        "معادله دیفرانسیل بدون طرف دوم",
+        "معادله فاضله بدون طرف ثانی"
+      ]
+    },
+    {
+      "EnglishWord": "differential form",
+      "Meanings": [
+        "صورت دیفرانسیل",
+        "فرم دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "differential geometry",
+      "Meanings": [
+        "هندسه دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "differential invariant",
+      "Meanings": [
+        "پایای دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "differential of composite functions",
+      "Meanings": [
+        "دیفرانسیل توابع چند متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "differential operator",
+      "Meanings": [
+        "عامل دیفرانسیل",
+        "کارگزار دیفرانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "differential quotient",
+      "Meanings": [
+        "خارج قسمت دیفرانسیلی"
+      ]
+    },
+    {
+      "EnglishWord": "differentiate",
+      "Meanings": [
+        "دیفرانسیل گرفتن",
+        "مشتق گرفتن",
+        "وابرد گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation",
+      "Meanings": [
+        "مشتق گیری",
+        "دیفرانسیل گیری",
+        "اشتقاق",
+        "خرده یابی"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation of integral",
+      "Meanings": [
+        "دیفرانسیل گیری از انتگرال",
+        "دیفرانسیاسیون انتگرال"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation operator",
+      "Meanings": [
+        "عامل دیفرانسیل گیری",
+        "عملگر مشتق گیری",
+        "عملگر مشتق"
+      ]
+    },
+    {
+      "EnglishWord": "diffraction",
+      "Meanings": [
+        "انکسار",
+        "پراش",
+        "دیفراکسیون"
+      ]
+    },
+    {
+      "EnglishWord": "diffusion",
+      "Meanings": [
+        "انتشار",
+        "نفوذ",
+        "پخش",
+        "دیفیوژن"
+      ]
+    },
+    {
+      "EnglishWord": "digest",
+      "Meanings": [
+        "خلاصه کردن",
+        "خلاصه اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "digit",
+      "Meanings": [
+        "رقم",
+        "پیکر"
+      ]
+    },
+    {
+      "EnglishWord": "digital",
+      "Meanings": [
+        "رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "digital computer",
+      "Meanings": [
+        "رایانه رقمی",
+        "شمارگر رقمی",
+        "حسابگر رقمی"
+      ]
+    },
+    {
+      "EnglishWord": "digraph",
+      "Meanings": [
+        "گراف جهت دار",
+        "گراف سو دار"
+      ]
+    },
+    {
+      "EnglishWord": "dihedral",
+      "Meanings": [
+        "دو وجهی",
+        "فرجه",
+        "دو سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "dihedral angle",
+      "Meanings": [
+        "زاویه دو سطحی",
+        "فرجه",
+        "زاویه دو وجهی",
+        "زاویه مسطحه فرجه"
+      ]
+    },
+    {
+      "EnglishWord": "dihedral group",
+      "Meanings": [
+        "گروه دو وجهی",
+        "گروه زاویه دو وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "dihedron",
+      "Meanings": [
+        "دو وجهی",
+        "فرجه",
+        "زاویه دو وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "dilatation",
+      "Meanings": [
+        "انبساط",
+        "گسترش اشکال هندسی",
+        "تجانس",
+        "اتساع"
+      ]
+    },
+    {
+      "EnglishWord": "dilation",
+      "Meanings": [
+        "انبساط",
+        "گسترش اشکال هندسی",
+        "تجانس",
+        "اتساع"
+      ]
+    },
+    {
+      "EnglishWord": "dilemma",
+      "Meanings": [
+        "ذوالوجهین منطق",
+        "برهان قاطع دو وجهی",
+        "محظور",
+        "قیاس ذو حدین"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "بعد",
+        "اندازه",
+        "مقدار",
+        "پیمانه",
+        "مایش",
+        "دورامون",
+        "فرامون"
+      ]
+    },
+    {
+      "EnglishWord": "dimension of linear variety",
+      "Meanings": [
+        "بعد واریته خطی"
+      ]
+    },
+    {
+      "EnglishWord": "dimension of probability density",
+      "Meanings": [
+        "بعد چگالی احتمال",
+        "اندازه چگالی احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "dimension of vector space",
+      "Meanings": [
+        "بعد فضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "dimension theory",
+      "Meanings": [
+        "نظریه ابعاد"
+      ]
+    },
+    {
+      "EnglishWord": "dimensional",
+      "Meanings": [
+        "ابعادی",
+        "اندازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dimensionality",
+      "Meanings": [
+        "بعدیت",
+        "کیفیت داشتن بعد"
+      ]
+    },
+    {
+      "EnglishWord": "dimensionless",
+      "Meanings": [
+        "بی بعد",
+        "فاقد بعد"
+      ]
+    },
+    {
+      "EnglishWord": "dimensionless covariance",
+      "Meanings": [
+        "کوواریانس بی بعد"
+      ]
+    },
+    {
+      "EnglishWord": "dimensions of space",
+      "Meanings": [
+        "ابعاد مکان",
+        "ابعاد جایگاه"
+      ]
+    },
+    {
+      "EnglishWord": "diminish",
+      "Meanings": [
+        "کم کردن",
+        "کاستن"
+      ]
+    },
+    {
+      "EnglishWord": "diminution",
+      "Meanings": [
+        "کاهش",
+        "تقلیل"
+      ]
+    },
+    {
+      "EnglishWord": "dini test",
+      "Meanings": [
+        "آزمون دینی"
+      ]
+    },
+    {
+      "EnglishWord": "diophantine",
+      "Meanings": [
+        "دیوفانتوسی",
+        "دیوفانتی"
+      ]
+    },
+    {
+      "EnglishWord": "diophantine analysis",
+      "Meanings": [
+        "آنالیز دیوفانتوسی",
+        "آنالیز دیوفانتی",
+        "تحلیل دیوفانتوسی"
+      ]
+    },
+    {
+      "EnglishWord": "diophantine approximation",
+      "Meanings": [
+        "تقریب دیوفانتوسی",
+        "تقریب دیوفانتی"
+      ]
+    },
+    {
+      "EnglishWord": "diophantine equation",
+      "Meanings": [
+        "معادله دیوفانتوسی",
+        "معادله دیوفانتی"
+      ]
+    },
+    {
+      "EnglishWord": "direct",
+      "Meanings": [
+        "مستقیم",
+        "سر راست",
+        "موافق",
+        "راست"
+      ]
+    },
+    {
+      "EnglishWord": "direct addition",
+      "Meanings": [
+        "جمع مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct graph",
+      "Meanings": [
+        "گراف جهت دار",
+        "گراف سو دار"
+      ]
+    },
+    {
+      "EnglishWord": "direct image",
+      "Meanings": [
+        "تصویر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct limit theorem",
+      "Meanings": [
+        "قضیه حدی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct limit theorem of characteristic function",
+      "Meanings": [
+        "قضیه حدی مستقیم تابع مشخصه"
+      ]
+    },
+    {
+      "EnglishWord": "direct orientation",
+      "Meanings": [
+        "جهت مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct power",
+      "Meanings": [
+        "توان سر راست"
+      ]
+    },
+    {
+      "EnglishWord": "direct product",
+      "Meanings": [
+        "حاصلضرب مستقیم",
+        "ضرب مستقیم",
+        "راست ضرب",
+        "حاصلضرب دکارتی",
+        "حاصلضرب سر راست"
+      ]
+    },
+    {
+      "EnglishWord": "direct product of some groups",
+      "Meanings": [
+        "حاصلضرب مستقیم چند گروه"
+      ]
+    },
+    {
+      "EnglishWord": "direct product of some modules",
+      "Meanings": [
+        "حاصلضرب مستقیم چند مدول"
+      ]
+    },
+    {
+      "EnglishWord": "direct product of two rings",
+      "Meanings": [
+        "حاصلضرب مستقیم دو حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "direct product of two sets",
+      "Meanings": [
+        "حاصلضرب دو مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "direct product of two vectors",
+      "Meanings": [
+        "حاصلضرب اسکالر دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "direct proportion",
+      "Meanings": [
+        "تناسب مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct relationship",
+      "Meanings": [
+        "بستگی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct reset",
+      "Meanings": [
+        "بازنشان مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct sense",
+      "Meanings": [
+        "جهت مثلثاتی",
+        "جهت مخالف حرک عقربه ساعت",
+        "جهت مستقیم",
+        "جهت موافق"
+      ]
+    },
+    {
+      "EnglishWord": "direct sum",
+      "Meanings": [
+        "مجموع مستقیم",
+        "حاصلجمع مستقیم",
+        "حاصلجمع سر راست"
+      ]
+    },
+    {
+      "EnglishWord": "direct sum decomposition of k module",
+      "Meanings": [
+        "تجزیه به مجموع مستقیم یک k",
+        "مدول"
+      ]
+    },
+    {
+      "EnglishWord": "direct sum of submodules",
+      "Meanings": [
+        "مجموع مستقیم زیر مدول ها"
+      ]
+    },
+    {
+      "EnglishWord": "direct summand",
+      "Meanings": [
+        "سازه مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct syllogism",
+      "Meanings": [
+        "قیاس مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct trigonometric functions",
+      "Meanings": [
+        "توابع مثلثاتی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "direct variation",
+      "Meanings": [
+        "تغییر به نسبت مستقیم",
+        "وردش مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "directed",
+      "Meanings": [
+        "جهت دار",
+        "راستا دار",
+        "سو دار",
+        "توجیه شده",
+        "هدایت شده",
+        "موجه"
+      ]
+    },
+    {
+      "EnglishWord": "directed angle",
+      "Meanings": [
+        "زاویه حهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed cycle",
+      "Meanings": [
+        "دور جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed distance",
+      "Meanings": [
+        "فاصله جهت دار",
+        "فاصله سو دار",
+        "فاصله راستا دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed line",
+      "Meanings": [
+        "خط جهت دار",
+        "خط راستا دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed line segment",
+      "Meanings": [
+        "پاره خط جهت دار",
+        "پاره خط راستا دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed netwok",
+      "Meanings": [
+        "شبکه جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed number",
+      "Meanings": [
+        "عدد جبری"
+      ]
+    },
+    {
+      "EnglishWord": "directedness",
+      "Meanings": [
+        "توجیه",
+        "جهت دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "direction",
+      "Meanings": [
+        "سو",
+        "امتداد",
+        "جهت",
+        "راستا",
+        "سوی",
+        "طرف",
+        "هادی"
+      ]
+    },
+    {
+      "EnglishWord": "direction angles",
+      "Meanings": [
+        "زاویه‌های امتداد",
+        "زاویه‌های خط راستانما"
+      ]
+    },
+    {
+      "EnglishWord": "direction components",
+      "Meanings": [
+        "مولفه‌های راستا",
+        "مولفه‌های جهتی"
+      ]
+    },
+    {
+      "EnglishWord": "direction cosine",
+      "Meanings": [
+        "کسینوس هادی",
+        "کسینوس دایرکتور",
+        "راستا کسینوس",
+        "کسینوس راستا نما"
+      ]
+    },
+    {
+      "EnglishWord": "direction field",
+      "Meanings": [
+        "میدان راستا"
+      ]
+    },
+    {
+      "EnglishWord": "direction number",
+      "Meanings": [
+        "عدد هادی",
+        "پارامتر هادی",
+        "راستا عدد",
+        "عدد راستا نما"
+      ]
+    },
+    {
+      "EnglishWord": "direction of asymptote",
+      "Meanings": [
+        "راستای مجانب"
+      ]
+    },
+    {
+      "EnglishWord": "direction of field",
+      "Meanings": [
+        "راستای میدان"
+      ]
+    },
+    {
+      "EnglishWord": "direction parameter",
+      "Meanings": [
+        "پارامتر هادی"
+      ]
+    },
+    {
+      "EnglishWord": "direction ratio",
+      "Meanings": [
+        "پارامتر هادی",
+        "نسبت هادی"
+      ]
+    },
+    {
+      "EnglishWord": "direction vector",
+      "Meanings": [
+        "بردار هادی",
+        "بردار راستای خط"
+      ]
+    },
+    {
+      "EnglishWord": "directional",
+      "Meanings": [
+        "جهتی",
+        "هادی",
+        "جهت دار",
+        "سویی"
+      ]
+    },
+    {
+      "EnglishWord": "directional cosine",
+      "Meanings": [
+        "کسینوس هادی",
+        "کسینوس دارکتور"
+      ]
+    },
+    {
+      "EnglishWord": "directional derivative",
+      "Meanings": [
+        "مشتق جهت دار",
+        "مشتق جهتی",
+        "مشتق سویی",
+        "مشتق امتدادی",
+        "مشتق سو دار"
+      ]
+    },
+    {
+      "EnglishWord": "directional derivative of function",
+      "Meanings": [
+        "مشتق راستا دار تابع",
+        "مشتق تابع در یک راستا"
+      ]
+    },
+    {
+      "EnglishWord": "directional parameter",
+      "Meanings": [
+        "پارامتر دایرکتور"
+      ]
+    },
+    {
+      "EnglishWord": "directivity",
+      "Meanings": [
+        "استقامت",
+        "راستا"
+      ]
+    },
+    {
+      "EnglishWord": "directly",
+      "Meanings": [
+        "مستقیما",
+        "در جهت مخالف حرکت عقربه ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "directly include topology",
+      "Meanings": [
+        "توپولوژی مستقیما القا شده",
+        "توپولوژی نگار"
+      ]
+    },
+    {
+      "EnglishWord": "directly proportional",
+      "Meanings": [
+        "متناسب مستقیم",
+        "مستقیما متناسب"
+      ]
+    },
+    {
+      "EnglishWord": "directly similar",
+      "Meanings": [
+        "مجانس مستقیم",
+        "مستقیما متشابه"
+      ]
+    },
+    {
+      "EnglishWord": "director",
+      "Meanings": [
+        "هادی",
+        "رهبر",
+        "راستا نما",
+        "دایرکتور"
+      ]
+    },
+    {
+      "EnglishWord": "director circle",
+      "Meanings": [
+        "دایره هادی"
+      ]
+    },
+    {
+      "EnglishWord": "director circle of the ellipse",
+      "Meanings": [
+        "دایره هادی بیضی"
+      ]
+    },
+    {
+      "EnglishWord": "directrix",
+      "Meanings": [
+        "هادی برش‌های مخروطی",
+        "هادی",
+        "خط هادی",
+        "منحنی هادی",
+        "راهنما در برش‌های مخروطی"
+      ]
+    },
+    {
+      "EnglishWord": "directrox of probola",
+      "Meanings": [
+        "راهنمای سهمی"
+      ]
+    },
+    {
+      "EnglishWord": "dirichlet integral",
+      "Meanings": [
+        "انتگرال دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "dirichlet problem",
+      "Meanings": [
+        "مساله دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "dirichlet series",
+      "Meanings": [
+        "سری دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "dirichlet test",
+      "Meanings": [
+        "آزمون دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "dirichlet's function",
+      "Meanings": [
+        "تابع دیریکله"
+      ]
+    },
+    {
+      "EnglishWord": "discipline",
+      "Meanings": [
+        "نظم آمار",
+        "رشته علمی"
+      ]
+    },
+    {
+      "EnglishWord": "disconnect",
+      "Meanings": [
+        "ناهمبند"
+      ]
+    },
+    {
+      "EnglishWord": "disconnected",
+      "Meanings": [
+        "ناهمبند",
+        "نامرتبط",
+        "گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "disconnected graph",
+      "Meanings": [
+        "گراف ناهمبند"
+      ]
+    },
+    {
+      "EnglishWord": "disconnected metric space",
+      "Meanings": [
+        "فضای متری ناهمبند"
+      ]
+    },
+    {
+      "EnglishWord": "disconnectedness",
+      "Meanings": [
+        "ناهمبندی"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuity",
+      "Meanings": [
+        "ناپیوستگی",
+        "انفصال",
+        "گسستگی"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous",
+      "Meanings": [
+        "ناپیوسته",
+        "منفصل",
+        "گسسته",
+        "انفصالی"
+      ]
+    },
+    {
+      "EnglishWord": "discontinuous function",
+      "Meanings": [
+        "تابع ناپیوسته",
+        "تابع منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "discordance",
+      "Meanings": [
+        "اختلاف"
+      ]
+    },
+    {
+      "EnglishWord": "discordant",
+      "Meanings": [
+        "ناهماهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "discrepancy",
+      "Meanings": [
+        "اختلاف",
+        "تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "discrete",
+      "Meanings": [
+        "گسسته",
+        "جدا",
+        "ناپیوسته",
+        "منفصل",
+        "مجزا",
+        "جدا از هم",
+        "جدا جدا",
+        "تنک"
+      ]
+    },
+    {
+      "EnglishWord": "discrete distance",
+      "Meanings": [
+        "فاصله گسسته",
+        "فاصله مجزا",
+        "توزیع گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete metric",
+      "Meanings": [
+        "متریک گسسته",
+        "متر مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete metric space",
+      "Meanings": [
+        "فضای متریک گسسته",
+        "فضای متری مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete model",
+      "Meanings": [
+        "مدل ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete probability distribution",
+      "Meanings": [
+        "توزیع احتمالی ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete probability space",
+      "Meanings": [
+        "فضای احتمال گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete quantity",
+      "Meanings": [
+        "کمیت منفصل",
+        "چندی گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete random variable",
+      "Meanings": [
+        "متغیر تصادفی گسسته",
+        "کمیت تصادفی ناپیوسته",
+        "متغیر تصادفی مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete random variables",
+      "Meanings": [
+        "متغیرهای تصادفی گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete set",
+      "Meanings": [
+        "مجموعه گسسته",
+        "مجموعه مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete space",
+      "Meanings": [
+        "فضای گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete topology",
+      "Meanings": [
+        "توپولوژی گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete type distribution function",
+      "Meanings": [
+        "تابع توزیع ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete valuation",
+      "Meanings": [
+        "مقدار مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "discrete variable",
+      "Meanings": [
+        "متغیر گسسته",
+        "متغیر منفصل",
+        "متغیر جدا",
+        "متغیر ناپیوسته",
+        "کمیت ناپیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "discretization",
+      "Meanings": [
+        "گسسته سازی"
+      ]
+    },
+    {
+      "EnglishWord": "discriminant",
+      "Meanings": [
+        "مبین",
+        "ممیز",
+        "تابع مبین"
+      ]
+    },
+    {
+      "EnglishWord": "discriminant function",
+      "Meanings": [
+        "تابع ممیز آمار",
+        "تابع تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "discrimination",
+      "Meanings": [
+        "تشخیص",
+        "تمیز دادن"
+      ]
+    },
+    {
+      "EnglishWord": "discriminatory",
+      "Meanings": [
+        "تشخیص دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "discriminatory analysis",
+      "Meanings": [
+        "تجزیه تشخیص دهنده ها"
+      ]
+    },
+    {
+      "EnglishWord": "disequilibrium",
+      "Meanings": [
+        "عدم تعادل"
+      ]
+    },
+    {
+      "EnglishWord": "dished",
+      "Meanings": [
+        "مقعر",
+        "گود"
+      ]
+    },
+    {
+      "EnglishWord": "disintegration",
+      "Meanings": [
+        "از هم پاشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "disjoined",
+      "Meanings": [
+        "مجزا",
+        "جدا مجموعه‌ها",
+        "جدا شده"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint",
+      "Meanings": [
+        "جدا از هم",
+        "مجزا",
+        "از ه جدا",
+        "منفصل",
+        "نامتقاطع",
+        "ناپیوسته",
+        "ناهمبند",
+        "متخارج",
+        "متمایز"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint events",
+      "Meanings": [
+        "پیشامدهای مجزا",
+        "حوادث نامتقاطع",
+        "حوادث ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint sets",
+      "Meanings": [
+        "مجموعه‌های از هم جدا",
+        "مجموعه‌های نامتقاطع",
+        "مجموعه‌های منفصل",
+        "مجموعه‌های ناپیوسته",
+        "مجموعه‌های مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint spaces",
+      "Meanings": [
+        "فضاهای مجزا از هم"
+      ]
+    },
+    {
+      "EnglishWord": "disjointed",
+      "Meanings": [
+        "مجزا",
+        "جدا مجموعه‌ها",
+        "از هم جدا شده",
+        "متغایر"
+      ]
+    },
+    {
+      "EnglishWord": "disjointification",
+      "Meanings": [
+        "جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "disjunction",
+      "Meanings": [
+        "ترکیب فصلی",
+        "فصل منطق",
+        "انفصال"
+      ]
+    },
+    {
+      "EnglishWord": "disjunction of cases",
+      "Meanings": [
+        "فصل حالت ها",
+        "تفصیل حالت ها"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive",
+      "Meanings": [
+        "فصلی",
+        "مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive composition",
+      "Meanings": [
+        "ترکیب فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive normal form",
+      "Meanings": [
+        "صورت نرمال فصلی",
+        "صورت متعارف فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive proposition",
+      "Meanings": [
+        "قضیه شرطیه منفصله"
+      ]
+    },
+    {
+      "EnglishWord": "disjunctive syllogism",
+      "Meanings": [
+        "قانون دفع دومولفه",
+        "قیاس استثنایی منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "disk",
+      "Meanings": [
+        "دیسک",
+        "قرص",
+        "گرده",
+        "صفحه مدور"
+      ]
+    },
+    {
+      "EnglishWord": "disk of convergence",
+      "Meanings": [
+        "قرص همگرایی",
+        "گرده همگرایی",
+        "دایره همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "dislocation",
+      "Meanings": [
+        "جابجا شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion",
+      "Meanings": [
+        "پراکندگی آمار",
+        "پخش"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion of components of multi dimensional random variabel",
+      "Meanings": [
+        "پراکندگی اجزای کمیت تصادفی چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion of frequencies",
+      "Meanings": [
+        "پراکندگی فراوانی ها"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion of random variable",
+      "Meanings": [
+        "پراکندگی کمیت تصادفی",
+        "واریانس کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "dispersion of two random variables",
+      "Meanings": [
+        "واریانس دو کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement",
+      "Meanings": [
+        "تغییرمکان",
+        "جابجا کردن",
+        "جابجا شدن",
+        "جابجا شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "displacement vector",
+      "Meanings": [
+        "بردار تغییر مکان",
+        "بردار موضعی",
+        "بردار مکان"
+      ]
+    },
+    {
+      "EnglishWord": "disproof",
+      "Meanings": [
+        "رد",
+        "ابطال"
+      ]
+    },
+    {
+      "EnglishWord": "disproportionate",
+      "Meanings": [
+        "بی تناسب کردن",
+        "گج. بی تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "disprove",
+      "Meanings": [
+        "رد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dissimilar",
+      "Meanings": [
+        "نامتشابه",
+        "ناهمانند"
+      ]
+    },
+    {
+      "EnglishWord": "dissociate",
+      "Meanings": [
+        "تفکیک کردن",
+        "جدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "dissymmetric",
+      "Meanings": [
+        "نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "dissymmetry",
+      "Meanings": [
+        "نامتقارنی",
+        "عدم تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "distance",
+      "Meanings": [
+        "فاصله",
+        "دوری",
+        "مسافت",
+        "فاصله دو نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "distance between two skew lines",
+      "Meanings": [
+        "کمترین فاصله دو خط متنافر",
+        "اقصر فاصله دو خط متنافر"
+      ]
+    },
+    {
+      "EnglishWord": "distance function",
+      "Meanings": [
+        "تابع فاصله",
+        "تابع دوری"
+      ]
+    },
+    {
+      "EnglishWord": "distance relations",
+      "Meanings": [
+        "رابطه متری",
+        "رابطه طولی"
+      ]
+    },
+    {
+      "EnglishWord": "distance set",
+      "Meanings": [
+        "مجموعه فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "distant",
+      "Meanings": [
+        "فاصله دار",
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "distinct",
+      "Meanings": [
+        "متمایز",
+        "مجزا",
+        "ناهمانند"
+      ]
+    },
+    {
+      "EnglishWord": "distinct root",
+      "Meanings": [
+        "ریشه متمایز"
+      ]
+    },
+    {
+      "EnglishWord": "distinction",
+      "Meanings": [
+        "تشخیص",
+        "بازشناخت",
+        "فرق",
+        "امتیاز",
+        "برتری",
+        "ترجیح"
+      ]
+    },
+    {
+      "EnglishWord": "distinguish",
+      "Meanings": [
+        "تمیز دادن",
+        "فرق گذاشتن",
+        "بازشناختن"
+      ]
+    },
+    {
+      "EnglishWord": "distinguished normal form",
+      "Meanings": [
+        "صورت نرمال اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "distortion",
+      "Meanings": [
+        "تغییر شکل",
+        "تحریف"
+      ]
+    },
+    {
+      "EnglishWord": "distrbuted",
+      "Meanings": [
+        "منبسط منطق"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "پخش",
+        "توزیع",
+        "بخش",
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution free",
+      "Meanings": [
+        "آزاد توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function",
+      "Meanings": [
+        "تابع توزیع",
+        "تابع پخش",
+        "تابع بخش"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function in general sense",
+      "Meanings": [
+        "تابع توزیع به مفهوم کلی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of components of system",
+      "Meanings": [
+        "تابع توزیع اجزای دستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of multidimensional random variable",
+      "Meanings": [
+        "تابع توزیع کمیت تصادفی چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of random variable",
+      "Meanings": [
+        "تابع توزیع کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of subsets of system",
+      "Meanings": [
+        "تابع توزیع زیرمجموعه‌های دستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of system of variables",
+      "Meanings": [
+        "تابع توزیع دستگاه از چند متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function of two dimensional random variable",
+      "Meanings": [
+        "تابع توزیع کمیت تصادفی دو بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function properties",
+      "Meanings": [
+        "خواص تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution function table",
+      "Meanings": [
+        "جدول تابع توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law",
+      "Meanings": [
+        "قانون توزیع",
+        "قانون توزیعی",
+        "قانون پخشی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of frequency",
+      "Meanings": [
+        "قانون توزیع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of function of random variable",
+      "Meanings": [
+        "قانون توزیع تابع از کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of multidimensional random variable",
+      "Meanings": [
+        "قانون توزیع کمیت تصادفی چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of random variable",
+      "Meanings": [
+        "قانون توزیع کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of sum of random variables",
+      "Meanings": [
+        "قانون توزیع حاصلجمع کمیت‌های تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution law of two random variables",
+      "Meanings": [
+        "قانون توزیع دو کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of frequencies",
+      "Meanings": [
+        "توزیع فراوانی ها"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of function of random variable",
+      "Meanings": [
+        "توزیع تابع از کمیت‌های تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of multi dimensional random variable",
+      "Meanings": [
+        "توزیع کمیت تصادفی چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of partial correlation coefficient",
+      "Meanings": [
+        "توزیع برآورد ضریب همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of primes",
+      "Meanings": [
+        "توزیع اعداد اول"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of random variable",
+      "Meanings": [
+        "توزیع کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution of two random variables",
+      "Meanings": [
+        "توزیع دو کمیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "distribution test",
+      "Meanings": [
+        "آزمایش توزیع آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "distributional",
+      "Meanings": [
+        "توزیعی",
+        "پخشی"
+      ]
+    },
+    {
+      "EnglishWord": "distributive",
+      "Meanings": [
+        "پخشپذیری",
+        "پخشی",
+        "توزیع پذیر",
+        "توزیعی",
+        "بخش پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "distributive lattice",
+      "Meanings": [
+        "مشبکه توزیع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "distributive law",
+      "Meanings": [
+        "قانون توزیعی",
+        "قانون توزیع پذیری",
+        "قانون توزیع",
+        "قانون پخشی",
+        "قانون پخش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "distributive laws",
+      "Meanings": [
+        "قوانین پخشپذیری",
+        "قوانین پخشی"
+      ]
+    },
+    {
+      "EnglishWord": "distributive low",
+      "Meanings": [
+        "اصل توزیع‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "distributive number",
+      "Meanings": [
+        "عدد توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "distributive property",
+      "Meanings": [
+        "پخش پذیری",
+        "خاصیت توزیعی",
+        "خاصیت پخش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "distributivity",
+      "Meanings": [
+        "پخش پذیری",
+        "توزیع پذیری",
+        "خاصیت توزیعی",
+        "خاصیت پخشی"
+      ]
+    },
+    {
+      "EnglishWord": "disturbance",
+      "Meanings": [
+        "اختلال"
+      ]
+    },
+    {
+      "EnglishWord": "diverge",
+      "Meanings": [
+        "واگرا بودن",
+        "متباعد بودن",
+        "متباعد شدن"
+      ]
+    },
+    {
+      "EnglishWord": "divergence",
+      "Meanings": [
+        "واگرایی",
+        "تباعد",
+        "دیورژانس آنالیز برداری"
+      ]
+    },
+    {
+      "EnglishWord": "divergence theorem",
+      "Meanings": [
+        "قضیه دیورژانس",
+        "قضیه واگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "divergent",
+      "Meanings": [
+        "واگرا",
+        "متباعد",
+        "متباین"
+      ]
+    },
+    {
+      "EnglishWord": "divergent product",
+      "Meanings": [
+        "حاصلضرب متباعد",
+        "حاصلضرب واگرا"
+      ]
+    },
+    {
+      "EnglishWord": "divergent sequence",
+      "Meanings": [
+        "دنباله واگرا",
+        "دنباله متباعد"
+      ]
+    },
+    {
+      "EnglishWord": "divergent series",
+      "Meanings": [
+        "سری واگرا",
+        "سری متباعد"
+      ]
+    },
+    {
+      "EnglishWord": "divergently",
+      "Meanings": [
+        "به طور واگرا"
+      ]
+    },
+    {
+      "EnglishWord": "divergently parallel",
+      "Meanings": [
+        "به طور واگرا موازی"
+      ]
+    },
+    {
+      "EnglishWord": "diverging",
+      "Meanings": [
+        "واگرا"
+      ]
+    },
+    {
+      "EnglishWord": "diversity",
+      "Meanings": [
+        "تمایز منطق"
+      ]
+    },
+    {
+      "EnglishWord": "dividable",
+      "Meanings": [
+        "قابل تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "divide",
+      "Meanings": [
+        "تقسیم کردن",
+        "بخش کردن",
+        "عاد کردن",
+        "شمردن",
+        "بخش"
+      ]
+    },
+    {
+      "EnglishWord": "divided difference",
+      "Meanings": [
+        "تفاضل منقسم"
+      ]
+    },
+    {
+      "EnglishWord": "dividend",
+      "Meanings": [
+        "مقسوم",
+        "بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "divident",
+      "Meanings": [
+        "مقسوم",
+        "بخشی"
+      ]
+    },
+    {
+      "EnglishWord": "divider",
+      "Meanings": [
+        "تقسیم کننده",
+        "بخش کننده",
+        "بخشگر"
+      ]
+    },
+    {
+      "EnglishWord": "dividers",
+      "Meanings": [
+        "پرگار اندازه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "divides",
+      "Meanings": [
+        "عاد می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "divisibility",
+      "Meanings": [
+        "بخش پذیری",
+        "تقسیم پذیری",
+        "قابلیت تقسیم",
+        "قابلیت قسمت",
+        "خاصیت بخش پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "divisible",
+      "Meanings": [
+        "بخش پذیر",
+        "تقسیم پذیر",
+        "قابل قسمت",
+        "قابل تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "division",
+      "Meanings": [
+        "تقسیم",
+        "بخش",
+        "تقسیمی",
+        "عمل تقسیم",
+        "تفضیل نسبت",
+        "قسمت",
+        "تفضیل در تناسب"
+      ]
+    },
+    {
+      "EnglishWord": "division algebra",
+      "Meanings": [
+        "جبر تقسیم",
+        "جبر تقسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "division algorithm",
+      "Meanings": [
+        "الگوریتم تقسیم",
+        "تقسیم الخوارزمی"
+      ]
+    },
+    {
+      "EnglishWord": "division in extreme and mean ratio",
+      "Meanings": [
+        "تقسیم به نسبت ذات وسط و طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "division ring",
+      "Meanings": [
+        "حلقه بخشی",
+        "حلقه تقسیمی",
+        "حلقه تقسیم",
+        "هییت"
+      ]
+    },
+    {
+      "EnglishWord": "division ring of quaternions",
+      "Meanings": [
+        "هییت کواترنیون ها"
+      ]
+    },
+    {
+      "EnglishWord": "divisional",
+      "Meanings": [
+        "تقسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "divisor",
+      "Meanings": [
+        "مقسوم علیه",
+        "بخشیاب",
+        "مقسم",
+        "عاد"
+      ]
+    },
+    {
+      "EnglishWord": "divisor of zero",
+      "Meanings": [
+        "مقسوم علیه صفر",
+        "عاد کننده صفر",
+        "تقسیم کننده صفر"
+      ]
+    },
+    {
+      "EnglishWord": "d-line",
+      "Meanings": [
+        "خط D"
+      ]
+    },
+    {
+      "EnglishWord": "doctrine of chances",
+      "Meanings": [
+        "اصول تصادفات"
+      ]
+    },
+    {
+      "EnglishWord": "dodeca",
+      "Meanings": [
+        "دوازده"
+      ]
+    },
+    {
+      "EnglishWord": "dodecagon",
+      "Meanings": [
+        "دوازده ضلعی",
+        "دوازده گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "dodecahedral group",
+      "Meanings": [
+        "گروه دوازده وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "dodecahedron",
+      "Meanings": [
+        "دوازده وجهی",
+        "شکل فلکی"
+      ]
+    },
+    {
+      "EnglishWord": "domain",
+      "Meanings": [
+        "دامنه",
+        "دامنه تعریف تابع",
+        "حوزه",
+        "حیطه",
+        "حوزه تعریف",
+        "میدان"
+      ]
+    },
+    {
+      "EnglishWord": "domain of definition",
+      "Meanings": [
+        "دامنه تعریف",
+        "حوزه تعریف تابع"
+      ]
+    },
+    {
+      "EnglishWord": "domain of definition of function",
+      "Meanings": [
+        "حوزه تعریف تابع"
+      ]
+    },
+    {
+      "EnglishWord": "domain of discourse",
+      "Meanings": [
+        "حوزه سخن"
+      ]
+    },
+    {
+      "EnglishWord": "domain of function",
+      "Meanings": [
+        "دامنه تابع",
+        "ناحیه تعریف تابع"
+      ]
+    },
+    {
+      "EnglishWord": "domain of mapping",
+      "Meanings": [
+        "دامنه نگاشت",
+        "مجموعه تعریف نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "domain of quatification",
+      "Meanings": [
+        "دامنه سور گیری",
+        "دامنه سور"
+      ]
+    },
+    {
+      "EnglishWord": "domain of relation",
+      "Meanings": [
+        "دامنه رابطه",
+        "ناحیه تعریف رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "domain set",
+      "Meanings": [
+        "مجموعه قلمرو",
+        "مجموعه مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "dominant",
+      "Meanings": [
+        "غالب",
+        "فراگیر",
+        "مسلط",
+        "مشرف",
+        "مستولی",
+        "فروگیرنده",
+        "چیره"
+      ]
+    },
+    {
+      "EnglishWord": "dominanted",
+      "Meanings": [
+        "مغلوب",
+        "فروگرفته",
+        "تحت تسلط",
+        "زیر سلطه",
+        "مغلوب تقارب"
+      ]
+    },
+    {
+      "EnglishWord": "dominanted convergence",
+      "Meanings": [
+        "تقارب مغلوب",
+        "همگرایی مستولی",
+        "همگرایی مغلوب",
+        "همگرایی تحت سلطه"
+      ]
+    },
+    {
+      "EnglishWord": "dominanted convergence theorem",
+      "Meanings": [
+        "قضیه همگرایی مغلوب",
+        "قضیه همگرایی زیر سلطه",
+        "قضیه همگرایی تحت سلطه"
+      ]
+    },
+    {
+      "EnglishWord": "d-optimality",
+      "Meanings": [
+        "بهینگی قطری",
+        "D",
+        "بهینگی"
+      ]
+    },
+    {
+      "EnglishWord": "dot",
+      "Meanings": [
+        "نقطه",
+        "خال",
+        "هاشور زدن",
+        "نقطه گذاردن",
+        "نقطه ای حاصلضرب"
+      ]
+    },
+    {
+      "EnglishWord": "dot diagram",
+      "Meanings": [
+        "نمودار نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dot product",
+      "Meanings": [
+        "ضرب نقطه ای",
+        "ضرب عددی",
+        "حاصلضرب داخلی",
+        "حاصلضرب اسکالر دو بردار",
+        "حاصلضرب عددی",
+        "حاصلضرب نقطه ای",
+        "حاصلضرب دورنی"
+      ]
+    },
+    {
+      "EnglishWord": "dotted line",
+      "Meanings": [
+        "خط نقطه چین"
+      ]
+    },
+    {
+      "EnglishWord": "double",
+      "Meanings": [
+        "دو تایی",
+        "دو گانه",
+        "مضاعف",
+        "دو برابر",
+        "دوبل",
+        "دو برابر کردن",
+        "دو باری"
+      ]
+    },
+    {
+      "EnglishWord": "double and single",
+      "Meanings": [
+        "جفت و تک"
+      ]
+    },
+    {
+      "EnglishWord": "double angle formulas",
+      "Meanings": [
+        "دستورهای زاویه مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double concave",
+      "Meanings": [
+        "دو کاو",
+        "مقعرالطرفین"
+      ]
+    },
+    {
+      "EnglishWord": "double connectivity",
+      "Meanings": [
+        "همبندی مضاعف",
+        "ارتباط مضاعف",
+        "پیوستگی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double convex",
+      "Meanings": [
+        "دو کوژ",
+        "محدب الطرفین"
+      ]
+    },
+    {
+      "EnglishWord": "double coset",
+      "Meanings": [
+        "هم مجموعه مضاعف",
+        "هم دسته مضاعف",
+        "هم دسته دو طرفه",
+        "هم رده دو گانه"
+      ]
+    },
+    {
+      "EnglishWord": "double cusp",
+      "Meanings": [
+        "نقطه بازگشت مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double exponential",
+      "Meanings": [
+        "نمایی دو باری"
+      ]
+    },
+    {
+      "EnglishWord": "double inequality",
+      "Meanings": [
+        "نامساوی دو گانه"
+      ]
+    },
+    {
+      "EnglishWord": "double integral",
+      "Meanings": [
+        "انتگرال دوگانه",
+        "انتگرال مضاعف",
+        "انتگرال دوبل",
+        "جامعه دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "double limit",
+      "Meanings": [
+        "حد مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double negation",
+      "Meanings": [
+        "نفی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double periodicity",
+      "Meanings": [
+        "تناوب مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double point",
+      "Meanings": [
+        "نقطه مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double position",
+      "Meanings": [
+        "قاعده خطاین"
+      ]
+    },
+    {
+      "EnglishWord": "double precision",
+      "Meanings": [
+        "دقت مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double prime",
+      "Meanings": [
+        "زگوند",
+        "علامت ثانیه",
+        "علامت اینچ"
+      ]
+    },
+    {
+      "EnglishWord": "double product",
+      "Meanings": [
+        "حاصلضرب مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double pyramid",
+      "Meanings": [
+        "هرم مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double restriction",
+      "Meanings": [
+        "تحدید مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double root",
+      "Meanings": [
+        "ریشه مضاعف",
+        "ریشه دوگانه"
+      ]
+    },
+    {
+      "EnglishWord": "double sampling",
+      "Meanings": [
+        "نمونه گیری دوباری"
+      ]
+    },
+    {
+      "EnglishWord": "double sequence",
+      "Meanings": [
+        "دنباله مضاعف",
+        "دنباله دو گانه",
+        "رشته مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double series",
+      "Meanings": [
+        "سری دوگانه",
+        "سری مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double sum",
+      "Meanings": [
+        "حاصلجمع مضاعف",
+        "مجموع مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double summation",
+      "Meanings": [
+        "جمع دو طرفی"
+      ]
+    },
+    {
+      "EnglishWord": "double valued",
+      "Meanings": [
+        "دو مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "double valued function",
+      "Meanings": [
+        "تابع دو مقداری"
+      ]
+    },
+    {
+      "EnglishWord": "doublet",
+      "Meanings": [
+        "زوج",
+        "جفتی",
+        "دو گان"
+      ]
+    },
+    {
+      "EnglishWord": "doubleton",
+      "Meanings": [
+        "دو تایی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly",
+      "Meanings": [
+        "به طور دو گانه",
+        "مضاعفا",
+        "دو بار",
+        "دو باری",
+        "دو تایی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly asymptotic",
+      "Meanings": [
+        "دو مجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly balanced",
+      "Meanings": [
+        "دو بار متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "doubly equidistant curve",
+      "Meanings": [
+        "خم مضاعف هم‌فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "doubly periodic",
+      "Meanings": [
+        "دو تناوبه"
+      ]
+    },
+    {
+      "EnglishWord": "doubly periodic function",
+      "Meanings": [
+        "تابع دو تناوبه",
+        "تابع دو تناوبی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly ruled surface",
+      "Meanings": [
+        "رویه دو خط خطی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly stochastic",
+      "Meanings": [
+        "استوکاستیک دوباری"
+      ]
+    },
+    {
+      "EnglishWord": "doubly traced",
+      "Meanings": [
+        "دو ردی"
+      ]
+    },
+    {
+      "EnglishWord": "doulity",
+      "Meanings": [
+        "دوگانی"
+      ]
+    },
+    {
+      "EnglishWord": "downward",
+      "Meanings": [
+        "به طرف پایین"
+      ]
+    },
+    {
+      "EnglishWord": "downward concavity",
+      "Meanings": [
+        "تقعر به طرف پایین"
+      ]
+    },
+    {
+      "EnglishWord": "dozen",
+      "Meanings": [
+        "دو جین"
+      ]
+    },
+    {
+      "EnglishWord": "draftsmanship",
+      "Meanings": [
+        "رسم فنی",
+        "draughtsmanship=draftsmanship"
+      ]
+    },
+    {
+      "EnglishWord": "draw",
+      "Meanings": [
+        "رسم کردن",
+        "کشیدن",
+        "ثابت کردن",
+        "قرعه کشی",
+        "بیرون کشیدن",
+        "استخراج کردن",
+        "استخراج",
+        "ترسیم"
+      ]
+    },
+    {
+      "EnglishWord": "draw a line",
+      "Meanings": [
+        "مرور دادن یک خط"
+      ]
+    },
+    {
+      "EnglishWord": "draw with replacement",
+      "Meanings": [
+        "استخراج با جایگذاری آمار"
+      ]
+    },
+    {
+      "EnglishWord": "draw without replacement",
+      "Meanings": [
+        "استخراج بدون جایگذازی آمار"
+      ]
+    },
+    {
+      "EnglishWord": "drawing",
+      "Meanings": [
+        "رسم",
+        "استخراج",
+        "ترسیم",
+        "طراحی",
+        "طرح",
+        "قرعه کشی"
+      ]
+    },
+    {
+      "EnglishWord": "drawing lots",
+      "Meanings": [
+        "استخراج تصادفی",
+        "اقتراع",
+        "قرعه کشی"
+      ]
+    },
+    {
+      "EnglishWord": "drawing paper",
+      "Meanings": [
+        "کاغذ رسم"
+      ]
+    },
+    {
+      "EnglishWord": "dual",
+      "Meanings": [
+        "دوگان",
+        "هم زاد",
+        "جفت",
+        "دو گانه",
+        "دوال",
+        "ثنوی"
+      ]
+    },
+    {
+      "EnglishWord": "dual bases",
+      "Meanings": [
+        "پایه‌های هم زاد"
+      ]
+    },
+    {
+      "EnglishWord": "dual basis",
+      "Meanings": [
+        "پایه همتا",
+        "پایه دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "dual of a right k module",
+      "Meanings": [
+        "همتای یک k",
+        "مدول راست"
+      ]
+    },
+    {
+      "EnglishWord": "dual space",
+      "Meanings": [
+        "فضای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "duality",
+      "Meanings": [
+        "همزادی",
+        "دو گانی",
+        "دو گانگی",
+        "دویی",
+        "تناظر",
+        "دوالی",
+        "ثنویت"
+      ]
+    },
+    {
+      "EnglishWord": "due to regression",
+      "Meanings": [
+        "به واسطه رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "dummy",
+      "Meanings": [
+        "ظاهری شاخص‌ها",
+        "مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy index",
+      "Meanings": [
+        "اندیس مجازی",
+        "پانوشت مجازی",
+        "زیرنویس ظاهری",
+        "نمایه ظاهری",
+        "اندیس آزاد",
+        "نمودگار بی تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "dummy treatment",
+      "Meanings": [
+        "آزمایش یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "dummy variable",
+      "Meanings": [
+        "متغیر ظاهری",
+        "متغیر مجازی",
+        "متغیر بی تفاوت",
+        "متغیر فریبان",
+        "نشانه بی تفاوت"
+      ]
+    },
+    {
+      "EnglishWord": "duodecimal",
+      "Meanings": [
+        "دوازده تایی",
+        "دوازده دوازدهی",
+        "دوازدهی"
+      ]
+    },
+    {
+      "EnglishWord": "duodecimal scale",
+      "Meanings": [
+        "مقیاس دوازدهی"
+      ]
+    },
+    {
+      "EnglishWord": "duodecimal system",
+      "Meanings": [
+        "پایه دوازده",
+        "دستگاه شمار در مبنای دوازده"
+      ]
+    },
+    {
+      "EnglishWord": "duplicate ratio",
+      "Meanings": [
+        "نسبت به دو قوه"
+      ]
+    },
+    {
+      "EnglishWord": "duplication",
+      "Meanings": [
+        "نسخه برداری",
+        "تکرار",
+        "تکرار کردن",
+        "دوباره کردن",
+        "دوبله کردن",
+        "تثنیه",
+        "تضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "duplication formulas",
+      "Meanings": [
+        "دستورهای دو برابر",
+        "فرمول‌های دو برابر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "duplication of the cube",
+      "Meanings": [
+        "تضعیف مکعب"
+      ]
+    },
+    {
+      "EnglishWord": "duration",
+      "Meanings": [
+        "استمرار",
+        "مدت",
+        "دوران",
+        "مدت دوام",
+        "دیری"
+      ]
+    },
+    {
+      "EnglishWord": "dyad",
+      "Meanings": [
+        "دویی",
+        "زوج",
+        "جفت",
+        "دو گان",
+        "دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "dyadic",
+      "Meanings": [
+        "دو دویی",
+        "ثنایی شمار",
+        "دو تایی",
+        "دو گانی",
+        "دو برداری"
+      ]
+    },
+    {
+      "EnglishWord": "dyadic product",
+      "Meanings": [
+        "ضرب دو گانی"
+      ]
+    },
+    {
+      "EnglishWord": "dyadic relation",
+      "Meanings": [
+        "نسبت دو تایی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "dyadic system",
+      "Meanings": [
+        "دستگاه دو تایی",
+        "دستگاه شمار در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic",
+      "Meanings": [
+        "پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic optimization",
+      "Meanings": [
+        "بهینه سازی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "برنامه ریزی پویا",
+        "برنامه نویسی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic system",
+      "Meanings": [
+        "دستگاه پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamical",
+      "Meanings": [
+        "دینامیکی دستگاه"
+      ]
+    }
+  ]
+}

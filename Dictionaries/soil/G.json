@@ -1,0 +1,453 @@
+﻿{
+  "Group": "G",
+  "Entries": 74,
+  "Words": [
+    {
+      "EnglishWord": "g",
+      "Meanings": [
+        "جی"
+      ]
+    },
+    {
+      "EnglishWord": "g horizon",
+      "Meanings": [
+        "افق جی"
+      ]
+    },
+    {
+      "EnglishWord": "gabion",
+      "Meanings": [
+        "گابیون"
+      ]
+    },
+    {
+      "EnglishWord": "garbage",
+      "Meanings": [
+        "زباله"
+      ]
+    },
+    {
+      "EnglishWord": "gas pressure potential",
+      "Meanings": [
+        "پتانسیل فشار گاز"
+      ]
+    },
+    {
+      "EnglishWord": "gefuric fabric",
+      "Meanings": [
+        "فابریک جفوریک"
+      ]
+    },
+    {
+      "EnglishWord": "gel",
+      "Meanings": [
+        "ژل"
+      ]
+    },
+    {
+      "EnglishWord": "genetic",
+      "Meanings": [
+        "پیدایشی"
+      ]
+    },
+    {
+      "EnglishWord": "genetic pan",
+      "Meanings": [
+        "کفه پیدایشی"
+      ]
+    },
+    {
+      "EnglishWord": "geochemistry",
+      "Meanings": [
+        "زمین‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "geographic information system",
+      "Meanings": [
+        "سیستم اطلاعات جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "geological erosion",
+      "Meanings": [
+        "فرسایش زمین شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphic surface",
+      "Meanings": [
+        "سطح زمین‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "geomorphology",
+      "Meanings": [
+        "ژیومورفولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "germicide",
+      "Meanings": [
+        "میکروب کش"
+      ]
+    },
+    {
+      "EnglishWord": "gibbs free energy",
+      "Meanings": [
+        "انرژی آزاد گیبس"
+      ]
+    },
+    {
+      "EnglishWord": "gibbsite",
+      "Meanings": [
+        "گیبسیت"
+      ]
+    },
+    {
+      "EnglishWord": "gilgai",
+      "Meanings": [
+        "گیلگای"
+      ]
+    },
+    {
+      "EnglishWord": "gis",
+      "Meanings": [
+        "سیستم اطلاعات جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "glacial drift",
+      "Meanings": [
+        "یخرفت"
+      ]
+    },
+    {
+      "EnglishWord": "glacial soil",
+      "Meanings": [
+        "خاک یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "glacial till",
+      "Meanings": [
+        "یخ رفتی"
+      ]
+    },
+    {
+      "EnglishWord": "glaciers",
+      "Meanings": [
+        "یخچال"
+      ]
+    },
+    {
+      "EnglishWord": "glaciofluvial deposit",
+      "Meanings": [
+        "نهشته آب",
+        "یخ رفتی"
+      ]
+    },
+    {
+      "EnglishWord": "glaciolacustrine deposits",
+      "Meanings": [
+        "نهشته‌های دریاچه",
+        "یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "glaebul",
+      "Meanings": [
+        "گلابول"
+      ]
+    },
+    {
+      "EnglishWord": "glaebular halo",
+      "Meanings": [
+        "هاله گلابولی"
+      ]
+    },
+    {
+      "EnglishWord": "glauconite",
+      "Meanings": [
+        "گلاکونیت"
+      ]
+    },
+    {
+      "EnglishWord": "gley soil",
+      "Meanings": [
+        "خاک گلی"
+      ]
+    },
+    {
+      "EnglishWord": "gleyed",
+      "Meanings": [
+        "گلی شده"
+      ]
+    },
+    {
+      "EnglishWord": "gleyzation",
+      "Meanings": [
+        "گلی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "glycophyte",
+      "Meanings": [
+        "شیرین رست"
+      ]
+    },
+    {
+      "EnglishWord": "goethite",
+      "Meanings": [
+        "گیوتیت"
+      ]
+    },
+    {
+      "EnglishWord": "grain cutan",
+      "Meanings": [
+        "پوسته دانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "grain density",
+      "Meanings": [
+        "چگالی دانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "granic fabric",
+      "Meanings": [
+        "فابریک گرانیک"
+      ]
+    },
+    {
+      "EnglishWord": "granoidic fabric",
+      "Meanings": [
+        "فابریک گرانویدیک"
+      ]
+    },
+    {
+      "EnglishWord": "granoidic porphyroskelic fabric",
+      "Meanings": [
+        "فابریک گرانوایدک پورفیرواسکلیک"
+      ]
+    },
+    {
+      "EnglishWord": "granular structure",
+      "Meanings": [
+        "ساختمان دانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "granulation",
+      "Meanings": [
+        "دانه‌ای شدن"
+      ]
+    },
+    {
+      "EnglishWord": "granule",
+      "Meanings": [
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "grassed waterwy",
+      "Meanings": [
+        "آبراهه چمنی"
+      ]
+    },
+    {
+      "EnglishWord": "gravelly",
+      "Meanings": [
+        "ریگی"
+      ]
+    },
+    {
+      "EnglishWord": "gravitational potential",
+      "Meanings": [
+        "پتانسیل ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravitational water",
+      "Meanings": [
+        "آب ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravitropism",
+      "Meanings": [
+        "زمین گرایی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity flow",
+      "Meanings": [
+        "جریان ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gravity irrigation",
+      "Meanings": [
+        "آبیاری ثقلی"
+      ]
+    },
+    {
+      "EnglishWord": "gray desert soil",
+      "Meanings": [
+        "خاک بیابانی خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "gray-brown podzolic soil",
+      "Meanings": [
+        "خاک پادزولی قهوه‌ای",
+        "خاکستری"
+      ]
+    },
+    {
+      "EnglishWord": "great soil group",
+      "Meanings": [
+        "گروه بزرگ خاک"
+      ]
+    },
+    {
+      "EnglishWord": "green manure",
+      "Meanings": [
+        "کود سبز"
+      ]
+    },
+    {
+      "EnglishWord": "green manure crop",
+      "Meanings": [
+        "گیاه کود سبز"
+      ]
+    },
+    {
+      "EnglishWord": "greenhouse",
+      "Meanings": [
+        "گلخانه"
+      ]
+    },
+    {
+      "EnglishWord": "greenhouse effect",
+      "Meanings": [
+        "اثر گلخانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ground data",
+      "Meanings": [
+        "داده‌های زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground moraine",
+      "Meanings": [
+        "زمین یخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "ground water",
+      "Meanings": [
+        "آب زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground water hydrology",
+      "Meanings": [
+        "هیدرولوژی آبهای زیرزمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground water runoff",
+      "Meanings": [
+        "آبدوی زیرزمینی"
+      ]
+    },
+    {
+      "EnglishWord": "ground-water laterite soil",
+      "Meanings": [
+        "خاک لاتریتی مرطوب"
+      ]
+    },
+    {
+      "EnglishWord": "ground-water podzol soil",
+      "Meanings": [
+        "خاک پازول مرطوب"
+      ]
+    },
+    {
+      "EnglishWord": "groundwater runoff",
+      "Meanings": [
+        "رواناب زیرزمینی"
+      ]
+    },
+    {
+      "EnglishWord": "guano",
+      "Meanings": [
+        "زل"
+      ]
+    },
+    {
+      "EnglishWord": "gullied land",
+      "Meanings": [
+        "زمین آبکندی"
+      ]
+    },
+    {
+      "EnglishWord": "gully",
+      "Meanings": [
+        "خندق"
+      ]
+    },
+    {
+      "EnglishWord": "gully erosion",
+      "Meanings": [
+        "فرسایش خندقی"
+      ]
+    },
+    {
+      "EnglishWord": "gypsan",
+      "Meanings": [
+        "پوسته گچی"
+      ]
+    },
+    {
+      "EnglishWord": "gypsic horizon",
+      "Meanings": [
+        "افق جیپسیک"
+      ]
+    },
+    {
+      "EnglishWord": "gypsids",
+      "Meanings": [
+        "چیپسیدها"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum",
+      "Meanings": [
+        "گچ"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum land",
+      "Meanings": [
+        "زمین گچی"
+      ]
+    },
+    {
+      "EnglishWord": "gypsum requirement",
+      "Meanings": [
+        "نیاز گچی"
+      ]
+    },
+    {
+      "EnglishWord": "gyttja",
+      "Meanings": [
+        "لجن مانداب"
+      ]
+    }
+  ]
+}

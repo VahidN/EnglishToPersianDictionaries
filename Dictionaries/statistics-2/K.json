@@ -1,0 +1,439 @@
+﻿{
+  "Group": "K",
+  "Entries": 69,
+  "Words": [
+    {
+      "EnglishWord": "kannemann's incidence test",
+      "Meanings": [
+        "آزمون وقوع کانه‌من"
+      ]
+    },
+    {
+      "EnglishWord": "kantorovich inequality",
+      "Meanings": [
+        "نابرابری کانتوروویچ"
+      ]
+    },
+    {
+      "EnglishWord": "kaplan-meier estimator",
+      "Meanings": [
+        "برآوردگر کاپلان",
+        "مه‌یر"
+      ]
+    },
+    {
+      "EnglishWord": "kappa coefficient",
+      "Meanings": [
+        "ضریب کاپا"
+      ]
+    },
+    {
+      "EnglishWord": "kappa test of concordance",
+      "Meanings": [
+        "آزمون کاپا برای هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "kapteyn distribution",
+      "Meanings": [
+        "توزیع کاپ‌تاین"
+      ]
+    },
+    {
+      "EnglishWord": "karber method",
+      "Meanings": [
+        "روش کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "karhunen-loeve expansion",
+      "Meanings": [
+        "بسط کارهونن",
+        "لویه‌و"
+      ]
+    },
+    {
+      "EnglishWord": "karlin-mcgregor theorem",
+      "Meanings": [
+        "قضیه کارلین",
+        "مک‌گرگور"
+      ]
+    },
+    {
+      "EnglishWord": "katz system of distributions",
+      "Meanings": [
+        "منظومه توزیعهای کاتز"
+      ]
+    },
+    {
+      "EnglishWord": "kelley's approximation",
+      "Meanings": [
+        "تقریب که‌لی"
+      ]
+    },
+    {
+      "EnglishWord": "kemp families of distributions",
+      "Meanings": [
+        "خانواده‌های توزیعهای کمپ"
+      ]
+    },
+    {
+      "EnglishWord": "kendall's coefficient of concordance",
+      "Meanings": [
+        "ضریب هماهنگی کندال"
+      ]
+    },
+    {
+      "EnglishWord": "kernel",
+      "Meanings": [
+        "هسته"
+      ]
+    },
+    {
+      "EnglishWord": "kernel estimator",
+      "Meanings": [
+        "برآوردگر هسته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "kernel method",
+      "Meanings": [
+        "روش هسته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "kernel method of smoothing",
+      "Meanings": [
+        "روش هسته‌ای هموارسازی"
+      ]
+    },
+    {
+      "EnglishWord": "kesten theorems",
+      "Meanings": [
+        "قضیه‌های کستن"
+      ]
+    },
+    {
+      "EnglishWord": "key block",
+      "Meanings": [
+        "بلوک اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "key renewal theorem",
+      "Meanings": [
+        "قضیه اساسی تجدید"
+      ]
+    },
+    {
+      "EnglishWord": "keyfitz method of life-table construction",
+      "Meanings": [
+        "روش کی‌فیتس برای ساختن جدول زندگی"
+      ]
+    },
+    {
+      "EnglishWord": "keyfitz method of variance estimation",
+      "Meanings": [
+        "روش برآورد واریانس کی‌فیتس"
+      ]
+    },
+    {
+      "EnglishWord": "khinchin's inequality",
+      "Meanings": [
+        "نابرابری خین‌چین"
+      ]
+    },
+    {
+      "EnglishWord": "khinchin's unimodality theorem",
+      "Meanings": [
+        "قضیه تک‌مدی بودن خین‌چین"
+      ]
+    },
+    {
+      "EnglishWord": "kiefer process",
+      "Meanings": [
+        "فرایند کی‌فر"
+      ]
+    },
+    {
+      "EnglishWord": "kiefer-weiss problem",
+      "Meanings": [
+        "مسیله کی‌فر",
+        "وایس"
+      ]
+    },
+    {
+      "EnglishWord": "kiefer-wolfowitz equivalence theorem",
+      "Meanings": [
+        "قضیه هم‌ارزی کی‌فر",
+        "ولفوویتس"
+      ]
+    },
+    {
+      "EnglishWord": "kiefer-wolfowitz procedure",
+      "Meanings": [
+        "شیوه کی‌فر",
+        "ولفوویتس"
+      ]
+    },
+    {
+      "EnglishWord": "kinematic display",
+      "Meanings": [
+        "نمایش حرکتی"
+      ]
+    },
+    {
+      "EnglishWord": "kingman inequality",
+      "Meanings": [
+        "نابرابری کینگمن"
+      ]
+    },
+    {
+      "EnglishWord": "klotz test",
+      "Meanings": [
+        "آزمون کلوتس"
+      ]
+    },
+    {
+      "EnglishWord": "knock-out tournaments",
+      "Meanings": [
+        "دوره‌بازیهای حذفی"
+      ]
+    },
+    {
+      "EnglishWord": "knox's test",
+      "Meanings": [
+        "آزمون ناکس"
+      ]
+    },
+    {
+      "EnglishWord": "knut-vik design",
+      "Meanings": [
+        "طرح کنوت‌ویک"
+      ]
+    },
+    {
+      "EnglishWord": "knut-vik square",
+      "Meanings": [
+        "مربع کنوت‌ویک"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov axiom",
+      "Meanings": [
+        "اصل موضوع کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov backward equation",
+      "Meanings": [
+        "معادله پسروی کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov criterion",
+      "Meanings": [
+        "ملاک کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov forward equation",
+      "Meanings": [
+        "معادله پیشروی کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov-khinchin theorem",
+      "Meanings": [
+        "قضیه کولموگوروف",
+        "خین‌چین"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's inequality",
+      "Meanings": [
+        "نابرابری کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's three-series theorem",
+      "Meanings": [
+        "قضیه سه سری کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's zero-one law",
+      "Meanings": [
+        "قانون صفر",
+        "یک کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov-sinai invariant",
+      "Meanings": [
+        "ناوردای کولموگوروف",
+        "سینایی"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov-smirnov statistic",
+      "Meanings": [
+        "آماره کولموگوروف",
+        "اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov-smirnov symmetry test",
+      "Meanings": [
+        "آزمون تقارن کولموگوروف",
+        "اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov-smirnov-type tests of fit",
+      "Meanings": [
+        "آزمونهای برازش از نوع کولموگوروف",
+        "اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "koopman-darmois-pitman family",
+      "Meanings": [
+        "خانواده کوپمن",
+        "دارموآ",
+        "پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "koopman's test of symmetry",
+      "Meanings": [
+        "آزمون تقارن کوپمن"
+      ]
+    },
+    {
+      "EnglishWord": "koyck geometric lag",
+      "Meanings": [
+        "تاخیر هندسی کویک"
+      ]
+    },
+    {
+      "EnglishWord": "kraft inequality",
+      "Meanings": [
+        "نابرابری کرافت"
+      ]
+    },
+    {
+      "EnglishWord": "krawtchouk polynomial",
+      "Meanings": [
+        "چندجمله‌ای کرات‌چوک"
+      ]
+    },
+    {
+      "EnglishWord": "kriging",
+      "Meanings": [
+        "کریگیدن"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker delta",
+      "Meanings": [
+        "دلتای کرونه‌کر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker index",
+      "Meanings": [
+        "شاخص کرونه‌کر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker lemma",
+      "Meanings": [
+        "لم کرونه‌کر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker product",
+      "Meanings": [
+        "حاصلضرب کرونه‌کر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker product of designs",
+      "Meanings": [
+        "حاصلضرب کرونه‌کری طرحها"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker product of matrices",
+      "Meanings": [
+        "حاصلضرب کرونه‌کری ماتریسها"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker set",
+      "Meanings": [
+        "مجموعه کرونه‌کر"
+      ]
+    },
+    {
+      "EnglishWord": "kronmal-harter estimate",
+      "Meanings": [
+        "برآورد کرون‌مال",
+        "هارتر"
+      ]
+    },
+    {
+      "EnglishWord": "kruskal-shepard method",
+      "Meanings": [
+        "روش کروسکال",
+        "شپرد"
+      ]
+    },
+    {
+      "EnglishWord": "kruskal-wallis test",
+      "Meanings": [
+        "آزمون کروسکال",
+        "والیس"
+      ]
+    },
+    {
+      "EnglishWord": "kuiper-corsten iteration",
+      "Meanings": [
+        "تکرار کویی‌پر",
+        "کورستن"
+      ]
+    },
+    {
+      "EnglishWord": "kuiper's statistic",
+      "Meanings": [
+        "آماره کویی‌پر"
+      ]
+    },
+    {
+      "EnglishWord": "kullback information",
+      "Meanings": [
+        "اطلاع کولبک"
+      ]
+    },
+    {
+      "EnglishWord": "kullback-liebler information",
+      "Meanings": [
+        "اطلاع کولبک",
+        "لیب‌لر"
+      ]
+    },
+    {
+      "EnglishWord": "kurtosis",
+      "Meanings": [
+        "کشیدگی"
+      ]
+    }
+  ]
+}

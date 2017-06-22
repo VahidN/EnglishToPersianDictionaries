@@ -1,0 +1,736 @@
+﻿{
+  "Group": "S",
+  "Entries": 120,
+  "Words": [
+    {
+      "EnglishWord": "s",
+      "Meanings": [
+        "نوزدهمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "saddle point",
+      "Meanings": [
+        "نقطه زینی"
+      ]
+    },
+    {
+      "EnglishWord": "satisfiability",
+      "Meanings": [
+        "صدق پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "satisfiability algorithm",
+      "Meanings": [
+        "الگوریتم صدق پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "satisfiability problem",
+      "Meanings": [
+        "مسیله صدق پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "saturated edge",
+      "Meanings": [
+        "یال اشباع شده"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "روش",
+        "طرح"
+      ]
+    },
+    {
+      "EnglishWord": "scope",
+      "Meanings": [
+        "حوزه",
+        "دامنه",
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "seek time",
+      "Meanings": [
+        "زمان جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "selection sort",
+      "Meanings": [
+        "مرتب ساز انتخابی"
+      ]
+    },
+    {
+      "EnglishWord": "selection sort method",
+      "Meanings": [
+        "روش مرتب ساز انتخابی"
+      ]
+    },
+    {
+      "EnglishWord": "self loop",
+      "Meanings": [
+        "طوقه"
+      ]
+    },
+    {
+      "EnglishWord": "sentinel",
+      "Meanings": [
+        "نگهبان",
+        "کشیک"
+      ]
+    },
+    {
+      "EnglishWord": "separation theorem",
+      "Meanings": [
+        "قضیه جدا سازی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential",
+      "Meanings": [
+        "ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential list",
+      "Meanings": [
+        "لیست ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "set",
+      "Meanings": [
+        "مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "set complement",
+      "Meanings": [
+        "مکمل مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "set difference",
+      "Meanings": [
+        "تفاضل مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "set intersection",
+      "Meanings": [
+        "اشتراک مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "set union",
+      "Meanings": [
+        "اجتماع مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "share",
+      "Meanings": [
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "shared memory",
+      "Meanings": [
+        "حافظه اشتراکی"
+      ]
+    },
+    {
+      "EnglishWord": "shell sort",
+      "Meanings": [
+        "مرتب ساز صدفی"
+      ]
+    },
+    {
+      "EnglishWord": "shor's algorithm",
+      "Meanings": [
+        "الگوریتم شور"
+      ]
+    },
+    {
+      "EnglishWord": "shortest path",
+      "Meanings": [
+        "کوتاهترین مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "shortest spanning tree",
+      "Meanings": [
+        "کوتاهترین درخت فراگیر"
+      ]
+    },
+    {
+      "EnglishWord": "shrink",
+      "Meanings": [
+        "کوچک شدن"
+      ]
+    },
+    {
+      "EnglishWord": "sibling",
+      "Meanings": [
+        "همزاد",
+        "برادر"
+      ]
+    },
+    {
+      "EnglishWord": "sierpinski triangle",
+      "Meanings": [
+        "مثلث سرپینسکی"
+      ]
+    },
+    {
+      "EnglishWord": "signature",
+      "Meanings": [
+        "امضا"
+      ]
+    },
+    {
+      "EnglishWord": "simple",
+      "Meanings": [
+        "ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple merge",
+      "Meanings": [
+        "ادغام ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple path",
+      "Meanings": [
+        "مسیر ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simulation theorem",
+      "Meanings": [
+        "قضیه شبیه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simulator",
+      "Meanings": [
+        "شبیه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "single destination shortest path problem",
+      "Meanings": [
+        "مسیله کوتاهترین مسیر به یک مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "single pair shortest path problem",
+      "Meanings": [
+        "مسیله کوتاهترین مسیر بین یک زوج راس"
+      ]
+    },
+    {
+      "EnglishWord": "single source shortest path problem",
+      "Meanings": [
+        "مسیله کوتاهترین مسیر از یک مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "singleton set",
+      "Meanings": [
+        "مجموعه یک عضوی"
+      ]
+    },
+    {
+      "EnglishWord": "singly linked list",
+      "Meanings": [
+        "لیست پیوندی یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "singularity analysis",
+      "Meanings": [
+        "تحلیل نقطه منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "sink",
+      "Meanings": [
+        "چاهک"
+      ]
+    },
+    {
+      "EnglishWord": "sink sort",
+      "Meanings": [
+        "مرتب ساز فرو برنده"
+      ]
+    },
+    {
+      "EnglishWord": "sinking sort",
+      "Meanings": [
+        "مرتب ساز فرو برنده"
+      ]
+    },
+    {
+      "EnglishWord": "skew",
+      "Meanings": [
+        "اریب",
+        "مورب"
+      ]
+    },
+    {
+      "EnglishWord": "skew symmetry",
+      "Meanings": [
+        "تقارن چپ"
+      ]
+    },
+    {
+      "EnglishWord": "skewed binary tree",
+      "Meanings": [
+        "درخت دودویی مورب"
+      ]
+    },
+    {
+      "EnglishWord": "skewed heap",
+      "Meanings": [
+        "هرم مورب"
+      ]
+    },
+    {
+      "EnglishWord": "skewed tree",
+      "Meanings": [
+        "درخت مورب"
+      ]
+    },
+    {
+      "EnglishWord": "slope selection",
+      "Meanings": [
+        "انتخاب شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slot",
+      "Meanings": [
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "solvable",
+      "Meanings": [
+        "حل پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "sort",
+      "Meanings": [
+        "مرتب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sorted linked list",
+      "Meanings": [
+        "لیست پیوندی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "sorted sequential list",
+      "Meanings": [
+        "لیست ترتیبی مرتب"
+      ]
+    },
+    {
+      "EnglishWord": "sorting algorithm",
+      "Meanings": [
+        "الگوریتم مرتب سازی"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "منبع"
+      ]
+    },
+    {
+      "EnglishWord": "space complexity",
+      "Meanings": [
+        "پیچیدگی حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "space constructible function",
+      "Meanings": [
+        "تابع فضای ساختنی"
+      ]
+    },
+    {
+      "EnglishWord": "spanning forest",
+      "Meanings": [
+        "جنگل پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "spanning tree",
+      "Meanings": [
+        "درخت پوشا"
+      ]
+    },
+    {
+      "EnglishWord": "sparse graph",
+      "Meanings": [
+        "گراف خلوت"
+      ]
+    },
+    {
+      "EnglishWord": "sparse matrix",
+      "Meanings": [
+        "ماتریس خلوت"
+      ]
+    },
+    {
+      "EnglishWord": "sparse polynomial",
+      "Meanings": [
+        "چند جمله ای خلوت"
+      ]
+    },
+    {
+      "EnglishWord": "sparsification",
+      "Meanings": [
+        "خلوت سازی"
+      ]
+    },
+    {
+      "EnglishWord": "split",
+      "Meanings": [
+        "تجزیه",
+        "تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "splitting algorithm",
+      "Meanings": [
+        "الگوریتم تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "square matrix",
+      "Meanings": [
+        "ماتریس مربعی"
+      ]
+    },
+    {
+      "EnglishWord": "square root",
+      "Meanings": [
+        "ریشه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "s-t cut",
+      "Meanings": [
+        "برش s",
+        "t"
+      ]
+    },
+    {
+      "EnglishWord": "stable",
+      "Meanings": [
+        "پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stack",
+      "Meanings": [
+        "پشته"
+      ]
+    },
+    {
+      "EnglishWord": "stack tree",
+      "Meanings": [
+        "درخت پشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "star-shaped",
+      "Meanings": [
+        "ستاره ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "star-shaped polygon",
+      "Meanings": [
+        "چند ضلعی ستاره ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "start state",
+      "Meanings": [
+        "حالت شروع"
+      ]
+    },
+    {
+      "EnglishWord": "state",
+      "Meanings": [
+        "حالت"
+      ]
+    },
+    {
+      "EnglishWord": "state machine",
+      "Meanings": [
+        "ماشین حالت"
+      ]
+    },
+    {
+      "EnglishWord": "state transition",
+      "Meanings": [
+        "گذر حالت"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "گزاره",
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "steiner minimum tree",
+      "Meanings": [
+        "درخت کمینه اشتاینر"
+      ]
+    },
+    {
+      "EnglishWord": "steiner point",
+      "Meanings": [
+        "نقطه اشتاینر"
+      ]
+    },
+    {
+      "EnglishWord": "steiner ratio",
+      "Meanings": [
+        "نسبت اشتاینر"
+      ]
+    },
+    {
+      "EnglishWord": "steiner tree",
+      "Meanings": [
+        "درخت اشتاینر"
+      ]
+    },
+    {
+      "EnglishWord": "steiner vertex",
+      "Meanings": [
+        "راس اشتاینر"
+      ]
+    },
+    {
+      "EnglishWord": "stirling's approximation",
+      "Meanings": [
+        "تقریب استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stirling's formula",
+      "Meanings": [
+        "فرمول استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stooge sort",
+      "Meanings": [
+        "مرتب ساز ساده لوحانه"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "storage management",
+      "Meanings": [
+        "مدیریت حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "storage management algorithm",
+      "Meanings": [
+        "الگوریتم مدیریت حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "straight line drawing",
+      "Meanings": [
+        "ترسیم مستقیم الخط"
+      ]
+    },
+    {
+      "EnglishWord": "strassen algorithm",
+      "Meanings": [
+        "الگوریتم استراسن"
+      ]
+    },
+    {
+      "EnglishWord": "strictly",
+      "Meanings": [
+        "اکیدا"
+      ]
+    },
+    {
+      "EnglishWord": "strictly decreasing",
+      "Meanings": [
+        "اکیدا نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly increasing",
+      "Meanings": [
+        "اکیدا صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly lower triangular matrix",
+      "Meanings": [
+        "ماتریس اکیدا پایین مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "strictly upper triangular matrix",
+      "Meanings": [
+        "ماتریس اکیدا بالا مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "string",
+      "Meanings": [
+        "رشته"
+      ]
+    },
+    {
+      "EnglishWord": "strongly connected graph",
+      "Meanings": [
+        "گراف قویا همبند"
+      ]
+    },
+    {
+      "EnglishWord": "subadditive ergodic theorem",
+      "Meanings": [
+        "قضیه ارگودیک زیر جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "subgraph",
+      "Meanings": [
+        "زیر گراف"
+      ]
+    },
+    {
+      "EnglishWord": "subgraph isomorphism",
+      "Meanings": [
+        "یکریختی زیر گراف ها"
+      ]
+    },
+    {
+      "EnglishWord": "subpath",
+      "Meanings": [
+        "زیر مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "subset",
+      "Meanings": [
+        "زیر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "subtype",
+      "Meanings": [
+        "زیر نوع"
+      ]
+    },
+    {
+      "EnglishWord": "successive",
+      "Meanings": [
+        "متوالی",
+        "بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "suffix",
+      "Meanings": [
+        "پسوندی"
+      ]
+    },
+    {
+      "EnglishWord": "suffix automaton",
+      "Meanings": [
+        "اتوماتون پسوندی"
+      ]
+    },
+    {
+      "EnglishWord": "superset",
+      "Meanings": [
+        "زبر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "supersink",
+      "Meanings": [
+        "ابر چاهک"
+      ]
+    },
+    {
+      "EnglishWord": "supersource",
+      "Meanings": [
+        "ابر منبع"
+      ]
+    },
+    {
+      "EnglishWord": "suspended queue",
+      "Meanings": [
+        "صف معوق"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric",
+      "Meanings": [
+        "متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric binomial distribution",
+      "Meanings": [
+        "توزیع دو جمله ای متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric set difference",
+      "Meanings": [
+        "تفاضل متقارن مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrically linked list",
+      "Meanings": [
+        "لیست پیوندی متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "synonyms",
+      "Meanings": [
+        "مترادف"
+      ]
+    }
+  ]
+}

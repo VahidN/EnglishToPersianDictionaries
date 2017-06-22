@@ -1,0 +1,2642 @@
+﻿{
+  "Group": "S",
+  "Entries": 438,
+  "Words": [
+    {
+      "EnglishWord": "safety go - devil",
+      "Meanings": [
+        "شیطانک انفجاری بی خطر"
+      ]
+    },
+    {
+      "EnglishWord": "safety joint",
+      "Meanings": [
+        "اتصال اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "safety platform",
+      "Meanings": [
+        "سکوی اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "saline",
+      "Meanings": [
+        "نمک دار"
+      ]
+    },
+    {
+      "EnglishWord": "salinity",
+      "Meanings": [
+        "شوری",
+        "شوری سنج"
+      ]
+    },
+    {
+      "EnglishWord": "salt - water dispodal",
+      "Meanings": [
+        "دفع آب نمک"
+      ]
+    },
+    {
+      "EnglishWord": "salt - water dispodal well",
+      "Meanings": [
+        "چاه دفع آب دفع"
+      ]
+    },
+    {
+      "EnglishWord": "salt - water mud",
+      "Meanings": [
+        "گل آب نمک"
+      ]
+    },
+    {
+      "EnglishWord": "salt dome",
+      "Meanings": [
+        "گنبد نمک"
+      ]
+    },
+    {
+      "EnglishWord": "salt spray fog test",
+      "Meanings": [
+        "آزمایش خوردگی با آب نمک"
+      ]
+    },
+    {
+      "EnglishWord": "salt water",
+      "Meanings": [
+        "آب نمک"
+      ]
+    },
+    {
+      "EnglishWord": "sample - taking bullet apparatus",
+      "Meanings": [
+        "تفنگ مغزه گیر ی"
+      ]
+    },
+    {
+      "EnglishWord": "sampler",
+      "Meanings": [
+        "نمونه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling of cutting",
+      "Meanings": [
+        "نمونه گیری از تراشه‌های چاه"
+      ]
+    },
+    {
+      "EnglishWord": "sampson post",
+      "Meanings": [
+        "پایه شاهین"
+      ]
+    },
+    {
+      "EnglishWord": "sampson post braces",
+      "Meanings": [
+        "بست‌های پایه شاهین"
+      ]
+    },
+    {
+      "EnglishWord": "sand ballast",
+      "Meanings": [
+        "پارسنگ ماسه یی"
+      ]
+    },
+    {
+      "EnglishWord": "sand ballasting",
+      "Meanings": [
+        "پارسنگ گذاری با ماسه"
+      ]
+    },
+    {
+      "EnglishWord": "sand cutting",
+      "Meanings": [
+        "ماسه زدگی"
+      ]
+    },
+    {
+      "EnglishWord": "sand heaving",
+      "Meanings": [
+        "جابجا شدن ماسه"
+      ]
+    },
+    {
+      "EnglishWord": "sand lens",
+      "Meanings": [
+        "ماهیچه شنی"
+      ]
+    },
+    {
+      "EnglishWord": "sand line pulley",
+      "Meanings": [
+        "قرقره سیم تمیز کاری"
+      ]
+    },
+    {
+      "EnglishWord": "sand plug",
+      "Meanings": [
+        "مجرابند ماسه یی"
+      ]
+    },
+    {
+      "EnglishWord": "sand pump",
+      "Meanings": [
+        "تلمبه ماسه کشی"
+      ]
+    },
+    {
+      "EnglishWord": "sand tester",
+      "Meanings": [
+        "شن آزما"
+      ]
+    },
+    {
+      "EnglishWord": "sand trap",
+      "Meanings": [
+        "تله ماسه یی"
+      ]
+    },
+    {
+      "EnglishWord": "sand v up",
+      "Meanings": [
+        "ماسه گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "sandfraching",
+      "Meanings": [
+        "ماسه شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "sanding trouble",
+      "Meanings": [
+        "مزاحمت ماسه"
+      ]
+    },
+    {
+      "EnglishWord": "sanding up",
+      "Meanings": [
+        "ماسه گرفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "sandstone",
+      "Meanings": [
+        "ماسه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "sandy facies",
+      "Meanings": [
+        "رخساره ماسه یی"
+      ]
+    },
+    {
+      "EnglishWord": "sandy mud",
+      "Meanings": [
+        "گل ماسه دار"
+      ]
+    },
+    {
+      "EnglishWord": "sapropel",
+      "Meanings": [
+        "پوده لای"
+      ]
+    },
+    {
+      "EnglishWord": "sapropelite",
+      "Meanings": [
+        "پوده زغال"
+      ]
+    },
+    {
+      "EnglishWord": "satandard electric logging",
+      "Meanings": [
+        "نمودارگیری الکتریکی استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "satellite platform",
+      "Meanings": [
+        "سکوی فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "satellite well",
+      "Meanings": [
+        "چاه فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "saturaed reservoir",
+      "Meanings": [
+        "مخزن اشباع شده"
+      ]
+    },
+    {
+      "EnglishWord": "saturated oil",
+      "Meanings": [
+        "نفت اشباع شده"
+      ]
+    },
+    {
+      "EnglishWord": "saturated rock",
+      "Meanings": [
+        "سنگ اشباع شده"
+      ]
+    },
+    {
+      "EnglishWord": "saw - toothed crown",
+      "Meanings": [
+        "کاج دندانه اره ایی"
+      ]
+    },
+    {
+      "EnglishWord": "sawdust",
+      "Meanings": [
+        "خاک اره"
+      ]
+    },
+    {
+      "EnglishWord": "scale deposit",
+      "Meanings": [
+        "رسوب آهکی"
+      ]
+    },
+    {
+      "EnglishWord": "schist",
+      "Meanings": [
+        "شیست"
+      ]
+    },
+    {
+      "EnglishWord": "schistorsity",
+      "Meanings": [
+        "شیست وارگی"
+      ]
+    },
+    {
+      "EnglishWord": "scintillation counter",
+      "Meanings": [
+        "شمارگر سوسوزن"
+      ]
+    },
+    {
+      "EnglishWord": "scintillator",
+      "Meanings": [
+        "سو سوزن"
+      ]
+    },
+    {
+      "EnglishWord": "scouring",
+      "Meanings": [
+        "فرسایش"
+      ]
+    },
+    {
+      "EnglishWord": "screen",
+      "Meanings": [
+        "توری"
+      ]
+    },
+    {
+      "EnglishWord": "screen pipe",
+      "Meanings": [
+        "لوله مشبک"
+      ]
+    },
+    {
+      "EnglishWord": "screw - down valve",
+      "Meanings": [
+        "شیر دوکی"
+      ]
+    },
+    {
+      "EnglishWord": "sea - bed sampling",
+      "Meanings": [
+        "نمونه برداری از بستر دریا"
+      ]
+    },
+    {
+      "EnglishWord": "sea bed",
+      "Meanings": [
+        "بستر دریا"
+      ]
+    },
+    {
+      "EnglishWord": "sea water ballast",
+      "Meanings": [
+        "پارسنگ آب دریا"
+      ]
+    },
+    {
+      "EnglishWord": "sea water mud",
+      "Meanings": [
+        "گل آب دریا"
+      ]
+    },
+    {
+      "EnglishWord": "sea water pump",
+      "Meanings": [
+        "تلمبه آب دریا"
+      ]
+    },
+    {
+      "EnglishWord": "sealoading line",
+      "Meanings": [
+        "خط لوله دریایی"
+      ]
+    },
+    {
+      "EnglishWord": "seam",
+      "Meanings": [
+        "رگه"
+      ]
+    },
+    {
+      "EnglishWord": "seamless casing",
+      "Meanings": [
+        "جداره بی درز"
+      ]
+    },
+    {
+      "EnglishWord": "seamless pipe",
+      "Meanings": [
+        "لوله بی درز"
+      ]
+    },
+    {
+      "EnglishWord": "seawater deoxygenation column",
+      "Meanings": [
+        "برج اکسیژن زدایی آب دریا"
+      ]
+    },
+    {
+      "EnglishWord": "secondary - recovery method",
+      "Meanings": [
+        "روش بازیافت ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary anticline",
+      "Meanings": [
+        "تاقدیس ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary exploitation",
+      "Meanings": [
+        "بهره برداری ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary field",
+      "Meanings": [
+        "میدان ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary migration",
+      "Meanings": [
+        "مهاجرت ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary permeability",
+      "Meanings": [
+        "تراوایی ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary reserves",
+      "Meanings": [
+        "ذخایر ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary rock",
+      "Meanings": [
+        "سنگ ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary water",
+      "Meanings": [
+        "آب ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "seconfary interstice",
+      "Meanings": [
+        "خلل و فرج ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "sectional hut",
+      "Meanings": [
+        "بوش دوپاره"
+      ]
+    },
+    {
+      "EnglishWord": "secundary porosit",
+      "Meanings": [
+        "تخلخل ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentary deposit",
+      "Meanings": [
+        "نهشت رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentary field",
+      "Meanings": [
+        "میدان رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentary overlap",
+      "Meanings": [
+        "پوشش رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentary reservoir rock",
+      "Meanings": [
+        "سنگ مخزن رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentological conditions",
+      "Meanings": [
+        "شرایط رسوب شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "seep",
+      "Meanings": [
+        "تراویدن",
+        "تراوش"
+      ]
+    },
+    {
+      "EnglishWord": "seepage oil",
+      "Meanings": [
+        "نفت تراوشی"
+      ]
+    },
+    {
+      "EnglishWord": "seismic method",
+      "Meanings": [
+        "روش اکتشاف لرزه یی"
+      ]
+    },
+    {
+      "EnglishWord": "seismic reflection method",
+      "Meanings": [
+        "روش انعکاس لرزه"
+      ]
+    },
+    {
+      "EnglishWord": "seismic refraction method",
+      "Meanings": [
+        "روش انکسار لرزه"
+      ]
+    },
+    {
+      "EnglishWord": "seismogram",
+      "Meanings": [
+        "لرزه نگاشت"
+      ]
+    },
+    {
+      "EnglishWord": "seismograph",
+      "Meanings": [
+        "لرزه نگار"
+      ]
+    },
+    {
+      "EnglishWord": "seismometer",
+      "Meanings": [
+        "لرزه سنج"
+      ]
+    },
+    {
+      "EnglishWord": "seismometer spacing",
+      "Meanings": [
+        "فاصله بندی لرزه سنج ها"
+      ]
+    },
+    {
+      "EnglishWord": "seismometer spread",
+      "Meanings": [
+        "آرایش لرزه سنج ها"
+      ]
+    },
+    {
+      "EnglishWord": "selective corrosion",
+      "Meanings": [
+        "خوردگی تمایزی"
+      ]
+    },
+    {
+      "EnglishWord": "selective gamma - gamma logging",
+      "Meanings": [
+        "نمودارگیری گاما",
+        "گامای تمایزی"
+      ]
+    },
+    {
+      "EnglishWord": "selective spectrometric gamma- gamma logging",
+      "Meanings": [
+        "نمودار گیری گاما",
+        "گامای طیفی تمایزی"
+      ]
+    },
+    {
+      "EnglishWord": "selective spontaneous potential",
+      "Meanings": [
+        "پتانسیل خودزاد تمایزی"
+      ]
+    },
+    {
+      "EnglishWord": "selective water injection",
+      "Meanings": [
+        "تزریق تمایزی آب"
+      ]
+    },
+    {
+      "EnglishWord": "self - elevating platform",
+      "Meanings": [
+        "سکوی جک دار"
+      ]
+    },
+    {
+      "EnglishWord": "self - elevating platform jacket",
+      "Meanings": [
+        "دستگاه صعود سکوی جک دار"
+      ]
+    },
+    {
+      "EnglishWord": "self - elevating production platform",
+      "Meanings": [
+        "سکوی بهره برداری جک دار"
+      ]
+    },
+    {
+      "EnglishWord": "self - potential log",
+      "Meanings": [
+        "نمودار پتانسیل خودزاد"
+      ]
+    },
+    {
+      "EnglishWord": "self - potential method",
+      "Meanings": [
+        "روش پتانسیل خودزاد"
+      ]
+    },
+    {
+      "EnglishWord": "self - propelled drilling platform",
+      "Meanings": [
+        "سکوی حفاری محرکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "self - propelled drillship",
+      "Meanings": [
+        "کشتی حفاری محرکه دار"
+      ]
+    },
+    {
+      "EnglishWord": "self contained platform",
+      "Meanings": [
+        "سکوی خود کفا"
+      ]
+    },
+    {
+      "EnglishWord": "semi - membrane tank",
+      "Meanings": [
+        "مخزن نیمه غشایی"
+      ]
+    },
+    {
+      "EnglishWord": "semi - submersible drilling platform",
+      "Meanings": [
+        "سکوی حفاری نیمه غوطه ور"
+      ]
+    },
+    {
+      "EnglishWord": "semi- fixed platform",
+      "Meanings": [
+        "سکوی نیمه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "sensitive drill",
+      "Meanings": [
+        "مته حفاری حساس"
+      ]
+    },
+    {
+      "EnglishWord": "separator",
+      "Meanings": [
+        "دستگاه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "separator oil",
+      "Meanings": [
+        "نفت دستگاه تفکیک"
+      ]
+    },
+    {
+      "EnglishWord": "service well head",
+      "Meanings": [
+        "شیر آلات موقت سر چاه"
+      ]
+    },
+    {
+      "EnglishWord": "set v on a well",
+      "Meanings": [
+        "مراقبت کردن از چاه"
+      ]
+    },
+    {
+      "EnglishWord": "setting depth",
+      "Meanings": [
+        "عمق نصب"
+      ]
+    },
+    {
+      "EnglishWord": "setting time of cement",
+      "Meanings": [
+        "زمان بستن سیمان"
+      ]
+    },
+    {
+      "EnglishWord": "settled production",
+      "Meanings": [
+        "تولید مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "settled production rate",
+      "Meanings": [
+        "میزان تولید مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "settling ditch",
+      "Meanings": [
+        "کانال رسوب گیری"
+      ]
+    },
+    {
+      "EnglishWord": "settling pit",
+      "Meanings": [
+        "حوضچه ته نشینی"
+      ]
+    },
+    {
+      "EnglishWord": "shaker",
+      "Meanings": [
+        "سرند لرزان"
+      ]
+    },
+    {
+      "EnglishWord": "shaker mud tank",
+      "Meanings": [
+        "مخزن گل سرند لرزان"
+      ]
+    },
+    {
+      "EnglishWord": "shale base line",
+      "Meanings": [
+        "خط مبدا پلمه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "shale break",
+      "Meanings": [
+        "میان لایه پلمه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "shallow drilling",
+      "Meanings": [
+        "حفاری کم عمق"
+      ]
+    },
+    {
+      "EnglishWord": "shallow pool test well",
+      "Meanings": [
+        "چاه اکتشافی مخزن کم عمق"
+      ]
+    },
+    {
+      "EnglishWord": "shallow well",
+      "Meanings": [
+        "چاه کم عمق"
+      ]
+    },
+    {
+      "EnglishWord": "shalr oil",
+      "Meanings": [
+        "نفت پلمه سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "shaped charge",
+      "Meanings": [
+        "خرج گود"
+      ]
+    },
+    {
+      "EnglishWord": "sharpen v the bit",
+      "Meanings": [
+        "تیز کردن مته"
+      ]
+    },
+    {
+      "EnglishWord": "shear fold",
+      "Meanings": [
+        "چین برشی"
+      ]
+    },
+    {
+      "EnglishWord": "shear zone",
+      "Meanings": [
+        "منطقه برشی"
+      ]
+    },
+    {
+      "EnglishWord": "shearing strain",
+      "Meanings": [
+        "کرنش برشی"
+      ]
+    },
+    {
+      "EnglishWord": "sheeting",
+      "Meanings": [
+        "جداره بندی"
+      ]
+    },
+    {
+      "EnglishWord": "shell auger",
+      "Meanings": [
+        "مته قاشقی"
+      ]
+    },
+    {
+      "EnglishWord": "shield",
+      "Meanings": [
+        "سپر"
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "حرکت جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "shift fault",
+      "Meanings": [
+        "گسل با حرکت جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "shoe guide",
+      "Meanings": [
+        "راهنمای کفشک"
+      ]
+    },
+    {
+      "EnglishWord": "shooting of a well",
+      "Meanings": [
+        "انفجار چاه"
+      ]
+    },
+    {
+      "EnglishWord": "shooting point",
+      "Meanings": [
+        "نقطه انفجاری"
+      ]
+    },
+    {
+      "EnglishWord": "short lateral sevice",
+      "Meanings": [
+        "گمانه جانبی کوتاه برد"
+      ]
+    },
+    {
+      "EnglishWord": "short normal sond",
+      "Meanings": [
+        "گمانه عادی با برد کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short thread sasing",
+      "Meanings": [
+        "جداره دنده کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short threads",
+      "Meanings": [
+        "دنده کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "shot core drilling",
+      "Meanings": [
+        "مغزه بری با ساچمه"
+      ]
+    },
+    {
+      "EnglishWord": "shot hole",
+      "Meanings": [
+        "سوراخ خرج"
+      ]
+    },
+    {
+      "EnglishWord": "shot hole drilling",
+      "Meanings": [
+        "کندن سوراخ"
+      ]
+    },
+    {
+      "EnglishWord": "shot hole plug",
+      "Meanings": [
+        "مجرابند سوراخ خرج"
+      ]
+    },
+    {
+      "EnglishWord": "shotbreak",
+      "Meanings": [
+        "لحظه انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "shotpoint distance",
+      "Meanings": [
+        "فاصله نقطه انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "show evaluation log",
+      "Meanings": [
+        "نمودار ارزیابی آثار نفت"
+      ]
+    },
+    {
+      "EnglishWord": "shut - in bottom hole pressure",
+      "Meanings": [
+        "فشار ته چاه بسته"
+      ]
+    },
+    {
+      "EnglishWord": "shut - in formation pressure",
+      "Meanings": [
+        "فشار ساکن ته چاه بسته"
+      ]
+    },
+    {
+      "EnglishWord": "shut - off valve",
+      "Meanings": [
+        "شیر قطع و وصل"
+      ]
+    },
+    {
+      "EnglishWord": "shutting in of the hole",
+      "Meanings": [
+        "بستن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "side - tracked hole",
+      "Meanings": [
+        "چاه کنار گذر"
+      ]
+    },
+    {
+      "EnglishWord": "side door casing elevator",
+      "Meanings": [
+        "جداره بالابر دهنه جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "side door elevator",
+      "Meanings": [
+        "بالابر با درب جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "side scan sonar",
+      "Meanings": [
+        "سونار جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "side track",
+      "Meanings": [
+        "کنار گذر"
+      ]
+    },
+    {
+      "EnglishWord": "side tracking",
+      "Meanings": [
+        "کج شاخه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "sidetrack",
+      "Meanings": [
+        "کنار گذر زدن"
+      ]
+    },
+    {
+      "EnglishWord": "signaling pig",
+      "Meanings": [
+        "توپک علامت"
+      ]
+    },
+    {
+      "EnglishWord": "silurian",
+      "Meanings": [
+        "سیلورین"
+      ]
+    },
+    {
+      "EnglishWord": "simplex cementing collar",
+      "Meanings": [
+        "طوقه س سیمان کاری یک طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous drilling",
+      "Meanings": [
+        "حفاری همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "single - drum hoist",
+      "Meanings": [
+        "منجیق تک چرخ"
+      ]
+    },
+    {
+      "EnglishWord": "single - point buoy mooring system",
+      "Meanings": [
+        "روش پهلو گیری تک بویه"
+      ]
+    },
+    {
+      "EnglishWord": "single - point mooring",
+      "Meanings": [
+        "پهلو گیری تک نقطه یی"
+      ]
+    },
+    {
+      "EnglishWord": "single - point mooring buoy",
+      "Meanings": [
+        "بویه پهلو گاه تک نقطه یی"
+      ]
+    },
+    {
+      "EnglishWord": "single acting pump",
+      "Meanings": [
+        "تلمبه تک ضربه یی"
+      ]
+    },
+    {
+      "EnglishWord": "single anchor leg mooring",
+      "Meanings": [
+        "پهلو گاه تک پایه"
+      ]
+    },
+    {
+      "EnglishWord": "single anchor leg mooring system",
+      "Meanings": [
+        "روش بارگیری تک پایه"
+      ]
+    },
+    {
+      "EnglishWord": "single core barrel",
+      "Meanings": [
+        "استوانه مغزه گیر ساده"
+      ]
+    },
+    {
+      "EnglishWord": "single fault",
+      "Meanings": [
+        "گسل ساده"
+      ]
+    },
+    {
+      "EnglishWord": "single shot inclinometer",
+      "Meanings": [
+        "شیب سنج تک خوان"
+      ]
+    },
+    {
+      "EnglishWord": "sinker bar",
+      "Meanings": [
+        "میله سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "six - point bit",
+      "Meanings": [
+        "مته شش تاجه"
+      ]
+    },
+    {
+      "EnglishWord": "sizing pig",
+      "Meanings": [
+        "موشک گیریایی"
+      ]
+    },
+    {
+      "EnglishWord": "skid",
+      "Meanings": [
+        "ریل لغرش"
+      ]
+    },
+    {
+      "EnglishWord": "skid v the derrick",
+      "Meanings": [
+        "لغزاندن دکل"
+      ]
+    },
+    {
+      "EnglishWord": "skin effect",
+      "Meanings": [
+        "اثر پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "skin factor",
+      "Meanings": [
+        "ضریب جدار"
+      ]
+    },
+    {
+      "EnglishWord": "skirt",
+      "Meanings": [
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "slack joint",
+      "Meanings": [
+        "اتصال هرز"
+      ]
+    },
+    {
+      "EnglishWord": "slack wax",
+      "Meanings": [
+        "پارافین خام"
+      ]
+    },
+    {
+      "EnglishWord": "slag cement",
+      "Meanings": [
+        "سیمان سرباره"
+      ]
+    },
+    {
+      "EnglishWord": "slant hole drilling",
+      "Meanings": [
+        "حفاری چاه مایل"
+      ]
+    },
+    {
+      "EnglishWord": "slant rig",
+      "Meanings": [
+        "دکل مایل"
+      ]
+    },
+    {
+      "EnglishWord": "slate",
+      "Meanings": [
+        "سنگ لوح"
+      ]
+    },
+    {
+      "EnglishWord": "slide valve",
+      "Meanings": [
+        "دریچه کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "slightly dipping field",
+      "Meanings": [
+        "میدان کم شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slim - hole casing",
+      "Meanings": [
+        "جداره لاغر"
+      ]
+    },
+    {
+      "EnglishWord": "slim - hole core barrel",
+      "Meanings": [
+        "استوانه مغزه گیر ی چاه لاغر"
+      ]
+    },
+    {
+      "EnglishWord": "slim - hole drilling",
+      "Meanings": [
+        "حفاری چاه لاغر"
+      ]
+    },
+    {
+      "EnglishWord": "slim - hole well completion",
+      "Meanings": [
+        "تکمیل چاه لاغر"
+      ]
+    },
+    {
+      "EnglishWord": "slim hole",
+      "Meanings": [
+        "چاه لاغر"
+      ]
+    },
+    {
+      "EnglishWord": "sling",
+      "Meanings": [
+        "تسمه پهن سر کابل"
+      ]
+    },
+    {
+      "EnglishWord": "slip - type core catcher",
+      "Meanings": [
+        "مغزه نگهدار آجدار"
+      ]
+    },
+    {
+      "EnglishWord": "slip - type elevator",
+      "Meanings": [
+        "بالابر آجدار"
+      ]
+    },
+    {
+      "EnglishWord": "slip fault",
+      "Meanings": [
+        "گسل لغزشی"
+      ]
+    },
+    {
+      "EnglishWord": "slip joint",
+      "Meanings": [
+        "لوله کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "slip joint safety valve",
+      "Meanings": [
+        "شیر اطمینان لوله کشویی"
+      ]
+    },
+    {
+      "EnglishWord": "slip socket",
+      "Meanings": [
+        "کاسه مانده گیر آجدار"
+      ]
+    },
+    {
+      "EnglishWord": "slips",
+      "Meanings": [
+        "لوله گیر"
+      ]
+    },
+    {
+      "EnglishWord": "slop tank",
+      "Meanings": [
+        "مخزن پس مانده"
+      ]
+    },
+    {
+      "EnglishWord": "slotted liner",
+      "Meanings": [
+        "لوله آستری شیاردار"
+      ]
+    },
+    {
+      "EnglishWord": "slow setting cement",
+      "Meanings": [
+        "سیمان کندگیر"
+      ]
+    },
+    {
+      "EnglishWord": "sludge pump",
+      "Meanings": [
+        "تلمبه گل کش"
+      ]
+    },
+    {
+      "EnglishWord": "smoothing off of a curve",
+      "Meanings": [
+        "هموار کردن منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "snubbing",
+      "Meanings": [
+        "تعمیر چاه تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "snubbing equipment",
+      "Meanings": [
+        "واحد عملیات تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "socket horn",
+      "Meanings": [
+        "لوله ابزارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "sodium bicarbonate",
+      "Meanings": [
+        "بیکربنات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium carbonate",
+      "Meanings": [
+        "کربنات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium carboxymethylcellulose",
+      "Meanings": [
+        "کاربوکسی متیل سلولز سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium chloride",
+      "Meanings": [
+        "کلرور سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium chromate",
+      "Meanings": [
+        "کرومات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium dichromate",
+      "Meanings": [
+        "بیکرومات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium montmorillonite",
+      "Meanings": [
+        "مونموریونیت سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium pentachlorophenate",
+      "Meanings": [
+        "پنتاکلروفنات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium polyacrylate",
+      "Meanings": [
+        "پلی آکریلات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium pyrophosphate",
+      "Meanings": [
+        "پیروفسفات سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "soft formation",
+      "Meanings": [
+        "سازند نرم"
+      ]
+    },
+    {
+      "EnglishWord": "soft formation cutting head",
+      "Meanings": [
+        "سرمته حفاری سازند نرم"
+      ]
+    },
+    {
+      "EnglishWord": "soft rock",
+      "Meanings": [
+        "سنگ نرم"
+      ]
+    },
+    {
+      "EnglishWord": "softeing agent",
+      "Meanings": [
+        "ماده سختی گیر"
+      ]
+    },
+    {
+      "EnglishWord": "softenning factor",
+      "Meanings": [
+        "ضریب سختی گیری"
+      ]
+    },
+    {
+      "EnglishWord": "soil mechanics",
+      "Meanings": [
+        "مکانیک خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil sampler",
+      "Meanings": [
+        "نمونه بردار خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil sampling",
+      "Meanings": [
+        "نمونه برداری از خاک"
+      ]
+    },
+    {
+      "EnglishWord": "solar oil",
+      "Meanings": [
+        "گازوییل"
+      ]
+    },
+    {
+      "EnglishWord": "solubility",
+      "Meanings": [
+        "قابلیت انحلال"
+      ]
+    },
+    {
+      "EnglishWord": "solubility curve",
+      "Meanings": [
+        "منحنی قابلیت انحلال"
+      ]
+    },
+    {
+      "EnglishWord": "solubility factor",
+      "Meanings": [
+        "ضریب قابلیت انحلال"
+      ]
+    },
+    {
+      "EnglishWord": "soluble oil reservoir",
+      "Meanings": [
+        "مخزن نفت محلول در آب"
+      ]
+    },
+    {
+      "EnglishWord": "soluble rock",
+      "Meanings": [
+        "سنگ محلول"
+      ]
+    },
+    {
+      "EnglishWord": "solvent extraction",
+      "Meanings": [
+        "استخراج به وسیله حلال"
+      ]
+    },
+    {
+      "EnglishWord": "sonde",
+      "Meanings": [
+        "گمانه"
+      ]
+    },
+    {
+      "EnglishWord": "sonde coefficient",
+      "Meanings": [
+        "ضریب گمانه"
+      ]
+    },
+    {
+      "EnglishWord": "sonde half spacing",
+      "Meanings": [
+        "نیم فاصله گمانه"
+      ]
+    },
+    {
+      "EnglishWord": "sonde spacing",
+      "Meanings": [
+        "فاصله بندی گمانه"
+      ]
+    },
+    {
+      "EnglishWord": "sonic drilling",
+      "Meanings": [
+        "حفاری صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "sorption of a gas",
+      "Meanings": [
+        "خورایی گاز"
+      ]
+    },
+    {
+      "EnglishWord": "sounding device",
+      "Meanings": [
+        "پژواک سنج"
+      ]
+    },
+    {
+      "EnglishWord": "soundproof drilling",
+      "Meanings": [
+        "حفاری بی صدا"
+      ]
+    },
+    {
+      "EnglishWord": "sour crude",
+      "Meanings": [
+        "نفت خام گوگرد دار"
+      ]
+    },
+    {
+      "EnglishWord": "sour natural gas",
+      "Meanings": [
+        "گاز طبیعی ترش"
+      ]
+    },
+    {
+      "EnglishWord": "sour well",
+      "Meanings": [
+        "چاه نفت گوگرد دار"
+      ]
+    },
+    {
+      "EnglishWord": "sp amplitude",
+      "Meanings": [
+        "دامنه پتانسیل خودزاد"
+      ]
+    },
+    {
+      "EnglishWord": "sp coefficient",
+      "Meanings": [
+        "ضریب پتانسیل خودزاد"
+      ]
+    },
+    {
+      "EnglishWord": "sp gradient",
+      "Meanings": [
+        "گرادیان پتانسیل خودزاد"
+      ]
+    },
+    {
+      "EnglishWord": "spar buoy mooring system",
+      "Meanings": [
+        "روش پهلو گیری با بویه بلند"
+      ]
+    },
+    {
+      "EnglishWord": "spectophotmeter",
+      "Meanings": [
+        "طیف نورسنج"
+      ]
+    },
+    {
+      "EnglishWord": "spectrometer",
+      "Meanings": [
+        "طیف سنج"
+      ]
+    },
+    {
+      "EnglishWord": "speed chart",
+      "Meanings": [
+        "نگاره سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "speed factor",
+      "Meanings": [
+        "ضریب سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "speed indicator",
+      "Meanings": [
+        "سرعت نما"
+      ]
+    },
+    {
+      "EnglishWord": "speed of drill pipe running in",
+      "Meanings": [
+        "سرعت پایین دهی لوله حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "speed pickup",
+      "Meanings": [
+        "گیرنده سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "spider",
+      "Meanings": [
+        "لوله گیر عنکبوتی"
+      ]
+    },
+    {
+      "EnglishWord": "spider bushing",
+      "Meanings": [
+        "بوشن لوله گیر عنکبوتی"
+      ]
+    },
+    {
+      "EnglishWord": "spin",
+      "Meanings": [
+        "چرخ دادن"
+      ]
+    },
+    {
+      "EnglishWord": "spinner survey",
+      "Meanings": [
+        "جریان سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "spinning chain",
+      "Meanings": [
+        "زنجیر لوله گردان"
+      ]
+    },
+    {
+      "EnglishWord": "spiral auger",
+      "Meanings": [
+        "مته مارپیچی"
+      ]
+    },
+    {
+      "EnglishWord": "spiral bit",
+      "Meanings": [
+        "مته دوشیاره"
+      ]
+    },
+    {
+      "EnglishWord": "spiral grooved drill collar",
+      "Meanings": [
+        "طوق مته شیار مارپیچی"
+      ]
+    },
+    {
+      "EnglishWord": "spiral welded casing",
+      "Meanings": [
+        "جداره درزمارپیچی جوشی"
+      ]
+    },
+    {
+      "EnglishWord": "splash zone",
+      "Meanings": [
+        "منطقه ورپاش"
+      ]
+    },
+    {
+      "EnglishWord": "split pipe",
+      "Meanings": [
+        "لوله شکاف دار"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneous combustion",
+      "Meanings": [
+        "احتراق خودبه خود"
+      ]
+    },
+    {
+      "EnglishWord": "spool",
+      "Meanings": [
+        "چهارراهی بین فوران گیرها"
+      ]
+    },
+    {
+      "EnglishWord": "spool piece",
+      "Meanings": [
+        "فلنج اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "spooling device",
+      "Meanings": [
+        "وسیله کابل پییچی"
+      ]
+    },
+    {
+      "EnglishWord": "spoon",
+      "Meanings": [
+        "قاشق و قاشقک"
+      ]
+    },
+    {
+      "EnglishWord": "spot coring",
+      "Meanings": [
+        "مغزه گیری نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "spot detection of gaseous of hydrocarbons",
+      "Meanings": [
+        "اندازه گیری بی برنامه هیدروکربورهای گازی"
+      ]
+    },
+    {
+      "EnglishWord": "spring socket",
+      "Meanings": [
+        "کاسه ابزار گیر فنری"
+      ]
+    },
+    {
+      "EnglishWord": "spud",
+      "Meanings": [
+        "آغاز به حفر کردن",
+        "ساق"
+      ]
+    },
+    {
+      "EnglishWord": "spud bit",
+      "Meanings": [
+        "مته چال زنی"
+      ]
+    },
+    {
+      "EnglishWord": "spud can",
+      "Meanings": [
+        "پایه ساق",
+        "مخزن زیر پایه"
+      ]
+    },
+    {
+      "EnglishWord": "spud mud",
+      "Meanings": [
+        "گل آغاز حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "spudder",
+      "Meanings": [
+        "چال زن"
+      ]
+    },
+    {
+      "EnglishWord": "spudding",
+      "Meanings": [
+        "آغاز حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "spudding pulley",
+      "Meanings": [
+        "قرقره چاه زن"
+      ]
+    },
+    {
+      "EnglishWord": "spudding shoe",
+      "Meanings": [
+        "کفشک چالزنی"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze",
+      "Meanings": [
+        "تزریق با فشار",
+        "تزریق کردن با فشا ر"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze cementing",
+      "Meanings": [
+        "سیمان کاری با فشار"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze job",
+      "Meanings": [
+        "تلمبه کردن با فشار"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze slurry",
+      "Meanings": [
+        "دوغاب سیمان کاری با فشار"
+      ]
+    },
+    {
+      "EnglishWord": "stab emulsion",
+      "Meanings": [
+        "امولسیون پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stabbimg board",
+      "Meanings": [
+        "سکوی جا اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "stabbing cone",
+      "Meanings": [
+        "مخروط جا اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "stabilized crude oil",
+      "Meanings": [
+        "نفت خام پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stabilizer",
+      "Meanings": [
+        "دستگاه تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "stack v a rig",
+      "Meanings": [
+        "انبار کردن دکل"
+      ]
+    },
+    {
+      "EnglishWord": "stage cementing collar",
+      "Meanings": [
+        "طوقه سیمان کاری مرحله یی"
+      ]
+    },
+    {
+      "EnglishWord": "staggered wells",
+      "Meanings": [
+        "چاه‌های یک در میان"
+      ]
+    },
+    {
+      "EnglishWord": "standard field viscometer",
+      "Meanings": [
+        "گران روی سنج متعارف سرچاه"
+      ]
+    },
+    {
+      "EnglishWord": "standard lateral device",
+      "Meanings": [
+        "گمانه جانبی متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "standback capacity",
+      "Meanings": [
+        "ظرفیت انباشت لوله"
+      ]
+    },
+    {
+      "EnglishWord": "standback sonde",
+      "Meanings": [
+        "گمانه متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "standby vessel",
+      "Meanings": [
+        "کشتی کشیک"
+      ]
+    },
+    {
+      "EnglishWord": "standing valve",
+      "Meanings": [
+        "دریچه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "starch",
+      "Meanings": [
+        "نشاسته"
+      ]
+    },
+    {
+      "EnglishWord": "starter",
+      "Meanings": [
+        "مته راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "starting valve",
+      "Meanings": [
+        "دریچه راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "static gravimeter",
+      "Meanings": [
+        "ثقل سنج ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "static head",
+      "Meanings": [
+        "فشار ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "static level of the fluid",
+      "Meanings": [
+        "سطح ساکن سیال"
+      ]
+    },
+    {
+      "EnglishWord": "static mixer",
+      "Meanings": [
+        "مخلوط کن ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "static oil level",
+      "Meanings": [
+        "سطح ساکن نفت"
+      ]
+    },
+    {
+      "EnglishWord": "static sp",
+      "Meanings": [
+        "پتانسیل خودزاد ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "stationary barrel",
+      "Meanings": [
+        "بدنه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "steady flow",
+      "Meanings": [
+        "جریان ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "steam drive",
+      "Meanings": [
+        "بخارران"
+      ]
+    },
+    {
+      "EnglishWord": "steam soak",
+      "Meanings": [
+        "خیساندن با بخار"
+      ]
+    },
+    {
+      "EnglishWord": "stearate",
+      "Meanings": [
+        "استارات"
+      ]
+    },
+    {
+      "EnglishWord": "steel platform",
+      "Meanings": [
+        "سکوی فولادی"
+      ]
+    },
+    {
+      "EnglishWord": "step bit",
+      "Meanings": [
+        "مته پله یی"
+      ]
+    },
+    {
+      "EnglishWord": "step fault",
+      "Meanings": [
+        "گسل پله یی"
+      ]
+    },
+    {
+      "EnglishWord": "step v up pressure",
+      "Meanings": [
+        "متراکم کردن مرحله به مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "stepped crown bit",
+      "Meanings": [
+        "تاج مته پله یی"
+      ]
+    },
+    {
+      "EnglishWord": "stick",
+      "Meanings": [
+        "گیر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "stimulation of the production",
+      "Meanings": [
+        "تحریک تولید"
+      ]
+    },
+    {
+      "EnglishWord": "stinger",
+      "Meanings": [
+        "لوله سر"
+      ]
+    },
+    {
+      "EnglishWord": "stock tank",
+      "Meanings": [
+        "مخزن انباشت"
+      ]
+    },
+    {
+      "EnglishWord": "stock tank oil",
+      "Meanings": [
+        "نفت خام غیر فرار"
+      ]
+    },
+    {
+      "EnglishWord": "stone drill",
+      "Meanings": [
+        "مته سنگ بر"
+      ]
+    },
+    {
+      "EnglishWord": "stop cock",
+      "Meanings": [
+        "شیر سماوری"
+      ]
+    },
+    {
+      "EnglishWord": "stop collar",
+      "Meanings": [
+        "طوقه ضامن"
+      ]
+    },
+    {
+      "EnglishWord": "stop ring",
+      "Meanings": [
+        "حلقه قفل"
+      ]
+    },
+    {
+      "EnglishWord": "stop sub",
+      "Meanings": [
+        "تبدیل توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopcocking of a well",
+      "Meanings": [
+        "باز و بسته کردن تنا و بی چاه"
+      ]
+    },
+    {
+      "EnglishWord": "storage cell",
+      "Meanings": [
+        "محفظه ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "straddle packer",
+      "Meanings": [
+        "توپک دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "straight hole drilling",
+      "Meanings": [
+        "حفاری چاه راست"
+      ]
+    },
+    {
+      "EnglishWord": "straight piping",
+      "Meanings": [
+        "لوله کشی هم قطر"
+      ]
+    },
+    {
+      "EnglishWord": "straighten",
+      "Meanings": [
+        "چاه راست"
+      ]
+    },
+    {
+      "EnglishWord": "straigraphic structure",
+      "Meanings": [
+        "ساختار چینه شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "strain - gage sensor",
+      "Meanings": [
+        "حسگر کرنش سنج"
+      ]
+    },
+    {
+      "EnglishWord": "strain gage",
+      "Meanings": [
+        "کرنش سنج"
+      ]
+    },
+    {
+      "EnglishWord": "stratified flow",
+      "Meanings": [
+        "جریان مطبق"
+      ]
+    },
+    {
+      "EnglishWord": "stratiform field",
+      "Meanings": [
+        "میدان لایه گون"
+      ]
+    },
+    {
+      "EnglishWord": "stratigrapher",
+      "Meanings": [
+        "چینه شناس"
+      ]
+    },
+    {
+      "EnglishWord": "stratigraphic column",
+      "Meanings": [
+        "ستون چینه شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "stratigraphic geology",
+      "Meanings": [
+        "زمین شناسی چینه شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "stratigraphic hole",
+      "Meanings": [
+        "چاه چینه شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "stratigraphic throw",
+      "Meanings": [
+        "جابجایی قایم چینه یی"
+      ]
+    },
+    {
+      "EnglishWord": "stratigraphic trap",
+      "Meanings": [
+        "تله چینه یی"
+      ]
+    },
+    {
+      "EnglishWord": "stray",
+      "Meanings": [
+        "سازند ولگرد"
+      ]
+    },
+    {
+      "EnglishWord": "stray - surrent corrosion",
+      "Meanings": [
+        "خوردگی در اثر جریان هرز"
+      ]
+    },
+    {
+      "EnglishWord": "strengh tolreance",
+      "Meanings": [
+        "تولرانس مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "strength limit",
+      "Meanings": [
+        "حد مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "strengthening ring",
+      "Meanings": [
+        "حلقه تقویت"
+      ]
+    },
+    {
+      "EnglishWord": "stress corrosion",
+      "Meanings": [
+        "خوردگی تنشی"
+      ]
+    },
+    {
+      "EnglishWord": "stress limit",
+      "Meanings": [
+        "حد تنش"
+      ]
+    },
+    {
+      "EnglishWord": "stress relief contours",
+      "Meanings": [
+        "خطوط تنش صفر"
+      ]
+    },
+    {
+      "EnglishWord": "strike - slip fault",
+      "Meanings": [
+        "گسل کفانه لغز"
+      ]
+    },
+    {
+      "EnglishWord": "strike joint",
+      "Meanings": [
+        "درزه امتدادی"
+      ]
+    },
+    {
+      "EnglishWord": "stringing",
+      "Meanings": [
+        "لوله چینی"
+      ]
+    },
+    {
+      "EnglishWord": "stripper production",
+      "Meanings": [
+        "تولید غیر اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "structural bulge",
+      "Meanings": [
+        "بر امدگی ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural contour map",
+      "Meanings": [
+        "نقشه ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural elevation",
+      "Meanings": [
+        "فراز ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural platform",
+      "Meanings": [
+        "تراس ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural trap",
+      "Meanings": [
+        "تله ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural unit",
+      "Meanings": [
+        "واحد ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural viscosity",
+      "Meanings": [
+        "گران روی ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "subcapillary interstice",
+      "Meanings": [
+        "روزن بار ریزمویین"
+      ]
+    },
+    {
+      "EnglishWord": "submarine inspection",
+      "Meanings": [
+        "بازرسی زر دریایی"
+      ]
+    },
+    {
+      "EnglishWord": "submergebce",
+      "Meanings": [
+        "غوطه وری"
+      ]
+    },
+    {
+      "EnglishWord": "submersible drilling barge",
+      "Meanings": [
+        "دوبه حفاری زیر آب رو"
+      ]
+    },
+    {
+      "EnglishWord": "submersible drilling platform",
+      "Meanings": [
+        "سکوی حفاری زیر آب رو"
+      ]
+    },
+    {
+      "EnglishWord": "subsea construction jobs",
+      "Meanings": [
+        "کارهای ساختمانی زیر دریایی"
+      ]
+    },
+    {
+      "EnglishWord": "subsea production system",
+      "Meanings": [
+        "سیستم بهره برداری زیر دریایی"
+      ]
+    },
+    {
+      "EnglishWord": "subsea safety valve",
+      "Meanings": [
+        "شیر اطمینان زیر آبی"
+      ]
+    },
+    {
+      "EnglishWord": "subsea trench excavation",
+      "Meanings": [
+        "ترانشه کنی زیر دریا"
+      ]
+    },
+    {
+      "EnglishWord": "subsea tv",
+      "Meanings": [
+        "تلویزیون زیر دریایی"
+      ]
+    },
+    {
+      "EnglishWord": "subsidence of the ground",
+      "Meanings": [
+        "نشست زمین"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary bushing",
+      "Meanings": [
+        "بوشن کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "subsurface drilling",
+      "Meanings": [
+        "حفاری زیر زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "subsurface structure",
+      "Meanings": [
+        "ساختار زیرزمینی"
+      ]
+    },
+    {
+      "EnglishWord": "sucker",
+      "Meanings": [
+        "شیلنگ مکش"
+      ]
+    },
+    {
+      "EnglishWord": "sucker rod couplig",
+      "Meanings": [
+        "وصل کن ساقه تلمبه"
+      ]
+    },
+    {
+      "EnglishWord": "suction head",
+      "Meanings": [
+        "ارتفاع مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction line",
+      "Meanings": [
+        "خط مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction passage",
+      "Meanings": [
+        "مجرای مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction pipe",
+      "Meanings": [
+        "لوله مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction pit",
+      "Meanings": [
+        "حوضچه مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction pression",
+      "Meanings": [
+        "فشار مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction tank",
+      "Meanings": [
+        "مخزن مکش"
+      ]
+    },
+    {
+      "EnglishWord": "suction valve",
+      "Meanings": [
+        "سوپاپ مکش"
+      ]
+    },
+    {
+      "EnglishWord": "sudden release",
+      "Meanings": [
+        "رها شدن ناگهانی"
+      ]
+    },
+    {
+      "EnglishWord": "sulfurous oil",
+      "Meanings": [
+        "نفت گوگرد دار"
+      ]
+    },
+    {
+      "EnglishWord": "sump tank",
+      "Meanings": [
+        "مخزن چال"
+      ]
+    },
+    {
+      "EnglishWord": "supercapillary interstice",
+      "Meanings": [
+        "روزن بار درشت مویین"
+      ]
+    },
+    {
+      "EnglishWord": "superthermic neutron - neutron logging",
+      "Meanings": [
+        "نمودار گیری نوترون",
+        "نوترون ابر گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "supply ship",
+      "Meanings": [
+        "کشتی خدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "surface choke",
+      "Meanings": [
+        "کاهنده چند راهه فوران"
+      ]
+    },
+    {
+      "EnglishWord": "surface conditions",
+      "Meanings": [
+        "شرایط سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface current",
+      "Meanings": [
+        "جریان سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface hole",
+      "Meanings": [
+        "سوراخ سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface soil",
+      "Meanings": [
+        "خاک سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface structure",
+      "Meanings": [
+        "ساختار سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surfactant",
+      "Meanings": [
+        "ماده سطح آمیز"
+      ]
+    },
+    {
+      "EnglishWord": "surfactant mud",
+      "Meanings": [
+        "گل فعال در سطح"
+      ]
+    },
+    {
+      "EnglishWord": "suspended and capable well",
+      "Meanings": [
+        "چاه بهره ده معلق"
+      ]
+    },
+    {
+      "EnglishWord": "suspended solids",
+      "Meanings": [
+        "مواد جامد معلق"
+      ]
+    },
+    {
+      "EnglishWord": "suspension",
+      "Meanings": [
+        "سوسپانسیون"
+      ]
+    },
+    {
+      "EnglishWord": "suspension ring",
+      "Meanings": [
+        "حلقه حامل"
+      ]
+    },
+    {
+      "EnglishWord": "swab",
+      "Meanings": [
+        "پیستون سنبه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "swab v in",
+      "Meanings": [
+        "به تولید انداختن با سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing cup",
+      "Meanings": [
+        "استوانه سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing effect",
+      "Meanings": [
+        "اثر سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing line",
+      "Meanings": [
+        "کابل سبنه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing production",
+      "Meanings": [
+        "تولید با سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing test",
+      "Meanings": [
+        "آزمایش سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swabbing well",
+      "Meanings": [
+        "چاه تحت سنبه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "swamp drilling",
+      "Meanings": [
+        "حفاری در مرداب"
+      ]
+    },
+    {
+      "EnglishWord": "sweet crude",
+      "Meanings": [
+        "نفت خام شیرین"
+      ]
+    },
+    {
+      "EnglishWord": "sweet natural gas",
+      "Meanings": [
+        "گاز طبیعی شیرین"
+      ]
+    },
+    {
+      "EnglishWord": "swelling clays",
+      "Meanings": [
+        "رس‌های ورم کن"
+      ]
+    },
+    {
+      "EnglishWord": "swelling curve",
+      "Meanings": [
+        "منحنی ورآمدگی"
+      ]
+    },
+    {
+      "EnglishWord": "swelling index",
+      "Meanings": [
+        "شاخص ورآمدگی"
+      ]
+    },
+    {
+      "EnglishWord": "swelling pressure",
+      "Meanings": [
+        "فشار ورم"
+      ]
+    },
+    {
+      "EnglishWord": "swing pipe",
+      "Meanings": [
+        "لوله گردان"
+      ]
+    },
+    {
+      "EnglishWord": "swivel",
+      "Meanings": [
+        "گلوگاه هرزگرد"
+      ]
+    },
+    {
+      "EnglishWord": "swivel bail",
+      "Meanings": [
+        "دسته گلوگاه هرزگرد"
+      ]
+    },
+    {
+      "EnglishWord": "swivel bsaring",
+      "Meanings": [
+        "یاتاقان گلو گاه هرزگرد"
+      ]
+    },
+    {
+      "EnglishWord": "swivel hook",
+      "Meanings": [
+        "قلاب گردان"
+      ]
+    },
+    {
+      "EnglishWord": "swivel stem",
+      "Meanings": [
+        "ساق گلو گاه هرزگرد"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical anticline",
+      "Meanings": [
+        "تاقدیس متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical sonde",
+      "Meanings": [
+        "گمانه متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "synclinal fault",
+      "Meanings": [
+        "گسل ناودیسی"
+      ]
+    },
+    {
+      "EnglishWord": "synclinal limb",
+      "Meanings": [
+        "جناح ناودیس"
+      ]
+    },
+    {
+      "EnglishWord": "syncline",
+      "Meanings": [
+        "ناودیس"
+      ]
+    },
+    {
+      "EnglishWord": "syncline water",
+      "Meanings": [
+        "آب ناودیس"
+      ]
+    },
+    {
+      "EnglishWord": "synclinsl bend",
+      "Meanings": [
+        "خم ناودیس"
+      ]
+    }
+  ]
+}

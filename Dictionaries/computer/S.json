@@ -1,0 +1,38 @@
+﻿{
+  "Group": "S",
+  "Entries": 5,
+  "Words": [
+    {
+      "EnglishWord": "save",
+      "Meanings": [
+        "ذخیره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "search",
+      "Meanings": [
+        "جستجو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "select",
+      "Meanings": [
+        "انتخاب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "start",
+      "Meanings": [
+        "شروع",
+        "کلید فوری",
+        "ESC+Ctrl"
+      ]
+    },
+    {
+      "EnglishWord": "sub 7",
+      "Meanings": [
+        "یک از قویرترین برنامه مخرب تروا که برای نفوذ و کنترل یک کامپیوتر از راه اینترنت است"
+      ]
+    }
+  ]
+}

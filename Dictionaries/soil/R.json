@@ -1,0 +1,477 @@
+﻿{
+  "Group": "R",
+  "Entries": 78,
+  "Words": [
+    {
+      "EnglishWord": "r",
+      "Meanings": [
+        "آر"
+      ]
+    },
+    {
+      "EnglishWord": "r layers",
+      "Meanings": [
+        "لایه‌های آر"
+      ]
+    },
+    {
+      "EnglishWord": "rainfall erosion index",
+      "Meanings": [
+        "نمایه فرسایشی باران"
+      ]
+    },
+    {
+      "EnglishWord": "rainfall erosivity index",
+      "Meanings": [
+        "نمایه فرسایندگی باران"
+      ]
+    },
+    {
+      "EnglishWord": "rainfall interception",
+      "Meanings": [
+        "بارش گیر"
+      ]
+    },
+    {
+      "EnglishWord": "raised bed",
+      "Meanings": [
+        "بستربرجسته"
+      ]
+    },
+    {
+      "EnglishWord": "reaction soil",
+      "Meanings": [
+        "واکنش خاک"
+      ]
+    },
+    {
+      "EnglishWord": "recessional moraine",
+      "Meanings": [
+        "مورن پس‌رونده"
+      ]
+    },
+    {
+      "EnglishWord": "recovery",
+      "Meanings": [
+        "بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "recycling",
+      "Meanings": [
+        "بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "red desert soil",
+      "Meanings": [
+        "خاک بیابانی سرخ"
+      ]
+    },
+    {
+      "EnglishWord": "red earth",
+      "Meanings": [
+        "زمین سرخ"
+      ]
+    },
+    {
+      "EnglishWord": "redistribution of water",
+      "Meanings": [
+        "توزیع دوباره آب"
+      ]
+    },
+    {
+      "EnglishWord": "redox",
+      "Meanings": [
+        "اکسیداسیون واحیا"
+      ]
+    },
+    {
+      "EnglishWord": "redox concentrations",
+      "Meanings": [
+        "غلظتهای رداکس"
+      ]
+    },
+    {
+      "EnglishWord": "redox depletions",
+      "Meanings": [
+        "تخلیه رداکس"
+      ]
+    },
+    {
+      "EnglishWord": "redoximorphic features",
+      "Meanings": [
+        "چهره‌های مورفولوژیکی رداکس"
+      ]
+    },
+    {
+      "EnglishWord": "redox-potential",
+      "Meanings": [
+        "پتانسیل الکترودی",
+        "پتانسیل اکسیداسیون احیا"
+      ]
+    },
+    {
+      "EnglishWord": "reduced matrix",
+      "Meanings": [
+        "ماتریس کاهیده"
+      ]
+    },
+    {
+      "EnglishWord": "reduced tillage",
+      "Meanings": [
+        "کم‌خاک‌ورزی"
+      ]
+    },
+    {
+      "EnglishWord": "reducing environment",
+      "Meanings": [
+        "محیط کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "red-yellow podzolic soils",
+      "Meanings": [
+        "خاکهای پادزولی زرد",
+        "سرخ"
+      ]
+    },
+    {
+      "EnglishWord": "reference electrode",
+      "Meanings": [
+        "الکترودمرجع"
+      ]
+    },
+    {
+      "EnglishWord": "reflectance",
+      "Meanings": [
+        "بازتابنده"
+      ]
+    },
+    {
+      "EnglishWord": "regolith",
+      "Meanings": [
+        "سنگپوش"
+      ]
+    },
+    {
+      "EnglishWord": "regosols",
+      "Meanings": [
+        "رگوسول"
+      ]
+    },
+    {
+      "EnglishWord": "regur",
+      "Meanings": [
+        "رگور"
+      ]
+    },
+    {
+      "EnglishWord": "related distribution pattern",
+      "Meanings": [
+        "الگوی توزیع نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative yield",
+      "Meanings": [
+        "عملکردنسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relief",
+      "Meanings": [
+        "پستی وبلندی"
+      ]
+    },
+    {
+      "EnglishWord": "remote sensing",
+      "Meanings": [
+        "سنجش ازدور"
+      ]
+    },
+    {
+      "EnglishWord": "rendolls",
+      "Meanings": [
+        "رندالها"
+      ]
+    },
+    {
+      "EnglishWord": "rendzina",
+      "Meanings": [
+        "رندزینا"
+      ]
+    },
+    {
+      "EnglishWord": "renewable natural resources",
+      "Meanings": [
+        "منابع طبیعی تجدیدشونده"
+      ]
+    },
+    {
+      "EnglishWord": "residual fertility",
+      "Meanings": [
+        "حاصلخیزی باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual material",
+      "Meanings": [
+        "ماده باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual shrinkage",
+      "Meanings": [
+        "انقباض باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual soil",
+      "Meanings": [
+        "خاک درجا"
+      ]
+    },
+    {
+      "EnglishWord": "residue processing",
+      "Meanings": [
+        "خردکردن پسماندها"
+      ]
+    },
+    {
+      "EnglishWord": "residuum",
+      "Meanings": [
+        "پس‌مانده"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "تفکیک‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "respiratory quotient",
+      "Meanings": [
+        "کسرتنفسی"
+      ]
+    },
+    {
+      "EnglishWord": "restriction enzyme",
+      "Meanings": [
+        "آنزیم برشی"
+      ]
+    },
+    {
+      "EnglishWord": "retardation factor",
+      "Meanings": [
+        "فاکتورتاخیر"
+      ]
+    },
+    {
+      "EnglishWord": "reticulate mottling",
+      "Meanings": [
+        "رنگین دانه شبکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "reversion",
+      "Meanings": [
+        "برگشت‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "reworked",
+      "Meanings": [
+        "نوساخته"
+      ]
+    },
+    {
+      "EnglishWord": "rhizobia",
+      "Meanings": [
+        "ریزوبیا"
+      ]
+    },
+    {
+      "EnglishWord": "rhizobia free",
+      "Meanings": [
+        "بدون ریزوبیا"
+      ]
+    },
+    {
+      "EnglishWord": "rhizobia populated",
+      "Meanings": [
+        "باریزوبیا"
+      ]
+    },
+    {
+      "EnglishWord": "rhizocylinder",
+      "Meanings": [
+        "استوانه پیراریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rhizoid",
+      "Meanings": [
+        "ریشه‌مانند"
+      ]
+    },
+    {
+      "EnglishWord": "rhizoplane",
+      "Meanings": [
+        "سطح ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rhizoshere",
+      "Meanings": [
+        "فراریشه"
+      ]
+    },
+    {
+      "EnglishWord": "ridge",
+      "Meanings": [
+        "پشته زنی"
+      ]
+    },
+    {
+      "EnglishWord": "ridge planting",
+      "Meanings": [
+        "کشت پشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ridge tillage",
+      "Meanings": [
+        "شخم جوی وپشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "rill",
+      "Meanings": [
+        "شیار"
+      ]
+    },
+    {
+      "EnglishWord": "rill erosion",
+      "Meanings": [
+        "فرسایش شیاری"
+      ]
+    },
+    {
+      "EnglishWord": "riparian land",
+      "Meanings": [
+        "زمین کرانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "river basin",
+      "Meanings": [
+        "حوضچه رودخانه"
+      ]
+    },
+    {
+      "EnglishWord": "river wash",
+      "Meanings": [
+        "رودرفت"
+      ]
+    },
+    {
+      "EnglishWord": "rock drumlin",
+      "Meanings": [
+        "صخره یخرفتی"
+      ]
+    },
+    {
+      "EnglishWord": "rock fragments",
+      "Meanings": [
+        "تکه‌های سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "rock land",
+      "Meanings": [
+        "سنگستان"
+      ]
+    },
+    {
+      "EnglishWord": "rock nodules",
+      "Meanings": [
+        "گرههای سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "rock outcrop",
+      "Meanings": [
+        "رخنمون سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "rod weeding",
+      "Meanings": [
+        "علف‌کنی میله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rolling",
+      "Meanings": [
+        "غلتک زنی",
+        "پستی وبلندی زیادناهموار"
+      ]
+    },
+    {
+      "EnglishWord": "root bed",
+      "Meanings": [
+        "بسترریشه"
+      ]
+    },
+    {
+      "EnglishWord": "root exudate",
+      "Meanings": [
+        "ترشحات ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rotary hoeing",
+      "Meanings": [
+        "کج بیل زنی گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotary tilling",
+      "Meanings": [
+        "خاک‌ورزی گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rough broken land",
+      "Meanings": [
+        "زمین ناهمواربریده"
+      ]
+    },
+    {
+      "EnglishWord": "rq",
+      "Meanings": [
+        "کسرتنفسی"
+      ]
+    },
+    {
+      "EnglishWord": "r-selected",
+      "Meanings": [
+        "آرگزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "rubble land",
+      "Meanings": [
+        "سنگزار"
+      ]
+    },
+    {
+      "EnglishWord": "runoff",
+      "Meanings": [
+        "رواناب"
+      ]
+    }
+  ]
+}

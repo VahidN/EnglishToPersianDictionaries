@@ -1,0 +1,845 @@
+﻿{
+  "Group": "J",
+  "Entries": 122,
+  "Words": [
+    {
+      "EnglishWord": "jactitation    see also  false action feigned action frivolous action",
+      "Meanings": [
+        "ادعای واهی",
+        "ادعای دروغ"
+      ]
+    },
+    {
+      "EnglishWord": "join",
+      "Meanings": [
+        "وارد شدن در دعوی",
+        "منظم کردن",
+        "الحاق کردن",
+        "پیوستن",
+        "متحد شدن",
+        "ملحق شدن"
+      ]
+    },
+    {
+      "EnglishWord": "join in    an award",
+      "Meanings": [
+        "ملحق شدن یا پیوستن به حکم"
+      ]
+    },
+    {
+      "EnglishWord": "join issues    n. joinder of issues",
+      "Meanings": [
+        "موضوعات را تواما مورد رسیدگی قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "joinder",
+      "Meanings": [
+        "تلفیق کردن",
+        "به هم پیوستن",
+        "هم عقیده بودن",
+        "ادغام یا الحاق اسباب دعوی",
+        "ورود در دعوی",
+        "ادغام خواهانها یا خواندگان",
+        "قبول موافقتنامه توسط ثالث ذینفعی که طرف موافقتنامه یا سند نیست"
+      ]
+    },
+    {
+      "EnglishWord": "joinder of proceedings",
+      "Meanings": [
+        "تلفیق رسیدگی",
+        "تواما رسیدگی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "joint",
+      "Meanings": [
+        "مشترک",
+        "توام",
+        "تضامنی",
+        "مشاع"
+      ]
+    },
+    {
+      "EnglishWord": "joint action",
+      "Meanings": [
+        "دعوایی که خوانده یا خواهانهای متعدد داشته باشد"
+      ]
+    },
+    {
+      "EnglishWord": "joint adventure    see also  joint venture",
+      "Meanings": [
+        "مشارکت",
+        "شرکت مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "joint and several liability",
+      "Meanings": [
+        "مسیولیت تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "joint and several obligation    see also  obligation in solido solidary obligation",
+      "Meanings": [
+        "تعهد تضامنی"
+      ]
+    },
+    {
+      "EnglishWord": "joint claims commission",
+      "Meanings": [
+        "کمیسیون مشترک حل و فصل دعاوی بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "joint hearing",
+      "Meanings": [
+        "استماع مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint ownership    see also  common ownership co-ownership ownership in common",
+      "Meanings": [
+        "اشاعه",
+        "مالکیت مشاع",
+        "مالکیت مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint request",
+      "Meanings": [
+        "درخواست مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint tenancy    see also  tenancy in common",
+      "Meanings": [
+        "مالکیت مشاع",
+        "مالکیت مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint tenant",
+      "Meanings": [
+        "شریک ملک مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "joint venture    see also  joint adventure",
+      "Meanings": [
+        "مشارکت",
+        "شرکت مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "jointly and severally",
+      "Meanings": [
+        "متضامنا",
+        "مشترکا و منفردا"
+      ]
+    },
+    {
+      "EnglishWord": "joint-stock company",
+      "Meanings": [
+        "شرکت سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "joint-stuck venture",
+      "Meanings": [
+        "شرکت مختلط سهامی"
+      ]
+    },
+    {
+      "EnglishWord": "journal entry",
+      "Meanings": [
+        "ثبت در دفتر روزنامه",
+        "اقلام ثبت شده در دفتر روزنامه"
+      ]
+    },
+    {
+      "EnglishWord": "judex    lat.",
+      "Meanings": [
+        "قاضی",
+        "قاضی شرع"
+      ]
+    },
+    {
+      "EnglishWord": "judge",
+      "Meanings": [
+        "قضاوت کردن",
+        "قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "judge pro tempore    abbrev. judge pro tem",
+      "Meanings": [
+        "قاضی موقت"
+      ]
+    },
+    {
+      "EnglishWord": "judge-made law",
+      "Meanings": [
+        "رویه قضایی",
+        "تفسیر موسع قانون توسط قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "judgement by default    var. default judgment",
+      "Meanings": [
+        "حکم غیابی",
+        "حکم صادره در موارد عدم دفاع خوانده"
+      ]
+    },
+    {
+      "EnglishWord": "judgement creditor",
+      "Meanings": [
+        "محکوم له کسی که به حکم دادگاه طلبکار شناخته شود"
+      ]
+    },
+    {
+      "EnglishWord": "judgment",
+      "Meanings": [
+        "قضاوت",
+        "حکم",
+        "رای"
+      ]
+    },
+    {
+      "EnglishWord": "judgment bond    see also  appeal bond",
+      "Meanings": [
+        "تضمین هزینه پژوهش توسط پژوهشخواه"
+      ]
+    },
+    {
+      "EnglishWord": "judgment by consent    var. consent judgment     see also  award by confession consent award",
+      "Meanings": [
+        "حکم مرضی الطرفین",
+        "حکم سازشی"
+      ]
+    },
+    {
+      "EnglishWord": "judgment debt",
+      "Meanings": [
+        "محکوم به",
+        "مبلغ حکم"
+      ]
+    },
+    {
+      "EnglishWord": "judgment debtor",
+      "Meanings": [
+        "محکوم علیه",
+        "کسی که به حکم دادگاه مدیون شناخته شود"
+      ]
+    },
+    {
+      "EnglishWord": "judgment entry of",
+      "Meanings": [
+        "ثبت حکم در دفتر دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judgment face of",
+      "Meanings": [
+        "مبلغ حکم بدون بهره"
+      ]
+    },
+    {
+      "EnglishWord": "judgment in / of equity",
+      "Meanings": [
+        "حکم محکومیت غیر نقدی مثل حکم به انجام تعهد یا عدم انجام فعل"
+      ]
+    },
+    {
+      "EnglishWord": "judgment in absentia",
+      "Meanings": [
+        "حکم غیابی"
+      ]
+    },
+    {
+      "EnglishWord": "judgment in personam    see also  judgment inter partes",
+      "Meanings": [
+        "حکم دینی",
+        "حکم علیه شخص"
+      ]
+    },
+    {
+      "EnglishWord": "judgment in rem    var. in rem judgment",
+      "Meanings": [
+        "حکم عینی حکم تعیین تکلیف عین مال"
+      ]
+    },
+    {
+      "EnglishWord": "judgment inter partes",
+      "Meanings": [
+        "حکم بین طرفین دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "judgment note    see also  cognovit note confession of judgment",
+      "Meanings": [
+        "اقرارنامه",
+        "سفته ای که دارنده آن می‌تواند در صورت عدم پرداخت وجه آن توسط متعهد",
+        "از دادگاه علیه وی بدون رسیدگی حکم دریافت کند",
+        "اعتراف خوانده بر صحت ادعای خواهان پیش از شروع دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "judgment roll    see also  roll",
+      "Meanings": [
+        "پرونده و سوابق دعوی",
+        "سوابق دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "judgment to pronounce",
+      "Meanings": [
+        "اعلام کردن رای",
+        "صادر کردن حکم"
+      ]
+    },
+    {
+      "EnglishWord": "judgment to uphold",
+      "Meanings": [
+        "تنفیذ",
+        "تایید یا ابرام کردن حکم"
+      ]
+    },
+    {
+      "EnglishWord": "judicial",
+      "Meanings": [
+        "قضایی",
+        "مستدل",
+        "عادلانه",
+        "بی طرفانه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial attachment    see also  attachment warrant of attachment writ of attachment",
+      "Meanings": [
+        "قرر یا حکم توقیف مال یا شخص"
+      ]
+    },
+    {
+      "EnglishWord": "judicial comity",
+      "Meanings": [
+        "اصل نزاکت قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial days",
+      "Meanings": [
+        "ایام اداری دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial dictum    see also  dictum obiter dictum",
+      "Meanings": [
+        "اضهارات جنبی قاضی که لزوما ارتباطی به دعوی یا تاثیری در حکم صادره ندارد",
+        "مقدمات حکم",
+        "نظر طردا للباب"
+      ]
+    },
+    {
+      "EnglishWord": "judicial discretion",
+      "Meanings": [
+        "صلاحدید",
+        "صوابدید",
+        "تشخیص یا اختیار قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial error",
+      "Meanings": [
+        "اشتباه قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial notice",
+      "Meanings": [
+        "بداهت قضایی",
+        "امر بدیهی و محرز از نظر دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial office",
+      "Meanings": [
+        "سمت قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial precedent",
+      "Meanings": [
+        "رویه قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial proceeding",
+      "Meanings": [
+        "رسیدگی قضایی",
+        "جریان دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial process",
+      "Meanings": [
+        "دادرسی",
+        "پروسه قضایی",
+        "جریان قضایی",
+        "جریان رسیدگی",
+        "احضاریه صادره جهت حضور خوانده در دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial record",
+      "Meanings": [
+        "پرونده دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "judicial remedy",
+      "Meanings": [
+        "جبران خسارت یا احقاق حق به حکم دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial review",
+      "Meanings": [
+        "بررسی تصمیمات دستگاههای اجرایی دولت توسط دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judicial sale",
+      "Meanings": [
+        "فروش به موجب حکم دادگاه یا با نظارت دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "judiciary the",
+      "Meanings": [
+        "قوه قضاییه"
+      ]
+    },
+    {
+      "EnglishWord": "judicium    lat.",
+      "Meanings": [
+        "صلاحیت",
+        "اختیار قضایی",
+        "دادگاه یا دیوان",
+        "جلسه استماع یا رسیدگی",
+        "حکم"
+      ]
+    },
+    {
+      "EnglishWord": "juge d'instruction    fr.",
+      "Meanings": [
+        "بازپرس"
+      ]
+    },
+    {
+      "EnglishWord": "junior capital    see also  equity capital",
+      "Meanings": [
+        "سرمایه",
+        "سهامداران"
+      ]
+    },
+    {
+      "EnglishWord": "junior partner",
+      "Meanings": [
+        "شریک جزء"
+      ]
+    },
+    {
+      "EnglishWord": "jura    lat.     sing. jus",
+      "Meanings": [
+        "حقوق",
+        "قوانین"
+      ]
+    },
+    {
+      "EnglishWord": "jura in re    lat.",
+      "Meanings": [
+        "حق شخص در مال دیگری مانند حق انتفاع یا ارتفاق"
+      ]
+    },
+    {
+      "EnglishWord": "jural",
+      "Meanings": [
+        "قضایی",
+        "قانونی",
+        "مربوط به رویه قضایی",
+        "مربوط به حقوق و تکالیف طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "jurat",
+      "Meanings": [
+        "قسمتی از سوگند نامه که در آن نام ادا کننده سوگند",
+        "تاریخ و محل ادای سوگند و نام گواهی دهنده قید می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "juration",
+      "Meanings": [
+        "تحلیف",
+        "سوگند دادن",
+        "سوگند یاد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "juridical",
+      "Meanings": [
+        "حقوقی",
+        "قانونی",
+        "قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "juridical person",
+      "Meanings": [
+        "شخص حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "juridical personality",
+      "Meanings": [
+        "شخصیت حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "jurisconsult",
+      "Meanings": [
+        "حقوقدان",
+        "عالم حقوق به ویژه در حقوق بین الملل یا حقوق عمومی",
+        "قاضی",
+        "وکیل",
+        "فقیه"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdiction",
+      "Meanings": [
+        "صلاحیت",
+        "حوزه یا قلمرو قضایی"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdiction in personam    var. in personam jurisdiction     see also  personal jurisdiction",
+      "Meanings": [
+        "صلاحیت نسبی به شخص خوانده"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdiction in rem    var. in rem jurisdiction",
+      "Meanings": [
+        "صلاحیت نسبت به مال"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdiction quasi in rem",
+      "Meanings": [
+        "صلاحیت دادگاه نسبت به علایق مالی خوانده که در حوزه قضایی آن دادگاه واقع است"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdiction want of    see also  non jurisdiction lack of jurisdiction",
+      "Meanings": [
+        "عدم صلاحیت",
+        "فقد صلاحیت",
+        "تجاوز از حدود اختیارات"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdictional ambit",
+      "Meanings": [
+        "حوزه یا حیطه صلاحیت"
+      ]
+    },
+    {
+      "EnglishWord": "jurisdictional issue",
+      "Meanings": [
+        "موضوع صلاحیتی",
+        "موضوع مربوط به صلاحیت"
+      ]
+    },
+    {
+      "EnglishWord": "jurisprudence",
+      "Meanings": [
+        "علم یا فلسفه یا رشته حقوق",
+        "رویه قضایی",
+        "فقه"
+      ]
+    },
+    {
+      "EnglishWord": "jurisprudent",
+      "Meanings": [
+        "حقوقدان",
+        "عالم حقوق",
+        "فقیه"
+      ]
+    },
+    {
+      "EnglishWord": "juristic",
+      "Meanings": [
+        "حقوقدان",
+        "قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "juristic entity / person",
+      "Meanings": [
+        "قضایی",
+        "حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "juror",
+      "Meanings": [
+        "واحد یا شخص حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "jury",
+      "Meanings": [
+        "عضو هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "jury change to",
+      "Meanings": [
+        "جمع بندی دعوی و راهنمایی هیات منصفه توسط قاضی"
+      ]
+    },
+    {
+      "EnglishWord": "jury instructions    see also  charges to jury",
+      "Meanings": [
+        "راهنمایی هیات منصفه توسط قاضی از نظر قانون حاکم بر دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "jury tampering    see also  tamper with a jury",
+      "Meanings": [
+        "تهدید و تطمیع هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "jury trail    var. trial by jury     see also  trial per pais",
+      "Meanings": [
+        "محاکمه با حضور هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "jus    lat.     var. jus",
+      "Meanings": [
+        "نظام حقوقی",
+        "مجموعه قوانین",
+        "حقوق",
+        "حق",
+        "انصاف",
+        "قاعده",
+        "قدرت",
+        "اختیار",
+        "شغل وکالت",
+        "دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "jus ad rem    lat.     see also  jus in re real right",
+      "Meanings": [
+        "حق مالکیت ناقص یا محدود"
+      ]
+    },
+    {
+      "EnglishWord": "jus belli    lat.",
+      "Meanings": [
+        "حقوق جنگ"
+      ]
+    },
+    {
+      "EnglishWord": "jus civile    lat.     see also  civil law",
+      "Meanings": [
+        "حقوق مدنی"
+      ]
+    },
+    {
+      "EnglishWord": "jus cogens    lat.",
+      "Meanings": [
+        "اصول و ضوابط لازم الرعایه حقوق بین الملل"
+      ]
+    },
+    {
+      "EnglishWord": "jus commune    lat.     see also  common law lex communis",
+      "Meanings": [
+        "حقوق طبیعی عام",
+        "حقوق عرفی یا «کامن لا» انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "jus disponendi    lat.",
+      "Meanings": [
+        "حق انتقال",
+        "حق واگذاری",
+        "انتقال به موجب وصیت"
+      ]
+    },
+    {
+      "EnglishWord": "jus gentium    lat.",
+      "Meanings": [
+        "حقوق بین الملل"
+      ]
+    },
+    {
+      "EnglishWord": "jus gentium privatum    lat.",
+      "Meanings": [
+        "حقوق بین الملل خصوصی"
+      ]
+    },
+    {
+      "EnglishWord": "jus gentium publicum    lat.",
+      "Meanings": [
+        "حقوق بین الملل عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "jus habendi    lat.",
+      "Meanings": [
+        "حق تصرف"
+      ]
+    },
+    {
+      "EnglishWord": "jus in personam    lat.",
+      "Meanings": [
+        "حق دینی"
+      ]
+    },
+    {
+      "EnglishWord": "jus in re    lat.     see also  jus ad rem real right",
+      "Meanings": [
+        "حق عینی",
+        "حق مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "jus naturale    lat.     see also  natural law",
+      "Meanings": [
+        "حقوق طبیعی",
+        "قوانین و قواعد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "jus sanguinis    lat.",
+      "Meanings": [
+        "اصل یا سیستم خون تابعیت به تبع تابعیت ابوین"
+      ]
+    },
+    {
+      "EnglishWord": "jus singulare    lat.",
+      "Meanings": [
+        "قوانین خاص موضوعه",
+        "حقوق موضوعه در مقابل jus commune"
+      ]
+    },
+    {
+      "EnglishWord": "jus soli    lat.",
+      "Meanings": [
+        "اصل یا سیستم خاک تابعیت محل تولد",
+        "تابعیت ارضی"
+      ]
+    },
+    {
+      "EnglishWord": "jus tertii",
+      "Meanings": [
+        "حق شخص ثالث"
+      ]
+    },
+    {
+      "EnglishWord": "just",
+      "Meanings": [
+        "عادل",
+        "عادلانه",
+        "منصف",
+        "منصفانه"
+      ]
+    },
+    {
+      "EnglishWord": "just cause",
+      "Meanings": [
+        "جهت مشروع",
+        "دلیل موجه"
+      ]
+    },
+    {
+      "EnglishWord": "just compensation",
+      "Meanings": [
+        "غرامت عادلانه"
+      ]
+    },
+    {
+      "EnglishWord": "just damages",
+      "Meanings": [
+        "خسارت عادلانه"
+      ]
+    },
+    {
+      "EnglishWord": "just title",
+      "Meanings": [
+        "مالکیت بلامعارض",
+        "مالکیتی که در اثر مرور زمان برای متصرف ایجاد شود"
+      ]
+    },
+    {
+      "EnglishWord": "justa causa    lat.",
+      "Meanings": [
+        "جهت مشروع",
+        "دلیل موجه",
+        "معامله قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "justice",
+      "Meanings": [
+        "عدالت",
+        "قاضی بخصوص قاضی دادگاه پژوهش یا دیوان عالی"
+      ]
+    },
+    {
+      "EnglishWord": "justice denial of",
+      "Meanings": [
+        "استنکاف از احقاق حق",
+        "استنکاف از اجرای عدالت",
+        "تضییع حق"
+      ]
+    },
+    {
+      "EnglishWord": "justice of the peace    see also  magistrate",
+      "Meanings": [
+        "قاضی صلح"
+      ]
+    },
+    {
+      "EnglishWord": "justice to dispense",
+      "Meanings": [
+        "اجرا کردن عدالت"
+      ]
+    },
+    {
+      "EnglishWord": "justice to uphold",
+      "Meanings": [
+        "جانب عدالت را گرفتن",
+        "عادلانه عمل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "justiciable",
+      "Meanings": [
+        "اختلاف یا دعوای قابل رسیدگی در دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "justify    n. justification",
+      "Meanings": [
+        "توجیه کردن"
+      ]
+    }
+  ]
+}

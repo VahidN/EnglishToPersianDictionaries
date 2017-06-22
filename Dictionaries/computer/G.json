@@ -1,0 +1,296 @@
+﻿{
+  "Group": "G",
+  "Entries": 47,
+  "Words": [
+    {
+      "EnglishWord": "game",
+      "Meanings": [
+        "بازی"
+      ]
+    },
+    {
+      "EnglishWord": "game tree",
+      "Meanings": [
+        "درخت بازی"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "فاصله شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "garbage collection",
+      "Meanings": [
+        "گرد آوری پس مانده",
+        "تکنیکی برای علامت گذاری حافظه آزاد شده"
+      ]
+    },
+    {
+      "EnglishWord": "garbage in garbage out gigo",
+      "Meanings": [
+        "واژه ای برای پردازش اطلاعات که بعلت ورودی نادرست خراب شده اند"
+      ]
+    },
+    {
+      "EnglishWord": "gas plasma display",
+      "Meanings": [
+        "صفحه نمایش گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gate array",
+      "Meanings": [
+        "روش استاندارد برای مدارات مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "genealogical",
+      "Meanings": [
+        "شجره خانوادگی"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose computer",
+      "Meanings": [
+        "کامپیوتر همه منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose language",
+      "Meanings": [
+        "زبان همه منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose programs",
+      "Meanings": [
+        "برنامه‌های همه منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "general purpose register",
+      "Meanings": [
+        "ثبات همه منظوره"
+      ]
+    },
+    {
+      "EnglishWord": "generality",
+      "Meanings": [
+        "کلیت",
+        "عمومیت"
+      ]
+    },
+    {
+      "EnglishWord": "generalized list",
+      "Meanings": [
+        "لیست عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "generation of",
+      "Meanings": [
+        "تولید",
+        "ایجاد"
+      ]
+    },
+    {
+      "EnglishWord": "geographical information system gis",
+      "Meanings": [
+        "سیستم اطلاعاتی جغرافیایی"
+      ]
+    },
+    {
+      "EnglishWord": "gets function",
+      "Meanings": [
+        "تابع gets"
+      ]
+    },
+    {
+      "EnglishWord": "giga",
+      "Meanings": [
+        "گیگ",
+        "میلیارد"
+      ]
+    },
+    {
+      "EnglishWord": "gigabyte gb",
+      "Meanings": [
+        "گیگا بایت"
+      ]
+    },
+    {
+      "EnglishWord": "global",
+      "Meanings": [
+        "کلی",
+        "فراگیر",
+        "سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "global arrays",
+      "Meanings": [
+        "آرایه سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "global constructor",
+      "Meanings": [
+        "سازنده کلی"
+      ]
+    },
+    {
+      "EnglishWord": "global group",
+      "Meanings": [
+        "گروه کلی سراسری"
+      ]
+    },
+    {
+      "EnglishWord": "global object",
+      "Meanings": [
+        "شی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "global operation",
+      "Meanings": [
+        "عملیات کلی"
+      ]
+    },
+    {
+      "EnglishWord": "global search and replace",
+      "Meanings": [
+        "جستجو و جایگزینی کلی"
+      ]
+    },
+    {
+      "EnglishWord": "global time",
+      "Meanings": [
+        "وقت کلی"
+      ]
+    },
+    {
+      "EnglishWord": "global variable",
+      "Meanings": [
+        "متغیر کلی"
+      ]
+    },
+    {
+      "EnglishWord": "glossary",
+      "Meanings": [
+        "واژنامه"
+      ]
+    },
+    {
+      "EnglishWord": "go to",
+      "Meanings": [
+        "برو به"
+      ]
+    },
+    {
+      "EnglishWord": "goal seeking",
+      "Meanings": [
+        "جستجو هدف"
+      ]
+    },
+    {
+      "EnglishWord": "goto statment",
+      "Meanings": [
+        "دستورgoto"
+      ]
+    },
+    {
+      "EnglishWord": "gpss",
+      "Meanings": [
+        "بسته نرم افزاری gpss"
+      ]
+    },
+    {
+      "EnglishWord": "grace login",
+      "Meanings": [
+        "ورودی اعتباری"
+      ]
+    },
+    {
+      "EnglishWord": "grammatical errors",
+      "Meanings": [
+        "خطا‌های گرامری"
+      ]
+    },
+    {
+      "EnglishWord": "grandchildren",
+      "Meanings": [
+        "نوه"
+      ]
+    },
+    {
+      "EnglishWord": "graph",
+      "Meanings": [
+        "شکل",
+        "گراف"
+      ]
+    },
+    {
+      "EnglishWord": "graphic",
+      "Meanings": [
+        "گرافیک تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "graphic character",
+      "Meanings": [
+        "کاراکتر گرافیکی"
+      ]
+    },
+    {
+      "EnglishWord": "graphic limits",
+      "Meanings": [
+        "محدوده گرافیکی",
+        "محدوده تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "graphical user interface gui",
+      "Meanings": [
+        "رابط گرافیکی کاربران"
+      ]
+    },
+    {
+      "EnglishWord": "grayscale scanner",
+      "Meanings": [
+        "اسکنر متمایز کننده رنگهای سیاه و سفید و خاکستری تیره و روشن"
+      ]
+    },
+    {
+      "EnglishWord": "gridlines",
+      "Meanings": [
+        "چهار خانه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "group",
+      "Meanings": [
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "grouping",
+      "Meanings": [
+        "گروه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "growth",
+      "Meanings": [
+        "تصاعدی"
+      ]
+    },
+    {
+      "EnglishWord": "guided vehicle system",
+      "Meanings": [
+        "رباتهایی که با سیم‌های حسی مسیر خود را پیدا می‌کنند"
+      ]
+    }
+  ]
+}

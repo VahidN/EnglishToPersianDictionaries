@@ -1,0 +1,506 @@
+﻿{
+  "Group": "O",
+  "Entries": 77,
+  "Words": [
+    {
+      "EnglishWord": "o",
+      "Meanings": [
+        "مخفف کلمات زیر",
+        "Octal یعنی هشت",
+        "Output یعنی خروجی",
+        "Object یعنی شیء",
+        "Origin یعنی منبع و سرچشمه",
+        "و"
+      ]
+    },
+    {
+      "EnglishWord": "obj",
+      "Meanings": [
+        "object"
+      ]
+    },
+    {
+      "EnglishWord": "object",
+      "Meanings": [
+        "شیء"
+      ]
+    },
+    {
+      "EnglishWord": "object desktop",
+      "Meanings": [
+        "برنامه ای برای اختصاصی کردن میز کار"
+      ]
+    },
+    {
+      "EnglishWord": "object-oriented programming",
+      "Meanings": [
+        "برنامه نویسی مقصودگرا"
+      ]
+    },
+    {
+      "EnglishWord": "ocr",
+      "Meanings": [
+        "Optical Character Recognition",
+        "شناخت کاراکترهای نوری"
+      ]
+    },
+    {
+      "EnglishWord": "octa",
+      "Meanings": [
+        "هشتایی"
+      ]
+    },
+    {
+      "EnglishWord": "octal",
+      "Meanings": [
+        "اعداد بر مبنای"
+      ]
+    },
+    {
+      "EnglishWord": "odbc",
+      "Meanings": [
+        "Open database connectivity"
+      ]
+    },
+    {
+      "EnglishWord": "odc",
+      "Meanings": [
+        "Office Data Connection"
+      ]
+    },
+    {
+      "EnglishWord": "odd",
+      "Meanings": [
+        "فرد"
+      ]
+    },
+    {
+      "EnglishWord": "odl",
+      "Meanings": [
+        "Open and Distance Learning",
+        "Object Description/Difintion Langauge"
+      ]
+    },
+    {
+      "EnglishWord": "oem",
+      "Meanings": [
+        "Original Equipment Manufacturer",
+        "شرکت تولید کننده تجهیزات اصلی و جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "off",
+      "Meanings": [
+        "خاموش"
+      ]
+    },
+    {
+      "EnglishWord": "office",
+      "Meanings": [
+        "اداره"
+      ]
+    },
+    {
+      "EnglishWord": "offline",
+      "Meanings": [
+        "دیدن صفحات بدون اتصال به شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "offline explorer",
+      "Meanings": [
+        "نرم افزاری برای دانلود یک سایت"
+      ]
+    },
+    {
+      "EnglishWord": "ofogh",
+      "Meanings": [
+        "شبکه افق"
+      ]
+    },
+    {
+      "EnglishWord": "ogg",
+      "Meanings": [
+        "فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "oid",
+      "Meanings": [
+        "Object Identifiers"
+      ]
+    },
+    {
+      "EnglishWord": "ok",
+      "Meanings": [
+        "قبول"
+      ]
+    },
+    {
+      "EnglishWord": "old",
+      "Meanings": [
+        "قدیمی"
+      ]
+    },
+    {
+      "EnglishWord": "old version",
+      "Meanings": [
+        "نسخه قدیمی"
+      ]
+    },
+    {
+      "EnglishWord": "ole",
+      "Meanings": [
+        "Object linking and embedding",
+        "فایلهایی که در برنامه هایی دیگر استفاده شوند"
+      ]
+    },
+    {
+      "EnglishWord": "oledb",
+      "Meanings": [
+        "Object Linking and Embedding Database"
+      ]
+    },
+    {
+      "EnglishWord": "omega",
+      "Meanings": [
+        "کمپانی تولید کننده ساعت و…",
+        "آخرین حرف الفبای یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "omg",
+      "Meanings": [
+        "Object Management Group"
+      ]
+    },
+    {
+      "EnglishWord": "omicron",
+      "Meanings": [
+        "امیکرون",
+        "حرف پانزدهم یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "on",
+      "Meanings": [
+        "روشن"
+      ]
+    },
+    {
+      "EnglishWord": "one",
+      "Meanings": [
+        "یک"
+      ]
+    },
+    {
+      "EnglishWord": "online",
+      "Meanings": [
+        "روی خط",
+        "کسی که همیشه در شبکه وارد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "ontrack",
+      "Meanings": [
+        "کمپانی سازنده نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "op",
+      "Meanings": [
+        "Operation"
+      ]
+    },
+    {
+      "EnglishWord": "opacity",
+      "Meanings": [
+        "میزان شفافیت"
+      ]
+    },
+    {
+      "EnglishWord": "opaque",
+      "Meanings": [
+        "تیره",
+        "مات"
+      ]
+    },
+    {
+      "EnglishWord": "open",
+      "Meanings": [
+        "باز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "open with",
+      "Meanings": [
+        "هنگامی که پرونده‌ای را که با هیچ برنامه‌ای متناظر نشده باشد",
+        "کلیک مضاعف کنید",
+        "این پیغام ظاهر می‌گردد. از لیست جعبه محاوره‌ای نام برنامه‌ای را انتخاب کنید تا به کمک آن",
+        "پرونده را باز کنید. درصورتی که نام برنامه مورد نظر در لیست موجود نبود",
+        "می‌توانید با کلیک کردن دکمه Other",
+        "ازدیگر برنامه‌های روی سیستم خود برای این منظور استفاده کنید"
+      ]
+    },
+    {
+      "EnglishWord": "opera",
+      "Meanings": [
+        "یک نوع مرورگر وب قوی"
+      ]
+    },
+    {
+      "EnglishWord": "operate",
+      "Meanings": [
+        "فرمان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "operating",
+      "Meanings": [
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "operating system  os",
+      "Meanings": [
+        "سیستم عامل",
+        "سیستم عامل دارای وظایف زیر است",
+        "· مدیریت پردازنده",
+        "· مدیریت حافظه",
+        "· مدیریت دستگاهها ورودی و خروجی",
+        "· مدیریت حافظه جانبی",
+        "· اینترفیس برنامه‌های کاربردی",
+        "· رابط کاربر",
+        "سیستم عامل دوکار انجام می‌دهد یکی منابع سخت‌افزار و نرم‌افزار سیستم کامپیوتر را مدیریت و کنترل می‌کند که این منابع شامل پردازشگر",
+        "حافظه",
+        "فضای دیسک و غیره می‌باشد دوم یک راه ثابت و استواری را برای کاربران فراهم می‌کند تا آنها بتوانند بدون اینکه مجبور باشند تمام جزییات سخت‌افزار را بدانند",
+        "با سخت‌افزار کار کنند. یعنی در کل می‌توان گفت ارتباط بین استفاده کننده و کامپیوتر و ارتباط بین اجزای مختلف کامپیوتر را برقرار می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "operation",
+      "Meanings": [
+        "عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "operator",
+      "Meanings": [
+        "اپراتور"
+      ]
+    },
+    {
+      "EnglishWord": "opt",
+      "Meanings": [
+        "مخفف عبارات یر",
+        "Option به معنی گزینه ها",
+        "Open Protocol Technology",
+        "Optimized Production Technology یعنی فناوری تولید بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "optic",
+      "Meanings": [
+        "نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical",
+      "Meanings": [
+        "نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optical mouse",
+      "Meanings": [
+        "موس نوری"
+      ]
+    },
+    {
+      "EnglishWord": "optimal nutrition",
+      "Meanings": [
+        "نرم افزار جالبی برای نشان دادن رژیم غذایی افراد و میزان انرژی و عناصر طعام"
+      ]
+    },
+    {
+      "EnglishWord": "optimizer",
+      "Meanings": [
+        "بهینه ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "option",
+      "Meanings": [
+        "گزینه"
+      ]
+    },
+    {
+      "EnglishWord": "or",
+      "Meanings": [
+        "یا"
+      ]
+    },
+    {
+      "EnglishWord": "oracle",
+      "Meanings": [
+        "برنامه ای برای پایگاه داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "orb",
+      "Meanings": [
+        "Object Request Broker"
+      ]
+    },
+    {
+      "EnglishWord": "orbit",
+      "Meanings": [
+        "برنامه ای دارای اطلاعات کامل منظومه شمسی",
+        "http://www.solarviews.com/"
+      ]
+    },
+    {
+      "EnglishWord": "order",
+      "Meanings": [
+        "مرتب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "oreview",
+      "Meanings": [
+        "جمع بندی"
+      ]
+    },
+    {
+      "EnglishWord": "org",
+      "Meanings": [
+        "بازی ارگ",
+        "حوزه اینترنتی سایتهای سازمانی مخفف Organization"
+      ]
+    },
+    {
+      "EnglishWord": "organization",
+      "Meanings": [
+        "سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "orgazm",
+      "Meanings": [
+        "نرم افزار بوتر"
+      ]
+    },
+    {
+      "EnglishWord": "oriented",
+      "Meanings": [
+        "نزدیک",
+        "گرویده"
+      ]
+    },
+    {
+      "EnglishWord": "origin",
+      "Meanings": [
+        "منبع",
+        "سرچشمه"
+      ]
+    },
+    {
+      "EnglishWord": "original",
+      "Meanings": [
+        "اصل"
+      ]
+    },
+    {
+      "EnglishWord": "os/2",
+      "Meanings": [
+        "یکی از سیستمهای عامل"
+      ]
+    },
+    {
+      "EnglishWord": "oscar",
+      "Meanings": [
+        "شماره سریال نرم افزارها"
+      ]
+    },
+    {
+      "EnglishWord": "oscillator",
+      "Meanings": [
+        "حرکت ساز",
+        "نوسان گر"
+      ]
+    },
+    {
+      "EnglishWord": "osi",
+      "Meanings": [
+        "Open Systems Interconnection"
+      ]
+    },
+    {
+      "EnglishWord": "other",
+      "Meanings": [
+        "بقیه"
+      ]
+    },
+    {
+      "EnglishWord": "out of memory",
+      "Meanings": [
+        "حافظه شما برای اجرای برنامه کم است"
+      ]
+    },
+    {
+      "EnglishWord": "outlook express",
+      "Meanings": [
+        "برنامه ای برای کارهایی مانند فرستادن یا دیدن نامه تقویم و"
+      ]
+    },
+    {
+      "EnglishWord": "output",
+      "Meanings": [
+        "خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "over",
+      "Meanings": [
+        "بالای",
+        "قبل"
+      ]
+    },
+    {
+      "EnglishWord": "overflow",
+      "Meanings": [
+        "سر ریز"
+      ]
+    },
+    {
+      "EnglishWord": "overhead",
+      "Meanings": [
+        "بالاسری"
+      ]
+    },
+    {
+      "EnglishWord": "overlay",
+      "Meanings": [
+        "جای گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "ovw",
+      "Meanings": [
+        "فایلهای صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "ownership",
+      "Meanings": [
+        "مالکیت"
+      ]
+    },
+    {
+      "EnglishWord": "ozone ram-optimizer",
+      "Meanings": [
+        "برنامه ای برای بالا بردن سرعت حافظه"
+      ]
+    }
+  ]
+}

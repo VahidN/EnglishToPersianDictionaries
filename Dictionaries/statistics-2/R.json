@@ -1,0 +1,1815 @@
+﻿{
+  "Group": "R",
+  "Entries": 299,
+  "Words": [
+    {
+      "EnglishWord": "rademacher function",
+      "Meanings": [
+        "تابع راده‌ماخه"
+      ]
+    },
+    {
+      "EnglishWord": "radial error",
+      "Meanings": [
+        "خطای شعاعی"
+      ]
+    },
+    {
+      "EnglishWord": "radical axis",
+      "Meanings": [
+        "محور اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "radico-normal distribution",
+      "Meanings": [
+        "توزیع جذری‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "radius of convergence",
+      "Meanings": [
+        "شعاع همگرایی"
+      ]
+    },
+    {
+      "EnglishWord": "radon measure",
+      "Meanings": [
+        "اندازه رادون"
+      ]
+    },
+    {
+      "EnglishWord": "radon transformation",
+      "Meanings": [
+        "تبدیل رادون"
+      ]
+    },
+    {
+      "EnglishWord": "radon-nikodym derivative",
+      "Meanings": [
+        "مشتق رادون",
+        "نیکودیم"
+      ]
+    },
+    {
+      "EnglishWord": "radon-nikodym theorem",
+      "Meanings": [
+        "قضیه رادون",
+        "نیکودیم"
+      ]
+    },
+    {
+      "EnglishWord": "rai and van ryzin dose-response model",
+      "Meanings": [
+        "مدل دز",
+        "پاسخ رای و وان رایزین"
+      ]
+    },
+    {
+      "EnglishWord": "raking procedure",
+      "Meanings": [
+        "شیوه چنگک‌زنی"
+      ]
+    },
+    {
+      "EnglishWord": "ramsey's prior",
+      "Meanings": [
+        "پیشین رمزی"
+      ]
+    },
+    {
+      "EnglishWord": "random balance design",
+      "Meanings": [
+        "طرح متعادل تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random censoring",
+      "Meanings": [
+        "سانسور تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random coefficient regression",
+      "Meanings": [
+        "رگرسیون با ضریب تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random current",
+      "Meanings": [
+        "جریان تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random determinant",
+      "Meanings": [
+        "دترمینان تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random digit",
+      "Meanings": [
+        "رقم تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random distribution",
+      "Meanings": [
+        "توزیع تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random effects model",
+      "Meanings": [
+        "مدل با اثرهای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random error",
+      "Meanings": [
+        "خطای تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random event",
+      "Meanings": [
+        "پیشامد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random experiment",
+      "Meanings": [
+        "آزمایش تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random field",
+      "Meanings": [
+        "میدان تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random function",
+      "Meanings": [
+        "تابع تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random graph",
+      "Meanings": [
+        "گراف تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number",
+      "Meanings": [
+        "عدد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number generation",
+      "Meanings": [
+        "تولید عدد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random number generator",
+      "Meanings": [
+        "مولد عدد تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sample",
+      "Meanings": [
+        "نمونه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sequence",
+      "Meanings": [
+        "دنباله تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random sets of points",
+      "Meanings": [
+        "مجموعه‌های تصادفی نقاط"
+      ]
+    },
+    {
+      "EnglishWord": "random sum distribution",
+      "Meanings": [
+        "توزیع مجموع تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random tessellation",
+      "Meanings": [
+        "سنگفرش تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random utility model",
+      "Meanings": [
+        "مدل مطلوبیت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random vector",
+      "Meanings": [
+        "بردار تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random walk",
+      "Meanings": [
+        "قدم زدن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random-digit dialing",
+      "Meanings": [
+        "تلفن زدن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random-digit dialing sampling method",
+      "Meanings": [
+        "روش نمونه گیری با شماره تلفن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "randomization test",
+      "Meanings": [
+        "آزمون تصادفیدن"
+      ]
+    },
+    {
+      "EnglishWord": "randomized block design",
+      "Meanings": [
+        "طرح بلوکی تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized blocks",
+      "Meanings": [
+        "بلوکهای تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized complete blocks",
+      "Meanings": [
+        "بلوکهای کامل تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized consent design",
+      "Meanings": [
+        "طرح رضایت تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized gamma distribution",
+      "Meanings": [
+        "توزیع گامای تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized model",
+      "Meanings": [
+        "مدل تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized stopped-sum distribution",
+      "Meanings": [
+        "توزیع مجموع‌متوقف تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "randomized test",
+      "Meanings": [
+        "آزمون تصادفیده"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "دامنه",
+        "دامنه تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "range-preserving estimator",
+      "Meanings": [
+        "برآوردگر حافظ دامنه تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "rank analysis",
+      "Meanings": [
+        "تحلیل رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank analysis of covariance",
+      "Meanings": [
+        "تحلیل رتبه‌ای کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "rank estimator",
+      "Meanings": [
+        "برآوردگر رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank interaction",
+      "Meanings": [
+        "اثر متقابل رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank likelihood",
+      "Meanings": [
+        "درستنمایی رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank of matrix",
+      "Meanings": [
+        "رتبه ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "rank order statistics",
+      "Meanings": [
+        "آماره‌های ترتیبی رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rank sum test",
+      "Meanings": [
+        "آزمون مجموع رتبه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "ranked set",
+      "Meanings": [
+        "مجموعه رتبه‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "ranked set sampling",
+      "Meanings": [
+        "نمونه گیری مجموعه رتبه‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "ranking procedure",
+      "Meanings": [
+        "شیوه رتبه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "rankit",
+      "Meanings": [
+        "رنکیت"
+      ]
+    },
+    {
+      "EnglishWord": "rao and scott test",
+      "Meanings": [
+        "آزمون رایو و اسکات"
+      ]
+    },
+    {
+      "EnglishWord": "rao distance",
+      "Meanings": [
+        "فاصله رایو"
+      ]
+    },
+    {
+      "EnglishWord": "rao scoring test",
+      "Meanings": [
+        "آزمون امتیازبندی رایو"
+      ]
+    },
+    {
+      "EnglishWord": "rao-blackwell theorem",
+      "Meanings": [
+        "قضیه رایو",
+        "بلک‌ول"
+      ]
+    },
+    {
+      "EnglishWord": "rao-blackwellization",
+      "Meanings": [
+        "رایو",
+        "بلک‌ول‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "rao's axiomatization of diversity measures",
+      "Meanings": [
+        "اصل موضوعی‌سازی رایو برای معیارهای چندگونگی"
+      ]
+    },
+    {
+      "EnglishWord": "rare-event risk analysis",
+      "Meanings": [
+        "تحلیل مخاطره پیشامد نادر"
+      ]
+    },
+    {
+      "EnglishWord": "rarefaction curve",
+      "Meanings": [
+        "خم تنک‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "rate of change",
+      "Meanings": [
+        "آهنگ تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "rate of interest",
+      "Meanings": [
+        "نرخ بهره"
+      ]
+    },
+    {
+      "EnglishWord": "ratio control method",
+      "Meanings": [
+        "روش کنترل نسبتی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio correlation",
+      "Meanings": [
+        "همبستگی نسبتها"
+      ]
+    },
+    {
+      "EnglishWord": "ratio diagram",
+      "Meanings": [
+        "نمودار نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "ratio estimator",
+      "Meanings": [
+        "برآوردگر نسبتی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of bivariate normal variables",
+      "Meanings": [
+        "نسبت متغیرهای نرمال دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of similarity",
+      "Meanings": [
+        "نسبت تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "ratio of similitude",
+      "Meanings": [
+        "نسبت تجانس"
+      ]
+    },
+    {
+      "EnglishWord": "ratio test",
+      "Meanings": [
+        "آزمون نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "rational",
+      "Meanings": [
+        "گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational laplace transform",
+      "Meanings": [
+        "تبدیل لاپلاس گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rational subgroup",
+      "Meanings": [
+        "زیرگروه گویا"
+      ]
+    },
+    {
+      "EnglishWord": "rationality criterion",
+      "Meanings": [
+        "ملاک خردپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "rayleigh distribution",
+      "Meanings": [
+        "توزیع ریلی"
+      ]
+    },
+    {
+      "EnglishWord": "rayleigh quotient",
+      "Meanings": [
+        "خارج‌قسمت ریلی"
+      ]
+    },
+    {
+      "EnglishWord": "realization",
+      "Meanings": [
+        "تحقق"
+      ]
+    },
+    {
+      "EnglishWord": "rearrangement of the terms in a series",
+      "Meanings": [
+        "تجدید آرایش جمله‌های سری"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal averaging",
+      "Meanings": [
+        "متوسط‌گیری معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal differences",
+      "Meanings": [
+        "تفاضلهای معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal distribution",
+      "Meanings": [
+        "توزیع معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal model",
+      "Meanings": [
+        "مدل معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "recombinant",
+      "Meanings": [
+        "بازترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "recombination",
+      "Meanings": [
+        "بازترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "reconstruction",
+      "Meanings": [
+        "بازسازی"
+      ]
+    },
+    {
+      "EnglishWord": "record linkage and matching system",
+      "Meanings": [
+        "نظام جورسازی و اتصال داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "recovery of interblock information",
+      "Meanings": [
+        "بازیابی اطلاعات بین بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular distribution",
+      "Meanings": [
+        "توزیع مستطیلی",
+        "توزیع یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular frequency polygon",
+      "Meanings": [
+        "چندبر فراوانی مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular game",
+      "Meanings": [
+        "بازی مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectified index number",
+      "Meanings": [
+        "عدد شاخص اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear",
+      "Meanings": [
+        "راست‌خطی"
+      ]
+    },
+    {
+      "EnglishWord": "rectilinear trend",
+      "Meanings": [
+        "روند راست‌خطی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence criterion",
+      "Meanings": [
+        "ملاک بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrence formula",
+      "Meanings": [
+        "فرمول بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent event",
+      "Meanings": [
+        "پیشامد بازگردنده"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent markov chain",
+      "Meanings": [
+        "زنجیر مارکوف بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent sequence",
+      "Meanings": [
+        "دنباله بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recurrent state",
+      "Meanings": [
+        "وضعیت بازگردنده"
+      ]
+    },
+    {
+      "EnglishWord": "recursive definition",
+      "Meanings": [
+        "تعریف بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive function",
+      "Meanings": [
+        "تابع بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "recursive partitioning",
+      "Meanings": [
+        "افراز بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "reduced model",
+      "Meanings": [
+        "مدل فروکاسته"
+      ]
+    },
+    {
+      "EnglishWord": "reducible chain",
+      "Meanings": [
+        "زنجیر فروکاستنی"
+      ]
+    },
+    {
+      "EnglishWord": "reduction",
+      "Meanings": [
+        "فروکاست",
+        "فروکاهی",
+        "کاهش"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of data",
+      "Meanings": [
+        "فروکاست داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "reduction of respondent burden",
+      "Meanings": [
+        "کم کردن زحمت پاسخگو"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy",
+      "Meanings": [
+        "فزونگی"
+      ]
+    },
+    {
+      "EnglishWord": "redundancy analysis",
+      "Meanings": [
+        "تحلیل فزونگی"
+      ]
+    },
+    {
+      "EnglishWord": "redundant",
+      "Meanings": [
+        "زیادی"
+      ]
+    },
+    {
+      "EnglishWord": "reference set",
+      "Meanings": [
+        "مجموعه مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "refine model",
+      "Meanings": [
+        "مدل پالاییده"
+      ]
+    },
+    {
+      "EnglishWord": "reflecting state",
+      "Meanings": [
+        "وضعیت بازتابنده"
+      ]
+    },
+    {
+      "EnglishWord": "reflection principle",
+      "Meanings": [
+        "اصل بازتاب"
+      ]
+    },
+    {
+      "EnglishWord": "refusal rate",
+      "Meanings": [
+        "نرخ امتناع"
+      ]
+    },
+    {
+      "EnglishWord": "regenerative process",
+      "Meanings": [
+        "فرایند نوپیدایشی"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "ناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "regression",
+      "Meanings": [
+        "رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression analysis",
+      "Meanings": [
+        "تحلیل رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression coefficient",
+      "Meanings": [
+        "ضریب رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression curve",
+      "Meanings": [
+        "خم رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression depth",
+      "Meanings": [
+        "ژرفای رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression diagnostics",
+      "Meanings": [
+        "مباحث تشخیصی رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression estimator",
+      "Meanings": [
+        "برآوردگر رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "regression line",
+      "Meanings": [
+        "خط رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression models for spherical data",
+      "Meanings": [
+        "مدلهای رگرسیونی برای داده‌های کروی"
+      ]
+    },
+    {
+      "EnglishWord": "regression quantile",
+      "Meanings": [
+        "چندک رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "regression to the mean",
+      "Meanings": [
+        "رگرسیون به میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "regressogram",
+      "Meanings": [
+        "رگرس‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "regressor",
+      "Meanings": [
+        "رگرسور"
+      ]
+    },
+    {
+      "EnglishWord": "regular exponential family",
+      "Meanings": [
+        "خانواده نمایی منظم"
+      ]
+    },
+    {
+      "EnglishWord": "regular graph design",
+      "Meanings": [
+        "طرح گراف منظم"
+      ]
+    },
+    {
+      "EnglishWord": "reinforced",
+      "Meanings": [
+        "تقویت شده"
+      ]
+    },
+    {
+      "EnglishWord": "reinforced incomplete block design",
+      "Meanings": [
+        "طرح بلوکهای ناقص تقویت شده"
+      ]
+    },
+    {
+      "EnglishWord": "rejectable process level",
+      "Meanings": [
+        "سطح رد کردنی فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "rejection procedure",
+      "Meanings": [
+        "شیوه رد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rejective sampling",
+      "Meanings": [
+        "نمونه گیری رد کردنی"
+      ]
+    },
+    {
+      "EnglishWord": "relation  relationship",
+      "Meanings": [
+        "رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relative",
+      "Meanings": [
+        "نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative asymptotic variance",
+      "Meanings": [
+        "واریانس مجانبی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative betting odds",
+      "Meanings": [
+        "بخت شرط‌بندی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative complement of two sets",
+      "Meanings": [
+        "متمم نسبی دو مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "relative consistency",
+      "Meanings": [
+        "سازگاری نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative error",
+      "Meanings": [
+        "خطای نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative frequency",
+      "Meanings": [
+        "فراوانی نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative information",
+      "Meanings": [
+        "اطلاع نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative maximum",
+      "Meanings": [
+        "ماکسیمم نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relative minimum",
+      "Meanings": [
+        "مینیمم نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "relevation",
+      "Meanings": [
+        "آسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "reliability",
+      "Meanings": [
+        "قابلیت اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "reliability coefficient",
+      "Meanings": [
+        "ضریب قابلیت اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "relvariance",
+      "Meanings": [
+        "واریانس نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "remedian",
+      "Meanings": [
+        "بازمیانه"
+      ]
+    },
+    {
+      "EnglishWord": "remez algorithm",
+      "Meanings": [
+        "الگوریتم ریمز"
+      ]
+    },
+    {
+      "EnglishWord": "remote sensing",
+      "Meanings": [
+        "سنجش از دور"
+      ]
+    },
+    {
+      "EnglishWord": "renewal",
+      "Meanings": [
+        "تجدید"
+      ]
+    },
+    {
+      "EnglishWord": "renormalization method",
+      "Meanings": [
+        "روش بازنرمالیدن"
+      ]
+    },
+    {
+      "EnglishWord": "renyi-anscombe theorem",
+      "Meanings": [
+        "قضیه ری‌نی",
+        "انسکامب"
+      ]
+    },
+    {
+      "EnglishWord": "renyi-type distribution",
+      "Meanings": [
+        "توزیع ری‌نی‌گونه"
+      ]
+    },
+    {
+      "EnglishWord": "repairable",
+      "Meanings": [
+        "تعمیر شدنی"
+      ]
+    },
+    {
+      "EnglishWord": "reparametrization",
+      "Meanings": [
+        "بازپارامتریدن"
+      ]
+    },
+    {
+      "EnglishWord": "repeatability",
+      "Meanings": [
+        "تکرارپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "repeated chi-square testing",
+      "Meanings": [
+        "آزمون خی‌دوی مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated confidence interval",
+      "Meanings": [
+        "بازه اطمینان مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated integral  iterated integral",
+      "Meanings": [
+        "انتگرال مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated measurement",
+      "Meanings": [
+        "اندازه‌گیری مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated median line method",
+      "Meanings": [
+        "روش خط میانه مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated median line method regression",
+      "Meanings": [
+        "رگرسیون با روش خط میانه مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "repeated significance test",
+      "Meanings": [
+        "آزمون معنی‌داری مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "replacement",
+      "Meanings": [
+        "جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "replicated experiment",
+      "Meanings": [
+        "آزمایش تکراری"
+      ]
+    },
+    {
+      "EnglishWord": "replication of an experiment",
+      "Meanings": [
+        "تکرار آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "representative sampling",
+      "Meanings": [
+        "نمونه گیری نمایانگر"
+      ]
+    },
+    {
+      "EnglishWord": "reproducibility",
+      "Meanings": [
+        "قابلیت تکثیر"
+      ]
+    },
+    {
+      "EnglishWord": "reproducing kernel hilbert space",
+      "Meanings": [
+        "فضای هیلبرت با هسته بازآفرین"
+      ]
+    },
+    {
+      "EnglishWord": "reproduction rate",
+      "Meanings": [
+        "نرخ تکثیر"
+      ]
+    },
+    {
+      "EnglishWord": "reproductive model",
+      "Meanings": [
+        "مدل تکثیری"
+      ]
+    },
+    {
+      "EnglishWord": "reproductive properties of distribution",
+      "Meanings": [
+        "ویژگیهای تکثیری توزیع"
+      ]
+    },
+    {
+      "EnglishWord": "rerandomization",
+      "Meanings": [
+        "بازتصادفیدن"
+      ]
+    },
+    {
+      "EnglishWord": "rerandomization test",
+      "Meanings": [
+        "آزمون بازتصادفیدن"
+      ]
+    },
+    {
+      "EnglishWord": "resampling",
+      "Meanings": [
+        "بازنمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "resampling procedures",
+      "Meanings": [
+        "شیوه‌های بازنمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "rescaled range analysis",
+      "Meanings": [
+        "تحلیل دامنه بازمقیاسیده"
+      ]
+    },
+    {
+      "EnglishWord": "rescaling",
+      "Meanings": [
+        "بازمقیاسیدن"
+      ]
+    },
+    {
+      "EnglishWord": "research hypothesis",
+      "Meanings": [
+        "فرضیه تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "residual",
+      "Meanings": [
+        "مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual change",
+      "Meanings": [
+        "تغییر مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residual sum of squares",
+      "Meanings": [
+        "مجموع توانهای دوم مانده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "residual waiting time",
+      "Meanings": [
+        "زمان انتظار باقی‌مانده"
+      ]
+    },
+    {
+      "EnglishWord": "residuation",
+      "Meanings": [
+        "مانده‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "resistant techniques",
+      "Meanings": [
+        "فنهای مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "وضوح"
+      ]
+    },
+    {
+      "EnglishWord": "resolvable",
+      "Meanings": [
+        "تجزیه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "resolvable design",
+      "Meanings": [
+        "طرح تجزیه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "response analysis",
+      "Meanings": [
+        "تحلیل پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "response bias",
+      "Meanings": [
+        "اریبی پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "response error",
+      "Meanings": [
+        "خطای پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "response model",
+      "Meanings": [
+        "مدل پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "response surface design",
+      "Meanings": [
+        "طرح رویه پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "restoration",
+      "Meanings": [
+        "بازپردازی"
+      ]
+    },
+    {
+      "EnglishWord": "restricted maximum likelihood",
+      "Meanings": [
+        "ماکسیمم درستنمایی مقید"
+      ]
+    },
+    {
+      "EnglishWord": "restriction error",
+      "Meanings": [
+        "خطای قید"
+      ]
+    },
+    {
+      "EnglishWord": "resubmitted lot",
+      "Meanings": [
+        "محموله برای بازبینی دوباره"
+      ]
+    },
+    {
+      "EnglishWord": "resubstitution method",
+      "Meanings": [
+        "روش بازجانشینی"
+      ]
+    },
+    {
+      "EnglishWord": "retracted distribution",
+      "Meanings": [
+        "توزیع ترنجیده"
+      ]
+    },
+    {
+      "EnglishWord": "retrodiction",
+      "Meanings": [
+        "بازپس‌گویی"
+      ]
+    },
+    {
+      "EnglishWord": "retrospective",
+      "Meanings": [
+        "گذشته‌نگر"
+      ]
+    },
+    {
+      "EnglishWord": "return period",
+      "Meanings": [
+        "دوره بازگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return state",
+      "Meanings": [
+        "وضعیت بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "reversal",
+      "Meanings": [
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "reverse martingale",
+      "Meanings": [
+        "مارتینگل معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reverse process",
+      "Meanings": [
+        "فرایند برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "revesz estimator of regression function",
+      "Meanings": [
+        "برآوردگر ره‌وز تابع رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "reweighted",
+      "Meanings": [
+        "بازموزون"
+      ]
+    },
+    {
+      "EnglishWord": "rice distribution",
+      "Meanings": [
+        "توزیع رایس"
+      ]
+    },
+    {
+      "EnglishWord": "richards family of growth curves",
+      "Meanings": [
+        "خانواده ریچاردز خمهای رشد"
+      ]
+    },
+    {
+      "EnglishWord": "richness of species",
+      "Meanings": [
+        "کثرت گونه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "ridge regression",
+      "Meanings": [
+        "رگرسیون ستیغی"
+      ]
+    },
+    {
+      "EnglishWord": "ridit analysis",
+      "Meanings": [
+        "تحلیل ریدیت"
+      ]
+    },
+    {
+      "EnglishWord": "riedwyl one sample test",
+      "Meanings": [
+        "آزمون یک‌نمونه‌ای ریدویل"
+      ]
+    },
+    {
+      "EnglishWord": "riemann-stieltjes integral",
+      "Meanings": [
+        "انتگرال ریمان",
+        "استیلت‌یس"
+      ]
+    },
+    {
+      "EnglishWord": "riesz-fischer theorem",
+      "Meanings": [
+        "قضیه ریس",
+        "فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "right censored",
+      "Meanings": [
+        "راست‌سانسوریده"
+      ]
+    },
+    {
+      "EnglishWord": "right censoring",
+      "Meanings": [
+        "سانسور از راست"
+      ]
+    },
+    {
+      "EnglishWord": "right haar measure",
+      "Meanings": [
+        "اندازه هار راست"
+      ]
+    },
+    {
+      "EnglishWord": "ring-width index",
+      "Meanings": [
+        "شاخص حلقه‌پهنا"
+      ]
+    },
+    {
+      "EnglishWord": "riordan identity",
+      "Meanings": [
+        "اتحاد ری‌یوردان"
+      ]
+    },
+    {
+      "EnglishWord": "risk",
+      "Meanings": [
+        "مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk analysis",
+      "Meanings": [
+        "تحلیل مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk function",
+      "Meanings": [
+        "تابع مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "risk theory",
+      "Meanings": [
+        "نظریه مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "ritz method",
+      "Meanings": [
+        "روش ریتس"
+      ]
+    },
+    {
+      "EnglishWord": "robbins-monro procedure",
+      "Meanings": [
+        "شیوه رابینز",
+        "مونرو"
+      ]
+    },
+    {
+      "EnglishWord": "robust distance",
+      "Meanings": [
+        "فاصله استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust estimation",
+      "Meanings": [
+        "برآورد استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust estimation of multivariate location and scatter",
+      "Meanings": [
+        "برآورد استوار مکان و پراکنش چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "robust inspection sampling plan",
+      "Meanings": [
+        "طرح نمونه‌گیری استوار برای بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "robust regression",
+      "Meanings": [
+        "رگرسیون استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust smoothing",
+      "Meanings": [
+        "هموارسازی استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust substitute",
+      "Meanings": [
+        "جانشین استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust test",
+      "Meanings": [
+        "آزمون استوار"
+      ]
+    },
+    {
+      "EnglishWord": "robust test for change-point model",
+      "Meanings": [
+        "آزمون استوار برای مدل نقطه تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "robustification",
+      "Meanings": [
+        "استوارسازی"
+      ]
+    },
+    {
+      "EnglishWord": "robustness",
+      "Meanings": [
+        "استواری"
+      ]
+    },
+    {
+      "EnglishWord": "robustness in experimental design",
+      "Meanings": [
+        "استواری در طرح آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "robust-resistant line",
+      "Meanings": [
+        "خط استوار",
+        "مقاوم"
+      ]
+    },
+    {
+      "EnglishWord": "rodrigues' formula",
+      "Meanings": [
+        "فرمول رودریگز"
+      ]
+    },
+    {
+      "EnglishWord": "room's squares",
+      "Meanings": [
+        "مربعهای روم"
+      ]
+    },
+    {
+      "EnglishWord": "root mean square",
+      "Meanings": [
+        "ریشه میانگین توانهای دوم"
+      ]
+    },
+    {
+      "EnglishWord": "root mean square deviation",
+      "Meanings": [
+        "ریشه میانگین توان دوم انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "root test",
+      "Meanings": [
+        "آزمون ریشه"
+      ]
+    },
+    {
+      "EnglishWord": "rootagon",
+      "Meanings": [
+        "ریشه‌ضلعی"
+      ]
+    },
+    {
+      "EnglishWord": "rootistic distribution",
+      "Meanings": [
+        "توزیع ریشه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rootogram",
+      "Meanings": [
+        "ریشه‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "rose diagram",
+      "Meanings": [
+        "نمودار گل سرخی"
+      ]
+    },
+    {
+      "EnglishWord": "rosenthal's moment inequality",
+      "Meanings": [
+        "نابرابری گشتاوری روزنتال"
+      ]
+    },
+    {
+      "EnglishWord": "rotatability index",
+      "Meanings": [
+        "شاخص دوران‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "rotatable",
+      "Meanings": [
+        "دوران‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rotatable design",
+      "Meanings": [
+        "طرح دوران‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "rotation angle",
+      "Meanings": [
+        "زاویه دوران"
+      ]
+    },
+    {
+      "EnglishWord": "rotation group",
+      "Meanings": [
+        "گروه دوران"
+      ]
+    },
+    {
+      "EnglishWord": "rotation group bias",
+      "Meanings": [
+        "اریبی چرخش گروه"
+      ]
+    },
+    {
+      "EnglishWord": "rotation sampling",
+      "Meanings": [
+        "نمونه گیری چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotation technique",
+      "Meanings": [
+        "فن دوران"
+      ]
+    },
+    {
+      "EnglishWord": "rough",
+      "Meanings": [
+        "ناهموار"
+      ]
+    },
+    {
+      "EnglishWord": "roughness",
+      "Meanings": [
+        "ناهمواری"
+      ]
+    },
+    {
+      "EnglishWord": "roughness penalty",
+      "Meanings": [
+        "تاوان ناهمواری"
+      ]
+    },
+    {
+      "EnglishWord": "round robin tournaments",
+      "Meanings": [
+        "دوره‌بازیهای دوره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "rounded distribution",
+      "Meanings": [
+        "توزیع گرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "rounding rule",
+      "Meanings": [
+        "قاعده گرد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "round-off error",
+      "Meanings": [
+        "خطای گرد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "route",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "route sampling",
+      "Meanings": [
+        "نمونه گیری مسیری"
+      ]
+    },
+    {
+      "EnglishWord": "row and column design",
+      "Meanings": [
+        "طرح سطری و ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "row operation",
+      "Meanings": [
+        "عمل سطری"
+      ]
+    },
+    {
+      "EnglishWord": "roy's characteristic root statistic",
+      "Meanings": [
+        "آماره ویژه‌مقدار روی"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "rule of sum",
+      "Meanings": [
+        "قاعده مجموع"
+      ]
+    },
+    {
+      "EnglishWord": "rule space",
+      "Meanings": [
+        "فضای قاعده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "اجرا",
+        "گردش"
+      ]
+    },
+    {
+      "EnglishWord": "run length",
+      "Meanings": [
+        "مدت اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "running median",
+      "Meanings": [
+        "میانه روان"
+      ]
+    },
+    {
+      "EnglishWord": "runs test",
+      "Meanings": [
+        "آزمون گردش"
+      ]
+    },
+    {
+      "EnglishWord": "runs test for symmetry",
+      "Meanings": [
+        "آزمون گردش برای تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "runs-up-and-down test",
+      "Meanings": [
+        "آزمون گردشهای بالا و پایین"
+      ]
+    },
+    {
+      "EnglishWord": "ryan's multiple comparisons procedure",
+      "Meanings": [
+        "شیوه مقایسه‌های چندگانه رایان"
+      ]
+    }
+  ]
+}

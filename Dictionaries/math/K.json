@@ -1,0 +1,799 @@
+﻿{
+  "Group": "K",
+  "Entries": 115,
+  "Words": [
+    {
+      "EnglishWord": "k",
+      "Meanings": [
+        "یازدهمین حرف الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "k cycle",
+      "Meanings": [
+        "k سیکل",
+        "k",
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "k dimensional space",
+      "Meanings": [
+        "فضای k بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "k dimensional subspace",
+      "Meanings": [
+        "زیرفضای k بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "k fold",
+      "Meanings": [
+        "مکرر مرتبه k"
+      ]
+    },
+    {
+      "EnglishWord": "k group",
+      "Meanings": [
+        "k",
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "k permutation",
+      "Meanings": [
+        "k",
+        "جایگشت"
+      ]
+    },
+    {
+      "EnglishWord": "k ply permutations",
+      "Meanings": [
+        "تبدیلات انتقال پذیر k گانه"
+      ]
+    },
+    {
+      "EnglishWord": "k ply transitive group",
+      "Meanings": [
+        "گروه انتقال پذیر k گانه"
+      ]
+    },
+    {
+      "EnglishWord": "k regular",
+      "Meanings": [
+        "k",
+        "منتظم"
+      ]
+    },
+    {
+      "EnglishWord": "k sample problem",
+      "Meanings": [
+        "مساله",
+        "kنمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "k transitive permutation",
+      "Meanings": [
+        "گروه k",
+        "ترایا جایگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "k variate normal distribution",
+      "Meanings": [
+        "k توزیع نرمال متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "kappa",
+      "Meanings": [
+        "کاپا",
+        "حرف دهم الفبای یونانی"
+      ]
+    },
+    {
+      "EnglishWord": "karnaugh map",
+      "Meanings": [
+        "نقشه کارنو"
+      ]
+    },
+    {
+      "EnglishWord": "karush kuhn tucher conditions duality",
+      "Meanings": [
+        "دوگانی شرایط کروش",
+        "کان",
+        "تاکر"
+      ]
+    },
+    {
+      "EnglishWord": "keep accounts",
+      "Meanings": [
+        "حساب‌های دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "keep in",
+      "Meanings": [
+        "ذخیره شده"
+      ]
+    },
+    {
+      "EnglishWord": "keep in mind",
+      "Meanings": [
+        "به خاطر داشتن",
+        "یادآور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "keep track of",
+      "Meanings": [
+        "مورد توجه قرار دادن",
+        "پردازش کردن",
+        "پی گیری و دنبال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "keeping in mind",
+      "Meanings": [
+        "با در نظر گرفتن"
+      ]
+    },
+    {
+      "EnglishWord": "kelvin functions",
+      "Meanings": [
+        "تابع‌های کلوین"
+      ]
+    },
+    {
+      "EnglishWord": "kepler laws",
+      "Meanings": [
+        "قانون‌های کپلر"
+      ]
+    },
+    {
+      "EnglishWord": "kerf",
+      "Meanings": [
+        "شکاف",
+        "پهنای برش",
+        "شکاف برش",
+        "خار"
+      ]
+    },
+    {
+      "EnglishWord": "kernel",
+      "Meanings": [
+        "هسته",
+        "شالوده",
+        "مغز",
+        "کرنل"
+      ]
+    },
+    {
+      "EnglishWord": "kernel function",
+      "Meanings": [
+        "تابع هسته"
+      ]
+    },
+    {
+      "EnglishWord": "kernel of a homomorphism",
+      "Meanings": [
+        "هسته هم ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "kernel of a transformation",
+      "Meanings": [
+        "هسته یک تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "kernel of an integral equation",
+      "Meanings": [
+        "هسته معادله انتگرالی"
+      ]
+    },
+    {
+      "EnglishWord": "kernel of an integral transform",
+      "Meanings": [
+        "هسته تبدیل انتگرالی"
+      ]
+    },
+    {
+      "EnglishWord": "kernel of linear mapping",
+      "Meanings": [
+        "هسته نگاشت خطی"
+      ]
+    },
+    {
+      "EnglishWord": "kev",
+      "Meanings": [
+        "کلید",
+        "خار",
+        "دکمه",
+        "واحد انرژی مساوی هزار الکترون ولت"
+      ]
+    },
+    {
+      "EnglishWord": "key",
+      "Meanings": [
+        "زبانه",
+        "کلید",
+        "خار",
+        "دکمه",
+        "میله اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "key board",
+      "Meanings": [
+        "صفحه کلید",
+        "صفحه کلیدی",
+        "تخته کلید",
+        "صفحه شستی ها",
+        "مجموعه شستی ها"
+      ]
+    },
+    {
+      "EnglishWord": "key dirve taper nose",
+      "Meanings": [
+        "دماغه مخروطی خارخور"
+      ]
+    },
+    {
+      "EnglishWord": "key hole type die",
+      "Meanings": [
+        "قالب سوراخ کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "key industry",
+      "Meanings": [
+        "صنعت کلیدی",
+        "صنعت عمده",
+        "صنعت اساسی",
+        "صنعت پایه ای",
+        "صنایع ماشین سازی",
+        "صنایع مادر"
+      ]
+    },
+    {
+      "EnglishWord": "key job",
+      "Meanings": [
+        "شغل مهم",
+        "شغل کلیدی",
+        "شغل اصلی",
+        "شغل حساس",
+        "شغل عمده"
+      ]
+    },
+    {
+      "EnglishWord": "key man",
+      "Meanings": [
+        "عضو حساس",
+        "عضو موثر"
+      ]
+    },
+    {
+      "EnglishWord": "key operation",
+      "Meanings": [
+        "عمل کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "key personnel",
+      "Meanings": [
+        "کادر موثر",
+        "کادر اصلی",
+        "کادر حساس",
+        "پرسنل حساس"
+      ]
+    },
+    {
+      "EnglishWord": "key punch",
+      "Meanings": [
+        "کلید منگنه",
+        "منگنه کلیدی",
+        "دکمه منگنه"
+      ]
+    },
+    {
+      "EnglishWord": "key resource",
+      "Meanings": [
+        "منابع کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "key vaiable",
+      "Meanings": [
+        "متغیر کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "keyboard",
+      "Meanings": [
+        "صفحه کلید"
+      ]
+    },
+    {
+      "EnglishWord": "keying",
+      "Meanings": [
+        "قطع متناوب",
+        "جازدن",
+        "قطع و وصل کردن",
+        "درگیر کردن",
+        "زخمی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "keyseat rule",
+      "Meanings": [
+        "خط کش مخصوص جاخار"
+      ]
+    },
+    {
+      "EnglishWord": "keyway",
+      "Meanings": [
+        "جاخار",
+        "شیار خار",
+        "جای خار"
+      ]
+    },
+    {
+      "EnglishWord": "khayyam newton binomial",
+      "Meanings": [
+        "دوجمله ای خیام",
+        "نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "khinchin theorem",
+      "Meanings": [
+        "قضیه خینچین"
+      ]
+    },
+    {
+      "EnglishWord": "kick press",
+      "Meanings": [
+        "پرس ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "killed steel",
+      "Meanings": [
+        "فولاد آرام",
+        "فولاد کشته"
+      ]
+    },
+    {
+      "EnglishWord": "killing differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل کیلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "killing fire",
+      "Meanings": [
+        "گرمای آرام کردن",
+        "بالاترین حد درجه حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "killing vector field",
+      "Meanings": [
+        "میدان برداری کیلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "kilo",
+      "Meanings": [
+        "پیشوندی به معنی هزار"
+      ]
+    },
+    {
+      "EnglishWord": "kilogram",
+      "Meanings": [
+        "کیلوگرم",
+        "هزار گرم"
+      ]
+    },
+    {
+      "EnglishWord": "kilometer",
+      "Meanings": [
+        "کیلومتر",
+        "یک هزار متر"
+      ]
+    },
+    {
+      "EnglishWord": "kilometric",
+      "Meanings": [
+        "کیلومتری"
+      ]
+    },
+    {
+      "EnglishWord": "kinematics",
+      "Meanings": [
+        "سینماتیک",
+        "حرکت شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "kinetic",
+      "Meanings": [
+        "جنبشی"
+      ]
+    },
+    {
+      "EnglishWord": "kinetic energy",
+      "Meanings": [
+        "انرژی جنبشی"
+      ]
+    },
+    {
+      "EnglishWord": "kinetic friction",
+      "Meanings": [
+        "اصطکاک جنبشی"
+      ]
+    },
+    {
+      "EnglishWord": "kinetics",
+      "Meanings": [
+        "علم اثر نیرو بر حرکت اجسام مادی",
+        "سینتیک",
+        "جنبش شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "kink",
+      "Meanings": [
+        "تاب",
+        "گره زدن",
+        "گره",
+        "گره خوردن",
+        "پیچ دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "kleen closure",
+      "Meanings": [
+        "پوشش کلین",
+        "بستار کلین"
+      ]
+    },
+    {
+      "EnglishWord": "klein bottle",
+      "Meanings": [
+        "بطری کلاین"
+      ]
+    },
+    {
+      "EnglishWord": "klein four group",
+      "Meanings": [
+        "گروه چهارتایی کلاین",
+        "گروه چهار کلاین"
+      ]
+    },
+    {
+      "EnglishWord": "klein group",
+      "Meanings": [
+        "گروه کلاین"
+      ]
+    },
+    {
+      "EnglishWord": "klein's four group",
+      "Meanings": [
+        "گروه چهار تایی کلاین"
+      ]
+    },
+    {
+      "EnglishWord": "knack",
+      "Meanings": [
+        "مهارت",
+        "فن"
+      ]
+    },
+    {
+      "EnglishWord": "knapsack problem",
+      "Meanings": [
+        "مساله کوله پشتی",
+        "مساله سبکی کوله بار"
+      ]
+    },
+    {
+      "EnglishWord": "kneading",
+      "Meanings": [
+        "ورز دادن",
+        "ورز"
+      ]
+    },
+    {
+      "EnglishWord": "knee",
+      "Meanings": [
+        "زانو",
+        "زانویی",
+        "مفصل"
+      ]
+    },
+    {
+      "EnglishWord": "knee type milling machine",
+      "Meanings": [
+        "ماشین فرز زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "kneecap",
+      "Meanings": [
+        "کاسه زانو",
+        "کاسه زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "kneejoint",
+      "Meanings": [
+        "مفصل زانو",
+        "مفصل زانویی"
+      ]
+    },
+    {
+      "EnglishWord": "knob",
+      "Meanings": [
+        "گره",
+        "دستگیره گوی شکل",
+        "شستی",
+        "ضامن",
+        "تکمه",
+        "برآمدگی"
+      ]
+    },
+    {
+      "EnglishWord": "knock out pin",
+      "Meanings": [
+        "میله بیرون انداز",
+        "میله پران"
+      ]
+    },
+    {
+      "EnglishWord": "knot",
+      "Meanings": [
+        "گره دریایی",
+        "گره",
+        "واحد سرعت دریایی معادل با 6076. 1 فوت در ساعت",
+        "واحد سرعت باد"
+      ]
+    },
+    {
+      "EnglishWord": "knot group",
+      "Meanings": [
+        "گروه گرهی"
+      ]
+    },
+    {
+      "EnglishWord": "knot how",
+      "Meanings": [
+        "دانش فنی",
+        "دانش و فن",
+        "مهارت",
+        "فوت و فن",
+        "لم",
+        "طرز کار"
+      ]
+    },
+    {
+      "EnglishWord": "knot theory",
+      "Meanings": [
+        "نظریه گره"
+      ]
+    },
+    {
+      "EnglishWord": "knowing that",
+      "Meanings": [
+        "با این فرض که",
+        "به شرطی که",
+        "با علم به این که"
+      ]
+    },
+    {
+      "EnglishWord": "knowledge",
+      "Meanings": [
+        "دانش",
+        "اطلاعات",
+        "معرفت"
+      ]
+    },
+    {
+      "EnglishWord": "known",
+      "Meanings": [
+        "معلوم",
+        "داده"
+      ]
+    },
+    {
+      "EnglishWord": "knurl",
+      "Meanings": [
+        "کنگره دار",
+        "کنگره",
+        "آجدار",
+        "آجزنی",
+        "آج",
+        "مخطط"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov axiom",
+      "Meanings": [
+        "اصل موضوع کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov backward equation",
+      "Meanings": [
+        "معادله پسرو کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov equation",
+      "Meanings": [
+        "معادله کولموگروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov forward equation",
+      "Meanings": [
+        "معادله پیشرو کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov inequalities",
+      "Meanings": [
+        "نابرابری‌های کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov sinai invariant",
+      "Meanings": [
+        "ناوردای کولموگوروف",
+        "سینایی",
+        "آنتروپی تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's form of the law of large numbers",
+      "Meanings": [
+        "قانون اعداد بزرگ به صورت کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's form of the strong law of large numbers",
+      "Meanings": [
+        "قانون قوی اعداد بزرگ به صورت کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's inequality",
+      "Meanings": [
+        "نامساوی کولموگوروف"
+      ]
+    },
+    {
+      "EnglishWord": "kolmogorov's system of axioms of probablity",
+      "Meanings": [
+        "دستگاه اصول کولموگوروف احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "konig's symbol",
+      "Meanings": [
+        "نماد کونیگ"
+      ]
+    },
+    {
+      "EnglishWord": "konigsberg bridges problem",
+      "Meanings": [
+        "مساله پل‌های کونیگسبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "kotone",
+      "Meanings": [
+        "ستون"
+      ]
+    },
+    {
+      "EnglishWord": "krein milman theorem",
+      "Meanings": [
+        "قضیه کراین",
+        "میلمن"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker delta",
+      "Meanings": [
+        "دلتای کرونکر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker index",
+      "Meanings": [
+        "شاخص کرونکر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker product",
+      "Meanings": [
+        "حاصلضرب کرونکر"
+      ]
+    },
+    {
+      "EnglishWord": "kronecker set",
+      "Meanings": [
+        "مجموعه کرونکر"
+      ]
+    },
+    {
+      "EnglishWord": "krull's theorem",
+      "Meanings": [
+        "قضیه کرول"
+      ]
+    },
+    {
+      "EnglishWord": "kruskal wallis test",
+      "Meanings": [
+        "آزمون کروسکال",
+        "والیس"
+      ]
+    },
+    {
+      "EnglishWord": "kuhn's modified gradient",
+      "Meanings": [
+        "ضریب تعدیل کوهن"
+      ]
+    },
+    {
+      "EnglishWord": "kummer relation",
+      "Meanings": [
+        "رابطه کومر"
+      ]
+    },
+    {
+      "EnglishWord": "kummer's equation",
+      "Meanings": [
+        "معادله کومر"
+      ]
+    },
+    {
+      "EnglishWord": "kummer's test for convergence",
+      "Meanings": [
+        "آزمون همگرایی کومر"
+      ]
+    },
+    {
+      "EnglishWord": "kuratowski graphs",
+      "Meanings": [
+        "گراف‌های کوراتوفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "kuratowski space",
+      "Meanings": [
+        "فضای کوراتوفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "kurtosis",
+      "Meanings": [
+        "کشیدگی",
+        "ستیغ",
+        "انحنا",
+        "پخی"
+      ]
+    },
+    {
+      "EnglishWord": "kurtosis coefficient",
+      "Meanings": [
+        "ضریب کشیدگی"
+      ]
+    }
+  ]
+}

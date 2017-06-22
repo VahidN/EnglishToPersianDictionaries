@@ -1,0 +1,4615 @@
+﻿{
+  "Group": "S",
+  "Entries": 760,
+  "Words": [
+    {
+      "EnglishWord": "s",
+      "Meanings": [
+        "نوزدهمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "saddle point",
+      "Meanings": [
+        "نقطه زینی"
+      ]
+    },
+    {
+      "EnglishWord": "saddle point approximation",
+      "Meanings": [
+        "تقریب نقطه زینی"
+      ]
+    },
+    {
+      "EnglishWord": "safequard",
+      "Meanings": [
+        "حفاظت"
+      ]
+    },
+    {
+      "EnglishWord": "safety",
+      "Meanings": [
+        "ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "safety campaign",
+      "Meanings": [
+        "مبارزه برای ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "saint petersburg paradox",
+      "Meanings": [
+        "پارادوکس سن پیترزبورگ"
+      ]
+    },
+    {
+      "EnglishWord": "salem singular distribution",
+      "Meanings": [
+        "توزیع تکین سالم"
+      ]
+    },
+    {
+      "EnglishWord": "sampford sampling",
+      "Meanings": [
+        "نمونه‌گیری سامفورد"
+      ]
+    },
+    {
+      "EnglishWord": "sample",
+      "Meanings": [
+        "نمونه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "sample autocorrelation",
+      "Meanings": [
+        "خودهمبستگی نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample autocovariance",
+      "Meanings": [
+        "اتوکوواریانس نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample covariance",
+      "Meanings": [
+        "کوواریانس نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample design",
+      "Meanings": [
+        "طرح نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample function",
+      "Meanings": [
+        "تابع نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample mean",
+      "Meanings": [
+        "میانگین نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample median",
+      "Meanings": [
+        "میانه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample number",
+      "Meanings": [
+        "تعداد نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample path",
+      "Meanings": [
+        "مسیر نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample point",
+      "Meanings": [
+        "نقطه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample reuse",
+      "Meanings": [
+        "بازبه‌کارگیری نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample size",
+      "Meanings": [
+        "حجم نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample size determination",
+      "Meanings": [
+        "تعیین اندازه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample size estimation",
+      "Meanings": [
+        "برآورد اندازه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample space",
+      "Meanings": [
+        "فضای نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sample survey",
+      "Meanings": [
+        "بررسی نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sample variance",
+      "Meanings": [
+        "واریانس نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "نمونه گیری",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "sampling design",
+      "Meanings": [
+        "طرح نمونه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling distribution",
+      "Meanings": [
+        "توزیع نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling error",
+      "Meanings": [
+        "خطای نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling fraction",
+      "Meanings": [
+        "کسر نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling frame",
+      "Meanings": [
+        "چارچوب نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling from finite population",
+      "Meanings": [
+        "نمونه‌گیری از جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "sampling inspection",
+      "Meanings": [
+        "بازرسی نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sampling interval",
+      "Meanings": [
+        "بازه نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling method",
+      "Meanings": [
+        "روش نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling moment",
+      "Meanings": [
+        "گشتاور نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling optimization",
+      "Meanings": [
+        "بهینه‌سازی نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling plan",
+      "Meanings": [
+        "برنامه نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling scheme",
+      "Meanings": [
+        "راهنمای انتخاب طرح نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling survey",
+      "Meanings": [
+        "آمارگیری نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sampling unit",
+      "Meanings": [
+        "واحد نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling variance",
+      "Meanings": [
+        "واریانس نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling with replacement",
+      "Meanings": [
+        "نمونه‌گیری با جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling without recall",
+      "Meanings": [
+        "نمونه‌گیری بدون یادآوری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling without replacement",
+      "Meanings": [
+        "نمونه‌گیری بدون جایگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "sampling zeros",
+      "Meanings": [
+        "صفرهای نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "samuelson-nair inequality",
+      "Meanings": [
+        "نابرابری سامویلسون",
+        "نیر"
+      ]
+    },
+    {
+      "EnglishWord": "samuelson's inequality",
+      "Meanings": [
+        "نابرابری سامویلسون"
+      ]
+    },
+    {
+      "EnglishWord": "sanghvi's index",
+      "Meanings": [
+        "شاخص سانگ‌وی فاصله سانگ‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "sanghvi's index  sanghvi's distance",
+      "Meanings": [
+        "شاخص سانگ‌وی فاصله سانگ‌وی"
+      ]
+    },
+    {
+      "EnglishWord": "sanov inequality",
+      "Meanings": [
+        "نابرابری سانوف"
+      ]
+    },
+    {
+      "EnglishWord": "sargan distribution",
+      "Meanings": [
+        "توزیع سارگان"
+      ]
+    },
+    {
+      "EnglishWord": "sas",
+      "Meanings": [
+        "Statistical Analysis System\u000bسیستم تجزیه و تحلیل آماری",
+        "نرم افزار آماری بسیار قوی برای تجزیه وتحلیل آماری داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "satterthwaite's formula",
+      "Meanings": [
+        "فرمول ساترت ویت"
+      ]
+    },
+    {
+      "EnglishWord": "saturated design",
+      "Meanings": [
+        "طرح اشباع شده"
+      ]
+    },
+    {
+      "EnglishWord": "savage scores",
+      "Meanings": [
+        "نمره‌های سو ج"
+      ]
+    },
+    {
+      "EnglishWord": "savage test",
+      "Meanings": [
+        "آزمون سو ج"
+      ]
+    },
+    {
+      "EnglishWord": "savage-dickey density ratio",
+      "Meanings": [
+        "نسبت چگالی سو ج",
+        "دیکی"
+      ]
+    },
+    {
+      "EnglishWord": "scale",
+      "Meanings": [
+        "مقیاس",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "scale parameter",
+      "Meanings": [
+        "پارامتر مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "scale test",
+      "Meanings": [
+        "آزمون مقیاس"
+      ]
+    },
+    {
+      "EnglishWord": "scales of numerosity",
+      "Meanings": [
+        "مقیاسهای کثرت"
+      ]
+    },
+    {
+      "EnglishWord": "scaling",
+      "Meanings": [
+        "مقیاس‌بندی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "scalogram",
+      "Meanings": [
+        "مقیاس‌نگاری"
+      ]
+    },
+    {
+      "EnglishWord": "scan diagram",
+      "Meanings": [
+        "نمودار کاوشی"
+      ]
+    },
+    {
+      "EnglishWord": "scan statistics",
+      "Meanings": [
+        "آماره‌های کاوشی"
+      ]
+    },
+    {
+      "EnglishWord": "scanning",
+      "Meanings": [
+        "کاوش"
+      ]
+    },
+    {
+      "EnglishWord": "scatter",
+      "Meanings": [
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "scatter diagram",
+      "Meanings": [
+        "نمودار پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "scatter function",
+      "Meanings": [
+        "تابع پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "scatter plot",
+      "Meanings": [
+        "نمودار پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "scattergram",
+      "Meanings": [
+        "پراکنش‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "scatterplot",
+      "Meanings": [
+        "نمودار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "scedastic",
+      "Meanings": [
+        "تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "scedastic curve",
+      "Meanings": [
+        "خم تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "schafer-sheffield test",
+      "Meanings": [
+        "آزمون شیفر",
+        "شفیلد"
+      ]
+    },
+    {
+      "EnglishWord": "scheffe's simultaneous comparison procedure",
+      "Meanings": [
+        "شیوه مقایسه همزمان شفه"
+      ]
+    },
+    {
+      "EnglishWord": "scheidegger-watson distribution",
+      "Meanings": [
+        "توزیع شایده‌گر",
+        "واتسون"
+      ]
+    },
+    {
+      "EnglishWord": "schematic",
+      "Meanings": [
+        "شمایی"
+      ]
+    },
+    {
+      "EnglishWord": "schematic plot",
+      "Meanings": [
+        "نمودار شمایی"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "طرح"
+      ]
+    },
+    {
+      "EnglishWord": "schoener's index of proportional similarity",
+      "Meanings": [
+        "شاخص تشابه متناسب شویه‌نر"
+      ]
+    },
+    {
+      "EnglishWord": "schonemann product rule",
+      "Meanings": [
+        "قاعده ضرب شونه‌مان"
+      ]
+    },
+    {
+      "EnglishWord": "school",
+      "Meanings": [
+        "مکتب"
+      ]
+    },
+    {
+      "EnglishWord": "schur convexity",
+      "Meanings": [
+        "کوژی شور"
+      ]
+    },
+    {
+      "EnglishWord": "schur decomposition",
+      "Meanings": [
+        "تجزیه شور"
+      ]
+    },
+    {
+      "EnglishWord": "schur function",
+      "Meanings": [
+        "تابع شور"
+      ]
+    },
+    {
+      "EnglishWord": "schur inequality",
+      "Meanings": [
+        "نابرابری شور"
+      ]
+    },
+    {
+      "EnglishWord": "schur product",
+      "Meanings": [
+        "ضرب شور"
+      ]
+    },
+    {
+      "EnglishWord": "schuster periodogram",
+      "Meanings": [
+        "دوره‌نگار شوستر"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz criterion",
+      "Meanings": [
+        "ملاک شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "schwarz inequality",
+      "Meanings": [
+        "نابرابری شوارتس"
+      ]
+    },
+    {
+      "EnglishWord": "schweppe-type estimators",
+      "Meanings": [
+        "برآوردگرهای شویپه‌گون"
+      ]
+    },
+    {
+      "EnglishWord": "scientific method",
+      "Meanings": [
+        "روش علمی"
+      ]
+    },
+    {
+      "EnglishWord": "score",
+      "Meanings": [
+        "امتیاز 2. نمره",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "score statistics",
+      "Meanings": [
+        "آماره‌های امتیازی"
+      ]
+    },
+    {
+      "EnglishWord": "scoring",
+      "Meanings": [
+        "امتیازبندی 2. نمره‌دهی"
+      ]
+    },
+    {
+      "EnglishWord": "scoring rule",
+      "Meanings": [
+        "قاعده امتیازبندی"
+      ]
+    },
+    {
+      "EnglishWord": "scoring systems in sport",
+      "Meanings": [
+        "نظامهای امتیازبندی در ورزش"
+      ]
+    },
+    {
+      "EnglishWord": "scott's coefficient of intercoder agreement",
+      "Meanings": [
+        "ضریب اسکات برای توافق بین کدگذاران"
+      ]
+    },
+    {
+      "EnglishWord": "screening",
+      "Meanings": [
+        "غربالگری",
+        "کلمات مرتبط",
+        "screening by correlated variates"
+      ]
+    },
+    {
+      "EnglishWord": "screening by correlated variates",
+      "Meanings": [
+        "غربالگری به کمک متغیرهای همبسته"
+      ]
+    },
+    {
+      "EnglishWord": "screening design",
+      "Meanings": [
+        "طرح غربالگری"
+      ]
+    },
+    {
+      "EnglishWord": "search",
+      "Meanings": [
+        "جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "search theory",
+      "Meanings": [
+        "نظریه جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "seasonality",
+      "Meanings": [
+        "فصلی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "secant method",
+      "Meanings": [
+        "روش خط قاطع"
+      ]
+    },
+    {
+      "EnglishWord": "sech",
+      "Meanings": [
+        "سکانت هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "sech-squared distribution",
+      "Meanings": [
+        "توزیع توان دوم سکانت هذلولی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary data",
+      "Meanings": [
+        "داده‌های ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "second-order",
+      "Meanings": [
+        "مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "second-order efficiency",
+      "Meanings": [
+        "کارآیی مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "secretary problem",
+      "Meanings": [
+        "مسیله منشی"
+      ]
+    },
+    {
+      "EnglishWord": "sector",
+      "Meanings": [
+        "قطاع"
+      ]
+    },
+    {
+      "EnglishWord": "sector chart",
+      "Meanings": [
+        "نمودار قطاعی"
+      ]
+    },
+    {
+      "EnglishWord": "sector diagram",
+      "Meanings": [
+        "نمودار قطاعی"
+      ]
+    },
+    {
+      "EnglishWord": "secular trend",
+      "Meanings": [
+        "روند دیرپای"
+      ]
+    },
+    {
+      "EnglishWord": "seemingly unrelated regression",
+      "Meanings": [
+        "رگرسیون به‌ظاهر نامربوط"
+      ]
+    },
+    {
+      "EnglishWord": "segregation",
+      "Meanings": [
+        "جدا شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "seismogram",
+      "Meanings": [
+        "لرزه‌نگار"
+      ]
+    },
+    {
+      "EnglishWord": "select life table",
+      "Meanings": [
+        "جدول عمر گزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "selection bias",
+      "Meanings": [
+        "اریبی گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selection differential",
+      "Meanings": [
+        "تفاضل گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selection of regression variables",
+      "Meanings": [
+        "گزینش متغیرهای رگرسیونی"
+      ]
+    },
+    {
+      "EnglishWord": "selection of stratifiers",
+      "Meanings": [
+        "گزینش عاملهای طبقه‌بندی‌کننده"
+      ]
+    },
+    {
+      "EnglishWord": "selection problem",
+      "Meanings": [
+        "مسیله گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selection procedure",
+      "Meanings": [
+        "شیوه گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selection statistic",
+      "Meanings": [
+        "آماره گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "selective inference",
+      "Meanings": [
+        "استنباط گزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "selective least squares",
+      "Meanings": [
+        "کمترین توانهای دوم گزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "selective procedure",
+      "Meanings": [
+        "شیوه گزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "selective sampling",
+      "Meanings": [
+        "نمونه‌گیری گزینشی"
+      ]
+    },
+    {
+      "EnglishWord": "self-adjoint matrix",
+      "Meanings": [
+        "ماتریس خودالحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "self-affine process",
+      "Meanings": [
+        "فرایند خودآفین"
+      ]
+    },
+    {
+      "EnglishWord": "self-consistency",
+      "Meanings": [
+        "خودسازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "self-consistent estimator",
+      "Meanings": [
+        "برآوردگر خودسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "self-correcting process",
+      "Meanings": [
+        "فرایند خودتصحیح"
+      ]
+    },
+    {
+      "EnglishWord": "self-enumeration",
+      "Meanings": [
+        "خودشمارش"
+      ]
+    },
+    {
+      "EnglishWord": "self-reciprocal distribution",
+      "Meanings": [
+        "توزیع خودمعکوس"
+      ]
+    },
+    {
+      "EnglishWord": "self-similar process",
+      "Meanings": [
+        "فرایند خودمشابه"
+      ]
+    },
+    {
+      "EnglishWord": "self-similarity",
+      "Meanings": [
+        "خودتشابهی"
+      ]
+    },
+    {
+      "EnglishWord": "self-weighting sample",
+      "Meanings": [
+        "نمونه خودوزن‌ده"
+      ]
+    },
+    {
+      "EnglishWord": "semantics",
+      "Meanings": [
+        "معناشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "semi-bayesian inference",
+      "Meanings": [
+        "استنباط نیم‌بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "semideterministic relation",
+      "Meanings": [
+        "رابطه نیمه تعیینی"
+      ]
+    },
+    {
+      "EnglishWord": "semi-dissipative markov chains",
+      "Meanings": [
+        "زنجیرهای مارکوف نیم‌اتلافی"
+      ]
+    },
+    {
+      "EnglishWord": "semi-interquartile range",
+      "Meanings": [
+        "###text2###"
+      ]
+    },
+    {
+      "EnglishWord": "semi-inverse",
+      "Meanings": [
+        "نیم‌وارون"
+      ]
+    },
+    {
+      "EnglishWord": "semi-latin squares",
+      "Meanings": [
+        "مربعهای نیم‌لاتین"
+      ]
+    },
+    {
+      "EnglishWord": "semilognormal distribution",
+      "Meanings": [
+        "توزیع نیم‌لگ‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "semi-markov",
+      "Meanings": [
+        "نیم‌مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "semi-markov process",
+      "Meanings": [
+        "فرایند نیم‌مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "semi-midmeans",
+      "Meanings": [
+        "نیم‌میان‌میانگینها"
+      ]
+    },
+    {
+      "EnglishWord": "seminal",
+      "Meanings": [
+        "آغازگر"
+      ]
+    },
+    {
+      "EnglishWord": "semi-parametric model",
+      "Meanings": [
+        "مدل نیم‌پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "semi-pie diagram",
+      "Meanings": [
+        "نمودار نیم‌کلوچه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "semi-sextile",
+      "Meanings": [
+        "دوازدهک"
+      ]
+    },
+    {
+      "EnglishWord": "semistable distribution",
+      "Meanings": [
+        "توزیع نیم‌پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "semisystematic error",
+      "Meanings": [
+        "خطای نیم‌سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "semitabular",
+      "Meanings": [
+        "نیم‌جدولی"
+      ]
+    },
+    {
+      "EnglishWord": "semitabular form",
+      "Meanings": [
+        "صورت نیم‌جدولی"
+      ]
+    },
+    {
+      "EnglishWord": "semivariance",
+      "Meanings": [
+        "نیم‌واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "sensitive question",
+      "Meanings": [
+        "پرسش حساس"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity analysis",
+      "Meanings": [
+        "تحلیل حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity curve",
+      "Meanings": [
+        "خم حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "separable space",
+      "Meanings": [
+        "فضای تفکیک‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "separable statistic",
+      "Meanings": [
+        "آماره تفکیک‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "separating hyperplane theorem",
+      "Meanings": [
+        "قضیه ابرصفحه تفکیک‌کننده"
+      ]
+    },
+    {
+      "EnglishWord": "separation of means",
+      "Meanings": [
+        "جداسازی میانگینها"
+      ]
+    },
+    {
+      "EnglishWord": "separator",
+      "Meanings": [
+        "جداساز"
+      ]
+    },
+    {
+      "EnglishWord": "septile",
+      "Meanings": [
+        "هفتک"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "دنباله",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "sequences comparison statistics",
+      "Meanings": [
+        "آماره‌های مقایسه دنباله‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "sequences dating",
+      "Meanings": [
+        "تاریخ‌گذاری دنباله‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "sequential",
+      "Meanings": [
+        "ترتیبی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential analysis",
+      "Meanings": [
+        "تحلیل دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential chi-squared",
+      "Meanings": [
+        "خی‌دوی دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential chi-squared test",
+      "Meanings": [
+        "آزمون خی‌دوی دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential estimation",
+      "Meanings": [
+        "برآورد دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential estimation of the mean",
+      "Meanings": [
+        "برآورد دنباله‌ای میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "sequential estimation of the mean in finite population",
+      "Meanings": [
+        "برآورد دنباله‌ای میانگین در جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "sequential life testing",
+      "Meanings": [
+        "آزمون عمر دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential probability ratio",
+      "Meanings": [
+        "نسبت احتمال دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential probability ratio test",
+      "Meanings": [
+        "آزمون نسبت احتمال دنباله ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential procedure",
+      "Meanings": [
+        "شیوه دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential rank estimator",
+      "Meanings": [
+        "برآوردگر رتبه‌ای دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential rejective bonferroni procedure",
+      "Meanings": [
+        "شیوه بون‌فرونی رد دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential sampling",
+      "Meanings": [
+        "نمونه‌گیری دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential savage test",
+      "Meanings": [
+        "آزمون سوج دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential t^2 test",
+      "Meanings": [
+        "آزمون T‌^2ی دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential test",
+      "Meanings": [
+        "آزمون دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential tests of composite hypotheses",
+      "Meanings": [
+        "آزمونهای دنباله ای فرضیه‌های مرکب"
+      ]
+    },
+    {
+      "EnglishWord": "sequential trials",
+      "Meanings": [
+        "آزمایه‌های دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sequential t-test",
+      "Meanings": [
+        "آزمون tی دنباله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "serial correlation",
+      "Meanings": [
+        "همبستگی پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "serial covariance",
+      "Meanings": [
+        "کوواریانس پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "serial test",
+      "Meanings": [
+        "آزمون پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "serial test of randomness",
+      "Meanings": [
+        "آزمون پیاپی برای تصادفی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "serial variation",
+      "Meanings": [
+        "تغییرات پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "seriation",
+      "Meanings": [
+        "ردیف‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "series",
+      "Meanings": [
+        "سری 2. سریها",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "serra's calculus",
+      "Meanings": [
+        "حسابان سه‌را"
+      ]
+    },
+    {
+      "EnglishWord": "service factor",
+      "Meanings": [
+        "عامل سرویس"
+      ]
+    },
+    {
+      "EnglishWord": "service period",
+      "Meanings": [
+        "دوره سرویس"
+      ]
+    },
+    {
+      "EnglishWord": "service time",
+      "Meanings": [
+        "زمان سرویس"
+      ]
+    },
+    {
+      "EnglishWord": "serviceability",
+      "Meanings": [
+        "تعمیرپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "set",
+      "Meanings": [
+        "مجموعه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "set aside method",
+      "Meanings": [
+        "روش کنار گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "setwise dependence",
+      "Meanings": [
+        "وابستگی مجموعه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sextile",
+      "Meanings": [
+        "ششک"
+      ]
+    },
+    {
+      "EnglishWord": "shanmugan numbers",
+      "Meanings": [
+        "اعداد شان‌موگان"
+      ]
+    },
+    {
+      "EnglishWord": "shannon theorem",
+      "Meanings": [
+        "قضیه شانون"
+      ]
+    },
+    {
+      "EnglishWord": "shannon-wiener index",
+      "Meanings": [
+        "شاخص شانون",
+        "وینر"
+      ]
+    },
+    {
+      "EnglishWord": "shape",
+      "Meanings": [
+        "شکل"
+      ]
+    },
+    {
+      "EnglishWord": "shape factor",
+      "Meanings": [
+        "عامل شکل"
+      ]
+    },
+    {
+      "EnglishWord": "shape statistics",
+      "Meanings": [
+        "آمارشناسی شکلها"
+      ]
+    },
+    {
+      "EnglishWord": "shapiro-wilk w statistic",
+      "Meanings": [
+        "آماره Wی شاپیرو",
+        "ویلک"
+      ]
+    },
+    {
+      "EnglishWord": "sharp null hypothesis",
+      "Meanings": [
+        "فرض صفر مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "sharpe and lotka model",
+      "Meanings": [
+        "مدل شارپ و لوتکا"
+      ]
+    },
+    {
+      "EnglishWord": "sharpening data",
+      "Meanings": [
+        "نمایان‌سازی داده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "sheffer polynomials",
+      "Meanings": [
+        "چندجمله‌ایهای شیفر"
+      ]
+    },
+    {
+      "EnglishWord": "sheppard correction",
+      "Meanings": [
+        "تصحیح شپارد"
+      ]
+    },
+    {
+      "EnglishWord": "sheppard's formula",
+      "Meanings": [
+        "فرمول شپارد"
+      ]
+    },
+    {
+      "EnglishWord": "sherman distribution",
+      "Meanings": [
+        "توزیع شرمن"
+      ]
+    },
+    {
+      "EnglishWord": "sherman test statistic",
+      "Meanings": [
+        "آماره آزمون شرمن"
+      ]
+    },
+    {
+      "EnglishWord": "shewhart chart",
+      "Meanings": [
+        "نمودار شی‌یوهارت"
+      ]
+    },
+    {
+      "EnglishWord": "shewhart principle",
+      "Meanings": [
+        "اصل شی‌یوهارت"
+      ]
+    },
+    {
+      "EnglishWord": "shift model",
+      "Meanings": [
+        "مدل انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "shock model",
+      "Meanings": [
+        "مدل شوک"
+      ]
+    },
+    {
+      "EnglishWord": "shorack estimator",
+      "Meanings": [
+        "برآوردگر شوراک"
+      ]
+    },
+    {
+      "EnglishWord": "shore approximation",
+      "Meanings": [
+        "تقریب شور"
+      ]
+    },
+    {
+      "EnglishWord": "short data",
+      "Meanings": [
+        "داده‌های کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "shortcut method",
+      "Meanings": [
+        "روش میان‌بر"
+      ]
+    },
+    {
+      "EnglishWord": "shorth",
+      "Meanings": [
+        "کوته‌نیم"
+      ]
+    },
+    {
+      "EnglishWord": "shot-noise",
+      "Meanings": [
+        "نوفه شلیک"
+      ]
+    },
+    {
+      "EnglishWord": "shot-noise distribution",
+      "Meanings": [
+        "توزیع نوفه شلیک"
+      ]
+    },
+    {
+      "EnglishWord": "shot-noise process",
+      "Meanings": [
+        "فرایند نوفه شلیک"
+      ]
+    },
+    {
+      "EnglishWord": "shovelton's formula",
+      "Meanings": [
+        "فرمول شاولتون"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage estimator",
+      "Meanings": [
+        "برآوردگر انقباضی"
+      ]
+    },
+    {
+      "EnglishWord": "sichel's compound poisson distribution",
+      "Meanings": [
+        "توزیع پواسون مرکب زیشل"
+      ]
+    },
+    {
+      "EnglishWord": "siegel-tukey test",
+      "Meanings": [
+        "آزمون سیگل",
+        "توکی"
+      ]
+    },
+    {
+      "EnglishWord": "sigma isochron",
+      "Meanings": [
+        "سیگماهم‌دوره"
+      ]
+    },
+    {
+      "EnglishWord": "sigma lattice",
+      "Meanings": [
+        "سیگمامشبکه"
+      ]
+    },
+    {
+      "EnglishWord": "sigma restriction",
+      "Meanings": [
+        "قید مجموع"
+      ]
+    },
+    {
+      "EnglishWord": "sigma-field",
+      "Meanings": [
+        "سیگمامیدان"
+      ]
+    },
+    {
+      "EnglishWord": "sign test",
+      "Meanings": [
+        "آزمون علامت"
+      ]
+    },
+    {
+      "EnglishWord": "signal",
+      "Meanings": [
+        "سیگنال"
+      ]
+    },
+    {
+      "EnglishWord": "signal detection theory",
+      "Meanings": [
+        "نظریه آشکارسازی سیگنالها"
+      ]
+    },
+    {
+      "EnglishWord": "signal tracking",
+      "Meanings": [
+        "ردگیری"
+      ]
+    },
+    {
+      "EnglishWord": "signal-to-noise ratio",
+      "Meanings": [
+        "نسبت سیگنال به نوفه"
+      ]
+    },
+    {
+      "EnglishWord": "signed measure",
+      "Meanings": [
+        "اندازه علامت‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "signed rank test",
+      "Meanings": [
+        "آزمون رتبه علامتدار"
+      ]
+    },
+    {
+      "EnglishWord": "signed-rank statistic",
+      "Meanings": [
+        "آماره رتبه‌ای علامت‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "significance level",
+      "Meanings": [
+        "سطح معنی دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "significance level of a test",
+      "Meanings": [
+        "سطح معنی‌دار بودن آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "significance probability",
+      "Meanings": [
+        "احتمال معنی‌دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "significance test",
+      "Meanings": [
+        "آزمون معنی‌دار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "significant difference",
+      "Meanings": [
+        "تفاوت معنی دار"
+      ]
+    },
+    {
+      "EnglishWord": "significant digit",
+      "Meanings": [
+        "رقم معنی‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "significant figure",
+      "Meanings": [
+        "رقم معنی‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "signum function",
+      "Meanings": [
+        "تابع علامت"
+      ]
+    },
+    {
+      "EnglishWord": "sill",
+      "Meanings": [
+        "ازاره"
+      ]
+    },
+    {
+      "EnglishWord": "simes test of multiple hypotheses",
+      "Meanings": [
+        "آزمون سیمز برای فرضهای چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "similar matrices",
+      "Meanings": [
+        "ماتریسهای مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similar regions",
+      "Meanings": [
+        "ناحیه‌های مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similar tests",
+      "Meanings": [
+        "آزمونهای مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "similarity measure",
+      "Meanings": [
+        "معیار تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "simple expansion",
+      "Meanings": [
+        "بسط ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple hypothesis",
+      "Meanings": [
+        "فرض ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple n-person game",
+      "Meanings": [
+        "بازی n",
+        "نفره ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple order",
+      "Meanings": [
+        "ترتیب ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simple random sampling",
+      "Meanings": [
+        "نمونه گیری تصادفی ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simplex",
+      "Meanings": [
+        "سادک"
+      ]
+    },
+    {
+      "EnglishWord": "simplex design",
+      "Meanings": [
+        "طرح سادکی"
+      ]
+    },
+    {
+      "EnglishWord": "simplex method",
+      "Meanings": [
+        "روش سادکی"
+      ]
+    },
+    {
+      "EnglishWord": "simpson index",
+      "Meanings": [
+        "شاخص سیمپ‌سون"
+      ]
+    },
+    {
+      "EnglishWord": "simpson's distribution",
+      "Meanings": [
+        "توزیع سیمپ‌سون"
+      ]
+    },
+    {
+      "EnglishWord": "simpson's paradox",
+      "Meanings": [
+        "پارادوکس سیمپ‌سون"
+      ]
+    },
+    {
+      "EnglishWord": "simpson's rule",
+      "Meanings": [
+        "قاعده سیمپ‌سون"
+      ]
+    },
+    {
+      "EnglishWord": "simulated annealing",
+      "Meanings": [
+        "نوردیدن شبیه‌سازی شده"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "شبیه‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simulation language",
+      "Meanings": [
+        "زبان شبیه‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous confidence interval",
+      "Meanings": [
+        "فاصله اطمینان همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous confidence intervals",
+      "Meanings": [
+        "بازه‌های اطمینان همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous equation model",
+      "Meanings": [
+        "مدل معادلات همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous inference",
+      "Meanings": [
+        "استنباط همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous testing",
+      "Meanings": [
+        "آزمون کردن همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "singh-maddala distribution",
+      "Meanings": [
+        "توزیع سینگ",
+        "مادالا"
+      ]
+    },
+    {
+      "EnglishWord": "single integral",
+      "Meanings": [
+        "انتگرال ساده"
+      ]
+    },
+    {
+      "EnglishWord": "single linkage",
+      "Meanings": [
+        "تک‌اتصالی"
+      ]
+    },
+    {
+      "EnglishWord": "single linkage clustering method",
+      "Meanings": [
+        "روش خوشه‌بندی تک‌اتصالی"
+      ]
+    },
+    {
+      "EnglishWord": "single sampling",
+      "Meanings": [
+        "تک‌نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "single-humped curve",
+      "Meanings": [
+        "خم تک‌کوهانه"
+      ]
+    },
+    {
+      "EnglishWord": "single-peakedness",
+      "Meanings": [
+        "تک‌قله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "single-server queue",
+      "Meanings": [
+        "صف تک‌سرویس‌دهی"
+      ]
+    },
+    {
+      "EnglishWord": "singlet",
+      "Meanings": [
+        "تک"
+      ]
+    },
+    {
+      "EnglishWord": "singleton",
+      "Meanings": [
+        "مجموعه تک‌عنصری"
+      ]
+    },
+    {
+      "EnglishWord": "singular distribution",
+      "Meanings": [
+        "توزیع تکین"
+      ]
+    },
+    {
+      "EnglishWord": "singular matrix",
+      "Meanings": [
+        "ماتریس تکین"
+      ]
+    },
+    {
+      "EnglishWord": "singular normal distribution",
+      "Meanings": [
+        "توزیع نرمال تکین"
+      ]
+    },
+    {
+      "EnglishWord": "singular weighing design",
+      "Meanings": [
+        "طرح توزین تکین"
+      ]
+    },
+    {
+      "EnglishWord": "singular-value decomposition",
+      "Meanings": [
+        "تجزیه ویژه‌مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal limit theorem",
+      "Meanings": [
+        "قضیه حدی سینوس‌واری"
+      ]
+    },
+    {
+      "EnglishWord": "situation",
+      "Meanings": [
+        "وضع"
+      ]
+    },
+    {
+      "EnglishWord": "size",
+      "Meanings": [
+        "اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "size and shape analysis",
+      "Meanings": [
+        "تحلیل اندازه و شکل"
+      ]
+    },
+    {
+      "EnglishWord": "size of a block",
+      "Meanings": [
+        "اندازه بلوک"
+      ]
+    },
+    {
+      "EnglishWord": "size of a population",
+      "Meanings": [
+        "اندازه جامعه, حجم جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "size of a test",
+      "Meanings": [
+        "اندازه آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "skew distribution",
+      "Meanings": [
+        "توزیع چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skew regression",
+      "Meanings": [
+        "رگرسیون چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skew symmetric determinant",
+      "Meanings": [
+        "دترمینان چوله‌متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "skewed",
+      "Meanings": [
+        "چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skewed distribution",
+      "Meanings": [
+        "توزیع چوله"
+      ]
+    },
+    {
+      "EnglishWord": "skewness",
+      "Meanings": [
+        "چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "skew-normal distribution",
+      "Meanings": [
+        "توزیع چوله‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "skew-symmetric matrix",
+      "Meanings": [
+        "ماتریس چوله‌متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "skip-lot sampling plan",
+      "Meanings": [
+        "طرح نمونه‌گیری توده کالا با ندیده‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "skitovitch-darmois theorem",
+      "Meanings": [
+        "قضیه اسکیتوویچ",
+        "دارموآ"
+      ]
+    },
+    {
+      "EnglishWord": "skorohod construction",
+      "Meanings": [
+        "ساخت اسکوروخود"
+      ]
+    },
+    {
+      "EnglishWord": "skorohod embedding",
+      "Meanings": [
+        "نشانیدنی اسکوروخود"
+      ]
+    },
+    {
+      "EnglishWord": "slack variable",
+      "Meanings": [
+        "متغیر کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "slanted probability",
+      "Meanings": [
+        "احتمال مایل"
+      ]
+    },
+    {
+      "EnglishWord": "slash distribution",
+      "Meanings": [
+        "توزیع خط کسری"
+      ]
+    },
+    {
+      "EnglishWord": "slepian process",
+      "Meanings": [
+        "فرایند اسله‌پیان"
+      ]
+    },
+    {
+      "EnglishWord": "slepian's inequality",
+      "Meanings": [
+        "نابرابری اسله‌پیان"
+      ]
+    },
+    {
+      "EnglishWord": "sliced inverse regression",
+      "Meanings": [
+        "رگرسیون وارون ورقه‌ورقه شده"
+      ]
+    },
+    {
+      "EnglishWord": "slicing",
+      "Meanings": [
+        "ورقه‌ورقه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "slippage parameter",
+      "Meanings": [
+        "پارامتر لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "slippage test",
+      "Meanings": [
+        "آزمون لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "slope",
+      "Meanings": [
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slutsky effect",
+      "Meanings": [
+        "اثر اسلوتسکی"
+      ]
+    },
+    {
+      "EnglishWord": "slutsky-frechet theorem",
+      "Meanings": [
+        "قضیه اسلوتسکی",
+        "فره‌شه"
+      ]
+    },
+    {
+      "EnglishWord": "small area",
+      "Meanings": [
+        "ناحیه کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "small area estimation",
+      "Meanings": [
+        "برآورد ناحیه کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "small numbers",
+      "Meanings": [
+        "اعداد کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "small sample assumption",
+      "Meanings": [
+        "فرضهای کوچک نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "smartingale",
+      "Meanings": [
+        "اس‌مارتینگل"
+      ]
+    },
+    {
+      "EnglishWord": "smear and sweep",
+      "Meanings": [
+        "آغشتن و روفتن"
+      ]
+    },
+    {
+      "EnglishWord": "smelting",
+      "Meanings": [
+        "تصفیه"
+      ]
+    },
+    {
+      "EnglishWord": "smirnov test",
+      "Meanings": [
+        "آزمون اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "smirnov theorem",
+      "Meanings": [
+        "قضیه اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "smith-bain lifetime distribution",
+      "Meanings": [
+        "توزیع اسمیت",
+        "بین برای طول عمر"
+      ]
+    },
+    {
+      "EnglishWord": "smith's test of independence in contingency tables",
+      "Meanings": [
+        "آزمون استقلال اسمیت در جدولهای پیشایندی"
+      ]
+    },
+    {
+      "EnglishWord": "smooth",
+      "Meanings": [
+        "هموار"
+      ]
+    },
+    {
+      "EnglishWord": "smoothing",
+      "Meanings": [
+        "هموارسازی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "smoothness",
+      "Meanings": [
+        "همواری"
+      ]
+    },
+    {
+      "EnglishWord": "smoothness prior",
+      "Meanings": [
+        "پیشین هموار"
+      ]
+    },
+    {
+      "EnglishWord": "snedecor distribution",
+      "Meanings": [
+        "توزیع اسنه‌دکور"
+      ]
+    },
+    {
+      "EnglishWord": "snowball",
+      "Meanings": [
+        "گلوله‌برفی"
+      ]
+    },
+    {
+      "EnglishWord": "snowball sampling",
+      "Meanings": [
+        "نمونه‌گیری گلوله‌برفی"
+      ]
+    },
+    {
+      "EnglishWord": "snowflake",
+      "Meanings": [
+        "برفدانه"
+      ]
+    },
+    {
+      "EnglishWord": "sobolev space",
+      "Meanings": [
+        "فضای سوبولف"
+      ]
+    },
+    {
+      "EnglishWord": "social network analysis",
+      "Meanings": [
+        "تحلیل شبکه اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social security statistics",
+      "Meanings": [
+        "آمارهای تامین اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social statistics",
+      "Meanings": [
+        "آمارهای اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "sociology",
+      "Meanings": [
+        "جامعه‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "sociometry",
+      "Meanings": [
+        "جامعه‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "soft modeling",
+      "Meanings": [
+        "مدل‌بندی آسان"
+      ]
+    },
+    {
+      "EnglishWord": "software reliability",
+      "Meanings": [
+        "قابلیت اعتماد نرم‌افزار"
+      ]
+    },
+    {
+      "EnglishWord": "sojourn time",
+      "Meanings": [
+        "زمان اقامت"
+      ]
+    },
+    {
+      "EnglishWord": "solution",
+      "Meanings": [
+        "حل, جواب"
+      ]
+    },
+    {
+      "EnglishWord": "solution matrix",
+      "Meanings": [
+        "ماتریس جواب"
+      ]
+    },
+    {
+      "EnglishWord": "somers' d statistic",
+      "Meanings": [
+        "آماره dی سامرز"
+      ]
+    },
+    {
+      "EnglishWord": "somerville's multiple range subset selection procedure",
+      "Meanings": [
+        "شیوه سامرویل برای زیرمجموعه‌گزینی متکی بر دامنه چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "sor method",
+      "Meanings": [
+        "روش سور"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "فضا",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "spacing",
+      "Meanings": [
+        "فاصله‌گذاری 2. فاصله",
+        "کلمات مرتبط",
+        "optimal spacing"
+      ]
+    },
+    {
+      "EnglishWord": "span test",
+      "Meanings": [
+        "آزمون گستره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sparse matrices",
+      "Meanings": [
+        "ماتریسهای تنک"
+      ]
+    },
+    {
+      "EnglishWord": "spatial data analysis",
+      "Meanings": [
+        "تحلیل داده‌های فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spatial distribution",
+      "Meanings": [
+        "توزیع فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spatial median",
+      "Meanings": [
+        "میانه فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spatial process",
+      "Meanings": [
+        "فرایند فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spatial sampling",
+      "Meanings": [
+        "نمونه‌گیری فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "spc",
+      "Meanings": [
+        "نمودار کنترل فرایند"
+      ]
+    },
+    {
+      "EnglishWord": "spearman estimator",
+      "Meanings": [
+        "برآوردگر اسپیرمن"
+      ]
+    },
+    {
+      "EnglishWord": "spearman rank correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی رتبه‌ای اسپیرمن"
+      ]
+    },
+    {
+      "EnglishWord": "spearman-brown formula",
+      "Meanings": [
+        "فرمول اسپیرمن",
+        "براون"
+      ]
+    },
+    {
+      "EnglishWord": "spearman's foot-rule coefficient",
+      "Meanings": [
+        "ضریب معیار اندازه‌گیری اسپیرمن"
+      ]
+    },
+    {
+      "EnglishWord": "species",
+      "Meanings": [
+        "گونه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "specific factors",
+      "Meanings": [
+        "عاملهای ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific variance",
+      "Meanings": [
+        "واریانس ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specification",
+      "Meanings": [
+        "مشخص‌سازی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "specificity",
+      "Meanings": [
+        "ویژگی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "specificity sensitivity",
+      "Meanings": [
+        "ویژگی حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "spectral",
+      "Meanings": [
+        "طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral analysis",
+      "Meanings": [
+        "تحلیل طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral decomposition",
+      "Meanings": [
+        "تجزیه طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral density function",
+      "Meanings": [
+        "تابع چگالی طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral distribution",
+      "Meanings": [
+        "توزیع طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral estimation",
+      "Meanings": [
+        "برآورد طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral factorization",
+      "Meanings": [
+        "تجزیه به عاملهای طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral function",
+      "Meanings": [
+        "تابع طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral window",
+      "Meanings": [
+        "پنجره طیفی"
+      ]
+    },
+    {
+      "EnglishWord": "spencer's graduation formula",
+      "Meanings": [
+        "فرمول هموارسازی اسپنسر"
+      ]
+    },
+    {
+      "EnglishWord": "sphere",
+      "Meanings": [
+        "کره"
+      ]
+    },
+    {
+      "EnglishWord": "sphere packing",
+      "Meanings": [
+        "فضاپرکنی با کره"
+      ]
+    },
+    {
+      "EnglishWord": "spherical distribution",
+      "Meanings": [
+        "توزیع کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical median",
+      "Meanings": [
+        "میانه کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spherical regression",
+      "Meanings": [
+        "رگرسیون کروی"
+      ]
+    },
+    {
+      "EnglishWord": "sphericity",
+      "Meanings": [
+        "کروی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "spike trains",
+      "Meanings": [
+        "سلسله رویدادها"
+      ]
+    },
+    {
+      "EnglishWord": "spitzer-rosen theorem",
+      "Meanings": [
+        "قضیه اسپیتزر",
+        "روزن"
+      ]
+    },
+    {
+      "EnglishWord": "spitzer's identity",
+      "Meanings": [
+        "اتحاد اسپیتزر"
+      ]
+    },
+    {
+      "EnglishWord": "spline function",
+      "Meanings": [
+        "تابع اسپلاین"
+      ]
+    },
+    {
+      "EnglishWord": "split-plot design",
+      "Meanings": [
+        "طرح کرتهای خرد شده"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneous process",
+      "Meanings": [
+        "فرایند خودبه‌خود"
+      ]
+    },
+    {
+      "EnglishWord": "spread",
+      "Meanings": [
+        "پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "sprt",
+      "Meanings": [
+        "sequential probability ratio test",
+        "آزمون نسبت احتمال دنباله ای"
+      ]
+    },
+    {
+      "EnglishWord": "spss",
+      "Meanings": [
+        "Sciences Statistical Package for the Social",
+        "نرم افزاری برای کارهای آماری و کارهایی مانند کشیدن نمودار و…"
+      ]
+    },
+    {
+      "EnglishWord": "spurious",
+      "Meanings": [
+        "جعلی"
+      ]
+    },
+    {
+      "EnglishWord": "spurious association",
+      "Meanings": [
+        "پیوند جعلی"
+      ]
+    },
+    {
+      "EnglishWord": "spurious correlation",
+      "Meanings": [
+        "همبستگی جعلی"
+      ]
+    },
+    {
+      "EnglishWord": "spurious dependence",
+      "Meanings": [
+        "وابستگی جعلی"
+      ]
+    },
+    {
+      "EnglishWord": "square",
+      "Meanings": [
+        "مربع",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "square matrix",
+      "Meanings": [
+        "ماتریس مربع"
+      ]
+    },
+    {
+      "EnglishWord": "square root",
+      "Meanings": [
+        "جذر, ریشه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "squeeze significance test",
+      "Meanings": [
+        "آزمون معنی‌دار بودن افشرده"
+      ]
+    },
+    {
+      "EnglishWord": "sse",
+      "Meanings": [
+        "مجموع مربعات خطا"
+      ]
+    },
+    {
+      "EnglishWord": "ssr",
+      "Meanings": [
+        "مجموع مربعات رگرسیون"
+      ]
+    },
+    {
+      "EnglishWord": "sst",
+      "Meanings": [
+        "مجموع مربعات کل"
+      ]
+    },
+    {
+      "EnglishWord": "stability group",
+      "Meanings": [
+        "گروه پایداری"
+      ]
+    },
+    {
+      "EnglishWord": "stabilization",
+      "Meanings": [
+        "پایدارسازی"
+      ]
+    },
+    {
+      "EnglishWord": "stabilizer",
+      "Meanings": [
+        "پایدارساز"
+      ]
+    },
+    {
+      "EnglishWord": "stable distribution",
+      "Meanings": [
+        "توزیع پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable estimation",
+      "Meanings": [
+        "برآورد پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable homeomorphism conjecture",
+      "Meanings": [
+        "حدس همسان‌ریختی پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable population",
+      "Meanings": [
+        "جمعیت پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable process",
+      "Meanings": [
+        "فرایند پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stagewise regression",
+      "Meanings": [
+        "رگرسیون مرحله‌به‌مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "staircase method",
+      "Meanings": [
+        "روش پلکانی"
+      ]
+    },
+    {
+      "EnglishWord": "stake",
+      "Meanings": [
+        "داو"
+      ]
+    },
+    {
+      "EnglishWord": "stalactite plot",
+      "Meanings": [
+        "نمودار چکنده"
+      ]
+    },
+    {
+      "EnglishWord": "standard complex",
+      "Meanings": [
+        "مجتمع استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard deviation",
+      "Meanings": [
+        "انحراف معیار"
+      ]
+    },
+    {
+      "EnglishWord": "standard error",
+      "Meanings": [
+        "خطای استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard form",
+      "Meanings": [
+        "شکل متعارفی"
+      ]
+    },
+    {
+      "EnglishWord": "standard form of an equation",
+      "Meanings": [
+        "صورت استاندارد معادله"
+      ]
+    },
+    {
+      "EnglishWord": "standard normal distribution",
+      "Meanings": [
+        "توزیع نرمال استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standardization",
+      "Meanings": [
+        "استانداردسازی"
+      ]
+    },
+    {
+      "EnglishWord": "standardized deviate",
+      "Meanings": [
+        "انحراف استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized distribution",
+      "Meanings": [
+        "توزیع استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized mortality ratio",
+      "Meanings": [
+        "نسبت مرگ و میر استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized random variable",
+      "Meanings": [
+        "متغیر تصادفی استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized rate",
+      "Meanings": [
+        "نرخ استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized residual",
+      "Meanings": [
+        "باقیمانده‌های استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standardized test statistic",
+      "Meanings": [
+        "آماره آزمون استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "standardized units",
+      "Meanings": [
+        "واحدهای استاندارد شده"
+      ]
+    },
+    {
+      "EnglishWord": "stanine",
+      "Meanings": [
+        "نه‌نمره‌ای استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "stanine scale",
+      "Meanings": [
+        "مقیاس نه‌نمره‌ای استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "star slope",
+      "Meanings": [
+        "شیب ستاره‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "starshaped ordering",
+      "Meanings": [
+        "مرتب کردن ستاره‌شکل"
+      ]
+    },
+    {
+      "EnglishWord": "starting value",
+      "Meanings": [
+        "مقدار آغازین"
+      ]
+    },
+    {
+      "EnglishWord": "state",
+      "Meanings": [
+        "وضعیت",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "state space",
+      "Meanings": [
+        "فضای وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "station networks",
+      "Meanings": [
+        "شبکه‌های ایستگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "stationarity",
+      "Meanings": [
+        "مانایی"
+      ]
+    },
+    {
+      "EnglishWord": "stationary",
+      "Meanings": [
+        "مانا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary distribution",
+      "Meanings": [
+        "توزیع مانا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary point process",
+      "Meanings": [
+        "فرایند نقطه‌ای مانا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary population",
+      "Meanings": [
+        "جمعیت مانا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary process",
+      "Meanings": [
+        "فرایند مانا"
+      ]
+    },
+    {
+      "EnglishWord": "stationary time series",
+      "Meanings": [
+        "سریهای زمانی مانا"
+      ]
+    },
+    {
+      "EnglishWord": "statistic",
+      "Meanings": [
+        "آماره",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "statistic s",
+      "Meanings": [
+        "آماره ها"
+      ]
+    },
+    {
+      "EnglishWord": "statistical algorithm",
+      "Meanings": [
+        "الگوریتم آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical analysis",
+      "Meanings": [
+        "تحلیل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical applications of weak convergence",
+      "Meanings": [
+        "کاربردهای آماری همگرایی ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "statistical aspects of television viewing",
+      "Meanings": [
+        "جنبه‌های آماری تماشای تلویزیون"
+      ]
+    },
+    {
+      "EnglishWord": "statistical communication theory",
+      "Meanings": [
+        "نظریه آماری ارتباطات"
+      ]
+    },
+    {
+      "EnglishWord": "statistical confidentiality",
+      "Meanings": [
+        "محرمانه بودن آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical consulting",
+      "Meanings": [
+        "مشاوره آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical control",
+      "Meanings": [
+        "کنترل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical curvature",
+      "Meanings": [
+        "خمیدگی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical distribution",
+      "Meanings": [
+        "توزیع آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical ecology program",
+      "Meanings": [
+        "برنامه بوم‌شناسی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical education",
+      "Meanings": [
+        "آموزش آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistical equilibrium",
+      "Meanings": [
+        "تعادل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical evidence",
+      "Meanings": [
+        "شواهد آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical fallacy",
+      "Meanings": [
+        "مغالطه آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical functional",
+      "Meanings": [
+        "تابعک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical graphics",
+      "Meanings": [
+        "نمودارهای آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical hypothesis",
+      "Meanings": [
+        "فرض آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical independence",
+      "Meanings": [
+        "استقلال آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical matching",
+      "Meanings": [
+        "تطبیق آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical mechanics",
+      "Meanings": [
+        "مکانیک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical methods in bioassay",
+      "Meanings": [
+        "روشهای آماری در عیارسنجی زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "statistical methods in psychophysics",
+      "Meanings": [
+        "روشهای آماری در روان‌تنانی"
+      ]
+    },
+    {
+      "EnglishWord": "statistical model",
+      "Meanings": [
+        "مدل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical modeling",
+      "Meanings": [
+        "مدل‌بندی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical office",
+      "Meanings": [
+        "اداره آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistical package",
+      "Meanings": [
+        "بسته نرم‌افزاری آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical physics",
+      "Meanings": [
+        "فیزیک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical quality control",
+      "Meanings": [
+        "کنترل کیفیت آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical self-similarity",
+      "Meanings": [
+        "خودتشابهی آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical software",
+      "Meanings": [
+        "نرم‌افزار آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical test",
+      "Meanings": [
+        "آزمون آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical theory of linear systems",
+      "Meanings": [
+        "نظریه آماری دستگاههای خطی"
+      ]
+    },
+    {
+      "EnglishWord": "statistical thermodynamics",
+      "Meanings": [
+        "ترمودینامیک آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistical tolerance regions",
+      "Meanings": [
+        "ناحیه‌های تحمل آماری"
+      ]
+    },
+    {
+      "EnglishWord": "statistically equivalent blocks",
+      "Meanings": [
+        "بلوکهای از نظر آماری معادل"
+      ]
+    },
+    {
+      "EnglishWord": "statistician",
+      "Meanings": [
+        "آمارشناس",
+        "زندگی نامه ریاضیدانان و آماردانان معروف"
+      ]
+    },
+    {
+      "EnglishWord": "statistics",
+      "Meanings": [
+        "آمار"
+      ]
+    },
+    {
+      "EnglishWord": "statistics and artificial intelligence",
+      "Meanings": [
+        "آمار و هوش مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics and religious studies",
+      "Meanings": [
+        "آمار و مطالعات مذهبی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in animal science",
+      "Meanings": [
+        "آمار در علوم جانوری"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in auditing",
+      "Meanings": [
+        "آمار در حسابرسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in crystallography",
+      "Meanings": [
+        "آمار در بلورنگاری"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in dentistry",
+      "Meanings": [
+        "آمار در دندان‌پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in finance",
+      "Meanings": [
+        "آمار در مالیه"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in forestry",
+      "Meanings": [
+        "آمار در جنگلداری"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in gambling",
+      "Meanings": [
+        "آمار در قماربازی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in geophysics",
+      "Meanings": [
+        "آمار در زمین‌فیزیک"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in historical studies",
+      "Meanings": [
+        "آمار در مطالعات تاریخی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in law",
+      "Meanings": [
+        "آمار در حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in linguistics",
+      "Meanings": [
+        "آمار در زبان‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in management science",
+      "Meanings": [
+        "آمار در علم مدیریت"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in marketing",
+      "Meanings": [
+        "آمار در بازاریابی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in medical diagnosis",
+      "Meanings": [
+        "آمار در تشخیص پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in medicine",
+      "Meanings": [
+        "آمار در پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in meteorology",
+      "Meanings": [
+        "آمار در هواشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in ophthalmology",
+      "Meanings": [
+        "آمار در چشم‌پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in pharmaceutical industry",
+      "Meanings": [
+        "آمار در صنعت داروسازی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in political science",
+      "Meanings": [
+        "آمار در علوم سیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in psychology",
+      "Meanings": [
+        "آمار در روان‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in sociology",
+      "Meanings": [
+        "آمار در جامعه‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in sports",
+      "Meanings": [
+        "آمار در ورزش"
+      ]
+    },
+    {
+      "EnglishWord": "statistics in vehicle safety",
+      "Meanings": [
+        "آمار در ایمنی وسایط نقلیه"
+      ]
+    },
+    {
+      "EnglishWord": "statistics metadata",
+      "Meanings": [
+        "آماره‌های فراداده‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "statistics of criminal justice",
+      "Meanings": [
+        "آماره جنایی دادگستری"
+      ]
+    },
+    {
+      "EnglishWord": "statistics of earthquakes",
+      "Meanings": [
+        "آمار زلزله‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "statistics of income",
+      "Meanings": [
+        "آمار درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "statistics of risk management",
+      "Meanings": [
+        "آمار برای مدیریت مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "statistics of shape",
+      "Meanings": [
+        "آماره‌های شکل"
+      ]
+    },
+    {
+      "EnglishWord": "steady distribution",
+      "Meanings": [
+        "توزیع پایا"
+      ]
+    },
+    {
+      "EnglishWord": "steady state",
+      "Meanings": [
+        "وضعیت پایا"
+      ]
+    },
+    {
+      "EnglishWord": "steel statistic",
+      "Meanings": [
+        "آماره استیل"
+      ]
+    },
+    {
+      "EnglishWord": "stein effect",
+      "Meanings": [
+        "اثر استاین"
+      ]
+    },
+    {
+      "EnglishWord": "stein estimator",
+      "Meanings": [
+        "برآوردگر استاین"
+      ]
+    },
+    {
+      "EnglishWord": "stein identity",
+      "Meanings": [
+        "اتحاد استاین"
+      ]
+    },
+    {
+      "EnglishWord": "steiner's most frequent value",
+      "Meanings": [
+        "فراوانترین مقدار استاینر"
+      ]
+    },
+    {
+      "EnglishWord": "stein's method",
+      "Meanings": [
+        "روش استاین"
+      ]
+    },
+    {
+      "EnglishWord": "stem-and-leaf display",
+      "Meanings": [
+        "نمایش ساقه و برگ"
+      ]
+    },
+    {
+      "EnglishWord": "step function",
+      "Meanings": [
+        "تابع پله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "step-down method",
+      "Meanings": [
+        "روش گام‌به‌پس"
+      ]
+    },
+    {
+      "EnglishWord": "step-size clustering",
+      "Meanings": [
+        "خوشه‌بندی گام‌اندازه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "step-up method",
+      "Meanings": [
+        "روش گام‌به‌پیش"
+      ]
+    },
+    {
+      "EnglishWord": "stepwise regression",
+      "Meanings": [
+        "رگرسیون گام‌به‌گام"
+      ]
+    },
+    {
+      "EnglishWord": "stepwise resampling methods",
+      "Meanings": [
+        "روشهای بازنمونه‌گیری گام‌به‌گام"
+      ]
+    },
+    {
+      "EnglishWord": "stereogram",
+      "Meanings": [
+        "سه‌بعدنگار"
+      ]
+    },
+    {
+      "EnglishWord": "stereology",
+      "Meanings": [
+        "سه‌بعدی‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "stieltjes fraction",
+      "Meanings": [
+        "کسر استیلت‌یس"
+      ]
+    },
+    {
+      "EnglishWord": "stieltjes integral",
+      "Meanings": [
+        "انتگرال استیلت یس"
+      ]
+    },
+    {
+      "EnglishWord": "stirling distribution",
+      "Meanings": [
+        "توزیع استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stirling matrix",
+      "Meanings": [
+        "ماتریس استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stirling number",
+      "Meanings": [
+        "عدد استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stirling's formula",
+      "Meanings": [
+        "فرمول استرلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic approximation",
+      "Meanings": [
+        "تقریب تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic chain rule",
+      "Meanings": [
+        "قاعده زنجیری تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic compartment model",
+      "Meanings": [
+        "مدل بخشی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic complexity",
+      "Meanings": [
+        "پیچیدگی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic control",
+      "Meanings": [
+        "کنترل تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic convergence",
+      "Meanings": [
+        "همگرایی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic curtailment",
+      "Meanings": [
+        "کوتاه‌سازی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic demography",
+      "Meanings": [
+        "جمعیت‌شناسی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic differential equations",
+      "Meanings": [
+        "معادلات دیفرانسیل تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic domination",
+      "Meanings": [
+        "غلبه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic equation",
+      "Meanings": [
+        "معادله تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic failure",
+      "Meanings": [
+        "از کار افتادگی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic game",
+      "Meanings": [
+        "بازی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic hydrology",
+      "Meanings": [
+        "آب‌شناسی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic independence",
+      "Meanings": [
+        "استقلال تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic integral",
+      "Meanings": [
+        "انتگرال تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic matrix",
+      "Meanings": [
+        "ماتریس تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic mechanics",
+      "Meanings": [
+        "مکانیک تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic model",
+      "Meanings": [
+        "مدل تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic ordering",
+      "Meanings": [
+        "ترتیب تصادفی 2. مرتب کردن تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic perturbation theory",
+      "Meanings": [
+        "نظریه پرشیدگی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic population model",
+      "Meanings": [
+        "مدل جمعیتی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic problem",
+      "Meanings": [
+        "مسیله تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic process",
+      "Meanings": [
+        "فرایند تصادفی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic programming model",
+      "Meanings": [
+        "مدل برنامه‌ریزی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic regression model",
+      "Meanings": [
+        "مدل رگرسیونی تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic risk theory",
+      "Meanings": [
+        "نظریه مخاطره تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastic variable",
+      "Meanings": [
+        "متغیر تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "stochastically closed reference set",
+      "Meanings": [
+        "مجموعه مرجع به طور تصادفی بسته"
+      ]
+    },
+    {
+      "EnglishWord": "stochastically larger variable",
+      "Meanings": [
+        "متغیر به طور تصادفی بزرگتر"
+      ]
+    },
+    {
+      "EnglishWord": "stochastically monotone",
+      "Meanings": [
+        "به طور تصادفی یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "stock market price index",
+      "Meanings": [
+        "شاخص بهای بازار سهام"
+      ]
+    },
+    {
+      "EnglishWord": "stone's rejection criterion",
+      "Meanings": [
+        "ملاک رد استون"
+      ]
+    },
+    {
+      "EnglishWord": "stopped distribution",
+      "Meanings": [
+        "توزیع متوقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopped-sum",
+      "Meanings": [
+        "مجموع‌متوقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping distribution",
+      "Meanings": [
+        "توزیع توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping number",
+      "Meanings": [
+        "عدد توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping rule",
+      "Meanings": [
+        "قاعده توقف"
+      ]
+    },
+    {
+      "EnglishWord": "stopping time",
+      "Meanings": [
+        "زمان توقف"
+      ]
+    },
+    {
+      "EnglishWord": "storage theory",
+      "Meanings": [
+        "نظریه انبارش"
+      ]
+    },
+    {
+      "EnglishWord": "strata",
+      "Meanings": [
+        "طبقه ها"
+      ]
+    },
+    {
+      "EnglishWord": "strata chart",
+      "Meanings": [
+        "نمودار چند لایه"
+      ]
+    },
+    {
+      "EnglishWord": "strategy",
+      "Meanings": [
+        "راهبرد"
+      ]
+    },
+    {
+      "EnglishWord": "stratification",
+      "Meanings": [
+        "طبقه بندی",
+        "کلمات مرتبط",
+        "stratum"
+      ]
+    },
+    {
+      "EnglishWord": "stratified design",
+      "Meanings": [
+        "طرح طبقه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratified multistage sampling",
+      "Meanings": [
+        "نمونه‌گیری چندمرحله‌ای طبقه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratified sampling",
+      "Meanings": [
+        "نمونه گیری طبقه بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratifier",
+      "Meanings": [
+        "عامل طبقه‌بندی‌کننده"
+      ]
+    },
+    {
+      "EnglishWord": "stratum",
+      "Meanings": [
+        "طبقه"
+      ]
+    },
+    {
+      "EnglishWord": "straw poll",
+      "Meanings": [
+        "قرعه‌کشی"
+      ]
+    },
+    {
+      "EnglishWord": "strength",
+      "Meanings": [
+        "قوت 2. مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "strength of a sampling plan",
+      "Meanings": [
+        "قوت طرح نمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "strength of a test",
+      "Meanings": [
+        "قوت آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "stress-strength model",
+      "Meanings": [
+        "مدل تنش و مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "stringent",
+      "Meanings": [
+        "سختگیرانه"
+      ]
+    },
+    {
+      "EnglishWord": "strip",
+      "Meanings": [
+        "نوار"
+      ]
+    },
+    {
+      "EnglishWord": "strip plots",
+      "Meanings": [
+        "کرتهای نواری"
+      ]
+    },
+    {
+      "EnglishWord": "strip sampling",
+      "Meanings": [
+        "نمونه‌گیری نواری"
+      ]
+    },
+    {
+      "EnglishWord": "strong convergence",
+      "Meanings": [
+        "همگرایی قوی"
+      ]
+    },
+    {
+      "EnglishWord": "strong law of large numbers",
+      "Meanings": [
+        "قانون قوی اعداد بزرگ"
+      ]
+    },
+    {
+      "EnglishWord": "strong true-score theory",
+      "Meanings": [
+        "نظریه قوی نمره واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "strongly ergodic class",
+      "Meanings": [
+        "رده قویا ارگودیک"
+      ]
+    },
+    {
+      "EnglishWord": "strongly measurable function",
+      "Meanings": [
+        "تابع قویا اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "structural distribution",
+      "Meanings": [
+        "توزیع ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural equation model",
+      "Meanings": [
+        "مدل معادله ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural estimation",
+      "Meanings": [
+        "برآورد ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural inference",
+      "Meanings": [
+        "استنباط ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural model",
+      "Meanings": [
+        "مدل ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural parameter",
+      "Meanings": [
+        "پارامتر ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural prediction",
+      "Meanings": [
+        "پیشگویی ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural probability",
+      "Meanings": [
+        "احتمال ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural regression",
+      "Meanings": [
+        "رگرسیون ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structural zeros",
+      "Meanings": [
+        "صفرهای ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "structuralist",
+      "Meanings": [
+        "ساختارگرا"
+      ]
+    },
+    {
+      "EnglishWord": "structure",
+      "Meanings": [
+        "ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "structure function",
+      "Meanings": [
+        "تابع ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "structured matrix",
+      "Meanings": [
+        "ماتریس باساختار"
+      ]
+    },
+    {
+      "EnglishWord": "stuart-maxwell test",
+      "Meanings": [
+        "آزمون استوارت",
+        "ماکسول"
+      ]
+    },
+    {
+      "EnglishWord": "student distribution",
+      "Meanings": [
+        "توزیع استیودنت",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "studentization",
+      "Meanings": [
+        "استیودنتیدن"
+      ]
+    },
+    {
+      "EnglishWord": "studentized empirical characteristic function",
+      "Meanings": [
+        "تابع مشخصه تجربی استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "studentized extreme deviate",
+      "Meanings": [
+        "انحراف کرانگین استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "studentized maximal distribution",
+      "Meanings": [
+        "توزیع ماکسیمال استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "studentized range",
+      "Meanings": [
+        "دامنه تغییرات استیودنتیده"
+      ]
+    },
+    {
+      "EnglishWord": "studentized residual",
+      "Meanings": [
+        "باقیمانده‌های استیودنت شده"
+      ]
+    },
+    {
+      "EnglishWord": "student's t-test",
+      "Meanings": [
+        "آزمون tی استیودنت"
+      ]
+    },
+    {
+      "EnglishWord": "study",
+      "Meanings": [
+        "مطالعه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "sturges' rule",
+      "Meanings": [
+        "قاعده استورجس"
+      ]
+    },
+    {
+      "EnglishWord": "stuttering poisson distribution",
+      "Meanings": [
+        "توزیع پواسون بریده بریده"
+      ]
+    },
+    {
+      "EnglishWord": "subadditive",
+      "Meanings": [
+        "زیرجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "subadditive function",
+      "Meanings": [
+        "تابع زیرجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "sub-balanced data",
+      "Meanings": [
+        "داده‌های زیرمتعادل"
+      ]
+    },
+    {
+      "EnglishWord": "subdivided-surface chart",
+      "Meanings": [
+        "نمودار رویه تقسیم شده"
+      ]
+    },
+    {
+      "EnglishWord": "subexponential distribution",
+      "Meanings": [
+        "توزیع زیرنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "subgraduation",
+      "Meanings": [
+        "هموارسازی آماری جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "subgroup",
+      "Meanings": [
+        "زیرگروه"
+      ]
+    },
+    {
+      "EnglishWord": "subhypothesis testing",
+      "Meanings": [
+        "آزمون زیرفرض"
+      ]
+    },
+    {
+      "EnglishWord": "subject",
+      "Meanings": [
+        "آزمودنی"
+      ]
+    },
+    {
+      "EnglishWord": "subjective probability",
+      "Meanings": [
+        "احتمال ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "subjective randomness",
+      "Meanings": [
+        "تصادفی بودن ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "subjectivist",
+      "Meanings": [
+        "ذهنی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "submean",
+      "Meanings": [
+        "زیرمیانگین"
+      ]
+    },
+    {
+      "EnglishWord": "subnormal",
+      "Meanings": [
+        "زیرنرمال"
+      ]
+    },
+    {
+      "EnglishWord": "subpopulation",
+      "Meanings": [
+        "زیر جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "subsample",
+      "Meanings": [
+        "زیرنمونه"
+      ]
+    },
+    {
+      "EnglishWord": "subsampling",
+      "Meanings": [
+        "زیرنمونه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "subset",
+      "Meanings": [
+        "زیر مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "substitution group",
+      "Meanings": [
+        "گروه جایگشتها"
+      ]
+    },
+    {
+      "EnglishWord": "subsurvival function",
+      "Meanings": [
+        "تابع زیربقا"
+      ]
+    },
+    {
+      "EnglishWord": "success run",
+      "Meanings": [
+        "گردش موفقیتها"
+      ]
+    },
+    {
+      "EnglishWord": "succession",
+      "Meanings": [
+        "توالی"
+      ]
+    },
+    {
+      "EnglishWord": "successive difference",
+      "Meanings": [
+        "تفاضل پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "successor",
+      "Meanings": [
+        "خلف"
+      ]
+    },
+    {
+      "EnglishWord": "sudakov's lemma",
+      "Meanings": [
+        "لم سوداکوف"
+      ]
+    },
+    {
+      "EnglishWord": "sufficiency",
+      "Meanings": [
+        "بسندگی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient",
+      "Meanings": [
+        "بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient condition",
+      "Meanings": [
+        "شرط کافی"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient estimation",
+      "Meanings": [
+        "برآورد بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient partition",
+      "Meanings": [
+        "افراز بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "sufficient statistic",
+      "Meanings": [
+        "آماره بسنده"
+      ]
+    },
+    {
+      "EnglishWord": "sukhatme scale test",
+      "Meanings": [
+        "آزمون مقیاس سوخاتمه"
+      ]
+    },
+    {
+      "EnglishWord": "sum",
+      "Meanings": [
+        "مجموع",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "sum of events",
+      "Meanings": [
+        "مجموع پیشامدها"
+      ]
+    },
+    {
+      "EnglishWord": "sum of squares due to error",
+      "Meanings": [
+        "مجموع توانهای دوم ناشی از خطا"
+      ]
+    },
+    {
+      "EnglishWord": "summability",
+      "Meanings": [
+        "مجموع‌پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "summand",
+      "Meanings": [
+        "جمع‌وند"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "خلاصه"
+      ]
+    },
+    {
+      "EnglishWord": "summary statistics",
+      "Meanings": [
+        "آماره‌های خلاصه"
+      ]
+    },
+    {
+      "EnglishWord": "summation",
+      "Meanings": [
+        "مجموع‌یابی"
+      ]
+    },
+    {
+      "EnglishWord": "sum-quota sampling",
+      "Meanings": [
+        "نمونه‌گیری در مجموع سهمیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sum-symmetric power series distribution",
+      "Meanings": [
+        "توزیع سریهای توانی مجموع‌متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "sun chart",
+      "Meanings": [
+        "نمودار خورشیدی"
+      ]
+    },
+    {
+      "EnglishWord": "sundberg formula",
+      "Meanings": [
+        "فرمول ساندبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "superadditive",
+      "Meanings": [
+        "زبرجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "super-bayesian",
+      "Meanings": [
+        "ابربیزی"
+      ]
+    },
+    {
+      "EnglishWord": "superefficiency",
+      "Meanings": [
+        "ابرکارآ"
+      ]
+    },
+    {
+      "EnglishWord": "superlative index number",
+      "Meanings": [
+        "برترین عدد شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "supermartingale",
+      "Meanings": [
+        "زبرمارتینگل"
+      ]
+    },
+    {
+      "EnglishWord": "supernormal dispersion",
+      "Meanings": [
+        "پراکنش زبرنرمال"
+      ]
+    },
+    {
+      "EnglishWord": "superpopulation",
+      "Meanings": [
+        "ابرجامعه"
+      ]
+    },
+    {
+      "EnglishWord": "superpopulation model",
+      "Meanings": [
+        "مدل ابرجامعه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "supersaturated design",
+      "Meanings": [
+        "طرح فوق اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "supervised classification",
+      "Meanings": [
+        "رده‌بندی راهنماییده"
+      ]
+    },
+    {
+      "EnglishWord": "supplemented balance",
+      "Meanings": [
+        "تعادل تکمیلی"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "تکیه‌گاه نظریه توزیع 2. پشتیبانی استنباط آماری",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "support of a function",
+      "Meanings": [
+        "تکیه‌گاه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "support vector machine",
+      "Meanings": [
+        "ماشین بردارتکیه‌گاه"
+      ]
+    },
+    {
+      "EnglishWord": "supporting hyperplane theorem",
+      "Meanings": [
+        "قضیه ابرصفحه پشتیبان"
+      ]
+    },
+    {
+      "EnglishWord": "suppression",
+      "Meanings": [
+        "فرونشانی"
+      ]
+    },
+    {
+      "EnglishWord": "suppressor variable",
+      "Meanings": [
+        "متغیر فرونشان"
+      ]
+    },
+    {
+      "EnglishWord": "supremum norm",
+      "Meanings": [
+        "نرم سوپریمم"
+      ]
+    },
+    {
+      "EnglishWord": "supremum theorem",
+      "Meanings": [
+        "قضیه سوپریمم"
+      ]
+    },
+    {
+      "EnglishWord": "surd",
+      "Meanings": [
+        "عدد اصم"
+      ]
+    },
+    {
+      "EnglishWord": "sure event",
+      "Meanings": [
+        "پیشامد حتمی"
+      ]
+    },
+    {
+      "EnglishWord": "surface",
+      "Meanings": [
+        "رویه, سطح"
+      ]
+    },
+    {
+      "EnglishWord": "surprise index",
+      "Meanings": [
+        "شاخص شگفتی"
+      ]
+    },
+    {
+      "EnglishWord": "surrogate",
+      "Meanings": [
+        "جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "surrogate response",
+      "Meanings": [
+        "پاسخ جانشین"
+      ]
+    },
+    {
+      "EnglishWord": "surveillance",
+      "Meanings": [
+        "نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "survey",
+      "Meanings": [
+        "بررسی 2. پیمایش 3. آمارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "survey research",
+      "Meanings": [
+        "تحقیق پیمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "survey sampling",
+      "Meanings": [
+        "نمونه‌گیری پیمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "survey statistician",
+      "Meanings": [
+        "آمارشناس بررسی نمونه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "survey using remote sensing",
+      "Meanings": [
+        "بررسی مبتنی بر سنجش از دور"
+      ]
+    },
+    {
+      "EnglishWord": "survival analysis",
+      "Meanings": [
+        "تحلیل بقا"
+      ]
+    },
+    {
+      "EnglishWord": "suspect observation",
+      "Meanings": [
+        "مشاهده مشکوک"
+      ]
+    },
+    {
+      "EnglishWord": "swain-fu distance",
+      "Meanings": [
+        "فاصله سووین",
+        "فو"
+      ]
+    },
+    {
+      "EnglishWord": "swamping",
+      "Meanings": [
+        "برون‌بری"
+      ]
+    },
+    {
+      "EnglishWord": "sweep",
+      "Meanings": [
+        "روفتن"
+      ]
+    },
+    {
+      "EnglishWord": "swindle",
+      "Meanings": [
+        "ترفند"
+      ]
+    },
+    {
+      "EnglishWord": "swing",
+      "Meanings": [
+        "نوژنده اثرکننده",
+        "کسی یا چیزی که سبب می‌شود مر حصول امری را ناظم‌الاطباء"
+      ]
+    },
+    {
+      "EnglishWord": "switch-back design",
+      "Meanings": [
+        "طرح برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "switching",
+      "Meanings": [
+        "تبدلی 2. راه‌گزینی"
+      ]
+    },
+    {
+      "EnglishWord": "switching regression",
+      "Meanings": [
+        "رگرسیون تبدلی"
+      ]
+    },
+    {
+      "EnglishWord": "switching rule",
+      "Meanings": [
+        "قاعده راه‌گزینی"
+      ]
+    },
+    {
+      "EnglishWord": "sylvester matrix",
+      "Meanings": [
+        "ماتریس سیلوستر"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نماد",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic calculus",
+      "Meanings": [
+        "حسابان نمادی"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic scattally",
+      "Meanings": [
+        "پراچوبخط نمادی"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric difference",
+      "Meanings": [
+        "تفاضل متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric function",
+      "Meanings": [
+        "تابع متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric mean",
+      "Meanings": [
+        "میانگین متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical",
+      "Meanings": [
+        "متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical censoring",
+      "Meanings": [
+        "سانسور کردن متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical test",
+      "Meanings": [
+        "آزمون متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrization",
+      "Meanings": [
+        "متقارن سازی"
+      ]
+    },
+    {
+      "EnglishWord": "symmetry test",
+      "Meanings": [
+        "آزمون تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "synergism",
+      "Meanings": [
+        "هم‌کنشی"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic estimation",
+      "Meanings": [
+        "برآورد ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic estimator",
+      "Meanings": [
+        "برآوردگر ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "سیستم 2. دستگاه 3. سامانه 4. منظومه 5. نظام",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "system of frequency curves",
+      "Meanings": [
+        "دستگاه خمهای فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "system of frequency surfaces",
+      "Meanings": [
+        "دستگاه رویه‌های فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "system reliability",
+      "Meanings": [
+        "قابلیت اعتماد سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "systematic",
+      "Meanings": [
+        "سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systematic design",
+      "Meanings": [
+        "طرح سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systematic sampling",
+      "Meanings": [
+        "نمونه گیری سیستماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "systems analysis in ecology",
+      "Meanings": [
+        "تحلیل سیستم‌ها در بوم‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "szroeter's test of homoscedasticity",
+      "Meanings": [
+        "آزمون شروتر برای هم‌واریانسی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,626 @@
+﻿{
+  "Group": "C",
+  "Entries": 102,
+  "Words": [
+    {
+      "EnglishWord": "capital budgeting",
+      "Meanings": [
+        "بودجه بندی سرمایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "captive strategy",
+      "Meanings": [
+        "استراتژی اسارت"
+      ]
+    },
+    {
+      "EnglishWord": "career management",
+      "Meanings": [
+        "مدیریت مسیر شغلی"
+      ]
+    },
+    {
+      "EnglishWord": "case",
+      "Meanings": [
+        "رویداد نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "case analysis",
+      "Meanings": [
+        "تجزیه و تحلیل موردی"
+      ]
+    },
+    {
+      "EnglishWord": "case method",
+      "Meanings": [
+        "روش مورد پژوهی بررسی نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "cash - flow",
+      "Meanings": [
+        "جریان نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash budget",
+      "Meanings": [
+        "بودجه نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cash ratio",
+      "Meanings": [
+        "نسبت نقدی"
+      ]
+    },
+    {
+      "EnglishWord": "cellular manufacturing",
+      "Meanings": [
+        "تولید مثل سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "center of gravity",
+      "Meanings": [
+        "مرکز ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "change strategy",
+      "Meanings": [
+        "استراتژی تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "charisma",
+      "Meanings": [
+        "نیروی ذاتی رهبری",
+        "جذبه"
+      ]
+    },
+    {
+      "EnglishWord": "charismatic",
+      "Meanings": [
+        "فرمند",
+        "موهبتی"
+      ]
+    },
+    {
+      "EnglishWord": "chief executive officer  ceo",
+      "Meanings": [
+        "مدیر ارشد رییس کل سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "chief information officer  cio",
+      "Meanings": [
+        "مدیر ارشد اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "chief technology officer  cto",
+      "Meanings": [
+        "مدیر ارشد فن آوری"
+      ]
+    },
+    {
+      "EnglishWord": "client system",
+      "Meanings": [
+        "سیستم کار فرما"
+      ]
+    },
+    {
+      "EnglishWord": "coalition building",
+      "Meanings": [
+        "ایتلاف سازی"
+      ]
+    },
+    {
+      "EnglishWord": "cognitive limit",
+      "Meanings": [
+        "محدوده شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "cognitive process",
+      "Meanings": [
+        "فرایند شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "collective mind",
+      "Meanings": [
+        "فکر گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "collective strategy",
+      "Meanings": [
+        "استراتژی جمعی"
+      ]
+    },
+    {
+      "EnglishWord": "collusion",
+      "Meanings": [
+        "تبانی"
+      ]
+    },
+    {
+      "EnglishWord": "combination strategy",
+      "Meanings": [
+        "استراتژی ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "comfort factor",
+      "Meanings": [
+        "عامل آسایش خیال"
+      ]
+    },
+    {
+      "EnglishWord": "common - size financial statements",
+      "Meanings": [
+        "صورت حساب‌های مالی یک اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "common thread of business",
+      "Meanings": [
+        "مرز مشترک بازرگانی"
+      ]
+    },
+    {
+      "EnglishWord": "communications",
+      "Meanings": [
+        "ارتباطات"
+      ]
+    },
+    {
+      "EnglishWord": "communitarian ideology",
+      "Meanings": [
+        "ایدیولوژی جامعه اشتراکی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive advantage",
+      "Meanings": [
+        "مزیت رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive advantage  ca",
+      "Meanings": [
+        "مزیت رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive advantage of nations",
+      "Meanings": [
+        "مزیت رقابتی ملت ها"
+      ]
+    },
+    {
+      "EnglishWord": "competitive intelligence",
+      "Meanings": [
+        "اطلاعات رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive intelligence  ci",
+      "Meanings": [
+        "کسب اطلاعات محرمانه از شرکت رقیب"
+      ]
+    },
+    {
+      "EnglishWord": "competitive position",
+      "Meanings": [
+        "موضع رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive profile matrix  cpm",
+      "Meanings": [
+        "ماتریس بررسی رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive scope",
+      "Meanings": [
+        "قلمرو رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive strategy",
+      "Meanings": [
+        "استراتژی رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted design  cad",
+      "Meanings": [
+        "طراحی کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer assisted manufacturing  cam",
+      "Meanings": [
+        "تولید کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "computer information system",
+      "Meanings": [
+        "سیستم اطلاعات رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computer integrated manufacture  cim",
+      "Meanings": [
+        "تولید یکپارچه کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "concentration strategies",
+      "Meanings": [
+        "استراتژی تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "concentric  related  diversification",
+      "Meanings": [
+        "تنوع همگون"
+      ]
+    },
+    {
+      "EnglishWord": "concentric diversification",
+      "Meanings": [
+        "تنوع همگون"
+      ]
+    },
+    {
+      "EnglishWord": "concept",
+      "Meanings": [
+        "مفهوم ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "conception",
+      "Meanings": [
+        "استنباط",
+        "شناخت"
+      ]
+    },
+    {
+      "EnglishWord": "conduct analysis",
+      "Meanings": [
+        "تجزیه وتحلیل راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "confrontation",
+      "Meanings": [
+        "برخورد یا رویارویی"
+      ]
+    },
+    {
+      "EnglishWord": "conglomerate  unrelated  diversification",
+      "Meanings": [
+        "تنوع ناهمگون"
+      ]
+    },
+    {
+      "EnglishWord": "conglomerate diversification",
+      "Meanings": [
+        "تنوع ناهمگون"
+      ]
+    },
+    {
+      "EnglishWord": "conglomerate structure",
+      "Meanings": [
+        "ساختار ناهمگون"
+      ]
+    },
+    {
+      "EnglishWord": "consensus strategy",
+      "Meanings": [
+        "استراتژی توافقی همرایی"
+      ]
+    },
+    {
+      "EnglishWord": "conservative",
+      "Meanings": [
+        "محافظه کارانه"
+      ]
+    },
+    {
+      "EnglishWord": "consistency",
+      "Meanings": [
+        "پایداری",
+        "ثبات",
+        "سازگاری"
+      ]
+    },
+    {
+      "EnglishWord": "consolidated industry",
+      "Meanings": [
+        "صنعت مجتمع"
+      ]
+    },
+    {
+      "EnglishWord": "consonance",
+      "Meanings": [
+        "هماهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "constant dollar",
+      "Meanings": [
+        "دلار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "consultative decision making",
+      "Meanings": [
+        "تصمیم گیری شورایی"
+      ]
+    },
+    {
+      "EnglishWord": "consultative style",
+      "Meanings": [
+        "سبک مشورتی"
+      ]
+    },
+    {
+      "EnglishWord": "consumer",
+      "Meanings": [
+        "مصرف کننده"
+      ]
+    },
+    {
+      "EnglishWord": "contingency",
+      "Meanings": [
+        "اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "contingency approach",
+      "Meanings": [
+        "رویکرد اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "contingency needs",
+      "Meanings": [
+        "نیازهای اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "contingency plans",
+      "Meanings": [
+        "طرح‌های اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "contingent plan",
+      "Meanings": [
+        "برنامه اقتضایی"
+      ]
+    },
+    {
+      "EnglishWord": "continuous improvement programs",
+      "Meanings": [
+        "طرح‌های بهبود مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous improvements",
+      "Meanings": [
+        "بهبود مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "continuous systems",
+      "Meanings": [
+        "سیستم‌های پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuum",
+      "Meanings": [
+        "خط تداوم",
+        "پیوستار"
+      ]
+    },
+    {
+      "EnglishWord": "continuum of resource sustainability",
+      "Meanings": [
+        "پیوستار پایداری منابع"
+      ]
+    },
+    {
+      "EnglishWord": "controlling",
+      "Meanings": [
+        "اعمال کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "conventional",
+      "Meanings": [
+        "مرسوم"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative arrangement",
+      "Meanings": [
+        "شرکت‌های تعاونی"
+      ]
+    },
+    {
+      "EnglishWord": "cooperative strategy",
+      "Meanings": [
+        "استراتژی همکاری"
+      ]
+    },
+    {
+      "EnglishWord": "cooptation",
+      "Meanings": [
+        "هم قطاری"
+      ]
+    },
+    {
+      "EnglishWord": "core competencies",
+      "Meanings": [
+        "شایستگی‌های اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "core competency",
+      "Meanings": [
+        "شایستگی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate agility",
+      "Meanings": [
+        "نوسان شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate culture",
+      "Meanings": [
+        "فرهنگ سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "corporate environmental policy  cep",
+      "Meanings": [
+        "سیاست محیطی شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate level",
+      "Meanings": [
+        "سطح کل شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate scenarios",
+      "Meanings": [
+        "سناریوهای شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "corporate strategy",
+      "Meanings": [
+        "استراتژی بنگاه"
+      ]
+    },
+    {
+      "EnglishWord": "cost / benefit analysis",
+      "Meanings": [
+        "تجزیه و تحلیل هزینه و منفعت"
+      ]
+    },
+    {
+      "EnglishWord": "cost advantage",
+      "Meanings": [
+        "مزیت هزینه ای"
+      ]
+    },
+    {
+      "EnglishWord": "cost focus",
+      "Meanings": [
+        "تمرکز بر هزینه",
+        "هزینه محور"
+      ]
+    },
+    {
+      "EnglishWord": "cost leadership",
+      "Meanings": [
+        "رهبری هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "cost parity",
+      "Meanings": [
+        "برابری هزینه ها"
+      ]
+    },
+    {
+      "EnglishWord": "cost proximity",
+      "Meanings": [
+        "نزدیکی هزینه‌ها به هم"
+      ]
+    },
+    {
+      "EnglishWord": "creed statement",
+      "Meanings": [
+        "گزاره اعتقادات"
+      ]
+    },
+    {
+      "EnglishWord": "crisis of autonomy",
+      "Meanings": [
+        "بحران خود مختاری"
+      ]
+    },
+    {
+      "EnglishWord": "critical success factors  csfs",
+      "Meanings": [
+        "عوامل بحرانی موفقیت"
+      ]
+    },
+    {
+      "EnglishWord": "cross functional",
+      "Meanings": [
+        "چند وظیفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "cultural integration",
+      "Meanings": [
+        "یکپارچگی فرهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "cultural intensity",
+      "Meanings": [
+        "شدت / عمق فرهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "cultural products",
+      "Meanings": [
+        "محصولات فرهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "current ratio",
+      "Meanings": [
+        "نسبت جاری"
+      ]
+    },
+    {
+      "EnglishWord": "customer",
+      "Meanings": [
+        "مشتری",
+        "ارباب رجوع"
+      ]
+    },
+    {
+      "EnglishWord": "customer analysis",
+      "Meanings": [
+        "شناسایی نیازهای مشتری"
+      ]
+    },
+    {
+      "EnglishWord": "customer value",
+      "Meanings": [
+        "ارزش مشتری"
+      ]
+    }
+  ]
+}

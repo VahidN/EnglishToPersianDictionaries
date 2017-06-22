@@ -1,0 +1,646 @@
+﻿{
+  "Group": "I",
+  "Entries": 101,
+  "Words": [
+    {
+      "EnglishWord": "ice cream cone proof",
+      "Meanings": [
+        "اثبات قیف بستنی"
+      ]
+    },
+    {
+      "EnglishWord": "icosahedral",
+      "Meanings": [
+        "بیست وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "icosahedral group",
+      "Meanings": [
+        "گروه بیست وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "icosahedron",
+      "Meanings": [
+        "بیست وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal",
+      "Meanings": [
+        "آرمانی",
+        "ایده‌آل",
+        "متصور",
+        "خیالی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal elements",
+      "Meanings": [
+        "عناصر مثالی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal factors",
+      "Meanings": [
+        "عامل هی مثالی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal line",
+      "Meanings": [
+        "خط ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "ideal number",
+      "Meanings": [
+        "عدد مثالی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal point",
+      "Meanings": [
+        "نقطه آرمانی",
+        "نقطه مثالی",
+        "نقطه ایده‌آل"
+      ]
+    },
+    {
+      "EnglishWord": "ideal spanned by",
+      "Meanings": [
+        "آرمان پدید آمده بوسیله ی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal theory",
+      "Meanings": [
+        "نگره آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "idealizer",
+      "Meanings": [
+        "ایده آل ساز"
+      ]
+    },
+    {
+      "EnglishWord": "idempotence",
+      "Meanings": [
+        "خودتوانی"
+      ]
+    },
+    {
+      "EnglishWord": "idempotent",
+      "Meanings": [
+        "خودتوان"
+      ]
+    },
+    {
+      "EnglishWord": "identity",
+      "Meanings": [
+        "همانی"
+      ]
+    },
+    {
+      "EnglishWord": "identity function",
+      "Meanings": [
+        "تابع همانی"
+      ]
+    },
+    {
+      "EnglishWord": "if and only if",
+      "Meanings": [
+        "اگر و تنها اگر",
+        "اگر و فقط اگر"
+      ]
+    },
+    {
+      "EnglishWord": "iff",
+      "Meanings": [
+        "مخفف If and Only If به معنی اگر و تنها اگر",
+        "اگر و فقط اگر"
+      ]
+    },
+    {
+      "EnglishWord": "image",
+      "Meanings": [
+        "نگاره",
+        "تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary",
+      "Meanings": [
+        "انگاری"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary geometry",
+      "Meanings": [
+        "هندسه انگاری"
+      ]
+    },
+    {
+      "EnglishWord": "implementation",
+      "Meanings": [
+        "پیاده سازی"
+      ]
+    },
+    {
+      "EnglishWord": "implication",
+      "Meanings": [
+        "استلزام"
+      ]
+    },
+    {
+      "EnglishWord": "improper",
+      "Meanings": [
+        "ناسره",
+        "مجازی"
+      ]
+    },
+    {
+      "EnglishWord": "in degree",
+      "Meanings": [
+        "درجه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "inadmissible decision",
+      "Meanings": [
+        "تصمیم غیرقابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "incedent matrix",
+      "Meanings": [
+        "ماتریس وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "incidence",
+      "Meanings": [
+        "وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "incidence axiom",
+      "Meanings": [
+        "بنداشت وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "incidence geometry",
+      "Meanings": [
+        "هندسه وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "incidence plane",
+      "Meanings": [
+        "صفحه وقوع"
+      ]
+    },
+    {
+      "EnglishWord": "incident",
+      "Meanings": [
+        "واقع"
+      ]
+    },
+    {
+      "EnglishWord": "include",
+      "Meanings": [
+        "در بر گرفتن",
+        "شامل شدن",
+        "شامل بودن"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion exclusion principle",
+      "Meanings": [
+        "اصل شمول",
+        "طرد"
+      ]
+    },
+    {
+      "EnglishWord": "inclusion function",
+      "Meanings": [
+        "تابع شمول"
+      ]
+    },
+    {
+      "EnglishWord": "inclusive disjunction",
+      "Meanings": [
+        "یای شمول"
+      ]
+    },
+    {
+      "EnglishWord": "incomplete block design",
+      "Meanings": [
+        "طرح بلوکی غیرکامل"
+      ]
+    },
+    {
+      "EnglishWord": "increasing",
+      "Meanings": [
+        "صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "indegree",
+      "Meanings": [
+        "درجه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent events",
+      "Meanings": [
+        "پیشامدهای مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "independent variable",
+      "Meanings": [
+        "متغیر مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "indeterminate",
+      "Meanings": [
+        "نامعین",
+        "مجهول"
+      ]
+    },
+    {
+      "EnglishWord": "index",
+      "Meanings": [
+        "شاخص",
+        "اندیس"
+      ]
+    },
+    {
+      "EnglishWord": "index of a subgroup",
+      "Meanings": [
+        "شاخص یک زیرگروه"
+      ]
+    },
+    {
+      "EnglishWord": "indexed",
+      "Meanings": [
+        "اندیس دار"
+      ]
+    },
+    {
+      "EnglishWord": "indicate",
+      "Meanings": [
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "induced metric",
+      "Meanings": [
+        "متر القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induced subspace",
+      "Meanings": [
+        "زیرفضای القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction",
+      "Meanings": [
+        "استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "induction hypothesis",
+      "Meanings": [
+        "فرض استقرا"
+      ]
+    },
+    {
+      "EnglishWord": "inductive reasoning",
+      "Meanings": [
+        "استدلال استقرایی"
+      ]
+    },
+    {
+      "EnglishWord": "inference",
+      "Meanings": [
+        "استنتاج"
+      ]
+    },
+    {
+      "EnglishWord": "infinite",
+      "Meanings": [
+        "نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite cyclic group",
+      "Meanings": [
+        "گروه دوری نامتناهی",
+        "گروه دوره‌ای نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite population",
+      "Meanings": [
+        "جامعه نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite series",
+      "Meanings": [
+        "سری نامتناهی",
+        "رشته نامتناهی"
+      ]
+    },
+    {
+      "EnglishWord": "informal",
+      "Meanings": [
+        "غیرصوری"
+      ]
+    },
+    {
+      "EnglishWord": "inherent",
+      "Meanings": [
+        "ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "initial condition",
+      "Meanings": [
+        "شرط آغازی"
+      ]
+    },
+    {
+      "EnglishWord": "injection",
+      "Meanings": [
+        "جادهی"
+      ]
+    },
+    {
+      "EnglishWord": "inner",
+      "Meanings": [
+        "داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inner product",
+      "Meanings": [
+        "ضرب داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "input",
+      "Meanings": [
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "inseparable",
+      "Meanings": [
+        "تفکیک ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "inseperable",
+      "Meanings": [
+        "جدا ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "insolubility of the quintic",
+      "Meanings": [
+        "حل‌ناپذیری معادله درجه پنجم"
+      ]
+    },
+    {
+      "EnglishWord": "integer",
+      "Meanings": [
+        "عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integer number",
+      "Meanings": [
+        "تاریخچه اعدادصحیح",
+        "ریاضیات یونانی با اعداد منفی آشنا نیست",
+        "اما اولین آثار را می‌توان در نوشته‌های دیوفانتوس DIOPHANTOS در حدود 250 میلادی یافت. در هند حدود 700 میلادی محاسبه با اعداد بطور کامل توسط هندیها گسترش یافت. جالب است که نامهای مثبت ومنفی از کلماتشان در مورد اعتباروقرض بدست آورده اند",
+        "جای پای اعداد منفی دراروپا در مقایسه با هند دیر بدست آمده است",
+        "شاید دلیل این موضوع حضور مسلمانها بوده است. که بین هند واروپا در علم زیاضی می‌توان گفت که به عنوان یک پل عمل می‌کردند. واز قبول اعداد منفی مضایقه می‌کردند",
+        "پیشرفت در این مورد توسط میشل استیفل Michael Stifel دراثرش به نام Arithmertica integra 1544 انجام گرفت. تنظیم نهای اعداد صحیح در ریاضیات تا سال 1867 که توسط هرمان هانکل Hermann Hankel عملی شد انجام نگرفت"
+      ]
+    },
+    {
+      "EnglishWord": "integeral domain",
+      "Meanings": [
+        "حوزه صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integrable",
+      "Meanings": [
+        "انتگرال پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "integral",
+      "Meanings": [
+        "انتگرال"
+      ]
+    },
+    {
+      "EnglishWord": "integral domain",
+      "Meanings": [
+        "دامنه صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "interior",
+      "Meanings": [
+        "درون"
+      ]
+    },
+    {
+      "EnglishWord": "interior point",
+      "Meanings": [
+        "نقطه درونی"
+      ]
+    },
+    {
+      "EnglishWord": "interpretation",
+      "Meanings": [
+        "تعبیر"
+      ]
+    },
+    {
+      "EnglishWord": "intersection",
+      "Meanings": [
+        "اشتراک"
+      ]
+    },
+    {
+      "EnglishWord": "intersection of sets",
+      "Meanings": [
+        "اشتراک مجموعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "interval estimate",
+      "Meanings": [
+        "برآورد بازه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "invariant",
+      "Meanings": [
+        "ناوردا",
+        "پایا"
+      ]
+    },
+    {
+      "EnglishWord": "inverse",
+      "Meanings": [
+        "معکوس",
+        "وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse function",
+      "Meanings": [
+        "تابع معکوس",
+        "تابع وارون"
+      ]
+    },
+    {
+      "EnglishWord": "inverse image",
+      "Meanings": [
+        "نگاره وارون",
+        "نگاره معکوس",
+        "نگاشت وارون",
+        "نگاشت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inversion",
+      "Meanings": [
+        "انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "inverter",
+      "Meanings": [
+        "وارونگر",
+        "وارون کننده",
+        "معکوس کننده"
+      ]
+    },
+    {
+      "EnglishWord": "invertible",
+      "Meanings": [
+        "وارون پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "invertible matrix",
+      "Meanings": [
+        "ماتریس وارون پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "involution",
+      "Meanings": [
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "irrational",
+      "Meanings": [
+        "اصم"
+      ]
+    },
+    {
+      "EnglishWord": "irreducible",
+      "Meanings": [
+        "تحویل ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "isaac newton",
+      "Meanings": [
+        "آیزاک نیوتن",
+        "ریاضیدان مشهور انگلیسی",
+        ". در بنیانگذاری آنالیز ریاضی و حساب بینهایت‌ها و قوانین حرکت و جاذبه عمومی خدمات برجسته ای ارایه کرد و از چهره‌های شاخص علمی قرن هفدهم میلادی است"
+      ]
+    },
+    {
+      "EnglishWord": "isolated point",
+      "Meanings": [
+        "نقطه تنها"
+      ]
+    },
+    {
+      "EnglishWord": "isometer",
+      "Meanings": [
+        "طول‌پای"
+      ]
+    },
+    {
+      "EnglishWord": "isometry",
+      "Meanings": [
+        "طول‌پایی"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphic",
+      "Meanings": [
+        "یک‌ریخت",
+        "یک‌سان"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphic graphs",
+      "Meanings": [
+        "گراف‌های یک ریخت"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphism",
+      "Meanings": [
+        "یکریختی",
+        "ایزومورفیسم"
+      ]
+    },
+    {
+      "EnglishWord": "isomorphism theorems",
+      "Meanings": [
+        "قضایای ایزومورفیسم",
+        "قضایای یک‌ریختی"
+      ]
+    },
+    {
+      "EnglishWord": "isosceles",
+      "Meanings": [
+        "متساوی الساقین"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic lines",
+      "Meanings": [
+        "خطوط متشابه‌الامتداد تک‌روند"
+      ]
+    }
+  ]
+}

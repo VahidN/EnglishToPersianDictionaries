@@ -1,0 +1,865 @@
+﻿{
+  "Group": "S",
+  "Entries": 143,
+  "Words": [
+    {
+      "EnglishWord": "safety needs",
+      "Meanings": [
+        "ﻧﻴﺎزهاﯼ اﯾﻤﻨﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "safety stock",
+      "Meanings": [
+        "ذﺧﻴﺮﻩ اﻃﻤﻴﻨﺎن ﻣﻮﺟﻮدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "salary",
+      "Meanings": [
+        "ﺣﻘﻮق"
+      ]
+    },
+    {
+      "EnglishWord": "sale",
+      "Meanings": [
+        "ﺣﺮاج"
+      ]
+    },
+    {
+      "EnglishWord": "sales branch",
+      "Meanings": [
+        "ﻧﻤﺎﯾﻨﺪﮔﯽ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "sales engineer",
+      "Meanings": [
+        "ﻣﺘﺨﺼﺺ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "sales forecast",
+      "Meanings": [
+        "ﭘﻴﺶ ﺑﻴﻨﯽ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "sales management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "sales office",
+      "Meanings": [
+        "دﻓﺘﺮ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "samples",
+      "Meanings": [
+        "ﻣﺤﺼﻮﻻت اهداﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "sampling",
+      "Meanings": [
+        "ﻧﻤﻮﻧﻪ ﮔﻴﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "satisfy",
+      "Meanings": [
+        "ارﺿﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "scalar",
+      "Meanings": [
+        "ﺳﻨﺠﺶ"
+      ]
+    },
+    {
+      "EnglishWord": "scalar chain",
+      "Meanings": [
+        "ﺳﻠﺴﻠﻪ ﻣﺮاﺗﺐ"
+      ]
+    },
+    {
+      "EnglishWord": "schedules",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ زﻣﺎﻧﺒﻨﺪﯼ ﺷﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "دﯾﺪﮔﺎﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "scientific management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﻋﻠﻤﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "script",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ زﻧﺪﮔﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "seasonal stock",
+      "Meanings": [
+        "ﻣﻮﺟﻮدﯼ ﻓﺼﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "secondary data",
+      "Meanings": [
+        "اﻃﻼﻋﺎت دﺳﺖ دوم"
+      ]
+    },
+    {
+      "EnglishWord": "secretary",
+      "Meanings": [
+        "ﻣﻨﺸﯽ ادارﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "security",
+      "Meanings": [
+        "اﻣﻨﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "selection",
+      "Meanings": [
+        "اﻧﺘﺨﺎب"
+      ]
+    },
+    {
+      "EnglishWord": "selective advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت اﻧﺘﺨﺎﺑﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "selective perception",
+      "Meanings": [
+        "ادراﮎ اﻧﺘﺨﺎﺑﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "self confidence",
+      "Meanings": [
+        "اﻋﺘﻤﺎد ﺑﻪ ﻧﻔﺲ"
+      ]
+    },
+    {
+      "EnglishWord": "self control",
+      "Meanings": [
+        "ﺧﻮدﮐﻨﺘﺮﻟﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "self disclusure",
+      "Meanings": [
+        "ﺧﻮد اﻓﺸﺎﮔﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "self esteem",
+      "Meanings": [
+        "ﻧﻴﺎز ﺑﻪ اﺣﺘﺮام"
+      ]
+    },
+    {
+      "EnglishWord": "self fulfilment",
+      "Meanings": [
+        "ﻧﻴﺎز ﺑﻪ ﺧﻮد ﺷﮑﻮﻓﺎﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "self image",
+      "Meanings": [
+        "ﺗﺼﻮﯾﺮ از ﺧﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "self instruction",
+      "Meanings": [
+        "ﺧﻮدﺁﻣﻮزﯼ ﺧﻮد ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "self management",
+      "Meanings": [
+        "ﺧﻮد ﻣﺪﯾﺮﯾﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "self perception",
+      "Meanings": [
+        "ﺧﻮد ادراﮐﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "self reliance",
+      "Meanings": [
+        "اﺗﮑﺎ ﺑﻪ ﺧﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "selling expense",
+      "Meanings": [
+        "هزﯾﻨﻪ هاﯼ ﻓﺮوش"
+      ]
+    },
+    {
+      "EnglishWord": "sender",
+      "Meanings": [
+        "ﻓﺮﺳﺘﻨﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "sensation",
+      "Meanings": [
+        "ادراﮎ"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity analysis",
+      "Meanings": [
+        "ﺗﺤﻠﻴﻞ ﺣﺴﺎﺳﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "sensitivity training",
+      "Meanings": [
+        "ﯾﺎدﮔﻴﺮﯼ ﺣﺴﺎﺳﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "sequence",
+      "Meanings": [
+        "ﺗﻮاﻟﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "service encounter",
+      "Meanings": [
+        "ﻓﻌﺎﻟﻴﺖ ﺧﺪﻣﺎﺗﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "service management system",
+      "Meanings": [
+        "ﺳﻴﺴﺘﻢ ﻣﺪﯾﺮﯾﺖ ﺧﺪﻣﺎت"
+      ]
+    },
+    {
+      "EnglishWord": "service organization",
+      "Meanings": [
+        "ﺳﺎزﻣﺎن ﺧﺪﻣﺎﺗﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "share",
+      "Meanings": [
+        "ﺳﻬﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "shelf life",
+      "Meanings": [
+        "ﻋﻤﺮ اﻧﺒﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "shift",
+      "Meanings": [
+        "ﺷﻴﻔﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "ship",
+      "Meanings": [
+        "ارﺳﺎل"
+      ]
+    },
+    {
+      "EnglishWord": "shipment",
+      "Meanings": [
+        "ﻣﺤﻤﻮﻟﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "short range goals",
+      "Meanings": [
+        "هدف هاﯼ ﮐﻮﺗﺎﻩ ﻣﺪت"
+      ]
+    },
+    {
+      "EnglishWord": "short term goal",
+      "Meanings": [
+        "اهداف ﮐﻮﺗﺎﻩ ﻣﺪت"
+      ]
+    },
+    {
+      "EnglishWord": "short term invest ment",
+      "Meanings": [
+        "ﺳﺮﻣﺎﯾﻪ ﮔﺬارﯼ ﮐﻮﺗﺎﻩ ﻣﺪت"
+      ]
+    },
+    {
+      "EnglishWord": "sickpay",
+      "Meanings": [
+        "ﺣﻘﻮق اﯾﺎم ﺑﻴﻤﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "sight draft",
+      "Meanings": [
+        "ﺑﺮات دﯾﺪارﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "significant",
+      "Meanings": [
+        "ﻣﻬﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "simple structure",
+      "Meanings": [
+        "ﺳﺎﺧﺘﺎر ﺳﺎدﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "simulation",
+      "Meanings": [
+        "ﺷﺒﻴﻪ ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous structuere",
+      "Meanings": [
+        "ﺳﺎﺧﺘﺎر ﻣﻮازﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "skill",
+      "Meanings": [
+        "ﻣﻬﺎرت"
+      ]
+    },
+    {
+      "EnglishWord": "skill worker",
+      "Meanings": [
+        "ﻧﻴﺮوﯼ ﮐﺎر ﻣﺎهر"
+      ]
+    },
+    {
+      "EnglishWord": "slove",
+      "Meanings": [
+        "ﺣﻞ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "small bauch",
+      "Meanings": [
+        "ﻣﻘﻴﺎس ﮐﻮﭼﮏ"
+      ]
+    },
+    {
+      "EnglishWord": "smart card",
+      "Meanings": [
+        "ﮐﺎرت هوﺷﻤﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "social facilitation",
+      "Meanings": [
+        "رﻓﺎﻩ اﺟﺘﻤﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "social responsibility",
+      "Meanings": [
+        "ﻣﺴﺌﻮﻟﻴﺖ اﺟﺘﻤﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "social risk",
+      "Meanings": [
+        "ﺧﻄﺮ اﺟﺘﻤﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "social science",
+      "Meanings": [
+        "علوم اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "social variables",
+      "Meanings": [
+        "ﻣﺘﻐﻴﺮهاﯼ اﺟﺘﻤﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "socialization",
+      "Meanings": [
+        "اﺟﺘﻤﺎﻋﯽ ﺷﺪن"
+      ]
+    },
+    {
+      "EnglishWord": "sole proprieor ship",
+      "Meanings": [
+        "ﻣﻮﺳﺴﻪ اﻧﻔﺮادﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "solution",
+      "Meanings": [
+        "ﺟﻮاب"
+      ]
+    },
+    {
+      "EnglishWord": "sort",
+      "Meanings": [
+        "ﻣﺮﺗﺐ ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "source attractiveness",
+      "Meanings": [
+        "ﺟﺬاﺑﻴﺖ ﻣﻨﺎﺑﻊ"
+      ]
+    },
+    {
+      "EnglishWord": "span of management",
+      "Meanings": [
+        "ﺣﻴﻄﻪ ﻣﺪﯾﺮﯾﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "spc",
+      "Meanings": [
+        "ﮐﻨﺘﺮل ﻓﺮاﯾﻨﺪ ﺁﻣﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "specifications",
+      "Meanings": [
+        "ﺟﺰﺋﻴﺎت ﮐﺎﻻ"
+      ]
+    },
+    {
+      "EnglishWord": "speculation",
+      "Meanings": [
+        "ﺳﻔﺘﻪ ﺑﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "split shift",
+      "Meanings": [
+        "ﺷﻴﻔﺖ دوﮔﺎﻧﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "sponsor",
+      "Meanings": [
+        "ﺣﺎﻣﯽ ﻣﺎﻟﯽ",
+        "ﺣﺎﻣﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "sponsor training",
+      "Meanings": [
+        "ﻣﺴﺌﻮﻟﻴﺖ ﭘﺬﯾﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "spotter",
+      "Meanings": [
+        "ﮐﺎرﯾﺎب"
+      ]
+    },
+    {
+      "EnglishWord": "stabitity situation",
+      "Meanings": [
+        "ﻣﻮﻗﻌﻴﺖ ﭘﺎﯾﺪارﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "stablization",
+      "Meanings": [
+        "ﺗﺜﺒﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "staff",
+      "Meanings": [
+        "ﮐﺎرﮐﻨﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "staff authority",
+      "Meanings": [
+        "اﺧﺘﻴﺎر ﺳﺘﺎدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "staff specialist",
+      "Meanings": [
+        "ﮐﺎرﺷﻨﺎس اﻣﻮر ﺳﺘﺎدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "stage",
+      "Meanings": [
+        "ﺻﺤﻨﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "standing plan",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ ﭘﺎﯾﺪار"
+      ]
+    },
+    {
+      "EnglishWord": "stars",
+      "Meanings": [
+        "ﭘﻴﺸﺮوها"
+      ]
+    },
+    {
+      "EnglishWord": "startup",
+      "Meanings": [
+        "ﺷﺮﮐﺖ ﻧﻮﭘﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "statement",
+      "Meanings": [
+        "وﺿﻌﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "status report",
+      "Meanings": [
+        "ﮔﺰارش وﺿﻌﻴﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "steady",
+      "Meanings": [
+        "ﯾﮑﻨﻮاﺧﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "steering controls",
+      "Meanings": [
+        "ﮐﻨﺘﺮل هاﯼ هداﯾﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "stimulational marketing",
+      "Meanings": [
+        "ﺑﺎزارﯾﺎﺑﯽ ﺷﺒﻴﻪ ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "stock",
+      "Meanings": [
+        "ﻣﻮﺟﻮدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "stock holders",
+      "Meanings": [
+        "ذﯾﻨﻔﻌﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "stock point",
+      "Meanings": [
+        "ﻧﻘﻄﻪ ﺳﻔﺎرش"
+      ]
+    },
+    {
+      "EnglishWord": "stock turn rate",
+      "Meanings": [
+        "ﻧﺮخ ﮔﺮدش ﻣﻮﺟﻮدﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "stockless purchasing",
+      "Meanings": [
+        "ﺧﺮﯾﺪ ﻣﻘﺪار ﮐﻤﺒﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "storage",
+      "Meanings": [
+        "ﻧﮕﻬﺪارﯼ در اﻧﺒﺎر"
+      ]
+    },
+    {
+      "EnglishWord": "storyboard",
+      "Meanings": [
+        "اﻧﻴﻤﻴﺸﻦ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic control",
+      "Meanings": [
+        "ﮐﻨﺘﺮل راهبردﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic goals",
+      "Meanings": [
+        "اهداف اﺳﺘﺮاﺗﮋﯾﮏ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic management approach",
+      "Meanings": [
+        "روﯾﮑﺮد ﻣﺪﯾﺮﯾﺖ اﺳﺘﺮاﺗﮋﯾﮏ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic marketing plan",
+      "Meanings": [
+        "ﻃﺮح راهبردﯼ ﺑﺎزارﯾﺎﺑﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic planning",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ اﺳﺘﺮاﺗﮋﯾﮏ"
+      ]
+    },
+    {
+      "EnglishWord": "strategic thinking",
+      "Meanings": [
+        "ﺗﻔﮑﺮ راهبردﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "strategicbusinessunit planning",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ اﺳﺘﺮاﺗﮋﯾﮏ واﺣﺪ ﺗﺠﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "strategy",
+      "Meanings": [
+        "راهبرد"
+      ]
+    },
+    {
+      "EnglishWord": "stress",
+      "Meanings": [
+        "اﺳﺘﺮس"
+      ]
+    },
+    {
+      "EnglishWord": "strip centre",
+      "Meanings": [
+        "ﻓﺮوﺷﮕﺎﻩ ﺑﻴﻦ راهی"
+      ]
+    },
+    {
+      "EnglishWord": "stroke",
+      "Meanings": [
+        "ﺿﺮﺑﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "style",
+      "Meanings": [
+        "ﺳﺒﮏ"
+      ]
+    },
+    {
+      "EnglishWord": "style flexing",
+      "Meanings": [
+        "ﺳﺒﮏ اﻧﻌﻄﺎف ﭘﺬﯾﺮ"
+      ]
+    },
+    {
+      "EnglishWord": "sub optimization",
+      "Meanings": [
+        "ﺑﻬﻴﻨﻪ ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "sub system",
+      "Meanings": [
+        "ﺧﺮدﻩ ﺳﻴﺴﺘﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "subcultures",
+      "Meanings": [
+        "ﺧﺮدﻩ ﻓﺮهنگ"
+      ]
+    },
+    {
+      "EnglishWord": "subordinate",
+      "Meanings": [
+        "ﻣﺎدون"
+      ]
+    },
+    {
+      "EnglishWord": "substitute products",
+      "Meanings": [
+        "ﻣﺤﺼﻮﻻت ﺟﺎﯾﮕﺰﯾﻦ"
+      ]
+    },
+    {
+      "EnglishWord": "successful management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﻣﻮﻓﻖ"
+      ]
+    },
+    {
+      "EnglishWord": "summary",
+      "Meanings": [
+        "ﺧﻼﺻﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "suoerior",
+      "Meanings": [
+        "ﻣﺎﻓﻮق"
+      ]
+    },
+    {
+      "EnglishWord": "super ego",
+      "Meanings": [
+        "ﻣﻦ وﯾﮋﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "supereme goal",
+      "Meanings": [
+        "هدف ﻧﻬﺎﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "superior",
+      "Meanings": [
+        "ﻣﺎﻓﻮق"
+      ]
+    },
+    {
+      "EnglishWord": "supervisor",
+      "Meanings": [
+        "ﺳﺮﭘﺮﺳﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "supplier management",
+      "Meanings": [
+        "ﻣﺪﯾﺮﯾﺖ ﺗﺎﻣﻴﻦ ﮐﻨﻨﺪﮔﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "suppliers",
+      "Meanings": [
+        "ﺗﺎﻣﻴﻦ ﮐﻨﻨﺪﮔﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "supply",
+      "Meanings": [
+        "ﻋﺮﺿﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "support staff",
+      "Meanings": [
+        "ﺳﺘﺎد ﭘﺸﺘﻴﺒﺎﻧﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "surplus",
+      "Meanings": [
+        "ﻣﺎزاد"
+      ]
+    },
+    {
+      "EnglishWord": "survey",
+      "Meanings": [
+        "ﺗﺤﻘﻴﻖ وﺑﺮرﺳﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "suspects",
+      "Meanings": [
+        "اﻟﮕﻮها"
+      ]
+    },
+    {
+      "EnglishWord": "swot",
+      "Meanings": [
+        "ﺿﻌﻒ ﻗﻮت ﻓﺮﺻﺖ ﺗﻬﺪﯾﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "sybernetic control",
+      "Meanings": [
+        "ﮐﻨﺘﺮل هداﯾﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "synchronic decision",
+      "Meanings": [
+        "ﺗﺼﻤﻴﻢ ﮔﻴﺮﯼ همزﻣﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "synergy",
+      "Meanings": [
+        "هم اﻓﺰاﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "ﺳﻴﺴﺘﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "system boundary",
+      "Meanings": [
+        "ﻣﺮز ﺳﻴﺴﺘﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "system thinking",
+      "Meanings": [
+        "ﺗﻔﮑﺮ ﺳﻴﺴﺘﻤﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "systems buying",
+      "Meanings": [
+        "ﺳﻴﺴﺘﻢ ﺧﺮﯾﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "systems selling",
+      "Meanings": [
+        "ﺳﻴﺴﺘﻢ ﻓﺮوش"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+﻿{
+  "Group": "N",
+  "Entries": 15,
+  "Words": [
+    {
+      "EnglishWord": "name",
+      "Meanings": [
+        "نام",
+        "مشخصه نام در هنگام تایپ کدها استفاده می‌شود و در جعبه مشخصات قرار دارد"
+      ]
+    },
+    {
+      "EnglishWord": "native code",
+      "Meanings": [
+        "کد اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "navigate",
+      "Meanings": [
+        "یکی از متددهای شیء WebBrowser برای اجرای یک سایت"
+      ]
+    },
+    {
+      "EnglishWord": "negative  -",
+      "Meanings": [
+        "علامت منفی",
+        "برای منفی کردن یک عدد از علامت",
+        "در پشت آن استفاده می‌کنیم. مانند",
+        "numeric"
+      ]
+    },
+    {
+      "EnglishWord": "new",
+      "Meanings": [
+        "جدید",
+        "متغیری که نوع جدیدی از متغیر دیگری تعریف می‌کند",
+        "Dim VarName As New VarType",
+        "مانند",
+        "Dim NewForm As New Form"
+      ]
+    },
+    {
+      "EnglishWord": "new project",
+      "Meanings": [
+        "پروژه جدید",
+        "این پنجره که در منوی File قرار دارد و با Ctrl+N اجرا می‌شود برای ایجاد یک پروژه استفاده می‌شود و نوع برنامه ای را که می‌خواهیم بسازیم در آنجا تعیین می‌کنیم مانند Standard EXE یا ActiveX و"
+      ]
+    },
+    {
+      "EnglishWord": "newpage",
+      "Meanings": [
+        "صفحه جدید",
+        "یکی از متددهای شیء پرینتر که چاپ صفحه جاری را به پایان برده و صفحه جدیدی را برای چاپ آماده می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "none",
+      "Meanings": [
+        "خالی",
+        "هیچ",
+        "یکی از گزینه‌های خصیصه BorderStyle در فرم که شکل فرم بصورت ساده بدون هیچ کادری می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "معمولی",
+        "یکی از گزینه‌های خصیصه windowstate فرم که شکل آن را به صورت معمولی در می‌آورد"
+      ]
+    },
+    {
+      "EnglishWord": "not",
+      "Meanings": [
+        "منفی",
+        "خیر",
+        "تابعی که کدی که جلوی آن قرار می‌گیرد را منفی می‌کند",
+        "Not Code",
+        "یعنی Code1 نشود"
+      ]
+    },
+    {
+      "EnglishWord": "notepad",
+      "Meanings": [
+        "برنامه اولیه تایپ متن"
+      ]
+    },
+    {
+      "EnglishWord": "now",
+      "Meanings": [
+        "حالا",
+        "دستوری که زمان فعلی را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "null",
+      "Meanings": [
+        "تهی",
+        "خالی",
+        "متغیری که خالی است"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "شماره",
+        "یکی از متددهای شیء Err که شماره خطا را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "numeric expression",
+      "Meanings": [
+        "هر عبارتی که اعداد را دربرگیرد"
+      ]
+    }
+  ]
+}

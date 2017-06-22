@@ -1,0 +1,2888 @@
+﻿{
+  "Group": "F",
+  "Entries": 375,
+  "Words": [
+    {
+      "EnglishWord": "fabricate",
+      "Meanings": [
+        "ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication",
+      "Meanings": [
+        "ورقکاری",
+        "ساخت",
+        "ساختن",
+        "تولید",
+        "سوارکردن",
+        "مونتاژ",
+        "فابریک کاری",
+        "فابریک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "face",
+      "Meanings": [
+        "پیشانی دندانه",
+        "صورت دندانه",
+        "رویه",
+        "سطح",
+        "روکش کردن",
+        "مسطح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "face angle",
+      "Meanings": [
+        "زاویه پیشانی"
+      ]
+    },
+    {
+      "EnglishWord": "face bend",
+      "Meanings": [
+        "خمش رویی"
+      ]
+    },
+    {
+      "EnglishWord": "face of weld",
+      "Meanings": [
+        "جبهه جوش"
+      ]
+    },
+    {
+      "EnglishWord": "face plate",
+      "Meanings": [
+        "صفحه نظام",
+        "صفحه گیره",
+        "صفحه مرغک"
+      ]
+    },
+    {
+      "EnglishWord": "face shield",
+      "Meanings": [
+        "ماسک جوشکاری",
+        "تابلو ایمنی",
+        "تابلو حفاظتی",
+        "سیر حفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "face value",
+      "Meanings": [
+        "ارزش اسمی",
+        "قیمت سیاهه",
+        "مبلغ اسمی",
+        "مبلغ صوری",
+        "ارزش ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "face width",
+      "Meanings": [
+        "پهنای دندانه",
+        "پهنای سینه"
+      ]
+    },
+    {
+      "EnglishWord": "facilitate",
+      "Meanings": [
+        "آسان کردن",
+        "تسهیل"
+      ]
+    },
+    {
+      "EnglishWord": "facilites design",
+      "Meanings": [
+        "طراحی سیستم‌های فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "facilities",
+      "Meanings": [
+        "تسهیلات",
+        "اعتبارات",
+        "امکانات",
+        "وسایل",
+        "ابزار",
+        "وام"
+      ]
+    },
+    {
+      "EnglishWord": "facility",
+      "Meanings": [
+        "وسیله",
+        "امکان",
+        "سهولت"
+      ]
+    },
+    {
+      "EnglishWord": "facility cost",
+      "Meanings": [
+        "هزینه امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "facility layout",
+      "Meanings": [
+        "آرایش امکانات",
+        "نحوه استقرار امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "facility management",
+      "Meanings": [
+        "مدیریت امور تسهیلاتی",
+        "مدیریت تسهیلات"
+      ]
+    },
+    {
+      "EnglishWord": "facility planning",
+      "Meanings": [
+        "برنامه ریزی امکانات"
+      ]
+    },
+    {
+      "EnglishWord": "facility requisition",
+      "Meanings": [
+        "درخواست تسهیلات"
+      ]
+    },
+    {
+      "EnglishWord": "facing",
+      "Meanings": [
+        "پیشانی تراشی",
+        "کفتراشی",
+        "صفحه کلاچ",
+        "صیقل"
+      ]
+    },
+    {
+      "EnglishWord": "facing sand",
+      "Meanings": [
+        "ماسه روی قالب",
+        "ماسه رویه قالب",
+        "ماسه صیقل"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "فاکتور",
+        "عامل",
+        "ضریب",
+        "سازه"
+      ]
+    },
+    {
+      "EnglishWord": "factor comparison method",
+      "Meanings": [
+        "روش مقایسه عوامل"
+      ]
+    },
+    {
+      "EnglishWord": "factor s  of production",
+      "Meanings": [
+        "عوامل تولید",
+        "عامل تولید"
+      ]
+    },
+    {
+      "EnglishWord": "factor-factor relationship",
+      "Meanings": [
+        "رابطه عامل",
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "factorial moment generating function",
+      "Meanings": [
+        "تابع مولد گشتاور عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "factoring",
+      "Meanings": [
+        "عاملیت",
+        "تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "factory economy",
+      "Meanings": [
+        "اقتصاد کارخانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "factory overhead",
+      "Meanings": [
+        "سربار کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "fail",
+      "Meanings": [
+        "از کار افتادن",
+        "خراب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "fail-back",
+      "Meanings": [
+        "پشتیبان",
+        "یدکی"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "شکست",
+        "از کار افتادگی",
+        "خرابی",
+        "نقص",
+        "ورشکستگی",
+        "قصور",
+        "عیب فنی",
+        "نقص فنی"
+      ]
+    },
+    {
+      "EnglishWord": "failure analysis",
+      "Meanings": [
+        "تحلیل خرابی",
+        "تحلیل نقص"
+      ]
+    },
+    {
+      "EnglishWord": "failure costs",
+      "Meanings": [
+        "هزینه‌های نقص"
+      ]
+    },
+    {
+      "EnglishWord": "failure rate",
+      "Meanings": [
+        "میزان شکست",
+        "نرخ خرابی",
+        "نرخ شکست"
+      ]
+    },
+    {
+      "EnglishWord": "failure rate function",
+      "Meanings": [
+        "تابع نرخ شکست"
+      ]
+    },
+    {
+      "EnglishWord": "family allowance",
+      "Meanings": [
+        "حق تاهل",
+        "فوق العادت تاهل",
+        "حق عایله مندی"
+      ]
+    },
+    {
+      "EnglishWord": "fan",
+      "Meanings": [
+        "هواکش",
+        "بادبزن",
+        "بادزن",
+        "پره",
+        "پروانه موتور",
+        "پنکه",
+        "تیغه"
+      ]
+    },
+    {
+      "EnglishWord": "fan gate",
+      "Meanings": [
+        "مدخل بادبزنی"
+      ]
+    },
+    {
+      "EnglishWord": "fan-shaped network",
+      "Meanings": [
+        "شبکه پنجه ای شکل"
+      ]
+    },
+    {
+      "EnglishWord": "fastener",
+      "Meanings": [
+        "محکم کننده",
+        "چفت",
+        "بست",
+        "خار",
+        "گیره",
+        "نگهدارنده"
+      ]
+    },
+    {
+      "EnglishWord": "fastening",
+      "Meanings": [
+        "چفت و بست"
+      ]
+    },
+    {
+      "EnglishWord": "fast-quenching oil",
+      "Meanings": [
+        "روغن کوییچ کننده سریع"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue",
+      "Meanings": [
+        "خستگی",
+        "فرسودگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue load",
+      "Meanings": [
+        "نیروی خستگی زا"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue loading",
+      "Meanings": [
+        "نیروی خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fatigue strength",
+      "Meanings": [
+        "استحکام خستگی",
+        "استحکام فرسایش",
+        "خستگی در فلزات",
+        "مقاومت در برابر خستگی",
+        "مقاومت خستگی"
+      ]
+    },
+    {
+      "EnglishWord": "fault detection",
+      "Meanings": [
+        "عیب یابی"
+      ]
+    },
+    {
+      "EnglishWord": "favourable",
+      "Meanings": [
+        "مساعد",
+        "مورد قبول"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility",
+      "Meanings": [
+        "میسر بودن",
+        "امکان پذیری",
+        "امکان",
+        "شدنی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility condition",
+      "Meanings": [
+        "شرط شدنی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "مطالعه عملی بودن",
+        "امکان سنجی",
+        "مطالعه امکان سنجی",
+        "بررسی امکان سنجی",
+        "امکان پذیری",
+        "بررسی از جهت عملی بودن و قابلیت اجرا",
+        "مرحله امکان پذیری"
+      ]
+    },
+    {
+      "EnglishWord": "feasible",
+      "Meanings": [
+        "شدنی",
+        "امکان پذیر",
+        "میسر",
+        "ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "feasible region",
+      "Meanings": [
+        "منطقه موجه",
+        "منطقه قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "feasible solution",
+      "Meanings": [
+        "جواب شدنی",
+        "جواب ممکن",
+        "حل قابل قبول",
+        "خیلی موجه",
+        "پاسخ محتمل",
+        "راه حل محتمل"
+      ]
+    },
+    {
+      "EnglishWord": "feather edge",
+      "Meanings": [
+        "لبه تیز لبه نازک شده",
+        "لب تیز"
+      ]
+    },
+    {
+      "EnglishWord": "feature",
+      "Meanings": [
+        "مشخصه",
+        "ترکیب",
+        "طرح",
+        "خاصه",
+        "خصیصه",
+        "شکل",
+        "کیفیت",
+        "ویژگی"
+      ]
+    },
+    {
+      "EnglishWord": "fee",
+      "Meanings": [
+        "حق الزحمه",
+        "اجرت",
+        "دستمزد",
+        "فی",
+        "شهریه",
+        "قیمت",
+        "نرخ",
+        "ورودیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed",
+      "Meanings": [
+        "تغذیه",
+        "خوراندن",
+        "بار",
+        "جلو بردن",
+        "خورده",
+        "تغذیه کردن",
+        "خوراک",
+        "راندن مواد به داخل دستگاه",
+        "هدایت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "feed  rod",
+      "Meanings": [
+        "میله تغذیه",
+        "میله گرد کار",
+        "مفتول تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed box",
+      "Meanings": [
+        "جعبه باز"
+      ]
+    },
+    {
+      "EnglishWord": "feed hopper",
+      "Meanings": [
+        "قیفی تغذیه کن",
+        "ناودان پیشبری"
+      ]
+    },
+    {
+      "EnglishWord": "feed pitch",
+      "Meanings": [
+        "گام تغذیه",
+        "گام پیشبری"
+      ]
+    },
+    {
+      "EnglishWord": "feed power",
+      "Meanings": [
+        "قدرت بار"
+      ]
+    },
+    {
+      "EnglishWord": "feed rate",
+      "Meanings": [
+        "میزان تغذیه",
+        "نسبت بار"
+      ]
+    },
+    {
+      "EnglishWord": "feed reel",
+      "Meanings": [
+        "چرخ تغذیه کن",
+        "حلقه خوراننده"
+      ]
+    },
+    {
+      "EnglishWord": "feed roller",
+      "Meanings": [
+        "قرقره تغذیه کننده",
+        "غلتک تغذیه کن",
+        "غلتک خوراک دهنده",
+        "غلتک پیشبر"
+      ]
+    },
+    {
+      "EnglishWord": "feed track",
+      "Meanings": [
+        "کانال تغذیه",
+        "مسیر تغذیه",
+        "شیار پیشبری"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "باز خورد",
+        "پس خور",
+        "بازگشت",
+        "بازتاب",
+        "بازخوران",
+        "بازداد",
+        "بازیافت",
+        "پس خوراند",
+        "پس خوران",
+        "فیدبک",
+        "واپسگری",
+        "بازنگری",
+        "بازیاب",
+        "بازیابی",
+        "برگشت",
+        "پس خورند",
+        "پسگیر",
+        "پس نگری",
+        "وانگری"
+      ]
+    },
+    {
+      "EnglishWord": "feedback information",
+      "Meanings": [
+        "اطلاعات بازیابی"
+      ]
+    },
+    {
+      "EnglishWord": "feedback loop",
+      "Meanings": [
+        "حلقه پس خور",
+        "بازخورد حلقوی",
+        "جریان انعکاسی",
+        "حلقه پس خورنده"
+      ]
+    },
+    {
+      "EnglishWord": "feedback system",
+      "Meanings": [
+        "سیستم دارای پس خور",
+        "سیستم مدار بسته",
+        "سیستم بازیافت"
+      ]
+    },
+    {
+      "EnglishWord": "feeder",
+      "Meanings": [
+        "تغذیه کننده",
+        "خوراک دهنده",
+        "خوارننده",
+        "بارده"
+      ]
+    },
+    {
+      "EnglishWord": "feeding device",
+      "Meanings": [
+        "تغذیه کننده",
+        "خوراننده"
+      ]
+    },
+    {
+      "EnglishWord": "female molded thread",
+      "Meanings": [
+        "نخ پیچ روی مادگی",
+        "روزه مهره قالبگیری شده"
+      ]
+    },
+    {
+      "EnglishWord": "ferritic",
+      "Meanings": [
+        "فریتی"
+      ]
+    },
+    {
+      "EnglishWord": "ferrographic analysis",
+      "Meanings": [
+        "آنالیز فروگرافی"
+      ]
+    },
+    {
+      "EnglishWord": "ferro-magnetic",
+      "Meanings": [
+        "فرومغناطیسی",
+        "آهن مغناطیسی شده"
+      ]
+    },
+    {
+      "EnglishWord": "ferrules",
+      "Meanings": [
+        "حلقه سرامیکی مخصوص"
+      ]
+    },
+    {
+      "EnglishWord": "fettling",
+      "Meanings": [
+        "آسترزنی",
+        "لکه گیری",
+        "آسترکاری",
+        "تمیز کردن ماهیچه",
+        "راهگاه زنی",
+        "تمیز کاری"
+      ]
+    },
+    {
+      "EnglishWord": "fiber optic",
+      "Meanings": [
+        "رشته نوری"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "میدان",
+        "حوزه",
+        "رشته",
+        "کارگاه",
+        "پای کار",
+        "ناحیه"
+      ]
+    },
+    {
+      "EnglishWord": "field definition from",
+      "Meanings": [
+        "فرم تعریف حوزه"
+      ]
+    },
+    {
+      "EnglishWord": "field work",
+      "Meanings": [
+        "کار عملی"
+      ]
+    },
+    {
+      "EnglishWord": "fifo work",
+      "Meanings": [
+        "هزینه اولین صادره از اولین وارده"
+      ]
+    },
+    {
+      "EnglishWord": "figure of merit",
+      "Meanings": [
+        "میزان رویه"
+      ]
+    },
+    {
+      "EnglishWord": "filament winding",
+      "Meanings": [
+        "سیم پیچی گرمایی",
+        "رشته پیچ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "file",
+      "Meanings": [
+        "پرونده",
+        "فایل",
+        "سوهان",
+        "پرونده بایگانی",
+        "بایگانی کردن",
+        "صورت",
+        "ضبط کردن",
+        "فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "file label",
+      "Meanings": [
+        "برچسب فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file name",
+      "Meanings": [
+        "نام فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file specification",
+      "Meanings": [
+        "مشخصه فایل"
+      ]
+    },
+    {
+      "EnglishWord": "filing",
+      "Meanings": [
+        "سوهان کاری",
+        "سوهان کشی",
+        "بایگانی",
+        "براده"
+      ]
+    },
+    {
+      "EnglishWord": "filing jig",
+      "Meanings": [
+        "قید سوهان زنی",
+        "قالب کار سوهان زنی"
+      ]
+    },
+    {
+      "EnglishWord": "filing system",
+      "Meanings": [
+        "سیستم بایگانی"
+      ]
+    },
+    {
+      "EnglishWord": "fill",
+      "Meanings": [
+        "پرکردن"
+      ]
+    },
+    {
+      "EnglishWord": "filler",
+      "Meanings": [
+        "پرکننده",
+        "پرکن",
+        "فیلر",
+        "لایی",
+        "بطانه",
+        "گریس",
+        "درزگیر",
+        "گلویی",
+        "میله استحکام",
+        "نبشی"
+      ]
+    },
+    {
+      "EnglishWord": "filler metal",
+      "Meanings": [
+        "فلز پر کننده",
+        "الکترود جوشکاری",
+        "سیم جوش",
+        "فلز الکترود"
+      ]
+    },
+    {
+      "EnglishWord": "fillet",
+      "Meanings": [
+        "راکورد",
+        "فیله",
+        "گرده",
+        "ماهیچه"
+      ]
+    },
+    {
+      "EnglishWord": "fillet weld",
+      "Meanings": [
+        "جوش گوشه ای",
+        "جوش پا گلویی",
+        "جوش نواری",
+        "نبشی داخلی و خارجی",
+        "جوش زاویه",
+        "جوش کنجی",
+        "جوش گوشه",
+        "جوش ماهیچه ای"
+      ]
+    },
+    {
+      "EnglishWord": "film analysis",
+      "Meanings": [
+        "تجزیه و تحلیل فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "صافی",
+        "پالودن",
+        "تصفیه کردن",
+        "فیلتر",
+        "زلال کردن",
+        "صاف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "filter glass",
+      "Meanings": [
+        "شیشه صافی"
+      ]
+    },
+    {
+      "EnglishWord": "filter- press",
+      "Meanings": [
+        "صافی فشاری",
+        "پرس روغنکاری",
+        "روغنگیر"
+      ]
+    },
+    {
+      "EnglishWord": "filtration",
+      "Meanings": [
+        "تصفیه",
+        "زلالسازی",
+        "عبور از صافی"
+      ]
+    },
+    {
+      "EnglishWord": "fin",
+      "Meanings": [
+        "زاید",
+        "پره",
+        "باله",
+        "تیغة نازک"
+      ]
+    },
+    {
+      "EnglishWord": "final",
+      "Meanings": [
+        "نهایی",
+        "قطعی",
+        "انتهایی"
+      ]
+    },
+    {
+      "EnglishWord": "final good",
+      "Meanings": [
+        "کالای نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "final inspection",
+      "Meanings": [
+        "بازرسی نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "final product",
+      "Meanings": [
+        "محصول نهایی",
+        "تولید نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "final value",
+      "Meanings": [
+        "قضیه مقدار نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "final value theorem",
+      "Meanings": [
+        "قضیه مقدار نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finance",
+      "Meanings": [
+        "دارایی",
+        "امور مالی",
+        "مال",
+        "تامین مال کردن",
+        "تدارک مالی دیدن",
+        "تهیه کردن سرمایه",
+        "مالیه",
+        "امکانات مالی",
+        "بودجه",
+        "مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial",
+      "Meanings": [
+        "مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial account",
+      "Meanings": [
+        "حساب مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial accounting",
+      "Meanings": [
+        "حسابداری مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial analysis",
+      "Meanings": [
+        "تجزیه و تحلیل مالی",
+        "تجزیه و تحلیل صورت حسابهای مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial claims",
+      "Meanings": [
+        "مطالبات مالی",
+        "دعاوی مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial leverage",
+      "Meanings": [
+        "اهرم مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial position",
+      "Meanings": [
+        "وضعیت دارایی",
+        "مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial rate of return",
+      "Meanings": [
+        "نرخ بازدهی مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial resources information system",
+      "Meanings": [
+        "سیستم اطلاعاتی منابع مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial standing",
+      "Meanings": [
+        "اعتبار مالی",
+        "وضع مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial statement",
+      "Meanings": [
+        "صورت مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial status",
+      "Meanings": [
+        "قدرت پرداخت",
+        "وضع مالی"
+      ]
+    },
+    {
+      "EnglishWord": "financial year",
+      "Meanings": [
+        "سال مالی"
+      ]
+    },
+    {
+      "EnglishWord": "fine",
+      "Meanings": [
+        "جریمه",
+        "نرمه",
+        "ریزه",
+        "ریز",
+        "جریمه کردن",
+        "نازک",
+        "ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "fine brick",
+      "Meanings": [
+        "آجرنسوز"
+      ]
+    },
+    {
+      "EnglishWord": "fine measurement",
+      "Meanings": [
+        "اندازه گیری دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "fine setting",
+      "Meanings": [
+        "پرداختکاری",
+        "تنظیم دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "fine teeth",
+      "Meanings": [
+        "دندة ریز",
+        "ریز دندانه",
+        "رزوة ظریف",
+        "دندانة ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine tuning",
+      "Meanings": [
+        "میزانسازی دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "finger",
+      "Meanings": [
+        "انگشتی",
+        "انگشته",
+        "شاخ",
+        "انگشت",
+        "ایندکس"
+      ]
+    },
+    {
+      "EnglishWord": "finger cam",
+      "Meanings": [
+        "بادامک انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "finger dexterity test",
+      "Meanings": [
+        "تست مهارت انگشتان",
+        "مهارت سنجی انگشتان"
+      ]
+    },
+    {
+      "EnglishWord": "finger gauge",
+      "Meanings": [
+        "ضخامت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "fingering",
+      "Meanings": [
+        "جوش انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "finish",
+      "Meanings": [
+        "تمیز کاری",
+        "پرداخت",
+        "تکمیل",
+        "پایان",
+        "ختم",
+        "سنگزنی",
+        "لاک زدن",
+        "لعابکاری",
+        "پرداختکاری",
+        "پوشش نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finish allowance",
+      "Meanings": [
+        "ضریب پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "finish to finish relationship",
+      "Meanings": [
+        "رابطة پایان به پایان"
+      ]
+    },
+    {
+      "EnglishWord": "finish to start relationship",
+      "Meanings": [
+        "ارتباط پایان به آغاز",
+        "رابطة پایان به آغاز"
+      ]
+    },
+    {
+      "EnglishWord": "finished good",
+      "Meanings": [
+        "کالای ساخته شده"
+      ]
+    },
+    {
+      "EnglishWord": "finished product",
+      "Meanings": [
+        "کالای ساخته شده",
+        "کالای آماده فروش",
+        "کالای نهایی",
+        "محصول آماده"
+      ]
+    },
+    {
+      "EnglishWord": "finishing",
+      "Meanings": [
+        "پرداختکاری",
+        "تکمیل",
+        "روسازیف پرداخت",
+        "تمامکاری",
+        "صافکاری",
+        "پرداخت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "finishing cut",
+      "Meanings": [
+        "ظریفتراشی",
+        "بازپرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "finishing mill",
+      "Meanings": [
+        "دستگاه پس نورد",
+        "نورد پایان",
+        "نورد تکمیل",
+        "دستگاه نورد نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finishing pass",
+      "Meanings": [
+        "کالیبر نهایی",
+        "رخده نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "finishing stand",
+      "Meanings": [
+        "مقام پس نورد"
+      ]
+    },
+    {
+      "EnglishWord": "finishing tooth",
+      "Meanings": [
+        "دندانة پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "finite",
+      "Meanings": [
+        "متناهی",
+        "پایاندار",
+        "محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite equiprobable spaces",
+      "Meanings": [
+        "فضاهای محدود هم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "finite population",
+      "Meanings": [
+        "جامعة محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite population correction factor",
+      "Meanings": [
+        "عامل تصحیح جامعة متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "finite stochastic process",
+      "Meanings": [
+        "فرایند تصادفی محدود"
+      ]
+    },
+    {
+      "EnglishWord": "finite universe",
+      "Meanings": [
+        "جامعة محدود"
+      ]
+    },
+    {
+      "EnglishWord": "fire loss",
+      "Meanings": [
+        "زیان ناشی از آتش سوزی"
+      ]
+    },
+    {
+      "EnglishWord": "fire prevention",
+      "Meanings": [
+        "پیشگیری از آتش سوزی"
+      ]
+    },
+    {
+      "EnglishWord": "fire protection",
+      "Meanings": [
+        "حفاظت در مقابل آتش سوزی"
+      ]
+    },
+    {
+      "EnglishWord": "fire resistant",
+      "Meanings": [
+        "ضد آتش",
+        "مقاوم در برابر آتش",
+        "نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "fired",
+      "Meanings": [
+        "پخته شده"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "بنگاه اقتصادی",
+        "موسسه",
+        "بنگاه",
+        "شرکت",
+        "تجارتخانه",
+        "کارخانه",
+        "واحد اقتصادی",
+        "واحد تجارتی"
+      ]
+    },
+    {
+      "EnglishWord": "first come first serve",
+      "Meanings": [
+        "نظام نوبتی"
+      ]
+    },
+    {
+      "EnglishWord": "first in first out",
+      "Meanings": [
+        "اولین صادره از اولین وارده",
+        "به ترتیب",
+        "به ترتیب ورود"
+      ]
+    },
+    {
+      "EnglishWord": "fiscal period",
+      "Meanings": [
+        "دورة مالی"
+      ]
+    },
+    {
+      "EnglishWord": "fiscal policy",
+      "Meanings": [
+        "سیاست مالی"
+      ]
+    },
+    {
+      "EnglishWord": "fiscal year",
+      "Meanings": [
+        "سال مالی"
+      ]
+    },
+    {
+      "EnglishWord": "fish- tail piece",
+      "Meanings": [
+        "قطعه به شکل دم ماهی"
+      ]
+    },
+    {
+      "EnglishWord": "fit",
+      "Meanings": [
+        "انطباق",
+        "برازاندن",
+        "جذب و جفت کردن",
+        "جور کردن",
+        "خوراندن",
+        "درخور",
+        "شایسته",
+        "مقتضی",
+        "جادادن",
+        "جاگرفتن",
+        "اندازه بودن",
+        "جفت و جور کردن",
+        "سوار کردن قطعه ها"
+      ]
+    },
+    {
+      "EnglishWord": "fitting",
+      "Meanings": [
+        "برازش",
+        "جوراندن",
+        "جور کردن",
+        "جفت سازی",
+        "سوار کردنف قطعه اتصال",
+        "ماسوره",
+        "مهره",
+        "مهرة اتصال",
+        "مونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "fitting curve",
+      "Meanings": [
+        "منحنی انطباق"
+      ]
+    },
+    {
+      "EnglishWord": "fittings",
+      "Meanings": [
+        "اتصالات",
+        "اتصالات لوله",
+        "لوازم"
+      ]
+    },
+    {
+      "EnglishWord": "fixed asset",
+      "Meanings": [
+        "دارایی ثابت",
+        "اموال غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "fixed assets turnover",
+      "Meanings": [
+        "گردش داراییهای ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed budget",
+      "Meanings": [
+        "بودجة ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed charge problem",
+      "Meanings": [
+        "مساله هزینه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed charges",
+      "Meanings": [
+        "هزینه‌های ثابت",
+        "مخارج ثابت",
+        "طلبهای معین",
+        "مخارج مقطوع"
+      ]
+    },
+    {
+      "EnglishWord": "fixed cost",
+      "Meanings": [
+        "هزینه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed interval inventory",
+      "Meanings": [
+        "زمان بین دو سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "fixed order interval",
+      "Meanings": [
+        "فاصلة زمانی سفارش ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed order inventory model",
+      "Meanings": [
+        "مدل میزان سفارش ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed order size",
+      "Meanings": [
+        "مقدار سفارش ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed position layout",
+      "Meanings": [
+        "طرح بر اساس ثبات محل مواد"
+      ]
+    },
+    {
+      "EnglishWord": "fixed- proportion production function",
+      "Meanings": [
+        "تابع تولید نسبت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed ratio",
+      "Meanings": [
+        "نسبت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed-coefficient production function",
+      "Meanings": [
+        "تابع تولید ضریب ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixture",
+      "Meanings": [
+        "کارگیر",
+        "فیکسچر",
+        "بست",
+        "نگهدارنده",
+        "مکانیسم",
+        "قطعه کار",
+        "اثاث ثابت",
+        "سه نظام"
+      ]
+    },
+    {
+      "EnglishWord": "flake",
+      "Meanings": [
+        "چفت و بست",
+        "گیره"
+      ]
+    },
+    {
+      "EnglishWord": "flamable",
+      "Meanings": [
+        "پولک",
+        "ورقه ورقه شدن",
+        "شاخه ای",
+        "فلس"
+      ]
+    },
+    {
+      "EnglishWord": "flame",
+      "Meanings": [
+        "قابل اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "flame annealing",
+      "Meanings": [
+        "شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame cutting",
+      "Meanings": [
+        "تابکاری با شعله",
+        "آنیل کردن به کمک شعله باز پخت شعله ای",
+        "تاب دادن شعله ای",
+        "نرم کردن شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame hardening",
+      "Meanings": [
+        "برشکاری با شعله",
+        "برش با شعلة جوشکاری"
+      ]
+    },
+    {
+      "EnglishWord": "flame machining",
+      "Meanings": [
+        "ماشینکاری با شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame plating",
+      "Meanings": [
+        "فلز خورانی با توپ",
+        "روکشکاری شعله ای",
+        "پوشاندن با شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flame- scarfing machine",
+      "Meanings": [
+        "ماشین شعله زنی"
+      ]
+    },
+    {
+      "EnglishWord": "flange",
+      "Meanings": [
+        "بال",
+        "باله",
+        "فلانج",
+        "پیوند لوله",
+        "توپی",
+        "فلانش",
+        "فلانر"
+      ]
+    },
+    {
+      "EnglishWord": "flanged joint",
+      "Meanings": [
+        "اتصال لبه برگردان"
+      ]
+    },
+    {
+      "EnglishWord": "flank",
+      "Meanings": [
+        "دامنة دندانه",
+        "دیواره",
+        "شکم دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "flare",
+      "Meanings": [
+        "گشاد",
+        "شیپوره"
+      ]
+    },
+    {
+      "EnglishWord": "flare bevel",
+      "Meanings": [
+        "یخ یالی"
+      ]
+    },
+    {
+      "EnglishWord": "flaring-cup wheel",
+      "Meanings": [
+        "چرخ سمبادة استکانی دهان گشاد"
+      ]
+    },
+    {
+      "EnglishWord": "flash",
+      "Meanings": [
+        "ترشح",
+        "بیرون زدن",
+        "قی",
+        "شره",
+        "درخش",
+        "ریشه عیب ریخته گری",
+        "جرقه",
+        "جرقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "flash back arreston",
+      "Meanings": [
+        "شیر یکطرفة مانع برگشت گاز"
+      ]
+    },
+    {
+      "EnglishWord": "flash point",
+      "Meanings": [
+        "درجة اشتعال",
+        "نقطة اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "flash relief",
+      "Meanings": [
+        "بازی و درز خروج قی",
+        "درز قی ریز"
+      ]
+    },
+    {
+      "EnglishWord": "flash thickness",
+      "Meanings": [
+        "ضخامت قی"
+      ]
+    },
+    {
+      "EnglishWord": "flash welding",
+      "Meanings": [
+        "جوشکاری جرقه ای",
+        "جوشکاری شکافی",
+        "جوشکاری با جرقة الکتریکی",
+        "جوش جرقه ای",
+        "جوشکاری معمولی",
+        "جوشکاری فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "flash-back",
+      "Meanings": [
+        "پس زدن شعله",
+        "پس زنی شعله"
+      ]
+    },
+    {
+      "EnglishWord": "flashing time",
+      "Meanings": [
+        "زمان جرقه زدن و گرم شدن",
+        "زمان جرقه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "پنچر",
+        "تخت",
+        "کفی",
+        "مسطح",
+        "یکنواخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat- belt conveyor",
+      "Meanings": [
+        "نقالة تسمه ای مسطح",
+        "تسمه نقالة کفی"
+      ]
+    },
+    {
+      "EnglishWord": "flat bottom",
+      "Meanings": [
+        "کفی تخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat chisel",
+      "Meanings": [
+        "قلم تخت",
+        "اسکنة دم پهن",
+        "قلم دم پهن"
+      ]
+    },
+    {
+      "EnglishWord": "flat file",
+      "Meanings": [
+        "سوهان تخت",
+        "سوهان تسمه",
+        "سوهان باریک",
+        "سوهان تسمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "flat form tool",
+      "Meanings": [
+        "رندة فرم مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flat organization",
+      "Meanings": [
+        "سازمان مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flat plate",
+      "Meanings": [
+        "صفحه تخت",
+        "صفحه صافی"
+      ]
+    },
+    {
+      "EnglishWord": "flat position",
+      "Meanings": [
+        "وضعیت تخت",
+        "حالت درازکش"
+      ]
+    },
+    {
+      "EnglishWord": "flat surface",
+      "Meanings": [
+        "سطح تخت"
+      ]
+    },
+    {
+      "EnglishWord": "flat- type organization",
+      "Meanings": [
+        "سازمان مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flats",
+      "Meanings": [
+        "تسمه شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fleed",
+      "Meanings": [
+        "سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "flexibility",
+      "Meanings": [
+        "انعطافپذیری",
+        "خمپذیری",
+        "نرمی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible",
+      "Meanings": [
+        "انعطافپذیر",
+        "تاشو",
+        "خمشپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible budget",
+      "Meanings": [
+        "بودجة سقف متغیر",
+        "بودجة قابل انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexible clamp",
+      "Meanings": [
+        "بست با انعطاف",
+        "بست تاشو",
+        "گیرة تغییرپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible coupling",
+      "Meanings": [
+        "کوپلینگ قابل انعطاف",
+        "کوپلینگ تاشو",
+        "کوپلینگ خم شو",
+        "بوشن ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible pipe",
+      "Meanings": [
+        "لولة خرطومی",
+        "لولة تاشو"
+      ]
+    },
+    {
+      "EnglishWord": "flexible shaft grinder",
+      "Meanings": [
+        "سنگ خرطومی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible steel band",
+      "Meanings": [
+        "تسمة فولادی تاشو",
+        "تسمة فولادی خمشپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flexible tool",
+      "Meanings": [
+        "ابزار خم شدنی",
+        "قلم تاشو"
+      ]
+    },
+    {
+      "EnglishWord": "flexowriter",
+      "Meanings": [
+        "ماشین پانچ"
+      ]
+    },
+    {
+      "EnglishWord": "flight conveyor",
+      "Meanings": [
+        "نقالة زنجیره ای پارویی",
+        "نقالة پارویی"
+      ]
+    },
+    {
+      "EnglishWord": "flip flop",
+      "Meanings": [
+        "کلید الاکلنگی",
+        "الاکلنگ",
+        "مدار دو ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "تاخیر مجاز",
+        "شناور",
+        "فرجه",
+        "قایق",
+        "شناوری",
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "float factor",
+      "Meanings": [
+        "ضریب شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "float time",
+      "Meanings": [
+        "زمان شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "floating",
+      "Meanings": [
+        "شناوری"
+      ]
+    },
+    {
+      "EnglishWord": "floating pad",
+      "Meanings": [
+        "بالشتک آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "floating point",
+      "Meanings": [
+        "نقطة متغیر",
+        "ممیز شناور"
+      ]
+    },
+    {
+      "EnglishWord": "floe production",
+      "Meanings": [
+        "تولید جریانی",
+        "تولید پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "floe rate",
+      "Meanings": [
+        "دبی جریان",
+        "میزان جریان",
+        "آهنگ جریان",
+        "آهنگ شارش",
+        "مقدار بده",
+        "میزان دبی",
+        "نرخ جریان"
+      ]
+    },
+    {
+      "EnglishWord": "floor inspector",
+      "Meanings": [
+        "بازرس سیار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "floor molding",
+      "Meanings": [
+        "قالبگیری باز",
+        "قالبگیری در زمین کار",
+        "قالبگیری زمینی",
+        "قالبگیری روباز در بستر ماسه"
+      ]
+    },
+    {
+      "EnglishWord": "floor-type boring machine",
+      "Meanings": [
+        "ماشین رواختراش نوع زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "floppy disk",
+      "Meanings": [
+        "دیسک لرزان",
+        "دیسک",
+        "دیسک نرم",
+        "گرده لرزان",
+        "فلاپی دیسک",
+        "گرده لغزان"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "جریان",
+        "طرح توسعه",
+        "بده",
+        "دبی",
+        "تراوش",
+        "روند",
+        "شارش"
+      ]
+    },
+    {
+      "EnglishWord": "flow chart",
+      "Meanings": [
+        "فلوچارت",
+        "نمودار جریان کار",
+        "روند نما",
+        "نمودار گردش",
+        "نمودار گردش کار",
+        "نمودگر",
+        "نمودار گردشی"
+      ]
+    },
+    {
+      "EnglishWord": "flow chart symbols",
+      "Meanings": [
+        "نقشه جریان",
+        "نمادهای روند نما",
+        "نمودار گردشی"
+      ]
+    },
+    {
+      "EnglishWord": "flow pattern",
+      "Meanings": [
+        "طرح جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow process",
+      "Meanings": [
+        "پروسة جریان",
+        "نمودار جریان تولید",
+        "نمودار جریان کار",
+        "نمودار جریان",
+        "نمودار جریان فرایند",
+        "نمودار جریان کار سیستم"
+      ]
+    },
+    {
+      "EnglishWord": "fluid friction",
+      "Meanings": [
+        "روغنکاری مداوم",
+        "روانکاری مداوم"
+      ]
+    },
+    {
+      "EnglishWord": "flush",
+      "Meanings": [
+        "تراز",
+        "لبریز",
+        "همتراز",
+        "همسطح",
+        "همسطح کردن",
+        "سرریز"
+      ]
+    },
+    {
+      "EnglishWord": "flush butt welding",
+      "Meanings": [
+        "جوشکاری لب به لب جرقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "flush quenching",
+      "Meanings": [
+        "فرو بردن در آب"
+      ]
+    },
+    {
+      "EnglishWord": "flush welding",
+      "Meanings": [
+        "جوشکاری جرقه ای"
+      ]
+    },
+    {
+      "EnglishWord": "flushing",
+      "Meanings": [
+        "تخلیه کردن",
+        "فلاش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "flush-pin gage",
+      "Meanings": [
+        "سنجة میخدار"
+      ]
+    },
+    {
+      "EnglishWord": "flute",
+      "Meanings": [
+        "شیار",
+        "خیاره",
+        "شکاف حلزونی",
+        "شکاف حلزونی سرمته",
+        "قاشقی"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "روانساز",
+        "گدازآور",
+        "سیلان",
+        "کمک ذوب",
+        "تنه کار",
+        "گل جوشکاری",
+        "سرباره",
+        "پودر جوش",
+        "جریان",
+        "روغن لحیم",
+        "ریزش فوران",
+        "گدازا"
+      ]
+    },
+    {
+      "EnglishWord": "flux box",
+      "Meanings": [
+        "جعبة گدازه"
+      ]
+    },
+    {
+      "EnglishWord": "flux cored",
+      "Meanings": [
+        "روانساز مغری"
+      ]
+    },
+    {
+      "EnglishWord": "flux cutting",
+      "Meanings": [
+        "برشکاری با فلاکس"
+      ]
+    },
+    {
+      "EnglishWord": "flux injection",
+      "Meanings": [
+        "تزریق گدازآور"
+      ]
+    },
+    {
+      "EnglishWord": "flux-shielded arc welding",
+      "Meanings": [
+        "جوشکاری قوسی محافظت شده با سرباره",
+        "فرایند جوشکاری قوس الکتریکی با محافظت سرباره"
+      ]
+    },
+    {
+      "EnglishWord": "fly cutter",
+      "Meanings": [
+        "فرز مدول",
+        "فرز مدولی",
+        "فرز تک دندانه",
+        "تیغ چرخان",
+        "تیغ دوار"
+      ]
+    },
+    {
+      "EnglishWord": "fly milling cutter",
+      "Meanings": [
+        "تیغچة فرز تک دندانه"
+      ]
+    },
+    {
+      "EnglishWord": "flying shear",
+      "Meanings": [
+        "قیچی پروانه ای",
+        "قیچی نورد"
+      ]
+    },
+    {
+      "EnglishWord": "flyway- kit",
+      "Meanings": [
+        "کوله پشتی"
+      ]
+    },
+    {
+      "EnglishWord": "flywheel",
+      "Meanings": [
+        "چرخ لنگر",
+        "چرخ طیار",
+        "فلایویل",
+        "گردانه"
+      ]
+    },
+    {
+      "EnglishWord": "foam",
+      "Meanings": [
+        "کف",
+        "اسفنج",
+        "ابر",
+        "کف آتش نشانی"
+      ]
+    },
+    {
+      "EnglishWord": "foamed plastic",
+      "Meanings": [
+        "پلاستیک اسفتجی",
+        "پلاستیک متخلخل",
+        "کف پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "کانون",
+        "متمرکز کردن",
+        "میزان کردن",
+        "نقطه احتراق",
+        "نقطه سوزان"
+      ]
+    },
+    {
+      "EnglishWord": "follow board",
+      "Meanings": [
+        "صفحة زیر قالب",
+        "صفحة پس قالب",
+        "تختة قالبگیری"
+      ]
+    },
+    {
+      "EnglishWord": "follow rest",
+      "Meanings": [
+        "تکیه گاه متحرک",
+        "کمربند متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "follower",
+      "Meanings": [
+        "پیرو",
+        "دنبالگر",
+        "چرخ دندة متحرک",
+        "استکانی سوپاپ",
+        "زیر سوپاپی"
+      ]
+    },
+    {
+      "EnglishWord": "forecast",
+      "Meanings": [
+        "پیش بینی",
+        "پیش بینی کردن",
+        "آینده نگری"
+      ]
+    },
+    {
+      "EnglishWord": "forehand welding",
+      "Meanings": [
+        "جوشکاری پیش دستی"
+      ]
+    },
+    {
+      "EnglishWord": "forge welding",
+      "Meanings": [
+        "جوش آهنگری",
+        "جوشکاری آهنگری",
+        "جوشکاری آتشی",
+        "جوش آتش"
+      ]
+    },
+    {
+      "EnglishWord": "forged steel",
+      "Meanings": [
+        "فولاد کاردید",
+        "فولاد آهنگری شده",
+        "فولاد فورج شده",
+        "فولاد آبدیده",
+        "فولاد چکش خورده"
+      ]
+    },
+    {
+      "EnglishWord": "forging",
+      "Meanings": [
+        "آهنگری",
+        "پتک کاری",
+        "فرجینگ",
+        "آتشکاری",
+        "تغییر شکل دادن",
+        "کوره کاری"
+      ]
+    },
+    {
+      "EnglishWord": "fork",
+      "Meanings": [
+        "چنگال",
+        "چنگک",
+        "چنگالک",
+        "محل انشعاب",
+        "تیر دو شاخه",
+        "قلاب"
+      ]
+    },
+    {
+      "EnglishWord": "fork life truck",
+      "Meanings": [
+        "لیفت تراک چنگکی",
+        "ماشین حمال",
+        "بالابرچنگالی",
+        "جرثقیل چنگکدار",
+        "لیفت تراک"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "شکل",
+        "فرم",
+        "قالب",
+        "نمونه",
+        "شکل دادن",
+        "مدل"
+      ]
+    },
+    {
+      "EnglishWord": "form gage",
+      "Meanings": [
+        "سنجة فرم",
+        "فرم سنج"
+      ]
+    },
+    {
+      "EnglishWord": "form grinding",
+      "Meanings": [
+        "سنگزنی فرم",
+        "سنگ فرم زنی"
+      ]
+    },
+    {
+      "EnglishWord": "form rolling",
+      "Meanings": [
+        "نورد فرم"
+      ]
+    },
+    {
+      "EnglishWord": "form tool",
+      "Meanings": [
+        "رندة فرم"
+      ]
+    },
+    {
+      "EnglishWord": "form turning",
+      "Meanings": [
+        "فرمتراشی"
+      ]
+    },
+    {
+      "EnglishWord": "formal group",
+      "Meanings": [
+        "گروه رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "formal organization",
+      "Meanings": [
+        "سازمان رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "format",
+      "Meanings": [
+        "فرم",
+        "فرمبندی",
+        "قالب",
+        "فرمت",
+        "شکل",
+        "قالب بندی"
+      ]
+    },
+    {
+      "EnglishWord": "formation of inspection lot",
+      "Meanings": [
+        "تشکیل انباشته بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "forming die",
+      "Meanings": [
+        "قالب فرمدهی",
+        "ماتریس قالبزنی"
+      ]
+    },
+    {
+      "EnglishWord": "forming- roll- type tool",
+      "Meanings": [
+        "ابزار نوع غلتکی شکل دهنده",
+        "قلم غلتکی فرم دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "formulation",
+      "Meanings": [
+        "فرموله کردن",
+        "صورتبندی"
+      ]
+    },
+    {
+      "EnglishWord": "formulation stage",
+      "Meanings": [
+        "مرحلة طرحریزی"
+      ]
+    },
+    {
+      "EnglishWord": "fortune",
+      "Meanings": [
+        "دارایی",
+        "مال",
+        "سهم"
+      ]
+    },
+    {
+      "EnglishWord": "forward",
+      "Meanings": [
+        "پیشرو",
+        "ارسال کردن",
+        "به طرف جلو",
+        "به طرف پیش",
+        "جلو",
+        "مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "forward computations",
+      "Meanings": [
+        "محاسبات پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "forward cycle",
+      "Meanings": [
+        "دور پیشرونده"
+      ]
+    },
+    {
+      "EnglishWord": "forward pass",
+      "Meanings": [
+        "حرکت رفت",
+        "مرور به پیش",
+        "کوروس رفت"
+      ]
+    },
+    {
+      "EnglishWord": "forward planning",
+      "Meanings": [
+        "طرحریزی به جلو"
+      ]
+    },
+    {
+      "EnglishWord": "forwarding",
+      "Meanings": [
+        "ارسال",
+        "انتقال مانده به صفحة بعد",
+        "حمل و نقل"
+      ]
+    },
+    {
+      "EnglishWord": "foundation",
+      "Meanings": [
+        "اساس",
+        "پایه",
+        "پی",
+        "پای بست",
+        "بنیاد",
+        "پی ریزی",
+        "زیربنا",
+        "شالوده"
+      ]
+    },
+    {
+      "EnglishWord": "foundry",
+      "Meanings": [
+        "کارگاه ریخته گری",
+        "واحد ریخته گری",
+        "کارخانه ذوب فلز",
+        "کارگاه چدنریزی"
+      ]
+    },
+    {
+      "EnglishWord": "four- jaw chuck",
+      "Meanings": [
+        "چهار نظام",
+        "گیرة نظام چهار فکی"
+      ]
+    },
+    {
+      "EnglishWord": "four- jaw independent chuck",
+      "Meanings": [
+        "چهار نظام مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "four- post press",
+      "Meanings": [
+        "پرس چهار ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "four- way valve",
+      "Meanings": [
+        "شیر چهار طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "fraction defectives",
+      "Meanings": [
+        "نسبت ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "fractional cut",
+      "Meanings": [
+        "برش کسری",
+        "بار ظریف"
+      ]
+    },
+    {
+      "EnglishWord": "fractional distillation",
+      "Meanings": [
+        "تقطیر جزء به جزء"
+      ]
+    },
+    {
+      "EnglishWord": "fracture",
+      "Meanings": [
+        "گسست",
+        "شکست",
+        "شکستگی",
+        "برش",
+        "ترک",
+        "گسیختگی"
+      ]
+    },
+    {
+      "EnglishWord": "fracture stress",
+      "Meanings": [
+        "تنش شکست",
+        "بارپارگی"
+      ]
+    },
+    {
+      "EnglishWord": "fragment",
+      "Meanings": [
+        "پاره",
+        "تکه",
+        "خرده ریزه",
+        "قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب",
+        "چارچوب",
+        "اسکلت بندی",
+        "بدنه",
+        "تنه",
+        "شاسی",
+        "قفسه"
+      ]
+    },
+    {
+      "EnglishWord": "franchise",
+      "Meanings": [
+        "فرانشیز",
+        "امتیاز",
+        "امتیاز انحصاری",
+        "امتیاز فروش"
+      ]
+    },
+    {
+      "EnglishWord": "free alongside ship  f.a.s",
+      "Meanings": [
+        "قیمت تحویل تا پهلوی کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "free distribution",
+      "Meanings": [
+        "توزیع آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free fit",
+      "Meanings": [
+        "انطباق آزاد",
+        "انطباق لق",
+        "جا رفتن خوب"
+      ]
+    },
+    {
+      "EnglishWord": "free float",
+      "Meanings": [
+        "فرجة آزاد",
+        "تاخیر آزاد",
+        "شناوری آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free- machining steel",
+      "Meanings": [
+        "فولاد خوشتراش"
+      ]
+    },
+    {
+      "EnglishWord": "free on board  f.o.b",
+      "Meanings": [
+        "تحویل در محل بارگیری",
+        "فوب",
+        "ارزش کالا در بندر مبدا",
+        "هزینه حمل کالا تا نقطة معین",
+        "قیمت اصلی کالا در بندر محل فروش",
+        "قیمت تحویل",
+        "روی کشتی",
+        "تحویل در مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "free on railroad  f.o.r",
+      "Meanings": [
+        "تحویل روی واگن",
+        "تحویل به راه آهن"
+      ]
+    },
+    {
+      "EnglishWord": "free on truck  f.o.t",
+      "Meanings": [
+        "تحویل کالا روی کامیون"
+      ]
+    },
+    {
+      "EnglishWord": "free variable",
+      "Meanings": [
+        "متغیر آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free vector",
+      "Meanings": [
+        "بردار آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freedom",
+      "Meanings": [
+        "آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "freight",
+      "Meanings": [
+        "حمل کرایه",
+        "هزینة حمل",
+        "بارکشی",
+        "کرایة کشتی"
+      ]
+    },
+    {
+      "EnglishWord": "freight in",
+      "Meanings": [
+        "هزینة حمل کالای خریداری شده",
+        "حمل به داخل"
+      ]
+    },
+    {
+      "EnglishWord": "freight out",
+      "Meanings": [
+        "هزینة تحویل کالا"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "فراوانی",
+        "بسامد",
+        "فرکانی",
+        "تواتر",
+        "تکرار",
+        "نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "frequency curve",
+      "Meanings": [
+        "منحنی فراوانی",
+        "منحنی بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency density",
+      "Meanings": [
+        "چگالی فراوان"
+      ]
+    },
+    {
+      "EnglishWord": "frequency diagram",
+      "Meanings": [
+        "نمودار بسامد",
+        "نمودار فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency distribution",
+      "Meanings": [
+        "توزیع فراوانی",
+        "پخش فراوانی",
+        "پخش بسامد",
+        "توزیع بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency function",
+      "Meanings": [
+        "تابع فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency polygon",
+      "Meanings": [
+        "چند ضلعی بسامد",
+        "چند ضلعی فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency rate",
+      "Meanings": [
+        "ضریب حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "friction",
+      "Meanings": [
+        "مالش",
+        "اصطکاک",
+        "سایش اصطکاک",
+        "اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "friction welding",
+      "Meanings": [
+        "جوشکاری اصطکاکی",
+        "جوشکاری مالشی",
+        "جوش مالشی"
+      ]
+    },
+    {
+      "EnglishWord": "fritting",
+      "Meanings": [
+        "در همجوشی فلز",
+        "حالت خمیری",
+        "کلوخه کردن",
+        "گداختن"
+      ]
+    },
+    {
+      "EnglishWord": "from-to-chart",
+      "Meanings": [
+        "جدول از",
+        "به"
+      ]
+    },
+    {
+      "EnglishWord": "fulfil",
+      "Meanings": [
+        "انجام دادن",
+        "اجرا کردن",
+        "برآوردن"
+      ]
+    },
+    {
+      "EnglishWord": "full annealing",
+      "Meanings": [
+        "تاباندن کامل",
+        "آنیل کردن کامل",
+        "تابکاری کامل",
+        "آنیل کامل",
+        "بازپخت کامل اشتغال کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full employment",
+      "Meanings": [
+        "اشتغال کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full mold process",
+      "Meanings": [
+        "ریخته گری با قالب کاذب",
+        "قالبگیری یکپارچه"
+      ]
+    },
+    {
+      "EnglishWord": "full- rank-matrix",
+      "Meanings": [
+        "ماتریس رتبه کامل"
+      ]
+    },
+    {
+      "EnglishWord": "fuller",
+      "Meanings": [
+        "نورد باریکساز",
+        "نورد ستبراشکن",
+        "نورد کاهنده",
+        "چربی زدا",
+        "لکه گیر",
+        "قراردم"
+      ]
+    },
+    {
+      "EnglishWord": "fullering",
+      "Meanings": [
+        "باریکسازی",
+        "شکل دادن با قراردم"
+      ]
+    },
+    {
+      "EnglishWord": "fully automatic",
+      "Meanings": [
+        "تمام خودکار",
+        "تمام اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "fume offtakes",
+      "Meanings": [
+        "کلاهک دودگیر"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "تابع",
+        "کارکرد",
+        "نقش",
+        "وظیفه",
+        "کار",
+        "کارکردن",
+        "عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "function generator",
+      "Meanings": [
+        "مولد تابع",
+        "تابع زا"
+      ]
+    },
+    {
+      "EnglishWord": "function key",
+      "Meanings": [
+        "کلید عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "function of decision",
+      "Meanings": [
+        "معادلة تصمیم",
+        "نقش تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "functional",
+      "Meanings": [
+        "عملکردی",
+        "وظیفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "functional chart",
+      "Meanings": [
+        "نمودار وظایف"
+      ]
+    },
+    {
+      "EnglishWord": "functional constraint",
+      "Meanings": [
+        "محدودیت کارکردی"
+      ]
+    },
+    {
+      "EnglishWord": "functional inspection",
+      "Meanings": [
+        "بازرسی عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "functional organization",
+      "Meanings": [
+        "سازمان تخصصی"
+      ]
+    },
+    {
+      "EnglishWord": "functional statement",
+      "Meanings": [
+        "شرح وظایف"
+      ]
+    },
+    {
+      "EnglishWord": "functional supervision",
+      "Meanings": [
+        "سرپرستی تخصصی",
+        "نظارت فنی"
+      ]
+    },
+    {
+      "EnglishWord": "functional type of organization",
+      "Meanings": [
+        "سازمان بر مبنای نوع عملیات یا وظایف اصلی و تخصصی"
+      ]
+    },
+    {
+      "EnglishWord": "functionalization",
+      "Meanings": [
+        "تقسیم کار بر حسب نوع عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "functioning",
+      "Meanings": [
+        "عملکردی",
+        "وظیفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "fund",
+      "Meanings": [
+        "صندوق",
+        "وجه",
+        "حساب",
+        "وجوه",
+        "به حساب ریختن",
+        "تامین کردن",
+        "ذخیره",
+        "نقدینه",
+        "وجوه احتیاطی",
+        "وجه نقد"
+      ]
+    },
+    {
+      "EnglishWord": "fundamental",
+      "Meanings": [
+        "اساسی",
+        "شالوده ای",
+        "بنیدی",
+        "اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "funnel",
+      "Meanings": [
+        "قیف",
+        "مخروط",
+        "هرم"
+      ]
+    },
+    {
+      "EnglishWord": "furnace",
+      "Meanings": [
+        "کوره",
+        "کورة ذوب",
+        "اجاق",
+        "تنور"
+      ]
+    },
+    {
+      "EnglishWord": "furnace brazing",
+      "Meanings": [
+        "برنجاری کوره ای",
+        "لحیمکاری در کوره"
+      ]
+    },
+    {
+      "EnglishWord": "fusion",
+      "Meanings": [
+        "ذوب",
+        "ترکیب",
+        "تلفیق",
+        "گداختگی",
+        "درهم",
+        "جوش کردن",
+        "گداختن",
+        "ادغام",
+        "درهم آمیزی",
+        "همجوشی"
+      ]
+    },
+    {
+      "EnglishWord": "fusion - line creaking",
+      "Meanings": [
+        "ترکیدگی در خط ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "fusion line",
+      "Meanings": [
+        "خط ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "fusion welding",
+      "Meanings": [
+        "جوش ذوبی",
+        "جوشکاری گدازی",
+        "جوش در حالت مذاب",
+        "جوشکاری ذوبی"
+      ]
+    }
+  ]
+}

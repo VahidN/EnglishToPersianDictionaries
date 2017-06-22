@@ -1,0 +1,926 @@
+﻿{
+  "Group": "H",
+  "Entries": 153,
+  "Words": [
+    {
+      "EnglishWord": "hade",
+      "Meanings": [
+        "کج شدن"
+      ]
+    },
+    {
+      "EnglishWord": "half - edge layer",
+      "Meanings": [
+        "لایه نیم عمود"
+      ]
+    },
+    {
+      "EnglishWord": "half turn socket",
+      "Meanings": [
+        "کاسه مانده گیر نیم دور"
+      ]
+    },
+    {
+      "EnglishWord": "hammer",
+      "Meanings": [
+        "چکش"
+      ]
+    },
+    {
+      "EnglishWord": "hand drilled well",
+      "Meanings": [
+        "چاه دستی"
+      ]
+    },
+    {
+      "EnglishWord": "hand drive",
+      "Meanings": [
+        "دست ران"
+      ]
+    },
+    {
+      "EnglishWord": "hand pump",
+      "Meanings": [
+        "تلمبه دستی"
+      ]
+    },
+    {
+      "EnglishWord": "handtight",
+      "Meanings": [
+        "محکم شده با دست"
+      ]
+    },
+    {
+      "EnglishWord": "hang a well off",
+      "Meanings": [
+        "متوقف کردن تلمبه چاه"
+      ]
+    },
+    {
+      "EnglishWord": "hanger flange",
+      "Meanings": [
+        "فلنج تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "hanging rod",
+      "Meanings": [
+        "میل آویز"
+      ]
+    },
+    {
+      "EnglishWord": "hanging wall",
+      "Meanings": [
+        "کمر بالا"
+      ]
+    },
+    {
+      "EnglishWord": "hard facing",
+      "Meanings": [
+        "روکش کردن با فلز سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard formation",
+      "Meanings": [
+        "سازنده سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard formation bit",
+      "Meanings": [
+        "مته حفاری سازند سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard formation roller",
+      "Meanings": [
+        "مته غلتکی سازند سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard radiation",
+      "Meanings": [
+        "تابش سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hard rock",
+      "Meanings": [
+        "سنگ سخت"
+      ]
+    },
+    {
+      "EnglishWord": "hardened cement",
+      "Meanings": [
+        "سیمان سخت شده"
+      ]
+    },
+    {
+      "EnglishWord": "hay tank",
+      "Meanings": [
+        "مخزن صافی"
+      ]
+    },
+    {
+      "EnglishWord": "hazardous rock",
+      "Meanings": [
+        "سنگ ریزشی"
+      ]
+    },
+    {
+      "EnglishWord": "head of warer",
+      "Meanings": [
+        "فشار آب"
+      ]
+    },
+    {
+      "EnglishWord": "header",
+      "Meanings": [
+        "چند راهه"
+      ]
+    },
+    {
+      "EnglishWord": "heat conductivity",
+      "Meanings": [
+        "رسانایی گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "heating coil",
+      "Meanings": [
+        "مارپیچ گرمایش"
+      ]
+    },
+    {
+      "EnglishWord": "heave compensation",
+      "Meanings": [
+        "جبران تموج"
+      ]
+    },
+    {
+      "EnglishWord": "heaving shale",
+      "Meanings": [
+        "پلمبه سنگ تورم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "heavy crude",
+      "Meanings": [
+        "نفت خام سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "heavy gradient",
+      "Meanings": [
+        "شیب تند"
+      ]
+    },
+    {
+      "EnglishWord": "heavy hydrocarbon",
+      "Meanings": [
+        "هیدروکربور سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "heavy mud",
+      "Meanings": [
+        "گل سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "heavy stratification",
+      "Meanings": [
+        "چینه بندی متراکم"
+      ]
+    },
+    {
+      "EnglishWord": "heel of slope",
+      "Meanings": [
+        "شیب فوقانی"
+      ]
+    },
+    {
+      "EnglishWord": "heels",
+      "Meanings": [
+        "پس مانده"
+      ]
+    },
+    {
+      "EnglishWord": "helicopter refuelling system",
+      "Meanings": [
+        "سیستم سوخت گیری هلیکوپتر"
+      ]
+    },
+    {
+      "EnglishWord": "helideck",
+      "Meanings": [
+        "عرشه فرود هلیکوپتر"
+      ]
+    },
+    {
+      "EnglishWord": "hercynian folding",
+      "Meanings": [
+        "چین خوردگی هر سینین"
+      ]
+    },
+    {
+      "EnglishWord": "heterogeneous rock",
+      "Meanings": [
+        "سنگ ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "hexagonal kelly",
+      "Meanings": [
+        "میل شش پر"
+      ]
+    },
+    {
+      "EnglishWord": "hexagonal pattern",
+      "Meanings": [
+        "شبکه شش گوش"
+      ]
+    },
+    {
+      "EnglishWord": "high angle hole",
+      "Meanings": [
+        "چاه خیلی مایل"
+      ]
+    },
+    {
+      "EnglishWord": "high line",
+      "Meanings": [
+        "خط لوله فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "high ph mud",
+      "Meanings": [
+        "گل قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure cement pump",
+      "Meanings": [
+        "تلمبه سیمان کاری فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure fluid",
+      "Meanings": [
+        "سیال فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure gas drive",
+      "Meanings": [
+        "نفت رانی با گاز پر فشار"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure mud pump",
+      "Meanings": [
+        "تلمبه گل فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure valve",
+      "Meanings": [
+        "دریچه فشار قوی"
+      ]
+    },
+    {
+      "EnglishWord": "high pressure well",
+      "Meanings": [
+        "چاه پر فشار"
+      ]
+    },
+    {
+      "EnglishWord": "high resistivity bed",
+      "Meanings": [
+        "لایه پر مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "high solid content mud",
+      "Meanings": [
+        "گل غلیظ"
+      ]
+    },
+    {
+      "EnglishWord": "hinged casing slips",
+      "Meanings": [
+        "جداره گیر لولایی"
+      ]
+    },
+    {
+      "EnglishWord": "hinged joint",
+      "Meanings": [
+        "اتصال لولایی"
+      ]
+    },
+    {
+      "EnglishWord": "hinged valve",
+      "Meanings": [
+        "شیر لولایی"
+      ]
+    },
+    {
+      "EnglishWord": "hogback",
+      "Meanings": [
+        "پشته"
+      ]
+    },
+    {
+      "EnglishWord": "hoist cable",
+      "Meanings": [
+        "کابل بالا بر"
+      ]
+    },
+    {
+      "EnglishWord": "hoist drawworks",
+      "Meanings": [
+        "چرخ منجیق بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hoist v out the drilling tools",
+      "Meanings": [
+        "بالاکشیدن ابزار حفای"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting block",
+      "Meanings": [
+        "جعبه قرقره متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting crane",
+      "Meanings": [
+        "جرثقیل بالا بر"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting engine",
+      "Meanings": [
+        "موتور بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting hook",
+      "Meanings": [
+        "قلاب بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting mast",
+      "Meanings": [
+        "دل اهرمی بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting plug",
+      "Meanings": [
+        "سرک بالاکشی"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting shaft",
+      "Meanings": [
+        "میل بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hoisting string-up",
+      "Meanings": [
+        "کابل بندی بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "hold",
+      "Meanings": [
+        "چاه"
+      ]
+    },
+    {
+      "EnglishWord": "hold - down",
+      "Meanings": [
+        "ضامن مهار"
+      ]
+    },
+    {
+      "EnglishWord": "hold - down bar",
+      "Meanings": [
+        "میله تثبیت"
+      ]
+    },
+    {
+      "EnglishWord": "hold - hack rope",
+      "Meanings": [
+        "کابل حمایت"
+      ]
+    },
+    {
+      "EnglishWord": "hold caliper",
+      "Meanings": [
+        "قطرسنج چاه"
+      ]
+    },
+    {
+      "EnglishWord": "hole full of water",
+      "Meanings": [
+        "چاه پر از نفت",
+        "چاه پر ار آب"
+      ]
+    },
+    {
+      "EnglishWord": "hole straightening",
+      "Meanings": [
+        "قایم کردن چاه"
+      ]
+    },
+    {
+      "EnglishWord": "hole temperature",
+      "Meanings": [
+        "دمای چاه"
+      ]
+    },
+    {
+      "EnglishWord": "holiday",
+      "Meanings": [
+        "ترک در پوشش لوله"
+      ]
+    },
+    {
+      "EnglishWord": "holing",
+      "Meanings": [
+        "حفاری"
+      ]
+    },
+    {
+      "EnglishWord": "hollow casing spear",
+      "Meanings": [
+        "نیزه جداره گیر تو خالی"
+      ]
+    },
+    {
+      "EnglishWord": "hollow reamer",
+      "Meanings": [
+        "بر قوی تو خالی"
+      ]
+    },
+    {
+      "EnglishWord": "hollow rod",
+      "Meanings": [
+        "میله تو خالی"
+      ]
+    },
+    {
+      "EnglishWord": "holocene",
+      "Meanings": [
+        "هولوسن"
+      ]
+    },
+    {
+      "EnglishWord": "homoclinal",
+      "Meanings": [
+        "همشیب"
+      ]
+    },
+    {
+      "EnglishWord": "homogeneous rock",
+      "Meanings": [
+        "سنک همگن"
+      ]
+    },
+    {
+      "EnglishWord": "hook",
+      "Meanings": [
+        "قلاب"
+      ]
+    },
+    {
+      "EnglishWord": "hook block",
+      "Meanings": [
+        "جعبه قرقره قلاب دار"
+      ]
+    },
+    {
+      "EnglishWord": "hook load",
+      "Meanings": [
+        "وزن روی قلاب"
+      ]
+    },
+    {
+      "EnglishWord": "hook- off",
+      "Meanings": [
+        "از قلاب برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "hook opening",
+      "Meanings": [
+        "سوراخ قلاب"
+      ]
+    },
+    {
+      "EnglishWord": "hook up nipple",
+      "Meanings": [
+        "بوشن اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "hook- wall packer",
+      "Meanings": [
+        "توپک چاه لخت"
+      ]
+    },
+    {
+      "EnglishWord": "hook- wall testing",
+      "Meanings": [
+        "آزمایش تولید در چاه جداره دار"
+      ]
+    },
+    {
+      "EnglishWord": "hopper",
+      "Meanings": [
+        "آخورک"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal",
+      "Meanings": [
+        "خرک لوله افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal displacement",
+      "Meanings": [
+        "تغییر مکان افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal permeability",
+      "Meanings": [
+        "تراوایی افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal pipe rack",
+      "Meanings": [
+        "خرک لوله افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal structure",
+      "Meanings": [
+        "ساخت افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal swing",
+      "Meanings": [
+        "دامنه انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal throw",
+      "Meanings": [
+        "فکند عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "horse collar",
+      "Meanings": [
+        "طوق ایمنی ساق سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "horse head",
+      "Meanings": [
+        "کله اسبی"
+      ]
+    },
+    {
+      "EnglishWord": "horst",
+      "Meanings": [
+        "فرازمین"
+      ]
+    },
+    {
+      "EnglishWord": "hose adapter",
+      "Meanings": [
+        "تبدیل شیلنگ"
+      ]
+    },
+    {
+      "EnglishWord": "hose clamp",
+      "Meanings": [
+        "بست شیلنگ"
+      ]
+    },
+    {
+      "EnglishWord": "hose union",
+      "Meanings": [
+        "اتصال شیلنگ"
+      ]
+    },
+    {
+      "EnglishWord": "hot oil",
+      "Meanings": [
+        "نفت قاچاق"
+      ]
+    },
+    {
+      "EnglishWord": "hughes disk bit",
+      "Meanings": [
+        "مته مخروطی هیوز"
+      ]
+    },
+    {
+      "EnglishWord": "humidity ratio",
+      "Meanings": [
+        "نسبت رطوبت"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid platform",
+      "Meanings": [
+        "سکوی مختلط"
+      ]
+    },
+    {
+      "EnglishWord": "hydrate",
+      "Meanings": [
+        "آبدار"
+      ]
+    },
+    {
+      "EnglishWord": "hydrate deposit",
+      "Meanings": [
+        "نهشت آب دار"
+      ]
+    },
+    {
+      "EnglishWord": "hydration",
+      "Meanings": [
+        "آب پوشی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic",
+      "Meanings": [
+        "حفاری کردن با جت مایع"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic accumulator",
+      "Meanings": [
+        "انباره هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic cement",
+      "Meanings": [
+        "سیمان آبی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic circuit by-pass",
+      "Meanings": [
+        "کنار گذر مدار هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic circulation system",
+      "Meanings": [
+        "سیستم گردش هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic connector",
+      "Meanings": [
+        "رابط هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic drive",
+      "Meanings": [
+        "رانش هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic elevator",
+      "Meanings": [
+        "بالابر هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic feed",
+      "Meanings": [
+        "تغذیه هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic feed control",
+      "Meanings": [
+        "فرمان هدایت هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic fissuring",
+      "Meanings": [
+        "آب شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic fracturing",
+      "Meanings": [
+        "آب شکنی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic fracturing method",
+      "Meanings": [
+        "روش آب شکنی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic hammer",
+      "Meanings": [
+        "چکش هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic hold - down anchor",
+      "Meanings": [
+        "لنگر هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic jack",
+      "Meanings": [
+        "جک هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic jar",
+      "Meanings": [
+        "دنگ هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic jet penetration",
+      "Meanings": [
+        "حفاری کردن با جت مایع"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic mortar",
+      "Meanings": [
+        "ملاط آبی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic percussion drilling",
+      "Meanings": [
+        "حفاری ضربه یی هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic pulling tool",
+      "Meanings": [
+        "کشنده روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic ram",
+      "Meanings": [
+        "تلمبه هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydraulic slope",
+      "Meanings": [
+        "شیب هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrocarbon",
+      "Meanings": [
+        "هیدروکربور"
+      ]
+    },
+    {
+      "EnglishWord": "hydrocarbon recovery",
+      "Meanings": [
+        "بازیابی هیدروکربورها"
+      ]
+    },
+    {
+      "EnglishWord": "hydrocarbon sub-marine field",
+      "Meanings": [
+        "میدان زیردریایی هیدروکربور"
+      ]
+    },
+    {
+      "EnglishWord": "hydrocyclone",
+      "Meanings": [
+        "ماسه گیر آبی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrodrill",
+      "Meanings": [
+        "مته هیدرولیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrodynamic conductibility",
+      "Meanings": [
+        "قابلیت هدایت هیدرودینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrodynamic oil trap",
+      "Meanings": [
+        "نفت گیر هیدرودنیامیکی",
+        "نفت گیر هیدرودینامیکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydroelectrodrill",
+      "Meanings": [
+        "مته هیدروالکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophilic",
+      "Meanings": [
+        "آب دوست"
+      ]
+    },
+    {
+      "EnglishWord": "hydrophone",
+      "Meanings": [
+        "هیدروفون"
+      ]
+    },
+    {
+      "EnglishWord": "hydrostatic pressure",
+      "Meanings": [
+        "فشار ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrostatic pressure distribution",
+      "Meanings": [
+        "توزیع فشار ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "hydrostatically",
+      "Meanings": [
+        "سازه مستقر بر ماسه به نیروی ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "hygrometer",
+      "Meanings": [
+        "رطوبت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "hyperbolic position - fixing system",
+      "Meanings": [
+        "روش هذلولی تعیین موقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "hypothermal vein",
+      "Meanings": [
+        "رگه هیپوترمال"
+      ]
+    },
+    {
+      "EnglishWord": "hypsogram",
+      "Meanings": [
+        "فرازنگاره"
+      ]
+    },
+    {
+      "EnglishWord": "hypsometer",
+      "Meanings": [
+        "فرازسنج"
+      ]
+    },
+    {
+      "EnglishWord": "hysteresis",
+      "Meanings": [
+        "پس ماند"
+      ]
+    }
+  ]
+}

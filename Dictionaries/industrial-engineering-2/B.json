@@ -1,0 +1,617 @@
+﻿{
+  "Group": "B",
+  "Entries": 86,
+  "Words": [
+    {
+      "EnglishWord": "back order",
+      "Meanings": [
+        "سفارش تاخیر شده"
+      ]
+    },
+    {
+      "EnglishWord": "back pressure",
+      "Meanings": [
+        "فشار معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "background",
+      "Meanings": [
+        "زمینه",
+        "پیش زمینه",
+        "سابقه"
+      ]
+    },
+    {
+      "EnglishWord": "background noise",
+      "Meanings": [
+        "اختلال"
+      ]
+    },
+    {
+      "EnglishWord": "backlog",
+      "Meanings": [
+        "انباشت",
+        "پس افت"
+      ]
+    },
+    {
+      "EnglishWord": "backward",
+      "Meanings": [
+        "پس روانه",
+        "پس رو",
+        "برگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "backward pass",
+      "Meanings": [
+        "گذر معکوس",
+        "محاسبه تاریخ‌های دیرکرد در خاتمه یا شروع",
+        "برای بخش‌های ناکامل تمام فعالیت‌های شبکه ای. این تاریخ‌ها با گذر معکوس از درون منطق شبکه ای",
+        "از تاریخ انتهای یک پروژه تعیین می‌شوند. تاریخ انتها ممکن است با گذر مستقیم محاسبه شده یا توسط مشتری یا بانی پروژه تعیین گردد"
+      ]
+    },
+    {
+      "EnglishWord": "balance sheet",
+      "Meanings": [
+        "ترازنامه",
+        "یک صورت وضعیت مالی که دارایی ها",
+        "تعهدات مالی و ارزش خالص در یک تاریخ معین را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "میله",
+        "میل",
+        "شمش"
+      ]
+    },
+    {
+      "EnglishWord": "bar chart",
+      "Meanings": [
+        "نمودار میله ای",
+        "کنترل پروژه: نمایشی گرافیکی از نحوه زمانبندی فعالیت‌ها در یک پروژه که در آن فعالیت‌ها در ستون و زمان در محور افقی نمایش داده می‌شود و در مورد هر فعالیت یک میله فعالیت از تاریخ شروع تا اتمام کشیده می‌شود. گانت چارت"
+      ]
+    },
+    {
+      "EnglishWord": "bar coding",
+      "Meanings": [
+        "بارکد گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "bargaining",
+      "Meanings": [
+        "چانه زدن",
+        "داد و ستد",
+        "معامله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "barrier",
+      "Meanings": [
+        "مانع",
+        "سد",
+        "حصار",
+        "مشکل"
+      ]
+    },
+    {
+      "EnglishWord": "barrier-free",
+      "Meanings": [
+        "بدون مرز"
+      ]
+    },
+    {
+      "EnglishWord": "barrier-free organization",
+      "Meanings": [
+        "سازمان بدون مرز"
+      ]
+    },
+    {
+      "EnglishWord": "base line",
+      "Meanings": [
+        "خط مبنا",
+        "در پروژه نشان دهنده نحوه انجام پروژه طبق برنامه ریزی انجام شده می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "basic",
+      "Meanings": [
+        "پایه ای",
+        "ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "batch and queue",
+      "Meanings": [
+        "دسته و صف",
+        "عملکرد تولید انبوه مبتنی بر ساخت دسته بزرگی از یک قطعه و سپس ارسال آن قطعه برای انتظار کشیدن در صفی که قبل از انجام عملیات بعدی در فرآیند تولید تشکیل شده است. در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "batch processing",
+      "Meanings": [
+        "پردازش دسته ای"
+      ]
+    },
+    {
+      "EnglishWord": "batch production",
+      "Meanings": [
+        "تولید گروهی",
+        "تولید دسته ای",
+        "فرایند تولیدی ناپیوسته ای که در آن قطعات به تعداد زیاد در دسته هایی تولید شده و تحویل بخش مونتاژ می‌شوند تا از سوار کردن اجزای مختلف",
+        "محصولات بزرگتری بوجود آید"
+      ]
+    },
+    {
+      "EnglishWord": "behind schedule",
+      "Meanings": [
+        "عقب‌تر از برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "bell-shaped curve",
+      "Meanings": [
+        "منحنی زنگی شکل",
+        "منحنی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "belt conveyor",
+      "Meanings": [
+        "نقاله تسمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bench assembly",
+      "Meanings": [
+        "مونتاژ رومیزی"
+      ]
+    },
+    {
+      "EnglishWord": "benchmarking",
+      "Meanings": [
+        "ارزیابی مقایسه ای",
+        "الگو گیری",
+        "عبارتست از فرآیند شناسایی و درک فعالیت‌های برجسته در بخش هایی از سازمان خود و یا دیگر سازمانها و انطباق و اعمال آنها در بخش‌های دیگر سازمان"
+      ]
+    },
+    {
+      "EnglishWord": "benchmarking partner",
+      "Meanings": [
+        "کسی که از او الگوگیری می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "benefit",
+      "Meanings": [
+        "سود",
+        "عایدی",
+        "استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli trials",
+      "Meanings": [
+        "آزمایشات برنولی",
+        "آرمایش ساده ای که نتیجه آن یا شکست است یا پیروزی"
+      ]
+    },
+    {
+      "EnglishWord": "bevel",
+      "Meanings": [
+        "پخ سنج"
+      ]
+    },
+    {
+      "EnglishWord": "bias",
+      "Meanings": [
+        "تمایل",
+        "اریب",
+        "تمایل عبارتست از تفاوت بین اندازه واقعی اندازه مرجع و میانگین اندازه‌های به دست آمده از یک مشخصه از یک قطعه خاص است"
+      ]
+    },
+    {
+      "EnglishWord": "bigbang for the buck",
+      "Meanings": [
+        "افزایش ناگهانی سود و زیان"
+      ]
+    },
+    {
+      "EnglishWord": "bill of material  bom",
+      "Meanings": [
+        "لیست مواد",
+        "سیاهه مواد"
+      ]
+    },
+    {
+      "EnglishWord": "bill of material processing  bomp",
+      "Meanings": [
+        "پردازش لیست مواد"
+      ]
+    },
+    {
+      "EnglishWord": "bin",
+      "Meanings": [
+        "صندوقچه",
+        "سطل"
+      ]
+    },
+    {
+      "EnglishWord": "bin shelving",
+      "Meanings": [
+        "قفسه بندی ظرف"
+      ]
+    },
+    {
+      "EnglishWord": "binary sensor",
+      "Meanings": [
+        "سنسور باینری",
+        "سنسور تماس",
+        "سنسور لامسه"
+      ]
+    },
+    {
+      "EnglishWord": "binomial distribution",
+      "Meanings": [
+        "توزیع بینم یا دوجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "birth   death process  bdp",
+      "Meanings": [
+        "فرایند تولد و مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate distribution",
+      "Meanings": [
+        "توزیع دو متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "black belt",
+      "Meanings": [
+        "دارندگان کمربند سیاه",
+        "در کسانی هستند که به اصول آماری آشنایی کامل داشته و بر فعالیت‌های انجام شده در پروژه نظارت می‌کنند"
+      ]
+    },
+    {
+      "EnglishWord": "blend",
+      "Meanings": [
+        "مخلوطی",
+        "آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "blending program",
+      "Meanings": [
+        "مسیله امتزاج"
+      ]
+    },
+    {
+      "EnglishWord": "block stackiing storage",
+      "Meanings": [
+        "انبارش بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block stacking storage",
+      "Meanings": [
+        "انبارش بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "blue print",
+      "Meanings": [
+        "نقشه‌های فنی"
+      ]
+    },
+    {
+      "EnglishWord": "bonnet",
+      "Meanings": [
+        "کاپوت اتومبیل",
+        "درب موتور"
+      ]
+    },
+    {
+      "EnglishWord": "book value",
+      "Meanings": [
+        "ارزش دفتری"
+      ]
+    },
+    {
+      "EnglishWord": "boolean representation method  brm",
+      "Meanings": [
+        "روش نمایش دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck",
+      "Meanings": [
+        "تنگنا",
+        "گلوگاه",
+        "راه خیلی باریک"
+      ]
+    },
+    {
+      "EnglishWord": "bottleneck engineering  be",
+      "Meanings": [
+        "مهندسی تنگناها"
+      ]
+    },
+    {
+      "EnglishWord": "bottom line",
+      "Meanings": [
+        "خط تحتانی",
+        "درآمد خالص",
+        "سود شرکت پس از اینکه تمامی هزینه‌ها و مالیات پرداخت شد"
+      ]
+    },
+    {
+      "EnglishWord": "bound",
+      "Meanings": [
+        "کران",
+        "حد",
+        "مرز"
+      ]
+    },
+    {
+      "EnglishWord": "bow saw",
+      "Meanings": [
+        "اره کمانی"
+      ]
+    },
+    {
+      "EnglishWord": "boxplot",
+      "Meanings": [
+        "نمودار جعبه ای",
+        "نموداری برای نشان دادن نحوه پراکندگی داده‌ها و موقعیت میانگین و چهارک‌های اول و سوم نسبت به آن"
+      ]
+    },
+    {
+      "EnglishWord": "brain storming",
+      "Meanings": [
+        "تعاطی افکار",
+        "طوفان ذهنی",
+        "طوفان مغزی",
+        "جلسه ای که در آن افراد مختلف با تخصص‌های گوناگون دور هم جمع شده و راه کارهای مختلف در مورد یک مسیله یا مشکل را ارایه می‌دهند. گروهی که کار آنها تفکر در مورد ایده‌های جدید است"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "شاخه",
+        "شعبه",
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "branch   bound",
+      "Meanings": [
+        "انشعاب و تحدید",
+        "شاخه و کران"
+      ]
+    },
+    {
+      "EnglishWord": "brand",
+      "Meanings": [
+        "نام تجاری",
+        "یک نام یا نماد منحصر بفرد که برای تمایز بین محصولات یا خدمات بکار می‌رود. نامگذاری تجاری عملی است که سبب تشخیص فوری نام یک شرکت",
+        "محصول یا خدمت توسط مشتریان و مشتریان بالقوه می‌‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown",
+      "Meanings": [
+        "شکست",
+        "تفکیک",
+        "تقسیم بندی",
+        "از کار افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "breakeven",
+      "Meanings": [
+        "سر به سر شدن",
+        "صاف شدن",
+        "یر به یر شدن"
+      ]
+    },
+    {
+      "EnglishWord": "brick and mortar",
+      "Meanings": [
+        "خشت و ملات",
+        "بنگاههایی است که ساختار فیزیکی آنها از خشت و ملات شکل گرفته و صرفا به طریقه سنتی و بدون استفاده از اینترنت فعالیت می‌کنند. در مقابل click &amp; brick"
+      ]
+    },
+    {
+      "EnglishWord": "bridge crane",
+      "Meanings": [
+        "جرثقیل پلی"
+      ]
+    },
+    {
+      "EnglishWord": "british quality foundation  bfq",
+      "Meanings": [
+        "بنیاد کیفیت بریتانیا"
+      ]
+    },
+    {
+      "EnglishWord": "budget",
+      "Meanings": [
+        "بودجه"
+      ]
+    },
+    {
+      "EnglishWord": "budget at completion  bac",
+      "Meanings": [
+        "مقدار بودجه برنامه ریزی شده برای تکمیل پروژه",
+        "بودجه خط مبنا"
+      ]
+    },
+    {
+      "EnglishWord": "budgeted cost for work performed  bcwp",
+      "Meanings": [
+        "هزینه بودجه ای کار انجام شده",
+        "ارزش کسب شده و یا"
+      ]
+    },
+    {
+      "EnglishWord": "budgeted cost for work remained  bcwr",
+      "Meanings": [
+        "بودجه مورد نیاز برای کارهای باقیمانده"
+      ]
+    },
+    {
+      "EnglishWord": "budgeted cost of work performed  bcwp",
+      "Meanings": [
+        "هزینه بودجه ای کار انجام شده",
+        "ارزش کسب شده و یا"
+      ]
+    },
+    {
+      "EnglishWord": "budgeted cost of work scheduled  bcws",
+      "Meanings": [
+        "هزینه بودجه ای کار برنامه ریزی شده",
+        "مقدار هزینه بودجه بندی شده برای انجام کار تا یک تاریخ مشخص طبق برنامه ریزی انجام شده"
+      ]
+    },
+    {
+      "EnglishWord": "buffer",
+      "Meanings": [
+        "میانگیر",
+        "واسطه",
+        "ذخیره ساز",
+        "بافر"
+      ]
+    },
+    {
+      "EnglishWord": "buffer stock",
+      "Meanings": [
+        "ذخیره ایمنی"
+      ]
+    },
+    {
+      "EnglishWord": "bug",
+      "Meanings": [
+        "اشتباه",
+        "خطا",
+        "اشکال"
+      ]
+    },
+    {
+      "EnglishWord": "buildoperatetransfer",
+      "Meanings": [
+        "ساخت",
+        "بهره برداری",
+        "واگذاری",
+        "نوعی سیستم اجرای پروژه: اعطای امتیاز توسط مشتری موسسه دولیت یا عمومی به یک سازمان بخش خصوصی با انجام فعالیت های",
+        "ساخت: شامل تامین مالی",
+        "طراحی",
+        "مدیریت",
+        "تامین نیازها و ساخت",
+        "بهره برداری: شامل مدیریت بهره برداری",
+        "نت",
+        "تحویل محصول",
+        "دریافت درآمد و",
+        "واگذاری به مشتری در پایان دوره امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "bumper",
+      "Meanings": [
+        "سپر",
+        "ضربه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "bumper pads",
+      "Meanings": [
+        "صفحات ضربه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "business",
+      "Meanings": [
+        "تجارت",
+        "حرفه",
+        "کسب و کار"
+      ]
+    },
+    {
+      "EnglishWord": "business information system  bis",
+      "Meanings": [
+        "سیستم اطلاعاتی تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "business plan",
+      "Meanings": [
+        "طرح تجاری",
+        "طرح مورد تایید مدیریت اجرایی که شامل آرمانها",
+        "اهداف و اندازه گیری‌ها برای سازمان و از جمله موارد مربوط به کیفیت می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "business process outsourcing  bpo",
+      "Meanings": [
+        "برونسپاری فرایندهای تجاری",
+        "ارجاع بخشی یا تمام فرایندهای کاری شرکت",
+        "مانند مراکز تلفن خودکار به شرکتهای خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "business process reengineering  bpr",
+      "Meanings": [
+        "مهندسی مجدد فرآیند تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "business to business  b2b",
+      "Meanings": [
+        "تجاری",
+        "مدلی تجاری است که در آن بر ارایه خدمات به سایر شرکتها بیشتر از مشتری‌های انفرادی تاکید دارد که معمولا توسط شرکتهایی که از طریق اینترنت تجارت می‌کند به کار گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "business to customer  b2c",
+      "Meanings": [
+        "سازمان به مشتری",
+        "مدلی تجاری که بر اساس ارتباط مستقیم اینترنتی بین سازمان تجاری و مشتری بنا شده است"
+      ]
+    },
+    {
+      "EnglishWord": "butterfly effect",
+      "Meanings": [
+        "اثر پروانه ای",
+        "اثر پروانه ای در بردارنده این واقعیت است که دروندادی جزیی می‌تواند ستاده ای بسیار بزرگ و غیر قابل پیش بینی ایجاد نماید. مثلا از به هم زدن بال یک پروانه در یک نقطه از دنیا موجی ایجاد می‌شود ه می‌تواند در نقطه دیگری از جهان طوفان سهمگینی ایجاد کند"
+      ]
+    },
+    {
+      "EnglishWord": "buy",
+      "Meanings": [
+        "خریدن",
+        "خریداری کردن",
+        "ابتیاع"
+      ]
+    },
+    {
+      "EnglishWord": "buy off",
+      "Meanings": [
+        "تطمیع کردن",
+        "رشوه دادن",
+        "مجموعه فعالیت هایی که به منظور تطبیق محصول در حال تحویل با محصول خریداری شده انجام می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "by-product",
+      "Meanings": [
+        "محصول فرعی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+﻿{
+  "Group": "C",
+  "Entries": 73,
+  "Words": [
+    {
+      "EnglishWord": "c.o.d",
+      "Meanings": [
+        "بار یا مقدار اکسیژن خواهی شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "cable tool",
+      "Meanings": [
+        "حفاری ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "calendering",
+      "Meanings": [
+        "فشار دهنده",
+        "غلتک زنی",
+        "ورقه ساز با غلتک"
+      ]
+    },
+    {
+      "EnglishWord": "capillary force",
+      "Meanings": [
+        "نیروی مویینگی"
+      ]
+    },
+    {
+      "EnglishWord": "capillary theory",
+      "Meanings": [
+        "نظریه تیوری مویینگی"
+      ]
+    },
+    {
+      "EnglishWord": "cathodic site",
+      "Meanings": [
+        "جایگاه کاتدی"
+      ]
+    },
+    {
+      "EnglishWord": "cavitation",
+      "Meanings": [
+        "کاویتاسیون",
+        "حفره سازی",
+        "خلا زایی",
+        "تشکیل حبابهای بخار در مایع در فشار پایین و سرعت بالا",
+        "ایجاد یک خلا جزیی یا حفره بوسیله توربین سرعت بالا یا بوسیله پمپ مکش"
+      ]
+    },
+    {
+      "EnglishWord": "cell furnace",
+      "Meanings": [
+        "کوره سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "cement",
+      "Meanings": [
+        "سیمان",
+        "چسب"
+      ]
+    },
+    {
+      "EnglishWord": "channel cover",
+      "Meanings": [
+        "درپوش مجرا"
+      ]
+    },
+    {
+      "EnglishWord": "chemical abstract",
+      "Meanings": [
+        "جداسازی یا اختصار شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical oxygen demand",
+      "Meanings": [
+        "بار یا مقدار اکسیژن خواهی شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chemical stability",
+      "Meanings": [
+        "پایداری شیمیایی"
+      ]
+    },
+    {
+      "EnglishWord": "chip",
+      "Meanings": [
+        "تکه",
+        "خرده",
+        "ریزه"
+      ]
+    },
+    {
+      "EnglishWord": "circulation pump",
+      "Meanings": [
+        "پمپ جریانی"
+      ]
+    },
+    {
+      "EnglishWord": "co current",
+      "Meanings": [
+        "هم جهت"
+      ]
+    },
+    {
+      "EnglishWord": "coating breakdown",
+      "Meanings": [
+        "خرابی حفاظ",
+        "از کار افتادگی پوشش"
+      ]
+    },
+    {
+      "EnglishWord": "cocurrent",
+      "Meanings": [
+        "همسو"
+      ]
+    },
+    {
+      "EnglishWord": "cocurrent flow",
+      "Meanings": [
+        "جریان همسو"
+      ]
+    },
+    {
+      "EnglishWord": "cocurrent leaching",
+      "Meanings": [
+        "استخراج همسو"
+      ]
+    },
+    {
+      "EnglishWord": "coking",
+      "Meanings": [
+        "ککینگ"
+      ]
+    },
+    {
+      "EnglishWord": "colloidal particles",
+      "Meanings": [
+        "ذرات کلوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "colloidal solution",
+      "Meanings": [
+        "محلول کلوییدی"
+      ]
+    },
+    {
+      "EnglishWord": "commissioning",
+      "Meanings": [
+        "کار",
+        "سفارش",
+        "وظیفه",
+        "تهعد",
+        "کمیسیون"
+      ]
+    },
+    {
+      "EnglishWord": "community factor",
+      "Meanings": [
+        "فاکتور اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "composite boiler",
+      "Meanings": [
+        "دیگ ترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "concept",
+      "Meanings": [
+        "مفهوم"
+      ]
+    },
+    {
+      "EnglishWord": "condidates",
+      "Meanings": [
+        "نامزد",
+        "کاندیدا"
+      ]
+    },
+    {
+      "EnglishWord": "conduction-type dryer",
+      "Meanings": [
+        "خشک کن هدایتی"
+      ]
+    },
+    {
+      "EnglishWord": "coning",
+      "Meanings": [
+        "جدایش مایع به سمت بالا"
+      ]
+    },
+    {
+      "EnglishWord": "conjugate fiber",
+      "Meanings": [
+        "رشته یا تار در هم آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "consecutively",
+      "Meanings": [
+        "پی در پی"
+      ]
+    },
+    {
+      "EnglishWord": "construction",
+      "Meanings": [
+        "ساختن",
+        "ترکیب"
+      ]
+    },
+    {
+      "EnglishWord": "contamination",
+      "Meanings": [
+        "آلودگی",
+        "کثافت"
+      ]
+    },
+    {
+      "EnglishWord": "continous",
+      "Meanings": [
+        "پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous conveyor dryer",
+      "Meanings": [
+        "خشک کن تسمه ای پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous operation",
+      "Meanings": [
+        "عملیات پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous stream",
+      "Meanings": [
+        "جریان دایم"
+      ]
+    },
+    {
+      "EnglishWord": "control valve",
+      "Meanings": [
+        "شیر کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "controller gain",
+      "Meanings": [
+        "بهره کنترل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "convection-type dryer",
+      "Meanings": [
+        "خشک کن جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "convective",
+      "Meanings": [
+        "جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "convergence criterion",
+      "Meanings": [
+        "میزان انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "convergence pressure",
+      "Meanings": [
+        "انحراف فشار",
+        "همگرایی فشار"
+      ]
+    },
+    {
+      "EnglishWord": "conversion",
+      "Meanings": [
+        "تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "conversion of unit",
+      "Meanings": [
+        "تبدیل واحد"
+      ]
+    },
+    {
+      "EnglishWord": "conveyance system",
+      "Meanings": [
+        "سیستم حمل"
+      ]
+    },
+    {
+      "EnglishWord": "cope",
+      "Meanings": [
+        "از عهده برآمدن"
+      ]
+    },
+    {
+      "EnglishWord": "copolymerization",
+      "Meanings": [
+        "کوپلیمریزاسیون",
+        "کوپلیمر کردن",
+        "پلیمریزاسیون بین دو مونومر مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "corner frequency",
+      "Meanings": [
+        "فرکانس گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion fatigue",
+      "Meanings": [
+        "خستگی فلزی ناشی از خوردگی",
+        "استهلاک در اثر زنگ زدگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosion inhibitors",
+      "Meanings": [
+        "بازدارنده‌های خوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "corrosive factor",
+      "Meanings": [
+        "فاکتور خورندگی"
+      ]
+    },
+    {
+      "EnglishWord": "cosecutive reaction",
+      "Meanings": [
+        "واکنش متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "cost estimation",
+      "Meanings": [
+        "تخمین هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "counter current",
+      "Meanings": [
+        "جریان متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "creat",
+      "Meanings": [
+        "خلق ایجاد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "critical moisture",
+      "Meanings": [
+        "رطوبت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical state",
+      "Meanings": [
+        "حالت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "cross current",
+      "Meanings": [
+        "جریان متقاطع"
+      ]
+    },
+    {
+      "EnglishWord": "cross over frequency",
+      "Meanings": [
+        "فرکانس گذرا",
+        "فرکانس بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "cross sectional area",
+      "Meanings": [
+        "ناحیه برش عرضی",
+        "سطح مقطع عرضی"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinke",
+      "Meanings": [
+        "متصل بهم"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinked",
+      "Meanings": [
+        "متصل بهم"
+      ]
+    },
+    {
+      "EnglishWord": "crosslinked structure",
+      "Meanings": [
+        "ساختار متصل بهم"
+      ]
+    },
+    {
+      "EnglishWord": "cross-sectional",
+      "Meanings": [
+        "سطح مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "crude",
+      "Meanings": [
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "crude oil",
+      "Meanings": [
+        "روغن یا نفت خام",
+        "مازوت",
+        "مایع نفتی پالایش نشده با سنگینی 9 تا 55 درجه API و به رنگ زرد تیره"
+      ]
+    },
+    {
+      "EnglishWord": "crude petroleum",
+      "Meanings": [
+        "نفت خام"
+      ]
+    },
+    {
+      "EnglishWord": "crude rubber",
+      "Meanings": [
+        "لاستیک خام"
+      ]
+    },
+    {
+      "EnglishWord": "crumbs",
+      "Meanings": [
+        "جامد متخلخل مانند اسفنج"
+      ]
+    },
+    {
+      "EnglishWord": "cyclic operation",
+      "Meanings": [
+        "عملیات دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "cylindrical shell",
+      "Meanings": [
+        "پوسته استوانه ای"
+      ]
+    }
+  ]
+}

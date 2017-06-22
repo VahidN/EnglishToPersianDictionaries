@@ -1,0 +1,62 @@
+﻿{
+  "Group": "Y",
+  "Entries": 7,
+  "Words": [
+    {
+      "EnglishWord": "yel",
+      "Meanings": [
+        "yellow, also mostly write as : y",
+        "زرد رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "yellow",
+      "Meanings": [
+        "y, also rarely write as : yel or as : ylw",
+        "زرد رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "yield",
+      "Meanings": [
+        "A term used to define the quality of a Clay by describing the number of barrels of a given centipoise slurry that can be made from a ton of Clay. Based on the yield, Clays are classified as Bentonite, high Yield, low Yield, etc., types of Clays. Not related to yield value below. See also : API RP 13B for procedures"
+      ]
+    },
+    {
+      "EnglishWord": "yield point",
+      "Meanings": [
+        "YP",
+        "ماکزیمم استرسی که یک مادە جامد قادر به تحمل است",
+        "بدون اینکه تغییر شکل یافته یا دچار شکست گردد",
+        "The maximum stress that a solid can withstand without undergoing permanent deformation either by plastic flow or by rupture",
+        "In drilling",
+        "fluid terminology, Yield Point means yield value which see . Of the two terms, Yield Point is more common"
+      ]
+    },
+    {
+      "EnglishWord": "yield value",
+      "Meanings": [
+        "The yield value commonly called \"Yield Point\" is the resistance to initial flow, or represents the stress required to start fluid movement. This resistance is due to electrical charges located on or near the surfaces of the particles. The values of the Yield Point and Thixotropy, respectively, are measurements of the same",
+        "fluid properties under dynamic and static states. The Bingham Yield Value, reported in lb/100 square feet, is determined by the direct",
+        "indicating viscometer by subtracting the plastic viscosity from the",
+        "rpm reading"
+      ]
+    },
+    {
+      "EnglishWord": "ylw",
+      "Meanings": [
+        "yellow, also usually write as : yel or y",
+        "زرد رنگ",
+        "اختصاری دیگر جهت نوشتن رنگ زرد"
+      ]
+    },
+    {
+      "EnglishWord": "yp",
+      "Meanings": [
+        "Yield Point, applying for Mud features",
+        "حداکثر فشار یا استرسی که یک ماده می‌تواند تحمل نماید بدون اینکه تغییر شکل دایمی بیابد چه توسط جریان یافتن و چه توسط شکستن",
+        "بیشتر برای خصوصیات گل حفاری بکار می‌رود"
+      ]
+    }
+  ]
+}

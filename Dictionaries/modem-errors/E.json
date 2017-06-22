@@ -1,0 +1,1450 @@
+﻿{
+  "Group": "E",
+  "Entries": 200,
+  "Words": [
+    {
+      "EnglishWord": "e1",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "e-mail",
+      "Meanings": [
+        "Electronic Mail",
+        "پست الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "encrypt",
+      "Meanings": [
+        "رمز دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "encrypted",
+      "Meanings": [
+        "رمز شده"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "اشتباه",
+        "خطا \u000bاختلاف و انحراف بین آنچه که مشاهده می‌شود و آنچه که باید باشد. در سخت افزار و نرم افزار کامپیوتری",
+        "خطا نتیجه واقعه ای است که طبق انتظار نبوده و یا این که طی یک عمل غیر مجاز یا غیر ممکن حاصل گردیده است",
+        "مثلا سعی شده که عددی بر صفر تقسیم شود. خطا ممکن است خیلی کوچک و جزیی باشد",
+        "مانند بازبودن درب دیسک گردان هنگامی که برنامه می‌خواهد از دیسک استفاده کند",
+        "و یا خیلی جدی و بزرگ باشد مانند خراب شدن سخت افزار و یا وقتی که اشکالی در برنامه باعث از کار افتادن سیستم گردد"
+      ]
+    },
+    {
+      "EnglishWord": "error600",
+      "Meanings": [
+        "اگر سیستم در حال شماره گیری باشد و دوباره شماره گیری نمایید این خطا نمایش داده می‌شود",
+        "An operation is pending"
+      ]
+    },
+    {
+      "EnglishWord": "error601",
+      "Meanings": [
+        "راه انداز Port بی اعتبار می‌باشد",
+        "An invalid port handle was detected"
+      ]
+    },
+    {
+      "EnglishWord": "error602",
+      "Meanings": [
+        "Port هم اکنون باز می‌باشد برای بسته شدن آن باید کامپیوتر را مجددا راه اندازی نمود",
+        "The specified port is already open"
+      ]
+    },
+    {
+      "EnglishWord": "error603",
+      "Meanings": [
+        "بافر شماره گیری بیش از حد کوچک است",
+        "The caller's buffer is too small"
+      ]
+    },
+    {
+      "EnglishWord": "error604",
+      "Meanings": [
+        "اطلاعات نادرستی مشخص شده است",
+        "Incorrect information was specified"
+      ]
+    },
+    {
+      "EnglishWord": "error605",
+      "Meanings": [
+        "نمی تواند اطلاعات Port را تعیین کند",
+        "The port information cannot be set"
+      ]
+    },
+    {
+      "EnglishWord": "error606",
+      "Meanings": [
+        "Port شناسایی نمی‌شود",
+        "The specified port is not connected"
+      ]
+    },
+    {
+      "EnglishWord": "error607",
+      "Meanings": [
+        "ثبت وقایع مربوط به مودم بی اعتبار می‌باشد",
+        "An invalid event is detected"
+      ]
+    },
+    {
+      "EnglishWord": "error608",
+      "Meanings": [
+        "راه انداز مودم نصب نشده است",
+        "A device was specified that does not exist"
+      ]
+    },
+    {
+      "EnglishWord": "error609",
+      "Meanings": [
+        "نوع راه انداز مودم شناسایی نشده است",
+        "The device type was specified that does not exist"
+      ]
+    },
+    {
+      "EnglishWord": "error610",
+      "Meanings": [
+        "بافر ندارد",
+        "An invalid buffer was specified"
+      ]
+    },
+    {
+      "EnglishWord": "error611",
+      "Meanings": [
+        "اطلاعات مسیر یابی غیر قابل دسترس می‌باشد",
+        "A route was specified that is not available"
+      ]
+    },
+    {
+      "EnglishWord": "error612",
+      "Meanings": [
+        "مسیر درست را نمی‌تواند پیدا نماید",
+        "A route was specified that is not allocated"
+      ]
+    },
+    {
+      "EnglishWord": "error613",
+      "Meanings": [
+        "فشرده سازی بی اعتباری انتخاب شده است",
+        "An invalid compression was specified"
+      ]
+    },
+    {
+      "EnglishWord": "error614",
+      "Meanings": [
+        "سرریزی بافر",
+        "There were insufficient buffers available"
+      ]
+    },
+    {
+      "EnglishWord": "error615",
+      "Meanings": [
+        "Port پیدا نشده است",
+        "The specified port was not found"
+      ]
+    },
+    {
+      "EnglishWord": "error616",
+      "Meanings": [
+        "یک درخواست ناهمزمان در جریان می‌باشد",
+        "An asynchronous request is pending"
+      ]
+    },
+    {
+      "EnglishWord": "error617",
+      "Meanings": [
+        "Port یا دستگاه هم اکنون قطع می‌باشد",
+        "The modem is already disconnecting"
+      ]
+    },
+    {
+      "EnglishWord": "error618",
+      "Meanings": [
+        "Port باز نمی‌شود. وقتی رخ می‌دهد که یک برنامه از Port استفاده کند",
+        "The specified port is not open"
+      ]
+    },
+    {
+      "EnglishWord": "error619",
+      "Meanings": [
+        "Port قطع می‌باشد وقتی رخ می‌دهد که یک برنامه از Port استفاده کند",
+        "The specified port is not connected"
+      ]
+    },
+    {
+      "EnglishWord": "error620",
+      "Meanings": [
+        "هیچ نقطه پایانی وجود ندارد",
+        "No endpoints could be determined"
+      ]
+    },
+    {
+      "EnglishWord": "error621",
+      "Meanings": [
+        "نمی تواند فایل دفتر راهنمای تلفن را باز نماید",
+        "The system could not open the phonebook"
+      ]
+    },
+    {
+      "EnglishWord": "error622",
+      "Meanings": [
+        "فایل دفتر تلفن را نمی‌تواند بارگذاری نماید",
+        "The system could not load the phonebook"
+      ]
+    },
+    {
+      "EnglishWord": "error623",
+      "Meanings": [
+        "نمی تواند ورودی دفتر راهنمای تلفن را بیابد",
+        "The system could not find the phonebook entry for this connection"
+      ]
+    },
+    {
+      "EnglishWord": "error624",
+      "Meanings": [
+        "نمی توان روی فایل دفتر راهنمای تلفن نوشت",
+        "The system could not update the phonebook file"
+      ]
+    },
+    {
+      "EnglishWord": "error625",
+      "Meanings": [
+        "اطلاعات بی اساسی در دفتر راهنمای تلفن مشاهده می‌شود",
+        "The system found invalid information in the phonebook"
+      ]
+    },
+    {
+      "EnglishWord": "error626",
+      "Meanings": [
+        "رشته را نمی‌تواند بارگذاری کند",
+        "A string could not be loaded"
+      ]
+    },
+    {
+      "EnglishWord": "error627",
+      "Meanings": [
+        "کلید را نمی‌تواند بیابد",
+        "A key could not be found"
+      ]
+    },
+    {
+      "EnglishWord": "error628",
+      "Meanings": [
+        "Port قطع شد",
+        "The connection was closed",
+        "پیغام",
+        "اتصال توسط سرور مورد نظر قطع شد ه است وعملیات متوقف شد",
+        "راه حل",
+        "مطمین شوید شماره ISP شما درست وارد شده باشد",
+        "شماره ISP را با تلفن معمولی شماره گیری نمایید تا مطمین شوید خطوط تلفن مشکلی ندارند",
+        "تنطیمات مودم مانند نحوه شماره گیری Tone, Palse را چک کنید",
+        "اگر قصد استفاده از سرویس VPN را دارید ممکن است سرویس مورد نظر به درستی نصب وپیکره بندی نشده باشد ویا می‌بایست نوع اتصال وموارد امنیتی را بررسی نمایید",
+        "نهایتا با قسمت پشتیبانی تماس حاصل نمایید"
+      ]
+    },
+    {
+      "EnglishWord": "error629",
+      "Meanings": [
+        "Port بوسیله دستگاه راه دور قطع می‌شود. درست نبودن راه انداز مودم با برنامه ارتباطی",
+        "The connection was closed by the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error630",
+      "Meanings": [
+        "Port به دلیل از کارافتادگی سخت افزار قطع می‌شود",
+        "The modem was disconnected due to hardware failure"
+      ]
+    },
+    {
+      "EnglishWord": "error631",
+      "Meanings": [
+        "Port توسط کاربر قطع شد",
+        "The user disconnected the modem"
+      ]
+    },
+    {
+      "EnglishWord": "error632",
+      "Meanings": [
+        "اندازه ساختار داده اشتباه می‌باشد",
+        "An incorrect structure size was detected"
+      ]
+    },
+    {
+      "EnglishWord": "error633",
+      "Meanings": [
+        "Port هم اکنون مورد استفاده می‌باشد و برای Remote Access Dial",
+        "up پیکر بندی نشده است راه انداز درستی بر روی مودم شناخته نشده است",
+        "The modem is already in use or is not configured for dialing out"
+      ]
+    },
+    {
+      "EnglishWord": "error634",
+      "Meanings": [
+        "نمی تواند کامپیوتر شما را روی شبکه راه دور ثبت نماید",
+        "Your computer could not be registered on the remote network"
+      ]
+    },
+    {
+      "EnglishWord": "error635",
+      "Meanings": [
+        "خطا مشخص نشده است",
+        "There was an unknown error"
+      ]
+    },
+    {
+      "EnglishWord": "error636",
+      "Meanings": [
+        "دستگاه اشتباهی به Port بسته شده است",
+        "The device attached to the port is not the one expected"
+      ]
+    },
+    {
+      "EnglishWord": "error637",
+      "Meanings": [
+        "رشته string نمی‌تواند تغییر یابد",
+        "A string was detected that could not be converted"
+      ]
+    },
+    {
+      "EnglishWord": "error638",
+      "Meanings": [
+        "زمان درخواست به پایان رسیده است",
+        "The request has timed out"
+      ]
+    },
+    {
+      "EnglishWord": "error639",
+      "Meanings": [
+        "شبکه ناهمزمان قابل دسترس نیست",
+        "No asynchronous net is available"
+      ]
+    },
+    {
+      "EnglishWord": "error640",
+      "Meanings": [
+        "خطای NetBIOS رخ داده است",
+        "A error has occurred involving NetBIOS"
+      ]
+    },
+    {
+      "EnglishWord": "error641",
+      "Meanings": [
+        "سرور نمی‌تواند منابع NetBIOS مورد نیاز برای پشتیبانی سرویس گیرنده را بدهد",
+        "The server cannot allocate NetBIOS resources needed to support the client"
+      ]
+    },
+    {
+      "EnglishWord": "error642",
+      "Meanings": [
+        "یکی از اسامی NetBIOS شما هم اکنون روی شبکه راه دور ثبت می‌گردد",
+        "دو کامپیوتر می‌خواهند با یک اسم وارد شوند",
+        "One of your computer's NetBIOS names is already registered on the remote network"
+      ]
+    },
+    {
+      "EnglishWord": "error643",
+      "Meanings": [
+        "Dial",
+        "up adaptor در قسمت network ویندوز وجود ندارد",
+        "A network adapter at the server failed"
+      ]
+    },
+    {
+      "EnglishWord": "error644",
+      "Meanings": [
+        "شما popus پیغام شبکه را دریافت نخواهید کرد",
+        "You will not receive network message popups"
+      ]
+    },
+    {
+      "EnglishWord": "error645",
+      "Meanings": [
+        "Authentication داخلی اشکال پیدا کرده است",
+        "There was an internal authentication error"
+      ]
+    },
+    {
+      "EnglishWord": "error646",
+      "Meanings": [
+        "حساب در این موقع روز امکان log on وجود ندارد",
+        "The account is not permitted to log on at this time of day"
+      ]
+    },
+    {
+      "EnglishWord": "error647",
+      "Meanings": [
+        "حساب قطع می‌باشد",
+        "The account is disabled",
+        "پیغام",
+        "حساب کاربری شما غیر فعال است",
+        "راه حل",
+        "حساب کاربری شما یا به دلیل اتمام اعتبار ویا منقضی شدن تاریخ آن غیر فعال شده است با قسمت پشتیبانی تماس بگیرید ودلیل آنرا سوال کنید",
+        "کد خطا",
+        "پیغام: ارتباط خاتمه یافته است",
+        "راه حل: دوباره شماره گیری کنید",
+        "اگر مجددا این پیغام را درفاصله کوتاهی دریافت نمودید سرعت موم خود را کاهش دهید واز امکانات اضافی مودم مانند فشرده سازی ومحاسبات پروتکل خط صرف نظر کنید",
+        "مطمین شوید مودم شما با مودم‌های ISP مورد نظر سازگارباشند",
+        "اگر به صورت دستی شماره گیری می‌کنید دقت کنید تمام مراحل را کامل انجام دهید"
+      ]
+    },
+    {
+      "EnglishWord": "error648",
+      "Meanings": [
+        "اعتبار password تمام شده است",
+        "The password for this account has expired"
+      ]
+    },
+    {
+      "EnglishWord": "error649",
+      "Meanings": [
+        "حساب اجازه Remote Access را دستیابی راه دور را ندارد. به نام و کلمه عبور اجازه dial",
+        "up داده نشده است",
+        "The account does not have permission to dial in"
+      ]
+    },
+    {
+      "EnglishWord": "error650",
+      "Meanings": [
+        "سرور Remote Access دستیابی راه دور پاسخ نمی‌دهد",
+        "The remote access server is not responding"
+      ]
+    },
+    {
+      "EnglishWord": "error651",
+      "Meanings": [
+        "مودم شما یا سایر دستگاههای اتصال دهنده خطایی را گزارش کرده است. خطا از طرف مودم بوده است",
+        "The modem has reported an error"
+      ]
+    },
+    {
+      "EnglishWord": "error652",
+      "Meanings": [
+        "پاسخ نا مشخصی از دستگاه دریافت می‌گردد",
+        "There was an unrecognized response from the modem"
+      ]
+    },
+    {
+      "EnglishWord": "error653",
+      "Meanings": [
+        "Macro دستورالعمل کلان. ماکرو خواسته شده توسط راه انداز در لیست فایل. INF موجود نمی‌باشد",
+        "A macro required by the modem was not found in the device INF file section"
+      ]
+    },
+    {
+      "EnglishWord": "error654",
+      "Meanings": [
+        "یک فرمان یا یک پاسخ در قسمت. INF دستگاه به یک ماکرو نامشخص اشاره می‌نماید",
+        "A command or response in the device INF file section refers to an undefined macro"
+      ]
+    },
+    {
+      "EnglishWord": "error655",
+      "Meanings": [
+        "دستور العمل پیغام در قسمت فایل. INF دستگاه مشاهده نمی‌شود",
+        "The &lt;MESSAGE&gt; macro was not found in the device INF file section"
+      ]
+    },
+    {
+      "EnglishWord": "error656",
+      "Meanings": [
+        "دستورالعمل ماکرو default off در فایل. INF دستگاه شامل یک دستور العمل نامشخص می‌باشد",
+        "The &lt;DEFAULTOFF&gt; macro in the device INF file section contains an undefined macro"
+      ]
+    },
+    {
+      "EnglishWord": "error657",
+      "Meanings": [
+        "فایل. INF دستگاه نمی‌تواند باز شود",
+        "The device INF file could not be opened"
+      ]
+    },
+    {
+      "EnglishWord": "error658",
+      "Meanings": [
+        "اسم دستگاه در فایل. INF دستگاه یا در فایل. INI رسانه بیش از حد طولانی می‌باشد",
+        "The device name in the device INF or media INI file is too long"
+      ]
+    },
+    {
+      "EnglishWord": "error659",
+      "Meanings": [
+        "فایل. INI رسانه به نام ناشناخته یک دستگاه اشاره می‌نماید",
+        "The media INI file refers to an unknown device name"
+      ]
+    },
+    {
+      "EnglishWord": "error660",
+      "Meanings": [
+        "فایل. INI رسانه برای این فرمان پاسخی را ندارد",
+        "The device INF file contains no responses for the command"
+      ]
+    },
+    {
+      "EnglishWord": "error661",
+      "Meanings": [
+        "فایل. INF دستگاه فرمان را از دست داده است",
+        "The device INF file is missing a command"
+      ]
+    },
+    {
+      "EnglishWord": "error662",
+      "Meanings": [
+        "تلاش برای قرار دادن یک ماکرو لیست نشده در قسمت فایل. INF صورت نگرفته است",
+        "There was an attempt to set a macro not listed in the device INF file section"
+      ]
+    },
+    {
+      "EnglishWord": "error663",
+      "Meanings": [
+        "فایل. INI رسانه به نوع ناشناخته یک دستگاه اشاره می‌نماید",
+        "The media INI file refers to an unknown device type"
+      ]
+    },
+    {
+      "EnglishWord": "error664",
+      "Meanings": [
+        "نمی تواند به حافظه اختصاص دهد",
+        "The system has run out of memory"
+      ]
+    },
+    {
+      "EnglishWord": "error665",
+      "Meanings": [
+        "Port برای Remote Access دستیابی راه دور پیکر بندی نشده است",
+        "The modem is not properly configured"
+      ]
+    },
+    {
+      "EnglishWord": "error666",
+      "Meanings": [
+        "مودم شما یاسایر دستگاههای اتصال دهنده در حال حاضر کار نمی‌کنند",
+        "The modem is not functioning"
+      ]
+    },
+    {
+      "EnglishWord": "error667",
+      "Meanings": [
+        "فایل. INI رسانه را نمی‌تواند بخواند",
+        "The system was unable to read the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error668",
+      "Meanings": [
+        "اتصال از بین رفته است",
+        "The connection was terminated"
+      ]
+    },
+    {
+      "EnglishWord": "error669",
+      "Meanings": [
+        "پارامتر به کار برده شده در فایل. INI رسانه بی اعتبار می‌باشد",
+        "The usage parameter in the media INI file is invalid"
+      ]
+    },
+    {
+      "EnglishWord": "error670",
+      "Meanings": [
+        "نمی تواند نام بخش را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the section name from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error671",
+      "Meanings": [
+        "نمی تواند نوع دستگاه را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the device type from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error672",
+      "Meanings": [
+        "نمی تواند نام دستگاه را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the device name from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error673",
+      "Meanings": [
+        "نمی تواند کاربر را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the usage from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error674",
+      "Meanings": [
+        "نمی تواند بیشترین حد اتصال BPS را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the maximum connection BPS rate from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error675",
+      "Meanings": [
+        "نمی تواند بیشترین حد BPS حامل را از روی فایل. INI رسانه بخواند",
+        "The system was unable to read the maximum carrier connection speed from the media INI file"
+      ]
+    },
+    {
+      "EnglishWord": "error676",
+      "Meanings": [
+        "خط اشغال می‌باشد",
+        "The phone line is busy",
+        "پیغام: تلفن بوق اشغال می‌زند",
+        "راه حل: مجددا شماره گیری نمایید",
+        "به منظور راحتی کار می‌توانید به صورت اتوماتیک چندین بار شماره گیری نمایید",
+        "اگر از سرویس VPN استفاده می‌کنید نام سرور یا آدرس IP کامپیوتر مقصد را چک کنید",
+        "مطمین شوید سرویس VPN در کامپیوتر مقصد اجرا شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error677",
+      "Meanings": [
+        "شخص به جای مودم پاسخ می‌دهد",
+        "A person answered instead of a modem"
+      ]
+    },
+    {
+      "EnglishWord": "error678",
+      "Meanings": [
+        "پاسخی وجود ندارد",
+        "There was no answer",
+        "پیغام: کامپیوتر مقصد قادر به جوابگویی نمی‌باشد",
+        "راه حل: شماره تلفن مقصد را چک نمایید",
+        "با یک گوشی تلفن شماره مقصد را چک کنید تا از صحت خطوط مطلع شوید",
+        "از صحت عملکرد مودم اطمینان حاصل کنید",
+        "اگر از سرویس VPN استفاده می‌کنید نام کامپیوتر مقصد یا IP را چک کنید",
+        "از قسمت Properties سپس General Tab اطلاعات Dial up خود را چک کنید",
+        "ممکن است Firewall موجود در مسیر اتصال علت اشکال باشد",
+        "اگر شما از اتصال فراگیر Broad Band استفاده می‌کنید اطلاعات اتصال در General Tab اتصال خود را بررسی کنید",
+        "کابلهای اتصالی را بررسی نمایید"
+      ]
+    },
+    {
+      "EnglishWord": "error679",
+      "Meanings": [
+        "نمی تواند عامل را پیدا نماید",
+        "The system could not detect the carrier"
+      ]
+    },
+    {
+      "EnglishWord": "error680",
+      "Meanings": [
+        "خط تلفن وصل نیست",
+        "There was no dial tone",
+        "پیغام: هیچ سیگنالی توسط مودم دریافت نمی‌شود مودم بوق تلفن را دریافت نمی‌کند",
+        "راه حل",
+        "ممکن است سوکت کابل تلفن اشتباه وصل شده باشد",
+        "تلفن شما احتیاج به یک پیش شماره دارد در مواردی که تلفن داخلی باشد",
+        "با گذاشتن یک علامت کاما, بعداز پیش شماره داخلی به دستگاه سانترال فرصت بیشتری برای آزاد کردن خط بدهید به عنوان مثل اگر تلفن ISP عدد 9718733 باشد وعدد 82 برای آزاد کردن خط استفاده می‌شود باید به این صورت عمل نمود82و",
+        "بعضی از مودم‌ها شماره‌های بیشتر از 34 رقم را نمی‌توانند شماره گیری کنند. پس این مساله را نیز در نظر داشته باشید چون فقط مودمهای Multitech, usrobatic روشهای اصولی برای شماره گیری با ارقام بالا را دارند"
+      ]
+    },
+    {
+      "EnglishWord": "error681",
+      "Meanings": [
+        "یک خطای کلی توسط دستگاه گزارش می‌شود",
+        "The modem reported a general error"
+      ]
+    },
+    {
+      "EnglishWord": "error682",
+      "Meanings": [
+        "Writing section name دچار مشکل می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error683",
+      "Meanings": [
+        "Writing device type با مشکل روبرو شده است"
+      ]
+    },
+    {
+      "EnglishWord": "error684",
+      "Meanings": [
+        "writing device name با مشکل روبرو می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error685",
+      "Meanings": [
+        "Writing maxconnectbps مشکل دارد"
+      ]
+    },
+    {
+      "EnglishWord": "error686",
+      "Meanings": [
+        "Writing maxcarrierBPS دچار مشکل می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error687",
+      "Meanings": [
+        "Writing usage با مشکل مواجه است"
+      ]
+    },
+    {
+      "EnglishWord": "error688",
+      "Meanings": [
+        "Writing default off دچار مشکل می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error689",
+      "Meanings": [
+        "Reading default off با مشکل مواجه است"
+      ]
+    },
+    {
+      "EnglishWord": "error690",
+      "Meanings": [
+        "فایل INI خالی است"
+      ]
+    },
+    {
+      "EnglishWord": "error691",
+      "Meanings": [
+        "دسترسی صورت نمی‌پذیرد زیرا نام و کلمه عبور روی دامین بی اعتبار می‌باشد",
+        "Access was denied because the user name and/or password was invalid on the domain"
+      ]
+    },
+    {
+      "EnglishWord": "error692",
+      "Meanings": [
+        "سخت افزار در درگاه یا دستگاه متصل شده از کار افتاده است",
+        "There was a hardware failure in the modem"
+      ]
+    },
+    {
+      "EnglishWord": "error693",
+      "Meanings": [
+        "Binary macro با مشکل مواجه می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error694",
+      "Meanings": [
+        "خطای DCB یافت نشد"
+      ]
+    },
+    {
+      "EnglishWord": "error695",
+      "Meanings": [
+        "ماشین‌های گفتگو آماده نیستند",
+        "The state machines are not started"
+      ]
+    },
+    {
+      "EnglishWord": "error696",
+      "Meanings": [
+        "راه اندازی ماشین‌های گفتگو با مشکل روبرو می‌باشد",
+        "The state machines are already started"
+      ]
+    },
+    {
+      "EnglishWord": "error697",
+      "Meanings": [
+        "Partial response looping با مشکل روبرو می‌باشد",
+        "The response looping did not complete"
+      ]
+    },
+    {
+      "EnglishWord": "error698",
+      "Meanings": [
+        "پاسخ نام کلیدی در فایل INF. دستگاه",
+        "در فرمت مورد نظر نمی‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error699",
+      "Meanings": [
+        "پاسخ دستگاه باعث سر ریزی بافر شده است",
+        "The modem response caused a buffer overflow"
+      ]
+    },
+    {
+      "EnglishWord": "error700",
+      "Meanings": [
+        "فرمان متصل به فایل INF. دستگاه بیش از حد طولانی می‌باشد",
+        "The expanded command in the device INF file is too long"
+      ]
+    },
+    {
+      "EnglishWord": "error701",
+      "Meanings": [
+        "دستگاه به یک میزان BPS پشتیبانی نشده توسط گرداننده com تغییر می‌یابد",
+        "The modem moved to a connection speed not supported by the COM driver"
+      ]
+    },
+    {
+      "EnglishWord": "error702",
+      "Meanings": [
+        "پاسخ دستگاه دریافت می‌گردد زمانی که هیچکس انتظار ندارد"
+      ]
+    },
+    {
+      "EnglishWord": "error703",
+      "Meanings": [
+        "در فعالیت کنونی مشکلی ایجاد شده است",
+        "The connection needs information from you, but the application does not allow user interaction"
+      ]
+    },
+    {
+      "EnglishWord": "error704",
+      "Meanings": [
+        "شماره اشتباه callback",
+        "The callback number is invalid"
+      ]
+    },
+    {
+      "EnglishWord": "error705",
+      "Meanings": [
+        "مشکل invalid auth state",
+        "The authorization state is invalid"
+      ]
+    },
+    {
+      "EnglishWord": "error706",
+      "Meanings": [
+        "Invalid auth state دچار مشکل می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error707",
+      "Meanings": [
+        "علامت خطایاب. x.",
+        "There was an error related to the X25 protocol"
+      ]
+    },
+    {
+      "EnglishWord": "error708",
+      "Meanings": [
+        "اعتبار حساب تمام شده است",
+        "The account has expired"
+      ]
+    },
+    {
+      "EnglishWord": "error709",
+      "Meanings": [
+        "تغییر پسورد روی دامین با مشکل روبرو می‌باشد",
+        "There was an error changing the password on the domain The password might have been too short or might have matched a previously used password"
+      ]
+    },
+    {
+      "EnglishWord": "error710",
+      "Meanings": [
+        "در زمان ارتباط با مودم شما خطاهای سری یش از حد اشباع شده مشاهده می‌گردد",
+        "Serial overrun errors were detected while communicating with the modem"
+      ]
+    },
+    {
+      "EnglishWord": "error711",
+      "Meanings": [
+        "Rasman initialization صورت نمی‌گیرد گزارش عملکرد را چک کنید",
+        "The Remote Access Service Manager could not start Additional information is provided in the event log"
+      ]
+    },
+    {
+      "EnglishWord": "error712",
+      "Meanings": [
+        "درگاه Biplex در حال اجرا می‌باشد. چند ثانیه منتظر شوید و مجددا شماره بگیرید",
+        "The two",
+        "way port is initializing Wait a few seconds and redial"
+      ]
+    },
+    {
+      "EnglishWord": "error713",
+      "Meanings": [
+        "مسیرهای ISDN فعال در خط اصلی قطع می‌باشد",
+        "No active ISDN lines are available"
+      ]
+    },
+    {
+      "EnglishWord": "error714",
+      "Meanings": [
+        "کانال‌های ISDN کافی برای ایجاد تماس تلفنی در دسترس نمی‌باشند",
+        "No ISDN channels are available to make the call"
+      ]
+    },
+    {
+      "EnglishWord": "error715",
+      "Meanings": [
+        "به دلیل کیفیت ضعیف خط تلفن خطاهای فراوانی رخ می‌دهد",
+        "Too many errors occurred because of poor phone line quality"
+      ]
+    },
+    {
+      "EnglishWord": "error716",
+      "Meanings": [
+        "پیکر بندی remote access IP غیر قابل استفاده می‌باشد",
+        "The remote access service IP configuration is unusable"
+      ]
+    },
+    {
+      "EnglishWord": "error717",
+      "Meanings": [
+        "آدرسهای IP در static pool remote access IP وجود ندارد",
+        "No IP addresses are available in the static pool of remote access service IP addresses"
+      ]
+    },
+    {
+      "EnglishWord": "error718",
+      "Meanings": [
+        "مهلت بر قراری تماس PPP پایان پذیرفته است",
+        "The connection timed out waiting for a valid response from the remote computer",
+        "پیغام: ارتباط خاتمه یافت چون کامپیوتر مقصد در مهلت مقرر به درخواست شما پاسخ نداده است",
+        "راه حل: پروتکل نقطه به نقطه ppp مورد استفاده نتوانست ارتباط را برقرار سازد چون کامپیوتر مقصد درمهلت مقرر به درخواست آن پاسخ نداد ویا پاسخ مناسبی دریافت نشده است به موارد زیر توجه کنید",
+        "اسم سرور ویا IP دستگاه مقصد را دوباره وارد کنید اگر از سرویس VPN استفاده می‌کنید",
+        "اسم دومین واسم کاربر را چک کنید به عنوان مثال Domain/username",
+        "وجود Firewall را در مسیر اتصال بررسی کنید",
+        "درایور مودم خود را به روز رسانی کنید ممکن است قدیمی شده باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error719",
+      "Meanings": [
+        "PPP توسط دستگاه راه دور پایان می‌یابد",
+        "The connection was terminated by the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error720",
+      "Meanings": [
+        "پروتکل‌های کنترلppp پیکر بندی نشده اند",
+        "The connection attempt failed because your computer and the remote computer could not agree on PPP control protocols"
+      ]
+    },
+    {
+      "EnglishWord": "error721",
+      "Meanings": [
+        "همتای PPP پاسخ نمی‌دهد",
+        "The remote computer is not responding"
+      ]
+    },
+    {
+      "EnglishWord": "error722",
+      "Meanings": [
+        "بسته PPPبی اعتبار می‌باشد",
+        "Invalid data was received from the remote computer This data was ignored"
+      ]
+    },
+    {
+      "EnglishWord": "error723",
+      "Meanings": [
+        "شماره تلفن از جمله پیشوند و پسوند بیش از حد طولا نی می‌باشد",
+        "The phone number, including prefix and suffix, is too long"
+      ]
+    },
+    {
+      "EnglishWord": "error724",
+      "Meanings": [
+        "پروتکل IPXنمی تواند بر روی درگاه dial –out نماید زیرا کامپیوتر یک مسیر گردان IPX می‌باشد",
+        "The IPX protocol cannot be used for dial",
+        "out on more than one modem at a time"
+      ]
+    },
+    {
+      "EnglishWord": "error725",
+      "Meanings": [
+        "IPX نمی‌تواند روی port درگاه dial – in شود زیرا مسیر گردان IPX نصب نشده است",
+        "The system cannot find an IP adapter"
+      ]
+    },
+    {
+      "EnglishWord": "error726",
+      "Meanings": [
+        "پروتکل IPX نمی‌تواند برای dial – out",
+        "روی بیش از یک درگاه در یک زمان استفاده شود"
+      ]
+    },
+    {
+      "EnglishWord": "error727",
+      "Meanings": [
+        "نمی توان به فایل TCPCFG. DLL دست یافت"
+      ]
+    },
+    {
+      "EnglishWord": "error728",
+      "Meanings": [
+        "نمی تواند آداپتور IP متصل به remote access را پیدا کند"
+      ]
+    },
+    {
+      "EnglishWord": "error729",
+      "Meanings": [
+        "SLIP استفاده نمی‌شود مگر اینکه پروتکل IP نصب شود",
+        "SLIP cannot be used unless the IP protocol is installed"
+      ]
+    },
+    {
+      "EnglishWord": "error730",
+      "Meanings": [
+        "ثبت کامپیوتر کامل نمی‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "error731",
+      "Meanings": [
+        "پروتکل پیکر بندی نمی‌شود",
+        "The protocol is not configured"
+      ]
+    },
+    {
+      "EnglishWord": "error732",
+      "Meanings": [
+        "توافق بین PPP صورت نگرفته است",
+        "Your computer and the remote computer could not agree on PPP control protocols"
+      ]
+    },
+    {
+      "EnglishWord": "error733",
+      "Meanings": [
+        "پروتکل کنترل PPP برای پروتکل این شبکه",
+        "در سرور موجود نمی‌باشد",
+        "Your computer and the remote computer could not agree on PPP control protocols"
+      ]
+    },
+    {
+      "EnglishWord": "error734",
+      "Meanings": [
+        "پروتکل کنترل PPP برای پروتکل این شبکه",
+        "در سرور موجود نمی‌باشد",
+        "The PPP link control protocol was terminated"
+      ]
+    },
+    {
+      "EnglishWord": "error735",
+      "Meanings": [
+        "آدرس مورد نیاز توسط سرور رد می‌شود",
+        "The requested address was rejected by the server"
+      ]
+    },
+    {
+      "EnglishWord": "error736",
+      "Meanings": [
+        "کامپیوتر راه دور پروتکل کنترل را متوقف می‌نماید",
+        "The remote computer terminated the control protocol"
+      ]
+    },
+    {
+      "EnglishWord": "error737",
+      "Meanings": [
+        "نقطه برگشت LOOPBACK DETECTED شناسایی شد",
+        "Loopback detected"
+      ]
+    },
+    {
+      "EnglishWord": "error738",
+      "Meanings": [
+        "سرور آدرس را مشخص نمی‌کند",
+        "The server did not assign an address"
+      ]
+    },
+    {
+      "EnglishWord": "error739",
+      "Meanings": [
+        "سرور راه دور نمی‌تواند از پسورد ENCRYPTED ویندوز NT استفاده نماید",
+        "The authentication protocol required by the remote server cannot use the stored password Redial, entering the password explicitly"
+      ]
+    },
+    {
+      "EnglishWord": "error740",
+      "Meanings": [
+        "دستگاه‌های TAPI که برای remote access پیکر بندی می‌گردند به طور صحیح نصب و آماده نشده اند",
+        "An invalid dialing rule was detected"
+      ]
+    },
+    {
+      "EnglishWord": "error741",
+      "Meanings": [
+        "کامپیوتر محلی از encryption پشتیبانی نمی‌نماید",
+        "The local computer does not support the required data encryption type"
+      ]
+    },
+    {
+      "EnglishWord": "error742",
+      "Meanings": [
+        "سرور راه دور از encryption پشتیبانی نمی‌نماید",
+        "The remote computer does not support the required data encryption type"
+      ]
+    },
+    {
+      "EnglishWord": "error743",
+      "Meanings": [
+        "سرور راه دور به encryption نیاز دارد",
+        "The remote server requires data encryption"
+      ]
+    },
+    {
+      "EnglishWord": "error744",
+      "Meanings": [
+        "نمی تواند شماره شبکه IPX را استفاده نماید که توسط سرور راه دور در نظر گرفته شده است گزارش وقایع را باز بینی نمایید"
+      ]
+    },
+    {
+      "EnglishWord": "error745",
+      "Meanings": [
+        "یک فایل مهم و ضروری آسیب دیده است. Dial – up networking را مجددا نصب نمایید"
+      ]
+    },
+    {
+      "EnglishWord": "error751",
+      "Meanings": [
+        "شماره callback شامل یک کاراکتر بی اعتبار می‌باشد. کاراکترهای زیر فقط مجاز دانسته می‌شوند: Space, T, P, W",
+        "The callback number contains an invalid character Only the following characters are allowed: 0 to 9, T, P, W"
+      ]
+    },
+    {
+      "EnglishWord": "error752",
+      "Meanings": [
+        "در زمان پردازش script یک خطای نحوی صورت می‌گیرد",
+        "A syntax error was encountered while processing a script"
+      ]
+    },
+    {
+      "EnglishWord": "error753",
+      "Meanings": [
+        "اتصال نمی‌تواند قطع شود زیرا توسط مسیر گردان چند پروتکلی ایجاد شده است",
+        "The connection could not be disconnected because it was created by the multi",
+        "protocol router"
+      ]
+    },
+    {
+      "EnglishWord": "error754",
+      "Meanings": [
+        "سیستم قادر به یافتن bundle چند انصالی نمی‌باشد",
+        "The system could not find the multi",
+        "link bundle"
+      ]
+    },
+    {
+      "EnglishWord": "error755",
+      "Meanings": [
+        "سیستم قادر به اجرای شماره گیری خودکار نمی‌باشد زیرا این ورودی یک شماره گیر عادی را دارد",
+        "The system cannot perform automated dial because this entry has a custom dialer specified"
+      ]
+    },
+    {
+      "EnglishWord": "error756",
+      "Meanings": [
+        "این اتصال هم اکنون در شماره گیری می‌باشد",
+        "This connection is already being dialed"
+      ]
+    },
+    {
+      "EnglishWord": "error757",
+      "Meanings": [
+        "خدمات دستیابی راه دور خود به خود آغاز نمی‌شوند اطلا عات بیشتری در گزارش وقایع در اختیار شما قرار می‌گیرد",
+        "Remote access services could not be started automatically Additional information is provided in the event log"
+      ]
+    },
+    {
+      "EnglishWord": "error758",
+      "Meanings": [
+        "اشتراک اتصال اینترنت هم اکنون روی این اتصال میسر می‌گردد",
+        "Internet Connection Sharing is already enabled on the connection"
+      ]
+    },
+    {
+      "EnglishWord": "error760",
+      "Meanings": [
+        "در زمان فراهم آوری امکانات مسیر یابی",
+        "این خطا رخ می‌دهد",
+        "An error occurred while routing capabilities were being enabled"
+      ]
+    },
+    {
+      "EnglishWord": "error761",
+      "Meanings": [
+        "در زمان فراهم شدن اشتراک اتصال اینترنت برای این اتصال این خطا ایجاد می‌گردد",
+        "An error occurred while Internet Connection Sharing was being enabled for the connection"
+      ]
+    },
+    {
+      "EnglishWord": "error763",
+      "Meanings": [
+        "اشتراک اتصال اینترنت فعال نمی‌باشد. دو اتصال LAN و یا بیشتر به علاوه اتصالی که با این LANها مشترک شده است وجود دارد",
+        "Internet Connection Sharing cannot be enabled There are two or more LAN connections in addition to the connection to be shared"
+      ]
+    },
+    {
+      "EnglishWord": "error764",
+      "Meanings": [
+        "دستگاه کارت خوان smartcard نصب نیست",
+        "No smart card reader is installed"
+      ]
+    },
+    {
+      "EnglishWord": "error765",
+      "Meanings": [
+        "اشتراک اتصال اینترنت میسر نمی‌باشد. اتصال LAN با آدرس IP در حال حاضر پیکر بندی می‌شود که برای آدرس گذاری اتوماتیک IP مورد نیاز می‌باشد",
+        "Internet Connection Sharing cannot be enabled A LAN connection is already configured with the IP address required for automatic IP addressing"
+      ]
+    },
+    {
+      "EnglishWord": "error766",
+      "Meanings": [
+        "سیستم نمی‌تواند هیچ گواهی ای را بیابد",
+        "The system could not find any certificate"
+      ]
+    },
+    {
+      "EnglishWord": "error767",
+      "Meanings": [
+        "اشتراک اتصال اینترنت میسر نمی‌گردد اتصال LAN بر روی شبکه شخصی انتخاب می‌گردد که بیش از یک آدرس IP را پیکر بندی کرده است. اتصال LANرا با یک آدرسIP مجزا",
+        "مجددا پیکر بندی نمایید قبل از اینکه اشتراک اتصال اینترنت صورت گیرد",
+        "Internet Connection Sharing cannot be enabled The LAN connection selected on the private network has more than one IP address configured Reconfigure the LAN connection with a single IP address before enabling Internet Connection Sharing"
+      ]
+    },
+    {
+      "EnglishWord": "error768",
+      "Meanings": [
+        "به دلیل رمز دار نکردن داده‌ها اتصال صورت نمی‌پذیرد",
+        "The connection attempt failed because of failure to encrypt data"
+      ]
+    },
+    {
+      "EnglishWord": "error769",
+      "Meanings": [
+        "مقصد مشخصی قابل دست یابی نمی‌باشد",
+        "The specified destination is not reachable"
+      ]
+    },
+    {
+      "EnglishWord": "error770",
+      "Meanings": [
+        "دستگاه راه دور تلا ش برای ایجاد اتصال را نمی‌پذیرد",
+        "The remote machine rejected the connection attempt"
+      ]
+    },
+    {
+      "EnglishWord": "error771",
+      "Meanings": [
+        "اقدامات اتصال صورت نمی‌گیرد زیرا شبکه اشغال می‌باشد",
+        "The connection attempt failed because the network is busy"
+      ]
+    },
+    {
+      "EnglishWord": "error772",
+      "Meanings": [
+        "سخت افزار شبکه کامپیوتر راه دور با نوع تلفن مورد نیاز سازگاری ندارد",
+        "The remote computer's network hardware is incompatible with the type of call requested"
+      ]
+    },
+    {
+      "EnglishWord": "error773",
+      "Meanings": [
+        "امکان ایجاد اتصال موثر نمی‌باشد زیرا شماره مقصد تغییر کرده است",
+        "The connection attempt failed because the destination number has changed"
+      ]
+    },
+    {
+      "EnglishWord": "error774",
+      "Meanings": [
+        "به دلیل از کار افتارگی موقت",
+        "اتصال صورت نمی‌گیرد",
+        "The connection attempt failed because of a temporary failure Try connecting again"
+      ]
+    },
+    {
+      "EnglishWord": "error775",
+      "Meanings": [
+        "مکالمه تلفنی توسط کامپیوتر راه دور متوقف شد",
+        "The call was blocked by the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error776",
+      "Meanings": [
+        "مکالمه تلفنی نمی‌تواند وصل گردد زیرا مقصد خواسته است که ویژگی را حفظ نماید",
+        "The call could not be connected because the destination has invoked the Do Not Disturb feature"
+      ]
+    },
+    {
+      "EnglishWord": "error777",
+      "Meanings": [
+        "اتصال صورت نمی‌گیرد زیرا مودم یا سایر وسایل ارتباط دهنده روی کامپیوتر راه دور دچار مشکل می‌باشند",
+        "The connection attempt failed because the modem on the remote computer is out of order"
+      ]
+    },
+    {
+      "EnglishWord": "error778",
+      "Meanings": [
+        "تایید هویت سرور غیر ممکن می‌باشد",
+        "It was not possible to verify the identity of the server"
+      ]
+    },
+    {
+      "EnglishWord": "error779",
+      "Meanings": [
+        "برای بر قراری dial – out این اتصال باید از smartcard استفاده نمایید",
+        "To dial out using this connection, you must use a smart card"
+      ]
+    },
+    {
+      "EnglishWord": "error780",
+      "Meanings": [
+        "عمل انجام شده برای این اتصال بی اعتبار می‌باشد",
+        "An attempted function is not valid for this connection"
+      ]
+    },
+    {
+      "EnglishWord": "error781",
+      "Meanings": [
+        "تلاش برای رمز گذاری encryption صورت نمی‌گیرد زیرا گواهی معتبری یافت نمی‌گردد",
+        "The encryption attempt failed because no valid certificate was found"
+      ]
+    },
+    {
+      "EnglishWord": "error782",
+      "Meanings": [
+        "ترجمه آدرس شبکه NAT در حال حاضر به عنوان یک پروتکل مسیر یابی نصب می‌گردد و باید قبل از اینکه اشتراک اتصال اینترنت فراهم گردد حذف شود",
+        "Network Address Translation NAT is currently installed as a routing protocol, and must be removed before enabling Internet Connection Sharing"
+      ]
+    },
+    {
+      "EnglishWord": "error783",
+      "Meanings": [
+        "اشتراک اتصال اینترنت میسر نمی‌باشد. اتصال LAN که به عنوان شبکه شخصی انتخاب می‌گردد یا فراهم نمی‌شود و یا از شبکه قطع می‌باشد. لطفا قبل از فراهم شدن اشتراک اتصال اینترنت از اتصال آداپتور LAN مطمین شوید",
+        "Internet Connection Sharing cannot be enabled The LAN connection selected as the private network is either not present, or is disconnected from the network Please ensure that the LAN adapter is connected before enabling Internet Connection Sharing"
+      ]
+    },
+    {
+      "EnglishWord": "error784",
+      "Meanings": [
+        "در حالی که این اتصال را در زمان log on استفاده می‌کنید شما نمی‌توانید شماره بگیرید زیرا این اتصال برای استفاده از نام کاربری پیکر بندی شده است که متفاوت از نام کاربر روی smartcard می‌باشد. چنانچه بخواهید آنرا در زمان log on استفاده نمایید باید برای استفاده از username روی کارت smart آنرا پیکربندی کنید",
+        "You cannot dial using this connection at logon time, because it is configured to use a user name different than the one on the smart card If you want to use it at logon time, you must configure it to use the user name on the smart card"
+      ]
+    },
+    {
+      "EnglishWord": "error785",
+      "Meanings": [
+        "در صورت استفاده از این اتصال در زمان log on شما نمی‌توانید شماره گیری نمایید زیرا برای استفاده از یک smartcard پیکر بندی نشده است. چنانچه بخواهید آنرا در زمان log on به کار ببرید باید امکانات این اتصال را تصحیح و آماده نمایید به طوری که smartcard استفاده نماید",
+        "You cannot dial using this connection at logon time, because it is not configured to use a smart card If you want to use it at logon time, you must edit the properties of this connection so that it uses a smart card"
+      ]
+    },
+    {
+      "EnglishWord": "error786",
+      "Meanings": [
+        "مبادرت به اتصال L2TP صورت نمی‌پذیرد زیرا هیچ گواهینامه معتبری برای تصدیق authentication امنیت روی کامپیوتر شما وجود ندارد",
+        "The L2TP connection attempt failed because there is no valid machine certificate on your computer for security authentication"
+      ]
+    },
+    {
+      "EnglishWord": "error787",
+      "Meanings": [
+        "اتصال L2TP غیر ممکن است زیرا لایه امنیتی نمی‌تواند کامپیوتر راه دور را authentication نماید",
+        "The L2TP connection attempt failed because the security layer could not authenticate the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error788",
+      "Meanings": [
+        "تلاش برای ایجاد اتصال L2TP بی نتیجه می‌باشد زیرا لایه امنیتی نمی‌تواند پارامترهای سازگار با کامپیوتر راه دور را فراهم نماید",
+        "The L2TP connection attempt failed because the security layer could not negotiate compatible parameters with the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error789",
+      "Meanings": [
+        "تلاش برای اتصال L2TP فراهم نمی‌گردد زیرا لایه امنیتی با یک خطای پردازشی در طول سازگاری با کامپیوتر راه دور مواجه است",
+        "The L2TP connection attempt failed because the security layer encountered a processing error during initial negotiations with the remote computer"
+      ]
+    },
+    {
+      "EnglishWord": "error790",
+      "Meanings": [
+        "تلاش برای اتصال L2TP صورت نمی‌گیرد زیرا تایید گواهینامه بر روی کامپیوتر راه دور میسر نمی‌باشد",
+        "The L2TP connection attempt failed because certificate validation on the remote computer failed"
+      ]
+    },
+    {
+      "EnglishWord": "error791",
+      "Meanings": [
+        "اتصال L2TP میسر نمی‌باشد زیرا خط مشی امنیتی security policy برای اتصال یافت نمی‌شود",
+        "The L2TP connection attempt failed because security policy for the connection was not found"
+      ]
+    },
+    {
+      "EnglishWord": "error792",
+      "Meanings": [
+        "اتصال L2TP صورت نمی‌گیرد زیرا زمان توافق امنیتی به پایان رسیده است",
+        "The L2TP connection attempt failed because security negotiation timed out"
+      ]
+    },
+    {
+      "EnglishWord": "error793",
+      "Meanings": [
+        "اتصال L2TP میسر نمی‌گردد زیرا این خطا رخ می‌دهد در حالی که در مورد امنیت به توافق می‌رسند",
+        "The L2TP connection attempt failed because an error occurred while negotiating security"
+      ]
+    },
+    {
+      "EnglishWord": "error794",
+      "Meanings": [
+        "ویژگی RADIUS ا ین کاربر PPP نمی‌باشد",
+        "The Framed Protocol RADIUS attribute for this user is not PPP"
+      ]
+    },
+    {
+      "EnglishWord": "error795",
+      "Meanings": [
+        "ویژگی RADIUS نوع تونلی برای این کاربر",
+        "نادرست می‌باشد",
+        "The Tunnel Type RADIUS attribute for this user is not correct"
+      ]
+    },
+    {
+      "EnglishWord": "error796",
+      "Meanings": [
+        "ویژگی RADIUS نوع خدمات برای این کار نه قالب بندی می‌شود و نه callback قالب بندی می‌شود",
+        "The Service Type RADIUS attribute for this user is neither Framed nor Callback Framed"
+      ]
+    },
+    {
+      "EnglishWord": "error797",
+      "Meanings": [
+        "مودم پیدا نشد",
+        "A connection to the remote computer could not be established because the modem was not found or was busy"
+      ]
+    },
+    {
+      "EnglishWord": "error798",
+      "Meanings": [
+        "گواهینامه ای شناسایی نمی‌شود که بتواند پروتکل قابل ارایه استفاده شود",
+        "A certificate could not be found that can be used with this Extensible Authentication Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "error799",
+      "Meanings": [
+        "اشتراک اتصال اینترنت میسر نمی‌گردد زیرا دو IP شبیه به هم در شبکه وجود دارد. IC‌ها به میزبانی نیازمند می‌باشند که برای استفاده از",
+        "پیکر بندی شده است. مطمین شوید که هیچ سرویس گیرنده دیگری برای استفاده از",
+        "پیکر بندی نشده است",
+        "Internet Connection Sharing ICS cannot be enabled due to an IP address conflict on the network ICS requires the host be configured to use 19216801 Please ensure that no other client on the network is configured to use"
+      ]
+    },
+    {
+      "EnglishWord": "error800",
+      "Meanings": [
+        "قادر به ایجاد اتصال VPN نمی‌باشد. سرویس دهنده VPN در دسترس نمی‌باشد و یا ممکن است پارامترهای امنیتی برای اتصال به درستی پیکربندی نشده باشند",
+        "Unable to establish the VPN connection The VPN server may be un",
+        "reachable, or security parameters may not be configured properly for this connection"
+      ]
+    },
+    {
+      "EnglishWord": "explorer",
+      "Meanings": [
+        "کاوشگر",
+        "مطالب مرتبط"
+      ]
+    }
+  ]
+}

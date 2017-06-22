@@ -1,0 +1,942 @@
+﻿{
+  "Group": "F",
+  "Entries": 151,
+  "Words": [
+    {
+      "EnglishWord": "fact",
+      "Meanings": [
+        "واقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "factorial",
+      "Meanings": [
+        "فاکتوریل"
+      ]
+    },
+    {
+      "EnglishWord": "failure function",
+      "Meanings": [
+        "تابع شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fake root",
+      "Meanings": [
+        "ریشه جعلی"
+      ]
+    },
+    {
+      "EnglishWord": "false",
+      "Meanings": [
+        "نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "family tree",
+      "Meanings": [
+        "درخت خویشاوندی"
+      ]
+    },
+    {
+      "EnglishWord": "far address",
+      "Meanings": [
+        "آدرس دور"
+      ]
+    },
+    {
+      "EnglishWord": "far segment",
+      "Meanings": [
+        "قطعه دور"
+      ]
+    },
+    {
+      "EnglishWord": "fast floating point",
+      "Meanings": [
+        "قابلیت اعشاری سریع"
+      ]
+    },
+    {
+      "EnglishWord": "fatal error",
+      "Meanings": [
+        "خطای مهلک"
+      ]
+    },
+    {
+      "EnglishWord": "fatal error message",
+      "Meanings": [
+        "پیام مربوط به یک اشتباه مهلک"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "fault tolerant computer",
+      "Meanings": [
+        "کامپیوتری که قطعات یدکی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "faximile",
+      "Meanings": [
+        "فاکس",
+        "روش کپی و انتقال الکترونیکی یک تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "fclose function",
+      "Meanings": [
+        "تابع Fclose"
+      ]
+    },
+    {
+      "EnglishWord": "feasibility study",
+      "Meanings": [
+        "بررسی امکان سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "اثر برگشتی",
+        "بازخورد"
+      ]
+    },
+    {
+      "EnglishWord": "feof function",
+      "Meanings": [
+        "تابع feof"
+      ]
+    },
+    {
+      "EnglishWord": "fetch",
+      "Meanings": [
+        "واکنشی",
+        "اخذ"
+      ]
+    },
+    {
+      "EnglishWord": "fetch time",
+      "Meanings": [
+        "زمان واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "fgets function",
+      "Meanings": [
+        "تابع fgets"
+      ]
+    },
+    {
+      "EnglishWord": "fiber distributed data interchange fddi",
+      "Meanings": [
+        "شبکه محلی حلقه ای با سرعت 100 میلیون بیت در ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "fiber optics",
+      "Meanings": [
+        "فیبرهای نوری"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field separator",
+      "Meanings": [
+        "جدا کننده فیلد ها"
+      ]
+    },
+    {
+      "EnglishWord": "field width",
+      "Meanings": [
+        "طول فیلد",
+        "اندازه فیلد"
+      ]
+    },
+    {
+      "EnglishWord": "fifth generation computer",
+      "Meanings": [
+        "کامپیوتر نسل پنجم"
+      ]
+    },
+    {
+      "EnglishWord": "file",
+      "Meanings": [
+        "پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "file allocation table",
+      "Meanings": [
+        "fat",
+        "جدول تخصیص فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file compression",
+      "Meanings": [
+        "فشرده سازی فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file control block",
+      "Meanings": [
+        "بلوک کنترل فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file conversion",
+      "Meanings": [
+        "تبدیل فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file declarations",
+      "Meanings": [
+        "معرفی پرونده ها"
+      ]
+    },
+    {
+      "EnglishWord": "file defenitions",
+      "Meanings": [
+        "معرفی پرونده ها"
+      ]
+    },
+    {
+      "EnglishWord": "file format",
+      "Meanings": [
+        "فرمت پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "file growth",
+      "Meanings": [
+        "رشد فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file layout",
+      "Meanings": [
+        "ترکیب فایل",
+        "طرح بندی فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file manager",
+      "Meanings": [
+        "مدیر فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file mangement",
+      "Meanings": [
+        "مدیریت فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file name",
+      "Meanings": [
+        "نام فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file processing",
+      "Meanings": [
+        "پردازش فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file protection",
+      "Meanings": [
+        "حفاظت فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file server",
+      "Meanings": [
+        "سرویس دهنده پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "file sharing",
+      "Meanings": [
+        "به اشتراک گذاری فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file type",
+      "Meanings": [
+        "نوع فایل"
+      ]
+    },
+    {
+      "EnglishWord": "file type specitification",
+      "Meanings": [
+        "مشخصه‌های نوع پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "filename extension",
+      "Meanings": [
+        "پسوند نام فایل"
+      ]
+    },
+    {
+      "EnglishWord": "fill character",
+      "Meanings": [
+        "علامت پرکننده"
+      ]
+    },
+    {
+      "EnglishWord": "fill down",
+      "Meanings": [
+        "تکثیر به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "fill group",
+      "Meanings": [
+        "تکثیر گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "fill handle",
+      "Meanings": [
+        "گیره تکثیر",
+        "دستگیره تکثیر"
+      ]
+    },
+    {
+      "EnglishWord": "fill left",
+      "Meanings": [
+        "تکثیر به چپ"
+      ]
+    },
+    {
+      "EnglishWord": "fill right",
+      "Meanings": [
+        "تکثیر به راست"
+      ]
+    },
+    {
+      "EnglishWord": "fill up",
+      "Meanings": [
+        "تکثیر به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "find",
+      "Meanings": [
+        "جستجو"
+      ]
+    },
+    {
+      "EnglishWord": "finish project",
+      "Meanings": [
+        "نقطه پایانی پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "finiteness",
+      "Meanings": [
+        "محدودیت"
+      ]
+    },
+    {
+      "EnglishWord": "firmware",
+      "Meanings": [
+        "لخت افزار تلفیقی از سخت افزار و نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "first generation",
+      "Meanings": [
+        "نسل اول"
+      ]
+    },
+    {
+      "EnglishWord": "first in frist out  fifo",
+      "Meanings": [
+        "اولین ورودی",
+        "اولین خروجی"
+      ]
+    },
+    {
+      "EnglishWord": "first normal form",
+      "Meanings": [
+        "صورت اول نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "first record",
+      "Meanings": [
+        "اولین رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "fixed disk",
+      "Meanings": [
+        "دیسک ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed length field",
+      "Meanings": [
+        "فیلد با طول ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed length operation",
+      "Meanings": [
+        "عملیات با طول ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed point",
+      "Meanings": [
+        "نقطه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed word length computer",
+      "Meanings": [
+        "کامپیوتر با طول کلمه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "flags",
+      "Meanings": [
+        "نشانه ها",
+        "پرچم ها"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "تخت مسطح"
+      ]
+    },
+    {
+      "EnglishWord": "flat file",
+      "Meanings": [
+        "یکنواخت کننده پرونده",
+        "فایل یک سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "flat panel display",
+      "Meanings": [
+        "صفحه نمایش تخت"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "floating point",
+      "Meanings": [
+        "عدد اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "floating point constanto",
+      "Meanings": [
+        "ثابتهای اعشاری"
+      ]
+    },
+    {
+      "EnglishWord": "floating toolbar",
+      "Meanings": [
+        "نوار ابزار شناور"
+      ]
+    },
+    {
+      "EnglishWord": "floor",
+      "Meanings": [
+        "گرد کردن به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "floppy disk",
+      "Meanings": [
+        "فلاپی دیسک",
+        "دیسک نرم"
+      ]
+    },
+    {
+      "EnglishWord": "flowchart",
+      "Meanings": [
+        "نمودار گردشی",
+        "فلوچارت",
+        "مبتنی بر الگوریتم",
+        "الگوریتم و فلوچارت",
+        "بیان تصویری الگوریتم به کمک مجموعه ای استاندارد از اشکال ساده را فلوچارت یا نمودار گردشی می‌گویند"
+      ]
+    },
+    {
+      "EnglishWord": "flush",
+      "Meanings": [
+        "از حافظه خارج کردن"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "تمرکز یافتن",
+        "فوکوس"
+      ]
+    },
+    {
+      "EnglishWord": "folder",
+      "Meanings": [
+        "پوشه"
+      ]
+    },
+    {
+      "EnglishWord": "font",
+      "Meanings": [
+        "قلم",
+        "نوع خط"
+      ]
+    },
+    {
+      "EnglishWord": "footer",
+      "Meanings": [
+        "پاصفحه",
+        "پانویس"
+      ]
+    },
+    {
+      "EnglishWord": "fopen function",
+      "Meanings": [
+        "تابع fopen"
+      ]
+    },
+    {
+      "EnglishWord": "for all",
+      "Meanings": [
+        "به طور همگانی"
+      ]
+    },
+    {
+      "EnglishWord": "for loop",
+      "Meanings": [
+        "حلقه loop"
+      ]
+    },
+    {
+      "EnglishWord": "for statment",
+      "Meanings": [
+        "دستورات for"
+      ]
+    },
+    {
+      "EnglishWord": "forecasting",
+      "Meanings": [
+        "پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "foreground",
+      "Meanings": [
+        "پیش زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "foreign key",
+      "Meanings": [
+        "کلید خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "forest",
+      "Meanings": [
+        "جنگل"
+      ]
+    },
+    {
+      "EnglishWord": "forier analysis",
+      "Meanings": [
+        "تحلیل فوریه"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "فرم"
+      ]
+    },
+    {
+      "EnglishWord": "form driven",
+      "Meanings": [
+        "محیط دارای فرم"
+      ]
+    },
+    {
+      "EnglishWord": "form feed",
+      "Meanings": [
+        "تغذیه کاغذ"
+      ]
+    },
+    {
+      "EnglishWord": "formal",
+      "Meanings": [
+        "قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "formal arguments",
+      "Meanings": [
+        "آرگومانهای قراردادی"
+      ]
+    },
+    {
+      "EnglishWord": "formal language",
+      "Meanings": [
+        "زبان قرار دادی"
+      ]
+    },
+    {
+      "EnglishWord": "formal logic",
+      "Meanings": [
+        "منطق قرار دادی"
+      ]
+    },
+    {
+      "EnglishWord": "formal parameters",
+      "Meanings": [
+        "پارامتر‌های قرار دادی"
+      ]
+    },
+    {
+      "EnglishWord": "format",
+      "Meanings": [
+        "قالب بندی",
+        "ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "format control flag",
+      "Meanings": [
+        "پرچم مختص کنترل ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "format field",
+      "Meanings": [
+        "میدان ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "formatting",
+      "Meanings": [
+        "فرمت کردن",
+        "فرم دهی",
+        "شکل دهی"
+      ]
+    },
+    {
+      "EnglishWord": "formatting character",
+      "Meanings": [
+        "علامت ساختاری"
+      ]
+    },
+    {
+      "EnglishWord": "formatting flag",
+      "Meanings": [
+        "پرچم مختص شکل دهی"
+      ]
+    },
+    {
+      "EnglishWord": "formula edit box",
+      "Meanings": [
+        "کادر ویرایش فرمول"
+      ]
+    },
+    {
+      "EnglishWord": "formulation",
+      "Meanings": [
+        "فرموله کردن"
+      ]
+    },
+    {
+      "EnglishWord": "forth generation techniques",
+      "Meanings": [
+        "روش‌های نسل چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "fortran",
+      "Meanings": [
+        "Formula Translation",
+        "فرترن",
+        "اولین زبان سطح بالا"
+      ]
+    },
+    {
+      "EnglishWord": "forward",
+      "Meanings": [
+        "به جلو"
+      ]
+    },
+    {
+      "EnglishWord": "forward error correction",
+      "Meanings": [
+        "تصحیح خطا در مقصد"
+      ]
+    },
+    {
+      "EnglishWord": "forward fuction declaration",
+      "Meanings": [
+        "معرفی توابع از پیش"
+      ]
+    },
+    {
+      "EnglishWord": "forward stage",
+      "Meanings": [
+        "زمان پیشرو"
+      ]
+    },
+    {
+      "EnglishWord": "fourth",
+      "Meanings": [
+        "چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "fourth generation",
+      "Meanings": [
+        "نسل چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "fourth generation language 4gl",
+      "Meanings": [
+        "زبان نسل چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "fourth normal form",
+      "Meanings": [
+        "صورت چهارم نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "fprintf function",
+      "Meanings": [
+        "تابع FprintF"
+      ]
+    },
+    {
+      "EnglishWord": "fragmentation",
+      "Meanings": [
+        "تکه تکه شدن"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب",
+        "چهار چوب"
+      ]
+    },
+    {
+      "EnglishWord": "frame buffer",
+      "Meanings": [
+        "بافر ناحیه ای از ram که محتوای صفحه نمایش را نگه می‌دارد"
+      ]
+    },
+    {
+      "EnglishWord": "fread function",
+      "Meanings": [
+        "تابع fread"
+      ]
+    },
+    {
+      "EnglishWord": "free chain",
+      "Meanings": [
+        "زنجیر آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "free software",
+      "Meanings": [
+        "نرم افزار مجانی آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freeze columns",
+      "Meanings": [
+        "ثابت کردن ستون ها"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "فرکانس",
+        "بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency count",
+      "Meanings": [
+        "شمار فراوانی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency division multiplexing",
+      "Meanings": [
+        "فرآیند تخصیص یک کانال به چندین کاربر مختلف"
+      ]
+    },
+    {
+      "EnglishWord": "friend function",
+      "Meanings": [
+        "تابع دوست"
+      ]
+    },
+    {
+      "EnglishWord": "front",
+      "Meanings": [
+        "ابتدا"
+      ]
+    },
+    {
+      "EnglishWord": "front end",
+      "Meanings": [
+        "خط مقدم"
+      ]
+    },
+    {
+      "EnglishWord": "front end processor",
+      "Meanings": [
+        "کامپیوتر ارتباط دهنده بین کامپیوتر مرکزی و ترمینال"
+      ]
+    },
+    {
+      "EnglishWord": "fscanf function",
+      "Meanings": [
+        "تابع fscanf"
+      ]
+    },
+    {
+      "EnglishWord": "full binary tree",
+      "Meanings": [
+        "درخت دودویی پر"
+      ]
+    },
+    {
+      "EnglishWord": "full duplex",
+      "Meanings": [
+        "روش ارتباطی برای ارسال و دریافت هم زمان داده‌ها بین دو کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "full outer natural join",
+      "Meanings": [
+        "پیوند بیرونی‌تر طبیعی کامل یا متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "full outer theta join",
+      "Meanings": [
+        "پیوند بیرونی‌تر طبیعی کامل یا متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "full text retrieval software",
+      "Meanings": [
+        "نرم افزار بازیابی متن"
+      ]
+    },
+    {
+      "EnglishWord": "function call",
+      "Meanings": [
+        "فراخوانی تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function definitions",
+      "Meanings": [
+        "تعریف تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function heading",
+      "Meanings": [
+        "عنوان تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function key",
+      "Meanings": [
+        "کلید‌های عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "function overloading",
+      "Meanings": [
+        "سربار گذاری تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function pointer",
+      "Meanings": [
+        "اشاره گر به یک تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function prototypes",
+      "Meanings": [
+        "نمونه‌های اولیه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function refrence",
+      "Meanings": [
+        "مراجع تابع"
+      ]
+    },
+    {
+      "EnglishWord": "function type specifications",
+      "Meanings": [
+        "مشخصه‌های نوع تابع"
+      ]
+    },
+    {
+      "EnglishWord": "functional keys",
+      "Meanings": [
+        "کلیدهای تابع",
+        "کلید‌های کاربردی",
+        "مطلب مرتبط",
+        "این 12 کلید هر کدام به تنهایی یا به همراه کلیدهای کنترلی Ctrl یا Alt کارهای خاصی را در برنامه‌های مختلف به عنوان میانبر یا shortcut انجام می‌دهند",
+        "مثلا\"\" F1 در اکثر برنامه‌ها help برنامه را اجرا میکند. و یا F5 در اینترنت صفحه را refresh میکند. و یا در برنامه NC کلید F10 از برنامه خارج میشود. و یا کلید alt به همراه F4 پنجره ویندوز را میبندد",
+        "تذکر مهم: \u000bکاربرد این کلیدها به تنهایی یا به همراه Ctrl و Alt در هر برنامه ای می‌تواند متغیر باشد و باید در آن برنامه به نحوه استفاده و انتخاب آنها از برنامه help کمک گرفت"
+      ]
+    },
+    {
+      "EnglishWord": "functional specification",
+      "Meanings": [
+        "تشخیص نیازمندی‌های یک سیستم کامپیوتری"
+      ]
+    },
+    {
+      "EnglishWord": "functional team",
+      "Meanings": [
+        "تیم وظیفه"
+      ]
+    }
+  ]
+}

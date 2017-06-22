@@ -1,0 +1,380 @@
+﻿{
+  "Group": "M",
+  "Entries": 61,
+  "Words": [
+    {
+      "EnglishWord": "m",
+      "Meanings": [
+        "Magnetic"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic dip",
+      "Meanings": [
+        "زاویه بین حوزه مغناطیسی محلی و سطح افقی محلی"
+      ]
+    },
+    {
+      "EnglishWord": "make good",
+      "Meanings": [
+        "حصول",
+        "بدست آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "manipulate",
+      "Meanings": [
+        "اداره کردن"
+      ]
+    },
+    {
+      "EnglishWord": "manoeuvre",
+      "Meanings": [
+        "مانور"
+      ]
+    },
+    {
+      "EnglishWord": "manoeuvring area",
+      "Meanings": [
+        "ناحیه مانور"
+      ]
+    },
+    {
+      "EnglishWord": "map",
+      "Meanings": [
+        "Missed Approach Point"
+      ]
+    },
+    {
+      "EnglishWord": "map overlay",
+      "Meanings": [
+        "نقشه ای که روی صفحه رادار قرار داده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "mariner",
+      "Meanings": [
+        "دریانورد"
+      ]
+    },
+    {
+      "EnglishWord": "mat",
+      "Meanings": [
+        "پوشش قابل انعطافی که در فرودگاههای فصلی گسترده می‌گردد تا برای عملیات هواپیماهای v/STOL آماده گردد"
+      ]
+    },
+    {
+      "EnglishWord": "match",
+      "Meanings": [
+        "تطبیق دادن"
+      ]
+    },
+    {
+      "EnglishWord": "matz",
+      "Meanings": [
+        "Military Aerodrome Traffic Zone"
+      ]
+    },
+    {
+      "EnglishWord": "maximum certificated take off mass",
+      "Meanings": [
+        "حداکثر جرم مجاز هنگام پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "maximum cruising speed",
+      "Meanings": [
+        "حداکثر سرعت در پرواز افقی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum payload range",
+      "Meanings": [
+        "برد هواپیما با حداکثر ظرفیت ترابری"
+      ]
+    },
+    {
+      "EnglishWord": "mb",
+      "Meanings": [
+        "Millibar"
+      ]
+    },
+    {
+      "EnglishWord": "mcu",
+      "Meanings": [
+        "Management Control Unit"
+      ]
+    },
+    {
+      "EnglishWord": "mda",
+      "Meanings": [
+        "Minimum Descent Altitude"
+      ]
+    },
+    {
+      "EnglishWord": "mdh",
+      "Meanings": [
+        "Minimum Descent Height"
+      ]
+    },
+    {
+      "EnglishWord": "meaningful communication",
+      "Meanings": [
+        "ارتباط منطقی"
+      ]
+    },
+    {
+      "EnglishWord": "meda",
+      "Meanings": [
+        "Military Emergency Diversion Airfield"
+      ]
+    },
+    {
+      "EnglishWord": "medevac",
+      "Meanings": [
+        "medical evacuation"
+      ]
+    },
+    {
+      "EnglishWord": "merge",
+      "Meanings": [
+        "یکی شدن",
+        "ترکیب",
+        "ادغام"
+      ]
+    },
+    {
+      "EnglishWord": "meridian",
+      "Meanings": [
+        "نصف النهار"
+      ]
+    },
+    {
+      "EnglishWord": "met",
+      "Meanings": [
+        "Meteorology"
+      ]
+    },
+    {
+      "EnglishWord": "meteorological information",
+      "Meanings": [
+        "اطلاعات هواشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "meteorological office",
+      "Meanings": [
+        "اداره هواشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "meteorological report",
+      "Meanings": [
+        "گزارش هواشناسی"
+      ]
+    },
+    {
+      "EnglishWord": "mf",
+      "Meanings": [
+        "Medium Frequency"
+      ]
+    },
+    {
+      "EnglishWord": "mfa",
+      "Meanings": [
+        "Military Flying Area"
+      ]
+    },
+    {
+      "EnglishWord": "mh",
+      "Meanings": [
+        "Magnetic Heading"
+      ]
+    },
+    {
+      "EnglishWord": "mhz",
+      "Meanings": [
+        "Megahertz"
+      ]
+    },
+    {
+      "EnglishWord": "minimum sector altitude",
+      "Meanings": [
+        "حداقل ارتفاع بخش"
+      ]
+    },
+    {
+      "EnglishWord": "minute",
+      "Meanings": [
+        "صورت مذاکرات"
+      ]
+    },
+    {
+      "EnglishWord": "misconstrued",
+      "Meanings": [
+        "اشتباه",
+        "تعبیر سوء",
+        "برداشت غلط"
+      ]
+    },
+    {
+      "EnglishWord": "missed approach procedure",
+      "Meanings": [
+        "دستورالعمل انصراف از تقرب"
+      ]
+    },
+    {
+      "EnglishWord": "mls",
+      "Meanings": [
+        "Microwave Landing System"
+      ]
+    },
+    {
+      "EnglishWord": "mlw",
+      "Meanings": [
+        "Maximum Landing Weight"
+      ]
+    },
+    {
+      "EnglishWord": "mm",
+      "Meanings": [
+        "millimetre's"
+      ]
+    },
+    {
+      "EnglishWord": "mmars",
+      "Meanings": [
+        "Military Middle Airspace Radar Service"
+      ]
+    },
+    {
+      "EnglishWord": "moa",
+      "Meanings": [
+        "Military Operations Area"
+      ]
+    },
+    {
+      "EnglishWord": "mod",
+      "Meanings": [
+        "UK's Ministry of Defence"
+      ]
+    },
+    {
+      "EnglishWord": "mod",
+      "Meanings": [
+        "Modification To An Aircraft Or Equipment"
+      ]
+    },
+    {
+      "EnglishWord": "mode",
+      "Meanings": [
+        "مد",
+        "عدد یا حرفی است که مربوط به فاصله بین پالس هایی می‌باشد که بوسیله پرسشگر SSR"
+      ]
+    },
+    {
+      "EnglishWord": "modification",
+      "Meanings": [
+        "تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "modification message",
+      "Meanings": [
+        "پیغام تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "monitor",
+      "Meanings": [
+        "نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "monsoon",
+      "Meanings": [
+        "بادهایی که جهت آنها به طور فصلی تغییر می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "motion",
+      "Meanings": [
+        "پیشنهاد رسمی که ممکن است به رای گیری گذاشته شود"
+      ]
+    },
+    {
+      "EnglishWord": "movement and control message",
+      "Meanings": [
+        "پیام حرکت و کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "movement area",
+      "Meanings": [
+        "ناحیه تردد"
+      ]
+    },
+    {
+      "EnglishWord": "mower",
+      "Meanings": [
+        "ماشین چمن زنی"
+      ]
+    },
+    {
+      "EnglishWord": "mph",
+      "Meanings": [
+        "Miles Per Hour"
+      ]
+    },
+    {
+      "EnglishWord": "mpi",
+      "Meanings": [
+        "Major Periodic Inspection"
+      ]
+    },
+    {
+      "EnglishWord": "msa",
+      "Meanings": [
+        "Minimum Sector Altitude Or Minimum Safe Altitude"
+      ]
+    },
+    {
+      "EnglishWord": "msl",
+      "Meanings": [
+        "Mean Sea Level"
+      ]
+    },
+    {
+      "EnglishWord": "mtbf",
+      "Meanings": [
+        "Mean Time Between Failures"
+      ]
+    },
+    {
+      "EnglishWord": "mtma",
+      "Meanings": [
+        "Military Terminal Control Area"
+      ]
+    },
+    {
+      "EnglishWord": "mtow",
+      "Meanings": [
+        "Maximum Take",
+        "Off Weight"
+      ]
+    },
+    {
+      "EnglishWord": "mtwa",
+      "Meanings": [
+        "Maximum Total Weight Authorised"
+      ]
+    },
+    {
+      "EnglishWord": "multiplicity",
+      "Meanings": [
+        "کثرت",
+        "تعدد"
+      ]
+    }
+  ]
+}

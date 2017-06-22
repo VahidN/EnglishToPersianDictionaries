@@ -1,0 +1,699 @@
+﻿{
+  "Group": "C",
+  "Entries": 95,
+  "Words": [
+    {
+      "EnglishWord": "c",
+      "Meanings": [
+        "یکی از قویترین زبانهای اصلی برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "call",
+      "Meanings": [
+        "کلمه ای برای اجرای یک کد که بعد از آن می‌آید و حتما متغیرهای آن باید درون پرانتز قرار گیرد",
+        "Call ] name",
+        "مثلا در دستور زیر",
+        "Msgbox \"\"Message"
+      ]
+    },
+    {
+      "EnglishWord": "cancel",
+      "Meanings": [
+        "لغو",
+        "متغیری در رویداد"
+      ]
+    },
+    {
+      "EnglishWord": "caption",
+      "Meanings": [
+        "عنوان",
+        "خصیصه که عنوان شیء مورد نظر را نشان می‌دهد و در جعبه Properties قرار دارد و تا 255 کاراکتر را پشتیبانی می‌کند. خصیصه پیش فرض اشیاء Caption است یعنی اگر بنویسیم",
+        "Lbl = \"\"Text",
+        "مثل این است که نوشته باشیم",
+        "lbl.caption = \"\"text",
+        "اگر در این خصیصه از کاراکتر &amp; استفاده کنید خط کوچکی زیر حرف بعدی آن قرار می‌گیرد و این یعنی این که با فشردن کلید Alt و آن حرف آن کد اجرا می‌شود",
+        "وقتی شما یک شیء می‌شازید عنوان پیش فرض آن نام آن شیء همراه با عددی می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "cbo",
+      "Meanings": [
+        "C om bo",
+        "کومبو",
+        "این لغت برای نامگذاری جعبه کومبوها ComboBox استفاده می‌شود به صورت cboName"
+      ]
+    },
+    {
+      "EnglishWord": "cbool",
+      "Meanings": [
+        "دستوری که متغیر را به Boolean تبدیل می‌کند",
+        "CBool Expression"
+      ]
+    },
+    {
+      "EnglishWord": "cbyte",
+      "Meanings": [
+        "دستوری که متغیر را به Byte تبدیل می‌کند",
+        "CByte Expression"
+      ]
+    },
+    {
+      "EnglishWord": "ccur",
+      "Meanings": [
+        "دستوری که متغیر را به Currency تبدیل می‌کند",
+        "CCur Expression"
+      ]
+    },
+    {
+      "EnglishWord": "cdate",
+      "Meanings": [
+        "دستوری که متغیر را به Date تبدیل می‌کند",
+        "CDate Expression"
+      ]
+    },
+    {
+      "EnglishWord": "cdec",
+      "Meanings": [
+        "دستوری که متغیر را به Decimal تبدیل می‌کند",
+        "CDec Expression"
+      ]
+    },
+    {
+      "EnglishWord": "cdlcfboth",
+      "Meanings": [
+        "یکی از گزینه‌های مربوط به متدد ShowFonts کامپوننت Microsoft Common Dialog Control که فونتهای چاپگر و صفحه نمایش را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "cdlcfprinterfonts",
+      "Meanings": [
+        "یکی از گزینه‌های مربوط به متدد ShowFonts کامپوننت Microsoft Common Dialog Control که فقط فونتهای چاپگر را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "cdlcfscreenfonts",
+      "Meanings": [
+        "یکی از گزینه‌های مربوط به متدد ShowFonts کامپوننت Microsoft Common Dialog Control که فقط فونتهای صفحه نمایش را نشان می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "cdlofnhidereadonly",
+      "Meanings": [
+        "یکی از خصیصه‌های Flags کامپوننت Microsoft Common Dialog Control که دکمه Read Only را از جعبه هایش حذف می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "centimeter",
+      "Meanings": [
+        "سانتی متر",
+        "مقیاسی که برابر یک صدم متر می‌باشد و مقدار عددی آن برابر هفت است"
+      ]
+    },
+    {
+      "EnglishWord": "change",
+      "Meanings": [
+        "تغییر دادن",
+        "رویدادی که هنگام تغییر دادن یک شیء اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "character",
+      "Meanings": [
+        "کاراکتر",
+        "مقیاسی که برابر با 12 نقطه می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "characters",
+      "Meanings": [
+        "یکی از متددهای Microsoft Agent برای کنترل کارکترهای آن",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "checkbox",
+      "Meanings": [
+        "جعبه چک",
+        "یکی از شیء‌های VB که شکل یک جعبه انتخابی همراه با یک متن در کنار آن را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "عنوان آن خصیصه Caption",
+        "رنگ آن خصیصه BackColor",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "checked",
+      "Meanings": [
+        "انتخاب شده",
+        "یکی از گزینه‌های خصیصه Value جعبه چکها که مشخص می‌کند که جعبه چک انتخاب شده",
+        "و مقدار آن یک است و با vbChecked در مدول معین می‌شود",
+        "یکی از گزینه‌های Menu Editor که مشخص می‌کند که آن انتخاب شده باشد یا نه"
+      ]
+    },
+    {
+      "EnglishWord": "chk",
+      "Meanings": [
+        "Ch ec k",
+        "این لغت برای نامگذاری جعبه چکها CheckBox استفاده می‌شود به صورت ChkName"
+      ]
+    },
+    {
+      "EnglishWord": "chm",
+      "Meanings": [
+        "HTML Help",
+        "فایلهای کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "choose",
+      "Meanings": [
+        "انتخاب کردن",
+        "دستوری که از بین چند متغیر یکی از آنها را که با یک عدد مشخص می‌شود را بر می‌گزیند",
+        "Choose index"
+      ]
+    },
+    {
+      "EnglishWord": "chr",
+      "Meanings": [
+        "Ch a r acter",
+        "کاراکتر",
+        "دستوری که را به کاراکتر تبدیل می‌کند",
+        "Chr AsciiCode",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "chrw",
+      "Meanings": [
+        "این تابع کد یونیکد کد وارد شده را بر میگرداند"
+      ]
+    },
+    {
+      "EnglishWord": "cint",
+      "Meanings": [
+        "دستوری که متغیر را به Integer تبدیل می‌کند",
+        "CInteger Expression"
+      ]
+    },
+    {
+      "EnglishWord": "circle",
+      "Meanings": [
+        "دایره",
+        "دستوری برای رسم دایره",
+        "Circle x"
+      ]
+    },
+    {
+      "EnglishWord": "clear",
+      "Meanings": [
+        "پاک کردن",
+        "یکی از خاصیتهای جعبه لیست و کومبو و… برای پاک کردن آیتمهای آن",
+        "یکی از متددهای"
+      ]
+    },
+    {
+      "EnglishWord": "click",
+      "Meanings": [
+        "کلیک",
+        "رویدادی که هنگام کلیک کردن اجرا می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "clipboard",
+      "Meanings": [
+        "کلیپ برد",
+        "شیءیی که بر محتویات کلیپ برد کار می‌کند",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "clng",
+      "Meanings": [
+        "دستوری که متغیر را به Long تبدیل می‌کند",
+        "CLng Expression"
+      ]
+    },
+    {
+      "EnglishWord": "clr",
+      "Meanings": [
+        "Cl ea r",
+        "پاک کردن"
+      ]
+    },
+    {
+      "EnglishWord": "cls",
+      "Meanings": [
+        "فایلهای Class module",
+        "Cl ear S creen",
+        "دستوری برای پاک کردن محتویات چاپ شده روی صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "cmd",
+      "Meanings": [
+        "C o m man d",
+        "فرمان",
+        "این لغت برای نامگذاری دکمه‌ها CommandButton استفاده می‌شود به صورت CmdName"
+      ]
+    },
+    {
+      "EnglishWord": "code editor window",
+      "Meanings": [
+        "پنجره ای که در آن کدها به نمایش در می‌آیند"
+      ]
+    },
+    {
+      "EnglishWord": "collection",
+      "Meanings": [
+        "کلکسیون",
+        "نوعی از متغیرها که از چند لغت یک کلکسیون می‌سازد",
+        "Dim VarName As New Collection"
+      ]
+    },
+    {
+      "EnglishWord": "color",
+      "Meanings": [
+        "رنگ",
+        "یکی از خصیصه‌های Microsoft Common Dialog Control که رنگ انتخاب شده را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "color dialog",
+      "Meanings": [
+        "جعبه فونت",
+        "یکی از متددهای Microsoft Common Dialog Control که جعبه رنگها را نشان می‌دهد",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "colormode",
+      "Meanings": [
+        "حالت رنگ",
+        "یکی از متددهای شیء پرینتر که اگر پرینتر رنگی باشد",
+        "رنگی یا تک رنگ بودن چاپ را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "combobox",
+      "Meanings": [
+        "جعبه کومبو",
+        "یکی از شیء‌های VB که شکل یک جعبه کومبو کادر بازشدنی را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "متنهای دورن آن خصیصه List",
+        "رنگ آن خصیصه BackColor",
+        "رنگ متن درون آن Forecolor",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "commandbutton",
+      "Meanings": [
+        "دکمه فرمان",
+        "یکی از شیء‌های VB که شکل یک دکمه را بر روی فرم ایجاد می‌کند و در جعبه ابزار قرار دارد. برای تغییر نام آن از خصیصه Name",
+        "عنوان آن خصیصه Caption",
+        "رنگ آن خصیصه BackColor",
+        "شکل ظاهری آن Appearance",
+        "فعال یا غیر فعال بودن Enabled",
+        "فونت آن Font",
+        "طول و عرض و مکان آن در صفحه Weight"
+      ]
+    },
+    {
+      "EnglishWord": "comment",
+      "Meanings": [
+        "توضیحات",
+        "توضیحات متنهایی هستند که به عنوان توضیح به کار برده می‌شوند و بودن و نبودن آنها فرقی ندارد",
+        "برای اضافه کردن توضیحات پس از وارد کردن ' یا Rem توضیحات مورد نظر را بنویسید. مثلا",
+        "Rem Start",
+        "Test"
+      ]
+    },
+    {
+      "EnglishWord": "comments",
+      "Meanings": [
+        "توضیحات",
+        "یکی از خصیصه‌های App که توضیحات برنامه اجرایی را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "commondialog",
+      "Meanings": [
+        "یکی از اشیاء ActiveX برای نمایش پنجره‌های استاندارد مانند Open"
+      ]
+    },
+    {
+      "EnglishWord": "commport",
+      "Meanings": [
+        "یکی از متددهای Communications Control که شماره پورت را تعیین می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "communications control",
+      "Meanings": [
+        "کنترلی برای برقراری ارتباط با شبکه",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "companyname",
+      "Meanings": [
+        "نام کمپانی",
+        "یکی از خصیصه‌های App که نام کمپانی را بر می‌گرداند"
+      ]
+    },
+    {
+      "EnglishWord": "compile",
+      "Meanings": [
+        "کامپایل",
+        "برای انجام تنظیمات کامپایل زبانه Compile را از Project Properties انتخاب کنید"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "جزء",
+        "هر نرم افزاری که در ویندوز نصب شود فایلهای Ocx ایجاد می‌کند که به آنها component می‌گویند"
+      ]
+    },
+    {
+      "EnglishWord": "components",
+      "Meanings": [
+        "پنجره ای برای وارد کردن component فایلهای Ocx به پروژه در منوی Project و کلید میانبر Ctrl+T"
+      ]
+    },
+    {
+      "EnglishWord": "concatenation operator",
+      "Meanings": [
+        "عملگر الحاق",
+        "برای چسباندن دو رشته به هم از &amp; استفاده می‌کنیم. مانند",
+        "result = expression1 &amp; expression"
+      ]
+    },
+    {
+      "EnglishWord": "condition",
+      "Meanings": [
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "connectionstring",
+      "Meanings": [
+        "رشته اتصال",
+        "یکی از گزینه‌های ADODC برای اتصال به یک بانک اطلاعاتی"
+      ]
+    },
+    {
+      "EnglishWord": "const",
+      "Meanings": [
+        "const ant",
+        "متغیر ثابت",
+        "Const constantname = expression"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "ثابت",
+        "مقدار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constants",
+      "Meanings": [
+        "یکی از گزینه‌های API Type برنامه API Viewer برای دستورات Const"
+      ]
+    },
+    {
+      "EnglishWord": "control",
+      "Meanings": [
+        "کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "control array",
+      "Meanings": [
+        "گروهی از کنترلها که نام و نوع و شکل و… مشترکی دارند و به وسیله یک عدد اندیس شاخص از یکدیگر متمایز می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "control menu box",
+      "Meanings": [
+        "دکمه‌های درون نوار عنوان مانند Max"
+      ]
+    },
+    {
+      "EnglishWord": "controlbox",
+      "Meanings": [
+        "خصیصه ای از فرمها برای حذف دکمه‌های درون نوار عنوان"
+      ]
+    },
+    {
+      "EnglishWord": "copies",
+      "Meanings": [
+        "میزان کپی برداری",
+        "یکی از متددهای شیء پرینتر که تعداد چاپ را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "copy",
+      "Meanings": [
+        "کپی",
+        "برای کپی کردن از منوی Edit گزینه Copy را انتخاب کنید یا Ctrl+C را فشار دهید"
+      ]
+    },
+    {
+      "EnglishWord": "copyfile",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای کپی یک فایل",
+        "object . CopyFile source"
+      ]
+    },
+    {
+      "EnglishWord": "copyfolder",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای کپی یک فولدر",
+        "object . CopyFolder source"
+      ]
+    },
+    {
+      "EnglishWord": "cos",
+      "Meanings": [
+        "Cos ine",
+        "کسینوس",
+        "خروجی این تابع عددی از نوع double است که برابر کسینوس زاویه ورودی است",
+        "Cos number"
+      ]
+    },
+    {
+      "EnglishWord": "cosec",
+      "Meanings": [
+        "CoSec ant",
+        "سکانت",
+        "برای بدست آوردن کسکانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Cosec X = 1 / Sin X"
+      ]
+    },
+    {
+      "EnglishWord": "cosecant",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "cosine",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "cot",
+      "Meanings": [
+        "Cot angent",
+        "کتانژانت",
+        "برای بدست آوردن کتانژانت یک زاویه از فرمول زیر استفاده می‌کنیم",
+        "Cotan X = 1 / Tan X"
+      ]
+    },
+    {
+      "EnglishWord": "cotan",
+      "Meanings": [
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "cotangent",
+      "Meanings": [
+        "کتانژانت",
+        "رجوع به"
+      ]
+    },
+    {
+      "EnglishWord": "count",
+      "Meanings": [
+        "شمار",
+        "متددی که تعداد اشیاء با یک نام را مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "cp",
+      "Meanings": [
+        "C om p are",
+        "مقایسه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "createellipticrgn",
+      "Meanings": [
+        "Private Declare Function CreateEllipticRgn Lib \"\"gdi32\"\" ByVal X1 As Long"
+      ]
+    },
+    {
+      "EnglishWord": "createfolder",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای ساخت یک فولدر",
+        "object . CreateFolder foldername"
+      ]
+    },
+    {
+      "EnglishWord": "createobject",
+      "Meanings": [
+        "دستوری برای ساخت یک شیء",
+        "CreateObject servername.typename ["
+      ]
+    },
+    {
+      "EnglishWord": "createtextfile",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای ساخت یک فایل",
+        "object . CreateTextFile filename ["
+      ]
+    },
+    {
+      "EnglishWord": "cross",
+      "Meanings": [
+        "متقاطع",
+        "گزینه شماره 2 خاصیت MousePointer که به شکل + می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "csng",
+      "Meanings": [
+        "دستوری که متغیر را به Single تبدیل می‌کند",
+        "CSng Expression"
+      ]
+    },
+    {
+      "EnglishWord": "cstr",
+      "Meanings": [
+        "دستوری که متغیر را به String تبدیل می‌کند",
+        "CStr Expression"
+      ]
+    },
+    {
+      "EnglishWord": "ctl",
+      "Meanings": [
+        "User Control file"
+      ]
+    },
+    {
+      "EnglishWord": "ctrl",
+      "Meanings": [
+        "C on t ro l",
+        "دکمه کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "ctx",
+      "Meanings": [
+        "User Control binary file"
+      ]
+    },
+    {
+      "EnglishWord": "cur",
+      "Meanings": [
+        "Cur rency"
+      ]
+    },
+    {
+      "EnglishWord": "curdir",
+      "Meanings": [
+        "Cur rent Dir ectory",
+        "دایرکتوری فعلی",
+        "CurDir"
+      ]
+    },
+    {
+      "EnglishWord": "curdir$",
+      "Meanings": [
+        "Cur rent Dir ectory",
+        "دایرکتوری فعلی",
+        "CurDir$"
+      ]
+    },
+    {
+      "EnglishWord": "currency",
+      "Meanings": [
+        "پول",
+        "نوعی از متغیرها که مقدار آن برابر هشت بایت است و کنار آن علامتی مانند $ یا ریال واحد پول قرار می‌گیرد و مقدار آن برابر است با"
+      ]
+    },
+    {
+      "EnglishWord": "currentx",
+      "Meanings": [
+        "متغیری که مختصات کرسر را در محور Xها مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "currenty",
+      "Meanings": [
+        "متغیری که مختصات کرسر را در محور Yها مشخص می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "cursor",
+      "Meanings": [
+        "کرسر",
+        "شکل اشاره گر ماوس"
+      ]
+    },
+    {
+      "EnglishWord": "cursorlocation",
+      "Meanings": [
+        "خصیصه ای از ADODC که محل کاربر را معین می‌کند که در Server است یا در Client"
+      ]
+    },
+    {
+      "EnglishWord": "cursortype",
+      "Meanings": [
+        "خصیصه ای از ADODC که نوع RecordSet را معین می‌کند static"
+      ]
+    },
+    {
+      "EnglishWord": "custom",
+      "Meanings": [
+        "سفارشی",
+        "اگر خاصیت MousePointer را به 99 تغییر دهید آنگاه میتوانید در قسمت MouseIcon یک کرسر دلخواه برای مکان نمای ماوس انتخاب کنید",
+        "یکی از خاصیتهای کامپوننتها که ابزارهایی مربوط به سفارشی کردن آن شیء را دارا است"
+      ]
+    },
+    {
+      "EnglishWord": "cut",
+      "Meanings": [
+        "بریدن",
+        "برای بریدن از منوی Edit گزینه Cut را انتخاب کنید یا Ctrl+X را فشار دهید"
+      ]
+    },
+    {
+      "EnglishWord": "cvar",
+      "Meanings": [
+        "دستوری که متغیر را به Variant تبدیل می‌کند",
+        "CVar Expression"
+      ]
+    }
+  ]
+}

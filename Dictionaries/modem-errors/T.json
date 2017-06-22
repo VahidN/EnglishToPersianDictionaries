@@ -1,0 +1,45 @@
+﻿{
+  "Group": "T",
+  "Entries": 6,
+  "Words": [
+    {
+      "EnglishWord": "tapi",
+      "Meanings": [
+        "Telephony Application Programming Program Interface",
+        "Telephony API"
+      ]
+    },
+    {
+      "EnglishWord": "tcp",
+      "Meanings": [
+        "transmission control protocol"
+      ]
+    },
+    {
+      "EnglishWord": "tcp/ip",
+      "Meanings": [
+        "مخفف Transmission Control Protocol/Internet Protocol"
+      ]
+    },
+    {
+      "EnglishWord": "telco",
+      "Meanings": [
+        "telephone company"
+      ]
+    },
+    {
+      "EnglishWord": "telco-provided",
+      "Meanings": [
+        "پست صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "tone",
+      "Meanings": [
+        "شماره گیری به شکل صدای بوق",
+        "رجوع به",
+        "مطالب مرتبط"
+      ]
+    }
+  ]
+}

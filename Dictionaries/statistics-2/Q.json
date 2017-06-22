@@ -1,0 +1,397 @@
+﻿{
+  "Group": "Q",
+  "Entries": 65,
+  "Words": [
+    {
+      "EnglishWord": "quade test for general alternative",
+      "Meanings": [
+        "آزمون کووید برای فرض مقابل کلی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrant dependence",
+      "Meanings": [
+        "وابستگی ربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrat sampling",
+      "Meanings": [
+        "نمونه گیری مربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic equation",
+      "Meanings": [
+        "معادله درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic form",
+      "Meanings": [
+        "صورت درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic function",
+      "Meanings": [
+        "تابع درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic loss function",
+      "Meanings": [
+        "تابع زیان درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic mean",
+      "Meanings": [
+        "میانگین درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic polynomial",
+      "Meanings": [
+        "چندجمله‌ای درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadratic variance function",
+      "Meanings": [
+        "تابع واریانس درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "quadrature",
+      "Meanings": [
+        "مربع‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrigamma function",
+      "Meanings": [
+        "تابع چهارگاما"
+      ]
+    },
+    {
+      "EnglishWord": "quadrinormal distribution",
+      "Meanings": [
+        "توزیع مجذوری‌نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative data",
+      "Meanings": [
+        "داده‌‌های کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "quality control",
+      "Meanings": [
+        "کنترل کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality measurement",
+      "Meanings": [
+        "اندازه‌گیری کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quality measurement plan",
+      "Meanings": [
+        "برنامه اندازه‌گیری کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "quandt-ramsey estimator",
+      "Meanings": [
+        "برآوردگر کوانت",
+        "رمزی"
+      ]
+    },
+    {
+      "EnglishWord": "quantal data",
+      "Meanings": [
+        "داده‌‌های چندایی"
+      ]
+    },
+    {
+      "EnglishWord": "quantal response analysis",
+      "Meanings": [
+        "تحلیل پاسخ چندایی"
+      ]
+    },
+    {
+      "EnglishWord": "quantile",
+      "Meanings": [
+        "چندک"
+      ]
+    },
+    {
+      "EnglishWord": "quantile estimation",
+      "Meanings": [
+        "برآورد چندک"
+      ]
+    },
+    {
+      "EnglishWord": "quantile process",
+      "Meanings": [
+        "فرایند چندکی"
+      ]
+    },
+    {
+      "EnglishWord": "quantile transformation",
+      "Meanings": [
+        "تبدیل چندکی"
+      ]
+    },
+    {
+      "EnglishWord": "quantit analysis",
+      "Meanings": [
+        "تحلیل کوانتیت"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative data",
+      "Meanings": [
+        "داده‌های کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantum hunting",
+      "Meanings": [
+        "شکار کوانتوم"
+      ]
+    },
+    {
+      "EnglishWord": "quantum mechanics",
+      "Meanings": [
+        "مکانیک کوانتومی"
+      ]
+    },
+    {
+      "EnglishWord": "quantum physics",
+      "Meanings": [
+        "فیزیک کوانتومی"
+      ]
+    },
+    {
+      "EnglishWord": "quantum statistical mechanics",
+      "Meanings": [
+        "مکانیک آماری کوانتومی"
+      ]
+    },
+    {
+      "EnglishWord": "quantum statistics",
+      "Meanings": [
+        "آمار کوانتومی"
+      ]
+    },
+    {
+      "EnglishWord": "quartic exponential distribution",
+      "Meanings": [
+        "توزیع نمایی درجه چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "quartile",
+      "Meanings": [
+        "چارک"
+      ]
+    },
+    {
+      "EnglishWord": "quasi life table",
+      "Meanings": [
+        "جدول شبه‌عمر"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-bayesian inference",
+      "Meanings": [
+        "استنباط شبه‌بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "quasibinomial",
+      "Meanings": [
+        "شبه‌دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "quasibinomial distribution",
+      "Meanings": [
+        "توزیع شبه‌دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-experiment",
+      "Meanings": [
+        "شبه‌آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-factorial design",
+      "Meanings": [
+        "طرح شبه‌عاملی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-independence",
+      "Meanings": [
+        "شبه‌استقلال"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-invariant measure",
+      "Meanings": [
+        "اندازه شبه‌ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-likelihood function",
+      "Meanings": [
+        "تابع شبه‌درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "quasilinear mean",
+      "Meanings": [
+        "میانگین شبه‌خطی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-linearization",
+      "Meanings": [
+        "شبه‌خطی‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-median",
+      "Meanings": [
+        "شبه‌میانه"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-newton method",
+      "Meanings": [
+        "روش شبه‌نیوتون"
+      ]
+    },
+    {
+      "EnglishWord": "quasinormal family of analytic function",
+      "Meanings": [
+        "خانواده شبه‌نرمال تابع تحلیلی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-random numbers",
+      "Meanings": [
+        "اعداد شبه‌تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-random sampling",
+      "Meanings": [
+        "نمونه گیری شبه‌تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-random sequence",
+      "Meanings": [
+        "دنباله شبه‌تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-range",
+      "Meanings": [
+        "شبه‌دامنه تغییرات"
+      ]
+    },
+    {
+      "EnglishWord": "quasiscore",
+      "Meanings": [
+        "شبه‌امتیاز"
+      ]
+    },
+    {
+      "EnglishWord": "quasi-symmetry",
+      "Meanings": [
+        "شبه‌تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "quenouille's estimator",
+      "Meanings": [
+        "برآوردگر کنویی"
+      ]
+    },
+    {
+      "EnglishWord": "question-wording",
+      "Meanings": [
+        "جمله‌بندی پرسش"
+      ]
+    },
+    {
+      "EnglishWord": "question-wording effects in surveys",
+      "Meanings": [
+        "اثرهای جمله‌بندی پرسش در بررسیها"
+      ]
+    },
+    {
+      "EnglishWord": "quetelet index",
+      "Meanings": [
+        "شاخص کتله"
+      ]
+    },
+    {
+      "EnglishWord": "queue",
+      "Meanings": [
+        "صف"
+      ]
+    },
+    {
+      "EnglishWord": "queueing theory",
+      "Meanings": [
+        "نظریه صف‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "queuing discipline",
+      "Meanings": [
+        "نظام صف‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "queuing model",
+      "Meanings": [
+        "مدل صف‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "quincunx",
+      "Meanings": [
+        "پنج‌خال"
+      ]
+    },
+    {
+      "EnglishWord": "quintile",
+      "Meanings": [
+        "پنجک"
+      ]
+    },
+    {
+      "EnglishWord": "quota sampling",
+      "Meanings": [
+        "نمونه گیری سهمیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "quotient method",
+      "Meanings": [
+        "روش خارج‌قسمت"
+      ]
+    }
+  ]
+}

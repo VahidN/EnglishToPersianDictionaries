@@ -1,0 +1,2765 @@
+﻿{
+  "Group": "M",
+  "Entries": 449,
+  "Words": [
+    {
+      "EnglishWord": "m",
+      "Meanings": [
+        "سیزدهمین‌حرف‌الفبای‌انگلیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "macdonald distribution",
+      "Meanings": [
+        "توزیع مک‌دانلد"
+      ]
+    },
+    {
+      "EnglishWord": "macdonald function",
+      "Meanings": [
+        "تابع مک‌دانلد"
+      ]
+    },
+    {
+      "EnglishWord": "machine learning",
+      "Meanings": [
+        "یادگیری ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "maclaurin series",
+      "Meanings": [
+        "سری مک‌لورن"
+      ]
+    },
+    {
+      "EnglishWord": "macqueen's clustering algorithm",
+      "Meanings": [
+        "الگوریتم خوشه‌بندی مه‌کویین"
+      ]
+    },
+    {
+      "EnglishWord": "magic square designs",
+      "Meanings": [
+        "طرحهای مربع جادویی"
+      ]
+    },
+    {
+      "EnglishWord": "mahalanobis d^",
+      "Meanings": [
+        "دی‌دو D‌^2 ی ماهالانوبیس"
+      ]
+    },
+    {
+      "EnglishWord": "mail survey",
+      "Meanings": [
+        "آمارگیری پستی"
+      ]
+    },
+    {
+      "EnglishWord": "main diagonal of a matrix",
+      "Meanings": [
+        "قطر اصلی ماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "main effect",
+      "Meanings": [
+        "اثر اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "maintainability",
+      "Meanings": [
+        "قابلیت نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "majorization",
+      "Meanings": [
+        "بیشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "makeham-gompertz distribution",
+      "Meanings": [
+        "توزیع می‌کام",
+        "گومپرتس"
+      ]
+    },
+    {
+      "EnglishWord": "mallows c p",
+      "Meanings": [
+        "سی‌پی C‌_ ی مالوز"
+      ]
+    },
+    {
+      "EnglishWord": "mallows' distance",
+      "Meanings": [
+        "فاصله مالوز"
+      ]
+    },
+    {
+      "EnglishWord": "malthusian parameter",
+      "Meanings": [
+        "پارامتر مالتوسی"
+      ]
+    },
+    {
+      "EnglishWord": "manifold",
+      "Meanings": [
+        "خمینه"
+      ]
+    },
+    {
+      "EnglishWord": "manly-parr estimator",
+      "Meanings": [
+        "برآوردگر من‌لی",
+        "پار"
+      ]
+    },
+    {
+      "EnglishWord": "mann-fertig statistic",
+      "Meanings": [
+        "آماره من",
+        "فرتیگ"
+      ]
+    },
+    {
+      "EnglishWord": "mann-grubbs method",
+      "Meanings": [
+        "روش من",
+        "گرابس"
+      ]
+    },
+    {
+      "EnglishWord": "mann's test for trend",
+      "Meanings": [
+        "آزمون من برای روند"
+      ]
+    },
+    {
+      "EnglishWord": "mann-whitney-wilcoxon statistic",
+      "Meanings": [
+        "آماره من",
+        "ویتنی",
+        "ویلکاکسون"
+      ]
+    },
+    {
+      "EnglishWord": "manpower planning",
+      "Meanings": [
+        "برنامه‌ریزی نیروی انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "mantel-haenszel statistic",
+      "Meanings": [
+        "آماره مانتل",
+        "هنزل"
+      ]
+    },
+    {
+      "EnglishWord": "many-server queue",
+      "Meanings": [
+        "صف چندسرویس‌دهی",
+        "صف سرویس گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "maple",
+      "Meanings": [
+        "نرم افزار ریاضی بسیار قوی که کلیه عملیات ریاضی و مباحث ریاضی در آن گنجانده شده است. این نرم افزار محصول دانشگاه واترلوی کانادا می‌باشد",
+        "Mapleیک نرم افزار برای حل مسایل ریاضی است که اولین بار در سال 1981برای انجام مجموعه ای از محاسبات در دانشگاه waterllo طراحی شد. در سال",
+        "این نرم افزار توسعه داده شد و به توسط یک کمپانی کانادایی مستقر در دانشگاه به بازار تجاری کامپیوتر عرضه شد. فروش و عرضه این نرم افزار به بازار سود زیادی را نصیب",
+        "صاحبان کمپانی کرد",
+        "maple یک مفسر",
+        "برای زبان برنامه نویسی پویا است",
+        "به طور معمول",
+        "عبارات جبری و عبارات منطق در حافظه کامپیوتر",
+        "ذخیره می‌شوند و پس از آن بوسیله این نرم افزار پردازش شده و حل میگردند. از این نرم افزار در حل مسایل مختلف ریاضی از قبیل هندسه",
+        "حساب و… استفاده می‌شود",
+        "جدیدترین نگارش این نرم افزار نگارش 9 آن میباشد که قابلیت نمایش اعداد تا 100 رقم اعشار و نیز نگهداری 8000 جمله جبری را داراست"
+      ]
+    },
+    {
+      "EnglishWord": "mapping",
+      "Meanings": [
+        "نگاشت",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "marcinkiewicz theorem",
+      "Meanings": [
+        "قضیه مارسینکیوویچ"
+      ]
+    },
+    {
+      "EnglishWord": "mardia's test of multinormality",
+      "Meanings": [
+        "آزمون چندنرمالی ماردیا"
+      ]
+    },
+    {
+      "EnglishWord": "marginal",
+      "Meanings": [
+        "کناری"
+      ]
+    },
+    {
+      "EnglishWord": "marginal distribution",
+      "Meanings": [
+        "توزیع کناره ای"
+      ]
+    },
+    {
+      "EnglishWord": "marginal likelihood",
+      "Meanings": [
+        "درستنمایی حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "marginal probability",
+      "Meanings": [
+        "احتمال حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "marginal symmetry",
+      "Meanings": [
+        "تقارن حاشیه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "marginalization",
+      "Meanings": [
+        "حاشیه‌ای‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "markov chain",
+      "Meanings": [
+        "زنجیر مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "markov chain monte carlo algorithm",
+      "Meanings": [
+        "الگوریتم مونت کارلوی زنجیر مارکوفی"
+      ]
+    },
+    {
+      "EnglishWord": "markov decision process",
+      "Meanings": [
+        "فرایند تصمیم مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "markov inequality",
+      "Meanings": [
+        "نابرابری مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "markov process",
+      "Meanings": [
+        "فرایند مارکوف"
+      ]
+    },
+    {
+      "EnglishWord": "markov property",
+      "Meanings": [
+        "ویژگی مارکوفی"
+      ]
+    },
+    {
+      "EnglishWord": "markov random field",
+      "Meanings": [
+        "میدان تصادفی مارکوفی"
+      ]
+    },
+    {
+      "EnglishWord": "markov shift",
+      "Meanings": [
+        "تغییر جای مارکوفی"
+      ]
+    },
+    {
+      "EnglishWord": "markovian dependence",
+      "Meanings": [
+        "وابستگی مارکوفی"
+      ]
+    },
+    {
+      "EnglishWord": "marsaglia's table method",
+      "Meanings": [
+        "روش جدولی مارساگلیا"
+      ]
+    },
+    {
+      "EnglishWord": "marshall-olkin multivariate exponential distribution",
+      "Meanings": [
+        "توزیع نمایی چندمتغیره مارشال",
+        "اولکین"
+      ]
+    },
+    {
+      "EnglishWord": "martingale",
+      "Meanings": [
+        "مارتینگل"
+      ]
+    },
+    {
+      "EnglishWord": "masking",
+      "Meanings": [
+        "درون‌آوری"
+      ]
+    },
+    {
+      "EnglishWord": "mason's rule",
+      "Meanings": [
+        "قاعده میسون"
+      ]
+    },
+    {
+      "EnglishWord": "master samples",
+      "Meanings": [
+        "نمونه‌های کلیدی"
+      ]
+    },
+    {
+      "EnglishWord": "match box problem",
+      "Meanings": [
+        "مسیله قوطی کبریت"
+      ]
+    },
+    {
+      "EnglishWord": "match statistics",
+      "Meanings": [
+        "آماره‌های جور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "matched pairs",
+      "Meanings": [
+        "زوجهای جورشده"
+      ]
+    },
+    {
+      "EnglishWord": "matched pairs t-test",
+      "Meanings": [
+        "آزمون tی جفتهای جور"
+      ]
+    },
+    {
+      "EnglishWord": "matching",
+      "Meanings": [
+        "جورسازی 2. جور شدگی"
+      ]
+    },
+    {
+      "EnglishWord": "matching distance",
+      "Meanings": [
+        "فاصله جورسازی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical",
+      "Meanings": [
+        "ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical biosciences",
+      "Meanings": [
+        "علوم زیستی ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical expectation",
+      "Meanings": [
+        "امید ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical morphology",
+      "Meanings": [
+        "ریخت‌شناسی ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical programming",
+      "Meanings": [
+        "برنامه‌ریزی ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical statistics",
+      "Meanings": [
+        "آمار ریاضی"
+      ]
+    },
+    {
+      "EnglishWord": "mathematical theory of population",
+      "Meanings": [
+        "نظریه ریاضی جمعیت"
+      ]
+    },
+    {
+      "EnglishWord": "mathisen's median test",
+      "Meanings": [
+        "آزمون میانه ماتیسن"
+      ]
+    },
+    {
+      "EnglishWord": "matlab",
+      "Meanings": [
+        "نرم افزاری مهندسی بسیار قوی در عملیات ریاضی",
+        "شبیه سازی",
+        "کنترل اتوماتیک",
+        "مهندسی برق و الکترونیک",
+        "مهندسی مکانیک و… این نرم افزار محصول شرکت Mathworks می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "matric-t distribution",
+      "Meanings": [
+        "توزیع tی ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix",
+      "Meanings": [
+        "ماتریس",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "matrix algebra",
+      "Meanings": [
+        "جبر ماتریسها"
+      ]
+    },
+    {
+      "EnglishWord": "matrix beta distribution",
+      "Meanings": [
+        "توزیع بتای ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix calculus",
+      "Meanings": [
+        "حسابان ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix derivatives",
+      "Meanings": [
+        "مشتقهای ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix f-distribution",
+      "Meanings": [
+        "توزیع F ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix game",
+      "Meanings": [
+        "بازی ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix normal distribution",
+      "Meanings": [
+        "توزیع نرمال ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix of coefficients",
+      "Meanings": [
+        "ماتریس ضریبها"
+      ]
+    },
+    {
+      "EnglishWord": "matrix representation",
+      "Meanings": [
+        "نمایش ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix sampling",
+      "Meanings": [
+        "نمونه‌گیری ماتریسی"
+      ]
+    },
+    {
+      "EnglishWord": "matrix unit",
+      "Meanings": [
+        "یکاماتریس"
+      ]
+    },
+    {
+      "EnglishWord": "matrix-valued distribution",
+      "Meanings": [
+        "توزیع ماتریس‌مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "matrix-variate beta distribution",
+      "Meanings": [
+        "توزیع بتای ماتریس‌متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "matusita's distance",
+      "Meanings": [
+        "فاصله ماتوزیتا"
+      ]
+    },
+    {
+      "EnglishWord": "maurice model",
+      "Meanings": [
+        "مدل موریس"
+      ]
+    },
+    {
+      "EnglishWord": "maverick",
+      "Meanings": [
+        "آزادگرد"
+      ]
+    },
+    {
+      "EnglishWord": "max",
+      "Meanings": [
+        "ماکزیمم"
+      ]
+    },
+    {
+      "EnglishWord": "maxbias",
+      "Meanings": [
+        "ماکس‌اریب"
+      ]
+    },
+    {
+      "EnglishWord": "maximal concentration function",
+      "Meanings": [
+        "تابع تمرکز ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal deficiency",
+      "Meanings": [
+        "ناکارآیی ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal element",
+      "Meanings": [
+        "عنصر ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal ideal",
+      "Meanings": [
+        "ایده‌آل ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximal invariant statistics",
+      "Meanings": [
+        "آماره‌های ناوردای ماکسیمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximin",
+      "Meanings": [
+        "ماکسی‌مین"
+      ]
+    },
+    {
+      "EnglishWord": "maximization",
+      "Meanings": [
+        "ماکسیمم‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum",
+      "Meanings": [
+        "ماکزیمم, بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximum allowable percent defective",
+      "Meanings": [
+        "ماکسیمم درصد معیوب مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "maximum autocorrelations for moving averages processes",
+      "Meanings": [
+        "خودهمبستگیهای ماکسیمم برای فرایندهای میانگین متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "maximum entropist",
+      "Meanings": [
+        "ماکسیمم آنتروپی‌گرا"
+      ]
+    },
+    {
+      "EnglishWord": "maximum entropy distribution",
+      "Meanings": [
+        "توزیع ماکسیمم آنتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum entropy principle",
+      "Meanings": [
+        "اصل ماکسیمم آنتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum entropy spectral analysis",
+      "Meanings": [
+        "تحلیل طیفی ماکسیمم آنتروپی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum likelihood",
+      "Meanings": [
+        "بیشینه درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum likelihood estimate",
+      "Meanings": [
+        "روش درستنمایی راستنمایی ماکزیمم"
+      ]
+    },
+    {
+      "EnglishWord": "maximum likelihood estimation",
+      "Meanings": [
+        "برآورد ماکسیمم درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum likelihood method",
+      "Meanings": [
+        "روش ماکسیمم درستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum liklihood",
+      "Meanings": [
+        "درستنمایی بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "maximum liklihood method",
+      "Meanings": [
+        "روش درستنمایی ماکزیمم"
+      ]
+    },
+    {
+      "EnglishWord": "maximum probability estimation",
+      "Meanings": [
+        "برآورد ماکسیمم احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "maximum product of spacings estimation",
+      "Meanings": [
+        "روش برآورد ماکسیمم حاصلضرب فاصله‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "maximum-modulus test",
+      "Meanings": [
+        "آزمون ماکسیمم قدرمطلق"
+      ]
+    },
+    {
+      "EnglishWord": "maxwell distribution",
+      "Meanings": [
+        "توزیع ماکس‌ول"
+      ]
+    },
+    {
+      "EnglishWord": "maxwell-boltzmann distribution",
+      "Meanings": [
+        "توزیع ماکسول",
+        "بولتسمان"
+      ]
+    },
+    {
+      "EnglishWord": "maxwell-boltzmann statistics",
+      "Meanings": [
+        "آماره‌های ماکسول",
+        "بولتسمان"
+      ]
+    },
+    {
+      "EnglishWord": "mccall t-scores",
+      "Meanings": [
+        "تی t",
+        "نمره‌های مه‌کال"
+      ]
+    },
+    {
+      "EnglishWord": "mccarthy-birnbaum conjecture",
+      "Meanings": [
+        "حدس مه‌کارتی",
+        "برن‌بام"
+      ]
+    },
+    {
+      "EnglishWord": "mcintyre-takahashi-wakimoto selective procedure",
+      "Meanings": [
+        "شیوه گزینشی مک‌این‌تایر",
+        "تاکاهاشی",
+        "واکی‌موتو"
+      ]
+    },
+    {
+      "EnglishWord": "mckay's approximation",
+      "Meanings": [
+        "تقریب مه‌کی"
+      ]
+    },
+    {
+      "EnglishWord": "mcnemar statistic",
+      "Meanings": [
+        "آماره مک‌نمار"
+      ]
+    },
+    {
+      "EnglishWord": "mcnemar's test",
+      "Meanings": [
+        "آزمون مک‌نمار"
+      ]
+    },
+    {
+      "EnglishWord": "m-dependence",
+      "Meanings": [
+        "ام m",
+        "وابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "mean",
+      "Meanings": [
+        "میانگین",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "mean absolute difference",
+      "Meanings": [
+        "میانگین قدرمطلق تفاضلها"
+      ]
+    },
+    {
+      "EnglishWord": "mean concentration function",
+      "Meanings": [
+        "تابع تمرکز متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "mean curvature",
+      "Meanings": [
+        "خمیدگی میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "mean difference",
+      "Meanings": [
+        "تفاضل میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "mean half-square successive difference",
+      "Meanings": [
+        "میانگین نیمه توان دوم تفاضلهای پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "mean integrated squared error",
+      "Meanings": [
+        "میانگین جمع‌بسته توان دوم خطاها"
+      ]
+    },
+    {
+      "EnglishWord": "mean life",
+      "Meanings": [
+        "میانگین عمر"
+      ]
+    },
+    {
+      "EnglishWord": "mean of finite population",
+      "Meanings": [
+        "میانگین جامعه متناهی"
+      ]
+    },
+    {
+      "EnglishWord": "mean rank method",
+      "Meanings": [
+        "روش میانگین رتبه‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "mean reciprocal values",
+      "Meanings": [
+        "میانگین عکس مقادیر"
+      ]
+    },
+    {
+      "EnglishWord": "mean residual life function",
+      "Meanings": [
+        "تابع میانگین مانده عمر"
+      ]
+    },
+    {
+      "EnglishWord": "mean residual life test",
+      "Meanings": [
+        "آزمون میانگین مانده عمر"
+      ]
+    },
+    {
+      "EnglishWord": "mean shift detection procedure",
+      "Meanings": [
+        "شیوه آشکارسازی تغییر جای میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "mean slippage problem",
+      "Meanings": [
+        "مسیله میانگین لغزش"
+      ]
+    },
+    {
+      "EnglishWord": "mean square",
+      "Meanings": [
+        "میانگین توان دوم"
+      ]
+    },
+    {
+      "EnglishWord": "mean square successive difference",
+      "Meanings": [
+        "میانگین توان دوم تفاضلهای پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "mean squared error",
+      "Meanings": [
+        "میانگین مربع خطا"
+      ]
+    },
+    {
+      "EnglishWord": "mean successive difference",
+      "Meanings": [
+        "میانگین تفاضلهای پیاپی"
+      ]
+    },
+    {
+      "EnglishWord": "mean time to failure",
+      "Meanings": [
+        "میانگین زمان تا از کار افتادگی"
+      ]
+    },
+    {
+      "EnglishWord": "mean unbiased estimator",
+      "Meanings": [
+        "برآوردگر میانگین‌نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "mean value of a function",
+      "Meanings": [
+        "مقدار میانگین تابع"
+      ]
+    },
+    {
+      "EnglishWord": "mean value theorem",
+      "Meanings": [
+        "قضیه مقدار میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "mean vector",
+      "Meanings": [
+        "بردار میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "mean-variance analysis",
+      "Meanings": [
+        "تحلیل میانگین",
+        "واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "measurable event",
+      "Meanings": [
+        "پیشامد اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "measurable function",
+      "Meanings": [
+        "تابع اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "measurable set",
+      "Meanings": [
+        "مجموعه اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "measurable space",
+      "Meanings": [
+        "فضای اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "measure",
+      "Meanings": [
+        "اندازه 2. معیار",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "measure of agreement",
+      "Meanings": [
+        "معیار توافق"
+      ]
+    },
+    {
+      "EnglishWord": "measure of association",
+      "Meanings": [
+        "معیار پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "measure of center",
+      "Meanings": [
+        "معیار گرایش به مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "measure of dispersion",
+      "Meanings": [
+        "معیار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "measure of dissimilarity",
+      "Meanings": [
+        "معیار عدم تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "measure of information",
+      "Meanings": [
+        "معیار اطلاع"
+      ]
+    },
+    {
+      "EnglishWord": "measure of location",
+      "Meanings": [
+        "معیار مکان"
+      ]
+    },
+    {
+      "EnglishWord": "measure of similarity",
+      "Meanings": [
+        "معیار تشابه"
+      ]
+    },
+    {
+      "EnglishWord": "measure of skewness",
+      "Meanings": [
+        "معیار چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "measure of unbalancedness of design",
+      "Meanings": [
+        "معیار نامتعادل بودن طرح"
+      ]
+    },
+    {
+      "EnglishWord": "measure of uniformity",
+      "Meanings": [
+        "معیار یکنواختی"
+      ]
+    },
+    {
+      "EnglishWord": "measure of variations",
+      "Meanings": [
+        "معیار پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "measure space",
+      "Meanings": [
+        "فضای اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "measure theory",
+      "Meanings": [
+        "نظریه اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "measure zero set",
+      "Meanings": [
+        "مجموعه با اندازه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "measurement",
+      "Meanings": [
+        "اندازه‌گیری 2. اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "measurement error",
+      "Meanings": [
+        "خطای اندازه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "measurement structures and statistics",
+      "Meanings": [
+        "ساختارهای اندازه‌گیری و آمار"
+      ]
+    },
+    {
+      "EnglishWord": "measurement theory",
+      "Meanings": [
+        "نظریه اندازه‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "medial",
+      "Meanings": [
+        "میانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "medial correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی میانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "median",
+      "Meanings": [
+        "میانه",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "median estimation",
+      "Meanings": [
+        "برآورد میانه"
+      ]
+    },
+    {
+      "EnglishWord": "median lethal dose",
+      "Meanings": [
+        "دز کشنده میانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "median polish",
+      "Meanings": [
+        "پرداخت زدن میانه"
+      ]
+    },
+    {
+      "EnglishWord": "median regression",
+      "Meanings": [
+        "رگرسیون میانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "median test",
+      "Meanings": [
+        "آزمون میانه"
+      ]
+    },
+    {
+      "EnglishWord": "median test for two populations",
+      "Meanings": [
+        "آزمون میانه برای دو جامعه"
+      ]
+    },
+    {
+      "EnglishWord": "median unbiased estimator",
+      "Meanings": [
+        "برآوردگر میانه‌نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "median voters",
+      "Meanings": [
+        "رای‌دهندگان میانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "medical diagnosis",
+      "Meanings": [
+        "تشخیص پزشکی"
+      ]
+    },
+    {
+      "EnglishWord": "medico-actuarial investigations",
+      "Meanings": [
+        "پژوهشهای پزشکی",
+        "بیمه‌آماری"
+      ]
+    },
+    {
+      "EnglishWord": "meixner polynomial",
+      "Meanings": [
+        "چندجمله‌ای میکس‌نر"
+      ]
+    },
+    {
+      "EnglishWord": "mellin transform",
+      "Meanings": [
+        "تبدیل ملین"
+      ]
+    },
+    {
+      "EnglishWord": "member",
+      "Meanings": [
+        "عضو"
+      ]
+    },
+    {
+      "EnglishWord": "memoryless property",
+      "Meanings": [
+        "خاصیت بی‌حافظگی"
+      ]
+    },
+    {
+      "EnglishWord": "menon estimator",
+      "Meanings": [
+        "برآوردگر مه‌نون"
+      ]
+    },
+    {
+      "EnglishWord": "merrington-pearson approximation",
+      "Meanings": [
+        "تقریب مرینگتون",
+        "پی‌یرسون"
+      ]
+    },
+    {
+      "EnglishWord": "mesokurtic curve",
+      "Meanings": [
+        "خم با کشیدگی متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "messy data",
+      "Meanings": [
+        "داده‌های ناجور"
+      ]
+    },
+    {
+      "EnglishWord": "m-estimator",
+      "Meanings": [
+        "ام m",
+        "برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "meta-analysis",
+      "Meanings": [
+        "فراتحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "metadata",
+      "Meanings": [
+        "فراداده‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "metamathematics of probability",
+      "Meanings": [
+        "فرا ریاضیات احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "metameter",
+      "Meanings": [
+        "فرامتر",
+        "متامتر"
+      ]
+    },
+    {
+      "EnglishWord": "metastatistics",
+      "Meanings": [
+        "فراآمار"
+      ]
+    },
+    {
+      "EnglishWord": "method",
+      "Meanings": [
+        "روش"
+      ]
+    },
+    {
+      "EnglishWord": "method of averages",
+      "Meanings": [
+        "روش متوسطها"
+      ]
+    },
+    {
+      "EnglishWord": "method of back-projection",
+      "Meanings": [
+        "روش پس‌بینی"
+      ]
+    },
+    {
+      "EnglishWord": "method of elements",
+      "Meanings": [
+        "روش اجزا"
+      ]
+    },
+    {
+      "EnglishWord": "method of group averages",
+      "Meanings": [
+        "روش متوسطهای گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "method of lagrange multipliers",
+      "Meanings": [
+        "روش ضریبهای لاگرانژ"
+      ]
+    },
+    {
+      "EnglishWord": "method of least absolute values",
+      "Meanings": [
+        "روش کمترین قدرمطلقها"
+      ]
+    },
+    {
+      "EnglishWord": "method of least powers",
+      "Meanings": [
+        "روش کمترین توانها"
+      ]
+    },
+    {
+      "EnglishWord": "method of moments",
+      "Meanings": [
+        "روش گشتاورها"
+      ]
+    },
+    {
+      "EnglishWord": "method of scoring",
+      "Meanings": [
+        "روش امتیازبندی"
+      ]
+    },
+    {
+      "EnglishWord": "method of sieves",
+      "Meanings": [
+        "روش غربالها"
+      ]
+    },
+    {
+      "EnglishWord": "method of statistical differentials",
+      "Meanings": [
+        "روش دیفرانسیل‌های آماری"
+      ]
+    },
+    {
+      "EnglishWord": "method of steepest descent",
+      "Meanings": [
+        "روش پرشیب‌ترین نزول"
+      ]
+    },
+    {
+      "EnglishWord": "method of successive approximation",
+      "Meanings": [
+        "روش تقریب متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "method of successive iteration",
+      "Meanings": [
+        "روش تکرار متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "method of variables",
+      "Meanings": [
+        "روش متغیرها"
+      ]
+    },
+    {
+      "EnglishWord": "metric invariant",
+      "Meanings": [
+        "ناوردای متریک"
+      ]
+    },
+    {
+      "EnglishWord": "metric number theory",
+      "Meanings": [
+        "نظریه اعداد متریک"
+      ]
+    },
+    {
+      "EnglishWord": "metric space",
+      "Meanings": [
+        "فضای متریک"
+      ]
+    },
+    {
+      "EnglishWord": "metric subspace",
+      "Meanings": [
+        "زیرفضای متریک"
+      ]
+    },
+    {
+      "EnglishWord": "metropolis-hastings algorithm",
+      "Meanings": [
+        "الگوریتم متروپولیس",
+        "هستینگس"
+      ]
+    },
+    {
+      "EnglishWord": "microsoft excel",
+      "Meanings": [
+        "نرم افزاری محصول شرکت مایکروسافت زیرمجموعه office که برای کار‌های آزمایشگاهی و کار با حجم زیادی داده مناسب می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "mid-mean",
+      "Meanings": [
+        "میان‌میانگین"
+      ]
+    },
+    {
+      "EnglishWord": "midrange",
+      "Meanings": [
+        "میان‌دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "midspread",
+      "Meanings": [
+        "میان‌پراکنش"
+      ]
+    },
+    {
+      "EnglishWord": "midzuno sampling design",
+      "Meanings": [
+        "طرح نمونه‌گیری میدزونو"
+      ]
+    },
+    {
+      "EnglishWord": "miettinen's statistic",
+      "Meanings": [
+        "آماره می‌تینن"
+      ]
+    },
+    {
+      "EnglishWord": "migration",
+      "Meanings": [
+        "مهاجرت"
+      ]
+    },
+    {
+      "EnglishWord": "military statistics",
+      "Meanings": [
+        "آمار نظامی"
+      ]
+    },
+    {
+      "EnglishWord": "miller-griffiths procedure",
+      "Meanings": [
+        "شیوه میلر",
+        "گریفتس"
+      ]
+    },
+    {
+      "EnglishWord": "miller's paradox",
+      "Meanings": [
+        "پارادوکس میلر"
+      ]
+    },
+    {
+      "EnglishWord": "milliken's estimability criterion",
+      "Meanings": [
+        "ملاک برآوردپذیری میلیکن"
+      ]
+    },
+    {
+      "EnglishWord": "mills' ratio",
+      "Meanings": [
+        "نسبت میلز"
+      ]
+    },
+    {
+      "EnglishWord": "min",
+      "Meanings": [
+        "مینیمم, کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimal curve",
+      "Meanings": [
+        "خم مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimal cut set",
+      "Meanings": [
+        "مجموعه برشهای مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimal element",
+      "Meanings": [
+        "عنصر مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimal path set",
+      "Meanings": [
+        "مجموعه مسیرهای مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimal sufficient statistic",
+      "Meanings": [
+        "آماره بسنده مینیمال"
+      ]
+    },
+    {
+      "EnglishWord": "minimax decision rule",
+      "Meanings": [
+        "قاعده تصمیم مینیماکس"
+      ]
+    },
+    {
+      "EnglishWord": "minimax estimation",
+      "Meanings": [
+        "برآورد مینیماکسی"
+      ]
+    },
+    {
+      "EnglishWord": "minimax method",
+      "Meanings": [
+        "روش مینیماکس"
+      ]
+    },
+    {
+      "EnglishWord": "minimax test",
+      "Meanings": [
+        "آزمون مینیماکسی"
+      ]
+    },
+    {
+      "EnglishWord": "minimum",
+      "Meanings": [
+        "مینیمم, کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum chi-square",
+      "Meanings": [
+        "مینیمم خی‌دو"
+      ]
+    },
+    {
+      "EnglishWord": "minimum covariance determinant estimator",
+      "Meanings": [
+        "برآوردگر مینیمم دترمینان کوواریانس"
+      ]
+    },
+    {
+      "EnglishWord": "minimum discrimination information estimation",
+      "Meanings": [
+        "برآورد کردن با مینیمم اطلاع تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "minimum distance estimation",
+      "Meanings": [
+        "برآورد کردن با مینیمم فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "minimum divergence estimation",
+      "Meanings": [
+        "برآورد کردن با مینیمم انحراف"
+      ]
+    },
+    {
+      "EnglishWord": "minimum norm quadratic estimation",
+      "Meanings": [
+        "برآورد کردن با مینیمم نرم درجه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "minimum rank factor analysis",
+      "Meanings": [
+        "تحلیل عاملی مینیمم رتبه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum risk equivariant estimator",
+      "Meanings": [
+        "برآوردگر هم‌وردای مینیمم مخاطره"
+      ]
+    },
+    {
+      "EnglishWord": "minimum spanning tree",
+      "Meanings": [
+        "درخت ارشنده مینیمم"
+      ]
+    },
+    {
+      "EnglishWord": "minimum trace factor analysis",
+      "Meanings": [
+        "تحلیل عاملی مینیمم اثر"
+      ]
+    },
+    {
+      "EnglishWord": "minimum unlikelihood estimation",
+      "Meanings": [
+        "برآورد مینیمم نادرستنمایی"
+      ]
+    },
+    {
+      "EnglishWord": "minimum variance unbiased estimation",
+      "Meanings": [
+        "برآورد نااریب مینیمم واریانس"
+      ]
+    },
+    {
+      "EnglishWord": "minimum volume ellipsoid estimator",
+      "Meanings": [
+        "برآوردگر مینیمم حجم بیضوی‌وار"
+      ]
+    },
+    {
+      "EnglishWord": "minimum volume estimation",
+      "Meanings": [
+        "برآورد با مینیمم حجم"
+      ]
+    },
+    {
+      "EnglishWord": "minimum-description-length principle",
+      "Meanings": [
+        "اصل کوتاهترین توصیف"
+      ]
+    },
+    {
+      "EnglishWord": "minitab",
+      "Meanings": [
+        "نرم افزار آماری بسیار قوی و رایج"
+      ]
+    },
+    {
+      "EnglishWord": "minkowski's inequality",
+      "Meanings": [
+        "نابرابری مینکوفسکی"
+      ]
+    },
+    {
+      "EnglishWord": "minret method",
+      "Meanings": [
+        "روش مین‌رت"
+      ]
+    },
+    {
+      "EnglishWord": "misclassification probability",
+      "Meanings": [
+        "احتمال بدرده‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "mises' distribution",
+      "Meanings": [
+        "توزیع میزس"
+      ]
+    },
+    {
+      "EnglishWord": "mismatch",
+      "Meanings": [
+        "بدجور"
+      ]
+    },
+    {
+      "EnglishWord": "missing data",
+      "Meanings": [
+        "داده‌های گمشده"
+      ]
+    },
+    {
+      "EnglishWord": "missing information principle",
+      "Meanings": [
+        "اصل اطلاعات گم‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "missing value",
+      "Meanings": [
+        "مقدار گم‌شده"
+      ]
+    },
+    {
+      "EnglishWord": "misspecification",
+      "Meanings": [
+        "بدمشخص‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "mitscherlich's law",
+      "Meanings": [
+        "قانون میشرلیخ"
+      ]
+    },
+    {
+      "EnglishWord": "mixed effects model",
+      "Meanings": [
+        "مدل با اثرهای آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixed model",
+      "Meanings": [
+        "مدل آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixed moment",
+      "Meanings": [
+        "گشتاور آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixed poisson process",
+      "Meanings": [
+        "فرایند پواسون آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixing",
+      "Meanings": [
+        "آمیزنده 2. آمیختن"
+      ]
+    },
+    {
+      "EnglishWord": "mixture distribution",
+      "Meanings": [
+        "توزیع آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixture experiment",
+      "Meanings": [
+        "آزمایش آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mixture method",
+      "Meanings": [
+        "روش آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "mizutani distribution",
+      "Meanings": [
+        "توزیع میزوتانی"
+      ]
+    },
+    {
+      "EnglishWord": "mle",
+      "Meanings": [
+        "maximum likelihood estimate",
+        "روش درستنمایی راستنمایی ماکزیمم"
+      ]
+    },
+    {
+      "EnglishWord": "mlr",
+      "Meanings": [
+        "monotone likelihood ratio",
+        "نسبت درستنمایی یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "mobius function",
+      "Meanings": [
+        "تابع موبیوس"
+      ]
+    },
+    {
+      "EnglishWord": "modal block algorithm",
+      "Meanings": [
+        "الگوریتم بلوکی‌مدی"
+      ]
+    },
+    {
+      "EnglishWord": "mode",
+      "Meanings": [
+        "نما"
+      ]
+    },
+    {
+      "EnglishWord": "model",
+      "Meanings": [
+        "مدل, الگو",
+        "کلمات مرتبط",
+        "l"
+      ]
+    },
+    {
+      "EnglishWord": "model based",
+      "Meanings": [
+        "مدل‌پایه"
+      ]
+    },
+    {
+      "EnglishWord": "model construction",
+      "Meanings": [
+        "مدل‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "model misses pacification error",
+      "Meanings": [
+        "خطای حاصل از الگو نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "model selection",
+      "Meanings": [
+        "مدل‌گزینی"
+      ]
+    },
+    {
+      "EnglishWord": "modeling",
+      "Meanings": [
+        "مدل‌بندی",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "model-unbiased estimation",
+      "Meanings": [
+        "برآورد مدل‌نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "modification",
+      "Meanings": [
+        "تعدیل",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "modified",
+      "Meanings": [
+        "تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified  or curtailed  sampling plans",
+      "Meanings": [
+        "طرحهای نمونه‌گیری تعدیل‌یافته کوتاه شده"
+      ]
+    },
+    {
+      "EnglishWord": "modified biserial correlation",
+      "Meanings": [
+        "همبستگی دورشته‌ای تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified hermite polynomials",
+      "Meanings": [
+        "چندجمله‌ایهای ارمیت تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified maximum likelihood estimation",
+      "Meanings": [
+        "برآورد ماکسیمم درستنمایی تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified mean",
+      "Meanings": [
+        "میانگین تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified normal distributions",
+      "Meanings": [
+        "توزیعهای نرمال تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified power series distribution",
+      "Meanings": [
+        "توزیع سری توانی تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified sampling plans",
+      "Meanings": [
+        "طرحهای نمونه‌گیری تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modified sequential procedures",
+      "Meanings": [
+        "روش دنباله ای اصلاح شده"
+      ]
+    },
+    {
+      "EnglishWord": "modulated normal distributions",
+      "Meanings": [
+        "توزیعهای نرمال تعدیل‌یافته"
+      ]
+    },
+    {
+      "EnglishWord": "modulus transformation",
+      "Meanings": [
+        "تبدیل قدرمطلق"
+      ]
+    },
+    {
+      "EnglishWord": "moivre-laplace theorem",
+      "Meanings": [
+        "قضیه دموآور",
+        "لاپلاس"
+      ]
+    },
+    {
+      "EnglishWord": "moment",
+      "Meanings": [
+        "گشتاور"
+      ]
+    },
+    {
+      "EnglishWord": "moment approximation procedure",
+      "Meanings": [
+        "شیوه تقریب گشتاوری"
+      ]
+    },
+    {
+      "EnglishWord": "moment generating function",
+      "Meanings": [
+        "تابع مولد گشتاورها"
+      ]
+    },
+    {
+      "EnglishWord": "moment matrix",
+      "Meanings": [
+        "ماتریس گشتاورها"
+      ]
+    },
+    {
+      "EnglishWord": "moment method",
+      "Meanings": [
+        "روش گشتاوری"
+      ]
+    },
+    {
+      "EnglishWord": "moment problem",
+      "Meanings": [
+        "مسیله گشتاورها"
+      ]
+    },
+    {
+      "EnglishWord": "moment ratio",
+      "Meanings": [
+        "نسبت گشتاوری"
+      ]
+    },
+    {
+      "EnglishWord": "moment test of normality",
+      "Meanings": [
+        "آزمون گشتاوری نرمال بودن"
+      ]
+    },
+    {
+      "EnglishWord": "moment-ratio diagram",
+      "Meanings": [
+        "نمودار نسبت گشتاوری"
+      ]
+    },
+    {
+      "EnglishWord": "monotone",
+      "Meanings": [
+        "یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "monotone function",
+      "Meanings": [
+        "تابع یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "monotone likelihood ratio",
+      "Meanings": [
+        "نسبت درستنمایی یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "monotone relationship",
+      "Meanings": [
+        "رابطه یکنوا"
+      ]
+    },
+    {
+      "EnglishWord": "monotonicity",
+      "Meanings": [
+        "یکنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "monte carlo method",
+      "Meanings": [
+        "روش مونت کارلو"
+      ]
+    },
+    {
+      "EnglishWord": "monte carlo swindle",
+      "Meanings": [
+        "ترفند مونت کارلو"
+      ]
+    },
+    {
+      "EnglishWord": "mood median test",
+      "Meanings": [
+        "آزمون میانه مود"
+      ]
+    },
+    {
+      "EnglishWord": "mood scale test",
+      "Meanings": [
+        "آزمون مقیاس مود"
+      ]
+    },
+    {
+      "EnglishWord": "mood's dispersion test",
+      "Meanings": [
+        "آزمون پراکندگی مود"
+      ]
+    },
+    {
+      "EnglishWord": "moore-penrose inverse",
+      "Meanings": [
+        "وارون مور",
+        "پن‌رز"
+      ]
+    },
+    {
+      "EnglishWord": "moral certainty",
+      "Meanings": [
+        "حتمیت عرفی"
+      ]
+    },
+    {
+      "EnglishWord": "moran dam",
+      "Meanings": [
+        "سد موران"
+      ]
+    },
+    {
+      "EnglishWord": "moran statistic",
+      "Meanings": [
+        "آماره موران"
+      ]
+    },
+    {
+      "EnglishWord": "morbidity",
+      "Meanings": [
+        "ناخوشی"
+      ]
+    },
+    {
+      "EnglishWord": "morgan-pitman test",
+      "Meanings": [
+        "آزمون مورگان",
+        "پیتمن"
+      ]
+    },
+    {
+      "EnglishWord": "morgenstern-farlie system",
+      "Meanings": [
+        "دستگاه مورگنشترن",
+        "فارلی"
+      ]
+    },
+    {
+      "EnglishWord": "morphological",
+      "Meanings": [
+        "ریخت‌شناختی"
+      ]
+    },
+    {
+      "EnglishWord": "mortality",
+      "Meanings": [
+        "مرگ و میر"
+      ]
+    },
+    {
+      "EnglishWord": "mosaic display",
+      "Meanings": [
+        "نمایش موزاییکی"
+      ]
+    },
+    {
+      "EnglishWord": "moses test",
+      "Meanings": [
+        "آزمون موزس"
+      ]
+    },
+    {
+      "EnglishWord": "most approximative method",
+      "Meanings": [
+        "روش دقیقترین تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "most frequent value",
+      "Meanings": [
+        "فراوانترین مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "most powerful critical region",
+      "Meanings": [
+        "تواناترین ناحیه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "most powerful test",
+      "Meanings": [
+        "تواناترین آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "most probable number",
+      "Meanings": [
+        "محتملترین عدد"
+      ]
+    },
+    {
+      "EnglishWord": "most probable value",
+      "Meanings": [
+        "محتملترین مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "most stringent test",
+      "Meanings": [
+        "سختگیرانه‌ترین آزمون"
+      ]
+    },
+    {
+      "EnglishWord": "motif",
+      "Meanings": [
+        "نقش‌مایه"
+      ]
+    },
+    {
+      "EnglishWord": "mover-stayer model",
+      "Meanings": [
+        "مدل رفتنی",
+        "ماندنی"
+      ]
+    },
+    {
+      "EnglishWord": "moving",
+      "Meanings": [
+        "سیار 2. متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "moving average",
+      "Meanings": [
+        "میانگین متحرک",
+        "کلمات مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "moving sum",
+      "Meanings": [
+        "مجموع متحرک"
+      ]
+    },
+    {
+      "EnglishWord": "moving-observer sampling method",
+      "Meanings": [
+        "روش نمونه‌گیری با مشاهده‌گر سیار"
+      ]
+    },
+    {
+      "EnglishWord": "mse",
+      "Meanings": [
+        "mean squared error",
+        "میانگین مربع خطا"
+      ]
+    },
+    {
+      "EnglishWord": "muirhead's theorem",
+      "Meanings": [
+        "قضیه میویرهد"
+      ]
+    },
+    {
+      "EnglishWord": "multiarrays",
+      "Meanings": [
+        "آرایه‌های چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multicollinearity",
+      "Meanings": [
+        "همخطی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional central limit theorems",
+      "Meanings": [
+        "قضیه‌های حدی مرکزی چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional contingency tables",
+      "Meanings": [
+        "جدولهای پیشایندی چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional hypergeometric distribution",
+      "Meanings": [
+        "توزیع فوق‌هندسی چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional normal distribution",
+      "Meanings": [
+        "توزیع نرمال چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional runs test",
+      "Meanings": [
+        "آزمون گردش چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multidimensional scaling",
+      "Meanings": [
+        "مقیاس‌بندی چندبعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multilateral",
+      "Meanings": [
+        "چند جانبه"
+      ]
+    },
+    {
+      "EnglishWord": "multilinear form",
+      "Meanings": [
+        "صورت چندخطی"
+      ]
+    },
+    {
+      "EnglishWord": "multimodal distribution",
+      "Meanings": [
+        "توزیع چندمدی"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial",
+      "Meanings": [
+        "چند جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial coefficient",
+      "Meanings": [
+        "ضریب چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial distribution",
+      "Meanings": [
+        "توزیع چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial logit",
+      "Meanings": [
+        "لوجیت چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial probit",
+      "Meanings": [
+        "پروبیت چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial product",
+      "Meanings": [
+        "حاصلضرب چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial sampling",
+      "Meanings": [
+        "نمونه‌گیری چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial trials",
+      "Meanings": [
+        "امتحانهای چندجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "multinomial-poisson transformation",
+      "Meanings": [
+        "تبدیل چندجمله‌ای",
+        "پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "multinormal distribution",
+      "Meanings": [
+        "توزیع چندنرمال"
+      ]
+    },
+    {
+      "EnglishWord": "multinormality",
+      "Meanings": [
+        "چندنرمالی"
+      ]
+    },
+    {
+      "EnglishWord": "multiphase sampling",
+      "Meanings": [
+        "نمونه‌گیری چندفازی"
+      ]
+    },
+    {
+      "EnglishWord": "multiple",
+      "Meanings": [
+        "چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple classification",
+      "Meanings": [
+        "رده‌بندی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple comparison",
+      "Meanings": [
+        "مقایسه چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple confidence interval",
+      "Meanings": [
+        "فاصله اطمینان چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple contrast test",
+      "Meanings": [
+        "آزمون مقایسه چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple correlation coefficient",
+      "Meanings": [
+        "ضریب همبستگی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple criteria decision making",
+      "Meanings": [
+        "تصمیم‌سازی ملاکهای چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple decision procedure",
+      "Meanings": [
+        "شیوه تصمیم چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple decrement table",
+      "Meanings": [
+        "جدول ضایعه‌های چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple hypothesis",
+      "Meanings": [
+        "فرض چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple indicator approach",
+      "Meanings": [
+        "رهیافت نماگر چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple linear regression",
+      "Meanings": [
+        "رگرسیون خطی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple matrix sampling",
+      "Meanings": [
+        "نمونه‌گیری ماتریسی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple range",
+      "Meanings": [
+        "دامنه تغییرات چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple regression",
+      "Meanings": [
+        "رگرسیون چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple sampling",
+      "Meanings": [
+        "نمونه‌گیری چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple stratification",
+      "Meanings": [
+        "طبقه‌بندی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple time series",
+      "Meanings": [
+        "سریهای زمانی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple-record system",
+      "Meanings": [
+        "نظام چندماخذی"
+      ]
+    },
+    {
+      "EnglishWord": "multiplication of matrices",
+      "Meanings": [
+        "ضرب ماتریسها"
+      ]
+    },
+    {
+      "EnglishWord": "multiplication principle",
+      "Meanings": [
+        "اصل ضرب"
+      ]
+    },
+    {
+      "EnglishWord": "multiplicity",
+      "Meanings": [
+        "چندبارگی"
+      ]
+    },
+    {
+      "EnglishWord": "multiresponse permutation procedure",
+      "Meanings": [
+        "شیوه جایگشتی چندپاسخی"
+      ]
+    },
+    {
+      "EnglishWord": "multiserial correlation",
+      "Meanings": [
+        "همبستگی چندرشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multiserver queue",
+      "Meanings": [
+        "صف چندسرویس‌دهی",
+        "صف سرویس گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "multistage sampling",
+      "Meanings": [
+        "نمونه‌گیری چندمرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multistage test",
+      "Meanings": [
+        "آزمون چندمرحله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "multistate coherent system",
+      "Meanings": [
+        "دستگاه منسجم چندوضعی"
+      ]
+    },
+    {
+      "EnglishWord": "multistratified sampling",
+      "Meanings": [
+        "نمونه‌گیری با طبقه‌بندی چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multitrait-multimethod matrix",
+      "Meanings": [
+        "ماتریس چندصفت",
+        "چندروش"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate analysis",
+      "Meanings": [
+        "تحلیل چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate analysis of variance",
+      "Meanings": [
+        "تحلیل واریانس چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate bartlett test",
+      "Meanings": [
+        "آزمون بارتلت چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate behrens-fisher problem",
+      "Meanings": [
+        "مسیله چندمتغیره بیرنس",
+        "فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate binary data",
+      "Meanings": [
+        "داده‌های دوحالتی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate chernoff theorem",
+      "Meanings": [
+        "قضیه چندمتغیره چرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate cox regression model",
+      "Meanings": [
+        "مدل رگرسیونی چندمتغیره کاکس"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate cramer-von mises statistics",
+      "Meanings": [
+        "آماره‌های کرامر",
+        "فون میزس چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate directed graph",
+      "Meanings": [
+        "گراف سودار چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate discrete distribution",
+      "Meanings": [
+        "توزیع گسسته چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate distribution",
+      "Meanings": [
+        "توزیع چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate exponential distribution",
+      "Meanings": [
+        "توزیع نمایی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate fitness function",
+      "Meanings": [
+        "تابع برازندگی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate gamma distribution",
+      "Meanings": [
+        "توزیع گامای چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate graphics",
+      "Meanings": [
+        "نمودارهای چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate kurtosis",
+      "Meanings": [
+        "کشیدگی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate location test",
+      "Meanings": [
+        "آزمون مکان چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate logarithmic series distribution",
+      "Meanings": [
+        "توزیع سری لگاریتمی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate matching method",
+      "Meanings": [
+        "روش جورسازی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate median and rank sum test",
+      "Meanings": [
+        "آزمون میانه و مجموع رتبه‌های چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate multiple comparisons",
+      "Meanings": [
+        "مقایسه‌های چندگانه چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate normal distribution",
+      "Meanings": [
+        "توزیع نرمال چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate normality",
+      "Meanings": [
+        "نرمال چندمتغیره بودن"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate normal-wishart distribution",
+      "Meanings": [
+        "توزیع نرمال چندمتغیره",
+        "ویشارت"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate order statistics",
+      "Meanings": [
+        "آماره‌های ترتیبی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate phase-type distribution",
+      "Meanings": [
+        "توزیع فازنوعی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate polya distribution",
+      "Meanings": [
+        "توزیع پولیای چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate power series distribution",
+      "Meanings": [
+        "توزیع سری توانی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate probit",
+      "Meanings": [
+        "پروبیت چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate quality control",
+      "Meanings": [
+        "کنترل کیفیت چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate ratio estimator",
+      "Meanings": [
+        "برآوردگر نسبتی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate regression",
+      "Meanings": [
+        "رگرسیون چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate signed-rank test",
+      "Meanings": [
+        "آزمون رتبه‌ای علامت‌دار چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate skewness",
+      "Meanings": [
+        "چولگی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate stable distribution",
+      "Meanings": [
+        "توزیع پایدار چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate student distribution",
+      "Meanings": [
+        "توزیع استیودنت چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate studentized range",
+      "Meanings": [
+        "دامنه تغییرات استیودنتیده چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate t-distribution",
+      "Meanings": [
+        "توزیع tی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate time series analysis",
+      "Meanings": [
+        "تحلیل سریهای زمانی چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate unimodality",
+      "Meanings": [
+        "تک‌مدی بودن چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multivariate weibull distribution",
+      "Meanings": [
+        "توزیع وایبول چندمتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "multiway contingency table",
+      "Meanings": [
+        "جدول پیشایندی چندطرفه"
+      ]
+    },
+    {
+      "EnglishWord": "murphy-mcmillan-david test for outliers",
+      "Meanings": [
+        "آزمون مورفی",
+        "مک‌میلان",
+        "دیوید برای نقاط دورافتاده"
+      ]
+    },
+    {
+      "EnglishWord": "murthy estimator",
+      "Meanings": [
+        "برآوردگر مورتی"
+      ]
+    },
+    {
+      "EnglishWord": "mutation",
+      "Meanings": [
+        "جهش"
+      ]
+    },
+    {
+      "EnglishWord": "mutation process",
+      "Meanings": [
+        "فرایند جهش ژنی"
+      ]
+    },
+    {
+      "EnglishWord": "mutually dependent variables",
+      "Meanings": [
+        "متغیرهای متقابلا وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "mutually exclusive",
+      "Meanings": [
+        "دوبدو ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "mutually exclusive events",
+      "Meanings": [
+        "پیشامدهای متقابلا ناسازگار"
+      ]
+    },
+    {
+      "EnglishWord": "mutually independent",
+      "Meanings": [
+        "متقابلا مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "m-w-w statistic",
+      "Meanings": [
+        "آماره من",
+        "ویتنی",
+        "ویلکاکسون"
+      ]
+    }
+  ]
+}

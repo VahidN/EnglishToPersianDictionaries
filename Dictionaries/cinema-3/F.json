@@ -1,0 +1,2190 @@
+﻿{
+  "Group": "F",
+  "Entries": 323,
+  "Words": [
+    {
+      "EnglishWord": "factography",
+      "Meanings": [
+        "حقیقت نگاری‌",
+        "واقع نگاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "عامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "factual",
+      "Meanings": [
+        "فیلم واقعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade  to",
+      "Meanings": [
+        "تاریک شدن دو صحنه در کنار هم‌",
+        "محو",
+        "محو تدریجی‌",
+        "محو تدریجی تصویر",
+        "محو تدریجی صحنه‌",
+        "محو شدن خود به خود فیلم‌",
+        "ناپدیدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade in  to",
+      "Meanings": [
+        "آشکار شدن تدریجی‌",
+        "آشکار شدن تدریجی نور و تصویر",
+        "از تاریکی به روشنایی‌",
+        "از تاریکی به روشنایی آمدن تصویر",
+        "روشن شدن تدریجی‌",
+        "روشن شدن تدریجی تصویر",
+        "روشن شدن تدریجی در ابتدای شات‌",
+        "روشن شدن تدریجی صحنه‌",
+        "روشن شدن تصویر از سیاهی کامل‌",
+        "روشن کردن تصویر دوم‌",
+        "سیاهی به نور",
+        "طلوع تصویر",
+        "ظهور تدریجی‌",
+        "ظهور تدریجی یک نما از تاریکی به روشنایی‌",
+        "ظهور تصویر",
+        "فیدباز",
+        "محو سیاه‌",
+        "پدید آمدن‌",
+        "پدید آمدن تدریجی‌",
+        "پدید شدن‌",
+        "پدیدار",
+        "پدیدار شدن تدریجی تصویر",
+        "پدیداری‌",
+        "پدیداری تصویر",
+        "پیدایی نما"
+      ]
+    },
+    {
+      "EnglishWord": "fade out  to",
+      "Meanings": [
+        "از روشنایی به تاریکی‌",
+        "از روشنایی به تاریکی رفتن تصویر",
+        "تاریک تدریجی صحنه‌",
+        "تاریک شدن تدریجی‌",
+        "تاریک شدن تدریجی تصویر",
+        "تاریک شدن تدریجی تصویر تا سیاهی کامل‌",
+        "تاریک شدن تدریجی تصویر در پایان شات‌",
+        "تاریک کردن تصویر اول‌",
+        "درهم روی تصاویر",
+        "درهم‌آمیزی تصاویر",
+        "دیزالو",
+        "غروب تصویر",
+        "محو تدریجی‌",
+        "محو تدریجی نور و تصویر",
+        "محو تدریجی تصویر",
+        "محو تدریجی یک نما از روشنایی به تاریکی‌",
+        "محو تصویر",
+        "محو سفید",
+        "محو کامل‌",
+        "ناپدید",
+        "ناپدید شدن‌",
+        "ناپدید شدن تدریجی‌",
+        "ناپدیدی‌",
+        "ناپدیدی تصویر",
+        "ناپیدایی نما",
+        "نور به سیاهی‌",
+        "همگدازی‌",
+        "گرایش نما از روشنی به تاریکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade shutter",
+      "Meanings": [
+        "بندان محو کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade to black",
+      "Meanings": [
+        "محو به سیاهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade to white",
+      "Meanings": [
+        "محو به سفیدی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade up  to",
+      "Meanings": [
+        "زیاد شدن تدریجی صدا",
+        "زیاد شدن صدا",
+        "نمایان کردن تدریجی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fade-down  to",
+      "Meanings": [
+        "کاستن‌",
+        "کم شدن صدا",
+        "محو تدریجی‌",
+        "محو کردن صدا"
+      ]
+    },
+    {
+      "EnglishWord": "fader",
+      "Meanings": [
+        "فیدر",
+        "فیلتر پولاریزان مضاعف‌"
+      ]
+    },
+    {
+      "EnglishWord": "fall off  to",
+      "Meanings": [
+        "افت نور"
+      ]
+    },
+    {
+      "EnglishWord": "farce",
+      "Meanings": [
+        "کمدی بسیار مبالغه شده‌",
+        "مضحکه‌"
+      ]
+    },
+    {
+      "EnglishWord": "fast film",
+      "Meanings": [
+        "فیلم حساس‌"
+      ]
+    },
+    {
+      "EnglishWord": "fast forward",
+      "Meanings": [
+        "تند پیش بر"
+      ]
+    },
+    {
+      "EnglishWord": "fast motion",
+      "Meanings": [
+        "تند نشان دادن تصویر",
+        "حرکت تند",
+        "حرکت تند در فیلم‌",
+        "حرکت تند شده‌",
+        "حرکت سریع‌",
+        "سریع کردن حرکت موضوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "favoring shot",
+      "Meanings": [
+        "نمای مرکز توجه‌"
+      ]
+    },
+    {
+      "EnglishWord": "favour",
+      "Meanings": [
+        "تمایل موضوع‌"
+      ]
+    },
+    {
+      "EnglishWord": "feature",
+      "Meanings": [
+        "خصوصیت‌",
+        "فیلم بلند"
+      ]
+    },
+    {
+      "EnglishWord": "feature film",
+      "Meanings": [
+        "فیلم اصلی‌",
+        "فیلم بلند",
+        "فیلم داستانی بلند / فیلم سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "featurette",
+      "Meanings": [
+        "فیلم کوتاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "feed back",
+      "Meanings": [
+        "پس خور"
+      ]
+    },
+    {
+      "EnglishWord": "feed magazine",
+      "Meanings": [
+        "فیلمدان خوراننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "feed plate",
+      "Meanings": [
+        "حلقه پر"
+      ]
+    },
+    {
+      "EnglishWord": "feed reel",
+      "Meanings": [
+        "حلقه تغذیه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "feed sprocket",
+      "Meanings": [
+        "چرخ دنده خوراننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "feed stroke",
+      "Meanings": [
+        "کوبه خوراننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "feeding claw",
+      "Meanings": [
+        "چنگک خوراننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "feeding device",
+      "Meanings": [
+        "ابزار خوراننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "feet",
+      "Meanings": [
+        "فیت‌"
+      ]
+    },
+    {
+      "EnglishWord": "feet-per-minute",
+      "Meanings": [
+        "فوت در دقیقه‌"
+      ]
+    },
+    {
+      "EnglishWord": "ferraniacolor",
+      "Meanings": [
+        "فرانیا کالر"
+      ]
+    },
+    {
+      "EnglishWord": "festival",
+      "Meanings": [
+        "جشنواره‌"
+      ]
+    },
+    {
+      "EnglishWord": "fevachrome",
+      "Meanings": [
+        "فیلم گواکروم‌"
+      ]
+    },
+    {
+      "EnglishWord": "fiber optics",
+      "Meanings": [
+        "نورشناسی رشته‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "fiction",
+      "Meanings": [
+        "داستان پردازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fiction film",
+      "Meanings": [
+        "فیلم داستانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fiducial marking",
+      "Meanings": [
+        "نشانه مرجع‌"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "حوزه یا فیلد",
+        "میدان کار برای دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "field angle",
+      "Meanings": [
+        "زاویه میدان دید"
+      ]
+    },
+    {
+      "EnglishWord": "field camera",
+      "Meanings": [
+        "دوربین صحرایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "field mask",
+      "Meanings": [
+        "نقاب میدان‌"
+      ]
+    },
+    {
+      "EnglishWord": "field of view",
+      "Meanings": [
+        "حوزه دید",
+        "میدان دید"
+      ]
+    },
+    {
+      "EnglishWord": "field of vision",
+      "Meanings": [
+        "میدان دید"
+      ]
+    },
+    {
+      "EnglishWord": "fifty-fifty two shot",
+      "Meanings": [
+        "نمای دو نفره / نمای دو نفره متقارن‌"
+      ]
+    },
+    {
+      "EnglishWord": "fight arranger",
+      "Meanings": [
+        "مسوول تنظیم صحنه‌های زد و خورد"
+      ]
+    },
+    {
+      "EnglishWord": "figurant",
+      "Meanings": [
+        "فیگوران‌"
+      ]
+    },
+    {
+      "EnglishWord": "filament",
+      "Meanings": [
+        "فیلامان‌"
+      ]
+    },
+    {
+      "EnglishWord": "filament lamp",
+      "Meanings": [
+        "لامپ رشته‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "fill in",
+      "Meanings": [
+        "نور پرکننده یا کمکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fill in light",
+      "Meanings": [
+        "نور تلطیف کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "fill light",
+      "Meanings": [
+        "نور تکمیلی‌",
+        "نور تلطیف کننده‌",
+        "نور فرعی‌",
+        "نور پراکنده‌",
+        "نور پرکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "fill up",
+      "Meanings": [
+        "میان برنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "filler",
+      "Meanings": [
+        "میان برنامه‌",
+        "نور تلطیف کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "filler light",
+      "Meanings": [
+        "نور فرعی‌",
+        "نور مکمل‌",
+        "نور پرکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "film",
+      "Meanings": [
+        "فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film advisory center",
+      "Meanings": [
+        "کانون مشاوره فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film appreciation",
+      "Meanings": [
+        "ارزیابی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film archival",
+      "Meanings": [
+        "بایگانی فیلم / فیلمخانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "film bin",
+      "Meanings": [
+        "جا فیلمی / بشکه‌های مخصوص فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film can",
+      "Meanings": [
+        "جعبه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film cement",
+      "Meanings": [
+        "چسب فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film clip",
+      "Meanings": [
+        "قطعه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film club",
+      "Meanings": [
+        "باشگاه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film copying machine",
+      "Meanings": [
+        "دستگاه نسخه برداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "film crew",
+      "Meanings": [
+        "گروه فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "film culture",
+      "Meanings": [
+        "فرهنگ فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film d'auteur",
+      "Meanings": [
+        "فیلم مولف‌"
+      ]
+    },
+    {
+      "EnglishWord": "film dimension",
+      "Meanings": [
+        "اندازه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film driver",
+      "Meanings": [
+        "فیلمگردان‌"
+      ]
+    },
+    {
+      "EnglishWord": "film editor",
+      "Meanings": [
+        "تدوین کننده‌",
+        "تدوین گر فیلم‌",
+        "ویراستار فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film eye",
+      "Meanings": [
+        "سینما چشم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film gate",
+      "Meanings": [
+        "دریچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "film grain",
+      "Meanings": [
+        "برفک / دانه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film holder",
+      "Meanings": [
+        "فیلم گیر"
+      ]
+    },
+    {
+      "EnglishWord": "film jam",
+      "Meanings": [
+        "سالاد شدن فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film lenght",
+      "Meanings": [
+        "طول فیلم برحسب فوت یا متر"
+      ]
+    },
+    {
+      "EnglishWord": "film library",
+      "Meanings": [
+        "آرشیو فیلم‌",
+        "فیلمخانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "film loop",
+      "Meanings": [
+        "لوپ فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film magazine",
+      "Meanings": [
+        "فیلم دان‌",
+        "مخزن فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film maker",
+      "Meanings": [
+        "سینماگر",
+        "فیلمساز"
+      ]
+    },
+    {
+      "EnglishWord": "film market",
+      "Meanings": [
+        "بازار فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film material",
+      "Meanings": [
+        "فیلم خام‌"
+      ]
+    },
+    {
+      "EnglishWord": "film of act",
+      "Meanings": [
+        "سینمای حقیقت‌"
+      ]
+    },
+    {
+      "EnglishWord": "film path",
+      "Meanings": [
+        "گذرگاه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film perforation",
+      "Meanings": [
+        "سوراخ فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film plan",
+      "Meanings": [
+        "صحنه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film rack",
+      "Meanings": [
+        "فیلم گیر"
+      ]
+    },
+    {
+      "EnglishWord": "film registration",
+      "Meanings": [
+        "تثبیت فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film script",
+      "Meanings": [
+        "فیلمنامه‌"
+      ]
+    },
+    {
+      "EnglishWord": "film siz",
+      "Meanings": [
+        "اندازه فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film society",
+      "Meanings": [
+        "انجمن فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film speed",
+      "Meanings": [
+        "حساسیت فیلم‌",
+        "سرعت فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film speed indicator",
+      "Meanings": [
+        "سرعت سنج فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film splicer",
+      "Meanings": [
+        "دستگاه فیلم چسبان‌",
+        "فیلم چسبان‌"
+      ]
+    },
+    {
+      "EnglishWord": "film star",
+      "Meanings": [
+        "ستاره فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film stock",
+      "Meanings": [
+        "فیلم خام‌"
+      ]
+    },
+    {
+      "EnglishWord": "film studio",
+      "Meanings": [
+        "استودیوی سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "film teacher",
+      "Meanings": [
+        "معلم سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "film title",
+      "Meanings": [
+        "عنوان فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film trap",
+      "Meanings": [
+        "دهنه / روزه‌"
+      ]
+    },
+    {
+      "EnglishWord": "film truth",
+      "Meanings": [
+        "سینما راستی / سینما حقیقت‌"
+      ]
+    },
+    {
+      "EnglishWord": "film viewer",
+      "Meanings": [
+        "تصویر نما"
+      ]
+    },
+    {
+      "EnglishWord": "film waste",
+      "Meanings": [
+        "بریده فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "film window",
+      "Meanings": [
+        "دریچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmed script",
+      "Meanings": [
+        "سناریوی فیلمبرداری شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmgoer",
+      "Meanings": [
+        "تماشاگر/ سینمارو"
+      ]
+    },
+    {
+      "EnglishWord": "filmic acting",
+      "Meanings": [
+        "بازی زنده و قانع کننده و طبیعی سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmic time",
+      "Meanings": [
+        "زمان سینمایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "film-in light",
+      "Meanings": [
+        "نور پرکننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "filming",
+      "Meanings": [
+        "فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmmaking",
+      "Meanings": [
+        "فیلمسازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmography",
+      "Meanings": [
+        "فیلم‌شناسی / فیلموگرافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filmogy",
+      "Meanings": [
+        "فیلم شناسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "صافی‌",
+        "پالایه‌"
+      ]
+    },
+    {
+      "EnglishWord": "filter factor",
+      "Meanings": [
+        "درجه فیلتر",
+        "ضریب فیلتر",
+        "عامل صافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filter holder",
+      "Meanings": [
+        "قاب فیلتر",
+        "گیره صافی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filter mike",
+      "Meanings": [
+        "فیلتر صوفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "filtering",
+      "Meanings": [
+        "صافی گذاری‌"
+      ]
+    },
+    {
+      "EnglishWord": "final",
+      "Meanings": [
+        "دست نویس نهایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final cut",
+      "Meanings": [
+        "تدوین نهایی و کامل‌",
+        "تدوین هنری‌",
+        "تدوین هنری دقیق یا هموار",
+        "مونتاژ نهایی‌",
+        "مونتاژ هموار",
+        "مونتاژ پایان یافته‌",
+        "نسخه مونتاژ شده کامل‌",
+        "نسخه نهایی‌",
+        "ویرایش آخر"
+      ]
+    },
+    {
+      "EnglishWord": "final cutting",
+      "Meanings": [
+        "برش قطعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final grain",
+      "Meanings": [
+        "ذرات املاح نقره‌",
+        "ریز دانه‌",
+        "واحد کیفیت شفاف تصویری‌",
+        "یک کپی با کیفیت تصویری خوب‌"
+      ]
+    },
+    {
+      "EnglishWord": "final grained",
+      "Meanings": [
+        "برفک ریز / دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "final master magnetic recording",
+      "Meanings": [
+        "نوار نهایی ضبط مغناطیسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final mix master track",
+      "Meanings": [
+        "باند اصلی و نهایی میکس‌"
+      ]
+    },
+    {
+      "EnglishWord": "final point",
+      "Meanings": [
+        "نقطه پایانی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final print",
+      "Meanings": [
+        "نسخه نهایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final script",
+      "Meanings": [
+        "سناریوی نهایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "final trial composite",
+      "Meanings": [
+        "آخرین نسخه مرکب آزمایشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "finder",
+      "Meanings": [
+        "نمایاب / ویزور"
+      ]
+    },
+    {
+      "EnglishWord": "fine cut",
+      "Meanings": [
+        "برش نهایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "finely grained",
+      "Meanings": [
+        "دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "finely granular",
+      "Meanings": [
+        "دانه ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fire effect",
+      "Meanings": [
+        "جلوه آتش‌"
+      ]
+    },
+    {
+      "EnglishWord": "fire stripe",
+      "Meanings": [
+        "نواری از فیلم نسوز"
+      ]
+    },
+    {
+      "EnglishWord": "first assembly",
+      "Meanings": [
+        "برش اولیه / تدوین اولیه / راف کات‌"
+      ]
+    },
+    {
+      "EnglishWord": "first assistant cameraman",
+      "Meanings": [
+        "دستیار فیلمبردار"
+      ]
+    },
+    {
+      "EnglishWord": "first assitand cameraman",
+      "Meanings": [
+        "کمک فیلمبردار اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first cameraman",
+      "Meanings": [
+        "فیلمبردار اول‌",
+        "مدیر فیلمبرداری‌"
+      ]
+    },
+    {
+      "EnglishWord": "first developer",
+      "Meanings": [
+        "ظهور اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first generation dupe",
+      "Meanings": [
+        "نسخه اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first release",
+      "Meanings": [
+        "نمایش اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first release print",
+      "Meanings": [
+        "نسخه نمایش اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first run",
+      "Meanings": [
+        "اکران اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first screening",
+      "Meanings": [
+        "نمایش اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first shooting day",
+      "Meanings": [
+        "اولین جلسه‌فیلمبرداری یا ضبط تلویزیونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "first showing",
+      "Meanings": [
+        "نمایش اول‌"
+      ]
+    },
+    {
+      "EnglishWord": "first trial composite",
+      "Meanings": [
+        "اولین نسخه مرکب آزمایشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "first trial composite print",
+      "Meanings": [
+        "اولین نسخه مرکب آزمایشی / نسخه صفر"
+      ]
+    },
+    {
+      "EnglishWord": "fish eye",
+      "Meanings": [
+        "عدسی چشم ماهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fish eye lens",
+      "Meanings": [
+        "عدسی ماهی چشم‌",
+        "عدسی چشم ماهی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fix",
+      "Meanings": [
+        "ثبوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fix focus",
+      "Meanings": [
+        "کانون ثابت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fix frame",
+      "Meanings": [
+        "تصویر ثابت / ثابت نگاه داشتن یک تصویر / جامد کردن یک حرکت‌",
+        "تک عکس ثابت شده در فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "fix telephote",
+      "Meanings": [
+        "دور نماها با استفاده از لنزهای تله فتو"
+      ]
+    },
+    {
+      "EnglishWord": "fixed frame",
+      "Meanings": [
+        "تصویر ثابت‌",
+        "کادر ثابت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fixer",
+      "Meanings": [
+        "داروی ثبوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fixing",
+      "Meanings": [
+        "ثبوت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fixing solution",
+      "Meanings": [
+        "محلول تثبیت شدنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "flag",
+      "Meanings": [
+        "پرده کوچک جلوگیر صدا یا نور",
+        "پرچم‌"
+      ]
+    },
+    {
+      "EnglishWord": "flange",
+      "Meanings": [
+        "بشقاب / کفه‌",
+        "ورقه فلزی دو طرف قرقره‌های فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "flange focal depth",
+      "Meanings": [
+        "عمق کانونی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "flange focal distance",
+      "Meanings": [
+        "فاصله کانونی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "flannel board",
+      "Meanings": [
+        "تابلو ماهوتی‌",
+        "تخته فلانل‌"
+      ]
+    },
+    {
+      "EnglishWord": "flap mask",
+      "Meanings": [
+        "نقاب زبانه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "flap seat",
+      "Meanings": [
+        "صندلی تاشو در سینما"
+      ]
+    },
+    {
+      "EnglishWord": "flare",
+      "Meanings": [
+        "سوختگی‌",
+        "نور ناخواسته‌"
+      ]
+    },
+    {
+      "EnglishWord": "flaring",
+      "Meanings": [
+        "اثر نوری زننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "flash",
+      "Meanings": [
+        "فلاش‌"
+      ]
+    },
+    {
+      "EnglishWord": "flash back  to",
+      "Meanings": [
+        "بازپس نگری‌",
+        "بازگشت به گذشته‌",
+        "برش به گذشته‌",
+        "برگشت به گذشته‌",
+        "به گذشته رفتن‌",
+        "رجعت به گذشته‌",
+        "رجوع به گذشته‌",
+        "قطع به گذشته‌",
+        "پس نگاه‌"
+      ]
+    },
+    {
+      "EnglishWord": "flash forward  to",
+      "Meanings": [
+        "آینده نگری‌",
+        "به آینده رفتن‌",
+        "تجسم آینده‌",
+        "جهش به آینده‌",
+        "رجوع به آینده‌",
+        "رفتن به آینده‌",
+        "شتاب به آینده‌",
+        "قطع به آینده‌",
+        "نگاه به آینده‌",
+        "نگرش به آینده‌"
+      ]
+    },
+    {
+      "EnglishWord": "flash frame",
+      "Meanings": [
+        "کادر سفید"
+      ]
+    },
+    {
+      "EnglishWord": "flast picture",
+      "Meanings": [
+        "تصویر یکدست‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "بی روح‌",
+        "تصویر تخت‌",
+        "تصویر مسطح‌",
+        "تصویر یکنواخت‌",
+        "نور همگانی و فلات‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat angle",
+      "Meanings": [
+        "زاویه تخت‌",
+        "زاویه مسطح‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat light",
+      "Meanings": [
+        "نور تخت‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat lighting",
+      "Meanings": [
+        "نورپردازی با نور مسطح‌",
+        "نورپردازی یکدست‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat picture",
+      "Meanings": [
+        "عکس ساده‌"
+      ]
+    },
+    {
+      "EnglishWord": "flat-character",
+      "Meanings": [
+        "اشخاص بازی ساده‌"
+      ]
+    },
+    {
+      "EnglishWord": "flicker",
+      "Meanings": [
+        "تصویر متحرک‌",
+        "لرزش / لرزیدن تصویر",
+        "چشمک زدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "flickering",
+      "Meanings": [
+        "پرش‌"
+      ]
+    },
+    {
+      "EnglishWord": "flicks",
+      "Meanings": [
+        "سیم نما"
+      ]
+    },
+    {
+      "EnglishWord": "flip",
+      "Meanings": [
+        "وارونگی‌"
+      ]
+    },
+    {
+      "EnglishWord": "flip over",
+      "Meanings": [
+        "پشت و رو"
+      ]
+    },
+    {
+      "EnglishWord": "flip shot",
+      "Meanings": [
+        "نمای وارونه‌"
+      ]
+    },
+    {
+      "EnglishWord": "flipping",
+      "Meanings": [
+        "بر زدن برای به حرکت درآوردن تصویر / ورق زدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "ردیف چراغهای جلو صحنه‌",
+        "لرزش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "floating rail",
+      "Meanings": [
+        "قسمتی از دستگاه سوراخ زنی فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "flood light",
+      "Meanings": [
+        "لامپ فلاد",
+        "منبع فلاد",
+        "نور پراکنده‌",
+        "نورپخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "flooding",
+      "Meanings": [
+        "غرق نور کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "flooding lamp",
+      "Meanings": [
+        "چراغ نورپاش‌"
+      ]
+    },
+    {
+      "EnglishWord": "floor bracket",
+      "Meanings": [
+        "گونیای کفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "floor plate",
+      "Meanings": [
+        "لوح کفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "floor stand",
+      "Meanings": [
+        "پایه کفی‌"
+      ]
+    },
+    {
+      "EnglishWord": "flow action",
+      "Meanings": [
+        "مسیر حرکت بین تصاویر"
+      ]
+    },
+    {
+      "EnglishWord": "flow of action",
+      "Meanings": [
+        "حرکت تصویرها"
+      ]
+    },
+    {
+      "EnglishWord": "fluid head",
+      "Meanings": [
+        "کلگی روغنی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescent lamp",
+      "Meanings": [
+        "لامپ مهتابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescent light",
+      "Meanings": [
+        "نورفلویورسنت‌"
+      ]
+    },
+    {
+      "EnglishWord": "fluoresence",
+      "Meanings": [
+        "نور مهتابی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fluoridation",
+      "Meanings": [
+        "فلویوری کردن‌"
+      ]
+    },
+    {
+      "EnglishWord": "flutter",
+      "Meanings": [
+        "لرزش‌",
+        "پرش‌"
+      ]
+    },
+    {
+      "EnglishWord": "flutter picture",
+      "Meanings": [
+        "لرزش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "flutter sound",
+      "Meanings": [
+        "انحراف صدا"
+      ]
+    },
+    {
+      "EnglishWord": "flying sequence",
+      "Meanings": [
+        "فصل سکانس هوایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal apeture",
+      "Meanings": [
+        "روزنه کار"
+      ]
+    },
+    {
+      "EnglishWord": "focal depth",
+      "Meanings": [
+        "عمق کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal lenght",
+      "Meanings": [
+        "فاصله کانونی عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal lenght adjustment",
+      "Meanings": [
+        "حلقه تنظیم کننده فاصله کانونی عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal length",
+      "Meanings": [
+        "فاصله کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal number",
+      "Meanings": [
+        "درجات f",
+        "عدد اف‌",
+        "عدد کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal plane",
+      "Meanings": [
+        "سطح کانونی‌",
+        "سطح کانونی تصویر",
+        "صفحه کانونی‌",
+        "پرده کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal point principal",
+      "Meanings": [
+        "نقطه کانونی اصلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focal stop",
+      "Meanings": [
+        "تغییر درجات دیافراگم‌",
+        "درجه f",
+        "درجه دیافراگم‌",
+        "دیافراگم‌"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "آشکار / واضح‌",
+        "تصویر واضح‌",
+        "کانونی‌",
+        "واضح‌",
+        "وضوح‌",
+        "وضوح دقیق‌"
+      ]
+    },
+    {
+      "EnglishWord": "focus  to",
+      "Meanings": [
+        "تنظیم تصویر",
+        "کانونی کردن تصویر",
+        "میزان بودن تصویر نسبت به فاصله عدسی دوربین وموضوع‌",
+        "میزان کردن عدسی برای وضوح تصویر",
+        "واضح کردن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "focus assistant",
+      "Meanings": [
+        "دستیار اول فیلمبردار"
+      ]
+    },
+    {
+      "EnglishWord": "focus back",
+      "Meanings": [
+        "نقطه وضوح به عقب‌"
+      ]
+    },
+    {
+      "EnglishWord": "focus chart",
+      "Meanings": [
+        "نمودار کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "focus forward",
+      "Meanings": [
+        "نقطه وضوح به جلو"
+      ]
+    },
+    {
+      "EnglishWord": "focusing",
+      "Meanings": [
+        "قدرت وضوحی نمایی‌",
+        "میزان سازی تصویر",
+        "میزان کردن / واضح کردن‌",
+        "میزان کردن تصویر / واضح کردن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "focusing divice",
+      "Meanings": [
+        "پیچ میزان تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "focusing lens",
+      "Meanings": [
+        "عدسی تنظیم تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "focusing pull",
+      "Meanings": [
+        "خروج از وضوح‌"
+      ]
+    },
+    {
+      "EnglishWord": "focusing puller",
+      "Meanings": [
+        "دستیار اول فیلمبردار",
+        "دستیار فیلمبردار / مسوول واضح بودن تصویر در دوربین در حین فی",
+        "متصدی میزان کردن عدسی دوربین‌",
+        "مسوول کانونی کردن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "focusing ring",
+      "Meanings": [
+        "حلقه وضوح دوربین‌"
+      ]
+    },
+    {
+      "EnglishWord": "fog",
+      "Meanings": [
+        "خفگی تصویر یا مه گرفتگی‌",
+        "مه‌"
+      ]
+    },
+    {
+      "EnglishWord": "fog density",
+      "Meanings": [
+        "چگالی مه‌"
+      ]
+    },
+    {
+      "EnglishWord": "fog filter",
+      "Meanings": [
+        "صافی مه ساز",
+        "فیلتر ایجاد کننده اثر مه‌",
+        "فیلتر ایجاد کننده مه‌",
+        "فیلتر مه‌",
+        "فیلتر مه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "fog level",
+      "Meanings": [
+        "مه آلودی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fog maker machine",
+      "Meanings": [
+        "دستگاه مه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "fogging",
+      "Meanings": [
+        "چراغ محو کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "fogging chemical",
+      "Meanings": [
+        "مواد شیمیایی مه ساز"
+      ]
+    },
+    {
+      "EnglishWord": "fogging light",
+      "Meanings": [
+        "مه آلود شدن یا تار شدن‌"
+      ]
+    },
+    {
+      "EnglishWord": "foil character",
+      "Meanings": [
+        "سیماب گون‌",
+        "شخص بازی سیماب گون‌"
+      ]
+    },
+    {
+      "EnglishWord": "fold back",
+      "Meanings": [
+        "پخش‌"
+      ]
+    },
+    {
+      "EnglishWord": "follow focus",
+      "Meanings": [
+        "تعقیب کانونی‌"
+      ]
+    },
+    {
+      "EnglishWord": "follow shot",
+      "Meanings": [
+        "موضوع و دوربین در حرکت‌",
+        "نمای تعقیبی‌",
+        "نمای همراهی‌",
+        "نور متحرک موضعی‌"
+      ]
+    },
+    {
+      "EnglishWord": "following focus",
+      "Meanings": [
+        "تنظیم فوکوس ضمن حرکت‌"
+      ]
+    },
+    {
+      "EnglishWord": "following shot",
+      "Meanings": [
+        "صحنه تعقیبی‌",
+        "نمای تعقیبی‌"
+      ]
+    },
+    {
+      "EnglishWord": "fondu",
+      "Meanings": [
+        "تاریکی روشنی یا فوندو"
+      ]
+    },
+    {
+      "EnglishWord": "fondu fade-out",
+      "Meanings": [
+        "فوندوی محو"
+      ]
+    },
+    {
+      "EnglishWord": "foot candle",
+      "Meanings": [
+        "شمع فوت‌",
+        "فوت کندل‌",
+        "واحد اندازه‌گیری نور",
+        "واحد روشنایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "foot light",
+      "Meanings": [
+        "چراغ چند لامپی‌"
+      ]
+    },
+    {
+      "EnglishWord": "foot room",
+      "Meanings": [
+        "جای پا"
+      ]
+    },
+    {
+      "EnglishWord": "footage",
+      "Meanings": [
+        "طول فیلم‌",
+        "طول فیلم برحسب فوت یا متر",
+        "طول فیلم به حسب فوت‌",
+        "فوت واحد اندازه‌گیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "footage counter",
+      "Meanings": [
+        "طول سنج‌",
+        "فوت شمار",
+        "متراژ یا شمارنده طول فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "footage number",
+      "Meanings": [
+        "شماره حاشیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "forced developing",
+      "Meanings": [
+        "ظهور تقویت شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "foreground",
+      "Meanings": [
+        "جلو",
+        "زمینه جلو تصویر",
+        "نزدیکترین قسمت تصویر به دوربین‌",
+        "پیش زمینه‌",
+        "پیش نما"
+      ]
+    },
+    {
+      "EnglishWord": "foregrounding",
+      "Meanings": [
+        "پیش نما سازی‌"
+      ]
+    },
+    {
+      "EnglishWord": "foreign version",
+      "Meanings": [
+        "ورسیون خارجی‌"
+      ]
+    },
+    {
+      "EnglishWord": "foreshadowing conflict",
+      "Meanings": [
+        "کشمکش پیش بینی شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "شکل‌",
+        "قالب‌"
+      ]
+    },
+    {
+      "EnglishWord": "formal",
+      "Meanings": [
+        "صوری‌",
+        "قالب‌"
+      ]
+    },
+    {
+      "EnglishWord": "formalism",
+      "Meanings": [
+        "شکل نگری‌",
+        "شکل پرستی‌",
+        "شکل گرایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "formalizing",
+      "Meanings": [
+        "قالب ریزی‌"
+      ]
+    },
+    {
+      "EnglishWord": "format",
+      "Meanings": [
+        "اصول و قالب‌",
+        "اندازه‌",
+        "قطع‌"
+      ]
+    },
+    {
+      "EnglishWord": "format sub-standard",
+      "Meanings": [
+        "قطع زیر استانده‌"
+      ]
+    },
+    {
+      "EnglishWord": "formulation",
+      "Meanings": [
+        "صورت بندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "forward",
+      "Meanings": [
+        "قسمت جلو"
+      ]
+    },
+    {
+      "EnglishWord": "four channel stereophonic film",
+      "Meanings": [
+        "فیلم استریوفونیک چهارباندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "four shot",
+      "Meanings": [
+        "شات چهار نفره‌"
+      ]
+    },
+    {
+      "EnglishWord": "four ways",
+      "Meanings": [
+        "چهار مجرایی‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "اولین نقطه‌",
+        "تصویر واحد در روی یک نوار فیلم / قاب تصویر",
+        "تک تصویر",
+        "تک عکسها",
+        "تک عکس‌",
+        "قاب‌",
+        "قاب گیری‌",
+        "کادر",
+        "کادر تصویر",
+        "کادر تصویر فیلم‌",
+        "کادر فیلم سینما",
+        "کوچکترین واحد ساختمانی یک فیلم‌",
+        "نسختین کادر",
+        "هریک از تصویرهای روی نوار فیلم‌",
+        "یک تصویر واحد / یک کادر فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame  to",
+      "Meanings": [
+        "کادرگیری‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame counter",
+      "Meanings": [
+        "تک عکس شمار",
+        "شمارش گر تصویر",
+        "قاب بر",
+        "کادر شمار"
+      ]
+    },
+    {
+      "EnglishWord": "frame in",
+      "Meanings": [
+        "در تصویر",
+        "در کادر"
+      ]
+    },
+    {
+      "EnglishWord": "frame line",
+      "Meanings": [
+        "خط تصویر",
+        "خط میان تصویری‌",
+        "کادر فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame per second",
+      "Meanings": [
+        "سرعت کادر در ثانیه‌",
+        "فریم در ثانیه‌",
+        "قاب در ثانیه‌",
+        "کادر در ثانیه‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame requirment",
+      "Meanings": [
+        "نیازمندی قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "framer",
+      "Meanings": [
+        "دستگاه پروژکتور فیلم‌"
+      ]
+    },
+    {
+      "EnglishWord": "frame's depth",
+      "Meanings": [
+        "عمق قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "frames withing the frame",
+      "Meanings": [
+        "قابها در قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "framing",
+      "Meanings": [
+        "تصویربندی‌",
+        "عکس بندی‌",
+        "قابگیری‌",
+        "قاب بندی‌",
+        "کادربندی‌"
+      ]
+    },
+    {
+      "EnglishWord": "framing device",
+      "Meanings": [
+        "کادربند"
+      ]
+    },
+    {
+      "EnglishWord": "framing knob",
+      "Meanings": [
+        "قسمت انتهایی اهرم کادرگیر"
+      ]
+    },
+    {
+      "EnglishWord": "framing lever",
+      "Meanings": [
+        "اهرم کادرگیر"
+      ]
+    },
+    {
+      "EnglishWord": "framing screw",
+      "Meanings": [
+        "پیچ تنظیم کادر"
+      ]
+    },
+    {
+      "EnglishWord": "free cinema",
+      "Meanings": [
+        "سینمای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freeze",
+      "Meanings": [
+        "تصویر ثابت‌"
+      ]
+    },
+    {
+      "EnglishWord": "freeze  to",
+      "Meanings": [
+        "ثابت کردن یک کادر تصویر روی پرده سینما / نگهداشتن تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "freeze frame",
+      "Meanings": [
+        "تصویر ثابت‌",
+        "تصویر متوقف‌",
+        "تک عکس ثابت شده در فیلم‌",
+        "عکس ثابت‌",
+        "قاب",
+        "ایستا",
+        "کادر ثابت‌",
+        "نمای فیکس‌"
+      ]
+    },
+    {
+      "EnglishWord": "freeze frame  to",
+      "Meanings": [
+        "توقف تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "freeze framing",
+      "Meanings": [
+        "ثابت کردن قاب‌"
+      ]
+    },
+    {
+      "EnglishWord": "french flag",
+      "Meanings": [
+        "سایه افکن مفصلی‌"
+      ]
+    },
+    {
+      "EnglishWord": "french scene",
+      "Meanings": [
+        "صحنه یا صحنه فرانسوی‌"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "بسامد",
+        "تعداد ارتعاشات در ثانیه‌",
+        "تناوب انتشار",
+        "فرکانس‌"
+      ]
+    },
+    {
+      "EnglishWord": "frequency range",
+      "Meanings": [
+        "تغییرات تواتر"
+      ]
+    },
+    {
+      "EnglishWord": "fresnel lens",
+      "Meanings": [
+        "عدسی فرنل‌"
+      ]
+    },
+    {
+      "EnglishWord": "friction",
+      "Meanings": [
+        "سر سه پایه اصطکاکی‌"
+      ]
+    },
+    {
+      "EnglishWord": "friction head",
+      "Meanings": [
+        "کلگی مالشی‌"
+      ]
+    },
+    {
+      "EnglishWord": "front light",
+      "Meanings": [
+        "نور جلو"
+      ]
+    },
+    {
+      "EnglishWord": "front lighting",
+      "Meanings": [
+        "نورپردازی از جلو"
+      ]
+    },
+    {
+      "EnglishWord": "front nodal point",
+      "Meanings": [
+        "نقطه ورود نور به عدسی‌"
+      ]
+    },
+    {
+      "EnglishWord": "front projection",
+      "Meanings": [
+        "نمایش از جلو",
+        "نمایش فیلم از روبرو",
+        "پرده شفاف تابانده از جلو"
+      ]
+    },
+    {
+      "EnglishWord": "front shutter",
+      "Meanings": [
+        "مسدودکننده جلویی‌"
+      ]
+    },
+    {
+      "EnglishWord": "front tension roller",
+      "Meanings": [
+        "چرخ دندانه دار جلو"
+      ]
+    },
+    {
+      "EnglishWord": "frontal lighting",
+      "Meanings": [
+        "نورپردازی از جلو"
+      ]
+    },
+    {
+      "EnglishWord": "frontier film group",
+      "Meanings": [
+        "گروه فیلم پیشتاز"
+      ]
+    },
+    {
+      "EnglishWord": "fronts",
+      "Meanings": [
+        "صفحه شیشه‌ای برای انتشار نور"
+      ]
+    },
+    {
+      "EnglishWord": "frosted glass",
+      "Meanings": [
+        "شیشه برفک دار"
+      ]
+    },
+    {
+      "EnglishWord": "frozen",
+      "Meanings": [
+        "کادرهای منجمد شده‌"
+      ]
+    },
+    {
+      "EnglishWord": "frozen frame",
+      "Meanings": [
+        "قاب ثابت‌",
+        "قاب منجمد"
+      ]
+    },
+    {
+      "EnglishWord": "full aperture",
+      "Meanings": [
+        "دهانه کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "full cell animation",
+      "Meanings": [
+        "متحرک سازی تمام طلق‌"
+      ]
+    },
+    {
+      "EnglishWord": "full cell technic",
+      "Meanings": [
+        "فن تمام طلق‌"
+      ]
+    },
+    {
+      "EnglishWord": "full coat",
+      "Meanings": [
+        "فیلم پوشش کامل / فیلم مغناطیسی سوپر هشت‌",
+        "نوار مغناطیسی سوراخ دار 17 میلیمتری‌"
+      ]
+    },
+    {
+      "EnglishWord": "full figure shot",
+      "Meanings": [
+        "نمای تمام قد",
+        "نمای تمام پیکر"
+      ]
+    },
+    {
+      "EnglishWord": "full frame",
+      "Meanings": [
+        "تمام فریم‌",
+        "قاب کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "full lenght motion picture",
+      "Meanings": [
+        "فیلم سینمایی یا فیلم بلند"
+      ]
+    },
+    {
+      "EnglishWord": "full lenght shot",
+      "Meanings": [
+        "از سطح بالای سر تا قوزک پا / تمام قد"
+      ]
+    },
+    {
+      "EnglishWord": "full page script",
+      "Meanings": [
+        "متن تمام صفحه‌ای‌"
+      ]
+    },
+    {
+      "EnglishWord": "full range of wide angle",
+      "Meanings": [
+        "لنز با زاویه کاملا باز"
+      ]
+    },
+    {
+      "EnglishWord": "full screen close up",
+      "Meanings": [
+        "تصویر بسیار درشت‌"
+      ]
+    },
+    {
+      "EnglishWord": "full shot",
+      "Meanings": [
+        "از سطح بالای سر تا قوزک پا",
+        "اکسیون کل صحنه‌",
+        "تصویر کامل‌: بدن شخص یا جسم‌",
+        "تمام قد بدون مناظر اطراف‌",
+        "تمام نما / نمای تمام‌",
+        "تمام نمای کامل‌",
+        "شات تمام نما یا تمام قد",
+        "صحنه افتتاحیه‌",
+        "کادر کامل‌",
+        "نمای تمام قد",
+        "نمای کامل‌"
+      ]
+    },
+    {
+      "EnglishWord": "full sound truck",
+      "Meanings": [
+        "فیلم تمام ناطق‌"
+      ]
+    },
+    {
+      "EnglishWord": "full stripe",
+      "Meanings": [
+        "حاشیه کامل یا یکپارچه‌"
+      ]
+    },
+    {
+      "EnglishWord": "full surrounding",
+      "Meanings": [
+        "قاب کاملا احاطه کننده‌"
+      ]
+    },
+    {
+      "EnglishWord": "full track",
+      "Meanings": [
+        "تمام رویه‌"
+      ]
+    },
+    {
+      "EnglishWord": "functional music",
+      "Meanings": [
+        "موسیقی با وظیفه مشخص‌"
+      ]
+    }
+  ]
+}

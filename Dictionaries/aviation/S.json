@@ -1,0 +1,773 @@
+﻿{
+  "Group": "S",
+  "Entries": 122,
+  "Words": [
+    {
+      "EnglishWord": "sacp",
+      "Meanings": [
+        "Standing Advisory Committee on Pilot licensing"
+      ]
+    },
+    {
+      "EnglishWord": "same direction aircraft",
+      "Meanings": [
+        "هواپیماهای هم جهت"
+      ]
+    },
+    {
+      "EnglishWord": "sar",
+      "Meanings": [
+        "Search",
+        "And",
+        "Rescue"
+      ]
+    },
+    {
+      "EnglishWord": "sarps",
+      "Meanings": [
+        "استانداردها و روشهای توصیه شده"
+      ]
+    },
+    {
+      "EnglishWord": "sas",
+      "Meanings": [
+        "Stability Augmentation System"
+      ]
+    },
+    {
+      "EnglishWord": "satco",
+      "Meanings": [
+        "Senior Air Traffic Control Officer"
+      ]
+    },
+    {
+      "EnglishWord": "satcoms",
+      "Meanings": [
+        "Satellite Communications"
+      ]
+    },
+    {
+      "EnglishWord": "sb",
+      "Meanings": [
+        "Service Bulletin"
+      ]
+    },
+    {
+      "EnglishWord": "sbac",
+      "Meanings": [
+        "Society of British Aerospace Companies"
+      ]
+    },
+    {
+      "EnglishWord": "scan",
+      "Meanings": [
+        "کاوش",
+        "انتشار امواج در یک سمت معین"
+      ]
+    },
+    {
+      "EnglishWord": "scanning pattern",
+      "Meanings": [
+        "الگوی پخش"
+      ]
+    },
+    {
+      "EnglishWord": "schedule",
+      "Meanings": [
+        "برنامه",
+        "جدول",
+        "فهرست"
+      ]
+    },
+    {
+      "EnglishWord": "scheduled air transport",
+      "Meanings": [
+        "ترابری برنامه ای"
+      ]
+    },
+    {
+      "EnglishWord": "scope",
+      "Meanings": [
+        "حدود وظایف"
+      ]
+    },
+    {
+      "EnglishWord": "score",
+      "Meanings": [
+        "شیار",
+        "شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "scrupulously",
+      "Meanings": [
+        "با دقت",
+        "با احتیاط"
+      ]
+    },
+    {
+      "EnglishWord": "sdau",
+      "Meanings": [
+        "Safety Data Analysis Unit of the CAA"
+      ]
+    },
+    {
+      "EnglishWord": "second",
+      "Meanings": [
+        "پشتیبانی",
+        "تایید"
+      ]
+    },
+    {
+      "EnglishWord": "secondary power supply",
+      "Meanings": [
+        "برق اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "secondary radar",
+      "Meanings": [
+        "رادار ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary surveillance radar",
+      "Meanings": [
+        "رادار ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secret ballot",
+      "Meanings": [
+        "رای مخفی"
+      ]
+    },
+    {
+      "EnglishWord": "section",
+      "Meanings": [
+        "قسمت"
+      ]
+    },
+    {
+      "EnglishWord": "security",
+      "Meanings": [
+        "ایمنی",
+        "امنیت"
+      ]
+    },
+    {
+      "EnglishWord": "selcal",
+      "Meanings": [
+        "Selective Calling"
+      ]
+    },
+    {
+      "EnglishWord": "separation",
+      "Meanings": [
+        "جدایی بین دو یا چند هواپیما"
+      ]
+    },
+    {
+      "EnglishWord": "sfc",
+      "Meanings": [
+        "Specific Fuel Consumption"
+      ]
+    },
+    {
+      "EnglishWord": "shaded",
+      "Meanings": [
+        "سایه دار",
+        "پررنگ"
+      ]
+    },
+    {
+      "EnglishWord": "shallow",
+      "Meanings": [
+        "مه سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "shell",
+      "Meanings": [
+        "گلوله",
+        "خمپاره"
+      ]
+    },
+    {
+      "EnglishWord": "shoreline",
+      "Meanings": [
+        "خط ساحلی"
+      ]
+    },
+    {
+      "EnglishWord": "shp",
+      "Meanings": [
+        "Shaft Horsepower"
+      ]
+    },
+    {
+      "EnglishWord": "sid",
+      "Meanings": [
+        "Standard Instrument Departure"
+      ]
+    },
+    {
+      "EnglishWord": "side lobe",
+      "Meanings": [
+        "تشعشع جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "sif",
+      "Meanings": [
+        "نوعی فرستنده",
+        "گیرنده در هواپیما است که به طور اتوماتیک شناسایی هدف منتخب را فراهم می‌سازد"
+      ]
+    },
+    {
+      "EnglishWord": "signaficant point",
+      "Meanings": [
+        "نقطه مهم"
+      ]
+    },
+    {
+      "EnglishWord": "signal area",
+      "Meanings": [
+        "ناحیه نصب علایم"
+      ]
+    },
+    {
+      "EnglishWord": "signalling lamp",
+      "Meanings": [
+        "چراغی که بوسیله آن می‌توان علایم بصری قراردادای را ارایه نمود"
+      ]
+    },
+    {
+      "EnglishWord": "simple majority",
+      "Meanings": [
+        "اکثریت ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simultaneous mode",
+      "Meanings": [
+        "مد همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "sinuous",
+      "Meanings": [
+        "پیچ و خم دار"
+      ]
+    },
+    {
+      "EnglishWord": "sketch",
+      "Meanings": [
+        "نقشه ساده",
+        "پیش نویس"
+      ]
+    },
+    {
+      "EnglishWord": "skiddometer",
+      "Meanings": [
+        "وسیله اندازه گیری اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "sl",
+      "Meanings": [
+        "Sea Level"
+      ]
+    },
+    {
+      "EnglishWord": "sla",
+      "Meanings": [
+        "Small Light Aircraft"
+      ]
+    },
+    {
+      "EnglishWord": "slab",
+      "Meanings": [
+        "تکه",
+        "ورقه"
+      ]
+    },
+    {
+      "EnglishWord": "slap down",
+      "Meanings": [
+        "جلو گیری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "sleet",
+      "Meanings": [
+        "برف و باران یا تگرگ و باران باهم"
+      ]
+    },
+    {
+      "EnglishWord": "slmg",
+      "Meanings": [
+        "Self",
+        "Launching Motor Glider"
+      ]
+    },
+    {
+      "EnglishWord": "slush",
+      "Meanings": [
+        "برف آب"
+      ]
+    },
+    {
+      "EnglishWord": "smoh",
+      "Meanings": [
+        "Since Major Overhaul"
+      ]
+    },
+    {
+      "EnglishWord": "smr",
+      "Meanings": [
+        "Surface Movement Radar"
+      ]
+    },
+    {
+      "EnglishWord": "snowdrift",
+      "Meanings": [
+        "برف باد آورد"
+      ]
+    },
+    {
+      "EnglishWord": "snowgrains",
+      "Meanings": [
+        "برف ریز"
+      ]
+    },
+    {
+      "EnglishWord": "snowtam",
+      "Meanings": [
+        "A NOTAM Concerning Runway Conditions In Snow"
+      ]
+    },
+    {
+      "EnglishWord": "sob",
+      "Meanings": [
+        "Souls On Board"
+      ]
+    },
+    {
+      "EnglishWord": "software",
+      "Meanings": [
+        "نرم افزار"
+      ]
+    },
+    {
+      "EnglishWord": "solar cosmic radiation",
+      "Meanings": [
+        "اشعه کیهانی خورشیدی"
+      ]
+    },
+    {
+      "EnglishWord": "sop",
+      "Meanings": [
+        "Standard Operating Procedure"
+      ]
+    },
+    {
+      "EnglishWord": "sortie",
+      "Meanings": [
+        "پرواز عملیاتی که بوسیله یک فروند هواپیما انجام می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "sorting",
+      "Meanings": [
+        "دسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "special position identification feature",
+      "Meanings": [
+        "علامت ویژه شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "special vfr flight",
+      "Meanings": [
+        "پرواز ویژه با دید"
+      ]
+    },
+    {
+      "EnglishWord": "specifications",
+      "Meanings": [
+        "شرح",
+        "مشخصات"
+      ]
+    },
+    {
+      "EnglishWord": "spectrum",
+      "Meanings": [
+        "طیف امواج"
+      ]
+    },
+    {
+      "EnglishWord": "speed adjustment poocedure",
+      "Meanings": [
+        "دستورالعمل تعدیل سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "spl",
+      "Meanings": [
+        "Student Pilot's Licence"
+      ]
+    },
+    {
+      "EnglishWord": "splatter",
+      "Meanings": [
+        "پاشیدن",
+        "ترشح"
+      ]
+    },
+    {
+      "EnglishWord": "sr",
+      "Meanings": [
+        "Sunrise"
+      ]
+    },
+    {
+      "EnglishWord": "sra",
+      "Meanings": [
+        "Surveillance Radar Approach"
+      ]
+    },
+    {
+      "EnglishWord": "sre",
+      "Meanings": [
+        "Surveillance Radar Element of a GCA"
+      ]
+    },
+    {
+      "EnglishWord": "srg",
+      "Meanings": [
+        "Safety Regulation Group of the CAA"
+      ]
+    },
+    {
+      "EnglishWord": "srz",
+      "Meanings": [
+        "Special Rules Zone"
+      ]
+    },
+    {
+      "EnglishWord": "ss",
+      "Meanings": [
+        "Sunset"
+      ]
+    },
+    {
+      "EnglishWord": "ssb",
+      "Meanings": [
+        "Single Sideband"
+      ]
+    },
+    {
+      "EnglishWord": "ssr",
+      "Meanings": [
+        "Secondary Surveillance Radar"
+      ]
+    },
+    {
+      "EnglishWord": "sst",
+      "Meanings": [
+        "ترابری فوق صوت"
+      ]
+    },
+    {
+      "EnglishWord": "stalling speed",
+      "Meanings": [
+        "سرعت واماندگی"
+      ]
+    },
+    {
+      "EnglishWord": "stand by",
+      "Meanings": [
+        "منتظر باشید"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "استاندارد",
+        "مقرر"
+      ]
+    },
+    {
+      "EnglishWord": "standard phraseologies",
+      "Meanings": [
+        "عبارت استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "star",
+      "Meanings": [
+        "Standard Terminal Arrival Route"
+      ]
+    },
+    {
+      "EnglishWord": "status",
+      "Meanings": [
+        "حالت",
+        "وضعیت"
+      ]
+    },
+    {
+      "EnglishWord": "stc",
+      "Meanings": [
+        "Supplemental Type Certificate"
+      ]
+    },
+    {
+      "EnglishWord": "steer",
+      "Meanings": [
+        "هدایت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "stem",
+      "Meanings": [
+        "منشعب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "step-by-step mode",
+      "Meanings": [
+        "روش گام به گام"
+      ]
+    },
+    {
+      "EnglishWord": "stiffness",
+      "Meanings": [
+        "استحکام"
+      ]
+    },
+    {
+      "EnglishWord": "stoh",
+      "Meanings": [
+        "Since Top Overhaul"
+      ]
+    },
+    {
+      "EnglishWord": "stol",
+      "Meanings": [
+        "Short Take",
+        "Off And Landing"
+      ]
+    },
+    {
+      "EnglishWord": "stolport",
+      "Meanings": [
+        "فرودگاه مخصوص نشست و برخاست‌های کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "stop bars",
+      "Meanings": [
+        "ردیف چراغهای ایستایی"
+      ]
+    },
+    {
+      "EnglishWord": "stopway",
+      "Meanings": [
+        "ناحیه توقف اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "stovl",
+      "Meanings": [
+        "Short Take",
+        "Off"
+      ]
+    },
+    {
+      "EnglishWord": "straight-in-approach",
+      "Meanings": [
+        "تقرب مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "strain",
+      "Meanings": [
+        "فشار"
+      ]
+    },
+    {
+      "EnglishWord": "strayed aircraft",
+      "Meanings": [
+        "هواپیمای سر گردان"
+      ]
+    },
+    {
+      "EnglishWord": "strike",
+      "Meanings": [
+        "اصابت",
+        "برخورد"
+      ]
+    },
+    {
+      "EnglishWord": "strip",
+      "Meanings": [
+        "محدوده",
+        "نوار",
+        "نوار شاخص"
+      ]
+    },
+    {
+      "EnglishWord": "stripe",
+      "Meanings": [
+        "راه راه"
+      ]
+    },
+    {
+      "EnglishWord": "strobe",
+      "Meanings": [
+        "متد چرخش سنجی",
+        "استروسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "structural stress",
+      "Meanings": [
+        "فشار بر روی بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "subdivide",
+      "Meanings": [
+        "بقسمتهای جزء تقسیم کردن",
+        "بخشیزه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "subgrade",
+      "Meanings": [
+        "ساختار زمین"
+      ]
+    },
+    {
+      "EnglishWord": "sub-item",
+      "Meanings": [
+        "زیر بند"
+      ]
+    },
+    {
+      "EnglishWord": "submission",
+      "Meanings": [
+        "تسلیم"
+      ]
+    },
+    {
+      "EnglishWord": "subsidiary",
+      "Meanings": [
+        "کمکی",
+        "وابسته",
+        "مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "subsonic",
+      "Meanings": [
+        "مادون صوت"
+      ]
+    },
+    {
+      "EnglishWord": "substance",
+      "Meanings": [
+        "اصل بحث",
+        "جوهر کلام"
+      ]
+    },
+    {
+      "EnglishWord": "substantial",
+      "Meanings": [
+        "قابل توجه"
+      ]
+    },
+    {
+      "EnglishWord": "substantiolly",
+      "Meanings": [
+        "اساسا"
+      ]
+    },
+    {
+      "EnglishWord": "subterfuge",
+      "Meanings": [
+        "گریز",
+        "طفره"
+      ]
+    },
+    {
+      "EnglishWord": "suffice",
+      "Meanings": [
+        "کفایت"
+      ]
+    },
+    {
+      "EnglishWord": "superrefraction",
+      "Meanings": [
+        "افزایش برد رادار بر اثر وجود هوای گرم بر فراز آبهای سرد"
+      ]
+    },
+    {
+      "EnglishWord": "supplementary",
+      "Meanings": [
+        "جنبی",
+        "اضافی",
+        "متمم"
+      ]
+    },
+    {
+      "EnglishWord": "support",
+      "Meanings": [
+        "تعادل",
+        "پشتیبانی"
+      ]
+    },
+    {
+      "EnglishWord": "surface movement",
+      "Meanings": [
+        "تردد زمینی"
+      ]
+    },
+    {
+      "EnglishWord": "surveillance radar",
+      "Meanings": [
+        "رادار نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "sustain",
+      "Meanings": [
+        "تحمل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "swept gain",
+      "Meanings": [
+        "مدار تقرب لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "switching",
+      "Meanings": [
+        "قطع و وصل"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نشانه شامل حروف",
+        "ارقام و علایمی مانند x",
+        "o و غیره"
+      ]
+    }
+  ]
+}

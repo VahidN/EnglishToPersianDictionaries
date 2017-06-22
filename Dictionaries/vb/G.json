@@ -1,0 +1,140 @@
+﻿{
+  "Group": "G",
+  "Entries": 19,
+  "Words": [
+    {
+      "EnglishWord": "general",
+      "Meanings": [
+        "عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "getallsettings",
+      "Meanings": [
+        "دستوری که لیستی از Registry را به نمایش در می‌آورد",
+        "GetAllSettings appname"
+      ]
+    },
+    {
+      "EnglishWord": "getcursorpos",
+      "Meanings": [
+        "دستور API برای بدست آوردن مختصات کرسر اشاره گر ماوس",
+        "Private Declare Function GetCursorPos Lib \"\"user32\"\" lpPoint As POINTAPI As Long"
+      ]
+    },
+    {
+      "EnglishWord": "getdata",
+      "Meanings": [
+        "گرفتن داده",
+        "یکی از متددهای Clipboard که یک داده‌های درون کلیپ برد از جمله عکسها را می‌چسباند",
+        "Clipboard.GetData Format"
+      ]
+    },
+    {
+      "EnglishWord": "getdc",
+      "Meanings": [
+        "Private Declare Function GetDC Lib \"\"user32\"\" ByVal hwnd As Long As Long"
+      ]
+    },
+    {
+      "EnglishWord": "getdesktopwindow",
+      "Meanings": [
+        "Private Declare Function GetDesktopWindow Lib \"\"user32\"\" As Long"
+      ]
+    },
+    {
+      "EnglishWord": "getfile",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای انتخاب یک فایل به منظور استخراج اطلاعاتی از آن",
+        "object . GetFile filespec"
+      ]
+    },
+    {
+      "EnglishWord": "getfolder",
+      "Meanings": [
+        "یکی از متددهای شیء FSO برای انتخاب یک فولدر به منظور استخراج اطلاعاتی از آن",
+        "object . GetFolder folderspec"
+      ]
+    },
+    {
+      "EnglishWord": "getobject",
+      "Meanings": [
+        "دستوری که یک کامپوننت را از یک فایل Ocx استخراج می‌کند",
+        "GetObject ["
+      ]
+    },
+    {
+      "EnglishWord": "getprivateprofilestring",
+      "Meanings": [
+        "Private Declare Function GetPrivateProfileString Lib \"\"kernel32\"\" Alias",
+        "GetPrivateProfileStringA\"\" ByVal lpApplicationName As String"
+      ]
+    },
+    {
+      "EnglishWord": "getsetting",
+      "Meanings": [
+        "دستوری برای گرفتن تنظیمات از Registry",
+        "GetSetting appname"
+      ]
+    },
+    {
+      "EnglishWord": "gettext",
+      "Meanings": [
+        "گرفتن متن",
+        "یکی از متددهای Clipboard که یک متن درون کلیپ برد را می‌چسباند",
+        "Clipboard.GetText Format"
+      ]
+    },
+    {
+      "EnglishWord": "global",
+      "Meanings": [
+        "سراسری شدن"
+      ]
+    },
+    {
+      "EnglishWord": "gosub...return",
+      "Meanings": [
+        "دستوری که به دستور دیگری مراجعه می‌کند",
+        "GoSub line \u000b...\u000b line",
+        "Return"
+      ]
+    },
+    {
+      "EnglishWord": "goto",
+      "Meanings": [
+        "رفتن به",
+        "دستوری برای رجوع کد به کدی دیگر",
+        "GoTo line"
+      ]
+    },
+    {
+      "EnglishWord": "gray",
+      "Meanings": [
+        "خاکستری",
+        "رنگ طوسی",
+        "RGB"
+      ]
+    },
+    {
+      "EnglishWord": "greater than",
+      "Meanings": [
+        "بزرگتر از",
+        "برای بزرگتر قرار دادن یک عبارت از عبارتی دیگر از علامت &gt; استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "greater than or equal to   =",
+      "Meanings": [
+        "بزرگتر از یا مساوی با",
+        "برای انجام این عمل از علامت =&lt; استفاده می‌کنیم"
+      ]
+    },
+    {
+      "EnglishWord": "green",
+      "Meanings": [
+        "سبز\u000b رنگ سبز",
+        "RGB"
+      ]
+    }
+  ]
+}

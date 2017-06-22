@@ -1,0 +1,574 @@
+﻿{
+  "Group": "C",
+  "Entries": 93,
+  "Words": [
+    {
+      "EnglishWord": "c",
+      "Meanings": [
+        "حرف سوم از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 12 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "calculus of communicating syste",
+      "Meanings": [
+        "حسابان سیستمهای ارتباطی"
+      ]
+    },
+    {
+      "EnglishWord": "canonical complexity class",
+      "Meanings": [
+        "رده پیچیدگی متعارف"
+      ]
+    },
+    {
+      "EnglishWord": "capacitated facility location",
+      "Meanings": [
+        "مکان یابی تسهیلات با ظرفیت محدود"
+      ]
+    },
+    {
+      "EnglishWord": "capacity",
+      "Meanings": [
+        "ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "capacity constraint",
+      "Meanings": [
+        "قید ظرفیت"
+      ]
+    },
+    {
+      "EnglishWord": "cascading cut",
+      "Meanings": [
+        "برش متوالی",
+        "قطع متوالی"
+      ]
+    },
+    {
+      "EnglishWord": "cell",
+      "Meanings": [
+        "سلول"
+      ]
+    },
+    {
+      "EnglishWord": "cell probe model",
+      "Meanings": [
+        "مدل وارسی سلول"
+      ]
+    },
+    {
+      "EnglishWord": "cellular automaton",
+      "Meanings": [
+        "اتوماتون سلولی"
+      ]
+    },
+    {
+      "EnglishWord": "centroid",
+      "Meanings": [
+        "مرکز ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "certificate",
+      "Meanings": [
+        "گواهی"
+      ]
+    },
+    {
+      "EnglishWord": "chain",
+      "Meanings": [
+        "زنجیره"
+      ]
+    },
+    {
+      "EnglishWord": "child",
+      "Meanings": [
+        "فرزند"
+      ]
+    },
+    {
+      "EnglishWord": "child field",
+      "Meanings": [
+        "فیلد فرزند"
+      ]
+    },
+    {
+      "EnglishWord": "chinese postman problem",
+      "Meanings": [
+        "مسیله پستچی چینی"
+      ]
+    },
+    {
+      "EnglishWord": "chinese remainder theorem",
+      "Meanings": [
+        "قضیه باقیمانده چینی"
+      ]
+    },
+    {
+      "EnglishWord": "christofides algorithm",
+      "Meanings": [
+        "الگوریتم کریستفاید"
+      ]
+    },
+    {
+      "EnglishWord": "christofides heuristic",
+      "Meanings": [
+        "مکاشفه کریستفاید"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic index",
+      "Meanings": [
+        "شاخص رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "chromatic number",
+      "Meanings": [
+        "عدد رنگی"
+      ]
+    },
+    {
+      "EnglishWord": "church-turing thesis",
+      "Meanings": [
+        "تز چرچ",
+        "تورینگ"
+      ]
+    },
+    {
+      "EnglishWord": "circuit",
+      "Meanings": [
+        "مدار"
+      ]
+    },
+    {
+      "EnglishWord": "circuit complexity",
+      "Meanings": [
+        "پیچیدگی مدار"
+      ]
+    },
+    {
+      "EnglishWord": "circuit value problem",
+      "Meanings": [
+        "مسیله ارزش مدار"
+      ]
+    },
+    {
+      "EnglishWord": "circular",
+      "Meanings": [
+        "حلقوی",
+        "دایره ای"
+      ]
+    },
+    {
+      "EnglishWord": "circular list",
+      "Meanings": [
+        "لیست حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "circular node",
+      "Meanings": [
+        "گره حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "circular path",
+      "Meanings": [
+        "مسر حلقوی",
+        "مسیر دوری"
+      ]
+    },
+    {
+      "EnglishWord": "circular queue",
+      "Meanings": [
+        "صف حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "circular representation",
+      "Meanings": [
+        "نمایش حلقوی",
+        "نمایش دایره ای"
+      ]
+    },
+    {
+      "EnglishWord": "circularity",
+      "Meanings": [
+        "حلقوی بودن",
+        "دایره ای بودن"
+      ]
+    },
+    {
+      "EnglishWord": "circularity linked list",
+      "Meanings": [
+        "لیست پیوندی حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "class",
+      "Meanings": [
+        "رده"
+      ]
+    },
+    {
+      "EnglishWord": "clique",
+      "Meanings": [
+        "خوشه"
+      ]
+    },
+    {
+      "EnglishWord": "clique problem",
+      "Meanings": [
+        "مسیله خوشه"
+      ]
+    },
+    {
+      "EnglishWord": "clocking function",
+      "Meanings": [
+        "تابع زمانبند"
+      ]
+    },
+    {
+      "EnglishWord": "closure",
+      "Meanings": [
+        "بستار"
+      ]
+    },
+    {
+      "EnglishWord": "collective recursion",
+      "Meanings": [
+        "بازگشت تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "collision",
+      "Meanings": [
+        "تصادم"
+      ]
+    },
+    {
+      "EnglishWord": "comb",
+      "Meanings": [
+        "شانه"
+      ]
+    },
+    {
+      "EnglishWord": "comb sort",
+      "Meanings": [
+        "مرتب ساز شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "communicating sequential processes",
+      "Meanings": [
+        "پردازه‌های ترتیبی مرتبط"
+      ]
+    },
+    {
+      "EnglishWord": "commutative",
+      "Meanings": [
+        "جابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "comparison",
+      "Meanings": [
+        "مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison based",
+      "Meanings": [
+        "مبتنی بر مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison based algorithm",
+      "Meanings": [
+        "الگوریتم مبتنی بر مقایسه"
+      ]
+    },
+    {
+      "EnglishWord": "comparison sort",
+      "Meanings": [
+        "مرتب ساز مقایسه ای"
+      ]
+    },
+    {
+      "EnglishWord": "competition",
+      "Meanings": [
+        "رقابت"
+      ]
+    },
+    {
+      "EnglishWord": "competitive analysis",
+      "Meanings": [
+        "تحلیل رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "competitive ratio",
+      "Meanings": [
+        "نسبت رقابتی"
+      ]
+    },
+    {
+      "EnglishWord": "complement",
+      "Meanings": [
+        "مکمل"
+      ]
+    },
+    {
+      "EnglishWord": "complete binary tree",
+      "Meanings": [
+        "درخت دودویی کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete graph",
+      "Meanings": [
+        "گراف کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complete tree",
+      "Meanings": [
+        "درخت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "complex function",
+      "Meanings": [
+        "تابع پیچیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "complexity",
+      "Meanings": [
+        "پیچیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "complexity class",
+      "Meanings": [
+        "رده پیچیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "component",
+      "Meanings": [
+        "مولفه"
+      ]
+    },
+    {
+      "EnglishWord": "computable",
+      "Meanings": [
+        "محاسبه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "computable function",
+      "Meanings": [
+        "تابع محاسبه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "computer",
+      "Meanings": [
+        "کامپیوتر",
+        "رایانه"
+      ]
+    },
+    {
+      "EnglishWord": "computing time",
+      "Meanings": [
+        "زمان محاسبه",
+        "زمان اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "concave",
+      "Meanings": [
+        "مقعر"
+      ]
+    },
+    {
+      "EnglishWord": "concave function",
+      "Meanings": [
+        "تابع مقعر"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent",
+      "Meanings": [
+        "همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "concurrent flow",
+      "Meanings": [
+        "شاره همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "configuration",
+      "Meanings": [
+        "پیکربندی"
+      ]
+    },
+    {
+      "EnglishWord": "conflict",
+      "Meanings": [
+        "برخورد"
+      ]
+    },
+    {
+      "EnglishWord": "conjunction",
+      "Meanings": [
+        "ترکیب عطفی"
+      ]
+    },
+    {
+      "EnglishWord": "connected",
+      "Meanings": [
+        "همبند"
+      ]
+    },
+    {
+      "EnglishWord": "connected component",
+      "Meanings": [
+        "مولفه همبندی"
+      ]
+    },
+    {
+      "EnglishWord": "connected graph",
+      "Meanings": [
+        "گراف همبند"
+      ]
+    },
+    {
+      "EnglishWord": "conp",
+      "Meanings": [
+        "کو ان پی"
+      ]
+    },
+    {
+      "EnglishWord": "constant",
+      "Meanings": [
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "constant function",
+      "Meanings": [
+        "تابع ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "continuous",
+      "Meanings": [
+        "پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "continuous knapsack problem",
+      "Meanings": [
+        "مسیله کوله پشتی پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "cook's reduction",
+      "Meanings": [
+        "کاهش کوک"
+      ]
+    },
+    {
+      "EnglishWord": "cook's theorem",
+      "Meanings": [
+        "قضیه کوک"
+      ]
+    },
+    {
+      "EnglishWord": "cost",
+      "Meanings": [
+        "هزینه"
+      ]
+    },
+    {
+      "EnglishWord": "counting sort",
+      "Meanings": [
+        "مرتب ساز شمارشی"
+      ]
+    },
+    {
+      "EnglishWord": "critical",
+      "Meanings": [
+        "بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical activity",
+      "Meanings": [
+        "فعالیت بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical path",
+      "Meanings": [
+        "مسیر بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "critical path problem",
+      "Meanings": [
+        "مسیله مسیر بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "cross edge",
+      "Meanings": [
+        "یال متقاطع",
+        "یال مجاور"
+      ]
+    },
+    {
+      "EnglishWord": "cut",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "cut vertex",
+      "Meanings": [
+        "راس برشی"
+      ]
+    },
+    {
+      "EnglishWord": "cutting plane",
+      "Meanings": [
+        "صفحه برشی"
+      ]
+    },
+    {
+      "EnglishWord": "cutting theorem",
+      "Meanings": [
+        "قضیه برشی"
+      ]
+    },
+    {
+      "EnglishWord": "cycle",
+      "Meanings": [
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "cycle free",
+      "Meanings": [
+        "بدون دور"
+      ]
+    }
+  ]
+}

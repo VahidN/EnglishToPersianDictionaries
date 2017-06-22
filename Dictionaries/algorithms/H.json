@@ -1,0 +1,182 @@
+﻿{
+  "Group": "H",
+  "Entries": 29,
+  "Words": [
+    {
+      "EnglishWord": "h",
+      "Meanings": [
+        "هشتمین حرف از الفبای انگلیسی"
+      ]
+    },
+    {
+      "EnglishWord": "halt",
+      "Meanings": [
+        "توقف"
+      ]
+    },
+    {
+      "EnglishWord": "halting problem",
+      "Meanings": [
+        "مسیله توقف"
+      ]
+    },
+    {
+      "EnglishWord": "hamiltonian cycle",
+      "Meanings": [
+        "دور همیلتنی"
+      ]
+    },
+    {
+      "EnglishWord": "hash",
+      "Meanings": [
+        "در هم سازی"
+      ]
+    },
+    {
+      "EnglishWord": "hash address",
+      "Meanings": [
+        "آدرس درهم ساز"
+      ]
+    },
+    {
+      "EnglishWord": "hash function",
+      "Meanings": [
+        "تابع در هم ساز"
+      ]
+    },
+    {
+      "EnglishWord": "hash table",
+      "Meanings": [
+        "جدول در هم سازی"
+      ]
+    },
+    {
+      "EnglishWord": "hausdorff distance",
+      "Meanings": [
+        "فاصله هاسدورف"
+      ]
+    },
+    {
+      "EnglishWord": "head",
+      "Meanings": [
+        "سر"
+      ]
+    },
+    {
+      "EnglishWord": "head node",
+      "Meanings": [
+        "گره سر"
+      ]
+    },
+    {
+      "EnglishWord": "heap",
+      "Meanings": [
+        "هرم"
+      ]
+    },
+    {
+      "EnglishWord": "heap sort",
+      "Meanings": [
+        "مرتب ساز هرمی"
+      ]
+    },
+    {
+      "EnglishWord": "herter-heighway dragon",
+      "Meanings": [
+        "اژدهای هرتر",
+        "هایوی"
+      ]
+    },
+    {
+      "EnglishWord": "heuristic",
+      "Meanings": [
+        "مکاشفه ای"
+      ]
+    },
+    {
+      "EnglishWord": "hidden",
+      "Meanings": [
+        "مخفی"
+      ]
+    },
+    {
+      "EnglishWord": "hidden markov model",
+      "Meanings": [
+        "مدل مارکوف مخفی"
+      ]
+    },
+    {
+      "EnglishWord": "histogram sort",
+      "Meanings": [
+        "مرتب ساز نمودار ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "homeomorphic",
+      "Meanings": [
+        "همسان ریخت"
+      ]
+    },
+    {
+      "EnglishWord": "homomorphic",
+      "Meanings": [
+        "همریخت"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal",
+      "Meanings": [
+        "افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horizontal visibility map",
+      "Meanings": [
+        "نقشه دید افقی"
+      ]
+    },
+    {
+      "EnglishWord": "horner's rule",
+      "Meanings": [
+        "قانون هرنر"
+      ]
+    },
+    {
+      "EnglishWord": "huffman code",
+      "Meanings": [
+        "کد هافمن"
+      ]
+    },
+    {
+      "EnglishWord": "hybrid algorithm",
+      "Meanings": [
+        "الگوریتم آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "hyperedge",
+      "Meanings": [
+        "ابر یال"
+      ]
+    },
+    {
+      "EnglishWord": "hypergraph",
+      "Meanings": [
+        "ابر گراف"
+      ]
+    },
+    {
+      "EnglishWord": "hypothesis",
+      "Meanings": [
+        "فرض",
+        "فرضیه"
+      ]
+    },
+    {
+      "EnglishWord": "hypothetical",
+      "Meanings": [
+        "فرضی"
+      ]
+    }
+  ]
+}

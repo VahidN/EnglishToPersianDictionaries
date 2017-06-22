@@ -1,0 +1,3432 @@
+﻿{
+  "Group": "P",
+  "Entries": 460,
+  "Words": [
+    {
+      "EnglishWord": "pace",
+      "Meanings": [
+        "همگامی"
+      ]
+    },
+    {
+      "EnglishWord": "pack",
+      "Meanings": [
+        "بسته",
+        "بسته بنذی",
+        "دسته",
+        "دسته بندی",
+        "عدلبندی"
+      ]
+    },
+    {
+      "EnglishWord": "pack hardening",
+      "Meanings": [
+        "سمانته کاری"
+      ]
+    },
+    {
+      "EnglishWord": "package",
+      "Meanings": [
+        "بسته",
+        "مدون",
+        "بسته نرم افزاری",
+        "عدل",
+        "بسته بندی",
+        "جعبه",
+        "صندوق",
+        "عدلبندی"
+      ]
+    },
+    {
+      "EnglishWord": "packaging",
+      "Meanings": [
+        "بسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "packing",
+      "Meanings": [
+        "آب بندی",
+        "کاسه نمد",
+        "بسته بندی کالا",
+        "توپی",
+        "درجه کوبی",
+        "لایی",
+        "آب بند",
+        "انباشتگی",
+        "باربندی",
+        "بسته بندی",
+        "پوشال بندی",
+        "تراکم",
+        "درز بندی",
+        "عدلبندی",
+        "واشر"
+      ]
+    },
+    {
+      "EnglishWord": "packing list",
+      "Meanings": [
+        "سیاهه عدلبندی",
+        "سیاهه بسته بندی",
+        "صورت عدل",
+        "بارنامه",
+        "صورت ریز محمولات"
+      ]
+    },
+    {
+      "EnglishWord": "packing note",
+      "Meanings": [
+        "صورت بسته بندی"
+      ]
+    },
+    {
+      "EnglishWord": "pad",
+      "Meanings": [
+        "یالشتک",
+        "روبنده",
+        "زیر سری",
+        "لایی",
+        "زیر دستی",
+        "ضربه گیر",
+        "کفشک"
+      ]
+    },
+    {
+      "EnglishWord": "padding",
+      "Meanings": [
+        "پرکننده",
+        "لایی",
+        "لایه گذاری",
+        "بالشتک",
+        "لایه گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "paint black",
+      "Meanings": [
+        "اندود کردن قالب",
+        "گرافیت زدن به قالب"
+      ]
+    },
+    {
+      "EnglishWord": "paint spray gun",
+      "Meanings": [
+        "رنگپاش"
+      ]
+    },
+    {
+      "EnglishWord": "pair",
+      "Meanings": [
+        "جفت",
+        "زوج",
+        "جفت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "paired data",
+      "Meanings": [
+        "داده‌های زوج شده"
+      ]
+    },
+    {
+      "EnglishWord": "paired observations",
+      "Meanings": [
+        "مشاهدات زوج شده"
+      ]
+    },
+    {
+      "EnglishWord": "paired-sample sign test",
+      "Meanings": [
+        "آزمون علامت زوزج",
+        "نمونه ای"
+      ]
+    },
+    {
+      "EnglishWord": "pallet",
+      "Meanings": [
+        "پالت",
+        "کفه بارگیری",
+        "چهرچرخه باربری دستی",
+        "طبق",
+        "سینی",
+        "صفحه نگهدارنده",
+        "سینی زیر بار",
+        "صندوق",
+        "صندوقچه",
+        "بلغوره",
+        "حبه",
+        "سکو"
+      ]
+    },
+    {
+      "EnglishWord": "pallet loader conveyor",
+      "Meanings": [
+        "نقاله بارگیری پالت"
+      ]
+    },
+    {
+      "EnglishWord": "panel",
+      "Meanings": [
+        "صفخه کنترل",
+        "قاب",
+        "تابلو کنترل",
+        "صفحه فرمان",
+        "صفحه کلیدها"
+      ]
+    },
+    {
+      "EnglishWord": "panel method",
+      "Meanings": [
+        "روش گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "panning",
+      "Meanings": [
+        "جابه جایی"
+      ]
+    },
+    {
+      "EnglishWord": "par value",
+      "Meanings": [
+        "ارزش اسمی",
+        "نرخ برابری",
+        "ارزش صوری",
+        "بهای اسمی",
+        "قیمت اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "parabolic",
+      "Meanings": [
+        "سهموی",
+        "شلجمی",
+        "سهمی شکل",
+        "سهمی گون"
+      ]
+    },
+    {
+      "EnglishWord": "paradox",
+      "Meanings": [
+        "تناقض"
+      ]
+    },
+    {
+      "EnglishWord": "parallel",
+      "Meanings": [
+        "موازی",
+        "متوازی",
+        "شمش اندازه گیر",
+        "شمشه موازی",
+        "شمش",
+        "فضا دهنده",
+        "همگام"
+      ]
+    },
+    {
+      "EnglishWord": "parallel configuration",
+      "Meanings": [
+        "تشکل موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel operation",
+      "Meanings": [
+        "عملیات موازی",
+        "عملکرد موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel run",
+      "Meanings": [
+        "اجرای موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parallel systems",
+      "Meanings": [
+        "سیستمهای موازی",
+        "نظامهای موازی"
+      ]
+    },
+    {
+      "EnglishWord": "parameter",
+      "Meanings": [
+        "پارامتر",
+        "برسنج",
+        "مقدار مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "parametric equation",
+      "Meanings": [
+        "معادله پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "parametric programming",
+      "Meanings": [
+        "برنامه ریزی پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "pareto diagram",
+      "Meanings": [
+        "نمودار پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "pareto-optimum situation",
+      "Meanings": [
+        "وضع بهینه پارتو"
+      ]
+    },
+    {
+      "EnglishWord": "parison",
+      "Meanings": [
+        "اکسترودی قالب دم",
+        "لوله الکترود شده"
+      ]
+    },
+    {
+      "EnglishWord": "parkerizing",
+      "Meanings": [
+        "فسفاتکاری به روش پارکر",
+        "پارکریزه کردن",
+        "فسفاتکاری پارکر",
+        "پارکرایز کردن"
+      ]
+    },
+    {
+      "EnglishWord": "part",
+      "Meanings": [
+        "قسمت",
+        "قطعه",
+        "بخش",
+        "قطعه کار",
+        "جزء"
+      ]
+    },
+    {
+      "EnglishWord": "part number",
+      "Meanings": [
+        "شماره جنس",
+        "شماره قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "part placing mechanism",
+      "Meanings": [
+        "مکانیسم قطعه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "part print",
+      "Meanings": [
+        "نقشه کار"
+      ]
+    },
+    {
+      "EnglishWord": "partial annealing",
+      "Meanings": [
+        "آنیل جزیی",
+        "آنیل کردن جزیی به منظور تنش گیری"
+      ]
+    },
+    {
+      "EnglishWord": "partial correlation",
+      "Meanings": [
+        "همبستگی جزیی",
+        "همبستگی ناکامل"
+      ]
+    },
+    {
+      "EnglishWord": "partial costing",
+      "Meanings": [
+        "هزینه یابی جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "participation charges",
+      "Meanings": [
+        "مخارج شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "participative management",
+      "Meanings": [
+        "مدیریت مشارکتی"
+      ]
+    },
+    {
+      "EnglishWord": "particle",
+      "Meanings": [
+        "ذره"
+      ]
+    },
+    {
+      "EnglishWord": "particular",
+      "Meanings": [
+        "خاص",
+        "ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "particular solution",
+      "Meanings": [
+        "جواب خاص"
+      ]
+    },
+    {
+      "EnglishWord": "parting",
+      "Meanings": [
+        "جداسازی",
+        "قطعه سازی",
+        "تفکیک کردن",
+        "جدا سازنده",
+        "جدا شونده",
+        "جدا کننده",
+        "قطع کردن"
+      ]
+    },
+    {
+      "EnglishWord": "parting dust",
+      "Meanings": [
+        "پودر جدایش",
+        "گرد فاصل"
+      ]
+    },
+    {
+      "EnglishWord": "parting program",
+      "Meanings": [
+        "برنامه ساخت قطعه"
+      ]
+    },
+    {
+      "EnglishWord": "partition",
+      "Meanings": [
+        "افراز",
+        "افراز کردن",
+        "جدایش",
+        "تجزیه",
+        "تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "part-time",
+      "Meanings": [
+        "نیمه وقت",
+        "پاره وقت"
+      ]
+    },
+    {
+      "EnglishWord": "pass",
+      "Meanings": [
+        "پاس",
+        "راه",
+        "کالیبر",
+        "گذر",
+        "محل جوشکاری شده"
+      ]
+    },
+    {
+      "EnglishWord": "passage",
+      "Meanings": [
+        "گذرگاه"
+      ]
+    },
+    {
+      "EnglishWord": "passive",
+      "Meanings": [
+        "غیر فعال",
+        "بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "passive repair time",
+      "Meanings": [
+        "زمان غیر فعالی تعمیراتی"
+      ]
+    },
+    {
+      "EnglishWord": "password",
+      "Meanings": [
+        "کلمه رمز",
+        "اسم رمز",
+        "کلمه عبور",
+        "گذر واژه"
+      ]
+    },
+    {
+      "EnglishWord": "patent",
+      "Meanings": [
+        "حق اختراع",
+        "حق امتیاز",
+        "انحصاری",
+        "پروانه",
+        "اختراع ثبت شده",
+        "ثبت شده",
+        "دارای امتیاز",
+        "حق انحصاری",
+        "جواز"
+      ]
+    },
+    {
+      "EnglishWord": "path",
+      "Meanings": [
+        "راه",
+        "مسیر",
+        "کانال"
+      ]
+    },
+    {
+      "EnglishWord": "path tracing",
+      "Meanings": [
+        "ردیابی مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "path-goal theory",
+      "Meanings": [
+        "نظریه مسیر",
+        "هدف",
+        "تیوری مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "patrol inspection",
+      "Meanings": [
+        "بازرسی سیار",
+        "بازرسی گشت"
+      ]
+    },
+    {
+      "EnglishWord": "pattern",
+      "Meanings": [
+        "الگو",
+        "طرح",
+        "شابلون",
+        "مدل",
+        "انگاره",
+        "نمونه",
+        "شکل",
+        "نقشه"
+      ]
+    },
+    {
+      "EnglishWord": "pattern recognition",
+      "Meanings": [
+        "شناسایی طرح",
+        "طرح شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "pawl pin",
+      "Meanings": [
+        "خار ضامن"
+      ]
+    },
+    {
+      "EnglishWord": "pawl transfer",
+      "Meanings": [
+        "انتقال ضامن دار"
+      ]
+    },
+    {
+      "EnglishWord": "pay increase",
+      "Meanings": [
+        "اضافه حقوق",
+        "اضافه دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "pay plan",
+      "Meanings": [
+        "طرح حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "pay rate",
+      "Meanings": [
+        "پایه حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "pay scale",
+      "Meanings": [
+        "مقیاس حقوق",
+        "اشل حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "payback period",
+      "Meanings": [
+        "دوره برگشت سرمایه",
+        "زمان باز پرداخت",
+        "دوره برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "payment",
+      "Meanings": [
+        "پرداخت",
+        "پول",
+        "قسط",
+        "کارسازی",
+        "مقرری",
+        "وجه"
+      ]
+    },
+    {
+      "EnglishWord": "payment by results",
+      "Meanings": [
+        "کارمزدی"
+      ]
+    },
+    {
+      "EnglishWord": "pay-off",
+      "Meanings": [
+        "دریافتی",
+        "بازده",
+        "تسویه حساب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pay-out ratio",
+      "Meanings": [
+        "نسبت پرداخت سود سهام"
+      ]
+    },
+    {
+      "EnglishWord": "pay-roll",
+      "Meanings": [
+        "لیست حقوق",
+        "لیست دسمتزد",
+        "سیاهه پرداخت حقوق",
+        "سیاهه حقوق",
+        "سیاهه دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll accounting",
+      "Meanings": [
+        "حسابداری حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "payroll tax",
+      "Meanings": [
+        "مالیات حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "p-chart",
+      "Meanings": [
+        "نمودار درصد ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "peak",
+      "Meanings": [
+        "فراز",
+        "نوک",
+        "اوج",
+        "حداکثر"
+      ]
+    },
+    {
+      "EnglishWord": "peak load",
+      "Meanings": [
+        "بار حداکثر"
+      ]
+    },
+    {
+      "EnglishWord": "peak season",
+      "Meanings": [
+        "فصل پرکار"
+      ]
+    },
+    {
+      "EnglishWord": "peakedness coefficient",
+      "Meanings": [
+        "ضریب کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pearlite",
+      "Meanings": [
+        "پرلیت"
+      ]
+    },
+    {
+      "EnglishWord": "peel",
+      "Meanings": [
+        "پوسته",
+        "پوشش",
+        "پوستکن شدن"
+      ]
+    },
+    {
+      "EnglishWord": "peening",
+      "Meanings": [
+        "کوبیدن",
+        "کوبش",
+        "تقه کاری با نوک چکش",
+        "شکل دادن با چکش"
+      ]
+    },
+    {
+      "EnglishWord": "pellet",
+      "Meanings": [
+        "گلوله",
+        "حبه",
+        "ساچمه",
+        "فندق",
+        "قرص نازک",
+        "گندله"
+      ]
+    },
+    {
+      "EnglishWord": "pelletizer",
+      "Meanings": [
+        "دستگاه حبه کننده بشقابی"
+      ]
+    },
+    {
+      "EnglishWord": "pen plotter",
+      "Meanings": [
+        "رسام قلمی"
+      ]
+    },
+    {
+      "EnglishWord": "penal interest",
+      "Meanings": [
+        "بهره جزایی",
+        "بهره دیر کرد"
+      ]
+    },
+    {
+      "EnglishWord": "penalty",
+      "Meanings": [
+        "جریمه"
+      ]
+    },
+    {
+      "EnglishWord": "penetration",
+      "Meanings": [
+        "نفوذ",
+        "عمق جوش",
+        "تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "pension",
+      "Meanings": [
+        "حقوق بازنشستگی",
+        "بازنشستگی",
+        "حقوق تقاعد",
+        "حقوق وظیفه",
+        "مستمری"
+      ]
+    },
+    {
+      "EnglishWord": "people-oriented",
+      "Meanings": [
+        "مردم محور"
+      ]
+    },
+    {
+      "EnglishWord": "per capita income",
+      "Meanings": [
+        "درآمد پولی سرانه"
+      ]
+    },
+    {
+      "EnglishWord": "percent defective",
+      "Meanings": [
+        "درصد ضایعات"
+      ]
+    },
+    {
+      "EnglishWord": "percentage",
+      "Meanings": [
+        "درصد",
+        "نسبت درصد"
+      ]
+    },
+    {
+      "EnglishWord": "percentage distribution",
+      "Meanings": [
+        "توزیع درصدی"
+      ]
+    },
+    {
+      "EnglishWord": "percentile",
+      "Meanings": [
+        "صدک",
+        "درصدک",
+        "چندک",
+        "صده",
+        "درصدی",
+        "صدکی",
+        "صدم",
+        "صد یک"
+      ]
+    },
+    {
+      "EnglishWord": "perception",
+      "Meanings": [
+        "ادراک",
+        "برداشت‌های ذهنی"
+      ]
+    },
+    {
+      "EnglishWord": "percussion press",
+      "Meanings": [
+        "پرس تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "perfect competition",
+      "Meanings": [
+        "رقابت کامل"
+      ]
+    },
+    {
+      "EnglishWord": "perforating",
+      "Meanings": [
+        "مشبک کاری"
+      ]
+    },
+    {
+      "EnglishWord": "perforator",
+      "Meanings": [
+        "منگنه",
+        "دستگاه منگنه",
+        "منگنه زن",
+        "سوراخ کن"
+      ]
+    },
+    {
+      "EnglishWord": "performance",
+      "Meanings": [
+        "عملکرد",
+        "سطح کارایی",
+        "راندمان",
+        "بازدهی",
+        "نحوه انجام کار",
+        "کارایی",
+        "اجرا",
+        "انجام",
+        "بازده",
+        "نحوه کار",
+        "نمود"
+      ]
+    },
+    {
+      "EnglishWord": "performance budgeting",
+      "Meanings": [
+        "تنظیم بودجه طبق عملیات",
+        "تنظیم بودجه عملیاتی"
+      ]
+    },
+    {
+      "EnglishWord": "performance rating",
+      "Meanings": [
+        "ضریب عملکرد",
+        "ارزیابی کار"
+      ]
+    },
+    {
+      "EnglishWord": "performance ratio",
+      "Meanings": [
+        "نسبت اجرای عملیات"
+      ]
+    },
+    {
+      "EnglishWord": "period",
+      "Meanings": [
+        "دوره",
+        "تناوب",
+        "پریود",
+        "گردش",
+        "مدت یک نوسان"
+      ]
+    },
+    {
+      "EnglishWord": "period budget",
+      "Meanings": [
+        "بودجه دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "periodic inspection",
+      "Meanings": [
+        "بازرسی ادواری",
+        "بازدیدی دوره ای",
+        "بازرسی دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "periodic inventory system",
+      "Meanings": [
+        "سیستم موجودی سنجی دوره ای"
+      ]
+    },
+    {
+      "EnglishWord": "periodic review system",
+      "Meanings": [
+        "سیستم دوره سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "peripheral device",
+      "Meanings": [
+        "دستگاه جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "peripheral equipment",
+      "Meanings": [
+        "تجهیزات برونی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent casting",
+      "Meanings": [
+        "ریخته گری در قالب‌های دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent mold",
+      "Meanings": [
+        "قالب دایمی",
+        "ریجه",
+        "قالب فلزی",
+        "قالب مورد استفاده دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent storage",
+      "Meanings": [
+        "انباشت دایمی",
+        "انبار کردن دایمی",
+        "انباره دایمی",
+        "انبارش دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permanent-mold casting",
+      "Meanings": [
+        "ریخته گری در قالب دایمی"
+      ]
+    },
+    {
+      "EnglishWord": "permeability",
+      "Meanings": [
+        "نفوذ پذیری",
+        "نفوذ پذیری مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "permissible",
+      "Meanings": [
+        "مجاز",
+        "بلامانع"
+      ]
+    },
+    {
+      "EnglishWord": "permutation",
+      "Meanings": [
+        "جایگشت",
+        "تبدیل",
+        "ترتیب",
+        "تقدم و تاخر",
+        "جایگردی"
+      ]
+    },
+    {
+      "EnglishWord": "perpendicular",
+      "Meanings": [
+        "عمودی",
+        "قایم",
+        "عمود"
+      ]
+    },
+    {
+      "EnglishWord": "perpetual inventory",
+      "Meanings": [
+        "موجودی دایم",
+        "مانده گیری",
+        "موجودی گیری مستمر"
+      ]
+    },
+    {
+      "EnglishWord": "perpetual inventory method",
+      "Meanings": [
+        "محاسبه دایمی موجودی کالا"
+      ]
+    },
+    {
+      "EnglishWord": "persistent",
+      "Meanings": [
+        "دیرپا",
+        "پایدار",
+        "دیرپای",
+        "ماندگار"
+      ]
+    },
+    {
+      "EnglishWord": "personal staff",
+      "Meanings": [
+        "ستاد شخصی",
+        "کارمندان شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "personnel",
+      "Meanings": [
+        "کارکنان",
+        "کادر",
+        "کارگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "personnel chart",
+      "Meanings": [
+        "نمودار کارگزینی",
+        "نمودار کارمندان"
+      ]
+    },
+    {
+      "EnglishWord": "personnel information system",
+      "Meanings": [
+        "سیستم اطلاعاتی کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "personnel manager",
+      "Meanings": [
+        "مدیر کارگزینی",
+        "مدیر پرسنل",
+        "رییس کارگزینی"
+      ]
+    },
+    {
+      "EnglishWord": "personnel rating",
+      "Meanings": [
+        "رتبه بندی کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "personnel review",
+      "Meanings": [
+        "ارزیابی کارکنان"
+      ]
+    },
+    {
+      "EnglishWord": "pessimistic",
+      "Meanings": [
+        "بدبینانه",
+        "بدبینی"
+      ]
+    },
+    {
+      "EnglishWord": "pessimistic estimate",
+      "Meanings": [
+        "برآورد بدبینانه",
+        "تخمین بدبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "pessimistic time",
+      "Meanings": [
+        "زمان بدبینانه"
+      ]
+    },
+    {
+      "EnglishWord": "petty cash",
+      "Meanings": [
+        "تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "phase",
+      "Meanings": [
+        "مرحله",
+        "حالت",
+        "فاز",
+        "پایه",
+        "ترکیب",
+        "نمون",
+        "وضعیت شبکه کرییستالی فلزات",
+        "نمود"
+      ]
+    },
+    {
+      "EnglishWord": "phased project",
+      "Meanings": [
+        "پروژه مرحله ای",
+        "پروژه مرحله بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "phenomenon",
+      "Meanings": [
+        "پدیده",
+        "نمود"
+      ]
+    },
+    {
+      "EnglishWord": "photo plotter",
+      "Meanings": [
+        "رسام عکسی"
+      ]
+    },
+    {
+      "EnglishWord": "photoelectric tape-reader",
+      "Meanings": [
+        "نوار خوان فتوالکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "physical ability",
+      "Meanings": [
+        "توانایی جسمی"
+      ]
+    },
+    {
+      "EnglishWord": "physical characteristics",
+      "Meanings": [
+        "خصوصیات جسمی"
+      ]
+    },
+    {
+      "EnglishWord": "physical fatigue",
+      "Meanings": [
+        "خستگی جسمی"
+      ]
+    },
+    {
+      "EnglishWord": "physical inventory",
+      "Meanings": [
+        "کالای موجود",
+        "موجودی حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "physical life",
+      "Meanings": [
+        "عمر خدمت"
+      ]
+    },
+    {
+      "EnglishWord": "physical motivation",
+      "Meanings": [
+        "انگیزه فیزیکی"
+      ]
+    },
+    {
+      "EnglishWord": "physiological needs",
+      "Meanings": [
+        "نیازهای فیزیولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "pick and place mechanism",
+      "Meanings": [
+        "مکانیسم بردار و بگذار"
+      ]
+    },
+    {
+      "EnglishWord": "pick and place robot",
+      "Meanings": [
+        "ربات بردار و بگذار"
+      ]
+    },
+    {
+      "EnglishWord": "picking attachment",
+      "Meanings": [
+        "دستگاه الحاقی کاربردار"
+      ]
+    },
+    {
+      "EnglishWord": "pickling",
+      "Meanings": [
+        "اسید شویی",
+        "قطعه شویی",
+        "شستشوی شیمیایی",
+        "پاک کردن فلز با اسید",
+        "تمیز کاری",
+        "رنگ زدایی اسیدی"
+      ]
+    },
+    {
+      "EnglishWord": "pictogram",
+      "Meanings": [
+        "نمودار ترسیمی",
+        "نمودار تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "pictorial view",
+      "Meanings": [
+        "نمای پرسپکتیو",
+        "نمای تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "piecewise linear",
+      "Meanings": [
+        "خطی جزء به جزء",
+        "خطی منفصل"
+      ]
+    },
+    {
+      "EnglishWord": "piece-work",
+      "Meanings": [
+        "پاره کاری",
+        "کار مقاطعه ای",
+        "کار قطعه ای",
+        "کار مقاطعه",
+        "مقاطعه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "piechart",
+      "Meanings": [
+        "نمودار تکه ای",
+        "نمودار کلوچه ای"
+      ]
+    },
+    {
+      "EnglishWord": "piercing",
+      "Meanings": [
+        "شکافتن",
+        "سوراخ کردن",
+        "سوراخ زنی",
+        "نفوذ کردن"
+      ]
+    },
+    {
+      "EnglishWord": "piercing die",
+      "Meanings": [
+        "قالب سوراخ کنی",
+        "قالب شکافنده"
+      ]
+    },
+    {
+      "EnglishWord": "piercing punch",
+      "Meanings": [
+        "سنبه سوراخ کنی",
+        "سنبه شکافتن"
+      ]
+    },
+    {
+      "EnglishWord": "pig iron",
+      "Meanings": [
+        "آهن خام",
+        "آهن کوره",
+        "چدن خام",
+        "شمس آهن",
+        "آهن لخته"
+      ]
+    },
+    {
+      "EnglishWord": "pigment",
+      "Meanings": [
+        "رنگدانه",
+        "ماده رنگی",
+        "پیگمان",
+        "رنگیزه"
+      ]
+    },
+    {
+      "EnglishWord": "pilot",
+      "Meanings": [
+        "راهنما",
+        "الگو",
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "pilot nut",
+      "Meanings": [
+        "مهره راهنما"
+      ]
+    },
+    {
+      "EnglishWord": "pilot project",
+      "Meanings": [
+        "طرح نمونه",
+        "پروژه راهنما",
+        "طرح آزمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "pilot sample",
+      "Meanings": [
+        "نمونه مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "pin",
+      "Meanings": [
+        "پین",
+        "میله",
+        "اشبیل",
+        "انگشتی",
+        "خار",
+        "اشپیل",
+        "پرچ",
+        "پرچ کردن",
+        "ثابت کردن",
+        "رزوه نر",
+        "نرینه"
+      ]
+    },
+    {
+      "EnglishWord": "pin location",
+      "Meanings": [
+        "موضع دهی با پین"
+      ]
+    },
+    {
+      "EnglishWord": "pinch-off",
+      "Meanings": [
+        "لب به لب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "pinion",
+      "Meanings": [
+        "پینیون",
+        "چرخ دنده کوچک",
+        "چرخ دنده واسطه",
+        "گردنا",
+        "چرخ دنده جناغی",
+        "چرخ هموار با صفحه دنده"
+      ]
+    },
+    {
+      "EnglishWord": "pinion stand",
+      "Meanings": [
+        "تکیه گاه چرخ دنده",
+        "قفسه چرخ دنده"
+      ]
+    },
+    {
+      "EnglishWord": "pipe",
+      "Meanings": [
+        "لوله",
+        "مک",
+        "تشکیل مک نشستی",
+        "مک لوله ای",
+        "مک نشستی",
+        "شلنگ",
+        "کانال",
+        "لوله اگزوز",
+        "مجرا"
+      ]
+    },
+    {
+      "EnglishWord": "pit",
+      "Meanings": [
+        "نوک",
+        "چاله",
+        "حفره",
+        "فرورفتگی",
+        "گودال"
+      ]
+    },
+    {
+      "EnglishWord": "pit molding",
+      "Meanings": [
+        "قالبگیری در گود ماسه",
+        "قالبگیری در چاله کار",
+        "قالبگیری سرباز"
+      ]
+    },
+    {
+      "EnglishWord": "pitch",
+      "Meanings": [
+        "گام",
+        "گام پیچ",
+        "تقسیم دندانه",
+        "ارتفاع دنده"
+      ]
+    },
+    {
+      "EnglishWord": "pitch circle",
+      "Meanings": [
+        "دایره گام"
+      ]
+    },
+    {
+      "EnglishWord": "pitch diameter",
+      "Meanings": [
+        "قطر متوسط",
+        "قطر میانه",
+        "قطر گام",
+        "قطر دایره اصلی",
+        "قطر متوسط پیچ",
+        "قطر دایره گام"
+      ]
+    },
+    {
+      "EnglishWord": "pitting",
+      "Meanings": [
+        "خط خطی کردن",
+        "کچلک کردن",
+        "خورندگی سوزنی",
+        "خورندگی عمیق"
+      ]
+    },
+    {
+      "EnglishWord": "pitting corrosion",
+      "Meanings": [
+        "خوردگی حفره ای"
+      ]
+    },
+    {
+      "EnglishWord": "pit-type planer",
+      "Meanings": [
+        "ماشین صفحه تراش",
+        "نوع گودالی"
+      ]
+    },
+    {
+      "EnglishWord": "pivot",
+      "Meanings": [
+        "پاشنه",
+        "لولا",
+        "محور",
+        "مفصل"
+      ]
+    },
+    {
+      "EnglishWord": "pivot column",
+      "Meanings": [
+        "ستون لولا"
+      ]
+    },
+    {
+      "EnglishWord": "pivot element",
+      "Meanings": [
+        "عنصر لولا"
+      ]
+    },
+    {
+      "EnglishWord": "pivoting",
+      "Meanings": [
+        "پاشنه گردی"
+      ]
+    },
+    {
+      "EnglishWord": "pixel",
+      "Meanings": [
+        "سلول تصویری",
+        "ذره"
+      ]
+    },
+    {
+      "EnglishWord": "plain center",
+      "Meanings": [
+        "مرغک ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain indexing",
+      "Meanings": [
+        "تقسیم ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain mandrel",
+      "Meanings": [
+        "ماندرول عادی",
+        "سمبه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plain rod depth page",
+      "Meanings": [
+        "عمق سنج میله دار ساده"
+      ]
+    },
+    {
+      "EnglishWord": "plan",
+      "Meanings": [
+        "نقشه",
+        "طرح",
+        "برنامه",
+        "برنامه ریختن",
+        "روش",
+        "طرح ریزی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "plan view",
+      "Meanings": [
+        "نمای مقطع"
+      ]
+    },
+    {
+      "EnglishWord": "plane",
+      "Meanings": [
+        "صفحه",
+        "تحت",
+        "مسطحه"
+      ]
+    },
+    {
+      "EnglishWord": "planer",
+      "Meanings": [
+        "صفحه تراش دروازه ای",
+        "دستگاه صفحه تراش",
+        "ماشین رنده کاری",
+        "ماشین صفحه تراش",
+        "ماشین صفحه تراش دروازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "planer-type boring machine",
+      "Meanings": [
+        "دهانه تراش دروازه ای",
+        "ماشین سوراخ تراش نوع دروازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "planer-type milling machine",
+      "Meanings": [
+        "فرز دروازه ای",
+        "ماشین نوع فرز دروازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "planetary gear",
+      "Meanings": [
+        "چرخ دنده خورشیدی",
+        "دنده خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "planetary roll",
+      "Meanings": [
+        "غلتک اقماری"
+      ]
+    },
+    {
+      "EnglishWord": "planing",
+      "Meanings": [
+        "تراش صفحه ای",
+        "صفحه تراشی",
+        "صفحه تراشی دروازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "planishing roll",
+      "Meanings": [
+        "غلتک پرداختنی"
+      ]
+    },
+    {
+      "EnglishWord": "planning",
+      "Meanings": [
+        "برنامه ریزی",
+        "طراحی",
+        "نقشه کشی",
+        "تنظیم برنامه",
+        "طرح ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "planning horizon",
+      "Meanings": [
+        "افق برنامه ریزی"
+      ]
+    },
+    {
+      "EnglishWord": "plant",
+      "Meanings": [
+        "کارخانه",
+        "کارگاه",
+        "تاسیسات",
+        "واحد تولیدی",
+        "تجهیزات و تاسیسات",
+        "دستگاه",
+        "ماشین"
+      ]
+    },
+    {
+      "EnglishWord": "plant assets",
+      "Meanings": [
+        "دارایی ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "plant capacity",
+      "Meanings": [
+        "ظرفیت کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plant layout",
+      "Meanings": [
+        "طراحی کارخانه",
+        "آرایش کارخانه",
+        "جانمایی کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plant location",
+      "Meanings": [
+        "تعیین محل کارخانه"
+      ]
+    },
+    {
+      "EnglishWord": "plasma-arc",
+      "Meanings": [
+        "قوس پلاسما"
+      ]
+    },
+    {
+      "EnglishWord": "plaster mold",
+      "Meanings": [
+        "قالب گچی"
+      ]
+    },
+    {
+      "EnglishWord": "plaster molding",
+      "Meanings": [
+        "قالبیگیری گچی"
+      ]
+    },
+    {
+      "EnglishWord": "plastic deformation",
+      "Meanings": [
+        "تغییر شکل خمیری",
+        "تغییر شکل پلاستیکی",
+        "تغییر شکل دایمی",
+        "تغییر شکل مومسان"
+      ]
+    },
+    {
+      "EnglishWord": "plastic foam",
+      "Meanings": [
+        "اسفنج",
+        "پلاستیک متخلخل",
+        "کف پلاستیکی"
+      ]
+    },
+    {
+      "EnglishWord": "plasticizer",
+      "Meanings": [
+        "نرم کننده",
+        "نرمساز",
+        "نرمکن"
+      ]
+    },
+    {
+      "EnglishWord": "plasticizing",
+      "Meanings": [
+        "نرم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "plate",
+      "Meanings": [
+        "صفحه",
+        "ورق فلز",
+        "آبکاری کردن",
+        "آبکاری",
+        "اندودن",
+        "روکش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "plate jig",
+      "Meanings": [
+        "جیگ صفحه ای",
+        "الگوی کار صفحه ای"
+      ]
+    },
+    {
+      "EnglishWord": "plate mill",
+      "Meanings": [
+        "دستگاه نورد صفحه",
+        "نورد صفحه"
+      ]
+    },
+    {
+      "EnglishWord": "plate planer",
+      "Meanings": [
+        "صفحه تراش دروازه ای لبه تراش",
+        "ماشین صفحه تراش دروازه ای لبه تراش"
+      ]
+    },
+    {
+      "EnglishWord": "platform hand truck",
+      "Meanings": [
+        "چرخ دستی"
+      ]
+    },
+    {
+      "EnglishWord": "platform truck",
+      "Meanings": [
+        "تراک صفحه دار"
+      ]
+    },
+    {
+      "EnglishWord": "plating",
+      "Meanings": [
+        "آبکاری",
+        "روکش کاری",
+        "روکش سازی",
+        "پوشش کاری",
+        "روکش ورقی"
+      ]
+    },
+    {
+      "EnglishWord": "play board",
+      "Meanings": [
+        "تخته سیمبندی"
+      ]
+    },
+    {
+      "EnglishWord": "plot",
+      "Meanings": [
+        "رسم کردن",
+        "ترسیم",
+        "نقشه کشیدن",
+        "پلاک",
+        "ترسیمه",
+        "نمودار"
+      ]
+    },
+    {
+      "EnglishWord": "plotter",
+      "Meanings": [
+        "رسام",
+        "دستگاه رسم کننده",
+        "نمودار نگار"
+      ]
+    },
+    {
+      "EnglishWord": "plough back",
+      "Meanings": [
+        "سرمایه گذاری مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "ploughing",
+      "Meanings": [
+        "شکافتن"
+      ]
+    },
+    {
+      "EnglishWord": "plug",
+      "Meanings": [
+        "توپی",
+        "درپوش",
+        "دو شاخه برق",
+        "میله کف بند",
+        "توپک",
+        "روزنه بند"
+      ]
+    },
+    {
+      "EnglishWord": "plug gage",
+      "Meanings": [
+        "قطر داخلی",
+        "کالیبر داخلی",
+        "شابلون سوراخ",
+        "سنجده توپی",
+        "سنجه توپی",
+        "شابلون توپی"
+      ]
+    },
+    {
+      "EnglishWord": "plug weld",
+      "Meanings": [
+        "جوش دکمه ای",
+        "جوش توپی",
+        "جوش حفره ای"
+      ]
+    },
+    {
+      "EnglishWord": "plung cut",
+      "Meanings": [
+        "سنگزنی فرو رفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "plunger",
+      "Meanings": [
+        "پیستون",
+        "سنبه",
+        "میله توپی",
+        "توپی",
+        "شناور",
+        "سمبه"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic",
+      "Meanings": [
+        "بادی",
+        "پتوماتیک",
+        "پنوماتیک",
+        "نیوماتیک",
+        "هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic conveyor",
+      "Meanings": [
+        "نقاله بادی",
+        "نقاله هوای فشرده",
+        "نقاله کمپرسی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic rammer",
+      "Meanings": [
+        "کوبه بادی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic tapereader",
+      "Meanings": [
+        "نوار خوان پنوماتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "point estimate",
+      "Meanings": [
+        "برآورد نقطه ای",
+        "تخمین نقطه ای"
+      ]
+    },
+    {
+      "EnglishWord": "point of control",
+      "Meanings": [
+        "کنترل نقطه به نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "pointer",
+      "Meanings": [
+        "اشاره گر",
+        "عقره",
+        "نشانگر",
+        "نشانه گر"
+      ]
+    },
+    {
+      "EnglishWord": "point-grading system",
+      "Meanings": [
+        "سیستم درجه بندی امتیازی"
+      ]
+    },
+    {
+      "EnglishWord": "poisson distribution",
+      "Meanings": [
+        "توزیع پواسان",
+        "پخش پواسان",
+        "توزیع پواسن",
+        "توزیع پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson process",
+      "Meanings": [
+        "فرآیند پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "poisson ratio",
+      "Meanings": [
+        "نسبت پواسون",
+        "ثابت پواسن",
+        "ضریب پواسون"
+      ]
+    },
+    {
+      "EnglishWord": "polar angle",
+      "Meanings": [
+        "زاویه قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "policy",
+      "Meanings": [
+        "سیاست",
+        "خط مشی",
+        "تدبیر",
+        "مصلحت",
+        "مشی",
+        "سند هزینه",
+        "کاردانی"
+      ]
+    },
+    {
+      "EnglishWord": "polishing",
+      "Meanings": [
+        "پرداختکاری",
+        "پولیش کاری",
+        "صیقل کاری",
+        "پرداخت",
+        "صیقل",
+        "پولیش"
+      ]
+    },
+    {
+      "EnglishWord": "pooled estimator",
+      "Meanings": [
+        "برآورد کننده ادغام شده"
+      ]
+    },
+    {
+      "EnglishWord": "pop rivet",
+      "Meanings": [
+        "پرچ میخی"
+      ]
+    },
+    {
+      "EnglishWord": "population",
+      "Meanings": [
+        "جمعیت",
+        "جامعه",
+        "توده",
+        "جمعیت آماری"
+      ]
+    },
+    {
+      "EnglishWord": "porosity",
+      "Meanings": [
+        "تخلخل",
+        "پوکی",
+        "وجود حفره",
+        "خلل و فرج"
+      ]
+    },
+    {
+      "EnglishWord": "portable elevator",
+      "Meanings": [
+        "بالابر چرخدار قابل حمل"
+      ]
+    },
+    {
+      "EnglishWord": "portfolio",
+      "Meanings": [
+        "اورواق بهادار",
+        "مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "portion",
+      "Meanings": [
+        "بخش",
+        "قسمت",
+        "بهره"
+      ]
+    },
+    {
+      "EnglishWord": "position",
+      "Meanings": [
+        "موقعیت",
+        "پست",
+        "جایگاه",
+        "شغل",
+        "مقام",
+        "منسب",
+        "وضعیت",
+        "مانده حساب",
+        "موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "position classification",
+      "Meanings": [
+        "طبقه بندی مشاغل"
+      ]
+    },
+    {
+      "EnglishWord": "position description",
+      "Meanings": [
+        "شرح شغل"
+      ]
+    },
+    {
+      "EnglishWord": "position sensor",
+      "Meanings": [
+        "حساسه موقعیتی"
+      ]
+    },
+    {
+      "EnglishWord": "position welding",
+      "Meanings": [
+        "جوشکاری ساکن",
+        "جوشکاری موضعی"
+      ]
+    },
+    {
+      "EnglishWord": "positioner",
+      "Meanings": [
+        "وضعیت دهنده",
+        "گیره تنظیم وضعیت",
+        "مستقر کننده"
+      ]
+    },
+    {
+      "EnglishWord": "positioning",
+      "Meanings": [
+        "وضعیت دهی",
+        "جایگذاری",
+        "موقع یابی"
+      ]
+    },
+    {
+      "EnglishWord": "positive definite matrix",
+      "Meanings": [
+        "ماتریس معین مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive feedback",
+      "Meanings": [
+        "پس خور مثبت",
+        "واخوارند مثبت",
+        "انعکاس برگشتی مثبت",
+        "بازخورد مثبت",
+        "عکس العمل مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive semi-definite matrix",
+      "Meanings": [
+        "مارتیس نیمه معین مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive skewness",
+      "Meanings": [
+        "کجی مثبت",
+        "اریبی مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive stop",
+      "Meanings": [
+        "توقف سریع"
+      ]
+    },
+    {
+      "EnglishWord": "post",
+      "Meanings": [
+        "میله",
+        "ایستگاه",
+        "دیرک"
+      ]
+    },
+    {
+      "EnglishWord": "post annealing",
+      "Meanings": [
+        "آنیل کردن در جعبه"
+      ]
+    },
+    {
+      "EnglishWord": "post heating",
+      "Meanings": [
+        "گرمادهی اضافی",
+        "پس گرم کردن",
+        "پسگرم",
+        "عملیات حرارتی پس از جوشکاری",
+        "پسگرمایش",
+        "گرم کردن محلی"
+      ]
+    },
+    {
+      "EnglishWord": "post-closing trial balance",
+      "Meanings": [
+        "تراز آزمایشی اختتامی"
+      ]
+    },
+    {
+      "EnglishWord": "posterior distribution",
+      "Meanings": [
+        "توزیع پسین"
+      ]
+    },
+    {
+      "EnglishWord": "posterior probability",
+      "Meanings": [
+        "احتمال پسین",
+        "احتمال ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "postoptimality analysis",
+      "Meanings": [
+        "تحلیل پسیهیندگی"
+      ]
+    },
+    {
+      "EnglishWord": "pot",
+      "Meanings": [
+        "کفچه",
+        "بوته فلزی",
+        "پاتیل"
+      ]
+    },
+    {
+      "EnglishWord": "pot jig",
+      "Meanings": [
+        "جیگ قابلمه ای"
+      ]
+    },
+    {
+      "EnglishWord": "powder cutting",
+      "Meanings": [
+        "برشکاری پودری",
+        "برشکاری با تزریق گرد"
+      ]
+    },
+    {
+      "EnglishWord": "powder metal forming",
+      "Meanings": [
+        "شکل دهی با پودر فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "powder metallurgy",
+      "Meanings": [
+        "متالوژی پودر",
+        "گرد متالوژی",
+        "گرد فلز کاری",
+        "متالوژی گردها"
+      ]
+    },
+    {
+      "EnglishWord": "powder -type gun",
+      "Meanings": [
+        "پیستوله پودر پاش"
+      ]
+    },
+    {
+      "EnglishWord": "power and free conveyor",
+      "Meanings": [
+        "نقاله دو ریلی نیمه اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "power feed",
+      "Meanings": [
+        "پیشروی خودکار",
+        "جعبه دنده قدرت",
+        "باردادادن خودکار",
+        "جعبه دنده بار"
+      ]
+    },
+    {
+      "EnglishWord": "power function",
+      "Meanings": [
+        "تابع توان"
+      ]
+    },
+    {
+      "EnglishWord": "power hacksaw",
+      "Meanings": [
+        "ماشین اره لنگی افقی"
+      ]
+    },
+    {
+      "EnglishWord": "power saw",
+      "Meanings": [
+        "ماشین اره"
+      ]
+    },
+    {
+      "EnglishWord": "power-down feed",
+      "Meanings": [
+        "پیشروی خودکار به طرف پایین",
+        "تغذیه به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "power-driver endless conveyor",
+      "Meanings": [
+        "نقاله گردشی موتور دار"
+      ]
+    },
+    {
+      "EnglishWord": "practical capacity",
+      "Meanings": [
+        "ظرفیت عملی",
+        "گنجایش عملی"
+      ]
+    },
+    {
+      "EnglishWord": "precedence",
+      "Meanings": [
+        "پی آیندی",
+        "وابستگی",
+        "پیش نیاز",
+        "برتری",
+        "تقدم"
+      ]
+    },
+    {
+      "EnglishWord": "precedence diagramming",
+      "Meanings": [
+        "نمایش دیاگرامی تقدم",
+        "تاخر"
+      ]
+    },
+    {
+      "EnglishWord": "precedence network",
+      "Meanings": [
+        "شبکه پیش نیازی"
+      ]
+    },
+    {
+      "EnglishWord": "precipitation hardened",
+      "Meanings": [
+        "سخت شده رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "precipitation hardening",
+      "Meanings": [
+        "سخت کردن رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "precise",
+      "Meanings": [
+        "دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "precision",
+      "Meanings": [
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "precleaning",
+      "Meanings": [
+        "تمیرکازی مقدماتی",
+        "پیش تمیز کاری",
+        "تمیز کاری ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "pre-control",
+      "Meanings": [
+        "پیش کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "precussion welding",
+      "Meanings": [
+        "جوشکاری ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "predetermined motion time standards",
+      "Meanings": [
+        "زمان‌های از پیش تعیین شده برای حرکات"
+      ]
+    },
+    {
+      "EnglishWord": "prediction",
+      "Meanings": [
+        "پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "predictive forecast",
+      "Meanings": [
+        "پیشگویی"
+      ]
+    },
+    {
+      "EnglishWord": "prefabricated",
+      "Meanings": [
+        "پیش ساخته"
+      ]
+    },
+    {
+      "EnglishWord": "preference share",
+      "Meanings": [
+        "سهم ترجیحی",
+        "سهم ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "prefused flux",
+      "Meanings": [
+        "سرباره پیش ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "preheating",
+      "Meanings": [
+        "پیش گرم کردن",
+        "گرمادهی مقدماتی",
+        "پیش گرم کنی",
+        "گرماکاری مقدماتی",
+        "پیشگرم",
+        "پیش گرمایش"
+      ]
+    },
+    {
+      "EnglishWord": "preload-double nut",
+      "Meanings": [
+        "مهره دوبل پیش باردار"
+      ]
+    },
+    {
+      "EnglishWord": "preloading",
+      "Meanings": [
+        "پیش باری"
+      ]
+    },
+    {
+      "EnglishWord": "premium",
+      "Meanings": [
+        "حق بیمه",
+        "پاداش",
+        "جایزه",
+        "فوق العاده",
+        "نفع"
+      ]
+    },
+    {
+      "EnglishWord": "prepaid",
+      "Meanings": [
+        "پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "prepaid expense",
+      "Meanings": [
+        "پیش پرداخت هزینه",
+        "هزینه پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "preparation",
+      "Meanings": [
+        "آماده سازی",
+        "تدارک",
+        "تهیه"
+      ]
+    },
+    {
+      "EnglishWord": "present values",
+      "Meanings": [
+        "ارزش حال",
+        "ارزش فعلی",
+        "ارزش کنونی"
+      ]
+    },
+    {
+      "EnglishWord": "presetting",
+      "Meanings": [
+        "پیش تنظیمی",
+        "پیش نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "presintering",
+      "Meanings": [
+        "پیش تف جوشی"
+      ]
+    },
+    {
+      "EnglishWord": "press fitting",
+      "Meanings": [
+        "سوار کردن با پرس"
+      ]
+    },
+    {
+      "EnglishWord": "press forging",
+      "Meanings": [
+        "مهرش"
+      ]
+    },
+    {
+      "EnglishWord": "press tools",
+      "Meanings": [
+        "قالب پرسکاری"
+      ]
+    },
+    {
+      "EnglishWord": "pressed casting",
+      "Meanings": [
+        "ریخته گری حدیده ای فشاری",
+        "ریخته گری فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "pressing",
+      "Meanings": [
+        "پرسکاری",
+        "فشردن",
+        "پرس کردن",
+        "قالبریزی"
+      ]
+    },
+    {
+      "EnglishWord": "pressure molding",
+      "Meanings": [
+        "قالبگیری فشاری",
+        "قالبگیری پرسی"
+      ]
+    },
+    {
+      "EnglishWord": "pressure pouring",
+      "Meanings": [
+        "ریخته گیری تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "pressure welding",
+      "Meanings": [
+        "جوشکاری فشاری",
+        "جوش فشاری",
+        "جوشکاری تحت فشار"
+      ]
+    },
+    {
+      "EnglishWord": "preventive costs",
+      "Meanings": [
+        "هزینه‌های پیشگیری"
+      ]
+    },
+    {
+      "EnglishWord": "preventive group replacement",
+      "Meanings": [
+        "تعویض پیگشیرانه گروهی"
+      ]
+    },
+    {
+      "EnglishWord": "preventive inspecting",
+      "Meanings": [
+        "بازرسی پیشگیری"
+      ]
+    },
+    {
+      "EnglishWord": "preventive maintenance",
+      "Meanings": [
+        "برنامه نگهداری",
+        "تعمیرات پیشگیر",
+        "نگهداری پیشگیرانه",
+        "سرویس پیشگیرانه",
+        "نگهداشت پیشگیرانه",
+        "تعمریان پیشگیرانه"
+      ]
+    },
+    {
+      "EnglishWord": "preventive replacement",
+      "Meanings": [
+        "تعویض پیشگیرانه"
+      ]
+    },
+    {
+      "EnglishWord": "price",
+      "Meanings": [
+        "قیمت",
+        "بها"
+      ]
+    },
+    {
+      "EnglishWord": "price list",
+      "Meanings": [
+        "سیاهه قیمت",
+        "فهرست قیمت",
+        "لیست قیمت",
+        "صورت قیمت ها",
+        "صورت نرخ‌های روز",
+        "صورت قیمت کالا"
+      ]
+    },
+    {
+      "EnglishWord": "price-earnings ratio",
+      "Meanings": [
+        "نسبت قیمت به درآمد",
+        "نسبت قیمت به عایدی"
+      ]
+    },
+    {
+      "EnglishWord": "pricing the inventory",
+      "Meanings": [
+        "تقویم موجودی",
+        "ارزیابی موجودی"
+      ]
+    },
+    {
+      "EnglishWord": "primal",
+      "Meanings": [
+        "اولیه",
+        "آغازی"
+      ]
+    },
+    {
+      "EnglishWord": "primal-dual",
+      "Meanings": [
+        "یکان",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "primal-dual algorithm",
+      "Meanings": [
+        "الگوریتم اولیه",
+        "دوگان",
+        "روش مزدوج",
+        "اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primary departmentation",
+      "Meanings": [
+        "تقسیم وظایف ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "prime",
+      "Meanings": [
+        "آستر زدن",
+        "آستر کردن",
+        "ته رنگ",
+        "زیر رنگ"
+      ]
+    },
+    {
+      "EnglishWord": "prime rate of interest",
+      "Meanings": [
+        "نرخ بهره ممتاز"
+      ]
+    },
+    {
+      "EnglishWord": "primer",
+      "Meanings": [
+        "رنگ آستر",
+        "زیر چسب"
+      ]
+    },
+    {
+      "EnglishWord": "principle of diminishing returns",
+      "Meanings": [
+        "اصل بازده نزولی"
+      ]
+    },
+    {
+      "EnglishWord": "printed circuit",
+      "Meanings": [
+        "مدار چاپی"
+      ]
+    },
+    {
+      "EnglishWord": "prior distribution",
+      "Meanings": [
+        "توزیع پیشین"
+      ]
+    },
+    {
+      "EnglishWord": "prior probability",
+      "Meanings": [
+        "احتمال پیشین",
+        "احتمال اولیه",
+        "تخمین ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "priority",
+      "Meanings": [
+        "اولویت",
+        "تقدم",
+        "حق تقدم",
+        "پیشی"
+      ]
+    },
+    {
+      "EnglishWord": "priority rules",
+      "Meanings": [
+        "قوانین اولویت"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic",
+      "Meanings": [
+        "احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic model",
+      "Meanings": [
+        "مدل احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probabilistic time",
+      "Meanings": [
+        "زمان احتمالی"
+      ]
+    },
+    {
+      "EnglishWord": "probability",
+      "Meanings": [
+        "احتمال",
+        "احتمالات"
+      ]
+    },
+    {
+      "EnglishWord": "probability density function",
+      "Meanings": [
+        "تابع چگالی احتمال",
+        "تابع توزیع احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability distribution",
+      "Meanings": [
+        "توزیع احتمال",
+        "توزیع احتمالی",
+        "پخش احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability histogram",
+      "Meanings": [
+        "بافتنمای احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "probability of success",
+      "Meanings": [
+        "احتمال موفقیت"
+      ]
+    },
+    {
+      "EnglishWord": "probe",
+      "Meanings": [
+        "کاوشگر",
+        "اکتشاف",
+        "میل",
+        "میله",
+        "بازرسی",
+        "پایه",
+        "تجسس",
+        "ستون",
+        "سوند",
+        "کاوش کردن",
+        "گمانه",
+        "گمانه زنی",
+        "گودی سنج",
+        "میل بازرسی",
+        "میل مدرج"
+      ]
+    },
+    {
+      "EnglishWord": "procedure",
+      "Meanings": [
+        "روش",
+        "رویه",
+        "روال",
+        "مراحل کار",
+        "دستورالعمل",
+        "روش انجام کار",
+        "آیین کار",
+        "خط مشی",
+        "فرابرد",
+        "فراشد",
+        "فراگرد",
+        "نحوه"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "فرآیند",
+        "پروسه",
+        "فراگرد",
+        "پردازش",
+        "عملیات",
+        "پویش",
+        "پردازش کردن",
+        "عمل کردن",
+        "عملکرد",
+        "پرورش",
+        "فرابری",
+        "فراشد",
+        "فعل و انفعال",
+        "مرحله"
+      ]
+    },
+    {
+      "EnglishWord": "process annealing",
+      "Meanings": [
+        "تابکاری میانی",
+        "آنیل ضمن عملیات",
+        "تابکاری فرآیندی",
+        "تاباندن مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process average",
+      "Meanings": [
+        "متوسط فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process capability",
+      "Meanings": [
+        "قابلیت فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process chart",
+      "Meanings": [
+        "نمودار جریان"
+      ]
+    },
+    {
+      "EnglishWord": "process control",
+      "Meanings": [
+        "کنترل پروسه",
+        "کنترل فرآیند",
+        "بررسی فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process costing",
+      "Meanings": [
+        "هزینه یابی مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process layout",
+      "Meanings": [
+        "استقرار عملکردی",
+        "آرایش فرآیند",
+        "استقرار وابسته به نوع عملیات",
+        "طرح براساس پروسه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "process quality audit",
+      "Meanings": [
+        "ممیزی کیفیت فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process specification",
+      "Meanings": [
+        "مشخصات فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process symbol",
+      "Meanings": [
+        "نماد فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "process technology",
+      "Meanings": [
+        "تکنولوژی تبدیلی",
+        "تکنولوژی مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "process under control",
+      "Meanings": [
+        "فرآیند تحت کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "process variables",
+      "Meanings": [
+        "متغیرهای فرآیند"
+      ]
+    },
+    {
+      "EnglishWord": "processor",
+      "Meanings": [
+        "پردازشگر",
+        "پردازنده",
+        "اجرا کننده",
+        "فرایند گر",
+        "وسیله اجرا"
+      ]
+    },
+    {
+      "EnglishWord": "procurement time",
+      "Meanings": [
+        "زمان تدارک"
+      ]
+    },
+    {
+      "EnglishWord": "producer's risk",
+      "Meanings": [
+        "ریسک تولید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "product assurance",
+      "Meanings": [
+        "اطمینان محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product audit",
+      "Meanings": [
+        "ممیزی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product costing",
+      "Meanings": [
+        "هزینه یابی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product design",
+      "Meanings": [
+        "طراحی محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product flow",
+      "Meanings": [
+        "گردش محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product layout",
+      "Meanings": [
+        "استقرار محصولی",
+        "استقرار وابسته به نوع محصول",
+        "طرح بر اساس محصول"
+      ]
+    },
+    {
+      "EnglishWord": "product mix",
+      "Meanings": [
+        "ترکیب تولید"
+      ]
+    },
+    {
+      "EnglishWord": "product moment",
+      "Meanings": [
+        "گشتاور حاصلضربی"
+      ]
+    },
+    {
+      "EnglishWord": "productability",
+      "Meanings": [
+        "تولید پذیری",
+        "قابلیت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "تولید",
+        "استخراج",
+        "بهره برداری",
+        "مصنوعات",
+        "ساخت",
+        "فرآورده",
+        "محصول",
+        "نتیجه",
+        "تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "production center method",
+      "Meanings": [
+        "روش مرکز تولید",
+        "روش هسته مرکزی",
+        "روش تولید مرکزی"
+      ]
+    },
+    {
+      "EnglishWord": "production control",
+      "Meanings": [
+        "کنترل تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production cost",
+      "Meanings": [
+        "هزینه تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production department",
+      "Meanings": [
+        "بخش تولید",
+        "دپارتمان تولید",
+        "بخش تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "production design",
+      "Meanings": [
+        "طراحی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production function",
+      "Meanings": [
+        "تابع تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production line",
+      "Meanings": [
+        "خط تولید",
+        "زنجیر تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production management",
+      "Meanings": [
+        "مدیریت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production orientation",
+      "Meanings": [
+        "تولید گرایی",
+        "جهت گیری تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production planning",
+      "Meanings": [
+        "برنامه ریزی تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production possibility curve",
+      "Meanings": [
+        "منحنی امکانات تولید"
+      ]
+    },
+    {
+      "EnglishWord": "production process design",
+      "Meanings": [
+        "طراحی فرآیند تولید",
+        "طراحی فرآیند محصول"
+      ]
+    },
+    {
+      "EnglishWord": "productivity",
+      "Meanings": [
+        "بهره وری",
+        "بهره دهی",
+        "بهره زایی",
+        "باروری",
+        "قابلیت تولید",
+        "قدرت تولید"
+      ]
+    },
+    {
+      "EnglishWord": "profile die",
+      "Meanings": [
+        "قالب پروفیل"
+      ]
+    },
+    {
+      "EnglishWord": "profile milling",
+      "Meanings": [
+        "فرمتراشی با فرز"
+      ]
+    },
+    {
+      "EnglishWord": "profile milling cutter",
+      "Meanings": [
+        "تیغچه فرز پشت تراشیده"
+      ]
+    },
+    {
+      "EnglishWord": "profiling attachment",
+      "Meanings": [
+        "دستگاه الحاقی کپی ساز"
+      ]
+    },
+    {
+      "EnglishWord": "profiling milling machine",
+      "Meanings": [
+        "ماشین فرز کپی دو بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "profit",
+      "Meanings": [
+        "سود",
+        "بهره",
+        "نفع"
+      ]
+    },
+    {
+      "EnglishWord": "profit and loss account",
+      "Meanings": [
+        "حساب سود و زیان"
+      ]
+    },
+    {
+      "EnglishWord": "profit and loss statement",
+      "Meanings": [
+        "صورتحساب سود و زیان"
+      ]
+    },
+    {
+      "EnglishWord": "profit margin",
+      "Meanings": [
+        "حاشیه سود"
+      ]
+    },
+    {
+      "EnglishWord": "profit maximization",
+      "Meanings": [
+        "به حداکثر رسانیدن سود"
+      ]
+    },
+    {
+      "EnglishWord": "profitability analysis",
+      "Meanings": [
+        "تحلیل سود آوری"
+      ]
+    },
+    {
+      "EnglishWord": "profitability index",
+      "Meanings": [
+        "شاخص سود آوری"
+      ]
+    },
+    {
+      "EnglishWord": "profitability ratios",
+      "Meanings": [
+        "نسبتهای سودآوری"
+      ]
+    },
+    {
+      "EnglishWord": "program evaluation and review technique",
+      "Meanings": [
+        "فن بازنگری و ارزیابی برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program flowchart",
+      "Meanings": [
+        "روند نمای برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "programming",
+      "Meanings": [
+        "برنامه نویسی",
+        "برنامه ریزی",
+        "برنامه سازی"
+      ]
+    },
+    {
+      "EnglishWord": "programming sheet",
+      "Meanings": [
+        "ورقه برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "progressive broach",
+      "Meanings": [
+        "خانکشی تدریجی"
+      ]
+    },
+    {
+      "EnglishWord": "progressive die",
+      "Meanings": [
+        "قالب چندمرحله ای",
+        "قالب مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "progressive gage",
+      "Meanings": [
+        "سنجه مرحله ای"
+      ]
+    },
+    {
+      "EnglishWord": "project control",
+      "Meanings": [
+        "کنترل پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project evaluation and review technique",
+      "Meanings": [
+        "فن بازنگری و ارزیابی برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "project management",
+      "Meanings": [
+        "مدیریت پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project operation",
+      "Meanings": [
+        "بهره برداری از پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "project target date",
+      "Meanings": [
+        "تاریخ معین برای انجام پروژه"
+      ]
+    },
+    {
+      "EnglishWord": "projected balance sheet",
+      "Meanings": [
+        "ترازنامه پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "projected policy",
+      "Meanings": [
+        "سیاست پیش بینی شده"
+      ]
+    },
+    {
+      "EnglishWord": "projection",
+      "Meanings": [
+        "تصویر",
+        "افکنش",
+        "تصویری",
+        "طرح ریزی",
+        "نمایش",
+        "تبدیل تصویری",
+        "برآمدگی",
+        "برجستگی",
+        "پیش طرح",
+        "برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "projection welding",
+      "Meanings": [
+        "جوشکاری تکمه ای",
+        "جوشکاری نوک به نوک",
+        "جوشکاری برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "property",
+      "Meanings": [
+        "خاصیت",
+        "خاصه",
+        "دارایی",
+        "مشخصه",
+        "ویژگی"
+      ]
+    },
+    {
+      "EnglishWord": "proportionality",
+      "Meanings": [
+        "تناسب",
+        "متناسب بودن"
+      ]
+    },
+    {
+      "EnglishWord": "proposal",
+      "Meanings": [
+        "پیشنهاد",
+        "طرح",
+        "طرح پیشنهادی"
+      ]
+    },
+    {
+      "EnglishWord": "proprietorship",
+      "Meanings": [
+        "سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "prospect",
+      "Meanings": [
+        "نمود"
+      ]
+    },
+    {
+      "EnglishWord": "protection",
+      "Meanings": [
+        "محافظت",
+        "حمایت",
+        "حفاظ",
+        "روپوش حفاظ",
+        "نگهداری"
+      ]
+    },
+    {
+      "EnglishWord": "prototype",
+      "Meanings": [
+        "نمونه",
+        "نخستین نمونه",
+        "نمونه اولیه",
+        "پروتوتیپ",
+        "الگو",
+        "مدل",
+        "مسطوره",
+        "دستگاه اولیه",
+        "مدل واحد صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "prototype drawing",
+      "Meanings": [
+        "نقشه نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "protractor",
+      "Meanings": [
+        "زاویه سنج",
+        "نقاله",
+        "کله گی نقاله ای",
+        "گونیا",
+        "نقاله گونیا",
+        "زاویه کش",
+        "اندازه گیر زاویه",
+        "زاویه یاب"
+      ]
+    },
+    {
+      "EnglishWord": "protractor depth gage",
+      "Meanings": [
+        "عمق سنج نقاله ای"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo- optimal",
+      "Meanings": [
+        "بهینه نما"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo- random number",
+      "Meanings": [
+        "عدد شبه تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "psychic motivation",
+      "Meanings": [
+        "انگیزه روانی"
+      ]
+    },
+    {
+      "EnglishWord": "puck",
+      "Meanings": [
+        "نشانه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "puddle",
+      "Meanings": [
+        "حوضچه مذاب"
+      ]
+    },
+    {
+      "EnglishWord": "pull pin",
+      "Meanings": [
+        "پین بیرون کش"
+      ]
+    },
+    {
+      "EnglishWord": "pull-cut planer",
+      "Meanings": [
+        "ماشین صفحه تراش کشیدنی"
+      ]
+    },
+    {
+      "EnglishWord": "pulley",
+      "Meanings": [
+        "پولی",
+        "فلکه",
+        "قرقره",
+        "چرخ",
+        "چرخ محرک",
+        "طوقه",
+        "فلکه تسمه",
+        "گردونه"
+      ]
+    },
+    {
+      "EnglishWord": "pulse",
+      "Meanings": [
+        "تکانه",
+        "ضربه",
+        "پالس",
+        "نبضه"
+      ]
+    },
+    {
+      "EnglishWord": "pulsed spray",
+      "Meanings": [
+        "پاشش ضربانی"
+      ]
+    },
+    {
+      "EnglishWord": "punch",
+      "Meanings": [
+        "سنبه",
+        "منگنه",
+        "سمبه",
+        "منگنه کردن",
+        "سوراخ کردن",
+        "سوراخکن"
+      ]
+    },
+    {
+      "EnglishWord": "punch holder",
+      "Meanings": [
+        "سنبه نگهدار",
+        "کفشک بالایی",
+        "سمبه گیر"
+      ]
+    },
+    {
+      "EnglishWord": "punch plate",
+      "Meanings": [
+        "صفحه نگهدارنده سنبه"
+      ]
+    },
+    {
+      "EnglishWord": "punch press",
+      "Meanings": [
+        "منگنه",
+        "پرس ضربه ای",
+        "پرس لنگ",
+        "ماشین سوراخ کن",
+        "پرس سمبه ای",
+        "قالب سمبه ای"
+      ]
+    },
+    {
+      "EnglishWord": "punch-card machine",
+      "Meanings": [
+        "ماشین منگنه زنی"
+      ]
+    },
+    {
+      "EnglishWord": "punched card",
+      "Meanings": [
+        "کارت منگنه",
+        "کارت پانچ"
+      ]
+    },
+    {
+      "EnglishWord": "punching",
+      "Meanings": [
+        "سنبه کاری",
+        "سوراخ کردن",
+        "منگنه کاری"
+      ]
+    },
+    {
+      "EnglishWord": "punch-tape",
+      "Meanings": [
+        "نوار منگنه"
+      ]
+    },
+    {
+      "EnglishWord": "purchase",
+      "Meanings": [
+        "خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase discount",
+      "Meanings": [
+        "تخفیف نقدی خرید",
+        "تخفیف از خرید",
+        "تخفیف خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase order",
+      "Meanings": [
+        "سفارش خرید",
+        "سفارش خرید کالا",
+        "میزان سفارش خرید"
+      ]
+    },
+    {
+      "EnglishWord": "purchase returns",
+      "Meanings": [
+        "برگشتی خرید",
+        "برگشت از خرید"
+      ]
+    },
+    {
+      "EnglishWord": "pure rate of discount",
+      "Meanings": [
+        "نرخ مطلق تنزیل"
+      ]
+    },
+    {
+      "EnglishWord": "pure strategy",
+      "Meanings": [
+        "استراتژی خالص",
+        "نوع خاص استراتژی",
+        "راهبرد خالص"
+      ]
+    },
+    {
+      "EnglishWord": "purity",
+      "Meanings": [
+        "درجه خلوص",
+        "خالص بودن",
+        "خلوص",
+        "صافی"
+      ]
+    },
+    {
+      "EnglishWord": "purpose",
+      "Meanings": [
+        "مقصود",
+        "منظور",
+        "هدف",
+        "تصمیم",
+        "عزم",
+        "قصد"
+      ]
+    },
+    {
+      "EnglishWord": "push and guide placing mechanism",
+      "Meanings": [
+        "مکانیسم قطعه گذاری هادی و فشارنده"
+      ]
+    },
+    {
+      "EnglishWord": "push-cut planer",
+      "Meanings": [
+        "ماشین صفحه تراش فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "pusher bar conveyor",
+      "Meanings": [
+        "نقاله میله ای با نیروی محرکه"
+      ]
+    }
+  ]
+}

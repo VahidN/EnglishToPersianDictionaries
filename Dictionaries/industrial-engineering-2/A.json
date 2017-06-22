@@ -1,0 +1,904 @@
+﻿{
+  "Group": "A",
+  "Entries": 126,
+  "Words": [
+    {
+      "EnglishWord": "absolute contro",
+      "Meanings": [
+        "کنترل مطلق",
+        "در این کنترل ماشین وضعیت قطعه رابا توجه به برنامه هایی که به آن داده شده است و با استفاد ه از یک نقطه مبنا مشخص میکند و آن را کنترل می‌کند که مثلا فاصله یک نقطه خاص نسبت به مبنا چقدر است؟ و آیا این فاصله درست است یا نه؟ و این کنترل معمولا به صورت نقطه به نقطه صورت میگیرد"
+      ]
+    },
+    {
+      "EnglishWord": "acceptable",
+      "Meanings": [
+        "قابل قبول",
+        "پذیرفتنی"
+      ]
+    },
+    {
+      "EnglishWord": "acceptable quality level  aql",
+      "Meanings": [
+        "سطح کیفیت قابل قبول"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance",
+      "Meanings": [
+        "پذیرش",
+        "قبولی"
+      ]
+    },
+    {
+      "EnglishWord": "acceptance inspection",
+      "Meanings": [
+        "بازرسی جهت پذیرش",
+        "بازرسی نهایی به منظور تعیین اینکه آیا یک سیستم یا وسیله",
+        "استانداردهای فنی و عملکردی مشخص شده را برآورده می‌سازد یا خیر. توجه: این بازدید بلافاصله پس از آزمایش وسیله یا نرم افزار انجام می‌گیرد و مبنای پذیرش آن قرار می‌گیرد. اگر سیستم پذیرفته شود",
+        "یک گواهینامه accreditation دریافت می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "accommodate",
+      "Meanings": [
+        "وفق دادن",
+        "اصلاح کردن",
+        "تطبیق نمودن"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy",
+      "Meanings": [
+        "صحت",
+        "مقدار نزدیکی بین مقدار توافق شده از یک مشاهده و مقدار مرجع مورد قبول"
+      ]
+    },
+    {
+      "EnglishWord": "acquisition",
+      "Meanings": [
+        "کسب کردن",
+        "فراگرفتن",
+        "استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "acquisition cost",
+      "Meanings": [
+        "هزینه تهیه و دستیابی",
+        "هزینه خرید یا تولید یک ماده یا محصول",
+        "قیمتی که در فاکتور فروش ذکر می‌شود. شامل مالیات بر فروش و هر تخفیف یا معافیت تجاری. همچنین شامل هر هزینه ای در ارتباط با نصب اولیه",
+        "تغییر و اصلاح",
+        "ضمایم",
+        "لوازم جنبی یا تجهیزات کمکی لازم می‌باشد"
+      ]
+    },
+    {
+      "EnglishWord": "acquisition process",
+      "Meanings": [
+        "فرایند تهیه و دستیابی",
+        "فرایند تهیه و دستیابی به پرسنل",
+        "کالاها و یا خدمات برای کار جدید یا موجود",
+        "در داخل تعاریف عمومی قراردادهایی که نیاز به یک پیشنهاد و پذیرش",
+        "ملاحظات",
+        "مواد موضوعی قانونی و بخش‌های ذیصلاح دارند"
+      ]
+    },
+    {
+      "EnglishWord": "action plan",
+      "Meanings": [
+        "برنامه اجرایی"
+      ]
+    },
+    {
+      "EnglishWord": "active inventory",
+      "Meanings": [
+        "موجودی فعال",
+        "شامل مواد خام",
+        "کار در حال پیشرفت",
+        "محصولات نهایی که در یک دوره زمانی معین بدون هزینه یا اتلاف اضافی مورد استفاده واقع شده یا فروخته شده اند",
+        "می‌باشد. این عبارت شامل موجودی معکوس reverse inventory نمی‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "activity",
+      "Meanings": [
+        "فعالیت",
+        "جزیی از کار که در طول دوره یک پروژه انجام می‌شود. یک فعالیت معمولا دارای یک طول مدت مورد انتظار",
+        "هزینه مورد انتظار و نیازمندیهای منابع مورد انتظار است. فعالیت‌ها معمولا به وظایف tasks تجزیه می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "activity based costing  abc",
+      "Meanings": [
+        "هزینه یابی بر اساس فعالیت",
+        "سیستم استاندارد هزینه یابی که سعی دارد تا هزینه سربار را بر اساس میزان تاثیر محصول بر آن مقدار منابعی که مورد استفاده قرار می‌گیرد",
+        "به محصول تخصیص دهد یا در مقابل"
+      ]
+    },
+    {
+      "EnglishWord": "activity definition",
+      "Meanings": [
+        "تعریف فعالیت",
+        "فرایند شناسایی فعالیت‌های خاصی که باید برای تولید اقلام قابل تحویل پروژه انجام گردند"
+      ]
+    },
+    {
+      "EnglishWord": "activity description  ad",
+      "Meanings": [
+        "تعریف فعالیت"
+      ]
+    },
+    {
+      "EnglishWord": "activity network diagram",
+      "Meanings": [
+        "نمودار شبکه فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "activity on arrow  aoa",
+      "Meanings": [
+        "شبکه‌های برداری",
+        "روش تحلیل شبکه فعالیت‌ها که در آن فعالیت‌ها توسط بردارها نشان داده می‌شوند. فعالیت‌ها در نقاطی به نام گره Node با یکدیگر متصل میشوند"
+      ]
+    },
+    {
+      "EnglishWord": "activity on node  aon",
+      "Meanings": [
+        "شبکه‌های گرهی",
+        "شبکه که در آن فعالیت‌ها در گره‌ها قرار دارند"
+      ]
+    },
+    {
+      "EnglishWord": "activity relationship",
+      "Meanings": [
+        "رابطه فعالیت ها"
+      ]
+    },
+    {
+      "EnglishWord": "actual",
+      "Meanings": [
+        "واقعی",
+        "حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "actual cost  ac",
+      "Meanings": [
+        "هزینه واقعی",
+        "هزینه کل پرداخت شده بابت کار انجام شده در یک دوره زمانی مشخص"
+      ]
+    },
+    {
+      "EnglishWord": "actual cost of work performed  acwp",
+      "Meanings": [
+        "هزینه واقعی کار انجام شده"
+      ]
+    },
+    {
+      "EnglishWord": "actual factory hours",
+      "Meanings": [
+        "ساعات واقعی کار"
+      ]
+    },
+    {
+      "EnglishWord": "actual start date",
+      "Meanings": [
+        "تاریخ شروع واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "actual this period",
+      "Meanings": [
+        "مقدار واقعی این دوره"
+      ]
+    },
+    {
+      "EnglishWord": "actuator",
+      "Meanings": [
+        "سیستم محرک",
+        "بکار اندازنده"
+      ]
+    },
+    {
+      "EnglishWord": "adaptable",
+      "Meanings": [
+        "جور",
+        "مناسب",
+        "سازگار",
+        "وفق پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive control",
+      "Meanings": [
+        "کنترل تطبیقی",
+        "یک نوع خاص کنترل است که که شرایط قطعه را در حین عمل بر طبق محفوظات و برنامه‌های خودش وفق می‌دهد"
+      ]
+    },
+    {
+      "EnglishWord": "adaptive maintenance",
+      "Meanings": [
+        "نگهداری تطبیقی"
+      ]
+    },
+    {
+      "EnglishWord": "adequate",
+      "Meanings": [
+        "کافی",
+        "بسنده",
+        "بس"
+      ]
+    },
+    {
+      "EnglishWord": "adjacent",
+      "Meanings": [
+        "مجاور",
+        "نزدیک"
+      ]
+    },
+    {
+      "EnglishWord": "adjust",
+      "Meanings": [
+        "تعدیل کردن",
+        "تنظیم کردن"
+      ]
+    },
+    {
+      "EnglishWord": "adjustable open end wrench",
+      "Meanings": [
+        "آچار فرانسه"
+      ]
+    },
+    {
+      "EnglishWord": "administration",
+      "Meanings": [
+        "مدیریت",
+        "فعالیت هایی که به منظور تنظیم عمومی",
+        "هدایت و کنترل روابط یک سازمان صورت می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "adopt",
+      "Meanings": [
+        "قبول کردن",
+        "اتخاذ کردن",
+        "گرفتن",
+        "وفق دادن"
+      ]
+    },
+    {
+      "EnglishWord": "advance payment",
+      "Meanings": [
+        "پیش پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "advanced manufacturing system  ams",
+      "Meanings": [
+        "سیستم پیشرفته تولیدی"
+      ]
+    },
+    {
+      "EnglishWord": "advanced product quality planning  apqp",
+      "Meanings": [
+        "طرحریزی پیشرفته کیفیت محصول"
+      ]
+    },
+    {
+      "EnglishWord": "advantage",
+      "Meanings": [
+        "برتری",
+        "رجحان",
+        "سود",
+        "منفعت",
+        "مزیت"
+      ]
+    },
+    {
+      "EnglishWord": "aesthetic",
+      "Meanings": [
+        "زیبایی",
+        "مربوط به زیبایی"
+      ]
+    },
+    {
+      "EnglishWord": "affinity",
+      "Meanings": [
+        "وابستگی",
+        "نزدیکی"
+      ]
+    },
+    {
+      "EnglishWord": "affinity diagram",
+      "Meanings": [
+        "نمودار نزدیکی روابط"
+      ]
+    },
+    {
+      "EnglishWord": "agenda",
+      "Meanings": [
+        "دستور جلسه"
+      ]
+    },
+    {
+      "EnglishWord": "agent",
+      "Meanings": [
+        "عامل",
+        "مامور نماینده",
+        "وکیل"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate",
+      "Meanings": [
+        "متراکم",
+        "تجمعی",
+        "پیوسته",
+        "توده"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate budget",
+      "Meanings": [
+        "بودجهجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate inventory",
+      "Meanings": [
+        "موجودی تجمعی"
+      ]
+    },
+    {
+      "EnglishWord": "aggregate production plan  app",
+      "Meanings": [
+        "برنامه ریزی تولید بلند مدت"
+      ]
+    },
+    {
+      "EnglishWord": "aggregation",
+      "Meanings": [
+        "اجتماع"
+      ]
+    },
+    {
+      "EnglishWord": "agreement value",
+      "Meanings": [
+        "مقادیر توافقی",
+        "مقادیری که صریحا مورد توافق طرفین قرار گرفته است",
+        "در تمامی موارد فوق",
+        "مقادیر مرجع بایستی بر اساس یک تعریف کاربردی و در نتیجه یک سیستم اندازه گیری مورد قبول بدست آمده باشند"
+      ]
+    },
+    {
+      "EnglishWord": "aisle",
+      "Meanings": [
+        "راهرو"
+      ]
+    },
+    {
+      "EnglishWord": "aisle arrangement",
+      "Meanings": [
+        "چیدمان راهرو"
+      ]
+    },
+    {
+      "EnglishWord": "alignment",
+      "Meanings": [
+        "هم ترازی"
+      ]
+    },
+    {
+      "EnglishWord": "alignment chart",
+      "Meanings": [
+        "نمودار سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "allen wrench",
+      "Meanings": [
+        "آچار شش گوش آلن"
+      ]
+    },
+    {
+      "EnglishWord": "allocation",
+      "Meanings": [
+        "تخصیص",
+        "واگذار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "alternative hypothesis",
+      "Meanings": [
+        "فرض مقابل",
+        "فرض یک"
+      ]
+    },
+    {
+      "EnglishWord": "american customer satisfaction index  acsi",
+      "Meanings": [
+        "شاخص رضایت مشتری آمریکایی"
+      ]
+    },
+    {
+      "EnglishWord": "american national standard institute  ansi",
+      "Meanings": [
+        "موسسه استاندارد ملی آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "american society for quality control  asqc",
+      "Meanings": [
+        "انجمن کنترل کیفیت آمریکا"
+      ]
+    },
+    {
+      "EnglishWord": "amount",
+      "Meanings": [
+        "مقدار",
+        "اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "analog sensor",
+      "Meanings": [
+        "سنسور لمس کننده قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "آنالیز",
+        "تجزیه و تحلیل"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of means  anom",
+      "Meanings": [
+        "تجزیه و تحلیل میانگین ها",
+        "همانند است با این تفاوت که در آنالیز واریانس تفاوت بین میانگین‌ها مورد آزمایش قرار می‌گیرد ولی در آنالیز میانگین‌ها تفاوت بین میانگین‌ها با یک مقدار مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "analysis of variance  anova",
+      "Meanings": [
+        "آنالیز واریانس",
+        "یک روش آماری که اغلب در طراحی آزمایشها برای تجزیه و تحلیل داده‌های متغیر از گروه‌های چندگانه به منظور مقایسه میانگین‌ها و آنالیز منابع تغییر مورد استفاده قرار می‌گیرد"
+      ]
+    },
+    {
+      "EnglishWord": "analytic hierarchy process  ahp",
+      "Meanings": [
+        "برنامه ریزی سلسله مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "analytical hierarchy process  ahp",
+      "Meanings": [
+        "فرآیند تحلیل سلسله مراتبی"
+      ]
+    },
+    {
+      "EnglishWord": "anchor",
+      "Meanings": [
+        "لنگر"
+      ]
+    },
+    {
+      "EnglishWord": "andon board",
+      "Meanings": [
+        "تابلوی آن دون",
+        "وسیله کنترل دیداری در یک محوطه تولیدی",
+        "نوعا یک نمایشگر برقی که بالای سر افراد قرار میگیرد و وضعیت جاری سیستم تولید را نشان داده و اعضای گروه را از بروز مشکلات با خبر می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "annual",
+      "Meanings": [
+        "سالیانه"
+      ]
+    },
+    {
+      "EnglishWord": "anti-blocking system  abs",
+      "Meanings": [
+        "سیستم ضد قفل",
+        "سیستمی در ترمز که مانع از قفل شدن ترمزها و نیز حرکت روبه جلو راننده در هنگام ترمزهای ناگهانی می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "anti-freeze fluid",
+      "Meanings": [
+        "ضد یخ"
+      ]
+    },
+    {
+      "EnglishWord": "anti-skidding system  ass",
+      "Meanings": [
+        "سیستم هدایت ضد لغزشی"
+      ]
+    },
+    {
+      "EnglishWord": "applicable",
+      "Meanings": [
+        "قابل اجرا",
+        "اجرا شدنی",
+        "عملی"
+      ]
+    },
+    {
+      "EnglishWord": "application area",
+      "Meanings": [
+        "A category of projects that have common elements not present in all projects. Application areas are usually defined in terms of either the product of the project i.e., by similar technologies or industry sectors or the type of customer e.g., internal versus external, government versus commercial . Application areas often overlap"
+      ]
+    },
+    {
+      "EnglishWord": "application network  an",
+      "Meanings": [
+        "شبکه اجرایی"
+      ]
+    },
+    {
+      "EnglishWord": "apportioned effort  ae",
+      "Meanings": [
+        "کار وابسته"
+      ]
+    },
+    {
+      "EnglishWord": "appraiser variation  av",
+      "Meanings": [
+        "نوسانات بازبین",
+        "میزان نوسان در متوسط اندازه‌های بدست آمده از یک قطعه بین بازبین‌های مختلف در صورتیکه از یک وسیله و روش اندازه گیری در یک محیط با ثبات استفاده کرده باشند. نوسانات بازبین AV یکی از منابع ایجاد تغییر خطا در سیستم اندازه گیری است که از تفاوت در مهارت‌ها یا تکنیک‌های افراد مختلف که از یک ابزار استفاده می‌کنند",
+        "ناشی میشود. نوسانات فرآیند را اغلب به عنوان «خطای تکثیرپذیری» مرتبط با سیستم اندازه گیری منظور می‌کنند",
+        "که همیشه هم درست نیست به معنای تکثیرپذیری مراجعه کنید"
+      ]
+    },
+    {
+      "EnglishWord": "approach",
+      "Meanings": [
+        "نزدیک شدن",
+        "نظر کردن\u000bنظر گاه",
+        "رویکرد",
+        "نگرش"
+      ]
+    },
+    {
+      "EnglishWord": "appropriate",
+      "Meanings": [
+        "مناسب",
+        "مقتضی",
+        "در خور",
+        "شایسته"
+      ]
+    },
+    {
+      "EnglishWord": "approximate reasoning",
+      "Meanings": [
+        "استدلال تقریبی"
+      ]
+    },
+    {
+      "EnglishWord": "arena",
+      "Meanings": [
+        "صحنه",
+        "میدان",
+        "عرصه"
+      ]
+    },
+    {
+      "EnglishWord": "arrangement",
+      "Meanings": [
+        "چیدمان",
+        "نظم",
+        "نحوه قرار گرفتن",
+        "ترتیب"
+      ]
+    },
+    {
+      "EnglishWord": "arrow diagramming method  adm",
+      "Meanings": [
+        "روش رسم برداری",
+        "روش تحلیل شبکه فعالیت‌ها که در آن فعالیت‌ها توسط بردارها نشان داده می‌شوند. فعالیت‌ها در نقاطی به نام گره Node با یکدیگر متصل میشوند"
+      ]
+    },
+    {
+      "EnglishWord": "articulate",
+      "Meanings": [
+        "مفصل بندی"
+      ]
+    },
+    {
+      "EnglishWord": "articulated mechanical system  ams",
+      "Meanings": [
+        "مجموعه اندام‌های مکانیکی روبات"
+      ]
+    },
+    {
+      "EnglishWord": "artifact",
+      "Meanings": [
+        "محصول",
+        "مصنوع",
+        "وسیله",
+        "ابزار",
+        "شیء",
+        "معمولا به ابزارهای ابتدایی ساخت دست بشر اطلاق می‌شود",
+        "چیزی که با یک سری فعالیتهای علمی بدست می‌آید و بطور طبیعی و بدون استفاده از ابزارآلات و یا تحقیقات علمی قابل دستیابی نیست"
+      ]
+    },
+    {
+      "EnglishWord": "artificial",
+      "Meanings": [
+        "مصنوعی",
+        "دست ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "artificial intelligence  ai",
+      "Meanings": [
+        "هوش مصنوعی",
+        "عبارتست از",
+        "حل مسایل پیچیده تحت عدم قطعیت",
+        "با استفاده از پردازش اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "as late as possible  alap",
+      "Meanings": [
+        "در دیرترین زمان ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "as soon as possible  asap",
+      "Meanings": [
+        "هرچه سریعتر",
+        "زودترین زمان ممکن"
+      ]
+    },
+    {
+      "EnglishWord": "assemble",
+      "Meanings": [
+        "مونتاژ",
+        "سوار کردن",
+        "همگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "assemble to order  ato",
+      "Meanings": [
+        "مونتاژ طبق سفارش"
+      ]
+    },
+    {
+      "EnglishWord": "assembly",
+      "Meanings": [
+        "مونتاژ",
+        "سرهم کردن",
+        "بستن"
+      ]
+    },
+    {
+      "EnglishWord": "assembly chart",
+      "Meanings": [
+        "نمودار مونتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "assess",
+      "Meanings": [
+        "تعیین کردن",
+        "شناسایی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "assessment",
+      "Meanings": [
+        "ارزیابی",
+        "اغلب بعنوان مترادف evaluation بکار می‌رود. اغلب به رویکردی اطلاق می‌شود که اندازه گیری هایی را بدون انجام داوری در مورد آنها گزارش می‌کند"
+      ]
+    },
+    {
+      "EnglishWord": "asset",
+      "Meanings": [
+        "دارایی",
+        "سرمایه"
+      ]
+    },
+    {
+      "EnglishWord": "assignable causes",
+      "Meanings": [
+        "انحرافات با دلیل",
+        "انحرافاتی که به دلیل وجود عامل و یا عوامل خاصی بوجود می‌آیند که می‌توان با شناسایی آن عوامل",
+        "انحرافات بوجود آمده را حذف کرد"
+      ]
+    },
+    {
+      "EnglishWord": "assignee",
+      "Meanings": [
+        "عامل",
+        "گماشته",
+        "وکیل",
+        "گمارده"
+      ]
+    },
+    {
+      "EnglishWord": "assignment",
+      "Meanings": [
+        "تخصیص",
+        "گمارش",
+        "ماموریت دادن",
+        "واگذاری",
+        "کارگماری"
+      ]
+    },
+    {
+      "EnglishWord": "assumption",
+      "Meanings": [
+        "مفروضات",
+        "عوامل",
+        "اثرات",
+        "وضعیت‌ها و یا شرایط خارجی که برای موفقیت پروه ضروری هستند. مفروضات عوامل خارجی هستند که احنمال رخداد آنها کاملا‌محتمل ولی قطعی نیست و برای موقیت پروژه یا برنامه ضروری است",
+        "اما تا حد زیادی خارج از کنترل مدیریت پروژه هستند"
+      ]
+    },
+    {
+      "EnglishWord": "assurance",
+      "Meanings": [
+        "تضمین",
+        "اطمینان",
+        "تعهد",
+        "اعتماد"
+      ]
+    },
+    {
+      "EnglishWord": "attractive",
+      "Meanings": [
+        "جذاب",
+        "دلکش",
+        "دلربا"
+      ]
+    },
+    {
+      "EnglishWord": "audit",
+      "Meanings": [
+        "ممیزی",
+        "بازبینی"
+      ]
+    },
+    {
+      "EnglishWord": "audit client",
+      "Meanings": [
+        "متقاضی ممیزی"
+      ]
+    },
+    {
+      "EnglishWord": "audit criteria",
+      "Meanings": [
+        "معیار ممیزی"
+      ]
+    },
+    {
+      "EnglishWord": "auditee",
+      "Meanings": [
+        "ممیزی شونده"
+      ]
+    },
+    {
+      "EnglishWord": "augment",
+      "Meanings": [
+        "تکمیل کردن",
+        "زیاد کردن",
+        "گسترده",
+        "الحاقی"
+      ]
+    },
+    {
+      "EnglishWord": "authorized",
+      "Meanings": [
+        "مجاز",
+        "مصوب"
+      ]
+    },
+    {
+      "EnglishWord": "authorized but unnegotiated changes",
+      "Meanings": [
+        "کارهای مصوب مذاکره نشده"
+      ]
+    },
+    {
+      "EnglishWord": "autocompensation",
+      "Meanings": [
+        "جبران خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "autocorrelation",
+      "Meanings": [
+        "خود همبستگی"
+      ]
+    },
+    {
+      "EnglishWord": "automated material handling system  amhs",
+      "Meanings": [
+        "سیستم خودکار جابجایی مواد"
+      ]
+    },
+    {
+      "EnglishWord": "automated storage and retrieval system  as/rs",
+      "Meanings": [
+        "سیستم انباشت و برداشت خودکار",
+        "سیستم ذخیره و بازیابی خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "automatic",
+      "Meanings": [
+        "خودکار",
+        "اتوماتیک"
+      ]
+    },
+    {
+      "EnglishWord": "automatic guided vehicle  agv",
+      "Meanings": [
+        "وسایل حمل و نقل خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "automation",
+      "Meanings": [
+        "خودکار سازی",
+        "اتوماسیون",
+        "مجهز کردن به وسایل خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "autonomation",
+      "Meanings": [
+        "خود گردانش",
+        "انتقال هوش انسانی به ماشین",
+        "سیستم توقف خودکار",
+        "جیدوکا",
+        "انتقال هوش انسانی به ماشین آلات خودکار به طوریکه ماشین‌ها در مقابل تولید یک قطعه معیوب حساس باشند و در حالیکه کمک می‌طلبند به طور خودکار متوقف می‌شوند"
+      ]
+    },
+    {
+      "EnglishWord": "autonomous maintenance  am",
+      "Meanings": [
+        "نگهداری و تعمیرات خودگردان مستقل",
+        "سیستمی که در آن انجام نگهداری و تعمیرات دستگاه بر عهده خود اپراتور دستگاه انجام می‌پذیرد"
+      ]
+    },
+    {
+      "EnglishWord": "autoregression",
+      "Meanings": [
+        "خود برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary",
+      "Meanings": [
+        "معین",
+        "مشخص",
+        "کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "available to promise  atp",
+      "Meanings": [
+        "موجودی قول دادنی"
+      ]
+    },
+    {
+      "EnglishWord": "average sample number asn",
+      "Meanings": [
+        "تعداد متوسط نمونه‌های گرفته شده"
+      ]
+    },
+    {
+      "EnglishWord": "avoid",
+      "Meanings": [
+        "اجتناب کردن",
+        "ممانعت کردن",
+        "جلوگیری کردن"
+      ]
+    }
+  ]
+}

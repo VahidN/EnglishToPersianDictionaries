@@ -1,0 +1,554 @@
+﻿{
+  "Group": "D",
+  "Entries": 91,
+  "Words": [
+    {
+      "EnglishWord": "daily activities report",
+      "Meanings": [
+        "ﮔﺰارش ﻓﻌﺎﻟﻴﺖ هاﯼ روزاﻧﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "damages",
+      "Meanings": [
+        "ﺧﺴﺎرات"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "اﻃﻼﻋﺎت"
+      ]
+    },
+    {
+      "EnglishWord": "data base",
+      "Meanings": [
+        "ﭘﺎﯾﮕﺎﻩ دادﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "data dependency",
+      "Meanings": [
+        "ﺑﺴﺘﮕﯽ دادﻩ ها"
+      ]
+    },
+    {
+      "EnglishWord": "data model",
+      "Meanings": [
+        "ﻣﺪل اﻃﻼﻋﺎت"
+      ]
+    },
+    {
+      "EnglishWord": "data processing",
+      "Meanings": [
+        "دادﻩ ﭘﺮدازﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "database",
+      "Meanings": [
+        "ﺑﺎﻧﮏ اﻃﻼﻋﺎﺗﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "day work",
+      "Meanings": [
+        "روز ﮐﺎرﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "dead line",
+      "Meanings": [
+        "ﺿﺮب اﻟﻌﺠﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "dealer",
+      "Meanings": [
+        "دﻻل"
+      ]
+    },
+    {
+      "EnglishWord": "decentralization",
+      "Meanings": [
+        "ﺗﻤﺮﮐﺰ زداﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "deceptive advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت دروﻏﻴﻦ"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "ﺗﺼﻤﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "decision making",
+      "Meanings": [
+        "ﺗﺼﻤﻴﻢ ﮔﻴﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "decision making under certainty",
+      "Meanings": [
+        "ﺗﺼﻤﻴﻢ ﮔﻴﺮﯼ در ﺷﺮاﯾﻂ اﻃﻤﻴﻨﺎن"
+      ]
+    },
+    {
+      "EnglishWord": "decision model",
+      "Meanings": [
+        "ﻣﺪل ﺗﺼﻤﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree",
+      "Meanings": [
+        "درﺧﺖ ﺗﺼﻤﻴﻢ ﮔﻴﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "decoding",
+      "Meanings": [
+        "رﻣﺰ ﮔﺸﺎﯾﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "deduction",
+      "Meanings": [
+        "ﻗﻴﺎس"
+      ]
+    },
+    {
+      "EnglishWord": "defensive advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت دﻓﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "defensive cells",
+      "Meanings": [
+        "ﺳﻠﻮل هاﯼ دﻓﺎﻋﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "defined",
+      "Meanings": [
+        "ﺗﻌﺮﯾﻒ ﺷﺪﻩ",
+        "ﺗﻌﺮﯾﻒ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "deflation",
+      "Meanings": [
+        "رﮐﻮد"
+      ]
+    },
+    {
+      "EnglishWord": "delegate",
+      "Meanings": [
+        "ﺗﻔﻮﯾﺾ ﮐﺮدن اﺧﺘﻴﺎر"
+      ]
+    },
+    {
+      "EnglishWord": "delegation",
+      "Meanings": [
+        "ﺗﻔﻮﯾﺾ"
+      ]
+    },
+    {
+      "EnglishWord": "delegation of authority",
+      "Meanings": [
+        "ﺗﻔﻮﯾﺾ اﺧﺘﻴﺎر"
+      ]
+    },
+    {
+      "EnglishWord": "deliverables schedule",
+      "Meanings": [
+        "اوﻟﻮﯾﺖ ﺗﺤﻮﯾﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "delivery",
+      "Meanings": [
+        "ﺗﺤﻮﯾﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "delivery bank",
+      "Meanings": [
+        "ﺳﮑﻮﯼ درﯾﺎﻓﺖ"
+      ]
+    },
+    {
+      "EnglishWord": "delivery bay",
+      "Meanings": [
+        "ﺳﮑﻮﯼ ﺗﺤﻮﯾﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "delivery charge",
+      "Meanings": [
+        "هزﯾﻨﻪ هاﯼ ﺗﺤﻮﯾﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "delivery date",
+      "Meanings": [
+        "ﺗﺎرﯾﺦ ﺗﺤﻮﯾﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "demand",
+      "Meanings": [
+        "ﺗﻘﺎﺿﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "demand curve",
+      "Meanings": [
+        "ﻣﻨﺤﻨﯽ ﯾﺎدﮔﻴﺮﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "demand forecasting",
+      "Meanings": [
+        "ﭘﻴﺶ ﺑﻴﻨﯽ ﺗﻘﺎﺿﺎ"
+      ]
+    },
+    {
+      "EnglishWord": "democratic",
+      "Meanings": [
+        "ﻣﺮدم ﺳﺎﻻر"
+      ]
+    },
+    {
+      "EnglishWord": "demography",
+      "Meanings": [
+        "ﻣﻄﺎﻟﻌﺎت ﺟﻤﻌﻴﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "department",
+      "Meanings": [
+        "ﺑﺨﺶ"
+      ]
+    },
+    {
+      "EnglishWord": "departmentation",
+      "Meanings": [
+        "ﺑﺨﺶ ﺑﺨﺶ ﮐﺮدن"
+      ]
+    },
+    {
+      "EnglishWord": "dependent variable",
+      "Meanings": [
+        "ﻋﺎﻣﻞ واﺑﺴﺘﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "deployment",
+      "Meanings": [
+        "ﺁراﯾﺶ"
+      ]
+    },
+    {
+      "EnglishWord": "depreciation",
+      "Meanings": [
+        "اﺳﺘﻬﻼﮎ"
+      ]
+    },
+    {
+      "EnglishWord": "descriptive label",
+      "Meanings": [
+        "ﺑﺮﭼﺴﺐ ﻣﻌﺮﻓﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "desk survey",
+      "Meanings": [
+        "ﺗﺤﻘﻴﻘﺎت ﮐﺘﺎﺑﺨﺎﻧﻪ اﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "destructive child ego state",
+      "Meanings": [
+        "ﺣﺎﻟﺖ ﻣﻦ ﮐﻮدﮐﯽ ﻣﺨﺮب"
+      ]
+    },
+    {
+      "EnglishWord": "development",
+      "Meanings": [
+        "ﺗﻮﺳﻌﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "development pro",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ ﺗﻮﺳﻌﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "developmental marketing",
+      "Meanings": [
+        "ﺗﻮﺳﻌﻪ ﺑﺎزار"
+      ]
+    },
+    {
+      "EnglishWord": "deviation",
+      "Meanings": [
+        "اﻧﺤﺮاف"
+      ]
+    },
+    {
+      "EnglishWord": "dfd",
+      "Meanings": [
+        "ﻧﻤﻮدار ﺟﺮﯾﺎن اﻃﻼﻋﺎت"
+      ]
+    },
+    {
+      "EnglishWord": "dichotomy",
+      "Meanings": [
+        "دوﮔﺎﻧﮕﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "differential advantage",
+      "Meanings": [
+        "ﻣﺰاﯾﺎﯼ رﻗﺎﺑﺘﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "differentiation",
+      "Meanings": [
+        "ﺗﻤﺎﯾﺰ"
+      ]
+    },
+    {
+      "EnglishWord": "direct close",
+      "Meanings": [
+        "ارﺗﺒﺎط ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct competition",
+      "Meanings": [
+        "رﻗﺎﺑﺖ ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct contact",
+      "Meanings": [
+        "ﺗﻤﺎس ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct costs",
+      "Meanings": [
+        "هزﯾﻨﻪ ﻣﺴﻴﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct investment",
+      "Meanings": [
+        "ﺳﺮﻣﺎﯾﻪ ﮔﺬارﯼ ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct labor",
+      "Meanings": [
+        "دﺳﺘﻤﺰد ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "direct selling",
+      "Meanings": [
+        "ﻓﺮوش ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "directing",
+      "Meanings": [
+        "ادارﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "direction",
+      "Meanings": [
+        "ﻣﺴﻴﺮ"
+      ]
+    },
+    {
+      "EnglishWord": "director",
+      "Meanings": [
+        "ﻣﺪﯾﺮ"
+      ]
+    },
+    {
+      "EnglishWord": "director report",
+      "Meanings": [
+        "ﮔﺰارش هییت ﻣﺪﯾﺮﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "disbenefit",
+      "Meanings": [
+        "ﺿﺮر"
+      ]
+    },
+    {
+      "EnglishWord": "discipline",
+      "Meanings": [
+        "اﻧﻀﺒﺎط"
+      ]
+    },
+    {
+      "EnglishWord": "discounted",
+      "Meanings": [
+        "ﺗﺨﻔﻴﻒ"
+      ]
+    },
+    {
+      "EnglishWord": "discounted cash flow",
+      "Meanings": [
+        "ﺗﻨﺰﯾﻞ ﺟﺮﯾﺎن ﻧﻘﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "distinctive compence",
+      "Meanings": [
+        "ﺷﺎﯾﺴﺘﮕﯽ ﻣﺘﻤﺎﯾﺰ"
+      ]
+    },
+    {
+      "EnglishWord": "distinctiveness",
+      "Meanings": [
+        "اﺧﺘﺼﺎص رﻓﺘﺎر ﺧﺎص"
+      ]
+    },
+    {
+      "EnglishWord": "distribution",
+      "Meanings": [
+        "ﺗﻮزﯾﻊ"
+      ]
+    },
+    {
+      "EnglishWord": "distribution costs",
+      "Meanings": [
+        "هزینه‌های ﺣﻤﻞ"
+      ]
+    },
+    {
+      "EnglishWord": "district sales manager",
+      "Meanings": [
+        "ﻣﺪﯾﺮ ﻓﺮوش ﺷﻌﺒﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "diversification",
+      "Meanings": [
+        "ﺗﻨﻮع ﺑﺨﺸﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "divest strategy",
+      "Meanings": [
+        "اﺳﺘﺮاﺗﮋﯼ ﺗﺮﮎ"
+      ]
+    },
+    {
+      "EnglishWord": "divisibility",
+      "Meanings": [
+        "ﺗﻘﺴﻴﻢ ﺷﺪن"
+      ]
+    },
+    {
+      "EnglishWord": "document",
+      "Meanings": [
+        "ﺳﻨﺪ"
+      ]
+    },
+    {
+      "EnglishWord": "domestic",
+      "Meanings": [
+        "داﺧﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "door-to-door selling",
+      "Meanings": [
+        "ﻓﺮوش ﻣﺴﺘﻘﻴﻢ"
+      ]
+    },
+    {
+      "EnglishWord": "double time",
+      "Meanings": [
+        "دو ﺷﻴﻔﺘﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "down sizing",
+      "Meanings": [
+        "ﮐﻮﭼﮏ ﺳﺎزﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "draft",
+      "Meanings": [
+        "ﺣﻮاﻟﻪ"
+      ]
+    },
+    {
+      "EnglishWord": "drawer",
+      "Meanings": [
+        "ﺻﺎدر ﮐﻨﻨﺪﻩ"
+      ]
+    },
+    {
+      "EnglishWord": "drip advertising",
+      "Meanings": [
+        "ﺗﺒﻠﻴﻐﺎت ﭼﮑﻪ اﯼ"
+      ]
+    },
+    {
+      "EnglishWord": "drive",
+      "Meanings": [
+        "ﻧﻴﺮوﯼ ﻣﺤﺮﮎ"
+      ]
+    },
+    {
+      "EnglishWord": "drummers",
+      "Meanings": [
+        "ﻓﺮوﺷﻨﺪﮔﺎن دورﻩ ﮔﺮد"
+      ]
+    },
+    {
+      "EnglishWord": "due",
+      "Meanings": [
+        "ﺑﺪهی"
+      ]
+    },
+    {
+      "EnglishWord": "dumping",
+      "Meanings": [
+        "ﻗﻴﻤﺖ ﺷﮑﻨﯽ",
+        "ﻓﺮوش زﯾﺮ ﻗﻴﻤﺖ داﺧﻠﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "duty",
+      "Meanings": [
+        "ﺣﻘﻮق ﺑﺎزﮔﺎﻧﯽ"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "ﺑﺮﻧﺎﻣﻪ رﯾﺰﯼ ﭘﻮﯾﺎ"
+      ]
+    }
+  ]
+}

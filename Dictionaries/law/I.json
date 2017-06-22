@@ -1,0 +1,2520 @@
+﻿{
+  "Group": "I",
+  "Entries": 357,
+  "Words": [
+    {
+      "EnglishWord": "icc    international chamber of commerce",
+      "Meanings": [
+        "اتاق بازرگانی بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "icj    international court of justice",
+      "Meanings": [
+        "دیوان بین المللی دادگستری"
+      ]
+    },
+    {
+      "EnglishWord": "identify",
+      "Meanings": [
+        "هویت"
+      ]
+    },
+    {
+      "EnglishWord": "identify    n. identification",
+      "Meanings": [
+        "مشخص کردن",
+        "شناسایی کردن",
+        "تشخیص هویت"
+      ]
+    },
+    {
+      "EnglishWord": "ignoranti juris non excusat    lat.",
+      "Meanings": [
+        "جهل به قانون رافع مسیولیت نیست"
+      ]
+    },
+    {
+      "EnglishWord": "ignorantia legis neminem excusat    lat.",
+      "Meanings": [
+        "جهل به قانون رافع مسیولیت نیست"
+      ]
+    },
+    {
+      "EnglishWord": "illegal",
+      "Meanings": [
+        "غیر قانونی",
+        "خلاف قانون",
+        "نامشروع"
+      ]
+    },
+    {
+      "EnglishWord": "illegal condition    see also  illicit condition",
+      "Meanings": [
+        "شرط خلاف قانون",
+        "شرط نامشروع"
+      ]
+    },
+    {
+      "EnglishWord": "illegality",
+      "Meanings": [
+        "غیر قانونی بودن",
+        "خلاف قانون بودن",
+        "عدم مشروعیت"
+      ]
+    },
+    {
+      "EnglishWord": "illegitimate",
+      "Meanings": [
+        "ناشروع",
+        "ناحق",
+        "حرامزاده"
+      ]
+    },
+    {
+      "EnglishWord": "illicit",
+      "Meanings": [
+        "غیر مجاز",
+        "غیر قانونی",
+        "ممنوع"
+      ]
+    },
+    {
+      "EnglishWord": "illicit condition    see also  illegal condition",
+      "Meanings": [
+        "شرط خلاف قانون",
+        "شرط نامشروع"
+      ]
+    },
+    {
+      "EnglishWord": "illusory trust",
+      "Meanings": [
+        "امانت صوری"
+      ]
+    },
+    {
+      "EnglishWord": "ill-will",
+      "Meanings": [
+        "سوء نیت",
+        "خصومت"
+      ]
+    },
+    {
+      "EnglishWord": "imf    international monetary found",
+      "Meanings": [
+        "صندوق بین المللی پول"
+      ]
+    },
+    {
+      "EnglishWord": "immaterial",
+      "Meanings": [
+        "نامربوط",
+        "غیر مرتبط",
+        "بی اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "immediate cause    see also  causa causans",
+      "Meanings": [
+        "علت بلافصل یا مستقیم آخرین حلقه در سلسله علیت"
+      ]
+    },
+    {
+      "EnglishWord": "immediate issue",
+      "Meanings": [
+        "فرزند بلافصل"
+      ]
+    },
+    {
+      "EnglishWord": "immoral",
+      "Meanings": [
+        "خلاف اخلاق"
+      ]
+    },
+    {
+      "EnglishWord": "immoral conduct",
+      "Meanings": [
+        "رفتار خلاف اخلاق حسنه"
+      ]
+    },
+    {
+      "EnglishWord": "immoral contract",
+      "Meanings": [
+        "قرارداد خلاف اخلاق حسنه"
+      ]
+    },
+    {
+      "EnglishWord": "immovability property",
+      "Meanings": [
+        "اموال غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "immovables",
+      "Meanings": [
+        "اموال غیر منقول"
+      ]
+    },
+    {
+      "EnglishWord": "immune",
+      "Meanings": [
+        "مصون"
+      ]
+    },
+    {
+      "EnglishWord": "immune to hold",
+      "Meanings": [
+        "مصون داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "immunity",
+      "Meanings": [
+        "مصونیت"
+      ]
+    },
+    {
+      "EnglishWord": "impanel a jury    var. empanel",
+      "Meanings": [
+        "انتخاب کردن اعضای هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "imparl",
+      "Meanings": [
+        "اجازه دادگاه به طرفین جهت حل و فصل مسالمت آمیز دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "imparlance",
+      "Meanings": [
+        "مهلت دادگاه به خوانده جهت ارایه دفاعیه",
+        "تمدید مهلت یک طرف بدون رضایت طرف دیگر",
+        "جهت تسلیم پاسخ یا دفاعیه"
+      ]
+    },
+    {
+      "EnglishWord": "impartial",
+      "Meanings": [
+        "بی طرف"
+      ]
+    },
+    {
+      "EnglishWord": "impartiality",
+      "Meanings": [
+        "بی طرفی"
+      ]
+    },
+    {
+      "EnglishWord": "impasse    in negotiations",
+      "Meanings": [
+        "بن بست در مذاکرات"
+      ]
+    },
+    {
+      "EnglishWord": "impeach    n. impeachment",
+      "Meanings": [
+        "متهم کردن",
+        "تحت تعقیب قرار دادن",
+        "انکار کردن",
+        "علیه مامور دولت اعلام جرم کردن",
+        "جرح کردن شاهد",
+        "اعتراض کردن",
+        "مورد تردید قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "impede justice",
+      "Meanings": [
+        "مانع اجرای عدالت شدن"
+      ]
+    },
+    {
+      "EnglishWord": "impediment    v. impede",
+      "Meanings": [
+        "حجر",
+        "محظور",
+        "مانع"
+      ]
+    },
+    {
+      "EnglishWord": "imperative law",
+      "Meanings": [
+        "قانون امری",
+        "قانون الزامی"
+      ]
+    },
+    {
+      "EnglishWord": "imperative rules of law",
+      "Meanings": [
+        "مقررات الزامی",
+        "مقررات امری"
+      ]
+    },
+    {
+      "EnglishWord": "imperfect obligations",
+      "Meanings": [
+        "تعهدات اخلاقی که ضمانت اجرای قانون ندارند"
+      ]
+    },
+    {
+      "EnglishWord": "imperfect ownership",
+      "Meanings": [
+        "مالکیت محدود"
+      ]
+    },
+    {
+      "EnglishWord": "imperil    n. imperilment     see also  peril risk serious danger",
+      "Meanings": [
+        "به مخاطره انداختن"
+      ]
+    },
+    {
+      "EnglishWord": "imperium    lat.",
+      "Meanings": [
+        "صلاحیت قضایی",
+        "حاکمیت مطلق",
+        "قدرت مطلقه"
+      ]
+    },
+    {
+      "EnglishWord": "impertinent",
+      "Meanings": [
+        "نامربوط",
+        "بی ربط"
+      ]
+    },
+    {
+      "EnglishWord": "implead",
+      "Meanings": [
+        "جلب ثالث",
+        "اقامه کردن دعوی",
+        "تحت تعقیب قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "impleader",
+      "Meanings": [
+        "دعوی جلب ثالث"
+      ]
+    },
+    {
+      "EnglishWord": "implement    n. implementation",
+      "Meanings": [
+        "اجرا کردن",
+        "انجام دادن"
+      ]
+    },
+    {
+      "EnglishWord": "implied",
+      "Meanings": [
+        "ضمنی",
+        "فرضی",
+        "استنباطی",
+        "حکمی"
+      ]
+    },
+    {
+      "EnglishWord": "implied acceptance",
+      "Meanings": [
+        "قبولی ضمنی",
+        "قبولی فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "implied consent",
+      "Meanings": [
+        "رضایت ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "implied contract",
+      "Meanings": [
+        "عقد ضمنی",
+        "عقد فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "implied malice    see also  constructive malice legal malice malice in law",
+      "Meanings": [
+        "سوء نیت فرضی",
+        "سوء نیت استنباطی"
+      ]
+    },
+    {
+      "EnglishWord": "implied partnership",
+      "Meanings": [
+        "مشارکت ضمنی یا فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "implied power   s",
+      "Meanings": [
+        "اختیارات ضمنی یا فرضی"
+      ]
+    },
+    {
+      "EnglishWord": "implied trust    see also  constructive trust presumptive trust resulting trust",
+      "Meanings": [
+        "امانت ضمنی",
+        "امانت حکمی",
+        "امانت قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "implied warranty",
+      "Meanings": [
+        "تعهد یا قبول ضمنی"
+      ]
+    },
+    {
+      "EnglishWord": "import license",
+      "Meanings": [
+        "جواز واردات"
+      ]
+    },
+    {
+      "EnglishWord": "impose    n. imposition",
+      "Meanings": [
+        "وضع کردن",
+        "تحمیل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "impossibility of performance    see also  frustration",
+      "Meanings": [
+        "عدم امکان اجرای قرارداد یا ایفای تعهد",
+        "انتفای قرارداد یا تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "impossible condition",
+      "Meanings": [
+        "شرط غیر مقدور",
+        "شرط محال",
+        "شرط ممتنع"
+      ]
+    },
+    {
+      "EnglishWord": "impound    n. impoundment",
+      "Meanings": [
+        "توقیف یا ضبط کردن مدارک یا اموال",
+        "مسدود کردن حساب"
+      ]
+    },
+    {
+      "EnglishWord": "impower    var. empower",
+      "Meanings": [
+        "اختیار دادن",
+        "اجازه دادن"
+      ]
+    },
+    {
+      "EnglishWord": "imprescriptibility",
+      "Meanings": [
+        "عدم شمول مرور زمان",
+        "عدم سقوط حق با وجود مرور زمان"
+      ]
+    },
+    {
+      "EnglishWord": "imprescriptible rights",
+      "Meanings": [
+        "حقوق غیر قابل اسقاط در اثر مرور زمان"
+      ]
+    },
+    {
+      "EnglishWord": "imprest account",
+      "Meanings": [
+        "حساب تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "imprest fund",
+      "Meanings": [
+        "وجوه تنخواه گردان"
+      ]
+    },
+    {
+      "EnglishWord": "imprison    n. imprisonment     see also  incarcerate",
+      "Meanings": [
+        "زندانی کردن",
+        "حبس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "imprisonment on pain of",
+      "Meanings": [
+        "با کیفر حبس"
+      ]
+    },
+    {
+      "EnglishWord": "imprisonment with hard labor    see also  penal servitude",
+      "Meanings": [
+        "حبس با اعمال شاقه"
+      ]
+    },
+    {
+      "EnglishWord": "improve",
+      "Meanings": [
+        "اصلاح کردن",
+        "تبدیل به احسن کردن",
+        "بالا بردن یا بالا رفتن ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "improve    land or property",
+      "Meanings": [
+        "احیای اراضی موات",
+        "آباد کردن ملک یا زمین"
+      ]
+    },
+    {
+      "EnglishWord": "improvements",
+      "Meanings": [
+        "مستحدثات",
+        "اصلاحات"
+      ]
+    },
+    {
+      "EnglishWord": "impugn",
+      "Meanings": [
+        "تکذیب کردن",
+        "رد کردن",
+        "مورد اعتراض قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "impugn someone's reputation",
+      "Meanings": [
+        "به اعتبار و حیثیت کسی لطمه زدن"
+      ]
+    },
+    {
+      "EnglishWord": "impute    n. imputation",
+      "Meanings": [
+        "نسبت دادن",
+        "اسناد کردن",
+        "منتسب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "imputed negligence",
+      "Meanings": [
+        "قصور انتسابی"
+      ]
+    },
+    {
+      "EnglishWord": "in abeyance",
+      "Meanings": [
+        "متروک",
+        "مسکوت",
+        "بلاتکلیف",
+        "معلق"
+      ]
+    },
+    {
+      "EnglishWord": "in absentia    lat.",
+      "Meanings": [
+        "غیابی"
+      ]
+    },
+    {
+      "EnglishWord": "in action chose / right / things    see also  chose in action incorporeal property right in action things in action",
+      "Meanings": [
+        "حق متنازع فیه",
+        "حق موضوع دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "in arrears    see also  overdue past-due",
+      "Meanings": [
+        "معوق",
+        "موعد گذشته",
+        "عقب افتاده"
+      ]
+    },
+    {
+      "EnglishWord": "in banc session    lat.     var. en banc session",
+      "Meanings": [
+        "جلسه هیات عمومی قضات"
+      ]
+    },
+    {
+      "EnglishWord": "in blank",
+      "Meanings": [
+        "برات بدون قید نام ذینفع",
+        "تکمیل نشده فرم یا سند"
+      ]
+    },
+    {
+      "EnglishWord": "in camera    lat.",
+      "Meanings": [
+        "محرمانه",
+        "غیر علنی"
+      ]
+    },
+    {
+      "EnglishWord": "in common",
+      "Meanings": [
+        "مشاع",
+        "مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "in common to hold",
+      "Meanings": [
+        "مشترکا یا به صورت اشاعه مالک بودن"
+      ]
+    },
+    {
+      "EnglishWord": "in default",
+      "Meanings": [
+        "قاصر",
+        "متخلف",
+        "خاطی"
+      ]
+    },
+    {
+      "EnglishWord": "in default of    see also  in the absence of",
+      "Meanings": [
+        "در غیاب"
+      ]
+    },
+    {
+      "EnglishWord": "in default of acceptance",
+      "Meanings": [
+        "در صورت عدم قبولی",
+        "در صورت نکول برات"
+      ]
+    },
+    {
+      "EnglishWord": "in delicto    lat.",
+      "Meanings": [
+        "متخلف",
+        "خاطی",
+        "قاصر"
+      ]
+    },
+    {
+      "EnglishWord": "in effect",
+      "Meanings": [
+        "نافذ",
+        "معتبر",
+        "موثر",
+        "عملا"
+      ]
+    },
+    {
+      "EnglishWord": "in esse    lat.",
+      "Meanings": [
+        "موجود"
+      ]
+    },
+    {
+      "EnglishWord": "in failing circumstances",
+      "Meanings": [
+        "معسر",
+        "ورشکسته",
+        "در شرف ورشکستگی"
+      ]
+    },
+    {
+      "EnglishWord": "in fine    lat.",
+      "Meanings": [
+        "در قسمت اخیر",
+        "بخش اخر ماده",
+        "فصل",
+        "کتاب"
+      ]
+    },
+    {
+      "EnglishWord": "in force",
+      "Meanings": [
+        "نافذ",
+        "معتبر",
+        "مجری",
+        "دارای قوت قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "in fraudem legis    lat.",
+      "Meanings": [
+        "به قصد فرار از قانون"
+      ]
+    },
+    {
+      "EnglishWord": "in futuro    lat.",
+      "Meanings": [
+        "در آینده"
+      ]
+    },
+    {
+      "EnglishWord": "in infinitum    lat.     see also  ad infinitum",
+      "Meanings": [
+        "الی الابد",
+        "برای همیشه",
+        "الی غیرالنهایه"
+      ]
+    },
+    {
+      "EnglishWord": "in issue    var. at issue",
+      "Meanings": [
+        "متنازع فیه",
+        "مورد اختلاف",
+        "در دست رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "in jure    lat.",
+      "Meanings": [
+        "طبق قانون"
+      ]
+    },
+    {
+      "EnglishWord": "in limine    lat.",
+      "Meanings": [
+        "بدوا",
+        "مقدمتا"
+      ]
+    },
+    {
+      "EnglishWord": "in limine motion    lat.",
+      "Meanings": [
+        "درخواست عدم پذیرش مطالب خارج از موضوع در محاکمه"
+      ]
+    },
+    {
+      "EnglishWord": "in loco    lat.",
+      "Meanings": [
+        "در محل معین یا صحیح",
+        "به جای",
+        "در مقام"
+      ]
+    },
+    {
+      "EnglishWord": "in loco parentis    lat.",
+      "Meanings": [
+        "در مقام ولی یا قیم"
+      ]
+    },
+    {
+      "EnglishWord": "in pais    lat.     var. pays",
+      "Meanings": [
+        "خارج از دادگاه",
+        "بدون مراجعه به دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "in pari delicto    lat.",
+      "Meanings": [
+        "دارای تقصیر برابر"
+      ]
+    },
+    {
+      "EnglishWord": "in pari delicto potior est condition defendentis    lat.",
+      "Meanings": [
+        "در صورت برابری تقصیر طرفین",
+        "خوانده یا متصرف در موقعیت برتر قرار خواهد داشت"
+      ]
+    },
+    {
+      "EnglishWord": "in pari materia    lat.",
+      "Meanings": [
+        "راجع به همان موضوع یا مطلب"
+      ]
+    },
+    {
+      "EnglishWord": "in parte sive in solidum    lat.",
+      "Meanings": [
+        "بعضا یا کلا"
+      ]
+    },
+    {
+      "EnglishWord": "in pays    lat.     var. in pais",
+      "Meanings": [
+        "خارج از دادگاه",
+        "بدون مراجعه به دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "in perpetuity",
+      "Meanings": [
+        "الی الابد",
+        "دایمی",
+        "برای همیشه"
+      ]
+    },
+    {
+      "EnglishWord": "in personam    lat.",
+      "Meanings": [
+        "علیه شخص",
+        "نسبت به شخص"
+      ]
+    },
+    {
+      "EnglishWord": "in personam action    lat.     see also  personal action",
+      "Meanings": [
+        "دعوی عینی",
+        "دعوای مطروح علیه شخص",
+        "دعوای شخصی"
+      ]
+    },
+    {
+      "EnglishWord": "in personam jurisdiction    lat.     var. jurisdiction in personam     see also  personal jurisdiction",
+      "Meanings": [
+        "صلاحیت نسبت به شخص خوانده"
+      ]
+    },
+    {
+      "EnglishWord": "in pleno session    lat.",
+      "Meanings": [
+        "جلسه دادگاه با حضور کلیه قضات",
+        "هیات عمومی قضات"
+      ]
+    },
+    {
+      "EnglishWord": "in posse    lat.",
+      "Meanings": [
+        "بالقوه",
+        "محتمل الوجود"
+      ]
+    },
+    {
+      "EnglishWord": "in praesenti    lat.",
+      "Meanings": [
+        "در حال حاضر"
+      ]
+    },
+    {
+      "EnglishWord": "in principio    lat.",
+      "Meanings": [
+        "در بدو امر",
+        "در آغاز",
+        "در ابتدا"
+      ]
+    },
+    {
+      "EnglishWord": "in propria causa nemo judex    lat.",
+      "Meanings": [
+        "کسی نمی‌تواند قاضی دعوی خود باشد"
+      ]
+    },
+    {
+      "EnglishWord": "in propria persona    see also  pro se     lat.",
+      "Meanings": [
+        "اصالتا",
+        "شخصا"
+      ]
+    },
+    {
+      "EnglishWord": "in re    lat.     abbrev. re",
+      "Meanings": [
+        "راجع به",
+        "مربوط به",
+        "در موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "in rem    lat.",
+      "Meanings": [
+        "judgement var. judgement in rem in rem judgement in rem in rem judgement in rem judgement judgement in rem حکم عینی حکم تعیین تکلیف عین مال"
+      ]
+    },
+    {
+      "EnglishWord": "in rem    lat.    action",
+      "Meanings": [
+        "دعوی عینی"
+      ]
+    },
+    {
+      "EnglishWord": "in rem    lat.    jurisdiction    var. jurisdiction in rem",
+      "Meanings": [
+        "صلاحیت نسبت به مال"
+      ]
+    },
+    {
+      "EnglishWord": "in solido    lat.",
+      "Meanings": [
+        "تضامنی",
+        "متضامنا",
+        "منفردا و مشترکا"
+      ]
+    },
+    {
+      "EnglishWord": "in solidum    lat.",
+      "Meanings": [
+        "تضامنی",
+        "متضامنا",
+        "منفردا و مشترکا"
+      ]
+    },
+    {
+      "EnglishWord": "in specie    lat.",
+      "Meanings": [
+        "مشخص",
+        "مشخصا",
+        "عینا"
+      ]
+    },
+    {
+      "EnglishWord": "in specie    lat.    performance",
+      "Meanings": [
+        "اجرای عین تعهد",
+        "اجرای مستقیم تعهد"
+      ]
+    },
+    {
+      "EnglishWord": "in the absence of    see also  in default of",
+      "Meanings": [
+        "در غیاب",
+        "در نبود"
+      ]
+    },
+    {
+      "EnglishWord": "in the alternative",
+      "Meanings": [
+        "به نحو دیگر",
+        "به صورت دیگر",
+        "به وجه تخییری",
+        "در غیر این صورت"
+      ]
+    },
+    {
+      "EnglishWord": "in trust",
+      "Meanings": [
+        "به صورت امانی"
+      ]
+    },
+    {
+      "EnglishWord": "in ward",
+      "Meanings": [
+        "تحت تولیت",
+        "تحت حمایت و سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "in witness thereof",
+      "Meanings": [
+        "با تایید و تصدیق مراتب فوق"
+      ]
+    },
+    {
+      "EnglishWord": "inadmissible",
+      "Meanings": [
+        "غیر قابل قبول یا طرح",
+        "غیر مسموع",
+        "غیر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "inadvertence",
+      "Meanings": [
+        "سهو",
+        "غفلت",
+        "عدم تعمد"
+      ]
+    },
+    {
+      "EnglishWord": "inalienable    var. unalienable    rights / property",
+      "Meanings": [
+        "غیر قابل خرید و فروش یا انتقال از قبیل مشترکات عمومی یا بعضی حقوق فردی",
+        "لاینفک",
+        "جدایی ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "incapacitate    n. incapacitation",
+      "Meanings": [
+        "سلب اهلیت کردن",
+        "سلب صلاحیت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "incapacitated person",
+      "Meanings": [
+        "محجور",
+        "شخص فاقد اهلیت غیر از صغیر"
+      ]
+    },
+    {
+      "EnglishWord": "incapacity",
+      "Meanings": [
+        "حجر",
+        "عدم اهلیت",
+        "عدم صلاحیت",
+        "ناتوانی",
+        "عجز"
+      ]
+    },
+    {
+      "EnglishWord": "incarcerate    n. incarceration     see also  imprison",
+      "Meanings": [
+        "زندانی کردن",
+        "حبس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "incertae personae    lat.",
+      "Meanings": [
+        "اشخاص وراث مجهول"
+      ]
+    },
+    {
+      "EnglishWord": "incidental",
+      "Meanings": [
+        "تبعی",
+        "جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "incidental damages",
+      "Meanings": [
+        "خسارت جنبی"
+      ]
+    },
+    {
+      "EnglishWord": "incidental expenses",
+      "Meanings": [
+        "هزینه‌های متفرقه یا اتفاقی"
+      ]
+    },
+    {
+      "EnglishWord": "incite    n. incitement",
+      "Meanings": [
+        "تحریک کردن",
+        "اغوا کردن",
+        "برانگیختن"
+      ]
+    },
+    {
+      "EnglishWord": "inclusio unius est exclusio alterius    lat.",
+      "Meanings": [
+        "تصریح به امری موجب اخراج غیر است",
+        "ذکر موارد خاص موجب مستثنی شدن سایر موارد می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "income",
+      "Meanings": [
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "incompetency    var. incompetence",
+      "Meanings": [
+        "عدم صلاحیت",
+        "عدم اهلیت",
+        "حجر"
+      ]
+    },
+    {
+      "EnglishWord": "incompetent",
+      "Meanings": [
+        "فاقد صلاحیت",
+        "فاقد اهلیت",
+        "محجور"
+      ]
+    },
+    {
+      "EnglishWord": "incompetent evidence",
+      "Meanings": [
+        "ادله غیر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "inconclusive presumption    see also  rebuttable presumption",
+      "Meanings": [
+        "اماره غیر قاطع",
+        "اماره قابل رد"
+      ]
+    },
+    {
+      "EnglishWord": "incontrovertible",
+      "Meanings": [
+        "مسلم",
+        "غیر قابل انکار",
+        "غیر قابل بحث",
+        "قاطع"
+      ]
+    },
+    {
+      "EnglishWord": "incontrovertible proof",
+      "Meanings": [
+        "دلیل قاطع"
+      ]
+    },
+    {
+      "EnglishWord": "incorporate",
+      "Meanings": [
+        "شرکت یا شخصیت حقوقی تشکیل دادن",
+        "گنجاندن"
+      ]
+    },
+    {
+      "EnglishWord": "incorporate by reference",
+      "Meanings": [
+        "سندی را جزء سند دیگر اعلام کردن"
+      ]
+    },
+    {
+      "EnglishWord": "incorporation",
+      "Meanings": [
+        "شرکت",
+        "تشکیل شرکت",
+        "گنجاندن"
+      ]
+    },
+    {
+      "EnglishWord": "incorporation charter    see also  articles of incorporation certificate of incorporation charte corporate corporate charter",
+      "Meanings": [
+        "اساسنامه شرکت",
+        "اجازه تاسیس شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "incorporeal",
+      "Meanings": [
+        "غیر مادی",
+        "دینی"
+      ]
+    },
+    {
+      "EnglishWord": "incorporeal hereditaments",
+      "Meanings": [
+        "حقوق دینی قابل انتقال به ورثه"
+      ]
+    },
+    {
+      "EnglishWord": "incorporeal property    see also  chose in action right in action things in action",
+      "Meanings": [
+        "مالکیت حق دینی"
+      ]
+    },
+    {
+      "EnglishWord": "incorporeal rights",
+      "Meanings": [
+        "حقوق دینی",
+        "حقوق مالی غیر مادی"
+      ]
+    },
+    {
+      "EnglishWord": "incriminate    n. incrimination",
+      "Meanings": [
+        "به جرمی متهم کردن",
+        "گناهکار شمردن",
+        "در معرض خطر تعقیب کیفری قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "incumbency",
+      "Meanings": [
+        "تصدی",
+        "دوره تصدی",
+        "حیطه اختیار",
+        "وجوب",
+        "لزوم"
+      ]
+    },
+    {
+      "EnglishWord": "incumbent",
+      "Meanings": [
+        "متصدی",
+        "واجب یا فرض"
+      ]
+    },
+    {
+      "EnglishWord": "incumbrance    var. encumbrance",
+      "Meanings": [
+        "رهن",
+        "گرو",
+        "بدهی"
+      ]
+    },
+    {
+      "EnglishWord": "incur",
+      "Meanings": [
+        "متحمل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "incur damage / loss",
+      "Meanings": [
+        "متضرر شدن",
+        "زیان دیدن",
+        "خسارت دیدن"
+      ]
+    },
+    {
+      "EnglishWord": "indebtedness",
+      "Meanings": [
+        "بدهی",
+        "دین",
+        "مدیون بودن",
+        "بدهکار بودن"
+      ]
+    },
+    {
+      "EnglishWord": "indefeasible",
+      "Meanings": [
+        "غیر قابل لغو",
+        "غیر قابل فسخ",
+        "پابرجا"
+      ]
+    },
+    {
+      "EnglishWord": "indemnify    n. indemnification",
+      "Meanings": [
+        "غرامت دادن",
+        "جبران خسارت کردن",
+        "بری الذمه کردن",
+        "مصون داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "indemnity",
+      "Meanings": [
+        "غرامت",
+        "تاوان",
+        "مصونیت از مجازات"
+      ]
+    },
+    {
+      "EnglishWord": "indemnity bond",
+      "Meanings": [
+        "ضمانت نامه",
+        "سند تضمین خسارت"
+      ]
+    },
+    {
+      "EnglishWord": "indent",
+      "Meanings": [
+        "سفارش دادن کالا",
+        "تنظیم فرم سفارش در دو یا سه نسخه"
+      ]
+    },
+    {
+      "EnglishWord": "indenture",
+      "Meanings": [
+        "سند",
+        "قرارداد کتبی در مورد تعهدات متقابل از قبیل رهن",
+        "وثیقه",
+        "کارآموزی"
+      ]
+    },
+    {
+      "EnglishWord": "independent condition",
+      "Meanings": [
+        "شرط مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "indication",
+      "Meanings": [
+        "قرینه",
+        "اعلام",
+        "اظهار"
+      ]
+    },
+    {
+      "EnglishWord": "indication of provisional measures",
+      "Meanings": [
+        "اعلام صدور قرار موقت"
+      ]
+    },
+    {
+      "EnglishWord": "indict",
+      "Meanings": [
+        "متهم کردن از طریق صدور کیفرخواست",
+        "یا توسط هیات عالی منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "indictable offense",
+      "Meanings": [
+        "جرم قابل تعقیب"
+      ]
+    },
+    {
+      "EnglishWord": "indictment",
+      "Meanings": [
+        "کیفرخواست",
+        "ادعانامه"
+      ]
+    },
+    {
+      "EnglishWord": "indictment bill of",
+      "Meanings": [
+        "کیفرخواست",
+        "ادعانامه"
+      ]
+    },
+    {
+      "EnglishWord": "indifference",
+      "Meanings": [
+        "بی طرفی",
+        "بی غرضی",
+        "بی تفاوتی"
+      ]
+    },
+    {
+      "EnglishWord": "indifferent gentlemen",
+      "Meanings": [
+        "داوران بی طرف"
+      ]
+    },
+    {
+      "EnglishWord": "indirect damages    see also  consequential damages",
+      "Meanings": [
+        "خسارت تبعی"
+      ]
+    },
+    {
+      "EnglishWord": "indirect evidence    see also  circumstantial evidence half-proof inferential evidence presumptive evidence prima facie evidence semi-plena probatio unus nullus rule",
+      "Meanings": [
+        "قرینه و اماره",
+        "ادله و مدارک غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indispensable parties    see also  necessary parties",
+      "Meanings": [
+        "طرفهای اصلی دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "indisputable",
+      "Meanings": [
+        "غیر قابل تردید",
+        "غیر قابل بحث",
+        "مسلم"
+      ]
+    },
+    {
+      "EnglishWord": "indivisum    lat.",
+      "Meanings": [
+        "مال مشاع"
+      ]
+    },
+    {
+      "EnglishWord": "indorse    var. endorse     n. indorsement",
+      "Meanings": [
+        "ظهرنویسی کردن",
+        "تصدیق کردن",
+        "تایید کردن",
+        "امضاء کردن"
+      ]
+    },
+    {
+      "EnglishWord": "indorsed bond    var. endorsed bond     see also  assumed bond",
+      "Meanings": [
+        "سند قرضه تضمین شده"
+      ]
+    },
+    {
+      "EnglishWord": "indorsee    var. endorsee",
+      "Meanings": [
+        "ذینفع ظهرنویسی"
+      ]
+    },
+    {
+      "EnglishWord": "indorsement    var. endorsement",
+      "Meanings": [
+        "ظهرنویسی",
+        "امضاء",
+        "تصدیق",
+        "تایید"
+      ]
+    },
+    {
+      "EnglishWord": "indorsement in blank    see also  blank indorsement general indorsement",
+      "Meanings": [
+        "امضاء یا ظهرنویسی برات بدون قید نام براتگیر"
+      ]
+    },
+    {
+      "EnglishWord": "indorser    var. endorser",
+      "Meanings": [
+        "ظهرنویس",
+        "امضاء کننده",
+        "تصدیق کننده",
+        "تایید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "industrial hereditaments",
+      "Meanings": [
+        "زمین و ساختمان مورد استفاده در صنعت و تجارت"
+      ]
+    },
+    {
+      "EnglishWord": "industrial property",
+      "Meanings": [
+        "علایم تجاری و حق اختراع"
+      ]
+    },
+    {
+      "EnglishWord": "inequitable",
+      "Meanings": [
+        "غیر منصفانه",
+        "غیر عادلانه"
+      ]
+    },
+    {
+      "EnglishWord": "inevitable accident    see also  act of god force majeure vis divina vis majeure",
+      "Meanings": [
+        "حادثه اجتناب ناپذیر",
+        "حادثه قهری",
+        "قوه قهریه",
+        "فورس ماژور"
+      ]
+    },
+    {
+      "EnglishWord": "infancy",
+      "Meanings": [
+        "صغر"
+      ]
+    },
+    {
+      "EnglishWord": "infant",
+      "Meanings": [
+        "صغیر"
+      ]
+    },
+    {
+      "EnglishWord": "infer    n. inference",
+      "Meanings": [
+        "استنتاج کردن",
+        "استنباط کردن",
+        "استدلال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "inferential evidence    see also  circumstantial evidence presumptive evidence half-proof indirect evidence prima facie evidence semi-plena probatio unus rule",
+      "Meanings": [
+        "ادله و مدارک محمول بر صحت",
+        "قراین و امارات"
+      ]
+    },
+    {
+      "EnglishWord": "inferior court",
+      "Meanings": [
+        "دادگاه نخستین",
+        "دادگاه بدوی",
+        "دادگاه ابتدایی"
+      ]
+    },
+    {
+      "EnglishWord": "influence undue",
+      "Meanings": [
+        "اعمال نفوذ ناروا"
+      ]
+    },
+    {
+      "EnglishWord": "inform    on",
+      "Meanings": [
+        "لو دادن",
+        "خبرچینی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "informed award    see also  agreed award fixed award rigged award",
+      "Meanings": [
+        "حکم مرضی الطرفین",
+        "حکم سازشی"
+      ]
+    },
+    {
+      "EnglishWord": "informer",
+      "Meanings": [
+        "جاسوس",
+        "خبرچین"
+      ]
+    },
+    {
+      "EnglishWord": "infraction",
+      "Meanings": [
+        "قانون شکنی",
+        "تخلف",
+        "نقض",
+        "تعدی",
+        "قصور"
+      ]
+    },
+    {
+      "EnglishWord": "infranchise    var. enfranchise",
+      "Meanings": [
+        "آزاد کردن از تعهد",
+        "دادن حق رای",
+        "اطاعت کردن تابعیت"
+      ]
+    },
+    {
+      "EnglishWord": "infringe    n. infringement",
+      "Meanings": [
+        "تخطی کردن",
+        "تعدی کردن",
+        "تجاوز کردن",
+        "نقض کردن"
+      ]
+    },
+    {
+      "EnglishWord": "ingross    var. engross",
+      "Meanings": [
+        "تنظیم کردن متن نهایی سند یا لایحه قانونی",
+        "احتکار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "ingrossment    see also  engrossment",
+      "Meanings": [
+        "تنظیم متن نهایی سند یا لایحه قانونی",
+        "احتکار"
+      ]
+    },
+    {
+      "EnglishWord": "inherent",
+      "Meanings": [
+        "ذاتی",
+        "لاینفک",
+        "جبلی"
+      ]
+    },
+    {
+      "EnglishWord": "inherent power   s",
+      "Meanings": [
+        "اختیارات ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "inherit",
+      "Meanings": [
+        "به ارث بردن",
+        "وارث شدن"
+      ]
+    },
+    {
+      "EnglishWord": "inheritance",
+      "Meanings": [
+        "ارث",
+        "میراث",
+        "ترکه",
+        "ماترک"
+      ]
+    },
+    {
+      "EnglishWord": "inheritance tax    see also  death tax estate tax probate duty",
+      "Meanings": [
+        "مالیات بر ارث"
+      ]
+    },
+    {
+      "EnglishWord": "initial",
+      "Meanings": [
+        "پاراف کردن",
+        "اولیه",
+        "مقدماتی"
+      ]
+    },
+    {
+      "EnglishWord": "initiate    n. initiation",
+      "Meanings": [
+        "طرح کردن",
+        "معرفی کردن",
+        "آغاز کردن",
+        "آشنا کردن",
+        "پیشنهاد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "initiate proceedings / suit / action",
+      "Meanings": [
+        "طرح کردن دعوی",
+        "اقامه دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "injunction    see also  order writ",
+      "Meanings": [
+        "قرار منع"
+      ]
+    },
+    {
+      "EnglishWord": "injunctive relief    var. injunction relief",
+      "Meanings": [
+        "قرار منع"
+      ]
+    },
+    {
+      "EnglishWord": "injure    n. injury",
+      "Meanings": [
+        "متضرر ساختن",
+        "لطمه زدن",
+        "صدمه زدن"
+      ]
+    },
+    {
+      "EnglishWord": "injuria    lat.",
+      "Meanings": [
+        "اضرار",
+        "آسیب",
+        "لطمه",
+        "تعدی",
+        "تجاوز",
+        "تخطی"
+      ]
+    },
+    {
+      "EnglishWord": "injurious conduct",
+      "Meanings": [
+        "رفتار زیانبار"
+      ]
+    },
+    {
+      "EnglishWord": "inland bill    see also  home bill",
+      "Meanings": [
+        "برات داخلی براتی که در داخل کشور صادر شده و در همانجا قابل پرداخت باشد"
+      ]
+    },
+    {
+      "EnglishWord": "innocence",
+      "Meanings": [
+        "بی گناه",
+        "برایت"
+      ]
+    },
+    {
+      "EnglishWord": "innocent",
+      "Meanings": [
+        "بی گناه",
+        "بی تقصیر",
+        "مبری"
+      ]
+    },
+    {
+      "EnglishWord": "innocent misrepresentation",
+      "Meanings": [
+        "قلب واقعیت غیر عمدی"
+      ]
+    },
+    {
+      "EnglishWord": "innocent plea of",
+      "Meanings": [
+        "انکار گناه یا جرم",
+        "ادعای بی گناهی"
+      ]
+    },
+    {
+      "EnglishWord": "inns of court    br.",
+      "Meanings": [
+        "چهار کانون وکلای لندن"
+      ]
+    },
+    {
+      "EnglishWord": "inquest    see also  enquest",
+      "Meanings": [
+        "تحقیق پزشک قانونی",
+        "هیات تحقیق",
+        "تحقیق توسط هیات منصفه",
+        "رای هیات منصفه"
+      ]
+    },
+    {
+      "EnglishWord": "inquiry    var. enquiry     see also  quaere",
+      "Meanings": [
+        "تحقیق",
+        "بازجویی",
+        "استفسار"
+      ]
+    },
+    {
+      "EnglishWord": "inquisition",
+      "Meanings": [
+        "تحقیق قضایی",
+        "ورقه حاوی رای هیات منصفه",
+        "تفتیش عقاید"
+      ]
+    },
+    {
+      "EnglishWord": "insane",
+      "Meanings": [
+        "مجنون",
+        "دیوانه"
+      ]
+    },
+    {
+      "EnglishWord": "insensible condition    see also  repugnant condition",
+      "Meanings": [
+        "شرطی که خلاف مقتضای ذات عقد باشد"
+      ]
+    },
+    {
+      "EnglishWord": "insolvency",
+      "Meanings": [
+        "اعسار",
+        "ورشکستگی",
+        "توقیف"
+      ]
+    },
+    {
+      "EnglishWord": "inspect    n. inspection",
+      "Meanings": [
+        "بازرسی کردن",
+        "وارسی کردن",
+        "تفتیش کردن",
+        "معاینه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "inspector",
+      "Meanings": [
+        "بازرس",
+        "مفتش"
+      ]
+    },
+    {
+      "EnglishWord": "installment",
+      "Meanings": [
+        "قسط",
+        "پرداخت به اقساط"
+      ]
+    },
+    {
+      "EnglishWord": "instance",
+      "Meanings": [
+        "مورد",
+        "مثال"
+      ]
+    },
+    {
+      "EnglishWord": "instanter    lat.",
+      "Meanings": [
+        "بی درنگ",
+        "فورا",
+        "بلافاصله"
+      ]
+    },
+    {
+      "EnglishWord": "institute / action / proceedings / suit",
+      "Meanings": [
+        "طرح کردن دعوی",
+        "اقامه کردن دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "institution",
+      "Meanings": [
+        "موسسه",
+        "نهاد تاسیس",
+        "طرح",
+        "اقامه"
+      ]
+    },
+    {
+      "EnglishWord": "institutional arbitration",
+      "Meanings": [
+        "داوری توسط مراجع رسمی",
+        "داوری سازمانی"
+      ]
+    },
+    {
+      "EnglishWord": "instrument",
+      "Meanings": [
+        "سند",
+        "وسیله"
+      ]
+    },
+    {
+      "EnglishWord": "instrumentality",
+      "Meanings": [
+        "سازمان تابعه",
+        "دستگاه تابعه",
+        "تشکیلات"
+      ]
+    },
+    {
+      "EnglishWord": "insurance    see also  assurance life insurance",
+      "Meanings": [
+        "بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance policy",
+      "Meanings": [
+        "بیمه نامه"
+      ]
+    },
+    {
+      "EnglishWord": "insurance premium",
+      "Meanings": [
+        "حق بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "insure    see also  assure",
+      "Meanings": [
+        "بیمه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "insured",
+      "Meanings": [
+        "بیمه گذار"
+      ]
+    },
+    {
+      "EnglishWord": "insurer",
+      "Meanings": [
+        "بیمه گر"
+      ]
+    },
+    {
+      "EnglishWord": "intangible assets",
+      "Meanings": [
+        "اموال دینی",
+        "دارایی دینی"
+      ]
+    },
+    {
+      "EnglishWord": "intangibles",
+      "Meanings": [
+        "اموال دینی",
+        "دارایی دینی"
+      ]
+    },
+    {
+      "EnglishWord": "intellectual property",
+      "Meanings": [
+        "مالکیت معنوی علمی و هنری",
+        "حق معنوی"
+      ]
+    },
+    {
+      "EnglishWord": "intent",
+      "Meanings": [
+        "قصد",
+        "نیت"
+      ]
+    },
+    {
+      "EnglishWord": "inter alia    lat.",
+      "Meanings": [
+        "ضمنا",
+        "از جمله"
+      ]
+    },
+    {
+      "EnglishWord": "inter alios    lat.",
+      "Meanings": [
+        "بین سایرین",
+        "بین سایر اشخاص",
+        "بین اشخاص نا آشنا با موضوع مورد بحث"
+      ]
+    },
+    {
+      "EnglishWord": "inter partes    lat.",
+      "Meanings": [
+        "بین طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "inter partes    lat.    judgment    see also  judgment in personam",
+      "Meanings": [
+        "حکم بین طرفین دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "inter partes    lat.    papers",
+      "Meanings": [
+        "اسناد حاوی تعهدات و انتقالات متقابل طرفین"
+      ]
+    },
+    {
+      "EnglishWord": "inter se    lat.",
+      "Meanings": [
+        "بین خود ایشان"
+      ]
+    },
+    {
+      "EnglishWord": "inter sese    lat.",
+      "Meanings": [
+        "بین خود ایشان"
+      ]
+    },
+    {
+      "EnglishWord": "inter vivos    lat.",
+      "Meanings": [
+        "معامله بین اشخاص زنده"
+      ]
+    },
+    {
+      "EnglishWord": "interdependent commitments",
+      "Meanings": [
+        "تعهدات متقابل",
+        "تعهدات وابسته به هم"
+      ]
+    },
+    {
+      "EnglishWord": "interdict    n. interdiction",
+      "Meanings": [
+        "ممنوع کردن",
+        "قدغن کردن",
+        "تحریم کردن",
+        "حجر ناشی از جنون",
+        "قرار منع",
+        "قرار اعاده تصرف",
+        "قرار ارایه حسابها"
+      ]
+    },
+    {
+      "EnglishWord": "interdiction    fr.",
+      "Meanings": [
+        "حجر یا عدم اهلیت به دلیل جنون در حقوق فرانسه"
+      ]
+    },
+    {
+      "EnglishWord": "interdit    fr.",
+      "Meanings": [
+        "مجنون یا محجور در حقوق فرانسه"
+      ]
+    },
+    {
+      "EnglishWord": "interest",
+      "Meanings": [
+        "حقوق",
+        "علاقه",
+        "منفعت",
+        "منافع",
+        "بهره",
+        "نفع"
+      ]
+    },
+    {
+      "EnglishWord": "interest rate    var. rate of interest",
+      "Meanings": [
+        "نرخ بهره"
+      ]
+    },
+    {
+      "EnglishWord": "interim",
+      "Meanings": [
+        "موقت"
+      ]
+    },
+    {
+      "EnglishWord": "interim award",
+      "Meanings": [
+        "قرار موقت"
+      ]
+    },
+    {
+      "EnglishWord": "interim injunction",
+      "Meanings": [
+        "قرار موقت"
+      ]
+    },
+    {
+      "EnglishWord": "interim measures",
+      "Meanings": [
+        "قرار با اقدامات موقت"
+      ]
+    },
+    {
+      "EnglishWord": "interim measures of protection",
+      "Meanings": [
+        "اقدامات موقت حفاظتی",
+        "اقدامات تامینی در اثنای رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "interim relief    see also  relief pendente lite",
+      "Meanings": [
+        "قرار موقت",
+        "اقدامات موقت تامینی"
+      ]
+    },
+    {
+      "EnglishWord": "interlocutory",
+      "Meanings": [
+        "اعدادی"
+      ]
+    },
+    {
+      "EnglishWord": "interlocutory award / decree / injunction / order",
+      "Meanings": [
+        "قرار اعدادی"
+      ]
+    },
+    {
+      "EnglishWord": "intermediary",
+      "Meanings": [
+        "داور",
+        "میانجی",
+        "واسطه"
+      ]
+    },
+    {
+      "EnglishWord": "internal",
+      "Meanings": [
+        "داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal law    see also  domestic law municipal law territorial law",
+      "Meanings": [
+        "حقوق داخلی",
+        "قوانین داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "international",
+      "Meanings": [
+        "بین الملل",
+        "بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "international chamber of commerce    icc",
+      "Meanings": [
+        "اتاق بازرگانی بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "international claim",
+      "Meanings": [
+        "دعوای بین دو یا چند دولت"
+      ]
+    },
+    {
+      "EnglishWord": "international court of justice    icj",
+      "Meanings": [
+        "دیوان بین المللی دادگستری"
+      ]
+    },
+    {
+      "EnglishWord": "international law",
+      "Meanings": [
+        "حقوق بین الملل"
+      ]
+    },
+    {
+      "EnglishWord": "international law commission    of un",
+      "Meanings": [
+        "کمیسیون حقوق بین الملل سازمان ملل متحد"
+      ]
+    },
+    {
+      "EnglishWord": "international monetary fund    imf",
+      "Meanings": [
+        "صندوق بین المللی پول"
+      ]
+    },
+    {
+      "EnglishWord": "interpellate",
+      "Meanings": [
+        "استیضاح کردن",
+        "سوال کردن از وکیل توسط دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "interpellation",
+      "Meanings": [
+        "استیضاح",
+        "احضاریه در حقوق انگلیس",
+        "اسقاط تعهد پس از انقضای مدت معین طبق شرایط مندرج در قرارداد"
+      ]
+    },
+    {
+      "EnglishWord": "interpleader",
+      "Meanings": [
+        "دعوای طاری که در آن خوانده از دادگاه بخواهد که خواهانها را وادار کند بدوا دعوای بین خود را حل کنند تا مسیولیت مضاعف یا متعدد متوجه وی خوانده نشود"
+      ]
+    },
+    {
+      "EnglishWord": "interpolation",
+      "Meanings": [
+        "الحاق به سند یا درج در سند دخل و تصرف در سند که موجب تحریف سند شود",
+        "جای دادن عبارت یا کلمات در داخل متن"
+      ]
+    },
+    {
+      "EnglishWord": "interpret    n. interpretation",
+      "Meanings": [
+        "تفسیر کردن",
+        "تعبیر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "interpretive issue    var. interpretative issue",
+      "Meanings": [
+        "موضوع تفسیری"
+      ]
+    },
+    {
+      "EnglishWord": "interregnum",
+      "Meanings": [
+        "فترت"
+      ]
+    },
+    {
+      "EnglishWord": "interrogate    n. interrogation",
+      "Meanings": [
+        "بازپرسی کردن",
+        "بازجویی کردن",
+        "استنطاق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "interrogatories",
+      "Meanings": [
+        "تحقیق و استنطاق",
+        "مجموع سوالات کتبی که از شهود یا اطراف دعوی یا سایر اشخاص مطلع در قضیه می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "interruption    v. interrupt",
+      "Meanings": [
+        "انقطاع",
+        "وقفه",
+        "اختلال",
+        "تعطیل موقت"
+      ]
+    },
+    {
+      "EnglishWord": "interruption of prescription",
+      "Meanings": [
+        "انقطاع مرور زمان"
+      ]
+    },
+    {
+      "EnglishWord": "inter-state",
+      "Meanings": [
+        "بین الدول",
+        "بین ایالات"
+      ]
+    },
+    {
+      "EnglishWord": "intervene",
+      "Meanings": [
+        "وارد شدن ثالث",
+        "مداخله کردن",
+        "ممانعت کردن",
+        "حایل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "intervener    var. intervenor",
+      "Meanings": [
+        "وارد ثالث"
+      ]
+    },
+    {
+      "EnglishWord": "intervening cause    see also  causa sine qua non direct cause efficient cause legal cause procuring cause proximate cause",
+      "Meanings": [
+        "علت حایل بین علت نخستین و معلول که رافع مسیولیت است",
+        "مانند قوه قاهره"
+      ]
+    },
+    {
+      "EnglishWord": "intervenor    var. intervener",
+      "Meanings": [
+        "وارد ثالث"
+      ]
+    },
+    {
+      "EnglishWord": "intervention",
+      "Meanings": [
+        "ورود ثالث",
+        "مداخله",
+        "ممانعت"
+      ]
+    },
+    {
+      "EnglishWord": "intestate",
+      "Meanings": [
+        "بدون وصیت نامه",
+        "متوفای بدون وصیت نامه"
+      ]
+    },
+    {
+      "EnglishWord": "intestate to die",
+      "Meanings": [
+        "بدون وصیت نامه فوت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "intimidate    n. intimidation",
+      "Meanings": [
+        "تهدید کردن",
+        "ترساندن",
+        "مرعوب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "intra vires    lat.",
+      "Meanings": [
+        "در حدود اختیارات قانونی"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic",
+      "Meanings": [
+        "ذاتی",
+        "لاینفک"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic fraud",
+      "Meanings": [
+        "تقلب در جریان دادرسی که منجر به صدور حکم بر مبنای اسناد مجعول یا شهادت دروغ گردد"
+      ]
+    },
+    {
+      "EnglishWord": "intrinsic value    see also  absolute value",
+      "Meanings": [
+        "ارزش ذاتی"
+      ]
+    },
+    {
+      "EnglishWord": "invalidate    n. invalidation",
+      "Meanings": [
+        "باطل کردن",
+        "بی اعتبار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "invalidity",
+      "Meanings": [
+        "عدم اعتبار",
+        "عدم صحت",
+        "بطلان",
+        "فساد"
+      ]
+    },
+    {
+      "EnglishWord": "inventory",
+      "Meanings": [
+        "صورت برداری کردن",
+        "سیاهه برداری کردن",
+        "موجودی",
+        "سیاهه"
+      ]
+    },
+    {
+      "EnglishWord": "inventory to take",
+      "Meanings": [
+        "صورت برداری کردن",
+        "سیاهه برداری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "invest    n. investment investiture",
+      "Meanings": [
+        "اعطا یا تفویض کردن اختیار",
+        "منصوب کردن",
+        "سرمایه گذاری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "investigate    n. investigation",
+      "Meanings": [
+        "تحقیق کردن",
+        "بازجویی کردن",
+        "بررسی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "investigator",
+      "Meanings": [
+        "بازجو",
+        "مامور تحقیق"
+      ]
+    },
+    {
+      "EnglishWord": "investitive facts",
+      "Meanings": [
+        "واقعیات موجد حق یا اختیار مانند فوت مورث"
+      ]
+    },
+    {
+      "EnglishWord": "investment",
+      "Meanings": [
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "inviolability",
+      "Meanings": [
+        "مصونیت از تعرض",
+        "حرمت"
+      ]
+    },
+    {
+      "EnglishWord": "invoice",
+      "Meanings": [
+        "صورتحساب صادر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "invoke    n. invocation     see also  rely on / upon",
+      "Meanings": [
+        "استناد کردن"
+      ]
+    },
+    {
+      "EnglishWord": "involuntary",
+      "Meanings": [
+        "غیر اردای",
+        "اجباری",
+        "اضطراری"
+      ]
+    },
+    {
+      "EnglishWord": "involuntary bankruptcy",
+      "Meanings": [
+        "اعلام ورشکستگی به موجب تقاضای عده کافی از طلبکاران"
+      ]
+    },
+    {
+      "EnglishWord": "ipso facto    lat.",
+      "Meanings": [
+        "بالفعل",
+        "فی نفسه",
+        "عملا"
+      ]
+    },
+    {
+      "EnglishWord": "ipso facto    lat.    avoidance",
+      "Meanings": [
+        "لغو خود به خود"
+      ]
+    },
+    {
+      "EnglishWord": "ipso jure    lat.",
+      "Meanings": [
+        "از نظر قانون",
+        "قانونا",
+        "به واسطه قانون"
+      ]
+    },
+    {
+      "EnglishWord": "irrebuttable",
+      "Meanings": [
+        "غیر قابل رد",
+        "مسلم",
+        "مسجل"
+      ]
+    },
+    {
+      "EnglishWord": "irrebuttable presumption    see also  conclusive presumption",
+      "Meanings": [
+        "اماره قاطع",
+        "اماره غیر قابل رد"
+      ]
+    },
+    {
+      "EnglishWord": "irrecusable obligations    see also  obligationes ex delicto obligation by operation of law tortious liability",
+      "Meanings": [
+        "تعهدات ناشی از الزامات قانون"
+      ]
+    },
+    {
+      "EnglishWord": "irredeemable stock    see also  annuity bonds perpetual bonds undated bonds",
+      "Meanings": [
+        "اوراق قرضه بدون سررسید"
+      ]
+    },
+    {
+      "EnglishWord": "irregular",
+      "Meanings": [
+        "غیر منظم",
+        "بی رویه",
+        "خلاف قاعده"
+      ]
+    },
+    {
+      "EnglishWord": "irregular proceedings",
+      "Meanings": [
+        "دادرسی بی رویه",
+        "رسیدگی بی رویه"
+      ]
+    },
+    {
+      "EnglishWord": "irrelevancy    var. irrelevance",
+      "Meanings": [
+        "بی ارتباط بودن",
+        "بی اهمیت بودن"
+      ]
+    },
+    {
+      "EnglishWord": "irrelevancy of a claim",
+      "Meanings": [
+        "بی ارتباط بودن دعوی",
+        "عدم توجه دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "irreparable damage",
+      "Meanings": [
+        "خسارت غیر قابل جبران"
+      ]
+    },
+    {
+      "EnglishWord": "irreparable injury",
+      "Meanings": [
+        "صدمه یا زیان غیر قابل جبران"
+      ]
+    },
+    {
+      "EnglishWord": "irreversible",
+      "Meanings": [
+        "قطعی",
+        "غیر قابل برگشت",
+        "اصلاح ناپذیر",
+        "جبران ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "irrevocable",
+      "Meanings": [
+        "غیر قابل فسخ",
+        "غیر قابل برگشت",
+        "قطعی",
+        "لازم"
+      ]
+    },
+    {
+      "EnglishWord": "irrevocable contract",
+      "Meanings": [
+        "عقد لازم"
+      ]
+    },
+    {
+      "EnglishWord": "irrevocable letter of credit",
+      "Meanings": [
+        "اعتبار اسنادی غیر قابل فسخ",
+        "اعتبار اسنادی غیر قابل برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "irrevocable sale",
+      "Meanings": [
+        "بیع قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "issuable",
+      "Meanings": [
+        "مربوط به موضوع",
+        "ماهوی",
+        "قابل صدور"
+      ]
+    },
+    {
+      "EnglishWord": "issuable defence",
+      "Meanings": [
+        "ایراد در ماهیت دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "issuable plea    see also  plea to the merits traversable plea",
+      "Meanings": [
+        "ایراد ماهوی",
+        "ایراد در ماهیت دعوی"
+      ]
+    },
+    {
+      "EnglishWord": "issue",
+      "Meanings": [
+        "صادر کردن",
+        "صدور",
+        "موضوع",
+        "مسیله",
+        "اولاد",
+        "اخلاف"
+      ]
+    },
+    {
+      "EnglishWord": "issue at / in",
+      "Meanings": [
+        "متنازع فیه",
+        "مورد اختلاف",
+        "در دست رسیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "issue of fact    see also  fact in issue",
+      "Meanings": [
+        "موضوع مورد اختلاف",
+        "موضوع متنازع فیه"
+      ]
+    },
+    {
+      "EnglishWord": "issue of law",
+      "Meanings": [
+        "موضوع حقوقی"
+      ]
+    },
+    {
+      "EnglishWord": "issue preclusion",
+      "Meanings": [
+        "اعتبار امر مختوم",
+        "ممنوعیت طرح مجدد دعوی مختومه"
+      ]
+    },
+    {
+      "EnglishWord": "issue to join",
+      "Meanings": [
+        "موضوعات را تواما رسیدگی قرار دادن"
+      ]
+    },
+    {
+      "EnglishWord": "issue to reach",
+      "Meanings": [
+        "به موضوعی رسیدگی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "issued capital    see also  subscribed capital",
+      "Meanings": [
+        "سهام سرمایه ای منتشره"
+      ]
+    },
+    {
+      "EnglishWord": "issued shares",
+      "Meanings": [
+        "سهام صادره",
+        "سهام منتشره"
+      ]
+    },
+    {
+      "EnglishWord": "issuing bank",
+      "Meanings": [
+        "بانک صادر کننده",
+        "بانک باز کننده اعتبار"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "قلم",
+        "فقره"
+      ]
+    },
+    {
+      "EnglishWord": "ius    var. jus     lat.",
+      "Meanings": [
+        "نظام حقوقی",
+        "مجموعه قوانین",
+        "حقوق",
+        "حق",
+        "عدالت",
+        "انصاف",
+        "قدرت",
+        "اختیار",
+        "قاعده",
+        "شغل وکالت",
+        "دادگاه"
+      ]
+    }
+  ]
+}

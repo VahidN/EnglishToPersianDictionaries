@@ -1,0 +1,647 @@
+﻿{
+  "Group": "W",
+  "Entries": 88,
+  "Words": [
+    {
+      "EnglishWord": "waive",
+      "Meanings": [
+        "اعراض کردن",
+        "صرفنظر کردن",
+        "ترک کردن",
+        "اسقاط کردن"
+      ]
+    },
+    {
+      "EnglishWord": "waiver",
+      "Meanings": [
+        "اعراض یا انصراف از حق",
+        "اسقاط حق"
+      ]
+    },
+    {
+      "EnglishWord": "want of consideration",
+      "Meanings": [
+        "بلاعوض یا مجانی بودن"
+      ]
+    },
+    {
+      "EnglishWord": "want of jurisdiction    see also  lack of jurisdiction nonjurisdiction",
+      "Meanings": [
+        "عدم صلاحیت",
+        "فقد صلاحیت",
+        "تجاوز از حدود اختیارات"
+      ]
+    },
+    {
+      "EnglishWord": "want of precaution",
+      "Meanings": [
+        "بی احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "wanting in reason",
+      "Meanings": [
+        "سفیه",
+        "ناقص العقل"
+      ]
+    },
+    {
+      "EnglishWord": "wanton",
+      "Meanings": [
+        "بی رویه",
+        "با سوء نیت",
+        "از سر بی احتیاطی و بی مبالاتی"
+      ]
+    },
+    {
+      "EnglishWord": "wanton negligence",
+      "Meanings": [
+        "تقصیر سنگین"
+      ]
+    },
+    {
+      "EnglishWord": "ward",
+      "Meanings": [
+        "حفظ و حراست کردن",
+        "مولی علیه",
+        "فردی که تحت حمایت و مراقبت دیگری باشد",
+        "قیمومت",
+        "تولیت"
+      ]
+    },
+    {
+      "EnglishWord": "ward in",
+      "Meanings": [
+        "تحت تولیت",
+        "تحت حمایت و سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "ward of court",
+      "Meanings": [
+        "صغیر یا مجنون تحت حمایت دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "wardship    see also  guardianship",
+      "Meanings": [
+        "قیمومت",
+        "ولایت",
+        "سرپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse    see also  depot store    s",
+      "Meanings": [
+        "در انبار نگه داشتن",
+        "انبار"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse receipt    var. warehouse keeper's receipt",
+      "Meanings": [
+        "رسید انبار گمرک"
+      ]
+    },
+    {
+      "EnglishWord": "warehouse warrant    see also  bond warrant dock warrant negotiable warehouse receipt warrant",
+      "Meanings": [
+        "رسید انبارهای عمومی یا گمرک"
+      ]
+    },
+    {
+      "EnglishWord": "warning",
+      "Meanings": [
+        "اخطار"
+      ]
+    },
+    {
+      "EnglishWord": "warning notice    see also  caveat",
+      "Meanings": [
+        "اخطاریه",
+        "اخطار رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "warrant    see also  bond warrant dock warrant negotiable warehouse receipt warehouse warrant",
+      "Meanings": [
+        "ضمانت یا تعهد کردن",
+        "اجازه",
+        "مجوز",
+        "سند ذمه",
+        "سند عند المطالبه",
+        "رسید انبار عمومی",
+        "اجازه پرداخت",
+        "قرار بازداشت یا تفتیش",
+        "قرار توقیف اموال"
+      ]
+    },
+    {
+      "EnglishWord": "warrant of arrest    see also  arrest warrant",
+      "Meanings": [
+        "قرار بازداشت"
+      ]
+    },
+    {
+      "EnglishWord": "warrant of attachment    see also  attachment judicial attachment writ of attachment",
+      "Meanings": [
+        "قرار توقیف مال یا شخص"
+      ]
+    },
+    {
+      "EnglishWord": "warranty",
+      "Meanings": [
+        "تعهد نامه",
+        "التزام",
+        "قول",
+        "تضمین کالا از نظر بی عیب و نقص بودن آن",
+        "گرونامه",
+        "وثیقه"
+      ]
+    },
+    {
+      "EnglishWord": "warranty deed",
+      "Meanings": [
+        "سند مالکیتی که در آن انتقال دهنده بلامعارض بودن ملک را تضمین کند"
+      ]
+    },
+    {
+      "EnglishWord": "waste",
+      "Meanings": [
+        "تلف کردن",
+        "تضییع کردن",
+        "اتلاف",
+        "تفریط"
+      ]
+    },
+    {
+      "EnglishWord": "way of necessity",
+      "Meanings": [
+        "حق العبور به دلیل محصور بودن ملک مورد انتقال در داخل املاک دیگران"
+      ]
+    },
+    {
+      "EnglishWord": "waybill    see also  consignment note",
+      "Meanings": [
+        "بارنامه در حمل ونقل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "way-leave",
+      "Meanings": [
+        "حق العبور",
+        "اجازه نصب تیر تلفن",
+        "برق و لوله آب در ملک غیر",
+        "وجه پرداختی بابت چنین اجازه"
+      ]
+    },
+    {
+      "EnglishWord": "wear and tear",
+      "Meanings": [
+        "استهلاک",
+        "کهنگی"
+      ]
+    },
+    {
+      "EnglishWord": "weight and measures",
+      "Meanings": [
+        "اوزان و مقیاسات"
+      ]
+    },
+    {
+      "EnglishWord": "weight of the evidence",
+      "Meanings": [
+        "اعتبار",
+        "ارزش و وزن دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "well- established",
+      "Meanings": [
+        "معتبر",
+        "مسلم",
+        "متقن",
+        "محرز"
+      ]
+    },
+    {
+      "EnglishWord": "whereas",
+      "Meanings": [
+        "مطلع یا بخش مقدماتی سند رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "will",
+      "Meanings": [
+        "وصیت نامه",
+        "نیت",
+        "قصد",
+        "اختیار"
+      ]
+    },
+    {
+      "EnglishWord": "willful",
+      "Meanings": [
+        "عمدی",
+        "ارادی",
+        "تعمدی",
+        "اختیاری"
+      ]
+    },
+    {
+      "EnglishWord": "willful and wanton act",
+      "Meanings": [
+        "تخلف توام با بی احتیاطی و سوء نیت"
+      ]
+    },
+    {
+      "EnglishWord": "willful misconduct",
+      "Meanings": [
+        "تخلف عمد"
+      ]
+    },
+    {
+      "EnglishWord": "win a bid",
+      "Meanings": [
+        "برنده شدن در مناقصه یا مزایده"
+      ]
+    },
+    {
+      "EnglishWord": "wind up    see also  liquidate",
+      "Meanings": [
+        "منحل کردن",
+        "تصفیه کردن",
+        "خاتمه دادن",
+        "برچیدن"
+      ]
+    },
+    {
+      "EnglishWord": "windfall profit",
+      "Meanings": [
+        "سود باد آورده یا غیر منتظره"
+      ]
+    },
+    {
+      "EnglishWord": "winding up",
+      "Meanings": [
+        "انحلال",
+        "تصفیه",
+        "برچیدن"
+      ]
+    },
+    {
+      "EnglishWord": "wining party    see also  prevailing party successful party",
+      "Meanings": [
+        "محکوم له",
+        "طرف موفق",
+        "داد برده",
+        "طرف برنده"
+      ]
+    },
+    {
+      "EnglishWord": "with leave of the court",
+      "Meanings": [
+        "با اجازه دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "with prejudice",
+      "Meanings": [
+        "به طور قطعی مانع طرح مجدد دعوی یا موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "with recourse",
+      "Meanings": [
+        "با حق مراجعه"
+      ]
+    },
+    {
+      "EnglishWord": "withdraw    n. withdrawal",
+      "Meanings": [
+        "مسترد کردن",
+        "ترک کردن",
+        "اعراض کردن",
+        "صرفنظر کردن",
+        "برداشت کردن",
+        "کناره گیری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "withhold",
+      "Meanings": [
+        "خودداری کردن از تحویل",
+        "مضایقه کردن",
+        "کسر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "withhold evidence    see also  suppression of evidence",
+      "Meanings": [
+        "عدم افشاء یا معدوم کردن مدارک به منظور ممانعت از اجرای عدالت"
+      ]
+    },
+    {
+      "EnglishWord": "withhold payment",
+      "Meanings": [
+        "عدم پرداخت",
+        "امتناع از پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "withholding tax",
+      "Meanings": [
+        "مالیات تکلیفی کسر مالیات قبل از پرداخت حقوق و دستمزد"
+      ]
+    },
+    {
+      "EnglishWord": "without day    see also  sine die",
+      "Meanings": [
+        "رد قطعی دعوی",
+        "بدون تعیین تاریخ جلسه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "without merit",
+      "Meanings": [
+        "بی اساس",
+        "واهی"
+      ]
+    },
+    {
+      "EnglishWord": "without prejudice",
+      "Meanings": [
+        "بدون انکه موجب تضییع حق گردد",
+        "بدون آنکه تاثیر گذارد",
+        "با امکان طرح مجد دعوی یا موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "without recourse    see also  sans recours",
+      "Meanings": [
+        "بدون حق مراجعه در مورد عدم پرداخت سفته یا برات"
+      ]
+    },
+    {
+      "EnglishWord": "witness",
+      "Meanings": [
+        "شهادت دادن",
+        "شاهد بودن",
+        "شاهد",
+        "گواه"
+      ]
+    },
+    {
+      "EnglishWord": "witness thereof in",
+      "Meanings": [
+        "با تایید و تصدیق مراتب فوق"
+      ]
+    },
+    {
+      "EnglishWord": "witnesseth",
+      "Meanings": [
+        "بدینوسیله تایید می‌شود که"
+      ]
+    },
+    {
+      "EnglishWord": "witnessing part    of document",
+      "Meanings": [
+        "بخش اصلی سند"
+      ]
+    },
+    {
+      "EnglishWord": "wittingly",
+      "Meanings": [
+        "عالما و عامدا"
+      ]
+    },
+    {
+      "EnglishWord": "work permit",
+      "Meanings": [
+        "جواز کار"
+      ]
+    },
+    {
+      "EnglishWord": "work progress report",
+      "Meanings": [
+        "گزارش پیشرفت کار"
+      ]
+    },
+    {
+      "EnglishWord": "working capital    see also  liquid capital current capital",
+      "Meanings": [
+        "سرمایه در گردش",
+        "سرمایه جاری"
+      ]
+    },
+    {
+      "EnglishWord": "working day",
+      "Meanings": [
+        "روز اداری",
+        "روزگار"
+      ]
+    },
+    {
+      "EnglishWord": "working language",
+      "Meanings": [
+        "زبان اداری",
+        "زبان مورد استفاده"
+      ]
+    },
+    {
+      "EnglishWord": "working papers",
+      "Meanings": [
+        "اوراق کر دادگاه و غیره",
+        "اجازه کار اطفال",
+        "گزارش تحقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "working partner    see also  acting partner active partner full partner general partner ordinary partner",
+      "Meanings": [
+        "شریک تضامنی",
+        "شریک فعال"
+      ]
+    },
+    {
+      "EnglishWord": "works",
+      "Meanings": [
+        "کارها",
+        "کارخانه",
+        "ساختمان"
+      ]
+    },
+    {
+      "EnglishWord": "writ    see also  injunction order",
+      "Meanings": [
+        "حکم",
+        "قرار"
+      ]
+    },
+    {
+      "EnglishWord": "writ de cursu",
+      "Meanings": [
+        "قرارهایی که در اثناء دادرسی عادی صادر شوند"
+      ]
+    },
+    {
+      "EnglishWord": "writ of attachment    see also  attachment judicial attachment warrant of attachment",
+      "Meanings": [
+        "قرار توقیف مال یا شخص"
+      ]
+    },
+    {
+      "EnglishWord": "writ of certiorari    see also  certiorari",
+      "Meanings": [
+        "تصمیم دیوان عالی کشور آمریکا به قبول دعوی",
+        "قرار صادره توسط دادگاه پژوهش به دادگاه نخستین برای ارسال نسخه گواهی شده پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "writ of enforcement",
+      "Meanings": [
+        "اجراییه",
+        "قرار اجرای حکم دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "writ of error",
+      "Meanings": [
+        "حکم یا قرار تصحیحی قرار دادگاه پژوهش دایر بر ارجاع پرونده از دادگاه نخستین به دادگاه پژوهش",
+        "جهت بررسی اشتباهات احتمالی مورد ادعا در حکم",
+        "و در صورت لزوم",
+        "تصحیح یا فسخ حکم"
+      ]
+    },
+    {
+      "EnglishWord": "writ of execution",
+      "Meanings": [
+        "اجراییه",
+        "قرار اجرای حکم دادگاه"
+      ]
+    },
+    {
+      "EnglishWord": "writ of mandamus",
+      "Meanings": [
+        "امریه",
+        "دستور دادگاه عالی به مقامات قضایی یا اجرایی جهت وظایف قانونی خود"
+      ]
+    },
+    {
+      "EnglishWord": "writ of possession",
+      "Meanings": [
+        "قرار اجرای حکم اعاده تصرف زمین"
+      ]
+    },
+    {
+      "EnglishWord": "writ of procedendo    see also  procedendo",
+      "Meanings": [
+        "دستور دادگاه عالی به دادگاه نخستین برای ادامه رسیدگی و صدور حکم"
+      ]
+    },
+    {
+      "EnglishWord": "writ of prohibition",
+      "Meanings": [
+        "دستور دادگاه عالی به دادگاه نخستین دایر بر خودداری از اقدام قضایی به دلیل عدم صلاحیت یا تجاوز دادگاه نخستین از حدود صلاحیت خود"
+      ]
+    },
+    {
+      "EnglishWord": "writ of say    see also  stay order",
+      "Meanings": [
+        "قرار توقیف یا تعلیق دادرسی"
+      ]
+    },
+    {
+      "EnglishWord": "writ of summons    see also  summons",
+      "Meanings": [
+        "احضاریه",
+        "قرار جلب"
+      ]
+    },
+    {
+      "EnglishWord": "write off",
+      "Meanings": [
+        "حذف کردن",
+        "قلم زدن",
+        "از دفتر خارج کردن",
+        "انتقال مانده حساب دارایی به دلیل غیر قابل وصول بودن یا فاقد ارزش شدن آن به حساب هزینه یا سود و زیان",
+        "لغو کردن پروژه یا برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "write off    debt",
+      "Meanings": [
+        "حذف بدهی مشکوک الوصول از دفتر حساب",
+        "بدهی مشکوک الوصول"
+      ]
+    },
+    {
+      "EnglishWord": "written law",
+      "Meanings": [
+        "قوانین موضوعه",
+        "قوانین مصوب قوه مقننه",
+        "قوانین مدون"
+      ]
+    },
+    {
+      "EnglishWord": "wrong",
+      "Meanings": [
+        "تخلف کردن",
+        "تعدی و تجاوز کردن",
+        "زیان وارد کردن",
+        "غلط",
+        "خطا",
+        "تعدی",
+        "تجاوز",
+        "بی عدالتی"
+      ]
+    },
+    {
+      "EnglishWord": "wrongdoer",
+      "Meanings": [
+        "متخلف",
+        "خاطی",
+        "متجاوز",
+        "متعدی"
+      ]
+    },
+    {
+      "EnglishWord": "wrongful",
+      "Meanings": [
+        "غیر قانونی",
+        "من غیر حق",
+        "ظالمانه",
+        "زیانبار",
+        "ناروا",
+        "ناشی از بی احتیاطی"
+      ]
+    },
+    {
+      "EnglishWord": "wrongful abstraction    see also  abstraction",
+      "Meanings": [
+        "اختلاس"
+      ]
+    },
+    {
+      "EnglishWord": "wrongful act",
+      "Meanings": [
+        "تخلف",
+        "تعدی",
+        "تجاوز",
+        "فعل زیانبار"
+      ]
+    },
+    {
+      "EnglishWord": "wrongful dismissal",
+      "Meanings": [
+        "اخراج یا انفصال ناروا"
+      ]
+    },
+    {
+      "EnglishWord": "wrongful taking",
+      "Meanings": [
+        "ضبط یا مصادره غیر قانونی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+﻿{
+  "Group": "N",
+  "Entries": 45,
+  "Words": [
+    {
+      "EnglishWord": "nabla",
+      "Meanings": [
+        "نابلا"
+      ]
+    },
+    {
+      "EnglishWord": "natural",
+      "Meanings": [
+        "طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "natural number",
+      "Meanings": [
+        "عدد طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "negation",
+      "Meanings": [
+        "نقیض",
+        "نقض‌کننده",
+        "نفی"
+      ]
+    },
+    {
+      "EnglishWord": "negative",
+      "Meanings": [
+        "منفی",
+        "قرینه"
+      ]
+    },
+    {
+      "EnglishWord": "network",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "neutral geometry",
+      "Meanings": [
+        "هندسه نتاری"
+      ]
+    },
+    {
+      "EnglishWord": "neyrizi",
+      "Meanings": [
+        "نیریزی",
+        "ابوالعباس فضل حاتم نیریز از دانشمندان ریاضی ایران وجهان واهل شیراز بود که در دستگاه المعتضدبالله احمدعباسی فعالیت داشته ودرسال 210 شمسی بدرود",
+        "حیات گفته است وی چندین محاسبه مهم ریاضی ومثلثاتی را انجام داده وبرای اولین بار محاسبات ظل معکوس",
+        "کتانژانت رابکاربرد. نیریزی مقام علمی بسیار شامخی در ریاضیات اروپایی دارد ومطالعاتی رانیز در فیزیک انجام داد. نظریه نسبت‌ها از اوست",
+        "علل پیدایش خط سیاه در رنگین کمان رابرای اولین بار قبل از فراین هوفر کشف کرد ونامش رابه عنوان پیشگام علوم هندسه وهیات وتنظیم کننده محاسبات گردش ستارگان جاودان ساخت. کتابی در هوا شناسی وابزار هواشناسی برای اولین بار نوشت",
+        "ابوریحان",
+        "عمرخیام",
+        "خواجه نصیر وکمال الدین فارسی از کارهای او استفاده کرده اند",
+        "دریکی از قضایای هندسی",
+        "لباچسفکی دانشمند برجسته ومعروف روسیه دنباله رو کارهای نیریزی است. مکان هندسی که خط منحنی است",
+        "کتاب‌های ده مقاله به یونانی ترجمه شده",
+        "رساله فی بیان المصادر",
+        "تفسیر کتاب مجسطی",
+        "زیج کبیر",
+        "حوادث القرانات و…از اوست"
+      ]
+    },
+    {
+      "EnglishWord": "n-group",
+      "Meanings": [
+        "N",
+        "گروه"
+      ]
+    },
+    {
+      "EnglishWord": "nikola ivanovich lobachevski",
+      "Meanings": [
+        "نیکولا ایوانوویچ لوباچفسکی",
+        "ریاضی‌دان روسی",
+        ". هندسه نااقلیدسی از کارهای اوست"
+      ]
+    },
+    {
+      "EnglishWord": "nil",
+      "Meanings": [
+        "پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "nilpotent",
+      "Meanings": [
+        "پوچ‌توان"
+      ]
+    },
+    {
+      "EnglishWord": "nod",
+      "Meanings": [
+        "گره"
+      ]
+    },
+    {
+      "EnglishWord": "nomograph",
+      "Meanings": [
+        "نوموگراف",
+        "فرمول‌نگاشت",
+        "نموداری که نشان‌دهنده معادله‌ای شامل سه متغیر به وسیله سه مقیاس است به نحوی که خط راستی آن سه مقیاس را به ازای مقادیری از سه متغیر که در معادله صدق می‌کنند قطع کند"
+      ]
+    },
+    {
+      "EnglishWord": "non generator",
+      "Meanings": [
+        "نامولد"
+      ]
+    },
+    {
+      "EnglishWord": "non unit",
+      "Meanings": [
+        "نا یکه"
+      ]
+    },
+    {
+      "EnglishWord": "non-archimedian metric",
+      "Meanings": [
+        "متریک غیر ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "non-archimedian metric space",
+      "Meanings": [
+        "فضای متریک غیر ارشمیدسی"
+      ]
+    },
+    {
+      "EnglishWord": "noncommutative",
+      "Meanings": [
+        "ناجابجایی"
+      ]
+    },
+    {
+      "EnglishWord": "nondenumerable",
+      "Meanings": [
+        "ناشمارا"
+      ]
+    },
+    {
+      "EnglishWord": "nondenumerable set",
+      "Meanings": [
+        "مجموعه ناشمارا"
+      ]
+    },
+    {
+      "EnglishWord": "noninvertible matrix",
+      "Meanings": [
+        "ماتریس وارون‌ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "nonisomorphic",
+      "Meanings": [
+        "نا یک‌سان"
+      ]
+    },
+    {
+      "EnglishWord": "nonorientability",
+      "Meanings": [
+        "جهت ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "nonparametric method",
+      "Meanings": [
+        "روش ناپارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial",
+      "Meanings": [
+        "نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nontrivial graph",
+      "Meanings": [
+        "گراف نابدیهی"
+      ]
+    },
+    {
+      "EnglishWord": "nonzero",
+      "Meanings": [
+        "غیرصفر",
+        "ناصفر"
+      ]
+    },
+    {
+      "EnglishWord": "norm",
+      "Meanings": [
+        "نرم"
+      ]
+    },
+    {
+      "EnglishWord": "norm of a polynomial",
+      "Meanings": [
+        "نرم یک چندجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "normal",
+      "Meanings": [
+        "نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal closuer",
+      "Meanings": [
+        "بستار نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal field extension",
+      "Meanings": [
+        "توسیع نرمال میدان"
+      ]
+    },
+    {
+      "EnglishWord": "normal form",
+      "Meanings": [
+        "صورت عادی",
+        "صورت معمولی",
+        "صورت نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal interior",
+      "Meanings": [
+        "درون نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal series",
+      "Meanings": [
+        "سری نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normal subgroup",
+      "Meanings": [
+        "زیرگروه نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "normalizer",
+      "Meanings": [
+        "نرمال‌ساز"
+      ]
+    },
+    {
+      "EnglishWord": "normed space",
+      "Meanings": [
+        "فضای نرم‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "nowhere dense",
+      "Meanings": [
+        "هیچ‌جا چگال"
+      ]
+    },
+    {
+      "EnglishWord": "null hypothesis",
+      "Meanings": [
+        "فرض صفر"
+      ]
+    },
+    {
+      "EnglishWord": "null space",
+      "Meanings": [
+        "فضای پوچ"
+      ]
+    },
+    {
+      "EnglishWord": "nullity",
+      "Meanings": [
+        "پوچی"
+      ]
+    },
+    {
+      "EnglishWord": "number",
+      "Meanings": [
+        "عدد",
+        "رقم",
+        "شماره"
+      ]
+    },
+    {
+      "EnglishWord": "numbers theory",
+      "Meanings": [
+        "نظریه اعداد",
+        "حساب عالی",
+        "تیوری اعداد number theory شاخه ای از ریاضیات محض pure mathematics است که در مورد خواص اعداد صحیح integers بحث می‌کند و حاوی بسیاری مسایل است که حتی غیر ریاضیدانان به راحتی آنها را متوجه می‌شوند. به طور کلی این شاخه",
+        "مسایل مربوط به مطالعه اعداد صحیح را مطرح می‌کند. تیوری اعداد را می‌توان بنا به روشهای بررسی سوالات به چندین بخش تقسیم کرد. مثلا به سرفصل‌های تیوری اعداد مراجعه نمایید",
+        "·\tتیوری مقدماتی اعداد",
+        "اعداد صحیح را بدون توجه به تکنیک‌های ریاضی به کار رفته در سایر شاخه‌ها بررسی می‌کند. مسایل بخش‌پذیری divisibility",
+        "الگوریتم اقلیدسیEuclidean algorithm",
+        "محاسبه بزرگترین مقسوم الیه مشترک greatest common divisors",
+        "تجزیه اعداد به اعداد اول prime numbers",
+        "جستجوی عدد تام perfect number و همنهشتی‌ها congruences در این رده هستند. نمونه‌ها قضیه کوچک فرما Fermat’s little theorem",
+        "و قضیه اولر Euler’s theoremهستند و به طور عام قضیه باقیمانده چینی Chinese remainder theorem و قانون تقابل درجه دوم quadratic reciprocity هستند. خواص توابع ضربیmultiplicative functions مانند تابع موبیوس Mobius function و تابع اولر Euler's function و همینطور دنباله اعداد صحیح integer sequences مانند فاکتوریل هاfactorials و اعداد فیبوناچی Fibonacci numbers در همین حوزه بررسی میشوند. بسیاری از سوالات در تیوری مقدماتی اعداد شدیدا عمیق هستند و نیاز به بازنگری هایی دارند. به عنوان نمونه",
+        "o\tانگاره گلدباخ Goldbach conjecture که می‌گوید آیا هر عدد زوجی حاصل‌جمع دو عدد اول است یا نه",
+        "o\tانگاره کاتالان Catalan’s conjecture که در مورد توانهای متوالی اعداد صحیح است",
+        "o\tانگاره اعداد اول دوقلو Twin prime conjecture که در مورد بینهایت بودن اعداد اول دوقلو است",
+        "o\tانگاره کولاتز Collatz conjecture که در مورد تکرار ساده می‌باشد",
+        "o\tمعادلات دیوفانتیDiophantine نیز هنوز تصمیم ناپذیر است",
+        "·\tتیوری تحلیلی اعداد Analytic number theory ازحسابانcalculus و آنالیز مختلطcomplex analysis برای مطالعه اعداد صحیح استفاه می‌کند و با سوالاتی در مورد اعداد صحیح دست و پنجه نرم می‌کند که در تیوری مقدماتی اعداد بررسی و بحث در مورد آن بسیار دشوار به نظر می‌رسد. قضیه اعداد اولprime number theorem و فرضیه ریمان Riemann hypothesis مثال هایی از آن هستند. مسیله وارینگ Waring’s problem که عدد صحیحی را به صورت جمع چند مربع یا مکعب چند عدد نشان می‌دهد",
+        "انگاره اعداد اول دوقلو Twin prime conjecture که تعداد بینهایت عدد اول با اختلاف 2 را پیدا می‌کند",
+        "و فرضیه گلدباخGoldbach’s conjecture که عددهای زوج داده شده را به صورت مجموع دو عدد اول پیدا می‌کند با روشهای تحلیلی مورد حمله قرار گرفته شده اند. اثبات متعالی بودن transcendence ثابت‌های ریاضی",
+        "مانند e و پی در بخش تیوری اعداد تحلیلی قرار دارند. بعضی‌ها حکم هایی در مورد اعداد متعالی را از محدوده مطالعات اعداد صحیح خارج می‌کنند",
+        "در واقع مقادیر ممکن برای چند جمله ایها با ضریب‌های صحیح مانند e و پی به مبحث تقریب دیوفانتین Diophantine aproximation ارتباط نزدیک دارند",
+        "و سوال آنها این است که چگونه می‌توان یک عدد حقیقی داده شده را با یک عدد گویا rational تقریب زد ؟",
+        "·\tتیوری جبری اعداد",
+        "مفهوم عدد را به اعداد جبری algebraic numbers که همان ریشه‌های چند جمله ایها با ضرایب گویا rational coefficient هستند گسترش می‌دهد. در این حوزه مباحثی همانند اعداد صحیح به نام اعداد صحیح جبری algebraic integers وجود دارد. در اینجا لازم نیست به صورت‌های آشنای اعداد صحیح",
+        "مانند تجزیه یکتا the unique factorization پایبند باشیم. مزیت روش استفاده شده –تیوری گالوا Galois theory",
+        "میدان همانستگی field cohomology",
+        "تیوری رده میدان class field theory",
+        "نمایش گروه‌ها group representations و L",
+        "تابع‌ها L",
+        "functions این است که به ما اجازه می‌دهدبرای این رده از اعداد",
+        "این ترتیب را تا حدودی بپوشانیم. تعدادی از سوالات قضیه اعداد با مطالعه پیمانه p برای کلیه اعداد اول p مورد حمله قرار گرفته شده اند. به میدانهای متناهی finite fields مراحعه کنید. به چنین چیزی localization می‌گویند که به ساختمان اعداد p ادیک p",
+        "adic numbers می‌انجامد. به این محدوده تحلیل موضعی local analysis می‌گویند که از تیوری اعداد جبری ناشی می‌شود",
+        "·\tتیوری ترکیبیاتی اعداد به بررسی",
+        "مطالعه و حل مساله‌های تیوری اعداد با استفاده از تکنیک‌های ترکیبیاتی می‌پرد"
+      ]
+    }
+  ]
+}

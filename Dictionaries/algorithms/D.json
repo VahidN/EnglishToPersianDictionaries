@@ -1,0 +1,543 @@
+﻿{
+  "Group": "D",
+  "Entries": 89,
+  "Words": [
+    {
+      "EnglishWord": "d",
+      "Meanings": [
+        "حرف چهارم از الفبای انگلیسی",
+        "رقمی در مبنای شانزده معادل عدد 13 در مبنای دهدهی"
+      ]
+    },
+    {
+      "EnglishWord": "dag",
+      "Meanings": [
+        "گراف جهت دار بی دور"
+      ]
+    },
+    {
+      "EnglishWord": "dag shortest paths",
+      "Meanings": [
+        "کوتاهترین مسیر‌ها در گراف جهت دار بی دور"
+      ]
+    },
+    {
+      "EnglishWord": "data",
+      "Meanings": [
+        "داده"
+      ]
+    },
+    {
+      "EnglishWord": "data abstraction",
+      "Meanings": [
+        "تجرید داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data base",
+      "Meanings": [
+        "داده پایگاه"
+      ]
+    },
+    {
+      "EnglishWord": "data encapsulation",
+      "Meanings": [
+        "محصور سازی داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "data structure",
+      "Meanings": [
+        "داده ساختار"
+      ]
+    },
+    {
+      "EnglishWord": "decidable",
+      "Meanings": [
+        "تصمیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decidable language",
+      "Meanings": [
+        "زبان تصمیم پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decision",
+      "Meanings": [
+        "تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision problem",
+      "Meanings": [
+        "مسیله تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decision tree",
+      "Meanings": [
+        "درخت تصمیم"
+      ]
+    },
+    {
+      "EnglishWord": "decode tree",
+      "Meanings": [
+        "درخت رمزگشا"
+      ]
+    },
+    {
+      "EnglishWord": "decomposable",
+      "Meanings": [
+        "تجزیه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decomposable searching",
+      "Meanings": [
+        "جستجوی تجزیه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decomposable searching problem",
+      "Meanings": [
+        "مسیله جستجوی تجزیه پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "decomposition",
+      "Meanings": [
+        "تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate",
+      "Meanings": [
+        "تغییر شکل دادن",
+        "تبهگون"
+      ]
+    },
+    {
+      "EnglishWord": "degenerate tree",
+      "Meanings": [
+        "درخت تبهگون"
+      ]
+    },
+    {
+      "EnglishWord": "degree",
+      "Meanings": [
+        "درجه"
+      ]
+    },
+    {
+      "EnglishWord": "degree-k graph",
+      "Meanings": [
+        "گراف درجه k"
+      ]
+    },
+    {
+      "EnglishWord": "delete",
+      "Meanings": [
+        "حذف"
+      ]
+    },
+    {
+      "EnglishWord": "dense",
+      "Meanings": [
+        "متراکم"
+      ]
+    },
+    {
+      "EnglishWord": "dense graph",
+      "Meanings": [
+        "گراف متراکم"
+      ]
+    },
+    {
+      "EnglishWord": "dense index",
+      "Meanings": [
+        "شاخص چگالی"
+      ]
+    },
+    {
+      "EnglishWord": "depth",
+      "Meanings": [
+        "عمق"
+      ]
+    },
+    {
+      "EnglishWord": "depth first search",
+      "Meanings": [
+        "جستجوی عمق اول"
+      ]
+    },
+    {
+      "EnglishWord": "depth first spanning tree",
+      "Meanings": [
+        "درخت پوشای جستجوی عمقی"
+      ]
+    },
+    {
+      "EnglishWord": "deque",
+      "Meanings": [
+        "صف دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "derangement",
+      "Meanings": [
+        "پریش"
+      ]
+    },
+    {
+      "EnglishWord": "descendant",
+      "Meanings": [
+        "نواده"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic",
+      "Meanings": [
+        "قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic algorithm",
+      "Meanings": [
+        "الگوریتم قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic finite automaton",
+      "Meanings": [
+        "اتوماتون متناهی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic finite state automaton",
+      "Meanings": [
+        "اتوماتون حالت متناهی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic finite state machine",
+      "Meanings": [
+        "ماشین حالت متناهی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic finite tree automaton",
+      "Meanings": [
+        "اتوماتون درختی متناهی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic pushdown automaton",
+      "Meanings": [
+        "اتوماتون پشته ای قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deterministic tree automaton",
+      "Meanings": [
+        "اتوماتون درختی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "deutsch-jozsa algorithm",
+      "Meanings": [
+        "الگوریتم دویچ",
+        "جوزا"
+      ]
+    },
+    {
+      "EnglishWord": "dfa",
+      "Meanings": [
+        "اتوماتون متناهی قطعی"
+      ]
+    },
+    {
+      "EnglishWord": "dfs",
+      "Meanings": [
+        "جستجوی عمق اول"
+      ]
+    },
+    {
+      "EnglishWord": "dfs forest",
+      "Meanings": [
+        "جنگل جستجوی عمق اول"
+      ]
+    },
+    {
+      "EnglishWord": "diagonal",
+      "Meanings": [
+        "قطر"
+      ]
+    },
+    {
+      "EnglishWord": "diagonalization",
+      "Meanings": [
+        "قطری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "diameter",
+      "Meanings": [
+        "قطر"
+      ]
+    },
+    {
+      "EnglishWord": "dictionary",
+      "Meanings": [
+        "دیکشنری"
+      ]
+    },
+    {
+      "EnglishWord": "difference",
+      "Meanings": [
+        "تفاضل"
+      ]
+    },
+    {
+      "EnglishWord": "digraph",
+      "Meanings": [
+        "گراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "dijkstra's algorithm",
+      "Meanings": [
+        "الگوریتم دایکسترا"
+      ]
+    },
+    {
+      "EnglishWord": "dimension",
+      "Meanings": [
+        "بعد"
+      ]
+    },
+    {
+      "EnglishWord": "diminishing increment sort",
+      "Meanings": [
+        "مرتب ساز شانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "dining philosophers",
+      "Meanings": [
+        "فیلسوفهای گرسنه"
+      ]
+    },
+    {
+      "EnglishWord": "direct recursion",
+      "Meanings": [
+        "بازگشتی مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "directed acyclic graph",
+      "Meanings": [
+        "گراف بی دور جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed acyclic subsequence graph",
+      "Meanings": [
+        "گراف زیر دنباله بی دور جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed cycle",
+      "Meanings": [
+        "دور جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed edge",
+      "Meanings": [
+        "یال جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "directed graph",
+      "Meanings": [
+        "گراف جهت دار"
+      ]
+    },
+    {
+      "EnglishWord": "discrete",
+      "Meanings": [
+        "گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "discrete p-center",
+      "Meanings": [
+        "p مرکز گسسته"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint set",
+      "Meanings": [
+        "مجموعه مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint set data structure",
+      "Meanings": [
+        "داده ساختار مجموعه مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "disjoint set forest",
+      "Meanings": [
+        "جنگل مجموعه مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "disjunction",
+      "Meanings": [
+        "ترکیب فصلی"
+      ]
+    },
+    {
+      "EnglishWord": "distinct",
+      "Meanings": [
+        "مجزا"
+      ]
+    },
+    {
+      "EnglishWord": "distribute",
+      "Meanings": [
+        "توزیع شده"
+      ]
+    },
+    {
+      "EnglishWord": "distribution sort",
+      "Meanings": [
+        "مرتب ساز توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "distributional complexity",
+      "Meanings": [
+        "پیچیدگی توزیعی"
+      ]
+    },
+    {
+      "EnglishWord": "divide and conquer",
+      "Meanings": [
+        "تقسیم و حل"
+      ]
+    },
+    {
+      "EnglishWord": "divide and marriage before conquest",
+      "Meanings": [
+        "تقسیم و ترکیب پیش از حل"
+      ]
+    },
+    {
+      "EnglishWord": "domain",
+      "Meanings": [
+        "دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "doomsday rule",
+      "Meanings": [
+        "قانون روز رستاخیز"
+      ]
+    },
+    {
+      "EnglishWord": "double direction bubble sort",
+      "Meanings": [
+        "مرتب ساز حبابی دو جهته"
+      ]
+    },
+    {
+      "EnglishWord": "double hashing",
+      "Meanings": [
+        "در هم سازی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "double rotation",
+      "Meanings": [
+        "دوران مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "doubly ended queue",
+      "Meanings": [
+        "صف دو سر"
+      ]
+    },
+    {
+      "EnglishWord": "doubly linked circular list",
+      "Meanings": [
+        "لیست دایره ای دو پیوندی"
+      ]
+    },
+    {
+      "EnglishWord": "doubly linked list",
+      "Meanings": [
+        "لیست پیوندی دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "downward",
+      "Meanings": [
+        "از بالا به پایین"
+      ]
+    },
+    {
+      "EnglishWord": "dual",
+      "Meanings": [
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic",
+      "Meanings": [
+        "پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic algorithm",
+      "Meanings": [
+        "الگوریتم پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic array",
+      "Meanings": [
+        "آرایه پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic hashing",
+      "Meanings": [
+        "در هم سازی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic programming",
+      "Meanings": [
+        "برنامه ریزی پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamic tree",
+      "Meanings": [
+        "درخت پویا"
+      ]
+    },
+    {
+      "EnglishWord": "dynamization transformation",
+      "Meanings": [
+        "تبدیل پویا سازی"
+      ]
+    }
+  ]
+}

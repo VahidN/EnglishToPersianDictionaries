@@ -1,0 +1,3209 @@
+﻿{
+  "Group": "B",
+  "Entries": 489,
+  "Words": [
+    {
+      "EnglishWord": "babylonians",
+      "Meanings": [
+        "بابلی‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "bachelier's method",
+      "Meanings": [
+        "روش باشولر"
+      ]
+    },
+    {
+      "EnglishWord": "back projection",
+      "Meanings": [
+        "پیش‌بینی"
+      ]
+    },
+    {
+      "EnglishWord": "back substitution",
+      "Meanings": [
+        "جای‌گذاری پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "background",
+      "Meanings": [
+        "زمینه",
+        "پس زمینه"
+      ]
+    },
+    {
+      "EnglishWord": "backspace",
+      "Meanings": [
+        "پس‌بر"
+      ]
+    },
+    {
+      "EnglishWord": "backward",
+      "Meanings": [
+        "پس‌رو آمار",
+        "پس‌رفتی",
+        "قهقرایی",
+        "به عقب",
+        "به پشت",
+        "پس‌گشت"
+      ]
+    },
+    {
+      "EnglishWord": "backward difference",
+      "Meanings": [
+        "تفاضل پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "backward difference operator",
+      "Meanings": [
+        "عملگر تفاضلی پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "backward differences",
+      "Meanings": [
+        "تفاضلات پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "backward elimination selection procedure",
+      "Meanings": [
+        "شیوه گزینش حذفی پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "backward induction",
+      "Meanings": [
+        "استقرای پس رفتی",
+        "استقرای قهقرایی"
+      ]
+    },
+    {
+      "EnglishWord": "backward shift operator",
+      "Meanings": [
+        "عملگر انتقال پس‌رو"
+      ]
+    },
+    {
+      "EnglishWord": "baire's set",
+      "Meanings": [
+        "مجموعه بیر"
+      ]
+    },
+    {
+      "EnglishWord": "balance",
+      "Meanings": [
+        "تعادل",
+        "توازن",
+        "متعادل کردن",
+        "ترازیدن",
+        "ترازش",
+        "باقی‌مانده"
+      ]
+    },
+    {
+      "EnglishWord": "balanced",
+      "Meanings": [
+        "متعادل",
+        "متوازن",
+        "ترازمند",
+        "ترازیده"
+      ]
+    },
+    {
+      "EnglishWord": "balanced block design",
+      "Meanings": [
+        "طرح بلوکی متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced design",
+      "Meanings": [
+        "طرح متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced difference",
+      "Meanings": [
+        "تفاضل متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced incomplete block",
+      "Meanings": [
+        "بلوک ناقص متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced incomplete block design",
+      "Meanings": [
+        "طرح بلوک‌های ناقص متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced range of error",
+      "Meanings": [
+        "دامنه خطای متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced repeated replication",
+      "Meanings": [
+        "تکرار مکرر متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced resampling",
+      "Meanings": [
+        "بازنمونه‌گیری متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced resampling using orthogonal multiarrays",
+      "Meanings": [
+        "بازنمونه‌گیری متعادل با استفاده از آرایه‌های چندگانه متعامد"
+      ]
+    },
+    {
+      "EnglishWord": "balanced sample",
+      "Meanings": [
+        "نمونه متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balanced set",
+      "Meanings": [
+        "مجموعه متعادل"
+      ]
+    },
+    {
+      "EnglishWord": "balancing",
+      "Meanings": [
+        "متعادل‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "ball",
+      "Meanings": [
+        "گوی",
+        "توپ",
+        "گلوله",
+        "جسم کروی",
+        "مهره"
+      ]
+    },
+    {
+      "EnglishWord": "ball shaped",
+      "Meanings": [
+        "کروی",
+        "گوی مانند"
+      ]
+    },
+    {
+      "EnglishWord": "ballot",
+      "Meanings": [
+        "برگه انتخابات"
+      ]
+    },
+    {
+      "EnglishWord": "ballot problems",
+      "Meanings": [
+        "مسایل رای‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "ballot theorem",
+      "Meanings": [
+        "قضیه رای‌گیری"
+      ]
+    },
+    {
+      "EnglishWord": "banach space",
+      "Meanings": [
+        "فضای باناخ"
+      ]
+    },
+    {
+      "EnglishWord": "band",
+      "Meanings": [
+        "نوار",
+        "نواره"
+      ]
+    },
+    {
+      "EnglishWord": "band chart",
+      "Meanings": [
+        "نمودار نواری"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "خط کسری",
+        "خط تیره",
+        "میله ای",
+        "علامت"
+      ]
+    },
+    {
+      "EnglishWord": "bar chart",
+      "Meanings": [
+        "نمودار میله‌ای آمار",
+        "نمودار مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "bar diagram",
+      "Meanings": [
+        "نمودار ستونی",
+        "نمودار خطی"
+      ]
+    },
+    {
+      "EnglishWord": "barycenter",
+      "Meanings": [
+        "گرانیگاه",
+        "مرکز ثقل",
+        "مرکز فشار",
+        "مرکز جرم",
+        "گران مرکز"
+      ]
+    },
+    {
+      "EnglishWord": "barycenter coordinates",
+      "Meanings": [
+        "مختصات گرانیگاهی",
+        "مختصات مرکز جرم",
+        "مختصات مرکز ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric",
+      "Meanings": [
+        "مرکز جرمی"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric angles of a triangle",
+      "Meanings": [
+        "زوایای مجاور به قاعده مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric coordinates",
+      "Meanings": [
+        "مختصات گرانیگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric field",
+      "Meanings": [
+        "هییت پایه"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric for a topology",
+      "Meanings": [
+        "پایه توپولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric for logarithm",
+      "Meanings": [
+        "مبنای لگاریتم",
+        "پایه برای لگاریتم"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric of a number system",
+      "Meanings": [
+        "مبنای یک دستگاه شمار"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric of nataral logarithm",
+      "Meanings": [
+        "پایه لگاریتم طبیعی",
+        "مبنای لگاریتم طبیعی"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric of neighborhoods",
+      "Meanings": [
+        "پایه همسایگی ها"
+      ]
+    },
+    {
+      "EnglishWord": "barycentric of triangle",
+      "Meanings": [
+        "قاعده مثلث"
+      ]
+    },
+    {
+      "EnglishWord": "base",
+      "Meanings": [
+        "پایه",
+        "مبنا",
+        "قاعده هندسه",
+        "پایه قوه",
+        "مبنا شمار",
+        "لگاریتم",
+        "پایه شمارش",
+        "فضای برداری",
+        "دستگاه مختصات",
+        "اساس",
+        "مبدا"
+      ]
+    },
+    {
+      "EnglishWord": "basic",
+      "Meanings": [
+        "بنیادی",
+        "پایه ای",
+        "اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic condition",
+      "Meanings": [
+        "شرط اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic data",
+      "Meanings": [
+        "داده‌های پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "basic feasible partition",
+      "Meanings": [
+        "افرازشدنی پایه"
+      ]
+    },
+    {
+      "EnglishWord": "basic feasible solution",
+      "Meanings": [
+        "جواب ممکن بنیادی",
+        "جواب شدنی پایه"
+      ]
+    },
+    {
+      "EnglishWord": "basic feasible solution bounded variables",
+      "Meanings": [
+        "جواب شدنی پایه متغیرهای کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "basic feasible solution optimal",
+      "Meanings": [
+        "جواب شدنی پایه بهینه"
+      ]
+    },
+    {
+      "EnglishWord": "basic form",
+      "Meanings": [
+        "فرم پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "basic information",
+      "Meanings": [
+        "اطلاع پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "basic reason",
+      "Meanings": [
+        "دلیل اساسی"
+      ]
+    },
+    {
+      "EnglishWord": "basic solution",
+      "Meanings": [
+        "جواب اساسی",
+        "جواب پایه"
+      ]
+    },
+    {
+      "EnglishWord": "basis",
+      "Meanings": [
+        "پایه",
+        "مبنا فضای حاملی",
+        "پایه فضای برداری",
+        "جمع این کلمه به صورت bases است"
+      ]
+    },
+    {
+      "EnglishWord": "basis of a vector space",
+      "Meanings": [
+        "پایه فضای برداری"
+      ]
+    },
+    {
+      "EnglishWord": "basis of commutative group",
+      "Meanings": [
+        "پایه گروه جابجایی پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "basis of module",
+      "Meanings": [
+        "پایه مدول"
+      ]
+    },
+    {
+      "EnglishWord": "basis vectors",
+      "Meanings": [
+        "بردارهای پایه",
+        "بردارهای پایه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bass frequency",
+      "Meanings": [
+        "کم بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "bassel's correction",
+      "Meanings": [
+        "تصحیح بسل"
+      ]
+    },
+    {
+      "EnglishWord": "bassel's inequality",
+      "Meanings": [
+        "نامساوی بسل"
+      ]
+    },
+    {
+      "EnglishWord": "batch",
+      "Meanings": [
+        "دسته"
+      ]
+    },
+    {
+      "EnglishWord": "bathtub curve",
+      "Meanings": [
+        "خم گودالی"
+      ]
+    },
+    {
+      "EnglishWord": "batlamiuos",
+      "Meanings": [
+        "بطلمیوس اسکندرنی",
+        "در حدود 150 سال بعد از میلاد می‌زیسته وکتابی را بنام سونتاکسیس ماتماتیکا یا مجموعه ریاضی نوشت که بعدا صفت مجسته یا بزرگترین را به آن دادند که بین مسلمین به مجسطی والمجسطی معروف شد",
+        "این کتاب تا حدود1500 سال بود به عنوان عمده‌ترین کتاب نجوم جهان باقی ماند. همچنین قضیه ای درباره چهارضلعی‌های محاطی دارد"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' basic theorem",
+      "Meanings": [
+        "قضیه اصلی بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' corollary",
+      "Meanings": [
+        "قضیه فرعی بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes criterion",
+      "Meanings": [
+        "ملاک بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes formula",
+      "Meanings": [
+        "فرمول بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' formula",
+      "Meanings": [
+        "فرمول بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes linear estimator",
+      "Meanings": [
+        "برآوردگر خطی بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes loss",
+      "Meanings": [
+        "زیان بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' loss",
+      "Meanings": [
+        "زیان بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' postulate",
+      "Meanings": [
+        "اصل بیز",
+        "فرض مسلم بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes risk",
+      "Meanings": [
+        "مخاطره بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' risk",
+      "Meanings": [
+        "مخاطره بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' rule",
+      "Meanings": [
+        "قاعده بیز",
+        "قانون بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayes' theorem",
+      "Meanings": [
+        "قضیه بیز"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian",
+      "Meanings": [
+        "بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian analysis",
+      "Meanings": [
+        "تجزیه و تحلیل بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian concept",
+      "Meanings": [
+        "مفهوم بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian criterion",
+      "Meanings": [
+        "ملاک بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian distribution",
+      "Meanings": [
+        "توزیع بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian forecasting",
+      "Meanings": [
+        "پیش‌بینی بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian inference",
+      "Meanings": [
+        "استنباط به شیوه بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian interval",
+      "Meanings": [
+        "فاصله بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian limit",
+      "Meanings": [
+        "حد بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian method",
+      "Meanings": [
+        "روش بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian model selection",
+      "Meanings": [
+        "مدل‌گزینی بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian prediction",
+      "Meanings": [
+        "پیشگویی بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian regression",
+      "Meanings": [
+        "رگرسیون بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "bayesian robustness",
+      "Meanings": [
+        "استواری بیزی"
+      ]
+    },
+    {
+      "EnglishWord": "beam",
+      "Meanings": [
+        "دسته",
+        "پرتو",
+        "شعاع"
+      ]
+    },
+    {
+      "EnglishWord": "beam numbers",
+      "Meanings": [
+        "عددهای تیری"
+      ]
+    },
+    {
+      "EnglishWord": "bearing",
+      "Meanings": [
+        "سویه"
+      ]
+    },
+    {
+      "EnglishWord": "bechhofer test",
+      "Meanings": [
+        "آزمون بچهوفر"
+      ]
+    },
+    {
+      "EnglishWord": "bee line",
+      "Meanings": [
+        "خط راست",
+        "اقصر فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "before decimal",
+      "Meanings": [
+        "قسمت صحیح عدد حقیقی",
+        "بزرگترین عدد صحیح کوچکتر از یک عدد حقیقی معین"
+      ]
+    },
+    {
+      "EnglishWord": "behavior",
+      "Meanings": [
+        "رفتار",
+        "وضع",
+        "کردار",
+        "روش عمل"
+      ]
+    },
+    {
+      "EnglishWord": "behrens' problem",
+      "Meanings": [
+        "مساله بیرنس"
+      ]
+    },
+    {
+      "EnglishWord": "behrense fisher's problem",
+      "Meanings": [
+        "مساله بهرنز فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "behrens-fisher problem",
+      "Meanings": [
+        "مساله بیرنس",
+        "فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "behrens-fisher test",
+      "Meanings": [
+        "آزمون بیرنس",
+        "فیشر"
+      ]
+    },
+    {
+      "EnglishWord": "bei function",
+      "Meanings": [
+        "تابع بی"
+      ]
+    },
+    {
+      "EnglishWord": "belief function",
+      "Meanings": [
+        "تابع باور"
+      ]
+    },
+    {
+      "EnglishWord": "bell curve",
+      "Meanings": [
+        "منحنی زنگی شکل",
+        "منحنی زنگ شکل",
+        "منحنی توزیع نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "bell graph",
+      "Meanings": [
+        "گراف زنگسان",
+        "نگار زنگسان"
+      ]
+    },
+    {
+      "EnglishWord": "bell polynomial",
+      "Meanings": [
+        "چندجمله‌ای بل"
+      ]
+    },
+    {
+      "EnglishWord": "bell shaped",
+      "Meanings": [
+        "زنگ‌دیس آمار"
+      ]
+    },
+    {
+      "EnglishWord": "bell shaped distribution",
+      "Meanings": [
+        "توزیع زنگ‌دیس"
+      ]
+    },
+    {
+      "EnglishWord": "bell-duksum test",
+      "Meanings": [
+        "آزمون بل",
+        "داکسام"
+      ]
+    },
+    {
+      "EnglishWord": "bellman-harris process",
+      "Meanings": [
+        "فرآیند یلمن",
+        "هریس"
+      ]
+    },
+    {
+      "EnglishWord": "bell-shaped curve",
+      "Meanings": [
+        "منحنی زنگ‌دیس"
+      ]
+    },
+    {
+      "EnglishWord": "belong",
+      "Meanings": [
+        "متعلق بودن",
+        "تعلق داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "belonging",
+      "Meanings": [
+        "تعلق"
+      ]
+    },
+    {
+      "EnglishWord": "belonging relation",
+      "Meanings": [
+        "رابطه تعلق"
+      ]
+    },
+    {
+      "EnglishWord": "below",
+      "Meanings": [
+        "زیر",
+        "پایین"
+      ]
+    },
+    {
+      "EnglishWord": "bend",
+      "Meanings": [
+        "خم کردن",
+        "خمیدگی",
+        "پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "bend point of a curve",
+      "Meanings": [
+        "نقطه عطف منحنی",
+        "نقطه خمش منحنی"
+      ]
+    },
+    {
+      "EnglishWord": "bending",
+      "Meanings": [
+        "انحنا",
+        "خمیدگی",
+        "عطف"
+      ]
+    },
+    {
+      "EnglishWord": "bending a surface",
+      "Meanings": [
+        "خماندن رویه"
+      ]
+    },
+    {
+      "EnglishWord": "bending invariant",
+      "Meanings": [
+        "پایای خمش"
+      ]
+    },
+    {
+      "EnglishWord": "bending moment",
+      "Meanings": [
+        "گشتاور خمشی"
+      ]
+    },
+    {
+      "EnglishWord": "benford's law",
+      "Meanings": [
+        "قانون بنفورد"
+      ]
+    },
+    {
+      "EnglishWord": "bennett's bivariate sign test",
+      "Meanings": [
+        "آزمون علامت دومتغیره بنت"
+      ]
+    },
+    {
+      "EnglishWord": "ber",
+      "Meanings": [
+        "بر"
+      ]
+    },
+    {
+      "EnglishWord": "berge inequality",
+      "Meanings": [
+        "نامساوی برگ"
+      ]
+    },
+    {
+      "EnglishWord": "berkson's 2n rule",
+      "Meanings": [
+        "قاعده دو ان n2 برکسون"
+      ]
+    },
+    {
+      "EnglishWord": "berkson's minimum logit chi^2 procedure",
+      "Meanings": [
+        "شیوه مینیمم لوجیت c‌^2ی برکسون"
+      ]
+    },
+    {
+      "EnglishWord": "berkson's minimum normit chi^2 procedure",
+      "Meanings": [
+        "شیوه مینیمم نرمیت ^2ی برکسون"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli distribution",
+      "Meanings": [
+        "توزیع برنولی",
+        "پخش برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli function",
+      "Meanings": [
+        "تابع برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli lemniscate",
+      "Meanings": [
+        "پروانه برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli method",
+      "Meanings": [
+        "روش برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli number",
+      "Meanings": [
+        "عدد برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli polynomial",
+      "Meanings": [
+        "چندجمله‌ای برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli process",
+      "Meanings": [
+        "فرآیند برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli scheme",
+      "Meanings": [
+        "شمای برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli shift",
+      "Meanings": [
+        "انتقال برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli society",
+      "Meanings": [
+        "جامعه برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli spiral",
+      "Meanings": [
+        "مارپیچ برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli trial",
+      "Meanings": [
+        "امتحان برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli trials",
+      "Meanings": [
+        "آزمایش‌های برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli's differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli's equation",
+      "Meanings": [
+        "معادله برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli's form of law of large numbers",
+      "Meanings": [
+        "قانون اعداد بزرگ به صورت برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli's formula",
+      "Meanings": [
+        "فرمول برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernoulli's theorem",
+      "Meanings": [
+        "قضیه برنولی"
+      ]
+    },
+    {
+      "EnglishWord": "bernstein lemma",
+      "Meanings": [
+        "لم برنشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "bernstein polynomial",
+      "Meanings": [
+        "چندجمله‌ای برنشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "bernstein's inequality",
+      "Meanings": [
+        "نامساوی برنشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "bernstein's theorem",
+      "Meanings": [
+        "قضیه برنشتاین"
+      ]
+    },
+    {
+      "EnglishWord": "berry-esseen inequality",
+      "Meanings": [
+        "نابرابری بری",
+        "اسین"
+      ]
+    },
+    {
+      "EnglishWord": "berry-esseen theorem",
+      "Meanings": [
+        "قضیه بری",
+        "اسین"
+      ]
+    },
+    {
+      "EnglishWord": "bertrand's lemma",
+      "Meanings": [
+        "لم برتران"
+      ]
+    },
+    {
+      "EnglishWord": "bertrand's paradoxes",
+      "Meanings": [
+        "پارادوکس‌های برتران"
+      ]
+    },
+    {
+      "EnglishWord": "bertrand's theory of hypothesis testing",
+      "Meanings": [
+        "نظریه آزمون فرض برتران"
+      ]
+    },
+    {
+      "EnglishWord": "bessel function",
+      "Meanings": [
+        "تابع بسل"
+      ]
+    },
+    {
+      "EnglishWord": "bessel function distribution",
+      "Meanings": [
+        "توزیع تابع بسلی"
+      ]
+    },
+    {
+      "EnglishWord": "bessel process",
+      "Meanings": [
+        "فرآیند بسلی"
+      ]
+    },
+    {
+      "EnglishWord": "bessel's interpolation formula",
+      "Meanings": [
+        "فرمول درون‌یابی بسل"
+      ]
+    },
+    {
+      "EnglishWord": "best",
+      "Meanings": [
+        "بهترین"
+      ]
+    },
+    {
+      "EnglishWord": "best approximation",
+      "Meanings": [
+        "بهترین تقریب"
+      ]
+    },
+    {
+      "EnglishWord": "best asymptotically normal",
+      "Meanings": [
+        "بهترین به طور مجانب نرمال",
+        "بهترین مجانبا نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "best asymptotically normal estimator",
+      "Meanings": [
+        "بهترین برآوردگر مجانبا نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "best critical region",
+      "Meanings": [
+        "بهترین ناحیه بحرانی"
+      ]
+    },
+    {
+      "EnglishWord": "best estimate",
+      "Meanings": [
+        "بهترین برآورد"
+      ]
+    },
+    {
+      "EnglishWord": "best estimator",
+      "Meanings": [
+        "بهترین برآوردکننده"
+      ]
+    },
+    {
+      "EnglishWord": "best invariant estimator",
+      "Meanings": [
+        "بهترین برآوردگر ناوردا"
+      ]
+    },
+    {
+      "EnglishWord": "best linear unbiased estimate",
+      "Meanings": [
+        "بهترین برآورد خطی نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "best linear unbiased estimator",
+      "Meanings": [
+        "بهترین برآوردگر خطی نااریب"
+      ]
+    },
+    {
+      "EnglishWord": "best prediction equation",
+      "Meanings": [
+        "بهترین معادله پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "best prediction line",
+      "Meanings": [
+        "بهترین خط پیش بینی"
+      ]
+    },
+    {
+      "EnglishWord": "best predictor",
+      "Meanings": [
+        "بهترین پیشگو"
+      ]
+    },
+    {
+      "EnglishWord": "bet",
+      "Meanings": [
+        "شرط بندی",
+        "شرط بستن"
+      ]
+    },
+    {
+      "EnglishWord": "beta coefficient",
+      "Meanings": [
+        "ضریب بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta distribution",
+      "Meanings": [
+        "توزیع بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta distribution law",
+      "Meanings": [
+        "قانون توزیع بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta function",
+      "Meanings": [
+        "تابع بتا"
+      ]
+    },
+    {
+      "EnglishWord": "beta integral",
+      "Meanings": [
+        "انتگرال بتا"
+      ]
+    },
+    {
+      "EnglishWord": "betting odds",
+      "Meanings": [
+        "بخت شرط‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "between",
+      "Meanings": [
+        "بین",
+        "در میان"
+      ]
+    },
+    {
+      "EnglishWord": "betweenness",
+      "Meanings": [
+        "بینیت"
+      ]
+    },
+    {
+      "EnglishWord": "betweenness axiom",
+      "Meanings": [
+        "بنداشت میانبود"
+      ]
+    },
+    {
+      "EnglishWord": "bevel",
+      "Meanings": [
+        "گونیا"
+      ]
+    },
+    {
+      "EnglishWord": "bhate's conjecture",
+      "Meanings": [
+        "حدس بات"
+      ]
+    },
+    {
+      "EnglishWord": "biadditive",
+      "Meanings": [
+        "دوجمعی",
+        "دوجمع پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "bialternate",
+      "Meanings": [
+        "دوتناوبی"
+      ]
+    },
+    {
+      "EnglishWord": "bianchi identity",
+      "Meanings": [
+        "اتحاد بیانکی",
+        "همانی بیانکی"
+      ]
+    },
+    {
+      "EnglishWord": "bias",
+      "Meanings": [
+        "اریبی آمار",
+        "تورش",
+        "اریب"
+      ]
+    },
+    {
+      "EnglishWord": "bias error",
+      "Meanings": [
+        "خطای اریبی"
+      ]
+    },
+    {
+      "EnglishWord": "bias in cluster sampling",
+      "Meanings": [
+        "اریبی در نمونه گیری خوشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "bias of an estimator",
+      "Meanings": [
+        "اریبی یک برآوردگر"
+      ]
+    },
+    {
+      "EnglishWord": "bias sampling",
+      "Meanings": [
+        "نمونه برداری غیرتصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "biased",
+      "Meanings": [
+        "اریب",
+        "اریب‌شده",
+        "تور"
+      ]
+    },
+    {
+      "EnglishWord": "biased estimator",
+      "Meanings": [
+        "برآوردگر اریب"
+      ]
+    },
+    {
+      "EnglishWord": "biased sample",
+      "Meanings": [
+        "نمونه اریب"
+      ]
+    },
+    {
+      "EnglishWord": "biased statistic",
+      "Meanings": [
+        "آماره اریب"
+      ]
+    },
+    {
+      "EnglishWord": "biased test",
+      "Meanings": [
+        "آزمون اریب"
+      ]
+    },
+    {
+      "EnglishWord": "bias-free",
+      "Meanings": [
+        "عاری از اریبی"
+      ]
+    },
+    {
+      "EnglishWord": "biaxial",
+      "Meanings": [
+        "دو محوری"
+      ]
+    },
+    {
+      "EnglishWord": "bicompact",
+      "Meanings": [
+        "فشرده مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bicompactum",
+      "Meanings": [
+        "فضای فشرده اندازه پذیر مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "biconcave",
+      "Meanings": [
+        "مقعرالطرفین"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional",
+      "Meanings": [
+        "دوشرطی ترکیب",
+        "گزاره",
+        "ترکیب دوشرطی"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional composition",
+      "Meanings": [
+        "ترکیب دوشرطی"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional connective",
+      "Meanings": [
+        "رابط دوشرطی",
+        "ادات ترکیب دوشرطی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional proposition",
+      "Meanings": [
+        "گزاره دوشرطی"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional sentence",
+      "Meanings": [
+        "گزاره دو شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "biconditional statement",
+      "Meanings": [
+        "گزاره دو شرطی"
+      ]
+    },
+    {
+      "EnglishWord": "bicone",
+      "Meanings": [
+        "دو مخروطی",
+        "دذو مخروط که دارای قاعده مشترک باشند"
+      ]
+    },
+    {
+      "EnglishWord": "bicontinuous",
+      "Meanings": [
+        "دو پیوسته",
+        "از دو سو پیوسته",
+        "پیوسته دوسویی",
+        "پیوسته مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bicontinuous mapping",
+      "Meanings": [
+        "نگاشت دو سو پیوسته"
+      ]
+    },
+    {
+      "EnglishWord": "biconvex",
+      "Meanings": [
+        "محدب الطرفین"
+      ]
+    },
+    {
+      "EnglishWord": "bicorn curve",
+      "Meanings": [
+        "منحنی دو شاخه"
+      ]
+    },
+    {
+      "EnglishWord": "bicuspid",
+      "Meanings": [
+        "دو دندانه",
+        "دو پایه",
+        "دو گوشه"
+      ]
+    },
+    {
+      "EnglishWord": "bicuspidal",
+      "Meanings": [
+        "دو بازگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "bidual",
+      "Meanings": [
+        "همتای دوم",
+        "دوگان دوم",
+        "دوگان"
+      ]
+    },
+    {
+      "EnglishWord": "bidual space",
+      "Meanings": [
+        "فضای بی دو آل"
+      ]
+    },
+    {
+      "EnglishWord": "bienayme-chebyshev inequality",
+      "Meanings": [
+        "نابرابری بی‌ان‌امه",
+        "چبیشف"
+      ]
+    },
+    {
+      "EnglishWord": "bifocal",
+      "Meanings": [
+        "دو کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "bifurcation",
+      "Meanings": [
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "bigeometry",
+      "Meanings": [
+        "دوهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "biharmonic",
+      "Meanings": [
+        "دو همساز",
+        "دو هماهنگ",
+        "همساز مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bijection",
+      "Meanings": [
+        "نگاشت دو سو",
+        "دو سویی",
+        "نگاشت یک به یک",
+        "پوشا",
+        "دو سو گستری",
+        "بیژکسیون"
+      ]
+    },
+    {
+      "EnglishWord": "bijective",
+      "Meanings": [
+        "دو سویی",
+        "بیژکتیو",
+        "متقابل",
+        "دو گستر",
+        "نگاشت دو طرفه",
+        "گسترش دو سویی",
+        "نگاشت دو سویی"
+      ]
+    },
+    {
+      "EnglishWord": "bijective correspondence",
+      "Meanings": [
+        "رابطه بیژکتیو",
+        "رابطه دو سویی"
+      ]
+    },
+    {
+      "EnglishWord": "bijective mapping",
+      "Meanings": [
+        "نگاشت دو سویی",
+        "مطابقه بیژکتیو",
+        "گسترش هم افکن"
+      ]
+    },
+    {
+      "EnglishWord": "bilateral",
+      "Meanings": [
+        "دو جانبه",
+        "دو طرفه"
+      ]
+    },
+    {
+      "EnglishWord": "bilinear",
+      "Meanings": [
+        "دو خطی",
+        "خطی مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bilinear form",
+      "Meanings": [
+        "صورت مضاعف خطی",
+        "فرم دو خطی"
+      ]
+    },
+    {
+      "EnglishWord": "bilinear transformation",
+      "Meanings": [
+        "تبدیل دو خطی"
+      ]
+    },
+    {
+      "EnglishWord": "billion",
+      "Meanings": [
+        "بیلیون",
+        "میلیارد",
+        "این عدد در آمریکا برابر با 10 به توان 9 و در فرانسه",
+        "انگلستان و آلمان برابر 10 به توان 12 در نظر گرفته می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "bimodal",
+      "Meanings": [
+        "دو نمایی",
+        "دو قیدی",
+        "دو وجهی"
+      ]
+    },
+    {
+      "EnglishWord": "bimodal distribution",
+      "Meanings": [
+        "توزیع دو نمایی",
+        "توزیع دو مدی"
+      ]
+    },
+    {
+      "EnglishWord": "binary",
+      "Meanings": [
+        "دوتایی نسبت",
+        "عمل",
+        "بر مبنای دو",
+        "دو جایی",
+        "دو گانه",
+        "پایه دو",
+        "دو دویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary arithmetic",
+      "Meanings": [
+        "حساب در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary base",
+      "Meanings": [
+        "پایه دو",
+        "مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary connective",
+      "Meanings": [
+        "ادات دو طرفی منطق",
+        "ادات دوتایی منطق"
+      ]
+    },
+    {
+      "EnglishWord": "binary data",
+      "Meanings": [
+        "داده‌های دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary experiment",
+      "Meanings": [
+        "آزمایش دو تایی"
+      ]
+    },
+    {
+      "EnglishWord": "binary number",
+      "Meanings": [
+        "عدد دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "binary number system",
+      "Meanings": [
+        "دستگاه اعداد در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary operation",
+      "Meanings": [
+        "عمل دوتایی",
+        "فانون ترکیب داخلی",
+        "عمل دو جایی"
+      ]
+    },
+    {
+      "EnglishWord": "binary relation",
+      "Meanings": [
+        "نسبت دو تایی",
+        "رابطه دوتایی",
+        "رابطه دوجایی"
+      ]
+    },
+    {
+      "EnglishWord": "binary scale",
+      "Meanings": [
+        "مقیاس دویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary sequence",
+      "Meanings": [
+        "دنباله دوحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "binary string",
+      "Meanings": [
+        "رشته دوحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "binary string technique",
+      "Meanings": [
+        "فن رشته دوحالتی"
+      ]
+    },
+    {
+      "EnglishWord": "binary system",
+      "Meanings": [
+        "دستگاه دوتایی",
+        "دستگاه اعداد در مبنای دو"
+      ]
+    },
+    {
+      "EnglishWord": "binary variable",
+      "Meanings": [
+        "متغیر دودویی",
+        "متغیر دوتایی"
+      ]
+    },
+    {
+      "EnglishWord": "binet's rule",
+      "Meanings": [
+        "قاعده بینه"
+      ]
+    },
+    {
+      "EnglishWord": "bingham distribution",
+      "Meanings": [
+        "توزیع بینگام"
+      ]
+    },
+    {
+      "EnglishWord": "binning",
+      "Meanings": [
+        "تظریف"
+      ]
+    },
+    {
+      "EnglishWord": "binomial",
+      "Meanings": [
+        "دوجمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial approximation",
+      "Meanings": [
+        "تقریب دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial coefficient",
+      "Meanings": [
+        "ضریب دو جمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial distribution",
+      "Meanings": [
+        "توزیع دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial distribution law",
+      "Meanings": [
+        "قانون توزیع دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial expansion",
+      "Meanings": [
+        "بسط دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial formula",
+      "Meanings": [
+        "فرمول دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial moment",
+      "Meanings": [
+        "گشتاور دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial probability distribution",
+      "Meanings": [
+        "توزیع احتمال دو جمله ای",
+        "بخش احتمال دو جمله ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial probability paper",
+      "Meanings": [
+        "کاغذ احتمال دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial proportion",
+      "Meanings": [
+        "نسبت دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial series",
+      "Meanings": [
+        "سری دو جمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial test",
+      "Meanings": [
+        "آزمون دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binomial theorem",
+      "Meanings": [
+        "قضیه دو جمله ای",
+        "دستور دو جمله ای",
+        "دو جمله ای نیوتن"
+      ]
+    },
+    {
+      "EnglishWord": "binomial trial",
+      "Meanings": [
+        "آزمایه دوجمله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "binormal",
+      "Meanings": [
+        "دونرمال",
+        "دو ستون",
+        "قایم دوم",
+        "هنجار دوم",
+        "بی نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "bioassay",
+      "Meanings": [
+        "عیارسنجی زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "bioavailability",
+      "Meanings": [
+        "زیست‌آمادگی"
+      ]
+    },
+    {
+      "EnglishWord": "bioequivalence",
+      "Meanings": [
+        "زیست‌هم‌ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "bioequivalence confidence interval",
+      "Meanings": [
+        "بازه اطمینان زیست‌هم‌ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "biogeography",
+      "Meanings": [
+        "زیست‌جغرافیا"
+      ]
+    },
+    {
+      "EnglishWord": "biometric function",
+      "Meanings": [
+        "تابع زیست‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "biometric society",
+      "Meanings": [
+        "جامعه زیست‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "biometry",
+      "Meanings": [
+        "ریاضیات زیستی",
+        "حیات‌سنجی",
+        "زیست‌سنجی"
+      ]
+    },
+    {
+      "EnglishWord": "biorthogonal",
+      "Meanings": [
+        "دو متعامد",
+        "دو متعامدی"
+      ]
+    },
+    {
+      "EnglishWord": "biosciences",
+      "Meanings": [
+        "علوم زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "biostatistics",
+      "Meanings": [
+        "آمار زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "bipartite",
+      "Meanings": [
+        "دو قسمتی",
+        "دو پاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "bipartite graph",
+      "Meanings": [
+        "گراف دوبخشی"
+      ]
+    },
+    {
+      "EnglishWord": "bi-pivot",
+      "Meanings": [
+        "دومحوری"
+      ]
+    },
+    {
+      "EnglishWord": "bi-pivot t-statistics",
+      "Meanings": [
+        "آماره‌های tی دومحوری"
+      ]
+    },
+    {
+      "EnglishWord": "biplot",
+      "Meanings": [
+        "دونموداره"
+      ]
+    },
+    {
+      "EnglishWord": "bipoint",
+      "Meanings": [
+        "دو نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "bipolar",
+      "Meanings": [
+        "دو قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "bipolar coordinates",
+      "Meanings": [
+        "مختصات دو قطبی"
+      ]
+    },
+    {
+      "EnglishWord": "bipunctual coordinates",
+      "Meanings": [
+        "مختصات نسبت به دو نقطه"
+      ]
+    },
+    {
+      "EnglishWord": "bipyramid",
+      "Meanings": [
+        "هرم مضاعف",
+        "دو هرم با قاعده مشترک"
+      ]
+    },
+    {
+      "EnglishWord": "biquadrate",
+      "Meanings": [
+        "دو مجذوری"
+      ]
+    },
+    {
+      "EnglishWord": "biquadratic",
+      "Meanings": [
+        "دو مجذوری",
+        "درجه چهارم",
+        "چارین"
+      ]
+    },
+    {
+      "EnglishWord": "biquadratic equation",
+      "Meanings": [
+        "معادله درجه چهارم",
+        "معادله دو مجذوری"
+      ]
+    },
+    {
+      "EnglishWord": "biquinary",
+      "Meanings": [
+        "دو پنجی"
+      ]
+    },
+    {
+      "EnglishWord": "birectangular",
+      "Meanings": [
+        "دو قایمه"
+      ]
+    },
+    {
+      "EnglishWord": "birnbaum-hall test",
+      "Meanings": [
+        "آزمون برن‌بام",
+        "هال"
+      ]
+    },
+    {
+      "EnglishWord": "birnbaum-raymond-zuckerman inequality",
+      "Meanings": [
+        "نابرابری برن‌بام",
+        "ریموند",
+        "زوکرمن"
+      ]
+    },
+    {
+      "EnglishWord": "birnbaum's theorem",
+      "Meanings": [
+        "قضیه برن‌بام"
+      ]
+    },
+    {
+      "EnglishWord": "birth and death process",
+      "Meanings": [
+        "فرایند زاد و مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "birth process",
+      "Meanings": [
+        "فرآیند زاد"
+      ]
+    },
+    {
+      "EnglishWord": "birth-and-death processes",
+      "Meanings": [
+        "فرآیندهای زاد و مرگ"
+      ]
+    },
+    {
+      "EnglishWord": "bisect",
+      "Meanings": [
+        "دو نیمه کردن",
+        "نصف کردن",
+        "نیم ساز",
+        "تنصیف"
+      ]
+    },
+    {
+      "EnglishWord": "bisect in area",
+      "Meanings": [
+        "منصف در مساحت"
+      ]
+    },
+    {
+      "EnglishWord": "bisecting",
+      "Meanings": [
+        "میانی"
+      ]
+    },
+    {
+      "EnglishWord": "bisection",
+      "Meanings": [
+        "تنصیف نیمسازی"
+      ]
+    },
+    {
+      "EnglishWord": "bisector",
+      "Meanings": [
+        "نیمساز",
+        "منصف"
+      ]
+    },
+    {
+      "EnglishWord": "bisector of a line segment",
+      "Meanings": [
+        "منصف یک پاره خط"
+      ]
+    },
+    {
+      "EnglishWord": "bisector plane",
+      "Meanings": [
+        "صفحه منصف",
+        "نیمساز"
+      ]
+    },
+    {
+      "EnglishWord": "bisectrix",
+      "Meanings": [
+        "منصف",
+        "نیمساز",
+        "خط منصف",
+        "منصف زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "biserial",
+      "Meanings": [
+        "دورشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "biserial correlation",
+      "Meanings": [
+        "همبستگی دو رشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "bisquare equation",
+      "Meanings": [
+        "معادله دو مجذوری"
+      ]
+    },
+    {
+      "EnglishWord": "bisquare fitting",
+      "Meanings": [
+        "برازش دومربعی"
+      ]
+    },
+    {
+      "EnglishWord": "bit",
+      "Meanings": [
+        "بیت"
+      ]
+    },
+    {
+      "EnglishWord": "bitangent",
+      "Meanings": [
+        "مماس مضاعف"
+      ]
+    },
+    {
+      "EnglishWord": "bitterlich's angle-count method",
+      "Meanings": [
+        "روش شمارش زاویه‌ای بیترلیخ"
+      ]
+    },
+    {
+      "EnglishWord": "biunique",
+      "Meanings": [
+        "دو سویی",
+        "یک به یک و دو جانبه",
+        "بیژکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "biunique correspondence",
+      "Meanings": [
+        "تناظر یک به یک منطق"
+      ]
+    },
+    {
+      "EnglishWord": "biunivocal",
+      "Meanings": [
+        "دو سویی"
+      ]
+    },
+    {
+      "EnglishWord": "biunivocal correspondence",
+      "Meanings": [
+        "رابطه دو سویی"
+      ]
+    },
+    {
+      "EnglishWord": "biunivocal mapping",
+      "Meanings": [
+        "گسترش دو سویی",
+        "نگاشت دو سویی"
+      ]
+    },
+    {
+      "EnglishWord": "bivariant",
+      "Meanings": [
+        "دو متغیری"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate",
+      "Meanings": [
+        "دو متغیری",
+        "دو متغیره",
+        "دو وردایی"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate analysis",
+      "Meanings": [
+        "تحلیل دو متغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate binomial distribution",
+      "Meanings": [
+        "توزیع دوجمله‌ای دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate distribution",
+      "Meanings": [
+        "توزیع دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate generating function",
+      "Meanings": [
+        "تابع مولد دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate normal distribution",
+      "Meanings": [
+        "توزیع دو متغیره نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate normal surface",
+      "Meanings": [
+        "سطح دو متغیری نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate population",
+      "Meanings": [
+        "جامعه دو متغیری"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate rank sum test",
+      "Meanings": [
+        "آزمون مجموع رتبه‌های دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate symmetry test",
+      "Meanings": [
+        "آزمون تقارن دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivariate transformation",
+      "Meanings": [
+        "تبدیل دومتغیره"
+      ]
+    },
+    {
+      "EnglishWord": "bivector",
+      "Meanings": [
+        "دو برداری",
+        "دو برداره",
+        "دو بردار"
+      ]
+    },
+    {
+      "EnglishWord": "black box",
+      "Meanings": [
+        "جعبه سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "blackwellization",
+      "Meanings": [
+        "بلک‌ول‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "blaise pascal",
+      "Meanings": [
+        "بلیز پاسکال",
+        "ریاضیدان و فیزیکدان فرانسوی",
+        ". در مورد هندسه مخروطات کار کرد. قانون پاسکال را در رابطه با فشار یک مایع در حالت سکون ابداع کرد. مثلث پاسکال را برای محاسبه احتمالات ویژه به کار برد"
+      ]
+    },
+    {
+      "EnglishWord": "block",
+      "Meanings": [
+        "بلوک",
+        "پارچ",
+        "قطعه",
+        "جدول"
+      ]
+    },
+    {
+      "EnglishWord": "block algorithm",
+      "Meanings": [
+        "الگوریتم بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block bias",
+      "Meanings": [
+        "اختلاف بلوک ها",
+        "تورش بلوک ها"
+      ]
+    },
+    {
+      "EnglishWord": "block design",
+      "Meanings": [
+        "طرح بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block effect",
+      "Meanings": [
+        "اثر بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block effects",
+      "Meanings": [
+        "اثرات بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block matrix",
+      "Meanings": [
+        "ماتریس بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "block multiplication",
+      "Meanings": [
+        "ضرب جدولی",
+        "ضرب بلوکی",
+        "ضرب پارچی"
+      ]
+    },
+    {
+      "EnglishWord": "blocking",
+      "Meanings": [
+        "بلوک‌بندی",
+        "بلوکی"
+      ]
+    },
+    {
+      "EnglishWord": "blumen's bivariate sign test",
+      "Meanings": [
+        "آزمون علامت دومتغیره بلومن"
+      ]
+    },
+    {
+      "EnglishWord": "bode's law",
+      "Meanings": [
+        "قانون بوده"
+      ]
+    },
+    {
+      "EnglishWord": "body",
+      "Meanings": [
+        "تنه"
+      ]
+    },
+    {
+      "EnglishWord": "bolzano wierstrass theorem",
+      "Meanings": [
+        "قضیه بولتسانو وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "bolzano-weierstrass theorem",
+      "Meanings": [
+        "قضیه بولزانو",
+        "وایرشتراس"
+      ]
+    },
+    {
+      "EnglishWord": "bond",
+      "Meanings": [
+        "بند"
+      ]
+    },
+    {
+      "EnglishWord": "bonferroni concentration index",
+      "Meanings": [
+        "شاخص تمرکز بون‌فرونی"
+      ]
+    },
+    {
+      "EnglishWord": "bonferroni inequalities and intervals",
+      "Meanings": [
+        "بازه‌ها و نامساوی‌های بون‌فرونی"
+      ]
+    },
+    {
+      "EnglishWord": "bonferroni t-statistic",
+      "Meanings": [
+        "آماره tی بون‌فرونی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean",
+      "Meanings": [
+        "بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean algebra",
+      "Meanings": [
+        "جبر بول",
+        "جبر بولی"
+      ]
+    },
+    {
+      "EnglishWord": "boolean function",
+      "Meanings": [
+        "تابع بولی",
+        "تابع بول"
+      ]
+    },
+    {
+      "EnglishWord": "boole's inequality",
+      "Meanings": [
+        "نامساوی بول"
+      ]
+    },
+    {
+      "EnglishWord": "bootstrapping",
+      "Meanings": [
+        "خودگردان‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "bordering",
+      "Meanings": [
+        "مرز دهی"
+      ]
+    },
+    {
+      "EnglishWord": "borel class",
+      "Meanings": [
+        "رده بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel field",
+      "Meanings": [
+        "میدان بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel field of events",
+      "Meanings": [
+        "میدان بورل حوادث"
+      ]
+    },
+    {
+      "EnglishWord": "borel measurable function",
+      "Meanings": [
+        "تابع اندازه‌پذیر بورلی",
+        "تابع بورل اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "borel measure",
+      "Meanings": [
+        "اندازه بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel set",
+      "Meanings": [
+        "مجموعه بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel sets",
+      "Meanings": [
+        "مجموعه‌های بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel zero-one law",
+      "Meanings": [
+        "قانون صفر",
+        "‌یک بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel-cantelli lemma",
+      "Meanings": [
+        "لم بورل",
+        "کانتلی"
+      ]
+    },
+    {
+      "EnglishWord": "borel-lebesgue theorem",
+      "Meanings": [
+        "قضیه بورل",
+        "لبگ"
+      ]
+    },
+    {
+      "EnglishWord": "borel's strong law of large numbers",
+      "Meanings": [
+        "قانون قوی اعداد بزرگ بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel's theorem",
+      "Meanings": [
+        "قضیه بورل"
+      ]
+    },
+    {
+      "EnglishWord": "borel-tanner distribution",
+      "Meanings": [
+        "توزیع بورل",
+        "تانر"
+      ]
+    },
+    {
+      "EnglishWord": "both nappes of the cone",
+      "Meanings": [
+        "هر دو پارچه مخروط"
+      ]
+    },
+    {
+      "EnglishWord": "bound",
+      "Meanings": [
+        "کران",
+        "کرانه",
+        "بند سری",
+        "مجموعه",
+        "پابند متغیر",
+        "سرحد",
+        "مرز",
+        "حصر",
+        "کناره",
+        "محدود کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bound index",
+      "Meanings": [
+        "اندیس پابند"
+      ]
+    },
+    {
+      "EnglishWord": "bound occurrence",
+      "Meanings": [
+        "مورد پابند"
+      ]
+    },
+    {
+      "EnglishWord": "bound of a function",
+      "Meanings": [
+        "کران یک تابع"
+      ]
+    },
+    {
+      "EnglishWord": "boundary",
+      "Meanings": [
+        "کرانه",
+        "مرز",
+        "سرحد",
+        "کناره",
+        "لبه",
+        "کران",
+        "حصر",
+        "حد"
+      ]
+    },
+    {
+      "EnglishWord": "boundary condition",
+      "Meanings": [
+        "شرط مرزی"
+      ]
+    },
+    {
+      "EnglishWord": "boundary conditions",
+      "Meanings": [
+        "شرایط مرزی",
+        "شرایط حدود",
+        "شرایط کرانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "boundary line",
+      "Meanings": [
+        "خط مرزی",
+        "مرز",
+        "دوره"
+      ]
+    },
+    {
+      "EnglishWord": "boundary of a set",
+      "Meanings": [
+        "مرز مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "boundary point",
+      "Meanings": [
+        "نقطه مرزی",
+        "نقطه کرانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "boundary value problem",
+      "Meanings": [
+        "مساله شرایط مرزی",
+        "مساله با مقدار کرانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "boundaryless",
+      "Meanings": [
+        "نامحدود",
+        "بی کران",
+        "بی لبه"
+      ]
+    },
+    {
+      "EnglishWord": "bounded",
+      "Meanings": [
+        "کران‌دار",
+        "محدود",
+        "کرانه‌دار",
+        "محصور",
+        "کنار دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded above",
+      "Meanings": [
+        "از بالا کران‌دار",
+        "کران‌دار از بالا",
+        "از بالا محدود"
+      ]
+    },
+    {
+      "EnglishWord": "bounded away from zero",
+      "Meanings": [
+        "کراندار دور از صفر"
+      ]
+    },
+    {
+      "EnglishWord": "bounded below",
+      "Meanings": [
+        "از پایین کران‌دار",
+        "کران‌‌دار از پایین",
+        "از پایین محدود"
+      ]
+    },
+    {
+      "EnglishWord": "bounded convergence",
+      "Meanings": [
+        "همگرایی محدود",
+        "همگرایی کران دار",
+        "تقارب کران دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded convergence theorem",
+      "Meanings": [
+        "قضیه همگرایی کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded distance",
+      "Meanings": [
+        "دوری کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded from above",
+      "Meanings": [
+        "بالا کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded from below",
+      "Meanings": [
+        "پایین کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded function",
+      "Meanings": [
+        "تابع کران دار",
+        "تابع محدود"
+      ]
+    },
+    {
+      "EnglishWord": "bounded interval",
+      "Meanings": [
+        "فاصله کران دار",
+        "بازه کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded length",
+      "Meanings": [
+        "درازای کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded linear operator",
+      "Meanings": [
+        "عملگر خطی کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded linear transformation",
+      "Meanings": [
+        "تبدیل خطی کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded mapping",
+      "Meanings": [
+        "نگاشت کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded matrix",
+      "Meanings": [
+        "ماتریس کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded measurable function",
+      "Meanings": [
+        "تابع کران‌دار اندازه‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "bounded measure",
+      "Meanings": [
+        "اندازه کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded measure space",
+      "Meanings": [
+        "فضای اندازه کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded metric space",
+      "Meanings": [
+        "فضای متریک کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded operator",
+      "Meanings": [
+        "عملگر کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded random variable",
+      "Meanings": [
+        "متغیر تصادفی کران‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded sequence",
+      "Meanings": [
+        "دنباله کران‌دار",
+        "دنباله محدود",
+        "دنباله کناره‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded set",
+      "Meanings": [
+        "مجموعه محدود",
+        "مجموعه کراندار",
+        "مجموعه کناره‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded subset",
+      "Meanings": [
+        "زیر مجموعه کراندار",
+        "بخش کراندار"
+      ]
+    },
+    {
+      "EnglishWord": "bounded subset from the left",
+      "Meanings": [
+        "بخش کراندار از پایین"
+      ]
+    },
+    {
+      "EnglishWord": "bounded subset from the right",
+      "Meanings": [
+        "بخش کران دار از بالا"
+      ]
+    },
+    {
+      "EnglishWord": "bounded system",
+      "Meanings": [
+        "دستگاه مقید"
+      ]
+    },
+    {
+      "EnglishWord": "bounded variable",
+      "Meanings": [
+        "متغیر پابند"
+      ]
+    },
+    {
+      "EnglishWord": "boundedly",
+      "Meanings": [
+        "به طور محدود",
+        "به طور کراندار",
+        "محدودا"
+      ]
+    },
+    {
+      "EnglishWord": "boundedly convergence sequence",
+      "Meanings": [
+        "دنباله همگرای کراندار",
+        "دنباله محدودا همگرا"
+      ]
+    },
+    {
+      "EnglishWord": "boundedness theorem",
+      "Meanings": [
+        "قضیه کرانداری"
+      ]
+    },
+    {
+      "EnglishWord": "boundless",
+      "Meanings": [
+        "نامحدود"
+      ]
+    },
+    {
+      "EnglishWord": "bow compasses",
+      "Meanings": [
+        "پرگار کروی"
+      ]
+    },
+    {
+      "EnglishWord": "bow curve",
+      "Meanings": [
+        "منحنی کمانی"
+      ]
+    },
+    {
+      "EnglishWord": "bowker's test for symmetry",
+      "Meanings": [
+        "آزمون باوکر برای تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "bowley's measures of skewness",
+      "Meanings": [
+        "معیارهای باولی برای چولگی"
+      ]
+    },
+    {
+      "EnglishWord": "box and cox transformation",
+      "Meanings": [
+        "تبدیل باکس و کاکس"
+      ]
+    },
+    {
+      "EnglishWord": "box-and-whisker plot",
+      "Meanings": [
+        "نمودار جعبه و خط"
+      ]
+    },
+    {
+      "EnglishWord": "box-jenkins model",
+      "Meanings": [
+        "مدل باکس",
+        "جنکینز"
+      ]
+    },
+    {
+      "EnglishWord": "box-muller transformation",
+      "Meanings": [
+        "تبدیل باکس",
+        "مولر"
+      ]
+    },
+    {
+      "EnglishWord": "brace",
+      "Meanings": [
+        "دو ابرو",
+        "آکلاد"
+      ]
+    },
+    {
+      "EnglishWord": "brachistochrone",
+      "Meanings": [
+        "کوتاه‌ترین زمان"
+      ]
+    },
+    {
+      "EnglishWord": "bracket",
+      "Meanings": [
+        "براکت",
+        "قلاب",
+        "کروشه"
+      ]
+    },
+    {
+      "EnglishWord": "bracket function",
+      "Meanings": [
+        "تابع جزء صحیح",
+        "تابع درست",
+        "تابع منبری",
+        "تابع بخش درست"
+      ]
+    },
+    {
+      "EnglishWord": "bradford distribution",
+      "Meanings": [
+        "توزیع برادفورد"
+      ]
+    },
+    {
+      "EnglishWord": "bradley-terry model",
+      "Meanings": [
+        "مدل برادلی",
+        "تری"
+      ]
+    },
+    {
+      "EnglishWord": "bradstreet index",
+      "Meanings": [
+        "شاخص براداستریت"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "شاخه",
+        "انشعاب",
+        "شاخه ای",
+        "شاخه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "branch cut",
+      "Meanings": [
+        "برش فرعی",
+        "بریدگی شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "branch of a function",
+      "Meanings": [
+        "شاخه تابع"
+      ]
+    },
+    {
+      "EnglishWord": "branch point",
+      "Meanings": [
+        "نقطه انشعاب",
+        "نقطه شاخه",
+        "نقطه فرعی",
+        "نقطه شاخه ای"
+      ]
+    },
+    {
+      "EnglishWord": "branch-and-bound method",
+      "Meanings": [
+        "روش شاخه و برش"
+      ]
+    },
+    {
+      "EnglishWord": "branching",
+      "Meanings": [
+        "شاخه ای",
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "branching process",
+      "Meanings": [
+        "فرآیند شاخه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "breadth",
+      "Meanings": [
+        "عرض",
+        "پهنا",
+        "پهنه"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown",
+      "Meanings": [
+        "فروریزش"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown point",
+      "Meanings": [
+        "نقطه فروریزش"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown value",
+      "Meanings": [
+        "مقدار فروریزش"
+      ]
+    },
+    {
+      "EnglishWord": "brianchon",
+      "Meanings": [
+        "بریانشون",
+        "تا 1864 میلادی"
+      ]
+    },
+    {
+      "EnglishWord": "bridge",
+      "Meanings": [
+        "پل"
+      ]
+    },
+    {
+      "EnglishWord": "bridge deck",
+      "Meanings": [
+        "یک دسته ورق بازی"
+      ]
+    },
+    {
+      "EnglishWord": "bridgeless",
+      "Meanings": [
+        "بدون پل"
+      ]
+    },
+    {
+      "EnglishWord": "brier score",
+      "Meanings": [
+        "نمره بریه"
+      ]
+    },
+    {
+      "EnglishWord": "briggs logarithm",
+      "Meanings": [
+        "لگاریتم بریگس"
+      ]
+    },
+    {
+      "EnglishWord": "briggs logarithm base",
+      "Meanings": [
+        "مبدا لگاریتم بریگس"
+      ]
+    },
+    {
+      "EnglishWord": "broad",
+      "Meanings": [
+        "پهن",
+        "گشاده",
+        "منبسط",
+        "عریض"
+      ]
+    },
+    {
+      "EnglishWord": "broken",
+      "Meanings": [
+        "شکسته",
+        "منکسر"
+      ]
+    },
+    {
+      "EnglishWord": "broken interval",
+      "Meanings": [
+        "فاصله منقطع"
+      ]
+    },
+    {
+      "EnglishWord": "broken line",
+      "Meanings": [
+        "خط شکسته",
+        "خط منکسر"
+      ]
+    },
+    {
+      "EnglishWord": "brouillon index",
+      "Meanings": [
+        "شاخص برویی‌یون"
+      ]
+    },
+    {
+      "EnglishWord": "brownian motion",
+      "Meanings": [
+        "حرکت براونی"
+      ]
+    },
+    {
+      "EnglishWord": "brown-mood median test",
+      "Meanings": [
+        "آزمون میانه براون",
+        "مود"
+      ]
+    },
+    {
+      "EnglishWord": "budget of survey",
+      "Meanings": [
+        "بودجه آمارگیری"
+      ]
+    },
+    {
+      "EnglishWord": "buffer",
+      "Meanings": [
+        "میانگیر",
+        "دریچه وارون"
+      ]
+    },
+    {
+      "EnglishWord": "buffon's needle",
+      "Meanings": [
+        "سوزن بوفون"
+      ]
+    },
+    {
+      "EnglishWord": "buffon's needle problem",
+      "Meanings": [
+        "مساله سوزن بوفون"
+      ]
+    },
+    {
+      "EnglishWord": "bulk",
+      "Meanings": [
+        "توده",
+        "جسم",
+        "تنه"
+      ]
+    },
+    {
+      "EnglishWord": "bulk queue",
+      "Meanings": [
+        "صف دسته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "bulk sampling",
+      "Meanings": [
+        "نمونه‌گیری فله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "bundle",
+      "Meanings": [
+        "کلاف",
+        "دسته",
+        "بسته",
+        "بافه",
+        "دسته کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bundle of circle",
+      "Meanings": [
+        "دسته دوایر",
+        "اشعه دوایر"
+      ]
+    },
+    {
+      "EnglishWord": "bundle of planes",
+      "Meanings": [
+        "دسته صفحات"
+      ]
+    },
+    {
+      "EnglishWord": "burn-in",
+      "Meanings": [
+        "داغیدن"
+      ]
+    },
+    {
+      "EnglishWord": "burr distribution",
+      "Meanings": [
+        "توزیع بر"
+      ]
+    },
+    {
+      "EnglishWord": "business forecasting methods",
+      "Meanings": [
+        "روش‌های پیش‌بینی بازرگانی"
+      ]
+    },
+    {
+      "EnglishWord": "busy period",
+      "Meanings": [
+        "دوره مشغول بودن آمار"
+      ]
+    },
+    {
+      "EnglishWord": "butler-smirnov test",
+      "Meanings": [
+        "آزمون باتلر",
+        "اسمیرنوف"
+      ]
+    },
+    {
+      "EnglishWord": "buttom up",
+      "Meanings": [
+        "پایین به بالا"
+      ]
+    },
+    {
+      "EnglishWord": "buys-balot table",
+      "Meanings": [
+        "جدول بویزبالوت"
+      ]
+    },
+    {
+      "EnglishWord": "by parts",
+      "Meanings": [
+        "جزء به جزء"
+      ]
+    }
+  ]
+}

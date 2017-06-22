@@ -1,0 +1,2144 @@
+﻿{
+  "Group": "S",
+  "Entries": 355,
+  "Words": [
+    {
+      "EnglishWord": "s",
+      "Meanings": [
+        "اس"
+      ]
+    },
+    {
+      "EnglishWord": "salic horizon",
+      "Meanings": [
+        "افق سالیک"
+      ]
+    },
+    {
+      "EnglishWord": "salids",
+      "Meanings": [
+        "سالیدها"
+      ]
+    },
+    {
+      "EnglishWord": "salination",
+      "Meanings": [
+        "شورشدن"
+      ]
+    },
+    {
+      "EnglishWord": "saline",
+      "Meanings": [
+        "شور"
+      ]
+    },
+    {
+      "EnglishWord": "saline seep",
+      "Meanings": [
+        "شورنشت"
+      ]
+    },
+    {
+      "EnglishWord": "saline soil",
+      "Meanings": [
+        "خاک شور"
+      ]
+    },
+    {
+      "EnglishWord": "saline-alkali",
+      "Meanings": [
+        "خاک شور",
+        "قلیا"
+      ]
+    },
+    {
+      "EnglishWord": "saline-sodic",
+      "Meanings": [
+        "خاک شور",
+        "سدیمی"
+      ]
+    },
+    {
+      "EnglishWord": "salinization",
+      "Meanings": [
+        "شور شدن"
+      ]
+    },
+    {
+      "EnglishWord": "salt balance",
+      "Meanings": [
+        "تعادل نمک"
+      ]
+    },
+    {
+      "EnglishWord": "salt flats",
+      "Meanings": [
+        "کفه‌های نمکی"
+      ]
+    },
+    {
+      "EnglishWord": "salt tolerance",
+      "Meanings": [
+        "تحمل شوری"
+      ]
+    },
+    {
+      "EnglishWord": "salt-affected soil",
+      "Meanings": [
+        "خاک مبتلا به شوری"
+      ]
+    },
+    {
+      "EnglishWord": "saltation",
+      "Meanings": [
+        "پرش"
+      ]
+    },
+    {
+      "EnglishWord": "saltation flux",
+      "Meanings": [
+        "شارپرشی"
+      ]
+    },
+    {
+      "EnglishWord": "salt-sieving",
+      "Meanings": [
+        "غربال نمک"
+      ]
+    },
+    {
+      "EnglishWord": "sample plot",
+      "Meanings": [
+        "کرت نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "sand",
+      "Meanings": [
+        "شن"
+      ]
+    },
+    {
+      "EnglishWord": "sand sheet",
+      "Meanings": [
+        "شن لایه"
+      ]
+    },
+    {
+      "EnglishWord": "sandy",
+      "Meanings": [
+        "شنی"
+      ]
+    },
+    {
+      "EnglishWord": "sandy clay",
+      "Meanings": [
+        "رس شنی"
+      ]
+    },
+    {
+      "EnglishWord": "sandy clay loam",
+      "Meanings": [
+        "لوم رسی شنی"
+      ]
+    },
+    {
+      "EnglishWord": "sandy loam",
+      "Meanings": [
+        "لوم شنی"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill",
+      "Meanings": [
+        "محل دفن بهداشتی"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill area",
+      "Meanings": [
+        "ناحیه دفن بهداشتی"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill quarry",
+      "Meanings": [
+        "گودال دفن بهداشتی"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill ramp",
+      "Meanings": [
+        "دفن بهداشتی شیبدار"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill trench",
+      "Meanings": [
+        "دفن بهداشتی خندقی"
+      ]
+    },
+    {
+      "EnglishWord": "sanitary landfill wet area",
+      "Meanings": [
+        "ناحیه دفن بهداشتی درنمزار"
+      ]
+    },
+    {
+      "EnglishWord": "saprists",
+      "Meanings": [
+        "ساپریست‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "saprolite",
+      "Meanings": [
+        "سنگ هوادیده"
+      ]
+    },
+    {
+      "EnglishWord": "saprophyte",
+      "Meanings": [
+        "پوده رست"
+      ]
+    },
+    {
+      "EnglishWord": "saprophytic competence",
+      "Meanings": [
+        "رقابت پوده زیستی"
+      ]
+    },
+    {
+      "EnglishWord": "sar",
+      "Meanings": [
+        "نسبت جذب سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sate",
+      "Meanings": [
+        "نزداشباع"
+      ]
+    },
+    {
+      "EnglishWord": "satiate",
+      "Meanings": [
+        "نزداشباع شدن"
+      ]
+    },
+    {
+      "EnglishWord": "saturate",
+      "Meanings": [
+        "اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturated flow",
+      "Meanings": [
+        "جریان اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturated soil paste",
+      "Meanings": [
+        "گل اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturation content",
+      "Meanings": [
+        "مقداراشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturation extract",
+      "Meanings": [
+        "عصاره اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturation point",
+      "Meanings": [
+        "حداشباع"
+      ]
+    },
+    {
+      "EnglishWord": "scalping",
+      "Meanings": [
+        "ریشه‌کنی"
+      ]
+    },
+    {
+      "EnglishWord": "scarify",
+      "Meanings": [
+        "خراش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "scoria land",
+      "Meanings": [
+        "زمین کف معدنی"
+      ]
+    },
+    {
+      "EnglishWord": "screefing",
+      "Meanings": [
+        "هوموس برداری"
+      ]
+    },
+    {
+      "EnglishWord": "seal",
+      "Meanings": [
+        "انسداد"
+      ]
+    },
+    {
+      "EnglishWord": "second bottom",
+      "Meanings": [
+        "دومین پلکان آبرفتی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary metabolite",
+      "Meanings": [
+        "ماده متابولیکی ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary mineral",
+      "Meanings": [
+        "کانی ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary nutrients",
+      "Meanings": [
+        "عنصرهای غذایی ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary pollutants",
+      "Meanings": [
+        "آلاینده‌های ثانوی"
+      ]
+    },
+    {
+      "EnglishWord": "secondary salinization",
+      "Meanings": [
+        "شوری ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "secondary waste treatment",
+      "Meanings": [
+        "مرحله دوم تصفیه"
+      ]
+    },
+    {
+      "EnglishWord": "sediment",
+      "Meanings": [
+        "رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "sediment discharge",
+      "Meanings": [
+        "تخلیه رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "sediment grade sizes",
+      "Meanings": [
+        "اندازه‌های دانه رسوب"
+      ]
+    },
+    {
+      "EnglishWord": "sediment load",
+      "Meanings": [
+        "باربستر"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentary rock",
+      "Meanings": [
+        "سنگ رسوبی"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentation",
+      "Meanings": [
+        "رسوبگذاری"
+      ]
+    },
+    {
+      "EnglishWord": "sedimentology",
+      "Meanings": [
+        "رسوب شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "seepage",
+      "Meanings": [
+        "نشت"
+      ]
+    },
+    {
+      "EnglishWord": "seepage flow",
+      "Meanings": [
+        "جریان نشتی"
+      ]
+    },
+    {
+      "EnglishWord": "segregated ice",
+      "Meanings": [
+        "یخدانه"
+      ]
+    },
+    {
+      "EnglishWord": "selective enrichment",
+      "Meanings": [
+        "غنی‌سازی انتخابی"
+      ]
+    },
+    {
+      "EnglishWord": "selectivity coefficient",
+      "Meanings": [
+        "ضریب گزینش"
+      ]
+    },
+    {
+      "EnglishWord": "self-mulching soil",
+      "Meanings": [
+        "خاک خودپوش"
+      ]
+    },
+    {
+      "EnglishWord": "semiarid",
+      "Meanings": [
+        "نیمه خشک"
+      ]
+    },
+    {
+      "EnglishWord": "sendophyte",
+      "Meanings": [
+        "درون رست"
+      ]
+    },
+    {
+      "EnglishWord": "sensor",
+      "Meanings": [
+        "سنجش‌گر"
+      ]
+    },
+    {
+      "EnglishWord": "separate",
+      "Meanings": [
+        "ذرات جداشده"
+      ]
+    },
+    {
+      "EnglishWord": "sepic fabric",
+      "Meanings": [
+        "فابریک سپیک"
+      ]
+    },
+    {
+      "EnglishWord": "sepic material",
+      "Meanings": [
+        "ماده سپیک"
+      ]
+    },
+    {
+      "EnglishWord": "sepic plasmic fabric",
+      "Meanings": [
+        "فابریک پلاسمیک سپیک"
+      ]
+    },
+    {
+      "EnglishWord": "sepiolite",
+      "Meanings": [
+        "سپیولیت"
+      ]
+    },
+    {
+      "EnglishWord": "sesquan",
+      "Meanings": [
+        "سزکوان"
+      ]
+    },
+    {
+      "EnglishWord": "sesquioxides",
+      "Meanings": [
+        "سزکویی اکسیدها"
+      ]
+    },
+    {
+      "EnglishWord": "sewage",
+      "Meanings": [
+        "فاضلاب"
+      ]
+    },
+    {
+      "EnglishWord": "sewage sludge",
+      "Meanings": [
+        "لجن فاضلاب"
+      ]
+    },
+    {
+      "EnglishWord": "sewage treatment residue",
+      "Meanings": [
+        "پسماندهای تصفیه فاضلاب"
+      ]
+    },
+    {
+      "EnglishWord": "shaly",
+      "Meanings": [
+        "شیل‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "shatter",
+      "Meanings": [
+        "خردشدن"
+      ]
+    },
+    {
+      "EnglishWord": "shear",
+      "Meanings": [
+        "برش"
+      ]
+    },
+    {
+      "EnglishWord": "shear strength",
+      "Meanings": [
+        "مقاومت برشی"
+      ]
+    },
+    {
+      "EnglishWord": "shear stress",
+      "Meanings": [
+        "تنش برشی"
+      ]
+    },
+    {
+      "EnglishWord": "shearing",
+      "Meanings": [
+        "برشی"
+      ]
+    },
+    {
+      "EnglishWord": "sheet erosion",
+      "Meanings": [
+        "فرسایش ورقه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sheet of polyhedra",
+      "Meanings": [
+        "ورقه چندوجهی"
+      ]
+    },
+    {
+      "EnglishWord": "shelter belt",
+      "Meanings": [
+        "کمربندحفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "shoulder",
+      "Meanings": [
+        "شانه شیب"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage characteristic",
+      "Meanings": [
+        "ویژگی انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage coefficient",
+      "Meanings": [
+        "ضریب انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage index",
+      "Meanings": [
+        "نمایه انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage limit",
+      "Meanings": [
+        "حدانقباض"
+      ]
+    },
+    {
+      "EnglishWord": "shrinkage soil",
+      "Meanings": [
+        "انقباض خاک"
+      ]
+    },
+    {
+      "EnglishWord": "shrub-coppice dune",
+      "Meanings": [
+        "تپه‌شنی بوته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "si",
+      "Meanings": [
+        "نمایه انقباض"
+      ]
+    },
+    {
+      "EnglishWord": "siallite",
+      "Meanings": [
+        "سیالیت"
+      ]
+    },
+    {
+      "EnglishWord": "side slope",
+      "Meanings": [
+        "شیب جانبی"
+      ]
+    },
+    {
+      "EnglishWord": "siderophore",
+      "Meanings": [
+        "آهن بر"
+      ]
+    },
+    {
+      "EnglishWord": "sierozem",
+      "Meanings": [
+        "سیروزم"
+      ]
+    },
+    {
+      "EnglishWord": "silasepic plasmic fabric",
+      "Meanings": [
+        "فابریک پلاسمایی سیلاسپیک"
+      ]
+    },
+    {
+      "EnglishWord": "silica-alumina ratio",
+      "Meanings": [
+        "نسبت سیلیس به آلومینیم"
+      ]
+    },
+    {
+      "EnglishWord": "silica-sesquioxides ratio",
+      "Meanings": [
+        "نسبت سیلیس به سزکویی اکسیدها"
+      ]
+    },
+    {
+      "EnglishWord": "silt",
+      "Meanings": [
+        "سیلت"
+      ]
+    },
+    {
+      "EnglishWord": "silt loam",
+      "Meanings": [
+        "لوم سیلتی"
+      ]
+    },
+    {
+      "EnglishWord": "silting",
+      "Meanings": [
+        "رسوب‌گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "siltstone",
+      "Meanings": [
+        "سنگ سیلت"
+      ]
+    },
+    {
+      "EnglishWord": "silty clay",
+      "Meanings": [
+        "رس سیلتی"
+      ]
+    },
+    {
+      "EnglishWord": "silty clay loam",
+      "Meanings": [
+        "لوم رسی سیلتی"
+      ]
+    },
+    {
+      "EnglishWord": "single grain structure",
+      "Meanings": [
+        "ساختمان تکدانه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "sinkhole",
+      "Meanings": [
+        "چاهک فروبر"
+      ]
+    },
+    {
+      "EnglishWord": "siol microbiology",
+      "Meanings": [
+        "میکروبیولوژی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "siol micromorphology",
+      "Meanings": [
+        "میکرومورفولوژی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "siol mineralogy",
+      "Meanings": [
+        "کانی‌شناسی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "site",
+      "Meanings": [
+        "زیستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "site  index",
+      "Meanings": [
+        "نمایه محل"
+      ]
+    },
+    {
+      "EnglishWord": "site productivity",
+      "Meanings": [
+        "باروری رویشگاهی"
+      ]
+    },
+    {
+      "EnglishWord": "site quality",
+      "Meanings": [
+        "کیفیت رویشگاه"
+      ]
+    },
+    {
+      "EnglishWord": "skeletan",
+      "Meanings": [
+        "اسکلتان"
+      ]
+    },
+    {
+      "EnglishWord": "skeleton grains",
+      "Meanings": [
+        "ذرات اسکلتی"
+      ]
+    },
+    {
+      "EnglishWord": "skelsepic plasmic fabric",
+      "Meanings": [
+        "فابریک پلاسمیک اسکل سپیک"
+      ]
+    },
+    {
+      "EnglishWord": "skew planes",
+      "Meanings": [
+        "سطوح اریب"
+      ]
+    },
+    {
+      "EnglishWord": "sl",
+      "Meanings": [
+        "حدانقباض"
+      ]
+    },
+    {
+      "EnglishWord": "slaking soil",
+      "Meanings": [
+        "خاک وارفته"
+      ]
+    },
+    {
+      "EnglishWord": "slaty",
+      "Meanings": [
+        "اسلیتی"
+      ]
+    },
+    {
+      "EnglishWord": "slick spots",
+      "Meanings": [
+        "نقاط چرب"
+      ]
+    },
+    {
+      "EnglishWord": "slickens",
+      "Meanings": [
+        "اسلیکنها"
+      ]
+    },
+    {
+      "EnglishWord": "slikensides",
+      "Meanings": [
+        "ساییده رخ"
+      ]
+    },
+    {
+      "EnglishWord": "slit planting",
+      "Meanings": [
+        "کشت شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "slope",
+      "Meanings": [
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slot planting",
+      "Meanings": [
+        "کشت شکافی"
+      ]
+    },
+    {
+      "EnglishWord": "sludge",
+      "Meanings": [
+        "لجن"
+      ]
+    },
+    {
+      "EnglishWord": "sludge deposits",
+      "Meanings": [
+        "نهشته‌های لجن"
+      ]
+    },
+    {
+      "EnglishWord": "slump",
+      "Meanings": [
+        "فروریختگی"
+      ]
+    },
+    {
+      "EnglishWord": "slump block",
+      "Meanings": [
+        "قطعة فروریخته"
+      ]
+    },
+    {
+      "EnglishWord": "s-matrix",
+      "Meanings": [
+        "ماتریس اس ماده خاک"
+      ]
+    },
+    {
+      "EnglishWord": "smectite",
+      "Meanings": [
+        "اسمکتیت"
+      ]
+    },
+    {
+      "EnglishWord": "sod plnating",
+      "Meanings": [
+        "کشت چمنی"
+      ]
+    },
+    {
+      "EnglishWord": "sodic soil",
+      "Meanings": [
+        "خاک سدیمی"
+      ]
+    },
+    {
+      "EnglishWord": "sodication",
+      "Meanings": [
+        "سدیمی شدن"
+      ]
+    },
+    {
+      "EnglishWord": "sodium adsorption ratio",
+      "Meanings": [
+        "نسبت جذب سدیم"
+      ]
+    },
+    {
+      "EnglishWord": "sodium adsorption ratio adjusted",
+      "Meanings": [
+        "نسبت جذب سدیم تنظیم شده"
+      ]
+    },
+    {
+      "EnglishWord": "soft soil",
+      "Meanings": [
+        "خاک نرم"
+      ]
+    },
+    {
+      "EnglishWord": "soil",
+      "Meanings": [
+        "خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil  horizon",
+      "Meanings": [
+        "افق خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil aeration",
+      "Meanings": [
+        "تهویه خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil air",
+      "Meanings": [
+        "هوای خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil amendment",
+      "Meanings": [
+        "بهساز خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil amendments",
+      "Meanings": [
+        "ترمیم کننده‌های خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil associate",
+      "Meanings": [
+        "جامعه‌خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil association",
+      "Meanings": [
+        "خاک مجموعه"
+      ]
+    },
+    {
+      "EnglishWord": "soil auger",
+      "Meanings": [
+        "مته خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil biochemistry",
+      "Meanings": [
+        "بیوشیمی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil characteristics",
+      "Meanings": [
+        "مشخصات خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil chemistry",
+      "Meanings": [
+        "شیمی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil classification",
+      "Meanings": [
+        "رده بندی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil compaction",
+      "Meanings": [
+        "تراکم خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil complex",
+      "Meanings": [
+        "کمپلکس خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil conditioner",
+      "Meanings": [
+        "تقویت کننده خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil conservation",
+      "Meanings": [
+        "حفاظت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil conserving crops",
+      "Meanings": [
+        "گیاهان نگهدارنده خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil consistency",
+      "Meanings": [
+        "استحکام خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil consociation",
+      "Meanings": [
+        "خاک مجموعه همسان"
+      ]
+    },
+    {
+      "EnglishWord": "soil correlation",
+      "Meanings": [
+        "همبستگی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil creep",
+      "Meanings": [
+        "خزش خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil depleting crops",
+      "Meanings": [
+        "گیاهان تهی‌کننده خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil extract",
+      "Meanings": [
+        "عصاره خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil fabric",
+      "Meanings": [
+        "فابریک خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil fertility",
+      "Meanings": [
+        "حاصلخیزی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil formation factors",
+      "Meanings": [
+        "عوامل خاکساز"
+      ]
+    },
+    {
+      "EnglishWord": "soil fumigation",
+      "Meanings": [
+        "تدخین خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil genesis",
+      "Meanings": [
+        "پیدایش خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil geography",
+      "Meanings": [
+        "جغرافیای خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil granule",
+      "Meanings": [
+        "دانه خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil heat-flux density",
+      "Meanings": [
+        "چگالی شارگرمایی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil hydrology",
+      "Meanings": [
+        "آب‌شناسی"
+      ]
+    },
+    {
+      "EnglishWord": "soil hydrophobicity",
+      "Meanings": [
+        "آب گریزی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil improvement",
+      "Meanings": [
+        "بهسازی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil interpretation",
+      "Meanings": [
+        "تفسیرخاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil interstices",
+      "Meanings": [
+        "روزنه‌های خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil loss equation",
+      "Meanings": [
+        "معادله تلفات خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil loss tolerance",
+      "Meanings": [
+        "فرسایش مجازخاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil management",
+      "Meanings": [
+        "مدیریت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil management groups",
+      "Meanings": [
+        "گروههای مدیریت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil map",
+      "Meanings": [
+        "نقشه خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil map detailed",
+      "Meanings": [
+        "نقشه تفصیلی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil map detailed reconnaissance",
+      "Meanings": [
+        "نقشه تفصیلی اجمالی"
+      ]
+    },
+    {
+      "EnglishWord": "soil map generalized",
+      "Meanings": [
+        "نقشه عمومی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil map reconnaissance",
+      "Meanings": [
+        "نقشه اجمالی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil map schematic",
+      "Meanings": [
+        "نقشه شمایی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil mechanical analysis",
+      "Meanings": [
+        "تجزیه مکانیکی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil mechanics and engineering",
+      "Meanings": [
+        "مکانیک ومهندسی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil mineral",
+      "Meanings": [
+        "کانی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil moisture",
+      "Meanings": [
+        "رطوبت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil moisture regimes",
+      "Meanings": [
+        "رژیمهای رطوبتی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil moisture tenstion",
+      "Meanings": [
+        "تنش رطوبتی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil monolith",
+      "Meanings": [
+        "مونولیت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil morphology",
+      "Meanings": [
+        "مورفولوژی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil order",
+      "Meanings": [
+        "راسته خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil organic matter",
+      "Meanings": [
+        "ماده آلی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil organic residue",
+      "Meanings": [
+        "پسماندآلی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil oxygen diffuse rate",
+      "Meanings": [
+        "سرعت پخشیدگی اکسیژن درخاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil physis",
+      "Meanings": [
+        "فیزیک خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil piping",
+      "Meanings": [
+        "فرسایش لوله‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "soil population",
+      "Meanings": [
+        "جمعیت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil pores",
+      "Meanings": [
+        "خلل وفرج خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil porosity",
+      "Meanings": [
+        "تخلخل خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil probe",
+      "Meanings": [
+        "مته فشاری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil productivity",
+      "Meanings": [
+        "باروری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil quality",
+      "Meanings": [
+        "کیفیت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil reaction",
+      "Meanings": [
+        "واکنش خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil salinity",
+      "Meanings": [
+        "شوری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil sample",
+      "Meanings": [
+        "نمونه خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil science",
+      "Meanings": [
+        "علم خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil separates",
+      "Meanings": [
+        "گروه اندازه‌های خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil series",
+      "Meanings": [
+        "سری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil solution",
+      "Meanings": [
+        "محلول خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil stabilization",
+      "Meanings": [
+        "تثبیت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil strength",
+      "Meanings": [
+        "استقامت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil structure",
+      "Meanings": [
+        "ساختمان خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil structure classes",
+      "Meanings": [
+        "کلاسهای ساختمان خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil structure grade",
+      "Meanings": [
+        "درجه استحکام ساختمان خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil structure shapes",
+      "Meanings": [
+        "شکلهای ساختمان خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil surface seal",
+      "Meanings": [
+        "انسدادسطح خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil survey",
+      "Meanings": [
+        "شناسایی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil taxonomy",
+      "Meanings": [
+        "رده‌بندی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil temperature flux",
+      "Meanings": [
+        "شدت جریان گرمادرخاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil temperature regimes",
+      "Meanings": [
+        "رژیمهای حرارتی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil test",
+      "Meanings": [
+        "آزمون خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil test calibration",
+      "Meanings": [
+        "واسنجی آزمون خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil test correlation",
+      "Meanings": [
+        "همبستگی آزمون خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil test critical concentration",
+      "Meanings": [
+        "غلظت بحرانی آزمون خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil test interpretation",
+      "Meanings": [
+        "تفسیر آزمون خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil texture",
+      "Meanings": [
+        "بافت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil tunneling",
+      "Meanings": [
+        "تونلی شدن خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil type",
+      "Meanings": [
+        "تیپ خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil variant",
+      "Meanings": [
+        "واریانت خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil voids",
+      "Meanings": [
+        "روزنه‌های خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water",
+      "Meanings": [
+        "آب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water characteristic curve",
+      "Meanings": [
+        "منحنی مشخصه آب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water diffusion",
+      "Meanings": [
+        "پخشیدگی آب درخاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water diffusivity",
+      "Meanings": [
+        "پخشیدگی آب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water potential",
+      "Meanings": [
+        "پتانسیل آب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water pressure",
+      "Meanings": [
+        "فشارآب خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil water redistribution",
+      "Meanings": [
+        "توزیع مجددآب"
+      ]
+    },
+    {
+      "EnglishWord": "soil wettability",
+      "Meanings": [
+        "خیس‌پذیری خاک"
+      ]
+    },
+    {
+      "EnglishWord": "soil-moisture tension",
+      "Meanings": [
+        "تنش رطوبتی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "solclime",
+      "Meanings": [
+        "اقلیم خاک"
+      ]
+    },
+    {
+      "EnglishWord": "solifluction",
+      "Meanings": [
+        "یخ خزشی خاک"
+      ]
+    },
+    {
+      "EnglishWord": "solonchak",
+      "Meanings": [
+        "سولونچاک"
+      ]
+    },
+    {
+      "EnglishWord": "solonetz",
+      "Meanings": [
+        "سولونتز"
+      ]
+    },
+    {
+      "EnglishWord": "soluble-sodium percentage",
+      "Meanings": [
+        "درصدسدیم انحلال‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "solum",
+      "Meanings": [
+        "سولوم"
+      ]
+    },
+    {
+      "EnglishWord": "sombric horizon",
+      "Meanings": [
+        "افق سومبریک"
+      ]
+    },
+    {
+      "EnglishWord": "sorption",
+      "Meanings": [
+        "جذب",
+        "قدرت جذب ودفع"
+      ]
+    },
+    {
+      "EnglishWord": "sorptivity",
+      "Meanings": [
+        "جذب‌پذیری",
+        "ضریب جذب ودفع"
+      ]
+    },
+    {
+      "EnglishWord": "sorted drift",
+      "Meanings": [
+        "ته‌نشست درجه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "sparite-a",
+      "Meanings": [
+        "اسپاریت آ"
+      ]
+    },
+    {
+      "EnglishWord": "sparite-b",
+      "Meanings": [
+        "اسپاریت بی"
+      ]
+    },
+    {
+      "EnglishWord": "spatial variability",
+      "Meanings": [
+        "تغییرات فضایی"
+      ]
+    },
+    {
+      "EnglishWord": "specific activity",
+      "Meanings": [
+        "فعالیت ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific adsorption",
+      "Meanings": [
+        "جذب ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific surface",
+      "Meanings": [
+        "سطح ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "specific water capacity",
+      "Meanings": [
+        "ظرفیت آبی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "speckled b-fabric",
+      "Meanings": [
+        "فابریک ب لکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "speckled organic matter",
+      "Meanings": [
+        "ماده آلی لکه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "splash erosion",
+      "Meanings": [
+        "فرسایش پاشمانی"
+      ]
+    },
+    {
+      "EnglishWord": "spodic horizon",
+      "Meanings": [
+        "افق اسپودیک"
+      ]
+    },
+    {
+      "EnglishWord": "spodosols",
+      "Meanings": [
+        "اسپودوسول‌ها"
+      ]
+    },
+    {
+      "EnglishWord": "spoil bank",
+      "Meanings": [
+        "خاک پشته"
+      ]
+    },
+    {
+      "EnglishWord": "spongy fabric",
+      "Meanings": [
+        "فابریک اسفنجی"
+      ]
+    },
+    {
+      "EnglishWord": "spores",
+      "Meanings": [
+        "هاگ"
+      ]
+    },
+    {
+      "EnglishWord": "ssp",
+      "Meanings": [
+        "درصدسدیم انحلال‌پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "standard cone",
+      "Meanings": [
+        "مخروط استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "static penetrometer",
+      "Meanings": [
+        "فروسنج‌ایستا"
+      ]
+    },
+    {
+      "EnglishWord": "stemflow",
+      "Meanings": [
+        "جریان ساقه‌ریز"
+      ]
+    },
+    {
+      "EnglishWord": "stereoscope",
+      "Meanings": [
+        "استریوسکوپ"
+      ]
+    },
+    {
+      "EnglishWord": "sterilization",
+      "Meanings": [
+        "سترون‌سازی"
+      ]
+    },
+    {
+      "EnglishWord": "sticky point",
+      "Meanings": [
+        "نقطه چسبندگی"
+      ]
+    },
+    {
+      "EnglishWord": "stokes law",
+      "Meanings": [
+        "قانون استوکس"
+      ]
+    },
+    {
+      "EnglishWord": "stokes'law",
+      "Meanings": [
+        "قانون استوکس"
+      ]
+    },
+    {
+      "EnglishWord": "stone line",
+      "Meanings": [
+        "خط‌سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "stones",
+      "Meanings": [
+        "لاشه سنگ",
+        "پاره سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "stoney",
+      "Meanings": [
+        "پاره سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "stoniness",
+      "Meanings": [
+        "سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "stony",
+      "Meanings": [
+        "سنگلاخی",
+        "پاره سنگی"
+      ]
+    },
+    {
+      "EnglishWord": "stony land",
+      "Meanings": [
+        "زمین سنگلاخی"
+      ]
+    },
+    {
+      "EnglishWord": "straited orientation",
+      "Meanings": [
+        "آرایش راه‌راه"
+      ]
+    },
+    {
+      "EnglishWord": "strath terrace",
+      "Meanings": [
+        "تراس پهن"
+      ]
+    },
+    {
+      "EnglishWord": "stratification",
+      "Meanings": [
+        "لایه‌بندی"
+      ]
+    },
+    {
+      "EnglishWord": "stratified",
+      "Meanings": [
+        "لایه‌لایه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "stratified drift",
+      "Meanings": [
+        "ته‌نشست درجه‌بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "stratum",
+      "Meanings": [
+        "لایه"
+      ]
+    },
+    {
+      "EnglishWord": "straw mulching",
+      "Meanings": [
+        "خاکپوش بابقایا"
+      ]
+    },
+    {
+      "EnglishWord": "stream load",
+      "Meanings": [
+        "باررودخانه‌"
+      ]
+    },
+    {
+      "EnglishWord": "stream order",
+      "Meanings": [
+        "درجه بندی آبراهه"
+      ]
+    },
+    {
+      "EnglishWord": "stress",
+      "Meanings": [
+        "تنش"
+      ]
+    },
+    {
+      "EnglishWord": "stress cutan",
+      "Meanings": [
+        "پوشش فشاری"
+      ]
+    },
+    {
+      "EnglishWord": "striated b-fabric",
+      "Meanings": [
+        "فابریک",
+        "ب راه‌راه"
+      ]
+    },
+    {
+      "EnglishWord": "striated orientation",
+      "Meanings": [
+        "آرایش راه‌راه"
+      ]
+    },
+    {
+      "EnglishWord": "strip cropping",
+      "Meanings": [
+        "کشت نواری"
+      ]
+    },
+    {
+      "EnglishWord": "strip planting",
+      "Meanings": [
+        "کشت نواری"
+      ]
+    },
+    {
+      "EnglishWord": "strong",
+      "Meanings": [
+        "قوی"
+      ]
+    },
+    {
+      "EnglishWord": "structural charge",
+      "Meanings": [
+        "بارساختمانی"
+      ]
+    },
+    {
+      "EnglishWord": "structural shrinkage",
+      "Meanings": [
+        "انقباض ساختمانی"
+      ]
+    },
+    {
+      "EnglishWord": "structure",
+      "Meanings": [
+        "ساختمان"
+      ]
+    },
+    {
+      "EnglishWord": "structure grades strong",
+      "Meanings": [
+        "ساختمان بادرجه قوی"
+      ]
+    },
+    {
+      "EnglishWord": "structure grades weak",
+      "Meanings": [
+        "ساختمان بادرجه ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "structure index",
+      "Meanings": [
+        "شاخص ساختمان"
+      ]
+    },
+    {
+      "EnglishWord": "stubble mulch",
+      "Meanings": [
+        "خاکپوش کلشی"
+      ]
+    },
+    {
+      "EnglishWord": "stubble mulch tillage",
+      "Meanings": [
+        "خاک‌ورزی مالچی",
+        "کلشی"
+      ]
+    },
+    {
+      "EnglishWord": "subarctic brown forest soils",
+      "Meanings": [
+        "خاکهای جنگلی قهوه‌ای زیرقطبی"
+      ]
+    },
+    {
+      "EnglishWord": "subsoil",
+      "Meanings": [
+        "خاک زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "subsoiling",
+      "Meanings": [
+        "زیرشکنی"
+      ]
+    },
+    {
+      "EnglishWord": "substrate",
+      "Meanings": [
+        "لایه‌زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "substratum",
+      "Meanings": [
+        "لایه زیرین"
+      ]
+    },
+    {
+      "EnglishWord": "subsurface tillage",
+      "Meanings": [
+        "شخم زیرسطحی"
+      ]
+    },
+    {
+      "EnglishWord": "suction",
+      "Meanings": [
+        "مکش ماتریک"
+      ]
+    },
+    {
+      "EnglishWord": "sulfide material",
+      "Meanings": [
+        "ماده سولفیددار"
+      ]
+    },
+    {
+      "EnglishWord": "sulfur cycle",
+      "Meanings": [
+        "چرخه گوگرد"
+      ]
+    },
+    {
+      "EnglishWord": "sulfuric horizon",
+      "Meanings": [
+        "افق سولفوریک"
+      ]
+    },
+    {
+      "EnglishWord": "summer fallow",
+      "Meanings": [
+        "آیش تابستانه"
+      ]
+    },
+    {
+      "EnglishWord": "summit",
+      "Meanings": [
+        "قله"
+      ]
+    },
+    {
+      "EnglishWord": "superphophoric acid",
+      "Meanings": [
+        "سوپرفسفریک اسید"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate",
+      "Meanings": [
+        "سوپرفسفات"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate ammoniated",
+      "Meanings": [
+        "سوپرفسفات آمونیاکی"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate concentrated",
+      "Meanings": [
+        "سوپرفسفات غلیظ"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate enriched",
+      "Meanings": [
+        "سوپرفسفات غنی شده"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate normal",
+      "Meanings": [
+        "سوپرفسفات نرمال"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate ordinary",
+      "Meanings": [
+        "سوپرفسفات معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "superphosphate single",
+      "Meanings": [
+        "سوپرفسفات منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "supersaturation",
+      "Meanings": [
+        "فوق‌اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "supraglacial",
+      "Meanings": [
+        "رویخچالی"
+      ]
+    },
+    {
+      "EnglishWord": "surface area",
+      "Meanings": [
+        "سطح ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "surface compaction",
+      "Meanings": [
+        "فشردگی سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface creep",
+      "Meanings": [
+        "خزش سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface hyhrology",
+      "Meanings": [
+        "هیدرولوژی سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface runoff",
+      "Meanings": [
+        "رواناب سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface sealing",
+      "Meanings": [
+        "سله سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface soil",
+      "Meanings": [
+        "خاک سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface subsidence",
+      "Meanings": [
+        "نشست سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface tillage",
+      "Meanings": [
+        "خا‌ک‌ورزی سطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surface-charge density",
+      "Meanings": [
+        "تراکم بارسطحی"
+      ]
+    },
+    {
+      "EnglishWord": "surfactant",
+      "Meanings": [
+        "خیساننده"
+      ]
+    },
+    {
+      "EnglishWord": "suspended load",
+      "Meanings": [
+        "بارمعلق"
+      ]
+    },
+    {
+      "EnglishWord": "suspension",
+      "Meanings": [
+        "تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "sustainability",
+      "Meanings": [
+        "پایداری"
+      ]
+    },
+    {
+      "EnglishWord": "swamp",
+      "Meanings": [
+        "مرداب"
+      ]
+    },
+    {
+      "EnglishWord": "symbiosis",
+      "Meanings": [
+        "همزیستی"
+      ]
+    },
+    {
+      "EnglishWord": "symmetry concentration",
+      "Meanings": [
+        "غلظت تقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetry value",
+      "Meanings": [
+        "مقدارتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "synergism",
+      "Meanings": [
+        "هم‌افزایی"
+      ]
+    },
+    {
+      "EnglishWord": "synthesis",
+      "Meanings": [
+        "سنتز"
+      ]
+    }
+  ]
+}
