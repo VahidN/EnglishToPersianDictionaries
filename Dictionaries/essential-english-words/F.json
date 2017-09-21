@@ -1,0 +1,594 @@
+﻿{
+  "Group": "F",
+  "Entries": 98,
+  "Words": [
+    {
+      "EnglishWord": "for",
+      "Meanings": [
+        "برای"
+      ]
+    },
+    {
+      "EnglishWord": "from",
+      "Meanings": [
+        "از جانب"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "عامل"
+      ]
+    },
+    {
+      "EnglishWord": "fair",
+      "Meanings": [
+        "نمایشگاه"
+      ]
+    },
+    {
+      "EnglishWord": "fill",
+      "Meanings": [
+        "پر کن"
+      ]
+    },
+    {
+      "EnglishWord": "fine",
+      "Meanings": [
+        "خوب"
+      ]
+    },
+    {
+      "EnglishWord": "formal",
+      "Meanings": [
+        "رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "forward",
+      "Meanings": [
+        "رو به جلو"
+      ]
+    },
+    {
+      "EnglishWord": "fruit",
+      "Meanings": [
+        "میوه"
+      ]
+    },
+    {
+      "EnglishWord": "foreign",
+      "Meanings": [
+        "خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "film",
+      "Meanings": [
+        "فیلم"
+      ]
+    },
+    {
+      "EnglishWord": "first",
+      "Meanings": [
+        "اولین"
+      ]
+    },
+    {
+      "EnglishWord": "find",
+      "Meanings": [
+        "پیدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "family",
+      "Meanings": [
+        "خانواده"
+      ]
+    },
+    {
+      "EnglishWord": "few",
+      "Meanings": [
+        "تعداد کمی"
+      ]
+    },
+    {
+      "EnglishWord": "free",
+      "Meanings": [
+        "رایگان"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "شرکت"
+      ]
+    },
+    {
+      "EnglishWord": "fix",
+      "Meanings": [
+        "ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "frequent",
+      "Meanings": [
+        "مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "فرم"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "رشته"
+      ]
+    },
+    {
+      "EnglishWord": "fish",
+      "Meanings": [
+        "ماهی"
+      ]
+    },
+    {
+      "EnglishWord": "feel",
+      "Meanings": [
+        "احساس کن"
+      ]
+    },
+    {
+      "EnglishWord": "famous",
+      "Meanings": [
+        "مشهور"
+      ]
+    },
+    {
+      "EnglishWord": "father",
+      "Meanings": [
+        "پدر"
+      ]
+    },
+    {
+      "EnglishWord": "fee",
+      "Meanings": [
+        "هز ینه"
+      ]
+    },
+    {
+      "EnglishWord": "finance",
+      "Meanings": [
+        "مالی"
+      ]
+    },
+    {
+      "EnglishWord": "food",
+      "Meanings": [
+        "غذا"
+      ]
+    },
+    {
+      "EnglishWord": "fact",
+      "Meanings": [
+        "واقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "false",
+      "Meanings": [
+        "نادرست"
+      ]
+    },
+    {
+      "EnglishWord": "feed",
+      "Meanings": [
+        "خوراک"
+      ]
+    },
+    {
+      "EnglishWord": "football",
+      "Meanings": [
+        "فوتبال"
+      ]
+    },
+    {
+      "EnglishWord": "forever",
+      "Meanings": [
+        "برای همیشه"
+      ]
+    },
+    {
+      "EnglishWord": "fat",
+      "Meanings": [
+        "چربی"
+      ]
+    },
+    {
+      "EnglishWord": "force",
+      "Meanings": [
+        "زور"
+      ]
+    },
+    {
+      "EnglishWord": "far",
+      "Meanings": [
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "fun",
+      "Meanings": [
+        "سرگرم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "finger",
+      "Meanings": [
+        "انگشت"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "تمرکز"
+      ]
+    },
+    {
+      "EnglishWord": "future",
+      "Meanings": [
+        "آینده"
+      ]
+    },
+    {
+      "EnglishWord": "following",
+      "Meanings": [
+        "ذیل"
+      ]
+    },
+    {
+      "EnglishWord": "full",
+      "Meanings": [
+        "پر شده"
+      ]
+    },
+    {
+      "EnglishWord": "farm",
+      "Meanings": [
+        "مزرعه"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "بازخورد"
+      ]
+    },
+    {
+      "EnglishWord": "fight",
+      "Meanings": [
+        "مبارزه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "fall",
+      "Meanings": [
+        "سقوط"
+      ]
+    },
+    {
+      "EnglishWord": "freedom",
+      "Meanings": [
+        "آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "figure",
+      "Meanings": [
+        "شکل"
+      ]
+    },
+    {
+      "EnglishWord": "feature",
+      "Meanings": [
+        "و یژگی"
+      ]
+    },
+    {
+      "EnglishWord": "financial",
+      "Meanings": [
+        "مالی"
+      ]
+    },
+    {
+      "EnglishWord": "federal",
+      "Meanings": [
+        "فدرال"
+      ]
+    },
+    {
+      "EnglishWord": "fishing",
+      "Meanings": [
+        "صید ماهی"
+      ]
+    },
+    {
+      "EnglishWord": "fit",
+      "Meanings": [
+        "مناسب"
+      ]
+    },
+    {
+      "EnglishWord": "floor",
+      "Meanings": [
+        "کف"
+      ]
+    },
+    {
+      "EnglishWord": "former",
+      "Meanings": [
+        "سابق"
+      ]
+    },
+    {
+      "EnglishWord": "failure",
+      "Meanings": [
+        "شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fast",
+      "Meanings": [
+        "سر یع"
+      ]
+    },
+    {
+      "EnglishWord": "fire",
+      "Meanings": [
+        "آتش"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "فر یم"
+      ]
+    },
+    {
+      "EnglishWord": "face",
+      "Meanings": [
+        "صورت"
+      ]
+    },
+    {
+      "EnglishWord": "farmer",
+      "Meanings": [
+        "مزرعه دار"
+      ]
+    },
+    {
+      "EnglishWord": "fear",
+      "Meanings": [
+        "ترس"
+      ]
+    },
+    {
+      "EnglishWord": "fold",
+      "Meanings": [
+        "تا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "forth",
+      "Meanings": [
+        "چهارم"
+      ]
+    },
+    {
+      "EnglishWord": "friendly",
+      "Meanings": [
+        "دوستانه"
+      ]
+    },
+    {
+      "EnglishWord": "fuel",
+      "Meanings": [
+        "سوخت"
+      ]
+    },
+    {
+      "EnglishWord": "funny",
+      "Meanings": [
+        "خنده دار"
+      ]
+    },
+    {
+      "EnglishWord": "final",
+      "Meanings": [
+        "نهایی"
+      ]
+    },
+    {
+      "EnglishWord": "familiar",
+      "Meanings": [
+        "آشنا"
+      ]
+    },
+    {
+      "EnglishWord": "finally",
+      "Meanings": [
+        "سرانجام"
+      ]
+    },
+    {
+      "EnglishWord": "fly",
+      "Meanings": [
+        "پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "follow",
+      "Meanings": [
+        "دنبال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "flat",
+      "Meanings": [
+        "سطح صاف"
+      ]
+    },
+    {
+      "EnglishWord": "flight",
+      "Meanings": [
+        "پرواز"
+      ]
+    },
+    {
+      "EnglishWord": "friend",
+      "Meanings": [
+        "دوست"
+      ]
+    },
+    {
+      "EnglishWord": "flower",
+      "Meanings": [
+        "گل"
+      ]
+    },
+    {
+      "EnglishWord": "fail",
+      "Meanings": [
+        "شکست"
+      ]
+    },
+    {
+      "EnglishWord": "finding",
+      "Meanings": [
+        "یافته"
+      ]
+    },
+    {
+      "EnglishWord": "front",
+      "Meanings": [
+        "جلوی"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "عملکرد"
+      ]
+    },
+    {
+      "EnglishWord": "fairly",
+      "Meanings": [
+        "منصفانه"
+      ]
+    },
+    {
+      "EnglishWord": "fixed",
+      "Meanings": [
+        "درست شد"
+      ]
+    },
+    {
+      "EnglishWord": "foot",
+      "Meanings": [
+        "پا"
+      ]
+    },
+    {
+      "EnglishWord": "feeling",
+      "Meanings": [
+        "احساس"
+      ]
+    },
+    {
+      "EnglishWord": "finish",
+      "Meanings": [
+        "پایان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "fresh",
+      "Meanings": [
+        "تازه"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "گسل"
+      ]
+    },
+    {
+      "EnglishWord": "female",
+      "Meanings": [
+        "زن"
+      ]
+    },
+    {
+      "EnglishWord": "fortune",
+      "Meanings": [
+        "ثروت"
+      ]
+    },
+    {
+      "EnglishWord": "friendship",
+      "Meanings": [
+        "دوستی"
+      ]
+    },
+    {
+      "EnglishWord": "funeral",
+      "Meanings": [
+        "مراسم خاکسپا ری"
+      ]
+    },
+    {
+      "EnglishWord": "file",
+      "Meanings": [
+        "پرونده"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "جر یان"
+      ]
+    },
+    {
+      "EnglishWord": "forget",
+      "Meanings": [
+        "فراموش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "foundation",
+      "Meanings": [
+        "پایه"
+      ]
+    },
+    {
+      "EnglishWord": "fan",
+      "Meanings": [
+        "پنکه"
+      ]
+    },
+    {
+      "EnglishWord": "frequently",
+      "Meanings": [
+        "مکررا"
+      ]
+    },
+    {
+      "EnglishWord": "fully",
+      "Meanings": [
+        "به طور کامل"
+      ]
+    }
+  ]
+}

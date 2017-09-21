@@ -1,0 +1,540 @@
+﻿{
+  "Group": "W",
+  "Entries": 89,
+  "Words": [
+    {
+      "EnglishWord": "with",
+      "Meanings": [
+        "با"
+      ]
+    },
+    {
+      "EnglishWord": "will",
+      "Meanings": [
+        "اراده"
+      ]
+    },
+    {
+      "EnglishWord": "what",
+      "Meanings": [
+        "چی"
+      ]
+    },
+    {
+      "EnglishWord": "which",
+      "Meanings": [
+        "که"
+      ]
+    },
+    {
+      "EnglishWord": "when",
+      "Meanings": [
+        "چه زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "was",
+      "Meanings": [
+        "بود"
+      ]
+    },
+    {
+      "EnglishWord": "we",
+      "Meanings": [
+        "ما"
+      ]
+    },
+    {
+      "EnglishWord": "who",
+      "Meanings": [
+        "که"
+      ]
+    },
+    {
+      "EnglishWord": "work",
+      "Meanings": [
+        "کار"
+      ]
+    },
+    {
+      "EnglishWord": "water",
+      "Meanings": [
+        "اب"
+      ]
+    },
+    {
+      "EnglishWord": "way",
+      "Meanings": [
+        "مسیر"
+      ]
+    },
+    {
+      "EnglishWord": "well",
+      "Meanings": [
+        "خوب"
+      ]
+    },
+    {
+      "EnglishWord": "were",
+      "Meanings": [
+        "بود"
+      ]
+    },
+    {
+      "EnglishWord": "would",
+      "Meanings": [
+        "خواهد شد"
+      ]
+    },
+    {
+      "EnglishWord": "world",
+      "Meanings": [
+        "جهان"
+      ]
+    },
+    {
+      "EnglishWord": "where",
+      "Meanings": [
+        "جایی که"
+      ]
+    },
+    {
+      "EnglishWord": "want",
+      "Meanings": [
+        "خواستن"
+      ]
+    },
+    {
+      "EnglishWord": "wave",
+      "Meanings": [
+        "موج"
+      ]
+    },
+    {
+      "EnglishWord": "while",
+      "Meanings": [
+        "در حالی که"
+      ]
+    },
+    {
+      "EnglishWord": "why",
+      "Meanings": [
+        "چرا"
+      ]
+    },
+    {
+      "EnglishWord": "without",
+      "Meanings": [
+        "بدون"
+      ]
+    },
+    {
+      "EnglishWord": "win",
+      "Meanings": [
+        "پیرو زی"
+      ]
+    },
+    {
+      "EnglishWord": "whether",
+      "Meanings": [
+        "چه"
+      ]
+    },
+    {
+      "EnglishWord": "wear",
+      "Meanings": [
+        "پوشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "weird",
+      "Meanings": [
+        "عجیب و غر یب"
+      ]
+    },
+    {
+      "EnglishWord": "wonder",
+      "Meanings": [
+        "تعجب"
+      ]
+    },
+    {
+      "EnglishWord": "word",
+      "Meanings": [
+        "کلمه"
+      ]
+    },
+    {
+      "EnglishWord": "whereas",
+      "Meanings": [
+        "در حالی که"
+      ]
+    },
+    {
+      "EnglishWord": "window",
+      "Meanings": [
+        "پنجره"
+      ]
+    },
+    {
+      "EnglishWord": "wise",
+      "Meanings": [
+        "عاقل"
+      ]
+    },
+    {
+      "EnglishWord": "wish",
+      "Meanings": [
+        "آرزو کردن"
+      ]
+    },
+    {
+      "EnglishWord": "web",
+      "Meanings": [
+        "وب"
+      ]
+    },
+    {
+      "EnglishWord": "within",
+      "Meanings": [
+        "در داخل"
+      ]
+    },
+    {
+      "EnglishWord": "week",
+      "Meanings": [
+        "هفته"
+      ]
+    },
+    {
+      "EnglishWord": "working",
+      "Meanings": [
+        "کار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "whole",
+      "Meanings": [
+        "کل"
+      ]
+    },
+    {
+      "EnglishWord": "wild",
+      "Meanings": [
+        "وحشی"
+      ]
+    },
+    {
+      "EnglishWord": "winter",
+      "Meanings": [
+        "زمستان"
+      ]
+    },
+    {
+      "EnglishWord": "worth",
+      "Meanings": [
+        "ارزش"
+      ]
+    },
+    {
+      "EnglishWord": "weather",
+      "Meanings": [
+        "هوا"
+      ]
+    },
+    {
+      "EnglishWord": "west",
+      "Meanings": [
+        "غرب"
+      ]
+    },
+    {
+      "EnglishWord": "wheel",
+      "Meanings": [
+        "چرخ"
+      ]
+    },
+    {
+      "EnglishWord": "wine",
+      "Meanings": [
+        "شراب"
+      ]
+    },
+    {
+      "EnglishWord": "writing",
+      "Meanings": [
+        "نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "war",
+      "Meanings": [
+        "جنگ"
+      ]
+    },
+    {
+      "EnglishWord": "watch",
+      "Meanings": [
+        "تماشا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "wide",
+      "Meanings": [
+        "وسیع"
+      ]
+    },
+    {
+      "EnglishWord": "wash",
+      "Meanings": [
+        "شستشو"
+      ]
+    },
+    {
+      "EnglishWord": "waste",
+      "Meanings": [
+        "دور ر یختنی"
+      ]
+    },
+    {
+      "EnglishWord": "wife",
+      "Meanings": [
+        "همسر"
+      ]
+    },
+    {
+      "EnglishWord": "write",
+      "Meanings": [
+        "نوشتن"
+      ]
+    },
+    {
+      "EnglishWord": "wrong",
+      "Meanings": [
+        "اشتباه"
+      ]
+    },
+    {
+      "EnglishWord": "walk",
+      "Meanings": [
+        "راه رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "white",
+      "Meanings": [
+        "سفید"
+      ]
+    },
+    {
+      "EnglishWord": "wind",
+      "Meanings": [
+        "باد"
+      ]
+    },
+    {
+      "EnglishWord": "wood",
+      "Meanings": [
+        "چوب"
+      ]
+    },
+    {
+      "EnglishWord": "western",
+      "Meanings": [
+        "غربی"
+      ]
+    },
+    {
+      "EnglishWord": "warning",
+      "Meanings": [
+        "هشدار"
+      ]
+    },
+    {
+      "EnglishWord": "weekend",
+      "Meanings": [
+        "تعطیلات آخر هفته"
+      ]
+    },
+    {
+      "EnglishWord": "weigh",
+      "Meanings": [
+        "وزن کن"
+      ]
+    },
+    {
+      "EnglishWord": "welcome",
+      "Meanings": [
+        "خوش آمدی"
+      ]
+    },
+    {
+      "EnglishWord": "winner",
+      "Meanings": [
+        "برنده"
+      ]
+    },
+    {
+      "EnglishWord": "worker",
+      "Meanings": [
+        "کارگر"
+      ]
+    },
+    {
+      "EnglishWord": "writer",
+      "Meanings": [
+        "نو یسنده"
+      ]
+    },
+    {
+      "EnglishWord": "willing",
+      "Meanings": [
+        "مایلم"
+      ]
+    },
+    {
+      "EnglishWord": "warm",
+      "Meanings": [
+        "گرم"
+      ]
+    },
+    {
+      "EnglishWord": "wonderful",
+      "Meanings": [
+        "فوق العاده"
+      ]
+    },
+    {
+      "EnglishWord": "whatever",
+      "Meanings": [
+        "هر چه"
+      ]
+    },
+    {
+      "EnglishWord": "wing",
+      "Meanings": [
+        "بال"
+      ]
+    },
+    {
+      "EnglishWord": "worry",
+      "Meanings": [
+        "نگرانی"
+      ]
+    },
+    {
+      "EnglishWord": "warn",
+      "Meanings": [
+        "هشدار بده"
+      ]
+    },
+    {
+      "EnglishWord": "weak",
+      "Meanings": [
+        "ضعیف"
+      ]
+    },
+    {
+      "EnglishWord": "weakness",
+      "Meanings": [
+        "ضعف"
+      ]
+    },
+    {
+      "EnglishWord": "wedding",
+      "Meanings": [
+        "عروسی"
+      ]
+    },
+    {
+      "EnglishWord": "wooden",
+      "Meanings": [
+        "چوبی"
+      ]
+    },
+    {
+      "EnglishWord": "worried",
+      "Meanings": [
+        "نگران"
+      ]
+    },
+    {
+      "EnglishWord": "wall",
+      "Meanings": [
+        "دیوار"
+      ]
+    },
+    {
+      "EnglishWord": "woman",
+      "Meanings": [
+        "زن"
+      ]
+    },
+    {
+      "EnglishWord": "wait",
+      "Meanings": [
+        "صبر کن"
+      ]
+    },
+    {
+      "EnglishWord": "wealth",
+      "Meanings": [
+        "ثروت"
+      ]
+    },
+    {
+      "EnglishWord": "whenever",
+      "Meanings": [
+        "هر زمان که"
+      ]
+    },
+    {
+      "EnglishWord": "whose",
+      "Meanings": [
+        "که"
+      ]
+    },
+    {
+      "EnglishWord": "widely",
+      "Meanings": [
+        "به طور گسترده ای"
+      ]
+    },
+    {
+      "EnglishWord": "weight",
+      "Meanings": [
+        "وزن"
+      ]
+    },
+    {
+      "EnglishWord": "wake",
+      "Meanings": [
+        "از خواب بیدار"
+      ]
+    },
+    {
+      "EnglishWord": "weekly",
+      "Meanings": [
+        "هفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "whoever",
+      "Meanings": [
+        "هر کس"
+      ]
+    },
+    {
+      "EnglishWord": "witness",
+      "Meanings": [
+        "شاهد"
+      ]
+    },
+    {
+      "EnglishWord": "wrap",
+      "Meanings": [
+        "بسته بندی کردن"
+      ]
+    }
+  ]
+}

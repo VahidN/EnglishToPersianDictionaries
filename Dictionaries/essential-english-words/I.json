@@ -1,0 +1,534 @@
+﻿{
+  "Group": "I",
+  "Entries": 88,
+  "Words": [
+    {
+      "EnglishWord": "in",
+      "Meanings": [
+        "در"
+      ]
+    },
+    {
+      "EnglishWord": "is",
+      "Meanings": [
+        "است"
+      ]
+    },
+    {
+      "EnglishWord": "it",
+      "Meanings": [
+        "این"
+      ]
+    },
+    {
+      "EnglishWord": "I",
+      "Meanings": [
+        "من"
+      ]
+    },
+    {
+      "EnglishWord": "if",
+      "Meanings": [
+        "اگر"
+      ]
+    },
+    {
+      "EnglishWord": "indicate",
+      "Meanings": [
+        "نشان می دهد"
+      ]
+    },
+    {
+      "EnglishWord": "into",
+      "Meanings": [
+        "به"
+      ]
+    },
+    {
+      "EnglishWord": "its",
+      "Meanings": [
+        "آن"
+      ]
+    },
+    {
+      "EnglishWord": "ideal",
+      "Meanings": [
+        "ایده آل"
+      ]
+    },
+    {
+      "EnglishWord": "imagine",
+      "Meanings": [
+        "تصور کن"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "important",
+      "Meanings": [
+        "مهم"
+      ]
+    },
+    {
+      "EnglishWord": "initially",
+      "Meanings": [
+        "در ابتدا"
+      ]
+    },
+    {
+      "EnglishWord": "internal",
+      "Meanings": [
+        "داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "include",
+      "Meanings": [
+        "عبارتند از"
+      ]
+    },
+    {
+      "EnglishWord": "interaction",
+      "Meanings": [
+        "اثر متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "interest",
+      "Meanings": [
+        "علاقه"
+      ]
+    },
+    {
+      "EnglishWord": "internet",
+      "Meanings": [
+        "اینترنت"
+      ]
+    },
+    {
+      "EnglishWord": "including",
+      "Meanings": [
+        "شامل"
+      ]
+    },
+    {
+      "EnglishWord": "impress",
+      "Meanings": [
+        "تاثیر گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "install",
+      "Meanings": [
+        "نصب"
+      ]
+    },
+    {
+      "EnglishWord": "interview",
+      "Meanings": [
+        "مصاحبه"
+      ]
+    },
+    {
+      "EnglishWord": "idea",
+      "Meanings": [
+        "اندیشه"
+      ]
+    },
+    {
+      "EnglishWord": "investment",
+      "Meanings": [
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "EnglishWord": "instead",
+      "Meanings": [
+        "بجای"
+      ]
+    },
+    {
+      "EnglishWord": "industry",
+      "Meanings": [
+        "صنعت"
+      ]
+    },
+    {
+      "EnglishWord": "increase",
+      "Meanings": [
+        "افزایش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "individual",
+      "Meanings": [
+        "فردی"
+      ]
+    },
+    {
+      "EnglishWord": "implement",
+      "Meanings": [
+        "پیاده سا زی"
+      ]
+    },
+    {
+      "EnglishWord": "initial",
+      "Meanings": [
+        "اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "intend",
+      "Meanings": [
+        "قصد دارم"
+      ]
+    },
+    {
+      "EnglishWord": "introduce",
+      "Meanings": [
+        "معرفی کنید"
+      ]
+    },
+    {
+      "EnglishWord": "international",
+      "Meanings": [
+        "بین المللی"
+      ]
+    },
+    {
+      "EnglishWord": "image",
+      "Meanings": [
+        "تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "involved",
+      "Meanings": [
+        "گرفتار"
+      ]
+    },
+    {
+      "EnglishWord": "itself",
+      "Meanings": [
+        "خودش"
+      ]
+    },
+    {
+      "EnglishWord": "improve",
+      "Meanings": [
+        "بهتر کردن"
+      ]
+    },
+    {
+      "EnglishWord": "instance",
+      "Meanings": [
+        "نمونه"
+      ]
+    },
+    {
+      "EnglishWord": "income",
+      "Meanings": [
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "illegal",
+      "Meanings": [
+        "غیر مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "incorporate",
+      "Meanings": [
+        "ترکیب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "initiative",
+      "Meanings": [
+        "ابتکار عمل"
+      ]
+    },
+    {
+      "EnglishWord": "iron",
+      "Meanings": [
+        "اهن"
+      ]
+    },
+    {
+      "EnglishWord": "inside",
+      "Meanings": [
+        "داخل"
+      ]
+    },
+    {
+      "EnglishWord": "identify",
+      "Meanings": [
+        "شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "مستقل"
+      ]
+    },
+    {
+      "EnglishWord": "issue",
+      "Meanings": [
+        "موضوع"
+      ]
+    },
+    {
+      "EnglishWord": "interested",
+      "Meanings": [
+        "علاقه مند"
+      ]
+    },
+    {
+      "EnglishWord": "item",
+      "Meanings": [
+        "آیتم"
+      ]
+    },
+    {
+      "EnglishWord": "impact",
+      "Meanings": [
+        "تأثیر"
+      ]
+    },
+    {
+      "EnglishWord": "ill",
+      "Meanings": [
+        "بیمار"
+      ]
+    },
+    {
+      "EnglishWord": "injury",
+      "Meanings": [
+        "صدمه"
+      ]
+    },
+    {
+      "EnglishWord": "instruction",
+      "Meanings": [
+        "دستورالعمل"
+      ]
+    },
+    {
+      "EnglishWord": "investigate",
+      "Meanings": [
+        "تحقیق کردن"
+      ]
+    },
+    {
+      "EnglishWord": "intelligent",
+      "Meanings": [
+        "باهوش - هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "interesting",
+      "Meanings": [
+        "جالب هست"
+      ]
+    },
+    {
+      "EnglishWord": "ice",
+      "Meanings": [
+        "یخ"
+      ]
+    },
+    {
+      "EnglishWord": "introduction",
+      "Meanings": [
+        "معرفی"
+      ]
+    },
+    {
+      "EnglishWord": "ignore",
+      "Meanings": [
+        "چشم پوشی"
+      ]
+    },
+    {
+      "EnglishWord": "imply",
+      "Meanings": [
+        "فرض کنید"
+      ]
+    },
+    {
+      "EnglishWord": "impression",
+      "Meanings": [
+        "تصور"
+      ]
+    },
+    {
+      "EnglishWord": "impressive",
+      "Meanings": [
+        "چشمگیر"
+      ]
+    },
+    {
+      "EnglishWord": "improvement",
+      "Meanings": [
+        "بهبود"
+      ]
+    },
+    {
+      "EnglishWord": "independence",
+      "Meanings": [
+        "استقلال"
+      ]
+    },
+    {
+      "EnglishWord": "informal",
+      "Meanings": [
+        "غیر رسمی"
+      ]
+    },
+    {
+      "EnglishWord": "inner",
+      "Meanings": [
+        "درونی"
+      ]
+    },
+    {
+      "EnglishWord": "insect",
+      "Meanings": [
+        "حشره"
+      ]
+    },
+    {
+      "EnglishWord": "immediately",
+      "Meanings": [
+        "بلافاصله"
+      ]
+    },
+    {
+      "EnglishWord": "impossible",
+      "Meanings": [
+        "غیرممکن است"
+      ]
+    },
+    {
+      "EnglishWord": "invest",
+      "Meanings": [
+        "سرمایه گذا ری"
+      ]
+    },
+    {
+      "EnglishWord": "insist",
+      "Meanings": [
+        "اصرار کن"
+      ]
+    },
+    {
+      "EnglishWord": "inspection",
+      "Meanings": [
+        "بازرسی"
+      ]
+    },
+    {
+      "EnglishWord": "inspector",
+      "Meanings": [
+        "بازرس"
+      ]
+    },
+    {
+      "EnglishWord": "inflation",
+      "Meanings": [
+        "تورم"
+      ]
+    },
+    {
+      "EnglishWord": "influence",
+      "Meanings": [
+        "نفوذ"
+      ]
+    },
+    {
+      "EnglishWord": "insurance",
+      "Meanings": [
+        "بیمه"
+      ]
+    },
+    {
+      "EnglishWord": "involve",
+      "Meanings": [
+        "شامل"
+      ]
+    },
+    {
+      "EnglishWord": "immediate",
+      "Meanings": [
+        "فو ری"
+      ]
+    },
+    {
+      "EnglishWord": "importance",
+      "Meanings": [
+        "اهمیت"
+      ]
+    },
+    {
+      "EnglishWord": "illustrate",
+      "Meanings": [
+        "نشان دادن"
+      ]
+    },
+    {
+      "EnglishWord": "incident",
+      "Meanings": [
+        "حادثه"
+      ]
+    },
+    {
+      "EnglishWord": "indication",
+      "Meanings": [
+        "نشانه"
+      ]
+    },
+    {
+      "EnglishWord": "inevitable",
+      "Meanings": [
+        "اجتناب ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "inform",
+      "Meanings": [
+        "آگاه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "intention",
+      "Meanings": [
+        "قصد"
+      ]
+    },
+    {
+      "EnglishWord": "invite",
+      "Meanings": [
+        "دعوت"
+      ]
+    },
+    {
+      "EnglishWord": "island",
+      "Meanings": [
+        "جز یره"
+      ]
+    },
+    {
+      "EnglishWord": "imagination",
+      "Meanings": [
+        "خیال پردا زی"
+      ]
+    }
+  ]
+}

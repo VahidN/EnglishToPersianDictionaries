@@ -1,0 +1,744 @@
+﻿{
+  "Group": "E",
+  "Entries": 123,
+  "Words": [
+    {
+      "EnglishWord": "eat",
+      "Meanings": [
+        "خوردن"
+      ]
+    },
+    {
+      "EnglishWord": "efficient",
+      "Meanings": [
+        "کارآمد"
+      ]
+    },
+    {
+      "EnglishWord": "enter",
+      "Meanings": [
+        "وارد"
+      ]
+    },
+    {
+      "EnglishWord": "essentially",
+      "Meanings": [
+        "اساسا"
+      ]
+    },
+    {
+      "EnglishWord": "exact",
+      "Meanings": [
+        "دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "even",
+      "Meanings": [
+        "حتی"
+      ]
+    },
+    {
+      "EnglishWord": "equally",
+      "Meanings": [
+        "به همان اندازه"
+      ]
+    },
+    {
+      "EnglishWord": "each",
+      "Meanings": [
+        "هر یک"
+      ]
+    },
+    {
+      "EnglishWord": "example",
+      "Meanings": [
+        "مثال"
+      ]
+    },
+    {
+      "EnglishWord": "effectively",
+      "Meanings": [
+        "به طور موثر"
+      ]
+    },
+    {
+      "EnglishWord": "emphasis",
+      "Meanings": [
+        "تاکید"
+      ]
+    },
+    {
+      "EnglishWord": "encourage",
+      "Meanings": [
+        "تشويق كردن"
+      ]
+    },
+    {
+      "EnglishWord": "equal",
+      "Meanings": [
+        "برابر"
+      ]
+    },
+    {
+      "EnglishWord": "everybody",
+      "Meanings": [
+        "همه"
+      ]
+    },
+    {
+      "EnglishWord": "expand",
+      "Meanings": [
+        "بسط دادن"
+      ]
+    },
+    {
+      "EnglishWord": "every",
+      "Meanings": [
+        "هرکدام"
+      ]
+    },
+    {
+      "EnglishWord": "enough",
+      "Meanings": [
+        "کافی"
+      ]
+    },
+    {
+      "EnglishWord": "experience",
+      "Meanings": [
+        "تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "early",
+      "Meanings": [
+        "زود"
+      ]
+    },
+    {
+      "EnglishWord": "end",
+      "Meanings": [
+        "پایان"
+      ]
+    },
+    {
+      "EnglishWord": "earn",
+      "Meanings": [
+        "بدست آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "emphasize",
+      "Meanings": [
+        "تاکید کنید"
+      ]
+    },
+    {
+      "EnglishWord": "employment",
+      "Meanings": [
+        "استخدام"
+      ]
+    },
+    {
+      "EnglishWord": "enable",
+      "Meanings": [
+        "فعال کردن"
+      ]
+    },
+    {
+      "EnglishWord": "engineering",
+      "Meanings": [
+        "مهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "entry",
+      "Meanings": [
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "essay",
+      "Meanings": [
+        "مقاله"
+      ]
+    },
+    {
+      "EnglishWord": "existing",
+      "Meanings": [
+        "موجود است"
+      ]
+    },
+    {
+      "EnglishWord": "economy",
+      "Meanings": [
+        "اقتصاد"
+      ]
+    },
+    {
+      "EnglishWord": "economics",
+      "Meanings": [
+        "اقتصاد"
+      ]
+    },
+    {
+      "EnglishWord": "either",
+      "Meanings": [
+        "یا"
+      ]
+    },
+    {
+      "EnglishWord": "election",
+      "Meanings": [
+        "انتخابات"
+      ]
+    },
+    {
+      "EnglishWord": "engage",
+      "Meanings": [
+        "مشغول کردن"
+      ]
+    },
+    {
+      "EnglishWord": "engine",
+      "Meanings": [
+        "موتور"
+      ]
+    },
+    {
+      "EnglishWord": "enhance",
+      "Meanings": [
+        "افزایش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "examine",
+      "Meanings": [
+        "معاینه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "east",
+      "Meanings": [
+        "شرق"
+      ]
+    },
+    {
+      "EnglishWord": "elevator",
+      "Meanings": [
+        "آسانسور"
+      ]
+    },
+    {
+      "EnglishWord": "elsewhere",
+      "Meanings": [
+        "در جاهای دیگر"
+      ]
+    },
+    {
+      "EnglishWord": "emotion",
+      "Meanings": [
+        "هیجانی"
+      ]
+    },
+    {
+      "EnglishWord": "employee",
+      "Meanings": [
+        "کارمند"
+      ]
+    },
+    {
+      "EnglishWord": "employer",
+      "Meanings": [
+        "کارفرما"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent",
+      "Meanings": [
+        "معادل"
+      ]
+    },
+    {
+      "EnglishWord": "everywhere",
+      "Meanings": [
+        "در همه جا"
+      ]
+    },
+    {
+      "EnglishWord": "except",
+      "Meanings": [
+        "بجز"
+      ]
+    },
+    {
+      "EnglishWord": "everything",
+      "Meanings": [
+        "همه چيز"
+      ]
+    },
+    {
+      "EnglishWord": "especially",
+      "Meanings": [
+        "به خصوص"
+      ]
+    },
+    {
+      "EnglishWord": "ever",
+      "Meanings": [
+        "همیشه"
+      ]
+    },
+    {
+      "EnglishWord": "exercise",
+      "Meanings": [
+        "ورزش"
+      ]
+    },
+    {
+      "EnglishWord": "exam",
+      "Meanings": [
+        "امتحان"
+      ]
+    },
+    {
+      "EnglishWord": "excuse",
+      "Meanings": [
+        "بهانه"
+      ]
+    },
+    {
+      "EnglishWord": "easy",
+      "Meanings": [
+        "آسان"
+      ]
+    },
+    {
+      "EnglishWord": "emotional",
+      "Meanings": [
+        "عاطفی"
+      ]
+    },
+    {
+      "EnglishWord": "equipment",
+      "Meanings": [
+        "تجهیزات"
+      ]
+    },
+    {
+      "EnglishWord": "ease",
+      "Meanings": [
+        "سهولت"
+      ]
+    },
+    {
+      "EnglishWord": "eastern",
+      "Meanings": [
+        "شرق"
+      ]
+    },
+    {
+      "EnglishWord": "editor",
+      "Meanings": [
+        "سردبیر"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "بهره و ری"
+      ]
+    },
+    {
+      "EnglishWord": "emergency",
+      "Meanings": [
+        "اضطرا ری"
+      ]
+    },
+    {
+      "EnglishWord": "escape",
+      "Meanings": [
+        "در رفتن"
+      ]
+    },
+    {
+      "EnglishWord": "evening",
+      "Meanings": [
+        "شب"
+      ]
+    },
+    {
+      "EnglishWord": "excitement",
+      "Meanings": [
+        "هیجان"
+      ]
+    },
+    {
+      "EnglishWord": "expose",
+      "Meanings": [
+        "در معرض گذاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "extension",
+      "Meanings": [
+        "توسعه"
+      ]
+    },
+    {
+      "EnglishWord": "extent",
+      "Meanings": [
+        "محدوده"
+      ]
+    },
+    {
+      "EnglishWord": "environment",
+      "Meanings": [
+        "محیط"
+      ]
+    },
+    {
+      "EnglishWord": "everyone",
+      "Meanings": [
+        "هر کس"
+      ]
+    },
+    {
+      "EnglishWord": "earth",
+      "Meanings": [
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "else",
+      "Meanings": [
+        "چیز دیگ ری"
+      ]
+    },
+    {
+      "EnglishWord": "exist",
+      "Meanings": [
+        "وجود دارد"
+      ]
+    },
+    {
+      "EnglishWord": "enjoy",
+      "Meanings": [
+        "لذت بردن"
+      ]
+    },
+    {
+      "EnglishWord": "entire",
+      "Meanings": [
+        "کل"
+      ]
+    },
+    {
+      "EnglishWord": "employ",
+      "Meanings": [
+        "استخدام کنید"
+      ]
+    },
+    {
+      "EnglishWord": "encouraging",
+      "Meanings": [
+        "تشو یق"
+      ]
+    },
+    {
+      "EnglishWord": "expert",
+      "Meanings": [
+        "کارشناس"
+      ]
+    },
+    {
+      "EnglishWord": "external",
+      "Meanings": [
+        "خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "easily",
+      "Meanings": [
+        "به آسانی"
+      ]
+    },
+    {
+      "EnglishWord": "effective",
+      "Meanings": [
+        "تاثير گذار"
+      ]
+    },
+    {
+      "EnglishWord": "eventually",
+      "Meanings": [
+        "در نهایت"
+      ]
+    },
+    {
+      "EnglishWord": "exactly",
+      "Meanings": [
+        "دقیقا"
+      ]
+    },
+    {
+      "EnglishWord": "exchange",
+      "Meanings": [
+        "تبادل"
+      ]
+    },
+    {
+      "EnglishWord": "eye",
+      "Meanings": [
+        "چشم"
+      ]
+    },
+    {
+      "EnglishWord": "electrical",
+      "Meanings": [
+        "الکتر یکی"
+      ]
+    },
+    {
+      "EnglishWord": "energy",
+      "Meanings": [
+        "انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "expensive",
+      "Meanings": [
+        "گران"
+      ]
+    },
+    {
+      "EnglishWord": "enthusiasm",
+      "Meanings": [
+        "اشتیاق"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "education",
+      "Meanings": [
+        "تحصیلات"
+      ]
+    },
+    {
+      "EnglishWord": "exciting",
+      "Meanings": [
+        "هیجان انگیز"
+      ]
+    },
+    {
+      "EnglishWord": "explanation",
+      "Meanings": [
+        "توضیح"
+      ]
+    },
+    {
+      "EnglishWord": "extend",
+      "Meanings": [
+        "گسترش"
+      ]
+    },
+    {
+      "EnglishWord": "event",
+      "Meanings": [
+        "رو یداد"
+      ]
+    },
+    {
+      "EnglishWord": "excellent",
+      "Meanings": [
+        "عالی است"
+      ]
+    },
+    {
+      "EnglishWord": "extra",
+      "Meanings": [
+        "اضافی"
+      ]
+    },
+    {
+      "EnglishWord": "egg",
+      "Meanings": [
+        "تخم مرغ"
+      ]
+    },
+    {
+      "EnglishWord": "entertainment",
+      "Meanings": [
+        "سرگرمی"
+      ]
+    },
+    {
+      "EnglishWord": "effect",
+      "Meanings": [
+        "اثر"
+      ]
+    },
+    {
+      "EnglishWord": "extremely",
+      "Meanings": [
+        "فوق العاده"
+      ]
+    },
+    {
+      "EnglishWord": "establish",
+      "Meanings": [
+        "تاسيس كردن"
+      ]
+    },
+    {
+      "EnglishWord": "establishment",
+      "Meanings": [
+        "استقرار"
+      ]
+    },
+    {
+      "EnglishWord": "estimate",
+      "Meanings": [
+        "تخمین زدن"
+      ]
+    },
+    {
+      "EnglishWord": "examination",
+      "Meanings": [
+        "معاینه"
+      ]
+    },
+    {
+      "EnglishWord": "ensure",
+      "Meanings": [
+        "اطمینان حاصل کنید"
+      ]
+    },
+    {
+      "EnglishWord": "exit",
+      "Meanings": [
+        "خروج"
+      ]
+    },
+    {
+      "EnglishWord": "expect",
+      "Meanings": [
+        "انتظار"
+      ]
+    },
+    {
+      "EnglishWord": "experienced",
+      "Meanings": [
+        "با تجربه"
+      ]
+    },
+    {
+      "EnglishWord": "explain",
+      "Meanings": [
+        "توضیح"
+      ]
+    },
+    {
+      "EnglishWord": "explore",
+      "Meanings": [
+        "کاوش کنید"
+      ]
+    },
+    {
+      "EnglishWord": "express",
+      "Meanings": [
+        "بیان"
+      ]
+    },
+    {
+      "EnglishWord": "effort",
+      "Meanings": [
+        "تلاش"
+      ]
+    },
+    {
+      "EnglishWord": "electronic",
+      "Meanings": [
+        "الکترونیکی"
+      ]
+    },
+    {
+      "EnglishWord": "expression",
+      "Meanings": [
+        "اصطلاح"
+      ]
+    },
+    {
+      "EnglishWord": "ear",
+      "Meanings": [
+        "گوش"
+      ]
+    },
+    {
+      "EnglishWord": "embarrassed",
+      "Meanings": [
+        "خجالت زده"
+      ]
+    },
+    {
+      "EnglishWord": "empty",
+      "Meanings": [
+        "خالی"
+      ]
+    },
+    {
+      "EnglishWord": "engineer",
+      "Meanings": [
+        "مهندس"
+      ]
+    },
+    {
+      "EnglishWord": "entrance",
+      "Meanings": [
+        "ورود"
+      ]
+    },
+    {
+      "EnglishWord": "educational",
+      "Meanings": [
+        "آموزشی"
+      ]
+    },
+    {
+      "EnglishWord": "environmental",
+      "Meanings": [
+        "محیطی"
+      ]
+    },
+    {
+      "EnglishWord": "estate",
+      "Meanings": [
+        "املاک"
+      ]
+    },
+    {
+      "EnglishWord": "edge",
+      "Meanings": [
+        "لبه - تی زی"
+      ]
+    },
+    {
+      "EnglishWord": "evidence",
+      "Meanings": [
+        "شواهد"
+      ]
+    },
+    {
+      "EnglishWord": "extreme",
+      "Meanings": [
+        "مفرط"
+      ]
+    }
+  ]
+}

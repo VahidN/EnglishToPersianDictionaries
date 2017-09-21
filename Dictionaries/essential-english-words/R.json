@@ -1,0 +1,816 @@
+﻿{
+  "Group": "R",
+  "Entries": 135,
+  "Words": [
+    {
+      "EnglishWord": "red",
+      "Meanings": [
+        "قرمز"
+      ]
+    },
+    {
+      "EnglishWord": "remote",
+      "Meanings": [
+        "از راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "raise",
+      "Meanings": [
+        "بالا بردن"
+      ]
+    },
+    {
+      "EnglishWord": "rarely",
+      "Meanings": [
+        "به ندرت"
+      ]
+    },
+    {
+      "EnglishWord": "recommendation",
+      "Meanings": [
+        "توصیه"
+      ]
+    },
+    {
+      "EnglishWord": "regularly",
+      "Meanings": [
+        "به طور منظم"
+      ]
+    },
+    {
+      "EnglishWord": "relative",
+      "Meanings": [
+        "نسبت فامیلی"
+      ]
+    },
+    {
+      "EnglishWord": "response",
+      "Meanings": [
+        "واکنش"
+      ]
+    },
+    {
+      "EnglishWord": "right",
+      "Meanings": [
+        "درست"
+      ]
+    },
+    {
+      "EnglishWord": "read",
+      "Meanings": [
+        "خواندن"
+      ]
+    },
+    {
+      "EnglishWord": "react",
+      "Meanings": [
+        "واکنش نشان می دهند"
+      ]
+    },
+    {
+      "EnglishWord": "recognize",
+      "Meanings": [
+        "تشخیص"
+      ]
+    },
+    {
+      "EnglishWord": "relax",
+      "Meanings": [
+        "آروم باش"
+      ]
+    },
+    {
+      "EnglishWord": "replace",
+      "Meanings": [
+        "جایگز ین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "really",
+      "Meanings": [
+        "واقعا"
+      ]
+    },
+    {
+      "EnglishWord": "reading",
+      "Meanings": [
+        "خواندن"
+      ]
+    },
+    {
+      "EnglishWord": "radio",
+      "Meanings": [
+        "رادیو"
+      ]
+    },
+    {
+      "EnglishWord": "raw",
+      "Meanings": [
+        "خام"
+      ]
+    },
+    {
+      "EnglishWord": "reflect",
+      "Meanings": [
+        "منعکس کننده"
+      ]
+    },
+    {
+      "EnglishWord": "region",
+      "Meanings": [
+        "منطقه"
+      ]
+    },
+    {
+      "EnglishWord": "republic",
+      "Meanings": [
+        "جمهو ری"
+      ]
+    },
+    {
+      "EnglishWord": "roughly",
+      "Meanings": [
+        "تقر یبا"
+      ]
+    },
+    {
+      "EnglishWord": "real",
+      "Meanings": [
+        "واقعی"
+      ]
+    },
+    {
+      "EnglishWord": "risk",
+      "Meanings": [
+        "خطر"
+      ]
+    },
+    {
+      "EnglishWord": "research",
+      "Meanings": [
+        "پژوهش"
+      ]
+    },
+    {
+      "EnglishWord": "repeat",
+      "Meanings": [
+        "تکرار"
+      ]
+    },
+    {
+      "EnglishWord": "round",
+      "Meanings": [
+        "دور"
+      ]
+    },
+    {
+      "EnglishWord": "remember",
+      "Meanings": [
+        "یاد آوردن"
+      ]
+    },
+    {
+      "EnglishWord": "rather",
+      "Meanings": [
+        "نسبتا"
+      ]
+    },
+    {
+      "EnglishWord": "recording",
+      "Meanings": [
+        "ضبط"
+      ]
+    },
+    {
+      "EnglishWord": "relate",
+      "Meanings": [
+        "مربوط بودن"
+      ]
+    },
+    {
+      "EnglishWord": "respect",
+      "Meanings": [
+        "توجه"
+      ]
+    },
+    {
+      "EnglishWord": "rice",
+      "Meanings": [
+        "برنج"
+      ]
+    },
+    {
+      "EnglishWord": "routine",
+      "Meanings": [
+        "معمولی"
+      ]
+    },
+    {
+      "EnglishWord": "range",
+      "Meanings": [
+        "دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "rate",
+      "Meanings": [
+        "نرخ"
+      ]
+    },
+    {
+      "EnglishWord": "reason",
+      "Meanings": [
+        "دلیل"
+      ]
+    },
+    {
+      "EnglishWord": "record",
+      "Meanings": [
+        "رکورد"
+      ]
+    },
+    {
+      "EnglishWord": "result",
+      "Meanings": [
+        "نتيجه"
+      ]
+    },
+    {
+      "EnglishWord": "rule",
+      "Meanings": [
+        "قانون"
+      ]
+    },
+    {
+      "EnglishWord": "race",
+      "Meanings": [
+        "نژاد"
+      ]
+    },
+    {
+      "EnglishWord": "reasonable",
+      "Meanings": [
+        "معقول"
+      ]
+    },
+    {
+      "EnglishWord": "reflection",
+      "Meanings": [
+        "انعکاس"
+      ]
+    },
+    {
+      "EnglishWord": "refrigerator",
+      "Meanings": [
+        "یخچال"
+      ]
+    },
+    {
+      "EnglishWord": "relief",
+      "Meanings": [
+        "تسکین"
+      ]
+    },
+    {
+      "EnglishWord": "repair",
+      "Meanings": [
+        "تعمیر"
+      ]
+    },
+    {
+      "EnglishWord": "resolution",
+      "Meanings": [
+        "وضوح"
+      ]
+    },
+    {
+      "EnglishWord": "revenue",
+      "Meanings": [
+        "درآمد"
+      ]
+    },
+    {
+      "EnglishWord": "rough",
+      "Meanings": [
+        "خشن"
+      ]
+    },
+    {
+      "EnglishWord": "rock",
+      "Meanings": [
+        "سنگ"
+      ]
+    },
+    {
+      "EnglishWord": "related",
+      "Meanings": [
+        "مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "remove",
+      "Meanings": [
+        "برداشتن"
+      ]
+    },
+    {
+      "EnglishWord": "rent",
+      "Meanings": [
+        "اجاره"
+      ]
+    },
+    {
+      "EnglishWord": "return",
+      "Meanings": [
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "run",
+      "Meanings": [
+        "اجرا کن"
+      ]
+    },
+    {
+      "EnglishWord": "regular",
+      "Meanings": [
+        "منظم"
+      ]
+    },
+    {
+      "EnglishWord": "reserve",
+      "Meanings": [
+        "ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "ratio",
+      "Meanings": [
+        "نسبت"
+      ]
+    },
+    {
+      "EnglishWord": "readily",
+      "Meanings": [
+        "به راحتی"
+      ]
+    },
+    {
+      "EnglishWord": "relation",
+      "Meanings": [
+        "رابطه"
+      ]
+    },
+    {
+      "EnglishWord": "relieve",
+      "Meanings": [
+        "از بین بردن"
+      ]
+    },
+    {
+      "EnglishWord": "request",
+      "Meanings": [
+        "درخواست"
+      ]
+    },
+    {
+      "EnglishWord": "respond",
+      "Meanings": [
+        "پاسخ دادن"
+      ]
+    },
+    {
+      "EnglishWord": "restaurant",
+      "Meanings": [
+        "رستوران"
+      ]
+    },
+    {
+      "EnglishWord": "retain",
+      "Meanings": [
+        "حفظ"
+      ]
+    },
+    {
+      "EnglishWord": "royal",
+      "Meanings": [
+        "سلطنتی"
+      ]
+    },
+    {
+      "EnglishWord": "reach",
+      "Meanings": [
+        "نائل شدن"
+      ]
+    },
+    {
+      "EnglishWord": "rest",
+      "Meanings": [
+        "باقی مانده"
+      ]
+    },
+    {
+      "EnglishWord": "require",
+      "Meanings": [
+        "نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "review",
+      "Meanings": [
+        "مرور"
+      ]
+    },
+    {
+      "EnglishWord": "road",
+      "Meanings": [
+        "جاده"
+      ]
+    },
+    {
+      "EnglishWord": "role",
+      "Meanings": [
+        "نقش"
+      ]
+    },
+    {
+      "EnglishWord": "room",
+      "Meanings": [
+        "اتاق"
+      ]
+    },
+    {
+      "EnglishWord": "ready",
+      "Meanings": [
+        "آماده"
+      ]
+    },
+    {
+      "EnglishWord": "report",
+      "Meanings": [
+        "گزارش"
+      ]
+    },
+    {
+      "EnglishWord": "rise",
+      "Meanings": [
+        "بالا آمدن"
+      ]
+    },
+    {
+      "EnglishWord": "receive",
+      "Meanings": [
+        "دريافت كردن"
+      ]
+    },
+    {
+      "EnglishWord": "realistic",
+      "Meanings": [
+        "واقع بین"
+      ]
+    },
+    {
+      "EnglishWord": "reception",
+      "Meanings": [
+        "پذیرش"
+      ]
+    },
+    {
+      "EnglishWord": "recover",
+      "Meanings": [
+        "بهبود پیدا کن"
+      ]
+    },
+    {
+      "EnglishWord": "replacement",
+      "Meanings": [
+        "جایگز ینی"
+      ]
+    },
+    {
+      "EnglishWord": "resolve",
+      "Meanings": [
+        "برطرف کردن"
+      ]
+    },
+    {
+      "EnglishWord": "retire",
+      "Meanings": [
+        "بازنشسته"
+      ]
+    },
+    {
+      "EnglishWord": "revolution",
+      "Meanings": [
+        "انقلاب"
+      ]
+    },
+    {
+      "EnglishWord": "reward",
+      "Meanings": [
+        "جایزه"
+      ]
+    },
+    {
+      "EnglishWord": "rid",
+      "Meanings": [
+        "خلاص شدن از شر"
+      ]
+    },
+    {
+      "EnglishWord": "river",
+      "Meanings": [
+        "رودخانه"
+      ]
+    },
+    {
+      "EnglishWord": "roll",
+      "Meanings": [
+        "رول"
+      ]
+    },
+    {
+      "EnglishWord": "row",
+      "Meanings": [
+        "ردیف"
+      ]
+    },
+    {
+      "EnglishWord": "realize",
+      "Meanings": [
+        "تحقق بخشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "responsible",
+      "Meanings": [
+        "مسئول"
+      ]
+    },
+    {
+      "EnglishWord": "recent",
+      "Meanings": [
+        "اخیر"
+      ]
+    },
+    {
+      "EnglishWord": "refer",
+      "Meanings": [
+        "مراجعه کنید"
+      ]
+    },
+    {
+      "EnglishWord": "relationship",
+      "Meanings": [
+        "ارتباط"
+      ]
+    },
+    {
+      "EnglishWord": "rich",
+      "Meanings": [
+        "ثروتمند"
+      ]
+    },
+    {
+      "EnglishWord": "reaction",
+      "Meanings": [
+        "واکنش"
+      ]
+    },
+    {
+      "EnglishWord": "refuse",
+      "Meanings": [
+        "امتناع"
+      ]
+    },
+    {
+      "EnglishWord": "regret",
+      "Meanings": [
+        "پشيمان شدن"
+      ]
+    },
+    {
+      "EnglishWord": "remaining",
+      "Meanings": [
+        "باقی مانده است"
+      ]
+    },
+    {
+      "EnglishWord": "requirement",
+      "Meanings": [
+        "مورد نیاز"
+      ]
+    },
+    {
+      "EnglishWord": "reveal",
+      "Meanings": [
+        "آشکار ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "ruin",
+      "Meanings": [
+        "خراب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "reduce",
+      "Meanings": [
+        "كاهش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "relatively",
+      "Meanings": [
+        "به طور نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "rush",
+      "Meanings": [
+        "هجوم بردن"
+      ]
+    },
+    {
+      "EnglishWord": "rain",
+      "Meanings": [
+        "باران"
+      ]
+    },
+    {
+      "EnglishWord": "rare",
+      "Meanings": [
+        "نادر"
+      ]
+    },
+    {
+      "EnglishWord": "release",
+      "Meanings": [
+        "رهایی"
+      ]
+    },
+    {
+      "EnglishWord": "reality",
+      "Meanings": [
+        "واقعیت"
+      ]
+    },
+    {
+      "EnglishWord": "remain",
+      "Meanings": [
+        "ماندن"
+      ]
+    },
+    {
+      "EnglishWord": "represent",
+      "Meanings": [
+        "نمایندگی"
+      ]
+    },
+    {
+      "EnglishWord": "responsibility",
+      "Meanings": [
+        "مسئوليت"
+      ]
+    },
+    {
+      "EnglishWord": "ride",
+      "Meanings": [
+        "سوار شدن"
+      ]
+    },
+    {
+      "EnglishWord": "recently",
+      "Meanings": [
+        "به تازگی"
+      ]
+    },
+    {
+      "EnglishWord": "recipe",
+      "Meanings": [
+        "دستور العمل"
+      ]
+    },
+    {
+      "EnglishWord": "recommend",
+      "Meanings": [
+        "توصیه"
+      ]
+    },
+    {
+      "EnglishWord": "reference",
+      "Meanings": [
+        "مرجع"
+      ]
+    },
+    {
+      "EnglishWord": "register",
+      "Meanings": [
+        "ثبت نام"
+      ]
+    },
+    {
+      "EnglishWord": "relevant",
+      "Meanings": [
+        "مربوط"
+      ]
+    },
+    {
+      "EnglishWord": "rely",
+      "Meanings": [
+        "تکیه"
+      ]
+    },
+    {
+      "EnglishWord": "recognition",
+      "Meanings": [
+        "به رسمیت شناختن"
+      ]
+    },
+    {
+      "EnglishWord": "remarkable",
+      "Meanings": [
+        "قابل توجه"
+      ]
+    },
+    {
+      "EnglishWord": "remind",
+      "Meanings": [
+        "یادآو ری کن"
+      ]
+    },
+    {
+      "EnglishWord": "reply",
+      "Meanings": [
+        "پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "representative",
+      "Meanings": [
+        "نماینده"
+      ]
+    },
+    {
+      "EnglishWord": "reputation",
+      "Meanings": [
+        "شهرت"
+      ]
+    },
+    {
+      "EnglishWord": "resident",
+      "Meanings": [
+        "ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "resist",
+      "Meanings": [
+        "مقاومت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "resort",
+      "Meanings": [
+        "رفت و آمد مکرر"
+      ]
+    },
+    {
+      "EnglishWord": "ring",
+      "Meanings": [
+        "حلقه"
+      ]
+    },
+    {
+      "EnglishWord": "rip",
+      "Meanings": [
+        "پاره كردن"
+      ]
+    },
+    {
+      "EnglishWord": "roof",
+      "Meanings": [
+        "سقف"
+      ]
+    },
+    {
+      "EnglishWord": "rope",
+      "Meanings": [
+        "طناب"
+      ]
+    },
+    {
+      "EnglishWord": "rub",
+      "Meanings": [
+        "مالش دادن"
+      ]
+    },
+    {
+      "EnglishWord": "resource",
+      "Meanings": [
+        "منابع"
+      ]
+    }
+  ]
+}
