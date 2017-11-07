@@ -1,0 +1,2288 @@
+﻿{
+  "Group": "W",
+  "Entries": 380,
+  "Words": [
+    {
+      "EnglishWord": "What a surprise! It’s nice to see you. I haven’t seen you for a long time. You’re looking well. How are you?",
+      "Meanings": [
+        "چه عجب از دیدنت خوشحالم مدتی است تو را ندیده‌ام سر حال به نظر میرسی. چطوری؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your name?",
+      "Meanings": [
+        "نام شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your first name?",
+      "Meanings": [
+        "اسم کوچک شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your last name?",
+      "Meanings": [
+        "اسم فامیلیات چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your name Mr. Rad?",
+      "Meanings": [
+        "اسم شما چیست آقای راد؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your full name?",
+      "Meanings": [
+        "اسم کامل شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who’s that near the door ?",
+      "Meanings": [
+        "آن شخص نزدیک درکیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s his name?",
+      "Meanings": [
+        "اسم او چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s this gentleman’s name?",
+      "Meanings": [
+        "اسم این مرد محترم چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s that lady’s name?",
+      "Meanings": [
+        "اسم آن خانوم  بانو  چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your friend’s name?",
+      "Meanings": [
+        "اسم دوستان تو چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you?",
+      "Meanings": [
+        "چه کاره هستید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What would you like to know?",
+      "Meanings": [
+        "میخواهی چه چیز بدانی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, where are you from?",
+      "Meanings": [
+        "خوب، اهل کجایی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where were you born?",
+      "Meanings": [
+        "کجا به دنیا آمده‌ای؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where were your children born?",
+      "Meanings": [
+        "بچه‌هایت کجا به دنیا آمده‌اند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you from, Mr. Ali?",
+      "Meanings": [
+        "آقای علی اهل کجایی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where is your wife now?",
+      "Meanings": [
+        "همسرت حالا کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the name of your hometown?",
+      "Meanings": [
+        "اسم زادگاهت چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your hometown?",
+      "Meanings": [
+        "زادگاهت کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where’s that?",
+      "Meanings": [
+        "کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What section do you live in, Mr. Ali?",
+      "Meanings": [
+        "آقای علی در کدام بخش زندگی میکنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What about you Mr. Alipour?",
+      "Meanings": [
+        "شما چطور خانم علیپور؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you from?",
+      "Meanings": [
+        "اهل کجایید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your address in Ardebil?",
+      "Meanings": [
+        "آدرس شما در اردبیل چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "When’s your birthday?",
+      "Meanings": [
+        "تولد تو کی است؟"
+      ]
+    },
+    {
+      "EnglishWord": "When were you born Mr. Ali?",
+      "Meanings": [
+        "آقای علی چه موقع به دنیا آمده‌اید؟"
+      ]
+    },
+    {
+      "EnglishWord": "When did you arrive?",
+      "Meanings": [
+        "چه موقع رسیدی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you living?",
+      "Meanings": [
+        "کجا زندگی میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "With my mother.",
+      "Meanings": [
+        "نزد مادرم."
+      ]
+    },
+    {
+      "EnglishWord": "Who is she?",
+      "Meanings": [
+        "او کیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why? Did you have a quarrel?",
+      "Meanings": [
+        "چرا؟ با هم جر و بحثی داشته‌اید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why, thank you! I’ve been going to school at night to study English for four and half years now .it’s really helped me and how did you learn to speak so well?",
+      "Meanings": [
+        "چرا، متشکرم! شب ها به مدرسه میرفتم تا مدت چهارو نیم سال انگلیسی بخوانم. این واقعا به من کمک کرد."
+      ]
+    },
+    {
+      "EnglishWord": "Well, I wish you luck. My company has an office in New York and I’ll be here for another two years. I hope we’ll meet again.do you come here often?",
+      "Meanings": [
+        "خوب، امیدوارم موفق باشی. شرکت من دفتری در نیویورک دارد و دو سال دیگر اینجا خواهم بود. امیدوارم\r\nدوباره همدیگر را ببینیم. اغلب به اینجا میآیی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We went to Mashad in Mehr.",
+      "Meanings": [
+        "ما در ماه مهر به مشهد رفته بودیم."
+      ]
+    },
+    {
+      "EnglishWord": "What time is it?",
+      "Meanings": [
+        "ساعت چند است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like some tea?",
+      "Meanings": [
+        "مقداری چای میل داری ؟"
+      ]
+    },
+    {
+      "EnglishWord": "What today?",
+      "Meanings": [
+        "امروز چه روزی بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’ today’s date?",
+      "Meanings": [
+        "تاریخ امروز چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "When will this course end?",
+      "Meanings": [
+        "این دوره درسی کی تمام میشود؟"
+      ]
+    },
+    {
+      "EnglishWord": "When are the examinations? Are they also on May twenty-sixth?",
+      "Meanings": [
+        "امتحانات پایانی چه موقع خواهند بود؟آیا آنها هم ۲۶ ام خواهند بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "When are you getting married?",
+      "Meanings": [
+        "چه زمانی ازدواج میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "When’s your national holiday?",
+      "Meanings": [
+        "روز ملی چه موقع است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, let’s meet Friday afternoon at four o’clock , but phone me the day before to remind me.",
+      "Meanings": [
+        "خوب، بگذار جمعه بعد از ظهر ساعت چهار باشد، ولی روز قبل جهت یادآوری به من زنگ بزن."
+      ]
+    },
+    {
+      "EnglishWord": "When is your warm season here.",
+      "Meanings": [
+        "فصل گرم اینجا کِی است؟"
+      ]
+    },
+    {
+      "EnglishWord": "What terrible weather! I hope it stops raining.",
+      "Meanings": [
+        "چه هوای بدی! امیدوارم باران بند بیاید."
+      ]
+    },
+    {
+      "EnglishWord": "We do get a lot of rain in spring. But it help bring the flowers we have in summer.",
+      "Meanings": [
+        "ما در بهار باران زیادی داریم. اما این کمک میکند تا در تابستان گلهای زیادی به بار بیایند."
+      ]
+    },
+    {
+      "EnglishWord": "What were they?",
+      "Meanings": [
+        "آنها چه نوعی بودند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you going? It’s pouring.",
+      "Meanings": [
+        "کجا میروی؟ شُرشُر میبارد."
+      ]
+    },
+    {
+      "EnglishWord": "What’s this?",
+      "Meanings": [
+        "این چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where is your book?",
+      "Meanings": [
+        "کتاب تو کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where is his pen?",
+      "Meanings": [
+        "قلم او کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why are you asking me?",
+      "Meanings": [
+        "چرا از من میپرسی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where did you put your book?",
+      "Meanings": [
+        "کتابت را کجا گذاشتی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your teacher’s name?",
+      "Meanings": [
+        "نام معلمت چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What class are you in?",
+      "Meanings": [
+        "در کلاس چند هستی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you studying in school?",
+      "Meanings": [
+        "در مدرسه چه میخوانی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your native language?",
+      "Meanings": [
+        "زبان بومیات چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the date of our final examination? I have to start studying.",
+      "Meanings": [
+        "تاریخ امتحان پایانیمان کِی است؟ باید شروع به درس خواندن کنم."
+      ]
+    },
+    {
+      "EnglishWord": "When did you graduate from the lycee?",
+      "Meanings": [
+        "کِی از دبیرستان فرانسوی فارغ التحصیل شدی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What was the date of your graduation from primary school?",
+      "Meanings": [
+        "در چه تاریخی از مدرسه ابتدایی فارغ التحصیل شدی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the topic?",
+      "Meanings": [
+        "موضوعش چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What subject are you studying? I’m taking only two this term.",
+      "Meanings": [
+        "چه درس‌هایی میخوانی؟ من دراین ترم فقط دوتا میگیرم."
+      ]
+    },
+    {
+      "EnglishWord": "What courses are you planning to take?",
+      "Meanings": [
+        "چه درسهایی قصد داری بگیری؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you writing?",
+      "Meanings": [
+        "چه مینویسی؟"
+      ]
+    },
+    {
+      "EnglishWord": "When is it due?",
+      "Meanings": [
+        "قرار است چه موقع باشد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you have to?",
+      "Meanings": [
+        "چرا ناچار نیستی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are studying?",
+      "Meanings": [
+        "روی چه چیزی مطالعه میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’re learning about the government of our city. We’re going to the museum tomorrow.",
+      "Meanings": [
+        "در مورد تاریخ اداره شهرمان مطالعه میکنیم. فردا به موزه میرویم."
+      ]
+    },
+    {
+      "EnglishWord": "What’s happening this afternoon?",
+      "Meanings": [
+        "امروز بعد از ظهر چه خبراست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, here’s your pen. Thank you very much.",
+      "Meanings": [
+        "خوب، بفرمائید این قلم شما خیلی متشکرم."
+      ]
+    },
+    {
+      "EnglishWord": "What’s your brother’s name?",
+      "Meanings": [
+        "اسم برادرت چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Which one?",
+      "Meanings": [
+        "کدامیک؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who’s taking you to the movie?",
+      "Meanings": [
+        "چه کسی تو را به سینما میبرد؟"
+      ]
+    },
+    {
+      "EnglishWord": "What does your mother do?",
+      "Meanings": [
+        "مادرت چکاره است؟"
+      ]
+    },
+    {
+      "EnglishWord": "What work does your brother do?",
+      "Meanings": [
+        "برادرت چه کار میکند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where, at his home?",
+      "Meanings": [
+        "کجا، در خانه‌اش؟"
+      ]
+    },
+    {
+      "EnglishWord": "What does he do?",
+      "Meanings": [
+        "چه کاره است؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your mother’s name?",
+      "Meanings": [
+        "اسم مادرت چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why, of course. I know her. How is your mother?",
+      "Meanings": [
+        "چرا، البته میشناسم. مادرت چطور است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where do your brothers live?",
+      "Meanings": [
+        "برادرانت کجا زندگی میکنند؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’ve just moved to a new apartment.",
+      "Meanings": [
+        "تازگی به یک آپارتمان جدید نقل مکان کرده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "What is your name, please?",
+      "Meanings": [
+        "اسم شما چیست، لطفا ؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the rent here?",
+      "Meanings": [
+        "کرایه اینجا چقدر است؟"
+      ]
+    },
+    {
+      "EnglishWord": "What is your name please?",
+      "Meanings": [
+        "لطفا اسمتان را بگویید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What would you like, water or milk?",
+      "Meanings": [
+        "چی میخواهی، آب یا شیر؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you doing?",
+      "Meanings": [
+        "چه کار میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like another ham sandwich?",
+      "Meanings": [
+        "یک ساندویچ ژامبون دیگر میخواهی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you usually drink for lunch?",
+      "Meanings": [
+        "معمو لا برای ناهار چه مینوشی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you eat your potatoes?",
+      "Meanings": [
+        "چرا سیب زمینیات را نمیخوری؟"
+      ]
+    },
+    {
+      "EnglishWord": "What kind?",
+      "Meanings": [
+        "چه نوع کیکی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you like to bake?",
+      "Meanings": [
+        "چه چیزی دوست داری بپزی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What is your favorite cake? I’m always looking for good recipes.",
+      "Meanings": [
+        "کیک دلخواه تو چیست؟ من همیشه دنبال دستورات پخت خوب بوده‌ام."
+      ]
+    },
+    {
+      "EnglishWord": "What about the glasses?",
+      "Meanings": [
+        "لیوان چطور؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to eat out?",
+      "Meanings": [
+        "میخواهی غذا بخوریم؟"
+      ]
+    },
+    {
+      "EnglishWord": "When you’ve finished your homework and washed, we’ll have our dinner.",
+      "Meanings": [
+        "وقتی تکالیف تمام شد و دست و صورتت را شستی شام میخوریم."
+      ]
+    },
+    {
+      "EnglishWord": "What would you like to eat?",
+      "Meanings": [
+        "میل داری چی بخوری؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to have your breakfast now?",
+      "Meanings": [
+        "آیا میل داری حالا صبحانه بخوریم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Waiter, the menu please.",
+      "Meanings": [
+        "گارسون، لطفا لیست غذا را بیاورید."
+      ]
+    },
+    {
+      "EnglishWord": "What’s on the menu? Do you have barley soup?",
+      "Meanings": [
+        "غذا امروز چه دارید؟ آیا سوپ جو دارید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will you have some potatoes with your meat?",
+      "Meanings": [
+        "آیا با گوشت سیبزمینی هم میل دارید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Waiter, the bill please.",
+      "Meanings": [
+        "گارسون لطفا صورتحساب را بیاورید."
+      ]
+    },
+    {
+      "EnglishWord": "Which book did you buy?",
+      "Meanings": [
+        "کدام کتاب را خریدید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Which of the two cars do you want?",
+      "Meanings": [
+        "کدام یک از این دو اتومبیل را میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Were you at the cinema yesterday.",
+      "Meanings": [
+        "آیا شما دیروز در سینما بودید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We weren’t in the garden yesterday.",
+      "Meanings": [
+        "ما دیروز در باغ نبودیم."
+      ]
+    },
+    {
+      "EnglishWord": "Wasn’t he tired?",
+      "Meanings": [
+        "آیا او خسته نبود؟"
+      ]
+    },
+    {
+      "EnglishWord": "Weren’t you at home last night?",
+      "Meanings": [
+        "آیا شما دیشب در منزل نبودید؟"
+      ]
+    },
+    {
+      "EnglishWord": "When he comes here, I will tell him the truth.",
+      "Meanings": [
+        "وقتی که او به اینجا بیاید، حقیقت را بهش خواهم گفت."
+      ]
+    },
+    {
+      "EnglishWord": "We’re open from 8 in the morning until 6 in the evening.",
+      "Meanings": [
+        "ما از ساعت 8 صبح تا ۶ غروب باز هستیم."
+      ]
+    },
+    {
+      "EnglishWord": "We shall meet The President in Mehrabad Airport tomorrow.",
+      "Meanings": [
+        "فردا رئیس جمهور را در فرودگاه مهرآباد ملاقات خواهیم کرد."
+      ]
+    },
+    {
+      "EnglishWord": "Will she come here?",
+      "Meanings": [
+        "آیا او به اینجا خواهد آمد؟"
+      ]
+    },
+    {
+      "EnglishWord": "We shall meet him.",
+      "Meanings": [
+        "او را ملاقات خواهیم کرد."
+      ]
+    },
+    {
+      "EnglishWord": "We shan’t meet him.",
+      "Meanings": [
+        "او را ملاقات نخواهیم کرد."
+      ]
+    },
+    {
+      "EnglishWord": "Won’t they go to the movies with us?",
+      "Meanings": [
+        "آیا آنها همراه ما به سینما نخواهند رفت؟"
+      ]
+    },
+    {
+      "EnglishWord": "What time do you go to bed?",
+      "Meanings": [
+        "چه موقع به رختخواب میروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What time do you have breakfast?",
+      "Meanings": [
+        "چه ساعتی صبحانه میخوری؟"
+      ]
+    },
+    {
+      "EnglishWord": "When do you do your shopping, Mrs. Ali?",
+      "Meanings": [
+        "چه موقع خریدتان را انجام میدهید خانم علی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you usually do on Sundays?",
+      "Meanings": [
+        "روزهای یکشنبه معمولا چه کار میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the matter? You don’t look well.",
+      "Meanings": [
+        "موضوع چیست؟ خوب به نظر نمیرسی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why were you absent yesterday?",
+      "Meanings": [
+        "چرا دیروز خواب بودی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What happened to Reza?",
+      "Meanings": [
+        "چه بلایی سر رضا آمد."
+      ]
+    },
+    {
+      "EnglishWord": "Would you speak louder, please? I can’t hear you.",
+      "Meanings": [
+        "ممکن است بلندتر حرف بزنید، لطفا ؟ نمیتوانم صدایتان را بشنوم."
+      ]
+    },
+    {
+      "EnglishWord": "What do you do for exercises?",
+      "Meanings": [
+        "برای نرمش چه کار میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "When did the pains start?",
+      "Meanings": [
+        "چه موقع درد شروع شد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will the tooth have to be pulled?",
+      "Meanings": [
+        "آیا دندانم باید کشیده شود؟"
+      ]
+    },
+    {
+      "EnglishWord": "We missed you yesterday. Were you ill?",
+      "Meanings": [
+        "دیروز نبودید، مریض بودید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you mean?",
+      "Meanings": [
+        "منظورت چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What happened?",
+      "Meanings": [
+        "چه اتفاقی افتاده؟",
+        "چه اتفاقی افتاد؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the matter with you?",
+      "Meanings": [
+        "چی شده؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your hobby?",
+      "Meanings": [
+        "سرگرمی شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you doing after school?",
+      "Meanings": [
+        "تو بعد از مدرسه چکار داری؟"
+      ]
+    },
+    {
+      "EnglishWord": "What will we do there?",
+      "Meanings": [
+        "آنجا چکار خواهیم کرد؟"
+      ]
+    },
+    {
+      "EnglishWord": "We can listen to CDs or watch TV, or just talk.",
+      "Meanings": [
+        "میتوانیم به سیدی گوش دهیم یا تلوزیون تماشا کنیم یا فقط حرف بزنیم."
+      ]
+    },
+    {
+      "EnglishWord": "We can’t listen to CDs.",
+      "Meanings": [
+        "نمیتوانیم به سی دی گوش کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "Why? Is the baby sleeping?",
+      "Meanings": [
+        "آیا بچه خواب است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Was there? I’m sorry. I missed it.",
+      "Meanings": [
+        "آره؟ واقعا . متاسفم که آن را از دست دادم."
+      ]
+    },
+    {
+      "EnglishWord": "Who did you go to the concert with?",
+      "Meanings": [
+        "با چه کسی به کنسرت رفتی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Wednesday – Thursday – Friday – Saturday",
+      "Meanings": [
+        "چهارشنبه پنج شنبه جمعه شنبه – – –"
+      ]
+    },
+    {
+      "EnglishWord": "Where is the American Embassy in Dubai?",
+      "Meanings": [
+        "سفارت آمریکا در دبی کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your problem? I have friends in high places and contacts at the American Embassy.",
+      "Meanings": [
+        "مشکلتان چیست؟ دوستان رده بالا و آشنایانی در سفارت آمریکا دارم."
+      ]
+    },
+    {
+      "EnglishWord": "Where is your passport?",
+      "Meanings": [
+        "گذرنامهتان کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What is he doing with my passport?",
+      "Meanings": [
+        "با گذرنامه من دارد چکار میکند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who is the holder of this passport?",
+      "Meanings": [
+        "صاحب این گذرنامه کیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Wait here to have your passport stamped.",
+      "Meanings": [
+        "اینجا بایستید تا پاسپورتتان مهر شود."
+      ]
+    },
+    {
+      "EnglishWord": "When your visa expires, they will deport you to your own country.",
+      "Meanings": [
+        "هنگامی که مهلت ویزای شما تمام شود، شما را به کشور خودتان بر خواهند گرداند."
+      ]
+    },
+    {
+      "EnglishWord": "When will you issue a visa for me?",
+      "Meanings": [
+        "کی برای من ویزا صادر میکنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you going to wear?",
+      "Meanings": [
+        "میخواهی چه بپوشی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you? It’s not expensive.",
+      "Meanings": [
+        "چرا که نه؟ گران نیست."
+      ]
+    },
+    {
+      "EnglishWord": "What are you going to be, young man?",
+      "Meanings": [
+        "میخواهی چه کاره شوی مرد جوان؟"
+      ]
+    },
+    {
+      "EnglishWord": "What would you like to be do after you graduate?",
+      "Meanings": [
+        "پس از فارغ التحصیل شدن میخواهی چه کاره شوی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where do you work, Mr. Ali?",
+      "Meanings": [
+        "آقای علی کجا کار میکنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What kind of job are you looking for?",
+      "Meanings": [
+        "دنبال چه نوع شغلی هستید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you do?",
+      "Meanings": [
+        "چه کار میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What wages do you pay?",
+      "Meanings": [
+        "چقدر دستمزد میدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We pay a dollar seventy-five an hour, and time and a half for over time.",
+      "Meanings": [
+        "ما ساعتی یک دلار و هفتاد و پنج سنت میپردازیم و یک و نیم برابر برای اضافه کاری."
+      ]
+    },
+    {
+      "EnglishWord": "What are the working hours?",
+      "Meanings": [
+        "ساعت کار کی است؟"
+      ]
+    },
+    {
+      "EnglishWord": "We work forty hours a week, from nine to twelve and two to six, and from eight to nine on Saturday.",
+      "Meanings": [
+        "ما چهل ساعت در هفته کار میکنیم، از نه تا دوازده، و دو تا شش، و از هشت تا نه، شنبه."
+      ]
+    },
+    {
+      "EnglishWord": "Wait a moment. I’ll get you a stronger bulb.",
+      "Meanings": [
+        "یک لحظه صبر کن. یک لامپ قویتر برایت میآورم."
+      ]
+    },
+    {
+      "EnglishWord": "What kind of changes has automation brought about?",
+      "Meanings": [
+        "خودکار سازی ماشینی شدن چه نوع تغییراتی به همراه آورده؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, for one thing, there are fewer jobs for unskilled workers.",
+      "Meanings": [
+        "شغلهای کمتری هست.  بدون مهارت  به عنوان نمونه برای کارگران عادی"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to be president?",
+      "Meanings": [
+        "مایل هستید رئیس جمهور شوید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What field will you specialize in?",
+      "Meanings": [
+        "در چه رشته‌ای میخواهی تخصص بگیری؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where did you work?",
+      "Meanings": [
+        "کجا کار کرده‌ای؟"
+      ]
+    },
+    {
+      "EnglishWord": "What can you do?",
+      "Meanings": [
+        "چه کاری میتوانی انجام دهی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What can you do? Can you type?",
+      "Meanings": [
+        "چه کار میتوانی انجام دهی؟ میتوانی ماشیننویسی کنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What can you do? Can you type and do general office work?",
+      "Meanings": [
+        "چه کار میتوانی انجام دهی؟ میتوانی تایپ کنی و کارهای عمومی اداری را انجام دهی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your telephone number?",
+      "Meanings": [
+        "شماره تلفنات چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s your office phone number?",
+      "Meanings": [
+        "شماره تلفن دفترت اداره ات چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where is the phone book, please?",
+      "Meanings": [
+        "دفترچه راهنمای تلفن کجاست، لطفا ؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you get the number of smiths living on the Fourth Street?",
+      "Meanings": [
+        "ممکن است شماره خانواده اسمیت که در خیابان چهارم زندگی میکند را بدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, I’m afraid I can’t help you.",
+      "Meanings": [
+        "خوب، متاسفانه نمیتوانم پیدا کنم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to try reaching the Millers by phone?",
+      "Meanings": [
+        "ممکن است خانواده میلر را با تلفن بگیرید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you please tell him I’ll call again?",
+      "Meanings": [
+        "ممکن است لطفا به او بگویید من دوباره زنگ میزنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the name of the newspaper you’re reading.",
+      "Meanings": [
+        "اسم روزنامه‌ای که میخوانید چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Which way is the health center, please?",
+      "Meanings": [
+        "لطفا کدام مسیر به طرف مرکز بهداشت میرود؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where’s the library?",
+      "Meanings": [
+        "کتابخانه کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Which station, the bus station or the subway?",
+      "Meanings": [
+        "کدام ایستگاه؟ ایستگاه اتوبوس یا مترو زیر زمینی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the best way of getting to your house?",
+      "Meanings": [
+        "بهترین راه برای رسیدن به خانه شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you try the butcher shop on Elm Street?",
+      "Meanings": [
+        "چرا قصابی خیابان الم را امتحان نمیکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We need some furniture.",
+      "Meanings": [
+        "مقداری لوازم خانه میخواهیم."
+      ]
+    },
+    {
+      "EnglishWord": "We have a special sale on this brand. One can is fifty cents, two cans are fifty-two cents.",
+      "Meanings": [
+        "نوعی قوطی داریم که فروش خوبی دارد. یک قوطی آن پنجاه سنت دو قوطی پنجاه و دو سنت است."
+      ]
+    },
+    {
+      "EnglishWord": "What did you spend the money on?",
+      "Meanings": [
+        "پولت را خرج چه چیز کردی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would the butcher cut some for me now?",
+      "Meanings": [
+        "آیا قصاب حالا مقداری برایم خواهد برید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Was there a sale at the supermarket?",
+      "Meanings": [
+        "آیا در سوپر مارکت حراج بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’ve just moved into the neighborhood. I’m Mrs. Melina. I have to long list of medicines we need.",
+      "Meanings": [
+        "به تازگی به این محل نقل مکان کرده‌ایم. من خانم ملینا هستم. من لیست بلندی از داروهای مورد نیازمان دارم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you like a set with six forks and six knives?",
+      "Meanings": [
+        "یک دست چنگال ششتایی و کارد ششتایی میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Was the letter sent by Soheila?",
+      "Meanings": [
+        "آیا نامه توسط سهیلا فرستاده شد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will we be invited to a party?",
+      "Meanings": [
+        "آیا ما به یک پارتی دعوت خواهیم شد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like anything else?",
+      "Meanings": [
+        "چیز دیگری میل دارید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We hope to prevent anything unpleasant from happening.",
+      "Meanings": [
+        "ما امیدواریم از هر چیز ناخوشایند اتفاقی جلوگیری کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you like some milk in your coffe?",
+      "Meanings": [
+        "آیا مایلید مقداری شیر در قهوهتان باشد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like some more coffee?",
+      "Meanings": [
+        "باز هم قهوه میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We walked farther than we planned.",
+      "Meanings": [
+        "دورتر از نقشه مان پیاده رفتیم."
+      ]
+    },
+    {
+      "EnglishWord": "We have enough bread.",
+      "Meanings": [
+        "نان کافی داریم."
+      ]
+    },
+    {
+      "EnglishWord": "We often stay at home on Fridays.",
+      "Meanings": [
+        "اغلب روزهای جمعه در منزل میمانیم."
+      ]
+    },
+    {
+      "EnglishWord": "We have been there quite often.",
+      "Meanings": [
+        "ما خیلی در آنجا بوده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "When we got to the movies, the film had already started.",
+      "Meanings": [
+        "وقتی که به سینما رسیدیم فیلم قب لا شروع شده بود."
+      ]
+    },
+    {
+      "EnglishWord": "When, I called, Tom was already dressed.",
+      "Meanings": [
+        "وقتی که تلفن کردم تام قبلا لباس پوشیده بود."
+      ]
+    },
+    {
+      "EnglishWord": "We have had no news from him yet.",
+      "Meanings": [
+        "تاکنون خبری از او دریافت نکرده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "We haven’t been there lately?",
+      "Meanings": [
+        "اخیرا در آنجا نبوده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "We’re having lunch at the moment.",
+      "Meanings": [
+        "ما الان داریم ناهار میخوریم، در حال خوردن ناهار هستیم."
+      ]
+    },
+    {
+      "EnglishWord": "Were there two men at the bus stop?",
+      "Meanings": [
+        "آیا دو مرد در ایستگاه اتوبوس هستند؟"
+      ]
+    },
+    {
+      "EnglishWord": "When I was young, I went to the cinema twice a week.",
+      "Meanings": [
+        "زمانی که جوان بودم هفته‌ای دو بار به سینما میرفتم."
+      ]
+    },
+    {
+      "EnglishWord": "What material would you like? Flannel, worsted or tweed?",
+      "Meanings": [
+        "از چه پارچه‌ای می خواهید؟ فلانل، فاستونی یا پیچازی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Worsted I think.",
+      "Meanings": [
+        "فکر میکنم فاستونی باشد."
+      ]
+    },
+    {
+      "EnglishWord": "Where can I find men’s cotton socks?",
+      "Meanings": [
+        "کجا میتوانم جوراب مردانه نخی پیدا کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Wool – nylon – Dacron",
+      "Meanings": [
+        "پشمی نایلون داکرون – –"
+      ]
+    },
+    {
+      "EnglishWord": "What size do you take?",
+      "Meanings": [
+        "چه اندازه‌ای میپوشید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What size do you wear? These dresses are on sale.",
+      "Meanings": [
+        "چه اندازه‌ای میپوشید؟ این پیراهن‌ها را حراج کرده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "Were they expensive?",
+      "Meanings": [
+        "گران بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you get red shoes? You can have them dyed to match the dress.",
+      "Meanings": [
+        "چرا کفش قرمز نمیگیری؟ میتوانی کاری کنی تا در این صورت با رنگ پیراهنت جور شود."
+      ]
+    },
+    {
+      "EnglishWord": "Where are you going this morning?",
+      "Meanings": [
+        "امروز صبح کجا میروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you need? I can lend you some things?",
+      "Meanings": [
+        "چه چیزی لازم داری؟ میتوانم چیزه‌ایی به تو قرض دهم."
+      ]
+    },
+    {
+      "EnglishWord": "Well, how do I look?",
+      "Meanings": [
+        "خوب، چطوری میشوم؟"
+      ]
+    },
+    {
+      "EnglishWord": "We have an excellent selection.",
+      "Meanings": [
+        "یک مجموعه عالی از آن داریم."
+      ]
+    },
+    {
+      "EnglishWord": "What does your friend’s look like?",
+      "Meanings": [
+        "مال دوستت چه شکلی است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Which one, miss?",
+      "Meanings": [
+        "کدام یک، خانم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will you please pay the cashier? You’ll find your purchases at the cashier’s window.",
+      "Meanings": [
+        "ممکن است لطفا پول را به صندوق بپردازید؟ خریدتان را در ویترین صندوق پیدا میکنید."
+      ]
+    },
+    {
+      "EnglishWord": "Where?",
+      "Meanings": [
+        "کجا؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the dress like?",
+      "Meanings": [
+        "پیراهن چه شکلی است؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will you wear it to the party on Saturday?",
+      "Meanings": [
+        "آیا آن را در مهمانی روز شنبه میپوشی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What an attractive suit you’re wearing. I like it. When did you get it?",
+      "Meanings": [
+        "چه لباس زیبایی پوشیده‌ای؟ دوست داشتنی است. چه موقع آن را گرفتی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Watch – bracelet – necklace – watchband",
+      "Meanings": [
+        "ساعت دستبند گردنبند بند ساعت – – –"
+      ]
+    },
+    {
+      "EnglishWord": "We don’t do dyeing here. Try Sal’s on Fourth Avenue.",
+      "Meanings": [
+        "ما اینجا رنگ نمیکنیم. به فروشگاه سال در خیابان چهارم مراجعه کن."
+      ]
+    },
+    {
+      "EnglishWord": "When will they be ready?",
+      "Meanings": [
+        "چه موقع آماده میشوید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are they? I need a good tailor who will work on women’s clothes.",
+      "Meanings": [
+        "کجا هستند؟ یک خیاط خوب لازم دارم میخواهم که روی لباس زنان کار کند."
+      ]
+    },
+    {
+      "EnglishWord": "We can’t use car. I have a flat.",
+      "Meanings": [
+        "نمیتوانیم از ماشین استفاده کنیم. لاستیک پنچر شده."
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you get my accountant? He’s very good.",
+      "Meanings": [
+        "چرا حسابدار مرا نمیگیری؟ او خیلی خوب است."
+      ]
+    },
+    {
+      "EnglishWord": "Where’s the nearest post office?",
+      "Meanings": [
+        "نزدیکترین ادارۀ پست کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you mail this package for me?",
+      "Meanings": [
+        "ممکن است این بسته را برای من پست کنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where can I mail the letter?",
+      "Meanings": [
+        "کجا میتوانم نامه را پست کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are going?",
+      "Meanings": [
+        "کجا میروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, I need some envelopes. As long as you’re going could you bring me five and also mail these letters?",
+      "Meanings": [
+        "خوب، من تعدادی پاکت نامه لازم دارم. وقتی میروی میتوانی برایم 5 عدد بیاوری و نیز این نامه‌ها را پست\r\nکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where can I cash a check?",
+      "Meanings": [
+        "کجا میتوانم یک چک نقد کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will you please fill out this form?",
+      "Meanings": [
+        "ممکن است این فرم را پُر کنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, then I guess there must be some mistake.",
+      "Meanings": [
+        "خوب، پس حدس میزنم اشتباهی رخ داده باشد."
+      ]
+    },
+    {
+      "EnglishWord": "Would you please give me some information? Your name, please.",
+      "Meanings": [
+        "مقداری اطلاعات به من بدهید لطفا ؟ اسمتان لطفا ."
+      ]
+    },
+    {
+      "EnglishWord": "Where are you employed, Mr. Ali?",
+      "Meanings": [
+        "آقای علی کجا استخدام شده‌اید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like a have?",
+      "Meanings": [
+        "میخواهی صورتت اصلاح شود تراشیده شود؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who sets your hair?",
+      "Meanings": [
+        "موی شما را چه کسی مرتب میکند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to try my hairdresser?",
+      "Meanings": [
+        "میخواهید آرایشگر مرا امتحان کنید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why no? I’m on my way there now. Come along with me.",
+      "Meanings": [
+        "همراه من بیا. . بر سر راه آنجا هستم  چرا نه؟ حالا به آنجا میروم"
+      ]
+    },
+    {
+      "EnglishWord": "We’d better have stayed at home.",
+      "Meanings": [
+        "بهتر بود در منزل میماندیم."
+      ]
+    },
+    {
+      "EnglishWord": "We are used to this climate.",
+      "Meanings": [
+        "به این آب و هوا عادت داریم."
+      ]
+    },
+    {
+      "EnglishWord": "We needn’t have hurried.",
+      "Meanings": [
+        "ضرورت نداشت که عجله کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "We have studied English since 1960.",
+      "Meanings": [
+        "از سال 19۶0 تاکنون انگلیسی خوانده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "We’ve lived here since 1994.",
+      "Meanings": [
+        "ما از سال 1994 اینجا زندگی میکنیم."
+      ]
+    },
+    {
+      "EnglishWord": "We did a lot of work this morning, didn’t we?",
+      "Meanings": [
+        "امروز صبح کار زیادی انجام دادیم، اینطور نیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "While I was coming to work this morning, I met an old friend.",
+      "Meanings": [
+        "امروز صبح هنگامی که داشتم بر سر کار میآمدم یک دوست قدیمی را ملاقات کردم."
+      ]
+    },
+    {
+      "EnglishWord": "Were you playing while it was raining?",
+      "Meanings": [
+        "آیا موقعی که باران میبارید، شما داشتید بازی میکردید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Wasn’t Ali talking with the teacher?",
+      "Meanings": [
+        "آیا علی در حال صحبت کردن با معلم نبود؟"
+      ]
+    },
+    {
+      "EnglishWord": "When we saw them, they were swimming.",
+      "Meanings": [
+        "موقعی که آنها را دیدیم، داشتند شنا میکردند."
+      ]
+    },
+    {
+      "EnglishWord": "While I was waiting at the bus stop, three buses went by in the opposite direction.",
+      "Meanings": [
+        "موقعی که در ایستگاه اتوبوس منتظر بودم، سه اتوبوس از مسیر مقابل گذشتند."
+      ]
+    },
+    {
+      "EnglishWord": "While you were playing football, I was having lunch.",
+      "Meanings": [
+        "موقعی که داشتید فوتبال بازی میکردید، من داشتم ناهار میخوردم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you mind explaining that again, please?",
+      "Meanings": [
+        "ممکن است لطفا دوباره آن را توضیح دهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are going after school?",
+      "Meanings": [
+        "بعد از مدرسه کجا میروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the book you’re reading?",
+      "Meanings": [
+        "کتابی که میخوانی چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where is the new book the librarian gave you?",
+      "Meanings": [
+        "کتاب که کتابدار به شما داد کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, there are three names before yours.",
+      "Meanings": [
+        "خوب، سه نفر قبل از اسم شما هستند."
+      ]
+    },
+    {
+      "EnglishWord": "Would you say in about a month?",
+      "Meanings": [
+        "شما میگویید تقریب ا یک ماه؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do I have to do to join?",
+      "Meanings": [
+        "چکار باید بکنم که عضو شوم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where can I get a number seven bus to Main Street?",
+      "Meanings": [
+        "کجا میتوانم به اتوبوس خط هفت به طرف خیابان اصلی برسم؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’d better hurry or we’ll miss our bus.",
+      "Meanings": [
+        "بهتر است عجله کنیم وگرنه به اتوبوسمان نمیرسیم."
+      ]
+    },
+    {
+      "EnglishWord": "What time does the bus stop here?",
+      "Meanings": [
+        "چه ساعتی اتوبوس در اینجا میایستد؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’re going to drive. That way, we can stop at many more places.",
+      "Meanings": [
+        "با ماشین میرویم. اینطوری میتوانیم در جاهای زیادتری بایستیم."
+      ]
+    },
+    {
+      "EnglishWord": "Where would you like to go miss?",
+      "Meanings": [
+        "کجا میخواهید بروید خانم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will the plane be on time?",
+      "Meanings": [
+        "آیا قطار به موقع خواهد آمد؟"
+      ]
+    },
+    {
+      "EnglishWord": "What kind of flight are you on, propeller or jet?",
+      "Meanings": [
+        "چه نوع هواپیمایی هست، ملخی یا جت؟"
+      ]
+    },
+    {
+      "EnglishWord": "What model would you like?",
+      "Meanings": [
+        "چه مدلی میخواهی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We have no choice. We have only one day to see the city.",
+      "Meanings": [
+        ". ببینیم  فرصت نداریم. ما تنها یک روز وقت داریم تا شهر را بگردیم"
+      ]
+    },
+    {
+      "EnglishWord": "Well, all right but I’d still prefer to rent a car.",
+      "Meanings": [
+        "خوب، بسیار خوب ولی من هنوز ترجیح میدهم یک ماشین کرایه کنم."
+      ]
+    },
+    {
+      "EnglishWord": "Watch the road crossing further ahead. There are no lights or traffic signals, you know.",
+      "Meanings": [
+        "چهار راه جلوتر را نگاه کن. میدانی هیچ چراغ یا علایم راهنمایی وجود ندارد."
+      ]
+    },
+    {
+      "EnglishWord": "What’s the matter, officer?",
+      "Meanings": [
+        "جناب سروان، موضوع چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "What happened? Did you have trouble parking?",
+      "Meanings": [
+        "چه اتفاقی افتاد؟ در پارک کردن مشکل داشتی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Won’t it take too long?",
+      "Meanings": [
+        "خیلی زیاد طول نمیکشد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Well, then, what’s there to complain about?",
+      "Meanings": [
+        "؟ چه هست که از آن شکایت میکنی  ؟ خوب، پس چه چیز سبب شکایت شده"
+      ]
+    },
+    {
+      "EnglishWord": "What is the name, please?",
+      "Meanings": [
+        "با چه نامی، لطفا ؟"
+      ]
+    },
+    {
+      "EnglishWord": "We got ourselves into trouble.",
+      "Meanings": [
+        "خودمان را به دردسر انداختیم."
+      ]
+    },
+    {
+      "EnglishWord": "We blame ourselves.",
+      "Meanings": [
+        "ما خودمان را مقصر میدانیم."
+      ]
+    },
+    {
+      "EnglishWord": "We can repair the roof ourselves.",
+      "Meanings": [
+        "ما میتوانیم خودمان سقف را تعمیر کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "When they came, he hadn't gone yet.",
+      "Meanings": [
+        "وقتی که آنها آمدند، او هنوز نرفته بود."
+      ]
+    },
+    {
+      "EnglishWord": "Was there anybody else in that room?",
+      "Meanings": [
+        "کس دیگری در اتاق بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "We didn't go anywhere else.",
+      "Meanings": [
+        "ما جای دیگری نرفتیم."
+      ]
+    },
+    {
+      "EnglishWord": "What is the price of this pen?",
+      "Meanings": [
+        "قیمت این قلم چقدر است؟"
+      ]
+    },
+    {
+      "EnglishWord": "We are out of debt.",
+      "Meanings": [
+        "اکنون بدهی نداریم."
+      ]
+    },
+    {
+      "EnglishWord": "We will go for a walk if you feel like.",
+      "Meanings": [
+        "اگر شما مایل باشید بگردش خواهیم رفت."
+      ]
+    },
+    {
+      "EnglishWord": "We believe in God.",
+      "Meanings": [
+        "ما به خدا ایمان داریم."
+      ]
+    },
+    {
+      "EnglishWord": "We have arrived somewhat late, I am afraid.",
+      "Meanings": [
+        "متاسفم، ما تا حدی دیر رسیده‌ایم."
+      ]
+    },
+    {
+      "EnglishWord": "We must find money for the rent somehow.",
+      "Meanings": [
+        "باید به طریقی برای اجاره بها پول پیدا کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "We shall get there somehow.",
+      "Meanings": [
+        "به طریقی به آنجا خواهیم رسید."
+      ]
+    },
+    {
+      "EnglishWord": "Who won the tennis match which was held yesterday.",
+      "Meanings": [
+        "مسابقه تنیس را که دیروز برگزار شد چه کسی برد."
+      ]
+    },
+    {
+      "EnglishWord": "Would you be so kind as to help me.",
+      "Meanings": [
+        "ممکن است لطفا به من کمک کنید."
+      ]
+    },
+    {
+      "EnglishWord": "Will they come this afternoon? No, I don't think so.",
+      "Meanings": [
+        "آیا بعد از ظهر آنها خواهند آمد؟ نه فکر نمیکنم چنین فکر نمیکنم."
+      ]
+    },
+    {
+      "EnglishWord": "We meant to have stayed there a week.",
+      "Meanings": [
+        "منظورمان این بود که یک هفته آنجا میماندیم. ولی نماندیم"
+      ]
+    },
+    {
+      "EnglishWord": "Why? Do you have a boat?",
+      "Meanings": [
+        "چرا؟ تو قایق داری؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to go swimming?",
+      "Meanings": [
+        "دوست داری برویم شنا؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you going to do on your vacation?",
+      "Meanings": [
+        "میخواهی در تعطیلات چه کار کنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Walking – ice skating – sledding",
+      "Meanings": [
+        "پیاده روی اسکی روی یخ سورتمه سواری – –"
+      ]
+    },
+    {
+      "EnglishWord": "What are the favorite sports here?",
+      "Meanings": [
+        "ورزشه‌ای مورد علاقه در اینجا کدامند؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to play with me tomorrow morning?",
+      "Meanings": [
+        "دوست داری فردا صبح با من بازی کنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’ll see about that. Any way, you know that practice makes perfect.",
+      "Meanings": [
+        "خواهیم دید. به هر حال، میدانی که کار نیکو کردن از پر کردن است."
+      ]
+    },
+    {
+      "EnglishWord": "With whom?",
+      "Meanings": [
+        "با چه کسی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you going to see?",
+      "Meanings": [
+        "میخواهی چه چیزی ببینی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What did you do last night?",
+      "Meanings": [
+        "دیشب چه کار کردی؟",
+        "دیشب تو چه کار کردی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What did you do yesterday?",
+      "Meanings": [
+        "دیروز چه کار کردی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What picture did you see?",
+      "Meanings": [
+        "چه فیلمی دیدی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who knows? I don’t want to be caught in traffic. Let’s take the bus.",
+      "Meanings": [
+        "چه کسی میداند؟ نمیخواهم در ترافیک گیر بیفتم. بیا با اتوبوس برویم."
+      ]
+    },
+    {
+      "EnglishWord": "What did you see?",
+      "Meanings": [
+        "دیدی؟  فیلمی  چه چیزی"
+      ]
+    },
+    {
+      "EnglishWord": "What is it about?",
+      "Meanings": [
+        "درباره چه هست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you going?",
+      "Meanings": [
+        "کجا میروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where are you going, Ali?",
+      "Meanings": [
+        "کجا میروی علی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We’d better hurry or we’ll be late.",
+      "Meanings": [
+        "بهتر است شتاب کنیم وگرنه دیر میرسیم."
+      ]
+    },
+    {
+      "EnglishWord": "What time does the movie start?",
+      "Meanings": [
+        "فیلم چه ساعتی آغاز می شود."
+      ]
+    },
+    {
+      "EnglishWord": "Where’s your theater ticket?",
+      "Meanings": [
+        "بلیط تئاتر شما کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where would you like to sit?",
+      "Meanings": [
+        "میخواهی کجا بشینی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are our seat numbers?",
+      "Meanings": [
+        "شماره‌های صندلی ما چند است؟"
+      ]
+    },
+    {
+      "EnglishWord": "What was it?",
+      "Meanings": [
+        "چه بود؟"
+      ]
+    },
+    {
+      "EnglishWord": "What time does the party start tonight?",
+      "Meanings": [
+        "امشب چه ساعتی مهمانی شروع میشود؟"
+      ]
+    },
+    {
+      "EnglishWord": "What party?",
+      "Meanings": [
+        "چه مهمانی؟"
+      ]
+    },
+    {
+      "EnglishWord": "When is it?",
+      "Meanings": [
+        "چه موقع است؟"
+      ]
+    },
+    {
+      "EnglishWord": "We must get someone to take care of the baby while we're out.",
+      "Meanings": [
+        "هنگامی که بیرون از منزل هستیم، باید بدهیم یک کسی از بچه مواظبت کند."
+      ]
+    },
+    {
+      "EnglishWord": "We will appreciate receiving an answer immediately.",
+      "Meanings": [
+        "از دریافت جواب فوری قدردانی خواهم کرد."
+      ]
+    },
+    {
+      "EnglishWord": "Would you rather have tea or coffee?",
+      "Meanings": [
+        "ترجیح میدهید که چای بخورید یا قهوه؟"
+      ]
+    },
+    {
+      "EnglishWord": "We'd rather walk to school.",
+      "Meanings": [
+        "ترجیح میدهم که پیاده به مدرسه بروم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you mind opening the window?",
+      "Meanings": [
+        "ممکن است لطفا پنجره را باز کنید."
+      ]
+    },
+    {
+      "EnglishWord": "Would you tell me the time please?",
+      "Meanings": [
+        "ممکن است لطفا وقت را به من بگویید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you pass me the book?",
+      "Meanings": [
+        "ممکن است کتاب را به من بدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We have enough food to last for a month.",
+      "Meanings": [
+        "برای یک ماه غذا داریم."
+      ]
+    },
+    {
+      "EnglishWord": "We do not go to school on Friday.",
+      "Meanings": [
+        "روز جمعه به مدرسه نمیرویم."
+      ]
+    },
+    {
+      "EnglishWord": "Will it rain this afternoon? I hope not.",
+      "Meanings": [
+        "امروز به از ظهر باران خواهد بارید؟ امیدوارم نبارد."
+      ]
+    },
+    {
+      "EnglishWord": "Will he be here at ten? I suppose not.",
+      "Meanings": [
+        "آیا ساعت ده اینجا خواهد بود؟ تصور میکنم نه."
+      ]
+    },
+    {
+      "EnglishWord": "We can but try.",
+      "Meanings": [
+        "فقط میتوانیم امتحان کنیم."
+      ]
+    },
+    {
+      "EnglishWord": "We didn't go hunting because it was raining.",
+      "Meanings": [
+        "به شکار نرفتیم زیرا باران میبارید."
+      ]
+    },
+    {
+      "EnglishWord": "We didn't go out because of the cold.",
+      "Meanings": [
+        "به خاطر سرما بیرون نرفتیم."
+      ]
+    },
+    {
+      "EnglishWord": "We stood up so that we could see better.",
+      "Meanings": [
+        "ما ایستاده‌ایم تا این که بتوانیم بهتر ببینیم."
+      ]
+    },
+    {
+      "EnglishWord": "We stood up so as to see better.",
+      "Meanings": [
+        "ما ایستادیم که بهتر ببینیم."
+      ]
+    },
+    {
+      "EnglishWord": "We stood up in order to see better.",
+      "Meanings": [
+        "ما ایستادیم که بهتر ببینیم."
+      ]
+    },
+    {
+      "EnglishWord": "Write it down in your notebook.",
+      "Meanings": [
+        "آن را در دفترچه‌ات بنویس."
+      ]
+    },
+    {
+      "EnglishWord": "We called on them last night.",
+      "Meanings": [
+        "دیشب از آنها دیدن کردیم."
+      ]
+    },
+    {
+      "EnglishWord": "Why do you like to go to art class?",
+      "Meanings": [
+        "چرا دوست داری به کلاس هنر بروی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What did you do on Saturday?",
+      "Meanings": [
+        "روز شنبه چه کار کرده‌ای؟"
+      ]
+    },
+    {
+      "EnglishWord": "What a hoax this painting is. It’s nothing but a solid black canvas!",
+      "Meanings": [
+        "این تابلو چه چیز احمقانه‌ای است. چیزی نیست جز یک بوم کاملا سیاه."
+      ]
+    },
+    {
+      "EnglishWord": "What about this painting? It looks an though the artist plastered a zebra skin over his canvas.",
+      "Meanings": [
+        "این تابلو چطور؟ انگار هنرمندی روی بومش پوست زرافه کشیده است."
+      ]
+    },
+    {
+      "EnglishWord": "What do you want for dessert?",
+      "Meanings": [
+        "دسر چه میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Where did you go last night?",
+      "Meanings": [
+        "دیشب کجا رفتی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What do you have for dessert?",
+      "Meanings": [
+        "برای دسر چه میخورید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We have all kind of piece, apple, cherry, pine apple.",
+      "Meanings": [
+        "همه نوع شیرینی پای سیب، گیلاس، آناناس میخوریم."
+      ]
+    },
+    {
+      "EnglishWord": "What about you, sir?",
+      "Meanings": [
+        "شما چی، آقا؟"
+      ]
+    },
+    {
+      "EnglishWord": "We have apple pie, peach pie and blueberry pie.",
+      "Meanings": [
+        "پای سیب، پای هلو و پای ذغال آخته داریم."
+      ]
+    },
+    {
+      "EnglishWord": "With lemon or cream?",
+      "Meanings": [
+        "همراه لیمو یا خامه؟"
+      ]
+    },
+    {
+      "EnglishWord": "Will there be anything else, sir?",
+      "Meanings": [
+        "کار دیگری ندارید، آقا؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like it with cream?",
+      "Meanings": [
+        "میخواهید همراه خامه باشد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to see a menu or do you want the special lunch?",
+      "Meanings": [
+        "میل دارید منو را ببینید یا ناهار مخصوص میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the chef’s special special today?",
+      "Meanings": [
+        "چیست؟  مخصوص آشپز  امروز"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like anything to drink with the salad?",
+      "Meanings": [
+        "همراه سالاد چه چیزی برای نوشیدن میخواهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Waiter, I’d like a menu, please.",
+      "Meanings": [
+        "پیشخدمت، لطفا منو میخواهم."
+      ]
+    },
+    {
+      "EnglishWord": "What would you like for dessert? The apple pie is excellent.",
+      "Meanings": [
+        "برای دسر چه میخواهید؟ پای سیب عالی است."
+      ]
+    },
+    {
+      "EnglishWord": "When do you want to leave for Boston?",
+      "Meanings": [
+        "؟ ترک کنی  چه موقع میخواهی به مقصد بوستون بروی"
+      ]
+    },
+    {
+      "EnglishWord": "What are you doing during your summer vacation?",
+      "Meanings": [
+        "در طول تعطیلات تابستانیات چه کار میکنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What are you planning to do there?",
+      "Meanings": [
+        "در آنجا قصد داری چه کار کنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to go for a walk?",
+      "Meanings": [
+        "میل داری به پیادهروی برویم؟"
+      ]
+    },
+    {
+      "EnglishWord": "What time do you want to meet?",
+      "Meanings": [
+        "چه ساعتی میخواهید همدیگر را ببینیم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t we meet at eleven o’clock at the entrance to the park?",
+      "Meanings": [
+        "چرا ساعت 11 کنار در ورودی پارک یکدیگر را نبینیم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Who’s going with you?",
+      "Meanings": [
+        "چه کسی با تو میآید؟"
+      ]
+    },
+    {
+      "EnglishWord": "We plan to stay the day there.",
+      "Meanings": [
+        "قصد داریم تمام روز آنجا بمانیم."
+      ]
+    },
+    {
+      "EnglishWord": "We’re going by car because we know we’ll be too tired to take the train home.",
+      "Meanings": [
+        "با ماشین میرویم چون میدانم که خسته از آن میشویم که بتوانیم با قطار به خانه بیاییم."
+      ]
+    },
+    {
+      "EnglishWord": "Would you like to come to dinner tonight?",
+      "Meanings": [
+        "میل داری امشب برای شام بیایی؟"
+      ]
+    },
+    {
+      "EnglishWord": "What a lovely present!",
+      "Meanings": [
+        "چه هدیۀ قشنگی!"
+      ]
+    },
+    {
+      "EnglishWord": "We did for the first five years of our marriage, but now we go to the theater, instead.",
+      "Meanings": [
+        "در پنج سال اول ازدواجمان میکردیم ولی حالا در عوض به تئاتر میرویم."
+      ]
+    },
+    {
+      "EnglishWord": "Why don’t you get him a tie?",
+      "Meanings": [
+        "چرا برایش کراوات نمیگیری؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why not get him a golf club?",
+      "Meanings": [
+        "چرا برایش یک چوب گلف نمیگیری؟"
+      ]
+    },
+    {
+      "EnglishWord": "What’s the name of the flower you’re wearing?",
+      "Meanings": [
+        "اسم گلی که به سینه‌اش زده‌ای چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Why are you wearing an orchid? It must cost a lot.",
+      "Meanings": [
+        "چرا اُرکیده میزنی؟ باید قیمتش زیاد باشد."
+      ]
+    },
+    {
+      "EnglishWord": "What are you going to do during the Christmas vacation?",
+      "Meanings": [
+        "در تعطیلات کریسمس قصد داری چه کار کنی؟"
+      ]
+    },
+    {
+      "EnglishWord": "We eat special foods and exchange gifts.",
+      "Meanings": [
+        "غذاهای مخصوص میخوریم و هدایایی به همدیگر میدهیم."
+      ]
+    },
+    {
+      "EnglishWord": "When are your elections?",
+      "Meanings": [
+        "انتخابات شما چه موقع است؟"
+      ]
+    },
+    {
+      "EnglishWord": "We elect members to the parliament.",
+      "Meanings": [
+        "را انتخاب میکنیم.  مجلس  ما اعضای پارلمان"
+      ]
+    },
+    {
+      "EnglishWord": "Worshipping",
+      "Meanings": [
+        "پرستش"
+      ]
+    },
+    {
+      "EnglishWord": "What time are the religious services in this temple?",
+      "Meanings": [
+        "خدمات مذهبی در این معبد چه ساعتی ارائه میشوند."
+      ]
+    }
+  ]
+}

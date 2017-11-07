@@ -1,0 +1,632 @@
+﻿{
+  "Group": "M",
+  "Entries": 104,
+  "Words": [
+    {
+      "EnglishWord": "Miss Sarah, this is Mr. Ali.",
+      "Meanings": [
+        "دوشیزه سارا ایشان علی هستند."
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Ali, I’d like to introduce my friend, Reza.",
+      "Meanings": [
+        "آقای علی، مایلم دوستم رضا را معرفی کنم."
+      ]
+    },
+    {
+      "EnglishWord": "May I present Ali?",
+      "Meanings": [
+        "میتوانم علی را معرفی کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "My name‘s Reza.",
+      "Meanings": [
+        "نام من رضا است"
+      ]
+    },
+    {
+      "EnglishWord": "Miss or Mrs?",
+      "Meanings": [
+        "دوشیزه یا خانم؟"
+      ]
+    },
+    {
+      "EnglishWord": "My first name is Ali.",
+      "Meanings": [
+        "اسم کوچک من علی است ."
+      ]
+    },
+    {
+      "EnglishWord": "My last name is Rad.",
+      "Meanings": [
+        "اسم فامیلیام راد است"
+      ]
+    },
+    {
+      "EnglishWord": "My first name is Ali",
+      "Meanings": [
+        "اسم کوچک من علی است."
+      ]
+    },
+    {
+      "EnglishWord": "Mrs. Ali, what’s your wife’s name?",
+      "Meanings": [
+        "آقای علی، اسم همسر شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Miss Leyla. What’s your husband’s name?",
+      "Meanings": [
+        "خانم لیلا، اسم شوهر شما چیست؟"
+      ]
+    },
+    {
+      "EnglishWord": "My husband’s name is Ali.",
+      "Meanings": [
+        "اسم شوهر من علی است."
+      ]
+    },
+    {
+      "EnglishWord": "My hometown is Ardebil.",
+      "Meanings": [
+        "زادگاهم اردبیل است."
+      ]
+    },
+    {
+      "EnglishWord": "My birthday’s in September.",
+      "Meanings": [
+        "تولد من در ماه سپتامبر است."
+      ]
+    },
+    {
+      "EnglishWord": "My English is on the table.",
+      "Meanings": [
+        "کتاب انگلیسی من روی میز است."
+      ]
+    },
+    {
+      "EnglishWord": "Mama, let’s go to see him.",
+      "Meanings": [
+        "مامان، اجازه دهید برویم او را ببینیم. یعنی شما هم با ما بیائید"
+      ]
+    },
+    {
+      "EnglishWord": "Mama, let us go to see him.",
+      "Meanings": [
+        "مامان، اجازه دهید ما برویم او را ببینیم. مثلا من و برادرم"
+      ]
+    },
+    {
+      "EnglishWord": "May I have it please?",
+      "Meanings": [
+        "ممکن است آن را داشته باشم به من بدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I have an application blank for admission to college? May I also have a catalog?",
+      "Meanings": [
+        "ممکن است یک فرم درخواست پذیرش در دانشکده به من بدهید؟ همچنین ممکن است یک کاتالوگ به من\r\nبدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Modern literature – Art today – The impressionists – Peace",
+      "Meanings": [
+        "- -  امپرسیوسیتها   هنر امروز   ادبیات نوین  -  صلح"
+      ]
+    },
+    {
+      "EnglishWord": "My father",
+      "Meanings": [
+        "پدرم"
+      ]
+    },
+    {
+      "EnglishWord": "My uncle has just come back from Europe.",
+      "Meanings": [
+        "عموی من به تازگی از اروپا برگشته است."
+      ]
+    },
+    {
+      "EnglishWord": "My name is Reza. I think you know my mother.",
+      "Meanings": [
+        "اسم من علی است. فکر میکنم شما مادرم را بشناسید."
+      ]
+    },
+    {
+      "EnglishWord": "May I present my wife?",
+      "Meanings": [
+        "ممکن همسرم را معرفی کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I help you?",
+      "Meanings": [
+        "میتوانم کمک کنم؟",
+        "ممکن است کمکتان کنم کمکی از دستم بر میآید؟",
+        "ممکن است کمکتان کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Ali.",
+      "Meanings": [
+        "آقای علی"
+      ]
+    },
+    {
+      "EnglishWord": "Milk",
+      "Meanings": [
+        "شیر"
+      ]
+    },
+    {
+      "EnglishWord": "Mom, I’m full. I couldn’t eat another bite.",
+      "Meanings": [
+        "مامان، سیرم. نتوانستم حتی یک گاز دیگر بخورم."
+      ]
+    },
+    {
+      "EnglishWord": "My father is too old to play football.",
+      "Meanings": [
+        "پدرم آن قدر پیر است که نمیتواند فوتبال بازی کند."
+      ]
+    },
+    {
+      "EnglishWord": "Mina didn’t come here yesterday, did she?",
+      "Meanings": [
+        "مینا دیروز اینجا نیامد، آمد؟"
+      ]
+    },
+    {
+      "EnglishWord": "Master's Degree",
+      "Meanings": [
+        "مقطع کارشناسی ارشد یا فوق لیسانس"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Social Work M.S.W",
+      "Meanings": [
+        "کارشناسی ارشد کار اجتماعی"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Technology M.Tech",
+      "Meanings": [
+        "کارشناسی ارشد تکنولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Philosophy M.Phil",
+      "Meanings": [
+        "کارشناسی ارشد فلسفه"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Public Administration M.P.A",
+      "Meanings": [
+        "کارشناسی ارشد مدیریت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Public Health M.P.H",
+      "Meanings": [
+        "کارشناسی ارشد بهداشت عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Architecture M.Arch",
+      "Meanings": [
+        "کارشناسی ارشد معماری"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Arts M.A",
+      "Meanings": [
+        "کارشناسی ارشد هنر"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Business Administration M.B.A",
+      "Meanings": [
+        "کارشناسی ارشد مدیریت تجاری"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Computer Applications M.C.A",
+      "Meanings": [
+        "کارشناسی ارشد کاربردهای کامپیوتر"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Divinity M.Div",
+      "Meanings": [
+        "کارشناسی ارشد الهیات"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Laws LL.M",
+      "Meanings": [
+        "کارشناسی ارشد حقوق"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Library & Information Science M.L.I.S",
+      "Meanings": [
+        "کارشناسی ارشد علوم اطلاعات و کتابداری"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Fine Arts M.F.A",
+      "Meanings": [
+        "کارشناسی ارشد هنرهای زیبا"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Education M.Ed",
+      "Meanings": [
+        "کارشناسی ارشد تحصیلات"
+      ]
+    },
+    {
+      "EnglishWord": "Master of Engineering M.Eng",
+      "Meanings": [
+        "کارشناسی ارشد مهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "My brother’s car is blue.",
+      "Meanings": [
+        "ماشین برادرم آبی است."
+      ]
+    },
+    {
+      "EnglishWord": "Much better, thanks.",
+      "Meanings": [
+        "خیلی بهتر، متشکرم."
+      ]
+    },
+    {
+      "EnglishWord": "May I leave class early today? I must go to the dentist this afternoon. I have a bad toothache.",
+      "Meanings": [
+        "ممکن است امروز زود کلاس را ترک کنم. باید امروز بعد از ظهر به دندان پزشک بروم."
+      ]
+    },
+    {
+      "EnglishWord": "May I speak to the doctor? It’s urgent. This is Mr. Ali.",
+      "Meanings": [
+        "ممکن است با دکتر صحبت کنم؟ اورژانسی است. من آقای علی هستم."
+      ]
+    },
+    {
+      "EnglishWord": "My son is in great pain. I think it’s his appendix again.",
+      "Meanings": [
+        "پسرم درد شدید دارد. فکر میکنم دوباره آپاندیسش باشد."
+      ]
+    },
+    {
+      "EnglishWord": "My mother was ill this morning, so I called the doctor, but he hadn’t arrived when I left.",
+      "Meanings": [
+        "مادرم امروز صبح مریض بود، بنابراین به دکتر زنگ زدم اما تا وقتی خانه را ترک کردم نرسیده بود."
+      ]
+    },
+    {
+      "EnglishWord": "Maybe I can fix it.",
+      "Meanings": [
+        "شاید بتوانم آن را تعمیر کنم."
+      ]
+    },
+    {
+      "EnglishWord": "My favorite kind of music is classical music, but I also like jazz and pop music.",
+      "Meanings": [
+        "موسیقی دلخواه من موسیقی کلاسیک است ولی به جاز و موسیقی پاپ نیز علاقمندم."
+      ]
+    },
+    {
+      "EnglishWord": "My favorite Pastime is Photography.",
+      "Meanings": [
+        "سرگرمی دلخواه من عکاسی است."
+      ]
+    },
+    {
+      "EnglishWord": "My favorite hobbies are drawing and painting.",
+      "Meanings": [
+        "سرگرمی مورد علاقه من نقاشی است."
+      ]
+    },
+    {
+      "EnglishWord": "My hobby is carpentry.",
+      "Meanings": [
+        "سرگرمی من نجّاری است."
+      ]
+    },
+    {
+      "EnglishWord": "My close friends and I often get together and play chess.",
+      "Meanings": [
+        "من و دوستان نزدیکم اغلب دور هم جمع میشویم و شطرنج بازی میکنیم."
+      ]
+    },
+    {
+      "EnglishWord": "My passport is in the inner pocket of my bag, for safekeeping.",
+      "Meanings": [
+        "برای اطمینان، گذرنامه‌ام را توی جیب داخلی کیفم گذاشته‌ام."
+      ]
+    },
+    {
+      "EnglishWord": "Mother, where’s my clean underwear?",
+      "Meanings": [
+        "مادر، لباس زیر تمیز من کجاست؟"
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Ali. May I ask you a question? It’s about my check.",
+      "Meanings": [
+        "آقای علی، ممکن است یک سوال از شما بپرسم؟ در باره چک من است."
+      ]
+    },
+    {
+      "EnglishWord": "My pay check is wrong. I worked five days. Why was I paid only for four days?",
+      "Meanings": [
+        "چک حقوقم اشتباه است. من پنج روز کار کردم. چرا تنها 4 روز به من پرداخت شده؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I have a bunch of grapes, please?",
+      "Meanings": [
+        "ممکن است لطفا یک خوشه انگور بدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "Meat for stew – round steak – beef liver",
+      "Meanings": [
+        "گوشت برای آبپز استیک پهلو جگر گاو – –"
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Ali, do you have any more of those steaks left?",
+      "Meanings": [
+        "آقای علی، از آن استیک‌ها چیزی باقی مانده؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I see some inexpensive silverware?",
+      "Meanings": [
+        "ممکن است بعضی اشیای نقره‌ای ارزان را ببینم؟"
+      ]
+    },
+    {
+      "EnglishWord": "My teacher asked us to buy a pen for school. I prefer a fountain pen because I think it’s easier to write with. I’d like the best you have.",
+      "Meanings": [
+        "معلم ما خواسته که برای مدرسه قلم بخریم. من خودنویس ترجیح میدهم زیرا فکر میکنم نوشتن با آن راحت\r\nتر است. من بهترین نوعی را که دارید میخواهم."
+      ]
+    },
+    {
+      "EnglishWord": "Many young people are out of work.",
+      "Meanings": [
+        "بسیاری از جوانان بیکارند."
+      ]
+    },
+    {
+      "EnglishWord": "Modern music is often considered inferior to that of the past.",
+      "Meanings": [
+        "موسیقی مدرن اغلب بدتر از موسیقی قدیم تلقی میشود."
+      ]
+    },
+    {
+      "EnglishWord": "May I try on the green hat in the window?",
+      "Meanings": [
+        "میتوانم ممکن است کلاه سبز توی ویترین را امتحان کنم؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I put the hat on myself?",
+      "Meanings": [
+        "ممکن است خودم آن را بپوشم؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I help you, miss?",
+      "Meanings": [
+        "میتوانم کمکتان کنم خانم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Marcy’s. they had a big sale.",
+      "Meanings": [
+        "فروشگاه مارسی. یک حراج بزرگ داشته."
+      ]
+    },
+    {
+      "EnglishWord": "My battery is dead. Can you recharge it?",
+      "Meanings": [
+        "میتوانید آن را دوباره شارژ کنید؟ . مرده  باطری من خالی شده"
+      ]
+    },
+    {
+      "EnglishWord": "May I have a haircut, shampoo, and set?",
+      "Meanings": [
+        "ممکن است موهایم اصلاح شامپو و مرتب شود؟"
+      ]
+    },
+    {
+      "EnglishWord": "Marie, at the Vanity Fair Beauty shop",
+      "Meanings": [
+        "ماری، در سالن زیبایی ونیتی فیر"
+      ]
+    },
+    {
+      "EnglishWord": "My house used to be second street.",
+      "Meanings": [
+        "خانه‌ام سابق ا در خیابان دوم بود. حالا در آنجا نیست"
+      ]
+    },
+    {
+      "EnglishWord": "My brother has stood beside the tree.",
+      "Meanings": [
+        "برادرم کنار درخت ایستاده است."
+      ]
+    },
+    {
+      "EnglishWord": "Make out this post card.",
+      "Meanings": [
+        "این کارت پستی را پُر کنید."
+      ]
+    },
+    {
+      "EnglishWord": "May I have a ticket for Princeton, New Jersey, please?",
+      "Meanings": [
+        "میتوانم یک بلیط برای پرینستون شهری در نیو جِرسی نیو جِرسی بگیرم، لطفا ؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I bus my ticket on the train?",
+      "Meanings": [
+        "میشود بلیطم را در قطار بخرم؟"
+      ]
+    },
+    {
+      "EnglishWord": "Mina herself will cook the meal.",
+      "Meanings": [
+        "مینا خودش غذا را خواهد پخت."
+      ]
+    },
+    {
+      "EnglishWord": "My brother said that he would be reading his book the following day.",
+      "Meanings": [
+        "برادرم گفت که روز بعد مشغول خواندن کتابش خواهد بود."
+      ]
+    },
+    {
+      "EnglishWord": "My father helps me with my homework.",
+      "Meanings": [
+        "پدرم در انجام دادن تکالیفم به من کمک میکند."
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Rad and Mrs. Amani are happy pair.",
+      "Meanings": [
+        "آقای راد و خانم امانی دو زوج خوشبختی هستند."
+      ]
+    },
+    {
+      "EnglishWord": "Married couple wanted, cook and gardener.",
+      "Meanings": [
+        "یک زن و شوهر مورد احتیاج است، آشپز و باغبان."
+      ]
+    },
+    {
+      "EnglishWord": "Mr. Adl has agreed to speak at the meeting.",
+      "Meanings": [
+        "آقای عدل موافقت کرده است که در شورا سخنرانی کند."
+      ]
+    },
+    {
+      "EnglishWord": "Mary is rather tall for her age.",
+      "Meanings": [
+        "ماری نسبت به سنش تا حدی بلند است."
+      ]
+    },
+    {
+      "EnglishWord": "Mountain climbing",
+      "Meanings": [
+        "کوهپیمایی"
+      ]
+    },
+    {
+      "EnglishWord": "My fair friend",
+      "Meanings": [
+        "دوست با انصاف من"
+      ]
+    },
+    {
+      "EnglishWord": "May I have two tickets for tomorrow night?",
+      "Meanings": [
+        "ممکن است دو بلیط برای فردا شب بدهید؟"
+      ]
+    },
+    {
+      "EnglishWord": "May be. I like parties.",
+      "Meanings": [
+        "شاید. از مهمانی خوشم میآید."
+      ]
+    },
+    {
+      "EnglishWord": "My mother told me you called. I’m sorry I wasn’t home.",
+      "Meanings": [
+        "مادرم گفت تو زنگ زدی. متأسفم خانه نبودم."
+      ]
+    },
+    {
+      "EnglishWord": "My guide and counselor is Mr. Karimi.",
+      "Meanings": [
+        "راهنما و مشاور من آقای کریمی است."
+      ]
+    },
+    {
+      "EnglishWord": "Medium rare",
+      "Meanings": [
+        "کام لا پخته"
+      ]
+    },
+    {
+      "EnglishWord": "May I see a menu, please?",
+      "Meanings": [
+        "میشود لطف ا صورت غذا را ببینم."
+      ]
+    },
+    {
+      "EnglishWord": "Meat balls and spaghetti",
+      "Meanings": [
+        "گوشت قلقلی و اسپاگتی"
+      ]
+    },
+    {
+      "EnglishWord": "My uncle has a farm near here. Would you like to visit it?",
+      "Meanings": [
+        "عموی من مزرعه‌ای نزدیک اینجا دارد. دوست داری آن را ببینی؟"
+      ]
+    },
+    {
+      "EnglishWord": "My mother and father",
+      "Meanings": [
+        "مادر و پدرم."
+      ]
+    },
+    {
+      "EnglishWord": "Making appointments",
+      "Meanings": [
+        "گذاشتن  ملاقات  قرار"
+      ]
+    },
+    {
+      "EnglishWord": "My I make an appointment to see Doctor Ali on Thursday?",
+      "Meanings": [
+        "با دکتر علی در روز پنجشنبه بگذارم؟  قراری  ممکن است نوبتی"
+      ]
+    },
+    {
+      "EnglishWord": "May I see you again?",
+      "Meanings": [
+        "ممکن است دوباره شما را ببینم؟"
+      ]
+    },
+    {
+      "EnglishWord": "May I come in? I’d like to see Mr. Ali.",
+      "Meanings": [
+        "میتوانم وارد شوم؟ میخواهم آقای علی را ببینم."
+      ]
+    },
+    {
+      "EnglishWord": "May I come in to see Mr. Ali? He’s in, isn’t he?",
+      "Meanings": [
+        "میتوانم وارد شوم و آقای علی را ببینم؟ او هست، مگرنه؟"
+      ]
+    },
+    {
+      "EnglishWord": "May be, Ali is well-know and he’s a good speaker.",
+      "Meanings": [
+        "شاید فرهاد معروف است و او سخنور خوبی است"
+      ]
+    }
+  ]
+}
