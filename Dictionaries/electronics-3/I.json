@@ -1,0 +1,1998 @@
+﻿{
+  "Group": "I",
+  "Entries": 329,
+  "Words": [
+    {
+      "EnglishWord": "ic",
+      "Meanings": [
+        "آی سی"
+      ]
+    },
+    {
+      "EnglishWord": "iconoscope",
+      "Meanings": [
+        "آیکونوسکوپ"
+      ]
+    },
+    {
+      "EnglishWord": "ideal capacitor",
+      "Meanings": [
+        "خازن آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal conductor",
+      "Meanings": [
+        "هادی آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal crystal",
+      "Meanings": [
+        "بلور آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal dielectric",
+      "Meanings": [
+        "دی الکتریک عایق آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal efficiency",
+      "Meanings": [
+        "بازده آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal position",
+      "Meanings": [
+        "وضعیت آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal solenoid",
+      "Meanings": [
+        "سیملوله سیم پیچی آرمانی"
+      ]
+    },
+    {
+      "EnglishWord": "ideal switch",
+      "Meanings": [
+        "سوییچ آرمانی - کامل"
+      ]
+    },
+    {
+      "EnglishWord": "identification",
+      "Meanings": [
+        "شناسایی"
+      ]
+    },
+    {
+      "EnglishWord": "idle",
+      "Meanings": [
+        "ساکن ، دواته ، کور"
+      ]
+    },
+    {
+      "EnglishWord": "idle current",
+      "Meanings": [
+        "جریان کور دواته"
+      ]
+    },
+    {
+      "EnglishWord": "idle junction",
+      "Meanings": [
+        "خط آزاد تلفن"
+      ]
+    },
+    {
+      "EnglishWord": "idle line",
+      "Meanings": [
+        "خط آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "idle position",
+      "Meanings": [
+        "وضعیت سکون"
+      ]
+    },
+    {
+      "EnglishWord": "idle power",
+      "Meanings": [
+        "توان کور دواته"
+      ]
+    },
+    {
+      "EnglishWord": "idle time",
+      "Meanings": [
+        "زمان بی باری"
+      ]
+    },
+    {
+      "EnglishWord": "idle voltage",
+      "Meanings": [
+        "ولتاژ کور دواته"
+      ]
+    },
+    {
+      "EnglishWord": "idling",
+      "Meanings": [
+        "بی باری"
+      ]
+    },
+    {
+      "EnglishWord": "idling frequency",
+      "Meanings": [
+        "بسامد متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "iec",
+      "Meanings": [
+        "کمیسیون بین المللی الکترونیک"
+      ]
+    },
+    {
+      "EnglishWord": "igniter",
+      "Meanings": [
+        "جرقه زن گیرانه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition",
+      "Meanings": [
+        "اشتعال احتراق"
+      ]
+    },
+    {
+      "EnglishWord": "ignition cable",
+      "Meanings": [
+        "کابل جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition choke",
+      "Meanings": [
+        "پیچک جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition circuit",
+      "Meanings": [
+        "مدار جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition condition",
+      "Meanings": [
+        "شرط اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "ignition distributor",
+      "Meanings": [
+        "مقسم جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition electrode",
+      "Meanings": [
+        "الکترود جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition gap",
+      "Meanings": [
+        "فاصله جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition point",
+      "Meanings": [
+        "نقطه اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "ignition rectifier",
+      "Meanings": [
+        "همسو ساز بخار جیوه"
+      ]
+    },
+    {
+      "EnglishWord": "ignition voltage",
+      "Meanings": [
+        "ولتاژ جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "ignitron",
+      "Meanings": [
+        "افروزه ایگنیترون"
+      ]
+    },
+    {
+      "EnglishWord": "illuminance",
+      "Meanings": [
+        "شدت روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "illuminant",
+      "Meanings": [
+        "منور نوع نور"
+      ]
+    },
+    {
+      "EnglishWord": "illuminant chromaticity",
+      "Meanings": [
+        "رنگ نور"
+      ]
+    },
+    {
+      "EnglishWord": "illuminating",
+      "Meanings": [
+        "روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "illuminating engineering",
+      "Meanings": [
+        "مهندسی روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "illuminating system",
+      "Meanings": [
+        "سیستم روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "illumination",
+      "Meanings": [
+        "پرتو افشانی"
+      ]
+    },
+    {
+      "EnglishWord": "illumination meter",
+      "Meanings": [
+        "روشنایی سنج"
+      ]
+    },
+    {
+      "EnglishWord": "illumination method",
+      "Meanings": [
+        "روش روشنایی"
+      ]
+    },
+    {
+      "EnglishWord": "illumination photometer",
+      "Meanings": [
+        "لوکسمتر"
+      ]
+    },
+    {
+      "EnglishWord": "illustration",
+      "Meanings": [
+        "تشریح ، تفسیر ، تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "illustrative diagram",
+      "Meanings": [
+        "نمودار بیانی"
+      ]
+    },
+    {
+      "EnglishWord": "image",
+      "Meanings": [
+        "تصویر ، سیما"
+      ]
+    },
+    {
+      "EnglishWord": "image brightness",
+      "Meanings": [
+        "روشنی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image carrier",
+      "Meanings": [
+        "حامل تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image contrast",
+      "Meanings": [
+        "پادسانی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image coordinates",
+      "Meanings": [
+        "مختصات تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image deflection",
+      "Meanings": [
+        "انحراف تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image displacement",
+      "Meanings": [
+        "جابجایی تغییر مکان تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image distortion",
+      "Meanings": [
+        "چولگی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image field",
+      "Meanings": [
+        "میدان تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image formation",
+      "Meanings": [
+        "تصویر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "image frequency",
+      "Meanings": [
+        "بسامد فرکانس تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image iconoscope",
+      "Meanings": [
+        "آیکونوسکپ تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image inversion",
+      "Meanings": [
+        "واژگونی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image line",
+      "Meanings": [
+        "خط تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image point",
+      "Meanings": [
+        "نقطه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image potential",
+      "Meanings": [
+        "پتانسیل تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image quality",
+      "Meanings": [
+        "کیفیت تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image response",
+      "Meanings": [
+        "پاسخ واکنش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image reversal",
+      "Meanings": [
+        "برگشت واژگونی تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "image shift",
+      "Meanings": [
+        "انحراف تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "imagery",
+      "Meanings": [
+        "نمایش تصویری"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary",
+      "Meanings": [
+        "موهومی، مقدار موهومی",
+        "موهومی،انگاری ، خیالی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary axis",
+      "Meanings": [
+        "محور موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary current",
+      "Meanings": [
+        "جریان کور"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary number",
+      "Meanings": [
+        "عدد موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary part",
+      "Meanings": [
+        "بخش موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary root",
+      "Meanings": [
+        "ریشه موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary unit",
+      "Meanings": [
+        "واحد موهومی"
+      ]
+    },
+    {
+      "EnglishWord": "imaginary voltage",
+      "Meanings": [
+        "ولتاژ کور"
+      ]
+    },
+    {
+      "EnglishWord": "immobile",
+      "Meanings": [
+        "بی حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "immunity",
+      "Meanings": [
+        "بی حساسیت"
+      ]
+    },
+    {
+      "EnglishWord": "impact",
+      "Meanings": [
+        "برخورد ، ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impact acceleration",
+      "Meanings": [
+        "شتاب برخورد"
+      ]
+    },
+    {
+      "EnglishWord": "impact excitation",
+      "Meanings": [
+        "تحریک ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impact force",
+      "Meanings": [
+        "نیرو برخورد"
+      ]
+    },
+    {
+      "EnglishWord": "impair",
+      "Meanings": [
+        "آسیب زدن"
+      ]
+    },
+    {
+      "EnglishWord": "impedance",
+      "Meanings": [
+        "مقاومت ظاهری مقاومت صوری برق در برابرجریان متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "impedance bridge",
+      "Meanings": [
+        "پل امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance coil",
+      "Meanings": [
+        "پیچک"
+      ]
+    },
+    {
+      "EnglishWord": "impedance converter",
+      "Meanings": [
+        "مبدل امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance drop",
+      "Meanings": [
+        "ولتاژ اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "impedance loss",
+      "Meanings": [
+        "تلف اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "impedance match  line",
+      "Meanings": [
+        "تطبیق امپدانس خط"
+      ]
+    },
+    {
+      "EnglishWord": "impedance matrix",
+      "Meanings": [
+        "ماتریس امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance ratio",
+      "Meanings": [
+        "نسبت امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance relay",
+      "Meanings": [
+        "رله امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance transformation",
+      "Meanings": [
+        "تبدیل امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance transformer",
+      "Meanings": [
+        "مبدل امپدانس"
+      ]
+    },
+    {
+      "EnglishWord": "impedance triangle",
+      "Meanings": [
+        "مثلث امپدانسها"
+      ]
+    },
+    {
+      "EnglishWord": "impedance voltage",
+      "Meanings": [
+        "ولتاژ اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "imperfect",
+      "Meanings": [
+        "ناتمام ، ناقص"
+      ]
+    },
+    {
+      "EnglishWord": "implantation",
+      "Meanings": [
+        "کاشت"
+      ]
+    },
+    {
+      "EnglishWord": "implanted oxygen",
+      "Meanings": [
+        "اکسیژن کاشته"
+      ]
+    },
+    {
+      "EnglishWord": "improve",
+      "Meanings": [
+        "اصلاح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "improvement",
+      "Meanings": [
+        "اصلاح"
+      ]
+    },
+    {
+      "EnglishWord": "impulse",
+      "Meanings": [
+        "ضربه جریان یا ولتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "impulse amplitude",
+      "Meanings": [
+        "دامنه ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse breakdown",
+      "Meanings": [
+        "فروپاشی ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impulse counter",
+      "Meanings": [
+        "ضربان شمار"
+      ]
+    },
+    {
+      "EnglishWord": "impulse detector",
+      "Meanings": [
+        "آشکار ساز ضربان"
+      ]
+    },
+    {
+      "EnglishWord": "impulse discharge",
+      "Meanings": [
+        "تخلیه ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impulse distortion",
+      "Meanings": [
+        "چولگی اعوجاج ، تحریف ضربان"
+      ]
+    },
+    {
+      "EnglishWord": "impulse duration",
+      "Meanings": [
+        "مدت ضربان"
+      ]
+    },
+    {
+      "EnglishWord": "impulse excitation",
+      "Meanings": [
+        "تحریک ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impulse function",
+      "Meanings": [
+        "تابع ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse generator",
+      "Meanings": [
+        "مولد فشار ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impulse inertia",
+      "Meanings": [
+        "لختی ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse level",
+      "Meanings": [
+        "سطح ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse meter",
+      "Meanings": [
+        "ضربانشمار"
+      ]
+    },
+    {
+      "EnglishWord": "impulse ratio",
+      "Meanings": [
+        "نسبت ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse recorder",
+      "Meanings": [
+        "ضباط ضبط کننده ضربان"
+      ]
+    },
+    {
+      "EnglishWord": "impulse relay",
+      "Meanings": [
+        "رله ضربه ای"
+      ]
+    },
+    {
+      "EnglishWord": "impulse voltage",
+      "Meanings": [
+        "ولتاژ ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse wave",
+      "Meanings": [
+        "موج ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse width",
+      "Meanings": [
+        "پهنای ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "impulse withstand voltage",
+      "Meanings": [
+        "ولتاژ تحمل پالس"
+      ]
+    },
+    {
+      "EnglishWord": "inaccuracy",
+      "Meanings": [
+        "بی دقت"
+      ]
+    },
+    {
+      "EnglishWord": "inactive",
+      "Meanings": [
+        "غیر فعال خنثی"
+      ]
+    },
+    {
+      "EnglishWord": "inactive time",
+      "Meanings": [
+        "زمان غیر فعال"
+      ]
+    },
+    {
+      "EnglishWord": "incandescent",
+      "Meanings": [
+        "ملتهب تابان"
+      ]
+    },
+    {
+      "EnglishWord": "incandescent lamp",
+      "Meanings": [
+        "افروزه رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "incandescent light",
+      "Meanings": [
+        "نور التهاب"
+      ]
+    },
+    {
+      "EnglishWord": "incident light",
+      "Meanings": [
+        "نور تابان  نور ورودی",
+        "نور تابشی"
+      ]
+    },
+    {
+      "EnglishWord": "incoming",
+      "Meanings": [
+        "ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "incoming circuit",
+      "Meanings": [
+        "مدار ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "incoming line",
+      "Meanings": [
+        "خط ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "increase",
+      "Meanings": [
+        "افزایش"
+      ]
+    },
+    {
+      "EnglishWord": "increase in potential",
+      "Meanings": [
+        "افزایش پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "increase of contrast",
+      "Meanings": [
+        "افزایش پادسانی"
+      ]
+    },
+    {
+      "EnglishWord": "increase of current",
+      "Meanings": [
+        "افزایش جریان"
+      ]
+    },
+    {
+      "EnglishWord": "increase of pressure",
+      "Meanings": [
+        "افزایش فشار"
+      ]
+    },
+    {
+      "EnglishWord": "increasing function",
+      "Meanings": [
+        "تابع صعودی"
+      ]
+    },
+    {
+      "EnglishWord": "independence",
+      "Meanings": [
+        "نابستگی"
+      ]
+    },
+    {
+      "EnglishWord": "independent",
+      "Meanings": [
+        "نابسته"
+      ]
+    },
+    {
+      "EnglishWord": "indirect",
+      "Meanings": [
+        "غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect heating",
+      "Meanings": [
+        "گرمایش غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect lighting",
+      "Meanings": [
+        "روشنایی غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indirect operation",
+      "Meanings": [
+        "عملکرد غیر مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "indistinct",
+      "Meanings": [
+        "مبهم ، غیر واضح"
+      ]
+    },
+    {
+      "EnglishWord": "in-distinguishability",
+      "Meanings": [
+        "تمیز ناپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "induce",
+      "Meanings": [
+        "القاء کردن",
+        "القا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "induced voltage",
+      "Meanings": [
+        "ولتاژ القاء شده"
+      ]
+    },
+    {
+      "EnglishWord": "inductance",
+      "Meanings": [
+        "خودالقایی اندوکتانس  مقاومت القایی",
+        "مقاومت کور القایی"
+      ]
+    },
+    {
+      "EnglishWord": "inductance coil",
+      "Meanings": [
+        "سیم پیچ القا"
+      ]
+    },
+    {
+      "EnglishWord": "inductance coupling",
+      "Meanings": [
+        "پیوست القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction",
+      "Meanings": [
+        "القاء",
+        "القای کاهنربایی ، تولید ولتاژ ، اندوختش"
+      ]
+    },
+    {
+      "EnglishWord": "induction coil",
+      "Meanings": [
+        "بوبین اندوکسیون"
+      ]
+    },
+    {
+      "EnglishWord": "induction current",
+      "Meanings": [
+        "جریان القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction field",
+      "Meanings": [
+        "میدان القا"
+      ]
+    },
+    {
+      "EnglishWord": "induction furnace",
+      "Meanings": [
+        "کوره القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction generator",
+      "Meanings": [
+        "ژنراتور القایی",
+        "مولد آسنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "induction machine",
+      "Meanings": [
+        "ماشین القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction meter",
+      "Meanings": [
+        "کنتور القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction motor",
+      "Meanings": [
+        "موتور القایی، موتور اندوکسیونی، موتور القایی",
+        "موتور القایی",
+        "موتور آسنکرون القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction motor generator",
+      "Meanings": [
+        "مبدل اسنکرون، موتور ژنراتور القایی"
+      ]
+    },
+    {
+      "EnglishWord": "induction motor meter",
+      "Meanings": [
+        "کنتور موتور القایی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive",
+      "Meanings": [
+        "القایی ، سلفی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive capacity",
+      "Meanings": [
+        "ثابت دی الکتریسیته"
+      ]
+    },
+    {
+      "EnglishWord": "inductive circuit",
+      "Meanings": [
+        "مدار القایی",
+        "مدار سلفی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive coupling",
+      "Meanings": [
+        "پیوست سلفی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive current",
+      "Meanings": [
+        "جریان سلفی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive load",
+      "Meanings": [
+        "بار سلفی"
+      ]
+    },
+    {
+      "EnglishWord": "inductive winding",
+      "Meanings": [
+        "سیم پیچ القایی"
+      ]
+    },
+    {
+      "EnglishWord": "inductivity",
+      "Meanings": [
+        "قدرت رسانایی"
+      ]
+    },
+    {
+      "EnglishWord": "industrial",
+      "Meanings": [
+        "ساختکوش صنعت"
+      ]
+    },
+    {
+      "EnglishWord": "industrial load",
+      "Meanings": [
+        "بار صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industry",
+      "Meanings": [
+        "ساختکوشی صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "industry electronics",
+      "Meanings": [
+        "الکترونیک صنعتی"
+      ]
+    },
+    {
+      "EnglishWord": "ineffective",
+      "Meanings": [
+        "بی اثر ، بی تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "inelastic",
+      "Meanings": [
+        "نا کشسانی بدون کشسانی"
+      ]
+    },
+    {
+      "EnglishWord": "inertia",
+      "Meanings": [
+        "اینرسی",
+        "لختی"
+      ]
+    },
+    {
+      "EnglishWord": "inertia constant",
+      "Meanings": [
+        "ثابت اینرسی"
+      ]
+    },
+    {
+      "EnglishWord": "infinite",
+      "Meanings": [
+        "بی نهایت",
+        "بی پایان ، نا محدود"
+      ]
+    },
+    {
+      "EnglishWord": "inflection point",
+      "Meanings": [
+        "نقطه انحناء"
+      ]
+    },
+    {
+      "EnglishWord": "influence",
+      "Meanings": [
+        "تاثیر"
+      ]
+    },
+    {
+      "EnglishWord": "influence of heat",
+      "Meanings": [
+        "تاثیر حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "influence of pressure",
+      "Meanings": [
+        "تاثیر فشار"
+      ]
+    },
+    {
+      "EnglishWord": "information",
+      "Meanings": [
+        "اطلاعات ، داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "information bit",
+      "Meanings": [
+        "واحد اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information carrier",
+      "Meanings": [
+        "حامل اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information content",
+      "Meanings": [
+        "محتوی اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information feedback",
+      "Meanings": [
+        "برگشت اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information flow",
+      "Meanings": [
+        "جریان اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information processing",
+      "Meanings": [
+        "داده پردازی"
+      ]
+    },
+    {
+      "EnglishWord": "information quantity",
+      "Meanings": [
+        "مقدار اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information rate",
+      "Meanings": [
+        "سرعت اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information source",
+      "Meanings": [
+        "منبع اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information storage",
+      "Meanings": [
+        "انباشت اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "information transmission",
+      "Meanings": [
+        "دادخ رسانی"
+      ]
+    },
+    {
+      "EnglishWord": "information unit",
+      "Meanings": [
+        "واحد اطلاعات"
+      ]
+    },
+    {
+      "EnglishWord": "infrared",
+      "Meanings": [
+        "فروسرخ"
+      ]
+    },
+    {
+      "EnglishWord": "infrasonic",
+      "Meanings": [
+        "مادون صوت"
+      ]
+    },
+    {
+      "EnglishWord": "inherently acceptable",
+      "Meanings": [
+        "تجهیزاتی که ذاتا مقاومند"
+      ]
+    },
+    {
+      "EnglishWord": "inhibit gate",
+      "Meanings": [
+        "دروازه بازدارنده"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneity",
+      "Meanings": [
+        "ناهمگنی"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneous",
+      "Meanings": [
+        "ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneous equation",
+      "Meanings": [
+        "معادله ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneous field",
+      "Meanings": [
+        "میدان ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneous line",
+      "Meanings": [
+        "خط ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "inhomogeneous part",
+      "Meanings": [
+        "بخش ناهمگن"
+      ]
+    },
+    {
+      "EnglishWord": "initial",
+      "Meanings": [
+        "آغازین"
+      ]
+    },
+    {
+      "EnglishWord": "injector",
+      "Meanings": [
+        "افشانک"
+      ]
+    },
+    {
+      "EnglishWord": "injure",
+      "Meanings": [
+        "آسیب زدن"
+      ]
+    },
+    {
+      "EnglishWord": "injury potential",
+      "Meanings": [
+        "پتانسیل آسیب رسان"
+      ]
+    },
+    {
+      "EnglishWord": "inlet",
+      "Meanings": [
+        "دریچه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "inlet plug",
+      "Meanings": [
+        "دوشاخه دستگاه"
+      ]
+    },
+    {
+      "EnglishWord": "inner capacity",
+      "Meanings": [
+        "ظرفیت داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inner diameter",
+      "Meanings": [
+        "قطر داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inphase",
+      "Meanings": [
+        "هم فاز"
+      ]
+    },
+    {
+      "EnglishWord": "inphase current",
+      "Meanings": [
+        "جریان هم فاز"
+      ]
+    },
+    {
+      "EnglishWord": "inphase signal",
+      "Meanings": [
+        "سیگنال هم فاز"
+      ]
+    },
+    {
+      "EnglishWord": "inphase voltage",
+      "Meanings": [
+        "ولتاژ هم فاز"
+      ]
+    },
+    {
+      "EnglishWord": "input",
+      "Meanings": [
+        "ورودی ، درونداد ، اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "input admittance",
+      "Meanings": [
+        "ادمیتانس ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input capacitor",
+      "Meanings": [
+        "خازن ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input card",
+      "Meanings": [
+        "کارت درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input circuit",
+      "Meanings": [
+        "مدار ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input current",
+      "Meanings": [
+        "جریان ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input data",
+      "Meanings": [
+        "داده‌های درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input device",
+      "Meanings": [
+        "دستگاه درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input diode",
+      "Meanings": [
+        "دیود ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input electrode",
+      "Meanings": [
+        "الکترود ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input impedance",
+      "Meanings": [
+        "امپدانس مقاومت ظاهری ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input of current",
+      "Meanings": [
+        "ورود جریان"
+      ]
+    },
+    {
+      "EnglishWord": "input program",
+      "Meanings": [
+        "برنامه درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input signal",
+      "Meanings": [
+        "سیگنال ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input stage",
+      "Meanings": [
+        "طبقه ورودی"
+      ]
+    },
+    {
+      "EnglishWord": "input time",
+      "Meanings": [
+        "زمان درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input unit",
+      "Meanings": [
+        "واحد درونداد"
+      ]
+    },
+    {
+      "EnglishWord": "input winding",
+      "Meanings": [
+        "سیم پیچی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "inrush current",
+      "Meanings": [
+        "جریان هجومی",
+        "جریان ضربه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "inrush load",
+      "Meanings": [
+        "بار ضربه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "insensitive",
+      "Meanings": [
+        "غیر حساس"
+      ]
+    },
+    {
+      "EnglishWord": "inside",
+      "Meanings": [
+        "داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inside cable",
+      "Meanings": [
+        "کابل داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inside diameter",
+      "Meanings": [
+        "قطر داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "inspect",
+      "Meanings": [
+        "بازرسی کردن"
+      ]
+    },
+    {
+      "EnglishWord": "instability",
+      "Meanings": [
+        "نا پایداری"
+      ]
+    },
+    {
+      "EnglishWord": "instable",
+      "Meanings": [
+        "نا پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "install",
+      "Meanings": [
+        "نصب کردن ، ابر نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "installation",
+      "Meanings": [
+        "تاسیسات"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous",
+      "Meanings": [
+        "لحظه ای ، آنی"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous breakdown",
+      "Meanings": [
+        "فروپاشی لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous current",
+      "Meanings": [
+        "جریان لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous load",
+      "Meanings": [
+        "بار لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous power",
+      "Meanings": [
+        "توان لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous relay",
+      "Meanings": [
+        "رله لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous value",
+      "Meanings": [
+        "مقدار لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous velocity",
+      "Meanings": [
+        "سرعت لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instantaneous voltage",
+      "Meanings": [
+        "ولتاژ لحظه ای"
+      ]
+    },
+    {
+      "EnglishWord": "instruction",
+      "Meanings": [
+        "دستور"
+      ]
+    },
+    {
+      "EnglishWord": "instrument",
+      "Meanings": [
+        "دستگاه اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "instrument range",
+      "Meanings": [
+        "پهنه سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "instrument transformers",
+      "Meanings": [
+        "ترانسهای اندازه گیری"
+      ]
+    },
+    {
+      "EnglishWord": "insulance",
+      "Meanings": [
+        "مقاومت عایق"
+      ]
+    },
+    {
+      "EnglishWord": "insulant",
+      "Meanings": [
+        "عایق، ماده عایق",
+        "ماده عایق"
+      ]
+    },
+    {
+      "EnglishWord": "insulate",
+      "Meanings": [
+        "عایق کردن، عایقکاری"
+      ]
+    },
+    {
+      "EnglishWord": "insulated",
+      "Meanings": [
+        "عایق دار"
+      ]
+    },
+    {
+      "EnglishWord": "insulated cable",
+      "Meanings": [
+        "کابل عایق شده"
+      ]
+    },
+    {
+      "EnglishWord": "insulated conductor",
+      "Meanings": [
+        "هادی عایق شده"
+      ]
+    },
+    {
+      "EnglishWord": "insulated pliers",
+      "Meanings": [
+        "انبردست عایق"
+      ]
+    },
+    {
+      "EnglishWord": "insulated wire",
+      "Meanings": [
+        "سیم عایقدار"
+      ]
+    },
+    {
+      "EnglishWord": "insulation",
+      "Meanings": [
+        "عایقسازی ، عایق بندی"
+      ]
+    },
+    {
+      "EnglishWord": "insulativity",
+      "Meanings": [
+        "مقاومت عایق سازی ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "insulator",
+      "Meanings": [
+        "مقره ، عایق"
+      ]
+    },
+    {
+      "EnglishWord": "integer",
+      "Meanings": [
+        "عدد درست عدد صحیح"
+      ]
+    },
+    {
+      "EnglishWord": "integrate",
+      "Meanings": [
+        "یگانستن تمام کردن ، درست کردن"
+      ]
+    },
+    {
+      "EnglishWord": "integrated circuit",
+      "Meanings": [
+        "مدار یگانسته"
+      ]
+    },
+    {
+      "EnglishWord": "integration",
+      "Meanings": [
+        "مجتمع سازی"
+      ]
+    },
+    {
+      "EnglishWord": "intelligent electronic devices   ied",
+      "Meanings": [
+        "ابزار الکترونیکی هوشمند"
+      ]
+    },
+    {
+      "EnglishWord": "intense",
+      "Meanings": [
+        "قوی ، زیاد ، سخت ، شدید"
+      ]
+    },
+    {
+      "EnglishWord": "intense current",
+      "Meanings": [
+        "جریان قوی"
+      ]
+    },
+    {
+      "EnglishWord": "intensity",
+      "Meanings": [
+        "سترگی ، سختی ، فزونی ،کثرت"
+      ]
+    },
+    {
+      "EnglishWord": "interaction",
+      "Meanings": [
+        "تعامل"
+      ]
+    },
+    {
+      "EnglishWord": "interband",
+      "Meanings": [
+        "باند میانی"
+      ]
+    },
+    {
+      "EnglishWord": "interface",
+      "Meanings": [
+        "فصل مشترک",
+        "رابط"
+      ]
+    },
+    {
+      "EnglishWord": "interference",
+      "Meanings": [
+        "تداخل امواج"
+      ]
+    },
+    {
+      "EnglishWord": "internal angle",
+      "Meanings": [
+        "زاویه داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "internal circuit",
+      "Meanings": [
+        "مدار داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "interpole motor",
+      "Meanings": [
+        "موتور با قطب کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "interrupter",
+      "Meanings": [
+        "کلید قطع کنتاکت قطع",
+        "قطع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "inverse",
+      "Meanings": [
+        "معکوس ، وارونه ، برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "inverse current",
+      "Meanings": [
+        "جریان معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse diode",
+      "Meanings": [
+        "دیود معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse direction",
+      "Meanings": [
+        "جهت معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse feedback",
+      "Meanings": [
+        "پیوست معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse function",
+      "Meanings": [
+        "تابع معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inverse voltage",
+      "Meanings": [
+        "ولتاژ معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "inversion symmetry",
+      "Meanings": [
+        "تقارن وارونگی"
+      ]
+    },
+    {
+      "EnglishWord": "invert",
+      "Meanings": [
+        "معکوس کردن"
+      ]
+    },
+    {
+      "EnglishWord": "inverter",
+      "Meanings": [
+        "اینورتر",
+        "متناوب ساز"
+      ]
+    },
+    {
+      "EnglishWord": "inverter circuit",
+      "Meanings": [
+        "مدار متناوب ساز"
+      ]
+    },
+    {
+      "EnglishWord": "inverter stage",
+      "Meanings": [
+        "طبقه متناوب ساز"
+      ]
+    },
+    {
+      "EnglishWord": "invisible",
+      "Meanings": [
+        "نامریی"
+      ]
+    },
+    {
+      "EnglishWord": "invisible radiation",
+      "Meanings": [
+        "تابش نامریی"
+      ]
+    },
+    {
+      "EnglishWord": "ionization",
+      "Meanings": [
+        "یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization chamber",
+      "Meanings": [
+        "اتاقک یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization constant",
+      "Meanings": [
+        "ثابت یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization current",
+      "Meanings": [
+        "جریان یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization degree",
+      "Meanings": [
+        "درجه یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization energy",
+      "Meanings": [
+        "انرژی یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization level",
+      "Meanings": [
+        "سطح یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization point",
+      "Meanings": [
+        "نقطه یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization potential",
+      "Meanings": [
+        "پتانسیل یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionization voltage",
+      "Meanings": [
+        "ولتاژ یونش"
+      ]
+    },
+    {
+      "EnglishWord": "ionize",
+      "Meanings": [
+        "یونیدن به یون تجزیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "ionized gas",
+      "Meanings": [
+        "گاز یونیده"
+      ]
+    },
+    {
+      "EnglishWord": "ionized impurity",
+      "Meanings": [
+        "ناخالصی یونیده"
+      ]
+    },
+    {
+      "EnglishWord": "ionized laver",
+      "Meanings": [
+        "لایه یونیده"
+      ]
+    },
+    {
+      "EnglishWord": "iron",
+      "Meanings": [
+        "آهن"
+      ]
+    },
+    {
+      "EnglishWord": "iron core",
+      "Meanings": [
+        "هسته آهن"
+      ]
+    },
+    {
+      "EnglishWord": "iron free",
+      "Meanings": [
+        "بدون آهن"
+      ]
+    },
+    {
+      "EnglishWord": "iron loss",
+      "Meanings": [
+        "تلف آهن"
+      ]
+    },
+    {
+      "EnglishWord": "irradiance",
+      "Meanings": [
+        "تراکم نور"
+      ]
+    },
+    {
+      "EnglishWord": "irreversible",
+      "Meanings": [
+        "برگشت ناپذیر"
+      ]
+    },
+    {
+      "EnglishWord": "isolate",
+      "Meanings": [
+        "عایقیدن"
+      ]
+    },
+    {
+      "EnglishWord": "isolated",
+      "Meanings": [
+        "عایق‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "isolated neutral system",
+      "Meanings": [
+        "شبکه برق با نقطه ستاره عایق شده"
+      ]
+    },
+    {
+      "EnglishWord": "isolating transformer",
+      "Meanings": [
+        "ولت‌گردان مجزاکننده"
+      ]
+    },
+    {
+      "EnglishWord": "isolation",
+      "Meanings": [
+        "عایق، جداسازی، قطع مدار",
+        "عایقبندی"
+      ]
+    },
+    {
+      "EnglishWord": "isolator",
+      "Meanings": [
+        "کلید قطع ولتاژ، بخشگر ولتاژ",
+        "سکسیونور"
+      ]
+    },
+    {
+      "EnglishWord": "isotropic",
+      "Meanings": [
+        "همسانگرد"
+      ]
+    }
+  ]
+}

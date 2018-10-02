@@ -1,0 +1,716 @@
+﻿{
+  "Group": "R",
+  "Entries": 117,
+  "Words": [
+    {
+      "EnglishWord": "rabi oscillation",
+      "Meanings": [
+        "نوسان رابی"
+      ]
+    },
+    {
+      "EnglishWord": "rabi oscillations",
+      "Meanings": [
+        "نوسان رابی"
+      ]
+    },
+    {
+      "EnglishWord": "race condition",
+      "Meanings": [
+        "حالت مسابقه"
+      ]
+    },
+    {
+      "EnglishWord": "racing of motor",
+      "Meanings": [
+        "دور برداشتن موتور"
+      ]
+    },
+    {
+      "EnglishWord": "rack",
+      "Meanings": [
+        "دستک نگهدارنده باتری، محفظه قرار گیری باتری ها"
+      ]
+    },
+    {
+      "EnglishWord": "radar",
+      "Meanings": [
+        "رادار"
+      ]
+    },
+    {
+      "EnglishWord": "radial",
+      "Meanings": [
+        "پرتوی ، شعاعی ، محوری ، تابشی"
+      ]
+    },
+    {
+      "EnglishWord": "radial motor",
+      "Meanings": [
+        "موتور شعاعی، موتور ستاره ای"
+      ]
+    },
+    {
+      "EnglishWord": "radiative polaritons",
+      "Meanings": [
+        "پلاریتون‌های تشعشعی"
+      ]
+    },
+    {
+      "EnglishWord": "radiator manifolds",
+      "Meanings": [
+        "شبکه‌های رادیاتور"
+      ]
+    },
+    {
+      "EnglishWord": "radio frequency wave",
+      "Meanings": [
+        "فرکانس موج رادیویی"
+      ]
+    },
+    {
+      "EnglishWord": "radioactive",
+      "Meanings": [
+        "پرتوزا ، رادیواکتیو ، پرتو افشان ، تابش دار"
+      ]
+    },
+    {
+      "EnglishWord": "radioactive element",
+      "Meanings": [
+        "عنصر پرتوزا"
+      ]
+    },
+    {
+      "EnglishWord": "radioactivity",
+      "Meanings": [
+        "پرتوزایی ، رادیواکتیویته ،تابش ، پرتوافشانی"
+      ]
+    },
+    {
+      "EnglishWord": "railway motor",
+      "Meanings": [
+        "موتوربان"
+      ]
+    },
+    {
+      "EnglishWord": "random motion",
+      "Meanings": [
+        "حرکت تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random motion test",
+      "Meanings": [
+        "تست ارتعاشات تصادفی"
+      ]
+    },
+    {
+      "EnglishWord": "random motion with sine beats",
+      "Meanings": [
+        "حرکت تصادفی با تپشهای سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "random wound  winding",
+      "Meanings": [
+        "سیم پیچ نامنظم"
+      ]
+    },
+    {
+      "EnglishWord": "rate equation",
+      "Meanings": [
+        "معادله سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "rated",
+      "Meanings": [
+        "نامی ، مجاز ، ارزیابی شده"
+      ]
+    },
+    {
+      "EnglishWord": "rated capacity",
+      "Meanings": [
+        "ظرفیت مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "rated current",
+      "Meanings": [
+        "جریان اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "rated maximum voltage",
+      "Meanings": [
+        "حداکثر ولتاژ مجاز"
+      ]
+    },
+    {
+      "EnglishWord": "rated operating presure",
+      "Meanings": [
+        "فشار بهره برداری اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "rated power",
+      "Meanings": [
+        "توان اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "rated speed",
+      "Meanings": [
+        "سرعت اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "rated voltage",
+      "Meanings": [
+        "ولتاژ اسمی"
+      ]
+    },
+    {
+      "EnglishWord": "ratings",
+      "Meanings": [
+        "شرایط نامی"
+      ]
+    },
+    {
+      "EnglishWord": "ratio",
+      "Meanings": [
+        "نسبت ، سهم"
+      ]
+    },
+    {
+      "EnglishWord": "ratio meter",
+      "Meanings": [
+        "نسبت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "ray",
+      "Meanings": [
+        "پرتو ، شعاع"
+      ]
+    },
+    {
+      "EnglishWord": "rc",
+      "Meanings": [
+        "مقاومت- خازن"
+      ]
+    },
+    {
+      "EnglishWord": "reactance",
+      "Meanings": [
+        "راکتانس،مقاومت القایی یا خازنی"
+      ]
+    },
+    {
+      "EnglishWord": "reactive power",
+      "Meanings": [
+        "توان واکنشی"
+      ]
+    },
+    {
+      "EnglishWord": "real space",
+      "Meanings": [
+        "فضای حقیقی"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal",
+      "Meanings": [
+        "معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "reciprocal space",
+      "Meanings": [
+        "فضای معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "recombination luminescence",
+      "Meanings": [
+        "لومینسانس بازترکیبی"
+      ]
+    },
+    {
+      "EnglishWord": "rectangular-groove shape",
+      "Meanings": [
+        "شیار مستطیلی"
+      ]
+    },
+    {
+      "EnglishWord": "rectification",
+      "Meanings": [
+        "همسوسازی ، یکسو سازی"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier",
+      "Meanings": [
+        "همسوساز ، یکسو کننده",
+        "یکسو کننده، یکسوساز",
+        "یکسو ساز"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier circuit",
+      "Meanings": [
+        "مدار همسوساز"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier diode",
+      "Meanings": [
+        "دیود همسوساز"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier inverter",
+      "Meanings": [
+        "متناوب ساز"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier junction",
+      "Meanings": [
+        "اتصال همسوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "rectifier unit",
+      "Meanings": [
+        "واحد همسوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "rectifing action",
+      "Meanings": [
+        "عمل همسوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "rectify",
+      "Meanings": [
+        "همسوکردن ، تصحیح کردن"
+      ]
+    },
+    {
+      "EnglishWord": "rectifying action",
+      "Meanings": [
+        "عمل همسوسازی"
+      ]
+    },
+    {
+      "EnglishWord": "re-entrant armature winding",
+      "Meanings": [
+        "سیم پیچ ارمیچر باز گشته"
+      ]
+    },
+    {
+      "EnglishWord": "reflect",
+      "Meanings": [
+        "باز تابیدن"
+      ]
+    },
+    {
+      "EnglishWord": "reflection",
+      "Meanings": [
+        "بازتاب",
+        "بازتابش",
+        "بازتابش، شکست نور"
+      ]
+    },
+    {
+      "EnglishWord": "refraction",
+      "Meanings": [
+        "انکسار"
+      ]
+    },
+    {
+      "EnglishWord": "refractive index",
+      "Meanings": [
+        "ضریب انکسار"
+      ]
+    },
+    {
+      "EnglishWord": "relaxation",
+      "Meanings": [
+        "وارفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "relay",
+      "Meanings": [
+        "رهاساز"
+      ]
+    },
+    {
+      "EnglishWord": "relay bounce",
+      "Meanings": [
+        "پرش‌های رله",
+        "پرش رله"
+      ]
+    },
+    {
+      "EnglishWord": "relay winding",
+      "Meanings": [
+        "سیم پیچی رله"
+      ]
+    },
+    {
+      "EnglishWord": "remanance",
+      "Meanings": [
+        "پسماند الکترونیک"
+      ]
+    },
+    {
+      "EnglishWord": "remote",
+      "Meanings": [
+        "راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "remote terminal units  rtu",
+      "Meanings": [
+        "واحد ترمینال راه دور"
+      ]
+    },
+    {
+      "EnglishWord": "repeater",
+      "Meanings": [
+        "تکرار کننده"
+      ]
+    },
+    {
+      "EnglishWord": "repulsion motor",
+      "Meanings": [
+        "موتور پولزیون موتور راه اهن"
+      ]
+    },
+    {
+      "EnglishWord": "repulsion-induction motor",
+      "Meanings": [
+        "موتور القایی - دفعی"
+      ]
+    },
+    {
+      "EnglishWord": "repulsion-start induction motor",
+      "Meanings": [
+        "موتور القایی با راه انداز دفعی"
+      ]
+    },
+    {
+      "EnglishWord": "residual mass",
+      "Meanings": [
+        "اثرات جرم پسماند",
+        "جرم پسامند"
+      ]
+    },
+    {
+      "EnglishWord": "residual-magnetism",
+      "Meanings": [
+        "مغناطیس مانده، مغناطیس پسماند"
+      ]
+    },
+    {
+      "EnglishWord": "resistance",
+      "Meanings": [
+        "مقاومت"
+      ]
+    },
+    {
+      "EnglishWord": "resistance loss",
+      "Meanings": [
+        "اتلاف مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistive",
+      "Meanings": [
+        "مقاومتی"
+      ]
+    },
+    {
+      "EnglishWord": "resistivity",
+      "Meanings": [
+        "مقاومت ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "resolvent operator",
+      "Meanings": [
+        "عملگر حلال"
+      ]
+    },
+    {
+      "EnglishWord": "resonance",
+      "Meanings": [
+        "همنوایی ، هم آوایی"
+      ]
+    },
+    {
+      "EnglishWord": "resonance circuit",
+      "Meanings": [
+        "مدار همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "resonance curve",
+      "Meanings": [
+        "منحنی همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "resonance point",
+      "Meanings": [
+        "نقطه همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "resonance state",
+      "Meanings": [
+        "حالت همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "resonant frequency",
+      "Meanings": [
+        "فرکانس تشدید"
+      ]
+    },
+    {
+      "EnglishWord": "resonator",
+      "Meanings": [
+        "رزوناتور، مشدد، تشدید کننده"
+      ]
+    },
+    {
+      "EnglishWord": "response",
+      "Meanings": [
+        "پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "response spectrum",
+      "Meanings": [
+        "طیف پاسخ"
+      ]
+    },
+    {
+      "EnglishWord": "restrainig realy",
+      "Meanings": [
+        "رله محدود کننده"
+      ]
+    },
+    {
+      "EnglishWord": "restraint points",
+      "Meanings": [
+        "نقاط قیدی"
+      ]
+    },
+    {
+      "EnglishWord": "restraint system",
+      "Meanings": [
+        "سیستم مهار",
+        "سیستم قیدی"
+      ]
+    },
+    {
+      "EnglishWord": "restrike",
+      "Meanings": [
+        "ضربه مجدد"
+      ]
+    },
+    {
+      "EnglishWord": "retrofitting",
+      "Meanings": [
+        "مقاوم سازی، تعمیر، ترمیم"
+      ]
+    },
+    {
+      "EnglishWord": "return",
+      "Meanings": [
+        "برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return cable",
+      "Meanings": [
+        "کابل برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return circuit",
+      "Meanings": [
+        "مدار برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return conductor",
+      "Meanings": [
+        "سیم برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return current",
+      "Meanings": [
+        "جریان برگشت"
+      ]
+    },
+    {
+      "EnglishWord": "return of current",
+      "Meanings": [
+        "برگشت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "reverse power relaly",
+      "Meanings": [
+        "رله توان معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "rigid bus",
+      "Meanings": [
+        "شینه صلب"
+      ]
+    },
+    {
+      "EnglishWord": "rigid equipment",
+      "Meanings": [
+        "تجهیزات صلب"
+      ]
+    },
+    {
+      "EnglishWord": "rigid rotor",
+      "Meanings": [
+        "رتور صلب"
+      ]
+    },
+    {
+      "EnglishWord": "ripple",
+      "Meanings": [
+        "دندانگی"
+      ]
+    },
+    {
+      "EnglishWord": "rise",
+      "Meanings": [
+        "افزایش طول"
+      ]
+    },
+    {
+      "EnglishWord": "rkva",
+      "Meanings": [
+        "کیلو ولت آمپر راکتیو"
+      ]
+    },
+    {
+      "EnglishWord": "rocket motor",
+      "Meanings": [
+        "موتور راکت"
+      ]
+    },
+    {
+      "EnglishWord": "rocking",
+      "Meanings": [
+        "حرکت گهواره ای",
+        "حرکات گهواره ای"
+      ]
+    },
+    {
+      "EnglishWord": "roll off",
+      "Meanings": [
+        "افت آرام"
+      ]
+    },
+    {
+      "EnglishWord": "root mean square  rms",
+      "Meanings": [
+        "مجذور میانگین مربعات"
+      ]
+    },
+    {
+      "EnglishWord": "rotary field motor",
+      "Meanings": [
+        "موتور القایی"
+      ]
+    },
+    {
+      "EnglishWord": "rotating field",
+      "Meanings": [
+        "میدان گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotating flux",
+      "Meanings": [
+        "شار گردان"
+      ]
+    },
+    {
+      "EnglishWord": "rotating wave approximation",
+      "Meanings": [
+        "تقریب امواج چرخان"
+      ]
+    },
+    {
+      "EnglishWord": "rotating-arc circuit breaker",
+      "Meanings": [
+        "کلید قوس چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotational speed",
+      "Meanings": [
+        "سرعت چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotational-losses",
+      "Meanings": [
+        "تلفات چرخشی"
+      ]
+    },
+    {
+      "EnglishWord": "rotor disc",
+      "Meanings": [
+        "دیسک رتور"
+      ]
+    },
+    {
+      "EnglishWord": "rotor force",
+      "Meanings": [
+        "نیروی روتور"
+      ]
+    },
+    {
+      "EnglishWord": "rotor hub",
+      "Meanings": [
+        "توپی رتور"
+      ]
+    },
+    {
+      "EnglishWord": "rotor incidence",
+      "Meanings": [
+        "زاویه بین سطوح عمود بر محور دوران و باد نسبی"
+      ]
+    },
+    {
+      "EnglishWord": "rotor plates",
+      "Meanings": [
+        "جوشنهای گردنده"
+      ]
+    },
+    {
+      "EnglishWord": "row order",
+      "Meanings": [
+        "فرم ردیفی"
+      ]
+    }
+  ]
+}

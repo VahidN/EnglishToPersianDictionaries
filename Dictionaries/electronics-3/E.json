@@ -1,0 +1,1253 @@
+﻿{
+  "Group": "E",
+  "Entries": 207,
+  "Words": [
+    {
+      "EnglishWord": "excitation system stabilizer",
+      "Meanings": [
+        "پایدار ساز سیستم تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation  limiter and protection  over",
+      "Meanings": [
+        "محدود کننده و محافظ فوق تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "earth",
+      "Meanings": [
+        "زمین ، اتصالی به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth capacitance",
+      "Meanings": [
+        "ظرفیت زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth circuit",
+      "Meanings": [
+        "مدار زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth conductor",
+      "Meanings": [
+        "سیم زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth connected",
+      "Meanings": [
+        "بزمین بسته"
+      ]
+    },
+    {
+      "EnglishWord": "earth connection",
+      "Meanings": [
+        "اتصال زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth contact",
+      "Meanings": [
+        "کنتاکت زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth current",
+      "Meanings": [
+        "جریان زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth electrode",
+      "Meanings": [
+        "الکترود زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth loop",
+      "Meanings": [
+        "مدار زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth potential",
+      "Meanings": [
+        "پتانسیل زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth return",
+      "Meanings": [
+        "برگشت زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earth screen",
+      "Meanings": [
+        "حفاظ زمین"
+      ]
+    },
+    {
+      "EnglishWord": "earthed",
+      "Meanings": [
+        "به زمین بسته"
+      ]
+    },
+    {
+      "EnglishWord": "earthed neutral",
+      "Meanings": [
+        "سیم نول به زمین بسته"
+      ]
+    },
+    {
+      "EnglishWord": "earthing",
+      "Meanings": [
+        "بزمین بندی"
+      ]
+    },
+    {
+      "EnglishWord": "echo",
+      "Meanings": [
+        "پژواک"
+      ]
+    },
+    {
+      "EnglishWord": "economic dispatch",
+      "Meanings": [
+        "توزیع اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "economic load flow",
+      "Meanings": [
+        "پخش بار اقتصادی"
+      ]
+    },
+    {
+      "EnglishWord": "eddies",
+      "Meanings": [
+        "جریانهای گردابی"
+      ]
+    },
+    {
+      "EnglishWord": "eddy",
+      "Meanings": [
+        "گرداب کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "eddy current",
+      "Meanings": [
+        "جریان گردابی"
+      ]
+    },
+    {
+      "EnglishWord": "eddy-current",
+      "Meanings": [
+        "جریان گردابی"
+      ]
+    },
+    {
+      "EnglishWord": "effective",
+      "Meanings": [
+        "موثر ، کارآیند"
+      ]
+    },
+    {
+      "EnglishWord": "effective capacity",
+      "Meanings": [
+        "ظرفیت موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective charge",
+      "Meanings": [
+        "بار موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective current",
+      "Meanings": [
+        "جریان موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective diameter",
+      "Meanings": [
+        "قطر موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective field",
+      "Meanings": [
+        "میدان موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective flux",
+      "Meanings": [
+        "شار موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective output",
+      "Meanings": [
+        "توان نامی"
+      ]
+    },
+    {
+      "EnglishWord": "effective power",
+      "Meanings": [
+        "قدرت موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective range",
+      "Meanings": [
+        "پهنه موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective rating",
+      "Meanings": [
+        "توان نامی موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective value",
+      "Meanings": [
+        "مقدار موثر"
+      ]
+    },
+    {
+      "EnglishWord": "effective voltage",
+      "Meanings": [
+        "ولتاژ موثر"
+      ]
+    },
+    {
+      "EnglishWord": "efficiency",
+      "Meanings": [
+        "بهره، راندمان، بازده",
+        "بازده ، کارایی"
+      ]
+    },
+    {
+      "EnglishWord": "eigenvalue",
+      "Meanings": [
+        "مقدار ویژه"
+      ]
+    },
+    {
+      "EnglishWord": "elastic",
+      "Meanings": [
+        "کشسان"
+      ]
+    },
+    {
+      "EnglishWord": "elastic stiffness",
+      "Meanings": [
+        "سختی ارتجاعی"
+      ]
+    },
+    {
+      "EnglishWord": "elasticity",
+      "Meanings": [
+        "کشسانی"
+      ]
+    },
+    {
+      "EnglishWord": "electric",
+      "Meanings": [
+        "برقی ، کهربایی"
+      ]
+    },
+    {
+      "EnglishWord": "electric arc",
+      "Meanings": [
+        "قوس الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric bell",
+      "Meanings": [
+        "زنگ الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric brake",
+      "Meanings": [
+        "ترمز الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric charge",
+      "Meanings": [
+        "بار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric circuit",
+      "Meanings": [
+        "مدار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric clock",
+      "Meanings": [
+        "ساعت برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electric connection",
+      "Meanings": [
+        "اتصال الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric cooker",
+      "Meanings": [
+        "اجاق برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electric current",
+      "Meanings": [
+        "جریان برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric dipole",
+      "Meanings": [
+        "دو قطبی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric discharge",
+      "Meanings": [
+        "تخلیه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric drill",
+      "Meanings": [
+        "مته برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electric drive",
+      "Meanings": [
+        "محرک الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric energy",
+      "Meanings": [
+        "انرژی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric excitation",
+      "Meanings": [
+        "تحریک الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric eye",
+      "Meanings": [
+        "چشم الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric field",
+      "Meanings": [
+        "میدان الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric flux",
+      "Meanings": [
+        "شار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric force",
+      "Meanings": [
+        "نیروی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric furnace",
+      "Meanings": [
+        "کوره الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric generator",
+      "Meanings": [
+        "مولد برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric hearth",
+      "Meanings": [
+        "اجاق برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric line",
+      "Meanings": [
+        "خط الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric load",
+      "Meanings": [
+        "بار الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric machine",
+      "Meanings": [
+        "ماشین الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric meter",
+      "Meanings": [
+        "کنتور برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric motor",
+      "Meanings": [
+        "موتور الکتریکی، الکتروموتور، موتور برقی",
+        "موتور برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric motors",
+      "Meanings": [
+        "موتورهای الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric network",
+      "Meanings": [
+        "شبکه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric noise",
+      "Meanings": [
+        "نوفه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric oven",
+      "Meanings": [
+        "کوره برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric plant",
+      "Meanings": [
+        "تا سیسات برق"
+      ]
+    },
+    {
+      "EnglishWord": "electric pole",
+      "Meanings": [
+        "قطب الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric potential",
+      "Meanings": [
+        "پتانسیل الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric power",
+      "Meanings": [
+        "توان الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric quantity",
+      "Meanings": [
+        "کمیت الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric shock",
+      "Meanings": [
+        "ضربه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric station",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "electric stress",
+      "Meanings": [
+        "تنش الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric supply",
+      "Meanings": [
+        "منبع الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric unit",
+      "Meanings": [
+        "واحد الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electric voltage",
+      "Meanings": [
+        "فشار برق"
+      ]
+    },
+    {
+      "EnglishWord": "electrical",
+      "Meanings": [
+        "برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical appliances",
+      "Meanings": [
+        "وسایل برقی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical connection",
+      "Meanings": [
+        "اتصال الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical engineer",
+      "Meanings": [
+        "مهندس برق"
+      ]
+    },
+    {
+      "EnglishWord": "electrical engineering",
+      "Meanings": [
+        "مهندسی برق"
+      ]
+    },
+    {
+      "EnglishWord": "electrical equipment",
+      "Meanings": [
+        "تجهیزات الکتریکی",
+        "تجهیزات برق"
+      ]
+    },
+    {
+      "EnglishWord": "electrical input",
+      "Meanings": [
+        "ورودی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical installation",
+      "Meanings": [
+        "سیمکشی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical interconnection",
+      "Meanings": [
+        "برقراری اتصالات الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical moment",
+      "Meanings": [
+        "گشتاور الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrical output",
+      "Meanings": [
+        "خروجی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electrician",
+      "Meanings": [
+        "برقکار"
+      ]
+    },
+    {
+      "EnglishWord": "electricity",
+      "Meanings": [
+        "کهربا"
+      ]
+    },
+    {
+      "EnglishWord": "electricity by friction",
+      "Meanings": [
+        "الکتریسیته مالشی"
+      ]
+    },
+    {
+      "EnglishWord": "electricity meter",
+      "Meanings": [
+        "کنتور برق"
+      ]
+    },
+    {
+      "EnglishWord": "electrification",
+      "Meanings": [
+        "کهربایش"
+      ]
+    },
+    {
+      "EnglishWord": "electrified",
+      "Meanings": [
+        "کهربوده"
+      ]
+    },
+    {
+      "EnglishWord": "electrify",
+      "Meanings": [
+        "کهرباییدن"
+      ]
+    },
+    {
+      "EnglishWord": "electrode",
+      "Meanings": [
+        "الکترود"
+      ]
+    },
+    {
+      "EnglishWord": "electrolytic",
+      "Meanings": [
+        "الکترولیتی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnet",
+      "Meanings": [
+        "آهنربای الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetic",
+      "Meanings": [
+        "کاهنربایی"
+      ]
+    },
+    {
+      "EnglishWord": "electromagnetics",
+      "Meanings": [
+        "کاهنرباییک"
+      ]
+    },
+    {
+      "EnglishWord": "electromotive",
+      "Meanings": [
+        "الکتروموتوری متحرک بوسیله برق",
+        "الکتروموتوری"
+      ]
+    },
+    {
+      "EnglishWord": "electromotive force",
+      "Meanings": [
+        "نیزوی الکتروموتوری"
+      ]
+    },
+    {
+      "EnglishWord": "electromotive force  emf",
+      "Meanings": [
+        "نیروی محرکه الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electromotive intensity",
+      "Meanings": [
+        "شدت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "electromotor",
+      "Meanings": [
+        "موتور الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "electron",
+      "Meanings": [
+        "الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron – hole pair",
+      "Meanings": [
+        "زوج الکترون – حفره"
+      ]
+    },
+    {
+      "EnglishWord": "electron current",
+      "Meanings": [
+        "جریان الکترون ها"
+      ]
+    },
+    {
+      "EnglishWord": "electron deficit",
+      "Meanings": [
+        "کمبود الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron density",
+      "Meanings": [
+        "چگالی الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron distribution",
+      "Meanings": [
+        "پخش الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron emission",
+      "Meanings": [
+        "انتشار الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron mobility",
+      "Meanings": [
+        "قابلیت تحرک الکترون"
+      ]
+    },
+    {
+      "EnglishWord": "electron of sound",
+      "Meanings": [
+        "انتشار صوت"
+      ]
+    },
+    {
+      "EnglishWord": "electron spectrum",
+      "Meanings": [
+        "طیف انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "electron-hole pairs",
+      "Meanings": [
+        "زوج‌های حفره الکترونی"
+      ]
+    },
+    {
+      "EnglishWord": "elevating motor",
+      "Meanings": [
+        "موتور بالابر"
+      ]
+    },
+    {
+      "EnglishWord": "emergency",
+      "Meanings": [
+        "سیستم‌های فوریتی"
+      ]
+    },
+    {
+      "EnglishWord": "emission",
+      "Meanings": [
+        "گسیل"
+      ]
+    },
+    {
+      "EnglishWord": "emitter",
+      "Meanings": [
+        "امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter circuit",
+      "Meanings": [
+        "مدار امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter current",
+      "Meanings": [
+        "جریان امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter electrode",
+      "Meanings": [
+        "الکترود امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter region",
+      "Meanings": [
+        "ناحیه امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter terminal",
+      "Meanings": [
+        "پایانه امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "emitter voltage",
+      "Meanings": [
+        "ولتاژ امیتر"
+      ]
+    },
+    {
+      "EnglishWord": "end winding",
+      "Meanings": [
+        "سرسیم پیچی"
+      ]
+    },
+    {
+      "EnglishWord": "energized",
+      "Meanings": [
+        "تحریک شده"
+      ]
+    },
+    {
+      "EnglishWord": "energy",
+      "Meanings": [
+        "کارمایه ، ورزه"
+      ]
+    },
+    {
+      "EnglishWord": "energy consumption",
+      "Meanings": [
+        "مصرف انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy conversion",
+      "Meanings": [
+        "تبدیل انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy distribution",
+      "Meanings": [
+        "پخش انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy flow",
+      "Meanings": [
+        "جریان انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy meter",
+      "Meanings": [
+        "کنتور برق"
+      ]
+    },
+    {
+      "EnglishWord": "energy quantum",
+      "Meanings": [
+        "کوانت انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy recovery",
+      "Meanings": [
+        "بازیابی انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy source",
+      "Meanings": [
+        "منبع انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy splitting",
+      "Meanings": [
+        "شکافتگی انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "energy transfer",
+      "Meanings": [
+        "انتقال انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "engine",
+      "Meanings": [
+        "ماشین ، موتور"
+      ]
+    },
+    {
+      "EnglishWord": "engine generators",
+      "Meanings": [
+        "ژنراتورها"
+      ]
+    },
+    {
+      "EnglishWord": "engineer",
+      "Meanings": [
+        "مهندس"
+      ]
+    },
+    {
+      "EnglishWord": "engineering",
+      "Meanings": [
+        "مهندسی"
+      ]
+    },
+    {
+      "EnglishWord": "engquist-majda",
+      "Meanings": [
+        "انگویست- مجدا"
+      ]
+    },
+    {
+      "EnglishWord": "enthalpy",
+      "Meanings": [
+        "آنتالپی ، حرارت فعال"
+      ]
+    },
+    {
+      "EnglishWord": "envelope",
+      "Meanings": [
+        "پوش"
+      ]
+    },
+    {
+      "EnglishWord": "envelope function approximation",
+      "Meanings": [
+        "تقریب تابع پوش"
+      ]
+    },
+    {
+      "EnglishWord": "equalizer",
+      "Meanings": [
+        "متعادل کننده"
+      ]
+    },
+    {
+      "EnglishWord": "equation",
+      "Meanings": [
+        "معادله"
+      ]
+    },
+    {
+      "EnglishWord": "equipment",
+      "Meanings": [
+        "سازوبرگ ، تجهیزات"
+      ]
+    },
+    {
+      "EnglishWord": "equipment s suspension points",
+      "Meanings": [
+        "قطعات بین نقاط اتصال روی تجهیز"
+      ]
+    },
+    {
+      "EnglishWord": "equipotential",
+      "Meanings": [
+        "همپتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "equipotential surface",
+      "Meanings": [
+        "سطح همپتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence",
+      "Meanings": [
+        "هم ارزی"
+      ]
+    },
+    {
+      "EnglishWord": "equivalence circuit",
+      "Meanings": [
+        "مدار هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent",
+      "Meanings": [
+        "معادل",
+        "هم ارز"
+      ]
+    },
+    {
+      "EnglishWord": "equivalent-circuit",
+      "Meanings": [
+        "مدار معادل"
+      ]
+    },
+    {
+      "EnglishWord": "error",
+      "Meanings": [
+        "خطا"
+      ]
+    },
+    {
+      "EnglishWord": "esaki diode",
+      "Meanings": [
+        "دیود اساکی"
+      ]
+    },
+    {
+      "EnglishWord": "evenly distributed",
+      "Meanings": [
+        "توزیع یکسان"
+      ]
+    },
+    {
+      "EnglishWord": "excitation",
+      "Meanings": [
+        "تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation current",
+      "Meanings": [
+        "جریان تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation potential",
+      "Meanings": [
+        "پتانسیل تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation source",
+      "Meanings": [
+        "منبع تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation state",
+      "Meanings": [
+        "حالت تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation switch",
+      "Meanings": [
+        "کلید تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "excitation voltage",
+      "Meanings": [
+        "ولتاژ تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "exciter",
+      "Meanings": [
+        "محرک ، تحریک کننده"
+      ]
+    },
+    {
+      "EnglishWord": "exciter circuit",
+      "Meanings": [
+        "مدار تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "exciter field",
+      "Meanings": [
+        "میدان تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "exciter set",
+      "Meanings": [
+        "دستگاه تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "exciton",
+      "Meanings": [
+        "اکسیتون"
+      ]
+    },
+    {
+      "EnglishWord": "exclusive code",
+      "Meanings": [
+        "نیاد انحصاری"
+      ]
+    },
+    {
+      "EnglishWord": "exclusive or",
+      "Meanings": [
+        "یا انحصاری"
+      ]
+    },
+    {
+      "EnglishWord": "experience",
+      "Meanings": [
+        "آروین"
+      ]
+    },
+    {
+      "EnglishWord": "experiment",
+      "Meanings": [
+        "آزمایش"
+      ]
+    },
+    {
+      "EnglishWord": "experimental",
+      "Meanings": [
+        "آروینی آزمایشی"
+      ]
+    },
+    {
+      "EnglishWord": "expert",
+      "Meanings": [
+        "ویژستار"
+      ]
+    },
+    {
+      "EnglishWord": "explore",
+      "Meanings": [
+        "پژوهیدن"
+      ]
+    },
+    {
+      "EnglishWord": "explosion",
+      "Meanings": [
+        "انفجار"
+      ]
+    },
+    {
+      "EnglishWord": "exponential",
+      "Meanings": [
+        "نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential curve",
+      "Meanings": [
+        "منحنی نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential distribution",
+      "Meanings": [
+        "پخش نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "exponential function",
+      "Meanings": [
+        "تابع نمایی"
+      ]
+    },
+    {
+      "EnglishWord": "external",
+      "Meanings": [
+        "بیرونی"
+      ]
+    },
+    {
+      "EnglishWord": "external circuit",
+      "Meanings": [
+        "مدار خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external conductor",
+      "Meanings": [
+        "هادی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external current",
+      "Meanings": [
+        "جریان خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external discharge",
+      "Meanings": [
+        "تخلیه هاله ای"
+      ]
+    },
+    {
+      "EnglishWord": "external feedback",
+      "Meanings": [
+        "پسخوراند خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external field",
+      "Meanings": [
+        "میدان خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external force",
+      "Meanings": [
+        "نیروی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external influence",
+      "Meanings": [
+        "تاثیر خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external insulation",
+      "Meanings": [
+        "عایقسازی خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external signal",
+      "Meanings": [
+        "سیگنال خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "external voltage",
+      "Meanings": [
+        "ولتاژ خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "extinction",
+      "Meanings": [
+        "اطفاء ، خاموشی"
+      ]
+    },
+    {
+      "EnglishWord": "extrapolation",
+      "Meanings": [
+        "برون یابی"
+      ]
+    }
+  ]
+}

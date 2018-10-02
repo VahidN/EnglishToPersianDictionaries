@@ -1,0 +1,1006 @@
+﻿{
+  "Group": "A",
+  "Entries": 165,
+  "Words": [
+    {
+      "EnglishWord": "abrupt junction",
+      "Meanings": [
+        "پیوند تیز"
+      ]
+    },
+    {
+      "EnglishWord": "a.c",
+      "Meanings": [
+        "برق متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "a.c. motor",
+      "Meanings": [
+        "موتور جریان متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "a.c.voltage",
+      "Meanings": [
+        "ولتاژ متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "a.t. a.t",
+      "Meanings": [
+        "آمپر دور"
+      ]
+    },
+    {
+      "EnglishWord": "absorbing boundary condition",
+      "Meanings": [
+        "الگوریتم شرط مرزی جذبی"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration",
+      "Meanings": [
+        "شتاب"
+      ]
+    },
+    {
+      "EnglishWord": "acceleration torque",
+      "Meanings": [
+        "گشتاور شتاب دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerator",
+      "Meanings": [
+        "شتاب دهنده"
+      ]
+    },
+    {
+      "EnglishWord": "accelerator winding",
+      "Meanings": [
+        "سیم پیچی سری که در تنظیم کننده‌های ولتا از نوع نوسان ساز با باز شدن دو سر پلاتین میدان مغناطیسی را به سرعت کاهش میدهد و باعث بسته شدن هرچه سریعتر پلاتین میشود"
+      ]
+    },
+    {
+      "EnglishWord": "accumulate",
+      "Meanings": [
+        "انباشته"
+      ]
+    },
+    {
+      "EnglishWord": "accumulator",
+      "Meanings": [
+        "انباره"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy",
+      "Meanings": [
+        "دقت"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy class",
+      "Meanings": [
+        "کلاس دقت"
+      ]
+    },
+    {
+      "EnglishWord": "accuracy grade",
+      "Meanings": [
+        "درجه دقت"
+      ]
+    },
+    {
+      "EnglishWord": "acetone",
+      "Meanings": [
+        "استون"
+      ]
+    },
+    {
+      "EnglishWord": "acoustic",
+      "Meanings": [
+        "صوتی"
+      ]
+    },
+    {
+      "EnglishWord": "active conductor",
+      "Meanings": [
+        "سیم برق دار"
+      ]
+    },
+    {
+      "EnglishWord": "adder",
+      "Meanings": [
+        "جمع کننده"
+      ]
+    },
+    {
+      "EnglishWord": "adjustable speed motor",
+      "Meanings": [
+        "موتور با دور متغیر"
+      ]
+    },
+    {
+      "EnglishWord": "admittance",
+      "Meanings": [
+        "مقدار هدایت ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "admix",
+      "Meanings": [
+        "آمیخته"
+      ]
+    },
+    {
+      "EnglishWord": "aerial",
+      "Meanings": [
+        "آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial cable",
+      "Meanings": [
+        "کابل آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial circuit",
+      "Meanings": [
+        "مدار آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial engineering",
+      "Meanings": [
+        "مهندسی آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial feeder",
+      "Meanings": [
+        "خط تغذیه آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial feeding",
+      "Meanings": [
+        "تغذیه آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial input",
+      "Meanings": [
+        "ورودی آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial power",
+      "Meanings": [
+        "قدرت آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial system",
+      "Meanings": [
+        "سیستم آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial tuning",
+      "Meanings": [
+        "تنظیم آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "aerial wire",
+      "Meanings": [
+        "سیم آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "a-frame",
+      "Meanings": [
+        "قاب مثلثی"
+      ]
+    },
+    {
+      "EnglishWord": "aging test",
+      "Meanings": [
+        "تست‌های پیرشدگی",
+        "تست پیرشدگی"
+      ]
+    },
+    {
+      "EnglishWord": "air core reactor",
+      "Meanings": [
+        "راکتور بدون هسته"
+      ]
+    },
+    {
+      "EnglishWord": "air-blast circuit breakers",
+      "Meanings": [
+        "کلید نیرو با هوای فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "air-core reactor",
+      "Meanings": [
+        "سیم‌پیچ بی‌هسته"
+      ]
+    },
+    {
+      "EnglishWord": "air-core reactors",
+      "Meanings": [
+        "رآکتورهای بدون هسته"
+      ]
+    },
+    {
+      "EnglishWord": "air-gap",
+      "Meanings": [
+        "فاصله هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "alarm",
+      "Meanings": [
+        "آژیر"
+      ]
+    },
+    {
+      "EnglishWord": "algebraic",
+      "Meanings": [
+        "جبری"
+      ]
+    },
+    {
+      "EnglishWord": "algol",
+      "Meanings": [
+        "الگال زبان برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "alkali",
+      "Meanings": [
+        "قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "alkali accumulator",
+      "Meanings": [
+        "انباره قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "alkaline",
+      "Meanings": [
+        "قلیایی"
+      ]
+    },
+    {
+      "EnglishWord": "all-electric",
+      "Meanings": [
+        "تمام برقی"
+      ]
+    },
+    {
+      "EnglishWord": "all-electric set",
+      "Meanings": [
+        "دستگاه تمام برقی"
+      ]
+    },
+    {
+      "EnglishWord": "alloy",
+      "Meanings": [
+        "آمیزه ، همبسته"
+      ]
+    },
+    {
+      "EnglishWord": "alternate",
+      "Meanings": [
+        "به تناوب ، متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating current",
+      "Meanings": [
+        "جریان متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating current motor",
+      "Meanings": [
+        "موتور جریان متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternating voltage",
+      "Meanings": [
+        "ولتاژ متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "alternator",
+      "Meanings": [
+        "مولد جریان متناوب"
+      ]
+    },
+    {
+      "EnglishWord": "aluminum",
+      "Meanings": [
+        "آلومینیوم"
+      ]
+    },
+    {
+      "EnglishWord": "amalgam",
+      "Meanings": [
+        "آمیزه سیماب"
+      ]
+    },
+    {
+      "EnglishWord": "amdahl s law",
+      "Meanings": [
+        "قاعده آمدال"
+      ]
+    },
+    {
+      "EnglishWord": "amorphous",
+      "Meanings": [
+        "بیشکل"
+      ]
+    },
+    {
+      "EnglishWord": "amperage",
+      "Meanings": [
+        "شدت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "ampere",
+      "Meanings": [
+        "آمپر واحد شدت جریان"
+      ]
+    },
+    {
+      "EnglishWord": "ampere hour",
+      "Meanings": [
+        "آمپر ساعت"
+      ]
+    },
+    {
+      "EnglishWord": "ampere meter",
+      "Meanings": [
+        "آمپر سنج"
+      ]
+    },
+    {
+      "EnglishWord": "ampere second",
+      "Meanings": [
+        "آمپر ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "ampere turn",
+      "Meanings": [
+        "آمپر دور"
+      ]
+    },
+    {
+      "EnglishWord": "ampere s theory",
+      "Meanings": [
+        "نگره آمپر"
+      ]
+    },
+    {
+      "EnglishWord": "amplification",
+      "Meanings": [
+        "تشدید",
+        "فرسترگ سازی"
+      ]
+    },
+    {
+      "EnglishWord": "amplifier",
+      "Meanings": [
+        "تقویت کننده",
+        "فرسترگ ساز"
+      ]
+    },
+    {
+      "EnglishWord": "amplify",
+      "Meanings": [
+        "فرسترگ ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude",
+      "Meanings": [
+        "دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude distortion",
+      "Meanings": [
+        "چولگی دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude of light",
+      "Meanings": [
+        "دامنه نور"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude ratio",
+      "Meanings": [
+        "نسبت دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "amplitude stability",
+      "Meanings": [
+        "پایداری دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "analogous",
+      "Meanings": [
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analogue",
+      "Meanings": [
+        "قیاسی"
+      ]
+    },
+    {
+      "EnglishWord": "analogy",
+      "Meanings": [
+        "قیاس"
+      ]
+    },
+    {
+      "EnglishWord": "analysis",
+      "Meanings": [
+        "تجزیه"
+      ]
+    },
+    {
+      "EnglishWord": "analyze",
+      "Meanings": [
+        "تجزیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "anchor bolts",
+      "Meanings": [
+        "پیچهای مهاری",
+        "پیچهاری مهاری"
+      ]
+    },
+    {
+      "EnglishWord": "anchorage",
+      "Meanings": [
+        "مهار"
+      ]
+    },
+    {
+      "EnglishWord": "anchorage poin",
+      "Meanings": [
+        "نقاط مهاری"
+      ]
+    },
+    {
+      "EnglishWord": "anchorage point s",
+      "Meanings": [
+        "نقاط مهاری"
+      ]
+    },
+    {
+      "EnglishWord": "and",
+      "Meanings": [
+        "کارگردان منطقی آند"
+      ]
+    },
+    {
+      "EnglishWord": "and circuit",
+      "Meanings": [
+        "مدار آند"
+      ]
+    },
+    {
+      "EnglishWord": "annealing",
+      "Meanings": [
+        "ترمیم دمایی"
+      ]
+    },
+    {
+      "EnglishWord": "annihilator",
+      "Meanings": [
+        "نابودی"
+      ]
+    },
+    {
+      "EnglishWord": "anode",
+      "Meanings": [
+        "آند"
+      ]
+    },
+    {
+      "EnglishWord": "ansi",
+      "Meanings": [
+        "موسسه استانداردهای ملی امریکا"
+      ]
+    },
+    {
+      "EnglishWord": "antenna",
+      "Meanings": [
+        "آنتن"
+      ]
+    },
+    {
+      "EnglishWord": "anti-clockwise",
+      "Meanings": [
+        "پاد ساعت سو"
+      ]
+    },
+    {
+      "EnglishWord": "anti-symmetric",
+      "Meanings": [
+        "پاد متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "anti-symmetry",
+      "Meanings": [
+        "پادتقارنی"
+      ]
+    },
+    {
+      "EnglishWord": "apparent",
+      "Meanings": [
+        "ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "apparent impedance",
+      "Meanings": [
+        "مقاومت ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "apparent power",
+      "Meanings": [
+        "توان ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "apparent watts",
+      "Meanings": [
+        "توان ظاهری"
+      ]
+    },
+    {
+      "EnglishWord": "appliance",
+      "Meanings": [
+        "تجهیز ، وسیله"
+      ]
+    },
+    {
+      "EnglishWord": "appliances",
+      "Meanings": [
+        "وسایل برقی خانگی"
+      ]
+    },
+    {
+      "EnglishWord": "application",
+      "Meanings": [
+        "کاربرد"
+      ]
+    },
+    {
+      "EnglishWord": "arbitrary  function",
+      "Meanings": [
+        "تابع دلخواه"
+      ]
+    },
+    {
+      "EnglishWord": "arc",
+      "Meanings": [
+        "قوس",
+        "قوس نوری"
+      ]
+    },
+    {
+      "EnglishWord": "arc-chute",
+      "Meanings": [
+        "برقگیر با لوله اطفا"
+      ]
+    },
+    {
+      "EnglishWord": "arcing",
+      "Meanings": [
+        "تشکیل قوس الکتریکی نقش بستن جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "arcing chamber",
+      "Meanings": [
+        "محفظه اطفای قوس الکتریکی برقگیر"
+      ]
+    },
+    {
+      "EnglishWord": "arc-plasma",
+      "Meanings": [
+        "پلاسمای قوس الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "arias intensity",
+      "Meanings": [
+        "شدت آریاس",
+        "انرژی موجود در زمین"
+      ]
+    },
+    {
+      "EnglishWord": "armature",
+      "Meanings": [
+        "آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature circuit",
+      "Meanings": [
+        "مدار آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature core",
+      "Meanings": [
+        "هسته آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature current",
+      "Meanings": [
+        "جریان آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature field",
+      "Meanings": [
+        "میدان آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature power losses",
+      "Meanings": [
+        "تلفات آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature shaft",
+      "Meanings": [
+        "محور آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature shifting motor",
+      "Meanings": [
+        "موتور با ارمیچر قابل تغییر"
+      ]
+    },
+    {
+      "EnglishWord": "armature slot",
+      "Meanings": [
+        "شیار آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature voltage",
+      "Meanings": [
+        "ولتاژ آرمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "armature winding",
+      "Meanings": [
+        "سیم پیچ آرمیچر",
+        "سیم پیچ ارمیچر"
+      ]
+    },
+    {
+      "EnglishWord": "arrangement",
+      "Meanings": [
+        "آرایش"
+      ]
+    },
+    {
+      "EnglishWord": "array",
+      "Meanings": [
+        "آرایه"
+      ]
+    },
+    {
+      "EnglishWord": "arrester",
+      "Meanings": [
+        "برقگیر",
+        "برقگیر ، آراستار"
+      ]
+    },
+    {
+      "EnglishWord": "arrester surge arrester",
+      "Meanings": [
+        "برقگیر"
+      ]
+    },
+    {
+      "EnglishWord": "articulated rotor",
+      "Meanings": [
+        "روتور مفصلی"
+      ]
+    },
+    {
+      "EnglishWord": "astable circuit",
+      "Meanings": [
+        "مدار ناپایدار"
+      ]
+    },
+    {
+      "EnglishWord": "asymmetry",
+      "Meanings": [
+        "نامتقارن"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous",
+      "Meanings": [
+        "ناهمدور ، ناهمزمان"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous alternator",
+      "Meanings": [
+        "مولد ناهمزمان"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous generator",
+      "Meanings": [
+        "ژنراتور آسنکرون",
+        "مولد ناهمزمان"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous machine",
+      "Meanings": [
+        "ماشین ناهمزمان"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous motor",
+      "Meanings": [
+        "موتور ناهمزمان",
+        "موتور آسنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "asynchronous starting",
+      "Meanings": [
+        "راه اندازی ناهمزمان"
+      ]
+    },
+    {
+      "EnglishWord": "atom",
+      "Meanings": [
+        "نابهریک"
+      ]
+    },
+    {
+      "EnglishWord": "atom core",
+      "Meanings": [
+        "هسته اتم"
+      ]
+    },
+    {
+      "EnglishWord": "atom shell",
+      "Meanings": [
+        "پوسته اتم"
+      ]
+    },
+    {
+      "EnglishWord": "atom spectrum",
+      "Meanings": [
+        "بیناب اتم"
+      ]
+    },
+    {
+      "EnglishWord": "atomic",
+      "Meanings": [
+        "اتمی"
+      ]
+    },
+    {
+      "EnglishWord": "atomic power",
+      "Meanings": [
+        "انرژی اتمی"
+      ]
+    },
+    {
+      "EnglishWord": "atomic power plant",
+      "Meanings": [
+        "نیروگاه اتمی"
+      ]
+    },
+    {
+      "EnglishWord": "attenuation",
+      "Meanings": [
+        "میرایی"
+      ]
+    },
+    {
+      "EnglishWord": "attitude motor",
+      "Meanings": [
+        "موتورهای راکت کوچک برای کنترل وضعیت رسانگر فضایی در حال حرکت"
+      ]
+    },
+    {
+      "EnglishWord": "attract",
+      "Meanings": [
+        "ربودن"
+      ]
+    },
+    {
+      "EnglishWord": "attraction",
+      "Meanings": [
+        "ربایش"
+      ]
+    },
+    {
+      "EnglishWord": "audibility",
+      "Meanings": [
+        "قابلیت شنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "auto transformer",
+      "Meanings": [
+        "اتوترانسفورماتور"
+      ]
+    },
+    {
+      "EnglishWord": "automatic",
+      "Meanings": [
+        "خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "automatic control",
+      "Meanings": [
+        "فرمان و مهار خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "autotransformer",
+      "Meanings": [
+        "ولتگردان صرفه جو اتو ترانسفورماتور"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary",
+      "Meanings": [
+        "اضافی ، کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary contac",
+      "Meanings": [
+        "اتصال کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary rotor",
+      "Meanings": [
+        "رتور کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "auxiliary winding",
+      "Meanings": [
+        "سیم پیچ کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche",
+      "Meanings": [
+        "بهمن"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche breakdown",
+      "Meanings": [
+        "فروپاشی بهمنی"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche diode",
+      "Meanings": [
+        "دیود بهمنی"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche effect",
+      "Meanings": [
+        "اثر بهمنی"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche formation",
+      "Meanings": [
+        "بهمنسازی"
+      ]
+    },
+    {
+      "EnglishWord": "avalanche transistor",
+      "Meanings": [
+        "ترانزیستور بهمنی"
+      ]
+    },
+    {
+      "EnglishWord": "average",
+      "Meanings": [
+        "متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average current",
+      "Meanings": [
+        "جریان متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average speed",
+      "Meanings": [
+        "سرعت متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average torque",
+      "Meanings": [
+        "گشتاور متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average value",
+      "Meanings": [
+        "مقدار متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "average voltage",
+      "Meanings": [
+        "ولتاژ متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "axial",
+      "Meanings": [
+        "محوری"
+      ]
+    },
+    {
+      "EnglishWord": "axis",
+      "Meanings": [
+        "آسه"
+      ]
+    },
+    {
+      "EnglishWord": "azimuth part",
+      "Meanings": [
+        "قسمت سمتی"
+      ]
+    }
+  ]
+}

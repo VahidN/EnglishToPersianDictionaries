@@ -1,0 +1,816 @@
+﻿{
+  "Group": "M",
+  "Entries": 134,
+  "Words": [
+    {
+      "EnglishWord": "macroscopic",
+      "Meanings": [
+        "ماکروسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "magnesium",
+      "Meanings": [
+        "منیزیوم"
+      ]
+    },
+    {
+      "EnglishWord": "magnet",
+      "Meanings": [
+        "آهنربا"
+      ]
+    },
+    {
+      "EnglishWord": "magnet winding",
+      "Meanings": [
+        "سیم پیچی اهنرباالکترونیک: سیم پیچ مغناطیس",
+        "سیم پیچی اهنربا سیم پیچ مغناطیس"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic circuit",
+      "Meanings": [
+        "مدار مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetic field intensity",
+      "Meanings": [
+        "شدت میدان مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnetization",
+      "Meanings": [
+        "آهنربایش"
+      ]
+    },
+    {
+      "EnglishWord": "magnetizing current",
+      "Meanings": [
+        "جریان مغناطیس کننده"
+      ]
+    },
+    {
+      "EnglishWord": "magnetizing-curve",
+      "Meanings": [
+        "منحنی مغناطیس شوندگی"
+      ]
+    },
+    {
+      "EnglishWord": "magneto rotor",
+      "Meanings": [
+        "روتور مگنت"
+      ]
+    },
+    {
+      "EnglishWord": "magnetomotive force",
+      "Meanings": [
+        "نیروی محرکه مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "magnitude",
+      "Meanings": [
+        "دامنه، اندازه، مقدار"
+      ]
+    },
+    {
+      "EnglishWord": "magnitude-distance",
+      "Meanings": [
+        "بزرگی- فاصله"
+      ]
+    },
+    {
+      "EnglishWord": "main drive motor",
+      "Meanings": [
+        "موتور محرکه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main motor",
+      "Meanings": [
+        "موتور اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "main winding",
+      "Meanings": [
+        "سیم پیچی اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "make switch",
+      "Meanings": [
+        "سوییچ وصل"
+      ]
+    },
+    {
+      "EnglishWord": "malleable iron",
+      "Meanings": [
+        "آهن چکش خوار"
+      ]
+    },
+    {
+      "EnglishWord": "mandrel",
+      "Meanings": [
+        "مرغک"
+      ]
+    },
+    {
+      "EnglishWord": "mandrel wrapped",
+      "Meanings": [
+        "مرغک پیچیده"
+      ]
+    },
+    {
+      "EnglishWord": "man-shake test",
+      "Meanings": [
+        "تست توسط نیروی انسانی",
+        "تست ارتعاش یا نیروی انسانی"
+      ]
+    },
+    {
+      "EnglishWord": "mass action law",
+      "Meanings": [
+        "قانون اثر جرم"
+      ]
+    },
+    {
+      "EnglishWord": "mast",
+      "Meanings": [
+        "دکل"
+      ]
+    },
+    {
+      "EnglishWord": "master",
+      "Meanings": [
+        "رایانه اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "master controller",
+      "Meanings": [
+        "کنترل کننده اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "material",
+      "Meanings": [
+        "ماده"
+      ]
+    },
+    {
+      "EnglishWord": "material absorption",
+      "Meanings": [
+        "جذب ماده ای"
+      ]
+    },
+    {
+      "EnglishWord": "matter",
+      "Meanings": [
+        "ماده"
+      ]
+    },
+    {
+      "EnglishWord": "maximum mechanical load  mml",
+      "Meanings": [
+        "حداکثر بار مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "maximum torque",
+      "Meanings": [
+        "گشتاور ماکزیمم"
+      ]
+    },
+    {
+      "EnglishWord": "maxwell",
+      "Meanings": [
+        "ماکسول‌"
+      ]
+    },
+    {
+      "EnglishWord": "measure",
+      "Meanings": [
+        "سنجیدن"
+      ]
+    },
+    {
+      "EnglishWord": "measurement",
+      "Meanings": [
+        "سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "measuring",
+      "Meanings": [
+        "سنجش ، اندازگیری"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical efficiency of seal temperature rise",
+      "Meanings": [
+        "بازده مکانیکی عایق بندی در مقابل بالارفتن حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "mechanical losses",
+      "Meanings": [
+        "تلفات مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "medium voltage",
+      "Meanings": [
+        "ولتاژ متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "medium-frequency motor",
+      "Meanings": [
+        "موتور با فرکانس میانی"
+      ]
+    },
+    {
+      "EnglishWord": "medulation",
+      "Meanings": [
+        "مدولاسیون"
+      ]
+    },
+    {
+      "EnglishWord": "memory",
+      "Meanings": [
+        "حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "memory capacity",
+      "Meanings": [
+        "ظرفیت حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "memory circuit",
+      "Meanings": [
+        "مدار حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "memory current",
+      "Meanings": [
+        "جریان حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "memory system",
+      "Meanings": [
+        "سیستم حافظه"
+      ]
+    },
+    {
+      "EnglishWord": "mercury",
+      "Meanings": [
+        "سیماب جیوه"
+      ]
+    },
+    {
+      "EnglishWord": "mesoscopic",
+      "Meanings": [
+        "مزوسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "message passing interface",
+      "Meanings": [
+        "رابط ارسال پیام"
+      ]
+    },
+    {
+      "EnglishWord": "metalclad switchgear",
+      "Meanings": [
+        "کلید افزار با پوشش فلزی"
+      ]
+    },
+    {
+      "EnglishWord": "methanol",
+      "Meanings": [
+        "متانول"
+      ]
+    },
+    {
+      "EnglishWord": "mf  m.f.  mf",
+      "Meanings": [
+        "فرکانش متوسط"
+      ]
+    },
+    {
+      "EnglishWord": "mfd",
+      "Meanings": [
+        "میکرو فاراد"
+      ]
+    },
+    {
+      "EnglishWord": "mh  mh",
+      "Meanings": [
+        "میلی هانری"
+      ]
+    },
+    {
+      "EnglishWord": "mho",
+      "Meanings": [
+        "زیمنس"
+      ]
+    },
+    {
+      "EnglishWord": "mica",
+      "Meanings": [
+        "میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica capacitor",
+      "Meanings": [
+        "خازن میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica dielectric",
+      "Meanings": [
+        "دی الکتریک عایق ، ضد برق میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica paper",
+      "Meanings": [
+        "کاغذ میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica plate",
+      "Meanings": [
+        "ورق میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica tape",
+      "Meanings": [
+        "نوار میکا"
+      ]
+    },
+    {
+      "EnglishWord": "mica washer",
+      "Meanings": [
+        "واشر میکا"
+      ]
+    },
+    {
+      "EnglishWord": "micanite",
+      "Meanings": [
+        "میکای مصنوعی، میکانیت"
+      ]
+    },
+    {
+      "EnglishWord": "micro ampere",
+      "Meanings": [
+        "میکرو آمپری"
+      ]
+    },
+    {
+      "EnglishWord": "micro ampere meter",
+      "Meanings": [
+        "میکرو آمپر متر"
+      ]
+    },
+    {
+      "EnglishWord": "micro electronic",
+      "Meanings": [
+        "میکرو الکترونیک"
+      ]
+    },
+    {
+      "EnglishWord": "micro fabrication",
+      "Meanings": [
+        "ساخت در ابعاد کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "micro farad",
+      "Meanings": [
+        "میکرو فاراد"
+      ]
+    },
+    {
+      "EnglishWord": "micro henry",
+      "Meanings": [
+        "میکرو هانری"
+      ]
+    },
+    {
+      "EnglishWord": "microcavity",
+      "Meanings": [
+        "ریزکاواک"
+      ]
+    },
+    {
+      "EnglishWord": "microphone",
+      "Meanings": [
+        "میکروفن"
+      ]
+    },
+    {
+      "EnglishWord": "microscopic",
+      "Meanings": [
+        "میکروسکوپی"
+      ]
+    },
+    {
+      "EnglishWord": "minimal coupling",
+      "Meanings": [
+        "جفت شدگی کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "minimum oil circuit",
+      "Meanings": [
+        "کلید با قطع کمینه"
+      ]
+    },
+    {
+      "EnglishWord": "mobile emergency generating system",
+      "Meanings": [
+        "برق اضطراری سیار، ژنراتور سیار"
+      ]
+    },
+    {
+      "EnglishWord": "modal combination",
+      "Meanings": [
+        "ترکیب مودی"
+      ]
+    },
+    {
+      "EnglishWord": "modal reduction techniques",
+      "Meanings": [
+        "تکنیک‌های کاهش مودی",
+        "تکنیک کاهش مودی"
+      ]
+    },
+    {
+      "EnglishWord": "model",
+      "Meanings": [
+        "الگو"
+      ]
+    },
+    {
+      "EnglishWord": "modular",
+      "Meanings": [
+        "مدولار"
+      ]
+    },
+    {
+      "EnglishWord": "modulation",
+      "Meanings": [
+        "مدولاسیون",
+        "مدگردانی زیر و بم ، نوسان صدا"
+      ]
+    },
+    {
+      "EnglishWord": "modulator",
+      "Meanings": [
+        "مدگردان تلفیق کننده"
+      ]
+    },
+    {
+      "EnglishWord": "moment",
+      "Meanings": [
+        "ممان ، گشتاور ، لحظه"
+      ]
+    },
+    {
+      "EnglishWord": "moment of inertia",
+      "Meanings": [
+        "ممان اینرسی"
+      ]
+    },
+    {
+      "EnglishWord": "monitoring requirements",
+      "Meanings": [
+        "مشاهده و نظارت",
+        "الزامات مشاهده و نظارت"
+      ]
+    },
+    {
+      "EnglishWord": "mono phase",
+      "Meanings": [
+        "تک فاز"
+      ]
+    },
+    {
+      "EnglishWord": "mono stable",
+      "Meanings": [
+        "یک وضعیت پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "monte carlo",
+      "Meanings": [
+        "مونت کارلو"
+      ]
+    },
+    {
+      "EnglishWord": "morse alphabet",
+      "Meanings": [
+        "الفبای مورس"
+      ]
+    },
+    {
+      "EnglishWord": "morse key",
+      "Meanings": [
+        "تکمه مورس"
+      ]
+    },
+    {
+      "EnglishWord": "morse receiver",
+      "Meanings": [
+        "گیرنده مورس"
+      ]
+    },
+    {
+      "EnglishWord": "morse sender",
+      "Meanings": [
+        "فرستنده مورس"
+      ]
+    },
+    {
+      "EnglishWord": "morse signal",
+      "Meanings": [
+        "سیگنال مورس"
+      ]
+    },
+    {
+      "EnglishWord": "mos",
+      "Meanings": [
+        "نیمه هادی - اکسید - فلز"
+      ]
+    },
+    {
+      "EnglishWord": "motor",
+      "Meanings": [
+        "جنبار موتور ، محرک"
+      ]
+    },
+    {
+      "EnglishWord": "motor adapter",
+      "Meanings": [
+        "پایه‌های اتصال موتور، مقر اتصال موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor bracket",
+      "Meanings": [
+        "پایه موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor casing",
+      "Meanings": [
+        "بدنه موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor converter",
+      "Meanings": [
+        "تبدیلگر زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "motor drive",
+      "Meanings": [
+        "محرکه موتوری"
+      ]
+    },
+    {
+      "EnglishWord": "motor efficiency",
+      "Meanings": [
+        "بازده موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor fuel",
+      "Meanings": [
+        "سوخت موتوری"
+      ]
+    },
+    {
+      "EnglishWord": "motor launch",
+      "Meanings": [
+        "موتور لنج ،قایق موتوری، کرجی"
+      ]
+    },
+    {
+      "EnglishWord": "motor oil",
+      "Meanings": [
+        "روغن موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor onspeed",
+      "Meanings": [
+        "سرعت بار موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor output",
+      "Meanings": [
+        "قدرت خروجی موتور، توان موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor rating",
+      "Meanings": [
+        "توان نامی موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor speed",
+      "Meanings": [
+        "سرعت موتور"
+      ]
+    },
+    {
+      "EnglishWord": "motor starter",
+      "Meanings": [
+        "موتور راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "motor transformer",
+      "Meanings": [
+        "مبدل موتور، تبدیل گر وارون"
+      ]
+    },
+    {
+      "EnglishWord": "motor transport",
+      "Meanings": [
+        "حمل و نقل موتوری"
+      ]
+    },
+    {
+      "EnglishWord": "motor tube",
+      "Meanings": [
+        "استوانه موتور موشک"
+      ]
+    },
+    {
+      "EnglishWord": "motor vehicle",
+      "Meanings": [
+        "خودرو موتوری ،وسیله نقلیه موتوری، وسیله نقلیه موتوری، خودرو"
+      ]
+    },
+    {
+      "EnglishWord": "motor vessel  mv",
+      "Meanings": [
+        "علوم دریایی: کشتی موتوری"
+      ]
+    },
+    {
+      "EnglishWord": "motor-brush starting switch",
+      "Meanings": [
+        "سویچ زغالی"
+      ]
+    },
+    {
+      "EnglishWord": "motor-generator",
+      "Meanings": [
+        "موتور - مولد"
+      ]
+    },
+    {
+      "EnglishWord": "motor-scooter",
+      "Meanings": [
+        "روروک موتوری"
+      ]
+    },
+    {
+      "EnglishWord": "motor-vehicle industry",
+      "Meanings": [
+        "صنعت وسایل نقلیه موتوری، صنعت اتومبیل"
+      ]
+    },
+    {
+      "EnglishWord": "mott-wannier",
+      "Meanings": [
+        "مات - ونیر"
+      ]
+    },
+    {
+      "EnglishWord": "mounting fitting",
+      "Meanings": [
+        "اجزای سوار شونده"
+      ]
+    },
+    {
+      "EnglishWord": "multiband envelope function",
+      "Meanings": [
+        "تابع پوش چند نوار"
+      ]
+    },
+    {
+      "EnglishWord": "multi-dimensional wave digital filters",
+      "Meanings": [
+        "فیلترهای دیجیتال موج چند بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "multigate field effect transistor",
+      "Meanings": [
+        "ترانزیستور اثر میدانی چند گیتی"
+      ]
+    },
+    {
+      "EnglishWord": "multiphase motor",
+      "Meanings": [
+        "موتور چند فازه"
+      ]
+    },
+    {
+      "EnglishWord": "multiphase winding",
+      "Meanings": [
+        "سیم پیچی چند فازه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple drum winding",
+      "Meanings": [
+        "سیم پیچ استوانه ای چندگانه"
+      ]
+    },
+    {
+      "EnglishWord": "multiple-frequency",
+      "Meanings": [
+        "سینوسی چند فرکانسی"
+      ]
+    },
+    {
+      "EnglishWord": "multiple-frequency test",
+      "Meanings": [
+        "تست سینوسی چند فرکانسی"
+      ]
+    },
+    {
+      "EnglishWord": "multiplex wave winding",
+      "Meanings": [
+        "سیم پیچ موجدار چند راهه"
+      ]
+    },
+    {
+      "EnglishWord": "multi-speed motor",
+      "Meanings": [
+        "موتور چند سرعتی"
+      ]
+    },
+    {
+      "EnglishWord": "multi-vibrator",
+      "Meanings": [
+        "مولتی ویبراتور نوسان ساز"
+      ]
+    },
+    {
+      "EnglishWord": "mur",
+      "Meanings": [
+        "شرط مور"
+      ]
+    },
+    {
+      "EnglishWord": "mutual",
+      "Meanings": [
+        "متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "mutual impedance",
+      "Meanings": [
+        "امپدانس متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "mutual inductance",
+      "Meanings": [
+        "ضریب القای متقابل",
+        "اندوکتانس متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "mutual induction",
+      "Meanings": [
+        "القای متقابل"
+      ]
+    },
+    {
+      "EnglishWord": "mx",
+      "Meanings": [
+        "ماکسول"
+      ]
+    }
+  ]
+}

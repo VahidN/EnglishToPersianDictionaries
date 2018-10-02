@@ -1,0 +1,516 @@
+﻿{
+  "Group": "G",
+  "Entries": 85,
+  "Words": [
+    {
+      "EnglishWord": "gain",
+      "Meanings": [
+        "بهره"
+      ]
+    },
+    {
+      "EnglishWord": "gain reduction transient",
+      "Meanings": [
+        "کاهش دهنده بهره گذار"
+      ]
+    },
+    {
+      "EnglishWord": "galloping",
+      "Meanings": [
+        "نوسان خط هوایی"
+      ]
+    },
+    {
+      "EnglishWord": "galvanometer",
+      "Meanings": [
+        "جریان سنج حساس"
+      ]
+    },
+    {
+      "EnglishWord": "gap",
+      "Meanings": [
+        "گاف"
+      ]
+    },
+    {
+      "EnglishWord": "gas discharge lamp",
+      "Meanings": [
+        "لامپ تخلیه گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gasckets",
+      "Meanings": [
+        "واشرها"
+      ]
+    },
+    {
+      "EnglishWord": "gas-insolated switchgear",
+      "Meanings": [
+        "کلید افزار با عایق گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas-insulated metal-enclosed switchgear",
+      "Meanings": [
+        "ادوات سوییچینگ فلزی ایزوله- گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gas-insulated switchgear",
+      "Meanings": [
+        "کلید افزار با عایق گازی"
+      ]
+    },
+    {
+      "EnglishWord": "gasketed assemblages",
+      "Meanings": [
+        "مجموعه واشر بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "gate",
+      "Meanings": [
+        "دروازه ، گیت"
+      ]
+    },
+    {
+      "EnglishWord": "gate circuit",
+      "Meanings": [
+        "مدار دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gate current",
+      "Meanings": [
+        "جریان دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gate electrode",
+      "Meanings": [
+        "الکترود دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gate signal",
+      "Meanings": [
+        "سیگنال دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gate supply",
+      "Meanings": [
+        "منبع دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gate voltage",
+      "Meanings": [
+        "ولتاژ دروازه"
+      ]
+    },
+    {
+      "EnglishWord": "gauss",
+      "Meanings": [
+        "گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "gauss law",
+      "Meanings": [
+        "قانون گاوس"
+      ]
+    },
+    {
+      "EnglishWord": "general lighting",
+      "Meanings": [
+        "روشنایی عمومی"
+      ]
+    },
+    {
+      "EnglishWord": "generate",
+      "Meanings": [
+        "تولید کردن الکتریسیته"
+      ]
+    },
+    {
+      "EnglishWord": "generated-voltage",
+      "Meanings": [
+        "ولتاژ تولید شده"
+      ]
+    },
+    {
+      "EnglishWord": "generating plant",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "generation",
+      "Meanings": [
+        "تولید"
+      ]
+    },
+    {
+      "EnglishWord": "generation of carriers",
+      "Meanings": [
+        "تولید حاملها"
+      ]
+    },
+    {
+      "EnglishWord": "generation of heat",
+      "Meanings": [
+        "تولید گرما"
+      ]
+    },
+    {
+      "EnglishWord": "generator",
+      "Meanings": [
+        "مولد برق"
+      ]
+    },
+    {
+      "EnglishWord": "generator circuit",
+      "Meanings": [
+        "مدار مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator connections",
+      "Meanings": [
+        "اتصالات مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator efficiency",
+      "Meanings": [
+        "بازده مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator of sound",
+      "Meanings": [
+        "مولد صوت"
+      ]
+    },
+    {
+      "EnglishWord": "generator output",
+      "Meanings": [
+        "برونداد مولد خروجی مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator protection",
+      "Meanings": [
+        "حفاظت مولد"
+      ]
+    },
+    {
+      "EnglishWord": "generator rating",
+      "Meanings": [
+        "قدرت مولد برق"
+      ]
+    },
+    {
+      "EnglishWord": "generator transformer",
+      "Meanings": [
+        "ولتگردان نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "generator winding",
+      "Meanings": [
+        "سیم پیچی ژنراتور"
+      ]
+    },
+    {
+      "EnglishWord": "generator  synchronizing",
+      "Meanings": [
+        "سنکرون کردن ژنراتور"
+      ]
+    },
+    {
+      "EnglishWord": "geometry projection",
+      "Meanings": [
+        "روش تصویر هندسی"
+      ]
+    },
+    {
+      "EnglishWord": "germanium",
+      "Meanings": [
+        "ژرمانیوم"
+      ]
+    },
+    {
+      "EnglishWord": "germanium diode",
+      "Meanings": [
+        "دیود ژرمانیومی"
+      ]
+    },
+    {
+      "EnglishWord": "germanium oxide",
+      "Meanings": [
+        "اکسید ژرمانیوم"
+      ]
+    },
+    {
+      "EnglishWord": "germanium rectifier",
+      "Meanings": [
+        "همسوساز ژرمانیومی"
+      ]
+    },
+    {
+      "EnglishWord": "giga-cycles per second",
+      "Meanings": [
+        "گیگا  چرخه در ثانیه"
+      ]
+    },
+    {
+      "EnglishWord": "given in",
+      "Meanings": [
+        "ضمیمه شده، افزوده"
+      ]
+    },
+    {
+      "EnglishWord": "glass",
+      "Meanings": [
+        "شیشه"
+      ]
+    },
+    {
+      "EnglishWord": "glass bulb",
+      "Meanings": [
+        "حباب شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glass envelope",
+      "Meanings": [
+        "حباب شیشه ای"
+      ]
+    },
+    {
+      "EnglishWord": "glow",
+      "Meanings": [
+        "ملتهب"
+      ]
+    },
+    {
+      "EnglishWord": "glow cathode",
+      "Meanings": [
+        "کاتد ملتهب"
+      ]
+    },
+    {
+      "EnglishWord": "glow lamp",
+      "Meanings": [
+        "افروزه رشته ای روشن"
+      ]
+    },
+    {
+      "EnglishWord": "good conductor",
+      "Meanings": [
+        "هادی خوب"
+      ]
+    },
+    {
+      "EnglishWord": "governor",
+      "Meanings": [
+        "تنظیم کننده"
+      ]
+    },
+    {
+      "EnglishWord": "gradation",
+      "Meanings": [
+        "درجه بندی"
+      ]
+    },
+    {
+      "EnglishWord": "grade",
+      "Meanings": [
+        "درجه"
+      ]
+    },
+    {
+      "EnglishWord": "graetz rectifier",
+      "Meanings": [
+        "همسوساز گرتس"
+      ]
+    },
+    {
+      "EnglishWord": "grain",
+      "Meanings": [
+        "دانه"
+      ]
+    },
+    {
+      "EnglishWord": "grain structure",
+      "Meanings": [
+        "ساختار دانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "graph",
+      "Meanings": [
+        "نمایش ترسیمی"
+      ]
+    },
+    {
+      "EnglishWord": "grapher",
+      "Meanings": [
+        "رسام ، نگارنده"
+      ]
+    },
+    {
+      "EnglishWord": "graphite",
+      "Meanings": [
+        "گرافیت"
+      ]
+    },
+    {
+      "EnglishWord": "gravity",
+      "Meanings": [
+        "ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "gravity acceleration",
+      "Meanings": [
+        "شتاب ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "gray code",
+      "Meanings": [
+        "رمز گری"
+      ]
+    },
+    {
+      "EnglishWord": "greinacher circuit",
+      "Meanings": [
+        "مدار گرایناخر"
+      ]
+    },
+    {
+      "EnglishWord": "grid",
+      "Meanings": [
+        "شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "ground",
+      "Meanings": [
+        "زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ground acceleration",
+      "Meanings": [
+        "شتاب زمین"
+      ]
+    },
+    {
+      "EnglishWord": "ground- monitoring",
+      "Meanings": [
+        "نظاره گر زمین"
+      ]
+    },
+    {
+      "EnglishWord": "grounded field",
+      "Meanings": [
+        "سیم پیچ متصل به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "grounded neutral",
+      "Meanings": [
+        "سیم میانی زمین"
+      ]
+    },
+    {
+      "EnglishWord": "grounding",
+      "Meanings": [
+        "زمین کردن"
+      ]
+    },
+    {
+      "EnglishWord": "grounding switches",
+      "Meanings": [
+        "کلیدهای اتصال زمین"
+      ]
+    },
+    {
+      "EnglishWord": "group",
+      "Meanings": [
+        "گروه ، دسته"
+      ]
+    },
+    {
+      "EnglishWord": "group velocity",
+      "Meanings": [
+        "سرعت گروه"
+      ]
+    },
+    {
+      "EnglishWord": "guard",
+      "Meanings": [
+        "محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guard circuit",
+      "Meanings": [
+        "مدار محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guard electrode",
+      "Meanings": [
+        "الکترود محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guard resistor",
+      "Meanings": [
+        "مقاومت محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guard ring",
+      "Meanings": [
+        "حلقه محافظتی"
+      ]
+    },
+    {
+      "EnglishWord": "guard shield",
+      "Meanings": [
+        "سپر محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guard wire",
+      "Meanings": [
+        "سیم محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "guided modes",
+      "Meanings": [
+        "مدهای هدایت شده"
+      ]
+    },
+    {
+      "EnglishWord": "guided polaritons",
+      "Meanings": [
+        "پلاریتون‌های هدایتی"
+      ]
+    },
+    {
+      "EnglishWord": "gyro rotor",
+      "Meanings": [
+        "چرخ دوار قطبنمای الکتریکی"
+      ]
+    }
+  ]
+}

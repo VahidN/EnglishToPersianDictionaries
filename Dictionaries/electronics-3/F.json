@@ -1,0 +1,1571 @@
+﻿{
+  "Group": "F",
+  "Entries": 260,
+  "Words": [
+    {
+      "EnglishWord": "fabricate",
+      "Meanings": [
+        "ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication",
+      "Meanings": [
+        "ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication cost",
+      "Meanings": [
+        "ارزش ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication procedure",
+      "Meanings": [
+        "روش ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication technique",
+      "Meanings": [
+        "فن ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "fabrication technology",
+      "Meanings": [
+        "تکنولوژی ساخت"
+      ]
+    },
+    {
+      "EnglishWord": "factor",
+      "Meanings": [
+        "ضریب"
+      ]
+    },
+    {
+      "EnglishWord": "factor of assurance",
+      "Meanings": [
+        "ضریب اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "factor of induction",
+      "Meanings": [
+        "ضریب القاء"
+      ]
+    },
+    {
+      "EnglishWord": "factor of inertia",
+      "Meanings": [
+        "ضریب لختی"
+      ]
+    },
+    {
+      "EnglishWord": "factor of probability",
+      "Meanings": [
+        "ضریب احتمال"
+      ]
+    },
+    {
+      "EnglishWord": "factor of quality",
+      "Meanings": [
+        "ضریب کیفیت"
+      ]
+    },
+    {
+      "EnglishWord": "factor of safety",
+      "Meanings": [
+        "ضریب اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "fahrenheit",
+      "Meanings": [
+        "فارنهایت"
+      ]
+    },
+    {
+      "EnglishWord": "fan motor",
+      "Meanings": [
+        "موتور بادبزن"
+      ]
+    },
+    {
+      "EnglishWord": "far field radiation",
+      "Meanings": [
+        "تابش میدان در فاصله دور"
+      ]
+    },
+    {
+      "EnglishWord": "farad",
+      "Meanings": [
+        "فاراد"
+      ]
+    },
+    {
+      "EnglishWord": "faraday",
+      "Meanings": [
+        "فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday cage",
+      "Meanings": [
+        "قفس فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday constant",
+      "Meanings": [
+        "ثابت فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday cylinder",
+      "Meanings": [
+        "استوانه فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday effect",
+      "Meanings": [
+        "اثر فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday law",
+      "Meanings": [
+        "قانون فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday number",
+      "Meanings": [
+        "ثابت فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday rotation",
+      "Meanings": [
+        "چرخش فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "faraday shield",
+      "Meanings": [
+        "قفس فاراده"
+      ]
+    },
+    {
+      "EnglishWord": "farad-meter",
+      "Meanings": [
+        "ظرفیت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "fast transient test",
+      "Meanings": [
+        "تست سریع حالت گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "fault",
+      "Meanings": [
+        "خطا ، عیب"
+      ]
+    },
+    {
+      "EnglishWord": "fault current",
+      "Meanings": [
+        "جریان خطا"
+      ]
+    },
+    {
+      "EnglishWord": "fault detector",
+      "Meanings": [
+        "آشکار ساز خطا"
+      ]
+    },
+    {
+      "EnglishWord": "fault finding",
+      "Meanings": [
+        "عیب یابی"
+      ]
+    },
+    {
+      "EnglishWord": "fault impedance",
+      "Meanings": [
+        "امپدانس خط"
+      ]
+    },
+    {
+      "EnglishWord": "fault location",
+      "Meanings": [
+        "محل خطا"
+      ]
+    },
+    {
+      "EnglishWord": "fault power",
+      "Meanings": [
+        "توان اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "fault voltage",
+      "Meanings": [
+        "ولتاژ خطا"
+      ]
+    },
+    {
+      "EnglishWord": "faultless",
+      "Meanings": [
+        "بی عیب"
+      ]
+    },
+    {
+      "EnglishWord": "feed",
+      "Meanings": [
+        "تغذیه تغذیه کردن"
+      ]
+    },
+    {
+      "EnglishWord": "feed pipe",
+      "Meanings": [
+        "لوله تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed point",
+      "Meanings": [
+        "نقطه تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed pump",
+      "Meanings": [
+        "پمپ تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed system",
+      "Meanings": [
+        "سیستم تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feed wire",
+      "Meanings": [
+        "سیم تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feedback",
+      "Meanings": [
+        "پسخوراند پسخوراندن"
+      ]
+    },
+    {
+      "EnglishWord": "feeder",
+      "Meanings": [
+        "خط تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeder cable",
+      "Meanings": [
+        "کابل تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeder line",
+      "Meanings": [
+        "خط تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeding",
+      "Meanings": [
+        "تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeding bridge",
+      "Meanings": [
+        "پل تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeding current",
+      "Meanings": [
+        "جریان تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeding loss",
+      "Meanings": [
+        "تلف تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "feeding point",
+      "Meanings": [
+        "نقطه تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "fermi energy",
+      "Meanings": [
+        "انرژی فرمی"
+      ]
+    },
+    {
+      "EnglishWord": "fermi function",
+      "Meanings": [
+        "تابع فرمی"
+      ]
+    },
+    {
+      "EnglishWord": "fermi integral",
+      "Meanings": [
+        "انتگرال فرمی"
+      ]
+    },
+    {
+      "EnglishWord": "fermi level",
+      "Meanings": [
+        "سطح فرمی"
+      ]
+    },
+    {
+      "EnglishWord": "ferranti effect",
+      "Meanings": [
+        "اثر فرانتی"
+      ]
+    },
+    {
+      "EnglishWord": "ferraris motor",
+      "Meanings": [
+        "موتور فراری"
+      ]
+    },
+    {
+      "EnglishWord": "ferrite",
+      "Meanings": [
+        "فریت"
+      ]
+    },
+    {
+      "EnglishWord": "ferrite aerial",
+      "Meanings": [
+        "آنتن فریت"
+      ]
+    },
+    {
+      "EnglishWord": "ferrite core",
+      "Meanings": [
+        "هسته فریت"
+      ]
+    },
+    {
+      "EnglishWord": "ferroelectricity",
+      "Meanings": [
+        "فروالکتریسیته"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic",
+      "Meanings": [
+        "فرومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic circuit",
+      "Meanings": [
+        "مدار فرومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "ferromagnetic material",
+      "Meanings": [
+        "ماده فرومغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "ferro-resonance",
+      "Meanings": [
+        "فرو رزونانس"
+      ]
+    },
+    {
+      "EnglishWord": "fidelity",
+      "Meanings": [
+        "وفاداری ، دقت"
+      ]
+    },
+    {
+      "EnglishWord": "field",
+      "Meanings": [
+        "میدان ، حوزه"
+      ]
+    },
+    {
+      "EnglishWord": "field acceleration",
+      "Meanings": [
+        "شتاب میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field angle",
+      "Meanings": [
+        "زاویه میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field density",
+      "Meanings": [
+        "چگالی میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field direction",
+      "Meanings": [
+        "جهت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field discharge",
+      "Meanings": [
+        "تخلیه میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field displacement",
+      "Meanings": [
+        "جابجایی میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field distortion",
+      "Meanings": [
+        "چولگی اعوجاج میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field effect",
+      "Meanings": [
+        "اثر میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field effect transistor",
+      "Meanings": [
+        "ترانزیستور با اثر میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field emission",
+      "Meanings": [
+        "گسیل میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field equation",
+      "Meanings": [
+        "معادله میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field excitation",
+      "Meanings": [
+        "تحریک میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field experience",
+      "Meanings": [
+        "دست آزمایی"
+      ]
+    },
+    {
+      "EnglishWord": "field free",
+      "Meanings": [
+        "بی میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field frequency",
+      "Meanings": [
+        "بسامد تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "field ground protection",
+      "Meanings": [
+        "حفاظت زمین شدن میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field inhomogeneity",
+      "Meanings": [
+        "ناهمگنی میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field intensity",
+      "Meanings": [
+        "شدت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field line",
+      "Meanings": [
+        "خط میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field magnet",
+      "Meanings": [
+        "آهنربای میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field of application",
+      "Meanings": [
+        "حوزه میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field of force",
+      "Meanings": [
+        "میدان نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "field of use",
+      "Meanings": [
+        "حیطه کاربر"
+      ]
+    },
+    {
+      "EnglishWord": "field of view",
+      "Meanings": [
+        "میدان دید"
+      ]
+    },
+    {
+      "EnglishWord": "field operator",
+      "Meanings": [
+        "عملگر میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field plate",
+      "Meanings": [
+        "صفحه میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field pole",
+      "Meanings": [
+        "قطب میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field protection",
+      "Meanings": [
+        "حفاظت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field rheostat",
+      "Meanings": [
+        "ریوستای میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field strength",
+      "Meanings": [
+        "شدت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field theory",
+      "Meanings": [
+        "نگره میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field vector",
+      "Meanings": [
+        "بردار میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field voltage",
+      "Meanings": [
+        "ولتاژ میدان"
+      ]
+    },
+    {
+      "EnglishWord": "field winding",
+      "Meanings": [
+        "سیم پیچی میدان، سیم پیچ اهنربایی"
+      ]
+    },
+    {
+      "EnglishWord": "field-current",
+      "Meanings": [
+        "جریان تحریک،  جریان میدان"
+      ]
+    },
+    {
+      "EnglishWord": "figure of merit",
+      "Meanings": [
+        "ضریب شایستگی"
+      ]
+    },
+    {
+      "EnglishWord": "filament",
+      "Meanings": [
+        "رشته"
+      ]
+    },
+    {
+      "EnglishWord": "filament lamp",
+      "Meanings": [
+        "افروزه رشته ای لامپ رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "filament winding",
+      "Meanings": [
+        "سیم پیچی فیلامان، سیم پیچ افروزه"
+      ]
+    },
+    {
+      "EnglishWord": "filling factor / fill factor",
+      "Meanings": [
+        "ضریب تامین"
+      ]
+    },
+    {
+      "EnglishWord": "filter",
+      "Meanings": [
+        "پالایه"
+      ]
+    },
+    {
+      "EnglishWord": "fin",
+      "Meanings": [
+        "فین"
+      ]
+    },
+    {
+      "EnglishWord": "fine",
+      "Meanings": [
+        "دقیق ، ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine adjustment",
+      "Meanings": [
+        "تنظیم دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "fine grid",
+      "Meanings": [
+        "شبکه ریزبافت"
+      ]
+    },
+    {
+      "EnglishWord": "fine structure",
+      "Meanings": [
+        "ساختار ریز"
+      ]
+    },
+    {
+      "EnglishWord": "fine tuning",
+      "Meanings": [
+        "تنظیم دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "fine wire",
+      "Meanings": [
+        "سیم نازک"
+      ]
+    },
+    {
+      "EnglishWord": "finger contact",
+      "Meanings": [
+        "کنتاکت انگشتی"
+      ]
+    },
+    {
+      "EnglishWord": "finite difference",
+      "Meanings": [
+        "تفاضل محدود",
+        "المان محدود"
+      ]
+    },
+    {
+      "EnglishWord": "fire alarm",
+      "Meanings": [
+        "آژیر آتش نشانی"
+      ]
+    },
+    {
+      "EnglishWord": "firing",
+      "Meanings": [
+        "اشتعال ، احتراق ، جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "firing circuit",
+      "Meanings": [
+        "مدار جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "firing potential",
+      "Meanings": [
+        "ولتاژ جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "firing voltage",
+      "Meanings": [
+        "ولتاژ جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "firing wire",
+      "Meanings": [
+        "سیم جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "firm",
+      "Meanings": [
+        "زمین سخت",
+        "ثابت ، پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "first pole to clear factor",
+      "Meanings": [
+        "ضریب قطع اولین قطب"
+      ]
+    },
+    {
+      "EnglishWord": "first principle fdtd simulation",
+      "Meanings": [
+        "شبیهسازی مرتبه اول تفاضل متناهی در حوزه زمان"
+      ]
+    },
+    {
+      "EnglishWord": "first support",
+      "Meanings": [
+        "تکیه گاه اول"
+      ]
+    },
+    {
+      "EnglishWord": "fission",
+      "Meanings": [
+        "شکافت ، انشقاق"
+      ]
+    },
+    {
+      "EnglishWord": "fission energy",
+      "Meanings": [
+        "انرژی شکافت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed",
+      "Meanings": [
+        "پایه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed aerial",
+      "Meanings": [
+        "آنتن ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed charge",
+      "Meanings": [
+        "بار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed contact",
+      "Meanings": [
+        "کنتاکت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed field",
+      "Meanings": [
+        "میدان ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed load",
+      "Meanings": [
+        "بار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed point",
+      "Meanings": [
+        "نقطه ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed resistor",
+      "Meanings": [
+        "مقاومت ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed value",
+      "Meanings": [
+        "مقدار ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "fixed voltage",
+      "Meanings": [
+        "ولتاژ ثابت"
+      ]
+    },
+    {
+      "EnglishWord": "flange",
+      "Meanings": [
+        "لبدیس لبه دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "flashover",
+      "Meanings": [
+        "تخلیه الکتریکی غیر عادی ، صاعقه"
+      ]
+    },
+    {
+      "EnglishWord": "flash-over",
+      "Meanings": [
+        "فروپاشی الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "flexible",
+      "Meanings": [
+        "قابل انعطاف"
+      ]
+    },
+    {
+      "EnglishWord": "flexible equipment",
+      "Meanings": [
+        "تجهیزات انعطاف پذیر"
+      ]
+    },
+    {
+      "EnglishWord": "flicker",
+      "Meanings": [
+        "سوسو"
+      ]
+    },
+    {
+      "EnglishWord": "float",
+      "Meanings": [
+        "شناور"
+      ]
+    },
+    {
+      "EnglishWord": "floating-body effects",
+      "Meanings": [
+        "اثرات بدنه شناور"
+      ]
+    },
+    {
+      "EnglishWord": "flow",
+      "Meanings": [
+        "سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "flow direction",
+      "Meanings": [
+        "جهت سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "flow of current",
+      "Meanings": [
+        "سیلان جریان"
+      ]
+    },
+    {
+      "EnglishWord": "flow of energy",
+      "Meanings": [
+        "سیلان انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "flow of heat",
+      "Meanings": [
+        "سیلان حرارت"
+      ]
+    },
+    {
+      "EnglishWord": "flow of information",
+      "Meanings": [
+        "جریان داده ها"
+      ]
+    },
+    {
+      "EnglishWord": "flow velocity",
+      "Meanings": [
+        "سرعت سیلان"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuation",
+      "Meanings": [
+        "افت و خیز"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuation of amplitude",
+      "Meanings": [
+        "نوسان دامنه"
+      ]
+    },
+    {
+      "EnglishWord": "fluctuation of load",
+      "Meanings": [
+        "تغییر بار"
+      ]
+    },
+    {
+      "EnglishWord": "fluid",
+      "Meanings": [
+        "مایع"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescence",
+      "Meanings": [
+        "فلورسانس"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescent",
+      "Meanings": [
+        "فلورسنت"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescent lamp",
+      "Meanings": [
+        "افروزه فلورسنت لامپ فلورسنت"
+      ]
+    },
+    {
+      "EnglishWord": "fluorescent light",
+      "Meanings": [
+        "نور فلورسنت"
+      ]
+    },
+    {
+      "EnglishWord": "flux",
+      "Meanings": [
+        "شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux density",
+      "Meanings": [
+        "چگالی شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux distribution",
+      "Meanings": [
+        "پخش شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux leakage",
+      "Meanings": [
+        "پراکندگی شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux line",
+      "Meanings": [
+        "خط شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux linkage",
+      "Meanings": [
+        "مدار شار مغناطیسی",
+        "پیوست شار"
+      ]
+    },
+    {
+      "EnglishWord": "flux meter",
+      "Meanings": [
+        "شار سنج"
+      ]
+    },
+    {
+      "EnglishWord": "flux of energy",
+      "Meanings": [
+        "شار انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "flux path",
+      "Meanings": [
+        "مسیر شار"
+      ]
+    },
+    {
+      "EnglishWord": "fm",
+      "Meanings": [
+        "مدگردانی"
+      ]
+    },
+    {
+      "EnglishWord": "focal",
+      "Meanings": [
+        "کانونی"
+      ]
+    },
+    {
+      "EnglishWord": "fock state",
+      "Meanings": [
+        "حالت‌های فوک"
+      ]
+    },
+    {
+      "EnglishWord": "focus",
+      "Meanings": [
+        "کانون"
+      ]
+    },
+    {
+      "EnglishWord": "folding",
+      "Meanings": [
+        "تاخوردگی"
+      ]
+    },
+    {
+      "EnglishWord": "force",
+      "Meanings": [
+        "نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "force balance",
+      "Meanings": [
+        "تعادل نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "force field",
+      "Meanings": [
+        "میدان نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "force of attraction",
+      "Meanings": [
+        "نیروی جاذبه"
+      ]
+    },
+    {
+      "EnglishWord": "force of gravity",
+      "Meanings": [
+        "نیروی ثقل"
+      ]
+    },
+    {
+      "EnglishWord": "force of inertia",
+      "Meanings": [
+        "نیروی لختی"
+      ]
+    },
+    {
+      "EnglishWord": "force potential",
+      "Meanings": [
+        "پتانسیل نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "force vector",
+      "Meanings": [
+        "بردار نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "foreign atom",
+      "Meanings": [
+        "اتم خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "foreign excitation",
+      "Meanings": [
+        "تحریک خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "foreign matter",
+      "Meanings": [
+        "ماده خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "foreign particle",
+      "Meanings": [
+        "ذره خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "foreign substance",
+      "Meanings": [
+        "ماده خارجی"
+      ]
+    },
+    {
+      "EnglishWord": "fork",
+      "Meanings": [
+        "چنگال"
+      ]
+    },
+    {
+      "EnglishWord": "fork connection",
+      "Meanings": [
+        "اتصال چنگالی"
+      ]
+    },
+    {
+      "EnglishWord": "form",
+      "Meanings": [
+        "شکل"
+      ]
+    },
+    {
+      "EnglishWord": "form factor",
+      "Meanings": [
+        "ضریب شکل"
+      ]
+    },
+    {
+      "EnglishWord": "formal solution",
+      "Meanings": [
+        "جواب فرمال"
+      ]
+    },
+    {
+      "EnglishWord": "fortran",
+      "Meanings": [
+        "زبان برنامه نویسی فرترن"
+      ]
+    },
+    {
+      "EnglishWord": "forward  voltage",
+      "Meanings": [
+        "ولتاژ رفت یا مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "forward bias",
+      "Meanings": [
+        "بایاس مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "forward current",
+      "Meanings": [
+        "جریان رفت"
+      ]
+    },
+    {
+      "EnglishWord": "forward direction",
+      "Meanings": [
+        "جهت رفت"
+      ]
+    },
+    {
+      "EnglishWord": "forward wave",
+      "Meanings": [
+        "موج پیشرو، موج مستقیم، موج رفت"
+      ]
+    },
+    {
+      "EnglishWord": "forward-bias",
+      "Meanings": [
+        "گرایش مستقیم"
+      ]
+    },
+    {
+      "EnglishWord": "foucault current",
+      "Meanings": [
+        "جریان فوکو"
+      ]
+    },
+    {
+      "EnglishWord": "foundation",
+      "Meanings": [
+        "شالوده تاسیس"
+      ]
+    },
+    {
+      "EnglishWord": "four layer diode",
+      "Meanings": [
+        "دیود چهار لایه"
+      ]
+    },
+    {
+      "EnglishWord": "four wire",
+      "Meanings": [
+        "چهار سیمه"
+      ]
+    },
+    {
+      "EnglishWord": "four wire cable",
+      "Meanings": [
+        "کابل چهار سیمه"
+      ]
+    },
+    {
+      "EnglishWord": "four wire circuit",
+      "Meanings": [
+        "مدار چهار سیمه"
+      ]
+    },
+    {
+      "EnglishWord": "four wire line",
+      "Meanings": [
+        "خط چهار سیمه"
+      ]
+    },
+    {
+      "EnglishWord": "fractional h.p. motor",
+      "Meanings": [
+        "موتور کوچک، موتور چند اسب"
+      ]
+    },
+    {
+      "EnglishWord": "fracture toughness",
+      "Meanings": [
+        "چقرمگی شکست"
+      ]
+    },
+    {
+      "EnglishWord": "fragility testing",
+      "Meanings": [
+        "تست شکنندی",
+        "تستهای شکنندگی"
+      ]
+    },
+    {
+      "EnglishWord": "frame",
+      "Meanings": [
+        "قاب ، چهار چوب"
+      ]
+    },
+    {
+      "EnglishWord": "frame aerial",
+      "Meanings": [
+        "آنتن چهار گوش"
+      ]
+    },
+    {
+      "EnglishWord": "frame deflection",
+      "Meanings": [
+        "ورتابش تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "frame height",
+      "Meanings": [
+        "بلندای تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "frame size",
+      "Meanings": [
+        "اندازه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "framework",
+      "Meanings": [
+        "بدنه ، ایستانه"
+      ]
+    },
+    {
+      "EnglishWord": "framework yoke",
+      "Meanings": [
+        "یوغ ایستانه"
+      ]
+    },
+    {
+      "EnglishWord": "francis turbine",
+      "Meanings": [
+        "توربین فرانسیس"
+      ]
+    },
+    {
+      "EnglishWord": "free standing",
+      "Meanings": [
+        "برق گیرهای آزاد"
+      ]
+    },
+    {
+      "EnglishWord": "freezing point",
+      "Meanings": [
+        "نقطه انجماد"
+      ]
+    },
+    {
+      "EnglishWord": "frenkel-peierls",
+      "Meanings": [
+        "فرنکل- پیرل"
+      ]
+    },
+    {
+      "EnglishWord": "frequency",
+      "Meanings": [
+        "فرآمد ، بسامد ، فرکانس"
+      ]
+    },
+    {
+      "EnglishWord": "frequency changer",
+      "Meanings": [
+        "هرتسگردان"
+      ]
+    },
+    {
+      "EnglishWord": "frequency converter",
+      "Meanings": [
+        "هرتسگردان"
+      ]
+    },
+    {
+      "EnglishWord": "frequency divider",
+      "Meanings": [
+        "مقسم بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency division",
+      "Meanings": [
+        "تقسیم بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency meter",
+      "Meanings": [
+        "بسامد سنج"
+      ]
+    },
+    {
+      "EnglishWord": "frequency of errors",
+      "Meanings": [
+        "کثرت خطا"
+      ]
+    },
+    {
+      "EnglishWord": "frequency of resonance",
+      "Meanings": [
+        "بسامد همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "frequency range",
+      "Meanings": [
+        "گستره بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency response",
+      "Meanings": [
+        "پاسح بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency spectrum",
+      "Meanings": [
+        "طیف بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency stability",
+      "Meanings": [
+        "پایداری بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frequency stabilization",
+      "Meanings": [
+        "پایدار سازی بسامد"
+      ]
+    },
+    {
+      "EnglishWord": "frictional",
+      "Meanings": [
+        "مالشی ، اصطکاکی"
+      ]
+    },
+    {
+      "EnglishWord": "frictional electricity",
+      "Meanings": [
+        "الکتریسیته مالشی"
+      ]
+    },
+    {
+      "EnglishWord": "frictional force",
+      "Meanings": [
+        "نیروی اصطکاک"
+      ]
+    },
+    {
+      "EnglishWord": "full adder",
+      "Meanings": [
+        "کاملا جمعکننده"
+      ]
+    },
+    {
+      "EnglishWord": "full automatic",
+      "Meanings": [
+        "تمام خودکار"
+      ]
+    },
+    {
+      "EnglishWord": "full electronic",
+      "Meanings": [
+        "تمام الکترونیک"
+      ]
+    },
+    {
+      "EnglishWord": "full load",
+      "Meanings": [
+        "بار کامل، تمام بار",
+        "بار کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full load current",
+      "Meanings": [
+        "جراین در بار کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full load slip",
+      "Meanings": [
+        "لغزش در بار کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full scale",
+      "Meanings": [
+        "مقیاس کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full wave",
+      "Meanings": [
+        "موج کامل"
+      ]
+    },
+    {
+      "EnglishWord": "full width at half maximum",
+      "Meanings": [
+        "پهنا در نیم – بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "fully-depleted",
+      "Meanings": [
+        "کاملا تخلیه شده – تهی شده"
+      ]
+    },
+    {
+      "EnglishWord": "function",
+      "Meanings": [
+        "تابع ، طرز کار"
+      ]
+    },
+    {
+      "EnglishWord": "functional test requirements",
+      "Meanings": [
+        "الزامات تست عملکردی"
+      ]
+    },
+    {
+      "EnglishWord": "fundamental",
+      "Meanings": [
+        "بنیادی"
+      ]
+    },
+    {
+      "EnglishWord": "furnace",
+      "Meanings": [
+        "کوره"
+      ]
+    },
+    {
+      "EnglishWord": "fuse",
+      "Meanings": [
+        "فیوز"
+      ]
+    },
+    {
+      "EnglishWord": "fuse box",
+      "Meanings": [
+        "جعبه فیوز"
+      ]
+    },
+    {
+      "EnglishWord": "fuse cartridge",
+      "Meanings": [
+        "فشنگ فیوز"
+      ]
+    },
+    {
+      "EnglishWord": "fuse clip",
+      "Meanings": [
+        "بست فیوز"
+      ]
+    },
+    {
+      "EnglishWord": "fuse current",
+      "Meanings": [
+        "جریان ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "fuse point",
+      "Meanings": [
+        "نقطه ذوب"
+      ]
+    },
+    {
+      "EnglishWord": "fuse wire",
+      "Meanings": [
+        "سیم فیوز"
+      ]
+    }
+  ]
+}

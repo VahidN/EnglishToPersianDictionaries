@@ -1,0 +1,1494 @@
+﻿{
+  "Group": "S",
+  "Entries": 244,
+  "Words": [
+    {
+      "EnglishWord": "s.c.r",
+      "Meanings": [
+        "همسوساز قابل کنترل"
+      ]
+    },
+    {
+      "EnglishWord": "sacrificial collapse members",
+      "Meanings": [
+        "اعضاء فدا شونده",
+        "عضو فدا شوند"
+      ]
+    },
+    {
+      "EnglishWord": "sacrificial layer",
+      "Meanings": [
+        "لایه فدا شونده"
+      ]
+    },
+    {
+      "EnglishWord": "sag",
+      "Meanings": [
+        "انحنای"
+      ]
+    },
+    {
+      "EnglishWord": "salient",
+      "Meanings": [
+        "برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "salient pole",
+      "Meanings": [
+        "قطب برجسته"
+      ]
+    },
+    {
+      "EnglishWord": "saturation",
+      "Meanings": [
+        "اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saturation current",
+      "Meanings": [
+        "جریان اشباع"
+      ]
+    },
+    {
+      "EnglishWord": "saw tooth shape",
+      "Meanings": [
+        "شکل دنده اره ای"
+      ]
+    },
+    {
+      "EnglishWord": "sc",
+      "Meanings": [
+        "اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "scalar",
+      "Meanings": [
+        "اسکالر ،  کمیت عددی",
+        "کمیت عددی"
+      ]
+    },
+    {
+      "EnglishWord": "scheme",
+      "Meanings": [
+        "طرحواره"
+      ]
+    },
+    {
+      "EnglishWord": "schering bridge",
+      "Meanings": [
+        "پل شرینگ"
+      ]
+    },
+    {
+      "EnglishWord": "schmitt trigger",
+      "Meanings": [
+        "شمیت تریگر"
+      ]
+    },
+    {
+      "EnglishWord": "schrodinger cat states",
+      "Meanings": [
+        "حالت‌های گربه شرودینگر"
+      ]
+    },
+    {
+      "EnglishWord": "screen",
+      "Meanings": [
+        "صفحه تصویر"
+      ]
+    },
+    {
+      "EnglishWord": "seal",
+      "Meanings": [
+        "عایق، آب بند، درز گیر"
+      ]
+    },
+    {
+      "EnglishWord": "second quantization form",
+      "Meanings": [
+        "شکل کوانتش دوم"
+      ]
+    },
+    {
+      "EnglishWord": "secondary winding",
+      "Meanings": [
+        "سیم پیچ خروجی",
+        "سیم پیچ ثانویه، سیم پیچ خروجی",
+        "سیم پیچ ثانویه"
+      ]
+    },
+    {
+      "EnglishWord": "second-order central difference",
+      "Meanings": [
+        "تفاضل مرکزی مرتبه دوم"
+      ]
+    },
+    {
+      "EnglishWord": "segmented compartment",
+      "Meanings": [
+        "طبقه قطاعی"
+      ]
+    },
+    {
+      "EnglishWord": "seismic criteria",
+      "Meanings": [
+        "شاخص لرزه ای"
+      ]
+    },
+    {
+      "EnglishWord": "seismic outline drawing",
+      "Meanings": [
+        "نقشه ارزیابی لرزه ای",
+        "طرح نمای کلی لرزه ای"
+      ]
+    },
+    {
+      "EnglishWord": "self assembled",
+      "Meanings": [
+        "خود رشد یافته"
+      ]
+    },
+    {
+      "EnglishWord": "self winding",
+      "Meanings": [
+        "خود کوک"
+      ]
+    },
+    {
+      "EnglishWord": "self-blast breaker",
+      "Meanings": [
+        "کلید خود - فشرده"
+      ]
+    },
+    {
+      "EnglishWord": "self-inductance",
+      "Meanings": [
+        "خود القایی"
+      ]
+    },
+    {
+      "EnglishWord": "self-winding",
+      "Meanings": [
+        "خود کوک"
+      ]
+    },
+    {
+      "EnglishWord": "semiconductor",
+      "Meanings": [
+        "نیمه رسانا"
+      ]
+    },
+    {
+      "EnglishWord": "sense winding",
+      "Meanings": [
+        "سیم پیچ احساس"
+      ]
+    },
+    {
+      "EnglishWord": "sensing lines",
+      "Meanings": [
+        "خطوط سنجش"
+      ]
+    },
+    {
+      "EnglishWord": "separately-excited",
+      "Meanings": [
+        "تحریک جداگانه"
+      ]
+    },
+    {
+      "EnglishWord": "sequence of event recorders",
+      "Meanings": [
+        "ثباتهای توالی وقایع"
+      ]
+    },
+    {
+      "EnglishWord": "sequence of event recorders  ser",
+      "Meanings": [
+        "ثبت کننده‌های توالی وقایع"
+      ]
+    },
+    {
+      "EnglishWord": "series and shunt compensation",
+      "Meanings": [
+        "تعدیل کننده‌های سری و موازی"
+      ]
+    },
+    {
+      "EnglishWord": "series circuit",
+      "Meanings": [
+        "مدار سری"
+      ]
+    },
+    {
+      "EnglishWord": "series drum winding",
+      "Meanings": [
+        "سیم پیچ اصلی ارمیچر استوانه ای"
+      ]
+    },
+    {
+      "EnglishWord": "series machines",
+      "Meanings": [
+        "ماشینهای  سری"
+      ]
+    },
+    {
+      "EnglishWord": "series motor",
+      "Meanings": [
+        "موتور سری"
+      ]
+    },
+    {
+      "EnglishWord": "series winding",
+      "Meanings": [
+        "سیم پیچ اصلی"
+      ]
+    },
+    {
+      "EnglishWord": "series-wound motor",
+      "Meanings": [
+        "موتور سری، موتور با پیچک سری، موتور با سیم پیچ زنجیری"
+      ]
+    },
+    {
+      "EnglishWord": "servo-motor",
+      "Meanings": [
+        "سروو - موتور"
+      ]
+    },
+    {
+      "EnglishWord": "set-up",
+      "Meanings": [
+        "نصب کردن، ساختن"
+      ]
+    },
+    {
+      "EnglishWord": "shaded pole motor",
+      "Meanings": [
+        "موتور با قطب سایه دار"
+      ]
+    },
+    {
+      "EnglishWord": "shaft",
+      "Meanings": [
+        "میله",
+        "محور انتقال نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "shaft   driven",
+      "Meanings": [
+        "متصل به محور"
+      ]
+    },
+    {
+      "EnglishWord": "shake table",
+      "Meanings": [
+        "میز لرزان دستگاهی برای شناخت رفتار دینامیکی سازه ها"
+      ]
+    },
+    {
+      "EnglishWord": "shallow-trench-isolation",
+      "Meanings": [
+        "ایزولاسیون گودال- کم عمق"
+      ]
+    },
+    {
+      "EnglishWord": "sheath-sheds",
+      "Meanings": [
+        "غلاف ها"
+      ]
+    },
+    {
+      "EnglishWord": "shed",
+      "Meanings": [
+        "بدنه مقره"
+      ]
+    },
+    {
+      "EnglishWord": "shed seal test",
+      "Meanings": [
+        "تست عدم نفوذ پذیری بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "sheds",
+      "Meanings": [
+        "پره‌های غلاف"
+      ]
+    },
+    {
+      "EnglishWord": "sheet resistance",
+      "Meanings": [
+        "مقاومت لایه‌ای",
+        "مقاومت صفحه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "shift-width function",
+      "Meanings": [
+        "تابع جابجایی - پهنا"
+      ]
+    },
+    {
+      "EnglishWord": "shim",
+      "Meanings": [
+        "لایی نازک"
+      ]
+    },
+    {
+      "EnglishWord": "short",
+      "Meanings": [
+        "کوتاه ، اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short circuit",
+      "Meanings": [
+        "اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short circuit capacity",
+      "Meanings": [
+        "ظرفیت اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short circuit load",
+      "Meanings": [
+        "بار ناشی از اتصالات کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short circuit test",
+      "Meanings": [
+        "آزمایش اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short-channel effects",
+      "Meanings": [
+        "اثرات کانال- کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short-circuit",
+      "Meanings": [
+        "اتصال کوتاه، مدار کوتاه",
+        "اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short-circuit forces",
+      "Meanings": [
+        "بارهای اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "short-line fault",
+      "Meanings": [
+        "خطای خط- اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "shrink fitting",
+      "Meanings": [
+        "اتصال انقباضی"
+      ]
+    },
+    {
+      "EnglishWord": "shunt",
+      "Meanings": [
+        "موازی، شنت",
+        "موازی فرعی ، موازی ، شنت",
+        "موازی"
+      ]
+    },
+    {
+      "EnglishWord": "shunt machines",
+      "Meanings": [
+        "ماشینهای موازی یا شنت"
+      ]
+    },
+    {
+      "EnglishWord": "shunt winding",
+      "Meanings": [
+        "سیم پیچ ،مغناطیسی انحرافی",
+        "سیم پیچ ،مغناطیسی انحرافی، سیم پیچ فرعی"
+      ]
+    },
+    {
+      "EnglishWord": "shunted",
+      "Meanings": [
+        "با اتصال موازی"
+      ]
+    },
+    {
+      "EnglishWord": "shunt-wound motor",
+      "Meanings": [
+        "موتور شنت، موتور با سیم پیچ شنتی"
+      ]
+    },
+    {
+      "EnglishWord": "sidewall",
+      "Meanings": [
+        "حایل"
+      ]
+    },
+    {
+      "EnglishWord": "silicon-on-insulator  soi",
+      "Meanings": [
+        "سیلیکون بر عایق"
+      ]
+    },
+    {
+      "EnglishWord": "simple-bump test",
+      "Meanings": [
+        "تست ضربه ساده"
+      ]
+    },
+    {
+      "EnglishWord": "simplex winding",
+      "Meanings": [
+        "سیم پیچ ساده"
+      ]
+    },
+    {
+      "EnglishWord": "sinc",
+      "Meanings": [
+        "سینک"
+      ]
+    },
+    {
+      "EnglishWord": "sine beat",
+      "Meanings": [
+        "تپش سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "single conductor",
+      "Meanings": [
+        "سیم تک رشته‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "single degree of freedom",
+      "Meanings": [
+        "سیستم یک درجه آزادی"
+      ]
+    },
+    {
+      "EnglishWord": "single line to ground fault",
+      "Meanings": [
+        "اتصال کوتاه یک خط به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "single phase",
+      "Meanings": [
+        "تکفاز"
+      ]
+    },
+    {
+      "EnglishWord": "single phase asynchronous motor",
+      "Meanings": [
+        "موتورآسنکرون تکفاز"
+      ]
+    },
+    {
+      "EnglishWord": "single phase induction motor",
+      "Meanings": [
+        "موتور القایی یک فازه، موتور اندوکسیونی یک فازه",
+        "موتور القایی تکفاز"
+      ]
+    },
+    {
+      "EnglishWord": "single phase motor",
+      "Meanings": [
+        "موتور تکفاز"
+      ]
+    },
+    {
+      "EnglishWord": "single phase to ground fault",
+      "Meanings": [
+        "اتصال کوتاه یک فاز به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "single phase transformer",
+      "Meanings": [
+        "ترانسفورماتور تکفاز"
+      ]
+    },
+    {
+      "EnglishWord": "single phase winding",
+      "Meanings": [
+        "سیم پیچی یک فازه"
+      ]
+    },
+    {
+      "EnglishWord": "single sine frequency",
+      "Meanings": [
+        "موج سینوسی تک فرکانس"
+      ]
+    },
+    {
+      "EnglishWord": "single-column cantilever composite insulators",
+      "Meanings": [
+        "تست بارگذاری یوشینگ و مقره‌های تک ستونه طره ای",
+        "یوشینگ و مقره‌های تک ستونه طره ای"
+      ]
+    },
+    {
+      "EnglishWord": "single-conductor cable",
+      "Meanings": [
+        "کابل تک لایی"
+      ]
+    },
+    {
+      "EnglishWord": "single-phase motor",
+      "Meanings": [
+        "موتور تک فاز"
+      ]
+    },
+    {
+      "EnglishWord": "singly re-entrant winding",
+      "Meanings": [
+        "سیم پیچ تک بازگرد"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal",
+      "Meanings": [
+        "سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal current",
+      "Meanings": [
+        "جریان سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal quantity",
+      "Meanings": [
+        "کمیت سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "sinusoidal wave",
+      "Meanings": [
+        "موج سینوسی"
+      ]
+    },
+    {
+      "EnglishWord": "skin effect",
+      "Meanings": [
+        "اثر پوسته"
+      ]
+    },
+    {
+      "EnglishWord": "slab",
+      "Meanings": [
+        "تیغه"
+      ]
+    },
+    {
+      "EnglishWord": "slater determinant",
+      "Meanings": [
+        "دترمینان اسلیتر"
+      ]
+    },
+    {
+      "EnglishWord": "slave",
+      "Meanings": [
+        "رایانه پیرو"
+      ]
+    },
+    {
+      "EnglishWord": "slip ring induction motor",
+      "Meanings": [
+        "موتور القایی اسلیپ رینگ، موتور اندوکسیونی اسلیپ رینگ موتور رتور اسلیپ رینگ"
+      ]
+    },
+    {
+      "EnglishWord": "slip ring motor",
+      "Meanings": [
+        "موتور القایی با حلقه لغزان"
+      ]
+    },
+    {
+      "EnglishWord": "slope",
+      "Meanings": [
+        "شیب"
+      ]
+    },
+    {
+      "EnglishWord": "slowly varying envelop approximation",
+      "Meanings": [
+        "تقریب پوش با تغییرات اندک"
+      ]
+    },
+    {
+      "EnglishWord": "small junction leakage current",
+      "Meanings": [
+        "جریان نشتی پیوند کم"
+      ]
+    },
+    {
+      "EnglishWord": "snapback test",
+      "Meanings": [
+        "تست ناگهانی بار"
+      ]
+    },
+    {
+      "EnglishWord": "snap-back test",
+      "Meanings": [
+        "تست رها سازی"
+      ]
+    },
+    {
+      "EnglishWord": "snapback tests",
+      "Meanings": [
+        "تست حذف ناگهانی بار"
+      ]
+    },
+    {
+      "EnglishWord": "snell s law",
+      "Meanings": [
+        "قانون اسنل"
+      ]
+    },
+    {
+      "EnglishWord": "sniff test",
+      "Meanings": [
+        "تستهای مکش"
+      ]
+    },
+    {
+      "EnglishWord": "soil-structure interaction  ssi",
+      "Meanings": [
+        "اندرکنش خاک و سازه"
+      ]
+    },
+    {
+      "EnglishWord": "solenoid",
+      "Meanings": [
+        "سیم لوله"
+      ]
+    },
+    {
+      "EnglishWord": "solid core",
+      "Meanings": [
+        "هسته توپر"
+      ]
+    },
+    {
+      "EnglishWord": "solid element",
+      "Meanings": [
+        "سه بعدی"
+      ]
+    },
+    {
+      "EnglishWord": "solonoid-activated brushless",
+      "Meanings": [
+        "جاروبکهای فعال شوند با سولونویید"
+      ]
+    },
+    {
+      "EnglishWord": "source",
+      "Meanings": [
+        "سورس"
+      ]
+    },
+    {
+      "EnglishWord": "space",
+      "Meanings": [
+        "فضا ، اسپاش"
+      ]
+    },
+    {
+      "EnglishWord": "spacer",
+      "Meanings": [
+        "جدا کننده ها",
+        "جداگر"
+      ]
+    },
+    {
+      "EnglishWord": "spark gap",
+      "Meanings": [
+        "دهانه جرقه"
+      ]
+    },
+    {
+      "EnglishWord": "spatial derivatives of the slowly varying envelop",
+      "Meanings": [
+        "مشتقات مکانی پوش با تغییرات ملایم"
+      ]
+    },
+    {
+      "EnglishWord": "specified mechanical load  sml",
+      "Meanings": [
+        "بار مشخصه مکانیکی"
+      ]
+    },
+    {
+      "EnglishWord": "spectral matching",
+      "Meanings": [
+        "هماهنگ سازی طیف ها"
+      ]
+    },
+    {
+      "EnglishWord": "speed regulation",
+      "Meanings": [
+        "تنظیم سرعت"
+      ]
+    },
+    {
+      "EnglishWord": "spherical harmonic",
+      "Meanings": [
+        "هماهنگ‌های کروی"
+      ]
+    },
+    {
+      "EnglishWord": "spin orbit coupling",
+      "Meanings": [
+        "تزویج اسپین"
+      ]
+    },
+    {
+      "EnglishWord": "split phase motor",
+      "Meanings": [
+        "موتور با انشقاق فاز"
+      ]
+    },
+    {
+      "EnglishWord": "split-pole motor",
+      "Meanings": [
+        "موتور کمکی، موتور با قطب چاکدار"
+      ]
+    },
+    {
+      "EnglishWord": "splitting energy",
+      "Meanings": [
+        "انرژی شکاف"
+      ]
+    },
+    {
+      "EnglishWord": "spontaneous emission",
+      "Meanings": [
+        "گسیل خوبخودی"
+      ]
+    },
+    {
+      "EnglishWord": "spurious states",
+      "Meanings": [
+        "حالتهای بدلی"
+      ]
+    },
+    {
+      "EnglishWord": "squirrel",
+      "Meanings": [
+        "قفس سنجابی"
+      ]
+    },
+    {
+      "EnglishWord": "squirrel cage motor",
+      "Meanings": [
+        "موتور قفسی"
+      ]
+    },
+    {
+      "EnglishWord": "squirrel cage rotor",
+      "Meanings": [
+        "رتور قفس سنجابی"
+      ]
+    },
+    {
+      "EnglishWord": "stability",
+      "Meanings": [
+        "پایداری ، ثبات"
+      ]
+    },
+    {
+      "EnglishWord": "stabilization",
+      "Meanings": [
+        "پایدارسازی"
+      ]
+    },
+    {
+      "EnglishWord": "stable",
+      "Meanings": [
+        "پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stable state",
+      "Meanings": [
+        "حالت پایدار"
+      ]
+    },
+    {
+      "EnglishWord": "stacked reactors",
+      "Meanings": [
+        "رآکتورهای سوار شده"
+      ]
+    },
+    {
+      "EnglishWord": "stainless",
+      "Meanings": [
+        "نافرساوند ، رنگ ناپذیر ، ضد زنگ"
+      ]
+    },
+    {
+      "EnglishWord": "stall",
+      "Meanings": [
+        "سکون"
+      ]
+    },
+    {
+      "EnglishWord": "standard",
+      "Meanings": [
+        "استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard motor",
+      "Meanings": [
+        "موتور معمولی، موتور استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standard production test",
+      "Meanings": [
+        "تستهای تولید استاندارد"
+      ]
+    },
+    {
+      "EnglishWord": "standing wave",
+      "Meanings": [
+        "موج ایستاده"
+      ]
+    },
+    {
+      "EnglishWord": "starter",
+      "Meanings": [
+        "راه انداز",
+        "استاتور، راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "starter motor armature",
+      "Meanings": [
+        "ارمیچر راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "starting",
+      "Meanings": [
+        "راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "starting motor",
+      "Meanings": [
+        "موتور راه اندازی، موتور استارت"
+      ]
+    },
+    {
+      "EnglishWord": "starting torque",
+      "Meanings": [
+        "گشتاور راه انداز"
+      ]
+    },
+    {
+      "EnglishWord": "starting winding",
+      "Meanings": [
+        "سیم پیچی راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "starting-current",
+      "Meanings": [
+        "جریان راه اندازی"
+      ]
+    },
+    {
+      "EnglishWord": "state equation",
+      "Meanings": [
+        "معادله حالت"
+      ]
+    },
+    {
+      "EnglishWord": "static analysis",
+      "Meanings": [
+        "آنالیز استاتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "static coefficient analysis",
+      "Meanings": [
+        "تحلیل ضریب استاتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "static coeffitient analysis",
+      "Meanings": [
+        "آنالیز ضریب استاتیکی"
+      ]
+    },
+    {
+      "EnglishWord": "static exciter",
+      "Meanings": [
+        "تحریک استاتیک"
+      ]
+    },
+    {
+      "EnglishWord": "statics",
+      "Meanings": [
+        "ایستاییک"
+      ]
+    },
+    {
+      "EnglishWord": "station batteries",
+      "Meanings": [
+        "باتری‌های پست"
+      ]
+    },
+    {
+      "EnglishWord": "station batteries and battery racks",
+      "Meanings": [
+        "باتریها و دستگاه‌های نگهدارنده آنها"
+      ]
+    },
+    {
+      "EnglishWord": "stationary",
+      "Meanings": [
+        "ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "stator",
+      "Meanings": [
+        "ایستانه",
+        "استاتور، قسمت ثابت ماشین یامولد، تاخیر کن، مقیم، قسمت ساکن موتور یا ژنراتور، پوسته، جزء ثابت در هر ماشین گردنده"
+      ]
+    },
+    {
+      "EnglishWord": "stator blade",
+      "Meanings": [
+        "تیغه استاتور"
+      ]
+    },
+    {
+      "EnglishWord": "stator ground protection",
+      "Meanings": [
+        "حفاظت عیب زمین در استاتور"
+      ]
+    },
+    {
+      "EnglishWord": "stator overcurrent protection",
+      "Meanings": [
+        "حفاظت جریان زیاد استاتور"
+      ]
+    },
+    {
+      "EnglishWord": "steam",
+      "Meanings": [
+        "بخار ، بخار آب"
+      ]
+    },
+    {
+      "EnglishWord": "steam plant",
+      "Meanings": [
+        "نیروگاه بخار"
+      ]
+    },
+    {
+      "EnglishWord": "steam trap",
+      "Meanings": [
+        "تله بخار"
+      ]
+    },
+    {
+      "EnglishWord": "steam turbine",
+      "Meanings": [
+        "توربین بخار"
+      ]
+    },
+    {
+      "EnglishWord": "steep",
+      "Meanings": [
+        "آغشتن - شیب"
+      ]
+    },
+    {
+      "EnglishWord": "stem winding",
+      "Meanings": [
+        "دسته کوک"
+      ]
+    },
+    {
+      "EnglishWord": "stem-winding - stem winding",
+      "Meanings": [
+        "دسته کوک"
+      ]
+    },
+    {
+      "EnglishWord": "step down transformer",
+      "Meanings": [
+        "ترانسفورماتور کاهنده"
+      ]
+    },
+    {
+      "EnglishWord": "step up transformer",
+      "Meanings": [
+        "ترانسفورماتور افزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "stepped motor",
+      "Meanings": [
+        "دستگاه مکانیکی که بهنگام پالس دادن به ان مقدار ثابتی می‌چرخد"
+      ]
+    },
+    {
+      "EnglishWord": "step-up transformer",
+      "Meanings": [
+        "ترانسفورماتورافزاینده"
+      ]
+    },
+    {
+      "EnglishWord": "still-hot arc",
+      "Meanings": [
+        "قوس الکتریکی گرم - ساکن"
+      ]
+    },
+    {
+      "EnglishWord": "storage tanks",
+      "Meanings": [
+        "مخازن ذخیره"
+      ]
+    },
+    {
+      "EnglishWord": "strain bolt",
+      "Meanings": [
+        "پیچهای کرنشی"
+      ]
+    },
+    {
+      "EnglishWord": "strain bolts",
+      "Meanings": [
+        "پیچهای کرنشی"
+      ]
+    },
+    {
+      "EnglishWord": "strain bus",
+      "Meanings": [
+        "شینه نرم"
+      ]
+    },
+    {
+      "EnglishWord": "strain engineering",
+      "Meanings": [
+        "مهندسی ارتقای عملکرد ابزاره‌ها در نیمه رساناها"
+      ]
+    },
+    {
+      "EnglishWord": "stranded bare conductor",
+      "Meanings": [
+        "سیم‌های لخت به هم تابیده"
+      ]
+    },
+    {
+      "EnglishWord": "stray capacitance",
+      "Meanings": [
+        "ظرفیت پراکنده"
+      ]
+    },
+    {
+      "EnglishWord": "stray inductance",
+      "Meanings": [
+        "اندوکسیون پراکندگی"
+      ]
+    },
+    {
+      "EnglishWord": "strength",
+      "Meanings": [
+        "مقاومت سازه"
+      ]
+    },
+    {
+      "EnglishWord": "stretching coefficient",
+      "Meanings": [
+        "ضریب کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "strip line",
+      "Meanings": [
+        "استریپ لاین"
+      ]
+    },
+    {
+      "EnglishWord": "strong coupling regime",
+      "Meanings": [
+        "رژیم جفت شدگی قوی"
+      ]
+    },
+    {
+      "EnglishWord": "strong motion",
+      "Meanings": [
+        "لرزه قوی"
+      ]
+    },
+    {
+      "EnglishWord": "strong part ratio",
+      "Meanings": [
+        "بخش قوی تحریک"
+      ]
+    },
+    {
+      "EnglishWord": "structural capacity",
+      "Meanings": [
+        "ظرفیت سازه ای"
+      ]
+    },
+    {
+      "EnglishWord": "submicron",
+      "Meanings": [
+        "زیرمیکرونی"
+      ]
+    },
+    {
+      "EnglishWord": "substation",
+      "Meanings": [
+        "پست انتقال نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "substrate",
+      "Meanings": [
+        "بستر"
+      ]
+    },
+    {
+      "EnglishWord": "subtransient internal voltage",
+      "Meanings": [
+        "ولتاژ داخلی زیر گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "super conducting",
+      "Meanings": [
+        "ابررسانا"
+      ]
+    },
+    {
+      "EnglishWord": "super conduction",
+      "Meanings": [
+        "ابررسانش"
+      ]
+    },
+    {
+      "EnglishWord": "super conductivity",
+      "Meanings": [
+        "ابررسانایی"
+      ]
+    },
+    {
+      "EnglishWord": "super conductor",
+      "Meanings": [
+        "ابررسانا"
+      ]
+    },
+    {
+      "EnglishWord": "super load",
+      "Meanings": [
+        "اضافه بار"
+      ]
+    },
+    {
+      "EnglishWord": "supply circuit",
+      "Meanings": [
+        "مدار تغذیه شبکه تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "support points",
+      "Meanings": [
+        "نقاط تکیه گاهی",
+        "نقاط تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "surge",
+      "Meanings": [
+        "ضربه ولتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "surge  arrester",
+      "Meanings": [
+        "برقگیر"
+      ]
+    },
+    {
+      "EnglishWord": "surge arresters",
+      "Meanings": [
+        "برق گیرها"
+      ]
+    },
+    {
+      "EnglishWord": "surge current",
+      "Meanings": [
+        "جریان ضربه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "susceptance",
+      "Meanings": [
+        "ساسپتانس"
+      ]
+    },
+    {
+      "EnglishWord": "susceptibility",
+      "Meanings": [
+        "پذیرندگی"
+      ]
+    },
+    {
+      "EnglishWord": "suspended equipment",
+      "Meanings": [
+        "تجهیزات معلق",
+        "تجهیز آویزان"
+      ]
+    },
+    {
+      "EnglishWord": "suspended wave trap",
+      "Meanings": [
+        "تله موج آویز"
+      ]
+    },
+    {
+      "EnglishWord": "suspending thyristor valves",
+      "Meanings": [
+        "شیرهای تریستور تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "suspension system",
+      "Meanings": [
+        "سیستم تعلیق"
+      ]
+    },
+    {
+      "EnglishWord": "swaging or crimping",
+      "Meanings": [
+        "قالب درآوردن یا موج دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "swaging or crimpling",
+      "Meanings": [
+        "قالبدار یا موج دار کردن"
+      ]
+    },
+    {
+      "EnglishWord": "swept sine",
+      "Meanings": [
+        "سینوس جاروب کننده"
+      ]
+    },
+    {
+      "EnglishWord": "switch board",
+      "Meanings": [
+        "تابلوهای کلید"
+      ]
+    },
+    {
+      "EnglishWord": "switchboard",
+      "Meanings": [
+        "صفحه کلید"
+      ]
+    },
+    {
+      "EnglishWord": "switchgear",
+      "Meanings": [
+        "سوییچ‌های قدرت",
+        "کلیدافزار، پست سوییچینگ، گشابندگاه"
+      ]
+    },
+    {
+      "EnglishWord": "switching",
+      "Meanings": [
+        "کلید زنی"
+      ]
+    },
+    {
+      "EnglishWord": "switching distance",
+      "Meanings": [
+        "فاصله سوییچینگ"
+      ]
+    },
+    {
+      "EnglishWord": "symbol",
+      "Meanings": [
+        "نماد"
+      ]
+    },
+    {
+      "EnglishWord": "symbolic",
+      "Meanings": [
+        "نمادیک"
+      ]
+    },
+    {
+      "EnglishWord": "symmetric",
+      "Meanings": [
+        "متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical components",
+      "Meanings": [
+        "مولفه‌های متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetrical line",
+      "Meanings": [
+        "خط متقارن"
+      ]
+    },
+    {
+      "EnglishWord": "symmetry",
+      "Meanings": [
+        "تقارن",
+        "تقارنی"
+      ]
+    },
+    {
+      "EnglishWord": "sync",
+      "Meanings": [
+        "همزمانی"
+      ]
+    },
+    {
+      "EnglishWord": "synchronism",
+      "Meanings": [
+        "همزمانی"
+      ]
+    },
+    {
+      "EnglishWord": "synchronization",
+      "Meanings": [
+        "همزمانسازی"
+      ]
+    },
+    {
+      "EnglishWord": "synchronoscope",
+      "Meanings": [
+        "سنکروسکپ"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous",
+      "Meanings": [
+        "همزمان ، سنکرون",
+        "همزمان، سنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous condenser",
+      "Meanings": [
+        "کندانسور سنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous generator",
+      "Meanings": [
+        "مولد سنکرون همزمان",
+        "ژنراتور سنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous induction motor",
+      "Meanings": [
+        "موتور القایی سنکرون همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous machine",
+      "Meanings": [
+        "ماشین سنکرون همزمان"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous motor",
+      "Meanings": [
+        "موتور سنکرون همزمان",
+        "موتور سنکرون، موتور همزمان",
+        "موتور سنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous reactance",
+      "Meanings": [
+        "راکتانس صفر"
+      ]
+    },
+    {
+      "EnglishWord": "synchronous speed",
+      "Meanings": [
+        "سرعت سنکرون"
+      ]
+    },
+    {
+      "EnglishWord": "synchroscope",
+      "Meanings": [
+        "همزمان نما، سنکروسکپ"
+      ]
+    },
+    {
+      "EnglishWord": "synthetic resin",
+      "Meanings": [
+        "صمغ مصنوعی"
+      ]
+    },
+    {
+      "EnglishWord": "syntony",
+      "Meanings": [
+        "همنوایی"
+      ]
+    },
+    {
+      "EnglishWord": "system",
+      "Meanings": [
+        "دستگاه ، شبکه شبکه برق"
+      ]
+    },
+    {
+      "EnglishWord": "system engineer",
+      "Meanings": [
+        "مهندس شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "system engineering",
+      "Meanings": [
+        "مهندسی شبکه"
+      ]
+    },
+    {
+      "EnglishWord": "systematic",
+      "Meanings": [
+        "دستگاه مندانه روش دار"
+      ]
+    }
+  ]
+}

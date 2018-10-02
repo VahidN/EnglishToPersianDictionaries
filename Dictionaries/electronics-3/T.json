@@ -1,0 +1,636 @@
+﻿{
+  "Group": "T",
+  "Entries": 104,
+  "Words": [
+    {
+      "EnglishWord": "tap changer",
+      "Meanings": [
+        "کلید سرگردان",
+        "تب چنجر"
+      ]
+    },
+    {
+      "EnglishWord": "tear strength",
+      "Meanings": [
+        "مقاومت پارگی"
+      ]
+    },
+    {
+      "EnglishWord": "technique",
+      "Meanings": [
+        "روش"
+      ]
+    },
+    {
+      "EnglishWord": "technique of solution",
+      "Meanings": [
+        "روش حل"
+      ]
+    },
+    {
+      "EnglishWord": "technological",
+      "Meanings": [
+        "تشنیک شناختی ، تکنولوژیکی"
+      ]
+    },
+    {
+      "EnglishWord": "technology",
+      "Meanings": [
+        "تشنیک شناسی ، تکنولوژی"
+      ]
+    },
+    {
+      "EnglishWord": "telecommunication equipment",
+      "Meanings": [
+        "تجهیزات مخابراتی"
+      ]
+    },
+    {
+      "EnglishWord": "teleportation",
+      "Meanings": [
+        "تلپورتیشن"
+      ]
+    },
+    {
+      "EnglishWord": "temperature drift",
+      "Meanings": [
+        "پایداری حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "termal effect",
+      "Meanings": [
+        "اثر دمایی"
+      ]
+    },
+    {
+      "EnglishWord": "terminal",
+      "Meanings": [
+        "پایانه"
+      ]
+    },
+    {
+      "EnglishWord": "tesla",
+      "Meanings": [
+        "واحد اندوکسیون مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "test",
+      "Meanings": [
+        "آزمون ، آزمودن"
+      ]
+    },
+    {
+      "EnglishWord": "the metal end fitting",
+      "Meanings": [
+        "اتصالات فلزی انتهایی"
+      ]
+    },
+    {
+      "EnglishWord": "theoretical",
+      "Meanings": [
+        "نگریک ، نظری"
+      ]
+    },
+    {
+      "EnglishWord": "theory",
+      "Meanings": [
+        "نگره ، اصول نظری"
+      ]
+    },
+    {
+      "EnglishWord": "thermal",
+      "Meanings": [
+        "گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermal breakdown",
+      "Meanings": [
+        "فروپاشی گرمایی"
+      ]
+    },
+    {
+      "EnglishWord": "thermionic",
+      "Meanings": [
+        "گرمایونی"
+      ]
+    },
+    {
+      "EnglishWord": "thermionic emission",
+      "Meanings": [
+        "انتشار گرمایونی"
+      ]
+    },
+    {
+      "EnglishWord": "thevenin  theorem",
+      "Meanings": [
+        "قضیه تونن"
+      ]
+    },
+    {
+      "EnglishWord": "three phase motor",
+      "Meanings": [
+        "موتور سه فاز"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase asynchronous motor",
+      "Meanings": [
+        "موتور اسنکرون سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase commutator motor",
+      "Meanings": [
+        "موتور اسنکرون سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase compound commutator motor",
+      "Meanings": [
+        "موتور کموتاتور کمپوند سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase current motor",
+      "Meanings": [
+        "موتور سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase induction motor",
+      "Meanings": [
+        "موتور القایی سه فاز،موتور اندوکسیونی سه فاز، موتور با رتور اتصال کوتاه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase series commutator motor",
+      "Meanings": [
+        "موتور کموتاتور دار سری سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase shunt commutator motor",
+      "Meanings": [
+        "موتور شنت سه فازه، موتور کموتاتور دار شنت سه فاز"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase synchronous motor",
+      "Meanings": [
+        "موتور سنکرون سه فاز"
+      ]
+    },
+    {
+      "EnglishWord": "three-phase winding",
+      "Meanings": [
+        "سیم پیچی سه فازه"
+      ]
+    },
+    {
+      "EnglishWord": "three-speed motor",
+      "Meanings": [
+        "موتور سه سرعته"
+      ]
+    },
+    {
+      "EnglishWord": "threshold",
+      "Meanings": [
+        "آستانه"
+      ]
+    },
+    {
+      "EnglishWord": "threshold circuit",
+      "Meanings": [
+        "مدار آستانه"
+      ]
+    },
+    {
+      "EnglishWord": "threshold current",
+      "Meanings": [
+        "جریانه آستانه"
+      ]
+    },
+    {
+      "EnglishWord": "threshold voltage",
+      "Meanings": [
+        "ولتاژ آستانه"
+      ]
+    },
+    {
+      "EnglishWord": "thumb rule",
+      "Meanings": [
+        "قاعده تجربی"
+      ]
+    },
+    {
+      "EnglishWord": "thundercloud",
+      "Meanings": [
+        "ابر صاعقه‌دار"
+      ]
+    },
+    {
+      "EnglishWord": "thyristor",
+      "Meanings": [
+        "همسوساز فرمانپذیر",
+        "همسوساز، فرمانپذیر، تریستور"
+      ]
+    },
+    {
+      "EnglishWord": "thyristor switch",
+      "Meanings": [
+        "سوییچ تریستور"
+      ]
+    },
+    {
+      "EnglishWord": "thyristor valves",
+      "Meanings": [
+        "تریستورها"
+      ]
+    },
+    {
+      "EnglishWord": "time history",
+      "Meanings": [
+        "تاریخچه زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "time history testing",
+      "Meanings": [
+        "تاریخچه زمانی"
+      ]
+    },
+    {
+      "EnglishWord": "time ratio control",
+      "Meanings": [
+        "کنترل نسبت زمان"
+      ]
+    },
+    {
+      "EnglishWord": "timing",
+      "Meanings": [
+        "زمانبندی"
+      ]
+    },
+    {
+      "EnglishWord": "timing characteristics",
+      "Meanings": [
+        "زمانبندی عمل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "toroidal",
+      "Meanings": [
+        "حلقوی"
+      ]
+    },
+    {
+      "EnglishWord": "torpid",
+      "Meanings": [
+        "هسته حلقوی ، چنبره"
+      ]
+    },
+    {
+      "EnglishWord": "torque",
+      "Meanings": [
+        "گشتاور"
+      ]
+    },
+    {
+      "EnglishWord": "torsion",
+      "Meanings": [
+        "پیچش"
+      ]
+    },
+    {
+      "EnglishWord": "total",
+      "Meanings": [
+        "کل ، مجموع"
+      ]
+    },
+    {
+      "EnglishWord": "total internal reflection",
+      "Meanings": [
+        "بازتاب کلی داخلی"
+      ]
+    },
+    {
+      "EnglishWord": "total reflection",
+      "Meanings": [
+        "بازتابش کلی"
+      ]
+    },
+    {
+      "EnglishWord": "toughness",
+      "Meanings": [
+        "سفتی"
+      ]
+    },
+    {
+      "EnglishWord": "traction motor",
+      "Meanings": [
+        "موتور وسیله نقلیه"
+      ]
+    },
+    {
+      "EnglishWord": "transducers",
+      "Meanings": [
+        "مبدل انرژی"
+      ]
+    },
+    {
+      "EnglishWord": "transfer",
+      "Meanings": [
+        "انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "transfer function",
+      "Meanings": [
+        "تابع تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "transformation",
+      "Meanings": [
+        "ولت گردان آمپرگردان تبدیل"
+      ]
+    },
+    {
+      "EnglishWord": "transformer",
+      "Meanings": [
+        "ترانسفورماتور مبدل",
+        "ولتگردان",
+        "ترانسفورماتور، مبدل"
+      ]
+    },
+    {
+      "EnglishWord": "transformer core",
+      "Meanings": [
+        "هسته ولتگردان"
+      ]
+    },
+    {
+      "EnglishWord": "transformer oil",
+      "Meanings": [
+        "روغن ولتگردان"
+      ]
+    },
+    {
+      "EnglishWord": "transformer station",
+      "Meanings": [
+        "ولتگردانگاه"
+      ]
+    },
+    {
+      "EnglishWord": "transformer winding",
+      "Meanings": [
+        "سیم پیچی ترانسفورماتور"
+      ]
+    },
+    {
+      "EnglishWord": "transformers and liquid-filled reactors",
+      "Meanings": [
+        "ترانسها و رآکتورهای روغنی"
+      ]
+    },
+    {
+      "EnglishWord": "transient",
+      "Meanings": [
+        "حالت گذرا - اختلالات کوتاه در مدار برق",
+        "فرآیند گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient current",
+      "Meanings": [
+        "جریان گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient function",
+      "Meanings": [
+        "تابع ضربه"
+      ]
+    },
+    {
+      "EnglishWord": "transient internal voltage",
+      "Meanings": [
+        "ولتاژ داخلی  گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient oscillation",
+      "Meanings": [
+        "نوسان گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient part",
+      "Meanings": [
+        "بخش گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient period",
+      "Meanings": [
+        "دوره گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient phenomenon",
+      "Meanings": [
+        "پدیده گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient process",
+      "Meanings": [
+        "فرآیند گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient response",
+      "Meanings": [
+        "پاسخ گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient stability",
+      "Meanings": [
+        "پایداری گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient stability limit",
+      "Meanings": [
+        "حد پایداری گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient state",
+      "Meanings": [
+        "حالت گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient voltage",
+      "Meanings": [
+        "ولتاژ گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient wave",
+      "Meanings": [
+        "موج گذرا"
+      ]
+    },
+    {
+      "EnglishWord": "transient  forcing  capability",
+      "Meanings": [
+        "قابلیت اجباری گذار"
+      ]
+    },
+    {
+      "EnglishWord": "transients in power systems",
+      "Meanings": [
+        "حالت گذرا  در سیستمهای قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "transmission",
+      "Meanings": [
+        "تراگسیل",
+        "انتقال، ارسال"
+      ]
+    },
+    {
+      "EnglishWord": "transmission line",
+      "Meanings": [
+        "خط انتقال"
+      ]
+    },
+    {
+      "EnglishWord": "travelling wave",
+      "Meanings": [
+        "موج سیار"
+      ]
+    },
+    {
+      "EnglishWord": "triaxial",
+      "Meanings": [
+        "سه محوری"
+      ]
+    },
+    {
+      "EnglishWord": "trip and close circuits",
+      "Meanings": [
+        "مدارهای باز و بسته"
+      ]
+    },
+    {
+      "EnglishWord": "triplen harmonics",
+      "Meanings": [
+        "هارمونیهای سه گانه"
+      ]
+    },
+    {
+      "EnglishWord": "tripping",
+      "Meanings": [
+        "کنتاکت بسته"
+      ]
+    },
+    {
+      "EnglishWord": "trolling motor",
+      "Meanings": [
+        "ورزش: موتور کوچک سوارشده روی قایق پاروزنی"
+      ]
+    },
+    {
+      "EnglishWord": "tumor targeting",
+      "Meanings": [
+        "نابود سازی تومور"
+      ]
+    },
+    {
+      "EnglishWord": "tunneling",
+      "Meanings": [
+        "تونلینگ"
+      ]
+    },
+    {
+      "EnglishWord": "turbine rotor",
+      "Meanings": [
+        "رتور توربین"
+      ]
+    },
+    {
+      "EnglishWord": "turns ratio",
+      "Meanings": [
+        "نسبت دور"
+      ]
+    },
+    {
+      "EnglishWord": "two phase to ground fault",
+      "Meanings": [
+        "اتصال کوتاه دو فاز به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "two-phase induction motor",
+      "Meanings": [
+        "موتور القایی دو فاز، موتور اندوکسیونی دو فاز"
+      ]
+    },
+    {
+      "EnglishWord": "two-phase motor",
+      "Meanings": [
+        "موتور دو فاز، موتور دو فاز"
+      ]
+    },
+    {
+      "EnglishWord": "two-phase-to-earth fault",
+      "Meanings": [
+        "اتصال زمین دوفاز"
+      ]
+    },
+    {
+      "EnglishWord": "type",
+      "Meanings": [
+        "نوع"
+      ]
+    },
+    {
+      "EnglishWord": "type of action",
+      "Meanings": [
+        "طرز کار"
+      ]
+    },
+    {
+      "EnglishWord": "type of cable",
+      "Meanings": [
+        "نوع کابل"
+      ]
+    },
+    {
+      "EnglishWord": "type of circuit",
+      "Meanings": [
+        "نوع مدار"
+      ]
+    },
+    {
+      "EnglishWord": "type of connection",
+      "Meanings": [
+        "نوع اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "typical values",
+      "Meanings": [
+        "مقادیر عمومی"
+      ]
+    }
+  ]
+}

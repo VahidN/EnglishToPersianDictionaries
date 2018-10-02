@@ -1,0 +1,928 @@
+﻿{
+  "Group": "P",
+  "Entries": 152,
+  "Words": [
+    {
+      "EnglishWord": "peak",
+      "Meanings": [
+        "قلعه ، ستیغ ، بیشینه"
+      ]
+    },
+    {
+      "EnglishWord": "p.v.c",
+      "Meanings": [
+        "پلی وینیل کلراید"
+      ]
+    },
+    {
+      "EnglishWord": "pad type foundation",
+      "Meanings": [
+        "فوندانسیون‌های تخت",
+        "فونداسیون تخت"
+      ]
+    },
+    {
+      "EnglishWord": "parametric down conversion",
+      "Meanings": [
+        "تبدیل کاهشی پارامتری"
+      ]
+    },
+    {
+      "EnglishWord": "parity",
+      "Meanings": [
+        "پاریته"
+      ]
+    },
+    {
+      "EnglishWord": "partial differential equation",
+      "Meanings": [
+        "معادله دیفرانسیل جزیی"
+      ]
+    },
+    {
+      "EnglishWord": "passivation",
+      "Meanings": [
+        "روکش زدن در سطح، پسیویشن، پاسیواسیون، کم اثرپذیر سازی"
+      ]
+    },
+    {
+      "EnglishWord": "pedestal",
+      "Meanings": [
+        "پی منفرد"
+      ]
+    },
+    {
+      "EnglishWord": "perfectly match layer",
+      "Meanings": [
+        "تطبیق کامل لایه"
+      ]
+    },
+    {
+      "EnglishWord": "permeability",
+      "Meanings": [
+        "نفوذ‌پذیری",
+        "پرمابلیته، نفوذ پذیری مغناطیسی",
+        "نفوذپذیری مغناطیسی"
+      ]
+    },
+    {
+      "EnglishWord": "permittivity",
+      "Meanings": [
+        "ثابت دی‌الکتریک ، ثابت عایقی",
+        "نفوذپذیری الکتریکی"
+      ]
+    },
+    {
+      "EnglishWord": "perturbation",
+      "Meanings": [
+        "اختلال"
+      ]
+    },
+    {
+      "EnglishWord": "peter lepage",
+      "Meanings": [
+        "پیتر لپاگ"
+      ]
+    },
+    {
+      "EnglishWord": "petrol injection motor",
+      "Meanings": [
+        "موتور تزریق بنزینی"
+      ]
+    },
+    {
+      "EnglishWord": "petrol motor",
+      "Meanings": [
+        "موتور بنزینی"
+      ]
+    },
+    {
+      "EnglishWord": "phase angle",
+      "Meanings": [
+        "زاویه فاز"
+      ]
+    },
+    {
+      "EnglishWord": "phase current",
+      "Meanings": [
+        "جریان فاز"
+      ]
+    },
+    {
+      "EnglishWord": "phase to ground",
+      "Meanings": [
+        "فاز به زمین"
+      ]
+    },
+    {
+      "EnglishWord": "phase voltage",
+      "Meanings": [
+        "ولتاژ فاز"
+      ]
+    },
+    {
+      "EnglishWord": "phase voltage of winding",
+      "Meanings": [
+        "ولتاژ سیم پیچ"
+      ]
+    },
+    {
+      "EnglishWord": "phase-shift",
+      "Meanings": [
+        "تغییر فاز"
+      ]
+    },
+    {
+      "EnglishWord": "phasor",
+      "Meanings": [
+        "فازور"
+      ]
+    },
+    {
+      "EnglishWord": "photo-ionization",
+      "Meanings": [
+        "یونیزاسیون نوری"
+      ]
+    },
+    {
+      "EnglishWord": "photonic crystal cavities",
+      "Meanings": [
+        "کاواک‌های بلور فوتونی"
+      ]
+    },
+    {
+      "EnglishWord": "photonic crystals",
+      "Meanings": [
+        "بلورهای فوتونی"
+      ]
+    },
+    {
+      "EnglishWord": "photovoltaic",
+      "Meanings": [
+        "ادوات فوتو ولتاییک"
+      ]
+    },
+    {
+      "EnglishWord": "picofarad",
+      "Meanings": [
+        "پیکوفاراد"
+      ]
+    },
+    {
+      "EnglishWord": "pigtail",
+      "Meanings": [
+        "مفصل دم خوکی"
+      ]
+    },
+    {
+      "EnglishWord": "pilot motor",
+      "Meanings": [
+        "موتور کوچک"
+      ]
+    },
+    {
+      "EnglishWord": "pinching",
+      "Meanings": [
+        "لهیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pitch of armature winding",
+      "Meanings": [
+        "گام پیچک"
+      ]
+    },
+    {
+      "EnglishWord": "plane wave",
+      "Meanings": [
+        "موج صفحه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "plane wave expansion",
+      "Meanings": [
+        "بسط توابع تخت"
+      ]
+    },
+    {
+      "EnglishWord": "plastic deformation",
+      "Meanings": [
+        "تغییر شکل پلاستیک"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic control",
+      "Meanings": [
+        "کنترل فشار هوا"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic controller",
+      "Meanings": [
+        "ناظم کنترل کننده بادی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic operation",
+      "Meanings": [
+        "عمل با فشار هوا"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic punch",
+      "Meanings": [
+        "منگنه بادی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic switch",
+      "Meanings": [
+        "کلید بادی"
+      ]
+    },
+    {
+      "EnglishWord": "pneumatic system",
+      "Meanings": [
+        "سیستم بادی"
+      ]
+    },
+    {
+      "EnglishWord": "polarization",
+      "Meanings": [
+        "ایجاد دو قطب ، قطبش"
+      ]
+    },
+    {
+      "EnglishWord": "polarization current",
+      "Meanings": [
+        "جریان قطبش"
+      ]
+    },
+    {
+      "EnglishWord": "polarization direction",
+      "Meanings": [
+        "جهت قطبش"
+      ]
+    },
+    {
+      "EnglishWord": "polarization voltage",
+      "Meanings": [
+        "ولتاژ قطبش"
+      ]
+    },
+    {
+      "EnglishWord": "pole",
+      "Meanings": [
+        "قطب ، دکل"
+      ]
+    },
+    {
+      "EnglishWord": "pole slip",
+      "Meanings": [
+        "لغزش قطب"
+      ]
+    },
+    {
+      "EnglishWord": "pole-changing motor",
+      "Meanings": [
+        "موتور با قطبهای قابل تعویض"
+      ]
+    },
+    {
+      "EnglishWord": "poles",
+      "Meanings": [
+        "قطبها"
+      ]
+    },
+    {
+      "EnglishWord": "polycrystalline",
+      "Meanings": [
+        "چند بلوره"
+      ]
+    },
+    {
+      "EnglishWord": "polyphase",
+      "Meanings": [
+        "سیستم برق چند فاز ، چند فاز"
+      ]
+    },
+    {
+      "EnglishWord": "polyphase motor  s",
+      "Meanings": [
+        "موتور چندفاز"
+      ]
+    },
+    {
+      "EnglishWord": "porcelain",
+      "Meanings": [
+        "مقره، عایق"
+      ]
+    },
+    {
+      "EnglishWord": "positive conductor",
+      "Meanings": [
+        "سیم مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "positive connections",
+      "Meanings": [
+        "اتصالات مطمین"
+      ]
+    },
+    {
+      "EnglishWord": "positive  sequence",
+      "Meanings": [
+        "مولفه مثبت"
+      ]
+    },
+    {
+      "EnglishWord": "post-arc current",
+      "Meanings": [
+        "جریان قوس الکتریکی- ستونی"
+      ]
+    },
+    {
+      "EnglishWord": "post-insulator",
+      "Meanings": [
+        "مقره‌های اتکایی"
+      ]
+    },
+    {
+      "EnglishWord": "potential",
+      "Meanings": [
+        "پتانسیل",
+        "پتانسیل ، ولتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "potential barrier",
+      "Meanings": [
+        "سد پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential curve",
+      "Meanings": [
+        "منحنی پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential diagram",
+      "Meanings": [
+        "نمودار پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential difference",
+      "Meanings": [
+        "اختلاف پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential distribution",
+      "Meanings": [
+        "پخش پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential divider",
+      "Meanings": [
+        "مقسم پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential drop",
+      "Meanings": [
+        "افت پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential energy",
+      "Meanings": [
+        "انرژی پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential equalization",
+      "Meanings": [
+        "تعادل پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential equation",
+      "Meanings": [
+        "معادله پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential field",
+      "Meanings": [
+        "میدان پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential function",
+      "Meanings": [
+        "تابع پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential gradient",
+      "Meanings": [
+        "شدت میدان"
+      ]
+    },
+    {
+      "EnglishWord": "potential hill",
+      "Meanings": [
+        "سد پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential jump",
+      "Meanings": [
+        "پرش پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "potential node",
+      "Meanings": [
+        "گره ولتاژ"
+      ]
+    },
+    {
+      "EnglishWord": "potential rise",
+      "Meanings": [
+        "افزایش پتانسیل"
+      ]
+    },
+    {
+      "EnglishWord": "pothead",
+      "Meanings": [
+        "سر کابل"
+      ]
+    },
+    {
+      "EnglishWord": "potting",
+      "Meanings": [
+        "روش کاشتن"
+      ]
+    },
+    {
+      "EnglishWord": "powe factor",
+      "Meanings": [
+        "ضریب توان"
+      ]
+    },
+    {
+      "EnglishWord": "powe factor compensation",
+      "Meanings": [
+        "تعدیل ضریب توان"
+      ]
+    },
+    {
+      "EnglishWord": "power",
+      "Meanings": [
+        "توان",
+        "توان ، نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power cable",
+      "Meanings": [
+        "کابل نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power consumption",
+      "Meanings": [
+        "توان مصرفی"
+      ]
+    },
+    {
+      "EnglishWord": "power current",
+      "Meanings": [
+        "جریان قوی"
+      ]
+    },
+    {
+      "EnglishWord": "power engineer",
+      "Meanings": [
+        "مهندس نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power engineering",
+      "Meanings": [
+        "مهندسی نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power factor",
+      "Meanings": [
+        "ضریب قدرت",
+        "ضریب توان"
+      ]
+    },
+    {
+      "EnglishWord": "power factor angle",
+      "Meanings": [
+        "زاویه ضریب توان"
+      ]
+    },
+    {
+      "EnglishWord": "power factor correction",
+      "Meanings": [
+        "بهبود ضریب توان، اصلاح ضریب توان"
+      ]
+    },
+    {
+      "EnglishWord": "power frequency flash over",
+      "Meanings": [
+        "فرکانس قدرت اشتعال"
+      ]
+    },
+    {
+      "EnglishWord": "power frequency withstand voltage",
+      "Meanings": [
+        "ولتاژ تحمل فرکانس قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "power house",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "power line",
+      "Meanings": [
+        "خط جریان قوی"
+      ]
+    },
+    {
+      "EnglishWord": "power losses",
+      "Meanings": [
+        "تلفات توان"
+      ]
+    },
+    {
+      "EnglishWord": "power mains",
+      "Meanings": [
+        "شبکه نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power measurement",
+      "Meanings": [
+        "سنجش نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power meter",
+      "Meanings": [
+        "توانسنج"
+      ]
+    },
+    {
+      "EnglishWord": "power outlet",
+      "Meanings": [
+        "پریز"
+      ]
+    },
+    {
+      "EnglishWord": "power plant",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "power spectral density",
+      "Meanings": [
+        "طیف شدت توان"
+      ]
+    },
+    {
+      "EnglishWord": "power station",
+      "Meanings": [
+        "نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "power station unit",
+      "Meanings": [
+        "واحد نیروگاه"
+      ]
+    },
+    {
+      "EnglishWord": "power supply",
+      "Meanings": [
+        "منبع تغذیه"
+      ]
+    },
+    {
+      "EnglishWord": "power system",
+      "Meanings": [
+        "شبکه نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power transfer",
+      "Meanings": [
+        "برقرسانی"
+      ]
+    },
+    {
+      "EnglishWord": "power transformer",
+      "Meanings": [
+        "ولتگردان نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power transmission",
+      "Meanings": [
+        "انتقال نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "power triangle",
+      "Meanings": [
+        "مثلث توان"
+      ]
+    },
+    {
+      "EnglishWord": "power  system  stabilizer",
+      "Meanings": [
+        "پایدار ساز سیستم قدرت"
+      ]
+    },
+    {
+      "EnglishWord": "prestrike",
+      "Meanings": [
+        "پیش ضربه‌ای"
+      ]
+    },
+    {
+      "EnglishWord": "primary winding",
+      "Meanings": [
+        "سیم پیچ ورودی",
+        "سیم پیچ اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "primery winding",
+      "Meanings": [
+        "سیم پیچی اولیه"
+      ]
+    },
+    {
+      "EnglishWord": "probe",
+      "Meanings": [
+        "کاوشگر، پروب"
+      ]
+    },
+    {
+      "EnglishWord": "process",
+      "Meanings": [
+        "روش ، روش ساخت",
+        "فراروند"
+      ]
+    },
+    {
+      "EnglishWord": "processing",
+      "Meanings": [
+        "پردازش"
+      ]
+    },
+    {
+      "EnglishWord": "processor",
+      "Meanings": [
+        "پردازنده"
+      ]
+    },
+    {
+      "EnglishWord": "producer",
+      "Meanings": [
+        "سازنده"
+      ]
+    },
+    {
+      "EnglishWord": "production",
+      "Meanings": [
+        "فرآورش"
+      ]
+    },
+    {
+      "EnglishWord": "program",
+      "Meanings": [
+        "برنامه",
+        "برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "program card",
+      "Meanings": [
+        "کارت برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program chart",
+      "Meanings": [
+        "نمودار برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program control",
+      "Meanings": [
+        "کنترل برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program exchange",
+      "Meanings": [
+        "تعویض برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program flow",
+      "Meanings": [
+        "جریان برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program instruction",
+      "Meanings": [
+        "دستور برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program language",
+      "Meanings": [
+        "زبان برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "program preparation",
+      "Meanings": [
+        "تهیه برنامه"
+      ]
+    },
+    {
+      "EnglishWord": "programmer",
+      "Meanings": [
+        "برنامه نویس"
+      ]
+    },
+    {
+      "EnglishWord": "programming",
+      "Meanings": [
+        "برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "programming error",
+      "Meanings": [
+        "خطای برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "programming language",
+      "Meanings": [
+        "زبان برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "programming method",
+      "Meanings": [
+        "روش برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "programming system",
+      "Meanings": [
+        "سیستم برنامه نویسی"
+      ]
+    },
+    {
+      "EnglishWord": "projected performance",
+      "Meanings": [
+        "عملکرد تعمیم یافته"
+      ]
+    },
+    {
+      "EnglishWord": "prony motor",
+      "Meanings": [
+        "موتور پرونی، موتور کمکی"
+      ]
+    },
+    {
+      "EnglishWord": "propagation",
+      "Meanings": [
+        "انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "propagation constant",
+      "Meanings": [
+        "ثابت انتشار"
+      ]
+    },
+    {
+      "EnglishWord": "protect",
+      "Meanings": [
+        "حفاظت کردن ، حمایت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "protection",
+      "Meanings": [
+        "حفاطت ، حراست ، حمایت"
+      ]
+    },
+    {
+      "EnglishWord": "protection measure",
+      "Meanings": [
+        "تدبیر حفاظتی"
+      ]
+    },
+    {
+      "EnglishWord": "protection relay",
+      "Meanings": [
+        "رهاساز محافظ"
+      ]
+    },
+    {
+      "EnglishWord": "protective motor switch",
+      "Meanings": [
+        "کلید محافظ موتور"
+      ]
+    },
+    {
+      "EnglishWord": "pseudo-forces",
+      "Meanings": [
+        "شبه نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "puffer",
+      "Meanings": [
+        "پفی،  پوفر"
+      ]
+    },
+    {
+      "EnglishWord": "pull test",
+      "Meanings": [
+        "تست کشش"
+      ]
+    },
+    {
+      "EnglishWord": "pullout",
+      "Meanings": [
+        "بیرون کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pullout test",
+      "Meanings": [
+        "تست بیرون کشیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "pulsating current",
+      "Meanings": [
+        "جریان تپشی"
+      ]
+    },
+    {
+      "EnglishWord": "pulsating voltage",
+      "Meanings": [
+        "ولتاژ تپشی"
+      ]
+    },
+    {
+      "EnglishWord": "pulse",
+      "Meanings": [
+        "تپ"
+      ]
+    },
+    {
+      "EnglishWord": "pulse train",
+      "Meanings": [
+        "قطار پالس"
+      ]
+    },
+    {
+      "EnglishWord": "pultrusion",
+      "Meanings": [
+        "پولتروژن"
+      ]
+    },
+    {
+      "EnglishWord": "punch-through",
+      "Meanings": [
+        "سوراخ شدگی"
+      ]
+    }
+  ]
+}

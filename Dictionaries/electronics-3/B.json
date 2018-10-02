@@ -1,0 +1,659 @@
+﻿{
+  "Group": "B",
+  "Entries": 107,
+  "Words": [
+    {
+      "EnglishWord": "battery charger",
+      "Meanings": [
+        "شارژ باتری"
+      ]
+    },
+    {
+      "EnglishWord": "busbar",
+      "Meanings": [
+        "شینه",
+        "شمش، جعبه تقسیم"
+      ]
+    },
+    {
+      "EnglishWord": "back emf",
+      "Meanings": [
+        "نیروی برق وارانی"
+      ]
+    },
+    {
+      "EnglishWord": "back transformation",
+      "Meanings": [
+        "تبدیل معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "back-electromotive force",
+      "Meanings": [
+        "نیروی ضد الکترو موتوری، نیروی ضد محرکه"
+      ]
+    },
+    {
+      "EnglishWord": "back-to-back switching",
+      "Meanings": [
+        "سویچینگ پشت به پشت"
+      ]
+    },
+    {
+      "EnglishWord": "balanced three phase",
+      "Meanings": [
+        "سه فاز متعدل"
+      ]
+    },
+    {
+      "EnglishWord": "balancing motor",
+      "Meanings": [
+        "شیمی: موتور تراز کننده"
+      ]
+    },
+    {
+      "EnglishWord": "band gap",
+      "Meanings": [
+        "باند گپ"
+      ]
+    },
+    {
+      "EnglishWord": "band pass filter",
+      "Meanings": [
+        "فیلتر میان گذر"
+      ]
+    },
+    {
+      "EnglishWord": "band structure",
+      "Meanings": [
+        "ساختار نوار"
+      ]
+    },
+    {
+      "EnglishWord": "band-pass filter",
+      "Meanings": [
+        "فیلتر میان گذر"
+      ]
+    },
+    {
+      "EnglishWord": "bar",
+      "Meanings": [
+        "شمش ، مفتول هادی"
+      ]
+    },
+    {
+      "EnglishWord": "bar electrode",
+      "Meanings": [
+        "الکترود قلمی"
+      ]
+    },
+    {
+      "EnglishWord": "bar magnet",
+      "Meanings": [
+        "آهنربای قلمی"
+      ]
+    },
+    {
+      "EnglishWord": "bar winding",
+      "Meanings": [
+        "میله هایی که به عنوان سیم پیچی در رتور به کار برده می‌شود"
+      ]
+    },
+    {
+      "EnglishWord": "bare",
+      "Meanings": [
+        "لخت ، بی روکش"
+      ]
+    },
+    {
+      "EnglishWord": "bare cable",
+      "Meanings": [
+        "کابل بی روکش"
+      ]
+    },
+    {
+      "EnglishWord": "bare conductor",
+      "Meanings": [
+        "هادی بی روکش"
+      ]
+    },
+    {
+      "EnglishWord": "bare electrode",
+      "Meanings": [
+        "الکترود بی روکش"
+      ]
+    },
+    {
+      "EnglishWord": "bare wire",
+      "Meanings": [
+        "سیم لخت"
+      ]
+    },
+    {
+      "EnglishWord": "barrier potential",
+      "Meanings": [
+        "پتانسیل سد"
+      ]
+    },
+    {
+      "EnglishWord": "barrier region",
+      "Meanings": [
+        "ناحیه سد"
+      ]
+    },
+    {
+      "EnglishWord": "base",
+      "Meanings": [
+        "بیس ترانزیستور"
+      ]
+    },
+    {
+      "EnglishWord": "base box",
+      "Meanings": [
+        "جعبه پایه"
+      ]
+    },
+    {
+      "EnglishWord": "base isolation",
+      "Meanings": [
+        "جداسازی لرزه ای",
+        "جداسازی"
+      ]
+    },
+    {
+      "EnglishWord": "basketing",
+      "Meanings": [
+        "سیم",
+        "سبدی شدن سیم"
+      ]
+    },
+    {
+      "EnglishWord": "basketing of conductors  bird caging",
+      "Meanings": [
+        "سبدی شدن کنداکتورها"
+      ]
+    },
+    {
+      "EnglishWord": "battery",
+      "Meanings": [
+        "برق اندوز"
+      ]
+    },
+    {
+      "EnglishWord": "battery cell",
+      "Meanings": [
+        "عمر باتری"
+      ]
+    },
+    {
+      "EnglishWord": "battery room",
+      "Meanings": [
+        "باتری خانه"
+      ]
+    },
+    {
+      "EnglishWord": "beam",
+      "Meanings": [
+        "پرتو"
+      ]
+    },
+    {
+      "EnglishWord": "bearing",
+      "Meanings": [
+        "یاطاقان"
+      ]
+    },
+    {
+      "EnglishWord": "behavior",
+      "Meanings": [
+        "رفتار"
+      ]
+    },
+    {
+      "EnglishWord": "bell",
+      "Meanings": [
+        "زنگ اخبار"
+      ]
+    },
+    {
+      "EnglishWord": "bending radius",
+      "Meanings": [
+        "شعاع خمیدگی"
+      ]
+    },
+    {
+      "EnglishWord": "beveling",
+      "Meanings": [
+        "اریب کردن"
+      ]
+    },
+    {
+      "EnglishWord": "bh curve",
+      "Meanings": [
+        "منحنی هیسترزیس"
+      ]
+    },
+    {
+      "EnglishWord": "bias",
+      "Meanings": [
+        "بایاس",
+        "راستاپذیری"
+      ]
+    },
+    {
+      "EnglishWord": "bias  reverse",
+      "Meanings": [
+        "بایاس معکوس"
+      ]
+    },
+    {
+      "EnglishWord": "biased",
+      "Meanings": [
+        "بایاس شده"
+      ]
+    },
+    {
+      "EnglishWord": "biaxial",
+      "Meanings": [
+        "دو محوری"
+      ]
+    },
+    {
+      "EnglishWord": "biaxial testing",
+      "Meanings": [
+        "تست دو محوری",
+        "آزمایش سه محوره دومحور افقی و یک محور قایم"
+      ]
+    },
+    {
+      "EnglishWord": "bifilar",
+      "Meanings": [
+        "پیچک مضاعف بی اثر"
+      ]
+    },
+    {
+      "EnglishWord": "bifilar winding",
+      "Meanings": [
+        "سیم پیچ دو رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "bil",
+      "Meanings": [
+        "گذردهی"
+      ]
+    },
+    {
+      "EnglishWord": "bimetal",
+      "Meanings": [
+        "زوج فلز حرارتی"
+      ]
+    },
+    {
+      "EnglishWord": "binary",
+      "Meanings": [
+        "دو دویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary adder",
+      "Meanings": [
+        "جمع کننده دو دویی"
+      ]
+    },
+    {
+      "EnglishWord": "binary function",
+      "Meanings": [
+        "تابع دودویی"
+      ]
+    },
+    {
+      "EnglishWord": "binding",
+      "Meanings": [
+        "بستگی ، پیوند"
+      ]
+    },
+    {
+      "EnglishWord": "binding energy",
+      "Meanings": [
+        "انرژی بستگی"
+      ]
+    },
+    {
+      "EnglishWord": "biphase",
+      "Meanings": [
+        "دوفازه"
+      ]
+    },
+    {
+      "EnglishWord": "biphase current",
+      "Meanings": [
+        "جریان دوفازه"
+      ]
+    },
+    {
+      "EnglishWord": "bipolar winding",
+      "Meanings": [
+        "سیم پیچ دو رشته ای"
+      ]
+    },
+    {
+      "EnglishWord": "blackout",
+      "Meanings": [
+        "خاموشی، برق رفتگی"
+      ]
+    },
+    {
+      "EnglishWord": "blade",
+      "Meanings": [
+        "تیغه",
+        "تیغه، پره"
+      ]
+    },
+    {
+      "EnglishWord": "block diagram",
+      "Meanings": [
+        "نمودار خانگی"
+      ]
+    },
+    {
+      "EnglishWord": "blocked rotor",
+      "Meanings": [
+        "رتورقفل شده یا بلوکه شده"
+      ]
+    },
+    {
+      "EnglishWord": "blocking voltage",
+      "Meanings": [
+        "ولتاژ سد کننده"
+      ]
+    },
+    {
+      "EnglishWord": "bloomberg",
+      "Meanings": [
+        "رابطه بلامبرگ"
+      ]
+    },
+    {
+      "EnglishWord": "body potential",
+      "Meanings": [
+        "پتانسیل بدنه"
+      ]
+    },
+    {
+      "EnglishWord": "bogohm",
+      "Meanings": [
+        "هزار مگا اهم"
+      ]
+    },
+    {
+      "EnglishWord": "bohr radius",
+      "Meanings": [
+        "شعاع بور"
+      ]
+    },
+    {
+      "EnglishWord": "boolean algebra",
+      "Meanings": [
+        "جبر بول"
+      ]
+    },
+    {
+      "EnglishWord": "boost",
+      "Meanings": [
+        "تقویت کردن"
+      ]
+    },
+    {
+      "EnglishWord": "booster",
+      "Meanings": [
+        "تقویت کننده"
+      ]
+    },
+    {
+      "EnglishWord": "boosting",
+      "Meanings": [
+        "تقویت"
+      ]
+    },
+    {
+      "EnglishWord": "boundary",
+      "Meanings": [
+        "مرز"
+      ]
+    },
+    {
+      "EnglishWord": "bra",
+      "Meanings": [
+        "برا"
+      ]
+    },
+    {
+      "EnglishWord": "bragg",
+      "Meanings": [
+        "براگ"
+      ]
+    },
+    {
+      "EnglishWord": "branch",
+      "Meanings": [
+        "انشعاب"
+      ]
+    },
+    {
+      "EnglishWord": "braun oscillograph",
+      "Meanings": [
+        "اسیلوسکپ برآون"
+      ]
+    },
+    {
+      "EnglishWord": "braun tube",
+      "Meanings": [
+        "لامپ برآون"
+      ]
+    },
+    {
+      "EnglishWord": "break a circuit",
+      "Meanings": [
+        "قطع مدار"
+      ]
+    },
+    {
+      "EnglishWord": "break a connection",
+      "Meanings": [
+        "قطع اتصال"
+      ]
+    },
+    {
+      "EnglishWord": "break a contact",
+      "Meanings": [
+        "قطع کنتاکت"
+      ]
+    },
+    {
+      "EnglishWord": "break a line",
+      "Meanings": [
+        "قطع خط برق"
+      ]
+    },
+    {
+      "EnglishWord": "break down",
+      "Meanings": [
+        "فروپاشیدن خراب شدن"
+      ]
+    },
+    {
+      "EnglishWord": "break in",
+      "Meanings": [
+        "قطع شدن ارسال متوقف شدن"
+      ]
+    },
+    {
+      "EnglishWord": "break off",
+      "Meanings": [
+        "قطع شدن خاتمه دادن"
+      ]
+    },
+    {
+      "EnglishWord": "break up",
+      "Meanings": [
+        "قطع کردن یا شدن پخش کردن توزیع کردن شکافتن از هم جدا کردن"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown",
+      "Meanings": [
+        "فروپاشی شکست",
+        "فروپاشی"
+      ]
+    },
+    {
+      "EnglishWord": "breakdown voltage",
+      "Meanings": [
+        "ولتاژ شکست"
+      ]
+    },
+    {
+      "EnglishWord": "breaker",
+      "Meanings": [
+        "کلید نیرو"
+      ]
+    },
+    {
+      "EnglishWord": "bridge",
+      "Meanings": [
+        "پل"
+      ]
+    },
+    {
+      "EnglishWord": "bridge and similar type structures",
+      "Meanings": [
+        "پل و سازه‌های مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "brightness",
+      "Meanings": [
+        "روشنی"
+      ]
+    },
+    {
+      "EnglishWord": "brillouin zone",
+      "Meanings": [
+        "ناحیه بریلیون"
+      ]
+    },
+    {
+      "EnglishWord": "brilouin zone",
+      "Meanings": [
+        "ناحیه بریلوین"
+      ]
+    },
+    {
+      "EnglishWord": "brittle material",
+      "Meanings": [
+        "مصالح ترد"
+      ]
+    },
+    {
+      "EnglishWord": "broad-band signal",
+      "Meanings": [
+        "سیگنال‌های پهن دامنه",
+        "سیگنال باند گسترده"
+      ]
+    },
+    {
+      "EnglishWord": "broadcasting",
+      "Meanings": [
+        "انتشار رادیویی"
+      ]
+    },
+    {
+      "EnglishWord": "brush",
+      "Meanings": [
+        "جاروبک"
+      ]
+    },
+    {
+      "EnglishWord": "brushless",
+      "Meanings": [
+        "جاروبک"
+      ]
+    },
+    {
+      "EnglishWord": "brush-shifting motor",
+      "Meanings": [
+        "سروموتور"
+      ]
+    },
+    {
+      "EnglishWord": "building and similar type structures",
+      "Meanings": [
+        "ساختمان و سازه‌های مشابه"
+      ]
+    },
+    {
+      "EnglishWord": "bulk-si",
+      "Meanings": [
+        "بالک Si"
+      ]
+    },
+    {
+      "EnglishWord": "bundled",
+      "Meanings": [
+        "گروه شده",
+        "گروه بندی شده"
+      ]
+    },
+    {
+      "EnglishWord": "buried oxide",
+      "Meanings": [
+        "اکسید مدفون"
+      ]
+    },
+    {
+      "EnglishWord": "bus",
+      "Meanings": [
+        "شمش برق"
+      ]
+    },
+    {
+      "EnglishWord": "bus bar",
+      "Meanings": [
+        "شمش برق ، شمش گردآورنده یا توزیع برق"
+      ]
+    },
+    {
+      "EnglishWord": "bushing",
+      "Meanings": [
+        "بوش",
+        "یوشینگ"
+      ]
+    },
+    {
+      "EnglishWord": "bushing shell",
+      "Meanings": [
+        "پوسته بوشینگ"
+      ]
+    },
+    {
+      "EnglishWord": "buzzer",
+      "Meanings": [
+        "زنگ پیانویی"
+      ]
+    },
+    {
+      "EnglishWord": "bypass",
+      "Meanings": [
+        "بای پس",
+        "کمکی، کنار گذر"
+      ]
+    },
+    {
+      "EnglishWord": "bypolar junction transistor",
+      "Meanings": [
+        "ترانزیستور دوقطبی پیوندی"
+      ]
+    }
+  ]
+}
