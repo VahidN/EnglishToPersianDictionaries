@@ -1,0 +1,928 @@
+﻿{
+  "Group": "Q",
+  "Entries": 131,
+  "Words": [
+    {
+      "EnglishWord": "qaddafi",
+      "Meanings": [
+        "قذافی"
+      ]
+    },
+    {
+      "EnglishWord": "qatar",
+      "Meanings": [
+        "قطر"
+      ]
+    },
+    {
+      "EnglishWord": "qataria",
+      "Meanings": [
+        "قطریا"
+      ]
+    },
+    {
+      "EnglishWord": "qeymeh",
+      "Meanings": [
+        "قیمه"
+      ]
+    },
+    {
+      "EnglishWord": "qom",
+      "Meanings": [
+        "قم"
+      ]
+    },
+    {
+      "EnglishWord": "qoran",
+      "Meanings": [
+        "قرآن"
+      ]
+    },
+    {
+      "EnglishWord": "quack",
+      "Meanings": [
+        "چاچولباز",
+        "خردجال",
+        "شارلاتان",
+        "زبان باز"
+      ]
+    },
+    {
+      "EnglishWord": "quackery",
+      "Meanings": [
+        "شارلاتان بازی",
+        "چاچولبازی",
+        "خردجالی",
+        "شارلاتانی"
+      ]
+    },
+    {
+      "EnglishWord": "quacksalver",
+      "Meanings": [
+        "زبان باز"
+      ]
+    },
+    {
+      "EnglishWord": "quadrangle",
+      "Meanings": [
+        "چارپهلو",
+        "چاربر"
+      ]
+    },
+    {
+      "EnglishWord": "quadrate",
+      "Meanings": [
+        "عدد مربع"
+      ]
+    },
+    {
+      "EnglishWord": "quadric",
+      "Meanings": [
+        "ربعی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrilateral",
+      "Meanings": [
+        "چهارجانبی"
+      ]
+    },
+    {
+      "EnglishWord": "quadripartite",
+      "Meanings": [
+        "چهارجانبه"
+      ]
+    },
+    {
+      "EnglishWord": "quadrisyllabic",
+      "Meanings": [
+        "چهار هجایی"
+      ]
+    },
+    {
+      "EnglishWord": "quadrruped",
+      "Meanings": [
+        "چهارپر"
+      ]
+    },
+    {
+      "EnglishWord": "quadruped",
+      "Meanings": [
+        "ستور",
+        "چارپا",
+        "چهارپا"
+      ]
+    },
+    {
+      "EnglishWord": "quadruplet",
+      "Meanings": [
+        "اربعه",
+        "چهارقلو"
+      ]
+    },
+    {
+      "EnglishWord": "quadruplicate",
+      "Meanings": [
+        "چهاربرابر کردن",
+        "چهارنسخهای"
+      ]
+    },
+    {
+      "EnglishWord": "quaff",
+      "Meanings": [
+        "زیاد نوشیدن",
+        "سر کشیدن"
+      ]
+    },
+    {
+      "EnglishWord": "quagmire",
+      "Meanings": [
+        "لجن زار"
+      ]
+    },
+    {
+      "EnglishWord": "quail",
+      "Meanings": [
+        "وشم",
+        "بدبدک",
+        "بلدر چین",
+        "بدبده"
+      ]
+    },
+    {
+      "EnglishWord": "quake",
+      "Meanings": [
+        "لرزش داشتن",
+        "لرزه"
+      ]
+    },
+    {
+      "EnglishWord": "qualification",
+      "Meanings": [
+        "شرایط لازم"
+      ]
+    },
+    {
+      "EnglishWord": "qualified",
+      "Meanings": [
+        "مشروط",
+        "شایسته",
+        "موصوف"
+      ]
+    },
+    {
+      "EnglishWord": "qualify",
+      "Meanings": [
+        "واجد شرایط شدن"
+      ]
+    },
+    {
+      "EnglishWord": "qualitative",
+      "Meanings": [
+        "کیفی"
+      ]
+    },
+    {
+      "EnglishWord": "qualities",
+      "Meanings": [
+        "صفات",
+        "خصایل",
+        "محامد",
+        "شمایل",
+        "خصال"
+      ]
+    },
+    {
+      "EnglishWord": "quality",
+      "Meanings": [
+        "کیفیت",
+        "چونی",
+        "درجه",
+        "صفت",
+        "وصف",
+        "خصات",
+        "چگونگی",
+        "منقبت"
+      ]
+    },
+    {
+      "EnglishWord": "quality and quantity",
+      "Meanings": [
+        "چونی و چندی"
+      ]
+    },
+    {
+      "EnglishWord": "qualm",
+      "Meanings": [
+        "عدم اطمینان"
+      ]
+    },
+    {
+      "EnglishWord": "quantifier",
+      "Meanings": [
+        "کمیت سنج"
+      ]
+    },
+    {
+      "EnglishWord": "quantify",
+      "Meanings": [
+        "چندی بیان کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quantitative",
+      "Meanings": [
+        "کمی"
+      ]
+    },
+    {
+      "EnglishWord": "quantity",
+      "Meanings": [
+        "چندی",
+        "حسب",
+        "مقدار",
+        "کمیت"
+      ]
+    },
+    {
+      "EnglishWord": "quantize",
+      "Meanings": [
+        "پلهای کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quarantine",
+      "Meanings": [
+        "قرنطینه کردن",
+        "محل قرنطینه"
+      ]
+    },
+    {
+      "EnglishWord": "quarrel",
+      "Meanings": [
+        "ستیز",
+        "ستیزه کردن",
+        "پرخاش کردن",
+        "نزاع کردن",
+        "مرافعه کردن",
+        "پرخاش",
+        "غوغا کردن",
+        "جدال",
+        "اهل نزاع",
+        "مناقشه",
+        "مشاجره",
+        "ستیزه",
+        "معرکه"
+      ]
+    },
+    {
+      "EnglishWord": "quarreler",
+      "Meanings": [
+        "اهل مشاجره"
+      ]
+    },
+    {
+      "EnglishWord": "quarreling",
+      "Meanings": [
+        "متنازع",
+        "ستیزه جویی"
+      ]
+    },
+    {
+      "EnglishWord": "quarrelsome",
+      "Meanings": [
+        "ستیزه جو",
+        "فتنهجو",
+        "ستیزهجو",
+        "ماجراجو",
+        "ستیزگر",
+        "پرخاش جو",
+        "مرافعه جو"
+      ]
+    },
+    {
+      "EnglishWord": "quarrelsomeness",
+      "Meanings": [
+        "جنگجویی"
+      ]
+    },
+    {
+      "EnglishWord": "quarry",
+      "Meanings": [
+        "شکار",
+        "معدن سنگ",
+        "کان سنگ",
+        "توده انباشته",
+        "لاشه شکار"
+      ]
+    },
+    {
+      "EnglishWord": "quart",
+      "Meanings": [
+        "کوارت"
+      ]
+    },
+    {
+      "EnglishWord": "quarter",
+      "Meanings": [
+        "تربیع",
+        "چارک",
+        "پانزده دقیقه",
+        "ربع",
+        "چاریک"
+      ]
+    },
+    {
+      "EnglishWord": "quarter day",
+      "Meanings": [
+        "موعد پرداخت"
+      ]
+    },
+    {
+      "EnglishWord": "quartern",
+      "Meanings": [
+        "یک گیل",
+        "یک چهارم پوند"
+      ]
+    },
+    {
+      "EnglishWord": "quarterstaff",
+      "Meanings": [
+        "واحد یموت"
+      ]
+    },
+    {
+      "EnglishWord": "quartet",
+      "Meanings": [
+        "چهاربخشی"
+      ]
+    },
+    {
+      "EnglishWord": "quartz",
+      "Meanings": [
+        "در کوهی",
+        "کوارتز"
+      ]
+    },
+    {
+      "EnglishWord": "quash",
+      "Meanings": [
+        "با ضربه زدن",
+        "فرو نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "quaternion",
+      "Meanings": [
+        "قسمت چهارگانه",
+        "بخش چهارگانه"
+      ]
+    },
+    {
+      "EnglishWord": "quatrain",
+      "Meanings": [
+        "چهار بیتی",
+        "رباعی"
+      ]
+    },
+    {
+      "EnglishWord": "quatrains",
+      "Meanings": [
+        "رباعیات"
+      ]
+    },
+    {
+      "EnglishWord": "quatrerly",
+      "Meanings": [
+        "سه ماهه"
+      ]
+    },
+    {
+      "EnglishWord": "quattrocento",
+      "Meanings": [
+        "قرن چهاردهم"
+      ]
+    },
+    {
+      "EnglishWord": "queasy",
+      "Meanings": [
+        "لطیف مزاج",
+        "زیاد دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "queazy",
+      "Meanings": [
+        "لطیف مزاج",
+        "زیاد دقیق"
+      ]
+    },
+    {
+      "EnglishWord": "queen",
+      "Meanings": [
+        "زن پادشاه",
+        "ملکه",
+        "شهبانو"
+      ]
+    },
+    {
+      "EnglishWord": "queen mother",
+      "Meanings": [
+        "ملکه مادر"
+      ]
+    },
+    {
+      "EnglishWord": "queendom",
+      "Meanings": [
+        "قلمرو ملکه"
+      ]
+    },
+    {
+      "EnglishWord": "queenlike",
+      "Meanings": [
+        "ملکه وار"
+      ]
+    },
+    {
+      "EnglishWord": "queens",
+      "Meanings": [
+        "کوینیز"
+      ]
+    },
+    {
+      "EnglishWord": "queer",
+      "Meanings": [
+        "غریب",
+        "غیر عادی"
+      ]
+    },
+    {
+      "EnglishWord": "quell",
+      "Meanings": [
+        "فرو نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "quench",
+      "Meanings": [
+        "فرو نشاندن"
+      ]
+    },
+    {
+      "EnglishWord": "quench thirst",
+      "Meanings": [
+        "رفع عطش کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quencher",
+      "Meanings": [
+        "اطفا کننده"
+      ]
+    },
+    {
+      "EnglishWord": "quercitron",
+      "Meanings": [
+        "بلوط سیاه"
+      ]
+    },
+    {
+      "EnglishWord": "quern",
+      "Meanings": [
+        "آسیاب دستی"
+      ]
+    },
+    {
+      "EnglishWord": "querulous",
+      "Meanings": [
+        "شکوه گر",
+        "ستیز جو",
+        "زود رنج",
+        "گله مند"
+      ]
+    },
+    {
+      "EnglishWord": "quest",
+      "Meanings": [
+        "جویش",
+        "طلب"
+      ]
+    },
+    {
+      "EnglishWord": "question",
+      "Meanings": [
+        "پرسش",
+        "سیوال",
+        "مسیله",
+        "سوءوال",
+        "استفهام",
+        "پرسش کردن",
+        "سوال"
+      ]
+    },
+    {
+      "EnglishWord": "question mark",
+      "Meanings": [
+        "علامت سوال",
+        "علامت استفهام",
+        "پرسش نشان"
+      ]
+    },
+    {
+      "EnglishWord": "questioner",
+      "Meanings": [
+        "پرسنده",
+        "سوال کننده",
+        "پرسشگر"
+      ]
+    },
+    {
+      "EnglishWord": "questionnaire",
+      "Meanings": [
+        "پرسشنامه"
+      ]
+    },
+    {
+      "EnglishWord": "questions",
+      "Meanings": [
+        "مطالب"
+      ]
+    },
+    {
+      "EnglishWord": "quetta",
+      "Meanings": [
+        "کویته"
+      ]
+    },
+    {
+      "EnglishWord": "queue",
+      "Meanings": [
+        "صف بستن"
+      ]
+    },
+    {
+      "EnglishWord": "quibble",
+      "Meanings": [
+        "نیش کلام"
+      ]
+    },
+    {
+      "EnglishWord": "quick",
+      "Meanings": [
+        "فرز",
+        "معجل",
+        "رکاب کش",
+        "سریع",
+        "سریعالعمل",
+        "تند",
+        "برو",
+        "چابک",
+        "چاوش",
+        "چالاک",
+        "چست",
+        "جلد"
+      ]
+    },
+    {
+      "EnglishWord": "quick assets",
+      "Meanings": [
+        "موجودی نقدشو"
+      ]
+    },
+    {
+      "EnglishWord": "quick lime",
+      "Meanings": [
+        "آهک آب ندیده"
+      ]
+    },
+    {
+      "EnglishWord": "quick to answer",
+      "Meanings": [
+        "حاضر جواب"
+      ]
+    },
+    {
+      "EnglishWord": "quick understanding",
+      "Meanings": [
+        "زودفهمی"
+      ]
+    },
+    {
+      "EnglishWord": "quick-tempered",
+      "Meanings": [
+        "زودغضب"
+      ]
+    },
+    {
+      "EnglishWord": "quick-witted",
+      "Meanings": [
+        "حاضر الذهن",
+        "تیز فهم",
+        "زودفهم"
+      ]
+    },
+    {
+      "EnglishWord": "quicken",
+      "Meanings": [
+        "زنده کردن",
+        "زنده شدن",
+        "دور گرفتن",
+        "تند کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quicklime",
+      "Meanings": [
+        "آهک زنده",
+        "آهک خام"
+      ]
+    },
+    {
+      "EnglishWord": "quickly",
+      "Meanings": [
+        "بفوریت",
+        "به سرعت",
+        "جرنگی",
+        "برق آسا",
+        "تند",
+        "بتندی",
+        "معجلا",
+        "بسرعت",
+        "سریعا",
+        "باتندی"
+      ]
+    },
+    {
+      "EnglishWord": "quickness",
+      "Meanings": [
+        "فرزی",
+        "چابکی",
+        "تندی",
+        "چاوشی",
+        "چستی"
+      ]
+    },
+    {
+      "EnglishWord": "quicksand",
+      "Meanings": [
+        "ماسه متحرک",
+        "دردریگ",
+        "ریگ روان"
+      ]
+    },
+    {
+      "EnglishWord": "quicksetting",
+      "Meanings": [
+        "زودبند"
+      ]
+    },
+    {
+      "EnglishWord": "quickstep",
+      "Meanings": [
+        "گامسریع"
+      ]
+    },
+    {
+      "EnglishWord": "quid",
+      "Meanings": [
+        "یک لیره"
+      ]
+    },
+    {
+      "EnglishWord": "quiet",
+      "Meanings": [
+        "خامش",
+        "ساکت",
+        "بی سر و صدا",
+        "آسوده کردن",
+        "خاموش",
+        "آرام"
+      ]
+    },
+    {
+      "EnglishWord": "quietist",
+      "Meanings": [
+        "اهل سکوت"
+      ]
+    },
+    {
+      "EnglishWord": "quil",
+      "Meanings": [
+        "شاهپر"
+      ]
+    },
+    {
+      "EnglishWord": "quilt",
+      "Meanings": [
+        "دواج"
+      ]
+    },
+    {
+      "EnglishWord": "quilted",
+      "Meanings": [
+        "آجیده"
+      ]
+    },
+    {
+      "EnglishWord": "quilter",
+      "Meanings": [
+        "لحاف دوز"
+      ]
+    },
+    {
+      "EnglishWord": "quince seed",
+      "Meanings": [
+        "بهدانه"
+      ]
+    },
+    {
+      "EnglishWord": "quincy",
+      "Meanings": [
+        "زهرباد"
+      ]
+    },
+    {
+      "EnglishWord": "quinine",
+      "Meanings": [
+        "گنه گنه"
+      ]
+    },
+    {
+      "EnglishWord": "quinquennial",
+      "Meanings": [
+        "پنج ساله"
+      ]
+    },
+    {
+      "EnglishWord": "quinquevalent",
+      "Meanings": [
+        "پنج بنیانی",
+        "پنج ارزشی"
+      ]
+    },
+    {
+      "EnglishWord": "quintain",
+      "Meanings": [
+        "هدف حمله"
+      ]
+    },
+    {
+      "EnglishWord": "quintal",
+      "Meanings": [
+        "کنتال"
+      ]
+    },
+    {
+      "EnglishWord": "quintessence",
+      "Meanings": [
+        "جوهر"
+      ]
+    },
+    {
+      "EnglishWord": "quintessencial",
+      "Meanings": [
+        "جوهری"
+      ]
+    },
+    {
+      "EnglishWord": "quintet",
+      "Meanings": [
+        "پنج تایی",
+        "پنج نفری"
+      ]
+    },
+    {
+      "EnglishWord": "quintic",
+      "Meanings": [
+        "خمسه"
+      ]
+    },
+    {
+      "EnglishWord": "quintuplicate",
+      "Meanings": [
+        "پنج قلو"
+      ]
+    },
+    {
+      "EnglishWord": "quip",
+      "Meanings": [
+        "مزه ریختن"
+      ]
+    },
+    {
+      "EnglishWord": "quisling",
+      "Meanings": [
+        "دست نشانده"
+      ]
+    },
+    {
+      "EnglishWord": "quit",
+      "Meanings": [
+        "ول کردن",
+        "ترک دادن",
+        "متارکه",
+        "رها سازی",
+        "کناره گیری کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quit maker",
+      "Meanings": [
+        "لحاف دوز"
+      ]
+    },
+    {
+      "EnglishWord": "quite",
+      "Meanings": [
+        "تماما"
+      ]
+    },
+    {
+      "EnglishWord": "quits",
+      "Meanings": [
+        "واریز شده"
+      ]
+    },
+    {
+      "EnglishWord": "quitter",
+      "Meanings": [
+        "واگذارنده"
+      ]
+    },
+    {
+      "EnglishWord": "quiver",
+      "Meanings": [
+        "تیر دان",
+        "تیردان",
+        "ترکش",
+        "ارتعاش داشتن"
+      ]
+    },
+    {
+      "EnglishWord": "quixotic",
+      "Meanings": [
+        "خیالپرست"
+      ]
+    },
+    {
+      "EnglishWord": "quixotism",
+      "Meanings": [
+        "خیالپرستی"
+      ]
+    },
+    {
+      "EnglishWord": "quodlibet",
+      "Meanings": [
+        "نکته عالی",
+        "نکته قابل"
+      ]
+    },
+    {
+      "EnglishWord": "quoin",
+      "Meanings": [
+        "سنگ نبش",
+        "سنگ زاویه"
+      ]
+    },
+    {
+      "EnglishWord": "quota",
+      "Meanings": [
+        "بنیچه",
+        "سهمیه"
+      ]
+    },
+    {
+      "EnglishWord": "quotable",
+      "Meanings": [
+        "نقل کردنی"
+      ]
+    },
+    {
+      "EnglishWord": "quotation",
+      "Meanings": [
+        "نقل قول",
+        "مظنه",
+        "نص",
+        "نقل"
+      ]
+    },
+    {
+      "EnglishWord": "quote",
+      "Meanings": [
+        "نقل کردن"
+      ]
+    },
+    {
+      "EnglishWord": "quote prices",
+      "Meanings": [
+        "مظنه دادن"
+      ]
+    },
+    {
+      "EnglishWord": "quoting",
+      "Meanings": [
+        "از قول"
+      ]
+    }
+  ]
+}
